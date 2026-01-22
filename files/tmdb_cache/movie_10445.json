@@ -1,0 +1,305 @@
+{
+  "overview": "C.S. Lewis, a world-renowned writer and professor, leads a passionless life until he meets spirited poet Joy Gresham.",
+  "release_date": "1993-12-25",
+  "runtime": 131,
+  "budget": 22000000,
+  "revenue": 25842000,
+  "tmdb_vote_average": 6.891,
+  "tmdb_vote_count": 298,
+  "tmdb_popularity": 3.4846,
+  "original_language": "en",
+  "poster_path": "/5jTWY1M2O4Zhid4rLOpftzazRGn.jpg",
+  "backdrop_path": "/nna1FWMle9WUd0lg3qJWog1NBbe.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 11308,
+      "name": "Savoy Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 5553,
+      "name": "Shadowlands Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 23808,
+      "name": "Price Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 18189,
+      "name": "Spelling Films International",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4173,
+      "name": "Anthony Hopkins",
+      "character": "C. S. 'Jack' Lewis",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 6.8156,
+      "profile_path": "/cbFWUHhk6pZKTEm48OKVM5awNNn.jpg"
+    },
+    {
+      "personId": 26513,
+      "name": "Debra Winger",
+      "character": "Joy Gresham",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 3.1067,
+      "profile_path": "/iHZ2mZHEaNYFhEpnSguk043SKVE.jpg"
+    },
+    {
+      "personId": 3545,
+      "name": "Edward Hardwicke",
+      "character": "Warnie Lewis",
+      "order": 2,
+      "cast_id": 18,
+      "popularity": 0.9149,
+      "profile_path": "/gFWwj89HLAIehkWvNXw52m11FdS.jpg"
+    },
+    {
+      "personId": 8937,
+      "name": "John Wood",
+      "character": "Christopher Riley",
+      "order": 3,
+      "cast_id": 14,
+      "popularity": 1.5105,
+      "profile_path": "/6raTQciey2xpcVV5c8HRV4XzFCk.jpg"
+    },
+    {
+      "personId": 85934,
+      "name": "Michael Denison",
+      "character": "Harry Harrington",
+      "order": 4,
+      "cast_id": 16,
+      "popularity": 0.5576,
+      "profile_path": "/3y6SMxagXmoTKs03E2FVrSOq6uw.jpg"
+    },
+    {
+      "personId": 22109,
+      "name": "Peter Firth",
+      "character": "Dr Craig",
+      "order": 5,
+      "cast_id": 23,
+      "popularity": 1.4777,
+      "profile_path": "/o7zbRKlhY8v9mhxyBvAwou7l200.jpg"
+    },
+    {
+      "personId": 69032,
+      "name": "Matthew Delamere",
+      "character": "Simon Chadwick",
+      "order": 6,
+      "cast_id": 56,
+      "popularity": 0.4481,
+      "profile_path": "/2ViLzTLOy5lP6mHe5ZJpvJe7wn.jpg"
+    },
+    {
+      "personId": 10747,
+      "name": "Julian Fellowes",
+      "character": "Desmond Arding",
+      "order": 7,
+      "cast_id": 4,
+      "popularity": 1.7321,
+      "profile_path": "/hRWGCVNRkeu61lh3NRmfRym9yOp.jpg"
+    },
+    {
+      "personId": 93848,
+      "name": "Julian Firth",
+      "character": "Father John Fisher",
+      "order": 8,
+      "cast_id": 57,
+      "popularity": 3.1983,
+      "profile_path": "/3PrG3eOAXFRvzZm5jLHwYwCs8RT.jpg"
+    },
+    {
+      "personId": 41958,
+      "name": "Robert Flemyng",
+      "character": "Claude Bird",
+      "order": 9,
+      "cast_id": 20,
+      "popularity": 0.5009,
+      "profile_path": "/iD3fCCy38wgxpUlNwMR25L30h3l.jpg"
+    },
+    {
+      "personId": 1423898,
+      "name": "Andrew Hawkins",
+      "character": "Rupert Parrish",
+      "order": 10,
+      "cast_id": 52,
+      "popularity": 0.2993,
+      "profile_path": null
+    },
+    {
+      "personId": 222496,
+      "name": "Peter Howell",
+      "character": "College President",
+      "order": 11,
+      "cast_id": 53,
+      "popularity": 0.6512,
+      "profile_path": "/lDIuGC2AOsVCmpMIzzd1bLFqNB8.jpg"
+    },
+    {
+      "personId": 111327,
+      "name": "Pat Keen",
+      "character": "Mrs Young",
+      "order": 12,
+      "cast_id": 58,
+      "popularity": 0.5933,
+      "profile_path": "/XVPOKcPVs78Qe0UgRuMQdb1xG7.jpg"
+    },
+    {
+      "personId": 1229323,
+      "name": "Karen Lewis",
+      "character": "Hotel Receptionist",
+      "order": 13,
+      "cast_id": 59,
+      "popularity": 0.6428,
+      "profile_path": "/pS7NikKWKW6toaw2SBSj4nomd1I.jpg"
+    },
+    {
+      "personId": 127264,
+      "name": "Roddy Maude-Roxby",
+      "character": "Arnold Dopliss",
+      "order": 14,
+      "cast_id": 15,
+      "popularity": 1.2527,
+      "profile_path": "/h7Htic9qJiqDMoABvqQYmJYEX6N.jpg"
+    },
+    {
+      "personId": 91663,
+      "name": "Gerald Sim",
+      "character": "Superintendent Registrar",
+      "order": 15,
+      "cast_id": 60,
+      "popularity": 1.5172,
+      "profile_path": "/2OMGg61nszlGw3ZCNJAQnTcWlSW.jpg"
+    },
+    {
+      "personId": 22063,
+      "name": "James Frain",
+      "character": "Peter Whistler",
+      "order": 16,
+      "cast_id": 19,
+      "popularity": 2.4326,
+      "profile_path": "/1KnxsxRbVZkh5bdY3gA8v4YKhKR.jpg"
+    },
+    {
+      "personId": 4787,
+      "name": "Joseph Mazzello",
+      "character": "Douglas Gresham",
+      "order": 17,
+      "cast_id": 22,
+      "popularity": 1.9612,
+      "profile_path": "/44gsv7TlXOOKDGg5aRtqxZjM9ae.jpg"
+    },
+    {
+      "personId": 1652955,
+      "name": "Andrew Seear",
+      "character": "Bob Chafer",
+      "order": 18,
+      "cast_id": 51,
+      "popularity": 0.3777,
+      "profile_path": null
+    },
+    {
+      "personId": 15740,
+      "name": "Tim McMullan",
+      "character": "Nick Farrell",
+      "order": 19,
+      "cast_id": 17,
+      "popularity": 1.3686,
+      "profile_path": "/7RaL5N5riQlgdjEvgK4hWJie4mc.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 4786,
+      "name": "Richard Attenborough",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.1016,
+      "profile_path": "/sWO9wnFdpX3gbJFj6lIM0d4mwTl.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 4327,
+      "name": "stroke of fate"
+    },
+    {
+      "id": 392,
+      "name": "england"
+    },
+    {
+      "id": 5301,
+      "name": "brother"
+    },
+    {
+      "id": 186,
+      "name": "christianity"
+    },
+    {
+      "id": 2132,
+      "name": "literature"
+    },
+    {
+      "id": 1338,
+      "name": "bachelor"
+    },
+    {
+      "id": 6038,
+      "name": "marriage"
+    },
+    {
+      "id": 10181,
+      "name": "based on play or musical"
+    },
+    {
+      "id": 8095,
+      "name": "oxford"
+    },
+    {
+      "id": 10818,
+      "name": "author"
+    },
+    {
+      "id": 13028,
+      "name": "writer"
+    },
+    {
+      "id": 13072,
+      "name": "falling in love"
+    },
+    {
+      "id": 208611,
+      "name": "1950s"
+    },
+    {
+      "id": 281386,
+      "name": "children's author"
+    }
+  ]
+}

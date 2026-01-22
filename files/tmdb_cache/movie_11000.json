@@ -1,0 +1,297 @@
+{
+  "overview": "A gay cabaret owner and his drag queen partner agree to put up a false heterosexual front so that their son can introduce them to his fiancée's conservative parents.",
+  "release_date": "1996-03-08",
+  "runtime": 119,
+  "budget": 31000000,
+  "revenue": 185300000,
+  "tmdb_vote_average": 7.0,
+  "tmdb_vote_count": 1283,
+  "tmdb_popularity": 4.0974,
+  "original_language": "en",
+  "poster_path": "/hU2XeckncHS61TWZKDtw1BrKmOO.jpg",
+  "backdrop_path": "/40UqrWf4ncxWN71r2otCq9RxvSZ.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 60,
+      "name": "United Artists",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2157,
+      "name": "Robin Williams",
+      "character": "Armand Goldman",
+      "order": 0,
+      "cast_id": 6,
+      "popularity": 5.4707,
+      "profile_path": "/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg"
+    },
+    {
+      "personId": 193,
+      "name": "Gene Hackman",
+      "character": "Senator Kevin Keeley",
+      "order": 1,
+      "cast_id": 7,
+      "popularity": 3.843,
+      "profile_path": "/wN8brfOI8AjngGchkQtFqfEPam5.jpg"
+    },
+    {
+      "personId": 78729,
+      "name": "Nathan Lane",
+      "character": "Albert",
+      "order": 2,
+      "cast_id": 8,
+      "popularity": 2.7287,
+      "profile_path": "/nEYS0KO1qVO3y0RAt8V8pFxnPb7.jpg"
+    },
+    {
+      "personId": 1902,
+      "name": "Dianne Wiest",
+      "character": "Louise Keeley",
+      "order": 3,
+      "cast_id": 9,
+      "popularity": 3.4685,
+      "profile_path": "/axqtFLgJNNz0N9i443USHCOvrmY.jpg"
+    },
+    {
+      "personId": 5346,
+      "name": "Dan Futterman",
+      "character": "Val Goldman",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 2.3917,
+      "profile_path": "/dgmPcQe3tf616zB5hDpDStFunxO.jpg"
+    },
+    {
+      "personId": 49148,
+      "name": "Calista Flockhart",
+      "character": "Barbara Keeley",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 2.0138,
+      "profile_path": "/s0YPPAaIO5fnWI9baxp4TIkUXmn.jpg"
+    },
+    {
+      "personId": 5587,
+      "name": "Hank Azaria",
+      "character": "Agador",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 3.8011,
+      "profile_path": "/yFDw4b0jucuFWNnGcBPfpYUtn16.jpg"
+    },
+    {
+      "personId": 11870,
+      "name": "Christine Baranski",
+      "character": "Katharine Archer",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 3.5073,
+      "profile_path": "/q6Zi3BYlmoim1JXXMGgRVS5C87x.jpg"
+    },
+    {
+      "personId": 77338,
+      "name": "Tom McGowan",
+      "character": "Harry Radman",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 1.2006,
+      "profile_path": "/yXeRcq0Lgz8RofCcmg72ai97AFE.jpg"
+    },
+    {
+      "personId": 31511,
+      "name": "Grant Heslov",
+      "character": "Photographer - National Enquirer",
+      "order": 9,
+      "cast_id": 10,
+      "popularity": 1.2415,
+      "profile_path": "/xNkGkkRN2I2Ly57PqDNk9QgAPJs.jpg"
+    },
+    {
+      "personId": 734028,
+      "name": "Kirby Mitchell",
+      "character": "Chauffeur",
+      "order": 10,
+      "cast_id": 26,
+      "popularity": 1.6371,
+      "profile_path": "/4qUZtyWVPI4T2n5eALXBWdHKb3T.jpg"
+    },
+    {
+      "personId": 32493,
+      "name": "James Lally",
+      "character": "Stage Manager",
+      "order": 11,
+      "cast_id": 27,
+      "popularity": 0.411,
+      "profile_path": null
+    },
+    {
+      "personId": 193457,
+      "name": "Luca Tommassini",
+      "character": "Celsius",
+      "order": 12,
+      "cast_id": 28,
+      "popularity": 0.3903,
+      "profile_path": "/pf3ce7n1JSId4S7kzFKE6UBAsFj.jpg"
+    },
+    {
+      "personId": 116154,
+      "name": "Luis Camacho",
+      "character": "Goldman Girl",
+      "order": 13,
+      "cast_id": 29,
+      "popularity": 0.3812,
+      "profile_path": null
+    },
+    {
+      "personId": 2008753,
+      "name": "Andre Fuentes",
+      "character": "Goldman Girl",
+      "order": 14,
+      "cast_id": 30,
+      "popularity": 0.5502,
+      "profile_path": null
+    },
+    {
+      "personId": 1537855,
+      "name": "Tony Gonzalez",
+      "character": "Goldman Girl",
+      "order": 15,
+      "cast_id": 31,
+      "popularity": 1.1089,
+      "profile_path": "/xQBLC1t1Eddllxa1rQhlcIRMRo9.jpg"
+    },
+    {
+      "personId": 1302501,
+      "name": "Dante Henderson",
+      "character": "Goldman Girl",
+      "order": 16,
+      "cast_id": 32,
+      "popularity": 0.5926,
+      "profile_path": null
+    },
+    {
+      "personId": 1683077,
+      "name": "Scott Kaske",
+      "character": "Goldman Girl",
+      "order": 17,
+      "cast_id": 33,
+      "popularity": 0.264,
+      "profile_path": null
+    },
+    {
+      "personId": 88339,
+      "name": "Kevin Alexander Stea",
+      "character": "Goldman Girl",
+      "order": 18,
+      "cast_id": 16,
+      "popularity": 0.4572,
+      "profile_path": "/kZ9uf0nkaYdRfrhAehxFslZl2Gu.jpg"
+    },
+    {
+      "personId": 72864,
+      "name": "Tim Kelleher",
+      "character": "Waiter in Club",
+      "order": 19,
+      "cast_id": 34,
+      "popularity": 1.4878,
+      "profile_path": "/8W3KgoIPUMNjqb3CxC9B8QjBsjM.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 5342,
+      "name": "Mike Nichols",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.4743,
+      "profile_path": "/eJgJEVil7iOJ9sTAXLCVRKfeKKM.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1862,
+      "name": "coming out"
+    },
+    {
+      "id": 1196,
+      "name": "florida"
+    },
+    {
+      "id": 1013,
+      "name": "homophobia"
+    },
+    {
+      "id": 824,
+      "name": "drag queen"
+    },
+    {
+      "id": 2334,
+      "name": "nightclub"
+    },
+    {
+      "id": 2944,
+      "name": "senator"
+    },
+    {
+      "id": 6083,
+      "name": "politician"
+    },
+    {
+      "id": 10181,
+      "name": "based on play or musical"
+    },
+    {
+      "id": 9714,
+      "name": "remake"
+    },
+    {
+      "id": 11937,
+      "name": "conservative"
+    },
+    {
+      "id": 12090,
+      "name": "cross dressing"
+    },
+    {
+      "id": 41515,
+      "name": "gay parent"
+    },
+    {
+      "id": 158718,
+      "name": "lgbt"
+    },
+    {
+      "id": 246533,
+      "name": "political conflict"
+    },
+    {
+      "id": 254361,
+      "name": "south beach"
+    },
+    {
+      "id": 306246,
+      "name": "playing straight"
+    },
+    {
+      "id": 306248,
+      "name": "drag club"
+    }
+  ]
+}

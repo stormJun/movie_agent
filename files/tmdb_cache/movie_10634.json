@@ -1,0 +1,288 @@
+{
+  "overview": "Craig and Smokey are two guys in Los Angeles hanging out on their porch on a Friday afternoon, smoking and drinking, looking for something to do.",
+  "release_date": "1995-04-26",
+  "runtime": 91,
+  "budget": 3500000,
+  "revenue": 28215918,
+  "tmdb_vote_average": 7.134,
+  "tmdb_vote_count": 1945,
+  "tmdb_popularity": 6.3677,
+  "original_language": "en",
+  "poster_path": "/2lReF53F8trkC68piGSfk0JVwWU.jpg",
+  "backdrop_path": "/eDY7eBe5EE2djDGwdTPhfH9ZcdG.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 211826,
+      "name": "Ice Cube/Pat Charbonnet Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 276613,
+      "name": "Priority Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 9778,
+      "name": "Ice Cube",
+      "character": "Craig",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.8421,
+      "profile_path": "/2w7Pekf8QJ0WVN76cmhcEfTuEDc.jpg"
+    },
+    {
+      "personId": 66,
+      "name": "Chris Tucker",
+      "character": "Smokey",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 5.9039,
+      "profile_path": "/k0oLIL0xTgDR6Qn3yCsNuLCJhFT.jpg"
+    },
+    {
+      "personId": 9781,
+      "name": "Nia Long",
+      "character": "Debbie",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.7902,
+      "profile_path": "/yPLmhF9kKbCtsDhUnaV6g2GHWIc.jpg"
+    },
+    {
+      "personId": 8396,
+      "name": "Tommy Lister Jr.",
+      "character": "Deebo",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.4064,
+      "profile_path": "/i1seZDiLC3AKrAYqfFSln6ZGNmF.jpg"
+    },
+    {
+      "personId": 56902,
+      "name": "John Witherspoon",
+      "character": "Mr. Jones",
+      "order": 4,
+      "cast_id": 10,
+      "popularity": 2.2155,
+      "profile_path": "/5clP720NIBWMKT0pwVCzIPjVkxG.jpg"
+    },
+    {
+      "personId": 54800,
+      "name": "Anna Maria Horsford",
+      "character": "Mrs. Jones",
+      "order": 5,
+      "cast_id": 11,
+      "popularity": 1.5862,
+      "profile_path": "/fVA25hLtwmrVsIVrcWOojaPoYEq.jpg"
+    },
+    {
+      "personId": 9788,
+      "name": "Regina King",
+      "character": "Dana",
+      "order": 6,
+      "cast_id": 12,
+      "popularity": 3.5789,
+      "profile_path": "/fEIz0ljk9CBrp3AitM5nwjfoGVu.jpg"
+    },
+    {
+      "personId": 45245,
+      "name": "Paula Jai Parker",
+      "character": "Joi",
+      "order": 7,
+      "cast_id": 13,
+      "popularity": 1.1386,
+      "profile_path": "/rhVirscmHtZvI3v7ZMD1TdJfDcE.jpg"
+    },
+    {
+      "personId": 62066,
+      "name": "Faizon Love",
+      "character": "Big Worm",
+      "order": 8,
+      "cast_id": 14,
+      "popularity": 2.3179,
+      "profile_path": "/dK3hUGpG3SzmqTCy6rQzyK6YaCy.jpg"
+    },
+    {
+      "personId": 65134,
+      "name": "DJ Pooh",
+      "character": "Red",
+      "order": 9,
+      "cast_id": 15,
+      "popularity": 1.6026,
+      "profile_path": "/hSE9l2mVy6V6bN6QnzTBoduvLt6.jpg"
+    },
+    {
+      "personId": 141827,
+      "name": "Angela Means",
+      "character": "Felisha",
+      "order": 10,
+      "cast_id": 33,
+      "popularity": 2.0641,
+      "profile_path": "/r8G8r2Wh21aqaKIof6mmYZukluF.jpg"
+    },
+    {
+      "personId": 1218331,
+      "name": "Vickilyn Reynolds",
+      "character": "Joann",
+      "order": 11,
+      "cast_id": 31,
+      "popularity": 0.6256,
+      "profile_path": "/k0Ep93kRod13ExtSMYY1QADBY96.jpg"
+    },
+    {
+      "personId": 2991967,
+      "name": "Ronn Riser",
+      "character": "Stanley",
+      "order": 12,
+      "cast_id": 39,
+      "popularity": 0.5283,
+      "profile_path": null
+    },
+    {
+      "personId": 1213883,
+      "name": "Kathleen Bradley",
+      "character": "Mrs. Parker",
+      "order": 13,
+      "cast_id": 30,
+      "popularity": 0.522,
+      "profile_path": "/1TQM1PNeUJzvCerKmx4BWtODByq.jpg"
+    },
+    {
+      "personId": 19754,
+      "name": "Tony Cox",
+      "character": "Mr. Parker",
+      "order": 14,
+      "cast_id": 16,
+      "popularity": 1.8297,
+      "profile_path": "/sbZS0gxvRsAIgHxIEL8STINpn7u.jpg"
+    },
+    {
+      "personId": 83101,
+      "name": "Anthony Johnson",
+      "character": "Ezal",
+      "order": 15,
+      "cast_id": 17,
+      "popularity": 0.5806,
+      "profile_path": "/j2GJiF5TjmPsJNax3o0vvbYvDPd.jpg"
+    },
+    {
+      "personId": 86988,
+      "name": "Demetrius Navarro",
+      "character": "Hector",
+      "order": 16,
+      "cast_id": 40,
+      "popularity": 0.7903,
+      "profile_path": "/vkUrp4rElvknoL4N2Xq397YbyFQ.jpg"
+    },
+    {
+      "personId": 831,
+      "name": "Jason Bose Smith",
+      "character": "Lil Chris",
+      "order": 17,
+      "cast_id": 41,
+      "popularity": 1.1347,
+      "profile_path": null
+    },
+    {
+      "personId": 1897,
+      "name": "Bernie Mac",
+      "character": "Pastor Clever",
+      "order": 18,
+      "cast_id": 18,
+      "popularity": 3.2873,
+      "profile_path": "/o1LQ83S4ZYvj84HYeWAzEV7Cg95.jpg"
+    },
+    {
+      "personId": 1937543,
+      "name": "Justin Revoner",
+      "character": "Kid #1",
+      "order": 19,
+      "cast_id": 42,
+      "popularity": 0.1948,
+      "profile_path": "/gOZBFXCspmV7i4WiwaAsfLlW4Dn.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 37932,
+      "name": "F. Gary Gray",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1479,
+      "profile_path": "/lVbwLnxtdiQaS8oGWFZMkhATLc5.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2231,
+      "name": "drug dealer"
+    },
+    {
+      "id": 897,
+      "name": "rap music"
+    },
+    {
+      "id": 970,
+      "name": "parent child relationship"
+    },
+    {
+      "id": 4562,
+      "name": "rapper"
+    },
+    {
+      "id": 3230,
+      "name": "male friendship"
+    },
+    {
+      "id": 5768,
+      "name": "urban life"
+    },
+    {
+      "id": 8631,
+      "name": "slacker"
+    },
+    {
+      "id": 11488,
+      "name": "pot smoking"
+    },
+    {
+      "id": 10624,
+      "name": "bully"
+    },
+    {
+      "id": 10776,
+      "name": "marijuana"
+    },
+    {
+      "id": 12670,
+      "name": "los angeles, california"
+    },
+    {
+      "id": 14964,
+      "name": "drugs"
+    }
+  ]
+}

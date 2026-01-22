@@ -1,0 +1,317 @@
+{
+  "overview": "A group of idealistic but frustrated liberals succumb to the temptation of murdering right-wing pundits for their political beliefs.",
+  "release_date": "1995-09-08",
+  "runtime": 92,
+  "budget": 0,
+  "revenue": 442965,
+  "tmdb_vote_average": 6.515,
+  "tmdb_vote_count": 295,
+  "tmdb_popularity": 1.1229,
+  "original_language": "en",
+  "poster_path": "/oIgPiiM0qD1mCo1SYG3Sd0vmKTa.jpg",
+  "backdrop_path": "/3yLMuH0Xp5gp7Wls3LfcVn6lVU9.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Thriller",
+    "Crime",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 38091,
+      "name": "WF/X",
+      "origin_country": ""
+    },
+    {
+      "id": 6032,
+      "name": "The Vault",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6941,
+      "name": "Cameron Diaz",
+      "character": "Jude",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 7.2,
+      "profile_path": "/d4f4cQ9EiYuvNMjT1IB2h06KoRx.jpg"
+    },
+    {
+      "personId": 12260,
+      "name": "Ron Eldard",
+      "character": "Pete",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.2247,
+      "profile_path": "/5Ww9aaJZjg1N2S6zpJkrZmQVMEI.jpg"
+    },
+    {
+      "personId": 49425,
+      "name": "Annabeth Gish",
+      "character": "Paulie",
+      "order": 2,
+      "cast_id": 16,
+      "popularity": 3.0018,
+      "profile_path": "/wDOs2HDYdaK0ZlB78H52ym3iEBX.jpg"
+    },
+    {
+      "personId": 226651,
+      "name": "Jonathan Penner",
+      "character": "Marc",
+      "order": 3,
+      "cast_id": 17,
+      "popularity": 0.8975,
+      "profile_path": "/43roOvTBh0fAiw5EsMxpZJoBcbn.jpg"
+    },
+    {
+      "personId": 24047,
+      "name": "Courtney B. Vance",
+      "character": "Luke",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.8285,
+      "profile_path": "/6ci3wf6oecjz875QRwryOsapW0Y.jpg"
+    },
+    {
+      "personId": 1206,
+      "name": "Jason Alexander",
+      "character": "Anti-Enviroment",
+      "order": 5,
+      "cast_id": 38,
+      "popularity": 4.5774,
+      "profile_path": "/qRezZ2yhM2bmBERt7jVcxo8RVSA.jpg"
+    },
+    {
+      "personId": 4496,
+      "name": "Nora Dunn",
+      "character": "Sheriff Alice Stanley",
+      "order": 6,
+      "cast_id": 18,
+      "popularity": 1.7265,
+      "profile_path": "/x9NAUBciKKxDaYRcntc4vKjqilG.jpg"
+    },
+    {
+      "personId": 1466,
+      "name": "Charles Durning",
+      "character": "Reverend Gerald Hutchens",
+      "order": 7,
+      "cast_id": 22,
+      "popularity": 1.7981,
+      "profile_path": "/bozKytaYVKoIbptxkMFWepK09U5.jpg"
+    },
+    {
+      "personId": 1795050,
+      "name": "Bryn Erin",
+      "character": "Heather",
+      "order": 8,
+      "cast_id": 36,
+      "popularity": 1.8611,
+      "profile_path": "/em6kUYKRVgcAOweGGr0VOXf3WKg.jpg"
+    },
+    {
+      "personId": 19728,
+      "name": "Mark Harmon",
+      "character": "Dominant Male",
+      "order": 9,
+      "cast_id": 23,
+      "popularity": 5.3271,
+      "profile_path": "/jDRXlmBItH9IyXk9UhafpOSBIq7.jpg"
+    },
+    {
+      "personId": 2053,
+      "name": "Bill Paxton",
+      "character": "Zachary Cody",
+      "order": 10,
+      "cast_id": 6,
+      "popularity": 3.6042,
+      "profile_path": "/aLdNe6mt1cSi2zWlUYRregzfis5.jpg"
+    },
+    {
+      "personId": 2372,
+      "name": "Ron Perlman",
+      "character": "Norman Arbuthnot",
+      "order": 11,
+      "cast_id": 7,
+      "popularity": 6.2703,
+      "profile_path": "/pOgMRdJhbBsvwGLRFXPRASTfcay.jpg"
+    },
+    {
+      "personId": 72620,
+      "name": "Dan Rosen",
+      "character": "Deputy Hartford",
+      "order": 12,
+      "cast_id": 19,
+      "popularity": 1.4499,
+      "profile_path": null
+    },
+    {
+      "personId": 1199996,
+      "name": "Amber Taylor",
+      "character": "Girl in Coffee Shop",
+      "order": 13,
+      "cast_id": 20,
+      "popularity": 0.4673,
+      "profile_path": null
+    },
+    {
+      "personId": 72622,
+      "name": "Matt Cooper",
+      "character": "Jerk in Coffee Shop",
+      "order": 14,
+      "cast_id": 21,
+      "popularity": 0.2401,
+      "profile_path": null
+    },
+    {
+      "personId": 1001320,
+      "name": "Gil Segel",
+      "character": "Iowa Resident at Door",
+      "order": 15,
+      "cast_id": 24,
+      "popularity": 0.0533,
+      "profile_path": null
+    },
+    {
+      "personId": 186806,
+      "name": "Rachel Chagall",
+      "character": "Abortion Activist",
+      "order": 16,
+      "cast_id": 25,
+      "popularity": 2.1539,
+      "profile_path": "/i85pCmOFCYvS376eshGj0vQAw0z.jpg"
+    },
+    {
+      "personId": 1214875,
+      "name": "Warren Hutcherson",
+      "character": "Nation Man",
+      "order": 17,
+      "cast_id": 44,
+      "popularity": 1.0039,
+      "profile_path": null
+    },
+    {
+      "personId": 50402,
+      "name": "Nicholas Sadler",
+      "character": "Homeless Basher",
+      "order": 18,
+      "cast_id": 45,
+      "popularity": 1.0503,
+      "profile_path": "/mbIXwkcpmv3PBAjTvkCzHRe0hUy.jpg"
+    },
+    {
+      "personId": 1646216,
+      "name": "Stephen Welch",
+      "character": "Tow Truck Guy",
+      "order": 19,
+      "cast_id": 150,
+      "popularity": 0.5633,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 72619,
+      "name": "Stacy Title",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5938,
+      "profile_path": "/1JzCotsdV69GrsVULvaFX4l65x5.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6078,
+      "name": "politics"
+    },
+    {
+      "id": 10123,
+      "name": "dark comedy"
+    },
+    {
+      "id": 4411,
+      "name": "sexism"
+    },
+    {
+      "id": 437,
+      "name": "painter"
+    },
+    {
+      "id": 8201,
+      "name": "satire"
+    },
+    {
+      "id": 3603,
+      "name": "fascist"
+    },
+    {
+      "id": 6563,
+      "name": "wine"
+    },
+    {
+      "id": 7856,
+      "name": "racist"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 10093,
+      "name": "priest"
+    },
+    {
+      "id": 12997,
+      "name": "dinner"
+    },
+    {
+      "id": 14831,
+      "name": "stabbing"
+    },
+    {
+      "id": 34079,
+      "name": "death"
+    },
+    {
+      "id": 156042,
+      "name": "hypocrisy"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    },
+    {
+      "id": 208517,
+      "name": "elitism"
+    },
+    {
+      "id": 208518,
+      "name": "burial"
+    },
+    {
+      "id": 325769,
+      "name": "appreciative"
+    },
+    {
+      "id": 349776,
+      "name": "tomate"
+    },
+    {
+      "id": 357414,
+      "name": "jantar"
+    }
+  ]
+}

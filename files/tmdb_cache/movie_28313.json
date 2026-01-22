@@ -1,0 +1,309 @@
+{
+  "overview": "Khaila Richards, a crack-addicted single mother, accidentally leaves her baby in a dumpster while high and returns the next day in a panic to find he is missing. In reality, the baby has been adopted by a warm-hearted social worker, Margaret Lewin, and her husband, Charles. Years later, Khaila has gone through rehab and holds a steady job. After learning that her child is still alive, she challenges Margaret for the custody.",
+  "release_date": "1995-03-17",
+  "runtime": 106,
+  "budget": 17000000,
+  "revenue": 7603766,
+  "tmdb_vote_average": 6.5,
+  "tmdb_vote_count": 103,
+  "tmdb_popularity": 0.9884,
+  "original_language": "en",
+  "poster_path": "/oHALKuPewtqIn2BcluZsGvcEG1P.jpg",
+  "backdrop_path": "/xt4tkFRKwT1uiOpMpszIqFwOoji.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4431,
+      "name": "Jessica Lange",
+      "character": "Margaret Lewin",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.9007,
+      "profile_path": "/8pJ1eCqVwGJQjt5HYkzR0ZJpxEb.jpg"
+    },
+    {
+      "personId": 4587,
+      "name": "Halle Berry",
+      "character": "Khaila Richards",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 6.9392,
+      "profile_path": "/yfAJMERSlDIZD1iy6Aab8bArcCK.jpg"
+    },
+    {
+      "personId": 11064,
+      "name": "David Strathairn",
+      "character": "Charles Lewin",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.7463,
+      "profile_path": "/6MRnh27jFz0347S6uU11LZG6aaz.jpg"
+    },
+    {
+      "personId": 9777,
+      "name": "Cuba Gooding Jr.",
+      "character": "Eddie Hughes",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 5.1191,
+      "profile_path": "/2JguzbpOXoTGzSmLbWFlulKyyAe.jpg"
+    },
+    {
+      "personId": 204122,
+      "name": "Daisy Eagan",
+      "character": "Hannah Lewin",
+      "order": 4,
+      "cast_id": 14,
+      "popularity": 0.4194,
+      "profile_path": "/qwE76IzjRtCOq24yaoBvJHRBa6E.jpg"
+    },
+    {
+      "personId": 62646,
+      "name": "Marc John Jefferies",
+      "character": "Isaiah",
+      "order": 5,
+      "cast_id": 15,
+      "popularity": 1.0846,
+      "profile_path": "/soo9aqADz4f0HJ3Fo0WofbRtWj.jpg"
+    },
+    {
+      "personId": 2231,
+      "name": "Samuel L. Jackson",
+      "character": "Kadar Lewis",
+      "order": 6,
+      "cast_id": 4,
+      "popularity": 9.0658,
+      "profile_path": "/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+    },
+    {
+      "personId": 13602,
+      "name": "Joie Lee",
+      "character": "Marie",
+      "order": 7,
+      "cast_id": 16,
+      "popularity": 1.1124,
+      "profile_path": "/8rqNbAuW1RPTr6BN0P0v6B5ZSjx.jpg"
+    },
+    {
+      "personId": 21848,
+      "name": "Regina Taylor",
+      "character": "Gussie",
+      "order": 8,
+      "cast_id": 17,
+      "popularity": 0.9278,
+      "profile_path": "/s6a1zzRTFlu5ZQvczKbCqtD9FqM.jpg"
+    },
+    {
+      "personId": 61010,
+      "name": "LaTanya Richardson Jackson",
+      "character": "Caroline Jones",
+      "order": 9,
+      "cast_id": 19,
+      "popularity": 0.9542,
+      "profile_path": "/4PBuz4m2sGTC3j66Cuc13hwVxCt.jpg"
+    },
+    {
+      "personId": 119113,
+      "name": "Jacqueline Brookes",
+      "character": "Judge Silbowitz",
+      "order": 10,
+      "cast_id": 29,
+      "popularity": 0.887,
+      "profile_path": "/hcpeoWNGIomzsQKbZIdwHxhXRAn.jpg"
+    },
+    {
+      "personId": 2554171,
+      "name": "Donovon Ian H. McKnight",
+      "character": "Amir",
+      "order": 11,
+      "cast_id": 30,
+      "popularity": 0.9765,
+      "profile_path": null
+    },
+    {
+      "personId": 3318863,
+      "name": "Rikkia A. Smith",
+      "character": "Josie",
+      "order": 12,
+      "cast_id": 31,
+      "popularity": 0.3378,
+      "profile_path": null
+    },
+    {
+      "personId": 2227925,
+      "name": "Paulette McDaniels",
+      "character": "Ethel",
+      "order": 13,
+      "cast_id": 32,
+      "popularity": 0.1116,
+      "profile_path": null
+    },
+    {
+      "personId": 3318864,
+      "name": "Velma Austin",
+      "character": "Rehab Leader",
+      "order": 14,
+      "cast_id": 33,
+      "popularity": 0.0168,
+      "profile_path": null
+    },
+    {
+      "personId": 3258918,
+      "name": "Glenda Starr Kelly",
+      "character": "Group Leader",
+      "order": 15,
+      "cast_id": 34,
+      "popularity": 0.1481,
+      "profile_path": null
+    },
+    {
+      "personId": 1522072,
+      "name": "Joan Kohn",
+      "character": "Toby Fredericks",
+      "order": 16,
+      "cast_id": 35,
+      "popularity": 0.117,
+      "profile_path": null
+    },
+    {
+      "personId": 1424043,
+      "name": "Patrick Clear",
+      "character": "Bill Fredericks",
+      "order": 17,
+      "cast_id": 36,
+      "popularity": 0.3176,
+      "profile_path": "/5P7Qup6N7HCA9q1faM6j7PfIXuN.jpg"
+    },
+    {
+      "personId": 2128683,
+      "name": "Gaby Santinelli",
+      "character": "Heidi",
+      "order": 18,
+      "cast_id": 37,
+      "popularity": 0.001,
+      "profile_path": "/7DsFyhCSyd6rkw8T3cv1JikrKtw.jpg"
+    },
+    {
+      "personId": 141417,
+      "name": "Mike Bacarella",
+      "character": "Liquor Store Clerk",
+      "order": 19,
+      "cast_id": 38,
+      "popularity": 1.7658,
+      "profile_path": "/iMvu8lPSr5nG2youh11S1RgrvTW.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 15912,
+      "name": "Stephen Gyllenhaal",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.4259,
+      "profile_path": "/7T7Ol9ceJvCW9iCEhp5DxbKpfpg.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2488,
+      "name": "self-abandonment"
+    },
+    {
+      "id": 516,
+      "name": "child abuse"
+    },
+    {
+      "id": 456,
+      "name": "mother"
+    },
+    {
+      "id": 1009,
+      "name": "baby"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 3012,
+      "name": "court case"
+    },
+    {
+      "id": 641,
+      "name": "single parent"
+    },
+    {
+      "id": 2438,
+      "name": "social worker"
+    },
+    {
+      "id": 919,
+      "name": "smoking"
+    },
+    {
+      "id": 1803,
+      "name": "drug addiction"
+    },
+    {
+      "id": 2393,
+      "name": "adoption"
+    },
+    {
+      "id": 1751,
+      "name": "social work"
+    },
+    {
+      "id": 5153,
+      "name": "son"
+    },
+    {
+      "id": 2434,
+      "name": "liberation"
+    },
+    {
+      "id": 4056,
+      "name": "custody battle"
+    },
+    {
+      "id": 6230,
+      "name": "looking for  birth parents"
+    },
+    {
+      "id": 7856,
+      "name": "racist"
+    },
+    {
+      "id": 7638,
+      "name": "surrogate mother"
+    },
+    {
+      "id": 10131,
+      "name": "interracial relationship"
+    },
+    {
+      "id": 34094,
+      "name": "extramarital affair"
+    }
+  ]
+}

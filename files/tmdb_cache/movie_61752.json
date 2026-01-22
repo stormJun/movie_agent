@@ -1,0 +1,255 @@
+{
+  "overview": "A struggling actress in New York City takes a job as a phone sex operator.",
+  "release_date": "1996-03-22",
+  "runtime": 108,
+  "budget": 12000000,
+  "revenue": 4939939,
+  "tmdb_vote_average": 4.979,
+  "tmdb_vote_count": 119,
+  "tmdb_popularity": 3.0095,
+  "original_language": "en",
+  "poster_path": "/1SSYCOTrHucd9aBCyTfbLWcJ2zD.jpg",
+  "backdrop_path": "/wZIFAgcy7Hihvo8d0svFKCDlBQR.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 43,
+      "name": "Fox Searchlight Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 4319,
+      "name": "40 Acres and a Mule Filmworks",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4604,
+      "name": "Theresa Randle",
+      "character": "Girl 6",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 1.0921,
+      "profile_path": "/myBU9qG6wXHJfYF9cl07rvQmhUB.jpg"
+    },
+    {
+      "personId": 21353,
+      "name": "Isaiah Washington",
+      "character": "Shoplifter",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 1.5137,
+      "profile_path": "/3yY5h1t7AKZpf4lfdSMwDQvCroQ.jpg"
+    },
+    {
+      "personId": 5281,
+      "name": "Spike Lee",
+      "character": "Jimmy",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 2.4307,
+      "profile_path": "/2KOHXgk2uoRXl6u7V9xpAIo3uay.jpg"
+    },
+    {
+      "personId": 15899,
+      "name": "Jenifer Lewis",
+      "character": "Boss #1 - Lil",
+      "order": 3,
+      "cast_id": 25,
+      "popularity": 2.9148,
+      "profile_path": "/bdeUHXY4cXvhOW2nCblNachBYsM.jpg"
+    },
+    {
+      "personId": 5578,
+      "name": "Debi Mazar",
+      "character": "Girl #39",
+      "order": 4,
+      "cast_id": 26,
+      "popularity": 5.8577,
+      "profile_path": "/cU3LhqOjXzOqpGCSDFj5otlZreu.jpg"
+    },
+    {
+      "personId": 36602,
+      "name": "Peter Berg",
+      "character": "Caller #1 - Bob",
+      "order": 5,
+      "cast_id": 27,
+      "popularity": 2.2093,
+      "profile_path": "/1pR16H0zqRG49ns8cYykYpodgGF.jpg"
+    },
+    {
+      "personId": 11486,
+      "name": "Michael Imperioli",
+      "character": "Scary Caller #30",
+      "order": 6,
+      "cast_id": 28,
+      "popularity": 3.0135,
+      "profile_path": "/jfoEHR6BRMg8emtujXdM3G4JHIm.jpg"
+    },
+    {
+      "personId": 2107237,
+      "name": "Dina Pearlman",
+      "character": "Girl #19",
+      "order": 7,
+      "cast_id": 29,
+      "popularity": 0.5502,
+      "profile_path": "/rlgNijnuZf2P2vywb2eOVUugT5K.jpg"
+    },
+    {
+      "personId": 1533848,
+      "name": "Maggie Rush",
+      "character": "Girl #42",
+      "order": 8,
+      "cast_id": 30,
+      "popularity": 0.8264,
+      "profile_path": "/dNpZZaw5GeA2EX1PpyER9LUlwlI.jpg"
+    },
+    {
+      "personId": 2107241,
+      "name": "Desi Moreno",
+      "character": "Girl #4",
+      "order": 9,
+      "cast_id": 31,
+      "popularity": 0.0933,
+      "profile_path": "/yC9pPRw4zgUQlT3tCWZwB6Y8JFv.jpg"
+    },
+    {
+      "personId": 31029,
+      "name": "Kristen Wilson",
+      "character": "Salesgirl #1",
+      "order": 10,
+      "cast_id": 32,
+      "popularity": 0.9098,
+      "profile_path": "/ld2W1mIvaS0yAd3pHW2wyeacg8v.jpg"
+    },
+    {
+      "personId": 2107244,
+      "name": "K Funk",
+      "character": "Salesgirl #2",
+      "order": 11,
+      "cast_id": 33,
+      "popularity": 0.0239,
+      "profile_path": null
+    },
+    {
+      "personId": 83105,
+      "name": "Debra Wilson",
+      "character": "Salesgirl #3",
+      "order": 12,
+      "cast_id": 34,
+      "popularity": 2.224,
+      "profile_path": "/3anRgUtqohXRNM6HtwGl1ZFgCS8.jpg"
+    },
+    {
+      "personId": 56367,
+      "name": "Naomi Campbell",
+      "character": "Girl #75",
+      "order": 13,
+      "cast_id": 35,
+      "popularity": 1.2264,
+      "profile_path": "/szSm9TgGVS8clzNQFGyWDfaq6OG.jpg"
+    },
+    {
+      "personId": 15370,
+      "name": "Gretchen Mol",
+      "character": "Girl #12",
+      "order": 14,
+      "cast_id": 36,
+      "popularity": 1.9664,
+      "profile_path": "/e3C1D1I09gtSGy4Ej1ewW2FFoew.jpg"
+    },
+    {
+      "personId": 2107247,
+      "name": "Shari Freels",
+      "character": "Girl #29 - Punkster",
+      "order": 15,
+      "cast_id": 37,
+      "popularity": 0.077,
+      "profile_path": "/bpvwPX5Fv87uKe96Ma6eI59GmsT.jpg"
+    },
+    {
+      "personId": 32396,
+      "name": "Richard Belzer",
+      "character": "Caller #4 - Beach",
+      "order": 16,
+      "cast_id": 38,
+      "popularity": 1.3301,
+      "profile_path": "/pc5UOMd78kO7Us0nUvKOMgbigd2.jpg"
+    },
+    {
+      "personId": 19511,
+      "name": "Larry Pine",
+      "character": "Caller #33 - Wall Street",
+      "order": 17,
+      "cast_id": 39,
+      "popularity": 1.027,
+      "profile_path": "/nsMlfqaSRFarvn5K8EcCyKZjPeB.jpg"
+    },
+    {
+      "personId": 33662,
+      "name": "Coati Mundi",
+      "character": "Caller #8 - Martin",
+      "order": 18,
+      "cast_id": 40,
+      "popularity": 0.5653,
+      "profile_path": "/yEKCYlbLCmd1D856wvmK1ATs6AG.jpg"
+    },
+    {
+      "personId": 86041,
+      "name": "Delilah Cotto",
+      "character": "Caller #8 - Christine",
+      "order": 19,
+      "cast_id": 41,
+      "popularity": 0.5843,
+      "profile_path": "/4gA9CiSAOnFcgpEe3Ug955dcWOi.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 5281,
+      "name": "Spike Lee",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.4307,
+      "profile_path": "/2KOHXgk2uoRXl6u7V9xpAIo3uay.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 10226,
+      "name": "neighbor"
+    },
+    {
+      "id": 155761,
+      "name": "phone sex"
+    },
+    {
+      "id": 183133,
+      "name": "aspiring actor"
+    },
+    {
+      "id": 190178,
+      "name": "sex worker"
+    },
+    {
+      "id": 269808,
+      "name": "introspective"
+    }
+  ]
+}

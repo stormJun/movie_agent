@@ -1,0 +1,304 @@
+{
+  "overview": "A group of Serbian socialists prepares for the war in a surreal underground filled by parties, tragedies, love and hate.",
+  "release_date": "1995-05-13",
+  "runtime": 170,
+  "budget": 14000000,
+  "revenue": 0,
+  "tmdb_vote_average": 7.715,
+  "tmdb_vote_count": 740,
+  "tmdb_popularity": 2.6699,
+  "original_language": "sr",
+  "poster_path": "/h8N6y13t4VusrDdH5PzTkwvBvgN.jpg",
+  "backdrop_path": "/2nerKhF40OzjnGGOyzHcsAw8T53.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "War"
+  ],
+  "production_companies": [
+    {
+      "id": 105,
+      "name": "CiBy 2000",
+      "origin_country": "FR"
+    },
+    {
+      "id": 140,
+      "name": "Pandora Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 6743,
+      "name": "Novofilm",
+      "origin_country": "HU"
+    },
+    {
+      "id": 6242,
+      "name": "Barrandov Studio",
+      "origin_country": "CZ"
+    },
+    {
+      "id": 653,
+      "name": "Komuna",
+      "origin_country": "CS"
+    },
+    {
+      "id": 25204,
+      "name": "RTS",
+      "origin_country": "RS"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "YU",
+      "name": "Yugoslavia"
+    },
+    {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "de",
+      "name": "Deutsch"
+    },
+    {
+      "code": "sr",
+      "name": "Srpski"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 48791,
+      "name": "Predrag 'Miki' Manojlović",
+      "character": "Marko Dren",
+      "order": 0,
+      "cast_id": 16,
+      "popularity": 1.1699,
+      "profile_path": "/hj4MF8aQAGMeFHjeIzbckAko2v9.jpg"
+    },
+    {
+      "personId": 70874,
+      "name": "Lazar Ristovski",
+      "character": "Petar 'Crni' Popara",
+      "order": 1,
+      "cast_id": 17,
+      "popularity": 1.0434,
+      "profile_path": "/ejgCgIQGwOVEZwYjtr5OT1xa50b.jpg"
+    },
+    {
+      "personId": 70875,
+      "name": "Mirjana Joković",
+      "character": "Natalija Zovkov",
+      "order": 2,
+      "cast_id": 18,
+      "popularity": 0.686,
+      "profile_path": "/x7FJaCev5abs2kq1XgS01Ei6mX2.jpg"
+    },
+    {
+      "personId": 70876,
+      "name": "Slavko Štimac",
+      "character": "Ivan Dren",
+      "order": 3,
+      "cast_id": 19,
+      "popularity": 0.9543,
+      "profile_path": "/mQMeX8rdkTVsKLNW17y1BrCgbqr.jpg"
+    },
+    {
+      "personId": 129215,
+      "name": "Ernst Stötzner",
+      "character": "Franc",
+      "order": 4,
+      "cast_id": 27,
+      "popularity": 0.827,
+      "profile_path": "/zZ7oEIbgoonsDIYuTxZ4HK2weJY.jpg"
+    },
+    {
+      "personId": 15265,
+      "name": "Srđan 'Žika' Todorović",
+      "character": "Jovan Popara",
+      "order": 5,
+      "cast_id": 20,
+      "popularity": 2.0502,
+      "profile_path": "/drsYd3lcoq60vWSeteU3bKtpSOP.jpg"
+    },
+    {
+      "personId": 4635,
+      "name": "Mirjana Karanović",
+      "character": "Vera",
+      "order": 6,
+      "cast_id": 21,
+      "popularity": 0.7393,
+      "profile_path": "/srev6gJelsMQYDQKtKqQ23vMnOe.jpg"
+    },
+    {
+      "personId": 110981,
+      "name": "Milena Pavlović Čučilović",
+      "character": "Jelena",
+      "order": 7,
+      "cast_id": 28,
+      "popularity": 0.2464,
+      "profile_path": "/2TNKX7d9gwMv2wHfqjt4XPuZeKS.jpg"
+    },
+    {
+      "personId": 226302,
+      "name": "Danilo 'Bata' Stojković",
+      "character": "Deda",
+      "order": 8,
+      "cast_id": 22,
+      "popularity": 0.889,
+      "profile_path": "/29vCmA17keNJrPR7cD1DmmLeFro.jpg"
+    },
+    {
+      "personId": 85643,
+      "name": "Borivoje Todorović",
+      "character": "Golub",
+      "order": 9,
+      "cast_id": 23,
+      "popularity": 1.1177,
+      "profile_path": "/cPl8copuAfqJwGtirplr2yOTDri.jpg"
+    },
+    {
+      "personId": 85642,
+      "name": "Davor Dujmović",
+      "character": "Bata",
+      "order": 10,
+      "cast_id": 24,
+      "popularity": 0.7617,
+      "profile_path": "/7VEAaLizOG3DIPRuAHJH7W1x97J.jpg"
+    },
+    {
+      "personId": 15259,
+      "name": "dr Nele Karajlić",
+      "character": "Ciganin koji pada",
+      "order": 11,
+      "cast_id": 29,
+      "popularity": 0.6339,
+      "profile_path": "/fc1xwDDHb8IrOvQY2bqAwMUT2wm.jpg"
+    },
+    {
+      "personId": 213382,
+      "name": "Branislav Lečić",
+      "character": "Mustafa",
+      "order": 12,
+      "cast_id": 30,
+      "popularity": 0.4657,
+      "profile_path": "/bj2i3x4GM6WUJS0mGh2ekkpk9Id.jpg"
+    },
+    {
+      "personId": 38123,
+      "name": "Dragoslav 'Dragan' Nikolić",
+      "character": "Filmski reditelj",
+      "order": 13,
+      "cast_id": 31,
+      "popularity": 0.5477,
+      "profile_path": "/vFrXfCGEXTg7WaaPsTxqlEM2UC7.jpg"
+    },
+    {
+      "personId": 1052312,
+      "name": "Erol Kadić",
+      "character": "Janez",
+      "order": 14,
+      "cast_id": 32,
+      "popularity": 0.3198,
+      "profile_path": null
+    },
+    {
+      "personId": 1462021,
+      "name": "Predrag Zagorac",
+      "character": "Tomislav",
+      "order": 15,
+      "cast_id": 33,
+      "popularity": 0.055,
+      "profile_path": null
+    },
+    {
+      "personId": 1865,
+      "name": "Hark Bohm",
+      "character": "Dr. Štrase",
+      "order": 16,
+      "cast_id": 34,
+      "popularity": 1.789,
+      "profile_path": "/Avq5ZdFpPiFypULhFKeDKUofI1q.jpg"
+    },
+    {
+      "personId": 119947,
+      "name": "Petar Kralj",
+      "character": "Dr. Mirković",
+      "order": 17,
+      "cast_id": 35,
+      "popularity": 0.5492,
+      "profile_path": "/n1wsJNqHxO0GEzNm5Mjv1f8LSg9.jpg"
+    },
+    {
+      "personId": 1043263,
+      "name": "Branko Cvejić",
+      "character": "Kapetan",
+      "order": 18,
+      "cast_id": 48,
+      "popularity": 0.3739,
+      "profile_path": "/pNPJwTFmlx8KyY097OqLIbJaXPI.jpg"
+    },
+    {
+      "personId": 110980,
+      "name": "Josif Tatić",
+      "character": "Inspektor",
+      "order": 19,
+      "cast_id": 49,
+      "popularity": 0.4077,
+      "profile_path": "/bqU5eB2bQ6maEzZzX6DkXItGvmd.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 15254,
+      "name": "Emir Kusturica",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.9252,
+      "profile_path": "/fQL73du17yYEWZtuDGDSuaT4WWe.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1956,
+      "name": "world war ii"
+    },
+    {
+      "id": 2251,
+      "name": "lie"
+    },
+    {
+      "id": 2602,
+      "name": "cellar"
+    },
+    {
+      "id": 174375,
+      "name": "resistance fighter"
+    },
+    {
+      "id": 195337,
+      "name": "belgrade"
+    },
+    {
+      "id": 236316,
+      "name": "anarchic comedy"
+    }
+  ]
+}

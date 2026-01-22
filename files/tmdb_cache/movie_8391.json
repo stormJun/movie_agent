@@ -1,0 +1,241 @@
+{
+  "overview": "Camille is a professor at a Protestant college and is in a long-term relationship with Martin, a respected minister and fellow professor. When Camille meets Petra, a bold and flamboyant performer in a circus troupe, she is inexplicably drawn. Pursuing Petra, Camille throws her whole conservative life into disarray.",
+  "release_date": "1995-02-01",
+  "runtime": 96,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.253,
+  "tmdb_vote_count": 87,
+  "tmdb_popularity": 0.943,
+  "original_language": "en",
+  "poster_path": "/6Ac5GLwJ01uli5mCXqXwquR36Y1.jpg",
+  "backdrop_path": "/5CCPKLWg0YWajQEXWYeY2w5c8qS.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 2514,
+      "name": "Alliance Films",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 54818,
+      "name": "Pascale Bussières",
+      "character": "Camille Baker",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.1419,
+      "profile_path": "/noDgwj59eqKxyMf2YwIB2Pd2WXH.jpg"
+    },
+    {
+      "personId": 54819,
+      "name": "Rachael Crawford",
+      "character": "Petra Soft",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.0598,
+      "profile_path": "/7YtWW02HKyxx1sGpVnRxVgZyEoE.jpg"
+    },
+    {
+      "personId": 15319,
+      "name": "Henry Czerny",
+      "character": "Martin",
+      "order": 2,
+      "cast_id": 11,
+      "popularity": 1.7379,
+      "profile_path": "/zOWZzRmliKf9032IOOq0a3jXhVv.jpg"
+    },
+    {
+      "personId": 4569,
+      "name": "David Fox",
+      "character": "Reverend DeBoer",
+      "order": 3,
+      "cast_id": 13,
+      "popularity": 0.9887,
+      "profile_path": "/kgdBv3Pk68oolH0DA39rpmUai47.jpg"
+    },
+    {
+      "personId": 20173,
+      "name": "Don McKellar",
+      "character": "Timothy",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 0.8142,
+      "profile_path": "/lPQPESremJWcF0SLvzwiQP6ZVgT.jpg"
+    },
+    {
+      "personId": 79402,
+      "name": "Tracy Wright",
+      "character": "Tory",
+      "order": 5,
+      "cast_id": 14,
+      "popularity": 0.5445,
+      "profile_path": "/lr1E4ZmUkRR0WH1YvXD5vyBOekZ.jpg"
+    },
+    {
+      "personId": 1025076,
+      "name": "Clare Coulter",
+      "character": "Tillie",
+      "order": 6,
+      "cast_id": 15,
+      "popularity": 1.2428,
+      "profile_path": "/ki6Mxhn92agQRFJ9AN417s4ShhL.jpg"
+    },
+    {
+      "personId": 1351300,
+      "name": "Karyne Steben",
+      "character": "Trapeze Artist #1",
+      "order": 7,
+      "cast_id": 16,
+      "popularity": 0.1185,
+      "profile_path": null
+    },
+    {
+      "personId": 1351301,
+      "name": "Sarah Steben",
+      "character": "Trapeze Artist #2",
+      "order": 8,
+      "cast_id": 17,
+      "popularity": 0.8752,
+      "profile_path": null
+    },
+    {
+      "personId": 23534,
+      "name": "Jonathan Potts",
+      "character": "Hang Glider #1",
+      "order": 9,
+      "cast_id": 18,
+      "popularity": 1.2965,
+      "profile_path": "/wQgtJsdFJI7FNYiRPlfYx9Y4zeB.jpg"
+    },
+    {
+      "personId": 134077,
+      "name": "Tom Melissis",
+      "character": "Hang Glider #2",
+      "order": 10,
+      "cast_id": 19,
+      "popularity": 0.5609,
+      "profile_path": null
+    },
+    {
+      "personId": 219417,
+      "name": "Stuart Clow",
+      "character": "Hang Glider #3",
+      "order": 11,
+      "cast_id": 20,
+      "popularity": 0.5344,
+      "profile_path": "/a8x0SakN5x1xGU0oNcjQuvCU4NG.jpg"
+    },
+    {
+      "personId": 1470160,
+      "name": "Richard W. Farrell",
+      "character": "Board President",
+      "order": 12,
+      "cast_id": 21,
+      "popularity": 1.4158,
+      "profile_path": null
+    },
+    {
+      "personId": 2484022,
+      "name": "Fides Krucker",
+      "character": "Roaring Woman",
+      "order": 13,
+      "cast_id": 22,
+      "popularity": 0.2567,
+      "profile_path": null
+    },
+    {
+      "personId": 2772111,
+      "name": "Thomas Sokolowski",
+      "character": "Man with Goatee",
+      "order": 14,
+      "cast_id": 23,
+      "popularity": 0.1758,
+      "profile_path": null
+    },
+    {
+      "personId": 3613579,
+      "name": "Ruffian",
+      "character": "Bob the Dog",
+      "order": 15,
+      "cast_id": 36,
+      "popularity": 0.2719,
+      "profile_path": null
+    },
+    {
+      "personId": 2772112,
+      "name": "Jennifer Roblin",
+      "character": "Waitress",
+      "order": 16,
+      "cast_id": 24,
+      "popularity": 0.0478,
+      "profile_path": null
+    },
+    {
+      "personId": 2772113,
+      "name": "Jacqueline Casey",
+      "character": "Iron Swinger #1",
+      "order": 17,
+      "cast_id": 25,
+      "popularity": 0.0214,
+      "profile_path": null
+    },
+    {
+      "personId": 2772114,
+      "name": "Sigrid Johnson",
+      "character": "Iron Swinger #2",
+      "order": 18,
+      "cast_id": 26,
+      "popularity": 0.0577,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 55439,
+      "name": "Patricia Rozema",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.0847,
+      "profile_path": "/sAZRPReEcKhnOva7xXLLFbhd6je.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1992,
+      "name": "professor"
+    },
+    {
+      "id": 158718,
+      "name": "lgbt"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    },
+    {
+      "id": 264386,
+      "name": "lesbian"
+    }
+  ]
+}

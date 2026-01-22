@@ -1,0 +1,264 @@
+{
+  "overview": "An ordinary man sees a bright light descend from the sky, and discovers he now has super-intelligence and telekinesis.",
+  "release_date": "1996-07-05",
+  "runtime": 123,
+  "budget": 32000000,
+  "revenue": 152000000,
+  "tmdb_vote_average": 6.474,
+  "tmdb_vote_count": 1284,
+  "tmdb_popularity": 6.5747,
+  "original_language": "en",
+  "poster_path": "/roUYK9EXmgyDO48Qje7rZI4Qgav.jpg",
+  "backdrop_path": "/15JUzyooElSbMXXYl2gnHX62A7X.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance",
+    "Science Fiction",
+    "Fantasy"
+  ],
+  "production_companies": [
+    {
+      "id": 9195,
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8891,
+      "name": "John Travolta",
+      "character": "George Malley",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 7.5196,
+      "profile_path": "/ap8eEYfBKTLixmVVpRlq4NslDD5.jpg"
+    },
+    {
+      "personId": 26467,
+      "name": "Kyra Sedgwick",
+      "character": "Lace Pennamin",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 5.0568,
+      "profile_path": "/cfpLVZWChElvkKegZopC0xDjEWk.jpg"
+    },
+    {
+      "personId": 2178,
+      "name": "Forest Whitaker",
+      "character": "Nate Pope",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 4.4112,
+      "profile_path": "/4w7l5JUwnwFNBy7J93ZwYN1nihm.jpg"
+    },
+    {
+      "personId": 3087,
+      "name": "Robert Duvall",
+      "character": "Doc",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 9.6308,
+      "profile_path": "/ybMmK25h4IVtfE7qrnlVp47RQlh.jpg"
+    },
+    {
+      "personId": 12645,
+      "name": "Jeffrey DeMunn",
+      "character": "Professor Ringold",
+      "order": 4,
+      "cast_id": 16,
+      "popularity": 2.9172,
+      "profile_path": "/70bkLdlkBB7x2NztuJAh4pjdyxy.jpg"
+    },
+    {
+      "personId": 26660,
+      "name": "Richard Kiley",
+      "character": "Dr. Wellin",
+      "order": 5,
+      "cast_id": 17,
+      "popularity": 1.3531,
+      "profile_path": "/1s24x1TsT8DxBKGksTeeaCmKYvU.jpg"
+    },
+    {
+      "personId": 59451,
+      "name": "David Gallagher",
+      "character": "Al",
+      "order": 6,
+      "cast_id": 18,
+      "popularity": 1.1749,
+      "profile_path": "/9bMmhGtJeBgaXqXGwKDxABnqNpu.jpg"
+    },
+    {
+      "personId": 106976,
+      "name": "Ashley Buccille",
+      "character": "Glory",
+      "order": 7,
+      "cast_id": 19,
+      "popularity": 0.9188,
+      "profile_path": "/blGygohtusVbyT540KEzolsvPdV.jpg"
+    },
+    {
+      "personId": 166606,
+      "name": "Tony Genaro",
+      "character": "Tito",
+      "order": 8,
+      "cast_id": 20,
+      "popularity": 2.0522,
+      "profile_path": "/QfDoKbyezCA8wYM19Du0PLtF4i.jpg"
+    },
+    {
+      "personId": 33836,
+      "name": "Sean O'Bryan",
+      "character": "Banes",
+      "order": 9,
+      "cast_id": 21,
+      "popularity": 2.3013,
+      "profile_path": "/nS6ZEJvn6O7FCNcDSeIFfbwpW03.jpg"
+    },
+    {
+      "personId": 154295,
+      "name": "Michael Milhoan",
+      "character": "Jimmy",
+      "order": 10,
+      "cast_id": 67,
+      "popularity": 1.2693,
+      "profile_path": "/oTXRBzb8KUGC2TXtXEIheGjBANG.jpg"
+    },
+    {
+      "personId": 31006,
+      "name": "Troy Evans",
+      "character": "Roger",
+      "order": 11,
+      "cast_id": 23,
+      "popularity": 2.1307,
+      "profile_path": "/hRdsLKr430COdIIyeHY3QAdg45e.jpg"
+    },
+    {
+      "personId": 4943,
+      "name": "Bruce A. Young",
+      "character": "Jack Hatch",
+      "order": 12,
+      "cast_id": 24,
+      "popularity": 2.3558,
+      "profile_path": "/6IFRI8plA00HKPcrubGYo9K23Kj.jpg"
+    },
+    {
+      "personId": 61216,
+      "name": "Vyto Ruginis",
+      "character": "Ted Rhome",
+      "order": 13,
+      "cast_id": 25,
+      "popularity": 1.5447,
+      "profile_path": "/les4ZXAb2TL1Crqa8DzGwLvwns5.jpg"
+    },
+    {
+      "personId": 1213786,
+      "name": "Brent Spiner",
+      "character": "Dr. Bob",
+      "order": 14,
+      "cast_id": 26,
+      "popularity": 1.7415,
+      "profile_path": "/wHaOTfxOEKOPssDYaSSB5zenml4.jpg"
+    },
+    {
+      "personId": 1174940,
+      "name": "Elisabeth Nunziato",
+      "character": "Ella",
+      "order": 15,
+      "cast_id": 62,
+      "popularity": 0.4259,
+      "profile_path": "/xJNGkIR62jytLnwvp4JVYbPA1tz.jpg"
+    },
+    {
+      "personId": 4975,
+      "name": "Ellen Geer",
+      "character": "Bonnie",
+      "order": 16,
+      "cast_id": 63,
+      "popularity": 1.5377,
+      "profile_path": "/mnhwJou6GyDKnmV3WcQgcaLfIwC.jpg"
+    },
+    {
+      "personId": 1739,
+      "name": "James Keane",
+      "character": "Pete the Cop",
+      "order": 17,
+      "cast_id": 68,
+      "popularity": 1.1272,
+      "profile_path": "/qGOuDCsYQ6IVfUr2P5K2pV6v9Ij.jpg"
+    },
+    {
+      "personId": 1178376,
+      "name": "Susan Merson",
+      "character": "Nurse",
+      "order": 18,
+      "cast_id": 69,
+      "popularity": 1.2692,
+      "profile_path": "/7SwfUhYxg32hPndbu2NSnLMaqaS.jpg"
+    },
+    {
+      "personId": 587571,
+      "name": "James Anthony Cotton",
+      "character": "Cal",
+      "order": 19,
+      "cast_id": 70,
+      "popularity": 0.4856,
+      "profile_path": "/mdkLl6p5DGln3xAgIGo1ZghqiOY.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 12962,
+      "name": "Jon Turteltaub",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8008,
+      "profile_path": "/embHCkQj1fs1PaISQSQQbi9TjHj.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 879,
+      "name": "brain tumor"
+    },
+    {
+      "id": 6257,
+      "name": "genius"
+    },
+    {
+      "id": 6564,
+      "name": "terminal illness"
+    },
+    {
+      "id": 5086,
+      "name": "telekinesis"
+    },
+    {
+      "id": 13005,
+      "name": "doctor"
+    },
+    {
+      "id": 163543,
+      "name": "psionic power"
+    },
+    {
+      "id": 212737,
+      "name": "philosophical"
+    },
+    {
+      "id": 325775,
+      "name": "awestruck"
+    }
+  ]
+}

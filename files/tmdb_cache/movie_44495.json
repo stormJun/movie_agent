@@ -1,0 +1,258 @@
+{
+  "overview": "When David, an ex-monk still in his twenties meets Mark, he falls hard; soon he's asked Mark if they can live together. Things go well for awhile, and then differences in their definition of \"commitment\" begin to push them apart. Mark wants other sexual adventures, David tries to go along. Can they talk through the crisis in their relationship or is a breakup in the offing? David sees his relationship with Mark as a marriage, so if it ends, can David's heart ever heal?",
+  "release_date": "1974-06-26",
+  "runtime": 86,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 7.105,
+  "tmdb_vote_count": 43,
+  "tmdb_popularity": 0.2584,
+  "original_language": "en",
+  "poster_path": "/nxHEvJU4Ae97gyTyi7TuGvusuXF.jpg",
+  "backdrop_path": "/aMLQXiOBzOJY69g363nc740WtjC.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 127374,
+      "name": "Water Bearer Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 44610,
+      "name": "Robert McLane",
+      "character": "David",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 0.1919,
+      "profile_path": null
+    },
+    {
+      "personId": 1144695,
+      "name": "Curt Gareth",
+      "character": "Mark",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 0.1575,
+      "profile_path": null
+    },
+    {
+      "personId": 937696,
+      "name": "Bo White",
+      "character": "Jason",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 0.1854,
+      "profile_path": null
+    },
+    {
+      "personId": 153957,
+      "name": "Anthony McKay",
+      "character": "Gary, the Roommate",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 0.0557,
+      "profile_path": null
+    },
+    {
+      "personId": 1944054,
+      "name": "Marilyn Meyers",
+      "character": "Valerie, his Fiance",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 0.0214,
+      "profile_path": null
+    },
+    {
+      "personId": 2071886,
+      "name": "Jay Pierce",
+      "character": "Alan",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 1.534,
+      "profile_path": "/8n6CEATWXq8zDw793ggZZbczqz2.jpg"
+    },
+    {
+      "personId": 2071887,
+      "name": "Barnaby Rudge",
+      "character": "Hughey",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 0.108,
+      "profile_path": null
+    },
+    {
+      "personId": 2071888,
+      "name": "A. Bailey Chapin",
+      "character": "Minister",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 0.2727,
+      "profile_path": null
+    },
+    {
+      "personId": 2071889,
+      "name": "Scott Eisman",
+      "character": "Student",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 0.0929,
+      "profile_path": null
+    },
+    {
+      "personId": 2071890,
+      "name": "Michael Kell",
+      "character": "Boating Family",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 0.2052,
+      "profile_path": null
+    },
+    {
+      "personId": 2071891,
+      "name": "Sheila Rock",
+      "character": "Boating Family",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 0.0379,
+      "profile_path": null
+    },
+    {
+      "personId": 2071892,
+      "name": "Linda Weitz",
+      "character": "Boating Family",
+      "order": 11,
+      "cast_id": 15,
+      "popularity": 0.0281,
+      "profile_path": null
+    },
+    {
+      "personId": 2071893,
+      "name": "Robert Grillo",
+      "character": "Edgar",
+      "order": 12,
+      "cast_id": 16,
+      "popularity": 0.0143,
+      "profile_path": null
+    },
+    {
+      "personId": 1563534,
+      "name": "Howard Blakey",
+      "character": "Charles",
+      "order": 13,
+      "cast_id": 17,
+      "popularity": 0.6,
+      "profile_path": null
+    },
+    {
+      "personId": 2071894,
+      "name": "George Diaz",
+      "character": "Miguel",
+      "order": 14,
+      "cast_id": 18,
+      "popularity": 0.0641,
+      "profile_path": null
+    },
+    {
+      "personId": 2071895,
+      "name": "Deborah Trowbridge",
+      "character": "Jason's Ex-Wife",
+      "order": 15,
+      "cast_id": 19,
+      "popularity": 0.053,
+      "profile_path": null
+    },
+    {
+      "personId": 2071896,
+      "name": "Jesse Trowbridge",
+      "character": "Jason's Child",
+      "order": 16,
+      "cast_id": 20,
+      "popularity": 0.0297,
+      "profile_path": null
+    },
+    {
+      "personId": 2071897,
+      "name": "Jose Aponte",
+      "character": "",
+      "order": 17,
+      "cast_id": 21,
+      "popularity": 0.0143,
+      "profile_path": null
+    },
+    {
+      "personId": 2071898,
+      "name": "Chris Ballant",
+      "character": "",
+      "order": 18,
+      "cast_id": 22,
+      "popularity": 0.0239,
+      "profile_path": null
+    },
+    {
+      "personId": 2071899,
+      "name": "Mel Barth",
+      "character": "",
+      "order": 19,
+      "cast_id": 23,
+      "popularity": 0.0496,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2064794,
+      "name": "Purusha Larkin",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.094,
+      "profile_path": "/zLh2MZO0NuIoSJUeDlv4u7Pm5Z.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1228,
+      "name": "1970s"
+    },
+    {
+      "id": 1817,
+      "name": "orgy"
+    },
+    {
+      "id": 1886,
+      "name": "cruising"
+    },
+    {
+      "id": 11516,
+      "name": "sexual promiscuity"
+    },
+    {
+      "id": 158718,
+      "name": "lgbt"
+    },
+    {
+      "id": 199882,
+      "name": "identity politics"
+    },
+    {
+      "id": 258533,
+      "name": "gay theme"
+    }
+  ]
+}

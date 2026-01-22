@@ -1,0 +1,237 @@
+{
+  "overview": "Pete Bell, a college basketball coach is under a lot of pressure. His team isn't winning and he cannot attract new players. The stars of the future are secretly being paid by boosters. This practice is forbidden in the college game, but Pete is desperate and has pressures from all around.",
+  "release_date": "1994-02-18",
+  "runtime": 108,
+  "budget": 35000000,
+  "revenue": 26000000,
+  "tmdb_vote_average": 6.081,
+  "tmdb_vote_count": 198,
+  "tmdb_popularity": 3.6801,
+  "original_language": "en",
+  "poster_path": "/tO71i4Ob64tchCRBB5MoqonPKAF.jpg",
+  "backdrop_path": "/y9EqhIvXtvKOFLZMSZL3jHybXvZ.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1733,
+      "name": "Nick Nolte",
+      "character": "Pete",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 5.9989,
+      "profile_path": "/jpYzFBi6zfn8CHVaXmqgiOTas4V.jpg"
+    },
+    {
+      "personId": 35806,
+      "name": "Shaquille O'Neal",
+      "character": "Neon",
+      "order": 1,
+      "cast_id": 1,
+      "popularity": 1.3776,
+      "profile_path": "/dPpPU1y7JEOQHVGv6vNLcCDJhLP.jpg"
+    },
+    {
+      "personId": 1581,
+      "name": "Mary McDonnell",
+      "character": "Jenny",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 5.347,
+      "profile_path": "/qqdaaFLEPXbB8thVJJkYJ4WoAuj.jpg"
+    },
+    {
+      "personId": 18977,
+      "name": "Ed O'Neill",
+      "character": "Ed",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 2.671,
+      "profile_path": "/4RrxSno3UEtGWuMm4yJoaFzckpL.jpg"
+    },
+    {
+      "personId": 22131,
+      "name": "J. T. Walsh",
+      "character": "Happy",
+      "order": 4,
+      "cast_id": 4,
+      "popularity": 2.5029,
+      "profile_path": "/4yQXzRXMqQxKgYaUteluNmAKBX4.jpg"
+    },
+    {
+      "personId": 1981,
+      "name": "Alfre Woodard",
+      "character": "Lavada McRae",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 1.8922,
+      "profile_path": "/erXesg092Pi7SHKEK2UHeimPPKf.jpg"
+    },
+    {
+      "personId": 1236761,
+      "name": "Penny Hardaway",
+      "character": "Butch",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 0.9253,
+      "profile_path": "/uAIk6zyK6l18K6v21kZ3kNkBCUk.jpg"
+    },
+    {
+      "personId": 3562014,
+      "name": "Matt Nover",
+      "character": "Ricky",
+      "order": 7,
+      "cast_id": 34,
+      "popularity": 0.3073,
+      "profile_path": null
+    },
+    {
+      "personId": 4040,
+      "name": "Robert Wuhl",
+      "character": "Marty",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 1.4239,
+      "profile_path": "/hs8jxnVGOytAhwM9Y7Rab69ijdW.jpg"
+    },
+    {
+      "personId": 85189,
+      "name": "Bob Cousy",
+      "character": "Vic",
+      "order": 9,
+      "cast_id": 6,
+      "popularity": 1.849,
+      "profile_path": "/66Q3SGiDq6B4BAJWBvd1E5InEHW.jpg"
+    },
+    {
+      "personId": 56040,
+      "name": "Cylk Cozart",
+      "character": "Slick",
+      "order": 10,
+      "cast_id": 35,
+      "popularity": 2.05,
+      "profile_path": "/nk5nsCvNG8mUQfZPJU40EewtOGo.jpg"
+    },
+    {
+      "personId": 104502,
+      "name": "Anthony C. Hall",
+      "character": "Tony",
+      "order": 11,
+      "cast_id": 36,
+      "popularity": 0.4469,
+      "profile_path": "/yZ24xg4HN2U2fDeR61qNs7q7WUD.jpg"
+    },
+    {
+      "personId": 295370,
+      "name": "Kevin Benton",
+      "character": "Jack",
+      "order": 12,
+      "cast_id": 28,
+      "popularity": 0.6816,
+      "profile_path": "/ONflJgX1JTcl7gAnt6KgISkxjx.jpg"
+    },
+    {
+      "personId": 97976,
+      "name": "Bill Cross",
+      "character": "Freddie",
+      "order": 13,
+      "cast_id": 37,
+      "popularity": 1.0999,
+      "profile_path": null
+    },
+    {
+      "personId": 1315404,
+      "name": "Marques Johnson",
+      "character": "Mel",
+      "order": 14,
+      "cast_id": 38,
+      "popularity": 0.398,
+      "profile_path": "/1PdupTZ3LpxwGBLdqYl6P5Ex4s.jpg"
+    },
+    {
+      "personId": 1222350,
+      "name": "Bobby Knight",
+      "character": "Himself",
+      "order": 15,
+      "cast_id": 27,
+      "popularity": 0.2279,
+      "profile_path": "/kl3sjlk2PVi2XpjguuzN77eGvRr.jpg"
+    },
+    {
+      "personId": 1865990,
+      "name": "Rick Pitino",
+      "character": "Himself",
+      "order": 16,
+      "cast_id": 39,
+      "popularity": 0.329,
+      "profile_path": "/1UqSpLm3ppXBHphEk7dRM7WIieB.jpg"
+    },
+    {
+      "personId": 3562018,
+      "name": "George Raveling",
+      "character": "Himself",
+      "order": 17,
+      "cast_id": 40,
+      "popularity": 0.3056,
+      "profile_path": null
+    },
+    {
+      "personId": 1970724,
+      "name": "Sam Armato",
+      "character": "Lecturer",
+      "order": 18,
+      "cast_id": 41,
+      "popularity": 0.2214,
+      "profile_path": null
+    },
+    {
+      "personId": 23682,
+      "name": "Larry Bird",
+      "character": "Himself",
+      "order": 19,
+      "cast_id": 29,
+      "popularity": 0.9163,
+      "profile_path": "/b7Lely2zkWdKw3cqVlXk8ECXvGf.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 15175,
+      "name": "William Friedkin",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.215,
+      "profile_path": "/c70AdZsqOsSjEuUp37W5HPYeeKw.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6075,
+      "name": "sports"
+    },
+    {
+      "id": 6496,
+      "name": "basketball"
+    }
+  ]
+}

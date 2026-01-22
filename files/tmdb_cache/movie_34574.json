@@ -1,0 +1,242 @@
+{
+  "overview": "In a contemporary New York City, members of a dysfunctional family of vampires are trying to come to terms with each other, in the wake of their father's death. Meanwhile, they are being hunted by Dr. Van Helsing and his hapless nephew. As in all good vampire movies, forces of love are pitted against forces of destruction.",
+  "release_date": "1995-09-01",
+  "runtime": 93,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.5,
+  "tmdb_vote_count": 54,
+  "tmdb_popularity": 1.7785,
+  "original_language": "en",
+  "poster_path": "/9ioGtd3mWTRkB8zyTG9ilrDqDcU.jpg",
+  "backdrop_path": "/oS9pCcAOq5Jn9myvjM8KaJuBHz6.jpg",
+  "tmdb_genres_raw": [
+    "Horror",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 37897,
+      "name": "Kino Link Company",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "de",
+      "name": "Deutsch"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 17257,
+      "name": "Elina Löwensohn",
+      "character": "Nadja",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 0.9166,
+      "profile_path": "/pRFLUsONKzg0hnl2CLnNBE4AJZ1.jpg"
+    },
+    {
+      "personId": 2179,
+      "name": "Suzy Amis",
+      "character": "Cassandra",
+      "order": 1,
+      "cast_id": 27,
+      "popularity": 2.0126,
+      "profile_path": "/q8aPLY9CjCl7tp60neddbJl4ZfW.jpg"
+    },
+    {
+      "personId": 1936113,
+      "name": "Galaxy Craze",
+      "character": "Lucy",
+      "order": 2,
+      "cast_id": 24,
+      "popularity": 0.3658,
+      "profile_path": "/pyOjHFCpelmGrHFRSrKzDDsUv7E.jpg"
+    },
+    {
+      "personId": 42993,
+      "name": "Martin Donovan",
+      "character": "Jim",
+      "order": 3,
+      "cast_id": 19,
+      "popularity": 2.2158,
+      "profile_path": "/wTCmpcmd8mcAbsX6Yc7zFs2J98Q.jpg"
+    },
+    {
+      "personId": 8949,
+      "name": "Peter Fonda",
+      "character": "Dracula / Dr. Van Helsing",
+      "order": 4,
+      "cast_id": 2,
+      "popularity": 1.6614,
+      "profile_path": "/dgorN06SQ9ZNL2NY3I7BNxg93lc.jpg"
+    },
+    {
+      "personId": 27176,
+      "name": "Karl Geary",
+      "character": "Renfield",
+      "order": 5,
+      "cast_id": 26,
+      "popularity": 1.2746,
+      "profile_path": "/ex3VfDXZPirfULVqzyTKVcKHFt2.jpg"
+    },
+    {
+      "personId": 15440,
+      "name": "Jared Harris",
+      "character": "Edgar",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 3.8094,
+      "profile_path": "/jAyPWkmge3BqXtgxIG9MfXBzOGj.jpg"
+    },
+    {
+      "personId": 1337469,
+      "name": "Nic Ratner",
+      "character": "Bar Victim",
+      "order": 7,
+      "cast_id": 28,
+      "popularity": 1.1782,
+      "profile_path": null
+    },
+    {
+      "personId": 122269,
+      "name": "Jack Lotz",
+      "character": "Boxing Coach",
+      "order": 8,
+      "cast_id": 29,
+      "popularity": 0.7448,
+      "profile_path": null
+    },
+    {
+      "personId": 5602,
+      "name": "David Lynch",
+      "character": "Morgue Receptionist",
+      "order": 9,
+      "cast_id": 30,
+      "popularity": 2.4534,
+      "profile_path": "/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg"
+    },
+    {
+      "personId": 171613,
+      "name": "Isabel Gillies",
+      "character": "Waitress",
+      "order": 10,
+      "cast_id": 31,
+      "popularity": 1.9386,
+      "profile_path": "/6va65ZAmrXKUT92c9RPPtDVZddP.jpg"
+    },
+    {
+      "personId": 10963,
+      "name": "José Zúñiga",
+      "character": "Bartender",
+      "order": 11,
+      "cast_id": 32,
+      "popularity": 2.4138,
+      "profile_path": "/r6nFkJkMHP9tFDohwfav9Bf2rCR.jpg"
+    },
+    {
+      "personId": 3317822,
+      "name": "Bernadette Jurkowski",
+      "character": "Dracula's Bride",
+      "order": 12,
+      "cast_id": 33,
+      "popularity": 0.1365,
+      "profile_path": null
+    },
+    {
+      "personId": 1174986,
+      "name": "Jeff Winner",
+      "character": "Young Dracula",
+      "order": 13,
+      "cast_id": 34,
+      "popularity": 0.2862,
+      "profile_path": null
+    },
+    {
+      "personId": 3505247,
+      "name": "Sean",
+      "character": "Bela",
+      "order": 14,
+      "cast_id": 35,
+      "popularity": 0.0728,
+      "profile_path": null
+    },
+    {
+      "personId": 36187,
+      "name": "Bob Gosse",
+      "character": "Garage Mechanic",
+      "order": 15,
+      "cast_id": 36,
+      "popularity": 1.2191,
+      "profile_path": "/mhFKl2OzZiCvXMGH9OdiBLzP64z.jpg"
+    },
+    {
+      "personId": 2103545,
+      "name": "Rome Neal",
+      "character": "Garage Mechanic",
+      "order": 16,
+      "cast_id": 37,
+      "popularity": 0.3428,
+      "profile_path": null
+    },
+    {
+      "personId": 3505248,
+      "name": "Giancarlo Roma",
+      "character": "Romanian Kid",
+      "order": 17,
+      "cast_id": 38,
+      "popularity": 0.0466,
+      "profile_path": null
+    },
+    {
+      "personId": 3505249,
+      "name": "Anna Roma",
+      "character": "Romanian Mother",
+      "order": 18,
+      "cast_id": 39,
+      "popularity": 0.0479,
+      "profile_path": null
+    },
+    {
+      "personId": 1533849,
+      "name": "Thomas Roma",
+      "character": "Romanian Policeman",
+      "order": 19,
+      "cast_id": 40,
+      "popularity": 0.3536,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 54469,
+      "name": "Michael Almereyda",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6233,
+      "profile_path": "/oiMAcT7GwLXBKTYWLl9FDBqrwHX.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 3133,
+      "name": "vampire"
+    }
+  ]
+}

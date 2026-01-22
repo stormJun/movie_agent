@@ -1,0 +1,242 @@
+{
+  "overview": "The son of a Vietnam War Veteran must deal with neighborhood bullies as well as his dad's post-traumatic stress disorder while growing up in the deep south in the 1970's.",
+  "release_date": "1994-11-04",
+  "runtime": 126,
+  "budget": 0,
+  "revenue": 16,
+  "tmdb_vote_average": 6.633,
+  "tmdb_vote_count": 214,
+  "tmdb_popularity": 1.0583,
+  "original_language": "en",
+  "poster_path": "/eMJYqr5zs7rz54oZhiX4ez1BI5E.jpg",
+  "backdrop_path": "/hbrm1L30yO1R0zvQ0Wis0spLUZZ.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "War"
+  ],
+  "production_companies": [
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 109,
+      "name": "Elijah Wood",
+      "character": "Stu Simmons",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 5.2316,
+      "profile_path": "/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
+    },
+    {
+      "personId": 1269,
+      "name": "Kevin Costner",
+      "character": "Stephen Simmons",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 8.6545,
+      "profile_path": "/bykmxJHLfbFM3NT05RZXhx8YTzF.jpg"
+    },
+    {
+      "personId": 51544,
+      "name": "Mare Winningham",
+      "character": "Lois Simmons",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.0225,
+      "profile_path": "/pl4Cq1uCs8ajVxZkJ7Qd4XjD2P2.jpg"
+    },
+    {
+      "personId": 78717,
+      "name": "Lexi Randall",
+      "character": "Lidia Joanne Simmons",
+      "order": 3,
+      "cast_id": 10,
+      "popularity": 2.9311,
+      "profile_path": "/m2MGOflX6wVwbaF8UeirE6jg6Hn.jpg"
+    },
+    {
+      "personId": 85278,
+      "name": "LaToya Chisholm",
+      "character": "Elvadine",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 0.1927,
+      "profile_path": null
+    },
+    {
+      "personId": 1527160,
+      "name": "Christopher Fennell",
+      "character": "Billy Lipnicki",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 1.0849,
+      "profile_path": null
+    },
+    {
+      "personId": 1527161,
+      "name": "Donald Sellers",
+      "character": "Arliss Lipnicki",
+      "order": 6,
+      "cast_id": 14,
+      "popularity": 0.1463,
+      "profile_path": null
+    },
+    {
+      "personId": 1527162,
+      "name": "Leon Sills",
+      "character": "Leo Lipnicki",
+      "order": 7,
+      "cast_id": 15,
+      "popularity": 0.2325,
+      "profile_path": null
+    },
+    {
+      "personId": 1527163,
+      "name": "Will West",
+      "character": "Lester Lucket",
+      "order": 8,
+      "cast_id": 16,
+      "popularity": 0.2558,
+      "profile_path": null
+    },
+    {
+      "personId": 155,
+      "name": "Lucas Black",
+      "character": "Ebb",
+      "order": 9,
+      "cast_id": 17,
+      "popularity": 5.3623,
+      "profile_path": "/w2oImwC4Y0RDtyvaKGTCFCKsvwh.jpg"
+    },
+    {
+      "personId": 1527164,
+      "name": "Jennifer Tyler",
+      "character": "Ula Lipnicki",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 0.0976,
+      "profile_path": null
+    },
+    {
+      "personId": 1527165,
+      "name": "Charlette Julius",
+      "character": "Amber",
+      "order": 11,
+      "cast_id": 19,
+      "popularity": 0.1535,
+      "profile_path": null
+    },
+    {
+      "personId": 1527166,
+      "name": "Adam Henderson",
+      "character": "Chet",
+      "order": 12,
+      "cast_id": 20,
+      "popularity": 0.0564,
+      "profile_path": null
+    },
+    {
+      "personId": 1527167,
+      "name": "Brennan Gallagher",
+      "character": "Marsh",
+      "order": 13,
+      "cast_id": 21,
+      "popularity": 0.1268,
+      "profile_path": null
+    },
+    {
+      "personId": 1527168,
+      "name": "Justin Lucas",
+      "character": "Willard",
+      "order": 14,
+      "cast_id": 22,
+      "popularity": 0.1598,
+      "profile_path": null
+    },
+    {
+      "personId": 1381096,
+      "name": "Judson Vaughn",
+      "character": "Soldier",
+      "order": 15,
+      "cast_id": 23,
+      "popularity": 1.4521,
+      "profile_path": null
+    },
+    {
+      "personId": 11870,
+      "name": "Christine Baranski",
+      "character": "Miss Strapford",
+      "order": 16,
+      "cast_id": 24,
+      "popularity": 3.5073,
+      "profile_path": "/q6Zi3BYlmoim1JXXMGgRVS5C87x.jpg"
+    },
+    {
+      "personId": 21082,
+      "name": "Raynor Scheine",
+      "character": "Mr. Lipnicki",
+      "order": 17,
+      "cast_id": 25,
+      "popularity": 1.9161,
+      "profile_path": "/gqj3nFgq2W83RrJNyqHm2xw8Efw.jpg"
+    },
+    {
+      "personId": 4943,
+      "name": "Bruce A. Young",
+      "character": "Moe Henry",
+      "order": 18,
+      "cast_id": 26,
+      "popularity": 2.3558,
+      "profile_path": "/6IFRI8plA00HKPcrubGYo9K23Kj.jpg"
+    },
+    {
+      "personId": 96228,
+      "name": "Gary Basaraba",
+      "character": "Dodge",
+      "order": 19,
+      "cast_id": 27,
+      "popularity": 1.0971,
+      "profile_path": "/dH6zocqD5heDerhCANUtfy00gHm.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 18250,
+      "name": "Jon Avnet",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1214,
+      "profile_path": "/c8iDOTe30SgubSZK9hF4rS5tQDZ.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 422,
+      "name": "vietnam veteran"
+    },
+    {
+      "id": 6733,
+      "name": "bullying"
+    },
+    {
+      "id": 208349,
+      "name": "kids"
+    }
+  ]
+}

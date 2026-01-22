@@ -1,0 +1,335 @@
+{
+  "overview": "Dolores Claiborne was accused of killing her abusive husband twenty years ago, but the court's findings were inconclusive and she was allowed to walk free. Now she has been accused of killing her employer, Vera Donovan, and this time there is a witness who can place her at the scene of the crime. Things look bad for Dolores when her daughter Selena, a successful Manhattan magazine writer, returns to cover the story.",
+  "release_date": "1995-03-24",
+  "runtime": 132,
+  "budget": 13000000,
+  "revenue": 46400000,
+  "tmdb_vote_average": 7.269,
+  "tmdb_vote_count": 841,
+  "tmdb_popularity": 2.5871,
+  "original_language": "en",
+  "poster_path": "/iQuwx3UAyXbE9tzdM3jLqtbogc4.jpg",
+  "backdrop_path": "/9vJ57nbL4hWJrmsyjKTxiGXqrBU.jpg",
+  "tmdb_genres_raw": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "production_companies": [
+    {
+      "id": 97,
+      "name": "Castle Rock Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8534,
+      "name": "Kathy Bates",
+      "character": "Dolores Claiborne",
+      "order": 0,
+      "cast_id": 9,
+      "popularity": 4.1732,
+      "profile_path": "/nP7zRmXJyMyj2OohclSSo6JAEbD.jpg"
+    },
+    {
+      "personId": 10431,
+      "name": "Jennifer Jason Leigh",
+      "character": "Selena St. George",
+      "order": 1,
+      "cast_id": 10,
+      "popularity": 5.7385,
+      "profile_path": "/yYD255SwZkFc1wGgBMVRZ2i7Ina.jpg"
+    },
+    {
+      "personId": 33448,
+      "name": "Judy Parfitt",
+      "character": "Vera Donovan",
+      "order": 2,
+      "cast_id": 11,
+      "popularity": 1.4849,
+      "profile_path": "/c0kgdslVSweFnUqJDn7Yyu6mi24.jpg"
+    },
+    {
+      "personId": 290,
+      "name": "Christopher Plummer",
+      "character": "John Mackey",
+      "order": 3,
+      "cast_id": 12,
+      "popularity": 4.2921,
+      "profile_path": "/iZh3s9Vy9vYD4DYnAda6C1kdeco.jpg"
+    },
+    {
+      "personId": 11064,
+      "name": "David Strathairn",
+      "character": "Joe St. George",
+      "order": 4,
+      "cast_id": 15,
+      "popularity": 3.5317,
+      "profile_path": "/6MRnh27jFz0347S6uU11LZG6aaz.jpg"
+    },
+    {
+      "personId": 10866,
+      "name": "Eric Bogosian",
+      "character": "Peter",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 1.9627,
+      "profile_path": "/sT71WSJZEaPbNnNapDmXtk9n0cF.jpg"
+    },
+    {
+      "personId": 4764,
+      "name": "John C. Reilly",
+      "character": "Const. Frank Stamshaw",
+      "order": 6,
+      "cast_id": 14,
+      "popularity": 4.4063,
+      "profile_path": "/iDQ8w4qcxU3le5ZWoCKpHs1QNok.jpg"
+    },
+    {
+      "personId": 1218072,
+      "name": "Ellen Muth",
+      "character": "Young Selena",
+      "order": 7,
+      "cast_id": 17,
+      "popularity": 1.4687,
+      "profile_path": "/gdp6IFmpnkgHtOvZvGMvNNr3qmV.jpg"
+    },
+    {
+      "personId": 4029,
+      "name": "Bob Gunton",
+      "character": "Mr. Pease",
+      "order": 8,
+      "cast_id": 18,
+      "popularity": 3.1979,
+      "profile_path": "/ulbVvuBToBN3aCGcV028hwO0MOP.jpg"
+    },
+    {
+      "personId": 1158858,
+      "name": "Roy Cooper",
+      "character": "Magistrate",
+      "order": 9,
+      "cast_id": 29,
+      "popularity": 2.2471,
+      "profile_path": "/vucD9F4juSxiHnAGOD8eTUnEK9I.jpg"
+    },
+    {
+      "personId": 5897,
+      "name": "Wayne Robson",
+      "character": "Sammy Marchant",
+      "order": 10,
+      "cast_id": 30,
+      "popularity": 1.1947,
+      "profile_path": "/idYHGiGyWcUUrVFm9THGLzTgWHF.jpg"
+    },
+    {
+      "personId": 73296,
+      "name": "Ruth Marshall",
+      "character": "Secretary",
+      "order": 11,
+      "cast_id": 31,
+      "popularity": 0.4884,
+      "profile_path": "/vxTNCsyUaW8pTPiaDJ4PQxoTDo5.jpg"
+    },
+    {
+      "personId": 3076464,
+      "name": "Weldon Allen",
+      "character": "Bartender",
+      "order": 12,
+      "cast_id": 32,
+      "popularity": 0.0909,
+      "profile_path": null
+    },
+    {
+      "personId": 1227333,
+      "name": "Tom Gallant",
+      "character": "Searcher",
+      "order": 13,
+      "cast_id": 33,
+      "popularity": 0.3514,
+      "profile_path": "/jwgBpeaZoKm4LFC1hXIL4XxMZDw.jpg"
+    },
+    {
+      "personId": 3076467,
+      "name": "Kelly Burnett",
+      "character": "Jack Donovan",
+      "order": 14,
+      "cast_id": 34,
+      "popularity": 0.1288,
+      "profile_path": null
+    },
+    {
+      "personId": 2254151,
+      "name": "Matt Appleby",
+      "character": "Kid on Street",
+      "order": 15,
+      "cast_id": 35,
+      "popularity": 0.0833,
+      "profile_path": null
+    },
+    {
+      "personId": 3076471,
+      "name": "Thomas Skinner",
+      "character": "Kid on Street",
+      "order": 16,
+      "cast_id": 36,
+      "popularity": 0.0643,
+      "profile_path": null
+    },
+    {
+      "personId": 3412531,
+      "name": "Vernon Steel",
+      "character": "Ferry Vendor",
+      "order": 17,
+      "cast_id": 98,
+      "popularity": 0.1218,
+      "profile_path": null
+    },
+    {
+      "personId": 3076472,
+      "name": "Taffara Jessica Stella Murray",
+      "character": "Young Selena (Age 5)",
+      "order": 18,
+      "cast_id": 38,
+      "popularity": 0.0917,
+      "profile_path": null
+    },
+    {
+      "personId": 3076475,
+      "name": "Susan Lane",
+      "character": "Crying Girl",
+      "order": 19,
+      "cast_id": 39,
+      "popularity": 0.1375,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 18596,
+      "name": "Taylor Hackford",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.8447,
+      "profile_path": "/aAP9RYT7XxUiC2NZL9Hi2gEdxGB.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 894,
+      "name": "depression"
+    },
+    {
+      "id": 516,
+      "name": "child abuse"
+    },
+    {
+      "id": 2041,
+      "name": "island"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 703,
+      "name": "detective"
+    },
+    {
+      "id": 2619,
+      "name": "suspicion of murder"
+    },
+    {
+      "id": 2299,
+      "name": "abusive father"
+    },
+    {
+      "id": 4232,
+      "name": "melancholy"
+    },
+    {
+      "id": 10041,
+      "name": "dysfunctional family"
+    },
+    {
+      "id": 7335,
+      "name": "lawsuit"
+    },
+    {
+      "id": 7464,
+      "name": "alcoholism"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 9927,
+      "name": "maine"
+    },
+    {
+      "id": 11925,
+      "name": "domestic violence"
+    },
+    {
+      "id": 12193,
+      "name": "reporter"
+    },
+    {
+      "id": 13097,
+      "name": "maid"
+    },
+    {
+      "id": 18047,
+      "name": "anger"
+    },
+    {
+      "id": 161545,
+      "name": "alcoholic father"
+    },
+    {
+      "id": 162810,
+      "name": "macabre"
+    },
+    {
+      "id": 200918,
+      "name": "angry"
+    },
+    {
+      "id": 207819,
+      "name": "accident"
+    },
+    {
+      "id": 212643,
+      "name": "abusive husband"
+    },
+    {
+      "id": 212644,
+      "name": "anti-depressant"
+    },
+    {
+      "id": 212646,
+      "name": "bank account"
+    },
+    {
+      "id": 325766,
+      "name": "antagonistic"
+    },
+    {
+      "id": 325775,
+      "name": "awestruck"
+    }
+  ]
+}

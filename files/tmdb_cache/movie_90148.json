@@ -1,0 +1,196 @@
+{
+  "overview": "Irene is a magazine editor living under the shadow of the Pinochet dictatorship in Chile. Francisco is a handsome photographer and he comes to Irene for a job. As a sympathizer with the underground resistance movement, Francisco opens her eyes and her heart to the atrocities being committed by the state.",
+  "release_date": "1994-05-10",
+  "runtime": 103,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.2,
+  "tmdb_vote_count": 97,
+  "tmdb_popularity": 1.5943,
+  "original_language": "en",
+  "poster_path": "/aJuOamSPeB3GBJXhLnwPCcietyG.jpg",
+  "backdrop_path": "/uMbWBCbBpbJhs5eLNhWS4PegtPr.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 14,
+      "name": "Miramax",
+      "origin_country": "US"
+    },
+    {
+      "id": 67374,
+      "name": "Aleph Producciones S.A.",
+      "origin_country": ""
+    },
+    {
+      "id": 129673,
+      "name": "Argentina Espanola",
+      "origin_country": ""
+    },
+    {
+      "id": 185,
+      "name": "Pandora Cinema",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6161,
+      "name": "Jennifer Connelly",
+      "character": "Irene",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 10.162,
+      "profile_path": "/wdmcJagSRJ65AuJ4IUCzuHAdvgy.jpg"
+    },
+    {
+      "personId": 3131,
+      "name": "Antonio Banderas",
+      "character": "Francisco",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 5.8003,
+      "profile_path": "/fce7zl6elUzsv7wudHFc7RgFtjD.jpg"
+    },
+    {
+      "personId": 34027,
+      "name": "Stefania Sandrelli",
+      "character": "Beatriz",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 1.9098,
+      "profile_path": "/91OvQqmb1QGxOft0Pzjs11XVQs9.jpg"
+    },
+    {
+      "personId": 24609,
+      "name": "Diego Wallraff",
+      "character": "Jose",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 0.4,
+      "profile_path": "/oI4G5rSSMuDExR7e2delUh8w5Ng.jpg"
+    },
+    {
+      "personId": 1012974,
+      "name": "Camilo Gallardo",
+      "character": "Gustavo",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 0.4394,
+      "profile_path": null
+    },
+    {
+      "personId": 71408,
+      "name": "Patricio Contreras",
+      "character": "Mario",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 0.5275,
+      "profile_path": "/ypcppaDS2xzNIDphDr4c3LfDbnp.jpg"
+    },
+    {
+      "personId": 99115,
+      "name": "Jorge Rivera López",
+      "character": "Professor Leal",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 0.4463,
+      "profile_path": null
+    },
+    {
+      "personId": 1084293,
+      "name": "Angela Ragno",
+      "character": "Hilda Leal",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 0.4036,
+      "profile_path": "/17yETNdP8yIAn5DA9xY0gxu2KY6.jpg"
+    },
+    {
+      "personId": 102608,
+      "name": "Jacques Arndt",
+      "character": "General",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 0.187,
+      "profile_path": "/fUmDVNKi4ulS8ZvQXbnYtGihqJX.jpg"
+    },
+    {
+      "personId": 2549448,
+      "name": "Alejandro Toccalino",
+      "character": "Guard at Roadblock",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 0.1248,
+      "profile_path": null
+    },
+    {
+      "personId": 1980242,
+      "name": "Jorge Ochoa",
+      "character": "Padre Cirilo",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 0.3337,
+      "profile_path": "/zuz7ieCqGiHRIocCmeQAIdrypjF.jpg"
+    },
+    {
+      "personId": 18499,
+      "name": "Mercedes Morán",
+      "character": "María Elena",
+      "order": 11,
+      "cast_id": 32,
+      "popularity": 0.4538,
+      "profile_path": "/2r5QQeumzXWoSma6RQrLjiNhHdu.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1585647,
+      "name": "Betty Kaplan",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.2052,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 7606,
+      "name": "dictatorship"
+    },
+    {
+      "id": 11289,
+      "name": "woman reporter"
+    },
+    {
+      "id": 13006,
+      "name": "torture"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    }
+  ]
+}

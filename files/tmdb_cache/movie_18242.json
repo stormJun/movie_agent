@@ -1,0 +1,107 @@
+{
+  "overview": "A boy born the size of a small doll is kidnapped by a genetic lab and must find a way back to his father in this inventive adventure filmed using stop motion animation techniques.",
+  "release_date": "1993-12-10",
+  "runtime": 61,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.5,
+  "tmdb_vote_count": 36,
+  "tmdb_popularity": 0.0941,
+  "original_language": "en",
+  "poster_path": "/98yogK8pBvjqpQ7mtohuaBMLUJv.jpg",
+  "backdrop_path": "/yJ4PMGCOSIi69GqIYXa4Ll7X7DP.jpg",
+  "tmdb_genres_raw": [
+    "Animation",
+    "Science Fiction",
+    "Adventure",
+    "Horror"
+  ],
+  "production_companies": [
+    {
+      "id": 6216,
+      "name": "Lumen Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 6217,
+      "name": "Tara",
+      "origin_country": ""
+    },
+    {
+      "id": 126136,
+      "name": "Bolex Brothers",
+      "origin_country": "US"
+    },
+    {
+      "id": 31272,
+      "name": "BBC Bristol Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 138939,
+      "name": "Nick Upton",
+      "character": "Pa Thumb",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 0.2115,
+      "profile_path": null
+    },
+    {
+      "personId": 138940,
+      "name": "Deborah Collard",
+      "character": "Ma Thumb",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 0.0453,
+      "profile_path": null
+    },
+    {
+      "personId": 53332,
+      "name": "Frank Passingham",
+      "character": "Man",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 0.3041,
+      "profile_path": "/sRJqbXJiiNkqWzFmyl1fxLpSnUp.jpg"
+    },
+    {
+      "personId": 47098,
+      "name": "Pete Townshend",
+      "character": "Voice",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 0.545,
+      "profile_path": "/juqxP6G6O7i4bOHuIwdyVHNyHME.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 80537,
+      "name": "Dave Borthwick",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.3549,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 10121,
+      "name": "stop motion"
+    }
+  ]
+}

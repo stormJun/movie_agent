@@ -1,0 +1,282 @@
+{
+  "overview": "During a train ride, a teenager recalls his upbringing in 1940s small-town Georgia and the events that have led to this point.",
+  "release_date": "1995-08-23",
+  "runtime": 92,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.058,
+  "tmdb_vote_count": 26,
+  "tmdb_popularity": 0.5252,
+  "original_language": "en",
+  "poster_path": "/2DyeA45isq3jIRlwG6VgwV8KQq7.jpg",
+  "backdrop_path": "/7qIkI7o3iVspu8Jr9T38LKsXG3I.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 181,
+      "name": "Channel Four Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1261,
+      "name": "Scala Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 2819,
+      "name": "Screen Partners Ltd.",
+      "origin_country": ""
+    },
+    {
+      "id": 81312,
+      "name": "Iberoamericana Films Producción",
+      "origin_country": ""
+    },
+    {
+      "id": 1036,
+      "name": "Academy Pictures",
+      "origin_country": "IT"
+    },
+    {
+      "id": 65681,
+      "name": "Three Rivers Production",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "ES",
+      "name": "Spain"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 93396,
+      "name": "Jacob Tierney",
+      "character": "David (aged 15)",
+      "order": 0,
+      "cast_id": 5,
+      "popularity": 1.9837,
+      "profile_path": "/hg9JQWSfGryfIox8Z9b9NP8Yb1b.jpg"
+    },
+    {
+      "personId": 3272,
+      "name": "Drake Bell",
+      "character": "David (aged 10)",
+      "order": 1,
+      "cast_id": 6,
+      "popularity": 2.4529,
+      "profile_path": "/6KxFiHrqiniS3oxV4NCz0sYNTuo.jpg"
+    },
+    {
+      "personId": 4800,
+      "name": "Gena Rowlands",
+      "character": "Mae Morgan",
+      "order": 2,
+      "cast_id": 1,
+      "popularity": 2.371,
+      "profile_path": "/7Hda4UFbmpufKnk48KpBuH7j05j.jpg"
+    },
+    {
+      "personId": 2958,
+      "name": "Diana Scarwid",
+      "character": "Sarah",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.6682,
+      "profile_path": "/jGxYoIVKP8neczCUPHxBMoOY8lH.jpg"
+    },
+    {
+      "personId": 5724,
+      "name": "Denis Leary",
+      "character": "Frank",
+      "order": 4,
+      "cast_id": 2,
+      "popularity": 2.6305,
+      "profile_path": "/tAOziVWQBnrW9eR442M6g9SQkmA.jpg"
+    },
+    {
+      "personId": 43992,
+      "name": "Bob Hannah",
+      "character": "George",
+      "order": 5,
+      "cast_id": 33,
+      "popularity": 0.5399,
+      "profile_path": "/6pv44XIE1H1UdP5Buha0jahmq3e.jpg"
+    },
+    {
+      "personId": 3358057,
+      "name": "Aaron Frisch",
+      "character": "Bruce",
+      "order": 6,
+      "cast_id": 34,
+      "popularity": 0.2226,
+      "profile_path": null
+    },
+    {
+      "personId": 108163,
+      "name": "Charles Franzen",
+      "character": "Tannoy Voice",
+      "order": 7,
+      "cast_id": 35,
+      "popularity": 0.5581,
+      "profile_path": null
+    },
+    {
+      "personId": 30151,
+      "name": "Leo Burmester",
+      "character": "Bobbie Lee Taylor",
+      "order": 8,
+      "cast_id": 36,
+      "popularity": 1.0825,
+      "profile_path": "/o7ZXSICrTDzhxIyd95HBwVjBi1f.jpg"
+    },
+    {
+      "personId": 3358059,
+      "name": "Sherry Velvet",
+      "character": "First Testifier",
+      "order": 9,
+      "cast_id": 37,
+      "popularity": 0.141,
+      "profile_path": null
+    },
+    {
+      "personId": 196902,
+      "name": "Stephanie Astalos-Jones",
+      "character": "Second Testifier",
+      "order": 10,
+      "cast_id": 38,
+      "popularity": 0.9316,
+      "profile_path": "/ldX8UgKI3Et6vMO7VG6nxbgFkKD.jpg"
+    },
+    {
+      "personId": 3358060,
+      "name": "Ian Shearer",
+      "character": "Billy Sunday Thompson",
+      "order": 11,
+      "cast_id": 39,
+      "popularity": 0.094,
+      "profile_path": null
+    },
+    {
+      "personId": 1407052,
+      "name": "Joan Glover",
+      "character": "Flora",
+      "order": 12,
+      "cast_id": 40,
+      "popularity": 0.4779,
+      "profile_path": "/evZY18PBHKiogK17Gf35z8GycnZ.jpg"
+    },
+    {
+      "personId": 196843,
+      "name": "Jill Jane Clements",
+      "character": "Woman",
+      "order": 13,
+      "cast_id": 41,
+      "popularity": 1.1715,
+      "profile_path": "/kGwqAzVvx3dyq7iW2wDSUZqnEnF.jpg"
+    },
+    {
+      "personId": 1572970,
+      "name": "Tom Turbiville",
+      "character": "Clyde",
+      "order": 14,
+      "cast_id": 42,
+      "popularity": 0.2299,
+      "profile_path": null
+    },
+    {
+      "personId": 146025,
+      "name": "Sharon Blackwood",
+      "character": "Schoolmistress",
+      "order": 15,
+      "cast_id": 43,
+      "popularity": 2.0101,
+      "profile_path": "/sdbIIWqcIinNGP0OZbEWX3rEpLo.jpg"
+    },
+    {
+      "personId": 19489,
+      "name": "Peter McRobbie",
+      "character": "Reverend Watkins",
+      "order": 16,
+      "cast_id": 44,
+      "popularity": 1.918,
+      "profile_path": "/dzqI3wITKVTrnFBxYGFswDxALjf.jpg"
+    },
+    {
+      "personId": 3358062,
+      "name": "Ken Fight",
+      "character": "Schoolmaster",
+      "order": 17,
+      "cast_id": 45,
+      "popularity": 0.1403,
+      "profile_path": null
+    },
+    {
+      "personId": 62847,
+      "name": "Dana Seltzer",
+      "character": "Jo Lynne",
+      "order": 18,
+      "cast_id": 46,
+      "popularity": 0.2682,
+      "profile_path": null
+    },
+    {
+      "personId": 3358063,
+      "name": "Virgil Graham Hopkins",
+      "character": "Mr. Williams",
+      "order": 19,
+      "cast_id": 47,
+      "popularity": 0.242,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 93911,
+      "name": "Terence Davies",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5132,
+      "profile_path": "/6Nb0JwfAr4LJQQH3G3s8yfGqDKn.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 531,
+      "name": "southern usa"
+    },
+    {
+      "id": 10229,
+      "name": "singer"
+    },
+    {
+      "id": 178870,
+      "name": "evangelist"
+    },
+    {
+      "id": 207883,
+      "name": "1940s"
+    },
+    {
+      "id": 207981,
+      "name": "south"
+    }
+  ]
+}

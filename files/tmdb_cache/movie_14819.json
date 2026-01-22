@@ -1,0 +1,267 @@
+{
+  "overview": "Camp Hope is a summer retreat for overweight boys run by a kindly couple who make the campers feel comfortable with their extra pounds. But when tyrannical fitness guru Tony buys the camp, he puts the kids on a cruel regimen that goes too far. Sick of the endless weeks of \"all work and no play,\" the kids stage a coup and reclaim their summer of fun.",
+  "release_date": "1995-02-17",
+  "runtime": 97,
+  "budget": 10000000,
+  "revenue": 17700000,
+  "tmdb_vote_average": 6.143,
+  "tmdb_vote_count": 402,
+  "tmdb_popularity": 4.6262,
+  "original_language": "en",
+  "poster_path": "/uN65XQzyPknLZs2R6koZ2Cu6eGC.jpg",
+  "backdrop_path": "/hBUgtysIiuvJite0NX0C0FHJ90m.jpg",
+  "tmdb_genres_raw": [
+    "Family",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 2,
+      "name": "Walt Disney Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 175,
+      "name": "Caravan Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 77338,
+      "name": "Tom McGowan",
+      "character": "Pat",
+      "order": 0,
+      "cast_id": 6,
+      "popularity": 1.2006,
+      "profile_path": "/yXeRcq0Lgz8RofCcmg72ai97AFE.jpg"
+    },
+    {
+      "personId": 77337,
+      "name": "Aaron Schwartz",
+      "character": "Gerry",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 0.9775,
+      "profile_path": "/2Xwwd8qnXfslaDqbHDJFeoRiW2z.jpg"
+    },
+    {
+      "personId": 147499,
+      "name": "Shaun Weiss",
+      "character": "Josh",
+      "order": 2,
+      "cast_id": 11,
+      "popularity": 0.9602,
+      "profile_path": "/qA4cImKGvt3mX12a8lxyZcWswqA.jpg"
+    },
+    {
+      "personId": 112300,
+      "name": "Tom Hodges",
+      "character": "Lars",
+      "order": 3,
+      "cast_id": 18,
+      "popularity": 0.9415,
+      "profile_path": "/qI33qFbQZUR1Zq6IeYUEGcjO85j.jpg"
+    },
+    {
+      "personId": 156485,
+      "name": "Leah Lail",
+      "character": "Julie",
+      "order": 4,
+      "cast_id": 16,
+      "popularity": 1.3829,
+      "profile_path": "/jP6HKEI3GV32s1uVxpFHrc1vXR1.jpg"
+    },
+    {
+      "personId": 116805,
+      "name": "Paul Feig",
+      "character": "Tim",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 2.4383,
+      "profile_path": "/mE3eFY3gq1UQ7Rj2He2YbZ7PFya.jpg"
+    },
+    {
+      "personId": 77330,
+      "name": "Kenan Thompson",
+      "character": "Roy",
+      "order": 6,
+      "cast_id": 2,
+      "popularity": 1.9052,
+      "profile_path": "/vHPhDGc1om91TzoIQ4zMscpNmxF.jpg"
+    },
+    {
+      "personId": 11659,
+      "name": "David Bowe",
+      "character": "Chris Donelly",
+      "order": 7,
+      "cast_id": 21,
+      "popularity": 1.6776,
+      "profile_path": "/bB1B1K73leCSH1d3XjLe0Xy2VGf.jpg"
+    },
+    {
+      "personId": 94970,
+      "name": "Max Goldblatt",
+      "character": "Phillip",
+      "order": 8,
+      "cast_id": 62,
+      "popularity": 0.419,
+      "profile_path": null
+    },
+    {
+      "personId": 1547666,
+      "name": "Robert Zalkind",
+      "character": "Simms",
+      "order": 9,
+      "cast_id": 63,
+      "popularity": 0.2051,
+      "profile_path": null
+    },
+    {
+      "personId": 1192629,
+      "name": "Patrick LaBrecque",
+      "character": "Dawson",
+      "order": 10,
+      "cast_id": 64,
+      "popularity": 1.1085,
+      "profile_path": "/xVmHYsmJNetDnfja17Y71IGJhzF.jpg"
+    },
+    {
+      "personId": 4175,
+      "name": "Jeffrey Tambor",
+      "character": "Maury Garner",
+      "order": 11,
+      "cast_id": 65,
+      "popularity": 3.4503,
+      "profile_path": "/e4IkxsEo5O4oUWrIpXlEhWa6lqB.jpg"
+    },
+    {
+      "personId": 26042,
+      "name": "Jerry Stiller",
+      "character": "Harvey Bushkin",
+      "order": 12,
+      "cast_id": 66,
+      "popularity": 2.174,
+      "profile_path": "/eGymLHTpIyxKyBjACsNTpEof6y4.jpg"
+    },
+    {
+      "personId": 32394,
+      "name": "Anne Meara",
+      "character": "Alice Bushkin",
+      "order": 13,
+      "cast_id": 67,
+      "popularity": 1.238,
+      "profile_path": "/zQVdY5AdOlGuq2AtwOMjOD3AmfH.jpg"
+    },
+    {
+      "personId": 7399,
+      "name": "Ben Stiller",
+      "character": "Tony Perkis / Tony Perkis Sr.",
+      "order": 14,
+      "cast_id": 68,
+      "popularity": 5.5893,
+      "profile_path": "/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg"
+    },
+    {
+      "personId": 2134254,
+      "name": "David Goldman",
+      "character": "Nicholas",
+      "order": 15,
+      "cast_id": 17,
+      "popularity": 0.0768,
+      "profile_path": null
+    },
+    {
+      "personId": 2134255,
+      "name": "Joseph Wayne Miller",
+      "character": "Sam",
+      "order": 16,
+      "cast_id": 19,
+      "popularity": 0.3938,
+      "profile_path": null
+    },
+    {
+      "personId": 45864,
+      "name": "Cody Burger",
+      "character": "Cody",
+      "order": 17,
+      "cast_id": 20,
+      "popularity": 0.5073,
+      "profile_path": null
+    },
+    {
+      "personId": 20818,
+      "name": "Allen Covert",
+      "character": "Kenny",
+      "order": 18,
+      "cast_id": 15,
+      "popularity": 1.7212,
+      "profile_path": "/7n3euonyxM0wOGfk0T50pgHo06v.jpg"
+    },
+    {
+      "personId": 1462,
+      "name": "Tim Blake Nelson",
+      "character": "Camp Hope Salesman",
+      "order": 19,
+      "cast_id": 12,
+      "popularity": 2.639,
+      "profile_path": "/rWuTGiAMaaHIJ30eRkQS23LbRSW.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 32593,
+      "name": "Steven Brill",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8153,
+      "profile_path": "/bhWId1JKFtFECSJPCYo9DbXeOaS.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 5767,
+      "name": "summer camp"
+    },
+    {
+      "id": 6259,
+      "name": "psychopath"
+    },
+    {
+      "id": 2064,
+      "name": "overweight"
+    },
+    {
+      "id": 9974,
+      "name": "obesity"
+    },
+    {
+      "id": 162257,
+      "name": "instructor"
+    },
+    {
+      "id": 172426,
+      "name": "weight loss"
+    },
+    {
+      "id": 217637,
+      "name": "fitness center"
+    },
+    {
+      "id": 233061,
+      "name": "camp classic"
+    }
+  ]
+}

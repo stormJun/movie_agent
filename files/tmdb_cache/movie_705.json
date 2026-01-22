@@ -1,0 +1,277 @@
+{
+  "overview": "From the moment she glimpses her idol at the stage door, Eve Harrington is determined to take the reins of power away from the great actress Margo Channing. Eve maneuvers her way into Margo's Broadway role, becomes a sensation and even causes turmoil in the lives of Margo's director boyfriend, her playwright and his wife. Only the cynical drama critic sees through Eve, admiring her audacity and perfect pattern of deceit.",
+  "release_date": "1950-11-09",
+  "runtime": 139,
+  "budget": 1400000,
+  "revenue": 8402553,
+  "tmdb_vote_average": 8.075,
+  "tmdb_vote_count": 1641,
+  "tmdb_popularity": 2.4928,
+  "original_language": "en",
+  "poster_path": "/blBzZaatPWVuWpXEnPscMA4Xp6m.jpg",
+  "backdrop_path": "/zAL3LOswagN9onjN8DPcNFTqKuD.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 25,
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3380,
+      "name": "Bette Davis",
+      "character": "Margo Channing",
+      "order": 0,
+      "cast_id": 12,
+      "popularity": 3.165,
+      "profile_path": "/xILuKBfF6LjljgC5gic9QQENgmN.jpg"
+    },
+    {
+      "personId": 10606,
+      "name": "Anne Baxter",
+      "character": "Eve Harrington",
+      "order": 1,
+      "cast_id": 13,
+      "popularity": 2.485,
+      "profile_path": "/mUMKB7ZGzHJ38LpDWnA4VheIGBB.jpg"
+    },
+    {
+      "personId": 3361,
+      "name": "George Sanders",
+      "character": "Addison DeWitt",
+      "order": 2,
+      "cast_id": 14,
+      "popularity": 1.7247,
+      "profile_path": "/5tzdY4lCnfbLZU8Wblp5xfjn10B.jpg"
+    },
+    {
+      "personId": 10607,
+      "name": "Celeste Holm",
+      "character": "Karen Richards",
+      "order": 3,
+      "cast_id": 15,
+      "popularity": 1.3586,
+      "profile_path": "/gakDoDsesyikanmDsVfTuQ5UWLL.jpg"
+    },
+    {
+      "personId": 10608,
+      "name": "Gary Merrill",
+      "character": "Bill Sampson",
+      "order": 4,
+      "cast_id": 16,
+      "popularity": 0.8828,
+      "profile_path": "/sMmRlBwu1lS8qJW6t9iRNn8qBxA.jpg"
+    },
+    {
+      "personId": 10609,
+      "name": "Hugh Marlowe",
+      "character": "Lloyd Richards",
+      "order": 5,
+      "cast_id": 17,
+      "popularity": 0.8497,
+      "profile_path": "/5GyNiSiS9RQduMt0JlFn8jCnKb2.jpg"
+    },
+    {
+      "personId": 7684,
+      "name": "Thelma Ritter",
+      "character": "Birdie Coonan",
+      "order": 6,
+      "cast_id": 21,
+      "popularity": 1.4859,
+      "profile_path": "/q48Cf2evvi73qJULqhIotGrszaA.jpg"
+    },
+    {
+      "personId": 10610,
+      "name": "Gregory Ratoff",
+      "character": "Max Fabian",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 0.7186,
+      "profile_path": "/u7uLiwMka8ipsZU5YE3jxe3HVcH.jpg"
+    },
+    {
+      "personId": 3149,
+      "name": "Marilyn Monroe",
+      "character": "Miss Caswell",
+      "order": 8,
+      "cast_id": 20,
+      "popularity": 2.8285,
+      "profile_path": "/vcp6rHL2sZWdlJQDEWsEe0jAAe1.jpg"
+    },
+    {
+      "personId": 10611,
+      "name": "Barbara Bates",
+      "character": "Phoebe",
+      "order": 9,
+      "cast_id": 19,
+      "popularity": 2.2593,
+      "profile_path": "/tKHAPTZYYshqKMlQiETPkGX2vuL.jpg"
+    },
+    {
+      "personId": 50833,
+      "name": "Walter Hampden",
+      "character": "Aged Actor",
+      "order": 10,
+      "cast_id": 22,
+      "popularity": 0.3065,
+      "profile_path": "/wgkxdLPLCcqfSvjGCaFTqVeE7c4.jpg"
+    },
+    {
+      "personId": 109407,
+      "name": "Randy Stuart",
+      "character": "Girl",
+      "order": 11,
+      "cast_id": 23,
+      "popularity": 0.6222,
+      "profile_path": "/cf50fSXPTpW07IHDqWem4EvMu5m.jpg"
+    },
+    {
+      "personId": 31350,
+      "name": "Craig Hill",
+      "character": "Leading Man",
+      "order": 12,
+      "cast_id": 24,
+      "popularity": 0.6418,
+      "profile_path": "/o0HXmHV2dIlIoh1XxXOJtQtZ4ZQ.jpg"
+    },
+    {
+      "personId": 1024546,
+      "name": "Leland Harris",
+      "character": "Doorman",
+      "order": 13,
+      "cast_id": 25,
+      "popularity": 0.7159,
+      "profile_path": null
+    },
+    {
+      "personId": 247325,
+      "name": "Barbara White",
+      "character": "Autograph Seeker",
+      "order": 14,
+      "cast_id": 26,
+      "popularity": 0.7881,
+      "profile_path": "/zxFdQtiHyZHYJ5D17lmgPfH9kvp.jpg"
+    },
+    {
+      "personId": 3775919,
+      "name": "Eddie Fisher",
+      "character": "Stage Manager",
+      "order": 15,
+      "cast_id": 75,
+      "popularity": 0.0661,
+      "profile_path": null
+    },
+    {
+      "personId": 1196184,
+      "name": "William Pullen",
+      "character": "Clerk",
+      "order": 16,
+      "cast_id": 29,
+      "popularity": 1.9822,
+      "profile_path": "/w96BoY3kVlJEUeLZAgZth3jYCZN.jpg"
+    },
+    {
+      "personId": 1948,
+      "name": "Claude Stroud",
+      "character": "Pianist",
+      "order": 17,
+      "cast_id": 30,
+      "popularity": 0.554,
+      "profile_path": "/eIOgT3he6ZrvtudFKDBVPHl8cMi.jpg"
+    },
+    {
+      "personId": 120545,
+      "name": "Eugene Borden",
+      "character": "Frenchman",
+      "order": 18,
+      "cast_id": 31,
+      "popularity": 0.7674,
+      "profile_path": "/wFXTDoDtZ7rdZeAM47qh7wmI6o3.jpg"
+    },
+    {
+      "personId": 112355,
+      "name": "Helen Mowery",
+      "character": "Reporter",
+      "order": 19,
+      "cast_id": 32,
+      "popularity": 0.1924,
+      "profile_path": "/jHOOO6WXxAvGwbqgOv1Kg3F7tSQ.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 10601,
+      "name": "Joseph L. Mankiewicz",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6451,
+      "profile_path": "/qfs773ZGMwojZTl0WKM7b7qh8Mu.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 10965,
+      "name": "playwright"
+    },
+    {
+      "id": 12396,
+      "name": "hollywood"
+    },
+    {
+      "id": 12999,
+      "name": "black and white"
+    },
+    {
+      "id": 14534,
+      "name": "relationship"
+    },
+    {
+      "id": 15320,
+      "name": "insecurity"
+    },
+    {
+      "id": 156028,
+      "name": "broadway"
+    },
+    {
+      "id": 156866,
+      "name": "based on short story"
+    },
+    {
+      "id": 190481,
+      "name": "broadway star"
+    },
+    {
+      "id": 237460,
+      "name": "manipulative woman"
+    },
+    {
+      "id": 239106,
+      "name": "stage struck"
+    },
+    {
+      "id": 315362,
+      "name": "homewrecker"
+    }
+  ]
+}

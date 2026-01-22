@@ -1,0 +1,306 @@
+{
+  "overview": "At the University of Chicago, a research team that includes brilliant student machinist Eddie Kasalivich experiences a breakthrough: a stable form of fusion that may lead to a waste-free energy source. However, a private company wants to exploit the technology, so Kasalivich and physicist Dr. Lily Sinclair are framed for murder, and the fusion device is stolen. On the run from the FBI, they must recover the technology and exonerate themselves.",
+  "release_date": "1996-08-02",
+  "runtime": 107,
+  "budget": 50000000,
+  "revenue": 60209334,
+  "tmdb_vote_average": 5.792,
+  "tmdb_vote_count": 1163,
+  "tmdb_popularity": 2.5974,
+  "original_language": "en",
+  "poster_path": "/4ahjVHwXXsq5zK57ds8FwWY73MS.jpg",
+  "backdrop_path": "/8coSVxxbsV69T81nMILkiPdUKrP.jpg",
+  "tmdb_genres_raw": [
+    "Thriller",
+    "Action",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    {
+      "id": 2377,
+      "name": "Chicago Pacific Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 25,
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    },
+    {
+      "id": 80,
+      "name": "The Zanuck Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 787,
+      "name": "3 Arts Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6384,
+      "name": "Keanu Reeves",
+      "character": "Eddie Kasalivich",
+      "order": 0,
+      "cast_id": 14,
+      "popularity": 11.6793,
+      "profile_path": "/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+    },
+    {
+      "personId": 192,
+      "name": "Morgan Freeman",
+      "character": "Paul Shannon",
+      "order": 1,
+      "cast_id": 15,
+      "popularity": 11.6276,
+      "profile_path": "/jPsLqiYGSofU4s6BjrxnefMfabb.jpg"
+    },
+    {
+      "personId": 3293,
+      "name": "Rachel Weisz",
+      "character": "Dr. Lily Sinclair",
+      "order": 2,
+      "cast_id": 16,
+      "popularity": 5.6312,
+      "profile_path": "/msTqKPA33ryVtcVNgOdeaJGYq16.jpg"
+    },
+    {
+      "personId": 10430,
+      "name": "Fred Ward",
+      "character": "FBI Agent Leon Ford",
+      "order": 3,
+      "cast_id": 17,
+      "popularity": 3.3104,
+      "profile_path": "/t3tZduAwP1LMR8Vc13HZ39wKJ1q.jpg"
+    },
+    {
+      "personId": 14721,
+      "name": "Kevin Dunn",
+      "character": "FBI Agent Doyle",
+      "order": 4,
+      "cast_id": 18,
+      "popularity": 2.9303,
+      "profile_path": "/7dqLQjMNCQnuxQJQwQ5Ozz16LBq.jpg"
+    },
+    {
+      "personId": 1248,
+      "name": "Brian Cox",
+      "character": "Lyman Earl Collier",
+      "order": 5,
+      "cast_id": 19,
+      "popularity": 6.4132,
+      "profile_path": "/scSjbFCTRngXlkJRoKptM5kQGw7.jpg"
+    },
+    {
+      "personId": 593,
+      "name": "Joanna Cassidy",
+      "character": "Maggie McDermott",
+      "order": 6,
+      "cast_id": 20,
+      "popularity": 2.6289,
+      "profile_path": "/yzKVigHSkgi3KCRzUDvzgE3YtHU.jpg"
+    },
+    {
+      "personId": 10486,
+      "name": "Chelcie Ross",
+      "character": "Ed Rafferty",
+      "order": 7,
+      "cast_id": 21,
+      "popularity": 1.3296,
+      "profile_path": "/yerwaFvmmtkZSfT68Bhbn1U6I5P.jpg"
+    },
+    {
+      "personId": 1362093,
+      "name": "Nicholas Rudall",
+      "character": "Dr. Alistair Barkley",
+      "order": 8,
+      "cast_id": 22,
+      "popularity": 0.2193,
+      "profile_path": "/kgnAYEgmAzrzU1VmjxWmmboYair.jpg"
+    },
+    {
+      "personId": 21629,
+      "name": "Tzi Ma",
+      "character": "Lu Chen",
+      "order": 9,
+      "cast_id": 35,
+      "popularity": 2.3219,
+      "profile_path": "/x4fz0LCIiBNGdil3nBYO22W7QJ0.jpg"
+    },
+    {
+      "personId": 24524,
+      "name": "Krzysztof Pieczyński",
+      "character": "Lucasz Screbneski",
+      "order": 10,
+      "cast_id": 36,
+      "popularity": 0.3693,
+      "profile_path": "/bDuLYhLgJi6DUqFyhUkqAwTqG39.jpg"
+    },
+    {
+      "personId": 588278,
+      "name": "Julie Pearl",
+      "character": "Emily Pearl",
+      "order": 11,
+      "cast_id": 37,
+      "popularity": 0.7937,
+      "profile_path": "/A0MYm6EBEB1vX8KHUHEnxTfPz4L.jpg"
+    },
+    {
+      "personId": 73831,
+      "name": "Godfrey",
+      "character": "Chidi Egbuna",
+      "order": 12,
+      "cast_id": 38,
+      "popularity": 1.3161,
+      "profile_path": "/aKI13rfct5TrtMrYJpOB0VOtm4b.jpg"
+    },
+    {
+      "personId": 992588,
+      "name": "Gene Barge",
+      "character": "James Washington",
+      "order": 13,
+      "cast_id": 39,
+      "popularity": 0.3069,
+      "profile_path": null
+    },
+    {
+      "personId": 156592,
+      "name": "Nathan Davis",
+      "character": "Morris Grodsky",
+      "order": 14,
+      "cast_id": 40,
+      "popularity": 0.8059,
+      "profile_path": "/rB4lnIJ81nhlybSzoo1YSrO3xEI.jpg"
+    },
+    {
+      "personId": 1463182,
+      "name": "Aaron Williams",
+      "character": "Lab Techie #3",
+      "order": 15,
+      "cast_id": 41,
+      "popularity": 0.5269,
+      "profile_path": null
+    },
+    {
+      "personId": 1522071,
+      "name": "Daniel H. Friedman",
+      "character": "Video Dan",
+      "order": 16,
+      "cast_id": 42,
+      "popularity": 0.359,
+      "profile_path": null
+    },
+    {
+      "personId": 171631,
+      "name": "Johnny Lee Davenport",
+      "character": "Caleb Williams",
+      "order": 17,
+      "cast_id": 43,
+      "popularity": 0.7604,
+      "profile_path": null
+    },
+    {
+      "personId": 154657,
+      "name": "James Sie",
+      "character": "Ken Lim",
+      "order": 18,
+      "cast_id": 44,
+      "popularity": 1.6287,
+      "profile_path": "/yZ8SFsJJNmhgtNizwcWfknyBoBt.jpg"
+    },
+    {
+      "personId": 1522072,
+      "name": "Joan Kohn",
+      "character": "Sarah Fine",
+      "order": 19,
+      "cast_id": 45,
+      "popularity": 0.117,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 12989,
+      "name": "Andrew Davis",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.1182,
+      "profile_path": "/iHtwEZeu1X1l48WVMeNkN5vFo19.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 520,
+      "name": "chicago, illinois"
+    },
+    {
+      "id": 1812,
+      "name": "fbi"
+    },
+    {
+      "id": 2528,
+      "name": "hydrogen bomb"
+    },
+    {
+      "id": 3288,
+      "name": "secret lab"
+    },
+    {
+      "id": 6107,
+      "name": "energy supply"
+    },
+    {
+      "id": 10562,
+      "name": "on the run"
+    },
+    {
+      "id": 10410,
+      "name": "conspiracy"
+    },
+    {
+      "id": 179430,
+      "name": "aftercreditsstinger"
+    },
+    {
+      "id": 200918,
+      "name": "angry"
+    },
+    {
+      "id": 208156,
+      "name": "frantic"
+    },
+    {
+      "id": 242164,
+      "name": "scientific research"
+    },
+    {
+      "id": 325761,
+      "name": "admiring"
+    },
+    {
+      "id": 325765,
+      "name": "amused"
+    },
+    {
+      "id": 325769,
+      "name": "appreciative"
+    },
+    {
+      "id": 325775,
+      "name": "awestruck"
+    }
+  ]
+}

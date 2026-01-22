@@ -1,0 +1,262 @@
+{
+  "overview": "Rudy grew up in a steel mill town where most people ended up working, but wanted to play football at Notre Dame instead. There were only a couple of problems. His grades were a little low, his athletic skills were poor, and he was only half the size of the other players. But he had the drive and the spirit of 5 people and has set his sights upon joining the team.",
+  "release_date": "1993-09-17",
+  "runtime": 114,
+  "budget": 12000000,
+  "revenue": 22800000,
+  "tmdb_vote_average": 7.342,
+  "tmdb_vote_count": 724,
+  "tmdb_popularity": 3.0539,
+  "original_language": "en",
+  "poster_path": "/fAbfTCRpjHe2rprXBly55KL1dL9.jpg",
+  "backdrop_path": "/flzoI6jEw7J0X5x2rwOMZCwZ57I.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    {
+      "id": 559,
+      "name": "TriStar Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1328,
+      "name": "Sean Astin",
+      "character": "Daniel E. 'Rudy' Ruettiger",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 11.9838,
+      "profile_path": "/As3ctGUtBYmG4zj4Ifyrcqd71HP.jpg"
+    },
+    {
+      "personId": 15277,
+      "name": "Jon Favreau",
+      "character": "D-Bob",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 4.8309,
+      "profile_path": "/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg"
+    },
+    {
+      "personId": 13726,
+      "name": "Ned Beatty",
+      "character": "Daniel Ruettiger",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.9062,
+      "profile_path": "/rUNNq9CYLkyOwnyGd8QA0LzhmJf.jpg"
+    },
+    {
+      "personId": 3127,
+      "name": "Lili Taylor",
+      "character": "Sherry",
+      "order": 3,
+      "cast_id": 8,
+      "popularity": 2.5342,
+      "profile_path": "/vWcMUi3QyvCr3QuFbjtwyPx7WtU.jpg"
+    },
+    {
+      "personId": 17764,
+      "name": "Charles S. Dutton",
+      "character": "Fortune",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 1.8618,
+      "profile_path": "/eNLs4JLILqSY50Tq5QMkrlBxD0H.jpg"
+    },
+    {
+      "personId": 4937,
+      "name": "Vince Vaughn",
+      "character": "Jamie O'Hara",
+      "order": 5,
+      "cast_id": 39,
+      "popularity": 3.2323,
+      "profile_path": "/A9fJ88dfXZGpgFTnQIK0bOtjMrj.jpg"
+    },
+    {
+      "personId": 76986,
+      "name": "Greta Lind",
+      "character": "Mary",
+      "order": 6,
+      "cast_id": 4,
+      "popularity": 0.2575,
+      "profile_path": null
+    },
+    {
+      "personId": 76989,
+      "name": "Christopher Reed",
+      "character": "Pete",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 1.5763,
+      "profile_path": null
+    },
+    {
+      "personId": 76990,
+      "name": "Deborah Wittenberg",
+      "character": "Young Sherry",
+      "order": 8,
+      "cast_id": 10,
+      "popularity": 0.3891,
+      "profile_path": null
+    },
+    {
+      "personId": 76992,
+      "name": "Kevin Duda",
+      "character": "9-Year-Old Bernie",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 0.5169,
+      "profile_path": null
+    },
+    {
+      "personId": 134082,
+      "name": "Amy Pietz",
+      "character": "Melinda",
+      "order": 10,
+      "cast_id": 40,
+      "popularity": 2.8251,
+      "profile_path": "/yt9SEBl3gd29YZoDl2qCGOs0mhN.jpg"
+    },
+    {
+      "personId": 76987,
+      "name": "Scott Benjaminson",
+      "character": "Frank Ruettiger",
+      "order": 11,
+      "cast_id": 5,
+      "popularity": 0.6512,
+      "profile_path": "/ngTzWQAFxALQIgba6xOUXwD6oPv.jpg"
+    },
+    {
+      "personId": 76988,
+      "name": "Mary Ann Thebus",
+      "character": "Betty",
+      "order": 12,
+      "cast_id": 6,
+      "popularity": 0.3299,
+      "profile_path": null
+    },
+    {
+      "personId": 76991,
+      "name": "Christopher Erwin",
+      "character": "7-Year-Old Mark",
+      "order": 13,
+      "cast_id": 11,
+      "popularity": 0.0922,
+      "profile_path": null
+    },
+    {
+      "personId": 76993,
+      "name": "Robert Benirschke",
+      "character": "11-Year-Old Mark",
+      "order": 14,
+      "cast_id": 13,
+      "popularity": 0.1121,
+      "profile_path": null
+    },
+    {
+      "personId": 76994,
+      "name": "Luke Massery",
+      "character": "13-Year-Old Rudy",
+      "order": 15,
+      "cast_id": 14,
+      "popularity": 0.2794,
+      "profile_path": null
+    },
+    {
+      "personId": 76995,
+      "name": "Robert J. Steinmiller Jr.",
+      "character": "13-Year-Old Pete",
+      "order": 16,
+      "cast_id": 15,
+      "popularity": 0.2783,
+      "profile_path": "/yeg2tfrnCUINOdjqZm5oTbzPrCP.jpg"
+    },
+    {
+      "personId": 162607,
+      "name": "Lauren Katz",
+      "character": "Elza",
+      "order": 17,
+      "cast_id": 18,
+      "popularity": 1.5693,
+      "profile_path": "/orkwqVaN2olrjAW3Lkq4u6h66qK.jpg"
+    },
+    {
+      "personId": 19468,
+      "name": "Gerry Becker",
+      "character": "Father Ted",
+      "order": 18,
+      "cast_id": 35,
+      "popularity": 2.4716,
+      "profile_path": "/il1r1Iym5WFJyo8SQon60aqu4nC.jpg"
+    },
+    {
+      "personId": 10360,
+      "name": "Robert Prosky",
+      "character": "Father Cavanaugh",
+      "order": 19,
+      "cast_id": 36,
+      "popularity": 1.8699,
+      "profile_path": "/yV95RE8UGyN8rZYF9W4fOGaAV6U.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 44847,
+      "name": "David Anspaugh",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.3631,
+      "profile_path": "/vUH2KjFr9EAc1fKcZaemEcHvBwK.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 240,
+      "name": "underdog"
+    },
+    {
+      "id": 6075,
+      "name": "sports"
+    },
+    {
+      "id": 579,
+      "name": "american football"
+    },
+    {
+      "id": 5565,
+      "name": "biography"
+    },
+    {
+      "id": 9672,
+      "name": "based on true story"
+    },
+    {
+      "id": 10235,
+      "name": "family relationships"
+    },
+    {
+      "id": 160190,
+      "name": "aspiration"
+    }
+  ]
+}

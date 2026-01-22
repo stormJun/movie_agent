@@ -1,0 +1,266 @@
+{
+  "overview": "A Southern California kid named Calvin Fuller is magically transported to the medieval kingdom of Camelot through a crack in the ground caused by an earthquake. Once there, he learns he was summoned by the wizard Merlin, who needs Calvin to save Camelot. Using dazzling modern inventions, can Calvin help King Arthur retain his crown and thwart the evil Lord Belasco?",
+  "release_date": "1995-08-11",
+  "runtime": 89,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.0,
+  "tmdb_vote_count": 190,
+  "tmdb_popularity": 1.0454,
+  "original_language": "en",
+  "poster_path": "/y269Xj4nOi4YHOKT241c4xubgGv.jpg",
+  "backdrop_path": "/nqDQFwSpzqPNeu7gL0BWnwjWFkL.jpg",
+  "tmdb_genres_raw": [
+    "Adventure",
+    "Fantasy",
+    "Comedy",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 4063,
+      "name": "Trimark Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 2,
+      "name": "Walt Disney Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 870,
+      "name": "Tapestry Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 21403,
+      "name": "Thomas Ian Nicholas",
+      "character": "Calvin Fuller",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.2995,
+      "profile_path": "/hQo2P9vwjJW6A1b327nl71a2JEW.jpg"
+    },
+    {
+      "personId": 14324,
+      "name": "Joss Ackland",
+      "character": "King Arthur",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.7906,
+      "profile_path": "/2votqyrYGvSsXKaPNIa0CZtvBMY.jpg"
+    },
+    {
+      "personId": 10672,
+      "name": "Art Malik",
+      "character": "Lord Belasco",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.9118,
+      "profile_path": "/4jHV8loqE7u6Sh8RItyHbrY7u6q.jpg"
+    },
+    {
+      "personId": 8784,
+      "name": "Daniel Craig",
+      "character": "Master Kane",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 7.6179,
+      "profile_path": "/iFerDZUmC5Fu26i4qI8xnUVEHc7.jpg"
+    },
+    {
+      "personId": 204,
+      "name": "Kate Winslet",
+      "character": "Princess Sarah",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 10.0601,
+      "profile_path": "/9xDnfZrWhM67wJlQJEsOOjQzDUQ.jpg"
+    },
+    {
+      "personId": 24618,
+      "name": "Paloma Baeza",
+      "character": "Princess Katey",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 1.3382,
+      "profile_path": "/inlPpdCPbK80V7CCnZwMfTs9oG9.jpg"
+    },
+    {
+      "personId": 1831684,
+      "name": "David Tysall",
+      "character": "Ratan",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 0.1921,
+      "profile_path": null
+    },
+    {
+      "personId": 41236,
+      "name": "Ron Moody",
+      "character": "Merlin",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 1.0001,
+      "profile_path": "/xCEPHWkeFrJd7sXpKLJiFA5ibJP.jpg"
+    },
+    {
+      "personId": 162250,
+      "name": "Barry Stanton",
+      "character": "Blacksmith",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 0.4592,
+      "profile_path": "/cVZtFkxbBRf7roJJHyF4EFpuA23.jpg"
+    },
+    {
+      "personId": 25443,
+      "name": "Michael Mehlmann",
+      "character": "Shop Owner",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 2.0044,
+      "profile_path": "/99xEBI1UGqnGuNs8cZMneavpuC.jpg"
+    },
+    {
+      "personId": 3673334,
+      "name": "Melanie Oettinger",
+      "character": "Peasant Woman",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 0.1168,
+      "profile_path": null
+    },
+    {
+      "personId": 3673335,
+      "name": "Rebecca Denton",
+      "character": "Washer Woman",
+      "order": 11,
+      "cast_id": 16,
+      "popularity": 0.0409,
+      "profile_path": null
+    },
+    {
+      "personId": 3673336,
+      "name": "Michael Kelly",
+      "character": "Apprentice",
+      "order": 12,
+      "cast_id": 17,
+      "popularity": 0.0239,
+      "profile_path": null
+    },
+    {
+      "personId": 56327,
+      "name": "Louise Rosner-Meyer",
+      "character": "Lady in Waiting",
+      "order": 13,
+      "cast_id": 18,
+      "popularity": 0.6028,
+      "profile_path": null
+    },
+    {
+      "personId": 3673337,
+      "name": "Paul Rosner",
+      "character": "Peasant Boy",
+      "order": 14,
+      "cast_id": 19,
+      "popularity": 0.0557,
+      "profile_path": null
+    },
+    {
+      "personId": 2215099,
+      "name": "Béla Unger",
+      "character": "Head Guard",
+      "order": 15,
+      "cast_id": 20,
+      "popularity": 0.3137,
+      "profile_path": "/eIMgJTimf6glteIxsCGC7XOtyuD.jpg"
+    },
+    {
+      "personId": 10657,
+      "name": "Shane Rimmer",
+      "character": "Coach",
+      "order": 16,
+      "cast_id": 21,
+      "popularity": 1.1783,
+      "profile_path": "/morFcla0R2Bv3vu3B1HgCmm0eiv.jpg"
+    },
+    {
+      "personId": 3673338,
+      "name": "Tim Wickham",
+      "character": "Ricky Baker",
+      "order": 17,
+      "cast_id": 22,
+      "popularity": 0.0634,
+      "profile_path": null
+    },
+    {
+      "personId": 3673339,
+      "name": "Daniel Bennett",
+      "character": "Howell",
+      "order": 18,
+      "cast_id": 23,
+      "popularity": 0.0256,
+      "profile_path": null
+    },
+    {
+      "personId": 49346,
+      "name": "Debora Weston",
+      "character": "Mom",
+      "order": 19,
+      "cast_id": 24,
+      "popularity": 0.5013,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 62043,
+      "name": "Michael Gottlieb",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4291,
+      "profile_path": "/bqCgOp8SllpFezATNFVJdQ4yoqt.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 4379,
+      "name": "time travel"
+    },
+    {
+      "id": 3521,
+      "name": "earthquake"
+    },
+    {
+      "id": 3966,
+      "name": "camelot"
+    },
+    {
+      "id": 10982,
+      "name": "king arthur"
+    },
+    {
+      "id": 161257,
+      "name": "medieval"
+    },
+    {
+      "id": 252571,
+      "name": "6th century"
+    }
+  ]
+}

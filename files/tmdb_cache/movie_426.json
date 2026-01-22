@@ -1,0 +1,332 @@
+{
+  "overview": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
+  "release_date": "1958-05-09",
+  "runtime": 128,
+  "budget": 2479000,
+  "revenue": 7808900,
+  "tmdb_vote_average": 8.152,
+  "tmdb_vote_count": 6155,
+  "tmdb_popularity": 6.2003,
+  "original_language": "en",
+  "poster_path": "/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg",
+  "backdrop_path": "/rtVwkTqllcmyY4TVOycgVBHppWf.jpg",
+  "tmdb_genres_raw": [
+    "Mystery",
+    "Romance",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 10715,
+      "name": "Alfred J. Hitchcock Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 854,
+      "name": "James Stewart",
+      "character": "Det. John 'Scottie' Ferguson",
+      "order": 0,
+      "cast_id": 10,
+      "popularity": 3.0543,
+      "profile_path": "/jam9DRhOuKomlr0vUXTamPoxPdk.jpg"
+    },
+    {
+      "personId": 5729,
+      "name": "Kim Novak",
+      "character": "Madeleine Elster / Judy Barton",
+      "order": 1,
+      "cast_id": 11,
+      "popularity": 2.3356,
+      "profile_path": "/xvIOwqOD1BXkpFZEwzkb6aamaEL.jpg"
+    },
+    {
+      "personId": 5730,
+      "name": "Barbara Bel Geddes",
+      "character": "Marjorie 'Midge' Wood",
+      "order": 2,
+      "cast_id": 12,
+      "popularity": 1.1484,
+      "profile_path": "/99XLCtElLhFY7F7WwO6W4vigrN7.jpg"
+    },
+    {
+      "personId": 5731,
+      "name": "Tom Helmore",
+      "character": "Gavin Elster",
+      "order": 3,
+      "cast_id": 13,
+      "popularity": 0.894,
+      "profile_path": "/aEKwGuDjktdF13YBrEAQjC7Te2m.jpg"
+    },
+    {
+      "personId": 5732,
+      "name": "Henry Jones",
+      "character": "Coroner",
+      "order": 4,
+      "cast_id": 14,
+      "popularity": 1.851,
+      "profile_path": "/shJyQYEvp9P66ikDgzyGph7YguL.jpg"
+    },
+    {
+      "personId": 5737,
+      "name": "Raymond Bailey",
+      "character": "Scottie's Doctor",
+      "order": 5,
+      "cast_id": 19,
+      "popularity": 1.7351,
+      "profile_path": "/wM6u14GHDOvWfT4XAP8PARA60qj.jpg"
+    },
+    {
+      "personId": 5738,
+      "name": "Ellen Corby",
+      "character": "Manager of McKittrick Hotel",
+      "order": 6,
+      "cast_id": 20,
+      "popularity": 1.7552,
+      "profile_path": "/sf45aqBW2iYSnWU1aTGozEemMby.jpg"
+    },
+    {
+      "personId": 5739,
+      "name": "Konstantin Shayne",
+      "character": "Pop Leibel",
+      "order": 7,
+      "cast_id": 21,
+      "popularity": 0.5691,
+      "profile_path": "/cWSabUme2MxFDwdQ9aeEYf141bo.jpg"
+    },
+    {
+      "personId": 5740,
+      "name": "Lee Patrick",
+      "character": "Car Owner Mistaken for Madeleine",
+      "order": 8,
+      "cast_id": 22,
+      "popularity": 0.9945,
+      "profile_path": "/zlLezqw2Klyw1qt0uxePQtC9NZ6.jpg"
+    },
+    {
+      "personId": 121323,
+      "name": "Bess Flowers",
+      "character": "Diner at Ernie's (uncredited)",
+      "order": 9,
+      "cast_id": 24,
+      "popularity": 1.3223,
+      "profile_path": "/oErbIo6a2QPYZSqfdzU6vlDTD8i.jpg"
+    },
+    {
+      "personId": 2636,
+      "name": "Alfred Hitchcock",
+      "character": "Man Walking Past Elster's Office (uncredited)",
+      "order": 10,
+      "cast_id": 53,
+      "popularity": 3.8442,
+      "profile_path": "/108fiNM6poRieMg7RIqLJRxdAwG.jpg"
+    },
+    {
+      "personId": 2953170,
+      "name": "David Ahdar",
+      "character": "Priest (uncredited)",
+      "order": 11,
+      "cast_id": 54,
+      "popularity": 0.4741,
+      "profile_path": null
+    },
+    {
+      "personId": 1620078,
+      "name": "Sara Taft",
+      "character": "Nun (uncredited)",
+      "order": 12,
+      "cast_id": 55,
+      "popularity": 0.7003,
+      "profile_path": "/guk5aNLK1BOvEh92AkJBysILi8u.jpg"
+    },
+    {
+      "personId": 1358454,
+      "name": "Ezelle Poule",
+      "character": "Older mistaken identity (uncredited)",
+      "order": 13,
+      "cast_id": 63,
+      "popularity": 0.3792,
+      "profile_path": null
+    },
+    {
+      "personId": 1559631,
+      "name": "John Benson",
+      "character": "Salesman (uncredited)",
+      "order": 14,
+      "cast_id": 64,
+      "popularity": 1.7313,
+      "profile_path": null
+    },
+    {
+      "personId": 34609,
+      "name": "Paul Bryar",
+      "character": "Capt. Hansen (uncredited)",
+      "order": 15,
+      "cast_id": 68,
+      "popularity": 1.6075,
+      "profile_path": "/o13k57tZuq5JZCRxHoNX0adOrcD.jpg"
+    },
+    {
+      "personId": 114497,
+      "name": "Steve Conte",
+      "character": "Burglar (uncredited)",
+      "order": 16,
+      "cast_id": 69,
+      "popularity": 0.4286,
+      "profile_path": "/8AArPxbeCmnWTl8kwFrnshQ3kWB.jpg"
+    },
+    {
+      "personId": 111827,
+      "name": "Fred Graham",
+      "character": "Policeman on Rooftop (uncredited)",
+      "order": 17,
+      "cast_id": 70,
+      "popularity": 0.9207,
+      "profile_path": "/ytQfyLKEMl78N5q2wDNiNjnE4bY.jpg"
+    },
+    {
+      "personId": 141067,
+      "name": "Forbes Murray",
+      "character": "Diner at Ernie's (uncredited)",
+      "order": 18,
+      "cast_id": 71,
+      "popularity": 0.8201,
+      "profile_path": "/twfHU2COpK8F40toerX502dywIb.jpg"
+    },
+    {
+      "personId": 1420897,
+      "name": "Raoul Freeman",
+      "character": "Diner at Ernie's (uncredited)",
+      "order": 19,
+      "cast_id": 72,
+      "popularity": 0.6983,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2636,
+      "name": "Alfred Hitchcock",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 3.8442,
+      "profile_path": "/108fiNM6poRieMg7RIqLJRxdAwG.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 4812,
+      "name": "plan"
+    },
+    {
+      "id": 2038,
+      "name": "love of one's life"
+    },
+    {
+      "id": 1335,
+      "name": "sense of guilt"
+    },
+    {
+      "id": 582,
+      "name": "san francisco, california"
+    },
+    {
+      "id": 1252,
+      "name": "suicide attempt"
+    },
+    {
+      "id": 1523,
+      "name": "obsession"
+    },
+    {
+      "id": 1338,
+      "name": "bachelor"
+    },
+    {
+      "id": 703,
+      "name": "detective"
+    },
+    {
+      "id": 2599,
+      "name": "necklace"
+    },
+    {
+      "id": 2567,
+      "name": "vertigo"
+    },
+    {
+      "id": 2598,
+      "name": "museum"
+    },
+    {
+      "id": 5918,
+      "name": "painting"
+    },
+    {
+      "id": 4617,
+      "name": "insurance fraud"
+    },
+    {
+      "id": 9807,
+      "name": "film noir"
+    },
+    {
+      "id": 12393,
+      "name": "golden gate bridge"
+    },
+    {
+      "id": 12565,
+      "name": "psychological thriller"
+    },
+    {
+      "id": 34268,
+      "name": "rescue from drowning"
+    },
+    {
+      "id": 201456,
+      "name": "paranoid"
+    },
+    {
+      "id": 207268,
+      "name": "neo-noir"
+    },
+    {
+      "id": 208251,
+      "name": "nervous"
+    },
+    {
+      "id": 214746,
+      "name": "fear of heights"
+    },
+    {
+      "id": 325787,
+      "name": "complicated"
+    },
+    {
+      "id": 361521,
+      "name": "hipnotismo"
+    },
+    {
+      "id": 361716,
+      "name": "vistavision"
+    }
+  ]
+}

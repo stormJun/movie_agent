@@ -1,0 +1,257 @@
+{
+  "overview": "Detective Rita Veder is assigned to a baffling serial murder case. After examining the crime scene — a corpse-filled ship found adrift at sea — she meets Maximilian, a smooth-talking Caribbean playboy determined to romance her.",
+  "release_date": "1995-10-26",
+  "runtime": 102,
+  "budget": 14000000,
+  "revenue": 19800000,
+  "tmdb_vote_average": 5.083,
+  "tmdb_vote_count": 617,
+  "tmdb_popularity": 1.4241,
+  "original_language": "en",
+  "poster_path": "/fodPA5x3REtOwColG17CucreZqM.jpg",
+  "backdrop_path": "/ApVoaz7bRhymILlbHCoL3k3EFxC.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Horror",
+    "Romance",
+    "Fantasy"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 30,
+      "name": "Eddie Murphy Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 9780,
+      "name": "Angela Bassett",
+      "character": "Detective Rita Veder",
+      "order": 0,
+      "cast_id": 15,
+      "popularity": 3.7132,
+      "profile_path": "/tKnuviliyeKNGlo26IU5gIrJAtd.jpg"
+    },
+    {
+      "personId": 776,
+      "name": "Eddie Murphy",
+      "character": "Maximillian / Pauly / Guido",
+      "order": 1,
+      "cast_id": 12,
+      "popularity": 5.6305,
+      "profile_path": "/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg"
+    },
+    {
+      "personId": 32486,
+      "name": "Allen Payne",
+      "character": "Detective Justice",
+      "order": 2,
+      "cast_id": 16,
+      "popularity": 1.6565,
+      "profile_path": "/fGma6p1NUrb3hYYls4zxneNcyAa.jpg"
+    },
+    {
+      "personId": 66554,
+      "name": "Kadeem Hardison",
+      "character": "Julius Jones",
+      "order": 3,
+      "cast_id": 17,
+      "popularity": 1.57,
+      "profile_path": "/swexf3AEacs9Ep2oDcaUyE5XBdj.jpg"
+    },
+    {
+      "personId": 56902,
+      "name": "John Witherspoon",
+      "character": "Silas Green",
+      "order": 4,
+      "cast_id": 18,
+      "popularity": 2.2155,
+      "profile_path": "/5clP720NIBWMKT0pwVCzIPjVkxG.jpg"
+    },
+    {
+      "personId": 47458,
+      "name": "Zakes Mokae",
+      "character": "Dr. Zeko",
+      "order": 5,
+      "cast_id": 19,
+      "popularity": 3.5291,
+      "profile_path": "/qLQfTAYvufmy3X6WI4OHrABL2ap.jpg"
+    },
+    {
+      "personId": 593,
+      "name": "Joanna Cassidy",
+      "character": "Capt. Dewey",
+      "order": 6,
+      "cast_id": 20,
+      "popularity": 2.6289,
+      "profile_path": "/yzKVigHSkgi3KCRzUDvzgE3YtHU.jpg"
+    },
+    {
+      "personId": 3800,
+      "name": "Jerry Hall",
+      "character": "Woman in Park",
+      "order": 7,
+      "cast_id": 35,
+      "popularity": 1.1824,
+      "profile_path": "/kInkl0xOfRhzA0x72JjIA5w2ugt.jpg"
+    },
+    {
+      "personId": 172200,
+      "name": "Simbi Khali",
+      "character": "Nikki",
+      "order": 8,
+      "cast_id": 22,
+      "popularity": 1.3026,
+      "profile_path": "/ofwqQRxW61EX6Ajzos0GPlt7yFq.jpg"
+    },
+    {
+      "personId": 1218331,
+      "name": "Vickilyn Reynolds",
+      "character": "Mrs. Brown",
+      "order": 9,
+      "cast_id": 23,
+      "popularity": 0.6256,
+      "profile_path": "/k0Ep93kRod13ExtSMYY1QADBY96.jpg"
+    },
+    {
+      "personId": 2360399,
+      "name": "Messiri Freeman",
+      "character": "Eva, Julius' Girl",
+      "order": 10,
+      "cast_id": 24,
+      "popularity": 0.1739,
+      "profile_path": null
+    },
+    {
+      "personId": 170950,
+      "name": "Kelly Cinnante",
+      "character": "Policewoman Photographer",
+      "order": 11,
+      "cast_id": 25,
+      "popularity": 0.639,
+      "profile_path": null
+    },
+    {
+      "personId": 13657,
+      "name": "Jsu Garcia",
+      "character": "Anthony",
+      "order": 12,
+      "cast_id": 26,
+      "popularity": 1.2671,
+      "profile_path": "/fXbhpqgxV5a2mnZykuwxc6ecGyF.jpg"
+    },
+    {
+      "personId": 6951,
+      "name": "W. Earl Brown",
+      "character": "Thrasher",
+      "order": 13,
+      "cast_id": 27,
+      "popularity": 2.2165,
+      "profile_path": "/oBHcJc65nUmopx6lVc9ZvYYARZz.jpg"
+    },
+    {
+      "personId": 1235876,
+      "name": "Ayo Adeyemi",
+      "character": "Bartender",
+      "order": 14,
+      "cast_id": 28,
+      "popularity": 0.4443,
+      "profile_path": null
+    },
+    {
+      "personId": 1228822,
+      "name": "Troy Curvey Jr.",
+      "character": "Choir Leader",
+      "order": 15,
+      "cast_id": 29,
+      "popularity": 0.5194,
+      "profile_path": null
+    },
+    {
+      "personId": 2360404,
+      "name": "William Blount",
+      "character": "Deacon Brown",
+      "order": 16,
+      "cast_id": 30,
+      "popularity": 0.1443,
+      "profile_path": null
+    },
+    {
+      "personId": 155027,
+      "name": "Joe Costanza",
+      "character": "Bear",
+      "order": 17,
+      "cast_id": 31,
+      "popularity": 0.3858,
+      "profile_path": null
+    },
+    {
+      "personId": 99854,
+      "name": "John LaMotta",
+      "character": "Lizzy",
+      "order": 18,
+      "cast_id": 32,
+      "popularity": 1.1888,
+      "profile_path": "/xyj8QUjBv2wxgHfkHqI60lwC8Re.jpg"
+    },
+    {
+      "personId": 106474,
+      "name": "Marcelo Tubert",
+      "character": "Waiter at Caprisi's",
+      "order": 19,
+      "cast_id": 33,
+      "popularity": 1.2111,
+      "profile_path": "/94XR27kAYZlkDDDnp6OSrGeyuvn.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 5140,
+      "name": "Wes Craven",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.5214,
+      "profile_path": "/eqwl6owrYykeTGTpKxwcAkbEJmg.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3133,
+      "name": "vampire"
+    },
+    {
+      "id": 41523,
+      "name": "brooklyn, new york city"
+    },
+    {
+      "id": 323976,
+      "name": "african american comedy"
+    },
+    {
+      "id": 338528,
+      "name": "african american romance"
+    },
+    {
+      "id": 338549,
+      "name": "black vampire"
+    }
+  ]
+}

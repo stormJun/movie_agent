@@ -1,0 +1,260 @@
+{
+  "overview": "A blackout leaves those affected to consider what is necessary, what is legal, and what is questionable, in order to survive in a predatory environment.",
+  "release_date": "1996-08-30",
+  "runtime": 94,
+  "budget": 8000000,
+  "revenue": 3600000,
+  "tmdb_vote_average": 5.765,
+  "tmdb_vote_count": 115,
+  "tmdb_popularity": 0.6893,
+  "original_language": "en",
+  "poster_path": "/9LZLXVwhhmkdye4JXoLP06fm5G2.jpg",
+  "backdrop_path": "/zcE3evYO61qp6xQMJbESzWaImWK.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 37,
+      "name": "Gramercy Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 56,
+      "name": "Amblin Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "it",
+      "name": "Italiano"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6677,
+      "name": "Kyle MacLachlan",
+      "character": "Matthew",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.4384,
+      "profile_path": "/7gNyx8fYAUdOp2jpCEH3dyFbeV.jpg"
+    },
+    {
+      "personId": 1951,
+      "name": "Elisabeth Shue",
+      "character": "Annie",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 5.054,
+      "profile_path": "/1pmjDSLvOuqKW1P2KRPlpFMeUFe.jpg"
+    },
+    {
+      "personId": 20212,
+      "name": "Dermot Mulroney",
+      "character": "Joe",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 5.4409,
+      "profile_path": "/zemTC606JcuMgIGbJMYAocrS5Gm.jpg"
+    },
+    {
+      "personId": 55755,
+      "name": "Richard T. Jones",
+      "character": "Raymond",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 3.4828,
+      "profile_path": "/hdko2C45Wr5G03Z8JwGjWMynP84.jpg"
+    },
+    {
+      "personId": 17200,
+      "name": "Bill Smitrovich",
+      "character": "Steph",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 2.0011,
+      "profile_path": "/yzZUYnAdX0MMA8eZMTVsXufRCfU.jpg"
+    },
+    {
+      "personId": 12132,
+      "name": "Michael Rooker",
+      "character": "Gary",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 4.0339,
+      "profile_path": "/ngOuHNIAGrKyY1O7F0f9C5Q9ONg.jpg"
+    },
+    {
+      "personId": 1317860,
+      "name": "Tori Kristiansen",
+      "character": "Sarah",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 0.0881,
+      "profile_path": null
+    },
+    {
+      "personId": 1317861,
+      "name": "Tyra Kristiansen",
+      "character": "Sarah",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 0.3117,
+      "profile_path": null
+    },
+    {
+      "personId": 61545,
+      "name": "Rick Worthy",
+      "character": "Johnny",
+      "order": 8,
+      "cast_id": 10,
+      "popularity": 1.9067,
+      "profile_path": "/xPDc6GA14A5R2BNa1P5xuDmUnPo.jpg"
+    },
+    {
+      "personId": 1317862,
+      "name": "Edhem Barker",
+      "character": "Trendy German Guy",
+      "order": 9,
+      "cast_id": 11,
+      "popularity": 0.0744,
+      "profile_path": null
+    },
+    {
+      "personId": 1317863,
+      "name": "Tyrone Tann",
+      "character": "Tripping Guy",
+      "order": 10,
+      "cast_id": 12,
+      "popularity": 0.8913,
+      "profile_path": null
+    },
+    {
+      "personId": 1194328,
+      "name": "Mônica Torres",
+      "character": "Hand Holding Girl",
+      "order": 11,
+      "cast_id": 13,
+      "popularity": 0.7096,
+      "profile_path": "/3T7cId6giAtlAr4kWjfssQaaaDM.jpg"
+    },
+    {
+      "personId": 214701,
+      "name": "Sherry Lynn",
+      "character": "Additional Dialogue Replacement (voice)",
+      "order": 12,
+      "cast_id": 36,
+      "popularity": 0.5433,
+      "profile_path": "/cp7SYig9JVbBWgc2YD4wEUNQGzh.jpg"
+    },
+    {
+      "personId": 111196,
+      "name": "David O'Donnell",
+      "character": "Hand Holding Guy",
+      "order": 13,
+      "cast_id": 37,
+      "popularity": 2.1884,
+      "profile_path": "/3sHDghttGGBdJdTVE7z4EBSmz8S.jpg"
+    },
+    {
+      "personId": 17305,
+      "name": "Greg Grunberg",
+      "character": "Double Date Guy",
+      "order": 14,
+      "cast_id": 38,
+      "popularity": 2.7722,
+      "profile_path": "/ir2QunLf6aTaowpEygbIcjiZLDB.jpg"
+    },
+    {
+      "personId": 2019609,
+      "name": "Kerri Vickers",
+      "character": "Double Date Girl",
+      "order": 15,
+      "cast_id": 39,
+      "popularity": 0.5531,
+      "profile_path": null
+    },
+    {
+      "personId": 153934,
+      "name": "Molly Morgan",
+      "character": "Babysitter",
+      "order": 16,
+      "cast_id": 40,
+      "popularity": 0.9324,
+      "profile_path": "/wgMvbHOKtogPhHuvYov5zRseOkt.jpg"
+    },
+    {
+      "personId": 31117,
+      "name": "Philip Bruns",
+      "character": "Mr. Schaefer",
+      "order": 17,
+      "cast_id": 41,
+      "popularity": 0.9527,
+      "profile_path": "/jogGxPsyoU3ofLXZwpaAxTGE5NI.jpg"
+    },
+    {
+      "personId": 300990,
+      "name": "Kirk Fox",
+      "character": "Drugstore Announcer",
+      "order": 18,
+      "cast_id": 42,
+      "popularity": 1.5468,
+      "profile_path": "/A3aEZwSGh1cCVMUTJefaewqZOjd.jpg"
+    },
+    {
+      "personId": 131725,
+      "name": "William Lucking",
+      "character": "Pharmacist",
+      "order": 19,
+      "cast_id": 43,
+      "popularity": 1.6709,
+      "profile_path": "/nthuOBrFVbXd4ixkzo0VRW2k3Mo.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 508,
+      "name": "David Koepp",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.4107,
+      "profile_path": "/is3t4k8OMX0KNCD3EilDWOucYZG.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2583,
+      "name": "blackout"
+    },
+    {
+      "id": 2187,
+      "name": "riot"
+    },
+    {
+      "id": 14755,
+      "name": "power outage"
+    },
+    {
+      "id": 169725,
+      "name": "sick child"
+    }
+  ]
+}

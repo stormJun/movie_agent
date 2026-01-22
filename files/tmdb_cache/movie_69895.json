@@ -1,0 +1,232 @@
+{
+  "overview": "Stefano is now forty years old but has not yet found his purpose in life, remaining an eternal dreamer waiting for that decisive enlightenment. With his parents who have great plans for him, Stefano realizes that he lost most of his years without a real goal and thinks back to all those missed opportunities that could have led him to another path, between old loves and unexploited opportunities .",
+  "release_date": "1993-05-26",
+  "runtime": 82,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.7,
+  "tmdb_vote_count": 11,
+  "tmdb_popularity": 0.2146,
+  "original_language": "it",
+  "poster_path": "/gxV6O7elYGvfzWmvzROq2NWtaG.jpg",
+  "backdrop_path": "/prEiOMhWZAkOC4bu4jTLEUn3Oks.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 8693,
+      "name": "Bambú Cinema e TV",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "it",
+      "name": "Italiano"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 225140,
+      "name": "Maurizio Nichetti",
+      "character": "Stefano",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.7093,
+      "profile_path": "/uZRUbJXs1p0Q0o0lyTSL0ZB7cCf.jpg"
+    },
+    {
+      "personId": 124620,
+      "name": "Elena Sofia Ricci",
+      "character": "Angela",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.9488,
+      "profile_path": "/6SKKF1MWQXydnPJPQwrRE6WO0oW.jpg"
+    },
+    {
+      "personId": 55913,
+      "name": "Amanda Sandrelli",
+      "character": "Chiara",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 0.5775,
+      "profile_path": "/AkeDcepFi4rXGNo4kf7sZIgTCZ4.jpg"
+    },
+    {
+      "personId": 557432,
+      "name": "Caterina Sylos Labini",
+      "character": "Costanza",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 0.151,
+      "profile_path": "/xLFz9GMhu7YITH6qHaprFn1CBZR.jpg"
+    },
+    {
+      "personId": 46274,
+      "name": "James Thierrée",
+      "character": "Stefano at 17",
+      "order": 4,
+      "cast_id": 22,
+      "popularity": 0.4782,
+      "profile_path": "/reqkGvYZFwhhKtbZ5h6ODN9WTU3.jpg"
+    },
+    {
+      "personId": 14149,
+      "name": "Renato Scarpa",
+      "character": "Stefano's Father",
+      "order": 5,
+      "cast_id": 5,
+      "popularity": 0.6776,
+      "profile_path": "/wVWEERHioQVxnB4jFeDDZIzdSPX.jpg"
+    },
+    {
+      "personId": 44104,
+      "name": "Milena Vukotić",
+      "character": "Stefano's Mother",
+      "order": 6,
+      "cast_id": 4,
+      "popularity": 1.2257,
+      "profile_path": "/k4dsiarmq3s5kryz7MxSIQcrPRR.jpg"
+    },
+    {
+      "personId": 234419,
+      "name": "Lidia Broccolino",
+      "character": "Marta",
+      "order": 7,
+      "cast_id": 7,
+      "popularity": 0.452,
+      "profile_path": "/csFpKeAMjU1r8ATNvpeIcaGN9IX.jpg"
+    },
+    {
+      "personId": 2504055,
+      "name": "Maria Eugenia D'Aquino",
+      "character": "Journalist #1",
+      "order": 8,
+      "cast_id": 9,
+      "popularity": 0.3499,
+      "profile_path": "/q889kw5MDnxBTVrJBP7tUgwhUOO.jpg"
+    },
+    {
+      "personId": 5395023,
+      "name": "Leonard Catacchio",
+      "character": "Roberto",
+      "order": 9,
+      "cast_id": 25,
+      "popularity": 0.0538,
+      "profile_path": null
+    },
+    {
+      "personId": 232110,
+      "name": "Sabrina Paravicini",
+      "character": "Student",
+      "order": 10,
+      "cast_id": 26,
+      "popularity": 0.3296,
+      "profile_path": "/qa3rdC2rgIMb1ZtvjLguXth4gYo.jpg"
+    },
+    {
+      "personId": 5395024,
+      "name": "Cristina Beretta",
+      "character": "Student",
+      "order": 11,
+      "cast_id": 27,
+      "popularity": 0.0071,
+      "profile_path": null
+    },
+    {
+      "personId": 5395025,
+      "name": "Maddalena Franceschi",
+      "character": "Teenage Costanza",
+      "order": 12,
+      "cast_id": 28,
+      "popularity": 0.0607,
+      "profile_path": null
+    },
+    {
+      "personId": 1149293,
+      "name": "Osvaldo Salvi",
+      "character": "Captain Verzi",
+      "order": 13,
+      "cast_id": 29,
+      "popularity": 1.2594,
+      "profile_path": "/v8tcp3TCyznz0sEUuzmJoFs2JgN.jpg"
+    },
+    {
+      "personId": 1149295,
+      "name": "Enrico Grazioli",
+      "character": "Lieutenant",
+      "order": 14,
+      "cast_id": 30,
+      "popularity": 0.362,
+      "profile_path": "/9knb1DF0zfBqz9bnBTzmjfIwSy3.jpg"
+    },
+    {
+      "personId": 1939096,
+      "name": "Elio Veller",
+      "character": "Marshal",
+      "order": 15,
+      "cast_id": 31,
+      "popularity": 0.5776,
+      "profile_path": "/mVOyMcOQEasJFI15fev2RUcJRGQ.jpg"
+    },
+    {
+      "personId": 1878933,
+      "name": "Marco Zannoni",
+      "character": "Appuntato #1",
+      "order": 16,
+      "cast_id": 32,
+      "popularity": 0.0877,
+      "profile_path": "/gWWiRVox8NrqSQZ8Xkasapx1UWk.jpg"
+    },
+    {
+      "personId": 1516227,
+      "name": "Riccardo Magherini",
+      "character": "Appuntato #2",
+      "order": 17,
+      "cast_id": 33,
+      "popularity": 0.2594,
+      "profile_path": "/lfMbm1QWAKrGUZmLoX1B9zeHwyO.jpg"
+    },
+    {
+      "personId": 1781127,
+      "name": "Luigi Rosatelli",
+      "character": "Marshal Pallotta",
+      "order": 18,
+      "cast_id": 34,
+      "popularity": 0.1506,
+      "profile_path": null
+    },
+    {
+      "personId": 5395028,
+      "name": "Marie Pasqua Mottl",
+      "character": "Police Spy",
+      "order": 19,
+      "cast_id": 35,
+      "popularity": 0.0627,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 225140,
+      "name": "Maurizio Nichetti",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.7093,
+      "profile_path": "/uZRUbJXs1p0Q0o0lyTSL0ZB7cCf.jpg"
+    }
+  ],
+  "keywords": []
+}

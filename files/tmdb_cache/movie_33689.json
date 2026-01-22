@@ -1,0 +1,257 @@
+{
+  "overview": "Identical 9-year-olds from very different backgrounds: orphaned Amanda and wealthy Alyssa meet at summer camp and decide to switch places -- and play matchmaker between Alyssa's dad, Roger, and the kind social worker who cares for Amanda.",
+  "release_date": "1995-11-17",
+  "runtime": 101,
+  "budget": 19474589,
+  "revenue": 19474589,
+  "tmdb_vote_average": 6.508,
+  "tmdb_vote_count": 944,
+  "tmdb_popularity": 2.8876,
+  "original_language": "en",
+  "poster_path": "/4CptjFLiIJXtjc3dykS7vkEHMbw.jpg",
+  "backdrop_path": "/yS3E5LOcFsk3eWGh3oWGnsfV1M8.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Family",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 6130,
+      "name": "Dualstar Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 89131,
+      "name": "Orr & Cruickshank",
+      "origin_country": ""
+    },
+    {
+      "id": 11661,
+      "name": "Rysher Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1796,
+      "name": "Kirstie Alley",
+      "character": "Diane Barrows",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.8469,
+      "profile_path": "/9XZOeQtmvHdBkuMrlxO5PHPZwJo.jpg"
+    },
+    {
+      "personId": 26472,
+      "name": "Steve Guttenberg",
+      "character": "Roger Callaway",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.1322,
+      "profile_path": "/ghTMepliFNcRQHNELs8pgNDsZyW.jpg"
+    },
+    {
+      "personId": 67848,
+      "name": "Ashley Olsen",
+      "character": "Alyssa Callaway",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.6696,
+      "profile_path": "/suf5kWfRYErCp6D5YnOZlpGA8dH.jpg"
+    },
+    {
+      "personId": 67849,
+      "name": "Mary-Kate Olsen",
+      "character": "Amanda Lemmon",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.0716,
+      "profile_path": "/iKQ5OoUrPtQU0BMtKhR0joVWQZT.jpg"
+    },
+    {
+      "personId": 92255,
+      "name": "Jane Sibbett",
+      "character": "Clarice Kensington",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.7972,
+      "profile_path": "/bPtcUaWhHN7aQgtYUGeOp7M55nE.jpg"
+    },
+    {
+      "personId": 6541,
+      "name": "Philip Bosco",
+      "character": "Vincenzo",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 1.253,
+      "profile_path": "/fhN45vRvNiHr1lqx5tjdQULHcKU.jpg"
+    },
+    {
+      "personId": 1331570,
+      "name": "Michelle Grisom",
+      "character": "Carmen",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 0.3532,
+      "profile_path": null
+    },
+    {
+      "personId": 1329538,
+      "name": "Desmond Robertson",
+      "character": "Frankie",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 0.3814,
+      "profile_path": null
+    },
+    {
+      "personId": 1331571,
+      "name": "Tiny Mills",
+      "character": "Tiny",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 0.4521,
+      "profile_path": null
+    },
+    {
+      "personId": 1331572,
+      "name": "Shanelle Henry",
+      "character": "Patty",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 0.5828,
+      "profile_path": null
+    },
+    {
+      "personId": 1331573,
+      "name": "Michèle Lonsdale Smith",
+      "character": "Michelle",
+      "order": 10,
+      "cast_id": 13,
+      "popularity": 0.2432,
+      "profile_path": null
+    },
+    {
+      "personId": 1331574,
+      "name": "Sean Orr",
+      "character": "Jerry",
+      "order": 11,
+      "cast_id": 14,
+      "popularity": 0.4177,
+      "profile_path": "/aA3bXbpxZG6eHHsj2osx9RVqKK5.jpg"
+    },
+    {
+      "personId": 1331575,
+      "name": "Elizabeth Walsh",
+      "character": "Emily",
+      "order": 12,
+      "cast_id": 15,
+      "popularity": 0.1573,
+      "profile_path": null
+    },
+    {
+      "personId": 44176,
+      "name": "Dov Tiefenbach",
+      "character": "Harry Butkis Jr.",
+      "order": 13,
+      "cast_id": 17,
+      "popularity": 1.3112,
+      "profile_path": "/m5zltcenHoksNzbNlM1V4S5m5A1.jpg"
+    },
+    {
+      "personId": 182946,
+      "name": "Douglas O'Keeffe",
+      "character": "Craig Bilderberg",
+      "order": 14,
+      "cast_id": 34,
+      "popularity": 0.9848,
+      "profile_path": "/figN49HgZDTA7S63Z9Lc5ruXM4T.jpg"
+    },
+    {
+      "personId": 3940516,
+      "name": "Anthony Aiello",
+      "character": "Anthony",
+      "order": 15,
+      "cast_id": 36,
+      "popularity": 0.0707,
+      "profile_path": null
+    },
+    {
+      "personId": 1476040,
+      "name": "LaTonya Borsay",
+      "character": "Wanda",
+      "order": 16,
+      "cast_id": 37,
+      "popularity": 1.149,
+      "profile_path": "/8R1dhLZHeUlMYr7NPbYOPST6BZP.jpg"
+    },
+    {
+      "personId": 1239581,
+      "name": "Michael Vollans",
+      "character": "Blue Team Kid",
+      "order": 17,
+      "cast_id": 38,
+      "popularity": 0.2148,
+      "profile_path": "/4uY698eea9pEbMqbsBtHA3iMJtF.jpg"
+    },
+    {
+      "personId": 1240334,
+      "name": "Paul O'Sullivan",
+      "character": "Bernard Louffier",
+      "order": 18,
+      "cast_id": 39,
+      "popularity": 0.5664,
+      "profile_path": "/2ynw7OonynMv6k2xhCe9umAaJGf.jpg"
+    },
+    {
+      "personId": 36173,
+      "name": "Lawrence Dane",
+      "character": "Mr. Kensington",
+      "order": 19,
+      "cast_id": 40,
+      "popularity": 1.0222,
+      "profile_path": "/u67sYvj2kblUIbWxG88pGP7gdyY.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 17167,
+      "name": "Andy Tennant",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.5302,
+      "profile_path": "/bvHhEFoAlPbbtioxrWZaOFNAu71.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 10132,
+      "name": "matchmaking"
+    },
+    {
+      "id": 13014,
+      "name": "orphan"
+    },
+    {
+      "id": 204353,
+      "name": "identical twin"
+    },
+    {
+      "id": 239145,
+      "name": "relationship sabotage"
+    }
+  ]
+}

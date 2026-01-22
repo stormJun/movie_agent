@@ -1,0 +1,204 @@
+{
+  "overview": "Amidst putting together a benefit concert for the local farmers and on the brink of a huge deal with mogul Lucky Claybert, Gumby and his band The Clayboys must battle with the villainous Blockheads, who have kidnapped their loyal canine Lowbelly.",
+  "release_date": "1995-10-04",
+  "runtime": 77,
+  "budget": 2800000,
+  "revenue": 57100,
+  "tmdb_vote_average": 5.5,
+  "tmdb_vote_count": 17,
+  "tmdb_popularity": 1.2071,
+  "original_language": "en",
+  "poster_path": "/A4wc8SrcaKyfNKXA0g5Aydpk4Id.jpg",
+  "backdrop_path": "/oplq7JCIKEDbKxKPwTt9dHuWXjc.jpg",
+  "tmdb_genres_raw": [
+    "Fantasy",
+    "Animation",
+    "Family",
+    "Music",
+    "Adventure"
+  ],
+  "production_companies": [
+    {
+      "id": 106591,
+      "name": "Premavision Inc.",
+      "origin_country": "US"
+    },
+    {
+      "id": 106592,
+      "name": "Arrow Releasing",
+      "origin_country": "US"
+    },
+    {
+      "id": 8316,
+      "name": "WarnerVision Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 44676,
+      "name": "Dal McKennon",
+      "character": "Gumby / Claybert / Fatbuckle / Kapp (voice)",
+      "order": 0,
+      "cast_id": 43,
+      "popularity": 1.8443,
+      "profile_path": "/7ke4WPwpxVsSsYfoibCKEmrI56V.jpg"
+    },
+    {
+      "personId": 129534,
+      "name": "Art Clokey",
+      "character": "Pokey / Prickle / Gumbo (voice)",
+      "order": 1,
+      "cast_id": 44,
+      "popularity": 1.1171,
+      "profile_path": null
+    },
+    {
+      "personId": 1248729,
+      "name": "Gloria Clokey",
+      "character": "Goo (voice)",
+      "order": 2,
+      "cast_id": 45,
+      "popularity": 0.1047,
+      "profile_path": null
+    },
+    {
+      "personId": 4642184,
+      "name": "Manny LaCarruba",
+      "character": "Thinbuckle (voice)",
+      "order": 3,
+      "cast_id": 46,
+      "popularity": 0.322,
+      "profile_path": null
+    },
+    {
+      "personId": 4642190,
+      "name": "Alice Young",
+      "character": "Ginger (voice)",
+      "order": 4,
+      "cast_id": 50,
+      "popularity": 0.1172,
+      "profile_path": null
+    },
+    {
+      "personId": 4642188,
+      "name": "Janet McDuff",
+      "character": "Gumba (voice)",
+      "order": 5,
+      "cast_id": 48,
+      "popularity": 0.4645,
+      "profile_path": null
+    },
+    {
+      "personId": 2083674,
+      "name": "Patti Morse",
+      "character": "Tara (voice)",
+      "order": 6,
+      "cast_id": 49,
+      "popularity": 0.3508,
+      "profile_path": null
+    },
+    {
+      "personId": 4642192,
+      "name": "Bonnie Randolph",
+      "character": "Lowebelly / Farm Lady (voice)",
+      "order": 7,
+      "cast_id": 51,
+      "popularity": 0.4064,
+      "profile_path": null
+    },
+    {
+      "personId": 1949931,
+      "name": "David Ozzie Ahlers",
+      "character": "Radio Announcer (voice)",
+      "order": 8,
+      "cast_id": 52,
+      "popularity": 0.3085,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 129534,
+      "name": "Art Clokey",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1171,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2673,
+      "name": "horse"
+    },
+    {
+      "id": 4044,
+      "name": "groupie"
+    },
+    {
+      "id": 10121,
+      "name": "stop motion"
+    },
+    {
+      "id": 11628,
+      "name": "cloning"
+    },
+    {
+      "id": 10982,
+      "name": "king arthur"
+    },
+    {
+      "id": 11700,
+      "name": "rock music"
+    },
+    {
+      "id": 15162,
+      "name": "dog"
+    },
+    {
+      "id": 18001,
+      "name": "rock band"
+    },
+    {
+      "id": 164246,
+      "name": "nostalgic"
+    },
+    {
+      "id": 197644,
+      "name": "pearl"
+    },
+    {
+      "id": 217042,
+      "name": "benefit concert"
+    },
+    {
+      "id": 220263,
+      "name": "local farmers"
+    },
+    {
+      "id": 263164,
+      "name": "clay animation"
+    },
+    {
+      "id": 269769,
+      "name": "based on tv series"
+    },
+    {
+      "id": 281358,
+      "name": "science fiction"
+    }
+  ]
+}

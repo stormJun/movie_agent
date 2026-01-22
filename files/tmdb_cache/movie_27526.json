@@ -1,0 +1,246 @@
+{
+  "overview": "Unable to move on from the loss of his daughter, Freddy, now a shell of the person he was before, swears to kill the man responsible for her death.",
+  "release_date": "1995-01-26",
+  "runtime": 111,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.011,
+  "tmdb_vote_count": 281,
+  "tmdb_popularity": 1.091,
+  "original_language": "en",
+  "poster_path": "/kogaCIIylHmWQo2gJrrdq8Br8b8.jpg",
+  "backdrop_path": "/oi9RFxqb5Tncm7VvDnVT6sZUWyH.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 14,
+      "name": "Miramax",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 514,
+      "name": "Jack Nicholson",
+      "character": "Freddy Gale",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 6.2476,
+      "profile_path": "/hBHcQIEa6P48HQAlLZkh0eKSSkG.jpg"
+    },
+    {
+      "personId": 52,
+      "name": "David Morse",
+      "character": "John Booth",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 3.4713,
+      "profile_path": "/tzBIwZYV2dmWZGSrGkJJx5F7Cei.jpg"
+    },
+    {
+      "personId": 5657,
+      "name": "Anjelica Huston",
+      "character": "Mary",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.0248,
+      "profile_path": "/6hnYeHa7Rc1w1MmQ3JsLSIb7yCX.jpg"
+    },
+    {
+      "personId": 32,
+      "name": "Robin Wright",
+      "character": "Jojo",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 5.39,
+      "profile_path": "/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg"
+    },
+    {
+      "personId": 6721,
+      "name": "Piper Laurie",
+      "character": "Helen Booth",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 2.0395,
+      "profile_path": "/ccMC4RssRDKU6cz6K7rxiq1t2Hp.jpg"
+    },
+    {
+      "personId": 1272,
+      "name": "Richard Bradford",
+      "character": "Stuart Booth",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 0.7472,
+      "profile_path": "/kGCq5DdgmhK5tL9P87SwmsJigPz.jpg"
+    },
+    {
+      "personId": 23648,
+      "name": "Priscilla Barnes",
+      "character": "Verna",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 1.3593,
+      "profile_path": "/3bEvjncb05fI7dIwzjeUrvc54qA.jpg"
+    },
+    {
+      "personId": 98084,
+      "name": "David Baerwald",
+      "character": "Peter",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 0.1389,
+      "profile_path": null
+    },
+    {
+      "personId": 72861,
+      "name": "Robbie Robertson",
+      "character": "Roger",
+      "order": 8,
+      "cast_id": 9,
+      "popularity": 0.6218,
+      "profile_path": "/82bnxofH57Y0IcvjDVCDbUrBTqA.jpg"
+    },
+    {
+      "personId": 47879,
+      "name": "John Savage",
+      "character": "Bobby",
+      "order": 9,
+      "cast_id": 10,
+      "popularity": 2.644,
+      "profile_path": "/exzL5D7RSnIepF9FsFlzCs248he.jpg"
+    },
+    {
+      "personId": 56152,
+      "name": "Kari Wührer",
+      "character": "Mia",
+      "order": 10,
+      "cast_id": 11,
+      "popularity": 2.284,
+      "profile_path": "/sTWVUK4WBcSpuIotCjlU7sRaEH7.jpg"
+    },
+    {
+      "personId": 91850,
+      "name": "Jennifer Leigh Warren",
+      "character": "Jennifer",
+      "order": 11,
+      "cast_id": 12,
+      "popularity": 1.031,
+      "profile_path": null
+    },
+    {
+      "personId": 98087,
+      "name": "Kellita Smith",
+      "character": "Tanya",
+      "order": 12,
+      "cast_id": 13,
+      "popularity": 1.1644,
+      "profile_path": "/fH1yOmV3Fn0L0aaWbOtYSp0dj9Z.jpg"
+    },
+    {
+      "personId": 21544,
+      "name": "Richard C. Sarafian",
+      "character": "Sunny Ventura",
+      "order": 13,
+      "cast_id": 34,
+      "popularity": 0.6296,
+      "profile_path": "/5r4AFht3ecnl4V2w8KvfmV7A4yB.jpg"
+    },
+    {
+      "personId": 98089,
+      "name": "Bobby Cooper",
+      "character": "Coop",
+      "order": 14,
+      "cast_id": 15,
+      "popularity": 2.1142,
+      "profile_path": "/xwCswCUhWpCXVOsd5XO46eF0NAW.jpg"
+    },
+    {
+      "personId": 78084,
+      "name": "Jeff Morris",
+      "character": "Silas",
+      "order": 15,
+      "cast_id": 16,
+      "popularity": 1.1216,
+      "profile_path": "/nAZRsstL5d88PlqSeTdocqOm29U.jpg"
+    },
+    {
+      "personId": 98090,
+      "name": "Buddy Anderson",
+      "character": "Buddy",
+      "order": 16,
+      "cast_id": 17,
+      "popularity": 0.2019,
+      "profile_path": null
+    },
+    {
+      "personId": 98091,
+      "name": "Edward L. Katz",
+      "character": "Eddie",
+      "order": 17,
+      "cast_id": 18,
+      "popularity": 0.2233,
+      "profile_path": null
+    },
+    {
+      "personId": 60023,
+      "name": "Joe Viterelli",
+      "character": "Joe",
+      "order": 18,
+      "cast_id": 19,
+      "popularity": 1.171,
+      "profile_path": "/bWltEIjQhNxdjMEa4nglDLKCk8G.jpg"
+    },
+    {
+      "personId": 12543,
+      "name": "Eileen Ryan",
+      "character": "Woman in shop",
+      "order": 19,
+      "cast_id": 20,
+      "popularity": 0.8505,
+      "profile_path": "/fLyoFNUCteI0VgLEH2V44HX0PeF.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2228,
+      "name": "Sean Penn",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 5.1863,
+      "profile_path": "/9glqNTVpFpdN1nFklKaHPUyCwR6.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 697,
+      "name": "loss of loved one"
+    },
+    {
+      "id": 6440,
+      "name": "hit-and-run"
+    },
+    {
+      "id": 9748,
+      "name": "revenge"
+    },
+    {
+      "id": 10614,
+      "name": "tragedy"
+    }
+  ]
+}

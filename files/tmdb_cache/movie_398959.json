@@ -1,0 +1,171 @@
+{
+  "overview": "Troubled Roula finds herself drawn to Leon, an author of children's books who has suffered an enormous emotional and creative blockage ever since his wife died in a motorcycle accident two years before. Leon has only his 12-year-old daughter Tanja to keep him company. As romance blooms between Leon and Roula, his daughter approves. Unfortunately, Roula is carrying heavy emotional baggage stemming from the incest she suffered at the hands of her father.",
+  "release_date": "1995-09-11",
+  "runtime": 97,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.0,
+  "tmdb_vote_count": 6,
+  "tmdb_popularity": 0.265,
+  "original_language": "de",
+  "poster_path": "/7vlYt3ekwqi8zD6zZp6YatixdQN.jpg",
+  "backdrop_path": "/h4NIif3mtWcAPgGwxTHKpADyrhM.jpg",
+  "tmdb_genres_raw": [
+    "Romance",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 101,
+      "name": "Roxy Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 80481,
+      "name": "Made in Munich Filmproduktion",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 36653,
+      "name": "Anica Dobra",
+      "character": "Roula",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 0.9118,
+      "profile_path": "/tvIy8LlvR4DyKuMb0x0F98RTMHv.jpg"
+    },
+    {
+      "personId": 38682,
+      "name": "Martin Umbach",
+      "character": "Leon",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 1.6134,
+      "profile_path": "/eCu9xhjVELWvfahy1fNDdSDaL9z.jpg"
+    },
+    {
+      "personId": 1667642,
+      "name": "Tina Hamperl",
+      "character": "Tanja",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 0.0682,
+      "profile_path": null
+    },
+    {
+      "personId": 26498,
+      "name": "Ernst Jacobi",
+      "character": "Sievers",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 0.5518,
+      "profile_path": "/5Asta0aLv05ODjCtHtPQ5KqguxB.jpg"
+    },
+    {
+      "personId": 1735548,
+      "name": "Felicitas Grimm-Luck",
+      "character": "Roula (young)",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 0.0362,
+      "profile_path": null
+    },
+    {
+      "personId": 1735549,
+      "name": "Irene Hagensby",
+      "character": "Lisa",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 0.0493,
+      "profile_path": null
+    },
+    {
+      "personId": 1735550,
+      "name": "Rosa Greve",
+      "character": "Nicole",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 0.0539,
+      "profile_path": null
+    },
+    {
+      "personId": 1735552,
+      "name": "Birgit Thøt Jensen",
+      "character": "Anette",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 0.2936,
+      "profile_path": "/selYhNiUfLUJH0XBoAfZYsK3Muj.jpg"
+    },
+    {
+      "personId": 1735553,
+      "name": "Julia Burger",
+      "character": "Sonja",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 0.2053,
+      "profile_path": null
+    },
+    {
+      "personId": 1735555,
+      "name": "Ingeborg Nees",
+      "character": "Roula's mother",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 0.0629,
+      "profile_path": null
+    },
+    {
+      "personId": 1735557,
+      "name": "Gerhard Nörr",
+      "character": "Reverend",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 0.0286,
+      "profile_path": null
+    },
+    {
+      "personId": 1735570,
+      "name": "Jan Jensen",
+      "character": "Construction worker",
+      "order": 11,
+      "cast_id": 15,
+      "popularity": 0.0286,
+      "profile_path": null
+    },
+    {
+      "personId": 1735571,
+      "name": "Tom Schmidt",
+      "character": "Construction worker",
+      "order": 12,
+      "cast_id": 16,
+      "popularity": 0.0143,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 43440,
+      "name": "Martin Enlen",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.2382,
+      "profile_path": null
+    }
+  ],
+  "keywords": []
+}

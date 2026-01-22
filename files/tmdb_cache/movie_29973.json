@@ -1,0 +1,240 @@
+{
+  "overview": "Al Stump is a famous sports-writer chosen by Ty Cobb to co-write his official, authorized 'autobiography' before his death. Cobb, widely feared and despised, feels misunderstood and wants to set the record straight about 'the greatest ball-player ever,' in his words.",
+  "release_date": "1994-12-02",
+  "runtime": 128,
+  "budget": 25500000,
+  "revenue": 1007583,
+  "tmdb_vote_average": 5.9,
+  "tmdb_vote_count": 92,
+  "tmdb_popularity": 3.1786,
+  "original_language": "en",
+  "poster_path": "/clOqh9is8vWZvX6AUjF4HtLdQMj.jpg",
+  "backdrop_path": "/1ZpyiQWRS95hixy6ajtJk4WVduZ.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 508,
+      "name": "Regency Enterprises",
+      "origin_country": "US"
+    },
+    {
+      "id": 644,
+      "name": "Alcor Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 16823,
+      "name": "Aleor Films",
+      "origin_country": ""
+    },
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2176,
+      "name": "Tommy Lee Jones",
+      "character": "Ty Cobb",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 13.6129,
+      "profile_path": "/mCiZNRAzbnPojJEZwVZWLw9kzxR.jpg"
+    },
+    {
+      "personId": 4040,
+      "name": "Robert Wuhl",
+      "character": "Al Stump",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.4239,
+      "profile_path": "/hs8jxnVGOytAhwM9Y7Rab69ijdW.jpg"
+    },
+    {
+      "personId": 12139,
+      "name": "Lolita Davidovich",
+      "character": "Ramona",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.3601,
+      "profile_path": "/vQlk518qlef94XXJqtrkIqS3izo.jpg"
+    },
+    {
+      "personId": 2141,
+      "name": "Ned Bellamy",
+      "character": "Ray",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.5022,
+      "profile_path": "/9qj6thu0g6iUc2hvfoEYlO4GSbY.jpg"
+    },
+    {
+      "personId": 104503,
+      "name": "Scott Burkholder",
+      "character": "Jimmy",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 1.2355,
+      "profile_path": "/7cfSbcHsi6T5dI29B22fImWcND7.jpg"
+    },
+    {
+      "personId": 2145494,
+      "name": "Allan Malamud",
+      "character": "Mud",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 0.5384,
+      "profile_path": null
+    },
+    {
+      "personId": 1720955,
+      "name": "Bill Caplan",
+      "character": "Bill",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 0.2391,
+      "profile_path": null
+    },
+    {
+      "personId": 2145495,
+      "name": "Jeff Fellenzer",
+      "character": "Sportswriter",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 0.2616,
+      "profile_path": null
+    },
+    {
+      "personId": 2145496,
+      "name": "Doug Krikorian",
+      "character": "Sportswriter",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 0.2654,
+      "profile_path": null
+    },
+    {
+      "personId": 1496747,
+      "name": "Gavin Smith",
+      "character": "Sportsman's Lounge Bartender",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 0.4032,
+      "profile_path": "/fEEa3M6dwUaEdR6juOyKq5XVrAA.jpg"
+    },
+    {
+      "personId": 20748,
+      "name": "Lou Myers",
+      "character": "Willie",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 0.8415,
+      "profile_path": "/rVBQVeoRteJpzCj8iKxxmoiIeos.jpg"
+    },
+    {
+      "personId": 102580,
+      "name": "William Utay",
+      "character": "Jameson",
+      "order": 11,
+      "cast_id": 16,
+      "popularity": 1.9309,
+      "profile_path": "/83M6STjPACXj73KlQzUhXkkSKll.jpg"
+    },
+    {
+      "personId": 97944,
+      "name": "J. Kenneth Campbell",
+      "character": "William Herschel Cobb",
+      "order": 12,
+      "cast_id": 17,
+      "popularity": 0.8078,
+      "profile_path": "/kSMHA2TMWWJc1GGpdud8abVZbGA.jpg"
+    },
+    {
+      "personId": 51456,
+      "name": "Rhoda Griffis",
+      "character": "Amanda Chitwood Cobb",
+      "order": 13,
+      "cast_id": 18,
+      "popularity": 1.3395,
+      "profile_path": "/jO50PgihnZ0gAlJDulpzxMoLgRB.jpg"
+    },
+    {
+      "personId": 2145497,
+      "name": "Tyler Logan Cobb",
+      "character": "Young Ty",
+      "order": 14,
+      "cast_id": 19,
+      "popularity": 0.1446,
+      "profile_path": null
+    },
+    {
+      "personId": 5833643,
+      "name": "Steven Brown",
+      "character": "Husband at Motel",
+      "order": 15,
+      "cast_id": 33,
+      "popularity": 0.042,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 4037,
+      "name": "Ron Shelton",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.6369,
+      "profile_path": "/eUzRfBeh2Fn6dJtmlvLO42XuYgt.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6075,
+      "name": "sports"
+    },
+    {
+      "id": 1480,
+      "name": "baseball"
+    },
+    {
+      "id": 2495,
+      "name": "georgia"
+    },
+    {
+      "id": 5565,
+      "name": "biography"
+    },
+    {
+      "id": 6165,
+      "name": "historical figure"
+    },
+    {
+      "id": 159201,
+      "name": "baseball player"
+    },
+    {
+      "id": 168322,
+      "name": "baseball hall of fame"
+    },
+    {
+      "id": 249977,
+      "name": "lake tahoe"
+    }
+  ]
+}

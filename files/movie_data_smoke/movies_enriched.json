@@ -1,0 +1,3197 @@
+[
+  {
+    "movieId": 1,
+    "name": "Toy Story",
+    "year": 1995,
+    "movielens_genres_raw": [
+      "Adventure",
+      "Animation",
+      "Children",
+      "Comedy",
+      "Fantasy"
+    ],
+    "movielens_genres": [
+      "Adventure",
+      "Animation",
+      "Family",
+      "Comedy",
+      "Fantasy"
+    ],
+    "movielens_genres_unmapped": [],
+    "tmdb_genres_raw": [
+      "Family",
+      "Comedy",
+      "Animation",
+      "Adventure"
+    ],
+    "genres": [
+      "Family",
+      "Comedy",
+      "Animation",
+      "Adventure"
+    ],
+    "imdbId": "tt0114709",
+    "tmdbId": 862,
+    "data_source": "movielens+tmdb",
+    "created_at": "2026-01-06T20:13:49.356410+00:00",
+    "movielens_avg_rating": 3.9149549214611024,
+    "movielens_rating_count": 10759,
+    "overview": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+    "release_date": "1995-11-22",
+    "runtime": 81,
+    "budget": 30000000,
+    "revenue": 401157969,
+    "tmdb_vote_average": 7.971,
+    "tmdb_vote_count": 19412,
+    "tmdb_popularity": 20.6922,
+    "original_language": "en",
+    "poster_path": "/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+    "backdrop_path": "/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+    "production_companies": [
+      {
+        "id": 3,
+        "name": "Pixar",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "code": "US",
+        "name": "United States of America"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "en",
+        "name": "English"
+      }
+    ],
+    "cast": [
+      {
+        "personId": 31,
+        "name": "Tom Hanks",
+        "character": "Woody (voice)",
+        "order": 0,
+        "cast_id": 14,
+        "popularity": 14.6165,
+        "profile_path": "/eKF1sGJRrZJbfBG1KirPt1cfNd3.jpg"
+      },
+      {
+        "personId": 12898,
+        "name": "Tim Allen",
+        "character": "Buzz Lightyear (voice)",
+        "order": 1,
+        "cast_id": 15,
+        "popularity": 3.7717,
+        "profile_path": "/woWhZzFILVhYMAvsPL171HjMY0y.jpg"
+      },
+      {
+        "personId": 7167,
+        "name": "Don Rickles",
+        "character": "Mr. Potato Head (voice)",
+        "order": 2,
+        "cast_id": 16,
+        "popularity": 2.1846,
+        "profile_path": "/iGMOVxIQoTPepRvqSCtRulfpx7u.jpg"
+      },
+      {
+        "personId": 12899,
+        "name": "Jim Varney",
+        "character": "Slinky Dog (voice)",
+        "order": 3,
+        "cast_id": 17,
+        "popularity": 1.5593,
+        "profile_path": "/zvBFmvKUrPvE6FW35O3RP4i1ZPp.jpg"
+      },
+      {
+        "personId": 12900,
+        "name": "Wallace Shawn",
+        "character": "Rex (voice)",
+        "order": 4,
+        "cast_id": 18,
+        "popularity": 4.0081,
+        "profile_path": "/wVaM1WlFKDce4esThwL4XtNLhOe.jpg"
+      },
+      {
+        "personId": 7907,
+        "name": "John Ratzenberger",
+        "character": "Hamm (voice)",
+        "order": 5,
+        "cast_id": 19,
+        "popularity": 2.6109,
+        "profile_path": "/oRtDEOuIO1yDhTz5dORBdxXuLMO.jpg"
+      },
+      {
+        "personId": 8873,
+        "name": "Annie Potts",
+        "character": "Bo Peep (voice)",
+        "order": 6,
+        "cast_id": 20,
+        "popularity": 6.9848,
+        "profile_path": "/hWIzkAH7jkSkxBfwdudxbSPxeno.jpg"
+      },
+      {
+        "personId": 1116442,
+        "name": "John Morris",
+        "character": "Andy (voice)",
+        "order": 7,
+        "cast_id": 26,
+        "popularity": 0.7998,
+        "profile_path": "/lSdNMhN3DoXEQJ37IeOD5mTMUQK.jpg"
+      },
+      {
+        "personId": 12901,
+        "name": "Erik von Detten",
+        "character": "Sid (voice)",
+        "order": 8,
+        "cast_id": 22,
+        "popularity": 2.0049,
+        "profile_path": "/v0ruIqUUZqXRWTsuui5irfsHMJe.jpg"
+      },
+      {
+        "personId": 12133,
+        "name": "Laurie Metcalf",
+        "character": "Mrs. Davis (voice)",
+        "order": 9,
+        "cast_id": 23,
+        "popularity": 2.6226,
+        "profile_path": "/ypAppMZ1Q99cBjtX4BAnZmWjVXe.jpg"
+      },
+      {
+        "personId": 8655,
+        "name": "R. Lee Ermey",
+        "character": "Sergeant (voice)",
+        "order": 10,
+        "cast_id": 24,
+        "popularity": 1.5624,
+        "profile_path": "/aXFJlEGHlQT7bwxkKwq6Sx7PeEp.jpg"
+      },
+      {
+        "personId": 12903,
+        "name": "Sarah Freeman",
+        "character": "Hannah (voice)",
+        "order": 11,
+        "cast_id": 25,
+        "popularity": 0.5577,
+        "profile_path": null
+      },
+      {
+        "personId": 37221,
+        "name": "Penn Jillette",
+        "character": "TV Announcer (voice)",
+        "order": 12,
+        "cast_id": 27,
+        "popularity": 1.0539,
+        "profile_path": "/lxMpWaVKyeqZCxENRo1wu13iSTS.jpg"
+      },
+      {
+        "personId": 19545,
+        "name": "Jack Angel",
+        "character": "Shark / Rocky Gibraltar (voice)",
+        "order": 13,
+        "cast_id": 300,
+        "popularity": 1.4862,
+        "profile_path": "/5MsVwIULYJotUSbDs61uSJff7ei.jpg"
+      },
+      {
+        "personId": 1266092,
+        "name": "Spencer Aste",
+        "character": "Wounded Soldier (voice)",
+        "order": 14,
+        "cast_id": 301,
+        "popularity": 0.5771,
+        "profile_path": null
+      },
+      {
+        "personId": 94038,
+        "name": "Greg Berg",
+        "character": "Local Announcer (voice)",
+        "order": 15,
+        "cast_id": 302,
+        "popularity": 0.7858,
+        "profile_path": "/w5Cn5dc9Sci7rTtMfCmIqIJfMjX.jpg"
+      },
+      {
+        "personId": 1202809,
+        "name": "Lisa Bradley",
+        "character": "Kid (voice)",
+        "order": 16,
+        "cast_id": 303,
+        "popularity": 0.3246,
+        "profile_path": null
+      },
+      {
+        "personId": 134713,
+        "name": "Kendall Cunningham",
+        "character": "Kid (voice)",
+        "order": 17,
+        "cast_id": 304,
+        "popularity": 0.9997,
+        "profile_path": null
+      },
+      {
+        "personId": 73016,
+        "name": "Debi Derryberry",
+        "character": "Aliens / Pizza Planet Announcer (voice)",
+        "order": 18,
+        "cast_id": 305,
+        "popularity": 1.3951,
+        "profile_path": "/aCVgHnvGBw7ssZA9kl1Pnr5pJjU.jpg"
+      },
+      {
+        "personId": 186614,
+        "name": "Cody Dorkin",
+        "character": "Kid (voice)",
+        "order": 19,
+        "cast_id": 306,
+        "popularity": 1.5482,
+        "profile_path": null
+      }
+    ],
+    "crew": [
+      {
+        "personId": 7879,
+        "name": "John Lasseter",
+        "job": "Director",
+        "department": "Directing",
+        "popularity": 1.819,
+        "profile_path": "/xlrE4VD2VbZCDpaNdWCpH1ZihPS.jpg"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 10084,
+        "name": "rescue"
+      },
+      {
+        "id": 6054,
+        "name": "friendship"
+      },
+      {
+        "id": 10364,
+        "name": "mission"
+      },
+      {
+        "id": 931,
+        "name": "jealousy"
+      },
+      {
+        "id": 3289,
+        "name": "villain"
+      },
+      {
+        "id": 6733,
+        "name": "bullying"
+      },
+      {
+        "id": 8102,
+        "name": "elementary school"
+      },
+      {
+        "id": 9823,
+        "name": "rivalry"
+      },
+      {
+        "id": 11477,
+        "name": "anthropomorphism"
+      },
+      {
+        "id": 9713,
+        "name": "friends"
+      },
+      {
+        "id": 10159,
+        "name": "computer animation"
+      },
+      {
+        "id": 15214,
+        "name": "buddy"
+      },
+      {
+        "id": 33553,
+        "name": "walkie talkie"
+      },
+      {
+        "id": 158141,
+        "name": "toy car"
+      },
+      {
+        "id": 165503,
+        "name": "boy next door"
+      },
+      {
+        "id": 170722,
+        "name": "new toy"
+      },
+      {
+        "id": 180523,
+        "name": "neighborhood"
+      },
+      {
+        "id": 187065,
+        "name": "toy comes to life"
+      },
+      {
+        "id": 242792,
+        "name": "resourcefulness"
+      },
+      {
+        "id": 265589,
+        "name": "toy"
+      },
+      {
+        "id": 338822,
+        "name": "pixar"
+      }
+    ],
+    "description": "Toy Story (1995) - 类型: Family, Comedy, Animation, Adventure - Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+    "rank_score_0_10": 7.829909842922205,
+    "rank_score_source": "movielens",
+    "rank_score_votes": 10759
+  },
+  {
+    "movieId": 2,
+    "name": "Jumanji",
+    "year": 1995,
+    "movielens_genres_raw": [
+      "Adventure",
+      "Children",
+      "Fantasy"
+    ],
+    "movielens_genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "movielens_genres_unmapped": [],
+    "tmdb_genres_raw": [
+      "Adventure",
+      "Fantasy",
+      "Family"
+    ],
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Family"
+    ],
+    "imdbId": "tt0113497",
+    "tmdbId": 8844,
+    "data_source": "movielens+tmdb",
+    "created_at": "2026-01-06T20:13:53.687913+00:00",
+    "movielens_avg_rating": 3.207809602307851,
+    "movielens_rating_count": 4853,
+    "overview": "When siblings Judy and Peter discover an enchanted board game that opens the door to a magical world, they unwittingly invite Alan -- an adult who's been trapped inside the game for 26 years -- into their living room. Alan's only hope for freedom is to finish the game, which proves risky as all three find themselves running from giant rhinoceroses, evil monkeys and other terrifying creatures.",
+    "release_date": "1995-12-15",
+    "runtime": 104,
+    "budget": 65000000,
+    "revenue": 262821940,
+    "tmdb_vote_average": 7.244,
+    "tmdb_vote_count": 11029,
+    "tmdb_popularity": 4.0186,
+    "original_language": "en",
+    "poster_path": "/vgpXmVaVyUL7GGiDeiK1mKEKzcX.jpg",
+    "backdrop_path": "/qSxeCfWUUyht9hZgaaYmtPtTkw2.jpg",
+    "production_companies": [
+      {
+        "id": 559,
+        "name": "TriStar Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 10201,
+        "name": "Interscope Communications",
+        "origin_country": "US"
+      },
+      {
+        "id": 2550,
+        "name": "Teitler Film",
+        "origin_country": "US"
+      },
+      {
+        "id": 1382,
+        "name": "PolyGram Filmed Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "code": "US",
+        "name": "United States of America"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "en",
+        "name": "English"
+      },
+      {
+        "code": "fr",
+        "name": "Français"
+      }
+    ],
+    "cast": [
+      {
+        "personId": 2157,
+        "name": "Robin Williams",
+        "character": "Alan Parrish",
+        "order": 0,
+        "cast_id": 1,
+        "popularity": 4.8987,
+        "profile_path": "/sojtJyIV3lkUeThD7A2oHNm8183.jpg"
+      },
+      {
+        "personId": 205,
+        "name": "Kirsten Dunst",
+        "character": "Judy Shepherd",
+        "order": 1,
+        "cast_id": 2,
+        "popularity": 7.2329,
+        "profile_path": "/yhLKGjuiMMdbGnFrR8AREkCZcVF.jpg"
+      },
+      {
+        "personId": 145151,
+        "name": "Bradley Pierce",
+        "character": "Peter Shepherd",
+        "order": 2,
+        "cast_id": 24,
+        "popularity": 1.6434,
+        "profile_path": "/j6iW0vVA23GQniAPSYI6mi4hiEW.jpg"
+      },
+      {
+        "personId": 5149,
+        "name": "Bonnie Hunt",
+        "character": "Sarah Whittle",
+        "order": 3,
+        "cast_id": 10,
+        "popularity": 3.8782,
+        "profile_path": "/tT9C6uLztgN8OxJULq6F9iEzqlA.jpg"
+      },
+      {
+        "personId": 8537,
+        "name": "Jonathan Hyde",
+        "character": "Samuel Alan Parrish / Van Pelt",
+        "order": 4,
+        "cast_id": 8,
+        "popularity": 2.3835,
+        "profile_path": "/1uhT5uzPkBRCb57RtR6C9MvgteC.jpg"
+      },
+      {
+        "personId": 10739,
+        "name": "Bebe Neuwirth",
+        "character": "Nora Shepherd",
+        "order": 5,
+        "cast_id": 25,
+        "popularity": 3.3594,
+        "profile_path": "/yFOdER8Fc07DU6U3kq2PRcbvDR.jpg"
+      },
+      {
+        "personId": 58563,
+        "name": "David Alan Grier",
+        "character": "Carl Bentley",
+        "order": 6,
+        "cast_id": 26,
+        "popularity": 1.7393,
+        "profile_path": "/2BJ2sueZu98fOMZ9Z1tbUzUTxw9.jpg"
+      },
+      {
+        "personId": 46530,
+        "name": "Adam Hann-Byrd",
+        "character": "Young Alan",
+        "order": 7,
+        "cast_id": 14,
+        "popularity": 1.4328,
+        "profile_path": "/54DcXar17ggNEc5oACCa1pu8rEB.jpg"
+      },
+      {
+        "personId": 1276,
+        "name": "Patricia Clarkson",
+        "character": "Carol Anne Parrish",
+        "order": 8,
+        "cast_id": 11,
+        "popularity": 3.3756,
+        "profile_path": "/rHHM9G83fpBAcFathbSyV4Tot5j.jpg"
+      },
+      {
+        "personId": 56523,
+        "name": "Laura Bell Bundy",
+        "character": "Young Sarah",
+        "order": 9,
+        "cast_id": 13,
+        "popularity": 1.4098,
+        "profile_path": "/u2jEH4n630lCXKV9GaUkmRV5vu4.jpg"
+      },
+      {
+        "personId": 51551,
+        "name": "James Handy",
+        "character": "Exterminator",
+        "order": 10,
+        "cast_id": 31,
+        "popularity": 1.3416,
+        "profile_path": "/j2vG5tc8OcpcKG8eufBEMn2oiqZ.jpg"
+      },
+      {
+        "personId": 56522,
+        "name": "Gillian Barber",
+        "character": "Mrs. Thomas",
+        "order": 11,
+        "cast_id": 12,
+        "popularity": 1.1451,
+        "profile_path": "/9ARa8Bw1s4dZzZyEMHDti8fwPbx.jpg"
+      },
+      {
+        "personId": 1000304,
+        "name": "Brandon Obray",
+        "character": "Benjamin",
+        "order": 12,
+        "cast_id": 28,
+        "popularity": 0.2917,
+        "profile_path": null
+      },
+      {
+        "personId": 1234882,
+        "name": "Cyrus Thiedeke",
+        "character": "Caleb",
+        "order": 13,
+        "cast_id": 29,
+        "popularity": 1.9148,
+        "profile_path": null
+      },
+      {
+        "personId": 1076551,
+        "name": "Gary Joseph Thorup",
+        "character": "Billy Jessup",
+        "order": 14,
+        "cast_id": 30,
+        "popularity": 0.3747,
+        "profile_path": null
+      },
+      {
+        "personId": 1480246,
+        "name": "Leonard Zola",
+        "character": "Cop",
+        "order": 15,
+        "cast_id": 32,
+        "popularity": 0.1124,
+        "profile_path": null
+      },
+      {
+        "personId": 25024,
+        "name": "Lloyd Berry",
+        "character": "Bum",
+        "order": 16,
+        "cast_id": 33,
+        "popularity": 0.9446,
+        "profile_path": "/12wtrZPPwWrCpMul8k8TbcxQWuU.jpg"
+      },
+      {
+        "personId": 27110,
+        "name": "Malcolm Stewart",
+        "character": "Jim Shepherd",
+        "order": 17,
+        "cast_id": 34,
+        "popularity": 1.2896,
+        "profile_path": "/eNcMvAYc6AwHeZ8bdBOzja61DvE.jpg"
+      },
+      {
+        "personId": 53715,
+        "name": "Annabel Kershaw",
+        "character": "Martha Shepherd",
+        "order": 18,
+        "cast_id": 35,
+        "popularity": 1.0111,
+        "profile_path": "/8COfAAk3KLlCAgSgGrRo3OynV9d.jpg"
+      },
+      {
+        "personId": 1379424,
+        "name": "Darryl Henriques",
+        "character": "Gun Salesman",
+        "order": 19,
+        "cast_id": 36,
+        "popularity": 2.1687,
+        "profile_path": "/sI64BB2hK8Bk4XoPrZjBIgvoHML.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "personId": 4945,
+        "name": "Joe Johnston",
+        "job": "Director",
+        "department": "Directing",
+        "popularity": 1.9301,
+        "profile_path": "/fbGZo6CG9Z9zKFh8D5wHunyu7gJ.jpg"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 7035,
+        "name": "giant insect"
+      },
+      {
+        "id": 10090,
+        "name": "board game"
+      },
+      {
+        "id": 10941,
+        "name": "disappearance"
+      },
+      {
+        "id": 10787,
+        "name": "jungle"
+      },
+      {
+        "id": 158086,
+        "name": "recluse"
+      },
+      {
+        "id": 221178,
+        "name": "stampede"
+      },
+      {
+        "id": 246466,
+        "name": "based on young adult novel"
+      },
+      {
+        "id": 325856,
+        "name": "vibrant"
+      }
+    ],
+    "description": "Jumanji (1995) - 类型: Adventure, Fantasy, Family - When siblings Judy and Peter discover an enchanted board game that opens the door to a magical world, they unwittingly invite Alan -- an adult who's been trapped inside the game for 26 years -- into their living room. Alan's only hope for freedom is to finish the game, which proves risky as all three find themselves running from giant rhinoceroses, evil monkeys and other terrifying creatures.",
+    "rank_score_0_10": 6.415619204615702,
+    "rank_score_source": "movielens",
+    "rank_score_votes": 4853
+  },
+  {
+    "movieId": 3,
+    "name": "Grumpier Old Men",
+    "year": 1995,
+    "movielens_genres_raw": [
+      "Comedy",
+      "Romance"
+    ],
+    "movielens_genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "movielens_genres_unmapped": [],
+    "tmdb_genres_raw": [
+      "Romance",
+      "Comedy"
+    ],
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "imdbId": "tt0113228",
+    "tmdbId": 15602,
+    "data_source": "movielens+tmdb",
+    "created_at": "2026-01-06T20:13:56.529440+00:00",
+    "movielens_avg_rating": 3.1469844709281327,
+    "movielens_rating_count": 2769,
+    "overview": "A family wedding reignites the ancient feud between next-door neighbors and fishing buddies John and Max. Meanwhile, a sultry Italian divorcée opens a restaurant at the local bait shop, alarming the locals who worry she'll scare the fish away. But she's less interested in seafood than she is in cooking up a hot time with Max.",
+    "release_date": "1995-12-22",
+    "runtime": 101,
+    "budget": 25000000,
+    "revenue": 71500000,
+    "tmdb_vote_average": 6.481,
+    "tmdb_vote_count": 412,
+    "tmdb_popularity": 1.832,
+    "original_language": "en",
+    "poster_path": "/1FSXpj5e8l4KH6nVFO5SPUeraOt.jpg",
+    "backdrop_path": "/1o4vuCHpmd4DXofMYDUwpnhKiuy.jpg",
+    "production_companies": [
+      {
+        "id": 19464,
+        "name": "Lancaster Gate",
+        "origin_country": ""
+      },
+      {
+        "id": 174,
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "code": "US",
+        "name": "United States of America"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "en",
+        "name": "English"
+      }
+    ],
+    "cast": [
+      {
+        "personId": 6837,
+        "name": "Walter Matthau",
+        "character": "Max Goldman",
+        "order": 0,
+        "cast_id": 2,
+        "popularity": 2.7331,
+        "profile_path": "/pm1YEQPlsNcHQHZJBgcXvu4U4vg.jpg"
+      },
+      {
+        "personId": 3151,
+        "name": "Jack Lemmon",
+        "character": "John Gustafson",
+        "order": 1,
+        "cast_id": 3,
+        "popularity": 2.4291,
+        "profile_path": "/7jWVWLr1VJqQrN3d4YJaATCIHRw.jpg"
+      },
+      {
+        "personId": 13567,
+        "name": "Ann-Margret",
+        "character": "Ariel Gustafson",
+        "order": 2,
+        "cast_id": 4,
+        "popularity": 3.9613,
+        "profile_path": "/z20lA2EyYbLcZn5GV1deMQDUCEc.jpg"
+      },
+      {
+        "personId": 16757,
+        "name": "Sophia Loren",
+        "character": "Maria Sophia Coletta Ragetti",
+        "order": 3,
+        "cast_id": 5,
+        "popularity": 4.2122,
+        "profile_path": "/94Kglg5dsAgOKG76230FFN7m6W3.jpg"
+      },
+      {
+        "personId": 589,
+        "name": "Daryl Hannah",
+        "character": "Melanie Gustafson",
+        "order": 4,
+        "cast_id": 6,
+        "popularity": 3.575,
+        "profile_path": "/5FllFmoiaru7tjXJ6Orc11OpQcw.jpg"
+      },
+      {
+        "personId": 16523,
+        "name": "Burgess Meredith",
+        "character": "Grandpa Gustafson",
+        "order": 5,
+        "cast_id": 9,
+        "popularity": 2.0739,
+        "profile_path": "/2ozNyIbHChcqIBANwvCDpUZGA9b.jpg"
+      },
+      {
+        "personId": 7166,
+        "name": "Kevin Pollak",
+        "character": "Jacob Goldman",
+        "order": 6,
+        "cast_id": 10,
+        "popularity": 1.8102,
+        "profile_path": "/jWhKIVtmc3vIoS2l1VsdNwMAMJB.jpg"
+      },
+      {
+        "personId": 57676,
+        "name": "Katie Sagona",
+        "character": "Allie, Melanie's Daughter",
+        "order": 7,
+        "cast_id": 72,
+        "popularity": 0.6487,
+        "profile_path": "/P3we4ULnamzzgo8SW3GHChLWcV.jpg"
+      },
+      {
+        "personId": 151759,
+        "name": "Ann Morgan Guilbert",
+        "character": "Mama Ragetti",
+        "order": 8,
+        "cast_id": 67,
+        "popularity": 1.418,
+        "profile_path": "/fs0vzZPF62F9rJsMnodPKDo1bUk.jpg"
+      },
+      {
+        "personId": 111594,
+        "name": "James Andelin",
+        "character": "Sven",
+        "order": 9,
+        "cast_id": 68,
+        "popularity": 0.9946,
+        "profile_path": "/3vXPx3CIr1jHoJfT1MZl1lnjLvZ.jpg"
+      },
+      {
+        "personId": 2017216,
+        "name": "Marcus Klemp",
+        "character": "Eddie, Assistant Manager",
+        "order": 10,
+        "cast_id": 69,
+        "popularity": 0.2055,
+        "profile_path": null
+      },
+      {
+        "personId": 106772,
+        "name": "Max Wright",
+        "character": "County Health Inspector",
+        "order": 11,
+        "cast_id": 70,
+        "popularity": 1.0066,
+        "profile_path": "/bM0yC42RbFCSUWITFGVdiojn7ba.jpg"
+      },
+      {
+        "personId": 61288,
+        "name": "Cheryl Hawker",
+        "character": "Lena",
+        "order": 12,
+        "cast_id": 71,
+        "popularity": 0.5409,
+        "profile_path": "/2noxV9666G25hwxAp4Qydzupz1C.jpg"
+      },
+      {
+        "personId": 155483,
+        "name": "Michelle Johnston",
+        "character": "Sears Salesperson / Chicken Polka Girl",
+        "order": 13,
+        "cast_id": 59,
+        "popularity": 3.0438,
+        "profile_path": "/tBW5YIcWNx1ihVcm7nOUiZ9WPOZ.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "personId": 26502,
+        "name": "Howard Deutch",
+        "job": "Director",
+        "department": "Directing",
+        "popularity": 0.8416,
+        "profile_path": "/9MOjJAkLZHET0IrKsV6ysUryfs7.jpg"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 1495,
+        "name": "fishing"
+      },
+      {
+        "id": 9663,
+        "name": "sequel"
+      },
+      {
+        "id": 10938,
+        "name": "old man"
+      },
+      {
+        "id": 12392,
+        "name": "best friend"
+      },
+      {
+        "id": 13027,
+        "name": "wedding"
+      },
+      {
+        "id": 14836,
+        "name": "italian restaurant"
+      },
+      {
+        "id": 157187,
+        "name": "old friends"
+      },
+      {
+        "id": 179431,
+        "name": "duringcreditsstinger"
+      },
+      {
+        "id": 294543,
+        "name": "pranks"
+      }
+    ],
+    "description": "Grumpier Old Men (1995) - 类型: Romance, Comedy - A family wedding reignites the ancient feud between next-door neighbors and fishing buddies John and Max. Meanwhile, a sultry Italian divorcée opens a restaurant at the local bait shop, alarming the locals who worry she'll scare the fish away. But she's less interested in seafood than she is in cooking up a hot time with Max.",
+    "rank_score_0_10": 6.293968941856265,
+    "rank_score_source": "movielens",
+    "rank_score_votes": 2769
+  },
+  {
+    "movieId": 4,
+    "name": "Waiting to Exhale",
+    "year": 1995,
+    "movielens_genres_raw": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "movielens_genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "movielens_genres_unmapped": [],
+    "tmdb_genres_raw": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "imdbId": "tt0114885",
+    "tmdbId": 31357,
+    "data_source": "movielens+tmdb",
+    "created_at": "2026-01-06T20:14:00.954254+00:00",
+    "movielens_avg_rating": 2.8737704918032785,
+    "movielens_rating_count": 610,
+    "overview": "Cheated on, mistreated and stepped on, the women are holding their breath, waiting for the elusive \"good man\" to break a string of less-than-stellar lovers. Friends and confidants Vannah, Bernie, Glo and Robin talk it all out, determined to find a better way to breathe.",
+    "release_date": "1995-12-22",
+    "runtime": 127,
+    "budget": 16000000,
+    "revenue": 81452156,
+    "tmdb_vote_average": 6.2,
+    "tmdb_vote_count": 188,
+    "tmdb_popularity": 2.4366,
+    "original_language": "en",
+    "poster_path": "/8MprEuTY3EwkF9nBBPCUyjRjvs5.jpg",
+    "backdrop_path": "/jZjoEKXMTDoZAGdkjhAdJaKtXSN.jpg",
+    "production_companies": [
+      {
+        "id": 25,
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "code": "US",
+        "name": "United States of America"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "en",
+        "name": "English"
+      }
+    ],
+    "cast": [
+      {
+        "personId": 8851,
+        "name": "Whitney Houston",
+        "character": "Savannah",
+        "order": 0,
+        "cast_id": 1,
+        "popularity": 1.4375,
+        "profile_path": "/5su69sRCQReFTS94j2OtcgIQLne.jpg"
+      },
+      {
+        "personId": 9780,
+        "name": "Angela Bassett",
+        "character": "Bernadine",
+        "order": 1,
+        "cast_id": 2,
+        "popularity": 3.9664,
+        "profile_path": "/tKnuviliyeKNGlo26IU5gIrJAtd.jpg"
+      },
+      {
+        "personId": 18284,
+        "name": "Loretta Devine",
+        "character": "Gloria",
+        "order": 2,
+        "cast_id": 3,
+        "popularity": 2.8746,
+        "profile_path": "/cGTQ0X19bkMWqL6O00JK2t6uJBK.jpg"
+      },
+      {
+        "personId": 51359,
+        "name": "Lela Rochon",
+        "character": "Robin",
+        "order": 3,
+        "cast_id": 4,
+        "popularity": 1.4173,
+        "profile_path": "/9DBu3r5O4fBosSS4FnSzFCVpm0O.jpg"
+      },
+      {
+        "personId": 66804,
+        "name": "Gregory Hines",
+        "character": "Marvin",
+        "order": 4,
+        "cast_id": 5,
+        "popularity": 1.9892,
+        "profile_path": "/tQDKvHbKAu6Jf90owFAvtYs0ADR.jpg"
+      },
+      {
+        "personId": 352,
+        "name": "Dennis Haysbert",
+        "character": "Kenneth",
+        "order": 5,
+        "cast_id": 6,
+        "popularity": 2.4269,
+        "profile_path": "/lcnjaw2CFN6q9eaes1jTYrUB0rb.jpg"
+      },
+      {
+        "personId": 34,
+        "name": "Mykelti Williamson",
+        "character": "Troy",
+        "order": 6,
+        "cast_id": 10,
+        "popularity": 2.6738,
+        "profile_path": "/dR16zD9AjnHWbeN5OVmJWE0vSax.jpg"
+      },
+      {
+        "personId": 87118,
+        "name": "Michael Beach",
+        "character": "John, Sr.",
+        "order": 7,
+        "cast_id": 8,
+        "popularity": 3.0485,
+        "profile_path": "/7gCBCpK2OSzuUWk5iTZds9NjqkF.jpg"
+      },
+      {
+        "personId": 12974,
+        "name": "Leon",
+        "character": "Russell",
+        "order": 8,
+        "cast_id": 37,
+        "popularity": 1.5021,
+        "profile_path": "/uhLVZV2rH0nnXwQKtsIT0qGsTyg.jpg"
+      },
+      {
+        "personId": 17859,
+        "name": "Wendell Pierce",
+        "character": "Michael",
+        "order": 9,
+        "cast_id": 22,
+        "popularity": 2.995,
+        "profile_path": "/r6yKahL6Z8l9aUX5qvWxTmWl8Nm.jpg"
+      },
+      {
+        "personId": 49002,
+        "name": "Donald Faison",
+        "character": "Tarik",
+        "order": 10,
+        "cast_id": 23,
+        "popularity": 1.4867,
+        "profile_path": "/gNwWP1CHob9Y8fjY69w7EwGxMoz.jpg"
+      },
+      {
+        "personId": 103898,
+        "name": "Jeffrey D. Sams",
+        "character": "Lionel",
+        "order": 11,
+        "cast_id": 36,
+        "popularity": 0.8199,
+        "profile_path": "/tEjdUfCEiX7ZrPm2HTGs5Y1Sn7V.jpg"
+      },
+      {
+        "personId": 1212697,
+        "name": "Jazz Raycole",
+        "character": "Onika",
+        "order": 12,
+        "cast_id": 35,
+        "popularity": 1.65,
+        "profile_path": "/6vYRFIDSU2lwUfddCEfYrSLkY6Y.jpg"
+      },
+      {
+        "personId": 23681,
+        "name": "Brandon Hammond",
+        "character": "John, Jr.",
+        "order": 13,
+        "cast_id": 25,
+        "popularity": 1.307,
+        "profile_path": "/qni4SWV6QLQ302Y8CURsRJ5OP00.jpg"
+      },
+      {
+        "personId": 49276,
+        "name": "Kenya Moore",
+        "character": "Denise",
+        "order": 14,
+        "cast_id": 30,
+        "popularity": 0.6202,
+        "profile_path": "/a4HUrzb8iHDeLC1gKerd9Uyhfxj.jpg"
+      },
+      {
+        "personId": 1276777,
+        "name": "Lamont Johnson",
+        "character": "Joseph",
+        "order": 15,
+        "cast_id": 20,
+        "popularity": 1.8084,
+        "profile_path": "/49CrcbKnC3hgNwlJfEjtwR4X9rd.jpg"
+      },
+      {
+        "personId": 55965,
+        "name": "Wren T. Brown",
+        "character": "Minister",
+        "order": 16,
+        "cast_id": 34,
+        "popularity": 1.9656,
+        "profile_path": "/vbTHkOhDGbcdB4L7HQF5syxfUJn.jpg"
+      },
+      {
+        "personId": 4006196,
+        "name": "Theo",
+        "character": "On Air D.J.",
+        "order": 17,
+        "cast_id": 47,
+        "popularity": 0.0256,
+        "profile_path": null
+      },
+      {
+        "personId": 1862890,
+        "name": "Ken Love",
+        "character": "DJ at the Hermosa",
+        "order": 18,
+        "cast_id": 48,
+        "popularity": 0.0782,
+        "profile_path": null
+      },
+      {
+        "personId": 93351,
+        "name": "Graham Galloway",
+        "character": "Fireman",
+        "order": 19,
+        "cast_id": 38,
+        "popularity": 0.3896,
+        "profile_path": null
+      }
+    ],
+    "crew": [
+      {
+        "personId": 2178,
+        "name": "Forest Whitaker",
+        "job": "Director",
+        "department": "Directing",
+        "popularity": 4.3198,
+        "profile_path": "/4w7l5JUwnwFNBy7J93ZwYN1nihm.jpg"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 14768,
+        "name": "single mother"
+      },
+      {
+        "id": 15160,
+        "name": "divorce"
+      },
+      {
+        "id": 251667,
+        "name": "anxious"
+      },
+      {
+        "id": 257890,
+        "name": "friendship between women"
+      },
+      {
+        "id": 266753,
+        "name": "cautionary"
+      },
+      {
+        "id": 325762,
+        "name": "adoring"
+      },
+      {
+        "id": 325781,
+        "name": "celebratory"
+      },
+      {
+        "id": 325784,
+        "name": "comforting"
+      },
+      {
+        "id": 338528,
+        "name": "african american romance"
+      },
+      {
+        "id": 338543,
+        "name": "african american friendship"
+      }
+    ],
+    "description": "Waiting to Exhale (1995) - 类型: Comedy, Drama, Romance - Cheated on, mistreated and stepped on, the women are holding their breath, waiting for the elusive \"good man\" to break a string of less-than-stellar lovers. Friends and confidants Vannah, Bernie, Glo and Robin talk it all out, determined to find a better way to breathe.",
+    "rank_score_0_10": 5.747540983606557,
+    "rank_score_source": "movielens",
+    "rank_score_votes": 610
+  },
+  {
+    "movieId": 5,
+    "name": "Father of the Bride Part II",
+    "year": 1995,
+    "movielens_genres_raw": [
+      "Comedy"
+    ],
+    "movielens_genres": [
+      "Comedy"
+    ],
+    "movielens_genres_unmapped": [],
+    "tmdb_genres_raw": [
+      "Comedy",
+      "Family"
+    ],
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "imdbId": "tt0113041",
+    "tmdbId": 11862,
+    "data_source": "movielens+tmdb",
+    "created_at": "2026-01-06T20:14:03.891692+00:00",
+    "movielens_avg_rating": 3.064473183720046,
+    "movielens_rating_count": 2629,
+    "overview": "Just when George Banks has recovered from his daughter's wedding, he receives the news that she's pregnant ... and that George's wife is expecting too. He was planning on selling their home, but that's a plan that—like George—will have to change with the arrival of both a grandchild and a kid of his own.",
+    "release_date": "1995-12-08",
+    "runtime": 106,
+    "budget": 0,
+    "revenue": 76594107,
+    "tmdb_vote_average": 6.269,
+    "tmdb_vote_count": 786,
+    "tmdb_popularity": 2.7806,
+    "original_language": "en",
+    "poster_path": "/rj4LBtwQ0uGrpBnCELr716Qo3mw.jpg",
+    "backdrop_path": "/lEsjVrGU21BeJjF5AF9EWsihDpw.jpg",
+    "production_companies": [
+      {
+        "id": 9195,
+        "name": "Touchstone Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 5842,
+        "name": "Sandollar Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "code": "US",
+        "name": "United States of America"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "en",
+        "name": "English"
+      }
+    ],
+    "cast": [
+      {
+        "personId": 67773,
+        "name": "Steve Martin",
+        "character": "George Banks",
+        "order": 0,
+        "cast_id": 1,
+        "popularity": 2.6877,
+        "profile_path": "/d0KthX8hVWU9BxTCG1QUO8FURRm.jpg"
+      },
+      {
+        "personId": 3092,
+        "name": "Diane Keaton",
+        "character": "Nina Banks",
+        "order": 1,
+        "cast_id": 2,
+        "popularity": 8.8196,
+        "profile_path": "/2mSm65Z6npanPn7ilZYmGk2Ul1k.jpg"
+      },
+      {
+        "personId": 519,
+        "name": "Martin Short",
+        "character": "Franck Eggelhoffer",
+        "order": 2,
+        "cast_id": 3,
+        "popularity": 3.3039,
+        "profile_path": "/vWoZIOk7K8TSKu1IN90akswsWjZ.jpg"
+      },
+      {
+        "personId": 70696,
+        "name": "Kimberly Williams-Paisley",
+        "character": "Annie Banks-MacKenzie",
+        "order": 3,
+        "cast_id": 4,
+        "popularity": 2.6307,
+        "profile_path": "/eTI5HvnVZoaFgdwERtboGJfREhD.jpg"
+      },
+      {
+        "personId": 59222,
+        "name": "George Newbern",
+        "character": "Bryan MacKenzie",
+        "order": 4,
+        "cast_id": 13,
+        "popularity": 2.6477,
+        "profile_path": "/1Xx0K3KGqxyIpL6o2eVQKui86jS.jpg"
+      },
+      {
+        "personId": 18793,
+        "name": "Kieran Culkin",
+        "character": "Matty Banks",
+        "order": 5,
+        "cast_id": 14,
+        "popularity": 4.0846,
+        "profile_path": "/b5EC4nziLhBRX4GOcYx2BdS3FTt.jpg"
+      },
+      {
+        "personId": 14592,
+        "name": "BD Wong",
+        "character": "Howard Weinstein",
+        "order": 6,
+        "cast_id": 15,
+        "popularity": 4.0669,
+        "profile_path": "/w7Hs9m6ocS2qlibvrLOvmyCKbAN.jpg"
+      },
+      {
+        "personId": 20906,
+        "name": "Peter Michael Goetz",
+        "character": "John MacKenzie",
+        "order": 7,
+        "cast_id": 16,
+        "popularity": 1.1039,
+        "profile_path": "/b2a1VpVWLCp1Ux9ipo1SVormkW7.jpg"
+      },
+      {
+        "personId": 54348,
+        "name": "Kate McGregor-Stewart",
+        "character": "Joanna MacKenzie",
+        "order": 8,
+        "cast_id": 17,
+        "popularity": 1.456,
+        "profile_path": "/vsvdAmMZgX85AvnVFd4jigOUipZ.jpg"
+      },
+      {
+        "personId": 209,
+        "name": "Jane Adams",
+        "character": "Dr. Megan Eisenberg",
+        "order": 9,
+        "cast_id": 18,
+        "popularity": 2.2451,
+        "profile_path": "/2FsPAoatMkUZ7khJ9r4Fa7ZxQzS.jpg"
+      },
+      {
+        "personId": 26510,
+        "name": "Eugene Levy",
+        "character": "Mr. Habib",
+        "order": 10,
+        "cast_id": 19,
+        "popularity": 3.5609,
+        "profile_path": "/y4CexxKSI6qR5A6PDaD8mSrEhYC.jpg"
+      },
+      {
+        "personId": 156119,
+        "name": "Rebecca Chambers",
+        "character": "Young Woman at Gym",
+        "order": 11,
+        "cast_id": 49,
+        "popularity": 0.5254,
+        "profile_path": null
+      },
+      {
+        "personId": 1348701,
+        "name": "April Ortiz",
+        "character": "Olivia",
+        "order": 12,
+        "cast_id": 50,
+        "popularity": 0.5503,
+        "profile_path": "/vhLyWRvCTIXszzf1hSLlpDz232u.jpg"
+      },
+      {
+        "personId": 91462,
+        "name": "Dulcy Rogers",
+        "character": "Ava (the Beautician)",
+        "order": 13,
+        "cast_id": 51,
+        "popularity": 1.8588,
+        "profile_path": null
+      },
+      {
+        "personId": 4047784,
+        "name": "Kathy Anthony",
+        "character": "Beautician #2",
+        "order": 14,
+        "cast_id": 52,
+        "popularity": 0.1421,
+        "profile_path": null
+      },
+      {
+        "personId": 4047785,
+        "name": "Adrian Canzoneri",
+        "character": "Justin",
+        "order": 15,
+        "cast_id": 53,
+        "popularity": 0.0651,
+        "profile_path": null
+      },
+      {
+        "personId": 24358,
+        "name": "Lori Alan",
+        "character": "Wife Mrs. Habib",
+        "order": 16,
+        "cast_id": 20,
+        "popularity": 2.044,
+        "profile_path": "/cavATg4fX0zAl2MHwlt1IZei7EI.jpg"
+      },
+      {
+        "personId": 4047789,
+        "name": "Stephanie Miller",
+        "character": "Annie Banks (Age 4)",
+        "order": 17,
+        "cast_id": 54,
+        "popularity": 0.1261,
+        "profile_path": null
+      },
+      {
+        "personId": 1714926,
+        "name": "Hallie Meyers-Shyer",
+        "character": "Annie Banks (Age 7)",
+        "order": 18,
+        "cast_id": 55,
+        "popularity": 0.8042,
+        "profile_path": "/oA6e8WLTgVIjlpVHdcZdaNxbfqF.jpg"
+      },
+      {
+        "personId": 1708,
+        "name": "Jay Wolpert",
+        "character": "Dr. Brooks",
+        "order": 19,
+        "cast_id": 56,
+        "popularity": 0.7768,
+        "profile_path": null
+      }
+    ],
+    "crew": [
+      {
+        "personId": 56106,
+        "name": "Charles Shyer",
+        "job": "Director",
+        "department": "Directing",
+        "popularity": 0.6526,
+        "profile_path": "/stcwg4mJKGQo0UBfWcXVQy6fOdP.jpg"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 5600,
+        "name": "daughter"
+      },
+      {
+        "id": 1009,
+        "name": "baby"
+      },
+      {
+        "id": 970,
+        "name": "parent child relationship"
+      },
+      {
+        "id": 1599,
+        "name": "midlife crisis"
+      },
+      {
+        "id": 3725,
+        "name": "pregnancy"
+      },
+      {
+        "id": 2246,
+        "name": "confidence"
+      },
+      {
+        "id": 4995,
+        "name": "aging"
+      },
+      {
+        "id": 9663,
+        "name": "sequel"
+      },
+      {
+        "id": 9714,
+        "name": "remake"
+      },
+      {
+        "id": 12670,
+        "name": "los angeles, california"
+      },
+      {
+        "id": 18011,
+        "name": "pregnant woman"
+      },
+      {
+        "id": 33358,
+        "name": "contraception"
+      },
+      {
+        "id": 170521,
+        "name": "gynecologist"
+      },
+      {
+        "id": 289211,
+        "name": "pregnant"
+      }
+    ],
+    "description": "Father of the Bride Part II (1995) - 类型: Comedy, Family - Just when George Banks has recovered from his daughter's wedding, he receives the news that she's pregnant ... and that George's wife is expecting too. He was planning on selling their home, but that's a plan that—like George—will have to change with the arrival of both a grandchild and a kid of his own.",
+    "rank_score_0_10": 6.128946367440092,
+    "rank_score_source": "movielens",
+    "rank_score_votes": 2629
+  },
+  {
+    "movieId": 6,
+    "name": "Heat",
+    "year": 1995,
+    "movielens_genres_raw": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "movielens_genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "movielens_genres_unmapped": [],
+    "tmdb_genres_raw": [
+      "Crime",
+      "Drama",
+      "Action"
+    ],
+    "genres": [
+      "Crime",
+      "Drama",
+      "Action"
+    ],
+    "imdbId": "tt0113277",
+    "tmdbId": 949,
+    "data_source": "movielens+tmdb",
+    "created_at": "2026-01-06T20:14:06.483233+00:00",
+    "movielens_avg_rating": 3.843851286939943,
+    "movielens_rating_count": 5245,
+    "overview": "Obsessive master thief Neil McCauley leads a top-notch crew on various daring heists throughout Los Angeles while determined detective Vincent Hanna pursues him without rest. Each man recognizes and respects the ability and the dedication of the other even though they are aware their cat-and-mouse game may end in violence.",
+    "release_date": "1995-12-15",
+    "runtime": 170,
+    "budget": 60000000,
+    "revenue": 187400000,
+    "tmdb_vote_average": 7.926,
+    "tmdb_vote_count": 7983,
+    "tmdb_popularity": 13.8442,
+    "original_language": "en",
+    "poster_path": "/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
+    "backdrop_path": "/uI22JkEMediWyiRqhllNqeeGtW0.jpg",
+    "production_companies": [
+      {
+        "id": 174,
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 508,
+        "name": "Regency Enterprises",
+        "origin_country": "US"
+      },
+      {
+        "id": 675,
+        "name": "Forward Pass",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "code": "US",
+        "name": "United States of America"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "en",
+        "name": "English"
+      },
+      {
+        "code": "es",
+        "name": "Español"
+      }
+    ],
+    "cast": [
+      {
+        "personId": 1158,
+        "name": "Al Pacino",
+        "character": "Lt. Vincent Hanna",
+        "order": 0,
+        "cast_id": 25,
+        "popularity": 6.408,
+        "profile_path": "/iqJ6g9fTKjpp1zWH9v72whXeGIK.jpg"
+      },
+      {
+        "personId": 380,
+        "name": "Robert De Niro",
+        "character": "Neil McCauley",
+        "order": 1,
+        "cast_id": 26,
+        "popularity": 9.7264,
+        "profile_path": "/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+      },
+      {
+        "personId": 5576,
+        "name": "Val Kilmer",
+        "character": "Chris Shiherlis",
+        "order": 2,
+        "cast_id": 27,
+        "popularity": 4.1522,
+        "profile_path": "/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg"
+      },
+      {
+        "personId": 10127,
+        "name": "Jon Voight",
+        "character": "Nate",
+        "order": 3,
+        "cast_id": 28,
+        "popularity": 3.863,
+        "profile_path": "/oxLsItDwLddXu8YYJCfkddYNejL.jpg"
+      },
+      {
+        "personId": 3197,
+        "name": "Tom Sizemore",
+        "character": "Michael Cheritto",
+        "order": 4,
+        "cast_id": 29,
+        "popularity": 1.9154,
+        "profile_path": "/soINOuacuiThRb2LyPD4tTWve7C.jpg"
+      },
+      {
+        "personId": 6200,
+        "name": "Diane Venora",
+        "character": "Justine",
+        "order": 5,
+        "cast_id": 30,
+        "popularity": 2.8027,
+        "profile_path": "/mZWVEZ18jMiJuS3A56tejPipdo8.jpg"
+      },
+      {
+        "personId": 15851,
+        "name": "Amy Brenneman",
+        "character": "Eady",
+        "order": 6,
+        "cast_id": 31,
+        "popularity": 4.3244,
+        "profile_path": "/buQhbTkoNcAC12oNXo6RCIoVNQw.jpg"
+      },
+      {
+        "personId": 15852,
+        "name": "Ashley Judd",
+        "character": "Charlene Shiherlis",
+        "order": 7,
+        "cast_id": 32,
+        "popularity": 4.3883,
+        "profile_path": "/5771ZxVIs5rQbI1SV8TOlAFcF15.jpg"
+      },
+      {
+        "personId": 34,
+        "name": "Mykelti Williamson",
+        "character": "Drucker",
+        "order": 8,
+        "cast_id": 33,
+        "popularity": 2.6738,
+        "profile_path": "/dR16zD9AjnHWbeN5OVmJWE0vSax.jpg"
+      },
+      {
+        "personId": 15853,
+        "name": "Wes Studi",
+        "character": "Casals",
+        "order": 9,
+        "cast_id": 34,
+        "popularity": 3.0492,
+        "profile_path": "/dAO2bY2NCceYLZiJaBjBdY19Hox.jpg"
+      },
+      {
+        "personId": 15854,
+        "name": "Ted Levine",
+        "character": "Bosko",
+        "order": 10,
+        "cast_id": 35,
+        "popularity": 3.2193,
+        "profile_path": "/451KSkowLW6M2Au0wBKZZcidgGm.jpg"
+      },
+      {
+        "personId": 524,
+        "name": "Natalie Portman",
+        "character": "Lauren Gustafson",
+        "order": 11,
+        "cast_id": 38,
+        "popularity": 9.1162,
+        "profile_path": "/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
+      },
+      {
+        "personId": 886,
+        "name": "William Fichtner",
+        "character": "Roger Van Zant",
+        "order": 12,
+        "cast_id": 37,
+        "popularity": 4.7561,
+        "profile_path": "/wWtJOoaNAwPparpzMNuRBjvxwEf.jpg"
+      },
+      {
+        "personId": 34839,
+        "name": "Kevin Gage",
+        "character": "Waingro",
+        "order": 13,
+        "cast_id": 43,
+        "popularity": 1.3953,
+        "profile_path": "/nTaDLkN1RAhPGaM0AO1CFysnwUl.jpg"
+      },
+      {
+        "personId": 5587,
+        "name": "Hank Azaria",
+        "character": "Alan Marciano",
+        "order": 14,
+        "cast_id": 42,
+        "popularity": 3.3308,
+        "profile_path": "/yFDw4b0jucuFWNnGcBPfpYUtn16.jpg"
+      },
+      {
+        "personId": 352,
+        "name": "Dennis Haysbert",
+        "character": "Donald Breedan",
+        "order": 15,
+        "cast_id": 36,
+        "popularity": 2.4269,
+        "profile_path": "/lcnjaw2CFN6q9eaes1jTYrUB0rb.jpg"
+      },
+      {
+        "personId": 119232,
+        "name": "Tom Noonan",
+        "character": "Kelso",
+        "order": 16,
+        "cast_id": 39,
+        "popularity": 1.9407,
+        "profile_path": "/8cwl9gaCr0F0yJ518nc6baebPLL.jpg"
+      },
+      {
+        "personId": 11160,
+        "name": "Danny Trejo",
+        "character": "Trejo",
+        "order": 17,
+        "cast_id": 46,
+        "popularity": 5.3017,
+        "profile_path": "/7JrUkRGBscZ1Hy5JinaaXjjzSCF.jpg"
+      },
+      {
+        "personId": 17358,
+        "name": "Kim Staunton",
+        "character": "Lillian",
+        "order": 18,
+        "cast_id": 45,
+        "popularity": 0.7624,
+        "profile_path": "/pGsoX3qTEM1MCApFBC5886mkBCA.jpg"
+      },
+      {
+        "personId": 4158,
+        "name": "Susan Traylor",
+        "character": "Elaine Cheritto",
+        "order": 19,
+        "cast_id": 44,
+        "popularity": 0.8991,
+        "profile_path": "/mAQwOoUrf4Su4MOBPPn68q9JLPx.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "personId": 638,
+        "name": "Michael Mann",
+        "job": "Director",
+        "department": "Directing",
+        "popularity": 1.8793,
+        "profile_path": "/kEYrCk6y6siUOxUlMD2KyFuRBQK.jpg"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 642,
+        "name": "robbery"
+      },
+      {
+        "id": 3713,
+        "name": "chase"
+      },
+      {
+        "id": 1523,
+        "name": "obsession"
+      },
+      {
+        "id": 703,
+        "name": "detective"
+      },
+      {
+        "id": 10051,
+        "name": "heist"
+      },
+      {
+        "id": 9727,
+        "name": "thief"
+      },
+      {
+        "id": 9812,
+        "name": "honor"
+      },
+      {
+        "id": 9826,
+        "name": "murder"
+      },
+      {
+        "id": 10085,
+        "name": "betrayal"
+      },
+      {
+        "id": 10726,
+        "name": "gang"
+      },
+      {
+        "id": 12670,
+        "name": "los angeles, california"
+      },
+      {
+        "id": 15076,
+        "name": "cat and mouse"
+      },
+      {
+        "id": 15363,
+        "name": "bank robbery"
+      },
+      {
+        "id": 18023,
+        "name": "criminal mastermind"
+      },
+      {
+        "id": 33424,
+        "name": "cynical"
+      },
+      {
+        "id": 156121,
+        "name": "ex-con"
+      },
+      {
+        "id": 159434,
+        "name": "one last job"
+      },
+      {
+        "id": 167104,
+        "name": "loner"
+      },
+      {
+        "id": 192261,
+        "name": "bank job"
+      },
+      {
+        "id": 207268,
+        "name": "neo-noir"
+      },
+      {
+        "id": 214983,
+        "name": "crime epic"
+      },
+      {
+        "id": 325766,
+        "name": "antagonistic"
+      },
+      {
+        "id": 325772,
+        "name": "assertive"
+      },
+      {
+        "id": 325774,
+        "name": "authoritarian"
+      },
+      {
+        "id": 325778,
+        "name": "bold"
+      }
+    ],
+    "description": "Heat (1995) - 类型: Crime, Drama, Action - Obsessive master thief Neil McCauley leads a top-notch crew on various daring heists throughout Los Angeles while determined detective Vincent Hanna pursues him without rest. Each man recognizes and respects the ability and the dedication of the other even though they are aware their cat-and-mouse game may end in violence.",
+    "rank_score_0_10": 7.687702573879886,
+    "rank_score_source": "movielens",
+    "rank_score_votes": 5245
+  },
+  {
+    "movieId": 7,
+    "name": "Sabrina",
+    "year": 1995,
+    "movielens_genres_raw": [
+      "Comedy",
+      "Romance"
+    ],
+    "movielens_genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "movielens_genres_unmapped": [],
+    "tmdb_genres_raw": [
+      "Romance",
+      "Drama",
+      "Comedy"
+    ],
+    "genres": [
+      "Romance",
+      "Drama",
+      "Comedy"
+    ],
+    "imdbId": "tt0114319",
+    "tmdbId": 11860,
+    "data_source": "movielens+tmdb",
+    "created_at": "2026-01-06T20:14:09.314160+00:00",
+    "movielens_avg_rating": 3.3582859174964437,
+    "movielens_rating_count": 2812,
+    "overview": "Sabrina Fairchild, a chauffeur's daughter, grew up at the Long Island estate of the wealthy Larrabee family enchanted with their sparkling world of privilege and wealth, but she's especially enamored of younger son David, a charming playboy. After the once plain Sabrina returns from a sojourn in Paris transformed into a glamorous young woman, she at long last catches David's eye. In a calculated effort to manipulate David away from her and into a more financially advantageous marriage, formidable older brother Linus devises a plan to keep them apart.",
+    "release_date": "1995-12-15",
+    "runtime": 127,
+    "budget": 58000000,
+    "revenue": 53672080,
+    "tmdb_vote_average": 6.208,
+    "tmdb_vote_count": 660,
+    "tmdb_popularity": 6.8621,
+    "original_language": "en",
+    "poster_path": "/i8PbLJDPU7vCwwscWD625oHbJy.jpg",
+    "backdrop_path": "/oMGV48EGhsNavC1PL8HMeWs5Udq.jpg",
+    "production_companies": [
+      {
+        "id": 4,
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 457,
+        "name": "Constellation Films",
+        "origin_country": ""
+      },
+      {
+        "id": 932,
+        "name": "Mirage Enterprises",
+        "origin_country": "US"
+      },
+      {
+        "id": 258,
+        "name": "Scott Rudin Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 5842,
+        "name": "Sandollar Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 12192,
+        "name": "Worldwide Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 58079,
+        "name": "Mont Blanc Entertainment GmbH",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "code": "DE",
+        "name": "Germany"
+      },
+      {
+        "code": "US",
+        "name": "United States of America"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "fr",
+        "name": "Français"
+      },
+      {
+        "code": "en",
+        "name": "English"
+      }
+    ],
+    "cast": [
+      {
+        "personId": 3,
+        "name": "Harrison Ford",
+        "character": "Linus Larrabee",
+        "order": 0,
+        "cast_id": 1,
+        "popularity": 6.355,
+        "profile_path": "/5M7oN3sznp99hWYQ9sX0xheswWX.jpg"
+      },
+      {
+        "personId": 15887,
+        "name": "Julia Ormond",
+        "character": "Sabrina Fairchild",
+        "order": 1,
+        "cast_id": 2,
+        "popularity": 4.8093,
+        "profile_path": "/u7Oz6nHfMSlXuT34K7Ffp4f2qgP.jpg"
+      },
+      {
+        "personId": 17141,
+        "name": "Greg Kinnear",
+        "character": "David Larrabee",
+        "order": 2,
+        "cast_id": 3,
+        "popularity": 2.7121,
+        "profile_path": "/fweC1tDqEWuMQK6OHcJLnmGBf5.jpg"
+      },
+      {
+        "personId": 12957,
+        "name": "Nancy Marchand",
+        "character": "Maude Larrabee",
+        "order": 3,
+        "cast_id": 11,
+        "popularity": 1.2401,
+        "profile_path": "/4dPOOlSAGXZ9Bf5BcSc7I2QMEiA.jpg"
+      },
+      {
+        "personId": 8937,
+        "name": "John Wood",
+        "character": "Fairchild",
+        "order": 4,
+        "cast_id": 12,
+        "popularity": 1.769,
+        "profile_path": "/6raTQciey2xpcVV5c8HRV4XzFCk.jpg"
+      },
+      {
+        "personId": 16554,
+        "name": "Richard Crenna",
+        "character": "Patrick Tyson",
+        "order": 5,
+        "cast_id": 13,
+        "popularity": 1.6683,
+        "profile_path": "/dsViQ2ate32xTSQgxoEHKQl0Evj.jpg"
+      },
+      {
+        "personId": 4301,
+        "name": "Angie Dickinson",
+        "character": "Ingrid Tyson",
+        "order": 6,
+        "cast_id": 4,
+        "popularity": 4.7782,
+        "profile_path": "/5OmGKBhCTz7nobyMOPfaxs2F9n3.jpg"
+      },
+      {
+        "personId": 34485,
+        "name": "Lauren Holly",
+        "character": "Elizabeth Tyson",
+        "order": 7,
+        "cast_id": 14,
+        "popularity": 4.7099,
+        "profile_path": "/bWQsB6ueNNkygxCiIxyKznQAiOK.jpg"
+      },
+      {
+        "personId": 13314,
+        "name": "Dana Ivey",
+        "character": "Mack",
+        "order": 8,
+        "cast_id": 15,
+        "popularity": 2.5652,
+        "profile_path": "/oQEeRwEb9w4TuSVp334OP9z6Ljm.jpg"
+      },
+      {
+        "personId": 1163,
+        "name": "Miriam Colon",
+        "character": "Rosa",
+        "order": 9,
+        "cast_id": 57,
+        "popularity": 2.0786,
+        "profile_path": "/9jnz7htVMCTDNRDmoi2mdOKv6Pj.jpg"
+      },
+      {
+        "personId": 138242,
+        "name": "Elizabeth Franz",
+        "character": "Joanna",
+        "order": 10,
+        "cast_id": 58,
+        "popularity": 1.1123,
+        "profile_path": "/mlNRhegXkx0dsPmFw3ftjAvVzng.jpg"
+      },
+      {
+        "personId": 20234,
+        "name": "Fanny Ardant",
+        "character": "Irene",
+        "order": 11,
+        "cast_id": 16,
+        "popularity": 1.5695,
+        "profile_path": "/q8Hj88E3ME5z795haGMqVDwFDjp.jpg"
+      },
+      {
+        "personId": 62531,
+        "name": "Valérie Lemercier",
+        "character": "Martine",
+        "order": 12,
+        "cast_id": 59,
+        "popularity": 1.074,
+        "profile_path": "/2WMtL9SFIWmOIL2P6PdfHncSLXP.jpg"
+      },
+      {
+        "personId": 73827,
+        "name": "Patrick Bruel",
+        "character": "Louis",
+        "order": 13,
+        "cast_id": 17,
+        "popularity": 0.8126,
+        "profile_path": "/qeqCilfQzh0whViLeSovpaUEvfG.jpg"
+      },
+      {
+        "personId": 59206,
+        "name": "Becky Ann Baker",
+        "character": "Linda",
+        "order": 14,
+        "cast_id": 60,
+        "popularity": 1.6479,
+        "profile_path": "/84fEZMqVMlcl9EaBeCLbrYhHn0x.jpg"
+      },
+      {
+        "personId": 13242,
+        "name": "Paul Giamatti",
+        "character": "Scott",
+        "order": 15,
+        "cast_id": 56,
+        "popularity": 4.0568,
+        "profile_path": "/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
+      },
+      {
+        "personId": 163775,
+        "name": "John C. Vennema",
+        "character": "Ron",
+        "order": 16,
+        "cast_id": 61,
+        "popularity": 1.2893,
+        "profile_path": "/gx1PrG9r10366c2J5kpSkPIU2DX.jpg"
+      },
+      {
+        "personId": 161591,
+        "name": "Gregory Chase",
+        "character": "Ron",
+        "order": 17,
+        "cast_id": 121,
+        "popularity": 0.3813,
+        "profile_path": "/gNdodev00CROpXuAh5EFmkWTVOo.jpg"
+      },
+      {
+        "personId": 452,
+        "name": "Margo Martindale",
+        "character": "Nurse",
+        "order": 18,
+        "cast_id": 62,
+        "popularity": 2.4384,
+        "profile_path": "/6ANuYnZZJTuQLL4bbt8vH1qDYje.jpg"
+      },
+      {
+        "personId": 52475,
+        "name": "J. Smith-Cameron",
+        "character": "Carol",
+        "order": 19,
+        "cast_id": 63,
+        "popularity": 1.9454,
+        "profile_path": "/7DlYGLX5oywXpyvCsDZpOsWYpbg.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "personId": 2226,
+        "name": "Sydney Pollack",
+        "job": "Director",
+        "department": "Directing",
+        "popularity": 1.5967,
+        "profile_path": "/d22QmhGE9bCkXeOwRsfrGTk188I.jpg"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 2072,
+        "name": "chauffeur"
+      },
+      {
+        "id": 380,
+        "name": "sibling relationship"
+      },
+      {
+        "id": 90,
+        "name": "paris, france"
+      },
+      {
+        "id": 4375,
+        "name": "transformation"
+      },
+      {
+        "id": 5732,
+        "name": "birthday party"
+      },
+      {
+        "id": 5683,
+        "name": "family business "
+      },
+      {
+        "id": 9398,
+        "name": "long island, new york"
+      },
+      {
+        "id": 9639,
+        "name": "playboy"
+      },
+      {
+        "id": 10791,
+        "name": "teenage crush"
+      },
+      {
+        "id": 33626,
+        "name": "millionaire"
+      },
+      {
+        "id": 164664,
+        "name": "marriage engagement"
+      },
+      {
+        "id": 165282,
+        "name": "high society"
+      },
+      {
+        "id": 169057,
+        "name": "merger"
+      },
+      {
+        "id": 179367,
+        "name": "impossible love"
+      },
+      {
+        "id": 199764,
+        "name": "family disapproval"
+      },
+      {
+        "id": 211614,
+        "name": "scheme"
+      },
+      {
+        "id": 220314,
+        "name": "wealth differences"
+      },
+      {
+        "id": 237462,
+        "name": "wealthy family"
+      },
+      {
+        "id": 240303,
+        "name": "father daughter relationship"
+      },
+      {
+        "id": 243959,
+        "name": "brother brother relationship"
+      },
+      {
+        "id": 305033,
+        "name": "unlikely romance"
+      },
+      {
+        "id": 324429,
+        "name": "romantic"
+      }
+    ],
+    "description": "Sabrina (1995) - 类型: Romance, Drama, Comedy - Sabrina Fairchild, a chauffeur's daughter, grew up at the Long Island estate of the wealthy Larrabee family enchanted with their sparkling world of privilege and wealth, but she's especially enamored of younger son David, a charming playboy. After the once plain Sabrina returns from a sojourn in Paris transformed into a glamorous young woman, she at long last catches David's eye. In a calculated effort to manipulate David away from her and into a more financially advantageous marriage, formidable older brother Linus devises a plan to keep them apart.",
+    "rank_score_0_10": 6.716571834992887,
+    "rank_score_source": "movielens",
+    "rank_score_votes": 2812
+  },
+  {
+    "movieId": 8,
+    "name": "Tom and Huck",
+    "year": 1995,
+    "movielens_genres_raw": [
+      "Adventure",
+      "Children"
+    ],
+    "movielens_genres": [
+      "Adventure",
+      "Family"
+    ],
+    "movielens_genres_unmapped": [],
+    "tmdb_genres_raw": [
+      "Family",
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "genres": [
+      "Family",
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "imdbId": "tt0112302",
+    "tmdbId": 45325,
+    "data_source": "movielens+tmdb",
+    "created_at": "2026-01-06T20:14:11.858747+00:00",
+    "movielens_avg_rating": 3.126543209876543,
+    "movielens_rating_count": 324,
+    "overview": "A mischievous young boy, Tom Sawyer, witnesses a murder by the deadly Injun Joe. Tom becomes friends with Huckleberry Finn, a boy with no future and no family. Tom has to choose between honoring a friendship or honoring an oath because the town alcoholic is accused of the murder. Tom and Huck go through several adventures trying to retrieve evidence.",
+    "release_date": "1995-12-22",
+    "runtime": 97,
+    "budget": 0,
+    "revenue": 23920048,
+    "tmdb_vote_average": 5.265,
+    "tmdb_vote_count": 204,
+    "tmdb_popularity": 1.7968,
+    "original_language": "en",
+    "poster_path": "/bMY31ikEOIPOHqQwhPhII8UVBln.jpg",
+    "backdrop_path": "/jP8lHNHD89xaRPfAdyz5KEVYcSb.jpg",
+    "production_companies": [
+      {
+        "id": 2,
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 134923,
+        "name": "Painted Fence Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "code": "US",
+        "name": "United States of America"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "en",
+        "name": "English"
+      }
+    ],
+    "cast": [
+      {
+        "personId": 53283,
+        "name": "Jonathan Taylor Thomas",
+        "character": "Tom Sawyer",
+        "order": 0,
+        "cast_id": 2,
+        "popularity": 2.6533,
+        "profile_path": "/lv1ZNrdFGMa8lYjwQyJqePONaDY.jpg"
+      },
+      {
+        "personId": 51214,
+        "name": "Brad Renfro",
+        "character": "Huck Finn",
+        "order": 1,
+        "cast_id": 3,
+        "popularity": 1.1184,
+        "profile_path": "/oOtzyE9wkbBV58ZxyYsGzyPxoSw.jpg"
+      },
+      {
+        "personId": 57448,
+        "name": "Eric Schweig",
+        "character": "Injun Joe",
+        "order": 2,
+        "cast_id": 7,
+        "popularity": 1.7677,
+        "profile_path": "/z4mA3Lz5iZVqZDZom4ItBxM8eQN.jpg"
+      },
+      {
+        "personId": 7867,
+        "name": "Charles Rocket",
+        "character": "Judge Thatcher",
+        "order": 3,
+        "cast_id": 13,
+        "popularity": 1.0394,
+        "profile_path": "/g2HeXDVqtGhYKBqeV4cFaZ7RbVV.jpg"
+      },
+      {
+        "personId": 87007,
+        "name": "Amy Wright",
+        "character": "Aunt Polly",
+        "order": 4,
+        "cast_id": 6,
+        "popularity": 2.9036,
+        "profile_path": "/wejr7718NPsCjTF2mvyOOIukRsc.jpg"
+      },
+      {
+        "personId": 8316,
+        "name": "Michael McShane",
+        "character": "Muff Potter",
+        "order": 5,
+        "cast_id": 5,
+        "popularity": 1.1234,
+        "profile_path": "/xGd7WMiumvnsGttbBXVRsrhos7X.jpg"
+      },
+      {
+        "personId": 41293,
+        "name": "Marian Seldes",
+        "character": "Widow Douglas",
+        "order": 6,
+        "cast_id": 14,
+        "popularity": 1.0594,
+        "profile_path": "/farpPf0NJrZfdYJNnAmDlmhTURn.jpg"
+      },
+      {
+        "personId": 38581,
+        "name": "Rachael Leigh Cook",
+        "character": "Becky Thatcher",
+        "order": 7,
+        "cast_id": 4,
+        "popularity": 2.5223,
+        "profile_path": "/xmKFPYw8OcN7g7B3zU1ZJOVKfqC.jpg"
+      },
+      {
+        "personId": 3204,
+        "name": "Lanny Flaherty",
+        "character": "Emmett",
+        "order": 8,
+        "cast_id": 15,
+        "popularity": 1.09,
+        "profile_path": "/jZV9UdctUwZOsdZ4OH3wxj4Bvop.jpg"
+      },
+      {
+        "personId": 55961,
+        "name": "Courtland Mead",
+        "character": "Sid",
+        "order": 9,
+        "cast_id": 16,
+        "popularity": 2.3262,
+        "profile_path": "/71Npi8B3YfSbOOXo5uvT5Nhn3Ah.jpg"
+      },
+      {
+        "personId": 62597,
+        "name": "Peter MacKenzie",
+        "character": "Mr. Sneed",
+        "order": 10,
+        "cast_id": 17,
+        "popularity": 1.4242,
+        "profile_path": "/cIh0AFTpukyo7O7I4AeWpGnFpic.jpg"
+      },
+      {
+        "personId": 1417743,
+        "name": "Heath Lamberts",
+        "character": "Schoolmaster Dobbins",
+        "order": 11,
+        "cast_id": 18,
+        "popularity": 0.6658,
+        "profile_path": "/e1VrIvUAnvDMhl6HaCz1rT8p14J.jpg"
+      },
+      {
+        "personId": 77027,
+        "name": "William Newman",
+        "character": "Doc Robinson",
+        "order": 12,
+        "cast_id": 33,
+        "popularity": 0.6584,
+        "profile_path": "/ii31BZovt11jKGSXSdV2HWLRSgM.jpg"
+      },
+      {
+        "personId": 3745663,
+        "name": "Joey Stinson",
+        "character": "Joe Harper",
+        "order": 13,
+        "cast_id": 34,
+        "popularity": 0.214,
+        "profile_path": null
+      },
+      {
+        "personId": 57127,
+        "name": "Blake Heron",
+        "character": "Ben Rodgers",
+        "order": 14,
+        "cast_id": 35,
+        "popularity": 0.5788,
+        "profile_path": "/mJJfFA56PD3dZjlbwAo1hEryTSB.jpg"
+      },
+      {
+        "personId": 3290199,
+        "name": "Jim Aycock",
+        "character": "Defense Lawyer",
+        "order": 15,
+        "cast_id": 36,
+        "popularity": 0.0368,
+        "profile_path": null
+      },
+      {
+        "personId": 21083,
+        "name": "Andy Stahl",
+        "character": "Sheriff",
+        "order": 16,
+        "cast_id": 37,
+        "popularity": 2.0959,
+        "profile_path": "/nJHyBpX7lVwEGJLaR8KOvn0FdZ0.jpg"
+      },
+      {
+        "personId": 60765,
+        "name": "Adrian Roberts",
+        "character": "Welshman",
+        "order": 17,
+        "cast_id": 38,
+        "popularity": 0.6329,
+        "profile_path": null
+      },
+      {
+        "personId": 3745666,
+        "name": "Tiffany Lynn Clark",
+        "character": "Suzy Harper",
+        "order": 18,
+        "cast_id": 39,
+        "popularity": 0.1188,
+        "profile_path": null
+      },
+      {
+        "personId": 1231045,
+        "name": "Kellen Hathaway",
+        "character": "Billy Newton",
+        "order": 19,
+        "cast_id": 40,
+        "popularity": 1.2485,
+        "profile_path": null
+      }
+    ],
+    "crew": [
+      {
+        "personId": 18357,
+        "name": "Peter Hewitt",
+        "job": "Director",
+        "department": "Directing",
+        "popularity": 1.0978,
+        "profile_path": "/b4KMprf8VqbAToPrEkH69mqCvtn.jpg"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 787,
+        "name": "mississippi river"
+      },
+      {
+        "id": 3230,
+        "name": "male friendship"
+      },
+      {
+        "id": 197850,
+        "name": "restless youth"
+      },
+      {
+        "id": 359888,
+        "name": "rural americana"
+      }
+    ],
+    "description": "Tom and Huck (1995) - 类型: Family, Action, Adventure, Drama - A mischievous young boy, Tom Sawyer, witnesses a murder by the deadly Injun Joe. Tom becomes friends with Huckleberry Finn, a boy with no future and no family. Tom has to choose between honoring a friendship or honoring an oath because the town alcoholic is accused of the murder. Tom and Huck go through several adventures trying to retrieve evidence.",
+    "rank_score_0_10": 6.253086419753086,
+    "rank_score_source": "movielens",
+    "rank_score_votes": 324
+  },
+  {
+    "movieId": 9,
+    "name": "Sudden Death",
+    "year": 1995,
+    "movielens_genres_raw": [
+      "Action"
+    ],
+    "movielens_genres": [
+      "Action"
+    ],
+    "movielens_genres_unmapped": [],
+    "tmdb_genres_raw": [
+      "Action",
+      "Drama",
+      "Thriller",
+      "Crime"
+    ],
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller",
+      "Crime"
+    ],
+    "imdbId": "tt0114576",
+    "tmdbId": 9091,
+    "data_source": "movielens+tmdb",
+    "created_at": "2026-01-06T20:14:14.645910+00:00",
+    "movielens_avg_rating": 2.9976525821596245,
+    "movielens_rating_count": 852,
+    "overview": "When a man's daughter is suddenly taken during a championship hockey game – with the captors demanding a billion dollars by game's end – he frantically sets a plan in motion to rescue her and abort an impending explosion before the final buzzer.",
+    "release_date": "1995-10-27",
+    "runtime": 110,
+    "budget": 35000000,
+    "revenue": 64350171,
+    "tmdb_vote_average": 6.008,
+    "tmdb_vote_count": 778,
+    "tmdb_popularity": 1.8982,
+    "original_language": "en",
+    "poster_path": "/1pylO6YX5XdOA6QCc5IRxrrffkg.jpg",
+    "backdrop_path": "/wPSHboBNEInknw4VnCWOD2D8qc2.jpg",
+    "production_companies": [
+      {
+        "id": 99689,
+        "name": "Shattered Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 21437,
+        "name": "Imperial Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 23770,
+        "name": "Signature Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "code": "US",
+        "name": "United States of America"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "en",
+        "name": "English"
+      }
+    ],
+    "cast": [
+      {
+        "personId": 15111,
+        "name": "Jean-Claude Van Damme",
+        "character": "Darren Francis Thomas McCord",
+        "order": 0,
+        "cast_id": 1,
+        "popularity": 7.7447,
+        "profile_path": "/v4hqSYeG17WOMp0xNjoWgi8Vbyn.jpg"
+      },
+      {
+        "personId": 6280,
+        "name": "Powers Boothe",
+        "character": "Joshua Foss",
+        "order": 1,
+        "cast_id": 2,
+        "popularity": 1.5867,
+        "profile_path": "/xj3DBMqnEnyYfHEBcRHOxlpbQS4.jpg"
+      },
+      {
+        "personId": 10361,
+        "name": "Raymond J. Barry",
+        "character": "Vice President Daniel Bender",
+        "order": 2,
+        "cast_id": 15,
+        "popularity": 1.3967,
+        "profile_path": "/8rJs8BQMoVqEjjCHCS4i7o7joJ6.jpg"
+      },
+      {
+        "personId": 79088,
+        "name": "Whittni Wright",
+        "character": "Emily McCord",
+        "order": 3,
+        "cast_id": 17,
+        "popularity": 0.4775,
+        "profile_path": "/7A7C5ljLzVB9FimZTESsRFFSmZz.jpg"
+      },
+      {
+        "personId": 12928,
+        "name": "Ross Malinger",
+        "character": "Tyler McCord",
+        "order": 4,
+        "cast_id": 16,
+        "popularity": 5.2376,
+        "profile_path": "/7GiouqIfxSH14Xy8KToensUDVGK.jpg"
+      },
+      {
+        "personId": 8656,
+        "name": "Dorian Harewood",
+        "character": "Matthew Hallmark",
+        "order": 5,
+        "cast_id": 4,
+        "popularity": 1.2321,
+        "profile_path": "/j3Nc0uNpe3MkonLtOrzVegO22QO.jpg"
+      },
+      {
+        "personId": 104873,
+        "name": "Kate McNeil",
+        "character": "Kathi",
+        "order": 6,
+        "cast_id": 139,
+        "popularity": 2.1526,
+        "profile_path": "/5cVXpts4pNEi6YXzwElq9FTiaHk.jpg"
+      },
+      {
+        "personId": 33241,
+        "name": "Michael Gaston",
+        "character": "Hickey",
+        "order": 7,
+        "cast_id": 140,
+        "popularity": 3.6315,
+        "profile_path": "/lXhqiW4J1n9bnbfwz0Kdf2sjGLU.jpg"
+      },
+      {
+        "personId": 4162,
+        "name": "Audra Lindley",
+        "character": "Mrs. Ferrara",
+        "order": 8,
+        "cast_id": 141,
+        "popularity": 1.0254,
+        "profile_path": "/60e6GYrdtiVW6imhzmZbxZ4GRtr.jpg"
+      },
+      {
+        "personId": 6579,
+        "name": "Brian Delate",
+        "character": "Blair",
+        "order": 9,
+        "cast_id": 142,
+        "popularity": 0.7742,
+        "profile_path": "/rydDYe4VHjZsJZPWOus4KGkhroG.jpg"
+      },
+      {
+        "personId": 2574788,
+        "name": "Steve Aronson",
+        "character": "Dooley",
+        "order": 10,
+        "cast_id": 143,
+        "popularity": 0.3736,
+        "profile_path": null
+      },
+      {
+        "personId": 1896723,
+        "name": "Michael R. Aubele",
+        "character": "Ace",
+        "order": 11,
+        "cast_id": 144,
+        "popularity": 0.165,
+        "profile_path": null
+      },
+      {
+        "personId": 53300,
+        "name": "Karen Elise Baldwin",
+        "character": "TV Director",
+        "order": 12,
+        "cast_id": 145,
+        "popularity": 0.5109,
+        "profile_path": "/hbaJfRad8n9h5k4v9JvieM6seDb.jpg"
+      },
+      {
+        "personId": 2574789,
+        "name": "Jennifer D. Bowser",
+        "character": "Joan",
+        "order": 13,
+        "cast_id": 146,
+        "popularity": 0.0256,
+        "profile_path": null
+      },
+      {
+        "personId": 1665269,
+        "name": "Pat Brisson",
+        "character": "Player #2",
+        "order": 14,
+        "cast_id": 147,
+        "popularity": 0.1109,
+        "profile_path": "/4VEnpDiJWiWaouOAOPsmn2Uz7iq.jpg"
+      },
+      {
+        "personId": 1928897,
+        "name": "Glenda Morgan Brown",
+        "character": "Mrs. Taylor",
+        "order": 15,
+        "cast_id": 148,
+        "popularity": 0.3788,
+        "profile_path": "/rXjPM6M9KajZ1AMv0QJT5AeTsPt.jpg"
+      },
+      {
+        "personId": 9559,
+        "name": "Jophery C. Brown",
+        "character": "Wootton",
+        "order": 16,
+        "cast_id": 149,
+        "popularity": 0.4574,
+        "profile_path": "/Uf6SfhpfFvSUCNGQylUFdHn2pV.jpg"
+      },
+      {
+        "personId": 1090362,
+        "name": "William Cameron",
+        "character": "Secret Service Agent",
+        "order": 17,
+        "cast_id": 150,
+        "popularity": 0.3526,
+        "profile_path": null
+      },
+      {
+        "personId": 2574790,
+        "name": "Bernard Canepari",
+        "character": "Jefferson",
+        "order": 18,
+        "cast_id": 151,
+        "popularity": 0.1112,
+        "profile_path": null
+      },
+      {
+        "personId": 2574791,
+        "name": "Jay Caufield",
+        "character": "Tolliver",
+        "order": 19,
+        "cast_id": 152,
+        "popularity": 0.1216,
+        "profile_path": null
+      }
+    ],
+    "crew": [
+      {
+        "personId": 37710,
+        "name": "Peter Hyams",
+        "job": "Director",
+        "department": "Directing",
+        "popularity": 0.8744,
+        "profile_path": "/duAvOEQ7Bt3RoiyBzFmlOawcCwW.jpg"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 1653,
+        "name": "explosive"
+      },
+      {
+        "id": 1562,
+        "name": "hostage"
+      },
+      {
+        "id": 6483,
+        "name": "ice hockey"
+      },
+      {
+        "id": 13015,
+        "name": "terrorism"
+      },
+      {
+        "id": 193533,
+        "name": "vice president"
+      },
+      {
+        "id": 193594,
+        "name": "pittsburgh, pennsylvania"
+      },
+      {
+        "id": 266169,
+        "name": "pittsburgh penguins"
+      }
+    ],
+    "description": "Sudden Death (1995) - 类型: Action, Drama, Thriller, Crime - When a man's daughter is suddenly taken during a championship hockey game – with the captors demanding a billion dollars by game's end – he frantically sets a plan in motion to rescue her and abort an impending explosion before the final buzzer.",
+    "rank_score_0_10": 5.995305164319249,
+    "rank_score_source": "movielens",
+    "rank_score_votes": 852
+  },
+  {
+    "movieId": 10,
+    "name": "GoldenEye",
+    "year": 1995,
+    "movielens_genres_raw": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "movielens_genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "movielens_genres_unmapped": [],
+    "tmdb_genres_raw": [
+      "Adventure",
+      "Action",
+      "Thriller"
+    ],
+    "genres": [
+      "Adventure",
+      "Action",
+      "Thriller"
+    ],
+    "imdbId": "tt0113189",
+    "tmdbId": 710,
+    "data_source": "movielens+tmdb",
+    "created_at": "2026-01-06T20:14:18.245859+00:00",
+    "movielens_avg_rating": 3.4161927330173776,
+    "movielens_rating_count": 6330,
+    "overview": "When a powerful satellite system falls into the hands of Alec Trevelyan, AKA Agent 006, a former ally-turned-enemy, only James Bond can save the world from a dangerous space weapon that -- in one short pulse -- could destroy the earth! As Bond squares off against his former compatriot, he also battles Xenia Onatopp, an assassin who uses pleasure as her ultimate weapon.",
+    "release_date": "1995-11-16",
+    "runtime": 130,
+    "budget": 60000000,
+    "revenue": 352194034,
+    "tmdb_vote_average": 6.9,
+    "tmdb_vote_count": 4174,
+    "tmdb_popularity": 6.9295,
+    "original_language": "en",
+    "poster_path": "/z0ljRnNxIO7CRBhLEO0DvLgAFPR.jpg",
+    "backdrop_path": "/fIWsCpYR9iGDMSbMTSAzy8L7Kg5.jpg",
+    "production_companies": [
+      {
+        "id": 7576,
+        "name": "EON Productions",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "code": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "spoken_languages": [
+      {
+        "code": "en",
+        "name": "English"
+      },
+      {
+        "code": "ru",
+        "name": "Pусский"
+      },
+      {
+        "code": "es",
+        "name": "Español"
+      }
+    ],
+    "cast": [
+      {
+        "personId": 517,
+        "name": "Pierce Brosnan",
+        "character": "James Bond",
+        "order": 0,
+        "cast_id": 1,
+        "popularity": 6.0215,
+        "profile_path": "/dzXVwwJLPwiZeXOnf7YxorqVEEM.jpg"
+      },
+      {
+        "personId": 48,
+        "name": "Sean Bean",
+        "character": "Alec Trevelyan",
+        "order": 1,
+        "cast_id": 2,
+        "popularity": 5.0887,
+        "profile_path": "/kTjiABk3TJ3yI0Cto5RsvyT6V3o.jpg"
+      },
+      {
+        "personId": 10695,
+        "name": "Izabella Scorupco",
+        "character": "Natalya Simonova",
+        "order": 2,
+        "cast_id": 3,
+        "popularity": 2.3002,
+        "profile_path": "/Av7fykzXL701au42sTbhufHpwwv.jpg"
+      },
+      {
+        "personId": 10696,
+        "name": "Famke Janssen",
+        "character": "Xenia Onatopp",
+        "order": 3,
+        "cast_id": 4,
+        "popularity": 6.7854,
+        "profile_path": "/uvZGwNsLqe9NyA57Qlt46IkO8Bd.jpg"
+      },
+      {
+        "personId": 10671,
+        "name": "Joe Don Baker",
+        "character": "Jack Wade",
+        "order": 4,
+        "cast_id": 5,
+        "popularity": 1.7846,
+        "profile_path": "/7AEqsKLyAO3tt9bUufdirU1xXo8.jpg"
+      },
+      {
+        "personId": 5309,
+        "name": "Judi Dench",
+        "character": "M",
+        "order": 5,
+        "cast_id": 6,
+        "popularity": 4.2027,
+        "profile_path": "/cpna5VGvAxuKuC31xJPBKy9zbnv.jpg"
+      },
+      {
+        "personId": 1923,
+        "name": "Robbie Coltrane",
+        "character": "Valentin Zukovsky",
+        "order": 6,
+        "cast_id": 8,
+        "popularity": 1.9273,
+        "profile_path": "/jOHs3xvlwRiiG2CLtso5zzmGCXg.jpg"
+      },
+      {
+        "personId": 10698,
+        "name": "Tchéky Karyo",
+        "character": "Dmitri Mishkin",
+        "order": 7,
+        "cast_id": 10,
+        "popularity": 2.9623,
+        "profile_path": "/EcpFzLMmfz6fm4FrpamfFQ51pz.jpg"
+      },
+      {
+        "personId": 3757,
+        "name": "Gottfried John",
+        "character": "Colonel Ourumov",
+        "order": 8,
+        "cast_id": 7,
+        "popularity": 1.0298,
+        "profile_path": "/duXWjkperrnUq094bgsYddJeIG0.jpg"
+      },
+      {
+        "personId": 10697,
+        "name": "Alan Cumming",
+        "character": "Boris Grishenko",
+        "order": 9,
+        "cast_id": 9,
+        "popularity": 3.6328,
+        "profile_path": "/cXbcMoCtS8947or9K5cOQev1Mmj.jpg"
+      },
+      {
+        "personId": 9906,
+        "name": "Desmond Llewelyn",
+        "character": "Q",
+        "order": 10,
+        "cast_id": 11,
+        "popularity": 1.0248,
+        "profile_path": "/mZTlKMtkMsMiO1Vd0A9ZCHJYevX.jpg"
+      },
+      {
+        "personId": 10699,
+        "name": "Samantha Bond",
+        "character": "Moneypenny",
+        "order": 11,
+        "cast_id": 12,
+        "popularity": 2.0575,
+        "profile_path": "/apo13y77RnKUWTjY1FsW1DcQdkY.jpg"
+      },
+      {
+        "personId": 10648,
+        "name": "Michael Kitchen",
+        "character": "Bill Tanner",
+        "order": 12,
+        "cast_id": 13,
+        "popularity": 1.5797,
+        "profile_path": "/gssCZjXmRcRhuOrGOR9cwd6TcXj.jpg"
+      },
+      {
+        "personId": 10700,
+        "name": "Serena Gordon",
+        "character": "Caroline",
+        "order": 13,
+        "cast_id": 14,
+        "popularity": 0.861,
+        "profile_path": "/ySOOEA62m05ZbqfwD7I6xo8Q9fC.jpg"
+      },
+      {
+        "personId": 10701,
+        "name": "Simon Kunz",
+        "character": "Severnaya Duty Officer",
+        "order": 14,
+        "cast_id": 15,
+        "popularity": 2.1671,
+        "profile_path": "/7Kh3IbRU4bmeiH210CgHu9lofo7.jpg"
+      },
+      {
+        "personId": 1228249,
+        "name": "Pavel Douglas",
+        "character": "French Warship Captain",
+        "order": 15,
+        "cast_id": 82,
+        "popularity": 1.8196,
+        "profile_path": "/Aw1vYQxn2Ot4y6WjZry33ortpbi.jpg"
+      },
+      {
+        "personId": 2842568,
+        "name": "Olivier Lajous",
+        "character": "French Warship Officer",
+        "order": 16,
+        "cast_id": 81,
+        "popularity": 0.1814,
+        "profile_path": null
+      },
+      {
+        "personId": 55911,
+        "name": "Billy J. Mitchell",
+        "character": "Admiral Chuck Farrell",
+        "order": 17,
+        "cast_id": 37,
+        "popularity": 0.7615,
+        "profile_path": "/1AoXhTz9DvGNrrdqEV9oeHsl2HU.jpg"
+      },
+      {
+        "personId": 27425,
+        "name": "Constantine Gregory",
+        "character": "Computer Store Manager",
+        "order": 18,
+        "cast_id": 38,
+        "popularity": 0.8104,
+        "profile_path": "/Wu1DUqLi8ZclEcdLGgYgnNcPmw.jpg"
+      },
+      {
+        "personId": 6613,
+        "name": "Minnie Driver",
+        "character": "Irina",
+        "order": 19,
+        "cast_id": 39,
+        "popularity": 7.4151,
+        "profile_path": "/OskQBuriLtKWNiCnLTHjMqV1ga.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "personId": 10702,
+        "name": "Martin Campbell",
+        "job": "Director",
+        "department": "Directing",
+        "popularity": 2.1159,
+        "profile_path": "/xAaNHXBrwTPDjZRs5vDD0fMO9bx.jpg"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 2812,
+        "name": "computer virus"
+      },
+      {
+        "id": 701,
+        "name": "cuba"
+      },
+      {
+        "id": 769,
+        "name": "falsely accused"
+      },
+      {
+        "id": 3272,
+        "name": "secret intelligence service"
+      },
+      {
+        "id": 1308,
+        "name": "secret identity"
+      },
+      {
+        "id": 3268,
+        "name": "secret base"
+      },
+      {
+        "id": 3278,
+        "name": "kgb"
+      },
+      {
+        "id": 3376,
+        "name": "satellite"
+      },
+      {
+        "id": 3531,
+        "name": "special car"
+      },
+      {
+        "id": 3560,
+        "name": "cossack"
+      },
+      {
+        "id": 3561,
+        "name": "electromagnetic pulse"
+      },
+      {
+        "id": 3562,
+        "name": "time bomb"
+      },
+      {
+        "id": 3563,
+        "name": "st. petersburg, russia"
+      },
+      {
+        "id": 193008,
+        "name": "red army"
+      },
+      {
+        "id": 364654,
+        "name": "007"
+      }
+    ],
+    "description": "GoldenEye (1995) - 类型: Adventure, Action, Thriller - When a powerful satellite system falls into the hands of Alec Trevelyan, AKA Agent 006, a former ally-turned-enemy, only James Bond can save the world from a dangerous space weapon that -- in one short pulse -- could destroy the earth! As Bond squares off against his former compatriot, he also battles Xenia Onatopp, an assassin who uses pleasure as her ultimate weapon.",
+    "rank_score_0_10": 6.832385466034755,
+    "rank_score_source": "movielens",
+    "rank_score_votes": 6330
+  }
+]

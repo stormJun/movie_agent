@@ -1,0 +1,353 @@
+{
+  "overview": "While on a business trip in Los Angeles, Edward Lewis, a millionaire entrepreneur who makes a living buying and breaking up companies, picks up a prostitute, Vivian, while asking for directions; after, Edward hires Vivian to stay with him for the weekend to accompany him to a few social events, and the two get closer only to discover there are significant hurdles to overcome as they try to bridge the gap between their very different worlds.",
+  "release_date": "1990-03-23",
+  "runtime": 120,
+  "budget": 14000000,
+  "revenue": 463406268,
+  "tmdb_vote_average": 7.459,
+  "tmdb_vote_count": 8751,
+  "tmdb_popularity": 12.4027,
+  "original_language": "en",
+  "poster_path": "/hVHUfT801LQATGd26VPzhorIYza.jpg",
+  "backdrop_path": "/sGEqHTylawwS6hwKultk1mKUjdB.jpg",
+  "tmdb_genres_raw": [
+    "Romance",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 9195,
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 10282,
+      "name": "Silver Screen Partners IV",
+      "origin_country": "US"
+    },
+    {
+      "id": 508,
+      "name": "Regency Enterprises",
+      "origin_country": "US"
+    },
+    {
+      "id": 25087,
+      "name": "Arnon Milchan Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1205,
+      "name": "Richard Gere",
+      "character": "Edward Lewis",
+      "order": 0,
+      "cast_id": 6,
+      "popularity": 5.9547,
+      "profile_path": "/lWjnKsszeYaY7McFPyyQxK2gONV.jpg"
+    },
+    {
+      "personId": 1204,
+      "name": "Julia Roberts",
+      "character": "Vivian Ward",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 7.8361,
+      "profile_path": "/h13yvG0tRNMTAwciQXxYmQWdYW8.jpg"
+    },
+    {
+      "personId": 1208,
+      "name": "Ralph Bellamy",
+      "character": "James Morse",
+      "order": 2,
+      "cast_id": 8,
+      "popularity": 2.188,
+      "profile_path": "/vC6cdrUUewgurTlVXt36eRAtQKb.jpg"
+    },
+    {
+      "personId": 1206,
+      "name": "Jason Alexander",
+      "character": "Philip Stuckey",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 4.5774,
+      "profile_path": "/qRezZ2yhM2bmBERt7jVcxo8RVSA.jpg"
+    },
+    {
+      "personId": 1212,
+      "name": "Laura San Giacomo",
+      "character": "Kit De Luca",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 4.2604,
+      "profile_path": "/xOPY9e0HN6zYmI5HrmRSbwygEzy.jpg"
+    },
+    {
+      "personId": 1210,
+      "name": "Héctor Elizondo",
+      "character": "The Hotel Manager",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 3.1113,
+      "profile_path": "/7Mfx9xeOFKXtzVpAc1488LiHs0b.jpg"
+    },
+    {
+      "personId": 747,
+      "name": "Alex Hyde-White",
+      "character": "David Morse",
+      "order": 6,
+      "cast_id": 16,
+      "popularity": 1.2649,
+      "profile_path": "/AjLhPmtUs94sQeHZ7PPnU7yK8o8.jpg"
+    },
+    {
+      "personId": 1219,
+      "name": "Amy Yasbeck",
+      "character": "Elizabeth Stuckey",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 2.3002,
+      "profile_path": "/5BbyiBjp5T8pKUcauVTweRcvLJJ.jpg"
+    },
+    {
+      "personId": 1209,
+      "name": "Elinor Donahue",
+      "character": "Bridget",
+      "order": 8,
+      "cast_id": 17,
+      "popularity": 2.3334,
+      "profile_path": "/tymsy4obGAxB1cwjRwm8QAIgKlM.jpg"
+    },
+    {
+      "personId": 1220,
+      "name": "Judith Baldwin",
+      "character": "Susan",
+      "order": 9,
+      "cast_id": 19,
+      "popularity": 1.0151,
+      "profile_path": "/8eLpmqWUsAM4ZX6LWBoIEUDUV42.jpg"
+    },
+    {
+      "personId": 2414049,
+      "name": "Jason Randal",
+      "character": "Magician",
+      "order": 10,
+      "cast_id": 109,
+      "popularity": 0.205,
+      "profile_path": "/7BLBgSFxhXFggOxV4fpMt7gOHY6.jpg"
+    },
+    {
+      "personId": 1214024,
+      "name": "Bill Applebaum",
+      "character": "Howard",
+      "order": 11,
+      "cast_id": 81,
+      "popularity": 0.6686,
+      "profile_path": "/fmugwPy7cmFTXjSJCAvzOkgaFDD.jpg"
+    },
+    {
+      "personId": 2414051,
+      "name": "Tracy Bjork",
+      "character": "Female Guest",
+      "order": 12,
+      "cast_id": 110,
+      "popularity": 0.2624,
+      "profile_path": "/qqVkvZMgnBnZVaUNKLfJNXi243q.jpg"
+    },
+    {
+      "personId": 2414055,
+      "name": "Gary Greene",
+      "character": "Male Guest",
+      "order": 13,
+      "cast_id": 111,
+      "popularity": 0.1923,
+      "profile_path": "/9AaZgBmKYqH7Md22LZU9PA86GBx.jpg"
+    },
+    {
+      "personId": 18304,
+      "name": "Billy Gallo",
+      "character": "Carlos",
+      "order": 14,
+      "cast_id": 112,
+      "popularity": 1.9128,
+      "profile_path": "/5EY91l7navGMBY80BGWn2uKt2jf.jpg"
+    },
+    {
+      "personId": 193048,
+      "name": "Abdul Salaam El Razzac",
+      "character": "Happy Man",
+      "order": 15,
+      "cast_id": 82,
+      "popularity": 0.6579,
+      "profile_path": "/3TwsXzX2WNgoQ4pHJvqDDPmojm8.jpg"
+    },
+    {
+      "personId": 5587,
+      "name": "Hank Azaria",
+      "character": "Detective",
+      "order": 16,
+      "cast_id": 22,
+      "popularity": 3.8011,
+      "profile_path": "/yFDw4b0jucuFWNnGcBPfpYUtn16.jpg"
+    },
+    {
+      "personId": 11519,
+      "name": "Larry Hankin",
+      "character": "Landlord",
+      "order": 17,
+      "cast_id": 83,
+      "popularity": 2.6876,
+      "profile_path": "/2uR8SZ9geiSQOpBhKrerh9qY7CX.jpg"
+    },
+    {
+      "personId": 1708684,
+      "name": "Julie Paris",
+      "character": "Rachel",
+      "order": 18,
+      "cast_id": 84,
+      "popularity": 0.8178,
+      "profile_path": null
+    },
+    {
+      "personId": 1500973,
+      "name": "Rhonda Hansome",
+      "character": "Bermuda",
+      "order": 19,
+      "cast_id": 85,
+      "popularity": 0.2399,
+      "profile_path": "/kjuDRxYkfjt0GxlQHb72eLFyMGR.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1201,
+      "name": "Garry Marshall",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.4118,
+      "profile_path": "/uYVagiSCH4gj3BcYownQySVwfy7.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 549,
+      "name": "prostitute"
+    },
+    {
+      "id": 999,
+      "name": "sports car"
+    },
+    {
+      "id": 592,
+      "name": "capitalism"
+    },
+    {
+      "id": 996,
+      "name": "expensive restaurant"
+    },
+    {
+      "id": 1022,
+      "name": "workaholic"
+    },
+    {
+      "id": 1023,
+      "name": "fire escape"
+    },
+    {
+      "id": 9799,
+      "name": "romcom"
+    },
+    {
+      "id": 12670,
+      "name": "los angeles, california"
+    },
+    {
+      "id": 33626,
+      "name": "millionaire"
+    },
+    {
+      "id": 160404,
+      "name": "valentine's day"
+    },
+    {
+      "id": 163047,
+      "name": "beverly hills"
+    },
+    {
+      "id": 166233,
+      "name": "pygmalion"
+    },
+    {
+      "id": 171068,
+      "name": "entrepreneur"
+    },
+    {
+      "id": 180787,
+      "name": "social differences"
+    },
+    {
+      "id": 188659,
+      "name": "business deal"
+    },
+    {
+      "id": 203857,
+      "name": "penthouse"
+    },
+    {
+      "id": 208850,
+      "name": "italian opera"
+    },
+    {
+      "id": 208998,
+      "name": "shopping spree"
+    },
+    {
+      "id": 238334,
+      "name": "bubble bath"
+    },
+    {
+      "id": 254167,
+      "name": "loving"
+    },
+    {
+      "id": 271159,
+      "name": "hooker"
+    },
+    {
+      "id": 279433,
+      "name": "street smarts"
+    },
+    {
+      "id": 299842,
+      "name": "contract relationship"
+    },
+    {
+      "id": 323091,
+      "name": "cinderella story"
+    },
+    {
+      "id": 324429,
+      "name": "romantic"
+    },
+    {
+      "id": 325782,
+      "name": "cheerful"
+    },
+    {
+      "id": 336436,
+      "name": "polo match"
+    }
+  ]
+}

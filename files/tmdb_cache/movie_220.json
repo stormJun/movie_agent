@@ -1,0 +1,309 @@
+{
+  "overview": "In the Salinas Valley in and around World War I, Cal Trask feels he must compete against overwhelming odds with his brother for the love of their father. Cal is frustrated at every turn, from his reaction to the war, how to get ahead in business and in life, and how to relate to his estranged mother.",
+  "release_date": "1955-04-10",
+  "runtime": 115,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 7.5,
+  "tmdb_vote_count": 790,
+  "tmdb_popularity": 2.3991,
+  "original_language": "en",
+  "poster_path": "/xv1MZVIop0SQqwLUymgE5eb2LFl.jpg",
+  "backdrop_path": "/u7i1XtbOubq0xwRy2Zbgmox6g9W.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2749,
+      "name": "James Dean",
+      "character": "Cal Trask",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 2.066,
+      "profile_path": "/5oaDvEoQssXlDt1KSQVl0M4rgBn.jpg"
+    },
+    {
+      "personId": 2750,
+      "name": "Julie Harris",
+      "character": "Abra Bacon",
+      "order": 1,
+      "cast_id": 21,
+      "popularity": 0.9195,
+      "profile_path": "/bs9yUHWYQ4H3wNz3mI6BqMJPxNb.jpg"
+    },
+    {
+      "personId": 2669,
+      "name": "Raymond Massey",
+      "character": "Adam Trask",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 1.0813,
+      "profile_path": "/z8XGFSmO3uPzC98QlUWR49nFg2j.jpg"
+    },
+    {
+      "personId": 2751,
+      "name": "Richard Davalos",
+      "character": "Aron Trask",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 0.5681,
+      "profile_path": "/fPTMDfqmhdoUSat6BWXVAnw99kL.jpg"
+    },
+    {
+      "personId": 2752,
+      "name": "Jo Van Fleet",
+      "character": "Kate Trask",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 1.2502,
+      "profile_path": "/vfDldPezPz1smUBWbd1VdALGbFu.jpg"
+    },
+    {
+      "personId": 2753,
+      "name": "Burl Ives",
+      "character": "Sam the Sheriff",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 1.0062,
+      "profile_path": "/qRefQVFPdXwkHLLgDLFPeRgcLu4.jpg"
+    },
+    {
+      "personId": 2755,
+      "name": "Albert Dekker",
+      "character": "Will Hamilton",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 0.9392,
+      "profile_path": "/pgvLnzm4NuJQZiSRVhpQDz8QUYT.jpg"
+    },
+    {
+      "personId": 2207,
+      "name": "Lois Smith",
+      "character": "Anne",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 2.3059,
+      "profile_path": "/unvPSZshdNoj7c5wl6D30gPwKtS.jpg"
+    },
+    {
+      "personId": 2756,
+      "name": "Harold Gordon",
+      "character": "Gustav Albrecht",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 1.0883,
+      "profile_path": "/vuXfYqJswRWMXqL80G8slCYSQOI.jpg"
+    },
+    {
+      "personId": 2757,
+      "name": "Nick Dennis",
+      "character": "Rantani",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 1.7025,
+      "profile_path": "/mcNrNUkrdqQWjPR5pXIZknDekR9.jpg"
+    },
+    {
+      "personId": 1406724,
+      "name": "Abdullah Abbas",
+      "character": "Townsman at Carnival (uncredited)",
+      "order": 10,
+      "cast_id": 22,
+      "popularity": 0.652,
+      "profile_path": null
+    },
+    {
+      "personId": 1466128,
+      "name": "John Alban",
+      "character": "Townsman (uncredited)",
+      "order": 11,
+      "cast_id": 91,
+      "popularity": 1.7096,
+      "profile_path": null
+    },
+    {
+      "personId": 3853559,
+      "name": "Rose Allen",
+      "character": "Townswoman at Carnival (uncredited)",
+      "order": 12,
+      "cast_id": 92,
+      "popularity": 0.096,
+      "profile_path": null
+    },
+    {
+      "personId": 27164,
+      "name": "Frank Baker",
+      "character": "Townsman (uncredited)",
+      "order": 13,
+      "cast_id": 23,
+      "popularity": 0.9913,
+      "profile_path": "/i7TbpKA5ct94Q0Eddet3i51NZXC.jpg"
+    },
+    {
+      "personId": 30610,
+      "name": "Barbara Baxley",
+      "character": "Nurse (uncredited)",
+      "order": 14,
+      "cast_id": 25,
+      "popularity": 0.7654,
+      "profile_path": "/w7QQLcsWtWdxwmXtUAHoDCn5Ra5.jpg"
+    },
+    {
+      "personId": 133738,
+      "name": "John Beradino",
+      "character": "Coalman at Lettuce Field (uncredited)",
+      "order": 15,
+      "cast_id": 26,
+      "popularity": 0.4328,
+      "profile_path": null
+    },
+    {
+      "personId": 1221260,
+      "name": "Joe Brooks",
+      "character": "Townsman at Carnival (uncredited)",
+      "order": 16,
+      "cast_id": 27,
+      "popularity": 0.3279,
+      "profile_path": null
+    },
+    {
+      "personId": 1551021,
+      "name": "Nora Bush",
+      "character": "Townswoman at Carnival (uncredited)",
+      "order": 17,
+      "cast_id": 96,
+      "popularity": 0.7126,
+      "profile_path": null
+    },
+    {
+      "personId": 2758,
+      "name": "Timothy Carey",
+      "character": "Joe (uncredited)",
+      "order": 18,
+      "cast_id": 13,
+      "popularity": 0.7743,
+      "profile_path": "/6ml0D7Etl20EB7bHmEsSuyamzec.jpg"
+    },
+    {
+      "personId": 120215,
+      "name": "Jack Carr",
+      "character": "Charlie (Townsman at Carnival) (uncredited)",
+      "order": 19,
+      "cast_id": 28,
+      "popularity": 0.6453,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2746,
+      "name": "Elia Kazan",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8868,
+      "profile_path": "/j8jRoJHrA0QN6MchFpRYDy6ubJF.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 30,
+      "name": "individual"
+    },
+    {
+      "id": 387,
+      "name": "california"
+    },
+    {
+      "id": 380,
+      "name": "sibling relationship"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 531,
+      "name": "southern usa"
+    },
+    {
+      "id": 1421,
+      "name": "birthday"
+    },
+    {
+      "id": 526,
+      "name": "rebel"
+    },
+    {
+      "id": 3534,
+      "name": "big wheel"
+    },
+    {
+      "id": 7375,
+      "name": "twin brother"
+    },
+    {
+      "id": 9673,
+      "name": "love"
+    },
+    {
+      "id": 10594,
+      "name": "money"
+    },
+    {
+      "id": 12653,
+      "name": "brother against brother"
+    },
+    {
+      "id": 185361,
+      "name": "brothel madam"
+    },
+    {
+      "id": 185526,
+      "name": "whorehouse"
+    },
+    {
+      "id": 189599,
+      "name": "beans"
+    },
+    {
+      "id": 210184,
+      "name": "1910s"
+    },
+    {
+      "id": 219781,
+      "name": "fraternal twins"
+    },
+    {
+      "id": 250941,
+      "name": "monterey"
+    },
+    {
+      "id": 317561,
+      "name": "salinas"
+    },
+    {
+      "id": 351197,
+      "name": "mother son reunion"
+    }
+  ]
+}

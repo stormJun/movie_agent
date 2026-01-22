@@ -1,0 +1,263 @@
+{
+  "overview": "Based on the true story of Valerie Solanas who was a 1960s radical preaching hatred toward men in her \"Scum\" manifesto. She wrote a screenplay for a film that she wanted Andy Warhol to produce, but he continued to ignore her. So she shot him. This is Valerie's story.",
+  "release_date": "1996-05-01",
+  "runtime": 103,
+  "budget": 0,
+  "revenue": 1814290,
+  "tmdb_vote_average": 6.115,
+  "tmdb_vote_count": 91,
+  "tmdb_popularity": 0.5293,
+  "original_language": "en",
+  "poster_path": "/eF4iTAjunicLQyc6AdF7JNwSBOC.jpg",
+  "backdrop_path": "/5no2GArlFLbtgOkJ5qGUe59cqhE.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 17179,
+      "name": "BBC Arena",
+      "origin_country": "GB"
+    },
+    {
+      "id": 2492,
+      "name": "Playhouse International Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 798,
+      "name": "The Samuel Goldwyn Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3127,
+      "name": "Lili Taylor",
+      "character": "Valerie Jean Solanas",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.5342,
+      "profile_path": "/vWcMUi3QyvCr3QuFbjtwyPx7WtU.jpg"
+    },
+    {
+      "personId": 15440,
+      "name": "Jared Harris",
+      "character": "Andy Warhol",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 3.8094,
+      "profile_path": "/jAyPWkmge3BqXtgxIG9MfXBzOGj.jpg"
+    },
+    {
+      "personId": 17495,
+      "name": "Martha Plimpton",
+      "character": "Stevie",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 3.2446,
+      "profile_path": "/bCfhOm4WRb2X5RQdfz5TpMvMZ1.jpg"
+    },
+    {
+      "personId": 38524,
+      "name": "Lothaire Bluteau",
+      "character": "Maurice Girodias",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 1.2925,
+      "profile_path": "/qapikAurXlhmDXnC7BuCR8UXbCP.jpg"
+    },
+    {
+      "personId": 3711,
+      "name": "Anna Thomson",
+      "character": "Iris",
+      "order": 4,
+      "cast_id": 28,
+      "popularity": 1.3069,
+      "profile_path": "/52deQc7eUzqoLfh2rpHtFKqLEle.jpg"
+    },
+    {
+      "personId": 54246,
+      "name": "Peter Friedman",
+      "character": "Alan Burke",
+      "order": 5,
+      "cast_id": 62,
+      "popularity": 1.2054,
+      "profile_path": "/3pyU0yQsRIqSZw1fYapFRXJ3EHp.jpg"
+    },
+    {
+      "personId": 194670,
+      "name": "Tahnee Welch",
+      "character": "Viva",
+      "order": 6,
+      "cast_id": 25,
+      "popularity": 2.5805,
+      "profile_path": "/htfVpV7K9NEYIRMAebBVzocOd9I.jpg"
+    },
+    {
+      "personId": 86919,
+      "name": "Jamie Harrold",
+      "character": "Jackie Curtis",
+      "order": 7,
+      "cast_id": 29,
+      "popularity": 0.7404,
+      "profile_path": "/vtBL6DCxCL2qCCh8aI6LRHOtc8V.jpg"
+    },
+    {
+      "personId": 58141,
+      "name": "Donovan Leitch",
+      "character": "Gerard Malanga",
+      "order": 8,
+      "cast_id": 41,
+      "popularity": 0.6686,
+      "profile_path": "/6dzq4UopKtHTpJ2PMYyK5KXXGY0.jpg"
+    },
+    {
+      "personId": 11486,
+      "name": "Michael Imperioli",
+      "character": "Ondine",
+      "order": 9,
+      "cast_id": 21,
+      "popularity": 3.4147,
+      "profile_path": "/jfoEHR6BRMg8emtujXdM3G4JHIm.jpg"
+    },
+    {
+      "personId": 129759,
+      "name": "Reg Rogers",
+      "character": "Paul Morrissey",
+      "order": 10,
+      "cast_id": 22,
+      "popularity": 1.1407,
+      "profile_path": "/3VqnWd3d5BnnxxyAEnQ85mdOaG2.jpg"
+    },
+    {
+      "personId": 32029,
+      "name": "Bill Sage",
+      "character": "Tom Baker",
+      "order": 11,
+      "cast_id": 31,
+      "popularity": 1.6908,
+      "profile_path": "/3q2r6eDcC843GgVHVA7mSehcqC9.jpg"
+    },
+    {
+      "personId": 50877,
+      "name": "Jill Hennessy",
+      "character": "Laura",
+      "order": 12,
+      "cast_id": 35,
+      "popularity": 2.2039,
+      "profile_path": "/dCJvqrN7KXAEJLfb2JFTvMr9HXh.jpg"
+    },
+    {
+      "personId": 1332472,
+      "name": "Coco McPherson",
+      "character": "Brigid Berlin",
+      "order": 13,
+      "cast_id": 23,
+      "popularity": 0.926,
+      "profile_path": null
+    },
+    {
+      "personId": 30611,
+      "name": "Myriam Cyr",
+      "character": "Ultra Violet",
+      "order": 14,
+      "cast_id": 30,
+      "popularity": 2.1775,
+      "profile_path": "/hkS2PfshihTLL7AucrngqG2t7d9.jpg"
+    },
+    {
+      "personId": 1591561,
+      "name": "Danny Morgenstern",
+      "character": "Jeremiah",
+      "order": 15,
+      "cast_id": 20,
+      "popularity": 0.0261,
+      "profile_path": null
+    },
+    {
+      "personId": 1116851,
+      "name": "Lola Pashalinski",
+      "character": "Psychiatrist",
+      "order": 16,
+      "cast_id": 63,
+      "popularity": 1.4974,
+      "profile_path": "/r4lMOe50DaC4hOg0Qy9nRqoVcsD.jpg"
+    },
+    {
+      "personId": 8792,
+      "name": "Lynn Cohen",
+      "character": "Hotel Earle Concierge",
+      "order": 17,
+      "cast_id": 64,
+      "popularity": 1.3076,
+      "profile_path": "/gF2YATtRwDbnLB5eG0DGeHFW2QM.jpg"
+    },
+    {
+      "personId": 82769,
+      "name": "Craig Chester",
+      "character": "Fred Hughes",
+      "order": 18,
+      "cast_id": 26,
+      "popularity": 0.4462,
+      "profile_path": "/ptcsPmaDWzKuO7KfCWCY4lqjKMc.jpg"
+    },
+    {
+      "personId": 10822,
+      "name": "Stephen Dorff",
+      "character": "Candy Darling",
+      "order": 19,
+      "cast_id": 19,
+      "popularity": 2.6164,
+      "profile_path": "/bhlM1xNzBvc8jTw42YloUKlGTCL.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 16378,
+      "name": "Mary Harron",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.449,
+      "profile_path": "/NAUg6eMuJ8aIzkLiyxVVxPEKEX.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 9672,
+      "name": "based on true story"
+    },
+    {
+      "id": 33643,
+      "name": "radical"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    },
+    {
+      "id": 208992,
+      "name": "1960s"
+    }
+  ]
+}

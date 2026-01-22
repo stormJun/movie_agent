@@ -1,0 +1,283 @@
+{
+  "overview": "Overwhelmed by her suffocating schedule, touring European princess Ann takes off for a night while in Rome. When a sedative she took from her doctor kicks in, however, she falls asleep on a park bench and is found by an American reporter, Joe Bradley, who takes her back to his apartment for safety. At work the next morning, Joe finds out Ann's regal identity and bets his editor he can get exclusive interview with her, but romance soon gets in the way.",
+  "release_date": "1953-08-26",
+  "runtime": 119,
+  "budget": 1500000,
+  "revenue": 12000000,
+  "tmdb_vote_average": 7.889,
+  "tmdb_vote_count": 2197,
+  "tmdb_popularity": 4.7111,
+  "original_language": "en",
+  "poster_path": "/8lI9dmz1RH20FAqltkGelY1v4BE.jpg",
+  "backdrop_path": "/n0MyuZW9WJBGCYhzhfCI3d4zlRo.jpg",
+  "tmdb_genres_raw": [
+    "Romance",
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "it",
+      "name": "Italiano"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1932,
+      "name": "Audrey Hepburn",
+      "character": "Princess Ann",
+      "order": 0,
+      "cast_id": 14,
+      "popularity": 4.0905,
+      "profile_path": "/hwPHPRz7YqmcRAlvhag5VPeoaoC.jpg"
+    },
+    {
+      "personId": 8487,
+      "name": "Gregory Peck",
+      "character": "Joe Bradley",
+      "order": 1,
+      "cast_id": 13,
+      "popularity": 3.2187,
+      "profile_path": "/2Ojm5IwpTF5qdMTjEmdBh8UZM6K.jpg"
+    },
+    {
+      "personId": 11998,
+      "name": "Eddie Albert",
+      "character": "Irving Radovich",
+      "order": 2,
+      "cast_id": 15,
+      "popularity": 1.8713,
+      "profile_path": "/5rsydgfJDcepnUkdOugXRjh0aJ0.jpg"
+    },
+    {
+      "personId": 11999,
+      "name": "Hartley Power",
+      "character": "Mr. Hennessy",
+      "order": 3,
+      "cast_id": 16,
+      "popularity": 1.7534,
+      "profile_path": "/q4v37vnq4iqkTkvzpBfLQeUjd6c.jpg"
+    },
+    {
+      "personId": 12000,
+      "name": "Harcourt Williams",
+      "character": "Ambassador",
+      "order": 4,
+      "cast_id": 17,
+      "popularity": 0.4687,
+      "profile_path": "/zFcdIj0a6sWpfDnKkz908OBF9N9.jpg"
+    },
+    {
+      "personId": 12001,
+      "name": "Margaret Rawlings",
+      "character": "Countess Vereberg",
+      "order": 5,
+      "cast_id": 18,
+      "popularity": 0.8733,
+      "profile_path": "/eY8V9jt2Jx78uEuO7ggXL3nEflH.jpg"
+    },
+    {
+      "personId": 12002,
+      "name": "Tullio Carminati",
+      "character": "Gen. Provno",
+      "order": 6,
+      "cast_id": 19,
+      "popularity": 1.7408,
+      "profile_path": "/dMeoF46we9MvKT3vM5MU25p1skX.jpg"
+    },
+    {
+      "personId": 12003,
+      "name": "Paolo Carlini",
+      "character": "Mario Delani",
+      "order": 7,
+      "cast_id": 20,
+      "popularity": 0.2584,
+      "profile_path": "/nz4Xzsyng0mfKuQK4I1aFsAmeIj.jpg"
+    },
+    {
+      "personId": 12004,
+      "name": "Claudio Ermelli",
+      "character": "Giovanni",
+      "order": 8,
+      "cast_id": 21,
+      "popularity": 0.3457,
+      "profile_path": "/gHubQDNnbK8iIvYRmXlr4ksCyjC.jpg"
+    },
+    {
+      "personId": 12005,
+      "name": "Paola Borboni",
+      "character": "Charwoman",
+      "order": 9,
+      "cast_id": 22,
+      "popularity": 1.9396,
+      "profile_path": "/6UxbsxVBPQee2jPyXde8LzaV3U7.jpg"
+    },
+    {
+      "personId": 12006,
+      "name": "Alfredo Rizzo",
+      "character": "Cab driver",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 2.3378,
+      "profile_path": "/zXk9W7YeOtbdR3UzNYQAMu4paHh.jpg"
+    },
+    {
+      "personId": 1315106,
+      "name": "Laura Solari",
+      "character": "Hennessy's Secretary",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 0.2132,
+      "profile_path": "/apTrJOSKs5Zv6AVFFZHsiDjtAn2.jpg"
+    },
+    {
+      "personId": 1489908,
+      "name": "Gorella Gori",
+      "character": "Shoe Seller",
+      "order": 12,
+      "cast_id": 25,
+      "popularity": 0.5387,
+      "profile_path": "/rqNl6ooawSjtm9vmJArP368l6wk.jpg"
+    },
+    {
+      "personId": 1560722,
+      "name": "Armando Annuale",
+      "character": "Admiral Dancing with Princess (uncredited)",
+      "order": 13,
+      "cast_id": 27,
+      "popularity": 0.1397,
+      "profile_path": "/NiF4XtFqIEa24fHDq3jeTHjfp9.jpg"
+    },
+    {
+      "personId": 131306,
+      "name": "Maurizio Arena",
+      "character": "Young Boy with Car (uncredited)",
+      "order": 14,
+      "cast_id": 28,
+      "popularity": 2.3516,
+      "profile_path": "/zeaaWwwsKojZwKPwv8MlBrb6BxP.jpg"
+    },
+    {
+      "personId": 228864,
+      "name": "Gildo Bocci",
+      "character": "Flower Seller (uncredited)",
+      "order": 15,
+      "cast_id": 29,
+      "popularity": 0.435,
+      "profile_path": "/aJ9dgcPo4seK4BC5VcKjtG6Adxs.jpg"
+    },
+    {
+      "personId": 39431,
+      "name": "Andrea Esterhazy",
+      "character": "Embassy Aide (uncredited)",
+      "order": 16,
+      "cast_id": 30,
+      "popularity": 0.7854,
+      "profile_path": null
+    },
+    {
+      "personId": 1454254,
+      "name": "George Higgins",
+      "character": "Correspondent at Poker Game (uncredited)",
+      "order": 17,
+      "cast_id": 31,
+      "popularity": 0.3492,
+      "profile_path": "/zkUIm9CHlw0gb7QtNOWjINdlaCg.jpg"
+    },
+    {
+      "personId": 1124231,
+      "name": "Richard McNamara",
+      "character": "Correspondent at Poker Game (uncredited)",
+      "order": 18,
+      "cast_id": 32,
+      "popularity": 0.6424,
+      "profile_path": "/2PKcoXxsxmWHkxXyZHt06sPM0s0.jpg"
+    },
+    {
+      "personId": 999782,
+      "name": "Luigi Moneta",
+      "character": "Old Man Dancing with Princess (uncredited)",
+      "order": 19,
+      "cast_id": 33,
+      "popularity": 0.3707,
+      "profile_path": "/o42ZonJEUsVLRsdBCcUoc7I87R4.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 10001,
+      "name": "William Wyler",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8154,
+      "profile_path": "/iJ3pqrklebAlED8FNPfRc0XLgiH.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1691,
+      "name": "dance"
+    },
+    {
+      "id": 588,
+      "name": "rome, italy"
+    },
+    {
+      "id": 6025,
+      "name": "photography"
+    },
+    {
+      "id": 1422,
+      "name": "boat"
+    },
+    {
+      "id": 1308,
+      "name": "secret identity"
+    },
+    {
+      "id": 2051,
+      "name": "intelligence"
+    },
+    {
+      "id": 4123,
+      "name": "embassy"
+    },
+    {
+      "id": 3691,
+      "name": "forbidden love"
+    },
+    {
+      "id": 4674,
+      "name": "sightseeing"
+    },
+    {
+      "id": 4263,
+      "name": "duty"
+    },
+    {
+      "id": 12999,
+      "name": "black and white"
+    },
+    {
+      "id": 324429,
+      "name": "romantic"
+    }
+  ]
+}

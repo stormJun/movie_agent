@@ -1,0 +1,324 @@
+{
+  "overview": "After one member of their group is murdered, the performers at a burlesque house must work together to find out who the killer is before they strike again.",
+  "release_date": "1943-05-01",
+  "runtime": 91,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.2,
+  "tmdb_vote_count": 42,
+  "tmdb_popularity": 0.6676,
+  "original_language": "en",
+  "poster_path": "/bng9HQoCP4i62cKHK0E1EoqZu0X.jpg",
+  "backdrop_path": "/4gK5qOPkucuT2qQP4sEu73lJXes.jpg",
+  "tmdb_genres_raw": [
+    "Mystery",
+    "Comedy",
+    "Music",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 5235,
+      "name": "Hunt Stromberg Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 14974,
+      "name": "Barbara Stanwyck",
+      "character": "Dixie Daisy",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.6995,
+      "profile_path": "/xBfikc66lCnShogMZX1k9cV7H26.jpg"
+    },
+    {
+      "personId": 124851,
+      "name": "Michael O'Shea",
+      "character": "Biff Brannigan",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 1.0348,
+      "profile_path": "/6ObslaW4FasbSlhvMqITDVL8Foq.jpg"
+    },
+    {
+      "personId": 89999,
+      "name": "J. Edward Bromberg",
+      "character": "S.B. Foss",
+      "order": 2,
+      "cast_id": 8,
+      "popularity": 0.7928,
+      "profile_path": "/9Xd0pbrRA2L7tJ750SIi7bl4H9N.jpg"
+    },
+    {
+      "personId": 34509,
+      "name": "Iris Adrian",
+      "character": "Gee Gee Graham",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 0.8334,
+      "profile_path": "/1UUgSM1bjr5V2VcjKyb6TA45glR.jpg"
+    },
+    {
+      "personId": 95295,
+      "name": "Gloria Dickson",
+      "character": "Dolly Baxter",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 0.6688,
+      "profile_path": "/nIQo6GUIEaHGlRh5thdbQKcrpHD.jpg"
+    },
+    {
+      "personId": 120783,
+      "name": "Victoria Faust",
+      "character": "Lolita La Verne",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 0.2278,
+      "profile_path": "/ef1JXiPtLiFG8BAkrNOhRpvwlNF.jpg"
+    },
+    {
+      "personId": 106553,
+      "name": "Stephanie Bachelor",
+      "character": "The Princess Nirvena",
+      "order": 6,
+      "cast_id": 14,
+      "popularity": 0.4854,
+      "profile_path": "/twYZV4S1M53cpnutNVOgLnMMbOr.jpg"
+    },
+    {
+      "personId": 89813,
+      "name": "Charles Dingle",
+      "character": "Inspector Harrigan",
+      "order": 7,
+      "cast_id": 7,
+      "popularity": 0.6859,
+      "profile_path": "/a1aaRMwtcu5tqpaBQeJLHQZs80v.jpg"
+    },
+    {
+      "personId": 85900,
+      "name": "Marion Martin",
+      "character": "Alice Angel",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 0.4499,
+      "profile_path": "/3WTkubutgHhO3lJXlW5rqYZGr01.jpg"
+    },
+    {
+      "personId": 14658,
+      "name": "Frank Conroy",
+      "character": "'Stacchi' Stacciaro",
+      "order": 9,
+      "cast_id": 9,
+      "popularity": 1.9216,
+      "profile_path": "/1804HlLeJKLjmijwtJ8B76nZ2gq.jpg"
+    },
+    {
+      "personId": 135356,
+      "name": "Frank Fenton",
+      "character": "Russell Rogers",
+      "order": 10,
+      "cast_id": 13,
+      "popularity": 1.225,
+      "profile_path": "/p7db2hAreSPMEBg0mId2XbyDw4k.jpg"
+    },
+    {
+      "personId": 96300,
+      "name": "Janis Carter",
+      "character": "Janine",
+      "order": 11,
+      "cast_id": 17,
+      "popularity": 0.6575,
+      "profile_path": "/l81l4i9jfewDLX5xeSLM97PR5Zg.jpg"
+    },
+    {
+      "personId": 120554,
+      "name": "Lou Lubin",
+      "character": "Moey, the Candy Butcher",
+      "order": 12,
+      "cast_id": 18,
+      "popularity": 2.3263,
+      "profile_path": "/ucWVMCbZZQx8EkzKeojTlBFp2Hc.jpg"
+    },
+    {
+      "personId": 1238725,
+      "name": "Pinky Lee",
+      "character": "Mandy",
+      "order": 13,
+      "cast_id": 26,
+      "popularity": 0.6711,
+      "profile_path": "/nzIl3SogWXu1SmYkP0ALmslIzZS.jpg"
+    },
+    {
+      "personId": 1315554,
+      "name": "Pete Gordon",
+      "character": "Officer Pat Kelly (as Eddie Gordon)",
+      "order": 14,
+      "cast_id": 27,
+      "popularity": 0.4314,
+      "profile_path": null
+    },
+    {
+      "personId": 34332,
+      "name": "Lew Kelly",
+      "character": "The Hermit",
+      "order": 15,
+      "cast_id": 28,
+      "popularity": 1.03,
+      "profile_path": "/d3Euk0SE0EJE5K5TKhantKL5kg8.jpg"
+    },
+    {
+      "personId": 91655,
+      "name": "Claire Carleton",
+      "character": "Sandra",
+      "order": 16,
+      "cast_id": 29,
+      "popularity": 0.6608,
+      "profile_path": "/flBJkYz97lG0EYa31FUNBlNiB6q.jpg"
+    },
+    {
+      "personId": 51717,
+      "name": "Gerald Mohr",
+      "character": "Louie \"The Grin\" Grindero",
+      "order": 17,
+      "cast_id": 35,
+      "popularity": 1.0714,
+      "profile_path": "/jJx5f6K7OkDD2LcHZTPtYYd4T97.jpg"
+    },
+    {
+      "personId": 33178,
+      "name": "George Chandler",
+      "character": "Jake, stage hand (uncredited)",
+      "order": 18,
+      "cast_id": 36,
+      "popularity": 0.9866,
+      "profile_path": "/fXj6FdgWPp8om9O2HD2Uv4yhcBi.jpg"
+    },
+    {
+      "personId": 33178,
+      "name": "George Chandler",
+      "character": "Jake",
+      "order": 19,
+      "cast_id": 39,
+      "popularity": 0.9866,
+      "profile_path": "/fXj6FdgWPp8om9O2HD2Uv4yhcBi.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 14643,
+      "name": "William A. Wellman",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.6438,
+      "profile_path": "/rHkFOPzdJGimnC4yRqophK9tvEO.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 246,
+      "name": "dancing"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 4333,
+      "name": "theatre group"
+    },
+    {
+      "id": 6593,
+      "name": "stripper"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 12570,
+      "name": "whodunit"
+    },
+    {
+      "id": 14829,
+      "name": "strangulation"
+    },
+    {
+      "id": 15167,
+      "name": "police detective"
+    },
+    {
+      "id": 18147,
+      "name": "strangler"
+    },
+    {
+      "id": 157144,
+      "name": "stockings"
+    },
+    {
+      "id": 160845,
+      "name": "dressing room"
+    },
+    {
+      "id": 163070,
+      "name": "burlesque"
+    },
+    {
+      "id": 164623,
+      "name": "chorus girl"
+    },
+    {
+      "id": 169590,
+      "name": "police raid"
+    },
+    {
+      "id": 191205,
+      "name": "burlesque dancer"
+    },
+    {
+      "id": 207046,
+      "name": "murder mystery"
+    },
+    {
+      "id": 208254,
+      "name": "g string"
+    },
+    {
+      "id": 230875,
+      "name": "nylons"
+    },
+    {
+      "id": 233445,
+      "name": "show girls"
+    },
+    {
+      "id": 280840,
+      "name": "dancing man"
+    },
+    {
+      "id": 285695,
+      "name": "theater"
+    },
+    {
+      "id": 296560,
+      "name": "theatre producer"
+    },
+    {
+      "id": 314019,
+      "name": "dancing girls"
+    }
+  ]
+}

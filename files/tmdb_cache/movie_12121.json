@@ -1,0 +1,269 @@
+{
+  "overview": "A young black woman discovers that her father was a sperm donor, and if that wasn't bad enough, he's white.",
+  "release_date": "1993-01-06",
+  "runtime": 111,
+  "budget": 22000000,
+  "revenue": 104942695,
+  "tmdb_vote_average": 5.5,
+  "tmdb_vote_count": 381,
+  "tmdb_popularity": 1.0147,
+  "original_language": "en",
+  "poster_path": "/1NLhOZN4AcTSvEPMI3HCjTVSfvy.jpg",
+  "backdrop_path": "/lTrHk6DznYoAGr7biPkdIbb4WGo.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 508,
+      "name": "Regency Enterprises",
+      "origin_country": "US"
+    },
+    {
+      "id": 183,
+      "name": "Le Studio Canal+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 644,
+      "name": "Alcor Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 5738,
+      "name": "Stonebridge Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 271705,
+      "name": "Koala Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2395,
+      "name": "Whoopi Goldberg",
+      "character": "Sarah Mathews",
+      "order": 0,
+      "cast_id": 13,
+      "popularity": 4.2878,
+      "profile_path": "/wZKI7qcEIVgiHxeFtk3NuKt8URQ.jpg"
+    },
+    {
+      "personId": 12836,
+      "name": "Ted Danson",
+      "character": "Hal Jackson",
+      "order": 1,
+      "cast_id": 14,
+      "popularity": 4.7448,
+      "profile_path": "/2QUEYVhrKbOkRKeFEUnc5sJby6a.jpg"
+    },
+    {
+      "personId": 2888,
+      "name": "Will Smith",
+      "character": "Tea Cake Walters",
+      "order": 2,
+      "cast_id": 16,
+      "popularity": 7.0496,
+      "profile_path": "/8TlKqbXYgHmmaEoPBJ7djJ8Rxxa.jpg"
+    },
+    {
+      "personId": 9781,
+      "name": "Nia Long",
+      "character": "Zora Mathews",
+      "order": 3,
+      "cast_id": 15,
+      "popularity": 3.7902,
+      "profile_path": "/yPLmhF9kKbCtsDhUnaV6g2GHWIc.jpg"
+    },
+    {
+      "personId": 55259,
+      "name": "Paul Rodríguez",
+      "character": "Jose",
+      "order": 4,
+      "cast_id": 22,
+      "popularity": 1.2627,
+      "profile_path": "/e6VaplhEMi8uh3xOl8PThkaAVI8.jpg"
+    },
+    {
+      "personId": 7906,
+      "name": "Jennifer Tilly",
+      "character": "Stacy",
+      "order": 5,
+      "cast_id": 17,
+      "popularity": 4.7122,
+      "profile_path": "/jrWj0LKOLGyn8BjxCPfwxX3BXC4.jpg"
+    },
+    {
+      "personId": 153578,
+      "name": "Peggy Rea",
+      "character": "Alberta",
+      "order": 6,
+      "cast_id": 23,
+      "popularity": 1.7521,
+      "profile_path": "/mkHEiHmdvaVmNs0F8x1N4PlYjYC.jpg"
+    },
+    {
+      "personId": 2249,
+      "name": "Clyde Kusatsu",
+      "character": "Bob Takashima",
+      "order": 7,
+      "cast_id": 24,
+      "popularity": 2.9924,
+      "profile_path": "/5dTSe1F9cnReZGHYzbCbVy7vbcf.jpg"
+    },
+    {
+      "personId": 11659,
+      "name": "David Bowe",
+      "character": "Teddy",
+      "order": 8,
+      "cast_id": 25,
+      "popularity": 1.6776,
+      "profile_path": "/bB1B1K73leCSH1d3XjLe0Xy2VGf.jpg"
+    },
+    {
+      "personId": 79989,
+      "name": "Jeffrey Joseph",
+      "character": "James",
+      "order": 9,
+      "cast_id": 26,
+      "popularity": 0.7027,
+      "profile_path": "/wTrPpHkhcgOrDxqmrXjrMbo0Q7A.jpg"
+    },
+    {
+      "personId": 275711,
+      "name": "Rawley Valverde",
+      "character": "Diego",
+      "order": 10,
+      "cast_id": 27,
+      "popularity": 0.3114,
+      "profile_path": "/jbMLcDWu14KisFcnqFzr42pi0l4.jpg"
+    },
+    {
+      "personId": 2048064,
+      "name": "Fred Mancuso",
+      "character": "Bruce",
+      "order": 11,
+      "cast_id": 20,
+      "popularity": 0.5928,
+      "profile_path": "/6GmRrhGVs98YCrULyY8bFvGdU6L.jpg"
+    },
+    {
+      "personId": 96391,
+      "name": "Charlene Fernetz",
+      "character": "Paula",
+      "order": 12,
+      "cast_id": 28,
+      "popularity": 0.6723,
+      "profile_path": "/vk3BvmkN1pyfmSI1Czic1qf4wGE.jpg"
+    },
+    {
+      "personId": 17825,
+      "name": "Shawn Levy",
+      "character": "Dwayne",
+      "order": 13,
+      "cast_id": 29,
+      "popularity": 4.0827,
+      "profile_path": "/oxj7TgUY5bbj0wE838MCobWrak1.jpg"
+    },
+    {
+      "personId": 42751,
+      "name": "Lu Leonard",
+      "character": "Sperm Bank Nurse",
+      "order": 14,
+      "cast_id": 30,
+      "popularity": 0.9162,
+      "profile_path": "/etlyEVAlpSRIiSBiuCINRMx4wGh.jpg"
+    },
+    {
+      "personId": 999032,
+      "name": "Joe Lerer",
+      "character": "Hospital Doctor",
+      "order": 15,
+      "cast_id": 31,
+      "popularity": 0.5142,
+      "profile_path": null
+    },
+    {
+      "personId": 3215296,
+      "name": "Janice Edwards",
+      "character": "Hospital Nurse",
+      "order": 16,
+      "cast_id": 32,
+      "popularity": 0.1873,
+      "profile_path": null
+    },
+    {
+      "personId": 163441,
+      "name": "Michael McFall",
+      "character": "Hospital Intern",
+      "order": 17,
+      "cast_id": 33,
+      "popularity": 1.4189,
+      "profile_path": "/sAGke3vMNW1nIxEzNIlelTcrr6J.jpg"
+    },
+    {
+      "personId": 153291,
+      "name": "Phyllis Avery",
+      "character": "White Woman #1",
+      "order": 18,
+      "cast_id": 34,
+      "popularity": 0.573,
+      "profile_path": "/h33137ucV6050y4ZUGtABbYgJIz.jpg"
+    },
+    {
+      "personId": 105307,
+      "name": "Frances Bergen",
+      "character": "White Woman #2",
+      "order": 19,
+      "cast_id": 35,
+      "popularity": 0.5042,
+      "profile_path": "/bZalo2PvRVrfB0Y78DQHhAigp2P.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 24318,
+      "name": "Richard Benjamin",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.2224,
+      "profile_path": "/i58m0OdJLHBez2z6ZbXiqXOZZpV.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6270,
+      "name": "high school"
+    },
+    {
+      "id": 2142,
+      "name": "anonymity"
+    },
+    {
+      "id": 1874,
+      "name": "car dealer"
+    },
+    {
+      "id": 159141,
+      "name": "sperm donor"
+    }
+  ]
+}

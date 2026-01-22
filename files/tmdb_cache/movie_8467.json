@@ -1,0 +1,314 @@
+{
+  "overview": "Lloyd and Harry are two men whose stupidity is really indescribable. When Mary, a beautiful woman, loses an important suitcase with money before she leaves for Aspen, the two friends (who have found the suitcase) decide to return it to her. After some \"adventures\" they finally get to Aspen where, using the lost money they live it up and fight for Mary's heart.",
+  "release_date": "1994-12-16",
+  "runtime": 107,
+  "budget": 16000000,
+  "revenue": 247275374,
+  "tmdb_vote_average": 6.643,
+  "tmdb_vote_count": 6505,
+  "tmdb_popularity": 9.3773,
+  "original_language": "en",
+  "poster_path": "/4LdpBXiCyGKkR8FGHgjKlphrfUc.jpg",
+  "backdrop_path": "/9FeYBZDvNTh4ZmweekJvwyIxIiL.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 2090,
+      "name": "Motion Picture Corporation of America",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 206,
+      "name": "Jim Carrey",
+      "character": "Lloyd Christmas",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 11.1914,
+      "profile_path": "/u0AqTz6Y7GHPCHINS01P7gPvDSb.jpg"
+    },
+    {
+      "personId": 8447,
+      "name": "Jeff Daniels",
+      "character": "Harry Dunne",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.7697,
+      "profile_path": "/r0mkZJZnTSJO3HJRsMW5HtszxE8.jpg"
+    },
+    {
+      "personId": 34485,
+      "name": "Lauren Holly",
+      "character": "Mary Swanson",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 4.493,
+      "profile_path": "/bWQsB6ueNNkygxCiIxyKznQAiOK.jpg"
+    },
+    {
+      "personId": 8437,
+      "name": "Teri Garr",
+      "character": "Helen Swanson",
+      "order": 3,
+      "cast_id": 23,
+      "popularity": 2.2276,
+      "profile_path": "/iscVncnCVtM8Wl4FmcEkr6KDtRE.jpg"
+    },
+    {
+      "personId": 7867,
+      "name": "Charles Rocket",
+      "character": "Nicholas Andre",
+      "order": 4,
+      "cast_id": 19,
+      "popularity": 0.7916,
+      "profile_path": "/g2HeXDVqtGhYKBqeV4cFaZ7RbVV.jpg"
+    },
+    {
+      "personId": 76131,
+      "name": "Karen Duffy",
+      "character": "J.P. Shay",
+      "order": 5,
+      "cast_id": 18,
+      "popularity": 2.3409,
+      "profile_path": "/wDhawxKUlcgBSKy6JwwYrA7W7DU.jpg"
+    },
+    {
+      "personId": 5170,
+      "name": "Mike Starr",
+      "character": "Joe Mentaliano",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 2.6759,
+      "profile_path": "/hJGhV91dSUiFJ8GwGDTEEri79LX.jpg"
+    },
+    {
+      "personId": 44042,
+      "name": "Felton Perry",
+      "character": "Detective Dale",
+      "order": 7,
+      "cast_id": 26,
+      "popularity": 1.017,
+      "profile_path": "/vHH6ciuv8Wc03iKqYTmz4TcWcnv.jpg"
+    },
+    {
+      "personId": 153459,
+      "name": "Hank Brandt",
+      "character": "Karl Swanson",
+      "order": 8,
+      "cast_id": 22,
+      "popularity": 1.3386,
+      "profile_path": "/jeE07kB4O8F4Qjj1bM6L6zXJoLv.jpg"
+    },
+    {
+      "personId": 1074689,
+      "name": "Brad Lockerman",
+      "character": "Bobby",
+      "order": 9,
+      "cast_id": 27,
+      "popularity": 0.2817,
+      "profile_path": "/gJE2CCx80gsRurtApjJDAxDykBn.jpg"
+    },
+    {
+      "personId": 65020,
+      "name": "Victoria Rowell",
+      "character": "Athletic Beauty",
+      "order": 10,
+      "cast_id": 20,
+      "popularity": 1.4642,
+      "profile_path": "/1bZDmfrxFRLLZEDgYoHAjSpb1pm.jpg"
+    },
+    {
+      "personId": 77547,
+      "name": "Brady Bluhm",
+      "character": "Billy",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 1.949,
+      "profile_path": "/bMfBgF5wwbLvtbBYD3b1IJyWBda.jpg"
+    },
+    {
+      "personId": 184180,
+      "name": "Cam Neely",
+      "character": "Sea Bass",
+      "order": 12,
+      "cast_id": 25,
+      "popularity": 0.4971,
+      "profile_path": "/taV14NTyS2LTrJtkIZqpW9l99I7.jpg"
+    },
+    {
+      "personId": 162924,
+      "name": "Rob Moran",
+      "character": "Bartender",
+      "order": 13,
+      "cast_id": 28,
+      "popularity": 1.4461,
+      "profile_path": "/lwGI1FIdRpwvKnZlD3dKhntP4i4.jpg"
+    },
+    {
+      "personId": 181486,
+      "name": "Joe Baker",
+      "character": "Barnard",
+      "order": 14,
+      "cast_id": 21,
+      "popularity": 1.4918,
+      "profile_path": null
+    },
+    {
+      "personId": 1853164,
+      "name": "Kathryn Frick",
+      "character": "Cashier",
+      "order": 15,
+      "cast_id": 42,
+      "popularity": 0.135,
+      "profile_path": null
+    },
+    {
+      "personId": 60672,
+      "name": "Zen Gesner",
+      "character": "Dale's Man #1",
+      "order": 16,
+      "cast_id": 43,
+      "popularity": 2.0619,
+      "profile_path": "/gaUpc3SDYQAmFei8NFllxtJGs3A.jpg"
+    },
+    {
+      "personId": 1853166,
+      "name": "Lawrence Kopp",
+      "character": "Dale's man #2",
+      "order": 17,
+      "cast_id": 44,
+      "popularity": 0.2305,
+      "profile_path": null
+    },
+    {
+      "personId": 1853167,
+      "name": "Clint Allen",
+      "character": "Coroner",
+      "order": 18,
+      "cast_id": 45,
+      "popularity": 0.8942,
+      "profile_path": "/8YelHPOLLFNs0gbLMYotHsvFMIn.jpg"
+    },
+    {
+      "personId": 116727,
+      "name": "Connie Sawyer",
+      "character": "Elderly Lady",
+      "order": 19,
+      "cast_id": 46,
+      "popularity": 1.0919,
+      "profile_path": "/a2K8k5Mjw1nUKlMtErqNRzHanpR.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 7396,
+      "name": "Peter Farrelly",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.0043,
+      "profile_path": "/3PDYOFfk5NLmNcEz6SFZmdmqVZr.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1420,
+      "name": "gas station"
+    },
+    {
+      "id": 5303,
+      "name": "utah"
+    },
+    {
+      "id": 2669,
+      "name": "motel"
+    },
+    {
+      "id": 6241,
+      "name": "stupidity"
+    },
+    {
+      "id": 11333,
+      "name": "cigar smoking"
+    },
+    {
+      "id": 7312,
+      "name": "road trip"
+    },
+    {
+      "id": 8126,
+      "name": "pill"
+    },
+    {
+      "id": 9864,
+      "name": "prank"
+    },
+    {
+      "id": 15009,
+      "name": "criminal"
+    },
+    {
+      "id": 15214,
+      "name": "buddy"
+    },
+    {
+      "id": 18326,
+      "name": "fired from the job"
+    },
+    {
+      "id": 159574,
+      "name": "clumsiness"
+    },
+    {
+      "id": 160962,
+      "name": "stepparent stepchild relationship"
+    },
+    {
+      "id": 167584,
+      "name": "aspen colorado"
+    },
+    {
+      "id": 167591,
+      "name": "parakeet"
+    },
+    {
+      "id": 167598,
+      "name": "defecation"
+    },
+    {
+      "id": 167608,
+      "name": "scooter"
+    },
+    {
+      "id": 167617,
+      "name": "endangered species"
+    },
+    {
+      "id": 167619,
+      "name": "foolish"
+    },
+    {
+      "id": 215404,
+      "name": "laxative"
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "overview": "Spain in the 1930s is the place to be for a man of action like Robert Jordan. There is a civil war going on and Jordan—who has joined up on the side that appeals most to idealists of that era—has been given a high-risk assignment up in the mountains. He awaits the right time to blow up a crucial bridge in order to halt the enemy's progress.",
+  "release_date": "1943-07-12",
+  "runtime": 170,
+  "budget": 3000000,
+  "revenue": 17800000,
+  "tmdb_vote_average": 6.515,
+  "tmdb_vote_count": 198,
+  "tmdb_popularity": 1.1919,
+  "original_language": "en",
+  "poster_path": "/uoNTHrpeOgIuWsC5Eucx5Sp483D.jpg",
+  "backdrop_path": "/pvn9N2S4b4AomcstFJxKHWZ6nWS.jpg",
+  "tmdb_genres_raw": [
+    "War",
+    "Romance",
+    "History",
+    "Drama",
+    "Adventure"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "es",
+      "name": "Español"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4068,
+      "name": "Gary Cooper",
+      "character": "Robert Jordan",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.1061,
+      "profile_path": "/9qVldt5g8g3lQBu81nd05Hg2MNP.jpg"
+    },
+    {
+      "personId": 4111,
+      "name": "Ingrid Bergman",
+      "character": "Maria",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.1028,
+      "profile_path": "/jXEE0P6705JbMAJ2nwtHjmqkd5F.jpg"
+    },
+    {
+      "personId": 30719,
+      "name": "Akim Tamiroff",
+      "character": "Pablo",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 0.8416,
+      "profile_path": "/nhdT4BvYkcHhN8cR1fedWNw5a78.jpg"
+    },
+    {
+      "personId": 99171,
+      "name": "Arturo de Córdova",
+      "character": "Agustín",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 1.5824,
+      "profile_path": "/znK2U1ylryi65tDhaT3vROUOXJH.jpg"
+    },
+    {
+      "personId": 14533,
+      "name": "Vladimir Sokoloff",
+      "character": "Anselmo",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 2.2561,
+      "profile_path": "/zsgRzwH3Hi4mZQnWBXXld56LEyM.jpg"
+    },
+    {
+      "personId": 121318,
+      "name": "Mikhail Rasumny",
+      "character": "Rafael",
+      "order": 5,
+      "cast_id": 15,
+      "popularity": 0.787,
+      "profile_path": "/xHAyvYSuiu2xfMnULr11ok7aij8.jpg"
+    },
+    {
+      "personId": 14979,
+      "name": "Fortunio Bonanova",
+      "character": "Fernando",
+      "order": 6,
+      "cast_id": 16,
+      "popularity": 0.6745,
+      "profile_path": "/39RJP5GMzaw1Bh6hBaYK6qsEDW1.jpg"
+    },
+    {
+      "personId": 153380,
+      "name": "Eric Feldary",
+      "character": "Andres",
+      "order": 7,
+      "cast_id": 17,
+      "popularity": 0.6308,
+      "profile_path": "/9gXaz6EvYPOkL1eedEUlfeqrBFA.jpg"
+    },
+    {
+      "personId": 117735,
+      "name": "Victor Varconi",
+      "character": "Primitivo",
+      "order": 8,
+      "cast_id": 18,
+      "popularity": 1.8668,
+      "profile_path": "/aX8xp2GEriKwjOf3t4MrTOHC00G.jpg"
+    },
+    {
+      "personId": 54905,
+      "name": "Katina Paxinou",
+      "character": "Pilar",
+      "order": 9,
+      "cast_id": 4,
+      "popularity": 0.3457,
+      "profile_path": "/6xEvIiYMtgS73q5c3kyeBYG4Qz5.jpg"
+    },
+    {
+      "personId": 33747,
+      "name": "Joseph Calleia",
+      "character": "El Sordo",
+      "order": 10,
+      "cast_id": 19,
+      "popularity": 0.7066,
+      "profile_path": "/qLLipHfet9kXRiveOqmimE5SGg1.jpg"
+    },
+    {
+      "personId": 1652441,
+      "name": "Lilo Yarson",
+      "character": "Joaquin",
+      "order": 11,
+      "cast_id": 20,
+      "popularity": 0.148,
+      "profile_path": null
+    },
+    {
+      "personId": 9842,
+      "name": "Alexander Granach",
+      "character": "Paco",
+      "order": 12,
+      "cast_id": 21,
+      "popularity": 0.9721,
+      "profile_path": "/6oeYojEL9uLSJezeChUNFiRJohs.jpg"
+    },
+    {
+      "personId": 939680,
+      "name": "Adia Kuznetzoff",
+      "character": "Gustavo",
+      "order": 13,
+      "cast_id": 22,
+      "popularity": 0.5421,
+      "profile_path": "/zX5xTSwYEd1iZgUpTIY8HAkRNAU.jpg"
+    },
+    {
+      "personId": 1036949,
+      "name": "Leonid Snegoff",
+      "character": "Ignacio",
+      "order": 14,
+      "cast_id": 23,
+      "popularity": 0.4263,
+      "profile_path": "/1ffr77pQtFpe9mYCiwfJFowjAhM.jpg"
+    },
+    {
+      "personId": 1419559,
+      "name": "Leo Bulgakov",
+      "character": "General Golz",
+      "order": 15,
+      "cast_id": 24,
+      "popularity": 0.4011,
+      "profile_path": null
+    },
+    {
+      "personId": 144387,
+      "name": "Duncan Renaldo",
+      "character": "Lt. Berrendo",
+      "order": 16,
+      "cast_id": 25,
+      "popularity": 0.3226,
+      "profile_path": "/vusu8EXimaP9o79MH8QDHlnze9O.jpg"
+    },
+    {
+      "personId": 89691,
+      "name": "Frank Puglia",
+      "character": "Captain Gomez",
+      "order": 17,
+      "cast_id": 26,
+      "popularity": 1.5091,
+      "profile_path": "/r1wLNTEnjKEQGrfUB5qzf8RpiCn.jpg"
+    },
+    {
+      "personId": 103493,
+      "name": "Pedro de Cordoba",
+      "character": "Colonel Miranda",
+      "order": 18,
+      "cast_id": 27,
+      "popularity": 0.8315,
+      "profile_path": "/2QXZzdaIkoYrCHXh7GRsGPqXM91.jpg"
+    },
+    {
+      "personId": 120755,
+      "name": "Michael Visaroff",
+      "character": "Staff Officer",
+      "order": 19,
+      "cast_id": 28,
+      "popularity": 0.5488,
+      "profile_path": "/3oHX74T1A9vRZdfS5kkfn6bxHwh.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 10790,
+      "name": "Sam Wood",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6639,
+      "profile_path": "/d2NsbKFd5qDKDrB81TBCJvuwxkD.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 514,
+      "name": "spain"
+    },
+    {
+      "id": 393,
+      "name": "civil war"
+    },
+    {
+      "id": 1755,
+      "name": "fascism"
+    },
+    {
+      "id": 5509,
+      "name": "spanish civil war (1936-39)"
+    },
+    {
+      "id": 214548,
+      "name": "1930s"
+    }
+  ]
+}

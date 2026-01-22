@@ -1,0 +1,78 @@
+{
+  "overview": "In 1993, Sam Fuller takes Jim Jarmusch on a trip into Brazil's Mato Grosso, up the River Araguaia to the village of Santa Isabel Do Morro, where 40 years before, Zanuck had sent Fuller to scout a location and write a script for a movie based on a tigrero, a jaguar hunter. Sam hopes to find people who remember him, and he takes film he shot in 1954. He's Rip Van Winkle, and, indeed, a great deal changed in the village. There are televisions, watches, and brick houses. But, the same Karajá culture awaits as well. He gathers the villagers to show his old film footage, and people recognize friends and relatives, thanking Fuller for momentarily bringing them back to life.",
+  "release_date": "1994-03-25",
+  "runtime": 75,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.818,
+  "tmdb_vote_count": 11,
+  "tmdb_popularity": 0.0718,
+  "original_language": "fi",
+  "poster_path": "/mLXywHBqww8uhCiJ6OM5RbOBZz9.jpg",
+  "backdrop_path": "/2IDonyjnrPiuN4KrB9myiwrp0Oa.jpg",
+  "tmdb_genres_raw": [
+    "Documentary"
+  ],
+  "production_companies": [
+    {
+      "id": 42263,
+      "name": "Marianna Films",
+      "origin_country": "FI"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "BR",
+      "name": "Brazil"
+    },
+    {
+      "code": "FI",
+      "name": "Finland"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "pt",
+      "name": "Português"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4429,
+      "name": "Jim Jarmusch",
+      "character": "Self",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.627,
+      "profile_path": "/iMpIrvhoO9SZWhiDkSzaUt9Yd4N.jpg"
+    },
+    {
+      "personId": 26959,
+      "name": "Samuel Fuller",
+      "character": "Self",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 0.5707,
+      "profile_path": "/qlDY0qaBfNynnvKNfueIgVUgWeG.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 54767,
+      "name": "Mika Kaurismäki",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.456,
+      "profile_path": "/braCGIvRB2I8VIKh9ZZM4H555Mo.jpg"
+    }
+  ],
+  "keywords": []
+}

@@ -1,0 +1,303 @@
+{
+  "overview": "A home, a motorcar, servants, the latest fashions: the most eligible and most finicky bachelor in Paris offers them all to Gigi. But she, who's gone from girlish gawkishness to cultured glamour before our eyes, yearns for that wonderful something money can't buy.",
+  "release_date": "1958-05-15",
+  "runtime": 115,
+  "budget": 3319355,
+  "revenue": 13200000,
+  "tmdb_vote_average": 6.24,
+  "tmdb_vote_count": 335,
+  "tmdb_popularity": 2.9871,
+  "original_language": "en",
+  "poster_path": "/3GSuecnDr4N5ZaqTrwElSzt6eC2.jpg",
+  "backdrop_path": "/6aIpiwQB2qvVHSlhsXYZD3lmmSV.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 12668,
+      "name": "Arthur Freed Production",
+      "origin_country": ""
+    },
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5320,
+      "name": "Leslie Caron",
+      "character": "Gilberte \"Gigi\"",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 1.5114,
+      "profile_path": "/8KaogFPimucFHFyUkdA0c0Bym5C.jpg"
+    },
+    {
+      "personId": 112972,
+      "name": "Maurice Chevalier",
+      "character": "Honoré Lachaille",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 0.9644,
+      "profile_path": "/zABRw3iRFqqKV0xB3Z3VcsJDfad.jpg"
+    },
+    {
+      "personId": 10508,
+      "name": "Louis Jourdan",
+      "character": "Gaston Lachaille",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 1.6327,
+      "profile_path": "/pHLHxUSvj1usU8jVAADGKDO5PZ7.jpg"
+    },
+    {
+      "personId": 20603,
+      "name": "Hermione Gingold",
+      "character": "Madame Alvarez (\"Mamita\")",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 0.9566,
+      "profile_path": "/5OZjKwxVeFzVET7oqBCVMRBvY76.jpg"
+    },
+    {
+      "personId": 44714,
+      "name": "Eva Gabor",
+      "character": "Liane d'Exelmans",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 2.1015,
+      "profile_path": "/gApDSJixCnXin3LYmAbMx7Ly4VV.jpg"
+    },
+    {
+      "personId": 151651,
+      "name": "Jacques Bergerac",
+      "character": "Sandomir",
+      "order": 5,
+      "cast_id": 20,
+      "popularity": 0.6427,
+      "profile_path": "/i6Hk1lDnRzCOuajpgVCSk3vtgWt.jpg"
+    },
+    {
+      "personId": 100781,
+      "name": "Isabel Jeans",
+      "character": "Aunt Alicia",
+      "order": 6,
+      "cast_id": 21,
+      "popularity": 1.0293,
+      "profile_path": "/jScHcGlvBJ9vkckbHhJl52nDIh0.jpg"
+    },
+    {
+      "personId": 24826,
+      "name": "John Abbott",
+      "character": "Manuel",
+      "order": 7,
+      "cast_id": 22,
+      "popularity": 0.7838,
+      "profile_path": "/2ucHXDbLr2ReMXRJd5XwUZZosGv.jpg"
+    },
+    {
+      "personId": 7565,
+      "name": "Corinne Marchand",
+      "character": "Young Lady with White Sunshade",
+      "order": 8,
+      "cast_id": 23,
+      "popularity": 0.5316,
+      "profile_path": "/8I4ZleBGGTCJ5DAWy8W9TRyfBaB.jpg"
+    },
+    {
+      "personId": 19648,
+      "name": "Marie-Hélène Arnaud",
+      "character": "Girl at Maxim's",
+      "order": 9,
+      "cast_id": 25,
+      "popularity": 0.9278,
+      "profile_path": "/xiNU5RLFdFJnMLko9x1FsVf0ayf.jpg"
+    },
+    {
+      "personId": 2099146,
+      "name": "Anne-Marie Mersen",
+      "character": "Maxim Girl",
+      "order": 10,
+      "cast_id": 28,
+      "popularity": 0.3031,
+      "profile_path": "/lWQEzcdjvEMxwLyO13pGcLPn27.jpg"
+    },
+    {
+      "personId": 1004594,
+      "name": "Jack Ary",
+      "character": "Waiter at \"Palais de Glace\" (uncredited)",
+      "order": 11,
+      "cast_id": 36,
+      "popularity": 0.4575,
+      "profile_path": "/wgemTdGrDg2gaaBPJULVCwxczuF.jpg"
+    },
+    {
+      "personId": 2958432,
+      "name": "Daniel Aubé",
+      "character": "A boy at Jardins des Tuileries (uncredited)",
+      "order": 12,
+      "cast_id": 37,
+      "popularity": 0.0658,
+      "profile_path": null
+    },
+    {
+      "personId": 2958433,
+      "name": "Richard Bean",
+      "character": "Harlequin (uncredited)",
+      "order": 13,
+      "cast_id": 38,
+      "popularity": 0.1119,
+      "profile_path": null
+    },
+    {
+      "personId": 108810,
+      "name": "Cecil Beaton",
+      "character": "Gentleman in Park (uncredited)",
+      "order": 14,
+      "cast_id": 39,
+      "popularity": 0.7305,
+      "profile_path": "/lLRSuGd8ZUBY1lVTGJCBk5ZDuPf.jpg"
+    },
+    {
+      "personId": 38095,
+      "name": "Jacques Bertrand",
+      "character": "Maitre d'Hotel Maxim's (uncredited)",
+      "order": 15,
+      "cast_id": 40,
+      "popularity": 0.2472,
+      "profile_path": null
+    },
+    {
+      "personId": 1662018,
+      "name": "Paul Cristo",
+      "character": "Restaurant Patron (uncredited)",
+      "order": 16,
+      "cast_id": 41,
+      "popularity": 1.4877,
+      "profile_path": null
+    },
+    {
+      "personId": 39097,
+      "name": "Hubert de Lapparent",
+      "character": "Gaston's Private Secretary (uncredited)",
+      "order": 17,
+      "cast_id": 42,
+      "popularity": 0.835,
+      "profile_path": "/pb7OeVa7PuU0RE68uMCtzYWht6z.jpg"
+    },
+    {
+      "personId": 2406775,
+      "name": "Cilly Feindt",
+      "character": "Girl on Horseback at Pré Catelan (uncredited)",
+      "order": 18,
+      "cast_id": 43,
+      "popularity": 0.1402,
+      "profile_path": "/ovX2ykFvjNIapGThK79nLBbBvIN.jpg"
+    },
+    {
+      "personId": 109411,
+      "name": "Edwin Jerome",
+      "character": "Charles - Alicia's Butler (uncredited)",
+      "order": 19,
+      "cast_id": 44,
+      "popularity": 0.4631,
+      "profile_path": "/yNBHxLMMrS8kSedeZX9UuSJmHk3.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 13980,
+      "name": "Vincente Minnelli",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8671,
+      "profile_path": "/fmlq7RMQdWsrPBAskIezf22e8Mv.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 90,
+      "name": "paris, france"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 6099,
+      "name": "jewelry"
+    },
+    {
+      "id": 4178,
+      "name": "courtesan"
+    },
+    {
+      "id": 4344,
+      "name": "musical"
+    },
+    {
+      "id": 5165,
+      "name": "champagne"
+    },
+    {
+      "id": 10181,
+      "name": "based on play or musical"
+    },
+    {
+      "id": 10683,
+      "name": "coming of age"
+    },
+    {
+      "id": 9639,
+      "name": "playboy"
+    },
+    {
+      "id": 9673,
+      "name": "love"
+    },
+    {
+      "id": 10937,
+      "name": "memory"
+    },
+    {
+      "id": 14514,
+      "name": "class differences"
+    },
+    {
+      "id": 14798,
+      "name": "park"
+    },
+    {
+      "id": 164663,
+      "name": "courtship"
+    },
+    {
+      "id": 171850,
+      "name": "ice rink"
+    },
+    {
+      "id": 189477,
+      "name": "bois de boulogne"
+    }
+  ]
+}

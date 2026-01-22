@@ -1,0 +1,348 @@
+{
+  "overview": "A daring prison break from an airliner at 30,000 feet leaves U.S. Marshal Pete Nessip mourning a brother and gunning for revenge. After being ordered to turn in his badge, he seeks out Jessie Crossman, a noted skydiver, and offers to sponsor her crew for the annual Independence Day parachuting show in Washington, D.C., if she trains him. Meanwhile, the mastermind behind the mid-air jailbreak is planning a daring computer theft on Independence Day.",
+  "release_date": "1994-12-08",
+  "runtime": 101,
+  "budget": 45000000,
+  "revenue": 62000000,
+  "tmdb_vote_average": 5.696,
+  "tmdb_vote_count": 439,
+  "tmdb_popularity": 2.3882,
+  "original_language": "en",
+  "poster_path": "/bbveyfmq6pGrzKL0l4waeA2WHHp.jpg",
+  "backdrop_path": "/qmdtL1TFMWnel4QnxcwmZQ5Gwgz.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Thriller",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 21156,
+      "name": "Nicita/Lloyd Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10814,
+      "name": "Wesley Snipes",
+      "character": "Pete Nessip",
+      "order": 0,
+      "cast_id": 12,
+      "popularity": 3.7179,
+      "profile_path": "/232tIFkJYkmtQIM31Pi5dmLRR8p.jpg"
+    },
+    {
+      "personId": 2048,
+      "name": "Gary Busey",
+      "character": "Ty Moncrief",
+      "order": 1,
+      "cast_id": 13,
+      "popularity": 3.4081,
+      "profile_path": "/8H7Hlv6b7ZoK4jZKeLnc2i4pfPL.jpg"
+    },
+    {
+      "personId": 20759,
+      "name": "Yancy Butler",
+      "character": "Jessie Crossmann",
+      "order": 2,
+      "cast_id": 14,
+      "popularity": 1.5972,
+      "profile_path": "/z4IbPBVF4GHJq7IWdLQg71zRcyd.jpg"
+    },
+    {
+      "personId": 2169,
+      "name": "Michael Jeter",
+      "character": "Earl Leedy",
+      "order": 3,
+      "cast_id": 15,
+      "popularity": 3.5109,
+      "profile_path": "/pNBf8X56wCOHH7cArsMYJuke4fO.jpg"
+    },
+    {
+      "personId": 21563,
+      "name": "Corin Nemec",
+      "character": "'Selly' Selkirk",
+      "order": 4,
+      "cast_id": 16,
+      "popularity": 1.4227,
+      "profile_path": "/vndALqWdbdM4IMMU6CTmOCMjzEA.jpg"
+    },
+    {
+      "personId": 40258,
+      "name": "Kyle Secor",
+      "character": "Swoop",
+      "order": 5,
+      "cast_id": 17,
+      "popularity": 1.6674,
+      "profile_path": "/8hdk4SVuSWX8fcLQfOqbFCMMA9W.jpg"
+    },
+    {
+      "personId": 29383,
+      "name": "Luca Bercovici",
+      "character": "Don Jagger",
+      "order": 6,
+      "cast_id": 18,
+      "popularity": 0.6638,
+      "profile_path": "/6iEWQqsNTarMHLYbM1HPXSYoBk3.jpg"
+    },
+    {
+      "personId": 40259,
+      "name": "Malcolm-Jamal Warner",
+      "character": "Terry Nessip",
+      "order": 7,
+      "cast_id": 19,
+      "popularity": 2.0189,
+      "profile_path": "/A3Uh6MADHNaqCHCbKKuA6uZEK8v.jpg"
+    },
+    {
+      "personId": 16937,
+      "name": "Rex Linn",
+      "character": "Bobby",
+      "order": 8,
+      "cast_id": 28,
+      "popularity": 2.5654,
+      "profile_path": "/dY8x6OrmS0dBdogxeF2QALrCvpI.jpg"
+    },
+    {
+      "personId": 6465,
+      "name": "Grace Zabriskie",
+      "character": "Winona",
+      "order": 9,
+      "cast_id": 30,
+      "popularity": 1.7324,
+      "profile_path": "/19tr5IbzCmv4x5B3WFlG1RQPwXu.jpg"
+    },
+    {
+      "personId": 65831,
+      "name": "Robert LaSardo",
+      "character": "Deputy Dog",
+      "order": 10,
+      "cast_id": 31,
+      "popularity": 2.4321,
+      "profile_path": "/maezwGo8JUbjECLB6VZJPtGvn1B.jpg"
+    },
+    {
+      "personId": 164630,
+      "name": "Sam Hennings",
+      "character": "Torski",
+      "order": 11,
+      "cast_id": 44,
+      "popularity": 0.6723,
+      "profile_path": "/wVw51UxN2q68F3bXEVm2P5v4HkC.jpg"
+    },
+    {
+      "personId": 42524,
+      "name": "Claire Stansfield",
+      "character": "Kara",
+      "order": 12,
+      "cast_id": 32,
+      "popularity": 1.4359,
+      "profile_path": "/c33uDl3FuOyP4YLwA7UcCrwUNVa.jpg"
+    },
+    {
+      "personId": 100230,
+      "name": "Mickey Jones",
+      "character": "Deuce",
+      "order": 13,
+      "cast_id": 33,
+      "popularity": 1.5081,
+      "profile_path": "/tdCfPWmgFwQtrZZv7cIBWKKxH8.jpg"
+    },
+    {
+      "personId": 32289,
+      "name": "Andy Romano",
+      "character": "Tom McCracken",
+      "order": 14,
+      "cast_id": 34,
+      "popularity": 1.5467,
+      "profile_path": "/maQYk63vsymyolmJBHEsBmv3KxR.jpg"
+    },
+    {
+      "personId": 149500,
+      "name": "Rick Zieff",
+      "character": "Mike Milton",
+      "order": 15,
+      "cast_id": 35,
+      "popularity": 0.9353,
+      "profile_path": "/t52zVWnyrcIPIlBOdRhlaVEyNuH.jpg"
+    },
+    {
+      "personId": 47640,
+      "name": "Clark Johnson",
+      "character": "Bob Covington",
+      "order": 16,
+      "cast_id": 36,
+      "popularity": 1.1915,
+      "profile_path": "/k4EcCKRI7lqxrqYqVuffdSe9JBN.jpg"
+    },
+    {
+      "personId": 176329,
+      "name": "Charles Boswell",
+      "character": "Glenn Blackstone",
+      "order": 17,
+      "cast_id": 37,
+      "popularity": 0.5391,
+      "profile_path": "/8k5ybaKZjuSy89RSpI0Mi3oIf8H.jpg"
+    },
+    {
+      "personId": 2124445,
+      "name": "Natalie Jordan",
+      "character": "Lena",
+      "order": 18,
+      "cast_id": 38,
+      "popularity": 0.052,
+      "profile_path": null
+    },
+    {
+      "personId": 1320114,
+      "name": "Ed Amatrudo",
+      "character": "Detective Fox",
+      "order": 19,
+      "cast_id": 39,
+      "popularity": 1.7446,
+      "profile_path": "/425tSvu0USMcnjLiXnKr4XoeexF.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 12840,
+      "name": "John Badham",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.5887,
+      "profile_path": "/hh0EssedcgUOICkZywbVuwVOJO4.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1196,
+      "name": "florida"
+    },
+    {
+      "id": 521,
+      "name": "washington dc, usa"
+    },
+    {
+      "id": 416,
+      "name": "miami, florida"
+    },
+    {
+      "id": 2006,
+      "name": "extreme sports"
+    },
+    {
+      "id": 4613,
+      "name": "training"
+    },
+    {
+      "id": 4811,
+      "name": "emergency landing"
+    },
+    {
+      "id": 11207,
+      "name": "u.s. marshal"
+    },
+    {
+      "id": 10614,
+      "name": "tragedy"
+    },
+    {
+      "id": 10184,
+      "name": "airplane hijacking"
+    },
+    {
+      "id": 10287,
+      "name": "skydiving"
+    },
+    {
+      "id": 41409,
+      "name": "break in"
+    },
+    {
+      "id": 156208,
+      "name": "federal agent"
+    },
+    {
+      "id": 159743,
+      "name": "fourth of july"
+    },
+    {
+      "id": 169271,
+      "name": "escaped prisoner"
+    },
+    {
+      "id": 170212,
+      "name": "criminal gang"
+    },
+    {
+      "id": 186281,
+      "name": "dea"
+    },
+    {
+      "id": 191047,
+      "name": "prison break"
+    },
+    {
+      "id": 241869,
+      "name": "loss of brother"
+    },
+    {
+      "id": 252204,
+      "name": "revenge thriller"
+    },
+    {
+      "id": 275061,
+      "name": "prisoner transport"
+    },
+    {
+      "id": 275130,
+      "name": "airplane passenger"
+    },
+    {
+      "id": 286507,
+      "name": "crazy"
+    },
+    {
+      "id": 303917,
+      "name": "former agent"
+    },
+    {
+      "id": 305466,
+      "name": "prisoner escort"
+    },
+    {
+      "id": 315792,
+      "name": "robbery crew"
+    },
+    {
+      "id": 315793,
+      "name": "skydiving school"
+    },
+    {
+      "id": 315794,
+      "name": "skydiving instructor"
+    },
+    {
+      "id": 315795,
+      "name": "skydiving team"
+    }
+  ]
+}

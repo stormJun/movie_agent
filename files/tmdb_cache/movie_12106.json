@@ -1,0 +1,275 @@
+{
+  "overview": "A mysterious woman comes to compete in a quick-draw elimination tournament, in a town taken over by a notorious gunman.",
+  "release_date": "1995-02-09",
+  "runtime": 107,
+  "budget": 35000000,
+  "revenue": 47000000,
+  "tmdb_vote_average": 6.538,
+  "tmdb_vote_count": 1881,
+  "tmdb_popularity": 3.7646,
+  "original_language": "en",
+  "poster_path": "/jhEmrXJpP6F3cqwyLjvgBgxxxFA.jpg",
+  "backdrop_path": "/nl099IgJQdJcTBuXmIzouWXK929.jpg",
+  "tmdb_genres_raw": [
+    "Western",
+    "Action",
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 559,
+      "name": "TriStar Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 5350,
+      "name": "Japan Satellite Broadcasting",
+      "origin_country": "JP"
+    },
+    {
+      "id": 959,
+      "name": "IndieProd Company Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4430,
+      "name": "Sharon Stone",
+      "character": "Ellen",
+      "order": 0,
+      "cast_id": 11,
+      "popularity": 4.8308,
+      "profile_path": "/t0WoTlfkLsvsL2ZiPgoihK5rZqq.jpg"
+    },
+    {
+      "personId": 193,
+      "name": "Gene Hackman",
+      "character": "John Herod",
+      "order": 1,
+      "cast_id": 12,
+      "popularity": 3.843,
+      "profile_path": "/wN8brfOI8AjngGchkQtFqfEPam5.jpg"
+    },
+    {
+      "personId": 934,
+      "name": "Russell Crowe",
+      "character": "Cort",
+      "order": 2,
+      "cast_id": 13,
+      "popularity": 5.217,
+      "profile_path": "/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
+    },
+    {
+      "personId": 6193,
+      "name": "Leonardo DiCaprio",
+      "character": "Kid",
+      "order": 3,
+      "cast_id": 14,
+      "popularity": 11.6978,
+      "profile_path": "/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+    },
+    {
+      "personId": 2144,
+      "name": "Tobin Bell",
+      "character": "Dog Kelly",
+      "order": 4,
+      "cast_id": 15,
+      "popularity": 3.0131,
+      "profile_path": "/q21uuCtTioIVcGc3a1Q0DpdcNMO.jpg"
+    },
+    {
+      "personId": 66288,
+      "name": "Roberts Blossom",
+      "character": "Doc Wallace",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 1.9927,
+      "profile_path": "/CP19Dvjvx2xSrkyJQEdmAC4wug.jpg"
+    },
+    {
+      "personId": 27116,
+      "name": "Kevin Conway",
+      "character": "Eugene Dred",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 1.1373,
+      "profile_path": "/drTYTlwhnIeVaNdkSuIhTHo9xpC.jpg"
+    },
+    {
+      "personId": 65827,
+      "name": "Keith David",
+      "character": "Sgt. Clay Cantrell",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 5.1624,
+      "profile_path": "/hwykAZLSIP5Cb2bbauZ4CEEmq0u.jpg"
+    },
+    {
+      "personId": 2714,
+      "name": "Lance Henriksen",
+      "character": "Ace Hanlon",
+      "order": 8,
+      "cast_id": 19,
+      "popularity": 2.918,
+      "profile_path": "/1PkFmD5HdjmRa2DumtwINnnAjTH.jpg"
+    },
+    {
+      "personId": 3798,
+      "name": "Pat Hingle",
+      "character": "Horace the Bartender",
+      "order": 9,
+      "cast_id": 20,
+      "popularity": 2.1423,
+      "profile_path": "/QBAxFVZQ0Hu6rxlFavhwUq0zug.jpg"
+    },
+    {
+      "personId": 33,
+      "name": "Gary Sinise",
+      "character": "Marshall",
+      "order": 10,
+      "cast_id": 21,
+      "popularity": 2.5584,
+      "profile_path": "/olRjiV8ZhBixQiTvrGwXhpVXxsV.jpg"
+    },
+    {
+      "personId": 534,
+      "name": "Mark Boone Junior",
+      "character": "Scars",
+      "order": 11,
+      "cast_id": 22,
+      "popularity": 1.9426,
+      "profile_path": "/swWzGOTX3SQ2udv7NQhAE1DlZsb.jpg"
+    },
+    {
+      "personId": 27261,
+      "name": "Olivia Burnette",
+      "character": "Katie",
+      "order": 12,
+      "cast_id": 23,
+      "popularity": 0.9636,
+      "profile_path": "/alU6M7Y7zU72iQohPMx6OH33Pm7.jpg"
+    },
+    {
+      "personId": 65409,
+      "name": "Fay Masterson",
+      "character": "Mattie Silk",
+      "order": 13,
+      "cast_id": 24,
+      "popularity": 1.8808,
+      "profile_path": "/gKG30bketELJ7d22KIbX62djSKc.jpg"
+    },
+    {
+      "personId": 21082,
+      "name": "Raynor Scheine",
+      "character": "Ratsy",
+      "order": 14,
+      "cast_id": 25,
+      "popularity": 1.9161,
+      "profile_path": "/gqj3nFgq2W83RrJNyqHm2xw8Efw.jpg"
+    },
+    {
+      "personId": 4963,
+      "name": "Woody Strode",
+      "character": "Charlies Moonlight",
+      "order": 15,
+      "cast_id": 26,
+      "popularity": 1.868,
+      "profile_path": "/bQODvxboGerJXrl7ypgM5UqjhZt.jpg"
+    },
+    {
+      "personId": 19870,
+      "name": "Jerry Swindall",
+      "character": "Blind Boy",
+      "order": 16,
+      "cast_id": 71,
+      "popularity": 1.0759,
+      "profile_path": "/yGHz60t1NnV2wxN8KxZX3TqER3A.jpg"
+    },
+    {
+      "personId": 11641,
+      "name": "Scott Spiegel",
+      "character": "Gold Teeth Man",
+      "order": 17,
+      "cast_id": 27,
+      "popularity": 0.7014,
+      "profile_path": "/4biZFDzG3gXfGk7YZYJQNRPGIbd.jpg"
+    },
+    {
+      "personId": 1504078,
+      "name": "Jonothon Gill",
+      "character": "Spotted Horse",
+      "order": 18,
+      "cast_id": 39,
+      "popularity": 0.2785,
+      "profile_path": "/aMCySn3TVaAbiCbJ9rNxMejxKUP.jpg"
+    },
+    {
+      "personId": 20761,
+      "name": "Sven-Ole Thorsen",
+      "character": "Gutzon",
+      "order": 19,
+      "cast_id": 40,
+      "popularity": 0.8852,
+      "profile_path": "/7uhBGHXs6xLwFwzWbLEsHDgYzHP.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 7623,
+      "name": "Sam Raimi",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.9505,
+      "profile_path": "/8gssvwiPrFRuFRlr5ruKx68k1Jl.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 75,
+      "name": "gunslinger"
+    },
+    {
+      "id": 9748,
+      "name": "revenge"
+    },
+    {
+      "id": 9930,
+      "name": "prairie"
+    },
+    {
+      "id": 10950,
+      "name": "shootout"
+    },
+    {
+      "id": 325775,
+      "name": "awestruck"
+    },
+    {
+      "id": 325842,
+      "name": "powerful"
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "overview": "A hack screenwriter writes a screenplay for a former silent film star who has faded into Hollywood obscurity.",
+  "release_date": "1950-08-10",
+  "runtime": 110,
+  "budget": 1752000,
+  "revenue": 5000000,
+  "tmdb_vote_average": 8.284,
+  "tmdb_vote_count": 2828,
+  "tmdb_popularity": 4.7769,
+  "original_language": "en",
+  "poster_path": "/oOZIN0sbRNLKQC4RRCQnmAx1PlV.jpg",
+  "backdrop_path": "/p47ihFj4A7EpBjmPHdTj4ipyq1S.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8252,
+      "name": "William Holden",
+      "character": "Joe Gillis",
+      "order": 0,
+      "cast_id": 20,
+      "popularity": 1.6033,
+      "profile_path": "/qEuJZiPXKFm1LdtbnHKGj2hQm8a.jpg"
+    },
+    {
+      "personId": 8629,
+      "name": "Gloria Swanson",
+      "character": "Norma Desmond",
+      "order": 1,
+      "cast_id": 21,
+      "popularity": 1.2589,
+      "profile_path": "/akmlp75ESHjtGOVtOCfJYxkX4eo.jpg"
+    },
+    {
+      "personId": 8630,
+      "name": "Erich von Stroheim",
+      "character": "Max von Mayerling",
+      "order": 2,
+      "cast_id": 22,
+      "popularity": 0.554,
+      "profile_path": "/lUoSEdmX6Cl7lLUnV4ewLkVDnhY.jpg"
+    },
+    {
+      "personId": 8631,
+      "name": "Nancy Olson",
+      "character": "Betty Schaefer",
+      "order": 3,
+      "cast_id": 23,
+      "popularity": 1.0385,
+      "profile_path": "/419ZEkm8PQSp9RS7NXb4yJPDRm4.jpg"
+    },
+    {
+      "personId": 8632,
+      "name": "Fred Clark",
+      "character": "Sheldrake",
+      "order": 4,
+      "cast_id": 24,
+      "popularity": 0.976,
+      "profile_path": "/yBjSwb6xma9ukYpbSe75C0eqNTx.jpg"
+    },
+    {
+      "personId": 8633,
+      "name": "Lloyd Gough",
+      "character": "Morino",
+      "order": 5,
+      "cast_id": 25,
+      "popularity": 1.4308,
+      "profile_path": "/hWyEWTVQ0dy8RE9l2fEkOaKTQwX.jpg"
+    },
+    {
+      "personId": 8634,
+      "name": "Jack Webb",
+      "character": "Artie Green",
+      "order": 6,
+      "cast_id": 26,
+      "popularity": 1.6917,
+      "profile_path": "/4X6wbZ9wDqVrpDP3WvIJZBLPsLh.jpg"
+    },
+    {
+      "personId": 975597,
+      "name": "Franklyn Farnum",
+      "character": "Undertaker",
+      "order": 7,
+      "cast_id": 52,
+      "popularity": 0.6988,
+      "profile_path": "/273KbcYjCmFpDMUcFtNKf7hNTRV.jpg"
+    },
+    {
+      "personId": 82750,
+      "name": "Larry J. Blake",
+      "character": "1st Finance Man",
+      "order": 8,
+      "cast_id": 53,
+      "popularity": 1.7827,
+      "profile_path": "/b4dfz0xLUHJJJEPmAmAI2jrzXBj.jpg"
+    },
+    {
+      "personId": 130894,
+      "name": "Charles Dayton",
+      "character": "2nd Finance Man",
+      "order": 9,
+      "cast_id": 54,
+      "popularity": 0.1663,
+      "profile_path": null
+    },
+    {
+      "personId": 8636,
+      "name": "Cecil B. DeMille",
+      "character": "Cecil B. DeMille",
+      "order": 10,
+      "cast_id": 28,
+      "popularity": 0.6795,
+      "profile_path": "/lxY61cx23rcCenlTvcwn8Cmpnrp.jpg"
+    },
+    {
+      "personId": 8637,
+      "name": "Hedda Hopper",
+      "character": "Hedda Hopper",
+      "order": 11,
+      "cast_id": 29,
+      "popularity": 0.9811,
+      "profile_path": "/kfXPY1cSrOmjJ3TYrGF4giT6EPI.jpg"
+    },
+    {
+      "personId": 8635,
+      "name": "Buster Keaton",
+      "character": "Buster Keaton",
+      "order": 12,
+      "cast_id": 27,
+      "popularity": 1.8134,
+      "profile_path": "/kEybBFkO5AX83o3WKyNDfuvfVrn.jpg"
+    },
+    {
+      "personId": 8638,
+      "name": "Anna Q. Nilsson",
+      "character": "Anna Q. Nilsson",
+      "order": 13,
+      "cast_id": 30,
+      "popularity": 1.3859,
+      "profile_path": "/aQCvZ9xfmNhgyFkRXKliBmjrzFn.jpg"
+    },
+    {
+      "personId": 33278,
+      "name": "H.B. Warner",
+      "character": "H.B. Warner",
+      "order": 14,
+      "cast_id": 34,
+      "popularity": 0.6849,
+      "profile_path": "/be4wXVyhbvdbViK0gOZSrdbfie8.jpg"
+    },
+    {
+      "personId": 8640,
+      "name": "Ray Evans",
+      "character": "Ray Evans",
+      "order": 15,
+      "cast_id": 32,
+      "popularity": 0.1399,
+      "profile_path": null
+    },
+    {
+      "personId": 8641,
+      "name": "Jay Livingston",
+      "character": "Jay Livingston",
+      "order": 16,
+      "cast_id": 33,
+      "popularity": 0.6487,
+      "profile_path": null
+    },
+    {
+      "personId": 947709,
+      "name": "Fred Aldrich",
+      "character": "Cop Who Drags Joe's Body from Pool (uncredited)",
+      "order": 17,
+      "cast_id": 55,
+      "popularity": 2.0229,
+      "profile_path": "/s3s32bjmkC6gsa4S59Nrk4qgn3G.jpg"
+    },
+    {
+      "personId": 270786,
+      "name": "Joel Allen",
+      "character": "Prop Man #2 (uncredited)",
+      "order": 18,
+      "cast_id": 56,
+      "popularity": 0.3005,
+      "profile_path": null
+    },
+    {
+      "personId": 141070,
+      "name": "Gertrude Astor",
+      "character": "Courtier (uncredited)",
+      "order": 19,
+      "cast_id": 58,
+      "popularity": 0.5457,
+      "profile_path": "/jjIoqFS6mmfZFlhX8pcBhPVzIBJ.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 3146,
+      "name": "Billy Wilder",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.2854,
+      "profile_path": "/nWV9BDDCbRegP7etiPjl3vYnJEq.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 613,
+      "name": "new year's eve"
+    },
+    {
+      "id": 931,
+      "name": "jealousy"
+    },
+    {
+      "id": 1565,
+      "name": "loss of sense of reality"
+    },
+    {
+      "id": 888,
+      "name": "screenwriter"
+    },
+    {
+      "id": 1307,
+      "name": "butler"
+    },
+    {
+      "id": 6262,
+      "name": "delusion"
+    },
+    {
+      "id": 2992,
+      "name": "diva"
+    },
+    {
+      "id": 9807,
+      "name": "film noir"
+    },
+    {
+      "id": 12396,
+      "name": "hollywood"
+    },
+    {
+      "id": 12670,
+      "name": "los angeles, california"
+    },
+    {
+      "id": 12999,
+      "name": "black and white"
+    },
+    {
+      "id": 41410,
+      "name": "madness"
+    },
+    {
+      "id": 155507,
+      "name": "aging actor"
+    },
+    {
+      "id": 157774,
+      "name": "has been"
+    },
+    {
+      "id": 188647,
+      "name": "silent film star"
+    },
+    {
+      "id": 201864,
+      "name": "hostile"
+    },
+    {
+      "id": 230556,
+      "name": "ironic"
+    },
+    {
+      "id": 237152,
+      "name": "grandiose  behavior"
+    },
+    {
+      "id": 241404,
+      "name": "kept man"
+    },
+    {
+      "id": 246610,
+      "name": "movie studio"
+    },
+    {
+      "id": 325819,
+      "name": "frustrated"
+    },
+    {
+      "id": 325854,
+      "name": "tragic"
+    }
+  ]
+}

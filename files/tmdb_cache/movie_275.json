@@ -1,0 +1,320 @@
+{
+  "overview": "Jerry, a small-town Minnesota car salesman is bursting at the seams with debt... but he's got a plan. He's going to hire two thugs to kidnap his wife in a scheme to collect a hefty ransom from his wealthy father-in-law. It's going to be a snap and nobody's going to get hurt... until people start dying. Enter Police Chief Marge, a coffee-drinking, parka-wearing - and extremely pregnant - investigator who'll stop at nothing to get her man. And if you think her small-time investigative skills will give the crooks a run for their ransom... you betcha!",
+  "release_date": "1996-03-08",
+  "runtime": 98,
+  "budget": 7000000,
+  "revenue": 60611975,
+  "tmdb_vote_average": 7.849,
+  "tmdb_vote_count": 8788,
+  "tmdb_popularity": 9.5636,
+  "original_language": "en",
+  "poster_path": "/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
+  "backdrop_path": "/747dgDfL5d8esobk7h4odaOFhUq.jpg",
+  "tmdb_genres_raw": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 1382,
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 10163,
+      "name": "Working Title Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3910,
+      "name": "Frances McDormand",
+      "character": "Marge Gunderson",
+      "order": 0,
+      "cast_id": 12,
+      "popularity": 4.1337,
+      "profile_path": "/r0A7hZsM1zuavTr0jN7bwmBcliR.jpg"
+    },
+    {
+      "personId": 3905,
+      "name": "William H. Macy",
+      "character": "Jerry Lundegaard",
+      "order": 1,
+      "cast_id": 7,
+      "popularity": 5.7242,
+      "profile_path": "/hdVEGSrP8qWlJnt0v5vSVcGOjy7.jpg"
+    },
+    {
+      "personId": 884,
+      "name": "Steve Buscemi",
+      "character": "Carl Showalter",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 5.9344,
+      "profile_path": "/kFzw4U5pExnLKZWhR48VSzL8Fre.jpg"
+    },
+    {
+      "personId": 53,
+      "name": "Peter Stormare",
+      "character": "Gaear Grimsrud",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 4.6053,
+      "profile_path": "/1rtpuUqBV29jDc1huUhtjGDbEwn.jpg"
+    },
+    {
+      "personId": 3907,
+      "name": "Harve Presnell",
+      "character": "Wade Gustafson",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 1.1576,
+      "profile_path": "/rQ59i2F9xMLp5MzuxmNN91iKzcV.jpg"
+    },
+    {
+      "personId": 3911,
+      "name": "John Carroll Lynch",
+      "character": "Norm Gunderson",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 3.02,
+      "profile_path": "/i6xsWIgo3kW5Dc4A6VhQ17G9nuy.jpg"
+    },
+    {
+      "personId": 3906,
+      "name": "Kristin Rudrüd",
+      "character": "Jean Lundegaard",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 0.521,
+      "profile_path": "/ws3H0HRN6tQ01T0qpoUPlvfTfP0.jpg"
+    },
+    {
+      "personId": 155861,
+      "name": "Bruce Bohne",
+      "character": "Lou",
+      "order": 7,
+      "cast_id": 42,
+      "popularity": 1.0057,
+      "profile_path": "/zBe6eyNHbiEClW4Lwu2o8S7Mi75.jpg"
+    },
+    {
+      "personId": 4024,
+      "name": "Steve Reevis",
+      "character": "Shep Proudfoot",
+      "order": 8,
+      "cast_id": 19,
+      "popularity": 2.0347,
+      "profile_path": "/3rwvjFw0NuyvkCeoXeDRH6cIWYH.jpg"
+    },
+    {
+      "personId": 4025,
+      "name": "Steve Park",
+      "character": "Mike Yanagita",
+      "order": 9,
+      "cast_id": 20,
+      "popularity": 1.5192,
+      "profile_path": "/wDa3CYi7GPUcFBoi7Fg0fcCCXDc.jpg"
+    },
+    {
+      "personId": 3909,
+      "name": "Gary Houston",
+      "character": "Irate Customer",
+      "order": 10,
+      "cast_id": 11,
+      "popularity": 0.7069,
+      "profile_path": "/1je2kKuTFWourCvPGpst84Tn3d1.jpg"
+    },
+    {
+      "personId": 3912,
+      "name": "Sally Wingert",
+      "character": "Irate Customer's Wife",
+      "order": 11,
+      "cast_id": 18,
+      "popularity": 0.3713,
+      "profile_path": "/ykag9cTD0asz8odp3tmD3vT4vnk.jpg"
+    },
+    {
+      "personId": 1332891,
+      "name": "Larissa Kokernot",
+      "character": "Hooker #1",
+      "order": 12,
+      "cast_id": 26,
+      "popularity": 0.3255,
+      "profile_path": "/uhnAhJIuKhe1T42dAQaltxH3VG.jpg"
+    },
+    {
+      "personId": 145816,
+      "name": "Melissa Peterman",
+      "character": "Hooker #2",
+      "order": 13,
+      "cast_id": 27,
+      "popularity": 1.985,
+      "profile_path": "/dyWRlAOJnSGzRwhVVfMIkYC4cp7.jpg"
+    },
+    {
+      "personId": 3908,
+      "name": "Tony Denman",
+      "character": "Scotty Lundegaard",
+      "order": 14,
+      "cast_id": 10,
+      "popularity": 1.0207,
+      "profile_path": "/pHflMRqifW6jfmZ5MEwlX4Zun29.jpg"
+    },
+    {
+      "personId": 92119,
+      "name": "Larry Brandenburg",
+      "character": "Stan Grossman",
+      "order": 15,
+      "cast_id": 28,
+      "popularity": 1.4926,
+      "profile_path": "/y13c1a4keaLnoTbi3dERwolQXWP.jpg"
+    },
+    {
+      "personId": 1356261,
+      "name": "Michelle Hutchison",
+      "character": "Escort",
+      "order": 16,
+      "cast_id": 37,
+      "popularity": 1.5456,
+      "profile_path": "/sHURO5OXtbLV9ihSus2sTfRpFL7.jpg"
+    },
+    {
+      "personId": 931745,
+      "name": "Bain Boehlke",
+      "character": "Mr. Mohra",
+      "order": 17,
+      "cast_id": 43,
+      "popularity": 0.361,
+      "profile_path": null
+    },
+    {
+      "personId": 1775566,
+      "name": "Warren Keith",
+      "character": "Reilly Diefenbach (voice)",
+      "order": 18,
+      "cast_id": 90,
+      "popularity": 0.868,
+      "profile_path": "/asyt7WkHjJLkZ8eAjPmQn35Fmye.jpg"
+    },
+    {
+      "personId": 3258725,
+      "name": "Michelle LeDoux",
+      "character": "Victim In Car",
+      "order": 19,
+      "cast_id": 46,
+      "popularity": 0.0596,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1223,
+      "name": "Joel Coen",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.7956,
+      "profile_path": "/rgVaJNkZCgMarUcZuUAsVfXMWk3.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1361,
+      "name": "salesclerk"
+    },
+    {
+      "id": 6059,
+      "name": "unsociability"
+    },
+    {
+      "id": 6149,
+      "name": "police"
+    },
+    {
+      "id": 1332,
+      "name": "cheating"
+    },
+    {
+      "id": 1336,
+      "name": "ransom"
+    },
+    {
+      "id": 1442,
+      "name": "winter"
+    },
+    {
+      "id": 1930,
+      "name": "kidnapping"
+    },
+    {
+      "id": 1360,
+      "name": "minnesota"
+    },
+    {
+      "id": 10123,
+      "name": "dark comedy"
+    },
+    {
+      "id": 9409,
+      "name": "north dakota"
+    },
+    {
+      "id": 10594,
+      "name": "money"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 15090,
+      "name": "police officer"
+    },
+    {
+      "id": 15151,
+      "name": "car dealership"
+    },
+    {
+      "id": 33598,
+      "name": "woodchipper"
+    },
+    {
+      "id": 162810,
+      "name": "macabre"
+    },
+    {
+      "id": 190532,
+      "name": "false history"
+    },
+    {
+      "id": 207268,
+      "name": "neo-noir"
+    },
+    {
+      "id": 239797,
+      "name": "complex"
+    },
+    {
+      "id": 252768,
+      "name": "minneapolis"
+    }
+  ]
+}

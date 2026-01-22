@@ -1,0 +1,357 @@
+{
+  "overview": "Two drag performers and a transgender woman travel across the desert to perform their unique style of cabaret.",
+  "release_date": "1994-05-31",
+  "runtime": 103,
+  "budget": 2000000,
+  "revenue": 29700000,
+  "tmdb_vote_average": 7.266,
+  "tmdb_vote_count": 884,
+  "tmdb_popularity": 2.6858,
+  "original_language": "en",
+  "poster_path": "/kJ7syYXEJgSBmBfSnF3Can9cK1J.jpg",
+  "backdrop_path": "/q1PuySDtRiKSgxAZjpIbFvvLOus.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 1382,
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 8725,
+      "name": "Latent Image Productions Pty. Ltd.",
+      "origin_country": ""
+    },
+    {
+      "id": 1381,
+      "name": "Specific Films",
+      "origin_country": ""
+    },
+    {
+      "id": 37,
+      "name": "Gramercy Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "AU",
+      "name": "Australia"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1331,
+      "name": "Hugo Weaving",
+      "character": "Anthony 'Tick' Belrose / Mitzi Del Bra",
+      "order": 0,
+      "cast_id": 9,
+      "popularity": 3.1926,
+      "profile_path": "/t4ScpYIHlXVD41scEyiGdQDYflX.jpg"
+    },
+    {
+      "personId": 529,
+      "name": "Guy Pearce",
+      "character": "Adam Whitely / Felicia Jollygoodfellow",
+      "order": 1,
+      "cast_id": 10,
+      "popularity": 4.3293,
+      "profile_path": "/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg"
+    },
+    {
+      "personId": 28641,
+      "name": "Terence Stamp",
+      "character": "Bernadette Bassenger",
+      "order": 2,
+      "cast_id": 8,
+      "popularity": 2.9767,
+      "profile_path": "/ept9urkuhPbGndVXkERw39R9oid.jpg"
+    },
+    {
+      "personId": 23,
+      "name": "Bill Hunter",
+      "character": "Bob Spart",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 1.3509,
+      "profile_path": "/gvrRsTfx47KupgRwTKp0gqryHPe.jpg"
+    },
+    {
+      "personId": 1230360,
+      "name": "Sarah Chadwick",
+      "character": "Marion Barber",
+      "order": 4,
+      "cast_id": 13,
+      "popularity": 1.4954,
+      "profile_path": "/gvt8ckWJsSsDjr7Uf6MqMQVajIr.jpg"
+    },
+    {
+      "personId": 1530258,
+      "name": "June Marie Bennett",
+      "character": "Shirley",
+      "order": 5,
+      "cast_id": 14,
+      "popularity": 0.5246,
+      "profile_path": null
+    },
+    {
+      "personId": 126332,
+      "name": "Rebel Penfold-Russell",
+      "character": "Logowoman",
+      "order": 6,
+      "cast_id": 15,
+      "popularity": 0.1917,
+      "profile_path": null
+    },
+    {
+      "personId": 2241372,
+      "name": "John Casey",
+      "character": "Bartender",
+      "order": 7,
+      "cast_id": 16,
+      "popularity": 0.6432,
+      "profile_path": null
+    },
+    {
+      "personId": 2517522,
+      "name": "Murray Davies",
+      "character": "Miner",
+      "order": 8,
+      "cast_id": 17,
+      "popularity": 1.081,
+      "profile_path": null
+    },
+    {
+      "personId": 2517523,
+      "name": "Frank Cornelius",
+      "character": "Piano Player",
+      "order": 9,
+      "cast_id": 18,
+      "popularity": 0.0493,
+      "profile_path": null
+    },
+    {
+      "personId": 2517525,
+      "name": "Bob Boyce",
+      "character": "Petrol Station Attendant",
+      "order": 10,
+      "cast_id": 19,
+      "popularity": 0.1219,
+      "profile_path": null
+    },
+    {
+      "personId": 2517526,
+      "name": "Leighton Picken",
+      "character": "Young Adam",
+      "order": 11,
+      "cast_id": 20,
+      "popularity": 0.1963,
+      "profile_path": null
+    },
+    {
+      "personId": 2517527,
+      "name": "Maria Kmet",
+      "character": "Ma",
+      "order": 12,
+      "cast_id": 21,
+      "popularity": 0.0256,
+      "profile_path": null
+    },
+    {
+      "personId": 2517528,
+      "name": "Joseph Kmet",
+      "character": "Pa",
+      "order": 13,
+      "cast_id": 22,
+      "popularity": 0.0286,
+      "profile_path": null
+    },
+    {
+      "personId": 2517529,
+      "name": "Alan Dargin",
+      "character": "Aboriginal Man",
+      "order": 14,
+      "cast_id": 23,
+      "popularity": 0.1463,
+      "profile_path": null
+    },
+    {
+      "personId": 2517530,
+      "name": "Julia Cortez",
+      "character": "Cynthia Campos",
+      "order": 15,
+      "cast_id": 24,
+      "popularity": 0.2163,
+      "profile_path": null
+    },
+    {
+      "personId": 144065,
+      "name": "Daniel Kellie",
+      "character": "Young Ralph",
+      "order": 16,
+      "cast_id": 34,
+      "popularity": 0.4617,
+      "profile_path": null
+    },
+    {
+      "personId": 4295710,
+      "name": "Hannah Corbett",
+      "character": "Ralph's Sister",
+      "order": 17,
+      "cast_id": 35,
+      "popularity": 0.0327,
+      "profile_path": null
+    },
+    {
+      "personId": 4295711,
+      "name": "Trevor Barrie",
+      "character": "Ralph's Father",
+      "order": 18,
+      "cast_id": 36,
+      "popularity": 0.1591,
+      "profile_path": null
+    },
+    {
+      "personId": 57904,
+      "name": "Kenneth Radley",
+      "character": "Frank",
+      "order": 19,
+      "cast_id": 37,
+      "popularity": 0.8633,
+      "profile_path": "/jqiM2DbXtNRF3yxRaU2nkYzewEJ.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 27889,
+      "name": "Stephan Elliott",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5431,
+      "profile_path": "/aqKHRXnsKanLLAJJ6TADSglGHVF.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 5657,
+      "name": "australia"
+    },
+    {
+      "id": 4580,
+      "name": "van"
+    },
+    {
+      "id": 1013,
+      "name": "homophobia"
+    },
+    {
+      "id": 824,
+      "name": "drag queen"
+    },
+    {
+      "id": 2803,
+      "name": "affectation"
+    },
+    {
+      "id": 4344,
+      "name": "musical"
+    },
+    {
+      "id": 34115,
+      "name": "transsexual"
+    },
+    {
+      "id": 158718,
+      "name": "lgbt"
+    },
+    {
+      "id": 193459,
+      "name": "australian aboriginal"
+    },
+    {
+      "id": 193760,
+      "name": "australian outback"
+    },
+    {
+      "id": 202371,
+      "name": "aggressive"
+    },
+    {
+      "id": 208327,
+      "name": "zealous"
+    },
+    {
+      "id": 257962,
+      "name": "alice springs"
+    },
+    {
+      "id": 258533,
+      "name": "gay theme"
+    },
+    {
+      "id": 259376,
+      "name": "playful"
+    },
+    {
+      "id": 290527,
+      "name": "transgender"
+    },
+    {
+      "id": 309974,
+      "name": "absurd"
+    },
+    {
+      "id": 324713,
+      "name": "whimsical"
+    },
+    {
+      "id": 325761,
+      "name": "admiring"
+    },
+    {
+      "id": 325762,
+      "name": "adoring"
+    },
+    {
+      "id": 325765,
+      "name": "amused"
+    },
+    {
+      "id": 325769,
+      "name": "appreciative"
+    },
+    {
+      "id": 325770,
+      "name": "approving"
+    },
+    {
+      "id": 325775,
+      "name": "awestruck"
+    },
+    {
+      "id": 325781,
+      "name": "celebratory"
+    },
+    {
+      "id": 325791,
+      "name": "defiant"
+    },
+    {
+      "id": 325856,
+      "name": "vibrant"
+    }
+  ]
+}

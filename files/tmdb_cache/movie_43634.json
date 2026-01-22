@@ -1,0 +1,261 @@
+{
+  "overview": "Fed up with boarding school and frustrated with the way others have planned his life, John Baker Jr. wants a change -- anything to shake up his staid routine. The moment arrives when he stumbles upon a woman, Patty Vare, unconscious in a field. Deciding to risk it, John takes her to his dorm to look after her, much to the disapproval of his friends. John's decision proves fateful as he and Patty grow close to one another. However, she may be keeping secrets from him.",
+  "release_date": "1996-05-10",
+  "runtime": 86,
+  "budget": 0,
+  "revenue": 516349,
+  "tmdb_vote_average": 5.281,
+  "tmdb_vote_count": 48,
+  "tmdb_popularity": 2.8509,
+  "original_language": "en",
+  "poster_path": "/kxpLUlvqptToQbLZJbQ7YO4MUAe.jpg",
+  "backdrop_path": "/p0KCYjfoL0tnz8kpNbvv6DzMc1C.jpg",
+  "tmdb_genres_raw": [
+    "Romance",
+    "Drama",
+    "Mystery"
+  ],
+  "production_companies": [
+    {
+      "id": 9195,
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 10201,
+      "name": "Interscope Communications",
+      "origin_country": "US"
+    },
+    {
+      "id": 1382,
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1920,
+      "name": "Winona Ryder",
+      "character": "Patty Vare",
+      "order": 0,
+      "cast_id": 5,
+      "popularity": 22.1809,
+      "profile_path": "/dlffgYbqr1BllWacVLhAFw23nLl.jpg"
+    },
+    {
+      "personId": 526,
+      "name": "Lukas Haas",
+      "character": "John Baker Jr.",
+      "order": 1,
+      "cast_id": 6,
+      "popularity": 3.6247,
+      "profile_path": "/6LNGu3o2aBiYNTDkbXMDIGyQtBh.jpg"
+    },
+    {
+      "personId": 4764,
+      "name": "John C. Reilly",
+      "character": "Officer Kellogg Curry",
+      "order": 2,
+      "cast_id": 7,
+      "popularity": 4.4063,
+      "profile_path": "/iDQ8w4qcxU3le5ZWoCKpHs1QNok.jpg"
+    },
+    {
+      "personId": 6474,
+      "name": "James LeGros",
+      "character": "Fenton Ray",
+      "order": 3,
+      "cast_id": 8,
+      "popularity": 2.2553,
+      "profile_path": "/q7AgI7xjFDSQPlilkT17YddAc93.jpg"
+    },
+    {
+      "personId": 22108,
+      "name": "Skeet Ulrich",
+      "character": "Bud Valentine",
+      "order": 4,
+      "cast_id": 10,
+      "popularity": 4.3119,
+      "profile_path": "/moyTBJUTl82PaAhm8aHGwlvKr7r.jpg"
+    },
+    {
+      "personId": 56934,
+      "name": "Wiley Wiggins",
+      "character": "John Phillips",
+      "order": 5,
+      "cast_id": 11,
+      "popularity": 0.8519,
+      "profile_path": "/5ghmT4UGH1MQNeTu5fk9gVa8XlN.jpg"
+    },
+    {
+      "personId": 2229,
+      "name": "Catherine Keener",
+      "character": "Jilly",
+      "order": 6,
+      "cast_id": 13,
+      "popularity": 3.361,
+      "profile_path": "/n4CTwGszs6cwS1wJRlDQ5Mlh7Ex.jpg"
+    },
+    {
+      "personId": 69055,
+      "name": "Jessica Harper",
+      "character": "Mrs. John Baker",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 1.1903,
+      "profile_path": "/sSTbKuf4bY83cSRx9lmVdGobcsg.jpg"
+    },
+    {
+      "personId": 2955,
+      "name": "Chris Cooper",
+      "character": "Mr. John Baker",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 3.2356,
+      "profile_path": "/j0sQDzaDlnNAdaYhy6HRRAFi22.jpg"
+    },
+    {
+      "personId": 121757,
+      "name": "Maddie Corman",
+      "character": "Liz Curry",
+      "order": 9,
+      "cast_id": 17,
+      "popularity": 1.2784,
+      "profile_path": "/mgQSZLjFbkN2TpAaZ268IudMEBg.jpg"
+    },
+    {
+      "personId": 147496,
+      "name": "Spencer Vrooman",
+      "character": "John Murphy",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 1.0658,
+      "profile_path": "/vJ7wCxVlkG5ysF4jU1cM91Qcu3U.jpg"
+    },
+    {
+      "personId": 12790,
+      "name": "Charlie Hofheimer",
+      "character": "John Cooke",
+      "order": 11,
+      "cast_id": 19,
+      "popularity": 1.0001,
+      "profile_path": "/9X9rK8v5JwYnjINXfOE0s6kHTTf.jpg"
+    },
+    {
+      "personId": 32029,
+      "name": "Bill Sage",
+      "character": "Officer Bill Martone",
+      "order": 12,
+      "cast_id": 20,
+      "popularity": 1.6908,
+      "profile_path": "/3q2r6eDcC843GgVHVA7mSehcqC9.jpg"
+    },
+    {
+      "personId": 2492783,
+      "name": "Vivienne Shub",
+      "character": "Frances",
+      "order": 13,
+      "cast_id": 21,
+      "popularity": 0.7214,
+      "profile_path": null
+    },
+    {
+      "personId": 2830119,
+      "name": "Russell Young",
+      "character": "John Van Slieder",
+      "order": 14,
+      "cast_id": 22,
+      "popularity": 0.129,
+      "profile_path": null
+    },
+    {
+      "personId": 15311,
+      "name": "Christopher Pettiet",
+      "character": "Jon Heinz",
+      "order": 15,
+      "cast_id": 23,
+      "popularity": 0.6128,
+      "profile_path": "/zuVb7NpQcOBrKq08wGbCUxvQM56.jpg"
+    },
+    {
+      "personId": 166594,
+      "name": "David Newsom",
+      "character": "Curt",
+      "order": 16,
+      "cast_id": 24,
+      "popularity": 1.1457,
+      "profile_path": "/mI2K8fYOgpPSO61idEN6aWS4nrc.jpg"
+    },
+    {
+      "personId": 19208,
+      "name": "Matt Malloy",
+      "character": "Bartender",
+      "order": 17,
+      "cast_id": 37,
+      "popularity": 1.7108,
+      "profile_path": "/csNVv2jlw6QLoNCcifGnvT9hN2O.jpg"
+    },
+    {
+      "personId": 1057131,
+      "name": "Marty McDonough",
+      "character": "Teacher",
+      "order": 18,
+      "cast_id": 38,
+      "popularity": 0.5396,
+      "profile_path": null
+    },
+    {
+      "personId": 5912941,
+      "name": "Andy Davis",
+      "character": "Jonathan Marco",
+      "order": 19,
+      "cast_id": 39,
+      "popularity": 0.0143,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 129708,
+      "name": "Stacy Cochran",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.3423,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1453,
+      "name": "amnesia"
+    },
+    {
+      "id": 6271,
+      "name": "boarding school"
+    },
+    {
+      "id": 9856,
+      "name": "flashback"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "overview": "Pierre Lamontagne has returned to Quebec to attend his father's funeral. He meets up with his adopted brother, Marc, who has begun questioning his identity and has embarked on a quest for his roots that would lead them to the Quebec of the 1950s. Past and present converge in a complex web of intrigue where the answer to the mystery lies.",
+  "release_date": "1995-09-29",
+  "runtime": 100,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.0,
+  "tmdb_vote_count": 22,
+  "tmdb_popularity": 2.7134,
+  "original_language": "fr",
+  "poster_path": "/9ApR0PwQdlnvc76NmlbUWkeAK9i.jpg",
+  "backdrop_path": "/pJZNoLtvKjO9bf5fk8uYDzDpEUo.jpg",
+  "tmdb_genres_raw": [
+    "Thriller",
+    "Drama",
+    "Mystery"
+  ],
+  "production_companies": [
+    {
+      "id": 874,
+      "name": "Cinéa",
+      "origin_country": "FR"
+    },
+    {
+      "id": 280,
+      "name": "Cinémaginaire",
+      "origin_country": "CA"
+    },
+    {
+      "id": 7049,
+      "name": "Enigma Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 806,
+      "name": "Téléfilm Canada",
+      "origin_country": "CA"
+    },
+    {
+      "id": 6705,
+      "name": "Film4 Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "de",
+      "name": "Deutsch"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 38524,
+      "name": "Lothaire Bluteau",
+      "character": "Pierre Lamontagne",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 1.2925,
+      "profile_path": "/qapikAurXlhmDXnC7BuCR8UXbCP.jpg"
+    },
+    {
+      "personId": 1019878,
+      "name": "Patrick Goyette",
+      "character": "Marc Lamontagne",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 0.3711,
+      "profile_path": "/gZz5G07JmJ1s8APr7oeIoZMnY4j.jpg"
+    },
+    {
+      "personId": 1019879,
+      "name": "Jean-Louis Millette",
+      "character": "Raymond Massicotte",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 0.5053,
+      "profile_path": "/iDzhjC488tpGiWQLtnaQufnxbTm.jpg"
+    },
+    {
+      "personId": 5470,
+      "name": "Kristin Scott Thomas",
+      "character": "Assistant to Hitchcock",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 3.344,
+      "profile_path": "/axksw0vAjBPSW02ZqpcC0V8rPD7.jpg"
+    },
+    {
+      "personId": 223877,
+      "name": "Ron Burrage",
+      "character": "Alfred Hitchcock",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 0.2847,
+      "profile_path": null
+    },
+    {
+      "personId": 1177002,
+      "name": "Richard Fréchette",
+      "character": "André Lamontagne",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 0.6157,
+      "profile_path": "/99kwQKg3mG1kctdqbYrJBC38kxX.jpg"
+    },
+    {
+      "personId": 234920,
+      "name": "François Papineau",
+      "character": "Paul-Émile Lamontagne",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 0.4571,
+      "profile_path": "/1R6io7NxrRzaWg3cIBXK7rDhrPC.jpg"
+    },
+    {
+      "personId": 1177001,
+      "name": "Marie Gignac",
+      "character": "Françoise Lamontagne",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 0.7983,
+      "profile_path": "/zUaEpv4MC2NfjONuZi1OYKbIiVD.jpg"
+    },
+    {
+      "personId": 86610,
+      "name": "Normand Daneau",
+      "character": "The Young Priest Massicotte",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 0.2396,
+      "profile_path": "/8LEHyXJxVmO9T38sP7EWsATjYWO.jpg"
+    },
+    {
+      "personId": 543715,
+      "name": "Anne-Marie Cadieux",
+      "character": "Manon",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 0.3552,
+      "profile_path": "/3Vyb5vXzikhUdVvf3oEPaP77NQq.jpg"
+    },
+    {
+      "personId": 142689,
+      "name": "Suzanne Clément",
+      "character": "Rachel",
+      "order": 10,
+      "cast_id": 8,
+      "popularity": 0.8738,
+      "profile_path": "/efbTeMz860G91ob89tZ6mJBbNVr.jpg"
+    },
+    {
+      "personId": 2020027,
+      "name": "Lynda Beaulieu",
+      "character": "Jeanne d'Arc",
+      "order": 11,
+      "cast_id": 21,
+      "popularity": 0.2074,
+      "profile_path": null
+    },
+    {
+      "personId": 61159,
+      "name": "Billy Merasty",
+      "character": "Moose",
+      "order": 12,
+      "cast_id": 16,
+      "popularity": 0.807,
+      "profile_path": "/udFrp3fQF4fUBTQXPr2pKDmDVlJ.jpg"
+    },
+    {
+      "personId": 1244470,
+      "name": "Paul Hébert",
+      "character": "The Parish Priest",
+      "order": 13,
+      "cast_id": 17,
+      "popularity": 0.2066,
+      "profile_path": "/wiDkCJ1k3fFYyDg895YD032acqI.jpg"
+    },
+    {
+      "personId": 590831,
+      "name": "Danielle Fichaud",
+      "character": "Police officer #1",
+      "order": 14,
+      "cast_id": 18,
+      "popularity": 0.6415,
+      "profile_path": "/dOhk7IDdHmitJIw0aBjM0vh1Ck.jpg"
+    },
+    {
+      "personId": 120566,
+      "name": "Denis Bernard",
+      "character": "Narrator",
+      "order": 15,
+      "cast_id": 19,
+      "popularity": 0.368,
+      "profile_path": "/ykHkzcyvt5wXAl2LLqxnVwzcj47.jpg"
+    },
+    {
+      "personId": 21019,
+      "name": "Pascal Rollin",
+      "character": "The Parish Priest Laliberté",
+      "order": 16,
+      "cast_id": 20,
+      "popularity": 0.1899,
+      "profile_path": "/v3Ls7FO6dd9W0DUPf6VNBJGPOJb.jpg"
+    },
+    {
+      "personId": 5602791,
+      "name": "Renée Hudon",
+      "character": "Self",
+      "order": 17,
+      "cast_id": 45,
+      "popularity": 0.0814,
+      "profile_path": null
+    },
+    {
+      "personId": 5602792,
+      "name": "Adreanne Lepage-Beaulieu",
+      "character": "Evelyne",
+      "order": 18,
+      "cast_id": 46,
+      "popularity": 0.1188,
+      "profile_path": null
+    },
+    {
+      "personId": 548033,
+      "name": "Marthe Turgeon",
+      "character": "The Healer",
+      "order": 19,
+      "cast_id": 47,
+      "popularity": 1.2962,
+      "profile_path": "/jl9j7WULwHHnOjUY6aWZ4PyaWOQ.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 38527,
+      "name": "Robert Lepage",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4605,
+      "profile_path": "/7l11MEU6tmzCXcdEYe5YlV3YQZ5.jpg"
+    }
+  ],
+  "keywords": []
+}

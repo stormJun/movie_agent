@@ -1,0 +1,234 @@
+{
+  "overview": "Amir is an illegal Pakistani immigrant smuggled into England in the 1960's to work, to send money to his family and perhaps even bring them over with him. A skilled laborer, he is forced to do unskilled work like shoveling sheep dung and processing wool. He lives in a boarding house with nearly a dozen other men, under the supervision of Hussein Shah. He befriends a young student, Sakib, who dreams of being a writer. Their existence is punctuated by secret movies, a visiting prostitute, fear of detection and deportation, and the gangster-like smuggler who comes by for his take every week. The household is shaken up by the arrival of a white girl, Shah's girlfriend, and the sense of femininity and family she brings.",
+  "release_date": "1995-08-23",
+  "runtime": 102,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 3.333,
+  "tmdb_vote_count": 3,
+  "tmdb_popularity": 0.2591,
+  "original_language": "en",
+  "poster_path": "/hzPSO1tehGTkqtJjc79ONicQnfJ.jpg",
+  "backdrop_path": null,
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 19262,
+      "name": "Renegade Films",
+      "origin_country": ""
+    },
+    {
+      "id": 288,
+      "name": "BBC Film",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11851,
+      "name": "Om Puri",
+      "character": "Hussein Shah",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 1.1303,
+      "profile_path": "/3xENmjr7CA8ACRViHnjOI5jPQUt.jpg"
+    },
+    {
+      "personId": 63358,
+      "name": "Angeline Ball",
+      "character": "Mary",
+      "order": 1,
+      "cast_id": 10,
+      "popularity": 0.9178,
+      "profile_path": "/cnz8cEAj2KUSjt2DVbZktboux3X.jpg"
+    },
+    {
+      "personId": 208095,
+      "name": "Ace Bhatti",
+      "character": "Irshad",
+      "order": 2,
+      "cast_id": 11,
+      "popularity": 1.264,
+      "profile_path": "/skLkh06rTHk1yWGI2eIYBjsHQtx.jpg"
+    },
+    {
+      "personId": 119792,
+      "name": "Bhasker Patel",
+      "character": "Gholam",
+      "order": 3,
+      "cast_id": 12,
+      "popularity": 0.7632,
+      "profile_path": "/1OyDAhaJ5cmwRy5igRdeRtH3OUY.jpg"
+    },
+    {
+      "personId": 53379,
+      "name": "Pavan Malhotra",
+      "character": "Amir",
+      "order": 4,
+      "cast_id": 13,
+      "popularity": 1.5377,
+      "profile_path": "/aqTzRvGsujDgxoLbVEvVEZVTyNr.jpg"
+    },
+    {
+      "personId": 1304482,
+      "name": "Pravesh Kumar",
+      "character": "Sakib",
+      "order": 5,
+      "cast_id": 14,
+      "popularity": 0.3975,
+      "profile_path": "/wTt0BqWUHWnJlJSuLNFrDfsZIXm.jpg"
+    },
+    {
+      "personId": 42644,
+      "name": "Badi Uzzaman",
+      "character": "Old Ram",
+      "order": 6,
+      "cast_id": 15,
+      "popularity": 1.3129,
+      "profile_path": "/U9oqmB7eajyNa13OyKnZmgPmDa.jpg"
+    },
+    {
+      "personId": 107725,
+      "name": "Harmage Singh Kalirai",
+      "character": "Sher Baz",
+      "order": 7,
+      "cast_id": 16,
+      "popularity": 0.9547,
+      "profile_path": "/fClszdAeSS4KpE5BwNT61wEaIX5.jpg"
+    },
+    {
+      "personId": 3691499,
+      "name": "Kumall Grewal",
+      "character": "Akbar Dal",
+      "order": 8,
+      "cast_id": 17,
+      "popularity": 0.129,
+      "profile_path": null
+    },
+    {
+      "personId": 218347,
+      "name": "Marc Anwar",
+      "character": "Raja (as Omar Salimi)",
+      "order": 9,
+      "cast_id": 18,
+      "popularity": 1.17,
+      "profile_path": null
+    },
+    {
+      "personId": 1780966,
+      "name": "Pal Aron",
+      "character": "Zamara",
+      "order": 10,
+      "cast_id": 19,
+      "popularity": 0.6776,
+      "profile_path": null
+    },
+    {
+      "personId": 3707818,
+      "name": "Shiv Grewal",
+      "character": "Shona Mian",
+      "order": 11,
+      "cast_id": 20,
+      "popularity": 0.1363,
+      "profile_path": null
+    },
+    {
+      "personId": 207342,
+      "name": "Lesley Clare O'Neill",
+      "character": "Prostitute",
+      "order": 12,
+      "cast_id": 21,
+      "popularity": 1.0019,
+      "profile_path": null
+    },
+    {
+      "personId": 62229,
+      "name": "Kulvinder Ghir",
+      "character": "Agent",
+      "order": 13,
+      "cast_id": 22,
+      "popularity": 0.6926,
+      "profile_path": "/bnRyGF9rGX6vz0k1s4fFzuRugzn.jpg"
+    },
+    {
+      "personId": 60581,
+      "name": "Riz Abbasi",
+      "character": "Asif",
+      "order": 14,
+      "cast_id": 23,
+      "popularity": 0.2585,
+      "profile_path": "/tSVYJcGhEvq8furfLRmeSDLms1h.jpg"
+    },
+    {
+      "personId": 1017230,
+      "name": "Freddie Fletcher",
+      "character": "Redway",
+      "order": 15,
+      "cast_id": 24,
+      "popularity": 0.5195,
+      "profile_path": "/nZudUaoZ3HAvlNLOQQjZIZiMkIq.jpg"
+    },
+    {
+      "personId": 1356539,
+      "name": "June Broughton",
+      "character": "Beryl",
+      "order": 16,
+      "cast_id": 25,
+      "popularity": 0.277,
+      "profile_path": null
+    },
+    {
+      "personId": 1976559,
+      "name": "William Maxwell",
+      "character": "Doctor",
+      "order": 17,
+      "cast_id": 26,
+      "popularity": 0.4513,
+      "profile_path": null
+    },
+    {
+      "personId": 992,
+      "name": "Huggy Leaver",
+      "character": "Market Porter",
+      "order": 18,
+      "cast_id": 27,
+      "popularity": 1.1263,
+      "profile_path": null
+    },
+    {
+      "personId": 1227712,
+      "name": "Aftab Sachak",
+      "character": "Sakib's Uncle",
+      "order": 19,
+      "cast_id": 28,
+      "popularity": 0.457,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 145304,
+      "name": "Udayan Prasad",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1741,
+      "profile_path": null
+    }
+  ],
+  "keywords": []
+}

@@ -1,0 +1,246 @@
+{
+  "overview": "Union soldiers in search of food descend on the farm of a Confederate family and decide to stay until one in their ranks' wounds have healed. While the war weary Union captain falls for the mother of the family - whose husband is off fighting for the rebels - her son plots revenge on the dirty, double-dealing Yankees.",
+  "release_date": "1995-04-09",
+  "runtime": 90,
+  "budget": 500000,
+  "revenue": 0,
+  "tmdb_vote_average": 6.75,
+  "tmdb_vote_count": 11,
+  "tmdb_popularity": 1.8929,
+  "original_language": "en",
+  "poster_path": "/yhzCZwkiFYrOrvmMlz14HnV0cM5.jpg",
+  "backdrop_path": "/ocpa9ktptCMeUh8WIXDCcmacDYF.jpg",
+  "tmdb_genres_raw": [
+    "Western",
+    "Drama",
+    "War",
+    "History"
+  ],
+  "production_companies": [
+    {
+      "id": 21072,
+      "name": "Cicada Films",
+      "origin_country": ""
+    },
+    {
+      "id": 21073,
+      "name": "Kentucky Educational Television",
+      "origin_country": ""
+    },
+    {
+      "id": 21074,
+      "name": "NEA",
+      "origin_country": ""
+    },
+    {
+      "id": 21075,
+      "name": "Sinkhole Productions Inc.",
+      "origin_country": ""
+    },
+    {
+      "id": 21076,
+      "name": "TMF Metro",
+      "origin_country": ""
+    },
+    {
+      "id": 10943,
+      "name": "ITVS",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2955,
+      "name": "Chris Cooper",
+      "character": "Captain John Hull Abston",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 3.1258,
+      "profile_path": "/j0sQDzaDlnNAdaYhy6HRRAFi22.jpg"
+    },
+    {
+      "personId": 1276,
+      "name": "Patricia Clarkson",
+      "character": "Sarah Anders",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 3.046,
+      "profile_path": "/rHHM9G83fpBAcFathbSyV4Tot5j.jpg"
+    },
+    {
+      "personId": 10823,
+      "name": "Kris Kristofferson",
+      "character": "Preacher",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 1.5406,
+      "profile_path": "/fWZCpnXT7sLOdc96Bm66QTOjnXZ.jpg"
+    },
+    {
+      "personId": 19976,
+      "name": "Robert Joy",
+      "character": "Chicago",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 1.6378,
+      "profile_path": "/kPY9ggs4qCi3oeEvkYP17Yvfm5r.jpg"
+    },
+    {
+      "personId": 14700,
+      "name": "Richard Tyson",
+      "character": "Rodie",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 2.0348,
+      "profile_path": "/2VqDaBqbCTnz0qZKXLtuUa9MO7R.jpg"
+    },
+    {
+      "personId": 1563216,
+      "name": "Frank Clem",
+      "character": "Neely",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 0.7423,
+      "profile_path": "/bhywnMII2rrJ5MhgH92FLr1ZyQc.jpg"
+    },
+    {
+      "personId": 150974,
+      "name": "Huckleberry Fox",
+      "character": "Newt",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 1.3437,
+      "profile_path": "/ytzaXNqT5hzGpF8hbhwXL1bcfiL.jpg"
+    },
+    {
+      "personId": 5770198,
+      "name": "Robert P. Sampson Jr.",
+      "character": "Narrator",
+      "order": 7,
+      "cast_id": 21,
+      "popularity": 0.0907,
+      "profile_path": null
+    },
+    {
+      "personId": 5770200,
+      "name": "Maude Mitchell",
+      "character": "Preacher's Wife",
+      "order": 8,
+      "cast_id": 22,
+      "popularity": 0.2239,
+      "profile_path": null
+    },
+    {
+      "personId": 5770204,
+      "name": "Rebecca Ling Rylands",
+      "character": "Mourner",
+      "order": 9,
+      "cast_id": 23,
+      "popularity": 0.0256,
+      "profile_path": null
+    },
+    {
+      "personId": 1362260,
+      "name": "Leon Cain",
+      "character": "Mourner",
+      "order": 10,
+      "cast_id": 24,
+      "popularity": 0.3901,
+      "profile_path": "/9c8tFWnyQ0umYNXt1sVPF0InwOy.jpg"
+    },
+    {
+      "personId": 5770210,
+      "name": "Zach Lee",
+      "character": "Mourner",
+      "order": 11,
+      "cast_id": 25,
+      "popularity": 0.1394,
+      "profile_path": null
+    },
+    {
+      "personId": 1938652,
+      "name": "Margaret Ellis",
+      "character": "Mourner",
+      "order": 12,
+      "cast_id": 26,
+      "popularity": 0.1419,
+      "profile_path": null
+    },
+    {
+      "personId": 3310905,
+      "name": "Cameron Williams",
+      "character": "Mourner",
+      "order": 13,
+      "cast_id": 27,
+      "popularity": 0.1029,
+      "profile_path": null
+    },
+    {
+      "personId": 5770219,
+      "name": "Mary Ellis",
+      "character": "Mourner",
+      "order": 14,
+      "cast_id": 28,
+      "popularity": 0.231,
+      "profile_path": null
+    },
+    {
+      "personId": 42234,
+      "name": "Paul Johnson",
+      "character": "Mourner",
+      "order": 15,
+      "cast_id": 29,
+      "popularity": 0.3733,
+      "profile_path": null
+    },
+    {
+      "personId": 2193679,
+      "name": "Margaret Abbott",
+      "character": "Mourner",
+      "order": 16,
+      "cast_id": 30,
+      "popularity": 0.3242,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 21415,
+      "name": "Robby Henson",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5089,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 393,
+      "name": "civil war"
+    },
+    {
+      "id": 10683,
+      "name": "coming of age"
+    },
+    {
+      "id": 160201,
+      "name": "union soldier"
+    },
+    {
+      "id": 236073,
+      "name": "confederates"
+    }
+  ]
+}

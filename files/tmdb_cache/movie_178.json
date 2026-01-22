@@ -1,0 +1,322 @@
+{
+  "overview": "Blown Away tells the story of Jimmy Dove, who works for the Boston bomb squad. Shortly after Dove leaves the force, his partner is killed by a bomb that Dove thinks might have been made by someone he knows.",
+  "release_date": "1994-07-01",
+  "runtime": 121,
+  "budget": 28000000,
+  "revenue": 30156002,
+  "tmdb_vote_average": 6.206,
+  "tmdb_vote_count": 596,
+  "tmdb_popularity": 2.3438,
+  "original_language": "en",
+  "poster_path": "/fD23iryzdjfRU05nQAQriD0A3AR.jpg",
+  "backdrop_path": "/8d6kHxFAIE2P54WpxAssgpm5W0Z.jpg",
+  "tmdb_genres_raw": [
+    "Action"
+  ],
+  "production_companies": [
+    {
+      "id": 2231,
+      "name": "Trilogy Entertainment Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ga",
+      "name": "Gaeilge"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1229,
+      "name": "Jeff Bridges",
+      "character": "James \"Jimmy\" Dove",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.7865,
+      "profile_path": "/xms1RAY6q7Lzp7wNeRCB0kzhucn.jpg"
+    },
+    {
+      "personId": 2176,
+      "name": "Tommy Lee Jones",
+      "character": "Ryan Gaerity",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 13.6129,
+      "profile_path": "/mCiZNRAzbnPojJEZwVZWLw9kzxR.jpg"
+    },
+    {
+      "personId": 2179,
+      "name": "Suzy Amis",
+      "character": "Kate Dove",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 2.0126,
+      "profile_path": "/q8aPLY9CjCl7tp60neddbJl4ZfW.jpg"
+    },
+    {
+      "personId": 2177,
+      "name": "Lloyd Bridges",
+      "character": "Max O'Bannon",
+      "order": 3,
+      "cast_id": 3,
+      "popularity": 2.2708,
+      "profile_path": "/lO4HWxYvneC0dMFckK2WrKPZa9o.jpg"
+    },
+    {
+      "personId": 2178,
+      "name": "Forest Whitaker",
+      "character": "Anthony Franklin",
+      "order": 4,
+      "cast_id": 4,
+      "popularity": 4.4112,
+      "profile_path": "/4w7l5JUwnwFNBy7J93ZwYN1nihm.jpg"
+    },
+    {
+      "personId": 2266,
+      "name": "Stephi Lineburg",
+      "character": "Lizzy",
+      "order": 5,
+      "cast_id": 15,
+      "popularity": 2.5651,
+      "profile_path": "/z7JlYUHryLzZRZ722X6iCHd9tUa.jpg"
+    },
+    {
+      "personId": 9277,
+      "name": "John Finn",
+      "character": "Capt. Fred Roarke",
+      "order": 6,
+      "cast_id": 25,
+      "popularity": 1.8238,
+      "profile_path": "/tEv7ZUiO4gafQnXEOp43WSEvRfp.jpg"
+    },
+    {
+      "personId": 2275,
+      "name": "Caitlin Clarke",
+      "character": "Rita",
+      "order": 7,
+      "cast_id": 17,
+      "popularity": 0.841,
+      "profile_path": "/59PKSNwM5Czk3XWDIsHnBMbiIOz.jpg"
+    },
+    {
+      "personId": 1073836,
+      "name": "Christofer de Oni",
+      "character": "Cortez",
+      "order": 8,
+      "cast_id": 18,
+      "popularity": 0.2878,
+      "profile_path": null
+    },
+    {
+      "personId": 2277,
+      "name": "Loyd Catlett",
+      "character": "Bama",
+      "order": 9,
+      "cast_id": 19,
+      "popularity": 1.7277,
+      "profile_path": "/ifPBaUPkZspc8gyvuOdCxXfn2Ux.jpg"
+    },
+    {
+      "personId": 31839,
+      "name": "Ruben Santiago-Hudson",
+      "character": "Blanket",
+      "order": 10,
+      "cast_id": 45,
+      "popularity": 1.2648,
+      "profile_path": "/tNuO8MO2jFwKo1VlQiq0tLH2rCz.jpg"
+    },
+    {
+      "personId": 193318,
+      "name": "Lucinda Weist",
+      "character": "Nancy",
+      "order": 11,
+      "cast_id": 21,
+      "popularity": 0.4695,
+      "profile_path": "/qlZnF7yf4DQIaBsbytWbpq97Xi4.jpg"
+    },
+    {
+      "personId": 9777,
+      "name": "Cuba Gooding Jr.",
+      "character": "Bomb Squad Class Member",
+      "order": 12,
+      "cast_id": 39,
+      "popularity": 5.2278,
+      "profile_path": "/2JguzbpOXoTGzSmLbWFlulKyyAe.jpg"
+    },
+    {
+      "personId": 5170,
+      "name": "Mike Starr",
+      "character": "Francis the Barkeeper",
+      "order": 13,
+      "cast_id": 40,
+      "popularity": 2.6759,
+      "profile_path": "/hJGhV91dSUiFJ8GwGDTEEri79LX.jpg"
+    },
+    {
+      "personId": 161254,
+      "name": "Brendan Burns",
+      "character": "Kevin",
+      "order": 14,
+      "cast_id": 22,
+      "popularity": 0.4257,
+      "profile_path": null
+    },
+    {
+      "personId": 1073838,
+      "name": "Tricia Heine",
+      "character": "Connie",
+      "order": 15,
+      "cast_id": 23,
+      "popularity": 0.6942,
+      "profile_path": null
+    },
+    {
+      "personId": 10956,
+      "name": "Josh McLaglen",
+      "character": "Prison Guard",
+      "order": 16,
+      "cast_id": 24,
+      "popularity": 0.8477,
+      "profile_path": "/5PJWCWlKF3kJWOHSqs7l7M7nZK9.jpg"
+    },
+    {
+      "personId": 1278542,
+      "name": "Robert 'Bobby Z' Zajonc",
+      "character": "Helicopter Pilot #1",
+      "order": 17,
+      "cast_id": 35,
+      "popularity": 0.9542,
+      "profile_path": null
+    },
+    {
+      "personId": 1106260,
+      "name": "Alan D. Purwin",
+      "character": "Helicopter Pilot #2",
+      "order": 18,
+      "cast_id": 36,
+      "popularity": 1.0437,
+      "profile_path": "/d1aOyqh25WGvcw4J9IaW1X50iAJ.jpg"
+    },
+    {
+      "personId": 1403415,
+      "name": "David B. Nowell",
+      "character": "Helicopter News Cameraman",
+      "order": 19,
+      "cast_id": 38,
+      "popularity": 0.4722,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2042,
+      "name": "Stephen Hopkins",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.8347,
+      "profile_path": "/vaPQMexdI3I33kVWAK3i3OrDxF.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6029,
+      "name": "concert"
+    },
+    {
+      "id": 6104,
+      "name": "computer"
+    },
+    {
+      "id": 1680,
+      "name": "boston, massachusetts"
+    },
+    {
+      "id": 2407,
+      "name": "fireworks"
+    },
+    {
+      "id": 3537,
+      "name": "orchestra"
+    },
+    {
+      "id": 5879,
+      "name": "anarchist"
+    },
+    {
+      "id": 9856,
+      "name": "flashback"
+    },
+    {
+      "id": 9748,
+      "name": "revenge"
+    },
+    {
+      "id": 13015,
+      "name": "terrorism"
+    },
+    {
+      "id": 13027,
+      "name": "wedding"
+    },
+    {
+      "id": 14601,
+      "name": "explosion"
+    },
+    {
+      "id": 33406,
+      "name": "roulette wheel"
+    },
+    {
+      "id": 155530,
+      "name": "capsized ship"
+    },
+    {
+      "id": 157198,
+      "name": "belfast, north ireland"
+    },
+    {
+      "id": 157251,
+      "name": "bomb planting"
+    },
+    {
+      "id": 159743,
+      "name": "fourth of july"
+    },
+    {
+      "id": 179966,
+      "name": "headphones"
+    },
+    {
+      "id": 206544,
+      "name": "bomb attack"
+    },
+    {
+      "id": 219404,
+      "name": "action hero"
+    },
+    {
+      "id": 222423,
+      "name": "blast"
+    },
+    {
+      "id": 226463,
+      "name": "human bomb"
+    }
+  ]
+}

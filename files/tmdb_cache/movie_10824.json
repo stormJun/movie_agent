@@ -1,0 +1,296 @@
+{
+  "overview": "Annie, a young schoolteacher struggling to solve the brutal murder of her father, unwittingly summons the \"Candyman\" to New Orleans, where she learns the secret of his power, and discovers the link that connects them.",
+  "release_date": "1995-03-17",
+  "runtime": 95,
+  "budget": 0,
+  "revenue": 13940383,
+  "tmdb_vote_average": 5.44,
+  "tmdb_vote_count": 402,
+  "tmdb_popularity": 1.3367,
+  "original_language": "en",
+  "poster_path": "/2scgM9dFaHEppWb3tS99gCAh8KX.jpg",
+  "backdrop_path": "/tMZ2iT1bu4zWNVzeQ8SZ040VQfG.jpg",
+  "tmdb_genres_raw": [
+    "Horror",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 278,
+      "name": "Propaganda Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 1382,
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 37,
+      "name": "Gramercy Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 19384,
+      "name": "Tony Todd",
+      "character": "Candyman / Daniel Robitaille",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.6629,
+      "profile_path": "/cNUIRoewwiLi8JxyA1J2zb1z5SN.jpg"
+    },
+    {
+      "personId": 47757,
+      "name": "Kelly Rowan",
+      "character": "Annie Tarrant",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.6158,
+      "profile_path": "/xPBHrefHV3yqtvdo9nUlPG7jCO9.jpg"
+    },
+    {
+      "personId": 4041,
+      "name": "William O'Leary",
+      "character": "Ethan Tarrant",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.278,
+      "profile_path": "/qaTKXEh5rl8PP7XThJAjC5DUChs.jpg"
+    },
+    {
+      "personId": 5502,
+      "name": "Bill Nunn",
+      "character": "Reverend Ellis",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.7516,
+      "profile_path": "/trxNvS6g5yvwbXzx2LK6JqutE5z.jpg"
+    },
+    {
+      "personId": 66994,
+      "name": "David Gianopoulos",
+      "character": "Detective Ray Levesque",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.1108,
+      "profile_path": "/2EKEXttdzuUQQsjQlRvFeukMboo.jpg"
+    },
+    {
+      "personId": 2454,
+      "name": "Matt Clark",
+      "character": "Honore Thibideaux",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 3.0533,
+      "profile_path": "/n5TJz5CaTqRXLpAOl0wHJXrPQOk.jpg"
+    },
+    {
+      "personId": 17396,
+      "name": "Timothy Carhart",
+      "character": "Paul McKeever",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 1.5226,
+      "profile_path": "/jfEzqYXfX7sH0BFmmiXty6kB1Lq.jpg"
+    },
+    {
+      "personId": 5047,
+      "name": "Veronica Cartwright",
+      "character": "Octavia Tarrant",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 3.169,
+      "profile_path": "/8s31kdotRrghkH4DkxpRZCmELYd.jpg"
+    },
+    {
+      "personId": 121642,
+      "name": "Fay Hauser",
+      "character": "Pam Carver",
+      "order": 8,
+      "cast_id": 19,
+      "popularity": 1.9425,
+      "profile_path": "/bpZLcCfXCh6FQ0V096GHazc79JL.jpg"
+    },
+    {
+      "personId": 1424956,
+      "name": "Joshua Gibran Mayweather",
+      "character": "Matthew Ellis",
+      "order": 9,
+      "cast_id": 20,
+      "popularity": 0.8239,
+      "profile_path": "/cpwSuSaRc56QguBDGTWLQAcvohu.jpg"
+    },
+    {
+      "personId": 178446,
+      "name": "Caroline Barclay",
+      "character": "Caroline Sullivan",
+      "order": 10,
+      "cast_id": 21,
+      "popularity": 1.8685,
+      "profile_path": "/4FiJn7yVwH64EjHqlFLLsHbiKQZ.jpg"
+    },
+    {
+      "personId": 1424957,
+      "name": "Michael Bergeron",
+      "character": "Coleman Tarrant",
+      "order": 11,
+      "cast_id": 22,
+      "popularity": 0.0714,
+      "profile_path": null
+    },
+    {
+      "personId": 1424958,
+      "name": "Brianna Blanchard",
+      "character": "Young Caroline McKeever",
+      "order": 12,
+      "cast_id": 23,
+      "popularity": 0.0621,
+      "profile_path": null
+    },
+    {
+      "personId": 1424959,
+      "name": "Clotiel Bordeltier",
+      "character": "Liz",
+      "order": 13,
+      "cast_id": 24,
+      "popularity": 0.0393,
+      "profile_path": null
+    },
+    {
+      "personId": 42824,
+      "name": "Carl Ciarfalio",
+      "character": "Bartender",
+      "order": 14,
+      "cast_id": 30,
+      "popularity": 1.0428,
+      "profile_path": "/yADROfK7uJkmd8p3GyjxH8WZqRL.jpg"
+    },
+    {
+      "personId": 8445,
+      "name": "Michael Culkin",
+      "character": "Phillip Purcell",
+      "order": 15,
+      "cast_id": 31,
+      "popularity": 1.3936,
+      "profile_path": "/a8GdQBEU15QvIHXOYbs5vUgyNSh.jpg"
+    },
+    {
+      "personId": 2494422,
+      "name": "Russell Buchanan",
+      "character": "Kingfisher (voice)",
+      "order": 16,
+      "cast_id": 32,
+      "popularity": 0.2043,
+      "profile_path": null
+    },
+    {
+      "personId": 146329,
+      "name": "Nate Bynum",
+      "character": "Reporter",
+      "order": 17,
+      "cast_id": 34,
+      "popularity": 1.9231,
+      "profile_path": "/dbx9Ls4UHYfMs8xrnk3FHyEzNsA.jpg"
+    },
+    {
+      "personId": 3681986,
+      "name": "Sandy Byrd",
+      "character": "Woman in Bookstore",
+      "order": 18,
+      "cast_id": 35,
+      "popularity": 0.0286,
+      "profile_path": null
+    },
+    {
+      "personId": 167985,
+      "name": "Eric Cadora",
+      "character": "Man in Bookstore",
+      "order": 19,
+      "cast_id": 36,
+      "popularity": 0.2523,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 15557,
+      "name": "Bill Condon",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.3525,
+      "profile_path": "/dk7EK0mbUxgoDr7ki9kgYHu4cZs.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2411,
+      "name": "new orleans, louisiana"
+    },
+    {
+      "id": 9663,
+      "name": "sequel"
+    },
+    {
+      "id": 9856,
+      "name": "flashback"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 9955,
+      "name": "urban legend"
+    },
+    {
+      "id": 10541,
+      "name": "curse"
+    },
+    {
+      "id": 10714,
+      "name": "serial killer"
+    },
+    {
+      "id": 12339,
+      "name": "slasher"
+    },
+    {
+      "id": 14692,
+      "name": "hook"
+    },
+    {
+      "id": 15127,
+      "name": "killer"
+    },
+    {
+      "id": 156075,
+      "name": "evil"
+    },
+    {
+      "id": 161707,
+      "name": "candyman"
+    },
+    {
+      "id": 161712,
+      "name": "hook for a hand"
+    },
+    {
+      "id": 245264,
+      "name": "southern gothic"
+    }
+  ]
+}

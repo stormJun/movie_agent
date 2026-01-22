@@ -1,0 +1,93 @@
+{
+  "overview": "Shot in B&W, Gyula Gazdag's film follows the surreal and often comic quests of young Andris, an orphan searching for a father who doesn't exist, and Orban, a government clerk who's had enough of oppressive bureaucracy.",
+  "release_date": "1987-05-07",
+  "runtime": 97,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.0,
+  "tmdb_vote_count": 6,
+  "tmdb_popularity": 0.1268,
+  "original_language": "hu",
+  "poster_path": "/h4OS61Kpd52ZqfvMIMGNdwiC2uB.jpg",
+  "backdrop_path": null,
+  "tmdb_genres_raw": [
+    "Fantasy"
+  ],
+  "production_companies": [
+    {
+      "id": 8100,
+      "name": "Mafilm",
+      "origin_country": "HU"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2601966,
+      "name": "Dávid Vermes",
+      "character": "",
+      "order": 0,
+      "cast_id": 1001,
+      "popularity": 0.1377,
+      "profile_path": null
+    },
+    {
+      "personId": 1042223,
+      "name": "Pál Hetényi",
+      "character": "",
+      "order": 1,
+      "cast_id": 1002,
+      "popularity": 0.294,
+      "profile_path": null
+    },
+    {
+      "personId": 84002,
+      "name": "František Husák",
+      "character": "",
+      "order": 2,
+      "cast_id": 1003,
+      "popularity": 1.5209,
+      "profile_path": "/2zRPXrBUPEgygsZAi7XpLAWWkHt.jpg"
+    },
+    {
+      "personId": 1354655,
+      "name": "Varga Mária",
+      "character": "",
+      "order": 3,
+      "cast_id": 1004,
+      "popularity": 0.1374,
+      "profile_path": "/zA6c3EZqo8ahQpgp7k58t22IsTX.jpg"
+    },
+    {
+      "personId": 1353095,
+      "name": "Csákányi Eszter",
+      "character": "",
+      "order": 4,
+      "cast_id": 1005,
+      "popularity": 0.9141,
+      "profile_path": "/am9QWdSgsb4cigRA4DyKlodxpoD.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 544331,
+      "name": "Gyula Gazdag",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7919,
+      "profile_path": "/meG91qaugrEyBB1JBvwXuOOyWRg.jpg"
+    }
+  ],
+  "keywords": []
+}

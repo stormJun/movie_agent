@@ -1,0 +1,216 @@
+{
+  "overview": "At the start of the First World War, in the middle of Africa’s nowhere, a gin soaked riverboat captain is persuaded by a strong-willed missionary to go down river and face-off a German warship.",
+  "release_date": "1952-01-07",
+  "runtime": 105,
+  "budget": 1000000,
+  "revenue": 10750000,
+  "tmdb_vote_average": 7.353,
+  "tmdb_vote_count": 1020,
+  "tmdb_popularity": 2.386,
+  "original_language": "en",
+  "poster_path": "/2Ypg0KhQfFYWILelvHGtSHHR0dk.jpg",
+  "backdrop_path": "/doTKdtLfn2b7ZmeElmT6ZDW3XIk.jpg",
+  "tmdb_genres_raw": [
+    "Romance",
+    "Adventure",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 3632,
+      "name": "Romulus Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 388,
+      "name": "Horizon Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "de",
+      "name": "Deutsch"
+    },
+    {
+      "code": "sw",
+      "name": "Kiswahili"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4110,
+      "name": "Humphrey Bogart",
+      "character": "Charlie Allnut",
+      "order": 0,
+      "cast_id": 5,
+      "popularity": 1.7595,
+      "profile_path": "/4pk2VbOb2td7iBZyir6Ji46HH4N.jpg"
+    },
+    {
+      "personId": 6598,
+      "name": "Katharine Hepburn",
+      "character": "Rose Sayer",
+      "order": 1,
+      "cast_id": 6,
+      "popularity": 1.1997,
+      "profile_path": "/hzBSOe6bburyMeeCqD9kR9tRfdD.jpg"
+    },
+    {
+      "personId": 6599,
+      "name": "Robert Morley",
+      "character": "The Brother",
+      "order": 2,
+      "cast_id": 7,
+      "popularity": 1.0119,
+      "profile_path": "/xt6OIigtHMcW1tdnHGM9tJisW75.jpg"
+    },
+    {
+      "personId": 6600,
+      "name": "Peter Bull",
+      "character": "Captain of Louisa",
+      "order": 3,
+      "cast_id": 8,
+      "popularity": 0.8686,
+      "profile_path": "/187FadUt4kYNbrRfWp1sHynmGWW.jpg"
+    },
+    {
+      "personId": 6609,
+      "name": "Theodore Bikel",
+      "character": "First Officer",
+      "order": 4,
+      "cast_id": 17,
+      "popularity": 1.2651,
+      "profile_path": "/mYiM4fRl9xpGRBf6gSAPekvcaj8.jpg"
+    },
+    {
+      "personId": 6610,
+      "name": "Walter Gotell",
+      "character": "Second Officer",
+      "order": 5,
+      "cast_id": 18,
+      "popularity": 1.2766,
+      "profile_path": "/3pz9faSRNXyXB74t9VaJlw8IR4Q.jpg"
+    },
+    {
+      "personId": 6611,
+      "name": "Peter Swanwick",
+      "character": "First Officer of Shona",
+      "order": 6,
+      "cast_id": 19,
+      "popularity": 1.3446,
+      "profile_path": "/i5H6bb5O1XtRMKFYmCaOFHlcK55.jpg"
+    },
+    {
+      "personId": 6612,
+      "name": "Richard Marner",
+      "character": "Second Officer of Shona",
+      "order": 7,
+      "cast_id": 20,
+      "popularity": 1.2172,
+      "profile_path": "/r9g2sRTyYztWcG3UmFTJEcuVbXI.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 6593,
+      "name": "John Huston",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.1157,
+      "profile_path": "/rAqKERlZvXBiKV0tONGg5huwuJl.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2504,
+      "name": "world war i"
+    },
+    {
+      "id": 6150,
+      "name": "faith"
+    },
+    {
+      "id": 409,
+      "name": "africa"
+    },
+    {
+      "id": 440,
+      "name": "missionary"
+    },
+    {
+      "id": 1422,
+      "name": "boat"
+    },
+    {
+      "id": 1261,
+      "name": "river"
+    },
+    {
+      "id": 3929,
+      "name": "hope"
+    },
+    {
+      "id": 1627,
+      "name": "patriotism"
+    },
+    {
+      "id": 2509,
+      "name": "hippopotamus"
+    },
+    {
+      "id": 2510,
+      "name": "giraffe"
+    },
+    {
+      "id": 2511,
+      "name": "methodist church"
+    },
+    {
+      "id": 3711,
+      "name": "animal species"
+    },
+    {
+      "id": 2514,
+      "name": "moqukito"
+    },
+    {
+      "id": 2516,
+      "name": "boat wedding"
+    },
+    {
+      "id": 2517,
+      "name": "leech"
+    },
+    {
+      "id": 2518,
+      "name": "gin"
+    },
+    {
+      "id": 2520,
+      "name": "tanzania"
+    },
+    {
+      "id": 2521,
+      "name": "congo"
+    },
+    {
+      "id": 5756,
+      "name": "man woman relationship"
+    }
+  ]
+}

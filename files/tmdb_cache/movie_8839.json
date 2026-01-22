@@ -1,0 +1,325 @@
+{
+  "overview": "Casper is a kind young ghost who peacefully haunts a mansion in Maine. When specialist James Harvey arrives to communicate with Casper and his fellow spirits, he brings along his teenage daughter, Kat. Casper quickly falls in love with Kat, but their budding relationship is complicated not only by his transparent state, but also by his troublemaking apparition uncles and their mischievous antics.",
+  "release_date": "1995-05-26",
+  "runtime": 100,
+  "budget": 50000000,
+  "revenue": 287928194,
+  "tmdb_vote_average": 6.332,
+  "tmdb_vote_count": 4817,
+  "tmdb_popularity": 6.9501,
+  "original_language": "en",
+  "poster_path": "/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg",
+  "backdrop_path": "/sQPckU0TfSeYIlUneHfIXwzQC2f.jpg",
+  "tmdb_genres_raw": [
+    "Fantasy",
+    "Comedy",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 11098,
+      "name": "The Harvey Entertainment Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 56,
+      "name": "Amblin Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6886,
+      "name": "Christina Ricci",
+      "character": "Kat",
+      "order": 0,
+      "cast_id": 14,
+      "popularity": 4.2915,
+      "profile_path": "/dzB58d6fNrTEi7nBAU1tySJc2at.jpg"
+    },
+    {
+      "personId": 8984,
+      "name": "Bill Pullman",
+      "character": "Dr. James Harvey",
+      "order": 1,
+      "cast_id": 13,
+      "popularity": 3.8015,
+      "profile_path": "/AlLhgmcX5zh3frPT82OSPY9gqXO.jpg"
+    },
+    {
+      "personId": 14702,
+      "name": "Cathy Moriarty",
+      "character": "Carrigan",
+      "order": 2,
+      "cast_id": 17,
+      "popularity": 1.6948,
+      "profile_path": "/g5pXUDGH30egsCq9eTDrsikFAYk.jpg"
+    },
+    {
+      "personId": 10713,
+      "name": "Eric Idle",
+      "character": "Dibs",
+      "order": 3,
+      "cast_id": 12,
+      "popularity": 1.5144,
+      "profile_path": "/1Vj7Lvrl8OHby7AeOK1Z07JyeMp.jpg"
+    },
+    {
+      "personId": 56057,
+      "name": "Malachi Pearson",
+      "character": "Casper (voice)",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 1.986,
+      "profile_path": "/7AvzsokeNuvefXIWTUQ9fQITCB6.jpg"
+    },
+    {
+      "personId": 86434,
+      "name": "Joe Alaskey",
+      "character": "Stinkie (voice)",
+      "order": 5,
+      "cast_id": 25,
+      "popularity": 1.1314,
+      "profile_path": "/bYC9pHuC8ownvMlEgWoMEwItsUu.jpg"
+    },
+    {
+      "personId": 159788,
+      "name": "Joe Nipote",
+      "character": "Stretch (voice)",
+      "order": 6,
+      "cast_id": 24,
+      "popularity": 0.6138,
+      "profile_path": "/7CmgLNSDj3iWVa45nGmwP6vY7nR.jpg"
+    },
+    {
+      "personId": 18,
+      "name": "Brad Garrett",
+      "character": "Fatso (voice)",
+      "order": 7,
+      "cast_id": 26,
+      "popularity": 3.8039,
+      "profile_path": "/813ffbpoaoaJRdoe1yrbivboWKp.jpg"
+    },
+    {
+      "personId": 50398,
+      "name": "Devon Sawa",
+      "character": "Casper on Screen",
+      "order": 8,
+      "cast_id": 38,
+      "popularity": 3.9604,
+      "profile_path": "/yvMbpZ0UFQ1IBwlWm8quCA6fNc5.jpg"
+    },
+    {
+      "personId": 88599,
+      "name": "Chauncey Leopardi",
+      "character": "Nicky",
+      "order": 9,
+      "cast_id": 15,
+      "popularity": 1.2351,
+      "profile_path": "/RgVx7mU1Kl8xl5TttQRC9E9Oui.jpg"
+    },
+    {
+      "personId": 147496,
+      "name": "Spencer Vrooman",
+      "character": "Andreas",
+      "order": 10,
+      "cast_id": 16,
+      "popularity": 1.0658,
+      "profile_path": "/vJ7wCxVlkG5ysF4jU1cM91Qcu3U.jpg"
+    },
+    {
+      "personId": 76239,
+      "name": "Garette Ratliff Henson",
+      "character": "Vic DePhillippi",
+      "order": 11,
+      "cast_id": 28,
+      "popularity": 1.0562,
+      "profile_path": "/J9R9AU4rAPq9lhOpWdf9uemJuG.jpg"
+    },
+    {
+      "personId": 158037,
+      "name": "Jessica Wesson",
+      "character": "Amber Whitmire",
+      "order": 12,
+      "cast_id": 29,
+      "popularity": 1.9745,
+      "profile_path": null
+    },
+    {
+      "personId": 15851,
+      "name": "Amy Brenneman",
+      "character": "Amelia Harvey",
+      "order": 13,
+      "cast_id": 37,
+      "popularity": 4.4857,
+      "profile_path": "/buQhbTkoNcAC12oNXo6RCIoVNQw.jpg"
+    },
+    {
+      "personId": 131667,
+      "name": "Ben Stein",
+      "character": "Mr. Rugg",
+      "order": 14,
+      "cast_id": 18,
+      "popularity": 1.275,
+      "profile_path": "/1xxodQEQKkioq38oaWRJV0mzQ9y.jpg"
+    },
+    {
+      "personId": 161860,
+      "name": "Don Novello",
+      "character": "Father Guido Sarducci",
+      "order": 15,
+      "cast_id": 19,
+      "popularity": 1.3456,
+      "profile_path": "/bbpgxoJRexVFpCDEqtOJYaRH4zQ.jpg"
+    },
+    {
+      "personId": 1074130,
+      "name": "Terry Murphy",
+      "character": "Terry Murphy ('Hard Copy')",
+      "order": 16,
+      "cast_id": 21,
+      "popularity": 0.2656,
+      "profile_path": null
+    },
+    {
+      "personId": 77581,
+      "name": "Ernestine Mercer",
+      "character": "Woman Being Interviewed",
+      "order": 17,
+      "cast_id": 22,
+      "popularity": 0.4356,
+      "profile_path": "/oe5Ze2nH75xUgqlIwIS7T0Wedt5.jpg"
+    },
+    {
+      "personId": 1074131,
+      "name": "Doug Bruckner",
+      "character": "Reporter (voice)",
+      "order": 18,
+      "cast_id": 23,
+      "popularity": 0.264,
+      "profile_path": null
+    },
+    {
+      "personId": 31365,
+      "name": "John Kassir",
+      "character": "The Crypt Keeper (voice)",
+      "order": 19,
+      "cast_id": 27,
+      "popularity": 1.617,
+      "profile_path": "/byj6Px0tLcqRFWIJYUxstg25Qd2.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 11887,
+      "name": "Brad Silberling",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.446,
+      "profile_path": "/5uTck65ic4c2sHB6wvkTInmECpr.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6054,
+      "name": "friendship"
+    },
+    {
+      "id": 6155,
+      "name": "afterlife"
+    },
+    {
+      "id": 6152,
+      "name": "supernatural"
+    },
+    {
+      "id": 3335,
+      "name": "halloween"
+    },
+    {
+      "id": 6733,
+      "name": "bullying"
+    },
+    {
+      "id": 6956,
+      "name": "treasure hunt"
+    },
+    {
+      "id": 9717,
+      "name": "based on comic"
+    },
+    {
+      "id": 9713,
+      "name": "friends"
+    },
+    {
+      "id": 10809,
+      "name": "teenage girl"
+    },
+    {
+      "id": 15040,
+      "name": "ghost hunting"
+    },
+    {
+      "id": 33637,
+      "name": "super power"
+    },
+    {
+      "id": 159313,
+      "name": "psychiatry"
+    },
+    {
+      "id": 162846,
+      "name": "ghost"
+    },
+    {
+      "id": 189449,
+      "name": "disorder"
+    },
+    {
+      "id": 193545,
+      "name": "young heroes"
+    },
+    {
+      "id": 202322,
+      "name": "imaginary"
+    },
+    {
+      "id": 206834,
+      "name": "mischievous children"
+    },
+    {
+      "id": 256908,
+      "name": "ghost child"
+    },
+    {
+      "id": 264326,
+      "name": "mischief"
+    },
+    {
+      "id": 308408,
+      "name": "unfinished business"
+    },
+    {
+      "id": 320420,
+      "name": "hilarious"
+    }
+  ]
+}

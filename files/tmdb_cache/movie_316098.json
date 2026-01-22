@@ -1,0 +1,54 @@
+{
+  "overview": "Brother Minister reveals the mystery surrounding the assassination of Malcolm X at the Audubon Ballroom in New York City on February 21, 1965. It probes the innocence of two of the ...",
+  "release_date": "1995-03-01",
+  "runtime": 115,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 3.0,
+  "tmdb_vote_count": 2,
+  "tmdb_popularity": 0.0563,
+  "original_language": "en",
+  "poster_path": null,
+  "backdrop_path": null,
+  "tmdb_genres_raw": [
+    "Documentary"
+  ],
+  "production_companies": [],
+  "production_countries": [],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 24368,
+      "name": "Roscoe Lee Browne",
+      "character": "Narrator (voice)",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 1.0221,
+      "profile_path": "/zNOJbPMeQd5thNTA1dvb1ZT61mI.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1410160,
+      "name": "Jefri Aalmuhammed",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.1216,
+      "profile_path": null
+    },
+    {
+      "personId": 223910,
+      "name": "Jack Baxter",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.1989,
+      "profile_path": "/a9U6eqnVD5T8pmtvA6qDnvekvUA.jpg"
+    }
+  ],
+  "keywords": []
+}

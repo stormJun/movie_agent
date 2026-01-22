@@ -1,0 +1,290 @@
+{
+  "overview": "His wife having recently died, Thomas Jefferson accepts the post of United States ambassador to pre-revolutionary France, though he finds it difficult to adjust to life in a country where the aristocracy subjugates an increasingly restless peasantry. In Paris, he becomes smitten with cultured artist Maria Cosway, but, when his daughter visits from Virginia accompanied by her attractive slave, Sally Hemings, Jefferson's attentions are diverted.",
+  "release_date": "1995-03-31",
+  "runtime": 139,
+  "budget": 14000000,
+  "revenue": 2474000,
+  "tmdb_vote_average": 5.0,
+  "tmdb_vote_count": 45,
+  "tmdb_popularity": 0.6467,
+  "original_language": "en",
+  "poster_path": "/vcZCvsm920LoNDb7pMibJkxIE4n.jpg",
+  "backdrop_path": "/Au2xkTRPU6xd4l4mcfCWfOMePuh.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance",
+    "History"
+  ],
+  "production_companies": [
+    {
+      "id": 2370,
+      "name": "Merchant Ivory Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 9195,
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1477,
+      "name": "Franco London Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 9,
+      "name": "Gaumont",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1733,
+      "name": "Nick Nolte",
+      "character": "Thomas Jefferson",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 5.9989,
+      "profile_path": "/jpYzFBi6zfn8CHVaXmqgiOTas4V.jpg"
+    },
+    {
+      "personId": 21245,
+      "name": "Greta Scacchi",
+      "character": "Maria Cosway",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 2.5628,
+      "profile_path": "/kgWjsnt0SWrypL6vkGQijJNkgS0.jpg"
+    },
+    {
+      "personId": 9030,
+      "name": "Thandiwe Newton",
+      "character": "Sally Hemings",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 5.7174,
+      "profile_path": "/hZQLvxj7nV7pBrRyWTvWVz1CDi8.jpg"
+    },
+    {
+      "personId": 12052,
+      "name": "Gwyneth Paltrow",
+      "character": "Patsy Jefferson",
+      "order": 3,
+      "cast_id": 3,
+      "popularity": 5.8258,
+      "profile_path": "/mLarlXA8G02AdIMKptZmUzQluqF.jpg"
+    },
+    {
+      "personId": 18766,
+      "name": "Jean-Pierre Aumont",
+      "character": "D'Hancarville",
+      "order": 4,
+      "cast_id": 13,
+      "popularity": 0.7318,
+      "profile_path": "/fqOYvFaBypZ3v1Szq1GuQJhpK4F.jpg"
+    },
+    {
+      "personId": 4001,
+      "name": "Simon Callow",
+      "character": "Richard Cosway",
+      "order": 5,
+      "cast_id": 20,
+      "popularity": 2.8579,
+      "profile_path": "/no6qlnMrWeUzSt1FjD2Vf9x992e.jpg"
+    },
+    {
+      "personId": 41688,
+      "name": "Seth Gilliam",
+      "character": "James Hemings",
+      "order": 6,
+      "cast_id": 19,
+      "popularity": 2.461,
+      "profile_path": "/9CiWZNBysr4IiyERAYQFONqyTAQ.jpg"
+    },
+    {
+      "personId": 15152,
+      "name": "James Earl Jones",
+      "character": "Madison Hemings",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 2.369,
+      "profile_path": "/oqMPIsXrl9SZkRfIKN08eFROmH6.jpg"
+    },
+    {
+      "personId": 2369,
+      "name": "Michael Lonsdale",
+      "character": "Louis XVI",
+      "order": 8,
+      "cast_id": 17,
+      "popularity": 1.3235,
+      "profile_path": "/lQZktsBj1CFbIEIpXOZp55kCiB5.jpg"
+    },
+    {
+      "personId": 12957,
+      "name": "Nancy Marchand",
+      "character": "Madame Abbesse",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 1.2657,
+      "profile_path": "/4dPOOlSAGXZ9Bf5BcSc7I2QMEiA.jpg"
+    },
+    {
+      "personId": 258942,
+      "name": "Charlotte de Turckheim",
+      "character": "Marie Antoinette",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 0.2341,
+      "profile_path": "/kkaIRExyeUBKg9tqPnPFeXRtv1l.jpg"
+    },
+    {
+      "personId": 2192,
+      "name": "Lambert Wilson",
+      "character": "Marquis de Lafayette",
+      "order": 11,
+      "cast_id": 14,
+      "popularity": 1.6108,
+      "profile_path": "/pFuLPZtgrKsnRXJCKWILQ69k6Ta.jpg"
+    },
+    {
+      "personId": 1925,
+      "name": "Vincent Cassel",
+      "character": "Camille Desmoulins",
+      "order": 12,
+      "cast_id": 24,
+      "popularity": 4.3702,
+      "profile_path": "/KxzpJXyzVnqfouInWLypAND0gL.jpg"
+    },
+    {
+      "personId": 70166,
+      "name": "Steve Kalfa",
+      "character": "Dr. Guillotin",
+      "order": 13,
+      "cast_id": 25,
+      "popularity": 0.3811,
+      "profile_path": "/znsiuNnb2jxdWEYBRhSE66W0JJ1.jpg"
+    },
+    {
+      "personId": 1407937,
+      "name": "Jessica Lloyd",
+      "character": "Julia",
+      "order": 14,
+      "cast_id": 29,
+      "popularity": 0.9629,
+      "profile_path": null
+    },
+    {
+      "personId": 17354,
+      "name": "Todd Boyce",
+      "character": "William Short",
+      "order": 15,
+      "cast_id": 33,
+      "popularity": 2.3574,
+      "profile_path": "/kM5syx6Xry0q23Dh1MP3NBJLKvr.jpg"
+    },
+    {
+      "personId": 29697,
+      "name": "Nigel Whitmey",
+      "character": "John Trumbull",
+      "order": 16,
+      "cast_id": 34,
+      "popularity": 1.3265,
+      "profile_path": "/gWAesPayT4moGtSmWCKBmad9Hl2.jpg"
+    },
+    {
+      "personId": 24758,
+      "name": "Nicolas Silberg",
+      "character": "Monsieur Petit",
+      "order": 17,
+      "cast_id": 35,
+      "popularity": 0.4222,
+      "profile_path": "/xrlksfqrtXsFBEWzhtgz7PNprcW.jpg"
+    },
+    {
+      "personId": 39195,
+      "name": "Elsa Zylberstein",
+      "character": "Adrienne de Lafayette",
+      "order": 18,
+      "cast_id": 36,
+      "popularity": 0.8003,
+      "profile_path": "/bw1bIuyfyOyxRlx2qIKk4AwQLTU.jpg"
+    },
+    {
+      "personId": 5528,
+      "name": "William Moseley",
+      "character": "George Washington de Lafayette",
+      "order": 19,
+      "cast_id": 37,
+      "popularity": 2.8156,
+      "profile_path": "/6HTpmCaGhtLEY6OUhRaXYgldb0x.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 54441,
+      "name": "James Ivory",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.0457,
+      "profile_path": "/k8rLCfPmRXT77nXQcYssrX5Dn0s.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1704,
+      "name": "ambassador"
+    },
+    {
+      "id": 254,
+      "name": "france"
+    },
+    {
+      "id": 90,
+      "name": "paris, france"
+    },
+    {
+      "id": 2020,
+      "name": "revolution"
+    },
+    {
+      "id": 5565,
+      "name": "biography"
+    },
+    {
+      "id": 5870,
+      "name": "versailles"
+    },
+    {
+      "id": 8570,
+      "name": "president"
+    },
+    {
+      "id": 160279,
+      "name": "18th century"
+    },
+    {
+      "id": 359125,
+      "name": "thomas jefferson"
+    }
+  ]
+}

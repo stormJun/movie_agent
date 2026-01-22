@@ -1,0 +1,296 @@
+{
+  "overview": "Chili Palmer is a Miami mobster who gets sent to L.A. to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry's leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren't all that different.",
+  "release_date": "1995-10-20",
+  "runtime": 105,
+  "budget": 30250000,
+  "revenue": 115101622,
+  "tmdb_vote_average": 6.497,
+  "tmdb_vote_count": 1167,
+  "tmdb_popularity": 4.9744,
+  "original_language": "en",
+  "poster_path": "/r82SdPhg4fnIcLt0ogIjQxqjdcO.jpg",
+  "backdrop_path": "/wiZT8DVmAZNwmqd8G3QjWZ1mpLB.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Thriller",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    },
+    {
+      "id": 216,
+      "name": "Jersey Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8891,
+      "name": "John Travolta",
+      "character": "Chili Palmer",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 7.1815,
+      "profile_path": "/ap8eEYfBKTLixmVVpRlq4NslDD5.jpg"
+    },
+    {
+      "personId": 193,
+      "name": "Gene Hackman",
+      "character": "Harry Zimm",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 3.596,
+      "profile_path": "/wN8brfOI8AjngGchkQtFqfEPam5.jpg"
+    },
+    {
+      "personId": 14343,
+      "name": "Rene Russo",
+      "character": "Karen Flores",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.6839,
+      "profile_path": "/iqnQqYacK3xtxxyu7JTgBP4HFEg.jpg"
+    },
+    {
+      "personId": 518,
+      "name": "Danny DeVito",
+      "character": "Martin Weir",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 4.8482,
+      "profile_path": "/6kO4IN7ndoIGw2JhyhAQN3SFmdx.jpg"
+    },
+    {
+      "personId": 1117,
+      "name": "Dennis Farina",
+      "character": "Ray 'Bones' Barboni",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.4954,
+      "profile_path": "/4hEWe0ZcDpGlB3nRizLkVMcG13B.jpg"
+    },
+    {
+      "personId": 18792,
+      "name": "Delroy Lindo",
+      "character": "Bo Catlett",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 2.5591,
+      "profile_path": "/kLwUBBmEIdchrLqwsYzgLB2B6q5.jpg"
+    },
+    {
+      "personId": 4691,
+      "name": "James Gandolfini",
+      "character": "Bear",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 3.7409,
+      "profile_path": "/vhtsFJZcfHdeDkFBoWMDzOS6xrP.jpg"
+    },
+    {
+      "personId": 9629,
+      "name": "Jon Gries",
+      "character": "Ronnie Wingate",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 2.5427,
+      "profile_path": "/nX69eyOvpmJ0YEpm2Qz2ZISngqw.jpg"
+    },
+    {
+      "personId": 53600,
+      "name": "Renee Props",
+      "character": "Nicki",
+      "order": 8,
+      "cast_id": 9,
+      "popularity": 0.9627,
+      "profile_path": "/79h2EodEFudF5B8LQB6hsGWvLXc.jpg"
+    },
+    {
+      "personId": 19839,
+      "name": "David Paymer",
+      "character": "Leo Devoe",
+      "order": 9,
+      "cast_id": 10,
+      "popularity": 1.9051,
+      "profile_path": "/owoOdDFgXpls1OFKwmQ104Nkl5.jpg"
+    },
+    {
+      "personId": 4790,
+      "name": "Martin Ferrero",
+      "character": "Tommy Carlo",
+      "order": 10,
+      "cast_id": 11,
+      "popularity": 1.1744,
+      "profile_path": "/exNDaap66dmsfBQkCf7vHGj3TBK.jpg"
+    },
+    {
+      "personId": 30488,
+      "name": "Miguel Sandoval",
+      "character": "Mr. Escobar",
+      "order": 11,
+      "cast_id": 12,
+      "popularity": 1.4987,
+      "profile_path": "/v5tHxTkgOqcdWgjoEhUj0a50NIK.jpg"
+    },
+    {
+      "personId": 16429,
+      "name": "Jacob Vargas",
+      "character": "Yayo Portillo",
+      "order": 12,
+      "cast_id": 13,
+      "popularity": 2.8859,
+      "profile_path": "/hq5SIxyGHGTBCxc9LPpyeHmOjkU.jpg"
+    },
+    {
+      "personId": 53602,
+      "name": "Linda Hart",
+      "character": "Fay Devoe",
+      "order": 13,
+      "cast_id": 15,
+      "popularity": 1.7643,
+      "profile_path": "/cZUR3jYWRFqccCiSpeZW5F8iYgT.jpg"
+    },
+    {
+      "personId": 73931,
+      "name": "Bette Midler",
+      "character": "Doris Saphron",
+      "order": 14,
+      "cast_id": 72,
+      "popularity": 2.137,
+      "profile_path": "/ooPKeoLvwacY6BRj99u7uvZCYlF.jpg"
+    },
+    {
+      "personId": 53601,
+      "name": "Bobby Slayton",
+      "character": "Dick Allen",
+      "order": 15,
+      "cast_id": 14,
+      "popularity": 0.5874,
+      "profile_path": "/crfs2HQBAteBC4xUSY6NrlMCx7.jpg"
+    },
+    {
+      "personId": 1367324,
+      "name": "Ron Karabatsos",
+      "character": "Momo",
+      "order": 16,
+      "cast_id": 62,
+      "popularity": 1.6947,
+      "profile_path": "/i4YiJSoEGOVZ5CUsQF0wpnUGdLz.jpg"
+    },
+    {
+      "personId": 2911291,
+      "name": "Alison Waddell",
+      "character": "Bear's Daughter",
+      "order": 17,
+      "cast_id": 82,
+      "popularity": 0.1725,
+      "profile_path": null
+    },
+    {
+      "personId": 2911292,
+      "name": "Amber Waddell",
+      "character": "Bear's Daughter",
+      "order": 18,
+      "cast_id": 83,
+      "popularity": 0.418,
+      "profile_path": null
+    },
+    {
+      "personId": 9785,
+      "name": "John Cothran",
+      "character": "Agent Curtis",
+      "order": 19,
+      "cast_id": 63,
+      "popularity": 1.3622,
+      "profile_path": "/ybpI2PeHD8Dd3LFzLNimsujBq1M.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 5174,
+      "name": "Barry Sonnenfeld",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.924,
+      "profile_path": "/n6y6vaAFfSqsJodgkwTxAey4NoG.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 416,
+      "name": "miami, florida"
+    },
+    {
+      "id": 395,
+      "name": "gambling"
+    },
+    {
+      "id": 3149,
+      "name": "gangster"
+    },
+    {
+      "id": 10594,
+      "name": "money"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 9935,
+      "name": "travel"
+    },
+    {
+      "id": 11578,
+      "name": "mobster"
+    },
+    {
+      "id": 10391,
+      "name": "mafia"
+    },
+    {
+      "id": 12094,
+      "name": "business"
+    },
+    {
+      "id": 11061,
+      "name": "debt"
+    },
+    {
+      "id": 12396,
+      "name": "hollywood"
+    },
+    {
+      "id": 14964,
+      "name": "drugs"
+    },
+    {
+      "id": 33879,
+      "name": "producer"
+    },
+    {
+      "id": 159608,
+      "name": "con"
+    }
+  ]
+}

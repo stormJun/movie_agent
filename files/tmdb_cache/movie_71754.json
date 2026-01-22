@@ -1,0 +1,202 @@
+{
+  "overview": "In a town where half the men die down the coalpit, Margaret MacNeil is quite happy being single in her small Cape Breton island town. Until she meets Neil Currie, a charming and sincere bagpipe-playing, Gaelic-speaking dishwasher. But no matter what you do, you can't avoid the spectre of the pit forever.",
+  "release_date": "1995-09-13",
+  "runtime": 114,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.346,
+  "tmdb_vote_count": 13,
+  "tmdb_popularity": 0.2286,
+  "original_language": "en",
+  "poster_path": "/ulhih7Th6S9zuhR5kOiVdCm8Il4.jpg",
+  "backdrop_path": "/gTT4K142pCJ1bZtbMybOSRLtv0m.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 22150,
+      "name": "imX Communications",
+      "origin_country": ""
+    },
+    {
+      "id": 806,
+      "name": "Téléfilm Canada",
+      "origin_country": "CA"
+    },
+    {
+      "id": 2055,
+      "name": "Skyline Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 3498,
+      "name": "Malofilm",
+      "origin_country": ""
+    },
+    {
+      "id": 9116,
+      "name": "SODEC",
+      "origin_country": "CA"
+    },
+    {
+      "id": 38673,
+      "name": "Glace Bay Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 40534,
+      "name": "Nova Scotia Film Development Corporation",
+      "origin_country": ""
+    },
+    {
+      "id": 85045,
+      "name": "Ranfilm",
+      "origin_country": ""
+    },
+    {
+      "id": 10473,
+      "name": "ONF | NFB",
+      "origin_country": "CA"
+    },
+    {
+      "id": 12745,
+      "name": "British Screen Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 19701,
+      "name": "Ciné Télé Action",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "gd",
+      "name": ""
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1283,
+      "name": "Helena Bonham Carter",
+      "character": "Margaret MacNeil",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 5.2193,
+      "profile_path": "/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
+    },
+    {
+      "personId": 19901,
+      "name": "Clive Russell",
+      "character": "Neil Currie",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 2.0483,
+      "profile_path": "/eC37Kmdo5YKNG2MyirCG4tWDxCS.jpg"
+    },
+    {
+      "personId": 198287,
+      "name": "Craig Olejnik",
+      "character": "Jimmy MacNeil",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 0.5018,
+      "profile_path": "/jIswgbkPTMM6KUqd0JppkUcbjVg.jpg"
+    },
+    {
+      "personId": 18794,
+      "name": "Kate Nelligan",
+      "character": "Catherine MacNeil",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 1.1163,
+      "profile_path": "/a2BUOy9A9WlvTfe8s4gn0MZfPa5.jpg"
+    },
+    {
+      "personId": 6074,
+      "name": "Kenneth Welsh",
+      "character": "Angus MacNeil",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 1.8135,
+      "profile_path": "/hsmY2HaIdOEoTBtwFPxQLyLymYw.jpg"
+    },
+    {
+      "personId": 563767,
+      "name": "Andrea Morris",
+      "character": "Marilyn",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 1.2884,
+      "profile_path": "/ktO9DsHJFDBwUGTZzQJhgh6EeQj.jpg"
+    },
+    {
+      "personId": 96675,
+      "name": "Paul Young",
+      "character": "Doctor 1",
+      "order": 6,
+      "cast_id": 37,
+      "popularity": 0.9429,
+      "profile_path": "/os4zarBmYP9wVKMRMcQ2tJKOJJE.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 184475,
+      "name": "Mort Ransen",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4731,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 6015,
+      "name": "mining"
+    },
+    {
+      "id": 5829,
+      "name": "nova scotia, canada"
+    },
+    {
+      "id": 40897,
+      "name": "dance lesson"
+    },
+    {
+      "id": 164742,
+      "name": "coal mining"
+    },
+    {
+      "id": 188645,
+      "name": "bagpipe"
+    },
+    {
+      "id": 207883,
+      "name": "1940s"
+    },
+    {
+      "id": 240204,
+      "name": "cape breton"
+    }
+  ]
+}

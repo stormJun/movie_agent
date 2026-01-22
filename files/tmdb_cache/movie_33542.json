@@ -1,0 +1,308 @@
+{
+  "overview": "Keong comes from Hong Kong to visit New York for his uncle's wedding. His uncle runs a market in the Bronx and Keong offers to help out while Uncle is on his honeymoon. During his stay in the Bronx, Keong befriends a neighbor kid and beats up some neighborhood thugs who cause problems at the market. One of those petty thugs in the local gang stumbles into a criminal situation way over his head.",
+  "release_date": "1995-01-21",
+  "runtime": 106,
+  "budget": 7500000,
+  "revenue": 76028558,
+  "tmdb_vote_average": 6.817,
+  "tmdb_vote_count": 1112,
+  "tmdb_popularity": 4.204,
+  "original_language": "cn",
+  "poster_path": "/1nAfchiXHQB3iyhK8fCJJEnNs5A.jpg",
+  "backdrop_path": "/5ftRls3IbR1kXnasqJEJL63LVsc.jpg",
+  "tmdb_genres_raw": [
+    "Crime",
+    "Action",
+    "Comedy",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 2521,
+      "name": "Orange Sky Golden Harvest",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "cn",
+      "name": "广州话 / 廣州話"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 18897,
+      "name": "Jackie Chan",
+      "character": "Keung",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 17.7516,
+      "profile_path": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+    },
+    {
+      "personId": 44917,
+      "name": "Anita Mui",
+      "character": "Elaine",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.959,
+      "profile_path": "/6vJDAOY24y0iWFik5NOzNKCysLn.jpg"
+    },
+    {
+      "personId": 10875,
+      "name": "Françoise Yip",
+      "character": "Nancy",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.867,
+      "profile_path": "/2fBymfOzhw8wB6wHFHbxulNysB4.jpg"
+    },
+    {
+      "personId": 44922,
+      "name": "Bill Tung Biu",
+      "character": "Uncle Bill",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.7214,
+      "profile_path": "/nB6ywhsUy3TlZpsulqtgR45IFUK.jpg"
+    },
+    {
+      "personId": 44919,
+      "name": "Marc Akerstream",
+      "character": "Tony",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.0883,
+      "profile_path": "/jTICkzt3ym7Ak4cB7fvLwK08tOl.jpg"
+    },
+    {
+      "personId": 21264,
+      "name": "Garvin Cross",
+      "character": "Angelo",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 0.9539,
+      "profile_path": "/voCrYes5zQ4G0zMyCqAbOzwygUF.jpg"
+    },
+    {
+      "personId": 44921,
+      "name": "Morgan Lam",
+      "character": "Danny",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 1.0658,
+      "profile_path": "/lPuRbK6aC0v5GoZCkKNAGIp9qCr.jpg"
+    },
+    {
+      "personId": 1277939,
+      "name": "Ailen Sit Chun-Wai",
+      "character": "Tony's Gang Member",
+      "order": 7,
+      "cast_id": 24,
+      "popularity": 0.6444,
+      "profile_path": "/1cFoTB2JIJiUDhhjMx4YSR65fSK.jpg"
+    },
+    {
+      "personId": 1277940,
+      "name": "Chan Man-Ching",
+      "character": "Tony's Gang Member",
+      "order": 8,
+      "cast_id": 48,
+      "popularity": 1.7686,
+      "profile_path": null
+    },
+    {
+      "personId": 4768767,
+      "name": "Fred Andrucci",
+      "character": "Tony's Gang Member",
+      "order": 9,
+      "cast_id": 49,
+      "popularity": 0.1126,
+      "profile_path": null
+    },
+    {
+      "personId": 4768768,
+      "name": "Mark Antoniuk",
+      "character": "Tony's Gang Member",
+      "order": 10,
+      "cast_id": 50,
+      "popularity": 0.1742,
+      "profile_path": null
+    },
+    {
+      "personId": 134859,
+      "name": "Lauro David Chartrand-DelValle",
+      "character": "Tony's Gang Member",
+      "order": 11,
+      "cast_id": 51,
+      "popularity": 2.1005,
+      "profile_path": "/4XqwVZCR6t7H0aB8zVT0i9gfehg.jpg"
+    },
+    {
+      "personId": 2651116,
+      "name": "Chris Franco",
+      "character": "Tony's Gang Member",
+      "order": 12,
+      "cast_id": 52,
+      "popularity": 0.1592,
+      "profile_path": null
+    },
+    {
+      "personId": 1244660,
+      "name": "Lance Gibson",
+      "character": "Tony's Gang Member",
+      "order": 13,
+      "cast_id": 53,
+      "popularity": 0.3026,
+      "profile_path": "/wMPoyCJnMKXz8Wf7ZpWict5Wsjz.jpg"
+    },
+    {
+      "personId": 4768770,
+      "name": "David Hooper",
+      "character": "Tony's Gang Member",
+      "order": 14,
+      "cast_id": 54,
+      "popularity": 0.0698,
+      "profile_path": null
+    },
+    {
+      "personId": 1886551,
+      "name": "Kathy Hubble",
+      "character": "Tony's Gang Member",
+      "order": 15,
+      "cast_id": 55,
+      "popularity": 0.6479,
+      "profile_path": "/yJfs1ytxXtGD3T2k2SIiDwQvYC5.jpg"
+    },
+    {
+      "personId": 172855,
+      "name": "Terrance Leigh",
+      "character": "Tony's Gang Member",
+      "order": 16,
+      "cast_id": 56,
+      "popularity": 0.3135,
+      "profile_path": "/k5gZ2VgfhEsuaM3r6AcsP3Mj2eJ.jpg"
+    },
+    {
+      "personId": 21265,
+      "name": "Dean Mckenzie",
+      "character": "Tony's Gang Member",
+      "order": 17,
+      "cast_id": 57,
+      "popularity": 0.9909,
+      "profile_path": "/h5m4cIGvMCu4GYHQ6GLr72nwUFm.jpg"
+    },
+    {
+      "personId": 168480,
+      "name": "Kimani Ray Smith",
+      "character": "Tony's Gang Member",
+      "order": 18,
+      "cast_id": 58,
+      "popularity": 0.8357,
+      "profile_path": "/noJWtfWG21LffJ27YJl4hhuGy13.jpg"
+    },
+    {
+      "personId": 1355763,
+      "name": "Lisa Stevens",
+      "character": "Tony's Gang Member",
+      "order": 19,
+      "cast_id": 59,
+      "popularity": 0.1327,
+      "profile_path": "/w9zS0rKgadasOYXUjt3OjXKNF78.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 44916,
+      "name": "Stanley Tong Gwai-Lai",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.8689,
+      "profile_path": "/cunufPnRrZuYwvz8M11c3cr6GVf.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 779,
+      "name": "martial arts"
+    },
+    {
+      "id": 1545,
+      "name": "supermarket"
+    },
+    {
+      "id": 1384,
+      "name": "diamond"
+    },
+    {
+      "id": 2987,
+      "name": "gang war"
+    },
+    {
+      "id": 4640,
+      "name": "disabled child"
+    },
+    {
+      "id": 9748,
+      "name": "revenge"
+    },
+    {
+      "id": 7002,
+      "name": "vigilante"
+    },
+    {
+      "id": 10291,
+      "name": "organized crime"
+    },
+    {
+      "id": 10726,
+      "name": "gang"
+    },
+    {
+      "id": 11860,
+      "name": "fish out of water"
+    },
+    {
+      "id": 13027,
+      "name": "wedding"
+    },
+    {
+      "id": 33556,
+      "name": "urban setting"
+    },
+    {
+      "id": 156196,
+      "name": "street life"
+    },
+    {
+      "id": 161307,
+      "name": "bronx, new york city"
+    },
+    {
+      "id": 179431,
+      "name": "duringcreditsstinger"
+    },
+    {
+      "id": 208156,
+      "name": "frantic"
+    },
+    {
+      "id": 219404,
+      "name": "action hero"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "overview": "The mountain-village passions of a German widow and her sons unfold in the style of a 1920s expressionist movie.",
+  "release_date": "1992-09-30",
+  "runtime": 100,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.857,
+  "tmdb_vote_count": 28,
+  "tmdb_popularity": 1.905,
+  "original_language": "en",
+  "poster_path": "/qolQ7M5hpbBwcvpMpfeSMyU64rs.jpg",
+  "backdrop_path": "/zbnNk0dY8Pj3rlqrT2KDTh6ZQlr.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+  ],
+  "production_companies": [
+    {
+      "id": 6698,
+      "name": "CIDO",
+      "origin_country": "CA"
+    },
+    {
+      "id": 6700,
+      "name": "The Manitoba Arts Council",
+      "origin_country": ""
+    },
+    {
+      "id": 24726,
+      "name": "Canada Council for the Arts",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 177950,
+      "name": "Kyle McCulloch",
+      "character": "Grigorss",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 1.2599,
+      "profile_path": "/4IsIrMR9grp05SzVI5BUiFSsTDi.jpg"
+    },
+    {
+      "personId": 222737,
+      "name": "Małgorzata Dobrowolska",
+      "character": "Zenaida",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 0.3379,
+      "profile_path": "/v09BP5eFJTmRaKRvhUPN5xS7IlY.jpg"
+    },
+    {
+      "personId": 186300,
+      "name": "Sarah Neville",
+      "character": "Klara",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 0.1417,
+      "profile_path": null
+    },
+    {
+      "personId": 1195707,
+      "name": "Brent Neale",
+      "character": "Johann",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 0.2875,
+      "profile_path": "/lAjIopWuih3SNd9Aqv8tXaL0p8f.jpg"
+    },
+    {
+      "personId": 939275,
+      "name": "Paul Cox",
+      "character": "Count Knotkers",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 2.3601,
+      "profile_path": "/wMRDxbIIi42Y54gy6NNV3pQ0aNR.jpg"
+    },
+    {
+      "personId": 81238,
+      "name": "Victor Cowie",
+      "character": "Herr Trotta",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 0.3892,
+      "profile_path": null
+    },
+    {
+      "personId": 1641989,
+      "name": "Michael O'Sullivan",
+      "character": "Blind Ghost",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 0.3129,
+      "profile_path": "/vNEvIWShuqen7i1ZOXdXZdZH8Nm.jpg"
+    },
+    {
+      "personId": 1711872,
+      "name": "Vince Rimmer",
+      "character": "Franz",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 0.1166,
+      "profile_path": null
+    },
+    {
+      "personId": 174577,
+      "name": "Katya Gardner",
+      "character": "Sigleinde",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 0.8503,
+      "profile_path": "/gbV99iI6lEngupGVGbhTBIz4npO.jpg"
+    },
+    {
+      "personId": 61185,
+      "name": "Jackie Burroughs",
+      "character": "Frau Teacher",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 0.9096,
+      "profile_path": "/qKRtBWQOknpXiHOnvL2nl6AqUFy.jpg"
+    },
+    {
+      "personId": 75812,
+      "name": "Ross McMillan",
+      "character": "Chief Steward",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 0.2981,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 97579,
+      "name": "Guy Maddin",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.757,
+      "profile_path": "/hF15rfnugsLQJfa6R1AvVAX7bEu.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3307,
+      "name": "surreal"
+    }
+  ]
+}

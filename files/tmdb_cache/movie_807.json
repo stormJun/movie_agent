@@ -1,0 +1,345 @@
+{
+  "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+  "release_date": "1995-09-22",
+  "runtime": 127,
+  "budget": 33000000,
+  "revenue": 327311859,
+  "tmdb_vote_average": 8.378,
+  "tmdb_vote_count": 22443,
+  "tmdb_popularity": 19.0406,
+  "original_language": "en",
+  "poster_path": "/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+  "backdrop_path": "/hkKTtlHjiVUW5XRfkQfl3FmJUfX.jpg",
+  "tmdb_genres_raw": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 4286,
+      "name": "Juno Pix",
+      "origin_country": "US"
+    },
+    {
+      "id": 16775,
+      "name": "Arnold Kopelson Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 192,
+      "name": "Morgan Freeman",
+      "character": "Somerset",
+      "order": 0,
+      "cast_id": 18,
+      "popularity": 11.6276,
+      "profile_path": "/jPsLqiYGSofU4s6BjrxnefMfabb.jpg"
+    },
+    {
+      "personId": 287,
+      "name": "Brad Pitt",
+      "character": "Mills",
+      "order": 1,
+      "cast_id": 17,
+      "popularity": 9.6902,
+      "profile_path": "/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+    },
+    {
+      "personId": 12052,
+      "name": "Gwyneth Paltrow",
+      "character": "Tracy",
+      "order": 2,
+      "cast_id": 19,
+      "popularity": 5.8258,
+      "profile_path": "/mLarlXA8G02AdIMKptZmUzQluqF.jpg"
+    },
+    {
+      "personId": 12055,
+      "name": "John Cassini",
+      "character": "Officer Davis",
+      "order": 3,
+      "cast_id": 24,
+      "popularity": 1.2887,
+      "profile_path": "/kn2Rtn0I8ivCR7ydZTY74XUBh1K.jpg"
+    },
+    {
+      "personId": 30487,
+      "name": "Peter Crombie",
+      "character": "Dr. O'Neill",
+      "order": 4,
+      "cast_id": 85,
+      "popularity": 0.7011,
+      "profile_path": "/pMvhE1wwQo3eTSp4vwq8Hb22CwN.jpg"
+    },
+    {
+      "personId": 38951,
+      "name": "Reg E. Cathey",
+      "character": "Dr. Santiago",
+      "order": 5,
+      "cast_id": 84,
+      "popularity": 1.6415,
+      "profile_path": "/cgyJJQUdbK4S7ihkL9hgIIwutk3.jpg"
+    },
+    {
+      "personId": 8655,
+      "name": "R. Lee Ermey",
+      "character": "Police Captain",
+      "order": 6,
+      "cast_id": 20,
+      "popularity": 1.6841,
+      "profile_path": "/aXFJlEGHlQT7bwxkKwq6Sx7PeEp.jpg"
+    },
+    {
+      "personId": 12054,
+      "name": "Daniel Zacapa",
+      "character": "Detective Taylor at First Murder",
+      "order": 7,
+      "cast_id": 23,
+      "popularity": 1.1261,
+      "profile_path": "/85Ve9cyC2RG3cY20HHv1JrtMqdC.jpg"
+    },
+    {
+      "personId": 12047,
+      "name": "Andrew Kevin Walker",
+      "character": "Dead Man at 1st Crime Scene",
+      "order": 8,
+      "cast_id": 21,
+      "popularity": 1.2456,
+      "profile_path": "/t7O6bNRscxOYadGNB1EWvBaSC0d.jpg"
+    },
+    {
+      "personId": 1583695,
+      "name": "George Christy",
+      "character": "Workman at Door of Somerset's Office",
+      "order": 9,
+      "cast_id": 97,
+      "popularity": 1.0678,
+      "profile_path": "/8kmZnMFtItkqASxsRtsSBZbbBBl.jpg"
+    },
+    {
+      "personId": 43461,
+      "name": "Endre Hules",
+      "character": "Cab Driver",
+      "order": 10,
+      "cast_id": 98,
+      "popularity": 1.7048,
+      "profile_path": "/nIAnouBLmT2kbYA7fs9R8ix9I50.jpg"
+    },
+    {
+      "personId": 12056,
+      "name": "Hawthorne James",
+      "character": "George the Night Guard at the Library",
+      "order": 11,
+      "cast_id": 25,
+      "popularity": 1.0925,
+      "profile_path": "/n2VmK3t3LBUgVPNG8lWflhPVhCH.jpg"
+    },
+    {
+      "personId": 4294859,
+      "name": "Bob Mack",
+      "character": "Gluttony Victim",
+      "order": 12,
+      "cast_id": 253,
+      "popularity": 0.1109,
+      "profile_path": null
+    },
+    {
+      "personId": 1025337,
+      "name": "William Davidson",
+      "character": "First Guard at the Library",
+      "order": 13,
+      "cast_id": 99,
+      "popularity": 0.7423,
+      "profile_path": null
+    },
+    {
+      "personId": 1055173,
+      "name": "Bob Collins",
+      "character": "Second Guard at the Library",
+      "order": 14,
+      "cast_id": 101,
+      "popularity": 0.384,
+      "profile_path": null
+    },
+    {
+      "personId": 4207972,
+      "name": "Jimmy Dale Hartsell",
+      "character": "Library Janitor",
+      "order": 15,
+      "cast_id": 254,
+      "popularity": 0.0944,
+      "profile_path": null
+    },
+    {
+      "personId": 6487,
+      "name": "Richard Roundtree",
+      "character": "Talbot",
+      "order": 16,
+      "cast_id": 26,
+      "popularity": 2.199,
+      "profile_path": "/wPuLgW8PrzJFBrfsB03oon5MT7f.jpg"
+    },
+    {
+      "personId": 4294870,
+      "name": "Charline Su",
+      "character": "TV News Reporter",
+      "order": 17,
+      "cast_id": 255,
+      "popularity": 0.0999,
+      "profile_path": null
+    },
+    {
+      "personId": 95200,
+      "name": "Dominique Jennings",
+      "character": "TV News Reporter",
+      "order": 18,
+      "cast_id": 102,
+      "popularity": 1.3007,
+      "profile_path": "/gQvFevYR8dyH0TTOnOAV8tOMSEO.jpg"
+    },
+    {
+      "personId": 31533,
+      "name": "Allan Kolman",
+      "character": "First Forensic Man in the Law Office",
+      "order": 19,
+      "cast_id": 103,
+      "popularity": 0.8787,
+      "profile_path": "/18Y2IkYm3UZw7QXtS18BjO9LATU.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 7467,
+      "name": "David Fincher",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 3.1317,
+      "profile_path": "/tpEczFclQZeKAiCeKZZ0adRvtfz.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3927,
+      "name": "rage and hate"
+    },
+    {
+      "id": 6149,
+      "name": "police"
+    },
+    {
+      "id": 1470,
+      "name": "s.w.a.t."
+    },
+    {
+      "id": 4426,
+      "name": "sadism"
+    },
+    {
+      "id": 476,
+      "name": "self-fulfilling prophecy"
+    },
+    {
+      "id": 6259,
+      "name": "psychopath"
+    },
+    {
+      "id": 703,
+      "name": "detective"
+    },
+    {
+      "id": 5340,
+      "name": "investigation"
+    },
+    {
+      "id": 4142,
+      "name": "insomnia"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 10714,
+      "name": "serial killer"
+    },
+    {
+      "id": 11001,
+      "name": "religion"
+    },
+    {
+      "id": 10950,
+      "name": "shootout"
+    },
+    {
+      "id": 13092,
+      "name": "corpse"
+    },
+    {
+      "id": 185459,
+      "name": "seven deadly sins"
+    },
+    {
+      "id": 200234,
+      "name": "shocking"
+    },
+    {
+      "id": 201028,
+      "name": "depravity"
+    },
+    {
+      "id": 207268,
+      "name": "neo-noir"
+    },
+    {
+      "id": 232469,
+      "name": "urban gothic"
+    },
+    {
+      "id": 251667,
+      "name": "anxious"
+    },
+    {
+      "id": 314730,
+      "name": "suspenseful"
+    },
+    {
+      "id": 321464,
+      "name": "intense"
+    },
+    {
+      "id": 323809,
+      "name": "depressing"
+    },
+    {
+      "id": 325775,
+      "name": "awestruck"
+    },
+    {
+      "id": 325797,
+      "name": "disdainful"
+    },
+    {
+      "id": 347934,
+      "name": "seven: los siete pecados capitales"
+    }
+  ]
+}

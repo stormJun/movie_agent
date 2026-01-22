@@ -1,0 +1,241 @@
+{
+  "overview": "Mary Giordano is a bright, intelligent student who goes to a catholic school. She also has an addiction to mystery novels and detective magazines, which inspire her to do her own detective work. When she starts snooping around on the case of a murderer of teenage girls, it gets her in hot water with her mentor Detective Jerry Gunn. But it also starts a team up with police cadet Tony Campbell. The two work together to find the murderer. But the closer Mary gets to solving the murder, the more danger she puts herself in of being the next victim.",
+  "release_date": "1996-03-12",
+  "runtime": 94,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.688,
+  "tmdb_vote_count": 85,
+  "tmdb_popularity": 0.7575,
+  "original_language": "en",
+  "poster_path": "/nPYe83tWVSwVFRyWa6f5aaE7bbu.jpg",
+  "backdrop_path": "/bWQ73Pn7WhkT4Ba7xaeG3tcXLlt.jpg",
+  "tmdb_genres_raw": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 4063,
+      "name": "Trimark Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5588,
+      "name": "Alicia Silverstone",
+      "character": "Mary Giordano",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 5.3051,
+      "profile_path": "/pyxqkP4i0ubVdoRe5hoiiiwkHkb.jpg"
+    },
+    {
+      "personId": 6863,
+      "name": "Kevin Dillon",
+      "character": "Tony Campbell",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 1.6531,
+      "profile_path": "/wfBEjFfkJt1dORR0mKPu89qCcJK.jpg"
+    },
+    {
+      "personId": 5502,
+      "name": "Bill Nunn",
+      "character": "Detective Jerry Guinn",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 1.7516,
+      "profile_path": "/trxNvS6g5yvwbXzx2LK6JqutE5z.jpg"
+    },
+    {
+      "personId": 2234,
+      "name": "Michael Bowen",
+      "character": "Earl Parkins",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 2.0789,
+      "profile_path": "/dYIzQQ4yozTIlpqJbmDkSyDd86C.jpg"
+    },
+    {
+      "personId": 2826345,
+      "name": "Ann Devaney",
+      "character": "Sherry Tarnley",
+      "order": 4,
+      "cast_id": 10,
+      "popularity": 0.0922,
+      "profile_path": "/frMClMxrT4GDZrm2NCSLD3BvIpB.jpg"
+    },
+    {
+      "personId": 78002,
+      "name": "Joshua Schaefer",
+      "character": "John Giordano",
+      "order": 5,
+      "cast_id": 11,
+      "popularity": 0.4545,
+      "profile_path": null
+    },
+    {
+      "personId": 80109,
+      "name": "Marla Sokoloff",
+      "character": "Vicki Giordano",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 2.0054,
+      "profile_path": "/8BKFL66gVvKrRbXvd6ME9REUMld.jpg"
+    },
+    {
+      "personId": 28165,
+      "name": "Jennifer Savidge",
+      "character": "Celia Giordano",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 1.5856,
+      "profile_path": "/x5Rda1iUDwQrOUbtAAecUjj8s9.jpg"
+    },
+    {
+      "personId": 61111,
+      "name": "Tara Subkoff",
+      "character": "Liz McConnell",
+      "order": 8,
+      "cast_id": 6,
+      "popularity": 1.4906,
+      "profile_path": "/51KRQXdgag1zP27T3P53GIKaN5f.jpg"
+    },
+    {
+      "personId": 86542,
+      "name": "David Packer",
+      "character": "Sergeant Collins",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 0.9694,
+      "profile_path": "/fmIUl1AVx9TYEwtC5TXBUdLIpyq.jpg"
+    },
+    {
+      "personId": 1231049,
+      "name": "Alissa Dowdy",
+      "character": "Kathleen Donlevy",
+      "order": 10,
+      "cast_id": 13,
+      "popularity": 0.1887,
+      "profile_path": null
+    },
+    {
+      "personId": 37007,
+      "name": "Aimee Brooks",
+      "character": "Margie Donlevy",
+      "order": 11,
+      "cast_id": 14,
+      "popularity": 1.559,
+      "profile_path": "/8eNx1LL5z7xm9EN4cvAmlaZ6qtZ.jpg"
+    },
+    {
+      "personId": 1699138,
+      "name": "Brian Wankum",
+      "character": "Roger",
+      "order": 12,
+      "cast_id": 15,
+      "popularity": 0.2505,
+      "profile_path": null
+    },
+    {
+      "personId": 20905,
+      "name": "Melissa DeLizia",
+      "character": "Girl #1",
+      "order": 13,
+      "cast_id": 27,
+      "popularity": 0.367,
+      "profile_path": null
+    },
+    {
+      "personId": 1242169,
+      "name": "Tiombe Lockhart",
+      "character": "Girl #2 (as Tiombe Anika Lockhart)",
+      "order": 14,
+      "cast_id": 28,
+      "popularity": 0.1491,
+      "profile_path": null
+    },
+    {
+      "personId": 79477,
+      "name": "Jack Rader",
+      "character": "Mr. Tarnley",
+      "order": 15,
+      "cast_id": 16,
+      "popularity": 2.0303,
+      "profile_path": "/veZGDbgHdds3n7f6DJn6oneKqMc.jpg"
+    },
+    {
+      "personId": 149460,
+      "name": "Sean Moran",
+      "character": "Boomer Delvecio",
+      "order": 16,
+      "cast_id": 17,
+      "popularity": 1.232,
+      "profile_path": "/iwggEj7M7dZkHvrCXrejB9aJHZm.jpg"
+    },
+    {
+      "personId": 155492,
+      "name": "Ashley Crow",
+      "character": "Roxanne (uncredited)",
+      "order": 17,
+      "cast_id": 29,
+      "popularity": 0.9232,
+      "profile_path": "/eWuoTl1WRyF45g2UPqDLPZxQsOt.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1046169,
+      "name": "Pat Verducci",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8727,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1468,
+      "name": "child murder"
+    },
+    {
+      "id": 5340,
+      "name": "investigation"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 10714,
+      "name": "serial killer"
+    },
+    {
+      "id": 11734,
+      "name": "police corruption"
+    },
+    {
+      "id": 160342,
+      "name": "female detective"
+    },
+    {
+      "id": 161982,
+      "name": "murder investigation"
+    }
+  ]
+}

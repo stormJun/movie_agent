@@ -1,0 +1,82 @@
+{
+  "overview": "In Paris, Ismaél, a young Tunisian, cares for two brothers, Nouredine, a cripple, and streetwise Mouloud, 14. In haste, Ismaél and Mouloud go to Marseilles where an uncle lives. Nouredine has died in a fire, and Ismaél feels guilt on top of grief. Ismaél becomes friends with Jacky, a white man whose father and brother hate immigrants. Mouloud hangs out with cousin Rhida who breaks Islamic rules and deals hash. Ismaél decides Mouloud must return to Tunisia, but the boy runs off, becoming an acolyte to Rhida's supplier. Ismaél and Jacky's Arab girlfriend start an affair, friends betray friends, and the racism gets ugly. Can Ismaél rescue himself and Mouloud or will life in France crush them?",
+  "release_date": "1995-08-30",
+  "runtime": 104,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.692,
+  "tmdb_vote_count": 13,
+  "tmdb_popularity": 2.2606,
+  "original_language": "fr",
+  "poster_path": "/hJB8GT95PXKZ2MBrOIOx2xrhbSm.jpg",
+  "backdrop_path": "/5iKtMjLF1cXe7zw0WZao7hDu9vC.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [],
+  "production_countries": [],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 20667,
+      "name": "Sami Bouajila",
+      "character": "Ismael",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 0.9761,
+      "profile_path": "/xq8TMMCA4RI2omGxbPtLVsBMWX8.jpg"
+    },
+    {
+      "personId": 73726,
+      "name": "Nozha Khouadra",
+      "character": "",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 0.3488,
+      "profile_path": "/7uzdxoOFcajMz0WJagrYeB0i309.jpg"
+    },
+    {
+      "personId": 586261,
+      "name": "Philippe Ambrosini",
+      "character": "",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 0.2168,
+      "profile_path": "/dUvz8C1fQJjtJMApcCiGtcwRpPu.jpg"
+    },
+    {
+      "personId": 47335,
+      "name": "Ouassini Embarek",
+      "character": "",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 0.582,
+      "profile_path": "/52wWbIrMi1KcsGB1UL6ydBGHNED.jpg"
+    },
+    {
+      "personId": 1276277,
+      "name": "Frédéric Andrau",
+      "character": "",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 0.878,
+      "profile_path": "/jdnA5WGJTA1qH45Y2YQHcbRk6BV.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 118513,
+      "name": "Karim Dridi",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4187,
+      "profile_path": "/2feXyaTVJ8H0pcbZeBjJZ5duy0S.jpg"
+    }
+  ],
+  "keywords": []
+}

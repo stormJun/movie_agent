@@ -1,0 +1,271 @@
+{
+  "overview": "He's Ace Ventura: Pet Detective. Jim Carrey is on the case to find the Miami Dolphins' missing mascot and quarterback Dan Marino. He goes eyeball to eyeball with a man-eating shark, stakes out the Miami Dolphins and woos and wows the ladies. Whether he's undercover, under fire or underwater, he always gets his man… or beast!",
+  "release_date": "1994-02-04",
+  "runtime": 86,
+  "budget": 15000000,
+  "revenue": 107217396,
+  "tmdb_vote_average": 6.568,
+  "tmdb_vote_count": 6168,
+  "tmdb_popularity": 7.7605,
+  "original_language": "en",
+  "poster_path": "/pqiRuETmuSybfnVZ7qyeoXhQyN1.jpg",
+  "backdrop_path": "/nbvREKIjX16mwNZtFqAoQTTHPnQ.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Mystery",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 10210,
+      "name": "Morgan Creek Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 206,
+      "name": "Jim Carrey",
+      "character": "Ace Ventura",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 11.1914,
+      "profile_path": "/u0AqTz6Y7GHPCHINS01P7gPvDSb.jpg"
+    },
+    {
+      "personId": 14405,
+      "name": "Courteney Cox",
+      "character": "Melissa Robinson",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 5.6691,
+      "profile_path": "/yA8dicwtcVuxG3gh94QsaRb5gNb.jpg"
+    },
+    {
+      "personId": 586,
+      "name": "Sean Young",
+      "character": "Lt. Lois Einhorn",
+      "order": 2,
+      "cast_id": 10,
+      "popularity": 3.463,
+      "profile_path": "/yfJADYt6xYPpg1g7Z7TTW0bcL2s.jpg"
+    },
+    {
+      "personId": 31004,
+      "name": "Tone Loc",
+      "character": "Emilio",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 1.3883,
+      "profile_path": "/puDbq7YPq6Jg0nrSeK6t9MFIhFP.jpg"
+    },
+    {
+      "personId": 1223629,
+      "name": "Dan Marino",
+      "character": "Dan Marino",
+      "order": 4,
+      "cast_id": 23,
+      "popularity": 1.3436,
+      "profile_path": "/baSy4h3NjMlJYP69TSzqPcwUYYn.jpg"
+    },
+    {
+      "personId": 31005,
+      "name": "Noble Willingham",
+      "character": "Riddle",
+      "order": 5,
+      "cast_id": 27,
+      "popularity": 1.4736,
+      "profile_path": "/70HEA9aOmmPmTeCvxXqJC6KGHaZ.jpg"
+    },
+    {
+      "personId": 31006,
+      "name": "Troy Evans",
+      "character": "Roger Podacter",
+      "order": 6,
+      "cast_id": 28,
+      "popularity": 2.1307,
+      "profile_path": "/hRdsLKr430COdIIyeHY3QAdg45e.jpg"
+    },
+    {
+      "personId": 21082,
+      "name": "Raynor Scheine",
+      "character": "Woodstock",
+      "order": 7,
+      "cast_id": 29,
+      "popularity": 1.9161,
+      "profile_path": "/gqj3nFgq2W83RrJNyqHm2xw8Efw.jpg"
+    },
+    {
+      "personId": 1646,
+      "name": "Udo Kier",
+      "character": "Ronald Camp",
+      "order": 8,
+      "cast_id": 30,
+      "popularity": 12.6681,
+      "profile_path": "/lIOGDMvrVHMgPXdhicLI41tY1zf.jpg"
+    },
+    {
+      "personId": 4692,
+      "name": "Frank Adonis",
+      "character": "Vinnie",
+      "order": 9,
+      "cast_id": 31,
+      "popularity": 0.5365,
+      "profile_path": "/ewgcaacrrpFO4CzBjIUq5BUUGPS.jpg"
+    },
+    {
+      "personId": 98579,
+      "name": "Tiny Ron",
+      "character": "Roc",
+      "order": 10,
+      "cast_id": 32,
+      "popularity": 0.7019,
+      "profile_path": "/z70iHJLvnqHRS9Ti9rm6ee8FXCJ.jpg"
+    },
+    {
+      "personId": 8875,
+      "name": "David Margulies",
+      "character": "Doctor",
+      "order": 11,
+      "cast_id": 76,
+      "popularity": 0.866,
+      "profile_path": "/lKXiPu99KCdETOH9XHMgVGg6z8G.jpg"
+    },
+    {
+      "personId": 31007,
+      "name": "John Capodice",
+      "character": "Sgt. Aguado",
+      "order": 12,
+      "cast_id": 33,
+      "popularity": 1.1096,
+      "profile_path": "/lN5VuGKFqfOFH5F8zso34I77sy2.jpg"
+    },
+    {
+      "personId": 116902,
+      "name": "Judy Clayton",
+      "character": "Martha Mertz",
+      "order": 13,
+      "cast_id": 77,
+      "popularity": 1.9205,
+      "profile_path": "/822NZfbF99NhGdc07xwZJKSAio0.jpg"
+    },
+    {
+      "personId": 16070,
+      "name": "Bill Zuckert",
+      "character": "Mr. Finkle",
+      "order": 14,
+      "cast_id": 78,
+      "popularity": 1.1498,
+      "profile_path": "/pwWoODxzdhSuqQG63paSPuhPZPd.jpg"
+    },
+    {
+      "personId": 17488,
+      "name": "Alice Drummond",
+      "character": "Mrs. Finkle",
+      "order": 15,
+      "cast_id": 34,
+      "popularity": 1.3847,
+      "profile_path": "/ghiQNRLEw5sTRxh4yhue3vWcOHg.jpg"
+    },
+    {
+      "personId": 928,
+      "name": "Rebecca Ferratti",
+      "character": "Sexy Woman",
+      "order": 16,
+      "cast_id": 35,
+      "popularity": 2.059,
+      "profile_path": "/pIgXkG2PBiYXZs0Aq2Gbgz55Sqe.jpg"
+    },
+    {
+      "personId": 1173,
+      "name": "Mark Margolis",
+      "character": "Mr. Shickadance",
+      "order": 17,
+      "cast_id": 36,
+      "popularity": 2.9364,
+      "profile_path": "/rT5TYJIPLBkTqsrUs00AixGeaMM.jpg"
+    },
+    {
+      "personId": 20562,
+      "name": "Antoni Corone",
+      "character": "Reporter #1",
+      "order": 18,
+      "cast_id": 79,
+      "popularity": 2.5474,
+      "profile_path": "/85G9purVJGnYwu1wCVQO8ZNHr8Z.jpg"
+    },
+    {
+      "personId": 1089405,
+      "name": "Margo Peace",
+      "character": "Reporter #2",
+      "order": 19,
+      "cast_id": 282,
+      "popularity": 0.4573,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 4499,
+      "name": "Tom Shadyac",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.05,
+      "profile_path": "/kuliB1DrKSbdn2jxESncPbWxGrD.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 416,
+      "name": "miami, florida"
+    },
+    {
+      "id": 630,
+      "name": "dolphin"
+    },
+    {
+      "id": 703,
+      "name": "detective"
+    },
+    {
+      "id": 2526,
+      "name": "human animal relationship"
+    },
+    {
+      "id": 6241,
+      "name": "stupidity"
+    },
+    {
+      "id": 6732,
+      "name": "mascot"
+    },
+    {
+      "id": 9253,
+      "name": "slapstick comedy"
+    },
+    {
+      "id": 18165,
+      "name": "animals"
+    },
+    {
+      "id": 155790,
+      "name": "private detective"
+    },
+    {
+      "id": 208152,
+      "name": "pets"
+    }
+  ]
+}

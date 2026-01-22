@@ -1,0 +1,299 @@
+{
+  "overview": "Charlie Lang is a simple, kindhearted New York City cop. When he realizes he has no money to tip waitress Yvonne Biasi, Lang offers her half the winnings of his lottery ticket. Amazingly, the ticket happens to be a winner, in the sum of $4 million. True to his word, Lang proceeds to share the prize money with Biasi, which infuriates his greedy wife, Muriel. Not content with the arrangement, Muriel begins scheming to take all the money.",
+  "release_date": "1994-07-16",
+  "runtime": 101,
+  "budget": 20000000,
+  "revenue": 37939757,
+  "tmdb_vote_average": 6.698,
+  "tmdb_vote_count": 879,
+  "tmdb_popularity": 4.3417,
+  "original_language": "en",
+  "poster_path": "/6UOaeLDOdwwTMQtbl5YL6EGjqy0.jpg",
+  "backdrop_path": "/rHqIKBrvmRTExmi7XN31OjRSPKT.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 559,
+      "name": "TriStar Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2963,
+      "name": "Nicolas Cage",
+      "character": "Charlie Lang",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 8.4149,
+      "profile_path": "/y1RtezurZYveYkVNRht7CwEgSYY.jpg"
+    },
+    {
+      "personId": 2233,
+      "name": "Bridget Fonda",
+      "character": "Yvonne Biasi",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 4.2338,
+      "profile_path": "/ylGktmhDCLnaaV8owSPL8cVlsbn.jpg"
+    },
+    {
+      "personId": 4810,
+      "name": "Rosie Perez",
+      "character": "Muriel Lang",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.352,
+      "profile_path": "/gITXAn0inTa9wELgvbONxiw1PWz.jpg"
+    },
+    {
+      "personId": 17859,
+      "name": "Wendell Pierce",
+      "character": "Bo Williams",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 3.0922,
+      "profile_path": "/r6yKahL6Z8l9aUX5qvWxTmWl8Nm.jpg"
+    },
+    {
+      "personId": 6542,
+      "name": "Isaac Hayes",
+      "character": "Angel Dupree",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 1.3134,
+      "profile_path": "/wHZOIi0LJNZ55dswVMX5AqKtMlT.jpg"
+    },
+    {
+      "personId": 2813365,
+      "name": "Víctor Rojas",
+      "character": "Jesu",
+      "order": 5,
+      "cast_id": 146,
+      "popularity": 0.4546,
+      "profile_path": "/jFsVOq8GySgfC55H0SUgA0XKfGp.jpg"
+    },
+    {
+      "personId": 5950,
+      "name": "Seymour Cassel",
+      "character": "Jack Gross",
+      "order": 6,
+      "cast_id": 13,
+      "popularity": 1.431,
+      "profile_path": "/3xAx3mu2VxpTIgdYe9RmSpyVwjH.jpg"
+    },
+    {
+      "personId": 2283,
+      "name": "Stanley Tucci",
+      "character": "Eddie Biasi",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 5.7697,
+      "profile_path": "/q4TanMDI5Rgsvw4SfyNbPBh4URr.jpg"
+    },
+    {
+      "personId": 5169,
+      "name": "J.E. Freeman",
+      "character": "Sal Bontempo",
+      "order": 8,
+      "cast_id": 17,
+      "popularity": 1.0589,
+      "profile_path": "/75VHiPXkan70jXZF247yOCdCROV.jpg"
+    },
+    {
+      "personId": 7503,
+      "name": "Red Buttons",
+      "character": "Walter Zakuto",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 1.4377,
+      "profile_path": "/bZYvuKzOnF181Tz0wqT4sbPZLnc.jpg"
+    },
+    {
+      "personId": 28633,
+      "name": "Richard Jenkins",
+      "character": "C. Vernon Hale",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 2.3489,
+      "profile_path": "/muT3RZG9hiKaKojD751RcQ5tGEy.jpg"
+    },
+    {
+      "personId": 1893988,
+      "name": "Robert Dorfman",
+      "character": "Walter",
+      "order": 11,
+      "cast_id": 49,
+      "popularity": 0.3893,
+      "profile_path": "/chdWLhIUVqwUb8MQaBxv92Du2dm.jpg"
+    },
+    {
+      "personId": 43366,
+      "name": "Ann Dowd",
+      "character": "Carol",
+      "order": 12,
+      "cast_id": 31,
+      "popularity": 2.2694,
+      "profile_path": "/zo44U71uiMNVW1HSiOa5F9MpqIq.jpg"
+    },
+    {
+      "personId": 103374,
+      "name": "Charles Busch",
+      "character": "Timothy",
+      "order": 13,
+      "cast_id": 18,
+      "popularity": 0.2976,
+      "profile_path": "/5H2LF0cjCGnK1jTW5QMU6cqGkh8.jpg"
+    },
+    {
+      "personId": 168638,
+      "name": "Beatrice Winde",
+      "character": "Judge",
+      "order": 14,
+      "cast_id": 20,
+      "popularity": 0.6909,
+      "profile_path": "/m3mC8clIuki4s11cTDqcvKiLX59.jpg"
+    },
+    {
+      "personId": 93737,
+      "name": "Lim Kay Tong",
+      "character": "Sun",
+      "order": 15,
+      "cast_id": 35,
+      "popularity": 0.8397,
+      "profile_path": "/rI0qfi5tuXif3QU2L3jiuCp8SQv.jpg"
+    },
+    {
+      "personId": 96538,
+      "name": "Ginny Yang",
+      "character": "Mrs. Sun",
+      "order": 16,
+      "cast_id": 21,
+      "popularity": 0.9986,
+      "profile_path": null
+    },
+    {
+      "personId": 101026,
+      "name": "Rene Rivera",
+      "character": "Julio",
+      "order": 17,
+      "cast_id": 22,
+      "popularity": 0.829,
+      "profile_path": "/fTcjPdSvqW2cvdwNc4It40Umkk3.jpg"
+    },
+    {
+      "personId": 37207,
+      "name": "Angel David",
+      "character": "Esteban",
+      "order": 18,
+      "cast_id": 23,
+      "popularity": 1.3501,
+      "profile_path": "/kl3sMwySWZM82FZHgblRpEgCze7.jpg"
+    },
+    {
+      "personId": 3001996,
+      "name": "Anna Lobell",
+      "character": "Korean Deli Customer",
+      "order": 19,
+      "cast_id": 147,
+      "popularity": 0.2472,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 41550,
+      "name": "Andrew Bergman",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6299,
+      "profile_path": "/ngMENuNy0YVAmKaSVWbjZCjPe93.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 828,
+      "name": "waitress"
+    },
+    {
+      "id": 3012,
+      "name": "court case"
+    },
+    {
+      "id": 5332,
+      "name": "greed"
+    },
+    {
+      "id": 10738,
+      "name": "diner"
+    },
+    {
+      "id": 9672,
+      "name": "based on true story"
+    },
+    {
+      "id": 8015,
+      "name": "cop"
+    },
+    {
+      "id": 10232,
+      "name": "fame"
+    },
+    {
+      "id": 157384,
+      "name": "news reporter"
+    },
+    {
+      "id": 173103,
+      "name": "newspaper article"
+    },
+    {
+      "id": 186827,
+      "name": "marital discord"
+    },
+    {
+      "id": 208262,
+      "name": "lottery ticket"
+    },
+    {
+      "id": 208263,
+      "name": "winning lottery"
+    },
+    {
+      "id": 309005,
+      "name": "new-found fame"
+    },
+    {
+      "id": 309006,
+      "name": "man of his word"
+    },
+    {
+      "id": 324429,
+      "name": "romantic"
+    },
+    {
+      "id": 325784,
+      "name": "comforting"
+    }
+  ]
+}

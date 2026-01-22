@@ -1,0 +1,234 @@
+{
+  "overview": "With varying degrees of success, recently divorced friends Dave, Vic and Donny are trying to move on with their lives. Vic feels vilified by his ex-wife's parents, while Donny has a shaky bond with his teen daughter, Emma. Dave, meanwhile, has an enviable problem -- he has more dates than he can handle. As they confront their post-marital challenges, the men take solace in one another's plights.",
+  "release_date": "1995-03-16",
+  "runtime": 106,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.9,
+  "tmdb_vote_count": 74,
+  "tmdb_popularity": 1.1123,
+  "original_language": "en",
+  "poster_path": "/qMAvEXDLLhIKJzCSiMUgn1ypsO4.jpg",
+  "backdrop_path": "/ugDa1khwE3yDFBQ7KXnvCnO93Ot.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 46108,
+      "name": "Ubu Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 25,
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8654,
+      "name": "Matthew Modine",
+      "character": "Dave Goldman",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 5.9191,
+      "profile_path": "/z974QEHL12qUvLyk6hlWGAmDgom.jpg"
+    },
+    {
+      "personId": 1811,
+      "name": "Randy Quaid",
+      "character": "Vic Damico",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 3.2668,
+      "profile_path": "/rGWvDokcMLIwck10dKIutSoTM9r.jpg"
+    },
+    {
+      "personId": 781,
+      "name": "Paul Reiser",
+      "character": "Donny Carson",
+      "order": 2,
+      "cast_id": 2,
+      "popularity": 9.1715,
+      "profile_path": "/rGryzG00uSk8LsidacSBXVgo3iv.jpg"
+    },
+    {
+      "personId": 21197,
+      "name": "Janeane Garofalo",
+      "character": "Lucille",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.2426,
+      "profile_path": "/cdNooT0otUf5QVHDPm9bkGN7gNu.jpg"
+    },
+    {
+      "personId": 15851,
+      "name": "Amy Brenneman",
+      "character": "Susan",
+      "order": 4,
+      "cast_id": 13,
+      "popularity": 4.4857,
+      "profile_path": "/buQhbTkoNcAC12oNXo6RCIoVNQw.jpg"
+    },
+    {
+      "personId": 13446,
+      "name": "Eliza Dushku",
+      "character": "Emma",
+      "order": 5,
+      "cast_id": 5,
+      "popularity": 5.106,
+      "profile_path": "/lvu4Vo9GL7uOjtU59MDiy3QDPAZ.jpg"
+    },
+    {
+      "personId": 70746,
+      "name": "Ed Flanders",
+      "character": "Walter Sims",
+      "order": 6,
+      "cast_id": 14,
+      "popularity": 1.6118,
+      "profile_path": "/x88lHaesbu1ItCKIDnXn7VT8aTb.jpg"
+    },
+    {
+      "personId": 3208,
+      "name": "Maria Pitillo",
+      "character": "Kim",
+      "order": 7,
+      "cast_id": 15,
+      "popularity": 1.5316,
+      "profile_path": "/e2RqURksoCGa9fBqqMtOuY7pDk5.jpg"
+    },
+    {
+      "personId": 32225,
+      "name": "Lindsay Crouse",
+      "character": "Grace Damico",
+      "order": 8,
+      "cast_id": 16,
+      "popularity": 2.4958,
+      "profile_path": "/p9xfNphbZNvSfqxGA4za87VKuQI.jpg"
+    },
+    {
+      "personId": 12928,
+      "name": "Ross Malinger",
+      "character": "Ben",
+      "order": 9,
+      "cast_id": 18,
+      "popularity": 4.702,
+      "profile_path": "/7GiouqIfxSH14Xy8KToensUDVGK.jpg"
+    },
+    {
+      "personId": 73589,
+      "name": "Johnny Whitworth",
+      "character": "Max Cooper",
+      "order": 10,
+      "cast_id": 19,
+      "popularity": 2.1068,
+      "profile_path": "/v8pUdmBfRp4oQuG7PAAXtsvuomk.jpg"
+    },
+    {
+      "personId": 17859,
+      "name": "Wendell Pierce",
+      "character": "Hector",
+      "order": 11,
+      "cast_id": 20,
+      "popularity": 3.0922,
+      "profile_path": "/r6yKahL6Z8l9aUX5qvWxTmWl8Nm.jpg"
+    },
+    {
+      "personId": 2407733,
+      "name": "Cameron Boyd",
+      "character": "Jed Damico",
+      "order": 12,
+      "cast_id": 26,
+      "popularity": 0.1293,
+      "profile_path": null
+    },
+    {
+      "personId": 52404,
+      "name": "Mae Whitman",
+      "character": "Michele",
+      "order": 13,
+      "cast_id": 21,
+      "popularity": 3.8121,
+      "profile_path": "/hO1xLbFrfQLKH3Ln8eqjySgtxHX.jpg"
+    },
+    {
+      "personId": 35468,
+      "name": "Amber Benson",
+      "character": "Meg Damico",
+      "order": 14,
+      "cast_id": 22,
+      "popularity": 1.7198,
+      "profile_path": "/vEBdN1BhSOG2pCZPpCb6dgj6Wer.jpg"
+    },
+    {
+      "personId": 3026,
+      "name": "Rob Reiner",
+      "character": "Dr. David Townsend",
+      "order": 15,
+      "cast_id": 6,
+      "popularity": 7.1942,
+      "profile_path": "/rcmPU3YlhHQVzZlV197qhmRsgEL.jpg"
+    },
+    {
+      "personId": 18972,
+      "name": "Danny Masterson",
+      "character": "Mikey",
+      "order": 16,
+      "cast_id": 23,
+      "popularity": 1.2125,
+      "profile_path": "/AeYYtZhDCqJqDmaFcA0eJV0bGSx.jpg"
+    },
+    {
+      "personId": 70851,
+      "name": "Jack Black",
+      "character": "DJ at Party",
+      "order": 17,
+      "cast_id": 24,
+      "popularity": 11.7364,
+      "profile_path": "/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg"
+    },
+    {
+      "personId": 11627,
+      "name": "Jayne Brook",
+      "character": "Claire",
+      "order": 18,
+      "cast_id": 35,
+      "popularity": 1.7748,
+      "profile_path": "/wb0qGQoXwraTTnnsi1Lv4TcYFrT.jpg"
+    },
+    {
+      "personId": 58866,
+      "name": "Dana Wheeler-Nicholson",
+      "character": "Heidi",
+      "order": 19,
+      "cast_id": 36,
+      "popularity": 1.4281,
+      "profile_path": "/XQ3K2pidzBq1mZ729l0UTIYSC3.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 54967,
+      "name": "Sam Weisman",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5821,
+      "profile_path": "/bX51XazXDRFlh8Ft3CrGEgrIUJb.jpg"
+    }
+  ],
+  "keywords": []
+}

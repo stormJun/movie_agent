@@ -1,0 +1,318 @@
+{
+  "overview": "A naive business graduate is installed as president of a manufacturing company as part of a stock scam.",
+  "release_date": "1994-03-11",
+  "runtime": 111,
+  "budget": 25000000,
+  "revenue": 2800000,
+  "tmdb_vote_average": 7.066,
+  "tmdb_vote_count": 1138,
+  "tmdb_popularity": 2.1361,
+  "original_language": "en",
+  "poster_path": "/bp5Kg9iT9oSXsECgDkNJVqvIrxX.jpg",
+  "backdrop_path": "/c43BxV3gM685ZDy2Tq7zAUMwFN7.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+  ],
+  "production_companies": [
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1382,
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 1885,
+      "name": "Silver Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 10163,
+      "name": "Working Title Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 504,
+      "name": "Tim Robbins",
+      "character": "Norville Barnes",
+      "order": 0,
+      "cast_id": 13,
+      "popularity": 4.8325,
+      "profile_path": "/9DujxnBMVkizaeIyM0eXPMfXxR.jpg"
+    },
+    {
+      "personId": 10431,
+      "name": "Jennifer Jason Leigh",
+      "character": "Amy Archer",
+      "order": 1,
+      "cast_id": 14,
+      "popularity": 5.7385,
+      "profile_path": "/yYD255SwZkFc1wGgBMVRZ2i7Ina.jpg"
+    },
+    {
+      "personId": 1466,
+      "name": "Charles Durning",
+      "character": "Waring Hudsucker",
+      "order": 2,
+      "cast_id": 16,
+      "popularity": 1.7981,
+      "profile_path": "/bozKytaYVKoIbptxkMFWepK09U5.jpg"
+    },
+    {
+      "personId": 3636,
+      "name": "Paul Newman",
+      "character": "Sidney J. Mussburger",
+      "order": 3,
+      "cast_id": 15,
+      "popularity": 3.4191,
+      "profile_path": "/bP2fByqNR7BorsUNuD6nSm0u2vJ.jpg"
+    },
+    {
+      "personId": 108717,
+      "name": "Jim True-Frost",
+      "character": "Buzz",
+      "order": 4,
+      "cast_id": 19,
+      "popularity": 1.0623,
+      "profile_path": "/6ta8BGWoQixf8oRZblnQLJyTVOV.jpg"
+    },
+    {
+      "personId": 4251,
+      "name": "John Mahoney",
+      "character": "Chief",
+      "order": 5,
+      "cast_id": 18,
+      "popularity": 1.8003,
+      "profile_path": "/paVSw7Brdp6MKa2j4UPukA0KHs3.jpg"
+    },
+    {
+      "personId": 8854,
+      "name": "Bill Cobbs",
+      "character": "Moses",
+      "order": 6,
+      "cast_id": 20,
+      "popularity": 2.9606,
+      "profile_path": "/xRBrI4rPkZuMBMDh8GPke20ZgUv.jpg"
+    },
+    {
+      "personId": 11357,
+      "name": "Bruce Campbell",
+      "character": "Smitty",
+      "order": 7,
+      "cast_id": 21,
+      "popularity": 2.6773,
+      "profile_path": "/p9335ljr7luOWsfwZSOlsIzFJKE.jpg"
+    },
+    {
+      "personId": 4510,
+      "name": "Harry Bugin",
+      "character": "Aloysius",
+      "order": 8,
+      "cast_id": 22,
+      "popularity": 2.2396,
+      "profile_path": "/n46mK0M4O84MjPyGE6XeWutAd36.jpg"
+    },
+    {
+      "personId": 168648,
+      "name": "John Seitz",
+      "character": "Benny",
+      "order": 9,
+      "cast_id": 29,
+      "popularity": 1.6997,
+      "profile_path": "/5mY1YFezwwQAdfbnS8UUCO8lo4F.jpg"
+    },
+    {
+      "personId": 4887,
+      "name": "Joe Grifasi",
+      "character": "Lou",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 1.4496,
+      "profile_path": "/30c0szBZvqsk3nuOgg2A9PeSQFt.jpg"
+    },
+    {
+      "personId": 12888,
+      "name": "Roy Brocksmith",
+      "character": "Board Member",
+      "order": 11,
+      "cast_id": 30,
+      "popularity": 1.1723,
+      "profile_path": "/2GIyB1EMdsgDeIeE20QmqSvxdtT.jpg"
+    },
+    {
+      "personId": 4257,
+      "name": "I.M. Hobson",
+      "character": "Board Member (Myron Addison)",
+      "order": 12,
+      "cast_id": 31,
+      "popularity": 1.1738,
+      "profile_path": "/iU0BwBTILhQ4qWrDVryxwa1aI7N.jpg"
+    },
+    {
+      "personId": 1527344,
+      "name": "John Scanlan",
+      "character": "Board Member",
+      "order": 13,
+      "cast_id": 56,
+      "popularity": 0.1711,
+      "profile_path": null
+    },
+    {
+      "personId": 192660,
+      "name": "Jerome Dempsey",
+      "character": "Board Member",
+      "order": 14,
+      "cast_id": 57,
+      "popularity": 0.7501,
+      "profile_path": null
+    },
+    {
+      "personId": 3367586,
+      "name": "John Wylie",
+      "character": "Board Member",
+      "order": 15,
+      "cast_id": 58,
+      "popularity": 2.0757,
+      "profile_path": null
+    },
+    {
+      "personId": 129665,
+      "name": "Gary Allen",
+      "character": "Board Member",
+      "order": 16,
+      "cast_id": 59,
+      "popularity": 0.5483,
+      "profile_path": null
+    },
+    {
+      "personId": 5172,
+      "name": "Richard Woods",
+      "character": "Board Member",
+      "order": 17,
+      "cast_id": 60,
+      "popularity": 0.2719,
+      "profile_path": "/fppW4NSl5krl8DONopfO6YTnf9j.jpg"
+    },
+    {
+      "personId": 3820276,
+      "name": "Peter McPherson",
+      "character": "Board Member",
+      "order": 18,
+      "cast_id": 61,
+      "popularity": 0.0573,
+      "profile_path": null
+    },
+    {
+      "personId": 9294,
+      "name": "David Byrd",
+      "character": "Dr. Hugo Bronfenbrenner",
+      "order": 19,
+      "cast_id": 62,
+      "popularity": 0.8735,
+      "profile_path": "/foS0mfzOAq1MdhgJ9wMfqqbzLnq.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1223,
+      "name": "Joel Coen",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.7956,
+      "profile_path": "/rgVaJNkZCgMarUcZuUAsVfXMWk3.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 613,
+      "name": "new year's eve"
+    },
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 736,
+      "name": "journalist"
+    },
+    {
+      "id": 236,
+      "name": "suicide"
+    },
+    {
+      "id": 4812,
+      "name": "plan"
+    },
+    {
+      "id": 417,
+      "name": "corruption"
+    },
+    {
+      "id": 1568,
+      "name": "undercover"
+    },
+    {
+      "id": 1436,
+      "name": "inventor"
+    },
+    {
+      "id": 5306,
+      "name": "boss"
+    },
+    {
+      "id": 5340,
+      "name": "investigation"
+    },
+    {
+      "id": 6133,
+      "name": "industry"
+    },
+    {
+      "id": 10594,
+      "name": "money"
+    },
+    {
+      "id": 155457,
+      "name": "screwball comedy"
+    },
+    {
+      "id": 203525,
+      "name": "board"
+    },
+    {
+      "id": 203528,
+      "name": "stocks"
+    },
+    {
+      "id": 208611,
+      "name": "1950s"
+    },
+    {
+      "id": 220219,
+      "name": "hula hoop"
+    }
+  ]
+}

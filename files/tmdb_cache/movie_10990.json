@@ -1,0 +1,274 @@
+{
+  "overview": "In 1950s Los Angeles, a special crime squad of the LAPD investigates the murder of a young woman.",
+  "release_date": "1996-04-26",
+  "runtime": 107,
+  "budget": 29000000,
+  "revenue": 11500000,
+  "tmdb_vote_average": 5.983,
+  "tmdb_vote_count": 318,
+  "tmdb_popularity": 1.7472,
+  "original_language": "en",
+  "poster_path": "/tT5rYDXloX5ZxISr8HdlRC9TBcP.jpg",
+  "backdrop_path": "/3RbfSjGLDKHSvoUEVxPZHODJMXS.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Mystery",
+    "Thriller",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    },
+    {
+      "id": 1644,
+      "name": "Largo Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 80,
+      "name": "The Zanuck Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1733,
+      "name": "Nick Nolte",
+      "character": "Max Hoover",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 5.9989,
+      "profile_path": "/jpYzFBi6zfn8CHVaXmqgiOTas4V.jpg"
+    },
+    {
+      "personId": 29369,
+      "name": "Melanie Griffith",
+      "character": "Katherine Hoover",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 7.2525,
+      "profile_path": "/yffPcqlZMsXTCAZ84a1tLmdcIS6.jpg"
+    },
+    {
+      "personId": 9046,
+      "name": "Chazz Palminteri",
+      "character": "Elleroy Coolidge",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.707,
+      "profile_path": "/mCbjKVyE5B2tleshbJw44tw3ktZ.jpg"
+    },
+    {
+      "personId": 147,
+      "name": "Michael Madsen",
+      "character": "Eddie Hall",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 9.432,
+      "profile_path": "/2pKJJKeCggtLOE4hzqgq07KYqFh.jpg"
+    },
+    {
+      "personId": 2969,
+      "name": "Chris Penn",
+      "character": "Arthur Relyea",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 2.3942,
+      "profile_path": "/c9iDdAhUqvbRklerFADdgjXrBAT.jpg"
+    },
+    {
+      "personId": 4515,
+      "name": "Treat Williams",
+      "character": "Fitzgerald",
+      "order": 5,
+      "cast_id": 28,
+      "popularity": 2.4043,
+      "profile_path": "/jbRMOU2K7ePg7Zs59nfgEYLeD1e.jpg"
+    },
+    {
+      "personId": 6161,
+      "name": "Jennifer Connelly",
+      "character": "Allison Pond",
+      "order": 6,
+      "cast_id": 13,
+      "popularity": 10.162,
+      "profile_path": "/wdmcJagSRJ65AuJ4IUCzuHAdvgy.jpg"
+    },
+    {
+      "personId": 24516,
+      "name": "Daniel Baldwin",
+      "character": "McCafferty",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 1.9175,
+      "profile_path": "/8dp3G3EvnQrp3awh4gc1nNsI60j.jpg"
+    },
+    {
+      "personId": 37041,
+      "name": "Andrew McCarthy",
+      "character": "Jimmy Fields",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 4.3839,
+      "profile_path": "/swlewiX5zUjF5za9JOFXIVrL3kH.jpg"
+    },
+    {
+      "personId": 6949,
+      "name": "John Malkovich",
+      "character": "General Thomas Timms",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 5.1002,
+      "profile_path": "/8YfVmWi9Z1iyX9Oc90yd9dbhSfL.jpg"
+    },
+    {
+      "personId": 3497,
+      "name": "Kyle Chandler",
+      "character": "Captain",
+      "order": 10,
+      "cast_id": 17,
+      "popularity": 3.1882,
+      "profile_path": "/66n7XNj1dyYkzCBWR3Lq8Vz4PJ1.jpg"
+    },
+    {
+      "personId": 21523,
+      "name": "Ed Lauter",
+      "character": "Earl",
+      "order": 11,
+      "cast_id": 18,
+      "popularity": 1.294,
+      "profile_path": "/3oWs1Di6KipqQgIg97y4emyyRaE.jpg"
+    },
+    {
+      "personId": 89251,
+      "name": "Melinda Clarke",
+      "character": "Cigarette Girl",
+      "order": 12,
+      "cast_id": 19,
+      "popularity": 2.5481,
+      "profile_path": "/xFNeQGhBvqz4eo3QcvnqXtPsAIO.jpg"
+    },
+    {
+      "personId": 59184,
+      "name": "Ernie Lively",
+      "character": "Foreman",
+      "order": 13,
+      "cast_id": 20,
+      "popularity": 1.3149,
+      "profile_path": "/guIP10XZFN7p6UF6DiP3neSEifP.jpg"
+    },
+    {
+      "personId": 100446,
+      "name": "Suzanne Solari",
+      "character": "Perino's Girl",
+      "order": 14,
+      "cast_id": 21,
+      "popularity": 0.3137,
+      "profile_path": null
+    },
+    {
+      "personId": 99630,
+      "name": "Alisa Christensen",
+      "character": "Spaghetti Girl",
+      "order": 15,
+      "cast_id": 22,
+      "popularity": 1.0439,
+      "profile_path": "/dkwGi2l5fCLgpXO41x4HmAbzc3H.jpg"
+    },
+    {
+      "personId": 6905,
+      "name": "Bruce Dern",
+      "character": "The Chief",
+      "order": 16,
+      "cast_id": 23,
+      "popularity": 4.5235,
+      "profile_path": "/5RKGcElQiFZh4Mu9gInyUhr9Uu7.jpg"
+    },
+    {
+      "personId": 7071,
+      "name": "Louise Fletcher",
+      "character": "Esther",
+      "order": 17,
+      "cast_id": 24,
+      "popularity": 1.6078,
+      "profile_path": "/hN15em5LqXqDe1QgDa6lXK9fx3z.jpg"
+    },
+    {
+      "personId": 2879,
+      "name": "Rob Lowe",
+      "character": "Hoodlum",
+      "order": 18,
+      "cast_id": 25,
+      "popularity": 3.6017,
+      "profile_path": "/77decDyKXB34i9A1FnMM1suI5cA.jpg"
+    },
+    {
+      "personId": 52267,
+      "name": "William Petersen",
+      "character": "Jack Flynn",
+      "order": 19,
+      "cast_id": 26,
+      "popularity": 2.7552,
+      "profile_path": "/rA0QRKqpXef7ciO2zY6CnHZC3cO.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 7256,
+      "name": "Lee Tamahori",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8858,
+      "profile_path": "/lkivtT9U7gLXVnhq5qF9GL3k7NN.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 549,
+      "name": "prostitute"
+    },
+    {
+      "id": 6149,
+      "name": "police"
+    },
+    {
+      "id": 5340,
+      "name": "investigation"
+    },
+    {
+      "id": 5422,
+      "name": "special unit"
+    },
+    {
+      "id": 6562,
+      "name": "celebrity"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 12670,
+      "name": "los angeles, california"
+    },
+    {
+      "id": 208611,
+      "name": "1950s"
+    }
+  ]
+}

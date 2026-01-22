@@ -1,0 +1,270 @@
+{
+  "overview": "The U.S. President, low in the opinion polls, gets talked into raising his popularity by trying to start a cold war with Canada.",
+  "release_date": "1995-06-08",
+  "runtime": 91,
+  "budget": 11000000,
+  "revenue": 178104,
+  "tmdb_vote_average": 5.744,
+  "tmdb_vote_count": 238,
+  "tmdb_popularity": 2.8652,
+  "original_language": "en",
+  "poster_path": "/bzK2aQ8xUB67kwCR5LHTSY99HtT.jpg",
+  "backdrop_path": "/c4vkEcwWiRAg5TAb4sbuIElSR4T.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 1382,
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 278,
+      "name": "Propaganda Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 903,
+      "name": "David Brown Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 36863,
+      "name": "Maverick Picture Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 26137,
+      "name": "Dog Eat Dog Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 37,
+      "name": "Gramercy Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 7180,
+      "name": "John Candy",
+      "character": "Sheriff Bud B. Boomer",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 3.1451,
+      "profile_path": "/uvLWbMDE6UfWNF5tfrsrC9NqeEA.jpg"
+    },
+    {
+      "personId": 21278,
+      "name": "Alan Alda",
+      "character": "U.S. President",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 3.0882,
+      "profile_path": "/6ccCKFhXiMmjLoiFDyJaU4eJaQO.jpg"
+    },
+    {
+      "personId": 24203,
+      "name": "Rhea Perlman",
+      "character": "Deputy Honey",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 1.9854,
+      "profile_path": "/3kUrd75OesnsmicI15dWdswHy7T.jpg"
+    },
+    {
+      "personId": 7166,
+      "name": "Kevin Pollak",
+      "character": "Stuart Smiley, National Security Advisor",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 2.2416,
+      "profile_path": "/jWhKIVtmc3vIoS2l1VsdNwMAMJB.jpg"
+    },
+    {
+      "personId": 9626,
+      "name": "Rip Torn",
+      "character": "General Dick Panzer",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 2.3072,
+      "profile_path": "/jP74MHyQl6R8mH7aZKHrrD2Qjj2.jpg"
+    },
+    {
+      "personId": 18916,
+      "name": "Kevin J. O'Connor",
+      "character": "Roy Boy",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 2.2717,
+      "profile_path": "/9ZO0QYkxjhThd8IVqSJw7gHyQ68.jpg"
+    },
+    {
+      "personId": 5502,
+      "name": "Bill Nunn",
+      "character": "Kabral Jabar",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 1.7516,
+      "profile_path": "/trxNvS6g5yvwbXzx2LK6JqutE5z.jpg"
+    },
+    {
+      "personId": 3173,
+      "name": "G. D. Spradlin",
+      "character": "R.J. Hacker",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 0.8796,
+      "profile_path": "/pWNa9H3ABB3Ug9CwTfVNtHsCFjV.jpg"
+    },
+    {
+      "personId": 26485,
+      "name": "Jim Belushi",
+      "character": "Charles Jackal, NBS Reporter",
+      "order": 8,
+      "cast_id": 10,
+      "popularity": 3.5599,
+      "profile_path": "/7XhuV2ovoy01xxsegxzUGHjgUqw.jpg"
+    },
+    {
+      "personId": 3214,
+      "name": "Steven Wright",
+      "character": "RCMP Officer at Headquarters",
+      "order": 9,
+      "cast_id": 11,
+      "popularity": 1.1401,
+      "profile_path": "/9Q9buDjfm6uq0VE86MZ01o96lyG.jpg"
+    },
+    {
+      "personId": 1274,
+      "name": "Brad Sullivan",
+      "character": "Gus, CIA Canada Desk Agent",
+      "order": 10,
+      "cast_id": 12,
+      "popularity": 1.6577,
+      "profile_path": "/8Ia7FTDLxeOokH7UbR6B4FQBEIK.jpg"
+    },
+    {
+      "personId": 15253,
+      "name": "Stanley Anderson",
+      "character": "Edwin S. Simon, NBS News Anchor",
+      "order": 11,
+      "cast_id": 13,
+      "popularity": 2.3463,
+      "profile_path": "/6kHp1SlLRw0NobVdY8X6DbBAPt8.jpg"
+    },
+    {
+      "personId": 92788,
+      "name": "Richard Council",
+      "character": "Russian President Vladimir Krushkin",
+      "order": 12,
+      "cast_id": 14,
+      "popularity": 0.892,
+      "profile_path": "/zihavy80dg9VXb0iQjIHGXccjVA.jpg"
+    },
+    {
+      "personId": 12900,
+      "name": "Wallace Shawn",
+      "character": "Canadian Prime Minister Clark MacDonald",
+      "order": 13,
+      "cast_id": 15,
+      "popularity": 3.9917,
+      "profile_path": "/wVaM1WlFKDce4esThwL4XtNLhOe.jpg"
+    },
+    {
+      "personId": 180878,
+      "name": "Michael Copeman",
+      "character": "Panzer's Aide",
+      "order": 14,
+      "cast_id": 39,
+      "popularity": 1.4294,
+      "profile_path": "/wfzPhnXabS50dpF23Ybz0CJtmsN.jpg"
+    },
+    {
+      "personId": 2216201,
+      "name": "Beth Amos",
+      "character": "Ruthie",
+      "order": 15,
+      "cast_id": 35,
+      "popularity": 0.2483,
+      "profile_path": "/rcfzF2AtoXJHLNPhadrQhtz5U5N.jpg"
+    },
+    {
+      "personId": 1228841,
+      "name": "Bruce Hunter",
+      "character": "President's Aide",
+      "order": 16,
+      "cast_id": 40,
+      "popularity": 1.4134,
+      "profile_path": "/miqtD8yRACLlcBqWYEvB9T4oI5u.jpg"
+    },
+    {
+      "personId": 2199079,
+      "name": "Jack Mather",
+      "character": "Pops",
+      "order": 17,
+      "cast_id": 41,
+      "popularity": 0.3211,
+      "profile_path": null
+    },
+    {
+      "personId": 44246,
+      "name": "Kenner Ames",
+      "character": "Mountie Sergeant",
+      "order": 18,
+      "cast_id": 42,
+      "popularity": 1.7815,
+      "profile_path": null
+    },
+    {
+      "personId": 1351508,
+      "name": "Roger Dunn",
+      "character": "Mountie Major",
+      "order": 19,
+      "cast_id": 19,
+      "popularity": 0.716,
+      "profile_path": "/7MG0DYaOab0J97fsCiRdgfdSjml.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 17087,
+      "name": "Michael Moore",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.7516,
+      "profile_path": "/m5YViuBUXfKAHNEUObGpzhzQPgE.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 833,
+      "name": "the white house"
+    },
+    {
+      "id": 169086,
+      "name": "political satire"
+    },
+    {
+      "id": 222998,
+      "name": "international relations"
+    },
+    {
+      "id": 276081,
+      "name": "war plan red"
+    }
+  ]
+}

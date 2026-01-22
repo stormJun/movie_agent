@@ -1,0 +1,265 @@
+{
+  "overview": "The story of a young, gay, black, con artist who, posing as the son of Sidney Poitier, cunningly maneuvers his way into the lives of a white, upper-class New York family.",
+  "release_date": "1993-12-08",
+  "runtime": 112,
+  "budget": 15000000,
+  "revenue": 6284090,
+  "tmdb_vote_average": 6.429,
+  "tmdb_vote_count": 352,
+  "tmdb_popularity": 1.1431,
+  "original_language": "en",
+  "poster_path": "/oH0bl69uZZA6dAclgFRkm1Vwcry.jpg",
+  "backdrop_path": "/e9L5dpi41k3YkbavwgOGXnQGCe1.jpg",
+  "tmdb_genres_raw": [
+    "Mystery",
+    "Drama",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 10104,
+      "name": "New Regency Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 36889,
+      "name": "Maiden Movies",
+      "origin_country": ""
+    },
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8893,
+      "name": "Stockard Channing",
+      "character": "Ouisa",
+      "order": 0,
+      "cast_id": 5,
+      "popularity": 2.2977,
+      "profile_path": "/qAYBGvapAnnhpoZuYFyoqetncs5.jpg"
+    },
+    {
+      "personId": 2888,
+      "name": "Will Smith",
+      "character": "Paul",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 7.0496,
+      "profile_path": "/8TlKqbXYgHmmaEoPBJ7djJ8Rxxa.jpg"
+    },
+    {
+      "personId": 55636,
+      "name": "Donald Sutherland",
+      "character": "Flan",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 3.4917,
+      "profile_path": "/yM8WO2BYqFvgQXAvf4CIuCYnY4j.jpg"
+    },
+    {
+      "personId": 1327,
+      "name": "Ian McKellen",
+      "character": "Geoffrey",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 5.9185,
+      "profile_path": "/coWjgMEYJjk2OrNddlXCBm8EIr3.jpg"
+    },
+    {
+      "personId": 54782,
+      "name": "Mary Beth Hurt",
+      "character": "Kitty",
+      "order": 4,
+      "cast_id": 64,
+      "popularity": 1.0287,
+      "profile_path": "/kX58VOb6a5c4kmjfCIudcWqU24H.jpg"
+    },
+    {
+      "personId": 52374,
+      "name": "Bruce Davison",
+      "character": "Larkin",
+      "order": 5,
+      "cast_id": 65,
+      "popularity": 2.5524,
+      "profile_path": "/41JtouCUhnnBwWmdsemPydtk3FB.jpg"
+    },
+    {
+      "personId": 15416,
+      "name": "Richard Masur",
+      "character": "Dr. Fine",
+      "order": 6,
+      "cast_id": 66,
+      "popularity": 2.9447,
+      "profile_path": "/yRJCKYoW16HaDEXy37ORnBFBOg7.jpg"
+    },
+    {
+      "personId": 1904,
+      "name": "Anthony Michael Hall",
+      "character": "Trent",
+      "order": 7,
+      "cast_id": 67,
+      "popularity": 2.282,
+      "profile_path": "/nLthzoCuNxxd3KteIrnnMg1066G.jpg"
+    },
+    {
+      "personId": 69122,
+      "name": "Heather Graham",
+      "character": "Elizabeth",
+      "order": 8,
+      "cast_id": 68,
+      "popularity": 4.5352,
+      "profile_path": "/avYdNkeg1oTvmrNJbFDcTlBCkKs.jpg"
+    },
+    {
+      "personId": 53574,
+      "name": "Eric Thal",
+      "character": "Rick",
+      "order": 9,
+      "cast_id": 69,
+      "popularity": 0.8721,
+      "profile_path": "/mohh0ONnWuGQPRm4VxQ7JpN2WZD.jpg"
+    },
+    {
+      "personId": 6165,
+      "name": "Anthony Rapp",
+      "character": "Ben",
+      "order": 10,
+      "cast_id": 70,
+      "popularity": 1.5172,
+      "profile_path": "/9Pj11mrX2MsWsOiHRjVDxYS93K5.jpg"
+    },
+    {
+      "personId": 90609,
+      "name": "Osgood Perkins",
+      "character": "Woody",
+      "order": 11,
+      "cast_id": 71,
+      "popularity": 2.1761,
+      "profile_path": "/sshAqrQ2DV2TUsgBAr1XaYqqxkm.jpg"
+    },
+    {
+      "personId": 10130,
+      "name": "Catherine Kellner",
+      "character": "Tess",
+      "order": 12,
+      "cast_id": 72,
+      "popularity": 1.4428,
+      "profile_path": "/uBCxiv5z4Y3o7600GffU8BdPROu.jpg"
+    },
+    {
+      "personId": 15344,
+      "name": "J.J. Abrams",
+      "character": "Doug",
+      "order": 13,
+      "cast_id": 73,
+      "popularity": 3.2728,
+      "profile_path": "/uiEVOx3QclxnN76t8PU6v5IcUUP.jpg"
+    },
+    {
+      "personId": 1960491,
+      "name": "Joe Pentangelo",
+      "character": "Police Officer",
+      "order": 14,
+      "cast_id": 74,
+      "popularity": 0.6285,
+      "profile_path": "/cvxOaG6UnDMKHUTrmqVwsQqDeOy.jpg"
+    },
+    {
+      "personId": 3652403,
+      "name": "Lou Milione",
+      "character": "Hustler",
+      "order": 15,
+      "cast_id": 75,
+      "popularity": 0.0873,
+      "profile_path": null
+    },
+    {
+      "personId": 32785,
+      "name": "Brooke Hayward",
+      "character": "Connie",
+      "order": 16,
+      "cast_id": 76,
+      "popularity": 0.375,
+      "profile_path": "/vZ1x2gJp2rCfwWh9YG5gWDnJtbC.jpg"
+    },
+    {
+      "personId": 1334290,
+      "name": "Peter Duchin",
+      "character": "Sandy",
+      "order": 17,
+      "cast_id": 77,
+      "popularity": 1.1214,
+      "profile_path": "/2TamDLVQ790Y83lRUzeoF7ianws.jpg"
+    },
+    {
+      "personId": 1247314,
+      "name": "Sam Stoneburner",
+      "character": "Carter",
+      "order": 18,
+      "cast_id": 78,
+      "popularity": 0.4194,
+      "profile_path": null
+    },
+    {
+      "personId": 1217963,
+      "name": "Maeve McGuire",
+      "character": "Polly",
+      "order": 19,
+      "cast_id": 79,
+      "popularity": 0.7196,
+      "profile_path": "/17492U7yihuk5R35Jx0rb4W7Pa5.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 64061,
+      "name": "Fred Schepisi",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.51,
+      "profile_path": "/9W1St7ZYiMY8tsx2vx4bPfy1TaY.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 3202,
+      "name": "con man"
+    },
+    {
+      "id": 14893,
+      "name": "art"
+    },
+    {
+      "id": 155795,
+      "name": "art dealer"
+    },
+    {
+      "id": 325773,
+      "name": "audacious"
+    },
+    {
+      "id": 325806,
+      "name": "empathetic"
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "overview": "A black detective becomes embroiled in a web of danger while searching for a fortune in missing drug money. During the course of his investigation, he encounters various old connections, ultimately confronting the criminal responsible for Shame's expulsion from the force. He must also deal with two women, Angela, a beautiful old flame, and Peaches, his energetic but annoying sidekick.",
+  "release_date": "1994-11-23",
+  "runtime": 100,
+  "budget": 10000000,
+  "revenue": 29392418,
+  "tmdb_vote_average": 5.598,
+  "tmdb_vote_count": 117,
+  "tmdb_popularity": 1.1255,
+  "original_language": "en",
+  "poster_path": "/v5XUfLrdoGfatObGXhqckYTNqFT.jpg",
+  "backdrop_path": "/sXjws2JQcuv2yrL5TVgrWSvEtyY.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Crime",
+    "Action"
+  ],
+  "production_companies": [
+    {
+      "id": 175,
+      "name": "Caravan Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 915,
+      "name": "Hollywood Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 35689,
+      "name": "Keenen Ivory Wayans",
+      "character": "Shame",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.0975,
+      "profile_path": "/e9XRdXolDV8RjGPHPXH6IISDTSP.jpg"
+    },
+    {
+      "personId": 17764,
+      "name": "Charles S. Dutton",
+      "character": "Rothmiller",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.8618,
+      "profile_path": "/eNLs4JLILqSY50Tq5QMkrlBxD0H.jpg"
+    },
+    {
+      "personId": 9575,
+      "name": "Jada Pinkett Smith",
+      "character": "Peaches",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.9895,
+      "profile_path": "/vt1Z1Fsu7gjp4L0OHey9Aa79lWj.jpg"
+    },
+    {
+      "personId": 53918,
+      "name": "Salli Richardson-Whitfield",
+      "character": "Angela",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.1754,
+      "profile_path": "/wMQaIzY5kyRQd8UwF1lphKK6oQm.jpg"
+    },
+    {
+      "personId": 36218,
+      "name": "Andrew Divoff",
+      "character": "Mendoza",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.918,
+      "profile_path": "/7jdGolskoipA8HRJHjLdCLzc7Zs.jpg"
+    },
+    {
+      "personId": 95188,
+      "name": "Corwin Hawkins",
+      "character": "Wayman",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 0.7416,
+      "profile_path": "/2I3S7mCXMN5IlT5XQEuwHyrdQbR.jpg"
+    },
+    {
+      "personId": 48136,
+      "name": "Gary Carlos Cervantes",
+      "character": "Luis",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 1.5102,
+      "profile_path": "/bdmnlMM9tgAevlO4ZkiQLGZW0XD.jpg"
+    },
+    {
+      "personId": 18914,
+      "name": "Gregory Sierra",
+      "character": "Captain Nunez",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 1.4153,
+      "profile_path": "/edEf7zRssGVAXt0XRKT8yOpG3gm.jpg"
+    },
+    {
+      "personId": 95189,
+      "name": "Kim Wayans",
+      "character": "Diane",
+      "order": 8,
+      "cast_id": 9,
+      "popularity": 1.0838,
+      "profile_path": "/pfGpRchtq8zQ6j6Pj2J0flDjzfa.jpg"
+    },
+    {
+      "personId": 87332,
+      "name": "Andrew Shaifer",
+      "character": "Bernard",
+      "order": 9,
+      "cast_id": 10,
+      "popularity": 0.6992,
+      "profile_path": "/wUFxe40TJ6wRs0kny8FwM8STWR.jpg"
+    },
+    {
+      "personId": 27590,
+      "name": "Chris Spencer",
+      "character": "Benny",
+      "order": 10,
+      "cast_id": 11,
+      "popularity": 0.6552,
+      "profile_path": "/zpO4NOydiMgNvf9LBowUrIM8swr.jpg"
+    },
+    {
+      "personId": 88526,
+      "name": "Devin DeVasquez",
+      "character": "Mendoza's Girl",
+      "order": 11,
+      "cast_id": 12,
+      "popularity": 0.5042,
+      "profile_path": "/eO2WrdVda2unbUdgSVoj6Sif2Us.jpg"
+    },
+    {
+      "personId": 31007,
+      "name": "John Capodice",
+      "character": "Mob Boss",
+      "order": 12,
+      "cast_id": 13,
+      "popularity": 1.1096,
+      "profile_path": "/lN5VuGKFqfOFH5F8zso34I77sy2.jpg"
+    },
+    {
+      "personId": 95190,
+      "name": "Craig Ng",
+      "character": "Chun Yung Fat",
+      "order": 13,
+      "cast_id": 14,
+      "popularity": 0.6486,
+      "profile_path": "/7e2USRibdHfAN8ktKNEQpqf0wCU.jpg"
+    },
+    {
+      "personId": 95191,
+      "name": "Don Diamont",
+      "character": "Chad",
+      "order": 14,
+      "cast_id": 15,
+      "popularity": 1.201,
+      "profile_path": "/wAb45nCsAZW4YRH50nM2nqZ6fQC.jpg"
+    },
+    {
+      "personId": 95192,
+      "name": "Randy Hall",
+      "character": "Hank",
+      "order": 15,
+      "cast_id": 16,
+      "popularity": 1.9884,
+      "profile_path": "/odl5vFiM1iSiX4sw2OjWcpKnklS.jpg"
+    },
+    {
+      "personId": 95193,
+      "name": "Doug Kruse",
+      "character": "Skinhead Speaker",
+      "order": 16,
+      "cast_id": 17,
+      "popularity": 0.9086,
+      "profile_path": "/fMuEqtFQEFJrysRc9LB1t6OOo2L.jpg"
+    },
+    {
+      "personId": 95195,
+      "name": "Michael Bofshever",
+      "character": "Mr. Gold",
+      "order": 17,
+      "cast_id": 18,
+      "popularity": 1.0514,
+      "profile_path": "/t7vAtGPSUfvPRIAvKfaCJ2JNrQW.jpg"
+    },
+    {
+      "personId": 95196,
+      "name": "Renee Hicks",
+      "character": "Hooker",
+      "order": 18,
+      "cast_id": 19,
+      "popularity": 0.6933,
+      "profile_path": null
+    },
+    {
+      "personId": 95197,
+      "name": "Robert Schimmel",
+      "character": "The John",
+      "order": 19,
+      "cast_id": 20,
+      "popularity": 0.8064,
+      "profile_path": "/cYFBfEQ9JbiJ0b7jxQFowa5ot9d.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 35689,
+      "name": "Keenen Ivory Wayans",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.0975,
+      "profile_path": "/e9XRdXolDV8RjGPHPXH6IISDTSP.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2151,
+      "name": "drug crime"
+    },
+    {
+      "id": 1812,
+      "name": "fbi"
+    },
+    {
+      "id": 14964,
+      "name": "drugs"
+    },
+    {
+      "id": 155790,
+      "name": "private detective"
+    },
+    {
+      "id": 222423,
+      "name": "blast"
+    }
+  ]
+}

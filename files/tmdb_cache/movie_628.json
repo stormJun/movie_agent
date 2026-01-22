@@ -1,0 +1,299 @@
+{
+  "overview": "A vampire relates his epic life story of love, betrayal, loneliness, and dark hunger to an over-curious reporter.",
+  "release_date": "1994-11-11",
+  "runtime": 123,
+  "budget": 60000000,
+  "revenue": 223664608,
+  "tmdb_vote_average": 7.382,
+  "tmdb_vote_count": 6240,
+  "tmdb_popularity": 8.4918,
+  "original_language": "en",
+  "poster_path": "/2162lAT2MP36MyJd2sttmj5du5T.jpg",
+  "backdrop_path": "/3fChciF2G1wXHsyTfJD9y7uN6Il.jpg",
+  "tmdb_genres_raw": [
+    "Horror",
+    "Drama",
+    "Fantasy"
+  ],
+  "production_companies": [
+    {
+      "id": 360,
+      "name": "Geffen Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 500,
+      "name": "Tom Cruise",
+      "character": "Lestat",
+      "order": 0,
+      "cast_id": 19,
+      "popularity": 15.2673,
+      "profile_path": "/3mShHjSQR7NXOVbdTu5rT2Qd0MN.jpg"
+    },
+    {
+      "personId": 287,
+      "name": "Brad Pitt",
+      "character": "Louis",
+      "order": 1,
+      "cast_id": 18,
+      "popularity": 9.6902,
+      "profile_path": "/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+    },
+    {
+      "personId": 3131,
+      "name": "Antonio Banderas",
+      "character": "Armand",
+      "order": 2,
+      "cast_id": 21,
+      "popularity": 5.8003,
+      "profile_path": "/fce7zl6elUzsv7wudHFc7RgFtjD.jpg"
+    },
+    {
+      "personId": 2224,
+      "name": "Christian Slater",
+      "character": "Malloy",
+      "order": 3,
+      "cast_id": 22,
+      "popularity": 4.3336,
+      "profile_path": "/6ww3uweEEXMlvtNjTlgBHxLErPF.jpg"
+    },
+    {
+      "personId": 9029,
+      "name": "Stephen Rea",
+      "character": "Santiago",
+      "order": 4,
+      "cast_id": 23,
+      "popularity": 2.1574,
+      "profile_path": "/n52WDwObYghPTfV1TZ1EOVIWUGS.jpg"
+    },
+    {
+      "personId": 205,
+      "name": "Kirsten Dunst",
+      "character": "Claudia",
+      "order": 5,
+      "cast_id": 20,
+      "popularity": 7.35,
+      "profile_path": "/yhLKGjuiMMdbGnFrR8AREkCZcVF.jpg"
+    },
+    {
+      "personId": 9031,
+      "name": "Domiziana Giordano",
+      "character": "Madeleine",
+      "order": 6,
+      "cast_id": 25,
+      "popularity": 0.831,
+      "profile_path": "/w99tdRPvDUw0rlbDWn6RWnM9Rq.jpg"
+    },
+    {
+      "personId": 9030,
+      "name": "Thandiwe Newton",
+      "character": "Yvette",
+      "order": 7,
+      "cast_id": 24,
+      "popularity": 5.7174,
+      "profile_path": "/hZQLvxj7nV7pBrRyWTvWVz1CDi8.jpg"
+    },
+    {
+      "personId": 149876,
+      "name": "Laure Marsac",
+      "character": "Mortal Woman on Stage",
+      "order": 8,
+      "cast_id": 28,
+      "popularity": 0.8063,
+      "profile_path": "/sCz2f69Q2ummSuKDOD6XURsfiG1.jpg"
+    },
+    {
+      "personId": 16459,
+      "name": "John McConnell",
+      "character": "Gambler",
+      "order": 9,
+      "cast_id": 58,
+      "popularity": 2.0528,
+      "profile_path": "/gAHxNx9PhT2xVqct6ac61tKFabT.jpg"
+    },
+    {
+      "personId": 3608574,
+      "name": "Mike Seelig",
+      "character": "Pimp",
+      "order": 10,
+      "cast_id": 45,
+      "popularity": 0.0631,
+      "profile_path": null
+    },
+    {
+      "personId": 1218000,
+      "name": "Bellina Logan",
+      "character": "Tavern Girl",
+      "order": 11,
+      "cast_id": 30,
+      "popularity": 1.9306,
+      "profile_path": "/mZvxOK0l7zIRf8jEkcfEpqyJgR5.jpg"
+    },
+    {
+      "personId": 2154797,
+      "name": "Lyla Hay Owen",
+      "character": "Widow St. Clair",
+      "order": 12,
+      "cast_id": 40,
+      "popularity": 1.0936,
+      "profile_path": "/zvZAhOjqPD7GRLFGm6GSEACYchd.jpg"
+    },
+    {
+      "personId": 4095228,
+      "name": "Lee E. Scharfstein",
+      "character": "Widow's Lover",
+      "order": 13,
+      "cast_id": 59,
+      "popularity": 0.0883,
+      "profile_path": null
+    },
+    {
+      "personId": 3608575,
+      "name": "Monte Montague",
+      "character": "Plague Victim Bearer",
+      "order": 14,
+      "cast_id": 46,
+      "popularity": 0.0757,
+      "profile_path": null
+    },
+    {
+      "personId": 4095231,
+      "name": "Nathalie Bloch",
+      "character": "Maid",
+      "order": 15,
+      "cast_id": 60,
+      "popularity": 0.0782,
+      "profile_path": null
+    },
+    {
+      "personId": 1126347,
+      "name": "Jeanette Kontomitras",
+      "character": "Woman in Square",
+      "order": 16,
+      "cast_id": 61,
+      "popularity": 0.3627,
+      "profile_path": null
+    },
+    {
+      "personId": 81024,
+      "name": "Roger Lloyd Pack",
+      "character": "Piano Teacher",
+      "order": 17,
+      "cast_id": 62,
+      "popularity": 1.8965,
+      "profile_path": "/iF9b0wRykPT5nFOImS1A5w8HJ3c.jpg"
+    },
+    {
+      "personId": 951881,
+      "name": "George Kelly",
+      "character": "Dollmaker",
+      "order": 18,
+      "cast_id": 31,
+      "popularity": 0.4378,
+      "profile_path": null
+    },
+    {
+      "personId": 3260068,
+      "name": "Nicole DuBois Favre",
+      "character": "Creole Woman",
+      "order": 19,
+      "cast_id": 44,
+      "popularity": 0.0741,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 17016,
+      "name": "Neil Jordan",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7841,
+      "profile_path": "/uZ7CvCLTKb9qxjU4VsTNeyMRucd.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 90,
+      "name": "paris, france"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 582,
+      "name": "san francisco, california"
+    },
+    {
+      "id": 3133,
+      "name": "vampire"
+    },
+    {
+      "id": 4197,
+      "name": "bite"
+    },
+    {
+      "id": 2411,
+      "name": "new orleans, louisiana"
+    },
+    {
+      "id": 3136,
+      "name": "plantation"
+    },
+    {
+      "id": 3134,
+      "name": "louisiana"
+    },
+    {
+      "id": 3143,
+      "name": "pity"
+    },
+    {
+      "id": 9668,
+      "name": "child vampire"
+    },
+    {
+      "id": 15032,
+      "name": "gothic horror"
+    },
+    {
+      "id": 160279,
+      "name": "18th century"
+    },
+    {
+      "id": 188959,
+      "name": "plague"
+    },
+    {
+      "id": 207928,
+      "name": "19th century"
+    },
+    {
+      "id": 232469,
+      "name": "urban gothic"
+    },
+    {
+      "id": 269365,
+      "name": "reluctant vampire"
+    }
+  ]
+}

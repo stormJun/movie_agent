@@ -1,0 +1,95 @@
+{
+  "overview": "A young street fighter seeks revenge against a powerful drug lord who killed his entire family. Using of his many special combat skills, he's about to take down a whole criminal operation, reaching his goal whatever the consequences.",
+  "release_date": "1994-01-01",
+  "runtime": 83,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 3.333,
+  "tmdb_vote_count": 3,
+  "tmdb_popularity": 0.2996,
+  "original_language": "en",
+  "poster_path": "/obRFIwQWBieexkUQtZBNROeZTcR.jpg",
+  "backdrop_path": null,
+  "tmdb_genres_raw": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 15681,
+      "name": "Kremlin Films",
+      "origin_country": "RU"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 55567,
+      "name": "Alexandra Paul",
+      "character": "Natasha",
+      "order": 0,
+      "cast_id": 0,
+      "popularity": 1.653,
+      "profile_path": "/aih7W4GZFVhX3VF0yJvhuvIUdbS.jpg"
+    },
+    {
+      "personId": 1664611,
+      "name": "Youssef Abed-Alnour",
+      "character": "Abe",
+      "order": 1,
+      "cast_id": 1,
+      "popularity": 0.1119,
+      "profile_path": null
+    },
+    {
+      "personId": 7675,
+      "name": "Paul Gleason",
+      "character": "Elliot",
+      "order": 2,
+      "cast_id": 2,
+      "popularity": 2.3372,
+      "profile_path": "/a7PJofFcVpDxw2wAak1d56J7L4k.jpg"
+    },
+    {
+      "personId": 3172,
+      "name": "Michael V. Gazzo",
+      "character": "Joe",
+      "order": 3,
+      "cast_id": 3,
+      "popularity": 1.6442,
+      "profile_path": "/cTY2Hlf6sIR9xLI95bBir7eI0N.jpg"
+    },
+    {
+      "personId": 1066798,
+      "name": "Juliano Mer-Khamis",
+      "character": "Ramon (as Juliano Mer)",
+      "order": 4,
+      "cast_id": 4,
+      "popularity": 1.4521,
+      "profile_path": "/kgxwoXffcI7TAyASeyGWDtDM3Iu.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 232119,
+      "name": "Izidore K. Musallam",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7887,
+      "profile_path": null
+    }
+  ],
+  "keywords": []
+}

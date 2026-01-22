@@ -1,0 +1,227 @@
+{
+  "overview": "A pharmaceutical scientist creates a pill that makes people remember their happiest memory, and although it's successful, it has unfortunate side effects.",
+  "release_date": "1996-04-02",
+  "runtime": 88,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.113,
+  "tmdb_vote_count": 80,
+  "tmdb_popularity": 0.2987,
+  "original_language": "en",
+  "poster_path": "/j7LYkIa2KC98ZqZmFIjEmtvlv87.jpg",
+  "backdrop_path": "/fo36kjgpOr5WaseOYmaN0WvLRHY.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 126,
+      "name": "Lakeshore Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 21290,
+      "name": "Dave Foley",
+      "character": "Marv / Psychiatrist / New guy / Raymond Hurdicure",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 2.9741,
+      "profile_path": "/muHRRGDTE7ZWk3guqDAk9L4DqVX.jpg"
+    },
+    {
+      "personId": 73499,
+      "name": "Bruce McCulloch",
+      "character": "Alice / Cisco / Grivo / Worm pill scientist / Cop #2 / Cancer boy / White-trash man",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 0.6902,
+      "profile_path": "/mknOQPuT4PTA5Qjxz4xx95krkwR.jpg"
+    },
+    {
+      "personId": 58955,
+      "name": "Kevin McDonald",
+      "character": "Dr. Chris Cooper / Doreen / Chris' dad / Lacey",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 1.0332,
+      "profile_path": "/ymwrW99x9gyN0zeRkqavt3lZMa9.jpg"
+    },
+    {
+      "personId": 56867,
+      "name": "Mark McKinney",
+      "character": "Simon / Don Roritor / Cabbie / Gunther / Cop #1 / Nina Bedford / Melanie / Drill sergeant / White-trash woman",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 1.6759,
+      "profile_path": "/fjoMrLiWWeKN0voBdZphBbS4kV0.jpg"
+    },
+    {
+      "personId": 78576,
+      "name": "Scott Thompson",
+      "character": "Baxter / Mrs. Hurdicure / Wally Terzinsky / Malek / Big Stummies scientist / The Queen / Raj / Clemptor",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 1.2243,
+      "profile_path": "/lBvadhxdANl9JQo6HkK7ou4jWkS.jpg"
+    },
+    {
+      "personId": 162747,
+      "name": "Kathryn Greenwood",
+      "character": "Ginny Hurdicure",
+      "order": 5,
+      "cast_id": 29,
+      "popularity": 2.0883,
+      "profile_path": "/zVKcvl2SSFRBjKNK7ArJ9WEAQa8.jpg"
+    },
+    {
+      "personId": 5888,
+      "name": "Nicole De Boer",
+      "character": "Cooper's Groupie",
+      "order": 6,
+      "cast_id": 30,
+      "popularity": 1.6437,
+      "profile_path": "/5Mj1cUdqN4jgxVLG6ZBQ0AtQub5.jpg"
+    },
+    {
+      "personId": 43257,
+      "name": "Krista Bridges",
+      "character": "Cooper's Groupie",
+      "order": 7,
+      "cast_id": 31,
+      "popularity": 2.3032,
+      "profile_path": "/zFA8HVDbi7RO3cfk5oGjaQTAm9t.jpg"
+    },
+    {
+      "personId": 32204,
+      "name": "Christopher Redman",
+      "character": "Wally Jr.",
+      "order": 8,
+      "cast_id": 32,
+      "popularity": 1.8819,
+      "profile_path": "/hva0KA8hDx0Qq0wR3D04i5zk2wP.jpg"
+    },
+    {
+      "personId": 190888,
+      "name": "Sherry Hilliard",
+      "character": "Coma Queen",
+      "order": 9,
+      "cast_id": 34,
+      "popularity": 1.3917,
+      "profile_path": null
+    },
+    {
+      "personId": 18269,
+      "name": "Brendan Fraser",
+      "character": "Placebo Patient",
+      "order": 10,
+      "cast_id": 35,
+      "popularity": 5.3938,
+      "profile_path": "/tFj5PaWWQbb8rHBBhu1EHklznph.jpg"
+    },
+    {
+      "personId": 21197,
+      "name": "Janeane Garofalo",
+      "character": "Woman at Party",
+      "order": 11,
+      "cast_id": 43,
+      "popularity": 2.2426,
+      "profile_path": "/cdNooT0otUf5QVHDPm9bkGN7gNu.jpg"
+    },
+    {
+      "personId": 1447213,
+      "name": "Lindsay Leese",
+      "character": "Scientist",
+      "order": 12,
+      "cast_id": 44,
+      "popularity": 1.1253,
+      "profile_path": "/zxV7CRWcR09HtJxVQMXnTK3xgns.jpg"
+    },
+    {
+      "personId": 20177,
+      "name": "Kirsten Johnson",
+      "character": "Scientist",
+      "order": 13,
+      "cast_id": 45,
+      "popularity": 0.5427,
+      "profile_path": "/qrS0nIOAUTTeVSNF735XssJ6jQO.jpg"
+    },
+    {
+      "personId": 2417095,
+      "name": "Jackie Harris Greenberg",
+      "character": "Natalie",
+      "order": 14,
+      "cast_id": 46,
+      "popularity": 0.8245,
+      "profile_path": "/7FTN3A6Olyx03sWlD7O3BQbnnc.jpg"
+    },
+    {
+      "personId": 2224096,
+      "name": "Erica Fairfield",
+      "character": "Wally's Daughter",
+      "order": 15,
+      "cast_id": 47,
+      "popularity": 0.8521,
+      "profile_path": null
+    },
+    {
+      "personId": 1225534,
+      "name": "Andy Jones",
+      "character": "Monkey Scientist",
+      "order": 16,
+      "cast_id": 48,
+      "popularity": 0.5121,
+      "profile_path": "/6VUEYKw624AgzpRxCnXX4fwLfZC.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 64030,
+      "name": "Kelly Makin",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.3715,
+      "profile_path": "/cQqQJtSi5FEOVH6zri1Sldw54qE.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 14760,
+      "name": "scientist"
+    },
+    {
+      "id": 14964,
+      "name": "drugs"
+    },
+    {
+      "id": 208561,
+      "name": "pharmaceuticals"
+    }
+  ]
+}

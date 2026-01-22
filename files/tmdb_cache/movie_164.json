@@ -1,0 +1,312 @@
+{
+  "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
+  "release_date": "1961-10-06",
+  "runtime": 115,
+  "budget": 2500000,
+  "revenue": 9500000,
+  "tmdb_vote_average": 7.627,
+  "tmdb_vote_count": 4392,
+  "tmdb_popularity": 5.463,
+  "original_language": "en",
+  "poster_path": "/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+  "backdrop_path": "/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Romance",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 11355,
+      "name": "Jurow-Shepherd",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "pt",
+      "name": "Português"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1932,
+      "name": "Audrey Hepburn",
+      "character": "Holly Golightly",
+      "order": 0,
+      "cast_id": 6,
+      "popularity": 4.0383,
+      "profile_path": "/hwPHPRz7YqmcRAlvhag5VPeoaoC.jpg"
+    },
+    {
+      "personId": 1933,
+      "name": "George Peppard",
+      "character": "Paul Varjak",
+      "order": 1,
+      "cast_id": 7,
+      "popularity": 2.9812,
+      "profile_path": "/td2SN1HGqgGsWLi4YhReMYvH2ik.jpg"
+    },
+    {
+      "personId": 1934,
+      "name": "Patricia Neal",
+      "character": "2E Failenson",
+      "order": 2,
+      "cast_id": 8,
+      "popularity": 1.3131,
+      "profile_path": "/spdaTjYnm2TfYsOUYIM9zGdr4Ym.jpg"
+    },
+    {
+      "personId": 1935,
+      "name": "Buddy Ebsen",
+      "character": "Doc Golightly",
+      "order": 3,
+      "cast_id": 9,
+      "popularity": 2.1158,
+      "profile_path": "/iY3zvIzWDhsrcYoL6jjGONp4Wjv.jpg"
+    },
+    {
+      "personId": 1936,
+      "name": "Martin Balsam",
+      "character": "O.J. Berman",
+      "order": 4,
+      "cast_id": 10,
+      "popularity": 3.9626,
+      "profile_path": "/2q7xs6j6vGll3pc9Mm6TUEvvwBf.jpg"
+    },
+    {
+      "personId": 1942,
+      "name": "José Luis de Vilallonga",
+      "character": "José da Silva Pereira",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 0.6786,
+      "profile_path": "/bQyFSHrp6Cc06U9yw2UbRDK30GZ.jpg"
+    },
+    {
+      "personId": 1943,
+      "name": "John McGiver",
+      "character": "Tiffany's Salesman",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 1.0983,
+      "profile_path": "/ky81gCZvR78UetAil1tAcfv07LN.jpg"
+    },
+    {
+      "personId": 1945,
+      "name": "Dorothy Whitney",
+      "character": "Mag Wildwood",
+      "order": 7,
+      "cast_id": 19,
+      "popularity": 0.353,
+      "profile_path": "/xy09PaLivM3JFEJXyxy8iz8kLg6.jpg"
+    },
+    {
+      "personId": 1947,
+      "name": "Stanley Adams",
+      "character": "Rusty Trawler",
+      "order": 8,
+      "cast_id": 21,
+      "popularity": 2.5058,
+      "profile_path": "/zcOvq0nh5llUce33ozlqD8r1Eyc.jpg"
+    },
+    {
+      "personId": 1949,
+      "name": "Elvia Allman",
+      "character": "Librarian",
+      "order": 9,
+      "cast_id": 23,
+      "popularity": 0.87,
+      "profile_path": "/r8MDamNJNwi83TXXn4lt41PtmTD.jpg"
+    },
+    {
+      "personId": 1944,
+      "name": "Alan Reed",
+      "character": "Sally Tomato",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 1.1206,
+      "profile_path": "/ilsEwVPUTQ6f9qSdRtraGhZ5BG6.jpg"
+    },
+    {
+      "personId": 1946,
+      "name": "Beverly Powers",
+      "character": "Nightclub Stripper",
+      "order": 11,
+      "cast_id": 20,
+      "popularity": 2.8378,
+      "profile_path": "/kaMVTp0v0hRhGyjLBZ4ezlsW6ZC.jpg"
+    },
+    {
+      "personId": 1948,
+      "name": "Claude Stroud",
+      "character": "Sid Arbuck",
+      "order": 12,
+      "cast_id": 22,
+      "popularity": 0.5868,
+      "profile_path": "/eIOgT3he6ZrvtudFKDBVPHl8cMi.jpg"
+    },
+    {
+      "personId": 1937,
+      "name": "Mickey Rooney",
+      "character": "Mr. Yunioshi",
+      "order": 13,
+      "cast_id": 11,
+      "popularity": 1.6712,
+      "profile_path": "/eYuayEC3xhXQf3Z1Cy6AVMEcgZb.jpg"
+    },
+    {
+      "personId": 1541923,
+      "name": "Don Anderson",
+      "character": "Bartender (uncredited)",
+      "order": 14,
+      "cast_id": 51,
+      "popularity": 1.7205,
+      "profile_path": null
+    },
+    {
+      "personId": 161040,
+      "name": "Al Avalon",
+      "character": "Spieler at Stripjoint (uncredited)",
+      "order": 15,
+      "cast_id": 64,
+      "popularity": 0.1635,
+      "profile_path": null
+    },
+    {
+      "personId": 35732,
+      "name": "Janet Banzet",
+      "character": "Woman (uncredited)",
+      "order": 16,
+      "cast_id": 53,
+      "popularity": 0.2255,
+      "profile_path": null
+    },
+    {
+      "personId": 33923,
+      "name": "Mel Blanc",
+      "character": "Holly's Drunk Visitor (voice) (uncredited)",
+      "order": 17,
+      "cast_id": 48,
+      "popularity": 1.6254,
+      "profile_path": "/8fevv4K06TmHsYom2XfmxgKrTcd.jpg"
+    },
+    {
+      "personId": 2952981,
+      "name": "Joe Scott",
+      "character": "Party Guest (uncredited)",
+      "order": 18,
+      "cast_id": 49,
+      "popularity": 0.2428,
+      "profile_path": null
+    },
+    {
+      "personId": 2565997,
+      "name": "Jim Michael",
+      "character": "Strip Club Patron (uncredited)",
+      "order": 19,
+      "cast_id": 50,
+      "popularity": 0.5056,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1927,
+      "name": "Blake Edwards",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.8127,
+      "profile_path": "/tEUBu225EVmJKGxJSX936OvRet5.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 2038,
+      "name": "love of one's life"
+    },
+    {
+      "id": 978,
+      "name": "broken engagement"
+    },
+    {
+      "id": 977,
+      "name": "cat"
+    },
+    {
+      "id": 6197,
+      "name": "store window"
+    },
+    {
+      "id": 3170,
+      "name": "cigarette"
+    },
+    {
+      "id": 11678,
+      "name": "free spirit"
+    },
+    {
+      "id": 13028,
+      "name": "writer"
+    },
+    {
+      "id": 33626,
+      "name": "millionaire"
+    },
+    {
+      "id": 156237,
+      "name": "jewelry store"
+    },
+    {
+      "id": 157286,
+      "name": "gold digger"
+    },
+    {
+      "id": 157799,
+      "name": "older woman younger man relationship"
+    },
+    {
+      "id": 241404,
+      "name": "kept man"
+    },
+    {
+      "id": 295332,
+      "name": "rich woman"
+    },
+    {
+      "id": 295959,
+      "name": "best friends"
+    },
+    {
+      "id": 303437,
+      "name": "yellowface"
+    },
+    {
+      "id": 324429,
+      "name": "romantic"
+    },
+    {
+      "id": 325765,
+      "name": "amused"
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "overview": "Mr. Miyagi decides to take Julie, a troubled teenager, under his wing after he learns that she blames herself for her parents' demise and struggles to adjust with her grandmother and fellow pupils.",
+  "release_date": "1994-07-18",
+  "runtime": 107,
+  "budget": 12000000,
+  "revenue": 15876353,
+  "tmdb_vote_average": 5.408,
+  "tmdb_vote_count": 1126,
+  "tmdb_popularity": 2.9782,
+  "original_language": "en",
+  "poster_path": "/wI3gCi9w1cuUJCiwhviAy46we9Q.jpg",
+  "backdrop_path": "/kgqgbPB2snzVlkMkQjYAvmF1hkc.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Drama",
+    "Family",
+    "Adventure"
+  ],
+  "production_companies": [
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 23915,
+      "name": "Pat Morita",
+      "character": "Mr. Miyagi",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.2985,
+      "profile_path": "/dwnjbEvhKRanS5xTaI1NkZ98aM9.jpg"
+    },
+    {
+      "personId": 448,
+      "name": "Hilary Swank",
+      "character": "Julie Pierce",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 4.8861,
+      "profile_path": "/uin6aAehUGpPCiJCaSjZG8B7M7d.jpg"
+    },
+    {
+      "personId": 11086,
+      "name": "Michael Ironside",
+      "character": "Colonel Paul Dugan",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.5555,
+      "profile_path": "/mzHmxtKcMJjDqWxKd67mKQJFW1B.jpg"
+    },
+    {
+      "personId": 20276,
+      "name": "Constance Towers",
+      "character": "Louisa Pierce",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.0978,
+      "profile_path": "/7zuktmfwrpZQ9h3Q7wYddZxnOaz.jpg"
+    },
+    {
+      "personId": 227199,
+      "name": "Chris Conrad",
+      "character": "Eric McGowen",
+      "order": 4,
+      "cast_id": 13,
+      "popularity": 0.7445,
+      "profile_path": "/bT3imD3L01okntIJRM1SiHt6gTG.jpg"
+    },
+    {
+      "personId": 1080062,
+      "name": "Arsenio Trinidad",
+      "character": "Abbot Monk",
+      "order": 5,
+      "cast_id": 14,
+      "popularity": 1.1308,
+      "profile_path": "/b3hCkrsQPjTP90OPxWl0XbWhf8j.jpg"
+    },
+    {
+      "personId": 112150,
+      "name": "Michael Cavalieri",
+      "character": "Ned",
+      "order": 6,
+      "cast_id": 15,
+      "popularity": 1.9591,
+      "profile_path": "/2K4LAmP8yO7j3pvxLw5hz1WiyEf.jpg"
+    },
+    {
+      "personId": 27740,
+      "name": "Walton Goggins",
+      "character": "Charlie",
+      "order": 7,
+      "cast_id": 16,
+      "popularity": 6.1303,
+      "profile_path": "/5lcVMJbWrNDFiWa1WxK4oR8zwev.jpg"
+    },
+    {
+      "personId": 156196,
+      "name": "Jim Ishida",
+      "character": "Tall Monk",
+      "order": 8,
+      "cast_id": 17,
+      "popularity": 1.5755,
+      "profile_path": "/mC8iH5HdlKZXpKFgLO0YtGZc23g.jpg"
+    },
+    {
+      "personId": 129463,
+      "name": "Rodney Kageyama",
+      "character": "Monk",
+      "order": 9,
+      "cast_id": 18,
+      "popularity": 0.6147,
+      "profile_path": "/aA7h7ywaVBaQYjo62NDzOYWVG6A.jpg"
+    },
+    {
+      "personId": 1382045,
+      "name": "Seth Sakai",
+      "character": "Buddhist Monk",
+      "order": 10,
+      "cast_id": 19,
+      "popularity": 2.6191,
+      "profile_path": "/6XMxKPcgj9oGns2LFuyYSY97COj.jpg"
+    },
+    {
+      "personId": 1568433,
+      "name": "Eugene Boles",
+      "character": "Mr. Wilkes",
+      "order": 11,
+      "cast_id": 20,
+      "popularity": 0.2726,
+      "profile_path": "/uTblxYEDWsq7YPSONd12hVh3NH0.jpg"
+    },
+    {
+      "personId": 1568434,
+      "name": "Keena Keel",
+      "character": "School Clerk",
+      "order": 12,
+      "cast_id": 21,
+      "popularity": 0.0468,
+      "profile_path": null
+    },
+    {
+      "personId": 1200372,
+      "name": "Tom O'Brien",
+      "character": "Gabe",
+      "order": 13,
+      "cast_id": 24,
+      "popularity": 0.7924,
+      "profile_path": "/2LrNTmxmcZBvXIwLcqA4lL8xyAN.jpg"
+    },
+    {
+      "personId": 30067,
+      "name": "Thomas Downey",
+      "character": "Morgan",
+      "order": 14,
+      "cast_id": 23,
+      "popularity": 0.8352,
+      "profile_path": "/u6crnQsLAxZ4o7LlDjcMuxTA8XZ.jpg"
+    },
+    {
+      "personId": 1109399,
+      "name": "Brian McGrail",
+      "character": "T.J.",
+      "order": 15,
+      "cast_id": 25,
+      "popularity": 0.372,
+      "profile_path": null
+    },
+    {
+      "personId": 1504122,
+      "name": "Wayne Chou",
+      "character": "Pizza Driver",
+      "order": 16,
+      "cast_id": 26,
+      "popularity": 0.1539,
+      "profile_path": null
+    },
+    {
+      "personId": 1178627,
+      "name": "Daniel Inouye",
+      "character": "Senator",
+      "order": 17,
+      "cast_id": 27,
+      "popularity": 0.6387,
+      "profile_path": "/zgr3fd4x3OLYTPCq1Lvpn6nfAQd.jpg"
+    },
+    {
+      "personId": 105963,
+      "name": "Gustave Johnson",
+      "character": "Wison",
+      "order": 18,
+      "cast_id": 28,
+      "popularity": 0.8533,
+      "profile_path": "/nH5MsTzOBmQS73GcRfRR4ntEEvf.jpg"
+    },
+    {
+      "personId": 1392597,
+      "name": "Brian Smiar",
+      "character": "O'Connor",
+      "order": 19,
+      "cast_id": 29,
+      "popularity": 1.2062,
+      "profile_path": "/3Q6jMRBTY8b6eJb9UHEYIULJZDU.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 56828,
+      "name": "Christopher Cain",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.8837,
+      "profile_path": "/c9lfGIDOJqMZIChzGWEkUfdFoJ3.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6270,
+      "name": "high school"
+    },
+    {
+      "id": 779,
+      "name": "martial arts"
+    },
+    {
+      "id": 6075,
+      "name": "sports"
+    },
+    {
+      "id": 1529,
+      "name": "buddhist monk"
+    },
+    {
+      "id": 1412,
+      "name": "becoming an adult"
+    },
+    {
+      "id": 3436,
+      "name": "karate"
+    },
+    {
+      "id": 9748,
+      "name": "revenge"
+    },
+    {
+      "id": 11870,
+      "name": "teen movie"
+    },
+    {
+      "id": 12670,
+      "name": "los angeles, california"
+    },
+    {
+      "id": 160243,
+      "name": "classmate"
+    },
+    {
+      "id": 281445,
+      "name": "pathetic"
+    },
+    {
+      "id": 309974,
+      "name": "absurd"
+    },
+    {
+      "id": 323809,
+      "name": "depressing"
+    },
+    {
+      "id": 325844,
+      "name": "ridiculous"
+    }
+  ]
+}

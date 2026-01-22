@@ -1,0 +1,238 @@
+{
+  "overview": "High-schooler Grover Beindorf and his younger sister Stacy decide that their parents, Janet and Ned, are acting childishly when they decide to divorce after 18 years of marriage, so they lock them up in the basement until they'll sort out their problems.",
+  "release_date": "1996-08-14",
+  "runtime": 108,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.3,
+  "tmdb_vote_count": 135,
+  "tmdb_popularity": 2.6417,
+  "original_language": "en",
+  "poster_path": "/mpQg8IgbmrMY0skgpTXBA9EhiWy.jpg",
+  "backdrop_path": "/4wxCj0BIr7hGpqD7g4VkZbE5dFb.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 11661,
+      "name": "Rysher Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8944,
+      "name": "Jamie Lee Curtis",
+      "character": "Janet Beindorf",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 6.0233,
+      "profile_path": "/eWKubKAAssRzmFwCZKh1mdYqGCH.jpg"
+    },
+    {
+      "personId": 7166,
+      "name": "Kevin Pollak",
+      "character": "Ned Beindorf",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 2.2416,
+      "profile_path": "/jWhKIVtmc3vIoS2l1VsdNwMAMJB.jpg"
+    },
+    {
+      "personId": 83699,
+      "name": "Kyle Howard",
+      "character": "Gregory Alan 'Grover' Beindorf",
+      "order": 2,
+      "cast_id": 1,
+      "popularity": 1.5487,
+      "profile_path": "/bEpuGCBYeIoQeZkHXfnOV9dBaOb.jpg"
+    },
+    {
+      "personId": 33259,
+      "name": "Jennifer Love Hewitt",
+      "character": "Brooke Figler",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 4.8819,
+      "profile_path": "/kRySMLtckE7tl6136y0yzFYpUfE.jpg"
+    },
+    {
+      "personId": 7906,
+      "name": "Jennifer Tilly",
+      "character": "Cindy Figler",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 4.7122,
+      "profile_path": "/jrWj0LKOLGyn8BjxCPfwxX3BXC4.jpg"
+    },
+    {
+      "personId": 4443,
+      "name": "Christopher McDonald",
+      "character": "Donald Krupp",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 3.2756,
+      "profile_path": "/gK1XhbfD9Xd8s3VXRPpgDCluyZp.jpg"
+    },
+    {
+      "personId": 12900,
+      "name": "Wallace Shawn",
+      "character": "Victor Finley",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 3.9917,
+      "profile_path": "/wVaM1WlFKDce4esThwL4XtNLhOe.jpg"
+    },
+    {
+      "personId": 4093,
+      "name": "Ray Walston",
+      "character": "Chief Rocco",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 2.6145,
+      "profile_path": "/pRVUmhdc9nxflBI5GJvokz0nPPb.jpg"
+    },
+    {
+      "personId": 148114,
+      "name": "Herbert Russell",
+      "character": "T.J. Krupp",
+      "order": 8,
+      "cast_id": 3,
+      "popularity": 0.9138,
+      "profile_path": "/4q2tGgbYxU4utQvBMYxnM9j6EZT.jpg"
+    },
+    {
+      "personId": 13023,
+      "name": "Colleen Camp",
+      "character": "Mrs. Burtis",
+      "order": 9,
+      "cast_id": 7,
+      "popularity": 3.0729,
+      "profile_path": "/hNAIkUVtsQfpC95BDkXr1lmoI2F.jpg"
+    },
+    {
+      "personId": 1910,
+      "name": "Caroline Aaron",
+      "character": "Louise Finley",
+      "order": 10,
+      "cast_id": 13,
+      "popularity": 1.9742,
+      "profile_path": "/7nnic1Dao3XoScrwX7Ac39N2BC1.jpg"
+    },
+    {
+      "personId": 29384,
+      "name": "Sheila McCarthy",
+      "character": "Gwenna Krupp",
+      "order": 11,
+      "cast_id": 15,
+      "popularity": 1.4118,
+      "profile_path": "/wIe1srcx1lllkE66Jx5j9mV2BEc.jpg"
+    },
+    {
+      "personId": 954763,
+      "name": "Amy Sakasitz",
+      "character": "Stacy Beindorf",
+      "order": 12,
+      "cast_id": 16,
+      "popularity": 1.5611,
+      "profile_path": "/5YpD3JugATyy1TLbHdSNtLnbHg3.jpg"
+    },
+    {
+      "personId": 2863410,
+      "name": "Mooky Arizona",
+      "character": "Matt Finley",
+      "order": 13,
+      "cast_id": 17,
+      "popularity": 0.1586,
+      "profile_path": null
+    },
+    {
+      "personId": 54044,
+      "name": "Patrika Darbo",
+      "character": "Cafeteria Cashier",
+      "order": 14,
+      "cast_id": 18,
+      "popularity": 1.2207,
+      "profile_path": "/n18e0L3o2go86682UpRIjdGtgmu.jpg"
+    },
+    {
+      "personId": 181661,
+      "name": "Josh Wolford",
+      "character": "Teddy Finley",
+      "order": 15,
+      "cast_id": 20,
+      "popularity": 0.2731,
+      "profile_path": null
+    },
+    {
+      "personId": 143328,
+      "name": "K. Todd Freeman",
+      "character": "Officer Davis",
+      "order": 16,
+      "cast_id": 21,
+      "popularity": 1.0645,
+      "profile_path": "/oH93DHGXt2NTzW1sqrqEYKGBrt2.jpg"
+    },
+    {
+      "personId": 43774,
+      "name": "Daniel Roebuck",
+      "character": "Officer Brickowski",
+      "order": 17,
+      "cast_id": 22,
+      "popularity": 2.427,
+      "profile_path": "/y40aX3SdvUZwE7feNq77UMg3zge.jpg"
+    },
+    {
+      "personId": 131667,
+      "name": "Ben Stein",
+      "character": "Ralph Doyle",
+      "order": 18,
+      "cast_id": 23,
+      "popularity": 1.275,
+      "profile_path": "/1xxodQEQKkioq38oaWRJV0mzQ9y.jpg"
+    },
+    {
+      "personId": 75463,
+      "name": "Michael Hitchcock",
+      "character": "Cop",
+      "order": 19,
+      "cast_id": 24,
+      "popularity": 1.7616,
+      "profile_path": "/sLKiaWJtExmjORZCVYHB0cTgmMn.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 92554,
+      "name": "Harry Winer",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5984,
+      "profile_path": "/pQhG5eCfTJfyZupZQ9fsfnu4Kx1.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 9866,
+      "name": "basement"
+    },
+    {
+      "id": 15160,
+      "name": "divorce"
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "overview": "A journalist duo go on a tour of serial killer murder sites with two companions, unaware that one of them is a serial killer himself.",
+  "release_date": "1993-06-24",
+  "runtime": 118,
+  "budget": 9000000,
+  "revenue": 2395231,
+  "tmdb_vote_average": 6.576,
+  "tmdb_vote_count": 837,
+  "tmdb_popularity": 1.9415,
+  "original_language": "en",
+  "poster_path": "/6ufie7ZVJGGbBBeYzldTTavtPc3.jpg",
+  "backdrop_path": "/mSYuqQE8MXwzz3CqtuEIR2cyUfm.jpg",
+  "tmdb_genres_raw": [
+    "Thriller",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 278,
+      "name": "Propaganda Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 3589,
+      "name": "Kouf/Bigelow Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 99434,
+      "name": "Viacom Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 1382,
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 17992,
+      "name": "PolyGram Video",
+      "origin_country": ""
+    },
+    {
+      "id": 37,
+      "name": "Gramercy Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 287,
+      "name": "Brad Pitt",
+      "character": "Early Grayce",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 9.6902,
+      "profile_path": "/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+    },
+    {
+      "personId": 12640,
+      "name": "David Duchovny",
+      "character": "Brian Kessler",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 2.5923,
+      "profile_path": "/rZ2pEvu9IYsnHx3ElWUy4KgK3ia.jpg"
+    },
+    {
+      "personId": 3196,
+      "name": "Juliette Lewis",
+      "character": "Adele Corners",
+      "order": 2,
+      "cast_id": 1,
+      "popularity": 4.6144,
+      "profile_path": "/vvitS2sZSM9RupCf5B0sZYNS6wT.jpg"
+    },
+    {
+      "personId": 41820,
+      "name": "Michelle Forbes",
+      "character": "Carrie Laughlin",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.7352,
+      "profile_path": "/xIBkKMV6DumvheliQvWQEYQWO4W.jpg"
+    },
+    {
+      "personId": 170074,
+      "name": "Sierra Pecheur",
+      "character": "Mrs. Musgrave",
+      "order": 4,
+      "cast_id": 51,
+      "popularity": 0.6416,
+      "profile_path": "/jhuT4AQUFBLiChDb0Bw0nhGHZHr.jpg"
+    },
+    {
+      "personId": 101432,
+      "name": "John Dullaghan",
+      "character": "Mr. Musgrave",
+      "order": 5,
+      "cast_id": 52,
+      "popularity": 1.4,
+      "profile_path": "/zUGXqmeUrLZ79779fBzbJRlpBPK.jpg"
+    },
+    {
+      "personId": 1569421,
+      "name": "Kathy Larson",
+      "character": "Teenage Girl",
+      "order": 6,
+      "cast_id": 46,
+      "popularity": 0.2812,
+      "profile_path": null
+    },
+    {
+      "personId": 1569422,
+      "name": "David Milford",
+      "character": "Driver",
+      "order": 7,
+      "cast_id": 47,
+      "popularity": 0.1638,
+      "profile_path": "/o8nSIBmkP26YwQPhqLISebNiYqT.jpg"
+    },
+    {
+      "personId": 1381096,
+      "name": "Judson Vaughn",
+      "character": "Parole Officer",
+      "order": 8,
+      "cast_id": 48,
+      "popularity": 1.4521,
+      "profile_path": null
+    },
+    {
+      "personId": 151335,
+      "name": "John Zarchen",
+      "character": "Peter",
+      "order": 9,
+      "cast_id": 49,
+      "popularity": 1.1399,
+      "profile_path": "/knVr86AWdohQBTjGl5Du5W1Bd9S.jpg"
+    },
+    {
+      "personId": 107020,
+      "name": "David Rose",
+      "character": "Eric",
+      "order": 10,
+      "cast_id": 50,
+      "popularity": 0.3153,
+      "profile_path": "/ywVlHuF7oiFBWRfFN1CTSNk25ix.jpg"
+    },
+    {
+      "personId": 149699,
+      "name": "Loanne Bishop",
+      "character": "Female Officer",
+      "order": 11,
+      "cast_id": 58,
+      "popularity": 0.6518,
+      "profile_path": "/jS7FDp4fbQN8k7FYKoPPpUbxjVN.jpg"
+    },
+    {
+      "personId": 157994,
+      "name": "Ron Kuhlman",
+      "character": "Male Officer",
+      "order": 12,
+      "cast_id": 59,
+      "popularity": 1.5282,
+      "profile_path": "/uhnFDrxTJwhoTVQBtha7xyZww2i.jpg"
+    },
+    {
+      "personId": 1906081,
+      "name": "Patricia Sill",
+      "character": "Carol",
+      "order": 13,
+      "cast_id": 62,
+      "popularity": 0.942,
+      "profile_path": null
+    },
+    {
+      "personId": 108158,
+      "name": "Bill Crabb",
+      "character": "Middle Aged Farmer",
+      "order": 14,
+      "cast_id": 63,
+      "popularity": 0.3495,
+      "profile_path": "/n5VirDqu2qYLX1lmZppwAO6BTTU.jpg"
+    },
+    {
+      "personId": 29934,
+      "name": "Brett Rice",
+      "character": "Police Officer",
+      "order": 15,
+      "cast_id": 64,
+      "popularity": 1.3969,
+      "profile_path": "/4OTUfCVDOsCFQoQwiNE8deDFxKW.jpg"
+    },
+    {
+      "personId": 3196155,
+      "name": "James Michael McDougal",
+      "character": "John Diebold",
+      "order": 16,
+      "cast_id": 65,
+      "popularity": 0.2294,
+      "profile_path": null
+    },
+    {
+      "personId": 3867866,
+      "name": "Marisa Raper",
+      "character": "Little Girl",
+      "order": 17,
+      "cast_id": 66,
+      "popularity": 0.0655,
+      "profile_path": null
+    },
+    {
+      "personId": 3645940,
+      "name": "Tommy Chappelle",
+      "character": "Old Man",
+      "order": 18,
+      "cast_id": 67,
+      "popularity": 0.1839,
+      "profile_path": null
+    },
+    {
+      "personId": 2557808,
+      "name": "Mary Ann Hagan",
+      "character": "Waitress",
+      "order": 19,
+      "cast_id": 68,
+      "popularity": 0.7483,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 58498,
+      "name": "Dominic Sena",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7943,
+      "profile_path": "/oSmE4r1Lg3earvq4DLInp3N7UMF.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 736,
+      "name": "journalist"
+    },
+    {
+      "id": 387,
+      "name": "california"
+    },
+    {
+      "id": 900,
+      "name": "trailer park"
+    },
+    {
+      "id": 1003,
+      "name": "photographer"
+    },
+    {
+      "id": 1420,
+      "name": "gas station"
+    },
+    {
+      "id": 1930,
+      "name": "kidnapping"
+    },
+    {
+      "id": 6259,
+      "name": "psychopath"
+    },
+    {
+      "id": 917,
+      "name": "journalism"
+    },
+    {
+      "id": 2669,
+      "name": "motel"
+    },
+    {
+      "id": 3306,
+      "name": "highway"
+    },
+    {
+      "id": 7312,
+      "name": "road trip"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 10714,
+      "name": "serial killer"
+    },
+    {
+      "id": 41329,
+      "name": "mental illness"
+    },
+    {
+      "id": 156121,
+      "name": "ex-con"
+    },
+    {
+      "id": 163726,
+      "name": "hitchhiking"
+    },
+    {
+      "id": 277050,
+      "name": "bar"
+    },
+    {
+      "id": 280688,
+      "name": "abusive relationship"
+    }
+  ]
+}

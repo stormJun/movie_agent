@@ -1,0 +1,287 @@
+{
+  "overview": "Tita is passionately in love with Pedro, but her controlling mother forbids her from marrying him. When Pedro marries her sister, Tita throws herself into her cooking and discovers she can transfer her emotions through the food she prepares, infecting all who eat it with her intense heartbreak.",
+  "release_date": "1992-04-16",
+  "runtime": 105,
+  "budget": 2000000,
+  "revenue": 21744201,
+  "tmdb_vote_average": 7.3,
+  "tmdb_vote_count": 541,
+  "tmdb_popularity": 1.1552,
+  "original_language": "es",
+  "poster_path": "/itwUdMqLmPfhtGJ44hiDxkqZhiq.jpg",
+  "backdrop_path": "/fi7gBF2nfIGWF9MuOhuEr6rkgBQ.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 84803,
+      "name": "Aviacsa",
+      "origin_country": ""
+    },
+    {
+      "id": 84804,
+      "name": "Cinevista",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 74940,
+      "name": "Lumi Cavazos",
+      "character": "Tita",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 0.6323,
+      "profile_path": "/tYSFZAIZzaQ3klvFga8DWq8olPX.jpg"
+    },
+    {
+      "personId": 27643,
+      "name": "Marco Leonardi",
+      "character": "Pedro Muzquiz",
+      "order": 1,
+      "cast_id": 1,
+      "popularity": 0.9869,
+      "profile_path": "/5VVhO9rPvRgKsZME2gZKtG9WgWD.jpg"
+    },
+    {
+      "personId": 1068840,
+      "name": "Regina Torné",
+      "character": "Mamá Elena",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 0.7663,
+      "profile_path": "/7RubWOBZMgUBbGgdDFUUI3bxPiM.jpg"
+    },
+    {
+      "personId": 148189,
+      "name": "Mario Iván Martínez",
+      "character": "John Brown",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 0.9202,
+      "profile_path": "/7wQRBVk9tuGyVIxEbtZj36GtGi2.jpg"
+    },
+    {
+      "personId": 553167,
+      "name": "Ada Carrasco",
+      "character": "Nacha",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 0.4341,
+      "profile_path": "/xDpavBKre0ON6dR4jwkHA9B3r2C.jpg"
+    },
+    {
+      "personId": 168176,
+      "name": "Yareli Arizmendi",
+      "character": "Rosaura",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 0.8803,
+      "profile_path": "/4umsE0hHtvr2SfAgtKMlxOw2iEb.jpg"
+    },
+    {
+      "personId": 976202,
+      "name": "Claudette Maillé",
+      "character": "Gertrudis",
+      "order": 6,
+      "cast_id": 14,
+      "popularity": 1.3441,
+      "profile_path": "/jmERdJIsYqkFqTIh5MbtD0CRoyF.jpg"
+    },
+    {
+      "personId": 1727824,
+      "name": "Pilar Aranda",
+      "character": "Chencha",
+      "order": 7,
+      "cast_id": 16,
+      "popularity": 0.1521,
+      "profile_path": null
+    },
+    {
+      "personId": 104393,
+      "name": "Farnesio de Bernal",
+      "character": "Cura",
+      "order": 8,
+      "cast_id": 19,
+      "popularity": 0.245,
+      "profile_path": "/b08rr2zqKJoBu7VHvJ1iYuel6qQ.jpg"
+    },
+    {
+      "personId": 104381,
+      "name": "Joaquín Garrido",
+      "character": "Sergeant Treviño",
+      "order": 9,
+      "cast_id": 15,
+      "popularity": 0.4393,
+      "profile_path": "/cTrd5UToarFLbup3cLdAinOOdwI.jpg"
+    },
+    {
+      "personId": 70364,
+      "name": "Margarita Isabel",
+      "character": "Paquita Lobo",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 1.3007,
+      "profile_path": null
+    },
+    {
+      "personId": 1727825,
+      "name": "Sandra Arau",
+      "character": "Esperanza",
+      "order": 11,
+      "cast_id": 20,
+      "popularity": 0.2056,
+      "profile_path": null
+    },
+    {
+      "personId": 1188395,
+      "name": "Rodolfo Arias",
+      "character": "Juan Alejándrez",
+      "order": 12,
+      "cast_id": 17,
+      "popularity": 2.261,
+      "profile_path": "/xTk1I6u59zQyAFEScG4XkhbV2Id.jpg"
+    },
+    {
+      "personId": 950566,
+      "name": "Andrés García Jr.",
+      "character": "Alex Brown",
+      "order": 13,
+      "cast_id": 21,
+      "popularity": 0.6821,
+      "profile_path": null
+    },
+    {
+      "personId": 932160,
+      "name": "Arcelia Ramírez",
+      "character": "Bisnieta",
+      "order": 14,
+      "cast_id": 22,
+      "popularity": 0.934,
+      "profile_path": "/5SA0Oj5t9qp4Ck18xj6pMKZXBsW.jpg"
+    },
+    {
+      "personId": 940876,
+      "name": "Regino Herrera",
+      "character": "Nicolás",
+      "order": 15,
+      "cast_id": 55,
+      "popularity": 0.4984,
+      "profile_path": null
+    },
+    {
+      "personId": 5673497,
+      "name": "Genaro Aguirre",
+      "character": "Rosalio",
+      "order": 16,
+      "cast_id": 56,
+      "popularity": 0.0429,
+      "profile_path": null
+    },
+    {
+      "personId": 953810,
+      "name": "David Ostrosky",
+      "character": "Juan de la Garza",
+      "order": 17,
+      "cast_id": 57,
+      "popularity": 0.4245,
+      "profile_path": null
+    },
+    {
+      "personId": 1659557,
+      "name": "Brígida Alexander",
+      "character": "Tía Mary",
+      "order": 18,
+      "cast_id": 58,
+      "popularity": 0.4821,
+      "profile_path": null
+    },
+    {
+      "personId": 5673498,
+      "name": "Amado Ramírez",
+      "character": "Padre de Pedro",
+      "order": 19,
+      "cast_id": 59,
+      "popularity": 0.1295,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 22767,
+      "name": "Alfonso Arau",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.5838,
+      "profile_path": "/5ishPim5akWXSnMbwOWSc3KxDx8.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 931,
+      "name": "jealousy"
+    },
+    {
+      "id": 380,
+      "name": "sibling relationship"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 1918,
+      "name": "cooking"
+    },
+    {
+      "id": 6038,
+      "name": "marriage"
+    },
+    {
+      "id": 2940,
+      "name": "mexican revolution"
+    },
+    {
+      "id": 3200,
+      "name": "platonic love"
+    },
+    {
+      "id": 13027,
+      "name": "wedding"
+    },
+    {
+      "id": 14768,
+      "name": "single mother"
+    },
+    {
+      "id": 156597,
+      "name": "magic realism"
+    },
+    {
+      "id": 242454,
+      "name": "former lovers"
+    },
+    {
+      "id": 285853,
+      "name": "lovers separated"
+    }
+  ]
+}

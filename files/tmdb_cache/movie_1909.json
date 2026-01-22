@@ -1,0 +1,261 @@
+{
+  "overview": "John Arnold DeMarco is a man who believes he is Don Juan, the greatest lover in the world. Clad in a cape and mask, DeMarco undergoes psychiatric treatment with Dr. Jack Mickler to cure him of his apparent delusion. But the psychiatric sessions have an unexpected effect on the psychiatric staff and, most profoundly, Dr Mickler, who rekindles the romance in his complacent marriage.",
+  "release_date": "1994-10-12",
+  "runtime": 97,
+  "budget": 25000000,
+  "revenue": 68792531,
+  "tmdb_vote_average": 6.722,
+  "tmdb_vote_count": 778,
+  "tmdb_popularity": 2.5618,
+  "original_language": "en",
+  "poster_path": "/fe0TuYz9jCKUba2Omj48K8bWJ8z.jpg",
+  "backdrop_path": "/nnrITCU29fAVFDngn3eEwBsECPX.jpg",
+  "tmdb_genres_raw": [
+    "Romance",
+    "Drama",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 70,
+      "name": "American Zoetrope",
+      "origin_country": "US"
+    },
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 4286,
+      "name": "Juno Pix",
+      "origin_country": "US"
+    },
+    {
+      "id": 889,
+      "name": "Outlaw Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 85,
+      "name": "Johnny Depp",
+      "character": "Don Juan DeMarco",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 8.8051,
+      "profile_path": "/drl9qDZoxPHhUbDamYcOQEhlHzW.jpg"
+    },
+    {
+      "personId": 3084,
+      "name": "Marlon Brando",
+      "character": "Dr. Jack Mickler",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 3.3435,
+      "profile_path": "/iyO183LVAJ0I4ZkNibINPjfAjCP.jpg"
+    },
+    {
+      "personId": 6450,
+      "name": "Faye Dunaway",
+      "character": "Marilyn Mickler",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.1233,
+      "profile_path": "/bwHJPkiDOjTslgrl0mri1Ndvx2V.jpg"
+    },
+    {
+      "personId": 19888,
+      "name": "Géraldine Pailhas",
+      "character": "Dona Ana",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.1128,
+      "profile_path": "/e1xAdLDPKOO3sfMU2I52vL6pL2I.jpg"
+    },
+    {
+      "personId": 19889,
+      "name": "Bob Dishy",
+      "character": "Dr. Paul Showalter",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.1784,
+      "profile_path": "/VmtKTZPYNUePKeVXRTgUo7qUED.jpg"
+    },
+    {
+      "personId": 10768,
+      "name": "Rachel Ticotin",
+      "character": "Doña Inez",
+      "order": 5,
+      "cast_id": 18,
+      "popularity": 2.8223,
+      "profile_path": "/ihLzHGkgQcpUX26K5AtfG8VuYGB.jpg"
+    },
+    {
+      "personId": 10680,
+      "name": "Talisa Soto",
+      "character": "Doña Julia",
+      "order": 6,
+      "cast_id": 19,
+      "popularity": 1.3951,
+      "profile_path": "/tpEGbGgASne8m1iHzncuxdSLIkX.jpg"
+    },
+    {
+      "personId": 25214,
+      "name": "Stephen Singer",
+      "character": "Dr. Bill Dunsmore",
+      "order": 7,
+      "cast_id": 20,
+      "popularity": 1.3534,
+      "profile_path": "/v8kDAW4RyIafAZngZ5XXNOuPRKN.jpg"
+    },
+    {
+      "personId": 25215,
+      "name": "Jo Champa",
+      "character": "Sultana Gulbeyaz",
+      "order": 8,
+      "cast_id": 21,
+      "popularity": 1.0153,
+      "profile_path": "/rM1nctMAsmyyKbffIYM8elMss9F.jpg"
+    },
+    {
+      "personId": 1536,
+      "name": "Marita Geraghty",
+      "character": "Woman in Restaurant",
+      "order": 9,
+      "cast_id": 22,
+      "popularity": 1.5923,
+      "profile_path": "/trncDdjDlN81VrMNPr71ZZVZFCR.jpg"
+    },
+    {
+      "personId": 21544,
+      "name": "Richard C. Sarafian",
+      "character": "Detective Sy Tobias",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 0.6296,
+      "profile_path": "/5r4AFht3ecnl4V2w8KvfmV7A4yB.jpg"
+    },
+    {
+      "personId": 32391,
+      "name": "Tresa Hughes",
+      "character": "Grandmother DeMarco",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 1.0895,
+      "profile_path": "/eP7fx7fvh0WtOd6Zq1BKbKnsnXG.jpg"
+    },
+    {
+      "personId": 28413,
+      "name": "Carmen Argenziano",
+      "character": "Don Alfonzo",
+      "order": 12,
+      "cast_id": 25,
+      "popularity": 1.679,
+      "profile_path": "/aiHWJmsVn7iWuohSg6lzF23XYVr.jpg"
+    },
+    {
+      "personId": 8396,
+      "name": "Tommy Lister Jr.",
+      "character": "Rocco Compton",
+      "order": 13,
+      "cast_id": 27,
+      "popularity": 2.4064,
+      "profile_path": "/i1seZDiLC3AKrAYqfFSln6ZGNmF.jpg"
+    },
+    {
+      "personId": 2602974,
+      "name": "Selena Quintanilla",
+      "character": "Mariachi Singer",
+      "order": 14,
+      "cast_id": 33,
+      "popularity": 0.4986,
+      "profile_path": "/cSoJ3KZ76F789XaKRXpjJxCHOYD.jpg"
+    },
+    {
+      "personId": 129218,
+      "name": "Gilbert Lewis",
+      "character": "Judge Ryland",
+      "order": 15,
+      "cast_id": 34,
+      "popularity": 1.3961,
+      "profile_path": "/4gf2lIlQZfr0fcgnJQqcsI01uq0.jpg"
+    },
+    {
+      "personId": 158205,
+      "name": "Franc Luz",
+      "character": "Don Antonio",
+      "order": 16,
+      "cast_id": 35,
+      "popularity": 2.0624,
+      "profile_path": "/twgMU6aF97h1yDZcBxezu86WIwy.jpg"
+    },
+    {
+      "personId": 1217001,
+      "name": "Lorenzo Caccialanza",
+      "character": "Maitre D' (uncredited)",
+      "order": 17,
+      "cast_id": 37,
+      "popularity": 0.6046,
+      "profile_path": "/4lUFz3Sgp0DOPlt0PbiyuAqENV.jpg"
+    },
+    {
+      "personId": 3859175,
+      "name": "Mark Winn",
+      "character": "Arab Slave trader (uncredited)",
+      "order": 18,
+      "cast_id": 39,
+      "popularity": 0.5686,
+      "profile_path": "/9x1M0tjfUINCwwCybMgcz4Y1iew.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 25210,
+      "name": "Jeremy Leven",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.6219,
+      "profile_path": "/uMbk9WztEwV3E4reQvH7BE7SfrI.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 5906,
+      "name": "sex addiction"
+    },
+    {
+      "id": 9673,
+      "name": "love"
+    },
+    {
+      "id": 11857,
+      "name": "mental institution"
+    },
+    {
+      "id": 14781,
+      "name": "patient"
+    },
+    {
+      "id": 15106,
+      "name": "psychiatrist"
+    },
+    {
+      "id": 180077,
+      "name": "don juan"
+    }
+  ]
+}

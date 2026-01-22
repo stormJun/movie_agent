@@ -1,0 +1,279 @@
+{
+  "overview": "A private detective takes on a case that involves him with three eccentric criminals, a beautiful liar, and their quest for a priceless statuette.",
+  "release_date": "1941-10-18",
+  "runtime": 100,
+  "budget": 375000,
+  "revenue": 1772000,
+  "tmdb_vote_average": 7.707,
+  "tmdb_vote_count": 1818,
+  "tmdb_popularity": 2.9716,
+  "original_language": "en",
+  "poster_path": "/bf4o6Uzw5wqLjdKwRuiDrN1xyvl.jpg",
+  "backdrop_path": "/9xzVKUGbVKrrgwlmshJ8SxI5mL7.jpg",
+  "tmdb_genres_raw": [
+    "Mystery",
+    "Crime",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4110,
+      "name": "Humphrey Bogart",
+      "character": "Samuel Spade",
+      "order": 0,
+      "cast_id": 13,
+      "popularity": 1.9628,
+      "profile_path": "/4pk2VbOb2td7iBZyir6Ji46HH4N.jpg"
+    },
+    {
+      "personId": 13992,
+      "name": "Mary Astor",
+      "character": "Brigid O'Shaughnessy",
+      "order": 1,
+      "cast_id": 15,
+      "popularity": 2.0008,
+      "profile_path": "/g5iKOHKkpTAQUNOodgCEInrmtiU.jpg"
+    },
+    {
+      "personId": 14450,
+      "name": "Gladys George",
+      "character": "Iva Archer",
+      "order": 2,
+      "cast_id": 16,
+      "popularity": 0.6568,
+      "profile_path": "/yniYGj7MqG13UZNLDQWh28RR6tK.jpg"
+    },
+    {
+      "personId": 2094,
+      "name": "Peter Lorre",
+      "character": "Joel Cairo",
+      "order": 3,
+      "cast_id": 14,
+      "popularity": 1.6863,
+      "profile_path": "/hgum7XGkYgiJ8jkFr4MC03PCnD4.jpg"
+    },
+    {
+      "personId": 14451,
+      "name": "Barton MacLane",
+      "character": "Lt. of Detectives Dundy",
+      "order": 4,
+      "cast_id": 17,
+      "popularity": 0.6573,
+      "profile_path": "/5lrfsloSoznUSZWf9NYywYRLtDW.jpg"
+    },
+    {
+      "personId": 5740,
+      "name": "Lee Patrick",
+      "character": "Effie Perine",
+      "order": 5,
+      "cast_id": 18,
+      "popularity": 0.9366,
+      "profile_path": "/zlLezqw2Klyw1qt0uxePQtC9NZ6.jpg"
+    },
+    {
+      "personId": 4114,
+      "name": "Sydney Greenstreet",
+      "character": "Kasper Gutman",
+      "order": 6,
+      "cast_id": 19,
+      "popularity": 0.7249,
+      "profile_path": "/67bcDUjZEXrTpOTejsweP53KQGV.jpg"
+    },
+    {
+      "personId": 4303,
+      "name": "Ward Bond",
+      "character": "Det. Tom Polhaus",
+      "order": 7,
+      "cast_id": 20,
+      "popularity": 2.0174,
+      "profile_path": "/6F8pPEwBHWDpX04R8LkARFejwtC.jpg"
+    },
+    {
+      "personId": 14452,
+      "name": "Jerome Cowan",
+      "character": "Miles Archer",
+      "order": 8,
+      "cast_id": 21,
+      "popularity": 0.9068,
+      "profile_path": "/79be685su9LMAr41HMVKby0FsTg.jpg"
+    },
+    {
+      "personId": 3339,
+      "name": "Elisha Cook Jr.",
+      "character": "Wilmer Cook",
+      "order": 9,
+      "cast_id": 22,
+      "popularity": 1.7761,
+      "profile_path": "/lM7n3Feg9t2mkcMUmdJ5fCi54wJ.jpg"
+    },
+    {
+      "personId": 14453,
+      "name": "James Burke",
+      "character": "Luke",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 0.9724,
+      "profile_path": "/6xXAL2XkRoowVkxtreZjFs5tjLY.jpg"
+    },
+    {
+      "personId": 14454,
+      "name": "Murray Alper",
+      "character": "Frank Richman",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 0.593,
+      "profile_path": "/a6rLo8K41TpAHip1zSLsy58nRov.jpg"
+    },
+    {
+      "personId": 14455,
+      "name": "John Hamilton",
+      "character": "District Attorney Bryan",
+      "order": 12,
+      "cast_id": 25,
+      "popularity": 0.7073,
+      "profile_path": "/9VZWWtnDccfRvT3mtXMNMg53uqp.jpg"
+    },
+    {
+      "personId": 15978,
+      "name": "Charles Drake",
+      "character": "Reporter (uncredited)",
+      "order": 13,
+      "cast_id": 32,
+      "popularity": 0.7043,
+      "profile_path": "/8MbNiIMYrJ7UgKseAmBbw2sXH1M.jpg"
+    },
+    {
+      "personId": 96259,
+      "name": "Chester Gan",
+      "character": "Bit Part (uncredited)",
+      "order": 14,
+      "cast_id": 46,
+      "popularity": 0.3838,
+      "profile_path": "/2xcXjaV3lAixrFbkGCyGWQMMoLX.jpg"
+    },
+    {
+      "personId": 97981,
+      "name": "Creighton Hale",
+      "character": "Stenographer (uncredited)",
+      "order": 15,
+      "cast_id": 33,
+      "popularity": 0.4521,
+      "profile_path": "/7rTJcSkHJ77iU62HXcL8NZa6gth.jpg"
+    },
+    {
+      "personId": 95311,
+      "name": "Robert Homans",
+      "character": "Policeman (uncredited)",
+      "order": 16,
+      "cast_id": 34,
+      "popularity": 0.4318,
+      "profile_path": "/4milvzRXMyVrDsVNdZ70pQwyPx.jpg"
+    },
+    {
+      "personId": 2776,
+      "name": "William Hopper",
+      "character": "Reporter (uncredited)",
+      "order": 17,
+      "cast_id": 27,
+      "popularity": 1.3065,
+      "profile_path": "/fOYuQ914CheBCDEHdTDoCsmjhTI.jpg"
+    },
+    {
+      "personId": 19020,
+      "name": "Walter Huston",
+      "character": "Captain Jacoby (uncredited)",
+      "order": 18,
+      "cast_id": 28,
+      "popularity": 0.6989,
+      "profile_path": "/yLhqfB99005d2nS7CIkwWO4qzmP.jpg"
+    },
+    {
+      "personId": 13856,
+      "name": "Hank Mann",
+      "character": "Reporter (uncredited)",
+      "order": 19,
+      "cast_id": 35,
+      "popularity": 1.3815,
+      "profile_path": "/5EGNEc8hjNmyNA6bh39czJ0BcGS.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 6593,
+      "name": "John Huston",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.1039,
+      "profile_path": "/rAqKERlZvXBiKV0tONGg5huwuJl.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 582,
+      "name": "san francisco, california"
+    },
+    {
+      "id": 697,
+      "name": "loss of loved one"
+    },
+    {
+      "id": 703,
+      "name": "detective"
+    },
+    {
+      "id": 9807,
+      "name": "film noir"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 11151,
+      "name": "statuette"
+    },
+    {
+      "id": 12570,
+      "name": "whodunit"
+    },
+    {
+      "id": 12999,
+      "name": "black and white"
+    },
+    {
+      "id": 155790,
+      "name": "private detective"
+    },
+    {
+      "id": 155843,
+      "name": "black bird"
+    },
+    {
+      "id": 185525,
+      "name": "private eye"
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+  "release_date": "1977-05-25",
+  "runtime": 121,
+  "budget": 11000000,
+  "revenue": 775398007,
+  "tmdb_vote_average": 8.202,
+  "tmdb_vote_count": 21798,
+  "tmdb_popularity": 22.5973,
+  "original_language": "en",
+  "poster_path": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+  "backdrop_path": "/4qCqAdHcNKeAHcK8tJ8wNJZa9cx.jpg",
+  "tmdb_genres_raw": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    {
+      "id": 1,
+      "name": "Lucasfilm Ltd.",
+      "origin_country": "US"
+    },
+    {
+      "id": 25,
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2,
+      "name": "Mark Hamill",
+      "character": "Luke Skywalker",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 6.309,
+      "profile_path": "/zMQ93JTLW8KxusKhOlHFZhih3YQ.jpg"
+    },
+    {
+      "personId": 3,
+      "name": "Harrison Ford",
+      "character": "Han Solo",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 6.4543,
+      "profile_path": "/5M7oN3sznp99hWYQ9sX0xheswWX.jpg"
+    },
+    {
+      "personId": 4,
+      "name": "Carrie Fisher",
+      "character": "Princess Leia Organa",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 3.0763,
+      "profile_path": "/of4yHmryKPy92eeskUQ7MRmjC3l.jpg"
+    },
+    {
+      "personId": 5,
+      "name": "Peter Cushing",
+      "character": "Grand Moff Tarkin",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 2.6255,
+      "profile_path": "/if5g03wn6uvHx7F6FxXHLebKc0q.jpg"
+    },
+    {
+      "personId": 12248,
+      "name": "Alec Guinness",
+      "character": "Obi-Wan \"Ben\" Kenobi",
+      "order": 4,
+      "cast_id": 14,
+      "popularity": 1.8385,
+      "profile_path": "/q9QgiNDEO6lbi7uMAOw0OgWn8DG.jpg"
+    },
+    {
+      "personId": 6,
+      "name": "Anthony Daniels",
+      "character": "C-3PO",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 1.3627,
+      "profile_path": "/7kR4kwXtvXtvrsxWeX3QLX5NS5V.jpg"
+    },
+    {
+      "personId": 130,
+      "name": "Kenny Baker",
+      "character": "R2-D2",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 1.27,
+      "profile_path": "/kWwso57V7fr0jWnHfknlxxq7XXy.jpg"
+    },
+    {
+      "personId": 24343,
+      "name": "Peter Mayhew",
+      "character": "Chewbacca",
+      "order": 7,
+      "cast_id": 15,
+      "popularity": 0.65,
+      "profile_path": "/rKIBv08O63pyC6PixjyhrjNB8Uh.jpg"
+    },
+    {
+      "personId": 24342,
+      "name": "David Prowse",
+      "character": "Darth Vader (performer)",
+      "order": 8,
+      "cast_id": 16,
+      "popularity": 0.6838,
+      "profile_path": "/xTocYiKHlRYN8tfh8vyQFsRXC0K.jpg"
+    },
+    {
+      "personId": 15152,
+      "name": "James Earl Jones",
+      "character": "Darth Vader (voice) (uncredited)",
+      "order": 9,
+      "cast_id": 17,
+      "popularity": 2.369,
+      "profile_path": "/oqMPIsXrl9SZkRfIKN08eFROmH6.jpg"
+    },
+    {
+      "personId": 33032,
+      "name": "Phil Brown",
+      "character": "Uncle Owen",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 0.8458,
+      "profile_path": "/bzX8avS5m0aODFh4VZaMs0lJnyX.jpg"
+    },
+    {
+      "personId": 131625,
+      "name": "Shelagh Fraser",
+      "character": "Aunt Beru",
+      "order": 11,
+      "cast_id": 19,
+      "popularity": 0.5921,
+      "profile_path": "/2QucvNmG3mOvSflbXRkY5renpQT.jpg"
+    },
+    {
+      "personId": 132538,
+      "name": "Jack Purvis",
+      "character": "Chief Jawa",
+      "order": 12,
+      "cast_id": 24,
+      "popularity": 1.9506,
+      "profile_path": "/hqyOb084iHm3DTjg6MflMBDYTqv.jpg"
+    },
+    {
+      "personId": 216087,
+      "name": "Alex McCrindle",
+      "character": "General Dodonna",
+      "order": 13,
+      "cast_id": 25,
+      "popularity": 0.6459,
+      "profile_path": "/LTLiQPMnKESxGVHhZ7n2qPAuMi.jpg"
+    },
+    {
+      "personId": 69249,
+      "name": "Eddie Byrne",
+      "character": "General Willard",
+      "order": 14,
+      "cast_id": 26,
+      "popularity": 0.7254,
+      "profile_path": "/qBiu6krZReDHLG0ggdtwH0QdL1H.jpg"
+    },
+    {
+      "personId": 47401,
+      "name": "Drewe Henley",
+      "character": "Red Leader",
+      "order": 15,
+      "cast_id": 23,
+      "popularity": 1.167,
+      "profile_path": "/qPwONYRA8YRC7z2i1ZIJZlm1PNs.jpg"
+    },
+    {
+      "personId": 47698,
+      "name": "Denis Lawson",
+      "character": "Red Two (Wedge Antilles)",
+      "order": 16,
+      "cast_id": 27,
+      "popularity": 1.4181,
+      "profile_path": "/pBIFnfsfEMw6TawHzcwVPTfEsFz.jpg"
+    },
+    {
+      "personId": 17356,
+      "name": "Garrick Hagon",
+      "character": "Red Three (Biggs Darklighter)",
+      "order": 17,
+      "cast_id": 28,
+      "popularity": 1.1446,
+      "profile_path": "/fGz7qzJQdVclj75vDGJDisGmqCH.jpg"
+    },
+    {
+      "personId": 162432,
+      "name": "Jack Klaff",
+      "character": "Red Four (John \"D\")",
+      "order": 18,
+      "cast_id": 29,
+      "popularity": 1.2621,
+      "profile_path": "/tD8WY2RRmhBQdNY9gGHFgcI4yBA.jpg"
+    },
+    {
+      "personId": 663,
+      "name": "William Hootkins",
+      "character": "Red Six (Porkins)",
+      "order": 19,
+      "cast_id": 21,
+      "popularity": 0.9486,
+      "profile_path": "/dav2i86GN0UvYIyoTwQmGE8Nweg.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1,
+      "name": "George Lucas",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 3.1008,
+      "profile_path": "/mDLDvsx8PaZoEThkBdyaG1JxPdf.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 11195,
+      "name": "empire"
+    },
+    {
+      "id": 4270,
+      "name": "galaxy"
+    },
+    {
+      "id": 11196,
+      "name": "rebellion"
+    },
+    {
+      "id": 803,
+      "name": "android"
+    },
+    {
+      "id": 4271,
+      "name": "hermit"
+    },
+    {
+      "id": 6212,
+      "name": "smuggling (contraband)"
+    },
+    {
+      "id": 6089,
+      "name": "freedom"
+    },
+    {
+      "id": 526,
+      "name": "rebel"
+    },
+    {
+      "id": 11107,
+      "name": "rescue mission"
+    },
+    {
+      "id": 9882,
+      "name": "space"
+    },
+    {
+      "id": 13194,
+      "name": "planet"
+    },
+    {
+      "id": 18034,
+      "name": "desert"
+    },
+    {
+      "id": 33637,
+      "name": "super power"
+    },
+    {
+      "id": 158455,
+      "name": "oppression"
+    },
+    {
+      "id": 161176,
+      "name": "space opera"
+    },
+    {
+      "id": 177912,
+      "name": "wizard"
+    },
+    {
+      "id": 178712,
+      "name": "totalitarianism"
+    },
+    {
+      "id": 325811,
+      "name": "excited"
+    },
+    {
+      "id": 325812,
+      "name": "exhilarated"
+    }
+  ]
+}

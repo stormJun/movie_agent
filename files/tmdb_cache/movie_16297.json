@@ -1,0 +1,255 @@
+{
+  "overview": "Convinced he'll graduate with honors because of his thesis paper, a stuffy Harvard student finds his paper being held hostage by a homeless man, who might be the guy to school the young man in life.",
+  "release_date": "1994-04-29",
+  "runtime": 103,
+  "budget": 0,
+  "revenue": 20016254,
+  "tmdb_vote_average": 6.755,
+  "tmdb_vote_count": 221,
+  "tmdb_popularity": 1.2808,
+  "original_language": "en",
+  "poster_path": "/iMcSUbMT13Rb8fmhwvanVAMwRW.jpg",
+  "backdrop_path": "/m0m0ikotUirpFBRuqjfXA738CMc.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 705,
+      "name": "Spring Creek Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4517,
+      "name": "Joe Pesci",
+      "character": "Simon Wilder",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.9925,
+      "profile_path": "/zbAdhqbMfRXSz26TjxJvB5f2eL5.jpg"
+    },
+    {
+      "personId": 18269,
+      "name": "Brendan Fraser",
+      "character": "Montgomery 'Monty' Kessler",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 5.3938,
+      "profile_path": "/tFj5PaWWQbb8rHBBhu1EHklznph.jpg"
+    },
+    {
+      "personId": 20005,
+      "name": "Moira Kelly",
+      "character": "Courtney Blumenthal",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.0907,
+      "profile_path": "/3yQRnGSfbPWQDInZHTzzXsrAhUR.jpg"
+    },
+    {
+      "personId": 18352,
+      "name": "Patrick Dempsey",
+      "character": "Everett Calloway",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 3.7762,
+      "profile_path": "/2PpaYtXdaDmNi3jap4qPIdyVesL.jpg"
+    },
+    {
+      "personId": 52419,
+      "name": "Josh Hamilton",
+      "character": "Jeffrey Hawks",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.8112,
+      "profile_path": "/7nuAUPd7E8iOE5lhUcNpogS2akP.jpg"
+    },
+    {
+      "personId": 11626,
+      "name": "Gore Vidal",
+      "character": "Prof. Pitkannan",
+      "order": 5,
+      "cast_id": 18,
+      "popularity": 1.5926,
+      "profile_path": "/vHIIjpltpM9StRYmjjM7liAObuZ.jpg"
+    },
+    {
+      "personId": 1612819,
+      "name": "Deborah Lake Fortson",
+      "character": "Homeless Woman",
+      "order": 6,
+      "cast_id": 19,
+      "popularity": 0.0994,
+      "profile_path": null
+    },
+    {
+      "personId": 1612820,
+      "name": "Marshall Hambro",
+      "character": "Chuck, Security Guard",
+      "order": 7,
+      "cast_id": 20,
+      "popularity": 0.2456,
+      "profile_path": null
+    },
+    {
+      "personId": 1270150,
+      "name": "Melinda Chilton",
+      "character": "Helga",
+      "order": 8,
+      "cast_id": 21,
+      "popularity": 1.1983,
+      "profile_path": null
+    },
+    {
+      "personId": 1612821,
+      "name": "Harve Kolzow",
+      "character": "Harvard Cop",
+      "order": 9,
+      "cast_id": 22,
+      "popularity": 0.07,
+      "profile_path": null
+    },
+    {
+      "personId": 1226692,
+      "name": "James Deuter",
+      "character": "Judge",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 0.3409,
+      "profile_path": "/jEc9C2JD2veduRGHwnBmFobEq6A.jpg"
+    },
+    {
+      "personId": 1612822,
+      "name": "Caroline Gibson",
+      "character": "Donation Student",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 0.4891,
+      "profile_path": null
+    },
+    {
+      "personId": 183230,
+      "name": "Mara Brock Akil",
+      "character": "Ms. Moore",
+      "order": 12,
+      "cast_id": 25,
+      "popularity": 0.5438,
+      "profile_path": "/mP9E6DfYcSAoIyNpGM9w9aZGGkE.jpg"
+    },
+    {
+      "personId": 171149,
+      "name": "Clebert Ford",
+      "character": "Homeless Man",
+      "order": 13,
+      "cast_id": 26,
+      "popularity": 1.3438,
+      "profile_path": null
+    },
+    {
+      "personId": 171073,
+      "name": "M. Lynda Robinson",
+      "character": "Newspaper Purchaser #1",
+      "order": 14,
+      "cast_id": 27,
+      "popularity": 0.2568,
+      "profile_path": null
+    },
+    {
+      "personId": 1612823,
+      "name": "Richard Auguste",
+      "character": "Newspaper Purchaser #2",
+      "order": 15,
+      "cast_id": 28,
+      "popularity": 0.1112,
+      "profile_path": null
+    },
+    {
+      "personId": 1612824,
+      "name": "Patricia B. Butcher",
+      "character": "Librarian",
+      "order": 16,
+      "cast_id": 29,
+      "popularity": 0.053,
+      "profile_path": null
+    },
+    {
+      "personId": 1612825,
+      "name": "William Ashby King",
+      "character": "Church Custodian",
+      "order": 17,
+      "cast_id": 30,
+      "popularity": 0.095,
+      "profile_path": null
+    },
+    {
+      "personId": 1612826,
+      "name": "Frank J. Tieri",
+      "character": "Homeless Man #2",
+      "order": 18,
+      "cast_id": 31,
+      "popularity": 0.0923,
+      "profile_path": null
+    },
+    {
+      "personId": 1327404,
+      "name": "Rick LeFevour",
+      "character": "Mailman",
+      "order": 19,
+      "cast_id": 32,
+      "popularity": 0.59,
+      "profile_path": "/3cJvjp0dN0IiY8ztkV4hKoHRqKf.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 50949,
+      "name": "Alek Keshishian",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5347,
+      "profile_path": "/Gv5G8XiCL8BhSzq3PA9p7ek5cQ.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 960,
+      "name": "homeless person"
+    },
+    {
+      "id": 9798,
+      "name": "law school"
+    },
+    {
+      "id": 41267,
+      "name": "bum"
+    },
+    {
+      "id": 171162,
+      "name": "harvard law school"
+    },
+    {
+      "id": 207844,
+      "name": "college student"
+    }
+  ]
+}

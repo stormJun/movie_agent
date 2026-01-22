@@ -1,0 +1,266 @@
+{
+  "overview": "Dorothy Parker remembers the heyday of the Algonquin Round Table, a circle of friends whose barbed wit, like hers, was fueled by alcohol and flirted with despair.",
+  "release_date": "1994-09-07",
+  "runtime": 125,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.8,
+  "tmdb_vote_count": 56,
+  "tmdb_popularity": 1.2796,
+  "original_language": "en",
+  "poster_path": "/avTHiIim0Jm0rs4ehFLck8u3NFW.jpg",
+  "backdrop_path": "/9FQhHLE4oFLjSB6PpJ4PBu0IJNv.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 8,
+      "name": "Fine Line Features",
+      "origin_country": "US"
+    },
+    {
+      "id": 14,
+      "name": "Miramax",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10431,
+      "name": "Jennifer Jason Leigh",
+      "character": "Dorothy Parker",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 5.7385,
+      "profile_path": "/yYD255SwZkFc1wGgBMVRZ2i7Ina.jpg"
+    },
+    {
+      "personId": 55152,
+      "name": "Campbell Scott",
+      "character": "Robert Benchley",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 2.8641,
+      "profile_path": "/lJCxZpQru76zBeuZGxc0Gm5Pm9y.jpg"
+    },
+    {
+      "personId": 4756,
+      "name": "Matthew Broderick",
+      "character": "Charles MacArthur",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 3.1808,
+      "profile_path": "/2Pq8pwOX5ZFfT2p5pNLGfvUi9Pp.jpg"
+    },
+    {
+      "personId": 8212,
+      "name": "Peter Gallagher",
+      "character": "Alan Campbell",
+      "order": 3,
+      "cast_id": 9,
+      "popularity": 3.2129,
+      "profile_path": "/msyfiU6qgG8QKntiXngX6DFK2CO.jpg"
+    },
+    {
+      "personId": 3130,
+      "name": "Jennifer Beals",
+      "character": "Gertrude Benchley",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 3.5555,
+      "profile_path": "/tu1CjyjoUoV7rGPyvwvH9b0MlbW.jpg"
+    },
+    {
+      "personId": 37041,
+      "name": "Andrew McCarthy",
+      "character": "Eddie Parker",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 4.3839,
+      "profile_path": "/swlewiX5zUjF5za9JOFXIVrL3kH.jpg"
+    },
+    {
+      "personId": 12900,
+      "name": "Wallace Shawn",
+      "character": "Horatio Byrd",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 3.9917,
+      "profile_path": "/wVaM1WlFKDce4esThwL4XtNLhOe.jpg"
+    },
+    {
+      "personId": 17495,
+      "name": "Martha Plimpton",
+      "character": "Jane Grant",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 3.2446,
+      "profile_path": "/bCfhOm4WRb2X5RQdfz5TpMvMZ1.jpg"
+    },
+    {
+      "personId": 8213,
+      "name": "Sam Robards",
+      "character": "Harold Ross",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 1.86,
+      "profile_path": "/AqYRpRgNqQopOU5YGfSFVSuIyl9.jpg"
+    },
+    {
+      "personId": 3127,
+      "name": "Lili Taylor",
+      "character": "Edna Ferber",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 2.5342,
+      "profile_path": "/vWcMUi3QyvCr3QuFbjtwyPx7WtU.jpg"
+    },
+    {
+      "personId": 6474,
+      "name": "James LeGros",
+      "character": "Deems Taylor",
+      "order": 10,
+      "cast_id": 38,
+      "popularity": 2.2553,
+      "profile_path": "/q7AgI7xjFDSQPlilkT17YddAc93.jpg"
+    },
+    {
+      "personId": 12052,
+      "name": "Gwyneth Paltrow",
+      "character": "Paula Hunt",
+      "order": 11,
+      "cast_id": 7,
+      "popularity": 5.8258,
+      "profile_path": "/mLarlXA8G02AdIMKptZmUzQluqF.jpg"
+    },
+    {
+      "personId": 11151,
+      "name": "Nick Cassavetes",
+      "character": "Robert Sherwood",
+      "order": 12,
+      "cast_id": 16,
+      "popularity": 1.4904,
+      "profile_path": "/cSAkROMjuYBmzp7T3Da3WP6loZM.jpg"
+    },
+    {
+      "personId": 76526,
+      "name": "David Thornton",
+      "character": "George S. Kaufman",
+      "order": 13,
+      "cast_id": 17,
+      "popularity": 2.3548,
+      "profile_path": "/jKlG3icyzBrpOqPoimRmENf3tPf.jpg"
+    },
+    {
+      "personId": 69122,
+      "name": "Heather Graham",
+      "character": "Mary Kennedy Taylor",
+      "order": 14,
+      "cast_id": 18,
+      "popularity": 4.5352,
+      "profile_path": "/avYdNkeg1oTvmrNJbFDcTlBCkKs.jpg"
+    },
+    {
+      "personId": 77338,
+      "name": "Tom McGowan",
+      "character": "Alexander Woollcott",
+      "order": 15,
+      "cast_id": 40,
+      "popularity": 1.2006,
+      "profile_path": "/yXeRcq0Lgz8RofCcmg72ai97AFE.jpg"
+    },
+    {
+      "personId": 90039,
+      "name": "Chip Zien",
+      "character": "Franklin P. Adams",
+      "order": 16,
+      "cast_id": 20,
+      "popularity": 1.2555,
+      "profile_path": "/3D3WJOj7dfoIVLStJttNMFNm6c3.jpg"
+    },
+    {
+      "personId": 96228,
+      "name": "Gary Basaraba",
+      "character": "Heywood Broun",
+      "order": 17,
+      "cast_id": 21,
+      "popularity": 1.0971,
+      "profile_path": "/dH6zocqD5heDerhCANUtfy00gHm.jpg"
+    },
+    {
+      "personId": 209,
+      "name": "Jane Adams",
+      "character": "Ruth Hale",
+      "order": 18,
+      "cast_id": 22,
+      "popularity": 2.1521,
+      "profile_path": "/2FsPAoatMkUZ7khJ9r4Fa7ZxQzS.jpg"
+    },
+    {
+      "personId": 9045,
+      "name": "Stephen Baldwin",
+      "character": "Roger Spalding",
+      "order": 19,
+      "cast_id": 23,
+      "popularity": 3.2661,
+      "profile_path": "/w2nZjBsEsjboQDZJXEkysuGgue4.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 72427,
+      "name": "Alan Rudolph",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6635,
+      "profile_path": "/vJD43MfiVQTCOMnz2JnBltYm8nf.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 947,
+      "name": "prohibition era"
+    },
+    {
+      "id": 567,
+      "name": "alcohol"
+    },
+    {
+      "id": 5565,
+      "name": "biography"
+    },
+    {
+      "id": 9840,
+      "name": "romance"
+    },
+    {
+      "id": 9856,
+      "name": "flashback"
+    },
+    {
+      "id": 13028,
+      "name": "writer"
+    },
+    {
+      "id": 207876,
+      "name": "1920s"
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "overview": "A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder.",
+  "release_date": "1954-08-01",
+  "runtime": 112,
+  "budget": 1000000,
+  "revenue": 37042336,
+  "tmdb_vote_average": 8.347,
+  "tmdb_vote_count": 6950,
+  "tmdb_popularity": 8.1688,
+  "original_language": "en",
+  "poster_path": "/ILVF0eJxHMddjxeQhswFtpMtqx.jpg",
+  "backdrop_path": "/zGs5tZOlvc9cprdcU6kDOVNpujf.jpg",
+  "tmdb_genres_raw": [
+    "Thriller",
+    "Mystery"
+  ],
+  "production_companies": [
+    {
+      "id": 10715,
+      "name": "Alfred J. Hitchcock Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 854,
+      "name": "James Stewart",
+      "character": "L.B. Jefferies",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 3.0543,
+      "profile_path": "/jam9DRhOuKomlr0vUXTamPoxPdk.jpg"
+    },
+    {
+      "personId": 4070,
+      "name": "Grace Kelly",
+      "character": "Lisa Fremont",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.3275,
+      "profile_path": "/gnz3NGJrUERwklqfuPWXxcOPs0Q.jpg"
+    },
+    {
+      "personId": 7683,
+      "name": "Wendell Corey",
+      "character": "Thomas Doyle",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 1.4531,
+      "profile_path": "/tD2USnh2ItYSviS3L9dHKeztNGQ.jpg"
+    },
+    {
+      "personId": 7684,
+      "name": "Thelma Ritter",
+      "character": "Stella",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 1.4859,
+      "profile_path": "/q48Cf2evvi73qJULqhIotGrszaA.jpg"
+    },
+    {
+      "personId": 7685,
+      "name": "Raymond Burr",
+      "character": "Lars Thorwald",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 2.2618,
+      "profile_path": "/gsmckogOXPIk6lce2qnNMAFF901.jpg"
+    },
+    {
+      "personId": 7686,
+      "name": "Judith Evelyn",
+      "character": "Miss Lonelyhearts",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 0.6251,
+      "profile_path": "/phjRLtciYD63yjSCcFCX4AlgDTc.jpg"
+    },
+    {
+      "personId": 49906,
+      "name": "Ross Bagdasarian",
+      "character": "Songwriter",
+      "order": 6,
+      "cast_id": 23,
+      "popularity": 0.845,
+      "profile_path": "/wuZCaOdxbFdRrQuxVXaaF2FlB6U.jpg"
+    },
+    {
+      "personId": 161738,
+      "name": "Georgine Darcy",
+      "character": "Miss Torso",
+      "order": 7,
+      "cast_id": 24,
+      "popularity": 1.2731,
+      "profile_path": "/w8le6IprXZM5OGo8JDhAHfujtvw.jpg"
+    },
+    {
+      "personId": 121038,
+      "name": "Sara Berner",
+      "character": "Woman on Fire Escape",
+      "order": 8,
+      "cast_id": 25,
+      "popularity": 0.4012,
+      "profile_path": "/cUvyj2PuoHU5FAtep9oOxLYaQEp.jpg"
+    },
+    {
+      "personId": 93622,
+      "name": "Frank Cady",
+      "character": "Man on Fire Escape",
+      "order": 9,
+      "cast_id": 26,
+      "popularity": 1.0714,
+      "profile_path": "/sq8kRVaXOszxsFegXAQliU65eCv.jpg"
+    },
+    {
+      "personId": 85846,
+      "name": "Jesslyn Fax",
+      "character": "Miss Hearing Aid",
+      "order": 10,
+      "cast_id": 27,
+      "popularity": 0.6484,
+      "profile_path": "/k2YtSWCxe1rDHtARNW2K4Z3ZBOH.jpg"
+    },
+    {
+      "personId": 184636,
+      "name": "Rand Harper",
+      "character": "Newlywed",
+      "order": 11,
+      "cast_id": 28,
+      "popularity": 0.301,
+      "profile_path": null
+    },
+    {
+      "personId": 130373,
+      "name": "Irene Winston",
+      "character": "Emma Thorwald",
+      "order": 12,
+      "cast_id": 29,
+      "popularity": 0.2397,
+      "profile_path": "/yCOVFQB0PGJkATLYQuH4B4qlIBn.jpg"
+    },
+    {
+      "personId": 176534,
+      "name": "Havis Davenport",
+      "character": "Newlywed",
+      "order": 13,
+      "cast_id": 30,
+      "popularity": 0.2134,
+      "profile_path": null
+    },
+    {
+      "personId": 1636753,
+      "name": "Jerry Antes",
+      "character": "Dancer with Miss Torso (uncredited)",
+      "order": 14,
+      "cast_id": 41,
+      "popularity": 0.4436,
+      "profile_path": "/5Qh1ushyApFXmAJhmgaAVUwMqq0.jpg"
+    },
+    {
+      "personId": 556861,
+      "name": "Benny Bartlett",
+      "character": "Man with Miss Torso (uncredited)",
+      "order": 15,
+      "cast_id": 43,
+      "popularity": 0.7588,
+      "profile_path": "/gRMdrJt8IhHuUEm6FSdMFIoRDvs.jpg"
+    },
+    {
+      "personId": 166961,
+      "name": "Sue Casey",
+      "character": "Sunbather (uncredited)",
+      "order": 16,
+      "cast_id": 45,
+      "popularity": 1.5384,
+      "profile_path": "/z2qUp4V3nnplKZf8hqJrbDWQwAr.jpg"
+    },
+    {
+      "personId": 170577,
+      "name": "Iphigenie Castiglioni",
+      "character": "Woman with Bird (uncredited)",
+      "order": 17,
+      "cast_id": 46,
+      "popularity": 1.2077,
+      "profile_path": "/vlh34wKdQdbpHuBr6Ai32h8dfQQ.jpg"
+    },
+    {
+      "personId": 2459024,
+      "name": "James Cornell",
+      "character": "(uncredited)",
+      "order": 18,
+      "cast_id": 47,
+      "popularity": 1.0061,
+      "profile_path": null
+    },
+    {
+      "personId": 130892,
+      "name": "Don Dunning",
+      "character": "Detective (uncredited)",
+      "order": 19,
+      "cast_id": 48,
+      "popularity": 1.7497,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2636,
+      "name": "Alfred Hitchcock",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 3.8442,
+      "profile_path": "/108fiNM6poRieMg7RIqLJRxdAwG.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 428,
+      "name": "nurse"
+    },
+    {
+      "id": 1533,
+      "name": "isolation"
+    },
+    {
+      "id": 1003,
+      "name": "photographer"
+    },
+    {
+      "id": 2619,
+      "name": "suspicion of murder"
+    },
+    {
+      "id": 2564,
+      "name": "wheelchair"
+    },
+    {
+      "id": 5490,
+      "name": "girlfriend"
+    },
+    {
+      "id": 10332,
+      "name": "salesman"
+    },
+    {
+      "id": 10226,
+      "name": "neighbor"
+    },
+    {
+      "id": 12570,
+      "name": "whodunit"
+    },
+    {
+      "id": 15208,
+      "name": "biting"
+    },
+    {
+      "id": 160967,
+      "name": "convalescence"
+    },
+    {
+      "id": 178649,
+      "name": "voyeurism"
+    },
+    {
+      "id": 180340,
+      "name": "voyeur"
+    },
+    {
+      "id": 222665,
+      "name": "missing wife"
+    },
+    {
+      "id": 236909,
+      "name": "homebound"
+    },
+    {
+      "id": 239376,
+      "name": "psychotic obsessions"
+    },
+    {
+      "id": 243509,
+      "name": "suspicious behavior"
+    },
+    {
+      "id": 352727,
+      "name": "suspense mystery"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "overview": "A family wedding reignites the ancient feud between next-door neighbors and fishing buddies John and Max. Meanwhile, a sultry Italian divorcée opens a restaurant at the local bait shop, alarming the locals who worry she'll scare the fish away. But she's less interested in seafood than she is in cooking up a hot time with Max.",
+  "release_date": "1995-12-22",
+  "runtime": 101,
+  "budget": 25000000,
+  "revenue": 71500000,
+  "tmdb_vote_average": 6.481,
+  "tmdb_vote_count": 412,
+  "tmdb_popularity": 1.832,
+  "original_language": "en",
+  "poster_path": "/1FSXpj5e8l4KH6nVFO5SPUeraOt.jpg",
+  "backdrop_path": "/1o4vuCHpmd4DXofMYDUwpnhKiuy.jpg",
+  "tmdb_genres_raw": [
+    "Romance",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 19464,
+      "name": "Lancaster Gate",
+      "origin_country": ""
+    },
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6837,
+      "name": "Walter Matthau",
+      "character": "Max Goldman",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 2.7331,
+      "profile_path": "/pm1YEQPlsNcHQHZJBgcXvu4U4vg.jpg"
+    },
+    {
+      "personId": 3151,
+      "name": "Jack Lemmon",
+      "character": "John Gustafson",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 2.4291,
+      "profile_path": "/7jWVWLr1VJqQrN3d4YJaATCIHRw.jpg"
+    },
+    {
+      "personId": 13567,
+      "name": "Ann-Margret",
+      "character": "Ariel Gustafson",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 3.9613,
+      "profile_path": "/z20lA2EyYbLcZn5GV1deMQDUCEc.jpg"
+    },
+    {
+      "personId": 16757,
+      "name": "Sophia Loren",
+      "character": "Maria Sophia Coletta Ragetti",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 4.2122,
+      "profile_path": "/94Kglg5dsAgOKG76230FFN7m6W3.jpg"
+    },
+    {
+      "personId": 589,
+      "name": "Daryl Hannah",
+      "character": "Melanie Gustafson",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 3.575,
+      "profile_path": "/5FllFmoiaru7tjXJ6Orc11OpQcw.jpg"
+    },
+    {
+      "personId": 16523,
+      "name": "Burgess Meredith",
+      "character": "Grandpa Gustafson",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 2.0739,
+      "profile_path": "/2ozNyIbHChcqIBANwvCDpUZGA9b.jpg"
+    },
+    {
+      "personId": 7166,
+      "name": "Kevin Pollak",
+      "character": "Jacob Goldman",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 1.8102,
+      "profile_path": "/jWhKIVtmc3vIoS2l1VsdNwMAMJB.jpg"
+    },
+    {
+      "personId": 57676,
+      "name": "Katie Sagona",
+      "character": "Allie, Melanie's Daughter",
+      "order": 7,
+      "cast_id": 72,
+      "popularity": 0.6487,
+      "profile_path": "/P3we4ULnamzzgo8SW3GHChLWcV.jpg"
+    },
+    {
+      "personId": 151759,
+      "name": "Ann Morgan Guilbert",
+      "character": "Mama Ragetti",
+      "order": 8,
+      "cast_id": 67,
+      "popularity": 1.418,
+      "profile_path": "/fs0vzZPF62F9rJsMnodPKDo1bUk.jpg"
+    },
+    {
+      "personId": 111594,
+      "name": "James Andelin",
+      "character": "Sven",
+      "order": 9,
+      "cast_id": 68,
+      "popularity": 0.9946,
+      "profile_path": "/3vXPx3CIr1jHoJfT1MZl1lnjLvZ.jpg"
+    },
+    {
+      "personId": 2017216,
+      "name": "Marcus Klemp",
+      "character": "Eddie, Assistant Manager",
+      "order": 10,
+      "cast_id": 69,
+      "popularity": 0.2055,
+      "profile_path": null
+    },
+    {
+      "personId": 106772,
+      "name": "Max Wright",
+      "character": "County Health Inspector",
+      "order": 11,
+      "cast_id": 70,
+      "popularity": 1.0066,
+      "profile_path": "/bM0yC42RbFCSUWITFGVdiojn7ba.jpg"
+    },
+    {
+      "personId": 61288,
+      "name": "Cheryl Hawker",
+      "character": "Lena",
+      "order": 12,
+      "cast_id": 71,
+      "popularity": 0.5409,
+      "profile_path": "/2noxV9666G25hwxAp4Qydzupz1C.jpg"
+    },
+    {
+      "personId": 155483,
+      "name": "Michelle Johnston",
+      "character": "Sears Salesperson / Chicken Polka Girl",
+      "order": 13,
+      "cast_id": 59,
+      "popularity": 3.0438,
+      "profile_path": "/tBW5YIcWNx1ihVcm7nOUiZ9WPOZ.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 26502,
+      "name": "Howard Deutch",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8416,
+      "profile_path": "/9MOjJAkLZHET0IrKsV6ysUryfs7.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1495,
+      "name": "fishing"
+    },
+    {
+      "id": 9663,
+      "name": "sequel"
+    },
+    {
+      "id": 10938,
+      "name": "old man"
+    },
+    {
+      "id": 12392,
+      "name": "best friend"
+    },
+    {
+      "id": 13027,
+      "name": "wedding"
+    },
+    {
+      "id": 14836,
+      "name": "italian restaurant"
+    },
+    {
+      "id": 157187,
+      "name": "old friends"
+    },
+    {
+      "id": 179431,
+      "name": "duringcreditsstinger"
+    },
+    {
+      "id": 294543,
+      "name": "pranks"
+    }
+  ]
+}

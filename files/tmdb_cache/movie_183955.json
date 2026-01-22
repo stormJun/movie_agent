@@ -1,0 +1,250 @@
+{
+  "overview": "Brothers Joel, Dennis and Sonny  work together as dancers at a low-rent gay bar in downtown Manila, in the Philippines. Despite his mother's pleas, Sonny decides to quit college to work full-time at the bar, while Dennis has moved beyond dancing into prostitution at the urging of the manipulative club manager. Joel, the eldest, tries to balance his secret gay life with his socially respectable role as a husband and father.",
+  "release_date": "1994-09-09",
+  "runtime": 120,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 4.7,
+  "tmdb_vote_count": 6,
+  "tmdb_popularity": 2.192,
+  "original_language": "tl",
+  "poster_path": "/pIjJUGUptsElcaYmvld04ZPfw1O.jpg",
+  "backdrop_path": "/hB1VwX3gERj8Hm2WJPmmGvOtjbp.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 4095,
+      "name": "First Run Features",
+      "origin_country": "US"
+    },
+    {
+      "id": 50180,
+      "name": "Tangent Films International",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "tl",
+      "name": ""
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1200959,
+      "name": "Alex del Rosario",
+      "character": "Joel",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 0.538,
+      "profile_path": null
+    },
+    {
+      "personId": 3678468,
+      "name": "Gandong Cervantes",
+      "character": "Dennis",
+      "order": 1,
+      "cast_id": 6,
+      "popularity": 0.2703,
+      "profile_path": null
+    },
+    {
+      "personId": 1688949,
+      "name": "Lawrence David",
+      "character": "Sonny",
+      "order": 2,
+      "cast_id": 7,
+      "popularity": 0.234,
+      "profile_path": null
+    },
+    {
+      "personId": 3696486,
+      "name": "Luis Cortes",
+      "character": "",
+      "order": 3,
+      "cast_id": 8,
+      "popularity": 0.2144,
+      "profile_path": null
+    },
+    {
+      "personId": 3696487,
+      "name": "Richard Cassity",
+      "character": "",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 0.1795,
+      "profile_path": null
+    },
+    {
+      "personId": 1505988,
+      "name": "Danny Ramos",
+      "character": "",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 0.1201,
+      "profile_path": null
+    },
+    {
+      "personId": 170774,
+      "name": "John Mendoza",
+      "character": "",
+      "order": 6,
+      "cast_id": 5,
+      "popularity": 0.8364,
+      "profile_path": "/jDLruSiHignphqrlJGnSkfjJ6Js.jpg"
+    },
+    {
+      "personId": 3696488,
+      "name": "Leonard Manalansan",
+      "character": "",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 0.1503,
+      "profile_path": null
+    },
+    {
+      "personId": 262129,
+      "name": "Perla Bautista",
+      "character": "Mother",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 1.0917,
+      "profile_path": "/5yksMeQ0jjWlWgJNmZwFb2xZh8q.jpg"
+    },
+    {
+      "personId": 3696489,
+      "name": "Ryan Aristorenas",
+      "character": "Bogart",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 0.2578,
+      "profile_path": null
+    },
+    {
+      "personId": 568015,
+      "name": "Soxy Topacio",
+      "character": "Dominic",
+      "order": 10,
+      "cast_id": 4,
+      "popularity": 1.2317,
+      "profile_path": "/uVyvOKV50Tpp8ZtsZupZKfHrxYm.jpg"
+    },
+    {
+      "personId": 1371193,
+      "name": "Gino Paul Guzman",
+      "character": "",
+      "order": 11,
+      "cast_id": 14,
+      "popularity": 0.4741,
+      "profile_path": null
+    },
+    {
+      "personId": 1350088,
+      "name": "Maureen Mauricio",
+      "character": "Zeny",
+      "order": 12,
+      "cast_id": 15,
+      "popularity": 0.7718,
+      "profile_path": "/bdPcNa9fovESreM4j1n1vtZZbgD.jpg"
+    },
+    {
+      "personId": 3696490,
+      "name": "Jeffrey Suarez",
+      "character": "",
+      "order": 13,
+      "cast_id": 16,
+      "popularity": 0.1601,
+      "profile_path": null
+    },
+    {
+      "personId": 545047,
+      "name": "Ray Ventura",
+      "character": "Gregorio",
+      "order": 14,
+      "cast_id": 17,
+      "popularity": 1.6025,
+      "profile_path": "/uCE6VnkPo6gowlj1BVXKq7MNs3S.jpg"
+    },
+    {
+      "personId": 1085210,
+      "name": "Nonie Buencamino",
+      "character": "Dave",
+      "order": 15,
+      "cast_id": 18,
+      "popularity": 1.4849,
+      "profile_path": "/6HQFNbhSeH0SzmdlIMahCr9SFku.jpg"
+    },
+    {
+      "personId": 1307375,
+      "name": "R.S. Francisco",
+      "character": "Michelle",
+      "order": 16,
+      "cast_id": 19,
+      "popularity": 0.5519,
+      "profile_path": null
+    },
+    {
+      "personId": 278926,
+      "name": "Cherry Pie Picache",
+      "character": "",
+      "order": 17,
+      "cast_id": 20,
+      "popularity": 0.5531,
+      "profile_path": "/4OCSQQ0iMggxKrfhd0NPMxbBssQ.jpg"
+    },
+    {
+      "personId": 2933645,
+      "name": "Herbie Go",
+      "character": "Student",
+      "order": 18,
+      "cast_id": 27,
+      "popularity": 1.0021,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 262130,
+      "name": "Mel Chionglo",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4066,
+      "profile_path": "/wBwmcb8Qdv2ahnZ2Jr4LyZkBDHi.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6739,
+      "name": "callboy"
+    },
+    {
+      "id": 158718,
+      "name": "lgbt"
+    },
+    {
+      "id": 181641,
+      "name": "manila philippines"
+    },
+    {
+      "id": 231839,
+      "name": "rent boy"
+    },
+    {
+      "id": 258533,
+      "name": "gay theme"
+    },
+    {
+      "id": 264803,
+      "name": "gogo boys"
+    }
+  ]
+}

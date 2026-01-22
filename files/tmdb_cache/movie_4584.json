@@ -1,0 +1,356 @@
+{
+  "overview": "The Dashwood sisters, sensible Elinor and passionate Marianne, whose chances at marriage seem doomed by their family's sudden loss of fortune.  When Henry Dashwood dies unexpectedly, his estate must pass on by law to his son from his first marriage, John and wife Fanny. But these circumstances leave Mr. Dashwood's current wife, and daughters Elinor, Marianne and Margaret, without a home and with barely enough money to live on. As Elinor and Marianne struggle to find romantic fulfillment in a society obsessed with financial and social status, they must learn to mix sense with sensibility in their dealings with both money and men.",
+  "release_date": "1995-12-13",
+  "runtime": 136,
+  "budget": 16000000,
+  "revenue": 134582776,
+  "tmdb_vote_average": 7.423,
+  "tmdb_vote_count": 1795,
+  "tmdb_popularity": 8.3069,
+  "original_language": "en",
+  "poster_path": "/cBK2yL3HqhFvIVd7lLtazWlRZPR.jpg",
+  "backdrop_path": "/cFnyfWHL6HjOOVal6lp8e5gqibK.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 932,
+      "name": "Mirage Enterprises",
+      "origin_country": "US"
+    },
+    {
+      "id": 10565,
+      "name": "Good Machine",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 7056,
+      "name": "Emma Thompson",
+      "character": "Elinor Dashwood",
+      "order": 0,
+      "cast_id": 7,
+      "popularity": 8.3808,
+      "profile_path": "/bLGNyyVAGSDfRpLoC3gKD6S6j4P.jpg"
+    },
+    {
+      "personId": 204,
+      "name": "Kate Winslet",
+      "character": "Marianne Dashwood",
+      "order": 1,
+      "cast_id": 6,
+      "popularity": 10.0601,
+      "profile_path": "/9xDnfZrWhM67wJlQJEsOOjQzDUQ.jpg"
+    },
+    {
+      "personId": 4566,
+      "name": "Alan Rickman",
+      "character": "Colonel Christopher Brandon",
+      "order": 2,
+      "cast_id": 10,
+      "popularity": 3.5569,
+      "profile_path": "/1EearzPgXkmYFKvECfWNrctIFT9.jpg"
+    },
+    {
+      "personId": 3291,
+      "name": "Hugh Grant",
+      "character": "Edward Ferrars",
+      "order": 3,
+      "cast_id": 8,
+      "popularity": 4.6383,
+      "profile_path": "/dvV843fOuzsEPXHtFvdzsHpy1rC.jpg"
+    },
+    {
+      "personId": 9138,
+      "name": "Gemma Jones",
+      "character": "Mrs. Dashwood",
+      "order": 4,
+      "cast_id": 19,
+      "popularity": 2.1871,
+      "profile_path": "/hFApnOEWXyE55ONGGXis6a0PPHM.jpg"
+    },
+    {
+      "personId": 16700,
+      "name": "Greg Wise",
+      "character": "John Willoughby",
+      "order": 5,
+      "cast_id": 12,
+      "popularity": 2.0747,
+      "profile_path": "/3yjzOyFVc8TpPW0Q8svr4ykD2kW.jpg"
+    },
+    {
+      "personId": 1220119,
+      "name": "Elizabeth Spriggs",
+      "character": "Mrs. Jennings",
+      "order": 6,
+      "cast_id": 21,
+      "popularity": 1.3486,
+      "profile_path": "/aXyhNX3nqrtrwtIHTwU8brmbdrq.jpg"
+    },
+    {
+      "personId": 20769,
+      "name": "Imogen Stubbs",
+      "character": "Lucy Steele",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 0.9085,
+      "profile_path": "/gdhBQfUMZbEs1XH3qozHLXoYhzM.jpg"
+    },
+    {
+      "personId": 17477,
+      "name": "Harriet Walter",
+      "character": "Fanny Ferrars Dashwood",
+      "order": 8,
+      "cast_id": 18,
+      "popularity": 2.4672,
+      "profile_path": "/vH8JrqdHaoFeGos44XeKTNuQMKE.jpg"
+    },
+    {
+      "personId": 10726,
+      "name": "James Fleet",
+      "character": "John Dashwood",
+      "order": 9,
+      "cast_id": 17,
+      "popularity": 2.8238,
+      "profile_path": "/wCXNHgrmOk57NIdLfY7ve1ghxjJ.jpg"
+    },
+    {
+      "personId": 11356,
+      "name": "Imelda Staunton",
+      "character": "Charlotte Jennings Palmer",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 2.8313,
+      "profile_path": "/96LYLMnUOWZ4DFXEeQPItNsxzEP.jpg"
+    },
+    {
+      "personId": 41419,
+      "name": "Hugh Laurie",
+      "character": "Mr. Palmer",
+      "order": 11,
+      "cast_id": 13,
+      "popularity": 5.0243,
+      "profile_path": "/akArncggHnusP5jxzMBKmJDRrMo.jpg"
+    },
+    {
+      "personId": 937907,
+      "name": "Emilie François",
+      "character": "Margaret Dashwood",
+      "order": 12,
+      "cast_id": 20,
+      "popularity": 1.4537,
+      "profile_path": "/nP5nyNcMv5mvFUJKrGLIKB6ZmX9.jpg"
+    },
+    {
+      "personId": 23076,
+      "name": "Robert Hardy",
+      "character": "Sir John Middleton",
+      "order": 13,
+      "cast_id": 15,
+      "popularity": 1.5765,
+      "profile_path": "/5FK7rDWRsbNwAMsHHpkpeGafFtu.jpg"
+    },
+    {
+      "personId": 141551,
+      "name": "Richard Lumsden",
+      "character": "Robert Ferrars",
+      "order": 14,
+      "cast_id": 22,
+      "popularity": 0.6717,
+      "profile_path": "/vFdmJQgFiybrDy88iMvYwv8uI6x.jpg"
+    },
+    {
+      "personId": 207,
+      "name": "Tom Wilkinson",
+      "character": "Mr. Dashwood",
+      "order": 15,
+      "cast_id": 9,
+      "popularity": 2.9123,
+      "profile_path": "/xSUohQDXuepOU2nSqtDj2us5RZo.jpg"
+    },
+    {
+      "personId": 133033,
+      "name": "Ian Brimble",
+      "character": "Thomas",
+      "order": 16,
+      "cast_id": 28,
+      "popularity": 0.8595,
+      "profile_path": "/nLD8LdHJKtEYEStUBlQ2YeqmsQJ.jpg"
+    },
+    {
+      "personId": 1232865,
+      "name": "Isabelle Amyes",
+      "character": "Betsy",
+      "order": 17,
+      "cast_id": 29,
+      "popularity": 0.9455,
+      "profile_path": "/hExv9nsIo8DjzYAfXoGiqqQbimS.jpg"
+    },
+    {
+      "personId": 1845034,
+      "name": "Alexander John",
+      "character": "Curate",
+      "order": 18,
+      "cast_id": 36,
+      "popularity": 0.1149,
+      "profile_path": null
+    },
+    {
+      "personId": 1404134,
+      "name": "Allan Mitchell",
+      "character": "Pigeon",
+      "order": 19,
+      "cast_id": 37,
+      "popularity": 2.0066,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1614,
+      "name": "Ang Lee",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.8396,
+      "profile_path": "/jrmdsPZI5WT4rmOl20Gb1Y2femb.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 7879,
+      "name": "secret love"
+    },
+    {
+      "id": 212,
+      "name": "london, england"
+    },
+    {
+      "id": 548,
+      "name": "countryside"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 4129,
+      "name": "widow"
+    },
+    {
+      "id": 11109,
+      "name": "military officer"
+    },
+    {
+      "id": 964,
+      "name": "servant"
+    },
+    {
+      "id": 2755,
+      "name": "country life"
+    },
+    {
+      "id": 4472,
+      "name": "pneumonia"
+    },
+    {
+      "id": 10911,
+      "name": "inheritance"
+    },
+    {
+      "id": 15060,
+      "name": "period drama"
+    },
+    {
+      "id": 156507,
+      "name": "rainstorm"
+    },
+    {
+      "id": 156512,
+      "name": "decorum"
+    },
+    {
+      "id": 159871,
+      "name": "horse carriage"
+    },
+    {
+      "id": 165100,
+      "name": "young love"
+    },
+    {
+      "id": 165388,
+      "name": "dowry"
+    },
+    {
+      "id": 192311,
+      "name": "social class"
+    },
+    {
+      "id": 207928,
+      "name": "19th century"
+    },
+    {
+      "id": 217957,
+      "name": "penniless"
+    },
+    {
+      "id": 227556,
+      "name": "social elite"
+    },
+    {
+      "id": 238085,
+      "name": "bloodletting"
+    },
+    {
+      "id": 243090,
+      "name": "free spirited"
+    },
+    {
+      "id": 244113,
+      "name": "sussex"
+    },
+    {
+      "id": 274542,
+      "name": "1800s"
+    },
+    {
+      "id": 285894,
+      "name": "sisters love"
+    },
+    {
+      "id": 307851,
+      "name": "marry for money"
+    },
+    {
+      "id": 307852,
+      "name": "secret engagement"
+    },
+    {
+      "id": 307853,
+      "name": "devonshire, england"
+    }
+  ]
+}

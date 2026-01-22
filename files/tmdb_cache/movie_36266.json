@@ -1,0 +1,335 @@
+{
+  "overview": "Follows a young cyclo driver on his poverty-driven descent into criminality in modern-day Ho Chi Minh City. The boy's struggles to scratch out a living for his two sisters and grandfather in the mean streets of the city lead to petty crime on behalf of a mysterious Madame from whom he rents his cyclo.",
+  "release_date": "1995-09-27",
+  "runtime": 123,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 7.0,
+  "tmdb_vote_count": 110,
+  "tmdb_popularity": 1.7451,
+  "original_language": "vi",
+  "poster_path": "/mdOsnSVTLwHMEH1juOLMiwXcO5o.jpg",
+  "backdrop_path": "/bcSj4j8CfPRCHetc3pHhE1cHXU8.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 1871,
+      "name": "Cofimage 5",
+      "origin_country": ""
+    },
+    {
+      "id": 5869,
+      "name": "Les Productions Lazennec",
+      "origin_country": "FR"
+    },
+    {
+      "id": 6849,
+      "name": "SFP",
+      "origin_country": "FR"
+    },
+    {
+      "id": 11793,
+      "name": "Lumière",
+      "origin_country": "FR"
+    },
+    {
+      "id": 16366,
+      "name": "La Sept Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 78239,
+      "name": "Cofimage 6",
+      "origin_country": ""
+    },
+    {
+      "id": 78240,
+      "name": "Giai Phong Film Studio",
+      "origin_country": "VN"
+    },
+    {
+      "id": 310,
+      "name": "CNC",
+      "origin_country": "FR"
+    },
+    {
+      "id": 104,
+      "name": "Canal+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 194859,
+      "name": "Salon Films",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "HK",
+      "name": "Hong Kong"
+    },
+    {
+      "code": "VN",
+      "name": "Vietnam"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "vi",
+      "name": "Tiếng Việt"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 128485,
+      "name": "Le Van Loc",
+      "character": "Cyclo",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 0.4944,
+      "profile_path": null
+    },
+    {
+      "personId": 1337,
+      "name": "Tony Leung Chiu-wai",
+      "character": "Poet",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 9.8366,
+      "profile_path": "/nQbSQAws5BdakPEB5MtiqWVeaMV.jpg"
+    },
+    {
+      "personId": 20201,
+      "name": "Như Quỳnh",
+      "character": "Madam",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 1.4168,
+      "profile_path": "/tFiRXaXxqYPU9IVyTUtG821DRqq.jpg"
+    },
+    {
+      "personId": 128487,
+      "name": "Hoàng Phúc",
+      "character": "Tooth",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 0.7045,
+      "profile_path": "/e7FbI3qYXQJZBxBlitSoAioDZL4.jpg"
+    },
+    {
+      "personId": 113391,
+      "name": "Ngo Quang Hai",
+      "character": "Knife",
+      "order": 4,
+      "cast_id": 30,
+      "popularity": 0.4514,
+      "profile_path": "/jbtp59jD9xaZnBNZbKyX3wYvtI3.jpg"
+    },
+    {
+      "personId": 2227994,
+      "name": "Tuyết Ngân",
+      "character": "Happy Woman",
+      "order": 5,
+      "cast_id": 32,
+      "popularity": 0.6234,
+      "profile_path": "/643Wt4BOop39sKrZjlm4kiA2Tez.jpg"
+    },
+    {
+      "personId": 128490,
+      "name": "Doan Viet Ha",
+      "character": "Sad Woman",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 0.3563,
+      "profile_path": null
+    },
+    {
+      "personId": 128491,
+      "name": "Bjuhoang Huy",
+      "character": "Crazy Son",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 0.0357,
+      "profile_path": null
+    },
+    {
+      "personId": 128492,
+      "name": "Vo Vinh Phuc",
+      "character": "Cyclo's Friend",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 0.5589,
+      "profile_path": null
+    },
+    {
+      "personId": 128493,
+      "name": "Le Kinh Huy",
+      "character": "Grandfather",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 0.0168,
+      "profile_path": null
+    },
+    {
+      "personId": 113388,
+      "name": "Trần Nữ Yên Khê",
+      "character": "Sister",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 0.6342,
+      "profile_path": "/2FrKJzUH1BV2mM1XRz4lpCjhLZB.jpg"
+    },
+    {
+      "personId": 113392,
+      "name": "Lê Tuấn Anh",
+      "character": "Handcuffed Man",
+      "order": 11,
+      "cast_id": 31,
+      "popularity": 0.586,
+      "profile_path": "/7pRKdhb4EIzRBOZ7ZZLI2Wblxr7.jpg"
+    },
+    {
+      "personId": 2175420,
+      "name": "Lê Công Tuấn Anh",
+      "character": "The Drunken Dancer",
+      "order": 12,
+      "cast_id": 29,
+      "popularity": 2.661,
+      "profile_path": "/9uCVjqgOjdKwODRy083lRGJDNBI.jpg"
+    },
+    {
+      "personId": 1601161,
+      "name": "Thinh Trinh",
+      "character": "Foot Fetishist",
+      "order": 13,
+      "cast_id": 15,
+      "popularity": 0.2904,
+      "profile_path": "/bJr5HeanKDevkLq4KIR2GdDnTCU.jpg"
+    },
+    {
+      "personId": 4896774,
+      "name": "Nguyễn Đình Thơ",
+      "character": "Poet's Father",
+      "order": 14,
+      "cast_id": 33,
+      "popularity": 1.5169,
+      "profile_path": null
+    },
+    {
+      "personId": 4609899,
+      "name": "Việt Thắng",
+      "character": "Cocaine Policeman",
+      "order": 15,
+      "cast_id": 37,
+      "popularity": 0.0668,
+      "profile_path": "/dMT2wUPob5ghlUaYCow3WNbBnVt.jpg"
+    },
+    {
+      "personId": 1601912,
+      "name": "Nguyễn Văn Đây",
+      "character": "Lullaby Man",
+      "order": 16,
+      "cast_id": 18,
+      "popularity": 1.2225,
+      "profile_path": null
+    },
+    {
+      "personId": 5814267,
+      "name": "Thanh Lam",
+      "character": "Singer",
+      "order": 17,
+      "cast_id": 35,
+      "popularity": 0.0362,
+      "profile_path": "/g86wz8nVJrmkOBloXeDditeAvbz.jpg"
+    },
+    {
+      "personId": 3397335,
+      "name": "Mạc Can",
+      "character": "Urine Fetishist",
+      "order": 18,
+      "cast_id": 34,
+      "popularity": 0.5762,
+      "profile_path": "/4WXokQQXNw9wAJPsNq7O4BlBNyu.jpg"
+    },
+    {
+      "personId": 20965,
+      "name": "Chu Hùng",
+      "character": "Money Thief",
+      "order": 19,
+      "cast_id": 16,
+      "popularity": 0.2759,
+      "profile_path": "/1BYtjzGeSvR4LwPxxY0iqCQkgCL.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 107730,
+      "name": "Trần Anh Hùng",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.2415,
+      "profile_path": "/c20fQOpz5NP9xJp0gZomkZD94Iu.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 4119,
+      "name": "saigon"
+    },
+    {
+      "id": 3797,
+      "name": "bicycle"
+    },
+    {
+      "id": 11547,
+      "name": "slaughterhouse"
+    },
+    {
+      "id": 12987,
+      "name": "poverty"
+    },
+    {
+      "id": 14964,
+      "name": "drugs"
+    },
+    {
+      "id": 15011,
+      "name": "criminal underworld"
+    },
+    {
+      "id": 33612,
+      "name": "stolen bicycle"
+    },
+    {
+      "id": 173251,
+      "name": "forced prostitution"
+    },
+    {
+      "id": 187416,
+      "name": "water gun"
+    },
+    {
+      "id": 215203,
+      "name": "pig slaughter"
+    },
+    {
+      "id": 226577,
+      "name": "bicycle taxi"
+    },
+    {
+      "id": 258533,
+      "name": "gay theme"
+    },
+    {
+      "id": 300685,
+      "name": "ho chi minh"
+    }
+  ]
+}

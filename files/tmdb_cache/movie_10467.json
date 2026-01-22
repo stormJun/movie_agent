@@ -1,0 +1,279 @@
+{
+  "overview": "An unhappy young couple visit the infamous Kellogg spa in Battle Creek, Michigan while a young hustler tries get into the breakfast-cereal business and compete against John Kellogg's corn flakes.",
+  "release_date": "1994-10-28",
+  "runtime": 118,
+  "budget": 25000000,
+  "revenue": 26000000,
+  "tmdb_vote_average": 5.538,
+  "tmdb_vote_count": 185,
+  "tmdb_popularity": 1.0426,
+  "original_language": "en",
+  "poster_path": "/zh7OVdFMpqpZ027z9RgVIwzxYjZ.jpg",
+  "backdrop_path": "/tT7a8rg1vP1AsblDaV2EAsf8L3Q.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Romance",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 10157,
+      "name": "Beacon Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 919,
+      "name": "Beacon Communications",
+      "origin_country": "US"
+    },
+    {
+      "id": 81128,
+      "name": "Dirty Hands Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 115095,
+      "name": "Per-Fo Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4173,
+      "name": "Anthony Hopkins",
+      "character": "Dr. John Harvey Kellogg",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 6.8156,
+      "profile_path": "/cbFWUHhk6pZKTEm48OKVM5awNNn.jpg"
+    },
+    {
+      "personId": 2233,
+      "name": "Bridget Fonda",
+      "character": "Eleanor Lightbody",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 4.2338,
+      "profile_path": "/ylGktmhDCLnaaV8owSPL8cVlsbn.jpg"
+    },
+    {
+      "personId": 4756,
+      "name": "Matthew Broderick",
+      "character": "William Lightbody",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.1808,
+      "profile_path": "/2Pq8pwOX5ZFfT2p5pNLGfvUi9Pp.jpg"
+    },
+    {
+      "personId": 3036,
+      "name": "John Cusack",
+      "character": "Charles Ossining",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 4.7162,
+      "profile_path": "/aCwCx6JU7Jxbg6Q1ygcnLY750le.jpg"
+    },
+    {
+      "personId": 56159,
+      "name": "Dana Carvey",
+      "character": "George Kellogg",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.7672,
+      "profile_path": "/qlb0apjFhoQ9UwCcvzrLm1mTIx0.jpg"
+    },
+    {
+      "personId": 4250,
+      "name": "Michael Lerner",
+      "character": "Goodloe Bender",
+      "order": 5,
+      "cast_id": 32,
+      "popularity": 1.4201,
+      "profile_path": "/1jRm6TRS5atQrA1VQSef7GoL13g.jpg"
+    },
+    {
+      "personId": 17782,
+      "name": "Colm Meaney",
+      "character": "Dr. Lionel Badger",
+      "order": 6,
+      "cast_id": 6,
+      "popularity": 2.6709,
+      "profile_path": "/guL6RJdlRMtOJN3LoaY3G8hG4Rd.jpg"
+    },
+    {
+      "personId": 12642,
+      "name": "John Neville",
+      "character": "Endymion Hart-Jones",
+      "order": 7,
+      "cast_id": 20,
+      "popularity": 1.1257,
+      "profile_path": "/q9dqdcETh7fejWKYpIRz1tWnkN3.jpg"
+    },
+    {
+      "personId": 6684,
+      "name": "Lara Flynn Boyle",
+      "character": "Ida Muntz",
+      "order": 8,
+      "cast_id": 7,
+      "popularity": 2.8827,
+      "profile_path": "/1VL97IlddM29sypHuI36XY2h5Z2.jpg"
+    },
+    {
+      "personId": 64062,
+      "name": "Traci Lind",
+      "character": "Nurse Irene Graves",
+      "order": 9,
+      "cast_id": 21,
+      "popularity": 1.215,
+      "profile_path": "/1dfw0VqxTHtHUA4A05KcxVDkPIO.jpg"
+    },
+    {
+      "personId": 20187,
+      "name": "Camryn Manheim",
+      "character": "Virginia Cranehill",
+      "order": 10,
+      "cast_id": 22,
+      "popularity": 2.5784,
+      "profile_path": "/jBriBpXLkgJW7ONUIMuK1k99Ywp.jpg"
+    },
+    {
+      "personId": 12888,
+      "name": "Roy Brocksmith",
+      "character": "Poultney Dab",
+      "order": 11,
+      "cast_id": 33,
+      "popularity": 1.1723,
+      "profile_path": "/2GIyB1EMdsgDeIeE20QmqSvxdtT.jpg"
+    },
+    {
+      "personId": 6701,
+      "name": "Norbert Weisser",
+      "character": "Dr. Spitzvogel",
+      "order": 12,
+      "cast_id": 34,
+      "popularity": 0.9152,
+      "profile_path": "/A2QeLaigXmj1dtJHVLl27N8qNFd.jpg"
+    },
+    {
+      "personId": 156658,
+      "name": "Monica Parker",
+      "character": "Mrs. Tindermarsh",
+      "order": 13,
+      "cast_id": 35,
+      "popularity": 0.7506,
+      "profile_path": "/elZH8WtR0xwIoYLXE6UK9EqRnEt.jpg"
+    },
+    {
+      "personId": 1038661,
+      "name": "Jacob Reynolds",
+      "character": "Young George Kellogg",
+      "order": 14,
+      "cast_id": 36,
+      "popularity": 1.9371,
+      "profile_path": "/zyhqlnG7KfPR9MRw1ptkjXzNd0R.jpg"
+    },
+    {
+      "personId": 157961,
+      "name": "Michael Goodwin",
+      "character": "Dr. Frank Linniman",
+      "order": 15,
+      "cast_id": 37,
+      "popularity": 1.4891,
+      "profile_path": "/7PQlrNdQBRUyql1l9aYG9W00o9m.jpg"
+    },
+    {
+      "personId": 9224,
+      "name": "Marshall Efron",
+      "character": "Bartholomew Bookbinder",
+      "order": 16,
+      "cast_id": 38,
+      "popularity": 0.9824,
+      "profile_path": "/pg5mav3RjhRhbv5IP1TiFVyRtlP.jpg"
+    },
+    {
+      "personId": 2246735,
+      "name": "Aleksandr Slanksnis",
+      "character": "Mr. Unpronounceable",
+      "order": 17,
+      "cast_id": 39,
+      "popularity": 0.0495,
+      "profile_path": null
+    },
+    {
+      "personId": 58770,
+      "name": "Carole Shelley",
+      "character": "Mrs. Hookstratten",
+      "order": 18,
+      "cast_id": 40,
+      "popularity": 0.5273,
+      "profile_path": "/h4PF9ZVdWmwFZCTETaNZAG1vbR3.jpg"
+    },
+    {
+      "personId": 2103605,
+      "name": "Gabriel Barre",
+      "character": "Desk Clerk",
+      "order": 19,
+      "cast_id": 23,
+      "popularity": 0.302,
+      "profile_path": "/gDG8Bn5THHOjZXir4qiwYeuoGDS.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 9168,
+      "name": "Alan Parker",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1074,
+      "profile_path": "/pdpFqPNq4HZiPax1WSMbEDpND2I.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 933,
+      "name": "michigan"
+    },
+    {
+      "id": 271,
+      "name": "competition"
+    },
+    {
+      "id": 3179,
+      "name": "sanatorium"
+    },
+    {
+      "id": 6165,
+      "name": "historical figure"
+    },
+    {
+      "id": 8890,
+      "name": "cornflakes"
+    },
+    {
+      "id": 14791,
+      "name": "spa"
+    },
+    {
+      "id": 324713,
+      "name": "whimsical"
+    }
+  ]
+}

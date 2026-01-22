@@ -1,0 +1,337 @@
+{
+  "overview": "Defense attorney Martin Vail takes on jobs for money and prestige rather than any sense of the greater good. His latest case involves an altar boy, accused of brutally murdering the archbishop of Chicago. Vail finds himself up against his ex-pupil and ex-lover, but as the case progresses and the Church's dark secrets are revealed, Vail finds that what appeared a simple case takes on a darker, more dangerous aspect.",
+  "release_date": "1996-03-06",
+  "runtime": 131,
+  "budget": 30000000,
+  "revenue": 102616183,
+  "tmdb_vote_average": 7.657,
+  "tmdb_vote_count": 3733,
+  "tmdb_popularity": 5.8824,
+  "original_language": "en",
+  "poster_path": "/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
+  "backdrop_path": "/a4f6y7gbMmMLrwzJZrwmcNmEBM1.jpg",
+  "tmdb_genres_raw": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 11661,
+      "name": "Rysher Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1205,
+      "name": "Richard Gere",
+      "character": "Martin Vail",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 5.9547,
+      "profile_path": "/lWjnKsszeYaY7McFPyyQxK2gONV.jpg"
+    },
+    {
+      "personId": 350,
+      "name": "Laura Linney",
+      "character": "Janet Venable",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 4.3471,
+      "profile_path": "/yIopIq7l7eIvjoQqnZJkpdQEvds.jpg"
+    },
+    {
+      "personId": 819,
+      "name": "Edward Norton",
+      "character": "Aaron/Roy Stampler",
+      "order": 2,
+      "cast_id": 20,
+      "popularity": 7.1803,
+      "profile_path": "/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg"
+    },
+    {
+      "personId": 4251,
+      "name": "John Mahoney",
+      "character": "Shaughnessy",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.8003,
+      "profile_path": "/paVSw7Brdp6MKa2j4UPukA0KHs3.jpg"
+    },
+    {
+      "personId": 1981,
+      "name": "Alfre Woodard",
+      "character": "Shoat",
+      "order": 4,
+      "cast_id": 18,
+      "popularity": 1.8922,
+      "profile_path": "/erXesg092Pi7SHKEK2UHeimPPKf.jpg"
+    },
+    {
+      "personId": 3910,
+      "name": "Frances McDormand",
+      "character": "Molly",
+      "order": 5,
+      "cast_id": 5,
+      "popularity": 4.1337,
+      "profile_path": "/r0A7hZsM1zuavTr0jN7bwmBcliR.jpg"
+    },
+    {
+      "personId": 12646,
+      "name": "Terry O'Quinn",
+      "character": "Yancy",
+      "order": 6,
+      "cast_id": 13,
+      "popularity": 3.0553,
+      "profile_path": "/kSweOGPprLe1vDvu38wJQaWIih7.jpg"
+    },
+    {
+      "personId": 6861,
+      "name": "Andre Braugher",
+      "character": "Goodman",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 2.5394,
+      "profile_path": "/cDvAVHDiz7wyvE8K3Gxbn8zxdpo.jpg"
+    },
+    {
+      "personId": 1159,
+      "name": "Steven Bauer",
+      "character": "Pinero",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 3.486,
+      "profile_path": "/mI3kSjx9M3FKmyXR3Loqn8rpoFM.jpg"
+    },
+    {
+      "personId": 8192,
+      "name": "Joe Spano",
+      "character": "Stenner",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 2.5474,
+      "profile_path": "/rHiJspLrlb4uDmWfchwd8Fv13k7.jpg"
+    },
+    {
+      "personId": 41737,
+      "name": "Tony Plana",
+      "character": "Martinez",
+      "order": 10,
+      "cast_id": 17,
+      "popularity": 2.3924,
+      "profile_path": "/oiJaRVl9vvq7nqoGDNlymxpvJ0a.jpg"
+    },
+    {
+      "personId": 15253,
+      "name": "Stanley Anderson",
+      "character": "Rushman",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 2.3463,
+      "profile_path": "/6kHp1SlLRw0NobVdY8X6DbBAPt8.jpg"
+    },
+    {
+      "personId": 16307,
+      "name": "Maura Tierney",
+      "character": "Naomi",
+      "order": 12,
+      "cast_id": 19,
+      "popularity": 2.9941,
+      "profile_path": "/4BCrwdHdC4iRSDimvkoYaXg2qki.jpg"
+    },
+    {
+      "personId": 288,
+      "name": "Jon Seda",
+      "character": "Alex",
+      "order": 13,
+      "cast_id": 25,
+      "popularity": 2.0099,
+      "profile_path": "/4Wwgtvieu2j4f6AHqUMgnDFufa5.jpg"
+    },
+    {
+      "personId": 129759,
+      "name": "Reg Rogers",
+      "character": "Connerman",
+      "order": 14,
+      "cast_id": 21,
+      "popularity": 1.1407,
+      "profile_path": "/3VqnWd3d5BnnxxyAEnQ85mdOaG2.jpg"
+    },
+    {
+      "personId": 87128,
+      "name": "Kenneth Tigar",
+      "character": "Weil",
+      "order": 15,
+      "cast_id": 29,
+      "popularity": 1.4274,
+      "profile_path": "/jgM0z7LUX5fOYkbKjZ1UVM6hcUb.jpg"
+    },
+    {
+      "personId": 1469,
+      "name": "Brian Reddy",
+      "character": "Woodside",
+      "order": 16,
+      "cast_id": 80,
+      "popularity": 1.8322,
+      "profile_path": "/5cSkMJ1eS5N5OuvpLYPO6xkK59a.jpg"
+    },
+    {
+      "personId": 1226370,
+      "name": "Christopher Carroll",
+      "character": "M.C.",
+      "order": 17,
+      "cast_id": 81,
+      "popularity": 0.8591,
+      "profile_path": "/r92iZx15CBVVZRJ1PKneNZZPfBz.jpg"
+    },
+    {
+      "personId": 1340674,
+      "name": "Wendy Cutler",
+      "character": "Lou",
+      "order": 18,
+      "cast_id": 31,
+      "popularity": 1.7536,
+      "profile_path": "/uUVOCFgkyJxZpQKDqrFAxJyiedc.jpg"
+    },
+    {
+      "personId": 1863567,
+      "name": "Ron O.J. Parson",
+      "character": "Turner",
+      "order": 19,
+      "cast_id": 82,
+      "popularity": 1.1901,
+      "profile_path": "/lKOyGgyQfMTA6GQ82Q87UF7p1ck.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 17812,
+      "name": "Gregory Hoblit",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.9481,
+      "profile_path": "/1YUF4UpcCX3j3J65a4L1KoLOHAl.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 520,
+      "name": "chicago, illinois"
+    },
+    {
+      "id": 2122,
+      "name": "death penalty"
+    },
+    {
+      "id": 516,
+      "name": "child abuse"
+    },
+    {
+      "id": 417,
+      "name": "corruption"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 3012,
+      "name": "court case"
+    },
+    {
+      "id": 6148,
+      "name": "court"
+    },
+    {
+      "id": 6259,
+      "name": "psychopath"
+    },
+    {
+      "id": 2637,
+      "name": "bishop"
+    },
+    {
+      "id": 2887,
+      "name": "manipulation"
+    },
+    {
+      "id": 5593,
+      "name": "pornographic video"
+    },
+    {
+      "id": 10909,
+      "name": "lawyer"
+    },
+    {
+      "id": 11523,
+      "name": "capital punishment"
+    },
+    {
+      "id": 12570,
+      "name": "whodunit"
+    },
+    {
+      "id": 15106,
+      "name": "psychiatrist"
+    },
+    {
+      "id": 41329,
+      "name": "mental illness"
+    },
+    {
+      "id": 173971,
+      "name": "taunting"
+    },
+    {
+      "id": 207240,
+      "name": "murder trial"
+    },
+    {
+      "id": 207628,
+      "name": "altar boy"
+    },
+    {
+      "id": 214780,
+      "name": "courtroom drama"
+    },
+    {
+      "id": 222517,
+      "name": "legal drama"
+    },
+    {
+      "id": 254459,
+      "name": "legal thriller"
+    },
+    {
+      "id": 314730,
+      "name": "suspenseful"
+    },
+    {
+      "id": 325823,
+      "name": "harsh"
+    }
+  ]
+}

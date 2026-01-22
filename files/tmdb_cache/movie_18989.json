@@ -1,0 +1,260 @@
+{
+  "overview": "The daughter of a thief, young Moll is placed in the care of a nunnery after the execution of her mother. However, the actions of an abusive priest lead Moll to rebel as a teenager, escaping to the dangerous streets of London. Further misfortunes drive her to accept a job as a prostitute from the conniving Mrs. Allworthy. It is there that Moll first meets Hibble, who is working as Allworthy's servant but takes a special interest in the young woman's well-being. With his help, she retains hope for the future, ultimately falling in love with an unconventional artist who promises the possibility of romantic happiness.",
+  "release_date": "1996-06-14",
+  "runtime": 123,
+  "budget": 0,
+  "revenue": 3486578,
+  "tmdb_vote_average": 6.058,
+  "tmdb_vote_count": 81,
+  "tmdb_popularity": 4.0235,
+  "original_language": "en",
+  "poster_path": "/lHVpzsvjLU7qSCB8UWFqIAavSRu.jpg",
+  "backdrop_path": "/m6Si2vwNCorETZape82t6iuxTj3.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    },
+    {
+      "id": 10355,
+      "name": "Spelling Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 2231,
+      "name": "Trilogy Entertainment Group",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 32,
+      "name": "Robin Wright",
+      "character": "Moll Flanders",
+      "order": 0,
+      "cast_id": 5,
+      "popularity": 5.39,
+      "profile_path": "/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg"
+    },
+    {
+      "personId": 192,
+      "name": "Morgan Freeman",
+      "character": "Hibble",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 11.6276,
+      "profile_path": "/jPsLqiYGSofU4s6BjrxnefMfabb.jpg"
+    },
+    {
+      "personId": 8893,
+      "name": "Stockard Channing",
+      "character": "Mrs. Allworthy",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 2.2977,
+      "profile_path": "/qAYBGvapAnnhpoZuYFyoqetncs5.jpg"
+    },
+    {
+      "personId": 28743,
+      "name": "John Lynch",
+      "character": "Fielding",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 1.9205,
+      "profile_path": "/4TG8HYZ5SEFh1Yk5CCG4fXD55j9.jpg"
+    },
+    {
+      "personId": 18345,
+      "name": "Brenda Fricker",
+      "character": "madame Mazzawatty",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 2.1268,
+      "profile_path": "/osvE1ZFs7SsqCzTpoTia8pUwamX.jpg"
+    },
+    {
+      "personId": 11855,
+      "name": "Geraldine James",
+      "character": "Edna",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 2.3016,
+      "profile_path": "/wnqmn77oKtHiZFZuwxU2HWSAILF.jpg"
+    },
+    {
+      "personId": 53334,
+      "name": "Jim Sheridan",
+      "character": "le prêtre",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 1.3952,
+      "profile_path": "/aWTmBt44TyUCb0t50avtFsPdTPp.jpg"
+    },
+    {
+      "personId": 24243,
+      "name": "Cathy Murphy",
+      "character": "Polly",
+      "order": 7,
+      "cast_id": 43,
+      "popularity": 0.7088,
+      "profile_path": "/xrp2RHeFqY3nNsnK03jyDl6UhrN.jpg"
+    },
+    {
+      "personId": 33394,
+      "name": "Maria Doyle Kennedy",
+      "character": "Alice",
+      "order": 8,
+      "cast_id": 45,
+      "popularity": 1.7426,
+      "profile_path": "/dlZ5METJ8AKFjjlA6tjQiA9yfK3.jpg"
+    },
+    {
+      "personId": 140914,
+      "name": "Jeremy Brett",
+      "character": "Artist's Father",
+      "order": 9,
+      "cast_id": 40,
+      "popularity": 2.2147,
+      "profile_path": "/g6HJeezMyQWcRQvuxF4Ow1NZWqr.jpg"
+    },
+    {
+      "personId": 1384850,
+      "name": "Aisling Corcoran",
+      "character": "Flora",
+      "order": 10,
+      "cast_id": 13,
+      "popularity": 0.2596,
+      "profile_path": null
+    },
+    {
+      "personId": 1053297,
+      "name": "Britta Smith",
+      "character": "Artist's Mother",
+      "order": 11,
+      "cast_id": 42,
+      "popularity": 0.4467,
+      "profile_path": null
+    },
+    {
+      "personId": 2236249,
+      "name": "Emma McIvor",
+      "character": "Mary",
+      "order": 12,
+      "cast_id": 44,
+      "popularity": 0.0946,
+      "profile_path": null
+    },
+    {
+      "personId": 70685,
+      "name": "Ger Ryan",
+      "character": "Orphanage Woman",
+      "order": 13,
+      "cast_id": 46,
+      "popularity": 1.3755,
+      "profile_path": "/4fHO7Ogf9SEkg0HfDUhEwQ30AW1.jpg"
+    },
+    {
+      "personId": 116645,
+      "name": "Harry Towb",
+      "character": "Magistrate",
+      "order": 14,
+      "cast_id": 47,
+      "popularity": 0.5098,
+      "profile_path": "/zoA2fw66kUc03lwif598tmIVxSM.jpg"
+    },
+    {
+      "personId": 15888,
+      "name": "Alan Stanford",
+      "character": "Mr. Mazzawatti",
+      "order": 15,
+      "cast_id": 48,
+      "popularity": 0.9349,
+      "profile_path": "/aJuv46WMWfRQsXiADVf8UkSfrcH.jpg"
+    },
+    {
+      "personId": 1389739,
+      "name": "Eileen McCloskey",
+      "character": "Mazzawatti Daughter",
+      "order": 16,
+      "cast_id": 49,
+      "popularity": 0.1686,
+      "profile_path": null
+    },
+    {
+      "personId": 3674863,
+      "name": "Nicola Teehan",
+      "character": "Mazzawatti Daughter",
+      "order": 17,
+      "cast_id": 50,
+      "popularity": 0.0602,
+      "profile_path": null
+    },
+    {
+      "personId": 1840314,
+      "name": "Chris Curran",
+      "character": "Mazzawatti Butler",
+      "order": 18,
+      "cast_id": 51,
+      "popularity": 0.2322,
+      "profile_path": null
+    },
+    {
+      "personId": 78728,
+      "name": "Rynagh O'Grady",
+      "character": "Kindly Sister",
+      "order": 19,
+      "cast_id": 52,
+      "popularity": 0.9598,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2182,
+      "name": "Pen Densham",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6774,
+      "profile_path": "/1rq1REEZFgz2yd07gp8m77oO4Cj.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2580,
+      "name": "shipwreck"
+    },
+    {
+      "id": 9824,
+      "name": "reunion"
+    },
+    {
+      "id": 175421,
+      "name": "death of husband"
+    },
+    {
+      "id": 208555,
+      "name": "evil priest"
+    },
+    {
+      "id": 208556,
+      "name": "mother daughter reunion"
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "overview": "During Paris Fashion Week, models, designers and industry hot shots gather to work, mingle, argue and try to seduce one another.",
+  "release_date": "1994-12-23",
+  "runtime": 133,
+  "budget": 15000000,
+  "revenue": 11300653,
+  "tmdb_vote_average": 5.2,
+  "tmdb_vote_count": 223,
+  "tmdb_popularity": 2.9961,
+  "original_language": "en",
+  "poster_path": "/h0eJN4Dj5DhB4QtERMDK3VTOBuJ.jpg",
+  "backdrop_path": "/1hCwhL4zmMDJI8YAe9XYrN2kDAJ.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 14,
+      "name": "Miramax",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "it",
+      "name": "Italiano"
+    },
+    {
+      "code": "ru",
+      "name": "Pусский"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5676,
+      "name": "Marcello Mastroianni",
+      "character": "Sergei (Sergio)",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 1.6782,
+      "profile_path": "/bfLnFfNfMC73Q7WW90xQy2PvRZm.jpg"
+    },
+    {
+      "personId": 16757,
+      "name": "Sophia Loren",
+      "character": "Isabella de la Fontaine",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 5.9865,
+      "profile_path": "/94Kglg5dsAgOKG76230FFN7m6W3.jpg"
+    },
+    {
+      "personId": 19162,
+      "name": "Jean-Pierre Cassel",
+      "character": "Olivier de la Fontaine",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 1.3351,
+      "profile_path": "/iCZ9CFw55lwdERGuIEFrkpOdaBi.jpg"
+    },
+    {
+      "personId": 326,
+      "name": "Kim Basinger",
+      "character": "Kitty Potter",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 3.9541,
+      "profile_path": "/iqQ4o2sRna7J1Z9KkB9Avp9CIsk.jpg"
+    },
+    {
+      "personId": 20710,
+      "name": "Chiara Mastroianni",
+      "character": "Sophie Choiset",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 1.2414,
+      "profile_path": "/tFqa9RlIFn2wxI4TTK5btzvJxVq.jpg"
+    },
+    {
+      "personId": 9029,
+      "name": "Stephen Rea",
+      "character": "Milo O'Brannigan",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 2.1574,
+      "profile_path": "/n52WDwObYghPTfV1TZ1EOVIWUGS.jpg"
+    },
+    {
+      "personId": 5682,
+      "name": "Anouk Aimée",
+      "character": "Simone Lowenthal",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 1.2363,
+      "profile_path": "/v537GNBKbRJAW0dqVu5BiEChqu0.jpg"
+    },
+    {
+      "personId": 4757,
+      "name": "Rupert Everett",
+      "character": "Jack Lowenthal",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 1.8113,
+      "profile_path": "/7t77pzlJnSLSXTzQLUey3YAzaxQ.jpg"
+    },
+    {
+      "personId": 25258,
+      "name": "Rossy de Palma",
+      "character": "Pilar",
+      "order": 8,
+      "cast_id": 10,
+      "popularity": 1.3071,
+      "profile_path": "/3IH9ZBUcFNwBr8IcS1RZhMKTpeg.jpg"
+    },
+    {
+      "personId": 33158,
+      "name": "Tara Leon",
+      "character": "Kiki Simpson",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 0.2757,
+      "profile_path": null
+    },
+    {
+      "personId": 33159,
+      "name": "Georgianna Robertson",
+      "character": "Dane Simpson",
+      "order": 10,
+      "cast_id": 13,
+      "popularity": 0.4805,
+      "profile_path": null
+    },
+    {
+      "personId": 3127,
+      "name": "Lili Taylor",
+      "character": "Fiona Ulrich",
+      "order": 11,
+      "cast_id": 14,
+      "popularity": 2.5342,
+      "profile_path": "/vWcMUi3QyvCr3QuFbjtwyPx7WtU.jpg"
+    },
+    {
+      "personId": 9805,
+      "name": "Sally Kellerman",
+      "character": "Sissy Wanamaker",
+      "order": 12,
+      "cast_id": 23,
+      "popularity": 2.384,
+      "profile_path": "/dcErCXrb3DWfC9Hw77EifoIlMSY.jpg"
+    },
+    {
+      "personId": 29408,
+      "name": "Ute Lemper",
+      "character": "Albertine",
+      "order": 13,
+      "cast_id": 11,
+      "popularity": 1.1334,
+      "profile_path": "/4pttFgYH3nebU2lfitcyavYCoLG.jpg"
+    },
+    {
+      "personId": 2178,
+      "name": "Forest Whitaker",
+      "character": "Cy Bianco",
+      "order": 14,
+      "cast_id": 15,
+      "popularity": 4.4112,
+      "profile_path": "/4w7l5JUwnwFNBy7J93ZwYN1nihm.jpg"
+    },
+    {
+      "personId": 24454,
+      "name": "Tom Novembre",
+      "character": "Reggie",
+      "order": 15,
+      "cast_id": 75,
+      "popularity": 1.7067,
+      "profile_path": "/YHLQQ5Z4PSsj1PoXWb7Jr6xmiO.jpg"
+    },
+    {
+      "personId": 20766,
+      "name": "Richard E. Grant",
+      "character": "Cort Romney",
+      "order": 16,
+      "cast_id": 16,
+      "popularity": 3.138,
+      "profile_path": "/6UXv8E4WWvRCKMQx1FQ0FJVyu0a.jpg"
+    },
+    {
+      "personId": 33160,
+      "name": "Anne Canovas",
+      "character": "Violetta Romney",
+      "order": 17,
+      "cast_id": 17,
+      "popularity": 0.5841,
+      "profile_path": "/tL0wIXdxMKMqyc4NXzQmVGzFWyS.jpg"
+    },
+    {
+      "personId": 1204,
+      "name": "Julia Roberts",
+      "character": "Anne Eisenhower",
+      "order": 18,
+      "cast_id": 18,
+      "popularity": 7.8361,
+      "profile_path": "/h13yvG0tRNMTAwciQXxYmQWdYW8.jpg"
+    },
+    {
+      "personId": 504,
+      "name": "Tim Robbins",
+      "character": "Joe Flynn",
+      "order": 19,
+      "cast_id": 19,
+      "popularity": 4.8325,
+      "profile_path": "/9DujxnBMVkizaeIyM0eXPMfXxR.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 9789,
+      "name": "Robert Altman",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1528,
+      "profile_path": "/wB1R6patGi35oaxKU5PWEGJlIZg.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 922,
+      "name": "hotel room"
+    },
+    {
+      "id": 90,
+      "name": "paris, france"
+    },
+    {
+      "id": 2863,
+      "name": "mannequin"
+    },
+    {
+      "id": 2619,
+      "name": "suspicion of murder"
+    },
+    {
+      "id": 6805,
+      "name": "fashion photographer"
+    },
+    {
+      "id": 6878,
+      "name": "sandwich"
+    },
+    {
+      "id": 6879,
+      "name": "poodle"
+    },
+    {
+      "id": 12193,
+      "name": "reporter"
+    },
+    {
+      "id": 15479,
+      "name": "fashion"
+    },
+    {
+      "id": 167198,
+      "name": "fashion show"
+    },
+    {
+      "id": 173242,
+      "name": "modeling"
+    }
+  ]
+}

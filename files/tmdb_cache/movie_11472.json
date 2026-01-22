@@ -1,0 +1,259 @@
+{
+  "overview": "When he finds out his longtime girlfriend is pregnant, a commitment-phobe realizes he might have to change his lifestyle for better or much, much worse.",
+  "release_date": "1995-07-12",
+  "runtime": 103,
+  "budget": 35000000,
+  "revenue": 138500000,
+  "tmdb_vote_average": 5.708,
+  "tmdb_vote_count": 685,
+  "tmdb_popularity": 1.223,
+  "original_language": "en",
+  "poster_path": "/y3VwPenHpiuIGb0fhgyt7PXZKLB.jpg",
+  "backdrop_path": "/4snl08qYXCUti8JBD2qeCV5kktX.jpg",
+  "tmdb_genres_raw": [
+    "Romance",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 436,
+      "name": "1492 Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 25,
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3291,
+      "name": "Hugh Grant",
+      "character": "Samuel Faulkner",
+      "order": 0,
+      "cast_id": 11,
+      "popularity": 4.6383,
+      "profile_path": "/dvV843fOuzsEPXHtFvdzsHpy1rC.jpg"
+    },
+    {
+      "personId": 1231,
+      "name": "Julianne Moore",
+      "character": "Rebecca Taylor",
+      "order": 1,
+      "cast_id": 12,
+      "popularity": 7.7537,
+      "profile_path": "/3YF19rWusxWfEI59ZM33dFhasRq.jpg"
+    },
+    {
+      "personId": 74036,
+      "name": "Tom Arnold",
+      "character": "Marty Dwyer",
+      "order": 2,
+      "cast_id": 13,
+      "popularity": 2.2398,
+      "profile_path": "/z2ajL1ozVCS4Ug04zOGCNH06OPP.jpg"
+    },
+    {
+      "personId": 3234,
+      "name": "Joan Cusack",
+      "character": "Gail Dwyer",
+      "order": 3,
+      "cast_id": 14,
+      "popularity": 3.9926,
+      "profile_path": "/ytjiXEqnaEYtS7XkYmoUXPrZCm5.jpg"
+    },
+    {
+      "personId": 4785,
+      "name": "Jeff Goldblum",
+      "character": "Sean Fletcher",
+      "order": 4,
+      "cast_id": 15,
+      "popularity": 5.6565,
+      "profile_path": "/ceSmXnD0FUSTaq2WIrnZu9caL0t.jpg"
+    },
+    {
+      "personId": 2157,
+      "name": "Robin Williams",
+      "character": "Dr. Kosevich",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 5.4707,
+      "profile_path": "/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg"
+    },
+    {
+      "personId": 149209,
+      "name": "Mia Cottet",
+      "character": "Lili",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 1.4855,
+      "profile_path": "/q44UKyD3LWjvYoyVNJxZU0LK3Pd.jpg"
+    },
+    {
+      "personId": 112085,
+      "name": "Joey Simmrin",
+      "character": "Truman",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 1.0469,
+      "profile_path": "/3oxDFMByqylma4M7wXjXXY4GyzD.jpg"
+    },
+    {
+      "personId": 34486,
+      "name": "Ashley Johnson",
+      "character": "Shannon Dwyer",
+      "order": 8,
+      "cast_id": 19,
+      "popularity": 4.8645,
+      "profile_path": "/8s36QwB7Zq3PrbY1W6a6ctTFFoe.jpg"
+    },
+    {
+      "personId": 57674,
+      "name": "Alexa PenaVega",
+      "character": "Molly Dwyer",
+      "order": 9,
+      "cast_id": 20,
+      "popularity": 2.3275,
+      "profile_path": "/11m8ff0YwS64Z04DJhupNQpwmCZ.jpg"
+    },
+    {
+      "personId": 571982,
+      "name": "Aislin Roche",
+      "character": "Patsy Dwyer",
+      "order": 10,
+      "cast_id": 21,
+      "popularity": 0.0755,
+      "profile_path": "/v7qqwJRlTp1dqNSzWDlhC9e8qcB.jpg"
+    },
+    {
+      "personId": 998895,
+      "name": "Priscilla Alden",
+      "character": "Older Woman",
+      "order": 11,
+      "cast_id": 22,
+      "popularity": 0.1945,
+      "profile_path": "/wskNmFglIHsc8usd3pA3Sq52tP7.jpg"
+    },
+    {
+      "personId": 1495928,
+      "name": "Edward Ivory",
+      "character": "Older Man",
+      "order": 12,
+      "cast_id": 23,
+      "popularity": 0.6926,
+      "profile_path": null
+    },
+    {
+      "personId": 3248017,
+      "name": "James Brady",
+      "character": "Bicyclist",
+      "order": 13,
+      "cast_id": 125,
+      "popularity": 0.1129,
+      "profile_path": null
+    },
+    {
+      "personId": 176340,
+      "name": "Charles Martinet",
+      "character": "Arnie",
+      "order": 14,
+      "cast_id": 25,
+      "popularity": 0.7696,
+      "profile_path": "/tNlPyVRMTM7PICLJsLY8TfOClzE.jpg"
+    },
+    {
+      "personId": 2949744,
+      "name": "Brendan Columbus",
+      "character": "Little Boy on Beach",
+      "order": 15,
+      "cast_id": 97,
+      "popularity": 0.4215,
+      "profile_path": "/rGGjn0djBe6jNn6xID1Mba6ZIs1.jpg"
+    },
+    {
+      "personId": 11183,
+      "name": "Eleanor Columbus",
+      "character": "Little Girl in Ballet Class #1",
+      "order": 16,
+      "cast_id": 81,
+      "popularity": 1.3528,
+      "profile_path": "/jIocRKMjreUZT1IO6kIRkEgTks1.jpg"
+    },
+    {
+      "personId": 1581386,
+      "name": "Anna Barnathan",
+      "character": "Little Girl in Ballet Class #2",
+      "order": 17,
+      "cast_id": 62,
+      "popularity": 0.1754,
+      "profile_path": null
+    },
+    {
+      "personId": 84617,
+      "name": "Zelda Williams",
+      "character": "Little Girl in Ballet Class #3",
+      "order": 18,
+      "cast_id": 61,
+      "popularity": 1.0785,
+      "profile_path": "/rHajnT0b93V74zSU3muGh6Zlaa0.jpg"
+    },
+    {
+      "personId": 1550601,
+      "name": "Peter Bankins",
+      "character": "Tow Truck Driver",
+      "order": 19,
+      "cast_id": 98,
+      "popularity": 0.1615,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 10965,
+      "name": "Chris Columbus",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 5.0552,
+      "profile_path": "/yCyEz90NqjEXKZ7HYcEhDXlLlPc.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1009,
+      "name": "baby"
+    },
+    {
+      "id": 970,
+      "name": "parent child relationship"
+    },
+    {
+      "id": 3725,
+      "name": "pregnancy"
+    },
+    {
+      "id": 6038,
+      "name": "marriage"
+    },
+    {
+      "id": 168386,
+      "name": "desire to have children"
+    }
+  ]
+}

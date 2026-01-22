@@ -1,0 +1,256 @@
+{
+  "overview": "An illiterate stooge in a traveling medicine show wanders into a strange town and is picked up on a vagrancy charge. The town's corrupt officials mistake him for the inspector general whom they think is traveling in disguise. Fearing he will discover they've been pocketing tax money, they make several bungled attempts to kill him.",
+  "release_date": "1949-12-31",
+  "runtime": 101,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.5,
+  "tmdb_vote_count": 55,
+  "tmdb_popularity": 0.6293,
+  "original_language": "en",
+  "poster_path": "/pEseNGrq1lSdomjayEflNn0xjaZ.jpg",
+  "backdrop_path": "/m8hzP0azCnfEjapY9UMfnIWiG7x.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Music",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 3245,
+      "name": "First National Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 70668,
+      "name": "Danny Kaye",
+      "character": "Georgi",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.7909,
+      "profile_path": "/a4ciX3nsLZWCNj8BAKsW3hkC6cr.jpg"
+    },
+    {
+      "personId": 37884,
+      "name": "Walter Slezak",
+      "character": "Yakov",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 0.8067,
+      "profile_path": "/ilVLhrlP21zvzfQ02vc5Lnj1O64.jpg"
+    },
+    {
+      "personId": 10611,
+      "name": "Barbara Bates",
+      "character": "Leza",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.1894,
+      "profile_path": "/tKHAPTZYYshqKMlQiETPkGX2vuL.jpg"
+    },
+    {
+      "personId": 2926,
+      "name": "Elsa Lanchester",
+      "character": "Maria",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.4595,
+      "profile_path": "/jek9jcqODZGWnmcMm7ynkSaLSWb.jpg"
+    },
+    {
+      "personId": 30234,
+      "name": "Gene Lockhart",
+      "character": "The Mayor",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 0.8386,
+      "profile_path": "/8lSQRefIA5kNylZOF7anexkDxqQ.jpg"
+    },
+    {
+      "personId": 8729,
+      "name": "Alan Hale",
+      "character": "Kovatch",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 2.444,
+      "profile_path": "/e90MwAMkxjDqr3wOnOhDAjvylW5.jpg"
+    },
+    {
+      "personId": 13819,
+      "name": "Walter Catlett",
+      "character": "Colonel Castine",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 1.1999,
+      "profile_path": "/c5ldUlcqrUuxpQE9iXqj9GlRZwt.jpg"
+    },
+    {
+      "personId": 82835,
+      "name": "Rhys Williams",
+      "character": "Inspector General",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 0.7471,
+      "profile_path": "/5n6ufKbjGLZN64tUgKErOdGONCU.jpg"
+    },
+    {
+      "personId": 153337,
+      "name": "Benny Baker",
+      "character": "Telecki (uncredited)",
+      "order": 8,
+      "cast_id": 37,
+      "popularity": 0.8077,
+      "profile_path": "/jOdEf2SQCtROQHQfbJp9Ox5jgx5.jpg"
+    },
+    {
+      "personId": 115079,
+      "name": "Leonard Bremen",
+      "character": "Lieutenant (uncredited)",
+      "order": 9,
+      "cast_id": 38,
+      "popularity": 0.361,
+      "profile_path": "/u8I4QCo6EdBGvpt3IH9dq59e8wG.jpg"
+    },
+    {
+      "personId": 121329,
+      "name": "Robert Cherry",
+      "character": "Peasant (uncredited)",
+      "order": 10,
+      "cast_id": 39,
+      "popularity": 0.133,
+      "profile_path": null
+    },
+    {
+      "personId": 103895,
+      "name": "Frank Conlan",
+      "character": "OId Villager (uncredited)",
+      "order": 11,
+      "cast_id": 40,
+      "popularity": 0.3362,
+      "profile_path": null
+    },
+    {
+      "personId": 89672,
+      "name": "Jimmy Conlin",
+      "character": "Turnkey (uncredited)",
+      "order": 12,
+      "cast_id": 41,
+      "popularity": 0.5422,
+      "profile_path": "/xvYLb33I6u3qb8aZyOuoBELL7Jl.jpg"
+    },
+    {
+      "personId": 1289810,
+      "name": "Helena Dare",
+      "character": "Townwoman (uncredited)",
+      "order": 13,
+      "cast_id": 42,
+      "popularity": 0.1026,
+      "profile_path": null
+    },
+    {
+      "personId": 2252297,
+      "name": "Bryn Davis",
+      "character": "Councilman's Wife (uncredited)",
+      "order": 14,
+      "cast_id": 68,
+      "popularity": 0.2717,
+      "profile_path": null
+    },
+    {
+      "personId": 120701,
+      "name": "George Davis",
+      "character": "Ladislaus (uncredited)",
+      "order": 15,
+      "cast_id": 69,
+      "popularity": 1.0443,
+      "profile_path": "/jZX35AsIZnuQX7crHu6QqOAH182.jpg"
+    },
+    {
+      "personId": 1468745,
+      "name": "Abe Dinovitch",
+      "character": "Peasant (uncredited)",
+      "order": 16,
+      "cast_id": 70,
+      "popularity": 0.5212,
+      "profile_path": null
+    },
+    {
+      "personId": 1422325,
+      "name": "Art Dupuis",
+      "character": "Sentry (uncredited)",
+      "order": 17,
+      "cast_id": 71,
+      "popularity": 0.2189,
+      "profile_path": null
+    },
+    {
+      "personId": 996704,
+      "name": "Robert Filmer",
+      "character": "Sentry (uncredited)",
+      "order": 18,
+      "cast_id": 72,
+      "popularity": 0.7302,
+      "profile_path": null
+    },
+    {
+      "personId": 96722,
+      "name": "Byron Foulger",
+      "character": "Burbis (uncredited)",
+      "order": 19,
+      "cast_id": 73,
+      "popularity": 0.962,
+      "profile_path": "/8j1Mn3alrcZyfe742LCfjCglQ3L.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 33064,
+      "name": "Henry Koster",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.5658,
+      "profile_path": "/vmIiFgDzZUAiZQIKpEF5QMimlRj.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 417,
+      "name": "corruption"
+    },
+    {
+      "id": 10685,
+      "name": "escape"
+    },
+    {
+      "id": 1919,
+      "name": "mayor"
+    },
+    {
+      "id": 13147,
+      "name": "snake oil"
+    },
+    {
+      "id": 13148,
+      "name": "medicine show"
+    }
+  ]
+}

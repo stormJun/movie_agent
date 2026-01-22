@@ -1,0 +1,266 @@
+{
+  "overview": "In an alternate futuristic society, a tough female police detective is paired with a talking dinosaur to find the killer of dinosaurs and other prehistoric animals leading them to a mad scientist bent on creating a new Armageddon.",
+  "release_date": "1995-12-14",
+  "runtime": 92,
+  "budget": 33500000,
+  "revenue": 0,
+  "tmdb_vote_average": 3.615,
+  "tmdb_vote_count": 117,
+  "tmdb_popularity": 1.8644,
+  "original_language": "en",
+  "poster_path": "/fUUbOE91SK4GCpiyftEY5USjCh1.jpg",
+  "backdrop_path": "/71BTsB16aNZrbidjrV6eLwWGdh2.jpg",
+  "tmdb_genres_raw": [
+    "Fantasy",
+    "Science Fiction",
+    "Family",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 12474,
+      "name": "J&M Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 40942,
+      "name": "Shooting Star Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2395,
+      "name": "Whoopi Goldberg",
+      "character": "Katie Coltrane",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.5481,
+      "profile_path": "/wZKI7qcEIVgiHxeFtk3NuKt8URQ.jpg"
+    },
+    {
+      "personId": 12647,
+      "name": "Armin Mueller-Stahl",
+      "character": "Elizar Kane",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 2.1724,
+      "profile_path": "/yDT9hMg3osAbiWl5YZXTYG4SmGj.jpg"
+    },
+    {
+      "personId": 7137,
+      "name": "Juliet Landau",
+      "character": "Dr. Veronica Shade",
+      "order": 2,
+      "cast_id": 9,
+      "popularity": 1.2111,
+      "profile_path": "/fxLW9OteJEO2MGVaNc3oDL0EjR0.jpg"
+    },
+    {
+      "personId": 4971,
+      "name": "Bud Cort",
+      "character": "Spinner",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.3639,
+      "profile_path": "/t3ncccw3yAk69FYDdG9RkvT0qpC.jpg"
+    },
+    {
+      "personId": 230,
+      "name": "Stephen McHattie",
+      "character": "Edge",
+      "order": 4,
+      "cast_id": 10,
+      "popularity": 2.3165,
+      "profile_path": "/zqOwiEDXYM9AKQgHGJGeIp7QkPh.jpg"
+    },
+    {
+      "personId": 59222,
+      "name": "George Newbern",
+      "character": "Theodore Rex (voice)",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 2.4276,
+      "profile_path": "/1Xx0K3KGqxyIpL6o2eVQKui86jS.jpg"
+    },
+    {
+      "personId": 10556,
+      "name": "Carol Kane",
+      "character": "Molly Rex (voice)",
+      "order": 6,
+      "cast_id": 5,
+      "popularity": 3.2,
+      "profile_path": "/3EOZ7B148lRwJcl3CmQhfpgubYQ.jpg"
+    },
+    {
+      "personId": 6487,
+      "name": "Richard Roundtree",
+      "character": "Commissioner Lynch",
+      "order": 7,
+      "cast_id": 6,
+      "popularity": 1.8831,
+      "profile_path": "/wPuLgW8PrzJFBrfsB03oon5MT7f.jpg"
+    },
+    {
+      "personId": 62590,
+      "name": "Jack Riley",
+      "character": "Alaric",
+      "order": 8,
+      "cast_id": 35,
+      "popularity": 1.496,
+      "profile_path": "/wxkTQp3bl50tRTD3KGDL3dqH3Y3.jpg"
+    },
+    {
+      "personId": 62597,
+      "name": "Peter MacKenzie",
+      "character": "Alex Summers",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 0.996,
+      "profile_path": "/cIh0AFTpukyo7O7I4AeWpGnFpic.jpg"
+    },
+    {
+      "personId": 29915,
+      "name": "Joe Dallesandro",
+      "character": "Rogan",
+      "order": 10,
+      "cast_id": 7,
+      "popularity": 1.2925,
+      "profile_path": "/dtLU66GGm6Lis5ZMrseT0qei2Ii.jpg"
+    },
+    {
+      "personId": 197960,
+      "name": "Tony T. Johnson",
+      "character": "Sebastian",
+      "order": 11,
+      "cast_id": 36,
+      "popularity": 0.7898,
+      "profile_path": "/qBUgkRetdCOrL9PTCTkU2REcgj9.jpg"
+    },
+    {
+      "personId": 81897,
+      "name": "Susie Coelho",
+      "character": "Dr. Armitraj",
+      "order": 12,
+      "cast_id": 34,
+      "popularity": 1.2037,
+      "profile_path": null
+    },
+    {
+      "personId": 97695,
+      "name": "Peter Kwong",
+      "character": "Toymaker",
+      "order": 13,
+      "cast_id": 32,
+      "popularity": 0.8915,
+      "profile_path": "/46PxGDXNCNTFbMJDBBibCMDejOU.jpg"
+    },
+    {
+      "personId": 132300,
+      "name": "Edith Diaz",
+      "character": "Ella",
+      "order": 14,
+      "cast_id": 33,
+      "popularity": 0.7034,
+      "profile_path": "/8ZPoNnXBIir5Etjdwr8oWkuDn6b.jpg"
+    },
+    {
+      "personId": 1689919,
+      "name": "Robert Martin Robinson",
+      "character": "Knife",
+      "order": 15,
+      "cast_id": 37,
+      "popularity": 0.1163,
+      "profile_path": null
+    },
+    {
+      "personId": 102607,
+      "name": "Dee Booher",
+      "character": "Meanest Woman Truck Driver",
+      "order": 16,
+      "cast_id": 38,
+      "popularity": 1.1607,
+      "profile_path": "/2PC5fvWlyU7cEQcfuBoHuDD07jW.jpg"
+    },
+    {
+      "personId": 1216592,
+      "name": "William Boyett",
+      "character": "Desk Sergeant",
+      "order": 17,
+      "cast_id": 39,
+      "popularity": 1.2517,
+      "profile_path": "/y3aYTWtDFScgy1hTJw7Pb1837R3.jpg"
+    },
+    {
+      "personId": 104577,
+      "name": "Marius Mazmanian",
+      "character": "Butler",
+      "order": 18,
+      "cast_id": 40,
+      "popularity": 0.4372,
+      "profile_path": null
+    },
+    {
+      "personId": 1407364,
+      "name": "Noon Orsatti",
+      "character": "Adam",
+      "order": 19,
+      "cast_id": 55,
+      "popularity": 1.2838,
+      "profile_path": "/dvwVkEcFr26b0EceRn7Dk9jtviY.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 70835,
+      "name": "Jonathan R. Betuel",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.3849,
+      "profile_path": "/k3m4aSEjjVdv9sxiJelfDvzXc47.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 679,
+      "name": "cyborg"
+    },
+    {
+      "id": 703,
+      "name": "detective"
+    },
+    {
+      "id": 10125,
+      "name": "mad scientist"
+    },
+    {
+      "id": 8015,
+      "name": "cop"
+    },
+    {
+      "id": 12616,
+      "name": "dinosaur"
+    },
+    {
+      "id": 161982,
+      "name": "murder investigation"
+    }
+  ]
+}

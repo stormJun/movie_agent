@@ -1,0 +1,297 @@
+{
+  "overview": "In late 1940s Los Angeles, Easy Rawlins is an unemployed black World War II veteran with few job prospects. At a bar, Easy meets DeWitt Albright, a mysterious white man looking for someone to investigate the disappearance of a missing white woman named Daphne Monet, who he suspects is hiding out in one of the city's black jazz clubs. Strapped for money and facing house payments, Easy takes the job, but soon finds himself in over his head.",
+  "release_date": "1995-09-29",
+  "runtime": 102,
+  "budget": 27000000,
+  "revenue": 16140822,
+  "tmdb_vote_average": 6.45,
+  "tmdb_vote_count": 440,
+  "tmdb_popularity": 1.6079,
+  "original_language": "en",
+  "poster_path": "/5lcJhwKGavLbPva17QkTBhLfqEk.jpg",
+  "backdrop_path": "/n6SFCz0OsyZ800ZSlaD5WpNmqCj.jpg",
+  "tmdb_genres_raw": [
+    "Thriller",
+    "Crime",
+    "Mystery"
+  ],
+  "production_companies": [
+    {
+      "id": 2510,
+      "name": "Mundy Lane Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 559,
+      "name": "TriStar Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1274,
+      "name": "Clinica Estetico",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5292,
+      "name": "Denzel Washington",
+      "character": "Easy Rawlins",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 7.8701,
+      "profile_path": "/jj2Gcobpopokal0YstuCQW0ldJ4.jpg"
+    },
+    {
+      "personId": 3197,
+      "name": "Tom Sizemore",
+      "character": "DeWitt Albright",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.2998,
+      "profile_path": "/soINOuacuiThRb2LyPD4tTWve7C.jpg"
+    },
+    {
+      "personId": 3130,
+      "name": "Jennifer Beals",
+      "character": "Daphne Monet",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.5555,
+      "profile_path": "/tu1CjyjoUoV7rGPyvwvH9b0MlbW.jpg"
+    },
+    {
+      "personId": 1896,
+      "name": "Don Cheadle",
+      "character": "Mouse Alexander",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 3.9207,
+      "profile_path": "/2SjWNlcBMHBGC5Io0F2vzElCaiO.jpg"
+    },
+    {
+      "personId": 7868,
+      "name": "Maury Chaykin",
+      "character": "Matthew Terell",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.8672,
+      "profile_path": "/Aqmsu1UHo40Md4RlLGfotSt8Lrr.jpg"
+    },
+    {
+      "personId": 11067,
+      "name": "Terry Kinney",
+      "character": "Todd Carter",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 2.2902,
+      "profile_path": "/2Y6AeUUj1xUd5p7mRM9tFqUCN87.jpg"
+    },
+    {
+      "personId": 35038,
+      "name": "Mel Winkler",
+      "character": "Joppy",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 0.6872,
+      "profile_path": "/ctkcmCVzcUJWaGpEtHxwNPpEHw7.jpg"
+    },
+    {
+      "personId": 8354,
+      "name": "Albert Hall",
+      "character": "Degan Odell",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 2.096,
+      "profile_path": "/jvcOpEO0vSNy3KaDkhIldI1CoaU.jpg"
+    },
+    {
+      "personId": 55274,
+      "name": "Lisa Nicole Carson",
+      "character": "Coretta James",
+      "order": 8,
+      "cast_id": 9,
+      "popularity": 1.607,
+      "profile_path": "/2BmzDyUOaoUATRMAaTshpg2AAMt.jpg"
+    },
+    {
+      "personId": 55275,
+      "name": "Jernard Burks",
+      "character": "Dupree Brouchard",
+      "order": 9,
+      "cast_id": 10,
+      "popularity": 1.9412,
+      "profile_path": "/qllyoFXhAjdzWuh5fA7zhlOwCC1.jpg"
+    },
+    {
+      "personId": 55276,
+      "name": "David Fonteno",
+      "character": "Junior Fornay",
+      "order": 10,
+      "cast_id": 11,
+      "popularity": 0.784,
+      "profile_path": "/97a6TX1BAa0lBecvXf0lrqMkSo3.jpg"
+    },
+    {
+      "personId": 9285,
+      "name": "John Roselius",
+      "character": "Mason",
+      "order": 11,
+      "cast_id": 25,
+      "popularity": 1.0852,
+      "profile_path": "/m7gDoXGgXSv0YF9JC7iKdWASohu.jpg"
+    },
+    {
+      "personId": 42308,
+      "name": "Beau Starr",
+      "character": "Miller",
+      "order": 12,
+      "cast_id": 26,
+      "popularity": 1.4565,
+      "profile_path": "/sv4mpa0vquI0zn1Ur2UB49nAm1D.jpg"
+    },
+    {
+      "personId": 59281,
+      "name": "Steven Randazzo",
+      "character": "Benny Giacomo",
+      "order": 13,
+      "cast_id": 27,
+      "popularity": 0.8693,
+      "profile_path": "/ufifD3uO2pqNNsrLAwbAkbyzJ7i.jpg"
+    },
+    {
+      "personId": 106974,
+      "name": "Scott Lincoln",
+      "character": "Richard McGee",
+      "order": 14,
+      "cast_id": 28,
+      "popularity": 0.6252,
+      "profile_path": null
+    },
+    {
+      "personId": 29051,
+      "name": "L. Scott Caldwell",
+      "character": "Hattie Parsons",
+      "order": 15,
+      "cast_id": 21,
+      "popularity": 1.5177,
+      "profile_path": "/wSBfgHgOrUEUJf8RE3ION1AlhmL.jpg"
+    },
+    {
+      "personId": 8689,
+      "name": "Barry Shabaka Henley",
+      "character": "Woodcutter",
+      "order": 16,
+      "cast_id": 29,
+      "popularity": 1.8155,
+      "profile_path": "/q0hI6T9OlmdUYdjYRX8K3pdRnYH.jpg"
+    },
+    {
+      "personId": 152582,
+      "name": "Nick Corello",
+      "character": "Shariff",
+      "order": 17,
+      "cast_id": 30,
+      "popularity": 0.4251,
+      "profile_path": "/1lvG1KPAWrTjfegtpMbxnoO3DmK.jpg"
+    },
+    {
+      "personId": 1576419,
+      "name": "Kenny Endoso",
+      "character": "Manny",
+      "order": 18,
+      "cast_id": 31,
+      "popularity": 0.6822,
+      "profile_path": "/cVDyTG8I6hdfOQRrgn2oX2hyGRQ.jpg"
+    },
+    {
+      "personId": 56440,
+      "name": "Joseph Latimore",
+      "character": "Frank Green",
+      "order": 19,
+      "cast_id": 32,
+      "popularity": 0.6254,
+      "profile_path": "/xhHgv4btqWwjDgqNIrHjiYJBhmq.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 21712,
+      "name": "Carl Franklin",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.8506,
+      "profile_path": "/8xX5z2BXZZHynzaMruOB8VkQ077.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 1543,
+      "name": "war veteran"
+    },
+    {
+      "id": 5823,
+      "name": "jazz club"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 12670,
+      "name": "los angeles, california"
+    },
+    {
+      "id": 15208,
+      "name": "biting"
+    },
+    {
+      "id": 155790,
+      "name": "private detective"
+    },
+    {
+      "id": 156091,
+      "name": "missing person"
+    },
+    {
+      "id": 157210,
+      "name": "framed for a crime"
+    },
+    {
+      "id": 202371,
+      "name": "aggressive"
+    },
+    {
+      "id": 207268,
+      "name": "neo-noir"
+    },
+    {
+      "id": 207883,
+      "name": "1940s"
+    },
+    {
+      "id": 239797,
+      "name": "complex"
+    },
+    {
+      "id": 316241,
+      "name": "egotistical"
+    }
+  ]
+}

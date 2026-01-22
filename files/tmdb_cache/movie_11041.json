@@ -1,0 +1,262 @@
+{
+  "overview": "Mild-mannered dirt-poor hill-dweller Jed Clampett strikes it rich when oil is discovered on his property. At cousin Pearl's insistence, he moves his family to Beverly Hills to better enjoy his newfound wealth.",
+  "release_date": "1993-10-15",
+  "runtime": 92,
+  "budget": 25000000,
+  "revenue": 57405220,
+  "tmdb_vote_average": 6.308,
+  "tmdb_vote_count": 573,
+  "tmdb_popularity": 3.6551,
+  "original_language": "en",
+  "poster_path": "/refYLEQvzkY63i2IHronCPQODex.jpg",
+  "backdrop_path": "/jogunsbDpMehAPdeLdt6puRJAwB.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 25,
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 12899,
+      "name": "Jim Varney",
+      "character": "Jed Clampett",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.7317,
+      "profile_path": "/zvBFmvKUrPvE6FW35O3RP4i1ZPp.jpg"
+    },
+    {
+      "personId": 5727,
+      "name": "Diedrich Bader",
+      "character": "Jethro Bodine",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 3.4916,
+      "profile_path": "/z7CctykPTuXDfAs7pkAA7vW4b3T.jpg"
+    },
+    {
+      "personId": 23764,
+      "name": "Erika Eleniak",
+      "character": "Elly May Clampett",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.5011,
+      "profile_path": "/lu9RKtMCHRZIzLJzWieiku0LSYU.jpg"
+    },
+    {
+      "personId": 9599,
+      "name": "Cloris Leachman",
+      "character": "Granny",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 3.3806,
+      "profile_path": "/o8pnV9urjuHZDAR2u4UjPy2CR1u.jpg"
+    },
+    {
+      "personId": 10437,
+      "name": "Lily Tomlin",
+      "character": "Miss Jane Hathaway",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.6527,
+      "profile_path": "/eoFMSqRykiaXMGCiz7Kxehfqy1W.jpg"
+    },
+    {
+      "personId": 1063,
+      "name": "Lea Thompson",
+      "character": "Laura Jackson",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 2.7016,
+      "profile_path": "/85E9NTEfkRdUdK4kTrrnk5of25w.jpg"
+    },
+    {
+      "personId": 67274,
+      "name": "Dolly Parton",
+      "character": "Dolly Parton",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 2.0395,
+      "profile_path": "/uLFZgrfSqAxLj3UM7dkTPdlCKkc.jpg"
+    },
+    {
+      "personId": 60949,
+      "name": "Rob Schneider",
+      "character": "Woodrow Tyler",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 3.9571,
+      "profile_path": "/kVHNFDOGDrC3LjDyYf5RaCd6auK.jpg"
+    },
+    {
+      "personId": 12850,
+      "name": "Dabney Coleman",
+      "character": "Milburn Drysdale",
+      "order": 8,
+      "cast_id": 19,
+      "popularity": 4.0554,
+      "profile_path": "/1Evye7M6ndlNIIfs5s8tBFWWhhT.jpg"
+    },
+    {
+      "personId": 1212058,
+      "name": "Linda Carlson",
+      "character": "Aunt Pearl",
+      "order": 9,
+      "cast_id": 20,
+      "popularity": 1.315,
+      "profile_path": "/zwf5EjT0lIQMOfFlvXin9gfjL7O.jpg"
+    },
+    {
+      "personId": 16666,
+      "name": "Kevin Connolly",
+      "character": "Morgan Drysdale",
+      "order": 10,
+      "cast_id": 21,
+      "popularity": 2.0256,
+      "profile_path": "/1QDmx5t0anO0wkfABfgLtkuLFOy.jpg"
+    },
+    {
+      "personId": 44715,
+      "name": "Zsa Zsa Gabor",
+      "character": "Zsa Zsa Gabor",
+      "order": 11,
+      "cast_id": 22,
+      "popularity": 0.9583,
+      "profile_path": "/fEOaP9mFLHbXMkOPDpzbCYtKieb.jpg"
+    },
+    {
+      "personId": 1935,
+      "name": "Buddy Ebsen",
+      "character": "Barnaby Jones",
+      "order": 12,
+      "cast_id": 23,
+      "popularity": 2.128,
+      "profile_path": "/iY3zvIzWDhsrcYoL6jjGONp4Wjv.jpg"
+    },
+    {
+      "personId": 51586,
+      "name": "Mike Norris",
+      "character": "Dancer",
+      "order": 13,
+      "cast_id": 25,
+      "popularity": 2.486,
+      "profile_path": "/65Yuo0ACOp8kmTuf16buibpF0pY.jpg"
+    },
+    {
+      "personId": 13727,
+      "name": "Penny Fuller",
+      "character": "Mrs. Margaret Drysdale",
+      "order": 14,
+      "cast_id": 144,
+      "popularity": 1.8791,
+      "profile_path": "/o4YndKKw2LlbgtRWsmWfGQXHMGm.jpg"
+    },
+    {
+      "personId": 90198,
+      "name": "Lyman Ward",
+      "character": "Chief Gallo",
+      "order": 15,
+      "cast_id": 145,
+      "popularity": 1.2599,
+      "profile_path": "/zFBlLLgbLLDcEf7SvXlJCVPpg3V.jpg"
+    },
+    {
+      "personId": 51752,
+      "name": "Leann Hunley",
+      "character": "Miss Arlington",
+      "order": 16,
+      "cast_id": 146,
+      "popularity": 1.9983,
+      "profile_path": "/4tHpNFFlJCZJP8t8daRv9NkvCWP.jpg"
+    },
+    {
+      "personId": 59184,
+      "name": "Ernie Lively",
+      "character": "Briggs",
+      "order": 17,
+      "cast_id": 147,
+      "popularity": 1.3149,
+      "profile_path": "/guIP10XZFN7p6UF6DiP3neSEifP.jpg"
+    },
+    {
+      "personId": 16561,
+      "name": "David L. Crowley",
+      "character": "Danforth",
+      "order": 18,
+      "cast_id": 148,
+      "popularity": 0.7044,
+      "profile_path": "/poHVQfre2a0m54Q4y1cz78RZ2Vs.jpg"
+    },
+    {
+      "personId": 1349468,
+      "name": "Michael Cassidy",
+      "character": "Waters",
+      "order": 19,
+      "cast_id": 149,
+      "popularity": 0.5682,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 58448,
+      "name": "Penelope Spheeris",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.727,
+      "profile_path": "/7juDUTAEyAKKfDmkOD9q24kjrei.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 5521,
+      "name": "arkansas"
+    },
+    {
+      "id": 10590,
+      "name": "oil"
+    },
+    {
+      "id": 12547,
+      "name": "billionaire"
+    },
+    {
+      "id": 14559,
+      "name": "hillbilly"
+    },
+    {
+      "id": 163047,
+      "name": "beverly hills"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    },
+    {
+      "id": 269769,
+      "name": "based on tv series"
+    },
+    {
+      "id": 298618,
+      "name": "family comedy"
+    }
+  ]
+}

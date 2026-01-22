@@ -1,0 +1,163 @@
+{
+  "overview": "Riyo, an orphaned 17-year old, sails from Yokohama to Hawaii in 1918 to marry Matsuji, a man she has never met. Hoping to escape a troubled past and start anew, Riyo is bitterly disappointed upon her arrival: her husband is twice her age. The miserable girl finds solace with her new friend Kana, a young mother who helps Riyo accept her new life.",
+  "release_date": "1995-05-05",
+  "runtime": 94,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.4,
+  "tmdb_vote_count": 24,
+  "tmdb_popularity": 1.1369,
+  "original_language": "en",
+  "poster_path": "/s1lUr4NWgOi4ftXLrUWGI49IvKK.jpg",
+  "backdrop_path": "/27isI5pxtk6b04G3nfCVzLfgEyG.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    {
+      "id": 84839,
+      "name": "Cecile Company",
+      "origin_country": ""
+    },
+    {
+      "id": 84840,
+      "name": "Thousand Cranes Filmworks",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "tl",
+      "name": ""
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ja",
+      "name": "日本語"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16145,
+      "name": "Youki Kudoh",
+      "character": "Riyo",
+      "order": 0,
+      "cast_id": 1002,
+      "popularity": 1.3478,
+      "profile_path": "/wC8MpgtCf2lC1BxYSGra6F1urtN.jpg"
+    },
+    {
+      "personId": 1333696,
+      "name": "Akira Takayama",
+      "character": "Matsuji Kimura",
+      "order": 1,
+      "cast_id": 1005,
+      "popularity": 1.7723,
+      "profile_path": "/o7HBnNpui9YYxgJLDSwrGwiye99.jpg"
+    },
+    {
+      "personId": 3134,
+      "name": "Tamlyn Tomita",
+      "character": "Kana",
+      "order": 2,
+      "cast_id": 1004,
+      "popularity": 3.0925,
+      "profile_path": "/jiopYBG0cpYcPmHa1KL6F24bd99.jpg"
+    },
+    {
+      "personId": 11398,
+      "name": "Cary-Hiroyuki Tagawa",
+      "character": "Kanzaki",
+      "order": 3,
+      "cast_id": 1003,
+      "popularity": 3.1078,
+      "profile_path": "/5F8MQ4J4qIqUwGIfcWN4osrTUtP.jpg"
+    },
+    {
+      "personId": 7450,
+      "name": "Toshirō Mifune",
+      "character": "The Benshi",
+      "order": 4,
+      "cast_id": 1006,
+      "popularity": 2.2428,
+      "profile_path": "/3A9PqrtiXHLp8B2JL7m3YvVXrmL.jpg"
+    },
+    {
+      "personId": 136380,
+      "name": "Yōko Sugi",
+      "character": "Aunt Sode",
+      "order": 5,
+      "cast_id": 1007,
+      "popularity": 1.6803,
+      "profile_path": "/8Ymu8QeciMRRow3wgf6ZK517YO2.jpg"
+    },
+    {
+      "personId": 1728269,
+      "name": "Christianne Mays",
+      "character": "Miss Pieper",
+      "order": 6,
+      "cast_id": 1024,
+      "popularity": 0.3133,
+      "profile_path": null
+    },
+    {
+      "personId": 169807,
+      "name": "Warren Fabro",
+      "character": "Felipe",
+      "order": 7,
+      "cast_id": 1074,
+      "popularity": 0.3496,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 994323,
+      "name": "Kayo Hatta",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.1343,
+      "profile_path": "/9C4EhvGtv4cQw5EKYgk9luiieAv.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1668,
+      "name": "hawaii"
+    },
+    {
+      "id": 2692,
+      "name": "arranged marriage"
+    },
+    {
+      "id": 10428,
+      "name": "cultural difference"
+    },
+    {
+      "id": 13014,
+      "name": "orphan"
+    },
+    {
+      "id": 14669,
+      "name": "older man younger woman relationship"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    }
+  ]
+}

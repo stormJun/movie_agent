@@ -1,0 +1,323 @@
+{
+  "overview": "Ben Sanderson, an alcoholic Hollywood screenwriter who lost everything because of his drinking, arrives in Las Vegas to drink himself to death. There, he meets and forms an uneasy friendship and non-interference pact with prostitute Sera.",
+  "release_date": "1995-10-27",
+  "runtime": 111,
+  "budget": 3600000,
+  "revenue": 49800000,
+  "tmdb_vote_average": 7.249,
+  "tmdb_vote_count": 1577,
+  "tmdb_popularity": 3.3618,
+  "original_language": "en",
+  "poster_path": "/wTrFpGe3U65kXTldIUxuM2hmOAK.jpg",
+  "backdrop_path": "/5m5VhSN1lTk3egtrNzqNv5nwMuG.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 15547,
+      "name": "Initial Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 25129,
+      "name": "Lumière Pictures",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "it",
+      "name": "Italiano"
+    },
+    {
+      "code": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2963,
+      "name": "Nicolas Cage",
+      "character": "Ben Sanderson",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 8.4149,
+      "profile_path": "/y1RtezurZYveYkVNRht7CwEgSYY.jpg"
+    },
+    {
+      "personId": 1951,
+      "name": "Elisabeth Shue",
+      "character": "Sera",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 5.054,
+      "profile_path": "/1pmjDSLvOuqKW1P2KRPlpFMeUFe.jpg"
+    },
+    {
+      "personId": 6104,
+      "name": "Julian Sands",
+      "character": "Yuri",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.6854,
+      "profile_path": "/8TYtEyKZle2B3cUYT7FBM9HJRtZ.jpg"
+    },
+    {
+      "personId": 6105,
+      "name": "Richard Lewis",
+      "character": "Peter",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.4443,
+      "profile_path": "/xUiYIhzC0HfpkWn5QuaICLtE6Hy.jpg"
+    },
+    {
+      "personId": 6106,
+      "name": "Steven Weber",
+      "character": "Marc Nussbaum",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 2.8455,
+      "profile_path": "/8FtkapenCOpe39eE1sQus5WLWAq.jpg"
+    },
+    {
+      "personId": 6107,
+      "name": "Kim Adams",
+      "character": "Sheila",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 0.6475,
+      "profile_path": null
+    },
+    {
+      "personId": 6108,
+      "name": "Emily Procter",
+      "character": "Debbie",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 2.2929,
+      "profile_path": "/gFK8S0ZgaqDC8IgclgadDuB2eMm.jpg"
+    },
+    {
+      "personId": 6109,
+      "name": "Stuart Regen",
+      "character": "Man At Bar",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 0.2865,
+      "profile_path": null
+    },
+    {
+      "personId": 3124,
+      "name": "Valeria Golino",
+      "character": "Terri",
+      "order": 8,
+      "cast_id": 9,
+      "popularity": 3.2768,
+      "profile_path": "/bLw0lNPEhICtbTLtnTswamefN7C.jpg"
+    },
+    {
+      "personId": 6110,
+      "name": "Graham Beckel",
+      "character": "L.A. Bartender",
+      "order": 9,
+      "cast_id": 10,
+      "popularity": 1.7139,
+      "profile_path": "/duFny0c11zVA37XG1bHFTNOCvRG.jpg"
+    },
+    {
+      "personId": 156411,
+      "name": "Albert Henderson",
+      "character": "Man at Strip Bar",
+      "order": 10,
+      "cast_id": 53,
+      "popularity": 1.6497,
+      "profile_path": "/6MJrBpBpHYtemSHqGGeYmtkSHYT.jpg"
+    },
+    {
+      "personId": 2103680,
+      "name": "Shashi Bhatia",
+      "character": "Hispanic Prostitute",
+      "order": 11,
+      "cast_id": 38,
+      "popularity": 0.5786,
+      "profile_path": null
+    },
+    {
+      "personId": 10679,
+      "name": "Carey Lowell",
+      "character": "Bank Teller",
+      "order": 12,
+      "cast_id": 39,
+      "popularity": 1.3814,
+      "profile_path": "/rTxHayWsDJQbVqR1sKjDghXZNUl.jpg"
+    },
+    {
+      "personId": 164015,
+      "name": "Anne Lange",
+      "character": "Business Colleague",
+      "order": 13,
+      "cast_id": 40,
+      "popularity": 1.0992,
+      "profile_path": "/pdJVs9cK1Eztw39cRY2JGsnINNl.jpg"
+    },
+    {
+      "personId": 9284,
+      "name": "Thomas Kopache",
+      "character": "Mr. Simpson",
+      "order": 14,
+      "cast_id": 41,
+      "popularity": 1.4831,
+      "profile_path": "/kQOH3XyoGJqtQlBDCYh5o0R70Aa.jpg"
+    },
+    {
+      "personId": 9198,
+      "name": "Vincent Ward",
+      "character": "Businessman 1",
+      "order": 15,
+      "cast_id": 42,
+      "popularity": 1.0945,
+      "profile_path": "/wB7WbhfrcJQl1nc0AbCjJ26d1eE.jpg"
+    },
+    {
+      "personId": 5148,
+      "name": "Lucinda Jenney",
+      "character": "Weird Woman",
+      "order": 16,
+      "cast_id": 43,
+      "popularity": 1.6681,
+      "profile_path": "/ahR0bNUJRi9Phpd7RZWx4ILiMEb.jpg"
+    },
+    {
+      "personId": 67711,
+      "name": "French Stewart",
+      "character": "Businessman 2",
+      "order": 17,
+      "cast_id": 44,
+      "popularity": 2.1441,
+      "profile_path": "/5c1YaxSkFmwsqEnL7ARyQw2FQ3D.jpg"
+    },
+    {
+      "personId": 21523,
+      "name": "Ed Lauter",
+      "character": "Mobster 3",
+      "order": 18,
+      "cast_id": 45,
+      "popularity": 1.294,
+      "profile_path": "/3oWs1Di6KipqQgIg97y4emyyRaE.jpg"
+    },
+    {
+      "personId": 27543,
+      "name": "Waldemar Kalinowski",
+      "character": "Mobster 2",
+      "order": 19,
+      "cast_id": 46,
+      "popularity": 0.7703,
+      "profile_path": "/3Skndnk9OrIBEx1P8OToYC28tJT.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 6111,
+      "name": "Mike Figgis",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.3537,
+      "profile_path": "/8qTZVgAlkb0N03CW66q1j2VTdQw.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 922,
+      "name": "hotel room"
+    },
+    {
+      "id": 3737,
+      "name": "dying and death"
+    },
+    {
+      "id": 30,
+      "name": "individual"
+    },
+    {
+      "id": 549,
+      "name": "prostitute"
+    },
+    {
+      "id": 725,
+      "name": "lovesickness"
+    },
+    {
+      "id": 3927,
+      "name": "rage and hate"
+    },
+    {
+      "id": 585,
+      "name": "casino"
+    },
+    {
+      "id": 6059,
+      "name": "unsociability"
+    },
+    {
+      "id": 567,
+      "name": "alcohol"
+    },
+    {
+      "id": 699,
+      "name": "love at first sight"
+    },
+    {
+      "id": 886,
+      "name": "movie business"
+    },
+    {
+      "id": 888,
+      "name": "screenwriter"
+    },
+    {
+      "id": 7464,
+      "name": "alcoholism"
+    },
+    {
+      "id": 12670,
+      "name": "los angeles, california"
+    },
+    {
+      "id": 14570,
+      "name": "las vegas"
+    },
+    {
+      "id": 15237,
+      "name": "alcohol abuse"
+    },
+    {
+      "id": 311315,
+      "name": "dramatic"
+    },
+    {
+      "id": 323809,
+      "name": "depressing"
+    },
+    {
+      "id": 325854,
+      "name": "tragic"
+    }
+  ]
+}

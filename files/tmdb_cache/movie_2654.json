@@ -1,0 +1,298 @@
+{
+  "overview": "An insurance investigator visits a small town while looking into the strange disappearance of a popular horror novelist. He soon finds that the impact of the author’s books is far more than inspirational.",
+  "release_date": "1995-02-03",
+  "runtime": 95,
+  "budget": 8000000,
+  "revenue": 8946600,
+  "tmdb_vote_average": 7.2,
+  "tmdb_vote_count": 1823,
+  "tmdb_popularity": 3.5062,
+  "original_language": "en",
+  "poster_path": "/msh4tEUzbnEqlHcFOUH4O0Zti8r.jpg",
+  "backdrop_path": "/uofxTi1d3IIAdRdyzKl5se5PGf1.jpg",
+  "tmdb_genres_raw": [
+    "Horror",
+    "Mystery"
+  ],
+  "production_companies": [
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4783,
+      "name": "Sam Neill",
+      "character": "John Trent",
+      "order": 0,
+      "cast_id": 9,
+      "popularity": 4.8638,
+      "profile_path": "/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
+    },
+    {
+      "personId": 27584,
+      "name": "Julie Carmen",
+      "character": "Linda Styles",
+      "order": 1,
+      "cast_id": 10,
+      "popularity": 0.8977,
+      "profile_path": "/o8PSFlMyIAj6edruQNyf3JvoVA.jpg"
+    },
+    {
+      "personId": 920,
+      "name": "Jürgen Prochnow",
+      "character": "Sutter Cane",
+      "order": 2,
+      "cast_id": 11,
+      "popularity": 1.6544,
+      "profile_path": "/45gcCuTcZdqpVISh5C8q1N9HyEz.jpg"
+    },
+    {
+      "personId": 2076,
+      "name": "David Warner",
+      "character": "Dr. Wrenn",
+      "order": 3,
+      "cast_id": 12,
+      "popularity": 3.3459,
+      "profile_path": "/yIi18NhnwFTlbsWvRBdMT2Ido6Y.jpg"
+    },
+    {
+      "personId": 5589,
+      "name": "John Glover",
+      "character": "Saperstein",
+      "order": 4,
+      "cast_id": 19,
+      "popularity": 2.6699,
+      "profile_path": "/aPmq20MXqFALrUxaaJoC2Xonumo.jpg"
+    },
+    {
+      "personId": 10939,
+      "name": "Bernie Casey",
+      "character": "Robinson",
+      "order": 5,
+      "cast_id": 17,
+      "popularity": 1.224,
+      "profile_path": "/xxmL2k2lxWswkFOJJEdi2Tf51YK.jpg"
+    },
+    {
+      "personId": 6916,
+      "name": "Peter Jason",
+      "character": "Mr. Paul",
+      "order": 6,
+      "cast_id": 13,
+      "popularity": 2.0627,
+      "profile_path": "/xoqIuVvEH6BG6sOg4NnZzUKFnaf.jpg"
+    },
+    {
+      "personId": 10017,
+      "name": "Charlton Heston",
+      "character": "Jackson Harglow",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 3.0964,
+      "profile_path": "/mJabHWZrjlFiF8U8Bbr8lSFtLX6.jpg"
+    },
+    {
+      "personId": 11794,
+      "name": "Frances Bay",
+      "character": "Mrs. Pickman",
+      "order": 8,
+      "cast_id": 18,
+      "popularity": 1.2693,
+      "profile_path": "/1mtcINBBbvb7E4ySgOr86u34XLJ.jpg"
+    },
+    {
+      "personId": 27585,
+      "name": "Wilhelm von Homburg",
+      "character": "Simon",
+      "order": 9,
+      "cast_id": 15,
+      "popularity": 1.0236,
+      "profile_path": "/dfX2YeRSHQusMcddYn5Db7aEv09.jpg"
+    },
+    {
+      "personId": 1237062,
+      "name": "Kevin Rushton",
+      "character": "Guard #1",
+      "order": 10,
+      "cast_id": 48,
+      "popularity": 1.6652,
+      "profile_path": "/wrVmOb9ZF5BWSumGCvJQkoCPHI4.jpg"
+    },
+    {
+      "personId": 174954,
+      "name": "Gene Mack",
+      "character": "Guard #2",
+      "order": 11,
+      "cast_id": 49,
+      "popularity": 0.7615,
+      "profile_path": null
+    },
+    {
+      "personId": 27586,
+      "name": "Conrad Bergschneider",
+      "character": "Axe Maniac",
+      "order": 12,
+      "cast_id": 16,
+      "popularity": 0.7439,
+      "profile_path": "/xjeNjDCjKkvKmLXVeG2WIly2VQC.jpg"
+    },
+    {
+      "personId": 1203838,
+      "name": "Marvin Scott",
+      "character": "Reporter",
+      "order": 13,
+      "cast_id": 50,
+      "popularity": 1.0306,
+      "profile_path": null
+    },
+    {
+      "personId": 2353568,
+      "name": "Katherine Ashby",
+      "character": "Receptionist",
+      "order": 14,
+      "cast_id": 51,
+      "popularity": 0.2302,
+      "profile_path": null
+    },
+    {
+      "personId": 4483310,
+      "name": "Ben Gilbert",
+      "character": "Young Teen",
+      "order": 15,
+      "cast_id": 52,
+      "popularity": 0.5001,
+      "profile_path": null
+    },
+    {
+      "personId": 134069,
+      "name": "Dennis O'Connor",
+      "character": "Cop",
+      "order": 16,
+      "cast_id": 54,
+      "popularity": 0.4123,
+      "profile_path": null
+    },
+    {
+      "personId": 27560,
+      "name": "Paul Brogren",
+      "character": "Scrawny Teen",
+      "order": 17,
+      "cast_id": 55,
+      "popularity": 0.4283,
+      "profile_path": null
+    },
+    {
+      "personId": 1499990,
+      "name": "Sharon Dyer",
+      "character": "Homeless Lady",
+      "order": 18,
+      "cast_id": 56,
+      "popularity": 0.2327,
+      "profile_path": null
+    },
+    {
+      "personId": 3659703,
+      "name": "Sean Vertigo",
+      "character": "Bicycle Boy",
+      "order": 19,
+      "cast_id": 57,
+      "popularity": 0.0902,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 11770,
+      "name": "John Carpenter",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 3.1159,
+      "profile_path": "/3Qp0mg61u1qSZNJh30BFEUZrIMG.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1415,
+      "name": "small town"
+    },
+    {
+      "id": 6255,
+      "name": "insanity"
+    },
+    {
+      "id": 2340,
+      "name": "paranoia"
+    },
+    {
+      "id": 10738,
+      "name": "diner"
+    },
+    {
+      "id": 6018,
+      "name": "new hampshire"
+    },
+    {
+      "id": 10941,
+      "name": "disappearance"
+    },
+    {
+      "id": 10818,
+      "name": "author"
+    },
+    {
+      "id": 14765,
+      "name": "church"
+    },
+    {
+      "id": 33505,
+      "name": "gothic"
+    },
+    {
+      "id": 41380,
+      "name": "crucifix"
+    },
+    {
+      "id": 41393,
+      "name": "new england"
+    },
+    {
+      "id": 155435,
+      "name": "insurance investigator"
+    },
+    {
+      "id": 166701,
+      "name": "ghost town"
+    },
+    {
+      "id": 188994,
+      "name": "publisher"
+    },
+    {
+      "id": 235266,
+      "name": "horror novel"
+    },
+    {
+      "id": 287274,
+      "name": "lovecraftian"
+    },
+    {
+      "id": 325782,
+      "name": "cheerful"
+    }
+  ]
+}

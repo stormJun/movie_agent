@@ -1,0 +1,283 @@
+{
+  "overview": "Two South African boys, one white, Rhino, and one black, Zulu, go their separate ways after an incident. Many years later, they meet up again as adults, when one, after living for years in the United States, is now a wanted criminal. The two end up being a part of a madcap chase involving a check for a large amount of lottery money, pursued by Gen. Diehard and Rhino's ex-wife Rowena, who was the cause of the rift between the two protagonists.",
+  "release_date": "1993-12-03",
+  "runtime": 100,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.9,
+  "tmdb_vote_count": 38,
+  "tmdb_popularity": 5.3197,
+  "original_language": "en",
+  "poster_path": "/gOPkzkmi5XkGDUkurhpBK9gNHpI.jpg",
+  "backdrop_path": "/mY9bISF8RWaHNsnlC6ULLY5h1fw.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 38208,
+      "name": "Koukus Troika",
+      "origin_country": ""
+    },
+    {
+      "id": 38209,
+      "name": "Toron Screen Corporation",
+      "origin_country": "ZA"
+    },
+    {
+      "id": 85681,
+      "name": "Distant Horizon",
+      "origin_country": "ZA"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "af",
+      "name": "Afrikaans"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 80524,
+      "name": "Leon Schuster",
+      "character": "Rhino Labuschagne",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 1.9426,
+      "profile_path": "/a3tTR9ueo2XC4kjBpVMzV7Rm10y.jpg"
+    },
+    {
+      "personId": 77681,
+      "name": "John Matshikiza",
+      "character": "Zulu Mashabela",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 1.9988,
+      "profile_path": "/pFjzSxpoPvHg84jdjpIqTDRjUbd.jpg"
+    },
+    {
+      "personId": 147823,
+      "name": "Wilson Dunster",
+      "character": "Captain Diehard",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 2.5201,
+      "profile_path": "/ujF9SPT121YOXBu7YTmPPIJrKIe.jpg"
+    },
+    {
+      "personId": 103582,
+      "name": "Terri Treas",
+      "character": "Rowena Labuschagne",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 1.3423,
+      "profile_path": "/b4cZ7ET0ePXd5Y7EuIYC4VxZu7N.jpg"
+    },
+    {
+      "personId": 80530,
+      "name": "Michelle Bowes",
+      "character": "Tienkie Labuschagne",
+      "order": 4,
+      "cast_id": 4,
+      "popularity": 0.3041,
+      "profile_path": null
+    },
+    {
+      "personId": 80525,
+      "name": "Tolla Van Der Merwe",
+      "character": "Uncle Bok",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 0.9835,
+      "profile_path": "/44c3HawtIC2Rxknth6VcNWdM9EW.jpg"
+    },
+    {
+      "personId": 1267471,
+      "name": "Peter Hugo",
+      "character": "Prince Charles",
+      "order": 6,
+      "cast_id": 13,
+      "popularity": 0.4834,
+      "profile_path": null
+    },
+    {
+      "personId": 1320521,
+      "name": "Skye Svorinic",
+      "character": "Prince William",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 0.2117,
+      "profile_path": null
+    },
+    {
+      "personId": 1320522,
+      "name": "Ruan Mandelstam",
+      "character": "Young Rhino",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 0.352,
+      "profile_path": null
+    },
+    {
+      "personId": 1320523,
+      "name": "Bobo Seritsani",
+      "character": "Young Zulu",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 0.102,
+      "profile_path": null
+    },
+    {
+      "personId": 1320524,
+      "name": "Marie Van Deventer",
+      "character": "Young Rowena",
+      "order": 10,
+      "cast_id": 17,
+      "popularity": 0.2538,
+      "profile_path": null
+    },
+    {
+      "personId": 961915,
+      "name": "Lillian Dube",
+      "character": "Rosie",
+      "order": 11,
+      "cast_id": 26,
+      "popularity": 2.0773,
+      "profile_path": "/wUrelJRrRmYjOVdVwTY8teJAu3L.jpg"
+    },
+    {
+      "personId": 120084,
+      "name": "Tony Caprari",
+      "character": "Poacher",
+      "order": 12,
+      "cast_id": 27,
+      "popularity": 0.4865,
+      "profile_path": "/xw4AtIl36pz7ds6AMXrLFfEVLV5.jpg"
+    },
+    {
+      "personId": 107461,
+      "name": "Ted Le Plat",
+      "character": "Scratch and win presenter",
+      "order": 13,
+      "cast_id": 28,
+      "popularity": 2.0761,
+      "profile_path": "/3wudQt7zCL2qrIr76rvRKXDR6JJ.jpg"
+    },
+    {
+      "personId": 1076773,
+      "name": "Pierre Knoesen",
+      "character": "Court messenger",
+      "order": 14,
+      "cast_id": 29,
+      "popularity": 0.4041,
+      "profile_path": null
+    },
+    {
+      "personId": 1012401,
+      "name": "Lionel Newton",
+      "character": "Morning sun journalist",
+      "order": 15,
+      "cast_id": 30,
+      "popularity": 2.9077,
+      "profile_path": "/sPzNsnSAwON0oGTz9dnZqVit1nC.jpg"
+    },
+    {
+      "personId": 3076075,
+      "name": "Michael De Pinna",
+      "character": "Luigi",
+      "order": 16,
+      "cast_id": 31,
+      "popularity": 0.2318,
+      "profile_path": null
+    },
+    {
+      "personId": 83460,
+      "name": "Craig Gardner",
+      "character": "TV reporter",
+      "order": 17,
+      "cast_id": 32,
+      "popularity": 0.3258,
+      "profile_path": null
+    },
+    {
+      "personId": 105364,
+      "name": "Russel Savadier",
+      "character": "Antonio",
+      "order": 18,
+      "cast_id": 33,
+      "popularity": 0.8125,
+      "profile_path": "/a087zDXsVyt0uNt7udor2DnLIJ0.jpg"
+    },
+    {
+      "personId": 1151323,
+      "name": "Sue Pam Grant",
+      "character": "Brigitte",
+      "order": 19,
+      "cast_id": 34,
+      "popularity": 0.1792,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 80526,
+      "name": "Gray Hofmeyr",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6801,
+      "profile_path": "/t6aXzLljsyWZ75ZQQNimAMkr5XO.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 9253,
+      "name": "slapstick comedy"
+    },
+    {
+      "id": 18118,
+      "name": "disguise"
+    },
+    {
+      "id": 157187,
+      "name": "old friends"
+    },
+    {
+      "id": 163223,
+      "name": "prize money"
+    },
+    {
+      "id": 163758,
+      "name": "ex-husband ex-wife relationship"
+    },
+    {
+      "id": 165583,
+      "name": "interracial friendship"
+    },
+    {
+      "id": 167541,
+      "name": "buddy comedy"
+    },
+    {
+      "id": 257872,
+      "name": "neo-nazis"
+    },
+    {
+      "id": 287523,
+      "name": "white privilege"
+    }
+  ]
+}

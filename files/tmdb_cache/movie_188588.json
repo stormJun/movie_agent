@@ -1,0 +1,296 @@
+{
+  "overview": "Helena Mora, the head of an eccentric theatrical family, has decided to sell her large estate in the Hamptons because of her recent money troubles. Before she completes the sale, she wants to have one last gathering of family and friends, with dramatic performances. Bringing everyone together, though, creates rivalries and tension, especially for Oona, a temperamental but successful movie actress who seeks the approval of her creative peers.",
+  "release_date": "1995-11-22",
+  "runtime": 108,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.5,
+  "tmdb_vote_count": 4,
+  "tmdb_popularity": 0.2657,
+  "original_language": "en",
+  "poster_path": "/g3m93gROYRRgu7lyQPzrka612uK.jpg",
+  "backdrop_path": "/nDxsn4GyXHh3r3bWkexGPpOoaJ2.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 40956,
+      "name": "Jagtoria Films",
+      "origin_country": ""
+    },
+    {
+      "id": 27584,
+      "name": "The Rainbow Film Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 64862,
+      "name": "Rainbow Releasing",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 990400,
+      "name": "Victoria Foyt",
+      "character": "Oona Hart",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 0.4016,
+      "profile_path": null
+    },
+    {
+      "personId": 22137,
+      "name": "Viveca Lindfors",
+      "character": "Helena Mora",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 1.4707,
+      "profile_path": "/5gs8qdR66iRG60hX3kmRTvP2AWF.jpg"
+    },
+    {
+      "personId": 69697,
+      "name": "Jon Robin Baitz",
+      "character": "Jake Axelrod",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 0.4032,
+      "profile_path": null
+    },
+    {
+      "personId": 175081,
+      "name": "Savannah Smith Boucher",
+      "character": "Suzanne",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 0.5297,
+      "profile_path": "/AbQ0l0t4ywDY3A7VXY3ZYBoVaey.jpg"
+    },
+    {
+      "personId": 24368,
+      "name": "Roscoe Lee Browne",
+      "character": "Freddy",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 1.0221,
+      "profile_path": "/zNOJbPMeQd5thNTA1dvb1ZT61mI.jpg"
+    },
+    {
+      "personId": 109470,
+      "name": "Andre Gregory",
+      "character": "Ivan Axelrod",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 0.4218,
+      "profile_path": "/jc9sMA0kkoDViSUSc8QEi9uvi4Y.jpg"
+    },
+    {
+      "personId": 59204,
+      "name": "Nick Gregory",
+      "character": "George",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 0.3871,
+      "profile_path": "/grDBOwlQvbmJRA6yIOwDLBiXJcv.jpg"
+    },
+    {
+      "personId": 6832,
+      "name": "Melissa Leo",
+      "character": "Trish Axelrod",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 2.4053,
+      "profile_path": "/tKNTvhmuO7FZMYYgRrZB6k8FT5K.jpg"
+    },
+    {
+      "personId": 7505,
+      "name": "Roddy McDowall",
+      "character": "Thomas",
+      "order": 8,
+      "cast_id": 10,
+      "popularity": 2.4145,
+      "profile_path": "/mGO0pDPi5p91k2Og09HTf270rxL.jpg"
+    },
+    {
+      "personId": 17495,
+      "name": "Martha Plimpton",
+      "character": "Chloe Garfield",
+      "order": 9,
+      "cast_id": 11,
+      "popularity": 2.8658,
+      "profile_path": "/bCfhOm4WRb2X5RQdfz5TpMvMZ1.jpg"
+    },
+    {
+      "personId": 12122,
+      "name": "Ron Rifkin",
+      "character": "Eli Garfield",
+      "order": 10,
+      "cast_id": 12,
+      "popularity": 1.9816,
+      "profile_path": "/fj2u4t6nG0HGYFtRVDUTNbUtEtl.jpg"
+    },
+    {
+      "personId": 5131,
+      "name": "Diane Salinger",
+      "character": "Marian Mora Garfield",
+      "order": 11,
+      "cast_id": 13,
+      "popularity": 0.8615,
+      "profile_path": "/7lJocSxXknwdcA76dlrHwtE1eQC.jpg"
+    },
+    {
+      "personId": 31649,
+      "name": "Brooke Smith",
+      "character": "Lois Garfield",
+      "order": 12,
+      "cast_id": 14,
+      "popularity": 2.7262,
+      "profile_path": "/zD6SyVPGnrtnHvC0QtucEDxDTk5.jpg"
+    },
+    {
+      "personId": 115178,
+      "name": "Kristoffer Tabori",
+      "character": "Nick Mora",
+      "order": 13,
+      "cast_id": 15,
+      "popularity": 1.1009,
+      "profile_path": "/AfjcxSyRzF4l2jP5YjGfTwaOdoE.jpg"
+    },
+    {
+      "personId": 11318,
+      "name": "Holland Taylor",
+      "character": "Davis Mora Axelrod",
+      "order": 14,
+      "cast_id": 16,
+      "popularity": 5.674,
+      "profile_path": "/jt9yFB3nLfZQ0c1DcnvvcfA11gB.jpg"
+    },
+    {
+      "personId": 117075,
+      "name": "Henry Jaglom",
+      "character": "Max Berger",
+      "order": 15,
+      "cast_id": 17,
+      "popularity": 0.4942,
+      "profile_path": "/nkIP33CmY2iggZUzFJFitqSNfRD.jpg"
+    },
+    {
+      "personId": 3146474,
+      "name": "Arnold Leo",
+      "character": "Doctor",
+      "order": 16,
+      "cast_id": 26,
+      "popularity": 0.0631,
+      "profile_path": null
+    },
+    {
+      "personId": 1258640,
+      "name": "Joseph Feury",
+      "character": "Producer",
+      "order": 17,
+      "cast_id": 27,
+      "popularity": 0.2507,
+      "profile_path": "/4uRSuK7x8gHVtfoInqNAfQikWTZ.jpg"
+    },
+    {
+      "personId": 1199077,
+      "name": "Barbara Flood",
+      "character": "Wealthy Lady",
+      "order": 18,
+      "cast_id": 28,
+      "popularity": 0.1562,
+      "profile_path": null
+    },
+    {
+      "personId": 135792,
+      "name": "Michael Emil",
+      "character": "House Guest",
+      "order": 19,
+      "cast_id": 29,
+      "popularity": 1.0574,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 117075,
+      "name": "Henry Jaglom",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4942,
+      "profile_path": "/nkIP33CmY2iggZUzFJFitqSNfRD.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 4326,
+      "name": "theater play"
+    },
+    {
+      "id": 4333,
+      "name": "theatre group"
+    },
+    {
+      "id": 6521,
+      "name": "theater director"
+    },
+    {
+      "id": 10965,
+      "name": "playwright"
+    },
+    {
+      "id": 184233,
+      "name": "theater troupe"
+    },
+    {
+      "id": 198147,
+      "name": "family home"
+    },
+    {
+      "id": 205734,
+      "name": "family dynamics"
+    },
+    {
+      "id": 214822,
+      "name": "hamptons"
+    },
+    {
+      "id": 224875,
+      "name": "method acting"
+    },
+    {
+      "id": 226023,
+      "name": "matriarch"
+    },
+    {
+      "id": 230202,
+      "name": "theater community"
+    },
+    {
+      "id": 240485,
+      "name": "brother sister relationship"
+    },
+    {
+      "id": 253997,
+      "name": "acting lesson"
+    },
+    {
+      "id": 257714,
+      "name": "actor"
+    }
+  ]
+}

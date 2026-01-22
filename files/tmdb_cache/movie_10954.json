@@ -1,0 +1,223 @@
+{
+  "overview": "The life and career of Italian opera singer Farinelli, considered one of the greatest castrato singers of all time.",
+  "release_date": "1994-12-01",
+  "runtime": 111,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.554,
+  "tmdb_vote_count": 184,
+  "tmdb_popularity": 2.8414,
+  "original_language": "fr",
+  "poster_path": "/i5h0ZjYobco5HRPaAU6QTlrMYw0.jpg",
+  "backdrop_path": "/mYWxd7i6qsFK6TyDjMquSGwjo69.jpg",
+  "tmdb_genres_raw": [
+    "History",
+    "Drama",
+    "Music"
+  ],
+  "production_companies": [
+    {
+      "id": 37581,
+      "name": "MG",
+      "origin_country": ""
+    },
+    {
+      "id": 2359,
+      "name": "Stéphan Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1429,
+      "name": "Italian International Film",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "it",
+      "name": "Italiano"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16240,
+      "name": "Stefano Dionisi",
+      "character": "Carlo Broschi (Farinelli)",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.9215,
+      "profile_path": "/ekgIO4EoXwy6FESDscT6f4eEcON.jpg"
+    },
+    {
+      "personId": 27392,
+      "name": "Enrico Lo Verso",
+      "character": "Riccardo Broschi",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.186,
+      "profile_path": "/riYINKQIv8mxYwtfj0L899K0iPu.jpg"
+    },
+    {
+      "personId": 39195,
+      "name": "Elsa Zylberstein",
+      "character": "Alexandra",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 0.8003,
+      "profile_path": "/bw1bIuyfyOyxRlx2qIKk4AwQLTU.jpg"
+    },
+    {
+      "personId": 1924,
+      "name": "Jeroen Krabbé",
+      "character": "George Frideric Handel",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.6467,
+      "profile_path": "/r26lZKUeLIaUt8DMotm4mdc4EaY.jpg"
+    },
+    {
+      "personId": 25838,
+      "name": "Caroline Cellier",
+      "character": "Margareth Hunter",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 0.6584,
+      "profile_path": "/guDoVpVHkhrVahMdgvEAWtsWBpe.jpg"
+    },
+    {
+      "personId": 15481,
+      "name": "Marianne Basler",
+      "character": "Countess Mauer",
+      "order": 5,
+      "cast_id": 32,
+      "popularity": 0.9881,
+      "profile_path": "/74bRbi3pfSAzkwpbWtS822LRoYU.jpg"
+    },
+    {
+      "personId": 72090,
+      "name": "Jacques Boudet",
+      "character": "Felipe V",
+      "order": 6,
+      "cast_id": 33,
+      "popularity": 0.3753,
+      "profile_path": "/7VCe37uzQDl4T6GmHL5eaTL4dxZ.jpg"
+    },
+    {
+      "personId": 3038113,
+      "name": "Graham Valentine",
+      "character": "Prince of Wales",
+      "order": 7,
+      "cast_id": 34,
+      "popularity": 0.3126,
+      "profile_path": null
+    },
+    {
+      "personId": 33815,
+      "name": "Pier Paolo Capponi",
+      "character": "Broschi",
+      "order": 8,
+      "cast_id": 35,
+      "popularity": 1.0231,
+      "profile_path": "/nRyfLo2RKJBysI5DTc8Pw5gBqYD.jpg"
+    },
+    {
+      "personId": 3270474,
+      "name": "Renaud du Peloux de Saint Romain",
+      "character": "Benedict Hunter",
+      "order": 9,
+      "cast_id": 36,
+      "popularity": 0.4111,
+      "profile_path": null
+    },
+    {
+      "personId": 6293,
+      "name": "Delphine Zentout",
+      "character": "Young admirer",
+      "order": 10,
+      "cast_id": 37,
+      "popularity": 0.7338,
+      "profile_path": "/kbHITjEbgrvu8K0O1fhPf5joTUI.jpg"
+    },
+    {
+      "personId": 27208,
+      "name": "Omero Antonutti",
+      "character": "Nicola Porpora",
+      "order": 11,
+      "cast_id": 38,
+      "popularity": 0.4121,
+      "profile_path": "/2MWM2DCyuQM1fLoplTCeN2KsJY7.jpg"
+    },
+    {
+      "personId": 3270477,
+      "name": "Richard Reeves",
+      "character": "",
+      "order": 12,
+      "cast_id": 39,
+      "popularity": 0.1553,
+      "profile_path": null
+    },
+    {
+      "personId": 2890594,
+      "name": "Jonathan Fox",
+      "character": "",
+      "order": 13,
+      "cast_id": 40,
+      "popularity": 0.0645,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 67794,
+      "name": "Gérard Corbiau",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.2356,
+      "profile_path": "/uf6zHbviep3XCs25s2O2MMaJyAE.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2199,
+      "name": "opera"
+    },
+    {
+      "id": 380,
+      "name": "sibling relationship"
+    },
+    {
+      "id": 4001,
+      "name": "eunuch"
+    },
+    {
+      "id": 5565,
+      "name": "biography"
+    },
+    {
+      "id": 6384,
+      "name": "dresden, germany"
+    },
+    {
+      "id": 164920,
+      "name": "opera singer"
+    }
+  ]
+}

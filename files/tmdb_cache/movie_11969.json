@@ -1,0 +1,296 @@
+{
+  "overview": "Legendary marshal Wyatt Earp, now a weary gunfighter, joins his brothers Morgan and Virgil to pursue their collective fortune in the thriving mining town of Tombstone. But Earp is forced to don a badge again and get help from his notorious pal Doc Holliday when a gang of renegade brigands and rustlers begins terrorizing the town.",
+  "release_date": "1993-12-25",
+  "runtime": 130,
+  "budget": 25000000,
+  "revenue": 73205065,
+  "tmdb_vote_average": 7.573,
+  "tmdb_vote_count": 2337,
+  "tmdb_popularity": 6.9077,
+  "original_language": "en",
+  "poster_path": "/wGFCvylul8iEQhJOKfwZGGvXMzA.jpg",
+  "backdrop_path": "/djPXXv9pPyTLGl9kMPCTyiBmIA5.jpg",
+  "tmdb_genres_raw": [
+    "Western",
+    "Action"
+  ],
+  "production_companies": [
+    {
+      "id": 1504,
+      "name": "Cinergi Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 915,
+      "name": "Hollywood Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 11462,
+      "name": "Alphaville Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "la",
+      "name": "Latin"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6856,
+      "name": "Kurt Russell",
+      "character": "Wyatt Earp",
+      "order": 0,
+      "cast_id": 11,
+      "popularity": 5.5634,
+      "profile_path": "/6g1d98oH4miG4k0ZiZWmF3Dt0bO.jpg"
+    },
+    {
+      "personId": 5576,
+      "name": "Val Kilmer",
+      "character": "Doc Holliday",
+      "order": 1,
+      "cast_id": 12,
+      "popularity": 3.8544,
+      "profile_path": "/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg"
+    },
+    {
+      "personId": 2712,
+      "name": "Michael Biehn",
+      "character": "Johnny Ringo",
+      "order": 2,
+      "cast_id": 18,
+      "popularity": 2.373,
+      "profile_path": "/9oFLsADWQm2TvU8XzLIzBbjdMkU.jpg"
+    },
+    {
+      "personId": 6280,
+      "name": "Powers Boothe",
+      "character": "Curly Bill",
+      "order": 3,
+      "cast_id": 17,
+      "popularity": 1.614,
+      "profile_path": "/xj3DBMqnEnyYfHEBcRHOxlpbQS4.jpg"
+    },
+    {
+      "personId": 31512,
+      "name": "Robert John Burke",
+      "character": "Frank McLaury",
+      "order": 4,
+      "cast_id": 88,
+      "popularity": 2.4179,
+      "profile_path": "/4uCjxK6QmPW98W56aCldwINSOcX.jpg"
+    },
+    {
+      "personId": 65002,
+      "name": "Dana Delany",
+      "character": "Josephine",
+      "order": 5,
+      "cast_id": 20,
+      "popularity": 5.0975,
+      "profile_path": "/sw49JGyGVjgtIaARlDb7c3qcAcf.jpg"
+    },
+    {
+      "personId": 16431,
+      "name": "Sam Elliott",
+      "character": "Virgil Earp",
+      "order": 6,
+      "cast_id": 13,
+      "popularity": 8.4112,
+      "profile_path": "/1K2IvGXFbKsgkExuUsRvy4F0c9e.jpg"
+    },
+    {
+      "personId": 32747,
+      "name": "Stephen Lang",
+      "character": "Ike Clanton",
+      "order": 7,
+      "cast_id": 16,
+      "popularity": 6.8351,
+      "profile_path": "/gnO5VfkDgA2fsHweD0622LUY3Hu.jpg"
+    },
+    {
+      "personId": 12646,
+      "name": "Terry O'Quinn",
+      "character": "Mayor Clum",
+      "order": 8,
+      "cast_id": 92,
+      "popularity": 3.0553,
+      "profile_path": "/kSweOGPprLe1vDvu38wJQaWIih7.jpg"
+    },
+    {
+      "personId": 36059,
+      "name": "Joanna Pacula",
+      "character": "Kate",
+      "order": 9,
+      "cast_id": 84,
+      "popularity": 2.3946,
+      "profile_path": "/oGzAZY8L1KjsFtFoLpsqUwvBA4k.jpg"
+    },
+    {
+      "personId": 2053,
+      "name": "Bill Paxton",
+      "character": "Morgan Earp",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 3.6042,
+      "profile_path": "/aLdNe6mt1cSi2zWlUYRregzfis5.jpg"
+    },
+    {
+      "personId": 19143,
+      "name": "Jason Priestley",
+      "character": "Billy Breckenridge",
+      "order": 11,
+      "cast_id": 82,
+      "popularity": 2.2688,
+      "profile_path": "/lQvkOOhf59FTD86G96fTRp17VJt.jpg"
+    },
+    {
+      "personId": 12132,
+      "name": "Michael Rooker",
+      "character": "Sherman McMasters",
+      "order": 12,
+      "cast_id": 23,
+      "popularity": 4.0339,
+      "profile_path": "/ngOuHNIAGrKyY1O7F0f9C5Q9ONg.jpg"
+    },
+    {
+      "personId": 4602,
+      "name": "Jon Tenney",
+      "character": "Behan",
+      "order": 13,
+      "cast_id": 83,
+      "popularity": 2.9918,
+      "profile_path": "/ktb1RA23pHJKMdcFenQ2cosnCkp.jpg"
+    },
+    {
+      "personId": 58866,
+      "name": "Dana Wheeler-Nicholson",
+      "character": "Mattie Earp",
+      "order": 14,
+      "cast_id": 22,
+      "popularity": 1.4281,
+      "profile_path": "/XQ3K2pidzBq1mZ729l0UTIYSC3.jpg"
+    },
+    {
+      "personId": 1954,
+      "name": "Billy Zane",
+      "character": "Mr. Fabian",
+      "order": 15,
+      "cast_id": 25,
+      "popularity": 5.3022,
+      "profile_path": "/7CBwxqE00aZAAEBaRkapylgdi15.jpg"
+    },
+    {
+      "personId": 71562,
+      "name": "Buck Taylor",
+      "character": "Turkey Creek Jack Johnson",
+      "order": 16,
+      "cast_id": 91,
+      "popularity": 3.0798,
+      "profile_path": "/l4fy1zNNRIG2i4pmNpCqatFuz7d.jpg"
+    },
+    {
+      "personId": 4316,
+      "name": "Harry Carey, Jr.",
+      "character": "Marshall Fred White",
+      "order": 17,
+      "cast_id": 85,
+      "popularity": 2.7569,
+      "profile_path": "/7O61xbnqAMDOKVCh9ZH8deW6M30.jpg"
+    },
+    {
+      "personId": 941,
+      "name": "Tomas Arana",
+      "character": "Frank Stillwell",
+      "order": 18,
+      "cast_id": 86,
+      "popularity": 1.9537,
+      "profile_path": "/qMuQWxUQ2sXDiN2d9EDVT5VXHo2.jpg"
+    },
+    {
+      "personId": 19159,
+      "name": "Thomas Haden Church",
+      "character": "Billy Clanton",
+      "order": 19,
+      "cast_id": 21,
+      "popularity": 3.2734,
+      "profile_path": "/74NK9HCYvNafMggSp1PAK5Nwkpe.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 16566,
+      "name": "George P. Cosmatos",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8161,
+      "profile_path": "/AuK1byF1bhPZE1sZcmf46oRjzij.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6145,
+      "name": "right and justice"
+    },
+    {
+      "id": 1582,
+      "name": "saloon"
+    },
+    {
+      "id": 1859,
+      "name": "arizona"
+    },
+    {
+      "id": 4948,
+      "name": "retirement"
+    },
+    {
+      "id": 6165,
+      "name": "historical figure"
+    },
+    {
+      "id": 5074,
+      "name": "wyatt earp"
+    },
+    {
+      "id": 9550,
+      "name": "doc holliday"
+    },
+    {
+      "id": 155841,
+      "name": "gambler"
+    },
+    {
+      "id": 159845,
+      "name": "tuberculosis"
+    },
+    {
+      "id": 163674,
+      "name": "gunfighter"
+    },
+    {
+      "id": 195218,
+      "name": "tombstone arizona"
+    },
+    {
+      "id": 207928,
+      "name": "19th century"
+    },
+    {
+      "id": 219366,
+      "name": "ok corral"
+    }
+  ]
+}

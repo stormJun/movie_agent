@@ -1,0 +1,86 @@
+{
+  "overview": "An American boy turns out to be the heir of a wealthy British earl. He is sent to live with the irritable and unsentimental aristocrat, his grandfather.",
+  "release_date": "1936-03-06",
+  "runtime": 102,
+  "budget": 590000,
+  "revenue": 1037000,
+  "tmdb_vote_average": 6.7,
+  "tmdb_vote_count": 58,
+  "tmdb_popularity": 1.2421,
+  "original_language": "en",
+  "poster_path": "/xW0wVXvcc9i1BE7xIsx0ZCGqryS.jpg",
+  "backdrop_path": "/pDSSSx5ipRMvFwVfhgGGUTxeOsi.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 1553,
+      "name": "Selznick International Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 392,
+      "name": "england"
+    },
+    {
+      "id": 1158,
+      "name": "grandparent grandchild relationship"
+    },
+    {
+      "id": 7950,
+      "name": "grocer"
+    },
+    {
+      "id": 10388,
+      "name": "lord"
+    },
+    {
+      "id": 41523,
+      "name": "brooklyn, new york city"
+    },
+    {
+      "id": 161506,
+      "name": "heir"
+    },
+    {
+      "id": 186894,
+      "name": "scam artist"
+    },
+    {
+      "id": 194231,
+      "name": "earl"
+    },
+    {
+      "id": 194260,
+      "name": "shoeshine boy"
+    },
+    {
+      "id": 207928,
+      "name": "19th century"
+    },
+    {
+      "id": 208570,
+      "name": "aristocracy"
+    }
+  ]
+}

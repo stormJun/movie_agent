@@ -1,0 +1,272 @@
+{
+  "overview": "At a sizable public college, high-minded student Eddy is forced to room with the slovenly Stuart, but the pair strike up a surprising friendship. When attractive co-ed Alex is assigned to live with the two male students because of her gender-neutral name, a roundabout love triangle ensues. Eddy secretly yearns for Stuart, who wants Alex, but she prefers Eddy. The complex situation leads to sexual experimentation and strained relationships.",
+  "release_date": "1994-04-08",
+  "runtime": 93,
+  "budget": 0,
+  "revenue": 14815317,
+  "tmdb_vote_average": 6.4,
+  "tmdb_vote_count": 237,
+  "tmdb_popularity": 1.3372,
+  "original_language": "en",
+  "poster_path": "/vR6qwjChOV4Z9940VA9chucNpne.jpg",
+  "backdrop_path": "/xs7v0o0p4VWQ7BMa1XWYZ3coAor.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 559,
+      "name": "TriStar Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 2090,
+      "name": "Motion Picture Corporation of America",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6684,
+      "name": "Lara Flynn Boyle",
+      "character": "Alex",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 2.8827,
+      "profile_path": "/1VL97IlddM29sypHuI36XY2h5Z2.jpg"
+    },
+    {
+      "personId": 9045,
+      "name": "Stephen Baldwin",
+      "character": "Stuart",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 3.2661,
+      "profile_path": "/w2nZjBsEsjboQDZJXEkysuGgue4.jpg"
+    },
+    {
+      "personId": 2694,
+      "name": "Josh Charles",
+      "character": "Eddy",
+      "order": 2,
+      "cast_id": 1,
+      "popularity": 4.9269,
+      "profile_path": "/xmFdIoFKVRNUmXaslBlErA3UHfF.jpg"
+    },
+    {
+      "personId": 19578,
+      "name": "Alexis Arquette",
+      "character": "Dick",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 0.9136,
+      "profile_path": "/jNRBwGKXOZFWLI2ceff1sMUdxcE.jpg"
+    },
+    {
+      "personId": 79007,
+      "name": "Martha Gehman",
+      "character": "Renay",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 0.7107,
+      "profile_path": "/lFRvtzSoCumBZEQel8F79zn7zDt.jpg"
+    },
+    {
+      "personId": 119893,
+      "name": "Mark Arnold",
+      "character": "Larry",
+      "order": 5,
+      "cast_id": 12,
+      "popularity": 2.2409,
+      "profile_path": "/dTfoxBUC6jpZry0ijlS8g4Y5cuS.jpg"
+    },
+    {
+      "personId": 106986,
+      "name": "Michele Matheson",
+      "character": "Kristen",
+      "order": 6,
+      "cast_id": 18,
+      "popularity": 0.7011,
+      "profile_path": null
+    },
+    {
+      "personId": 59846,
+      "name": "Joanne Baron",
+      "character": "Curt Woman",
+      "order": 7,
+      "cast_id": 19,
+      "popularity": 1.0505,
+      "profile_path": "/cd9dbkbTcDTtFWli2YrkYMgiwGU.jpg"
+    },
+    {
+      "personId": 3715925,
+      "name": "Jennifer Lawler",
+      "character": "Neighbor",
+      "order": 8,
+      "cast_id": 35,
+      "popularity": 0.2253,
+      "profile_path": null
+    },
+    {
+      "personId": 2502003,
+      "name": "Jack Breschard",
+      "character": "Priest",
+      "order": 9,
+      "cast_id": 21,
+      "popularity": 0.1759,
+      "profile_path": null
+    },
+    {
+      "personId": 3885355,
+      "name": "Jillian Johns",
+      "character": "Partygoer",
+      "order": 10,
+      "cast_id": 51,
+      "popularity": 0.3771,
+      "profile_path": null
+    },
+    {
+      "personId": 4102053,
+      "name": "Amy Ferioli",
+      "character": "Partygoer",
+      "order": 11,
+      "cast_id": 54,
+      "popularity": 0.0362,
+      "profile_path": null
+    },
+    {
+      "personId": 170626,
+      "name": "Jason Workman",
+      "character": "Medical Student",
+      "order": 12,
+      "cast_id": 36,
+      "popularity": 0.5291,
+      "profile_path": null
+    },
+    {
+      "personId": 156796,
+      "name": "Katherine Kousi",
+      "character": "Laundry Girl",
+      "order": 13,
+      "cast_id": 37,
+      "popularity": 0.43,
+      "profile_path": null
+    },
+    {
+      "personId": 3554826,
+      "name": "Kathleen Beaton",
+      "character": "Girl at Registration",
+      "order": 14,
+      "cast_id": 38,
+      "popularity": 0.6395,
+      "profile_path": null
+    },
+    {
+      "personId": 3715926,
+      "name": "Anna Marie O'Donnell",
+      "character": "Lady at Library",
+      "order": 15,
+      "cast_id": 39,
+      "popularity": 0.0168,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 41549,
+      "name": "Andrew Fleming",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1698,
+      "profile_path": "/fgqJC8aCiH00Y1g3cfzYpBUBCD3.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 128,
+      "name": "love triangle"
+    },
+    {
+      "id": 1253,
+      "name": "roommates"
+    },
+    {
+      "id": 3183,
+      "name": "bisexuality"
+    },
+    {
+      "id": 3230,
+      "name": "male friendship"
+    },
+    {
+      "id": 10623,
+      "name": "jock"
+    },
+    {
+      "id": 9986,
+      "name": "crush"
+    },
+    {
+      "id": 155870,
+      "name": "polyamory"
+    },
+    {
+      "id": 187368,
+      "name": "pillow fight"
+    },
+    {
+      "id": 187370,
+      "name": "catcher in the rye"
+    },
+    {
+      "id": 187376,
+      "name": "odd couple"
+    },
+    {
+      "id": 187387,
+      "name": "water balloon"
+    },
+    {
+      "id": 187401,
+      "name": "pregnancy scare"
+    },
+    {
+      "id": 187416,
+      "name": "water gun"
+    },
+    {
+      "id": 189464,
+      "name": "exploring sexuality"
+    },
+    {
+      "id": 221023,
+      "name": "college friends"
+    },
+    {
+      "id": 225685,
+      "name": "college roommate"
+    },
+    {
+      "id": 258533,
+      "name": "gay theme"
+    },
+    {
+      "id": 267340,
+      "name": "attempted seduction"
+    }
+  ]
+}

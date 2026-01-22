@@ -1,0 +1,244 @@
+{
+  "overview": "A middle-aged playboy becomes fascinated by the daughter of a private detective who has been hired to entrap him with a client's wife.",
+  "release_date": "1957-05-29",
+  "runtime": 130,
+  "budget": 2100000,
+  "revenue": 2000000,
+  "tmdb_vote_average": 7.0,
+  "tmdb_vote_count": 329,
+  "tmdb_popularity": 1.1052,
+  "original_language": "en",
+  "poster_path": "/jCHVviBhRQ7OkJFQfziO2N2ZJmh.jpg",
+  "backdrop_path": "/zqAg8ZvRAUdGzQqY5NZ10jcwBgm.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 146438,
+      "name": "Billy Wilder Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 4928,
+      "name": "Allied Artists Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4068,
+      "name": "Gary Cooper",
+      "character": "Frank Flannagan",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 2.1061,
+      "profile_path": "/9qVldt5g8g3lQBu81nd05Hg2MNP.jpg"
+    },
+    {
+      "personId": 1932,
+      "name": "Audrey Hepburn",
+      "character": "Ariane Chavasse / Thin Girl",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 4.0905,
+      "profile_path": "/hwPHPRz7YqmcRAlvhag5VPeoaoC.jpg"
+    },
+    {
+      "personId": 112972,
+      "name": "Maurice Chevalier",
+      "character": "Claude Chavasse",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 0.9644,
+      "profile_path": "/zABRw3iRFqqKV0xB3Z3VcsJDfad.jpg"
+    },
+    {
+      "personId": 1943,
+      "name": "John McGiver",
+      "character": "Monsieur X",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 0.8902,
+      "profile_path": "/ky81gCZvR78UetAil1tAcfv07LN.jpg"
+    },
+    {
+      "personId": 3833,
+      "name": "Van Doude",
+      "character": "Michel",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 0.5994,
+      "profile_path": "/ybVtft5dS41jZv9eYojQ1QLKmsL.jpg"
+    },
+    {
+      "personId": 278685,
+      "name": "Lise Bourdin",
+      "character": "Madame X",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 0.4078,
+      "profile_path": "/rGelJpAsL0pztia5ck7M668VZd5.jpg"
+    },
+    {
+      "personId": 27896,
+      "name": "Olga Valéry",
+      "character": "Hotel Guest with Dog",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 1.0875,
+      "profile_path": "/9ljuaN1pH4wcDLhpKVBYGLAKBwJ.jpg"
+    },
+    {
+      "personId": 41716,
+      "name": "Paul Bonifas",
+      "character": "Police Chief (uncredited)",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 0.5762,
+      "profile_path": "/5f64JtplnHJDWpSMEP1EjKjkbDc.jpg"
+    },
+    {
+      "personId": 111431,
+      "name": "Audrey Long",
+      "character": "Brunette (uncredited)",
+      "order": 8,
+      "cast_id": 24,
+      "popularity": 1.568,
+      "profile_path": "/efBtuEoZZX1ATzsCNgDp3qbFfpn.jpg"
+    },
+    {
+      "personId": 131882,
+      "name": "Charles Lemontier",
+      "character": "General (uncredited)",
+      "order": 9,
+      "cast_id": 25,
+      "popularity": 0.4407,
+      "profile_path": "/qGlhGVxX8N8UdYXNT8iupYyn7xc.jpg"
+    },
+    {
+      "personId": 3264158,
+      "name": "Eve Marley",
+      "character": "Tandemist (uncredited)",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 0.0872,
+      "profile_path": null
+    },
+    {
+      "personId": 38912,
+      "name": "Moustache",
+      "character": "Butcher (uncredited)",
+      "order": 11,
+      "cast_id": 13,
+      "popularity": 1.5948,
+      "profile_path": "/jtkGvrzsglnkOngEOYsK3BmEuyF.jpg"
+    },
+    {
+      "personId": 37137,
+      "name": "Jean Ozenne",
+      "character": "Ritz Receptionist (uncredited)",
+      "order": 12,
+      "cast_id": 10,
+      "popularity": 0.4993,
+      "profile_path": "/oPSIWsv576Iv65ValPDVjFldAfx.jpg"
+    },
+    {
+      "personId": 278333,
+      "name": "Marcelle Praince",
+      "character": "Rich Woman (uncredited)",
+      "order": 13,
+      "cast_id": 33,
+      "popularity": 0.5228,
+      "profile_path": "/7uH7kRc93h6awmw5kF28vIXi5Jl.jpg"
+    },
+    {
+      "personId": 5767,
+      "name": "Betty Schneider",
+      "character": "Couple Drenched by Water Wagon (uncredited)",
+      "order": 14,
+      "cast_id": 34,
+      "popularity": 0.2923,
+      "profile_path": "/qw4AzLOmiDgS60DnHyMJA1sCR41.jpg"
+    },
+    {
+      "personId": 4103,
+      "name": "Alexandre Trauner",
+      "character": "Artist (uncredited)",
+      "order": 15,
+      "cast_id": 35,
+      "popularity": 0.243,
+      "profile_path": "/A7dZ4YPZIfxOGiZFjpC3fGY8B0H.jpg"
+    },
+    {
+      "personId": 136119,
+      "name": "Audrey Young",
+      "character": "Frank's Opera Date (uncredited)",
+      "order": 16,
+      "cast_id": 36,
+      "popularity": 0.347,
+      "profile_path": "/opQ4LGrL9KtEW86nxUOINcg1f8V.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 3146,
+      "name": "Billy Wilder",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.3435,
+      "profile_path": "/nWV9BDDCbRegP7etiPjl3vYnJEq.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 612,
+      "name": "hotel"
+    },
+    {
+      "id": 90,
+      "name": "paris, france"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 9799,
+      "name": "romcom"
+    },
+    {
+      "id": 9639,
+      "name": "playboy"
+    },
+    {
+      "id": 9673,
+      "name": "love"
+    },
+    {
+      "id": 155790,
+      "name": "private detective"
+    },
+    {
+      "id": 255404,
+      "name": "ritz hotel"
+    }
+  ]
+}

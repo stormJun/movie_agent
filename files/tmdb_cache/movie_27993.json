@@ -1,0 +1,241 @@
+{
+  "overview": "While on detention, a group of misfits and slackers have to write a letter to the President explaining what is wrong with the education system. There is only one problem, the President loves it! Hence, the group must travel to Washington to meet the Main Man.",
+  "release_date": "1995-09-08",
+  "runtime": 91,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.43,
+  "tmdb_vote_count": 100,
+  "tmdb_popularity": 0.9265,
+  "original_language": "en",
+  "poster_path": "/3QpB4KpMKRnZnsJOsemOZHDoQKw.jpg",
+  "backdrop_path": "/4ZBhKQ4ar6sIOG2greomg2e3dv2.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 57100,
+      "name": "Alliance Production",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "de",
+      "name": "Deutsch"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 40009,
+      "name": "Matt Frewer",
+      "character": "Principal Todd Moss",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 5.6637,
+      "profile_path": "/ouicMpmW9O01nB1c7BzoOBHipKw.jpg"
+    },
+    {
+      "personId": 99351,
+      "name": "Valerie Mahaffey",
+      "character": "Miss Tracy Milford",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 2.0132,
+      "profile_path": "/d4Oc12PuuhTevEGjKEhs95XrVIl.jpg"
+    },
+    {
+      "personId": 36173,
+      "name": "Lawrence Dane",
+      "character": "Senator John Lerman",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 1.0222,
+      "profile_path": "/u67sYvj2kblUIbWxG88pGP7gdyY.jpg"
+    },
+    {
+      "personId": 63208,
+      "name": "Tommy Chong",
+      "character": "Red",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 1.6107,
+      "profile_path": "/4jCJpbssCSGc5jhmrBMoGvWNQDf.jpg"
+    },
+    {
+      "personId": 17604,
+      "name": "Jeremy Renner",
+      "character": "Dags",
+      "order": 4,
+      "cast_id": 18,
+      "popularity": 5.6625,
+      "profile_path": "/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"
+    },
+    {
+      "personId": 99352,
+      "name": "Rob Moore",
+      "character": "Reggie",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 1.5196,
+      "profile_path": "/46uiX78cWMbFUed5Y7sDKHl0c2e.jpg"
+    },
+    {
+      "personId": 115786,
+      "name": "Eric Edwards",
+      "character": "Miosky",
+      "order": 6,
+      "cast_id": 20,
+      "popularity": 1.3661,
+      "profile_path": "/19AfQogqljLovvBrm0rIyb6LXKL.jpg"
+    },
+    {
+      "personId": 58955,
+      "name": "Kevin McDonald",
+      "character": "Travis Lindsey",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 1.0332,
+      "profile_path": "/ymwrW99x9gyN0zeRkqavt3lZMa9.jpg"
+    },
+    {
+      "personId": 2630965,
+      "name": "Michael Blake",
+      "character": "Herbert Jones",
+      "order": 8,
+      "cast_id": 38,
+      "popularity": 0.4608,
+      "profile_path": "/2axSnlRDxf8aofybGvcq7aXGTGd.jpg"
+    },
+    {
+      "personId": 15762,
+      "name": "Tara Strong",
+      "character": "Carla Morgan",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 3.6943,
+      "profile_path": "/y9S3QzI3L5aARP8GYYO86rREKxU.jpg"
+    },
+    {
+      "personId": 5888,
+      "name": "Nicole De Boer",
+      "character": "Meg Smith",
+      "order": 10,
+      "cast_id": 13,
+      "popularity": 1.6437,
+      "profile_path": "/5Mj1cUdqN4jgxVLG6ZBQ0AtQub5.jpg"
+    },
+    {
+      "personId": 54193,
+      "name": "Sergio Di Zio",
+      "character": "Steve Nisser",
+      "order": 11,
+      "cast_id": 14,
+      "popularity": 1.1847,
+      "profile_path": "/e5sQM8rEXQW1UiVgzYM5C4GHScF.jpg"
+    },
+    {
+      "personId": 55153,
+      "name": "Fiona Loewi",
+      "character": "Lisa Perkins",
+      "order": 12,
+      "cast_id": 15,
+      "popularity": 0.6086,
+      "profile_path": "/g8TV2XEPf2GUwGRIrJcnYBEorws.jpg"
+    },
+    {
+      "personId": 94691,
+      "name": "Kathryn Rose",
+      "character": "Wanda Baker",
+      "order": 13,
+      "cast_id": 16,
+      "popularity": 0.0938,
+      "profile_path": null
+    },
+    {
+      "personId": 2203608,
+      "name": "Danny Smith",
+      "character": "Virus",
+      "order": 14,
+      "cast_id": 21,
+      "popularity": 0.5086,
+      "profile_path": null
+    },
+    {
+      "personId": 593154,
+      "name": "Lori Alter",
+      "character": "Shirley",
+      "order": 15,
+      "cast_id": 39,
+      "popularity": 0.5407,
+      "profile_path": null
+    },
+    {
+      "personId": 271798,
+      "name": "Jack Jessop",
+      "character": "Mr. Bloom",
+      "order": 16,
+      "cast_id": 40,
+      "popularity": 0.6295,
+      "profile_path": null
+    },
+    {
+      "personId": 198755,
+      "name": "Kay Tremblay",
+      "character": "Mrs. Winston",
+      "order": 17,
+      "cast_id": 41,
+      "popularity": 1.3576,
+      "profile_path": null
+    },
+    {
+      "personId": 1239427,
+      "name": "Jack Newman",
+      "character": "Larry Diplo",
+      "order": 18,
+      "cast_id": 42,
+      "popularity": 1.3892,
+      "profile_path": "/enDqA3PgVjrmsur006WoU2aSo03.jpg"
+    },
+    {
+      "personId": 185092,
+      "name": "Simon Sinn",
+      "character": "Mr. Woo",
+      "order": 19,
+      "cast_id": 43,
+      "popularity": 0.9966,
+      "profile_path": "/t2umcoYo4nyMWJCWPjDWCl0cppP.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 64030,
+      "name": "Kelly Makin",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.3715,
+      "profile_path": "/cQqQJtSi5FEOVH6zri1Sldw54qE.jpg"
+    }
+  ],
+  "keywords": []
+}

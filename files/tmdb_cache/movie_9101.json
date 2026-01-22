@@ -1,0 +1,293 @@
+{
+  "overview": "Maverick Navy Lieutenant Commander Tom Dodge will never be a textbook officer, but he's a brilliant seaman who's always wanted to command a nuclear submarine — he's been given one last chance to clean up his record. Unfortunately, Admiral Graham, his nemesis, would rather sink the fleet than give Dodge his own boat. So, Graham stacks the deck against him and assigns Dodge to the Stingray, a diesel-powered WW2 submarine that can barely keep afloat. To make matters worse, Dodge's crew is a collection of maladjusted, mistake-prone misfits. Then, he's tagged the \"enemy\" in a crucial war game, and ordered to take on the U.S. Navy's best.",
+  "release_date": "1996-03-01",
+  "runtime": 92,
+  "budget": 0,
+  "revenue": 37553585,
+  "tmdb_vote_average": 6.379,
+  "tmdb_vote_count": 501,
+  "tmdb_popularity": 2.7536,
+  "original_language": "en",
+  "poster_path": "/brleKcHsirTw7lFqcgUMOfgL2nl.jpg",
+  "backdrop_path": "/waytOOLxw9IDbo0hNKZLk1z4lzI.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 25,
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 7090,
+      "name": "Kelsey Grammer",
+      "character": "Lt. Commander Tom Dodge",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.1514,
+      "profile_path": "/5zik4VJim6YTSWDjC7tkp13wxUp.jpg"
+    },
+    {
+      "personId": 34485,
+      "name": "Lauren Holly",
+      "character": "Lt. Emily Lake",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 4.493,
+      "profile_path": "/bWQsB6ueNNkygxCiIxyKznQAiOK.jpg"
+    },
+    {
+      "personId": 60949,
+      "name": "Rob Schneider",
+      "character": "Lt. Marty Pascal",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.9571,
+      "profile_path": "/kVHNFDOGDrC3LjDyYf5RaCd6auK.jpg"
+    },
+    {
+      "personId": 5048,
+      "name": "Harry Dean Stanton",
+      "character": "Lt. Howard",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.6165,
+      "profile_path": "/avdEF6khhn45OL0riAspiX82StH.jpg"
+    },
+    {
+      "personId": 6905,
+      "name": "Bruce Dern",
+      "character": "Rear Admiral Yancy Graham",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 4.5235,
+      "profile_path": "/5RKGcElQiFZh4Mu9gInyUhr9Uu7.jpg"
+    },
+    {
+      "personId": 3905,
+      "name": "William H. Macy",
+      "character": "Captain Knox",
+      "order": 5,
+      "cast_id": 15,
+      "popularity": 5.7242,
+      "profile_path": "/hdVEGSrP8qWlJnt0v5vSVcGOjy7.jpg"
+    },
+    {
+      "personId": 9626,
+      "name": "Rip Torn",
+      "character": "Admiral Winslow",
+      "order": 6,
+      "cast_id": 16,
+      "popularity": 2.3072,
+      "profile_path": "/jP74MHyQl6R8mH7aZKHrrD2Qjj2.jpg"
+    },
+    {
+      "personId": 236327,
+      "name": "Ken Hudson Campbell",
+      "character": "Seaman Buckman",
+      "order": 7,
+      "cast_id": 17,
+      "popularity": 1.7789,
+      "profile_path": "/5KmuInp11wKczUQMHlNP26STfzT.jpg"
+    },
+    {
+      "personId": 18271,
+      "name": "Toby Huss",
+      "character": "Seaman Nitro",
+      "order": 8,
+      "cast_id": 18,
+      "popularity": 2.4705,
+      "profile_path": "/dUqygHlDDnOBZLnE51MPJHkHWvQ.jpg"
+    },
+    {
+      "personId": 84077,
+      "name": "Duane Martin",
+      "character": "Planesman 1st Class Jefferson 'R.J.' Jackson",
+      "order": 9,
+      "cast_id": 19,
+      "popularity": 1.3227,
+      "profile_path": "/ekxetmMR5neEQ1LwfXaQgpS7zfC.jpg"
+    },
+    {
+      "personId": 226651,
+      "name": "Jonathan Penner",
+      "character": "Seaman Stanley 'Spots' Sylvesterson",
+      "order": 10,
+      "cast_id": 25,
+      "popularity": 0.8975,
+      "profile_path": "/43roOvTBh0fAiw5EsMxpZJoBcbn.jpg"
+    },
+    {
+      "personId": 91448,
+      "name": "Bradford Tatum",
+      "character": "Engineman 1st Class Brad Stepanak",
+      "order": 11,
+      "cast_id": 21,
+      "popularity": 0.951,
+      "profile_path": "/c1FV8XnR0ud1Vs1ONWjMGz5M65S.jpg"
+    },
+    {
+      "personId": 16846,
+      "name": "Harland Williams",
+      "character": "Seaman 2nd Class E.T. 'Sonar' Lovacelli",
+      "order": 12,
+      "cast_id": 22,
+      "popularity": 1.5702,
+      "profile_path": "/mnor1Hoy3kvTBygccBIVuyWfvge.jpg"
+    },
+    {
+      "personId": 158134,
+      "name": "James Martin Jr.",
+      "character": "Orlando Radioman",
+      "order": 13,
+      "cast_id": 81,
+      "popularity": 0.8002,
+      "profile_path": null
+    },
+    {
+      "personId": 1236020,
+      "name": "Jordan Marder",
+      "character": "Orlando Ensign",
+      "order": 14,
+      "cast_id": 27,
+      "popularity": 0.7195,
+      "profile_path": "/mGWM1cEX7OUnDFmnEmcYgxiIC8h.jpg"
+    },
+    {
+      "personId": 156522,
+      "name": "Matt Landers",
+      "character": "Orlando XO",
+      "order": 15,
+      "cast_id": 29,
+      "popularity": 1.6583,
+      "profile_path": "/y9Eym5hhdGg8lGXYIIz5P2qIQO6.jpg"
+    },
+    {
+      "personId": 56440,
+      "name": "Joseph Latimore",
+      "character": "Orlando Sonarman",
+      "order": 16,
+      "cast_id": 30,
+      "popularity": 0.6254,
+      "profile_path": "/xhHgv4btqWwjDgqNIrHjiYJBhmq.jpg"
+    },
+    {
+      "personId": 10872,
+      "name": "Patton Oswalt",
+      "character": "Stingray Radioman",
+      "order": 17,
+      "cast_id": 31,
+      "popularity": 4.0121,
+      "profile_path": "/ljQvjbPmcIAl205Lb2Mu4CW8WO7.jpg"
+    },
+    {
+      "personId": 1854401,
+      "name": "Joe Soto",
+      "character": "Helmsman",
+      "order": 18,
+      "cast_id": 82,
+      "popularity": 0.6495,
+      "profile_path": null
+    },
+    {
+      "personId": 162927,
+      "name": "John Shepherd",
+      "character": "Young Sailor",
+      "order": 19,
+      "cast_id": 33,
+      "popularity": 0.9973,
+      "profile_path": "/uK73b3qFtqrGGuVLVSgFkgR98jc.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 12920,
+      "name": "David S. Ward",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8722,
+      "profile_path": "/ibOXcuqdbisrZ3Y4ICiSDMxzGWv.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1860,
+      "name": "mutiny"
+    },
+    {
+      "id": 339,
+      "name": "submarine"
+    },
+    {
+      "id": 4410,
+      "name": "u.s. navy"
+    },
+    {
+      "id": 9789,
+      "name": "misfit"
+    },
+    {
+      "id": 10871,
+      "name": "maverick"
+    },
+    {
+      "id": 12011,
+      "name": "hijinks"
+    },
+    {
+      "id": 12612,
+      "name": "nemesis"
+    },
+    {
+      "id": 160881,
+      "name": "navy lieutenant"
+    },
+    {
+      "id": 193933,
+      "name": "comradeship"
+    },
+    {
+      "id": 227612,
+      "name": "nuclear submarine"
+    },
+    {
+      "id": 246510,
+      "name": "navy officer"
+    },
+    {
+      "id": 286227,
+      "name": "comedy of errors"
+    },
+    {
+      "id": 307319,
+      "name": "navy admiral"
+    },
+    {
+      "id": 307320,
+      "name": "band of misfits"
+    },
+    {
+      "id": 307321,
+      "name": "war games"
+    },
+    {
+      "id": 307322,
+      "name": "naval command"
+    }
+  ]
+}

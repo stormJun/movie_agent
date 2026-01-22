@@ -1,0 +1,269 @@
+{
+  "overview": "Five Green Berets stationed in Vietnam in 1968 grudgingly undertake the mission of a lifetime -- to secretly transport an 8,000-pound elephant through 200 miles of rough jungle terrain. High jinks prevail when Capt. Sam Cahill promises the Montagnard villagers of Dak Nhe that he'll replace their prized elephant in time for an important ritual. But for Capt. T.C. Doyle, the mission becomes a jumbo-sized headache!",
+  "release_date": "1995-07-28",
+  "runtime": 107,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.198,
+  "tmdb_vote_count": 187,
+  "tmdb_popularity": 1.6585,
+  "original_language": "en",
+  "poster_path": "/qIJlpbMCKg9O1C7gaiyDFaUWf9b.jpg",
+  "backdrop_path": "/zPpB979cGcFKNIzW5ohiG6WEf7s.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 10201,
+      "name": "Interscope Communications",
+      "origin_country": "US"
+    },
+    {
+      "id": 2,
+      "name": "Walt Disney Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1382,
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    },
+    {
+      "code": "vi",
+      "name": "Tiếng Việt"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2047,
+      "name": "Danny Glover",
+      "character": "Capt. Sam Cahill",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 3.8596,
+      "profile_path": "/2PJbpI9AyuhG4SWUIDxZwuBnuMb.jpg"
+    },
+    {
+      "personId": 11477,
+      "name": "Ray Liotta",
+      "character": "Capt. T.C. Doyle",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 4.0613,
+      "profile_path": "/rhaCUi04uEXDFvuPM5Drj1AprE6.jpg"
+    },
+    {
+      "personId": 5724,
+      "name": "Denis Leary",
+      "character": "Lt. David Poole",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 2.6305,
+      "profile_path": "/tAOziVWQBnrW9eR442M6g9SQkmA.jpg"
+    },
+    {
+      "personId": 12975,
+      "name": "Doug E. Doug",
+      "character": "Sp4 Harvey (H.A.) Ashford",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 1.0458,
+      "profile_path": "/cDsdCJXNtBMeeyHfLgHqbATIPP3.jpg"
+    },
+    {
+      "personId": 21563,
+      "name": "Corin Nemec",
+      "character": "Sp5 Lawrence Farley",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 1.6014,
+      "profile_path": "/vndALqWdbdM4IMMU6CTmOCMjzEA.jpg"
+    },
+    {
+      "personId": 111182,
+      "name": "Dinh Thien Le",
+      "character": "Linh",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 1.6536,
+      "profile_path": null
+    },
+    {
+      "personId": 10698,
+      "name": "Tchéky Karyo",
+      "character": "Goddard",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 3.0146,
+      "profile_path": "/EcpFzLMmfz6fm4FrpamfFQ51pz.jpg"
+    },
+    {
+      "personId": 111183,
+      "name": "Hoang Ly",
+      "character": "Colonel Nguyen",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 0.3748,
+      "profile_path": null
+    },
+    {
+      "personId": 111184,
+      "name": "Vo Trung Anh",
+      "character": "Lt. Quang, NVA",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 0.1961,
+      "profile_path": null
+    },
+    {
+      "personId": 3041,
+      "name": "Marshall Bell",
+      "character": "Colonel Pederson",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 1.6218,
+      "profile_path": "/3AdZRUFlmV9KvArzqSVEVZVl0Sa.jpg"
+    },
+    {
+      "personId": 20904,
+      "name": "James Hong",
+      "character": "Y B'ham",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 3.7319,
+      "profile_path": "/v3lfw5aHOy0paOCx6WHiSnwzbH0.jpg"
+    },
+    {
+      "personId": 111185,
+      "name": "Long Nguyen",
+      "character": "Jhon",
+      "order": 11,
+      "cast_id": 15,
+      "popularity": 1.3406,
+      "profile_path": "/c47F79zg0QreGz2wZ4b78lIZC9M.jpg"
+    },
+    {
+      "personId": 72864,
+      "name": "Tim Kelleher",
+      "character": "C-123 Pilot",
+      "order": 12,
+      "cast_id": 16,
+      "popularity": 1.4878,
+      "profile_path": "/8W3KgoIPUMNjqb3CxC9B8QjBsjM.jpg"
+    },
+    {
+      "personId": 111186,
+      "name": "Scott N. Stevens",
+      "character": "C-123 Co-Pilot",
+      "order": 13,
+      "cast_id": 17,
+      "popularity": 0.9694,
+      "profile_path": "/qXID7SggOvyw1WuY1A1bfZUjQXw.jpg"
+    },
+    {
+      "personId": 111187,
+      "name": "Kevin LaRosa",
+      "character": "Irish, Huey Pilot #1",
+      "order": 14,
+      "cast_id": 18,
+      "popularity": 0.4576,
+      "profile_path": null
+    },
+    {
+      "personId": 111188,
+      "name": "Christopher Ward",
+      "character": "Cowboy, Huey Co-Pilot",
+      "order": 15,
+      "cast_id": 19,
+      "popularity": 0.2,
+      "profile_path": null
+    },
+    {
+      "personId": 111189,
+      "name": "Robert Kevin Miller",
+      "character": "Huey Gunner #1",
+      "order": 16,
+      "cast_id": 20,
+      "popularity": 0.0935,
+      "profile_path": null
+    },
+    {
+      "personId": 58650,
+      "name": "Raymond Cruz",
+      "character": "Staff Sergeant Adams",
+      "order": 17,
+      "cast_id": 22,
+      "popularity": 2.8926,
+      "profile_path": "/ndhc53yEQeeFn01QoOxtPa6GroU.jpg"
+    },
+    {
+      "personId": 1632302,
+      "name": "Tai the Elephant",
+      "character": "Bo Tat",
+      "order": 18,
+      "cast_id": 94,
+      "popularity": 1.191,
+      "profile_path": "/x7hEaoC3k8fMVPoNNlIURpWUTSF.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 18254,
+      "name": "Simon Wincer",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.8521,
+      "profile_path": "/ApOARHoSzaR0N9DEJrddns340oe.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 10084,
+      "name": "rescue"
+    },
+    {
+      "id": 2956,
+      "name": "vietnam"
+    },
+    {
+      "id": 2857,
+      "name": "elephant"
+    },
+    {
+      "id": 6078,
+      "name": "politics"
+    },
+    {
+      "id": 5331,
+      "name": "village"
+    },
+    {
+      "id": 9672,
+      "name": "based on true story"
+    },
+    {
+      "id": 206207,
+      "name": "animal welfare"
+    }
+  ]
+}

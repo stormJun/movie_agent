@@ -1,0 +1,280 @@
+{
+  "overview": "After young playwright, David Shayne obtains funding for his play from gangster Nick Valenti, Nick's girlfriend Olive miraculously lands the role of a psychiatrist—but not only is she a bimbo who could never pass for a psychiatrist—she's a dreadful actress. David puts up with the leading man who is a compulsive eater, the grand dame who wants her part jazzed up, and Olive's interfering hitman/bodyguard—but, eventually he must decide whether art or life is more important.",
+  "release_date": "1994-10-14",
+  "runtime": 98,
+  "budget": 20000000,
+  "revenue": 37483747,
+  "tmdb_vote_average": 7.077,
+  "tmdb_vote_count": 650,
+  "tmdb_popularity": 1.3515,
+  "original_language": "en",
+  "poster_path": "/mY9D1oCLeDKNMdUO8EV7MoCZ3up.jpg",
+  "backdrop_path": "/6zfPDvqeZUleXjNaU5iWQwHUtCN.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 14,
+      "name": "Miramax",
+      "origin_country": "US"
+    },
+    {
+      "id": 16280,
+      "name": "Jean Doumanian Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 21716,
+      "name": "Sweetland Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3036,
+      "name": "John Cusack",
+      "character": "David Shayne",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.7162,
+      "profile_path": "/aCwCx6JU7Jxbg6Q1ygcnLY750le.jpg"
+    },
+    {
+      "personId": 9046,
+      "name": "Chazz Palminteri",
+      "character": "Cheech",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 1.707,
+      "profile_path": "/mCbjKVyE5B2tleshbJw44tw3ktZ.jpg"
+    },
+    {
+      "personId": 1902,
+      "name": "Dianne Wiest",
+      "character": "Helen Sinclair",
+      "order": 2,
+      "cast_id": 2,
+      "popularity": 3.4685,
+      "profile_path": "/axqtFLgJNNz0N9i443USHCOvrmY.jpg"
+    },
+    {
+      "personId": 7906,
+      "name": "Jennifer Tilly",
+      "character": "Olive Neal",
+      "order": 3,
+      "cast_id": 3,
+      "popularity": 4.7122,
+      "profile_path": "/jrWj0LKOLGyn8BjxCPfwxX3BXC4.jpg"
+    },
+    {
+      "personId": 18248,
+      "name": "Mary-Louise Parker",
+      "character": "Ellen",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 4.8508,
+      "profile_path": "/1ohhrIZ4OMlLx9DvHjPhQJAIP0F.jpg"
+    },
+    {
+      "personId": 30364,
+      "name": "Tracey Ullman",
+      "character": "Eden Brent",
+      "order": 5,
+      "cast_id": 14,
+      "popularity": 5.8436,
+      "profile_path": "/cmug3uUXKBo9fhCcJk3pkgt1nvM.jpg"
+    },
+    {
+      "personId": 388,
+      "name": "Jim Broadbent",
+      "character": "Warner Purcell",
+      "order": 6,
+      "cast_id": 18,
+      "popularity": 4.5224,
+      "profile_path": "/jTyvGwwR1NFpvgDhcmuWZCM241w.jpg"
+    },
+    {
+      "personId": 60023,
+      "name": "Joe Viterelli",
+      "character": "Nick Valenti",
+      "order": 7,
+      "cast_id": 15,
+      "popularity": 1.171,
+      "profile_path": "/bWltEIjQhNxdjMEa4nglDLKCk8G.jpg"
+    },
+    {
+      "personId": 7420,
+      "name": "Harvey Fierstein",
+      "character": "Sid Loomis",
+      "order": 8,
+      "cast_id": 42,
+      "popularity": 1.4428,
+      "profile_path": "/4th4mr9iR23DdjFjVGhrtCnJRNq.jpg"
+    },
+    {
+      "personId": 3026,
+      "name": "Rob Reiner",
+      "character": "Sheldon Flender",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 7.1942,
+      "profile_path": "/rcmPU3YlhHQVzZlV197qhmRsgEL.jpg"
+    },
+    {
+      "personId": 5251,
+      "name": "Jack Warden",
+      "character": "Julian Marx",
+      "order": 10,
+      "cast_id": 17,
+      "popularity": 2.3486,
+      "profile_path": "/hSShXiYMfRpMByaB5euZ59qCKN.jpg"
+    },
+    {
+      "personId": 21385,
+      "name": "Tony Sirico",
+      "character": "Rocco",
+      "order": 11,
+      "cast_id": 27,
+      "popularity": 1.9703,
+      "profile_path": "/yiTvFhaPlVIWETNObwqB72hgNeI.jpg"
+    },
+    {
+      "personId": 5298,
+      "name": "Victor Colicchio",
+      "character": "Waterfront Hood",
+      "order": 12,
+      "cast_id": 28,
+      "popularity": 3.287,
+      "profile_path": "/9tb9liRCS3qdwDRHmI5lTENbRQe.jpg"
+    },
+    {
+      "personId": 9286,
+      "name": "Louis Eppolito",
+      "character": "Waterfront Hood",
+      "order": 13,
+      "cast_id": 29,
+      "popularity": 0.477,
+      "profile_path": "/x5nWpfKJidsXtBYn6lhawWvoW7I.jpg"
+    },
+    {
+      "personId": 21382,
+      "name": "Gene Canfield",
+      "character": "Waterfront Hood",
+      "order": 14,
+      "cast_id": 30,
+      "popularity": 0.8954,
+      "profile_path": "/luiINXn3z8m8ABxaqdTSJd8q4vm.jpg"
+    },
+    {
+      "personId": 2110895,
+      "name": "Peter Castellotti",
+      "character": "Waterfront Hood",
+      "order": 15,
+      "cast_id": 31,
+      "popularity": 0.2954,
+      "profile_path": "/hDP3dl7EBtxeE8laodNBNZwuCLh.jpg"
+    },
+    {
+      "personId": 985096,
+      "name": "Tony Conforti",
+      "character": "Waterfront Hood",
+      "order": 16,
+      "cast_id": 57,
+      "popularity": 0.2767,
+      "profile_path": null
+    },
+    {
+      "personId": 60121,
+      "name": "John Di Benedetto",
+      "character": "Waterfront Hood",
+      "order": 17,
+      "cast_id": 33,
+      "popularity": 1.5638,
+      "profile_path": "/u3sv8gzxGNgTaqUOxCezuIpjPFO.jpg"
+    },
+    {
+      "personId": 87707,
+      "name": "John Ventimiglia",
+      "character": "Waterfront Hood",
+      "order": 18,
+      "cast_id": 32,
+      "popularity": 2.1652,
+      "profile_path": "/1KSrI47Q3mdb3XXoEpiNaZoWsGp.jpg"
+    },
+    {
+      "personId": 55619,
+      "name": "Lisa Arturo",
+      "character": "Three Deuces Chorus Line",
+      "order": 19,
+      "cast_id": 34,
+      "popularity": 2.7614,
+      "profile_path": "/nsj7nkytxEGfIyVBdP864GAFcWX.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1243,
+      "name": "Woody Allen",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.7366,
+      "profile_path": "/wcPQgZLDibuej1RwNTy1R2U2ZJw.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 1808,
+      "name": "female lover"
+    },
+    {
+      "id": 2276,
+      "name": "talent"
+    },
+    {
+      "id": 6220,
+      "name": "mafia boss"
+    },
+    {
+      "id": 10818,
+      "name": "author"
+    },
+    {
+      "id": 10965,
+      "name": "playwright"
+    },
+    {
+      "id": 156028,
+      "name": "broadway"
+    },
+    {
+      "id": 164246,
+      "name": "nostalgic"
+    },
+    {
+      "id": 207876,
+      "name": "1920s"
+    },
+    {
+      "id": 254769,
+      "name": "compulsive eating"
+    }
+  ]
+}

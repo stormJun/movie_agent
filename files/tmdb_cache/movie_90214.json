@@ -1,0 +1,251 @@
+{
+  "overview": "Lewis, a young amateur theater director, is offered a job with a governmental program for the rehabilitation of mentally ill patients in a Sydney institution. His project is overrun by one of the patients, who wants to stage the opera Cosi Fan Tutte by Mozart, despite the fact that none of the patients can sing or speak Italian. A comedy of errors ensues, but one which unifies the patients and their director in unexpected ways.",
+  "release_date": "1996-03-04",
+  "runtime": 102,
+  "budget": 0,
+  "revenue": 35918,
+  "tmdb_vote_average": 6.1,
+  "tmdb_vote_count": 40,
+  "tmdb_popularity": 2.3225,
+  "original_language": "en",
+  "poster_path": "/g4b3tEgmPSq7mZ7db1r9i5jHEHV.jpg",
+  "backdrop_path": "/9fay2wNCKqEuewn9XFq45PavmI3.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 1380,
+      "name": "Australian Film Finance Corporation",
+      "origin_country": "AU"
+    },
+    {
+      "id": 31317,
+      "name": "Meridian Films",
+      "origin_country": ""
+    },
+    {
+      "id": 14,
+      "name": "Miramax",
+      "origin_country": "US"
+    },
+    {
+      "id": 27207,
+      "name": "Smiley Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 153898,
+      "name": "Smiley Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "AU",
+      "name": "Australia"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 77335,
+      "name": "Ben Mendelsohn",
+      "character": "Lewis",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.2287,
+      "profile_path": "/pA9mu9D2IolVA0v2Yo0tJm6uUyI.jpg"
+    },
+    {
+      "personId": 150536,
+      "name": "Barry Otto",
+      "character": "Roy",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.0166,
+      "profile_path": "/mj26EPgD1Yi5VA9N1T5Jpln57Ju.jpg"
+    },
+    {
+      "personId": 3051,
+      "name": "Toni Collette",
+      "character": "Julie",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 4.2481,
+      "profile_path": "/lzXRh16qe4HHeBN6tMyw0DHvaMn.jpg"
+    },
+    {
+      "personId": 3052,
+      "name": "Rachel Griffiths",
+      "character": "Lucy",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 3.2067,
+      "profile_path": "/n7rKwLjZmbkBKWBwhj9SYzsRaF6.jpg"
+    },
+    {
+      "personId": 144081,
+      "name": "Aden Young",
+      "character": "Nick",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.0614,
+      "profile_path": "/y7YoyvmNEJWZZP4UiDzPhz4zaPP.jpg"
+    },
+    {
+      "personId": 27753,
+      "name": "Colin Friels",
+      "character": "Errol",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 1.8458,
+      "profile_path": "/9ubzrtBT98thY80stfycCGRUEe3.jpg"
+    },
+    {
+      "personId": 67837,
+      "name": "Jacki Weaver",
+      "character": "Cherry",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 2.3551,
+      "profile_path": "/zalCqZnNQMKseFmwQwOlLrl3w2P.jpg"
+    },
+    {
+      "personId": 217137,
+      "name": "Pamela Rabe",
+      "character": "Ruth",
+      "order": 7,
+      "cast_id": 38,
+      "popularity": 1.0843,
+      "profile_path": "/cbu3MMqRU6O8fDTajoHiNSXCn6e.jpg"
+    },
+    {
+      "personId": 127348,
+      "name": "Paul Chubb",
+      "character": "Henry",
+      "order": 8,
+      "cast_id": 39,
+      "popularity": 0.5145,
+      "profile_path": "/nCg5n8aytXwnGhAScKIfYW8EyoM.jpg"
+    },
+    {
+      "personId": 60228,
+      "name": "Colin Hay",
+      "character": "Zac",
+      "order": 9,
+      "cast_id": 44,
+      "popularity": 0.8388,
+      "profile_path": "/wyuM1NweEF5AfsFTYdsj7w8R2sS.jpg"
+    },
+    {
+      "personId": 1371,
+      "name": "David Wenham",
+      "character": "Doug",
+      "order": 10,
+      "cast_id": 10,
+      "popularity": 2.5765,
+      "profile_path": "/F7CWSqUE75HtrcdqIQ7UMZ9aTX.jpg"
+    },
+    {
+      "personId": 79090,
+      "name": "Tony Llewellyn-Jones",
+      "character": "Kirner",
+      "order": 11,
+      "cast_id": 41,
+      "popularity": 0.3312,
+      "profile_path": "/hYXF3qQTpKA4j0GbNO9qGMN27We.jpg"
+    },
+    {
+      "personId": 10756,
+      "name": "Kerry Walker",
+      "character": "Sandra",
+      "order": 12,
+      "cast_id": 42,
+      "popularity": 0.5965,
+      "profile_path": "/nIvYnyp2Ti2dzqFEhCcrNN4K1uS.jpg"
+    },
+    {
+      "personId": 1219764,
+      "name": "Robin Ramsay",
+      "character": "Minister for Health",
+      "order": 13,
+      "cast_id": 67,
+      "popularity": 0.1724,
+      "profile_path": "/ykIxyXAjdTOZaEV53pWZ9bVSJtW.jpg"
+    },
+    {
+      "personId": 1287365,
+      "name": "Henry Maas",
+      "character": "Bernard Goldman",
+      "order": 14,
+      "cast_id": 68,
+      "popularity": 0.5835,
+      "profile_path": null
+    },
+    {
+      "personId": 5613,
+      "name": "Jack Walsh",
+      "character": "Air Wrestler",
+      "order": 15,
+      "cast_id": 69,
+      "popularity": 1.2537,
+      "profile_path": "/hrklvoHt8KuRRUzMxS9YjMSNTEW.jpg"
+    },
+    {
+      "personId": 75715,
+      "name": "Lawrence Woodward",
+      "character": "Electrician",
+      "order": 16,
+      "cast_id": 70,
+      "popularity": 1.8866,
+      "profile_path": null
+    },
+    {
+      "personId": 1640477,
+      "name": "Brian Ellison",
+      "character": "Rigger",
+      "order": 17,
+      "cast_id": 71,
+      "popularity": 0.3925,
+      "profile_path": null
+    },
+    {
+      "personId": 3067924,
+      "name": "Tamara Kuldin",
+      "character": "Seamstress",
+      "order": 18,
+      "cast_id": 72,
+      "popularity": 0.214,
+      "profile_path": null
+    },
+    {
+      "personId": 3937015,
+      "name": "Dennis Allard",
+      "character": "Carpenter",
+      "order": 19,
+      "cast_id": 73,
+      "popularity": 0.079,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 59438,
+      "name": "Mark Joffe",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.3521,
+      "profile_path": null
+    }
+  ],
+  "keywords": []
+}

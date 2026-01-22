@@ -1,0 +1,281 @@
+{
+  "overview": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
+  "release_date": "1995-05-24",
+  "runtime": 178,
+  "budget": 72000000,
+  "revenue": 213216216,
+  "tmdb_vote_average": 7.941,
+  "tmdb_vote_count": 10783,
+  "tmdb_popularity": 11.8276,
+  "original_language": "en",
+  "poster_path": "/or1gBugydmjToAEq7OZY0owwFk.jpg",
+  "backdrop_path": "/8lBcqakI3F19NWkXdqE0M8W76b9.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Drama",
+    "History",
+    "War"
+  ],
+  "production_companies": [
+    {
+      "id": 7965,
+      "name": "The Ladd Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 152,
+      "name": "Icon Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "la",
+      "name": "Latin"
+    },
+    {
+      "code": "gd",
+      "name": ""
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2461,
+      "name": "Mel Gibson",
+      "character": "William Wallace",
+      "order": 0,
+      "cast_id": 5,
+      "popularity": 9.7865,
+      "profile_path": "/4wEWS5NgioKBGTi5fdv2BP3b4ZY.jpg"
+    },
+    {
+      "personId": 2462,
+      "name": "Catherine McCormack",
+      "character": "Murron MacClannough",
+      "order": 1,
+      "cast_id": 6,
+      "popularity": 4.2805,
+      "profile_path": "/vYyMCGKeIUTZMdEgVwQCgX7q1T3.jpg"
+    },
+    {
+      "personId": 1957,
+      "name": "Sophie Marceau",
+      "character": "Princess Isabelle",
+      "order": 2,
+      "cast_id": 7,
+      "popularity": 4.5086,
+      "profile_path": "/fnETHvczvqpmG0TxrSxeUUKR8Z.jpg"
+    },
+    {
+      "personId": 2463,
+      "name": "Patrick McGoohan",
+      "character": "King Edward",
+      "order": 3,
+      "cast_id": 8,
+      "popularity": 1.931,
+      "profile_path": "/xtUMgFYGF7KmJg1KqiYQuwYTTe3.jpg"
+    },
+    {
+      "personId": 2464,
+      "name": "Angus Macfadyen",
+      "character": "Robert the Bruce",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 1.856,
+      "profile_path": "/yUuA7U3lw6yM0Eb6mD83qYeevH2.jpg"
+    },
+    {
+      "personId": 2039,
+      "name": "Brendan Gleeson",
+      "character": "Hamish Campbell",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 5.991,
+      "profile_path": "/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg"
+    },
+    {
+      "personId": 2465,
+      "name": "James Robinson",
+      "character": "Young William Wallace",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 1.2678,
+      "profile_path": "/zESqY8KKwkTsuEx75n7Jaumn8ho.jpg"
+    },
+    {
+      "personId": 2467,
+      "name": "James Cosmo",
+      "character": "Campbell",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 3.722,
+      "profile_path": "/4QZnZ3wyGALVuwZ70HdXZk4O14W.jpg"
+    },
+    {
+      "personId": 2468,
+      "name": "Sean McGinley",
+      "character": "MacClannough",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 1.8004,
+      "profile_path": "/6dNAreBr5Egv3vVLEtCqJuyjDG9.jpg"
+    },
+    {
+      "personId": 2469,
+      "name": "Gerda Stevenson",
+      "character": "Mother MacClannough",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 1.3633,
+      "profile_path": null
+    },
+    {
+      "personId": 2470,
+      "name": "Mhairi Calvey",
+      "character": "Young Murron MacClannough",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 0.623,
+      "profile_path": null
+    },
+    {
+      "personId": 2471,
+      "name": "Jeanne Marine",
+      "character": "Nicolette",
+      "order": 11,
+      "cast_id": 16,
+      "popularity": 0.8011,
+      "profile_path": "/bCf5M7QhDUVaqj9oULpYON583hM.jpg"
+    },
+    {
+      "personId": 2472,
+      "name": "Sean Lawlor",
+      "character": "Malcolm Wallace",
+      "order": 12,
+      "cast_id": 17,
+      "popularity": 1.1138,
+      "profile_path": "/y7sWGFyRYObwk6TjZ98YlSBjis7.jpg"
+    },
+    {
+      "personId": 2473,
+      "name": "Sandy Nelson",
+      "character": "John Wallace",
+      "order": 13,
+      "cast_id": 18,
+      "popularity": 0.3072,
+      "profile_path": null
+    },
+    {
+      "personId": 2474,
+      "name": "Alan Tall",
+      "character": "Elder Stewart",
+      "order": 14,
+      "cast_id": 19,
+      "popularity": 1.2914,
+      "profile_path": null
+    },
+    {
+      "personId": 2475,
+      "name": "Andrew Weir",
+      "character": "Young Hamish Campbell",
+      "order": 15,
+      "cast_id": 20,
+      "popularity": 0.0766,
+      "profile_path": null
+    },
+    {
+      "personId": 1248,
+      "name": "Brian Cox",
+      "character": "Argyle Wallace",
+      "order": 16,
+      "cast_id": 21,
+      "popularity": 6.4132,
+      "profile_path": "/scSjbFCTRngXlkJRoKptM5kQGw7.jpg"
+    },
+    {
+      "personId": 2476,
+      "name": "Peter Hanly",
+      "character": "Edward, Prince of Wales",
+      "order": 17,
+      "cast_id": 22,
+      "popularity": 0.2901,
+      "profile_path": null
+    },
+    {
+      "personId": 2477,
+      "name": "Stephen Billington",
+      "character": "Phillip",
+      "order": 18,
+      "cast_id": 23,
+      "popularity": 1.9026,
+      "profile_path": "/zDHE0QUqzMeMJEUVKhGD5NlS315.jpg"
+    },
+    {
+      "personId": 2478,
+      "name": "Tommy Flanagan",
+      "character": "Morrison",
+      "order": 19,
+      "cast_id": 24,
+      "popularity": 2.6804,
+      "profile_path": "/5OnvT1KpEk3juZavqOCSAEYOtwl.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2461,
+      "name": "Mel Gibson",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 9.7865,
+      "profile_path": "/4wEWS5NgioKBGTi5fdv2BP3b4ZY.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 392,
+      "name": "england"
+    },
+    {
+      "id": 388,
+      "name": "scotland"
+    },
+    {
+      "id": 697,
+      "name": "loss of loved one"
+    },
+    {
+      "id": 6987,
+      "name": "idealism"
+    },
+    {
+      "id": 9672,
+      "name": "based on true story"
+    },
+    {
+      "id": 18396,
+      "name": "catholic"
+    },
+    {
+      "id": 161257,
+      "name": "medieval"
+    },
+    {
+      "id": 273967,
+      "name": "war"
+    }
+  ]
+}

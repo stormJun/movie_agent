@@ -1,0 +1,292 @@
+{
+  "overview": "When Environmental Protection Agency inspector Steve Malone travels to a remote military base in order to check for toxic materials, he brings his family along for the ride. After arriving at the base, his teenage daughter Marti befriends Jean Platt, daughter of the base's commander, General Platt. When people at the base begin acting strangely, Marti becomes convinced that they are slowly being replaced by plant-like aliens.",
+  "release_date": "1993-06-09",
+  "runtime": 87,
+  "budget": 13000000,
+  "revenue": 428868,
+  "tmdb_vote_average": 6.137,
+  "tmdb_vote_count": 451,
+  "tmdb_popularity": 4.1913,
+  "original_language": "en",
+  "poster_path": "/s9zdfUeWjgK1ipTyaB6ikhtC9Wb.jpg",
+  "backdrop_path": "/2EO0OlRS9E1rSbjTogENd7OzrWx.jpg",
+  "tmdb_genres_raw": [
+    "Horror",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    {
+      "id": 10098,
+      "name": "Dorset Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 10099,
+      "name": "Robert H. Solo Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11067,
+      "name": "Terry Kinney",
+      "character": "Steve Malone",
+      "order": 0,
+      "cast_id": 14,
+      "popularity": 2.2902,
+      "profile_path": "/2Y6AeUUj1xUd5p7mRM9tFqUCN87.jpg"
+    },
+    {
+      "personId": 39117,
+      "name": "Meg Tilly",
+      "character": "Carol Malone",
+      "order": 1,
+      "cast_id": 21,
+      "popularity": 1.6547,
+      "profile_path": "/9XuXXuJliK8UDIXJBWzoBTnoX8b.jpg"
+    },
+    {
+      "personId": 5503,
+      "name": "Gabrielle Anwar",
+      "character": "Marti Malone",
+      "order": 2,
+      "cast_id": 13,
+      "popularity": 2.8203,
+      "profile_path": "/v0zVLAM7kv7ZP0j95HWfNPr1fvp.jpg"
+    },
+    {
+      "personId": 39115,
+      "name": "Reilly Murphy",
+      "character": "Andy Malone",
+      "order": 3,
+      "cast_id": 19,
+      "popularity": 0.5441,
+      "profile_path": "/i7Nc9rzBzIF9q7ny23kOia2lmmN.jpg"
+    },
+    {
+      "personId": 39112,
+      "name": "Billy Wirth",
+      "character": "Tim Young",
+      "order": 4,
+      "cast_id": 15,
+      "popularity": 1.2109,
+      "profile_path": "/4I451aSKzDLTv2y1kyTIxYlVp9o.jpg"
+    },
+    {
+      "personId": 39113,
+      "name": "Christine Elise",
+      "character": "Jenn Platt",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 2.118,
+      "profile_path": "/nrfYPmtvHHmDj8Orm41C6AsNlce.jpg"
+    },
+    {
+      "personId": 8655,
+      "name": "R. Lee Ermey",
+      "character": "General Platt",
+      "order": 6,
+      "cast_id": 26,
+      "popularity": 1.6841,
+      "profile_path": "/aXFJlEGHlQT7bwxkKwq6Sx7PeEp.jpg"
+    },
+    {
+      "personId": 39114,
+      "name": "Kathleen Doyle",
+      "character": "Mrs. Platt",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 0.7088,
+      "profile_path": "/s9Dlx6zScAx9vt9QC1oRGFMHwr1.jpg"
+    },
+    {
+      "personId": 2178,
+      "name": "Forest Whitaker",
+      "character": "Major Collins",
+      "order": 8,
+      "cast_id": 17,
+      "popularity": 4.4112,
+      "profile_path": "/4w7l5JUwnwFNBy7J93ZwYN1nihm.jpg"
+    },
+    {
+      "personId": 39116,
+      "name": "G. Elvis Phillips",
+      "character": "Pete",
+      "order": 9,
+      "cast_id": 20,
+      "popularity": 0.0621,
+      "profile_path": null
+    },
+    {
+      "personId": 2431013,
+      "name": "Stanley Small",
+      "character": "Platt's Aide",
+      "order": 10,
+      "cast_id": 27,
+      "popularity": 0.1301,
+      "profile_path": null
+    },
+    {
+      "personId": 18347,
+      "name": "Tonea Stewart",
+      "character": "Teacher",
+      "order": 11,
+      "cast_id": 28,
+      "popularity": 2.0469,
+      "profile_path": "/wWmYTgwq6Llqhy4IoLC6FCUFQlq.jpg"
+    },
+    {
+      "personId": 1238970,
+      "name": "Keith Smith",
+      "character": "Soldier Gas Station",
+      "order": 12,
+      "cast_id": 34,
+      "popularity": 0.391,
+      "profile_path": null
+    },
+    {
+      "personId": 3253471,
+      "name": "Winston E. Grant",
+      "character": "Gas Attendant",
+      "order": 13,
+      "cast_id": 35,
+      "popularity": 0.1415,
+      "profile_path": null
+    },
+    {
+      "personId": 1378239,
+      "name": "Phil Neilson",
+      "character": "MP Gate Captain",
+      "order": 14,
+      "cast_id": 36,
+      "popularity": 1.0945,
+      "profile_path": "/yxsaQoFnfwh4ZuyfTqgIEm1b41J.jpg"
+    },
+    {
+      "personId": 3253472,
+      "name": "Timothy P. Brown",
+      "character": "MP #1",
+      "order": 15,
+      "cast_id": 37,
+      "popularity": 0.0557,
+      "profile_path": "/pBb9cuBEd4YIIbFDfV6xkHFGi7d.jpg"
+    },
+    {
+      "personId": 3253473,
+      "name": "Thurman L. Combs",
+      "character": "MP #2",
+      "order": 16,
+      "cast_id": 38,
+      "popularity": 0.0946,
+      "profile_path": null
+    },
+    {
+      "personId": 3253474,
+      "name": "Sylvia Small",
+      "character": "Soldier #1",
+      "order": 17,
+      "cast_id": 39,
+      "popularity": 0.1442,
+      "profile_path": null
+    },
+    {
+      "personId": 3253475,
+      "name": "Adrian Unveragh",
+      "character": "Red",
+      "order": 18,
+      "cast_id": 40,
+      "popularity": 0.1183,
+      "profile_path": null
+    },
+    {
+      "personId": 3253476,
+      "name": "Johnny Lee Smith",
+      "character": "Neighbor",
+      "order": 19,
+      "cast_id": 41,
+      "popularity": 0.4216,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 39104,
+      "name": "Abel Ferrara",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.8055,
+      "profile_path": "/wdOxXWyxE3HjrtdeOJvc9xB5eUv.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1448,
+      "name": "distrust"
+    },
+    {
+      "id": 10685,
+      "name": "escape"
+    },
+    {
+      "id": 4409,
+      "name": "military base"
+    },
+    {
+      "id": 9951,
+      "name": "alien"
+    },
+    {
+      "id": 9714,
+      "name": "remake"
+    },
+    {
+      "id": 13065,
+      "name": "soldier"
+    },
+    {
+      "id": 14909,
+      "name": "alien invasion"
+    },
+    {
+      "id": 15250,
+      "name": "alien infection"
+    },
+    {
+      "id": 161290,
+      "name": "sleeping"
+    },
+    {
+      "id": 161891,
+      "name": "doppelgänger"
+    },
+    {
+      "id": 191331,
+      "name": "body snatchers"
+    },
+    {
+      "id": 200054,
+      "name": "emotionless"
+    },
+    {
+      "id": 218105,
+      "name": "body snatching"
+    }
+  ]
+}

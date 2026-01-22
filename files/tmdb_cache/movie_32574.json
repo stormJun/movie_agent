@@ -1,0 +1,256 @@
+{
+  "overview": "As a parting shot, fired reporter Ann Mitchell prints a fake letter from unemployed \"John Doe,\" who threatens suicide in protest of social ills. The paper is forced to rehire Ann and hires John Willoughby to impersonate \"Doe.\" Ann and her bosses cynically milk the story for all it's worth, until the made-up \"John Doe\" philosophy starts a whole political movement.",
+  "release_date": "1941-03-14",
+  "runtime": 123,
+  "budget": 0,
+  "revenue": 2000000,
+  "tmdb_vote_average": 7.3,
+  "tmdb_vote_count": 273,
+  "tmdb_popularity": 0.5953,
+  "original_language": "en",
+  "poster_path": "/dnBZbFE2OGlTGNGBVTn6t83tJtd.jpg",
+  "backdrop_path": "/fy2hkQgAWj1st3FWBzqc27JlytC.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 9330,
+      "name": "Frank Capra Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4068,
+      "name": "Gary Cooper",
+      "character": "Long John Willoughby",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 2.1061,
+      "profile_path": "/9qVldt5g8g3lQBu81nd05Hg2MNP.jpg"
+    },
+    {
+      "personId": 14974,
+      "name": "Barbara Stanwyck",
+      "character": "Ann Mitchell",
+      "order": 1,
+      "cast_id": 1,
+      "popularity": 1.6995,
+      "profile_path": "/xBfikc66lCnShogMZX1k9cV7H26.jpg"
+    },
+    {
+      "personId": 30211,
+      "name": "Edward Arnold",
+      "character": "D.B. Norton",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.2356,
+      "profile_path": "/iQfNbKGtR5SL5CCfFhsuqTbQw3D.jpg"
+    },
+    {
+      "personId": 4302,
+      "name": "Walter Brennan",
+      "character": "The Colonel",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.1941,
+      "profile_path": "/7hlZ3WbT4JQxeN3fLMongUXNHma.jpg"
+    },
+    {
+      "personId": 20369,
+      "name": "Spring Byington",
+      "character": "Mme Mitchell",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 0.9835,
+      "profile_path": "/uXyfIzuEwtMhcFufThCITAAxKRh.jpg"
+    },
+    {
+      "personId": 30537,
+      "name": "James Gleason",
+      "character": "Henry Connell",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 0.9004,
+      "profile_path": "/nIWAiRVuVbEfD8iSWymhOSJlWUm.jpg"
+    },
+    {
+      "personId": 30234,
+      "name": "Gene Lockhart",
+      "character": "Mayor Lovett",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 0.7091,
+      "profile_path": "/8lSQRefIA5kNylZOF7anexkDxqQ.jpg"
+    },
+    {
+      "personId": 108076,
+      "name": "Rod La Rocque",
+      "character": "Ted Sheldon",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 1.0636,
+      "profile_path": "/7cmambpDRIRDQmIXPbLszOypbYr.jpg"
+    },
+    {
+      "personId": 30530,
+      "name": "Irving Bacon",
+      "character": "Beany",
+      "order": 8,
+      "cast_id": 10,
+      "popularity": 1.7125,
+      "profile_path": "/oFczw1DlGJ2p1wr4osdC2flX9qN.jpg"
+    },
+    {
+      "personId": 22093,
+      "name": "Regis Toomey",
+      "character": "Bert Hansen",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 1.0971,
+      "profile_path": "/fBaA8glCL6YOMX8O58a3s3yJy4P.jpg"
+    },
+    {
+      "personId": 9091,
+      "name": "J. Farrell MacDonald",
+      "character": "'Sourpuss'",
+      "order": 10,
+      "cast_id": 29,
+      "popularity": 1.1629,
+      "profile_path": "/hSINvJ003UJAohrEgqBPkXzu1cM.jpg"
+    },
+    {
+      "personId": 74876,
+      "name": "Warren Hymer",
+      "character": "Angelface",
+      "order": 11,
+      "cast_id": 30,
+      "popularity": 0.6211,
+      "profile_path": "/xJcAX5hkXW7Bg3EikdY5De3lahy.jpg"
+    },
+    {
+      "personId": 124554,
+      "name": "Harry Holman",
+      "character": "Mayor Hawkins",
+      "order": 12,
+      "cast_id": 31,
+      "popularity": 0.3951,
+      "profile_path": "/5gx6vYZwASMVKpu7G2AoJy4FJ8U.jpg"
+    },
+    {
+      "personId": 34317,
+      "name": "Andrew Tombes",
+      "character": "Spencer",
+      "order": 13,
+      "cast_id": 32,
+      "popularity": 0.8232,
+      "profile_path": "/slaqJVFAPAsaxQvTfhEhaoZDVtu.jpg"
+    },
+    {
+      "personId": 30216,
+      "name": "Pierre Watkin",
+      "character": "Hammett",
+      "order": 14,
+      "cast_id": 33,
+      "popularity": 0.73,
+      "profile_path": "/w36vNJFvQDiDyuC9zvT8nNZajhA.jpg"
+    },
+    {
+      "personId": 34505,
+      "name": "Stanley Andrews",
+      "character": "Weston",
+      "order": 15,
+      "cast_id": 45,
+      "popularity": 0.9432,
+      "profile_path": "/zAW09eb1f0g4OPtNkJk83ej1os5.jpg"
+    },
+    {
+      "personId": 13558,
+      "name": "Mitchell Lewis",
+      "character": "Bennett",
+      "order": 16,
+      "cast_id": 11,
+      "popularity": 0.8702,
+      "profile_path": "/u8t8u4huDqvZKvcBwQKxOFIJiT5.jpg"
+    },
+    {
+      "personId": 30160,
+      "name": "Charles C. Wilson",
+      "character": "Charlie Dawson",
+      "order": 17,
+      "cast_id": 46,
+      "popularity": 0.6099,
+      "profile_path": "/A6G7aPerIp3FbvXo3X4g1KwZztA.jpg"
+    },
+    {
+      "personId": 247639,
+      "name": "Vaughan Glaser",
+      "character": "Governor",
+      "order": 18,
+      "cast_id": 34,
+      "popularity": 0.2527,
+      "profile_path": "/nfCrusddWugr161k5hS66xhj5GK.jpg"
+    },
+    {
+      "personId": 34759,
+      "name": "Sterling Holloway",
+      "character": "Dan",
+      "order": 19,
+      "cast_id": 12,
+      "popularity": 3.2984,
+      "profile_path": "/86gGSpQcfgQrumwwvOmO6DtTWkP.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2662,
+      "name": "Frank Capra",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8336,
+      "profile_path": "/1OTZ7CEdEawDgA4qiBidpWTKE2x.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 159201,
+      "name": "baseball player"
+    },
+    {
+      "id": 160025,
+      "name": "radio broadcast"
+    },
+    {
+      "id": 160035,
+      "name": "suicide note"
+    },
+    {
+      "id": 160037,
+      "name": "domain"
+    },
+    {
+      "id": 325807,
+      "name": "enchant"
+    }
+  ]
+}

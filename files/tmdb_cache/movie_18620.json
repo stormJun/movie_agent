@@ -1,0 +1,267 @@
+{
+  "overview": "Max is a trendy, pretty, young lesbian, who is having trouble finding love. A friend sets her up with Ely, whom Max likes, but Ely is frumpy, homely, and older. Nor do they have much in common. Can Max learn to look past the packaging?",
+  "release_date": "1994-06-10",
+  "runtime": 83,
+  "budget": 15000,
+  "revenue": 2405285,
+  "tmdb_vote_average": 4.961,
+  "tmdb_vote_count": 38,
+  "tmdb_popularity": 2.8787,
+  "original_language": "en",
+  "poster_path": "/4hczdEX2RmQTOmiIKygoOYCy0bI.jpg",
+  "backdrop_path": "/yu3boJ3VvHGStgCMBxYqzyOaBgA.jpg",
+  "tmdb_genres_raw": [
+    "Romance",
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 89521,
+      "name": "Can I Watch",
+      "origin_country": ""
+    },
+    {
+      "id": 89522,
+      "name": "Islet",
+      "origin_country": ""
+    },
+    {
+      "id": 89523,
+      "name": "KPVI",
+      "origin_country": ""
+    },
+    {
+      "id": 1422,
+      "name": "Killer Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 798,
+      "name": "The Samuel Goldwyn Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 32030,
+      "name": "Guinevere Turner",
+      "character": "Max",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 0.783,
+      "profile_path": "/1j0RtYIayM7LOsT8bispVHsKBia.jpg"
+    },
+    {
+      "personId": 1638928,
+      "name": "V.S. Brodie",
+      "character": "Ely",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 1.6608,
+      "profile_path": null
+    },
+    {
+      "personId": 1804391,
+      "name": "T. Wendy McMillan",
+      "character": "Kia",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 0.079,
+      "profile_path": null
+    },
+    {
+      "personId": 1804392,
+      "name": "Migdalia Melendez",
+      "character": "Evy",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 0.138,
+      "profile_path": null
+    },
+    {
+      "personId": 1804393,
+      "name": "Anastasia Sharp",
+      "character": "Daria",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 0.5667,
+      "profile_path": null
+    },
+    {
+      "personId": 2954493,
+      "name": "Brooke Webster",
+      "character": "Mel",
+      "order": 5,
+      "cast_id": 23,
+      "popularity": 0.1531,
+      "profile_path": null
+    },
+    {
+      "personId": 1217971,
+      "name": "Mimi Weddell",
+      "character": "Mimi",
+      "order": 6,
+      "cast_id": 24,
+      "popularity": 0.4598,
+      "profile_path": "/5iL5FhlHvdSYhB7UjFwI9Ri5UCa.jpg"
+    },
+    {
+      "personId": 2954499,
+      "name": "JoAnne C. Willis",
+      "character": "Sam",
+      "order": 7,
+      "cast_id": 27,
+      "popularity": 0.3538,
+      "profile_path": null
+    },
+    {
+      "personId": 2954500,
+      "name": "Shelly Schneider-Bello",
+      "character": "Bella",
+      "order": 8,
+      "cast_id": 28,
+      "popularity": 0.3417,
+      "profile_path": null
+    },
+    {
+      "personId": 2954501,
+      "name": "Stephanie Boles",
+      "character": "Alice",
+      "order": 9,
+      "cast_id": 29,
+      "popularity": 0.2103,
+      "profile_path": null
+    },
+    {
+      "personId": 2954504,
+      "name": "Julia LaFleur",
+      "character": "Andy",
+      "order": 10,
+      "cast_id": 30,
+      "popularity": 0.0716,
+      "profile_path": null
+    },
+    {
+      "personId": 2954505,
+      "name": "Dorothea Reichenbacher",
+      "character": "Della",
+      "order": 11,
+      "cast_id": 31,
+      "popularity": 0.121,
+      "profile_path": null
+    },
+    {
+      "personId": 4786599,
+      "name": "Mary Garvey",
+      "character": "Student #1 / Jury Member)",
+      "order": 12,
+      "cast_id": 65,
+      "popularity": 0.0286,
+      "profile_path": null
+    },
+    {
+      "personId": 4786600,
+      "name": "Jennifer Allen",
+      "character": "Student #2",
+      "order": 13,
+      "cast_id": 66,
+      "popularity": 0.1188,
+      "profile_path": null
+    },
+    {
+      "personId": 2490538,
+      "name": "Walter Youngblood",
+      "character": "Student #3",
+      "order": 14,
+      "cast_id": 67,
+      "popularity": 0.1757,
+      "profile_path": null
+    },
+    {
+      "personId": 4786601,
+      "name": "Danielia Falcon",
+      "character": "Student #4 / Jury Member",
+      "order": 15,
+      "cast_id": 68,
+      "popularity": 0.091,
+      "profile_path": null
+    },
+    {
+      "personId": 1804395,
+      "name": "Art Stone",
+      "character": "Student #5",
+      "order": 16,
+      "cast_id": 69,
+      "popularity": 0.0214,
+      "profile_path": null
+    },
+    {
+      "personId": 2954512,
+      "name": "Elspeth Kydd",
+      "character": "Angry Student",
+      "order": 17,
+      "cast_id": 70,
+      "popularity": 0.0368,
+      "profile_path": null
+    },
+    {
+      "personId": 2954524,
+      "name": "Tracy Kimme",
+      "character": "Student #6 / Jury Member",
+      "order": 18,
+      "cast_id": 71,
+      "popularity": 0.0795,
+      "profile_path": null
+    },
+    {
+      "personId": 4786602,
+      "name": "Scout",
+      "character": "Haircutter",
+      "order": 19,
+      "cast_id": 72,
+      "popularity": 0.0938,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 172993,
+      "name": "Rose Troche",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4256,
+      "profile_path": "/ckljyPJpUXlTUPqnGg1b7UeaVf1.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 9833,
+      "name": "lesbian relationship"
+    },
+    {
+      "id": 10180,
+      "name": "male homosexuality"
+    },
+    {
+      "id": 158718,
+      "name": "lgbt"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "overview": "Amy is only 13 years old when her mother is killed. She goes to Canada to live with her father, an eccentric inventor whom she barely knows. Amy is miserable in her new life... until she discovers a nest of goose eggs that were abandoned when a local forest was torn down. The eggs hatch and Amy becomes \"Mama Goose\". When winter comes, Amy and her dad must find a way to lead the birds South.",
+  "release_date": "1996-09-13",
+  "runtime": 107,
+  "budget": 22000000,
+  "revenue": 25143818,
+  "tmdb_vote_average": 6.9,
+  "tmdb_vote_count": 492,
+  "tmdb_popularity": 1.7669,
+  "original_language": "en",
+  "poster_path": "/obcQJkZB2OsRxd5GWIcQ5Qjv4YW.jpg",
+  "backdrop_path": "/gJeF1Pn9nsSsexqaQpS0G840nI2.jpg",
+  "tmdb_genres_raw": [
+    "Adventure",
+    "Drama",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 5842,
+      "name": "Sandollar Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8447,
+      "name": "Jeff Daniels",
+      "character": "Thomas Alden",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.7697,
+      "profile_path": "/r0mkZJZnTSJO3HJRsMW5HtszxE8.jpg"
+    },
+    {
+      "personId": 10690,
+      "name": "Anna Paquin",
+      "character": "Amy Alden",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.5007,
+      "profile_path": "/5FjBCsn3kujldP8LizoCrc3hsHp.jpg"
+    },
+    {
+      "personId": 65002,
+      "name": "Dana Delany",
+      "character": "Susan Barnes",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 5.0975,
+      "profile_path": "/sw49JGyGVjgtIaARlDb7c3qcAcf.jpg"
+    },
+    {
+      "personId": 11067,
+      "name": "Terry Kinney",
+      "character": "David Alden",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.2902,
+      "profile_path": "/2Y6AeUUj1xUd5p7mRM9tFqUCN87.jpg"
+    },
+    {
+      "personId": 92726,
+      "name": "Holter Graham",
+      "character": "Barry Stickland",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 0.8094,
+      "profile_path": "/qTAOpFzfTLzgXiPGbNYQ9AMb9yt.jpg"
+    },
+    {
+      "personId": 44205,
+      "name": "Jeremy Ratchford",
+      "character": "Glen Seifert",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 1.5815,
+      "profile_path": "/lpqoU3SIc2QB3JwfA2D8U85hHg5.jpg"
+    },
+    {
+      "personId": 3608582,
+      "name": "Deborah Verginella",
+      "character": "Amy's Mother",
+      "order": 6,
+      "cast_id": 18,
+      "popularity": 0.1136,
+      "profile_path": null
+    },
+    {
+      "personId": 86442,
+      "name": "Michael J. Reynolds",
+      "character": "General",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 0.8781,
+      "profile_path": "/4fjOXTU96Hlv2gHNqlXt19SJaPW.jpg"
+    },
+    {
+      "personId": 58805,
+      "name": "David Hemblen",
+      "character": "Dr. Killian",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 0.8171,
+      "profile_path": "/oXLMIZKt2zXmIR3dbPRarEY4yq7.jpg"
+    },
+    {
+      "personId": 1226313,
+      "name": "Ken James",
+      "character": "Developer",
+      "order": 9,
+      "cast_id": 20,
+      "popularity": 0.687,
+      "profile_path": "/neSztvMYp0yFKwbZ7j7FxATkskC.jpg"
+    },
+    {
+      "personId": 2311983,
+      "name": "Nora Ballard",
+      "character": "Jackie",
+      "order": 10,
+      "cast_id": 22,
+      "popularity": 0.224,
+      "profile_path": null
+    },
+    {
+      "personId": 3508060,
+      "name": "Sarena Paton",
+      "character": "Laura",
+      "order": 11,
+      "cast_id": 23,
+      "popularity": 0.1304,
+      "profile_path": null
+    },
+    {
+      "personId": 3608577,
+      "name": "Carmen Lishman",
+      "character": "Older Girl",
+      "order": 12,
+      "cast_id": 16,
+      "popularity": 0.0453,
+      "profile_path": null
+    },
+    {
+      "personId": 3608578,
+      "name": "Christi Hill",
+      "character": "Older Girl",
+      "order": 13,
+      "cast_id": 17,
+      "popularity": 0.137,
+      "profile_path": null
+    },
+    {
+      "personId": 1802590,
+      "name": "Judith Orban",
+      "character": "Teacher",
+      "order": 14,
+      "cast_id": 19,
+      "popularity": 0.1361,
+      "profile_path": null
+    },
+    {
+      "personId": 2304518,
+      "name": "Jeff Braunstein",
+      "character": "Chairman",
+      "order": 15,
+      "cast_id": 26,
+      "popularity": 0.3411,
+      "profile_path": null
+    },
+    {
+      "personId": 145527,
+      "name": "John Friesen",
+      "character": "Smalltown Businessman",
+      "order": 16,
+      "cast_id": 27,
+      "popularity": 0.1984,
+      "profile_path": "/3MdA9AmdyotX0MYjF7MSN0r8nqA.jpg"
+    },
+    {
+      "personId": 76105,
+      "name": "Chris Benson",
+      "character": "Farmer",
+      "order": 17,
+      "cast_id": 28,
+      "popularity": 1.8104,
+      "profile_path": null
+    },
+    {
+      "personId": 44100,
+      "name": "Kevin Jubinville",
+      "character": "Military Police",
+      "order": 18,
+      "cast_id": 29,
+      "popularity": 1.6161,
+      "profile_path": "/we1Km1tZaCTgiOlk2CNVQLjlU65.jpg"
+    },
+    {
+      "personId": 5946,
+      "name": "Philip Akin",
+      "character": "Air Force Reporter",
+      "order": 19,
+      "cast_id": 30,
+      "popularity": 1.2123,
+      "profile_path": "/6YLxKUiyCM4bckISIfCcHHSBEGc.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 68212,
+      "name": "Carroll Ballard",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.4667,
+      "profile_path": "/r9OuiXaiR9no1ZOEAtHQMRSVCWM.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 10084,
+      "name": "rescue"
+    },
+    {
+      "id": 5600,
+      "name": "daughter"
+    },
+    {
+      "id": 1329,
+      "name": "canada"
+    },
+    {
+      "id": 1436,
+      "name": "inventor"
+    },
+    {
+      "id": 697,
+      "name": "loss of loved one"
+    },
+    {
+      "id": 10614,
+      "name": "tragedy"
+    },
+    {
+      "id": 10168,
+      "name": "aviation"
+    },
+    {
+      "id": 15169,
+      "name": "goose"
+    },
+    {
+      "id": 15171,
+      "name": "earring"
+    },
+    {
+      "id": 15172,
+      "name": "shampoo"
+    },
+    {
+      "id": 15173,
+      "name": "hang glider"
+    },
+    {
+      "id": 15174,
+      "name": "ecology"
+    }
+  ]
+}

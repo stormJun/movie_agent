@@ -1,0 +1,177 @@
+{
+  "overview": "Three teenage brothers, gang-member Bobby, troubled mama's boy Alan and self-assured prankster Lex, reside in a downtrodden section of Glasgow, Scotland, circa 1968. But while Bobby and Alan are beginning to experience the power of raging hormones, the story focuses on Lex, who begins a downward spiral after he accidentally shoots the leader of Bobby's gang. Lex's cockiness and immaturity unfortunately prevent him from understanding the effect his subsequent crimes will have on both himself, and on those around him.",
+  "release_date": "1996-04-05",
+  "runtime": 108,
+  "budget": 1850000,
+  "revenue": 0,
+  "tmdb_vote_average": 6.286,
+  "tmdb_vote_count": 28,
+  "tmdb_popularity": 0.3259,
+  "original_language": "en",
+  "poster_path": "/pYFtU8vFj86TY435w99aK5fNjzl.jpg",
+  "backdrop_path": "/hRGwqDgtPi9dhjfyABUWKztXeQ3.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 30437,
+      "name": "Iain Robertson",
+      "character": "Lex Maclean",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.6836,
+      "profile_path": "/ztfSE2fHmfWhkaRI5EWP29bNXSJ.jpg"
+    },
+    {
+      "personId": 128648,
+      "name": "Joseph McFadden",
+      "character": "Alan Maclean",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.5563,
+      "profile_path": "/kAGwtRsJMwgOgSteKXXDTDL85sH.jpg"
+    },
+    {
+      "personId": 128649,
+      "name": "Steven Duffy",
+      "character": "Bobby Maclean",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 0.6412,
+      "profile_path": null
+    },
+    {
+      "personId": 42279,
+      "name": "Laura Fraser",
+      "character": "Joanne Macgowan",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.2622,
+      "profile_path": "/4aD3xDLA22CIf6jdK0IAs75h8pp.jpg"
+    },
+    {
+      "personId": 71771,
+      "name": "Garry Sweeney",
+      "character": "Charlie Sloan",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.2926,
+      "profile_path": "/hVSZ2p5ktpspBdXGjky0kfKLOUL.jpg"
+    },
+    {
+      "personId": 45588,
+      "name": "Clare Higgins",
+      "character": "Lorna Maclean",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 2.5154,
+      "profile_path": "/7Jb5cg5GdADejWR6kzm0IP9spUn.jpg"
+    },
+    {
+      "personId": 9013,
+      "name": "Kevin McKidd",
+      "character": "Malky Johnson",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 1.9821,
+      "profile_path": "/KtmEKOSehmQ35JfGjEjpqlypbP.jpg"
+    },
+    {
+      "personId": 128650,
+      "name": "Mark McConnochie",
+      "character": "Gorbals",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 0.3788,
+      "profile_path": null
+    },
+    {
+      "personId": 149359,
+      "name": "Colin McCredie",
+      "character": "",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 1.9588,
+      "profile_path": "/pIQWX0jseCHS97d6dk3JvcJ7hWu.jpg"
+    },
+    {
+      "personId": 49812,
+      "name": "Kirsty Mitchell",
+      "character": "",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 1.1302,
+      "profile_path": "/sZmpltTVexFkHlvFHgQkfWSafnZ.jpg"
+    },
+    {
+      "personId": 43138,
+      "name": "Ian McElhinney",
+      "character": "",
+      "order": 10,
+      "cast_id": 17,
+      "popularity": 1.5764,
+      "profile_path": "/xkKicrls0SEYP3kAaKhyWnd395S.jpg"
+    },
+    {
+      "personId": 1073161,
+      "name": "John Murtagh",
+      "character": "Teacher",
+      "order": 11,
+      "cast_id": 18,
+      "popularity": 0.9277,
+      "profile_path": "/rj9Stuc9CFvzOSJx3A2jNU83esH.jpg"
+    },
+    {
+      "personId": 2589587,
+      "name": "Iain Connell",
+      "character": "",
+      "order": 12,
+      "cast_id": 19,
+      "popularity": 0.8015,
+      "profile_path": "/h5ujd25I9zzpXjg7IkhKkUUwJ0R.jpg"
+    },
+    {
+      "personId": 1216528,
+      "name": "Debbie Welsh",
+      "character": "Rebecca",
+      "order": 13,
+      "cast_id": 33,
+      "popularity": 0.553,
+      "profile_path": "/rD6gUFEpswHenyQlqDkvFTRtgMo.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 33405,
+      "name": "Gillies MacKinnon",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6022,
+      "profile_path": "/wyUaIdlZCapSR7896uHkL3Lldmt.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2073,
+      "name": "illiteracy"
+    },
+    {
+      "id": 10726,
+      "name": "gang"
+    }
+  ]
+}

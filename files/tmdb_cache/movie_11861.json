@@ -1,0 +1,283 @@
+{
+  "overview": "Soon-to-be-wed graduate student Finn Dodd develops cold feet when she suspects her fiancé is cheating on her. In order to clear her head, Finn visits her grandmother, Hy, and great aunt, Glady Joe Cleary, in Grasse, Calif. There, Finn learns that Hy and Glady Joe are members of a group of passionate quilters, and over the course of her visit she is regaled with tales of love and life by women who have collected rich experiences and much wisdom.",
+  "release_date": "1995-10-06",
+  "runtime": 116,
+  "budget": 10000000,
+  "revenue": 41200020,
+  "tmdb_vote_average": 6.4,
+  "tmdb_vote_count": 189,
+  "tmdb_popularity": 1.4238,
+  "original_language": "en",
+  "poster_path": "/pI9UAemlWgdrnjRgYJsbTk8BSJc.jpg",
+  "backdrop_path": "/nOPCU3zmLTp1A6KpPtHTuAyzkf5.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 56,
+      "name": "Amblin Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1920,
+      "name": "Winona Ryder",
+      "character": "Finn Dodd",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 22.1809,
+      "profile_path": "/dlffgYbqr1BllWacVLhAFw23nLl.jpg"
+    },
+    {
+      "personId": 10774,
+      "name": "Anne Bancroft",
+      "character": "Glady Joe Cleary",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.6376,
+      "profile_path": "/ydabiabIsMBe2HsNmx43gBpqzxx.jpg"
+    },
+    {
+      "personId": 9560,
+      "name": "Ellen Burstyn",
+      "character": "Hy Dodd",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.8134,
+      "profile_path": "/uEHZoAtCnGCXvQDHe3s3DWW2G1c.jpg"
+    },
+    {
+      "personId": 18794,
+      "name": "Kate Nelligan",
+      "character": "Constance Saunders",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.1163,
+      "profile_path": "/a2BUOy9A9WlvTfe8s4gn0MZfPa5.jpg"
+    },
+    {
+      "personId": 14500,
+      "name": "Jean Simmons",
+      "character": "Em",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 2.405,
+      "profile_path": "/scbR91Bl4SbfQqhXaH6OfhjxfYt.jpg"
+    },
+    {
+      "personId": 54424,
+      "name": "Maya Angelou",
+      "character": "Anna",
+      "order": 5,
+      "cast_id": 12,
+      "popularity": 0.6796,
+      "profile_path": "/9dDY1bDRF7GnGlOEY5t9LrAdzw8.jpg"
+    },
+    {
+      "personId": 1981,
+      "name": "Alfre Woodard",
+      "character": "Marianna",
+      "order": 6,
+      "cast_id": 13,
+      "popularity": 1.8922,
+      "profile_path": "/erXesg092Pi7SHKEK2UHeimPPKf.jpg"
+    },
+    {
+      "personId": 20212,
+      "name": "Dermot Mulroney",
+      "character": "Sam",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 5.4409,
+      "profile_path": "/zemTC606JcuMgIGbJMYAocrS5Gm.jpg"
+    },
+    {
+      "personId": 2207,
+      "name": "Lois Smith",
+      "character": "Sophia",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 2.6734,
+      "profile_path": "/unvPSZshdNoj7c5wl6D30gPwKtS.jpg"
+    },
+    {
+      "personId": 689,
+      "name": "Kate Capshaw",
+      "character": "Sally",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 2.5997,
+      "profile_path": "/nx3JwH8kwG5RXD3uSBUdNVcejki.jpg"
+    },
+    {
+      "personId": 9626,
+      "name": "Rip Torn",
+      "character": "Arthur",
+      "order": 10,
+      "cast_id": 17,
+      "popularity": 2.3072,
+      "profile_path": "/jP74MHyQl6R8mH7aZKHrrD2Qjj2.jpg"
+    },
+    {
+      "personId": 51670,
+      "name": "Johnathon Schaech",
+      "character": "Leon",
+      "order": 11,
+      "cast_id": 18,
+      "popularity": 1.7388,
+      "profile_path": "/13hf3VhszBoykxF7lNER2ur4Z9B.jpg"
+    },
+    {
+      "personId": 20767,
+      "name": "Samantha Mathis",
+      "character": "Young Sophia",
+      "order": 12,
+      "cast_id": 19,
+      "popularity": 2.4015,
+      "profile_path": "/7J7gvH1uRqfPAPlg7b35rrxSbLB.jpg"
+    },
+    {
+      "personId": 59662,
+      "name": "Joanna Going",
+      "character": "Young Em",
+      "order": 13,
+      "cast_id": 20,
+      "popularity": 1.777,
+      "profile_path": "/cqYMJFlkkAc2n1FTGaOmom4IFFL.jpg"
+    },
+    {
+      "personId": 5700,
+      "name": "Esther Rolle",
+      "character": "Aunt Pauline",
+      "order": 14,
+      "cast_id": 21,
+      "popularity": 1.6102,
+      "profile_path": "/ulp6iIEtjAOvJ1f3pijRsNTsPE5.jpg"
+    },
+    {
+      "personId": 7499,
+      "name": "Jared Leto",
+      "character": "Beck",
+      "order": 15,
+      "cast_id": 22,
+      "popularity": 4.7018,
+      "profile_path": "/lZaE3x8yxofNZ96xpthxuVXQxTM.jpg"
+    },
+    {
+      "personId": 6194,
+      "name": "Claire Danes",
+      "character": "Young Glady Joe",
+      "order": 16,
+      "cast_id": 23,
+      "popularity": 10.5732,
+      "profile_path": "/6YvMc6RViFSornxmZjRgEKWQMzI.jpg"
+    },
+    {
+      "personId": 78788,
+      "name": "Alicia Goranson",
+      "character": "Young Hy",
+      "order": 17,
+      "cast_id": 24,
+      "popularity": 0.6533,
+      "profile_path": "/f1beYNBxFlinWqXcYF1kdgu4c43.jpg"
+    },
+    {
+      "personId": 11318,
+      "name": "Holland Taylor",
+      "character": "Mrs. Rubens",
+      "order": 18,
+      "cast_id": 25,
+      "popularity": 5.9315,
+      "profile_path": "/jt9yFB3nLfZQ0c1DcnvvcfA11gB.jpg"
+    },
+    {
+      "personId": 40275,
+      "name": "Tim Guinee",
+      "character": "Young Dean",
+      "order": 19,
+      "cast_id": 26,
+      "popularity": 3.5446,
+      "profile_path": "/bl2kh12pzVORh6oavx0zYeuefl1.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 3047,
+      "name": "Jocelyn Moorhouse",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.202,
+      "profile_path": "/wnpwdXnwolCP6de6hRKOcOTrFm.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1459,
+      "name": "marriage proposal"
+    },
+    {
+      "id": 1334,
+      "name": "wedding vows"
+    },
+    {
+      "id": 2587,
+      "name": "married couple"
+    },
+    {
+      "id": 6038,
+      "name": "marriage"
+    },
+    {
+      "id": 5773,
+      "name": "monogamy"
+    },
+    {
+      "id": 5999,
+      "name": "advice"
+    },
+    {
+      "id": 9470,
+      "name": "quilt"
+    },
+    {
+      "id": 9673,
+      "name": "love"
+    },
+    {
+      "id": 33694,
+      "name": "family holiday"
+    },
+    {
+      "id": 34094,
+      "name": "extramarital affair"
+    },
+    {
+      "id": 164039,
+      "name": "grandmother"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    }
+  ]
+}

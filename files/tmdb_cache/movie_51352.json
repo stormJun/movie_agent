@@ -1,0 +1,123 @@
+{
+  "overview": "Using previously unreleased archival material in addition to contemporary interviews, this Academy Award-winning documentary tells the story of the Frank family and presents the first fully-rounded portrait of their brash and free-spirited daughter Anne, perhaps the world's most famous victim of the Holocaust.",
+  "release_date": "1995-06-08",
+  "runtime": 117,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 7.7,
+  "tmdb_vote_count": 23,
+  "tmdb_popularity": 0.3056,
+  "original_language": "en",
+  "poster_path": "/6nyhzrSGimCbdxiY8DEO7kI7xx4.jpg",
+  "backdrop_path": "/yeE0TxjBrOM7j2mSYPSwizsM9bR.jpg",
+  "tmdb_genres_raw": [
+    "Documentary"
+  ],
+  "production_companies": [],
+  "production_countries": [
+    {
+      "code": "NL",
+      "name": "Netherlands"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11181,
+      "name": "Kenneth Branagh",
+      "character": "Narration (voice)",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 4.0633,
+      "profile_path": "/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg"
+    },
+    {
+      "personId": 515,
+      "name": "Glenn Close",
+      "character": "Diary Readings (voice)",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 4.5394,
+      "profile_path": "/4VHZ1GfLwN7MUgApy0LCBzdDF9L.jpg"
+    },
+    {
+      "personId": 26162,
+      "name": "Anne Frank",
+      "character": "Self (archival footage)",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 0.7174,
+      "profile_path": "/5ex70IPbbsMwSEqWmRPB7Zn9ZU5.jpg"
+    },
+    {
+      "personId": 1526760,
+      "name": "Otto Frank",
+      "character": "Self (archival footage)",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 0.0993,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 82293,
+      "name": "Jon Blair",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.3408,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1755,
+      "name": "fascism"
+    },
+    {
+      "id": 2450,
+      "name": "auschwitz-birkenau concentration camp"
+    },
+    {
+      "id": 4399,
+      "name": "victim"
+    },
+    {
+      "id": 4020,
+      "name": "typhus"
+    },
+    {
+      "id": 4434,
+      "name": "interview"
+    },
+    {
+      "id": 10360,
+      "name": "prejudice"
+    },
+    {
+      "id": 11728,
+      "name": "burglary"
+    },
+    {
+      "id": 15199,
+      "name": "rabbit"
+    }
+  ]
+}

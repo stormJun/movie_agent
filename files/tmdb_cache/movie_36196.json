@@ -1,0 +1,291 @@
+{
+  "overview": "Although Mary has little income, she still finds ways to spend her nights at clubs. After being arrested for throwing an illegal rave, she asks her aunt Judy for bail money. Judy then finds Mary a job at her library so that Mary can repay her. Initially, Mary finds the job as a clerk boring and stifling, and prefers to get to know a street food vendor whom she likes. However, Mary must refocus her life once she loses her job and apartment.",
+  "release_date": "1995-06-09",
+  "runtime": 94,
+  "budget": 150000,
+  "revenue": 472370,
+  "tmdb_vote_average": 6.385,
+  "tmdb_vote_count": 87,
+  "tmdb_popularity": 3.1043,
+  "original_language": "en",
+  "poster_path": "/cfGEUftQVjvJHTTc3OKbzfsBamT.jpg",
+  "backdrop_path": "/sMiMYF7sf8h6s8R0a3r1bO1Y3Wk.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 37890,
+      "name": "Party Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 7489,
+      "name": "Parker Posey",
+      "character": "Mary",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.2512,
+      "profile_path": "/yoFt75JfGUqQ6EV8qN6fckQuElk.jpg"
+    },
+    {
+      "personId": 8695,
+      "name": "Guillermo Díaz",
+      "character": "Leo",
+      "order": 1,
+      "cast_id": 10,
+      "popularity": 3.8126,
+      "profile_path": "/oso3tpCcf6wbjeHk2bpeKMV52zP.jpg"
+    },
+    {
+      "personId": 23626,
+      "name": "Liev Schreiber",
+      "character": "Nigel",
+      "order": 2,
+      "cast_id": 2,
+      "popularity": 3.8333,
+      "profile_path": "/26G7QjSb5ZazgWb9XB2X6SwcILQ.jpg"
+    },
+    {
+      "personId": 2833707,
+      "name": "Omar Townsend",
+      "character": "Mustafa",
+      "order": 3,
+      "cast_id": 29,
+      "popularity": 0.4321,
+      "profile_path": "/urauzZi4hwukvjaXeRta9nIaPEy.jpg"
+    },
+    {
+      "personId": 176628,
+      "name": "Anthony DeSando",
+      "character": "Derrick",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 1.7427,
+      "profile_path": "/2ahZUm3RDSRIlRJZUxh7MFTD6jV.jpg"
+    },
+    {
+      "personId": 1244266,
+      "name": "Sasha von Scherler",
+      "character": "Judy Lindendorf",
+      "order": 5,
+      "cast_id": 12,
+      "popularity": 0.5468,
+      "profile_path": "/pKwg35sairnIagWbO6HxjMBlI4X.jpg"
+    },
+    {
+      "personId": 56694,
+      "name": "Donna Mitchell",
+      "character": "Rene",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 2.8585,
+      "profile_path": "/xl8nnJBzNj0cqTAB3nk7GkKqmRV.jpg"
+    },
+    {
+      "personId": 18161,
+      "name": "Simon Verhoeven",
+      "character": "Kurt (Karl)",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 0.5663,
+      "profile_path": "/pcnQhdAgrjMAnbbk1fKLxO6hUl1.jpg"
+    },
+    {
+      "personId": 3242660,
+      "name": "Nicole Bobbitt",
+      "character": "Venus",
+      "order": 8,
+      "cast_id": 41,
+      "popularity": 0.151,
+      "profile_path": null
+    },
+    {
+      "personId": 2833709,
+      "name": "C. Francis Blackchild",
+      "character": "Wanda",
+      "order": 9,
+      "cast_id": 31,
+      "popularity": 0.1765,
+      "profile_path": null
+    },
+    {
+      "personId": 1880201,
+      "name": "L.B. Williams",
+      "character": "Howard",
+      "order": 10,
+      "cast_id": 33,
+      "popularity": 0.4067,
+      "profile_path": null
+    },
+    {
+      "personId": 1020601,
+      "name": "Lady Bunny",
+      "character": "The 'Lady' Bunny",
+      "order": 11,
+      "cast_id": 28,
+      "popularity": 0.4568,
+      "profile_path": "/7QgW2MRoEcMsgEmiXlidH2SRLTy.jpg"
+    },
+    {
+      "personId": 2044970,
+      "name": "Lum Chang Pang",
+      "character": "Policeman",
+      "order": 12,
+      "cast_id": 25,
+      "popularity": 0.6788,
+      "profile_path": null
+    },
+    {
+      "personId": 2833708,
+      "name": "Elizabeth Beer",
+      "character": "Hi-Tech Falafel Vendor",
+      "order": 13,
+      "cast_id": 30,
+      "popularity": 0.0409,
+      "profile_path": null
+    },
+    {
+      "personId": 31282,
+      "name": "Richard Topol",
+      "character": "Hannah Arendt Buff",
+      "order": 14,
+      "cast_id": 13,
+      "popularity": 0.9972,
+      "profile_path": "/hdEES13KzuFGNtXI8OfqlRlZU3j.jpg"
+    },
+    {
+      "personId": 87707,
+      "name": "John Ventimiglia",
+      "character": "Tough Guy",
+      "order": 15,
+      "cast_id": 32,
+      "popularity": 2.1652,
+      "profile_path": "/1KSrI47Q3mdb3XXoEpiNaZoWsGp.jpg"
+    },
+    {
+      "personId": 20283,
+      "name": "Dwight Ewell",
+      "character": "He-He-Hello Trio",
+      "order": 16,
+      "cast_id": 34,
+      "popularity": 0.8903,
+      "profile_path": "/cHbxYfDX7tfKmhWWJFkt5cFw4eZ.jpg"
+    },
+    {
+      "personId": 3242653,
+      "name": "Wendell Daughtery",
+      "character": "He-He-Hello Trio",
+      "order": 17,
+      "cast_id": 35,
+      "popularity": 0.3594,
+      "profile_path": null
+    },
+    {
+      "personId": 3242654,
+      "name": "Teresa Lebron",
+      "character": "He-He-Hello Trio",
+      "order": 18,
+      "cast_id": 36,
+      "popularity": 0.5132,
+      "profile_path": null
+    },
+    {
+      "personId": 3242656,
+      "name": "Timothy Duperron",
+      "character": "An It Twin",
+      "order": 19,
+      "cast_id": 37,
+      "popularity": 0.0873,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 56714,
+      "name": "Daisy von Scherler Mayer",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7192,
+      "profile_path": "/ebJciI29YXLqblVayOIHqOAh4pD.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 295,
+      "name": "library"
+    },
+    {
+      "id": 2334,
+      "name": "nightclub"
+    },
+    {
+      "id": 3221,
+      "name": "rave"
+    },
+    {
+      "id": 11678,
+      "name": "free spirit"
+    },
+    {
+      "id": 186117,
+      "name": "dj"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    },
+    {
+      "id": 207447,
+      "name": "librarian"
+    },
+    {
+      "id": 215481,
+      "name": "food vendor"
+    },
+    {
+      "id": 259376,
+      "name": "playful"
+    },
+    {
+      "id": 281237,
+      "name": "independent film"
+    },
+    {
+      "id": 286407,
+      "name": "party"
+    },
+    {
+      "id": 319397,
+      "name": "witty"
+    },
+    {
+      "id": 325809,
+      "name": "enthusiastic"
+    },
+    {
+      "id": 325824,
+      "name": "hopeful"
+    }
+  ]
+}

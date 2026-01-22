@@ -1,0 +1,209 @@
+{
+  "overview": "A political activist is convinced that her guest is a man who once tortured her for the government.",
+  "release_date": "1994-05-04",
+  "runtime": 103,
+  "budget": 12000000,
+  "revenue": 8003716,
+  "tmdb_vote_average": 7.1,
+  "tmdb_vote_count": 541,
+  "tmdb_popularity": 1.6351,
+  "original_language": "en",
+  "poster_path": "/hlUXQ2aEuYDEE0ok7DORE4uffjl.jpg",
+  "backdrop_path": "/buQbUKiV7fn0vX1mwH6D0Uvvv2t.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 826,
+      "name": "Capitol Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 68141,
+      "name": "Les Films de l'Astre",
+      "origin_country": "FR"
+    },
+    {
+      "id": 324,
+      "name": "Flach Film",
+      "origin_country": "FR"
+    },
+    {
+      "id": 181,
+      "name": "Channel Four Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10205,
+      "name": "Sigourney Weaver",
+      "character": "Paulina Escobar",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 7.7971,
+      "profile_path": "/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+    },
+    {
+      "personId": 2282,
+      "name": "Ben Kingsley",
+      "character": "Dr. Roberto Miranda",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 6.8778,
+      "profile_path": "/vQtBqpF2HDdzbfXHDzR4u37i1Ac.jpg"
+    },
+    {
+      "personId": 14344,
+      "name": "Stuart Wilson",
+      "character": "Gerardo Escobar",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.6429,
+      "profile_path": "/ghP4hkVaNc4upspxsLQCwkOBhy6.jpg"
+    },
+    {
+      "personId": 65537,
+      "name": "Krystia Mova",
+      "character": "Dr. Miranda's Wife",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 0.0725,
+      "profile_path": null
+    },
+    {
+      "personId": 65538,
+      "name": "Jonathan Vega",
+      "character": "Dr. Miranda's Son",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.262,
+      "profile_path": null
+    },
+    {
+      "personId": 65539,
+      "name": "Rodolphe Vega",
+      "character": "Dr. Miranda's Son",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 0.1906,
+      "profile_path": null
+    },
+    {
+      "personId": 1402412,
+      "name": "Gilberto Cortés",
+      "character": "String Quartet Player",
+      "order": 6,
+      "cast_id": 18,
+      "popularity": 0.2646,
+      "profile_path": null
+    },
+    {
+      "personId": 1402413,
+      "name": "Jorge Cruz",
+      "character": "String Quartet Player",
+      "order": 7,
+      "cast_id": 19,
+      "popularity": 0.5313,
+      "profile_path": null
+    },
+    {
+      "personId": 1402414,
+      "name": "Carlos Moreno",
+      "character": "String Quartet Player",
+      "order": 8,
+      "cast_id": 20,
+      "popularity": 0.4848,
+      "profile_path": "/aqiBbVDRsyd4DtvMt1nzUu9y8yV.jpg"
+    },
+    {
+      "personId": 1402415,
+      "name": "Eduardo Valenzuela",
+      "character": "String Quartet Player",
+      "order": 9,
+      "cast_id": 21,
+      "popularity": 0.2729,
+      "profile_path": null
+    },
+    {
+      "personId": 1402416,
+      "name": "Sergio Ortega Alvarado",
+      "character": "String Quartet Manager",
+      "order": 10,
+      "cast_id": 22,
+      "popularity": 0.0618,
+      "profile_path": null
+    },
+    {
+      "personId": 59065,
+      "name": "Karen Strassman",
+      "character": "Elena Galvin (uncredited)",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 0.9791,
+      "profile_path": "/6fLPatm6IhYu3dtje3zRPXXgRfs.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 3556,
+      "name": "Roman Polanski",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.9454,
+      "profile_path": "/60UYC6apdoC8VBh62WCkZ2LPGPk.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2587,
+      "name": "married couple"
+    },
+    {
+      "id": 10181,
+      "name": "based on play or musical"
+    },
+    {
+      "id": 6460,
+      "name": "chile"
+    },
+    {
+      "id": 9137,
+      "name": "pinochet regime"
+    },
+    {
+      "id": 9748,
+      "name": "revenge"
+    },
+    {
+      "id": 13005,
+      "name": "doctor"
+    },
+    {
+      "id": 13006,
+      "name": "torture"
+    },
+    {
+      "id": 33740,
+      "name": "humiliation"
+    }
+  ]
+}

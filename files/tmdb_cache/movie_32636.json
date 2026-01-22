@@ -1,0 +1,152 @@
+{
+  "overview": "An uninterrupted rehearsal of Chekhov's 'Uncle Vanya' plays out by a company of actors. The setting: their run-down theater with an unusable stage and crumbling ceiling. The play is shown act by act with the briefest of breaks to move props or for refreshments. The lack of costumes, real props and scenery is soon forgotten.",
+  "release_date": "1994-10-19",
+  "runtime": 120,
+  "budget": 0,
+  "revenue": 1746050,
+  "tmdb_vote_average": 6.5,
+  "tmdb_vote_count": 90,
+  "tmdb_popularity": 0.5386,
+  "original_language": "en",
+  "poster_path": "/sYkkHsqXyUcFoLbXt4WNwnRRpT1.jpg",
+  "backdrop_path": "/llXsPTScDIdQjgsescQyKaIZA6l.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 34237,
+      "name": "Mayfair Entertainment International",
+      "origin_country": "GB"
+    },
+    {
+      "id": 251088,
+      "name": "The Vanya Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 181,
+      "name": "Channel Four Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 12900,
+      "name": "Wallace Shawn",
+      "character": "Vanya",
+      "order": 0,
+      "cast_id": 12,
+      "popularity": 3.9917,
+      "profile_path": "/wVaM1WlFKDce4esThwL4XtNLhOe.jpg"
+    },
+    {
+      "personId": 1231,
+      "name": "Julianne Moore",
+      "character": "Yelena",
+      "order": 1,
+      "cast_id": 9,
+      "popularity": 7.7537,
+      "profile_path": "/3YF19rWusxWfEI59ZM33dFhasRq.jpg"
+    },
+    {
+      "personId": 19511,
+      "name": "Larry Pine",
+      "character": "Dr. Astrov",
+      "order": 2,
+      "cast_id": 10,
+      "popularity": 1.2016,
+      "profile_path": "/nsMlfqaSRFarvn5K8EcCyKZjPeB.jpg"
+    },
+    {
+      "personId": 31649,
+      "name": "Brooke Smith",
+      "character": "Sonya",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 2.6994,
+      "profile_path": "/zD6SyVPGnrtnHvC0QtucEDxDTk5.jpg"
+    },
+    {
+      "personId": 57351,
+      "name": "George Gaynes",
+      "character": "Serybryakov",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 1.3142,
+      "profile_path": "/6NrhrTrjwpR55wffPDdCz7lNNHA.jpg"
+    },
+    {
+      "personId": 8792,
+      "name": "Lynn Cohen",
+      "character": "Maman",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 1.3076,
+      "profile_path": "/gF2YATtRwDbnLB5eG0DGeHFW2QM.jpg"
+    },
+    {
+      "personId": 109471,
+      "name": "Phoebe Brand",
+      "character": "Nanny",
+      "order": 6,
+      "cast_id": 5,
+      "popularity": 0.1873,
+      "profile_path": null
+    },
+    {
+      "personId": 55459,
+      "name": "Jerry Mayer",
+      "character": "Waffles",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 0.4579,
+      "profile_path": null
+    },
+    {
+      "personId": 109470,
+      "name": "Andre Gregory",
+      "character": "Himself",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 0.4218,
+      "profile_path": "/jc9sMA0kkoDViSUSc8QEi9uvi4Y.jpg"
+    },
+    {
+      "personId": 195399,
+      "name": "Madhur Jaffrey",
+      "character": "Mrs. Chao",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 0.7043,
+      "profile_path": "/spOAkIujYaamd39H92amzj5OE8s.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 15389,
+      "name": "Louis Malle",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.3795,
+      "profile_path": "/8BKM2iXcr4b8pvx1OOcNsO9wADn.jpg"
+    }
+  ],
+  "keywords": []
+}

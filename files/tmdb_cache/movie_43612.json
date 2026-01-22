@@ -1,0 +1,265 @@
+{
+  "overview": "Francis, the boss of a small plumbing supply company, is harassed by tax collectors, striking employees, and an impossible wife and daughter. His only joy is sharing lunch with his friend Gerard. Then a TV show called \"where are you?\" shows a woman from Gers who is searching for her husband who disappeared 28 years ago. The lost husband looks like an identical twin of Francis...",
+  "release_date": "1995-12-06",
+  "runtime": 106,
+  "budget": 13365000,
+  "revenue": 0,
+  "tmdb_vote_average": 6.809,
+  "tmdb_vote_count": 170,
+  "tmdb_popularity": 1.0975,
+  "original_language": "fr",
+  "poster_path": "/tjHn19RpFMBmzQx58SBO40nLvhu.jpg",
+  "backdrop_path": "/8XFrlAj1k83k0TaEb92qA5RRz6K.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 885,
+      "name": "Téléma Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 694,
+      "name": "StudioCanal",
+      "origin_country": "FR"
+    },
+    {
+      "id": 883,
+      "name": "Les Productions du Champ Poirier",
+      "origin_country": ""
+    },
+    {
+      "id": 591,
+      "name": "France 3 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 83,
+      "name": "France 2 Cinéma",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 12270,
+      "name": "Michel Serrault",
+      "character": "Francis Bergeade",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 0.611,
+      "profile_path": "/quttZiihxZ9Cpxw4WhbYFfcmitE.jpg"
+    },
+    {
+      "personId": 30641,
+      "name": "Eddy Mitchell",
+      "character": "Gérard 'Gégé' Tilier",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 0.4195,
+      "profile_path": "/krcrbKymA0S2hnOuHqAQhDIUK40.jpg"
+    },
+    {
+      "personId": 20851,
+      "name": "Sabine Azéma",
+      "character": "Nicole Bergeade",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 0.6747,
+      "profile_path": "/cd8c3KFsABdkwkC2DsiknU8hT1z.jpg"
+    },
+    {
+      "personId": 2744,
+      "name": "Carmen Maura",
+      "character": "Dolores Thivart",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.092,
+      "profile_path": "/sXvr7BvxscBkYpGTcYjpqbzkUSH.jpg"
+    },
+    {
+      "personId": 77929,
+      "name": "François Morel",
+      "character": "Pouillaud",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 0.6142,
+      "profile_path": "/xJ8JZWArjfEscZFjbCbBSWJNKOS.jpg"
+    },
+    {
+      "personId": 35911,
+      "name": "Patrick Bouchitey",
+      "character": "Jean-Paul « J.P. » Delépine",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 0.6787,
+      "profile_path": "/xZI9vB3M4MyW9kt9HmOHulGcnZY.jpg"
+    },
+    {
+      "personId": 342254,
+      "name": "Roger Gicquel",
+      "character": "Charles, l'animateur",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 0.1476,
+      "profile_path": "/sYcRSC43iLhUoMD5M4ciJcV5Oln.jpg"
+    },
+    {
+      "personId": 19934,
+      "name": "Catherine Jacob",
+      "character": "Madame André dit « Lolotte »",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 1.2082,
+      "profile_path": "/qmpDyolsJTjY7V7n69sVJE6hEkh.jpg"
+    },
+    {
+      "personId": 2415,
+      "name": "Yolande Moreau",
+      "character": "Lucette",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 1.2531,
+      "profile_path": "/hh5gwfxXuvAqljjiJ3IsJlFO0QU.jpg"
+    },
+    {
+      "personId": 235494,
+      "name": "Olivier Saladin",
+      "character": "un client du garage",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 0.7513,
+      "profile_path": "/xGiTLlMogawHHbUKhcVZhHmsZbd.jpg"
+    },
+    {
+      "personId": 269059,
+      "name": "Joël Cantona",
+      "character": "Nono",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 0.3654,
+      "profile_path": "/1oJPt9usUfGJzTZ4BKhD3HNcGtH.jpg"
+    },
+    {
+      "personId": 2197,
+      "name": "Daniel Russo",
+      "character": "André le patron de l'hotel",
+      "order": 11,
+      "cast_id": 15,
+      "popularity": 0.8892,
+      "profile_path": "/cF8Uj5PTThdJMcdjHBRk2weqb3H.jpg"
+    },
+    {
+      "personId": 37758,
+      "name": "Éric Cantona",
+      "character": "Lionel",
+      "order": 12,
+      "cast_id": 16,
+      "popularity": 1.0865,
+      "profile_path": "/lMIXZd1QiHH7Y5emujCKGnRh6np.jpg"
+    },
+    {
+      "personId": 22307,
+      "name": "Guilaine Londez",
+      "character": "Zig Thivart",
+      "order": 13,
+      "cast_id": 27,
+      "popularity": 1.0183,
+      "profile_path": "/mJcfcAJAbIbbQNhxHw2KAa37Pd5.jpg"
+    },
+    {
+      "personId": 1130631,
+      "name": "Virginie Darmon",
+      "character": "Puce Thivart",
+      "order": 14,
+      "cast_id": 28,
+      "popularity": 0.5055,
+      "profile_path": "/uvnQnZMSvP4M2euNtmaEbydQn8Y.jpg"
+    },
+    {
+      "personId": 24539,
+      "name": "Alexandra London",
+      "character": "Géraldine Bergeade",
+      "order": 15,
+      "cast_id": 29,
+      "popularity": 0.9242,
+      "profile_path": "/g23fXA2BVSFZGbT8oHWkIe61wuG.jpg"
+    },
+    {
+      "personId": 1025171,
+      "name": "Christophe Kourotchkine",
+      "character": "Rémi",
+      "order": 16,
+      "cast_id": 30,
+      "popularity": 0.4475,
+      "profile_path": "/b7pBsFd9OrphPsWzO9qB0x2wzvM.jpg"
+    },
+    {
+      "personId": 244039,
+      "name": "Jean Bousquet",
+      "character": "Père Léonard",
+      "order": 17,
+      "cast_id": 31,
+      "popularity": 0.1157,
+      "profile_path": "/qjUXqanb6VG8xqwMTOgCol4dxoj.jpg"
+    },
+    {
+      "personId": 1440180,
+      "name": "Seloua Hamse",
+      "character": "Yasmina",
+      "order": 18,
+      "cast_id": 32,
+      "popularity": 0.1512,
+      "profile_path": null
+    },
+    {
+      "personId": 54274,
+      "name": "Serge Hazanavicius",
+      "character": "Alexis Legoff",
+      "order": 19,
+      "cast_id": 33,
+      "popularity": 0.4076,
+      "profile_path": "/sEAptpSaByeYh4qupKkKPqRN3XZ.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 20849,
+      "name": "Étienne Chatiliez",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4952,
+      "profile_path": "/vLosSzoWQXo1U8DYik2kbwTCobK.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 12392,
+      "name": "best friend"
+    },
+    {
+      "id": 15016,
+      "name": "twins"
+    },
+    {
+      "id": 177035,
+      "name": "identity swap"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    }
+  ]
+}

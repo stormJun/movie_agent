@@ -1,0 +1,260 @@
+{
+  "overview": "It's mid 19th century, north of France. The story of a coal miner's town. They are exploited by the mine's owner. One day the decide to go on strike, and then the authorities repress them.",
+  "release_date": "1993-09-29",
+  "runtime": 160,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.717,
+  "tmdb_vote_count": 337,
+  "tmdb_popularity": 3.1195,
+  "original_language": "fr",
+  "poster_path": "/cizv23RUxcpTrQt4kcOz7Sv6YJl.jpg",
+  "backdrop_path": "/goeGgDKGaTzpXp6jJAvDWKT7P80.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 82,
+      "name": "Renn Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 83,
+      "name": "France 2 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1524,
+      "name": "DD Productions",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4274,
+      "name": "Miou-Miou",
+      "character": "'La Maheude'",
+      "order": 0,
+      "cast_id": 7,
+      "popularity": 1.2762,
+      "profile_path": "/kjQD9nNjcakYxOmXq1IG66y1RtU.jpg"
+    },
+    {
+      "personId": 2189,
+      "name": "Renaud",
+      "character": "Étienne Lantier",
+      "order": 1,
+      "cast_id": 9,
+      "popularity": 0.4784,
+      "profile_path": "/fMzyLtHmevG0Arf6wxo11M2010E.jpg"
+    },
+    {
+      "personId": 24540,
+      "name": "Jean Carmet",
+      "character": "Vincent Maheu, aka Bonnemort",
+      "order": 2,
+      "cast_id": 10,
+      "popularity": 0.5609,
+      "profile_path": "/dKtbIjEH9FI8Oa55uI5n8BA5qGK.jpg"
+    },
+    {
+      "personId": 136757,
+      "name": "Judith Henry",
+      "character": "Catherine Maheu",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 0.2602,
+      "profile_path": "/n50CGQNAn1TnNLqYGbwQVnnqBak.jpg"
+    },
+    {
+      "personId": 70168,
+      "name": "Jean-Roger Milo",
+      "character": "Antoine Chaval",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 1.0263,
+      "profile_path": "/sZ6Z6FU4LDE3NRszWpMBP53RUMc.jpg"
+    },
+    {
+      "personId": 16927,
+      "name": "Gérard Depardieu",
+      "character": "Toussaint Maheu",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 2.4993,
+      "profile_path": "/cibkIAJN6ctlqHohhdDEcfbiCAL.jpg"
+    },
+    {
+      "personId": 24385,
+      "name": "Laurent Terzieff",
+      "character": "Souvarine",
+      "order": 6,
+      "cast_id": 13,
+      "popularity": 0.6687,
+      "profile_path": "/4eXa5yge4u73t90Ah4ybIiZlopr.jpg"
+    },
+    {
+      "personId": 24422,
+      "name": "Bernard Fresson",
+      "character": "Victor Deneulin",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 0.6291,
+      "profile_path": "/pzyUeeBFEXO26ErCGE4vkzooLsY.jpg"
+    },
+    {
+      "personId": 24395,
+      "name": "Jean-Pierre Bisson",
+      "character": "Rasseneur",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 0.5603,
+      "profile_path": "/7u84pVB195URJjbv8NbiRYk42F0.jpg"
+    },
+    {
+      "personId": 266665,
+      "name": "Jacques Dacqmine",
+      "character": "Philippe Hennebeau",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 0.5762,
+      "profile_path": "/vrdtoKZ3D5YbHv91S8mgiYAQEcb.jpg"
+    },
+    {
+      "personId": 24475,
+      "name": "Anny Duperey",
+      "character": "Mrs. Hennebeau",
+      "order": 10,
+      "cast_id": 17,
+      "popularity": 1.4109,
+      "profile_path": "/mQ6nUOTmQFLNbPfHXqfTqZgm9wJ.jpg"
+    },
+    {
+      "personId": 104083,
+      "name": "Gérard Croce",
+      "character": "Maigrat",
+      "order": 11,
+      "cast_id": 22,
+      "popularity": 0.4883,
+      "profile_path": "/8190JpmjnfJhuKb1GQft8LSyZGT.jpg"
+    },
+    {
+      "personId": 37605,
+      "name": "Frédéric van den Driessche",
+      "character": "Paul Négrel",
+      "order": 12,
+      "cast_id": 18,
+      "popularity": 0.3487,
+      "profile_path": "/pCYFWbP13W6P69kQtsWPtLmWDaD.jpg"
+    },
+    {
+      "personId": 23733,
+      "name": "Annick Alane",
+      "character": "Mrs. Grégoire",
+      "order": 13,
+      "cast_id": 19,
+      "popularity": 0.5313,
+      "profile_path": "/fF6iBkPHWd25OJzhbkb68k4xurP.jpg"
+    },
+    {
+      "personId": 39531,
+      "name": "Pierre Lafont",
+      "character": "Léon Grégoire",
+      "order": 14,
+      "cast_id": 20,
+      "popularity": 0.326,
+      "profile_path": null
+    },
+    {
+      "personId": 724515,
+      "name": "Thierry Levaret",
+      "character": "Zacharie Maheu",
+      "order": 15,
+      "cast_id": 24,
+      "popularity": 0.926,
+      "profile_path": "/3E3dkhIDrroEvb0OMJcwqASTIDV.jpg"
+    },
+    {
+      "personId": 543621,
+      "name": "Fred Personne",
+      "character": "Pluchart",
+      "order": 16,
+      "cast_id": 25,
+      "popularity": 0.347,
+      "profile_path": "/ycmdNtoR5jEfMQJ4ec5uXaa3Zsq.jpg"
+    },
+    {
+      "personId": 1120682,
+      "name": "Cécile Bois",
+      "character": "Cécile Grégoire",
+      "order": 17,
+      "cast_id": 26,
+      "popularity": 1.2877,
+      "profile_path": "/vACWPcNSlG53YhMjK0RWFQ2STis.jpg"
+    },
+    {
+      "personId": 2415,
+      "name": "Yolande Moreau",
+      "character": "'La Levaque'",
+      "order": 18,
+      "cast_id": 21,
+      "popularity": 1.2531,
+      "profile_path": "/hh5gwfxXuvAqljjiJ3IsJlFO0QU.jpg"
+    },
+    {
+      "personId": 2521280,
+      "name": "Maximilien Regiani",
+      "character": "Pierron",
+      "order": 19,
+      "cast_id": 27,
+      "popularity": 0.1357,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 20718,
+      "name": "Claude Berri",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.3148,
+      "profile_path": "/6XwAO01dSxYrb8Zc1lbbvEgIxK7.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 7025,
+      "name": "industrial revolution"
+    },
+    {
+      "id": 223199,
+      "name": "social movement"
+    },
+    {
+      "id": 325804,
+      "name": "earnest"
+    }
+  ]
+}

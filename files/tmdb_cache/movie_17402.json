@@ -1,0 +1,271 @@
+{
+  "overview": "Even though Gwyn Marcus is engaged to her boyfriend, Matt, she is still afraid of commitment. While she admires her parents' loving relationship, she discovers that her family has not always been faithful in marriage, making it harder than ever to settle down. As her mother pressures her to get married, and plenty of attractive men appear in her life, Gwyn learns that she must balance her career, relationships and marriage to be truly happy.",
+  "release_date": "1995-01-27",
+  "runtime": 95,
+  "budget": 0,
+  "revenue": 5,
+  "tmdb_vote_average": 5.229,
+  "tmdb_vote_count": 59,
+  "tmdb_popularity": 2.5132,
+  "original_language": "en",
+  "poster_path": "/joturqaJfAJ8XHPadT8kibgSpS4.jpg",
+  "backdrop_path": "/7WdT5QF2HPPPeiNHcm6o4DfCsgI.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 915,
+      "name": "Hollywood Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 131354,
+      "name": "Cantaloupe Production",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "hu",
+      "name": "Magyar"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 520,
+      "name": "Sarah Jessica Parker",
+      "character": "Gwyn",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.3099,
+      "profile_path": "/tEhHY7Uyn8VktwLhawBRuR0tdaJ.jpg"
+    },
+    {
+      "personId": 6575,
+      "name": "Gil Bellows",
+      "character": "Matt",
+      "order": 1,
+      "cast_id": 8,
+      "popularity": 2.2823,
+      "profile_path": "/eCOIv2nSGnWTHdn88NoMyNOKWyR.jpg"
+    },
+    {
+      "personId": 3131,
+      "name": "Antonio Banderas",
+      "character": "Antonio",
+      "order": 2,
+      "cast_id": 2,
+      "popularity": 5.8003,
+      "profile_path": "/fce7zl6elUzsv7wudHFc7RgFtjD.jpg"
+    },
+    {
+      "personId": 12021,
+      "name": "Mia Farrow",
+      "character": "Nina",
+      "order": 3,
+      "cast_id": 3,
+      "popularity": 2.4806,
+      "profile_path": "/vwxfB8Xv2EZoC0BbyOcy7MkUkpx.jpg"
+    },
+    {
+      "personId": 47773,
+      "name": "Paul Mazursky",
+      "character": "Vic",
+      "order": 4,
+      "cast_id": 15,
+      "popularity": 0.9512,
+      "profile_path": "/buV8R7bHO4DATuC9FquUrZjn88I.jpg"
+    },
+    {
+      "personId": 7166,
+      "name": "Kevin Pollak",
+      "character": "Jordan",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 2.2416,
+      "profile_path": "/jWhKIVtmc3vIoS2l1VsdNwMAMJB.jpg"
+    },
+    {
+      "personId": 12932,
+      "name": "Barbara Garrick",
+      "character": "Terri",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 0.7323,
+      "profile_path": "/i41Z1pwl9GpobFrjISQSkqwyCAB.jpg"
+    },
+    {
+      "personId": 17832,
+      "name": "Carla Gugino",
+      "character": "Leslie",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 5.0082,
+      "profile_path": "/7lSH5LOexOHwvt9lOTsLTbXdU1G.jpg"
+    },
+    {
+      "personId": 158012,
+      "name": "Bo Eason",
+      "character": "Jeff",
+      "order": 8,
+      "cast_id": 33,
+      "popularity": 0.8106,
+      "profile_path": null
+    },
+    {
+      "personId": 56367,
+      "name": "Naomi Campbell",
+      "character": "Kaia",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 1.1114,
+      "profile_path": "/szSm9TgGVS8clzNQFGyWDfaq6OG.jpg"
+    },
+    {
+      "personId": 12799,
+      "name": "Jeremy Piven",
+      "character": "Mitchell",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 4.2669,
+      "profile_path": "/pBD1jcAZiDrHWcFpJtBtqLRD4gR.jpg"
+    },
+    {
+      "personId": 728,
+      "name": "Kelly Bishop",
+      "character": "Zelda",
+      "order": 11,
+      "cast_id": 12,
+      "popularity": 1.5361,
+      "profile_path": "/gYSCnHaLAQU4RCgoyqBBslK1Uy5.jpg"
+    },
+    {
+      "personId": 14103,
+      "name": "Mark Blum",
+      "character": "Peter",
+      "order": 12,
+      "cast_id": 18,
+      "popularity": 1.2401,
+      "profile_path": "/xJ9pudGFNrmkD2Lkn4rEYBUCjV2.jpg"
+    },
+    {
+      "personId": 111907,
+      "name": "Norman Steinberg",
+      "character": "Charlie",
+      "order": 13,
+      "cast_id": 34,
+      "popularity": 0.4169,
+      "profile_path": null
+    },
+    {
+      "personId": 131667,
+      "name": "Ben Stein",
+      "character": "Rabbi",
+      "order": 14,
+      "cast_id": 13,
+      "popularity": 1.275,
+      "profile_path": "/1xxodQEQKkioq38oaWRJV0mzQ9y.jpg"
+    },
+    {
+      "personId": 10825,
+      "name": "Donal Logue",
+      "character": "Derek",
+      "order": 15,
+      "cast_id": 11,
+      "popularity": 2.9432,
+      "profile_path": "/5Rj850yVkIqsgCihtZLbkNSHbFb.jpg"
+    },
+    {
+      "personId": 4791741,
+      "name": "Mary Chernoff",
+      "character": "Grandma Lil",
+      "order": 16,
+      "cast_id": 35,
+      "popularity": 0.1022,
+      "profile_path": null
+    },
+    {
+      "personId": 4791742,
+      "name": "Elodia Riovega",
+      "character": "Antonio's Mother",
+      "order": 17,
+      "cast_id": 36,
+      "popularity": 0.0907,
+      "profile_path": null
+    },
+    {
+      "personId": 171714,
+      "name": "Chaz Mena",
+      "character": "Ted",
+      "order": 18,
+      "cast_id": 37,
+      "popularity": 0.3821,
+      "profile_path": null
+    },
+    {
+      "personId": 3849786,
+      "name": "George Tapia",
+      "character": "Carlos",
+      "order": 19,
+      "cast_id": 38,
+      "popularity": 0.18,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 5065,
+      "name": "David Frankel",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6425,
+      "profile_path": "/ouq2ODK5MbbnCC72B8x29tJpKC7.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 209792,
+      "name": "candid"
+    },
+    {
+      "id": 292593,
+      "name": "intimate"
+    },
+    {
+      "id": 309426,
+      "name": "understated"
+    },
+    {
+      "id": 319319,
+      "name": "sentimental"
+    },
+    {
+      "id": 325762,
+      "name": "adoring"
+    },
+    {
+      "id": 325765,
+      "name": "amused"
+    },
+    {
+      "id": 325814,
+      "name": "familiar"
+    },
+    {
+      "id": 325840,
+      "name": "optimistic"
+    }
+  ]
+}

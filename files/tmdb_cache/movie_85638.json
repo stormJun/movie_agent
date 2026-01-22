@@ -1,0 +1,214 @@
+{
+  "overview": "In Puritan Boston, seamstress Hester Prynne and kindly Reverend Arthur Dimmesdale fall in love. After Dimmesdale must go away for a time to England, he returns to discover that Hester has given birth to their child and is the focus of local censure.",
+  "release_date": "1927-01-08",
+  "runtime": 97,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 7.1,
+  "tmdb_vote_count": 31,
+  "tmdb_popularity": 0.316,
+  "original_language": "en",
+  "poster_path": "/r17PMluxZvEFOHGILuf2iHuyQCt.jpg",
+  "backdrop_path": "/pxZOCgdcwNgR5gf1GvKTnYEPvhp.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "xx",
+      "name": "No Language"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8828,
+      "name": "Lillian Gish",
+      "character": "Hester Prynne",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 1.1326,
+      "profile_path": "/xUBj1vajDHS8GntuBzhpztRMVy4.jpg"
+    },
+    {
+      "personId": 121001,
+      "name": "Lars Hanson",
+      "character": "Rev. Arthur Dimmesdale",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 0.5144,
+      "profile_path": "/mcIBZVuHfeWUZ4yVBTbo5eM31NZ.jpg"
+    },
+    {
+      "personId": 8830,
+      "name": "Henry B. Walthall",
+      "character": "Roger Prynne aka Roger Chillingworth",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 0.633,
+      "profile_path": "/v8G0OotHtSpp4iB2CBwWl9LFVkW.jpg"
+    },
+    {
+      "personId": 29978,
+      "name": "Karl Dane",
+      "character": "Giles",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 0.5827,
+      "profile_path": "/4tIHivpuh8P6ZEy6hREspTNEMS1.jpg"
+    },
+    {
+      "personId": 996887,
+      "name": "William H. Tooker",
+      "character": "The Governor",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 0.9872,
+      "profile_path": "/mH1IwGNygI5iXACwpzof33kZABb.jpg"
+    },
+    {
+      "personId": 106092,
+      "name": "Marcelle Corday",
+      "character": "Mistress Hibbins",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 0.3408,
+      "profile_path": "/lNZi5U11Sa2RctHfgOZqu3VN1Oq.jpg"
+    },
+    {
+      "personId": 1405533,
+      "name": "Fred Herzog",
+      "character": "The Jailer",
+      "order": 6,
+      "cast_id": 15,
+      "popularity": 0.492,
+      "profile_path": null
+    },
+    {
+      "personId": 29267,
+      "name": "Jules Cowles",
+      "character": "The Beadle",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 0.7217,
+      "profile_path": "/j1JQLQ7vyRylIb4OHaGQlpIHXRd.jpg"
+    },
+    {
+      "personId": 1437289,
+      "name": "Mary Hawes",
+      "character": "Patience",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 1.1777,
+      "profile_path": null
+    },
+    {
+      "personId": 1067962,
+      "name": "Joyce Coad",
+      "character": "Pearl",
+      "order": 9,
+      "cast_id": 11,
+      "popularity": 1.1576,
+      "profile_path": "/cissEo3TTKelgESitRqE5CeJbtf.jpg"
+    },
+    {
+      "personId": 148866,
+      "name": "James A. Marcus",
+      "character": "A Sea Captain",
+      "order": 10,
+      "cast_id": 12,
+      "popularity": 0.2894,
+      "profile_path": "/oe5sxGU4XswA6aze44OCAfqpprm.jpg"
+    },
+    {
+      "personId": 148513,
+      "name": "Polly Moran",
+      "character": "Jeering Townswoman (uncredited)",
+      "order": 11,
+      "cast_id": 10,
+      "popularity": 0.4638,
+      "profile_path": "/2lzTBafNt2z9hfbCIoyPJTwVs1y.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 8741,
+      "name": "Victor Sjöström",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7338,
+      "profile_path": "/iGtT2mbmLt80YPk9lXJRSyxaEKW.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3065,
+      "name": "minister"
+    },
+    {
+      "id": 6159,
+      "name": "clergyman"
+    },
+    {
+      "id": 10886,
+      "name": "punishment"
+    },
+    {
+      "id": 9673,
+      "name": "love"
+    },
+    {
+      "id": 14768,
+      "name": "single mother"
+    },
+    {
+      "id": 154802,
+      "name": "silent film"
+    },
+    {
+      "id": 170418,
+      "name": "public humiliation"
+    },
+    {
+      "id": 172504,
+      "name": "reverend"
+    },
+    {
+      "id": 188016,
+      "name": "seamstress"
+    },
+    {
+      "id": 190761,
+      "name": "stigma"
+    },
+    {
+      "id": 193924,
+      "name": "adulteress"
+    },
+    {
+      "id": 208364,
+      "name": "missing husband"
+    },
+    {
+      "id": 236677,
+      "name": "out of wedlock child"
+    },
+    {
+      "id": 237473,
+      "name": "love child"
+    }
+  ]
+}

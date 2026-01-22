@@ -1,0 +1,222 @@
+{
+  "overview": "The movie tells the little stories of a group of families who live in the same building in Rome as seen from the eyes of Sandrino, a little kid who is awaiting for a total eclipse of the sun, that really happened during summer of '61, and it was was fully visible from Italy. He sees his family life, a young girl who is about to marry a man she doesn't love, an old man who has just died and whose relatives fight for his inheritance, a blind trumpet player who hopes to recover, his little friends...",
+  "release_date": "1993-01-01",
+  "runtime": 97,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.4,
+  "tmdb_vote_count": 7,
+  "tmdb_popularity": 1.791,
+  "original_language": "it",
+  "poster_path": "/bD7VryaPAOXvS3j4WSqTAUj4BvP.jpg",
+  "backdrop_path": "/hz1yFM6JtpqiYAeI3B0jERtOtTh.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [],
+  "production_countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "it",
+      "name": "Italiano"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 119950,
+      "name": "Claudio Bigagli",
+      "character": "Guido",
+      "order": 0,
+      "cast_id": 6,
+      "popularity": 1.5661,
+      "profile_path": "/Au3H49qjanQA2hYIrN6tNyyirxy.jpg"
+    },
+    {
+      "personId": 7542,
+      "name": "Antonio Catania",
+      "character": "Caligiuri",
+      "order": 1,
+      "cast_id": 7,
+      "popularity": 0.4345,
+      "profile_path": "/uzf5R5JcxFY8eJg17pLfWXD7tGC.jpg"
+    },
+    {
+      "personId": 652000,
+      "name": "Clelia Rondinella",
+      "character": "moglie dell'evaso",
+      "order": 2,
+      "cast_id": 10,
+      "popularity": 0.5194,
+      "profile_path": "/5XnQm73pyj1HDbPd6qVBM7Oo7KS.jpg"
+    },
+    {
+      "personId": 16240,
+      "name": "Stefano Dionisi",
+      "character": "Antonio",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 1.9215,
+      "profile_path": "/ekgIO4EoXwy6FESDscT6f4eEcON.jpg"
+    },
+    {
+      "personId": 4819,
+      "name": "Paolo Bonacelli",
+      "character": "Mario",
+      "order": 4,
+      "cast_id": 13,
+      "popularity": 0.7342,
+      "profile_path": "/7h2EJQ19m9pZCfyGEoXb8aEFIF2.jpg"
+    },
+    {
+      "personId": 1189964,
+      "name": "Orazio Stracuzzi",
+      "character": "Gino",
+      "order": 5,
+      "cast_id": 14,
+      "popularity": 1.0806,
+      "profile_path": "/zttVmTiKYr9p10sd7pBWpSbjUM3.jpg"
+    },
+    {
+      "personId": 92095,
+      "name": "Ludovica Modugno",
+      "character": "moglie di Gino",
+      "order": 6,
+      "cast_id": 15,
+      "popularity": 1.1473,
+      "profile_path": "/9B3lao5O0OOI9eFFSi2CuJsh3yz.jpg"
+    },
+    {
+      "personId": 33608,
+      "name": "Evelina Gori",
+      "character": "Guido's Mother",
+      "order": 7,
+      "cast_id": 26,
+      "popularity": 1.1747,
+      "profile_path": "/XOBozygTE94ERu1gMH0m47Zl0W.jpg"
+    },
+    {
+      "personId": 1897663,
+      "name": "Vera Furlan",
+      "character": "zia Lola",
+      "order": 8,
+      "cast_id": 16,
+      "popularity": 0.1057,
+      "profile_path": "/yMOvVpczw0QDiNxbH1Ul3CQo7gC.jpg"
+    },
+    {
+      "personId": 33928,
+      "name": "Gina Rovere",
+      "character": "la domestica",
+      "order": 9,
+      "cast_id": 17,
+      "popularity": 0.4719,
+      "profile_path": "/hv2v5liqJKBtaNGQqRgkf2fN4bV.jpg"
+    },
+    {
+      "personId": 1735270,
+      "name": "Giuseppe Napoli",
+      "character": "il morto",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 0.1552,
+      "profile_path": null
+    },
+    {
+      "personId": 1123325,
+      "name": "Matteo Fadda",
+      "character": "Sandrino",
+      "order": 11,
+      "cast_id": 2,
+      "popularity": 0.0071,
+      "profile_path": null
+    },
+    {
+      "personId": 1123327,
+      "name": "Carla Benedetti",
+      "character": "Sandrino's mother",
+      "order": 12,
+      "cast_id": 4,
+      "popularity": 0.2465,
+      "profile_path": "/8d1NAH0dssNVSisykCectTiv5nX.jpg"
+    },
+    {
+      "personId": 27411,
+      "name": "Stefania Montorsi",
+      "character": "Elvira",
+      "order": 13,
+      "cast_id": 8,
+      "popularity": 1.3698,
+      "profile_path": "/mtoQOvNBDPvzJDjpvQgTgPH97PO.jpg"
+    },
+    {
+      "personId": 1200393,
+      "name": "Vittorio Viviani",
+      "character": "Murena",
+      "order": 14,
+      "cast_id": 19,
+      "popularity": 2.348,
+      "profile_path": "/31lOJVINVpcWK0fuLaGAouYiPwL.jpg"
+    },
+    {
+      "personId": 1039476,
+      "name": "Isa Gallinelli",
+      "character": "sarta",
+      "order": 15,
+      "cast_id": 20,
+      "popularity": 0.4259,
+      "profile_path": "/cONy9S0Np3XNvEDX7GLB2cZqVzS.jpg"
+    },
+    {
+      "personId": 1897666,
+      "name": "Maria D'Ajala",
+      "character": "zia Delia",
+      "order": 16,
+      "cast_id": 21,
+      "popularity": 0.0143,
+      "profile_path": null
+    },
+    {
+      "personId": 259040,
+      "name": "Nicoletta Boris",
+      "character": "Tecla",
+      "order": 17,
+      "cast_id": 22,
+      "popularity": 0.3713,
+      "profile_path": "/zzgYJYlnLwgJmh4OLuQWQ3LsPtC.jpg"
+    },
+    {
+      "personId": 1223409,
+      "name": "Cesare Gelli",
+      "character": "Boris",
+      "order": 18,
+      "cast_id": 23,
+      "popularity": 0.3485,
+      "profile_path": "/h4oM8XB4taz8UqLDNtxE8tTfL9T.jpg"
+    },
+    {
+      "personId": 1123326,
+      "name": "Giacomo Fadda",
+      "character": "Filippo",
+      "order": 19,
+      "cast_id": 3,
+      "popularity": 0.7987,
+      "profile_path": "/3reJtY3zkCq5qSZh1fTc9dVDadD.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 252740,
+      "name": "Leone Pompucci",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.2581,
+      "profile_path": null
+    }
+  ],
+  "keywords": []
+}

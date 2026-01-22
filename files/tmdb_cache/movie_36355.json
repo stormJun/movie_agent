@@ -1,0 +1,242 @@
+{
+  "overview": "Sandy Ricks is sent by his mom to Coral Key, a rustic island in the Florida keys, to spend the summer with his uncle Porter Ricks. Sandy dislikes everything about his new environment until a new friend comes into his life, a dolphin named Flipper, that brings uncle and nephew together and leads Sandy on the summer adventure of a lifetime.",
+  "release_date": "1996-05-17",
+  "runtime": 95,
+  "budget": 25530000,
+  "revenue": 20080020,
+  "tmdb_vote_average": 5.5,
+  "tmdb_vote_count": 337,
+  "tmdb_popularity": 3.3952,
+  "original_language": "en",
+  "poster_path": "/tEtFJvmAOteCsfq3MCB5EXeaC4x.jpg",
+  "backdrop_path": "/750Uayj0Bww4QfqMUJCymW3EJkC.jpg",
+  "tmdb_genres_raw": [
+    "Adventure",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 27128,
+      "name": "The Bubble Factory",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 38181,
+      "name": "American Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 109,
+      "name": "Elijah Wood",
+      "character": "Sandy Ricks",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 5.2316,
+      "profile_path": "/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
+    },
+    {
+      "personId": 57147,
+      "name": "Paul Hogan",
+      "character": "Porter Ricks",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.902,
+      "profile_path": "/1QQURn65Q2yeDCaGIaLktd6kUPx.jpg"
+    },
+    {
+      "personId": 783,
+      "name": "Jonathan Banks",
+      "character": "Dirk Moran",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 5.9485,
+      "profile_path": "/bswk26L13PvY4iMTwUTAsepXCLv.jpg"
+    },
+    {
+      "personId": 135571,
+      "name": "Robert Deacon",
+      "character": "Bounty Fisherman #1",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 1.0075,
+      "profile_path": "/857AfN1EV76qQXmatXh91Upm0RK.jpg"
+    },
+    {
+      "personId": 27008,
+      "name": "Chelsea Field",
+      "character": "Cathy",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 1.9083,
+      "profile_path": "/qGpq2QDoxWHLSm7NciNX2JyaHBw.jpg"
+    },
+    {
+      "personId": 1388019,
+      "name": "Mary Jo Faraci",
+      "character": "Sandy's Mom",
+      "order": 5,
+      "cast_id": 38,
+      "popularity": 0.6632,
+      "profile_path": "/uCaeM7EzXR50kT2lsvJwmYzqSN.jpg"
+    },
+    {
+      "personId": 1249189,
+      "name": "Allison Bertolino",
+      "character": "Sandy's Sister",
+      "order": 6,
+      "cast_id": 37,
+      "popularity": 0.3631,
+      "profile_path": null
+    },
+    {
+      "personId": 158037,
+      "name": "Jessica Wesson",
+      "character": "Kim",
+      "order": 7,
+      "cast_id": 40,
+      "popularity": 1.9745,
+      "profile_path": null
+    },
+    {
+      "personId": 131947,
+      "name": "Jason Fuchs",
+      "character": "Marvin",
+      "order": 8,
+      "cast_id": 5,
+      "popularity": 0.9955,
+      "profile_path": "/fevls3rxpa1GQx4kSPNKNjRemKW.jpg"
+    },
+    {
+      "personId": 1211995,
+      "name": "Mark Casella",
+      "character": "Bounty Fisherman #2",
+      "order": 9,
+      "cast_id": 35,
+      "popularity": 0.3509,
+      "profile_path": null
+    },
+    {
+      "personId": 70118,
+      "name": "Luke Halpin",
+      "character": "Bounty Fisherman #3",
+      "order": 10,
+      "cast_id": 7,
+      "popularity": 1.43,
+      "profile_path": "/ssB7IeIbCMWHALtpgayohTsk3DS.jpg"
+    },
+    {
+      "personId": 6542,
+      "name": "Isaac Hayes",
+      "character": "Sheriff Buck Cowan",
+      "order": 11,
+      "cast_id": 36,
+      "popularity": 1.3134,
+      "profile_path": "/wHZOIi0LJNZ55dswVMX5AqKtMlT.jpg"
+    },
+    {
+      "personId": 191009,
+      "name": "Mal Jones",
+      "character": "Russ",
+      "order": 12,
+      "cast_id": 39,
+      "popularity": 1.2939,
+      "profile_path": "/kiVFhwj0QxSwvGf1ITTZRJokMrZ.jpg"
+    },
+    {
+      "personId": 2389603,
+      "name": "Louis Seeger Crume",
+      "character": "Mr. Dunnahy",
+      "order": 13,
+      "cast_id": 41,
+      "popularity": 0.5542,
+      "profile_path": null
+    },
+    {
+      "personId": 3061408,
+      "name": "Ann Carey",
+      "character": "Fisherman's Wife",
+      "order": 14,
+      "cast_id": 45,
+      "popularity": 0.099,
+      "profile_path": null
+    },
+    {
+      "personId": 3061409,
+      "name": "Bill Kelley",
+      "character": "Tommy",
+      "order": 15,
+      "cast_id": 46,
+      "popularity": 0.0548,
+      "profile_path": null
+    },
+    {
+      "personId": 3061410,
+      "name": "Lindsay Treco",
+      "character": "Little Girl",
+      "order": 16,
+      "cast_id": 47,
+      "popularity": 0.0971,
+      "profile_path": null
+    },
+    {
+      "personId": 3061411,
+      "name": "Bill Nolan",
+      "character": "Bartender",
+      "order": 17,
+      "cast_id": 48,
+      "popularity": 0.2981,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 129941,
+      "name": "Alan Shapiro",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.2861,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1196,
+      "name": "florida"
+    },
+    {
+      "id": 630,
+      "name": "dolphin"
+    },
+    {
+      "id": 3546,
+      "name": "florida keys"
+    },
+    {
+      "id": 13088,
+      "name": "summer"
+    }
+  ]
+}

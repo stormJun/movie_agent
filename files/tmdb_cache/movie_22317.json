@@ -1,0 +1,175 @@
+{
+  "overview": "Lightning Jack Kane is an Australian outlaw in the wild west. During a bungled bank robbery he picks up mute Ben Doyle as a hostage. The two become good friends, with Jack teaching Ben how to rob banks, while they plan Jack's last heist.",
+  "release_date": "1994-03-11",
+  "runtime": 98,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.555,
+  "tmdb_vote_count": 137,
+  "tmdb_popularity": 3.7492,
+  "original_language": "en",
+  "poster_path": "/4YoRERjKWO2442ezcvgEjAZuxWP.jpg",
+  "backdrop_path": "/pVRzlfalhzWmz87LH16Q2LmTXyu.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Western"
+  ],
+  "production_companies": [
+    {
+      "id": 205872,
+      "name": "Village Roadshow Pictures",
+      "origin_country": "AU"
+    },
+    {
+      "id": 218758,
+      "name": "Lightning Ridge",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "AU",
+      "name": "Australia"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 57147,
+      "name": "Paul Hogan",
+      "character": "Lightning Jack Kane",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.0624,
+      "profile_path": "/1QQURn65Q2yeDCaGIaLktd6kUPx.jpg"
+    },
+    {
+      "personId": 821,
+      "name": "Beverly D'Angelo",
+      "character": "Lana Castel",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 2.8729,
+      "profile_path": "/8fYQIA8dAaA4GOTxOFSKIvTqzi.jpg"
+    },
+    {
+      "personId": 9777,
+      "name": "Cuba Gooding Jr.",
+      "character": "Ben Doyle",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 5.1191,
+      "profile_path": "/2JguzbpOXoTGzSmLbWFlulKyyAe.jpg"
+    },
+    {
+      "personId": 3798,
+      "name": "Pat Hingle",
+      "character": "U.S. Marshal Dan Kurtz",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 1.6937,
+      "profile_path": "/QBAxFVZQ0Hu6rxlFavhwUq0zug.jpg"
+    },
+    {
+      "personId": 18262,
+      "name": "Richard Riehle",
+      "character": "Marcus",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 2.4116,
+      "profile_path": "/wgjBsgpzRvardVXZhNGixSw63g2.jpg"
+    },
+    {
+      "personId": 1735,
+      "name": "Frank McRae",
+      "character": "Mr. Doyle",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 1.5372,
+      "profile_path": "/5aGo82fuwSs1k9ZQckvdFGLjqPE.jpg"
+    },
+    {
+      "personId": 47096,
+      "name": "Roger Daltrey",
+      "character": "John T. Coles",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 1.0959,
+      "profile_path": "/5hXMDGmnHLYrbSZp82CECz0m1I8.jpg"
+    },
+    {
+      "personId": 8262,
+      "name": "L.Q. Jones",
+      "character": "Sheriff",
+      "order": 7,
+      "cast_id": 17,
+      "popularity": 2.4069,
+      "profile_path": "/vSGLFloekrgC8eIaqxCiKe7VW0u.jpg"
+    },
+    {
+      "personId": 12888,
+      "name": "Roy Brocksmith",
+      "character": "Schneider",
+      "order": 8,
+      "cast_id": 18,
+      "popularity": 0.9937,
+      "profile_path": "/2GIyB1EMdsgDeIeE20QmqSvxdtT.jpg"
+    },
+    {
+      "personId": 84476,
+      "name": "Kamala Lopez",
+      "character": "Pilar",
+      "order": 9,
+      "cast_id": 19,
+      "popularity": 0.7995,
+      "profile_path": "/lK8ewhKGSit11mtnIgvQArXYRPm.jpg"
+    },
+    {
+      "personId": 2962552,
+      "name": "Kenny Jacobs",
+      "character": "South Fork Bank Teller",
+      "order": 10,
+      "cast_id": 20,
+      "popularity": 0.0286,
+      "profile_path": null
+    },
+    {
+      "personId": 1175467,
+      "name": "Larry Sellers",
+      "character": "Comanche Leader",
+      "order": 11,
+      "cast_id": 39,
+      "popularity": 0.5107,
+      "profile_path": "/zGjZt1KB8xeek0eWLEh8dWbN6KS.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 18254,
+      "name": "Simon Wincer",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.7552,
+      "profile_path": "/ApOARHoSzaR0N9DEJrddns340oe.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 952,
+      "name": "lightning"
+    },
+    {
+      "id": 184671,
+      "name": "jack"
+    }
+  ]
+}

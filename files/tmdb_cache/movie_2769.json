@@ -1,0 +1,263 @@
+{
+  "overview": "Jerry Mulligan is an exuberant American expatriate in Paris trying to make a reputation as a painter. His friend Adam is a struggling concert pianist who's a long time associate of a famous French singer, Henri Baurel. A lonely society woman, Milo Roberts, takes Jerry under her wing and supports him, but is interested in more than his art.",
+  "release_date": "1951-09-26",
+  "runtime": 113,
+  "budget": 5635000,
+  "revenue": 6981000,
+  "tmdb_vote_average": 7.0,
+  "tmdb_vote_count": 622,
+  "tmdb_popularity": 1.2313,
+  "original_language": "en",
+  "poster_path": "/lyDXkvG53ldz6Cf7dbjJl7TaoP5.jpg",
+  "backdrop_path": "/hVvW015x8cD2X0KthGovw27EpF2.jpg",
+  "tmdb_genres_raw": [
+    "Music",
+    "Romance",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13294,
+      "name": "Gene Kelly",
+      "character": "Jerry Mulligan",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.2845,
+      "profile_path": "/g98yyY7oGrkocUxxJgOt82I7z6A.jpg"
+    },
+    {
+      "personId": 5320,
+      "name": "Leslie Caron",
+      "character": "Lise Bouvier",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.5114,
+      "profile_path": "/8KaogFPimucFHFyUkdA0c0Bym5C.jpg"
+    },
+    {
+      "personId": 27966,
+      "name": "Oscar Levant",
+      "character": "Adam Cook",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 0.5276,
+      "profile_path": "/smcuIJIwXOiV1xUKJjrrozn3yZP.jpg"
+    },
+    {
+      "personId": 27967,
+      "name": "Georges Guétary",
+      "character": "Henri Baurel",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 0.3779,
+      "profile_path": "/3buh7MC9qZwhPtoiPbNewbnGoR0.jpg"
+    },
+    {
+      "personId": 13026,
+      "name": "Nina Foch",
+      "character": "Milo Roberts",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.7522,
+      "profile_path": "/zkSVQYtUBFKpoBXCyIA0dW8N5Tj.jpg"
+    },
+    {
+      "personId": 3842837,
+      "name": "Robert Ames",
+      "character": "Ballet Dancer (uncredited)",
+      "order": 5,
+      "cast_id": 47,
+      "popularity": 0.2728,
+      "profile_path": null
+    },
+    {
+      "personId": 3096345,
+      "name": "Joan Anderson",
+      "character": "Child in Ballet (uncredited)",
+      "order": 6,
+      "cast_id": 48,
+      "popularity": 0.3943,
+      "profile_path": null
+    },
+    {
+      "personId": 1735151,
+      "name": "Larry Arnold",
+      "character": "Frenchman (uncredited)",
+      "order": 7,
+      "cast_id": 49,
+      "popularity": 0.2272,
+      "profile_path": null
+    },
+    {
+      "personId": 1421075,
+      "name": "Martha Bamattre",
+      "character": "Mathilde Mattieu (uncredited)",
+      "order": 8,
+      "cast_id": 50,
+      "popularity": 0.7361,
+      "profile_path": null
+    },
+    {
+      "personId": 1672198,
+      "name": "Charles Bastin",
+      "character": "Smiling Young Man (uncredited)",
+      "order": 9,
+      "cast_id": 51,
+      "popularity": 0.5605,
+      "profile_path": null
+    },
+    {
+      "personId": 3842840,
+      "name": "Joan Bayley",
+      "character": "Ballet Dancer (uncredited)",
+      "order": 10,
+      "cast_id": 52,
+      "popularity": 0.3745,
+      "profile_path": null
+    },
+    {
+      "personId": 2727938,
+      "name": "Rodney Bieber",
+      "character": "Ballet Dancer (uncredited)",
+      "order": 11,
+      "cast_id": 53,
+      "popularity": 0.2452,
+      "profile_path": null
+    },
+    {
+      "personId": 43824,
+      "name": "Madge Blake",
+      "character": "Edna Mae Bestram (uncredited)",
+      "order": 12,
+      "cast_id": 54,
+      "popularity": 1.082,
+      "profile_path": "/c53nYlnXJXOLng6Xi5AZ5L1IXz7.jpg"
+    },
+    {
+      "personId": 3842843,
+      "name": "Ralph Blum",
+      "character": "Patron at Flodair Café (uncredited)",
+      "order": 13,
+      "cast_id": 55,
+      "popularity": 0.1877,
+      "profile_path": null
+    },
+    {
+      "personId": 1184839,
+      "name": "Nan Boardman",
+      "character": "Maid (uncredited)",
+      "order": 14,
+      "cast_id": 56,
+      "popularity": 0.5255,
+      "profile_path": "/oEQTCUY1Zs47KXesHhMMTx2hNAT.jpg"
+    },
+    {
+      "personId": 3814652,
+      "name": "Dino Bolognese",
+      "character": "Bartender (uncredited)",
+      "order": 15,
+      "cast_id": 57,
+      "popularity": 0.1057,
+      "profile_path": null
+    },
+    {
+      "personId": 120545,
+      "name": "Eugene Borden",
+      "character": "Georges Matthieu (uncredited)",
+      "order": 16,
+      "cast_id": 58,
+      "popularity": 0.7674,
+      "profile_path": "/wFXTDoDtZ7rdZeAM47qh7wmI6o3.jpg"
+    },
+    {
+      "personId": 3332469,
+      "name": "Ann Brendon",
+      "character": "Dancer (uncredited)",
+      "order": 17,
+      "cast_id": 59,
+      "popularity": 0.0639,
+      "profile_path": null
+    },
+    {
+      "personId": 1671132,
+      "name": "Peter Camlin",
+      "character": "Artist (uncredited)",
+      "order": 18,
+      "cast_id": 60,
+      "popularity": 0.278,
+      "profile_path": null
+    },
+    {
+      "personId": 96709,
+      "name": "Benny Carter",
+      "character": "Saxophonist in Cafe (uncredited)",
+      "order": 19,
+      "cast_id": 61,
+      "popularity": 0.3284,
+      "profile_path": "/uPRBjJilpk7v1JfZCHL9ihoXUdq.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 13980,
+      "name": "Vincente Minnelli",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8671,
+      "profile_path": "/fmlq7RMQdWsrPBAskIezf22e8Mv.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 613,
+      "name": "new year's eve"
+    },
+    {
+      "id": 90,
+      "name": "paris, france"
+    },
+    {
+      "id": 4344,
+      "name": "musical"
+    },
+    {
+      "id": 437,
+      "name": "painter"
+    },
+    {
+      "id": 5488,
+      "name": "parfum"
+    },
+    {
+      "id": 12990,
+      "name": "singing"
+    }
+  ]
+}

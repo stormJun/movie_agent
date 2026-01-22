@@ -1,0 +1,273 @@
+{
+  "overview": "A computer specialist is sued for sexual harassment by a former lover turned boss who initiated the act forcefully, which threatens both his career and his personal life.",
+  "release_date": "1994-12-09",
+  "runtime": 128,
+  "budget": 55000000,
+  "revenue": 214015089,
+  "tmdb_vote_average": 6.251,
+  "tmdb_vote_count": 1237,
+  "tmdb_popularity": 4.6684,
+  "original_language": "en",
+  "poster_path": "/1DcDAJ5vM5XKKONmTaadq5GHpfk.jpg",
+  "backdrop_path": "/4A0f1oqkJLohy8LXjmJpops7CMB.jpg",
+  "tmdb_genres_raw": [
+    "Thriller",
+    "Drama",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 11407,
+      "name": "Baltimore Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 23370,
+      "name": "Constant c Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3392,
+      "name": "Michael Douglas",
+      "character": "Tom Sanders",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.8377,
+      "profile_path": "/kVYGPIZowzXLEQfAGUNOqKjAbBb.jpg"
+    },
+    {
+      "personId": 3416,
+      "name": "Demi Moore",
+      "character": "Meredith Johnson",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 10.0524,
+      "profile_path": "/wApParZYBDi4yxekjfxjKEifJYh.jpg"
+    },
+    {
+      "personId": 55636,
+      "name": "Donald Sutherland",
+      "character": "Bob Garvin",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.4917,
+      "profile_path": "/yM8WO2BYqFvgQXAvf4CIuCYnY4j.jpg"
+    },
+    {
+      "personId": 19152,
+      "name": "Dylan Baker",
+      "character": "Philip Blackburn",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 3.907,
+      "profile_path": "/4mw6xj8Aj3ixjjeUj9pZdZPTbvz.jpg"
+    },
+    {
+      "personId": 56485,
+      "name": "Jacqueline Kim",
+      "character": "Cindy Chang",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 0.6664,
+      "profile_path": "/nTIV1EoiDgMUcdwyKYj7jUPu7V4.jpg"
+    },
+    {
+      "personId": 21366,
+      "name": "Roma Maffia",
+      "character": "Catherine Alvarez",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 1.6775,
+      "profile_path": "/oEfa2NUJJNo4zg74eB5oY86tyip.jpg"
+    },
+    {
+      "personId": 6692,
+      "name": "Caroline Goodall",
+      "character": "Susan Hendler",
+      "order": 6,
+      "cast_id": 14,
+      "popularity": 1.9233,
+      "profile_path": "/4cagGtMqACvkuw6Llq8Li8UJ1AR.jpg"
+    },
+    {
+      "personId": 49958,
+      "name": "Rosemary Forsyth",
+      "character": "Stephanie Kaplan",
+      "order": 7,
+      "cast_id": 15,
+      "popularity": 1.2287,
+      "profile_path": "/cngF4dNTDfU8187094ey08bgb2F.jpg"
+    },
+    {
+      "personId": 18326,
+      "name": "Dennis Miller",
+      "character": "Mark Lewyn",
+      "order": 8,
+      "cast_id": 16,
+      "popularity": 1.1456,
+      "profile_path": "/AdO5Dm8xyuYvXIQEuzpBi6nG9QF.jpg"
+    },
+    {
+      "personId": 8266,
+      "name": "Suzie Plakson",
+      "character": "Mary Anne Hunter",
+      "order": 9,
+      "cast_id": 17,
+      "popularity": 1.8815,
+      "profile_path": "/oKJgvrqTQcnWYH5Dir8AdSUIq0m.jpg"
+    },
+    {
+      "personId": 50402,
+      "name": "Nicholas Sadler",
+      "character": "Don Cherry",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 1.0503,
+      "profile_path": "/mbIXwkcpmv3PBAjTvkCzHRe0hUy.jpg"
+    },
+    {
+      "personId": 10825,
+      "name": "Donal Logue",
+      "character": "Chance Geer",
+      "order": 11,
+      "cast_id": 19,
+      "popularity": 2.9432,
+      "profile_path": "/5Rj850yVkIqsgCihtZLbkNSHbFb.jpg"
+    },
+    {
+      "personId": 156306,
+      "name": "Anneliza Scott",
+      "character": "Secretary #2",
+      "order": 12,
+      "cast_id": 103,
+      "popularity": 1.3622,
+      "profile_path": null
+    },
+    {
+      "personId": 3694729,
+      "name": "Rohana Razali",
+      "character": "Malaysian Newscaster",
+      "order": 13,
+      "cast_id": 104,
+      "popularity": 0.2202,
+      "profile_path": null
+    },
+    {
+      "personId": 2530961,
+      "name": "Anne Flanagan",
+      "character": "Secretary #1",
+      "order": 14,
+      "cast_id": 105,
+      "popularity": 0.1869,
+      "profile_path": null
+    },
+    {
+      "personId": 16434,
+      "name": "Kate Williamson",
+      "character": "Judge Barbara Murphy",
+      "order": 15,
+      "cast_id": 106,
+      "popularity": 2.2518,
+      "profile_path": "/nAcsvcEzvk9lLRNhPWiP7XHHU30.jpg"
+    },
+    {
+      "personId": 167501,
+      "name": "Farrah Forke",
+      "character": "Adele Lewyn",
+      "order": 16,
+      "cast_id": 107,
+      "popularity": 0.7645,
+      "profile_path": "/4DGZJEuVVXg19mrv9wzLFPEWaLh.jpg"
+    },
+    {
+      "personId": 3694732,
+      "name": "Marie Rowe",
+      "character": "Mrs. Ross",
+      "order": 17,
+      "cast_id": 108,
+      "popularity": 0.1499,
+      "profile_path": null
+    },
+    {
+      "personId": 1437866,
+      "name": "Melanie Henderson",
+      "character": "Garvin's Secretary",
+      "order": 18,
+      "cast_id": 109,
+      "popularity": 0.289,
+      "profile_path": null
+    },
+    {
+      "personId": 167826,
+      "name": "Lynn Tufeld",
+      "character": "Lewyn's Assistant",
+      "order": 19,
+      "cast_id": 110,
+      "popularity": 1.5578,
+      "profile_path": "/1J4oi3WoV0F6cxaXeHpiW2Hnr3F.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 8246,
+      "name": "Barry Levinson",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.8454,
+      "profile_path": "/auf7SnoOE9FULo8KhSSL8c2Yrlb.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 2350,
+      "name": "seattle, washington"
+    },
+    {
+      "id": 6021,
+      "name": "employee"
+    },
+    {
+      "id": 6282,
+      "name": "workplace"
+    },
+    {
+      "id": 10850,
+      "name": "sexual harassment"
+    },
+    {
+      "id": 34038,
+      "name": "intrigue"
+    },
+    {
+      "id": 207767,
+      "name": "erotic thriller"
+    },
+    {
+      "id": 237481,
+      "name": "computer technology"
+    }
+  ]
+}

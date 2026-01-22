@@ -1,0 +1,284 @@
+{
+  "overview": "After being rescued from the ruins of Virtual Space Industries, Jobe is rebuilt and reconnected to virtual reality by corporate mogul Jonathan Walker. Years later, teenage hacker Peter Parkette helps Jobe locate Benjamin Trace, the original creator of virtual reality, only to uncover Jobe’s plan to launch a new world order using Walker’s tech. Now, Peter, Trace, Cori, and a band of runaways must stop Jobe and Walker before they enslave humanity through cyberspace.",
+  "release_date": "1996-01-12",
+  "runtime": 92,
+  "budget": 15000000,
+  "revenue": 2409225,
+  "tmdb_vote_average": 3.289,
+  "tmdb_vote_count": 168,
+  "tmdb_popularity": 1.3072,
+  "original_language": "en",
+  "poster_path": "/aP8eGsCyZVCHgSMxhDa4KiC7H9B.jpg",
+  "backdrop_path": "/rCZfdhDuJJTwdUMpuaRiCm9jS0k.jpg",
+  "tmdb_genres_raw": [
+    "Science Fiction",
+    "Horror",
+    "Action",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 29459,
+      "name": "Patrick Bergin",
+      "character": "Dr. Benjamin Trace",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.4006,
+      "profile_path": "/oLVUHx6pj1djR39L3gG9lZ4PdcJ.jpg"
+    },
+    {
+      "personId": 40009,
+      "name": "Matt Frewer",
+      "character": "Jobe Smith",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 5.6637,
+      "profile_path": "/ouicMpmW9O01nB1c7BzoOBHipKw.jpg"
+    },
+    {
+      "personId": 58119,
+      "name": "Austin O'Brien",
+      "character": "Peter Parkette",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.8865,
+      "profile_path": "/IQypQEGa3HNv5Eg5PxcKt3BnaL.jpg"
+    },
+    {
+      "personId": 36898,
+      "name": "Ely Pouget",
+      "character": "Dr. Cori Platt",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.4905,
+      "profile_path": "/9MGEk0VSqlDUT1PwC46je5ieBGH.jpg"
+    },
+    {
+      "personId": 72612,
+      "name": "Camille Cooper",
+      "character": "Jennifer",
+      "order": 4,
+      "cast_id": 17,
+      "popularity": 0.8634,
+      "profile_path": "/3YabCAjWL594QU2YNUovowoq8GJ.jpg"
+    },
+    {
+      "personId": 1192629,
+      "name": "Patrick LaBrecque",
+      "character": "Shawn",
+      "order": 5,
+      "cast_id": 18,
+      "popularity": 1.1085,
+      "profile_path": "/xVmHYsmJNetDnfja17Y71IGJhzF.jpg"
+    },
+    {
+      "personId": 1384185,
+      "name": "Crystal Celeste Grant",
+      "character": "Jade",
+      "order": 6,
+      "cast_id": 19,
+      "popularity": 0.4236,
+      "profile_path": null
+    },
+    {
+      "personId": 1384186,
+      "name": "Sean P. Young",
+      "character": "Travis",
+      "order": 7,
+      "cast_id": 20,
+      "popularity": 0.3784,
+      "profile_path": null
+    },
+    {
+      "personId": 1221555,
+      "name": "Mathew Valencia",
+      "character": "Homeless Kid",
+      "order": 8,
+      "cast_id": 21,
+      "popularity": 0.5107,
+      "profile_path": null
+    },
+    {
+      "personId": 27116,
+      "name": "Kevin Conway",
+      "character": "Jonathan Walker",
+      "order": 9,
+      "cast_id": 22,
+      "popularity": 1.1373,
+      "profile_path": "/drTYTlwhnIeVaNdkSuIhTHo9xpC.jpg"
+    },
+    {
+      "personId": 59016,
+      "name": "Trever O'Brien",
+      "character": "Young Peter",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 1.8216,
+      "profile_path": "/39U6UassYXpGKZ1nZ5wuusTUmnw.jpg"
+    },
+    {
+      "personId": 65748,
+      "name": "Richard Fancy",
+      "character": "Senator Greenspan",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 1.2373,
+      "profile_path": "/x99fMibFGHfXe3L6FD5cHWXDhU2.jpg"
+    },
+    {
+      "personId": 1219510,
+      "name": "Ellis Williams",
+      "character": "Chief of Security",
+      "order": 12,
+      "cast_id": 28,
+      "popularity": 0.6463,
+      "profile_path": "/jturKMtsFwSgC9ESE4JzPlN9sSp.jpg"
+    },
+    {
+      "personId": 3979,
+      "name": "Castulo Guerra",
+      "character": "Guillermo",
+      "order": 13,
+      "cast_id": 26,
+      "popularity": 1.3153,
+      "profile_path": "/nYZihE7w1baKehLmDQb0eKEqYqF.jpg"
+    },
+    {
+      "personId": 28640,
+      "name": "Molly Shannon",
+      "character": "Homeless Lady",
+      "order": 14,
+      "cast_id": 27,
+      "popularity": 2.9356,
+      "profile_path": "/5ZTbNpJtDRU4ZCH24nJvFRxaqAD.jpg"
+    },
+    {
+      "personId": 1396119,
+      "name": "Ralph Ahn",
+      "character": "Doctor",
+      "order": 15,
+      "cast_id": 33,
+      "popularity": 1.4374,
+      "profile_path": "/2zRW2IqLFZYRLcaUFWvzAJXFO8b.jpg"
+    },
+    {
+      "personId": 9294,
+      "name": "David Byrd",
+      "character": "Judge",
+      "order": 16,
+      "cast_id": 34,
+      "popularity": 0.8735,
+      "profile_path": "/foS0mfzOAq1MdhgJ9wMfqqbzLnq.jpg"
+    },
+    {
+      "personId": 1144719,
+      "name": "Stéphanie Menuez",
+      "character": "Female Lawyer",
+      "order": 17,
+      "cast_id": 35,
+      "popularity": 0.206,
+      "profile_path": null
+    },
+    {
+      "personId": 2562998,
+      "name": "Nancy Chen",
+      "character": "Cashier",
+      "order": 18,
+      "cast_id": 36,
+      "popularity": 0.0763,
+      "profile_path": null
+    },
+    {
+      "personId": 1634657,
+      "name": "Amanda Hillwood",
+      "character": "News Anchor",
+      "order": 19,
+      "cast_id": 30,
+      "popularity": 1.4426,
+      "profile_path": "/cAp6xIa4g4futvhYzz70xQysjGE.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 69721,
+      "name": "Farhad Mann",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.2764,
+      "profile_path": "/uFKMT5MHDEMuFLnv2dXPYIpgDIa.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6104,
+      "name": "computer"
+    },
+    {
+      "id": 2157,
+      "name": "hacker"
+    },
+    {
+      "id": 4563,
+      "name": "virtual reality"
+    },
+    {
+      "id": 1576,
+      "name": "technology"
+    },
+    {
+      "id": 9725,
+      "name": "sword fight"
+    },
+    {
+      "id": 9748,
+      "name": "revenge"
+    },
+    {
+      "id": 12190,
+      "name": "cyberpunk"
+    },
+    {
+      "id": 14760,
+      "name": "scientist"
+    },
+    {
+      "id": 15256,
+      "name": "cyberspace"
+    },
+    {
+      "id": 18420,
+      "name": "surveillance"
+    },
+    {
+      "id": 156866,
+      "name": "based on short story"
+    },
+    {
+      "id": 176217,
+      "name": "world domination"
+    },
+    {
+      "id": 251513,
+      "name": "supernatural power"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "overview": "Photographer Elliot Slater has inadvertently snapped the only existing photos of elusive jewel thief Omar. When Elliot leaves for a private vacation on an S&M island, he is followed by Omar, Omar's partner, Nina, and undercover police officers Fred and Sheila. Unaware of the number of people chasing him, Elliot enjoys his stay at the resort, and finds himself falling in love with head dominatrix Lisa.",
+  "release_date": "1994-10-14",
+  "runtime": 114,
+  "budget": 27500000,
+  "revenue": 6800000,
+  "tmdb_vote_average": 4.1,
+  "tmdb_vote_count": 95,
+  "tmdb_popularity": 1.1496,
+  "original_language": "en",
+  "poster_path": "/dUtpplO9K03uYCA71Vqj9ZRkVyA.jpg",
+  "backdrop_path": "/iZ9ssYStIgQ9NQQJCEX0XLt38mo.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Crime",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 11308,
+      "name": "Savoy Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 65002,
+      "name": "Dana Delany",
+      "character": "Lisa Emerson",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 5.0322,
+      "profile_path": "/sw49JGyGVjgtIaARlDb7c3qcAcf.jpg"
+    },
+    {
+      "personId": 24589,
+      "name": "Paul Mercurio",
+      "character": "Elliot Slater",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 2.2637,
+      "profile_path": "/cMDpeXZLZkzeDwdVWzW8TngOyok.jpg"
+    },
+    {
+      "personId": 12929,
+      "name": "Rosie O'Donnell",
+      "character": "Sheila Kingston",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 1.8,
+      "profile_path": "/bfeIiPngsbLU7zK8sS18l3Pz3KR.jpg"
+    },
+    {
+      "personId": 707,
+      "name": "Dan Aykroyd",
+      "character": "Fred Lavery",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 3.2536,
+      "profile_path": "/iVMmeVJx8IpCEjlGBZWzIWvX5Qo.jpg"
+    },
+    {
+      "personId": 1210,
+      "name": "Héctor Elizondo",
+      "character": "Dr. Martin Halifax",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 2.849,
+      "profile_path": "/7Mfx9xeOFKXtzVpAc1488LiHs0b.jpg"
+    },
+    {
+      "personId": 14344,
+      "name": "Stuart Wilson",
+      "character": "Omar Tillington",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 1.6544,
+      "profile_path": "/ghP4hkVaNc4upspxsLQCwkOBhy6.jpg"
+    },
+    {
+      "personId": 2124,
+      "name": "Iman",
+      "character": "Nina Blackstone",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 1.2188,
+      "profile_path": "/xhJ7gUVUP1TzkC4RuNStV1Bzng1.jpg"
+    },
+    {
+      "personId": 33836,
+      "name": "Sean O'Bryan",
+      "character": "Tommy Miller",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 2.0714,
+      "profile_path": "/nS6ZEJvn6O7FCNcDSeIFfbwpW03.jpg"
+    },
+    {
+      "personId": 128012,
+      "name": "Stephanie Niznik",
+      "character": "Diana",
+      "order": 8,
+      "cast_id": 10,
+      "popularity": 1.149,
+      "profile_path": "/nOvHotAXU5WmguTtHHj0HDyVQ8c.jpg"
+    },
+    {
+      "personId": 218159,
+      "name": "Phil Redrow",
+      "character": "Richard",
+      "order": 9,
+      "cast_id": 15,
+      "popularity": 1.5106,
+      "profile_path": null
+    },
+    {
+      "personId": 32291,
+      "name": "Sandra Taylor",
+      "character": "Riba",
+      "order": 10,
+      "cast_id": 9,
+      "popularity": 2.5935,
+      "profile_path": "/8NHNTDoOEkL0JaTrN9uq6T6J3Fk.jpg"
+    },
+    {
+      "personId": 19252,
+      "name": "Julie Hughes",
+      "character": "Julie",
+      "order": 11,
+      "cast_id": 11,
+      "popularity": 0.5118,
+      "profile_path": null
+    },
+    {
+      "personId": 1002037,
+      "name": "Laurelle Mehus",
+      "character": "Heidi",
+      "order": 12,
+      "cast_id": 12,
+      "popularity": 0.1859,
+      "profile_path": null
+    },
+    {
+      "personId": 210311,
+      "name": "Tom Hines",
+      "character": "Nolan",
+      "order": 13,
+      "cast_id": 16,
+      "popularity": 0.6206,
+      "profile_path": "/syASATYKJ9deQz285DqwsxmVyvB.jpg"
+    },
+    {
+      "personId": 173251,
+      "name": "Alison Moir",
+      "character": "Kitty",
+      "order": 14,
+      "cast_id": 13,
+      "popularity": 1.2417,
+      "profile_path": null
+    },
+    {
+      "personId": 156064,
+      "name": "Deborah Lacey",
+      "character": "Sophia",
+      "order": 15,
+      "cast_id": 30,
+      "popularity": 1.2948,
+      "profile_path": "/gq6OWOb2r3FNDeTaewXep2PmfJR.jpg"
+    },
+    {
+      "personId": 166617,
+      "name": "Rod Britt",
+      "character": "Mr. Brady",
+      "order": 16,
+      "cast_id": 27,
+      "popularity": 0.7847,
+      "profile_path": null
+    },
+    {
+      "personId": 49958,
+      "name": "Rosemary Forsyth",
+      "character": "Mrs. Brady",
+      "order": 17,
+      "cast_id": 28,
+      "popularity": 1.1081,
+      "profile_path": "/cngF4dNTDfU8187094ey08bgb2F.jpg"
+    },
+    {
+      "personId": 95469,
+      "name": "Shannon Wilcox",
+      "character": "Mary",
+      "order": 18,
+      "cast_id": 29,
+      "popularity": 0.6441,
+      "profile_path": "/4GPHCEcw02i2QN94EGfRIu04ymV.jpg"
+    },
+    {
+      "personId": 15007,
+      "name": "Laura Harring",
+      "character": "M.C. Kindra",
+      "order": 19,
+      "cast_id": 31,
+      "popularity": 2.1137,
+      "profile_path": "/vLWR0TdaXxPgIt95zu7ovkBzE0K.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1201,
+      "name": "Garry Marshall",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.6617,
+      "profile_path": "/uYVagiSCH4gj3BcYownQySVwfy7.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2041,
+      "name": "island"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 6212,
+      "name": "smuggling (contraband)"
+    },
+    {
+      "id": 738,
+      "name": "sexuality"
+    },
+    {
+      "id": 9840,
+      "name": "romance"
+    },
+    {
+      "id": 9673,
+      "name": "love"
+    },
+    {
+      "id": 11869,
+      "name": "mistress"
+    },
+    {
+      "id": 155271,
+      "name": "kinky"
+    },
+    {
+      "id": 158713,
+      "name": "bdsm"
+    },
+    {
+      "id": 273392,
+      "name": "detective comedy"
+    }
+  ]
+}

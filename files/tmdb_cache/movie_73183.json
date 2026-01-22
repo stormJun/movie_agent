@@ -1,0 +1,201 @@
+{
+  "overview": "Often called the worst director in the history of cinema, Ed Wood is nevertheless a beloved figure among cult-film aficionados for his oddball productions. This documentary takes a look back at Wood's unique career at the margins of 1950s Hollywood, speaking to those who loved him and hated him. Bela Lugosi Jr. discusses his father's work in the abysmal \"Plan 9 From Outer Space,\" while a Baptist reverend recalls how he was tricked into financing the film.",
+  "release_date": "1996-05-01",
+  "runtime": 112,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 7.6,
+  "tmdb_vote_count": 11,
+  "tmdb_popularity": 0.1953,
+  "original_language": "en",
+  "poster_path": "/gWbwYJIRisTiur9aqMQKSHkiGTB.jpg",
+  "backdrop_path": "/ewEIZ4n84WQFd3AKQAV9DAvJCVZ.jpg",
+  "tmdb_genres_raw": [
+    "Documentary"
+  ],
+  "production_companies": [
+    {
+      "id": 33624,
+      "name": "Wood-Thomas Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 106171,
+      "name": "Maila Nurmi",
+      "character": "Herself",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 2.3946,
+      "profile_path": "/9J4KcIhdIONS1wj75YuHX9l1npg.jpg"
+    },
+    {
+      "personId": 99126,
+      "name": "Dolores Fuller",
+      "character": "Herself",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 0.1521,
+      "profile_path": "/3Uou2DkJWQkB8humXwSoz2pY90K.jpg"
+    },
+    {
+      "personId": 103080,
+      "name": "Paul Marco",
+      "character": "Himself",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 0.7375,
+      "profile_path": "/doO5ySOhiIUKiYD0o9uLG6MDjXx.jpg"
+    },
+    {
+      "personId": 1547,
+      "name": "Bela Lugosi",
+      "character": "Himself (archive footage)",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 1.6169,
+      "profile_path": "/fwimu7WKcaJXIjaDwYQg42GxUxa.jpg"
+    },
+    {
+      "personId": 927869,
+      "name": "Bela Lugosi Jr.",
+      "character": "Himself",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 1.4531,
+      "profile_path": "/drsgiHhpdvhQekmcwm4iUiJXjQ7.jpg"
+    },
+    {
+      "personId": 115446,
+      "name": "Loretta King",
+      "character": "Herself",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 0.2845,
+      "profile_path": "/swlM2yYoZgX43bfjRIHAavbz1ye.jpg"
+    },
+    {
+      "personId": 34119,
+      "name": "Lyle Talbot",
+      "character": "Himself",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 1.4617,
+      "profile_path": "/a4rVESEvJg6VRd23M6FLRjlfsta.jpg"
+    },
+    {
+      "personId": 1135273,
+      "name": "Norma McCarty",
+      "character": "Herself",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 0.2105,
+      "profile_path": null
+    },
+    {
+      "personId": 134592,
+      "name": "Michael McCarthy",
+      "character": "Himself",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 0.4793,
+      "profile_path": null
+    },
+    {
+      "personId": 97824,
+      "name": "Conrad Brooks",
+      "character": "Himself",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 0.6594,
+      "profile_path": "/ccuggOAsOHthPN1kdhDbhH69Xwn.jpg"
+    },
+    {
+      "personId": 1806607,
+      "name": "Lynn Lemon",
+      "character": "Himself",
+      "order": 10,
+      "cast_id": 13,
+      "popularity": 0.0842,
+      "profile_path": null
+    },
+    {
+      "personId": 65498,
+      "name": "Mona McKinnon",
+      "character": "Herself (voice)",
+      "order": 11,
+      "cast_id": 14,
+      "popularity": 0.3336,
+      "profile_path": "/brgch2cV6qFgZ4Ck7ass105Me8D.jpg"
+    },
+    {
+      "personId": 41279,
+      "name": "Gregory Walcott",
+      "character": "Himself / Narrator",
+      "order": 12,
+      "cast_id": 15,
+      "popularity": 0.8018,
+      "profile_path": "/tOKACaAYyPjNcVbHGIKhZwJ4wB8.jpg"
+    },
+    {
+      "personId": 44763,
+      "name": "Edward D. Wood Jr.",
+      "character": "Himself (archive footage)",
+      "order": 13,
+      "cast_id": 16,
+      "popularity": 1.1115,
+      "profile_path": "/lpJ6li6nsuMW2ytAS65o20tZHma.jpg"
+    },
+    {
+      "personId": 2017899,
+      "name": "Kent Adamson",
+      "character": "Himself",
+      "order": 14,
+      "cast_id": 17,
+      "popularity": 0.0256,
+      "profile_path": null
+    },
+    {
+      "personId": 1177023,
+      "name": "Tomi Griffin",
+      "character": "Vampira",
+      "order": 15,
+      "cast_id": 18,
+      "popularity": 0.3704,
+      "profile_path": null
+    },
+    {
+      "personId": 103079,
+      "name": "Ann Robinson",
+      "character": "Herself - Bonus Premiere Footage",
+      "order": 16,
+      "cast_id": 19,
+      "popularity": 0.8219,
+      "profile_path": "/jFmvxs57XKtZiNDpGu4S9BGjIl5.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 940684,
+      "name": "Brett Thompson",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4145,
+      "profile_path": null
+    }
+  ],
+  "keywords": []
+}

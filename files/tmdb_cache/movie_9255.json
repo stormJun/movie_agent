@@ -1,0 +1,264 @@
+{
+  "overview": "Topper Harley is found to be working as an odd-job-man in a monastery. The CIA want him to lead a rescue mission into Iraq, to rescue the last rescue team, who went in to rescue the last rescue team—who went in to rescue hostages left behind after Desert Storm.",
+  "release_date": "1993-05-21",
+  "runtime": 88,
+  "budget": 25000000,
+  "revenue": 133752825,
+  "tmdb_vote_average": 6.542,
+  "tmdb_vote_count": 1991,
+  "tmdb_popularity": 4.6736,
+  "original_language": "en",
+  "poster_path": "/zh9EGK970GHo10ETclWBOjZVUOK.jpg",
+  "backdrop_path": "/lKoEEg7Nf1FUPSzRR0oMtPIqiyX.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Comedy",
+    "War"
+  ],
+  "production_companies": [
+    {
+      "id": 11751,
+      "name": "Sidley Wright & Associates",
+      "origin_country": ""
+    },
+    {
+      "id": 25,
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6952,
+      "name": "Charlie Sheen",
+      "character": "Topper Harley",
+      "order": 0,
+      "cast_id": 11,
+      "popularity": 4.1931,
+      "profile_path": "/npEqnIw321opMKuu3lsFNKNKQdX.jpg"
+    },
+    {
+      "personId": 2177,
+      "name": "Lloyd Bridges",
+      "character": "President Thomas 'Tug' Benson",
+      "order": 1,
+      "cast_id": 12,
+      "popularity": 2.2708,
+      "profile_path": "/lO4HWxYvneC0dMFckK2WrKPZa9o.jpg"
+    },
+    {
+      "personId": 3124,
+      "name": "Valeria Golino",
+      "character": "Ramada Rodham Hayman",
+      "order": 2,
+      "cast_id": 13,
+      "popularity": 3.2768,
+      "profile_path": "/bLw0lNPEhICtbTLtnTswamefN7C.jpg"
+    },
+    {
+      "personId": 16554,
+      "name": "Richard Crenna",
+      "character": "Col. Denton Walters",
+      "order": 3,
+      "cast_id": 14,
+      "popularity": 1.3789,
+      "profile_path": "/dsViQ2ate32xTSQgxoEHKQl0Evj.jpg"
+    },
+    {
+      "personId": 10730,
+      "name": "Rowan Atkinson",
+      "character": "Dexter Hayman",
+      "order": 4,
+      "cast_id": 15,
+      "popularity": 8.7064,
+      "profile_path": "/gdiN2zLjC3Mnfrp7hM3TXVJjWJv.jpg"
+    },
+    {
+      "personId": 15860,
+      "name": "Miguel Ferrer",
+      "character": "Commander Arvid Harbinger",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 2.7086,
+      "profile_path": "/n6VZ8OQmozHmnJQRwR55gBH8Tl0.jpg"
+    },
+    {
+      "personId": 32290,
+      "name": "Brenda Bakke",
+      "character": "Michelle Rodham Huddleston",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 2.7627,
+      "profile_path": "/nCef3oKQVRsCi95s8fpUH9IXRsx.jpg"
+    },
+    {
+      "personId": 1000228,
+      "name": "Jerry Haleva",
+      "character": "Saddam Hussein",
+      "order": 7,
+      "cast_id": 22,
+      "popularity": 0.8111,
+      "profile_path": "/35qEndFolCdLDkAKIbXammIlLyt.jpg"
+    },
+    {
+      "personId": 92811,
+      "name": "David Wohl",
+      "character": "Gerou",
+      "order": 8,
+      "cast_id": 23,
+      "popularity": 1.0521,
+      "profile_path": "/iPHxMD2eimYJysHYIzLZUbPFhnp.jpg"
+    },
+    {
+      "personId": 14312,
+      "name": "Mitchell Ryan",
+      "character": "Gray Edwards",
+      "order": 9,
+      "cast_id": 24,
+      "popularity": 1.4805,
+      "profile_path": "/9XrbQfOjDeqjXJUHeSIA6OxJAJa.jpg"
+    },
+    {
+      "personId": 54430,
+      "name": "Michael Colyar",
+      "character": "Williams",
+      "order": 10,
+      "cast_id": 25,
+      "popularity": 0.4116,
+      "profile_path": "/eG4ojLYkXY84hRQnfqysnZzl2H4.jpg"
+    },
+    {
+      "personId": 162606,
+      "name": "Ryan Stiles",
+      "character": "Rabinowitz",
+      "order": 11,
+      "cast_id": 26,
+      "popularity": 2.2849,
+      "profile_path": "/u8mLAujNFBoce7RzFFhwaX0DaJZ.jpg"
+    },
+    {
+      "personId": 1123116,
+      "name": "Rosemary Johnston",
+      "character": "Lavinia Rodham Benson",
+      "order": 12,
+      "cast_id": 27,
+      "popularity": 0.4228,
+      "profile_path": null
+    },
+    {
+      "personId": 174894,
+      "name": "Ben Lemon",
+      "character": "Team 2 Leader",
+      "order": 13,
+      "cast_id": 40,
+      "popularity": 1.3465,
+      "profile_path": null
+    },
+    {
+      "personId": 1986483,
+      "name": "Buck McDancer",
+      "character": "Richard Nixon",
+      "order": 14,
+      "cast_id": 41,
+      "popularity": 0.7268,
+      "profile_path": "/sfMAvjndHWFsIxqyYi82ZZLH4ti.jpg"
+    },
+    {
+      "personId": 1828228,
+      "name": "Larry Lindsey",
+      "character": "Gerald Ford",
+      "order": 15,
+      "cast_id": 42,
+      "popularity": 0.3759,
+      "profile_path": null
+    },
+    {
+      "personId": 3147164,
+      "name": "Ed Beheler",
+      "character": "Jimmy Carter",
+      "order": 16,
+      "cast_id": 43,
+      "popularity": 0.1658,
+      "profile_path": null
+    },
+    {
+      "personId": 2937490,
+      "name": "Daniel T. Healy",
+      "character": "George Bush",
+      "order": 17,
+      "cast_id": 44,
+      "popularity": 0.1873,
+      "profile_path": null
+    },
+    {
+      "personId": 1434976,
+      "name": "Jay Koch",
+      "character": "Ronald Reagan",
+      "order": 18,
+      "cast_id": 45,
+      "popularity": 0.6462,
+      "profile_path": "/9wHFTmyF4yDMboowtjsRte0Pyld.jpg"
+    },
+    {
+      "personId": 1275523,
+      "name": "Charles Haugk",
+      "character": "Navy Seal",
+      "order": 19,
+      "cast_id": 46,
+      "popularity": 0.4318,
+      "profile_path": "/lh0BcJ8B2sdS9RsXPryWXflzE84.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 12936,
+      "name": "Jim Abrahams",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8265,
+      "profile_path": "/22B24mvWEkorhoxEOPCxNcYdcTX.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 10084,
+      "name": "rescue"
+    },
+    {
+      "id": 1400,
+      "name": "swordplay"
+    },
+    {
+      "id": 5362,
+      "name": "liberation of hostage"
+    },
+    {
+      "id": 4289,
+      "name": "secret agent"
+    },
+    {
+      "id": 9755,
+      "name": "parody"
+    },
+    {
+      "id": 15087,
+      "name": "iraq war"
+    },
+    {
+      "id": 240583,
+      "name": "near east"
+    }
+  ]
+}

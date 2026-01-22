@@ -1,0 +1,352 @@
+{
+  "overview": "Starts off in the 15th century, with Connor McLeod training with another immortal swordsman, the Japanese sorcerer Nakano. When an evil immortal named Kane kills the old wizard, the resulting battle leaves him buried in an underground cave. When Kane resurfaces in the 20th century to create havoc, it's up to McLeod to stop him.",
+  "release_date": "1994-11-29",
+  "runtime": 99,
+  "budget": 30000000,
+  "revenue": 36738574,
+  "tmdb_vote_average": 4.753,
+  "tmdb_vote_count": 534,
+  "tmdb_popularity": 1.7139,
+  "original_language": "en",
+  "poster_path": "/9OwpKEb4kR3s3tgfJUMX7yficcm.jpg",
+  "backdrop_path": "/1ulygMNAaR6KINjI6Fqcx1N82ag.jpg",
+  "tmdb_genres_raw": [
+    "Fantasy",
+    "Action",
+    "Adventure"
+  ],
+  "production_companies": [
+    {
+      "id": 2662,
+      "name": "Trans-Film",
+      "origin_country": ""
+    },
+    {
+      "id": 30655,
+      "name": "Fallingcloud",
+      "origin_country": ""
+    },
+    {
+      "id": 22240,
+      "name": "Initial Groupe",
+      "origin_country": "FR"
+    },
+    {
+      "id": 25129,
+      "name": "Lumière Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 107461,
+      "name": "Highlander Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 14,
+      "name": "Miramax",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 38559,
+      "name": "Christopher Lambert",
+      "character": "Connor 'The Highlander' MacLeod",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.351,
+      "profile_path": "/qKmxieTgzvsA5hSA7w1VoHizmmE.jpg"
+    },
+    {
+      "personId": 16214,
+      "name": "Mario Van Peebles",
+      "character": "Kane",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.5992,
+      "profile_path": "/fiExKjVttfePRwmfVvMHPjC7F9n.jpg"
+    },
+    {
+      "personId": 13549,
+      "name": "Deborah Kara Unger",
+      "character": "Alex Johnson / Sarah",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.272,
+      "profile_path": "/kPhYhisjduJ9ztFSwYQ6Ke6qeJy.jpg"
+    },
+    {
+      "personId": 10134,
+      "name": "Mako",
+      "character": "Nakano",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.1691,
+      "profile_path": "/x0dZQHKQOZ1ancuRw8slO3rAiPq.jpg"
+    },
+    {
+      "personId": 53596,
+      "name": "Martin Neufeld",
+      "character": "Lt. John Stenn",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 0.5824,
+      "profile_path": "/vFgAPMZEMyaRMcbBDwrEteXqGUv.jpg"
+    },
+    {
+      "personId": 53597,
+      "name": "Daniel Dõ",
+      "character": "Takamura",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 0.3531,
+      "profile_path": "/rrOaAH6TvJ2pDP8O7qsKcTiHjtR.jpg"
+    },
+    {
+      "personId": 29069,
+      "name": "Michael Jayston",
+      "character": "Jack Donovan",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 1.1605,
+      "profile_path": "/vPCW3hK9iGsL3NCWyhC5P3f9fgH.jpg"
+    },
+    {
+      "personId": 53598,
+      "name": "Louis Bertignac",
+      "character": "Pierre Bouchet",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 0.478,
+      "profile_path": "/7N85bfIAGMqaqnOR4iUA1xxFNCb.jpg"
+    },
+    {
+      "personId": 2633721,
+      "name": "Lisa Vitello",
+      "character": "Nurse",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 0.1566,
+      "profile_path": null
+    },
+    {
+      "personId": 32887,
+      "name": "Christopher Heyerdahl",
+      "character": "Ponytail",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 2.5524,
+      "profile_path": "/pTPZa3TFIkxRbqM5adXYE51a99s.jpg"
+    },
+    {
+      "personId": 17688,
+      "name": "Raoul Max Trujillo",
+      "character": "Warrior #1",
+      "order": 10,
+      "cast_id": 47,
+      "popularity": 2.6429,
+      "profile_path": "/dIfHIt1pgnYW9oCksc0DdoY5Mt5.jpg"
+    },
+    {
+      "personId": 2109230,
+      "name": "Jean-Pierre Pérusse",
+      "character": "Warrior #2",
+      "order": 11,
+      "cast_id": 48,
+      "popularity": 0.054,
+      "profile_path": "/k0IgqddxtKtbqPgwLcozZAQfsAS.jpg"
+    },
+    {
+      "personId": 2919330,
+      "name": "Gabriel Kakon",
+      "character": "John MacLeod",
+      "order": 12,
+      "cast_id": 49,
+      "popularity": 0.0959,
+      "profile_path": null
+    },
+    {
+      "personId": 1216570,
+      "name": "Darcy Laurie",
+      "character": "Banger 1",
+      "order": 13,
+      "cast_id": 50,
+      "popularity": 1.1575,
+      "profile_path": "/qr6SWY9IXC5OfAz88z1z5MhiZkC.jpg"
+    },
+    {
+      "personId": 119708,
+      "name": "David Francis",
+      "character": "Doctor Malloy",
+      "order": 14,
+      "cast_id": 51,
+      "popularity": 0.6103,
+      "profile_path": "/vnlgdwXnahVw8j0TokPqxPnvRnU.jpg"
+    },
+    {
+      "personId": 108302,
+      "name": "Matt Holland",
+      "character": "Intern",
+      "order": 15,
+      "cast_id": 52,
+      "popularity": 0.6774,
+      "profile_path": "/lKyB8ktsLcjnDN74Mk5VIG3MFSq.jpg"
+    },
+    {
+      "personId": 1225492,
+      "name": "Richard Jutras",
+      "character": "Uniform",
+      "order": 16,
+      "cast_id": 53,
+      "popularity": 1.8182,
+      "profile_path": "/b00f6HObWAaw5smlcgaiSvnU23c.jpg"
+    },
+    {
+      "personId": 92269,
+      "name": "Liz MacRae",
+      "character": "Interviewer",
+      "order": 17,
+      "cast_id": 54,
+      "popularity": 2.0325,
+      "profile_path": null
+    },
+    {
+      "personId": 92257,
+      "name": "Emidio Michetti",
+      "character": "Detective",
+      "order": 18,
+      "cast_id": 55,
+      "popularity": 0.4032,
+      "profile_path": null
+    },
+    {
+      "personId": 17482,
+      "name": "André Oumansky",
+      "character": "Marquis de Condorcet",
+      "order": 19,
+      "cast_id": 56,
+      "popularity": 0.5228,
+      "profile_path": "/ezlKFaTsAQjIePtLpFHF7uMWebh.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 53599,
+      "name": "Andrew Morahan",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.283,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 779,
+      "name": "martial arts"
+    },
+    {
+      "id": 233,
+      "name": "japan"
+    },
+    {
+      "id": 2343,
+      "name": "magic"
+    },
+    {
+      "id": 4978,
+      "name": "immortality"
+    },
+    {
+      "id": 388,
+      "name": "scotland"
+    },
+    {
+      "id": 1629,
+      "name": "morocco"
+    },
+    {
+      "id": 5147,
+      "name": "sorcery"
+    },
+    {
+      "id": 9725,
+      "name": "sword fight"
+    },
+    {
+      "id": 10821,
+      "name": "sorcerer"
+    },
+    {
+      "id": 14926,
+      "name": "katana sword"
+    },
+    {
+      "id": 14946,
+      "name": "fictional war"
+    },
+    {
+      "id": 177895,
+      "name": "dark fantasy"
+    },
+    {
+      "id": 184134,
+      "name": "archeology"
+    },
+    {
+      "id": 192913,
+      "name": "warrior"
+    },
+    {
+      "id": 210730,
+      "name": "illusionist"
+    },
+    {
+      "id": 219404,
+      "name": "action hero"
+    },
+    {
+      "id": 234213,
+      "name": "sword and sorcery"
+    },
+    {
+      "id": 251513,
+      "name": "supernatural power"
+    },
+    {
+      "id": 269233,
+      "name": "good versus evil"
+    },
+    {
+      "id": 345717,
+      "name": "good sorcerer"
+    }
+  ]
+}

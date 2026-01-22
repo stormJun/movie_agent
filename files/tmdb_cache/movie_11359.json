@@ -1,0 +1,223 @@
+{
+  "overview": "A nine-year-old boy gets a plastic Indian and a cupboard for his birthday and finds himself involved in adventure when the Indian comes to life and befriends him.",
+  "release_date": "1995-07-14",
+  "runtime": 96,
+  "budget": 45000000,
+  "revenue": 35700000,
+  "tmdb_vote_average": 6.459,
+  "tmdb_vote_count": 659,
+  "tmdb_popularity": 1.8969,
+  "original_language": "en",
+  "poster_path": "/ozQAmW85tTJu2dhRe3evzyY03Nb.jpg",
+  "backdrop_path": "/fKzQzmqsUDVbrH4dux9FcXtXLbQ.jpg",
+  "tmdb_genres_raw": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 862,
+      "name": "The Kennedy/Marshall Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "it",
+      "name": "Italiano"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 69301,
+      "name": "Hal Scardino",
+      "character": "Omri",
+      "order": 0,
+      "cast_id": 30,
+      "popularity": 0.9347,
+      "profile_path": "/q8TX9vJfLSzYDztSIDmz1ao002t.jpg"
+    },
+    {
+      "personId": 69302,
+      "name": "Litefoot",
+      "character": "Little Bear",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.6215,
+      "profile_path": "/lZirENb3WkQarkkgKDs0qyjOltH.jpg"
+    },
+    {
+      "personId": 32225,
+      "name": "Lindsay Crouse",
+      "character": "Jane",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.4958,
+      "profile_path": "/p9xfNphbZNvSfqxGA4za87VKuQI.jpg"
+    },
+    {
+      "personId": 28633,
+      "name": "Richard Jenkins",
+      "character": "Victor",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.3489,
+      "profile_path": "/muT3RZG9hiKaKojD751RcQ5tGEy.jpg"
+    },
+    {
+      "personId": 1318612,
+      "name": "Rishi Bhat",
+      "character": "Patrick",
+      "order": 4,
+      "cast_id": 15,
+      "popularity": 0.3043,
+      "profile_path": null
+    },
+    {
+      "personId": 4581,
+      "name": "Steve Coogan",
+      "character": "Tommy",
+      "order": 5,
+      "cast_id": 11,
+      "popularity": 2.8285,
+      "profile_path": "/tT7OXc2qA6hlREHXdwGLp0XihzA.jpg"
+    },
+    {
+      "personId": 18181,
+      "name": "David Keith",
+      "character": "Boone",
+      "order": 6,
+      "cast_id": 14,
+      "popularity": 1.8713,
+      "profile_path": "/zY0egiQb1iLx74GxcKgYOHNEgRM.jpg"
+    },
+    {
+      "personId": 34200,
+      "name": "Sakina Jaffrey",
+      "character": "Lucy",
+      "order": 7,
+      "cast_id": 16,
+      "popularity": 1.4713,
+      "profile_path": "/9U6vixMcwkj8aEffy64UqsklHd.jpg"
+    },
+    {
+      "personId": 52646,
+      "name": "Vincent Kartheiser",
+      "character": "Gillon",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 2.9038,
+      "profile_path": "/n1kHTSY6cnM4mQXkWQV0jQQXglP.jpg"
+    },
+    {
+      "personId": 14331,
+      "name": "Nestor Serrano",
+      "character": "Teacher",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 1.9485,
+      "profile_path": "/imqFSX2BA87gifjGpNJApRaDC3V.jpg"
+    },
+    {
+      "personId": 15831,
+      "name": "Frank Welker",
+      "character": "Special Vocal Effects (voice)",
+      "order": 10,
+      "cast_id": 21,
+      "popularity": 5.2376,
+      "profile_path": "/xXODQ5AX6pG4my8ieeEIuiAREXs.jpg"
+    },
+    {
+      "personId": 3903067,
+      "name": "Ryan Olson",
+      "character": "Adiel",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 0.1179,
+      "profile_path": null
+    },
+    {
+      "personId": 3601297,
+      "name": "Cassandra Brown",
+      "character": "Emily",
+      "order": 12,
+      "cast_id": 25,
+      "popularity": 0.0448,
+      "profile_path": null
+    },
+    {
+      "personId": 4887536,
+      "name": "Louie Pizzella",
+      "character": "Omri",
+      "order": 13,
+      "cast_id": 29,
+      "popularity": 0.0445,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 7908,
+      "name": "Frank Oz",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.1828,
+      "profile_path": "/mb2JbT8s6LIgaxj6QTph0NW1pmI.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 1990,
+      "name": "cupboard"
+    },
+    {
+      "id": 6300,
+      "name": "puppet"
+    },
+    {
+      "id": 15101,
+      "name": "based on children's book"
+    },
+    {
+      "id": 18249,
+      "name": "game"
+    },
+    {
+      "id": 33465,
+      "name": "parallel world"
+    },
+    {
+      "id": 187065,
+      "name": "toy comes to life"
+    },
+    {
+      "id": 197927,
+      "name": "toy soldier"
+    }
+  ]
+}

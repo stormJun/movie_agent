@@ -1,0 +1,295 @@
+{
+  "overview": "After World War II, Antonia and her daughter, Danielle, go back to their Dutch hometown, where Antonia's late mother has bestowed a small farm upon her. There, Antonia settles down and joins a tightly-knit but unusual community. Those around her include quirky friend Crooked Finger, would-be suitor Bas and, eventually for Antonia, a granddaughter and great-granddaughter who help create a strong family of empowered women.",
+  "release_date": "1995-09-21",
+  "runtime": 102,
+  "budget": 900000,
+  "revenue": 0,
+  "tmdb_vote_average": 6.901,
+  "tmdb_vote_count": 137,
+  "tmdb_popularity": 0.9581,
+  "original_language": "nl",
+  "poster_path": "/nUCVi6bBIL7LGC61nYaCqikAhIA.jpg",
+  "backdrop_path": "/sOkUBkwq21ZEThCX7wboY2Xl3m5.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 575,
+      "name": "Bergen Film",
+      "origin_country": ""
+    },
+    {
+      "id": 576,
+      "name": "Bard Entertainments",
+      "origin_country": ""
+    },
+    {
+      "id": 577,
+      "name": "NPS Televisie",
+      "origin_country": ""
+    },
+    {
+      "id": 11931,
+      "name": "Prime Time",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "NL",
+      "name": "Netherlands"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13506,
+      "name": "Willeke van Ammelrooy",
+      "character": "Antonia",
+      "order": 0,
+      "cast_id": 11,
+      "popularity": 1.362,
+      "profile_path": "/aXwDoxmfLO7aBvJLDADODBhubqU.jpg"
+    },
+    {
+      "personId": 13507,
+      "name": "Els Dottermans",
+      "character": "Danielle",
+      "order": 1,
+      "cast_id": 12,
+      "popularity": 0.3061,
+      "profile_path": "/9NmzTbq4Nhwg1HCBX02NksMmAGp.jpg"
+    },
+    {
+      "personId": 13508,
+      "name": "Dora van der Groen",
+      "character": "Allegonde",
+      "order": 2,
+      "cast_id": 13,
+      "popularity": 2.0586,
+      "profile_path": "/q5r8a9p3bdbQqRZR5ohHNJw15y1.jpg"
+    },
+    {
+      "personId": 13509,
+      "name": "Veerle van Overloop",
+      "character": "Thérèse",
+      "order": 3,
+      "cast_id": 14,
+      "popularity": 0.2042,
+      "profile_path": null
+    },
+    {
+      "personId": 87865,
+      "name": "Carolien Spoor",
+      "character": "Thérèse (6)",
+      "order": 4,
+      "cast_id": 25,
+      "popularity": 0.4695,
+      "profile_path": "/iTjKBAqs3kk8NtfrwHbmWVvxON3.jpg"
+    },
+    {
+      "personId": 13510,
+      "name": "Esther Vriesendorp",
+      "character": "Thérèse (13)",
+      "order": 5,
+      "cast_id": 15,
+      "popularity": 0.68,
+      "profile_path": null
+    },
+    {
+      "personId": 13512,
+      "name": "Thyrza Ravesteijn",
+      "character": "Sarah",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 0.7056,
+      "profile_path": null
+    },
+    {
+      "personId": 13513,
+      "name": "Mil Seghers",
+      "character": "Krummer Finger",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 0.6277,
+      "profile_path": null
+    },
+    {
+      "personId": 13514,
+      "name": "Jan Decleir",
+      "character": "Sebastian",
+      "order": 8,
+      "cast_id": 19,
+      "popularity": 0.7504,
+      "profile_path": "/wgCWRtfO4HROS1o2QltEGh9DLGG.jpg"
+    },
+    {
+      "personId": 13515,
+      "name": "Elsie de Brauw",
+      "character": "Lara",
+      "order": 9,
+      "cast_id": 20,
+      "popularity": 0.7257,
+      "profile_path": "/h24GWeSdM06XyrMxuuFyMOAY6WU.jpg"
+    },
+    {
+      "personId": 13516,
+      "name": "Reinout Bussemaker",
+      "character": "Simon",
+      "order": 10,
+      "cast_id": 21,
+      "popularity": 1.2379,
+      "profile_path": "/g0XgcYDjbNEdHdKArOREBOxtcsr.jpg"
+    },
+    {
+      "personId": 13517,
+      "name": "Marina de Graaf",
+      "character": "Deedee",
+      "order": 11,
+      "cast_id": 22,
+      "popularity": 1.5944,
+      "profile_path": "/1OhYTrRyqns6P9CqOQTWJ8ZUWul.jpg"
+    },
+    {
+      "personId": 13518,
+      "name": "Wimie Wilhelm",
+      "character": "Lippen Willem",
+      "order": 12,
+      "cast_id": 23,
+      "popularity": 0.5121,
+      "profile_path": "/utlsP5vRkWzvazTkpwm6xOmYbv3.jpg"
+    },
+    {
+      "personId": 13519,
+      "name": "Fran Waller Zeper",
+      "character": "Olga",
+      "order": 13,
+      "cast_id": 24,
+      "popularity": 0.1898,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 13496,
+      "name": "Marleen Gorris",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.3336,
+      "profile_path": "/sSVUF5IE4nF4CCLzkwCfRmQz1Ws.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 240,
+      "name": "underdog"
+    },
+    {
+      "id": 791,
+      "name": "mentally disabled"
+    },
+    {
+      "id": 236,
+      "name": "suicide"
+    },
+    {
+      "id": 6145,
+      "name": "right and justice"
+    },
+    {
+      "id": 570,
+      "name": "rape"
+    },
+    {
+      "id": 460,
+      "name": "free love"
+    },
+    {
+      "id": 970,
+      "name": "parent child relationship"
+    },
+    {
+      "id": 697,
+      "name": "loss of loved one"
+    },
+    {
+      "id": 1842,
+      "name": "village life"
+    },
+    {
+      "id": 490,
+      "name": "philosophy"
+    },
+    {
+      "id": 4129,
+      "name": "widow"
+    },
+    {
+      "id": 6089,
+      "name": "freedom"
+    },
+    {
+      "id": 4402,
+      "name": "peasant"
+    },
+    {
+      "id": 5331,
+      "name": "village"
+    },
+    {
+      "id": 1956,
+      "name": "world war ii"
+    },
+    {
+      "id": 6009,
+      "name": "mathematics"
+    },
+    {
+      "id": 2383,
+      "name": "feminism"
+    },
+    {
+      "id": 3154,
+      "name": "indian summer "
+    },
+    {
+      "id": 3371,
+      "name": "family history"
+    },
+    {
+      "id": 9457,
+      "name": "single"
+    },
+    {
+      "id": 10180,
+      "name": "male homosexuality"
+    },
+    {
+      "id": 11925,
+      "name": "domestic violence"
+    },
+    {
+      "id": 13160,
+      "name": "university"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    }
+  ]
+}

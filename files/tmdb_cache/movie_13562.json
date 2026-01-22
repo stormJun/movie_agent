@@ -1,0 +1,293 @@
+{
+  "overview": "Fifth Avenue socialite Irene Bullock needs a \"forgotten man\" to win a scavenger hunt, and no one is more forgotten than Godfrey Park, who resides in a dump by the East River. Irene hires Godfrey as a servant for her riotously unhinged family, to the chagrin of her spoiled sister, Cornelia, who tries her best to get Godfrey fired. As Irene falls for her new butler, Godfrey turns the tables and teaches the frivolous Bullocks a lesson or two.",
+  "release_date": "1936-09-02",
+  "runtime": 95,
+  "budget": 575375,
+  "revenue": 684200,
+  "tmdb_vote_average": 7.546,
+  "tmdb_vote_count": 377,
+  "tmdb_popularity": 1.1035,
+  "original_language": "en",
+  "poster_path": "/wtfOW7fIxBZWY78rvUoPpWhMSiR.jpg",
+  "backdrop_path": "/96cNUk1Uj8fQcmbOTnpBauUdqzC.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 32428,
+      "name": "William Powell",
+      "character": "Godfrey",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 1.5006,
+      "profile_path": "/8DTWs389THkVCTiDFu0x8ekNmUC.jpg"
+    },
+    {
+      "personId": 2491,
+      "name": "Carole Lombard",
+      "character": "Irene Bullock",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 1.2308,
+      "profile_path": "/bPKG7DlExGyyl76A4OcGhO84P2L.jpg"
+    },
+    {
+      "personId": 125841,
+      "name": "Alice Brady",
+      "character": "Angelica Bullock",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 0.5508,
+      "profile_path": "/v9XVx9jV7ntUKog525jrYkSnq3n.jpg"
+    },
+    {
+      "personId": 98574,
+      "name": "Gail Patrick",
+      "character": "Cornelia Bullock",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 0.973,
+      "profile_path": "/ksduouJAKPjjeHMjx12nR7Rtbkt.jpg"
+    },
+    {
+      "personId": 8728,
+      "name": "Eugene Pallette",
+      "character": "Alexander Bullock",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 1.8192,
+      "profile_path": "/y3n1c9qjmJzGeZWihwm0QWlmDoR.jpg"
+    },
+    {
+      "personId": 80238,
+      "name": "Jean Dixon",
+      "character": "Molly",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 0.6585,
+      "profile_path": "/vVCyYX7paMvtaU9oXcXCCOs8Hjt.jpg"
+    },
+    {
+      "personId": 8240,
+      "name": "Alan Mowbray",
+      "character": "Tommy Gray",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 0.911,
+      "profile_path": "/tKkLxKHzZLhu675x7ehZ3gq2DVC.jpg"
+    },
+    {
+      "personId": 39801,
+      "name": "Mischa Auer",
+      "character": "Carlo",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 1.1648,
+      "profile_path": "/7mCfBcUq6FedSlD9lT6AWR3bIou.jpg"
+    },
+    {
+      "personId": 125842,
+      "name": "Pat Flaherty",
+      "character": "Mike Flaherty",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 1.7404,
+      "profile_path": "/qqEUkwI8daY5pTxMn5ZrPyFtlXt.jpg"
+    },
+    {
+      "personId": 125843,
+      "name": "Robert Light",
+      "character": "Faithful George",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 0.2621,
+      "profile_path": "/vUu10dmDEXhFu1RmZVTLmqtouUL.jpg"
+    },
+    {
+      "personId": 121323,
+      "name": "Bess Flowers",
+      "character": "Mrs. Merriweather (uncredited)",
+      "order": 10,
+      "cast_id": 22,
+      "popularity": 1.3223,
+      "profile_path": "/oErbIo6a2QPYZSqfdzU6vlDTD8i.jpg"
+    },
+    {
+      "personId": 122984,
+      "name": "Bert Moorhouse",
+      "character": "Card Playing Party Guest (uncredited)",
+      "order": 11,
+      "cast_id": 23,
+      "popularity": 0.4915,
+      "profile_path": null
+    },
+    {
+      "personId": 13966,
+      "name": "Franklin Pangborn",
+      "character": "Guthrie (uncredited)",
+      "order": 12,
+      "cast_id": 26,
+      "popularity": 0.6883,
+      "profile_path": "/dwVc1uGVVIhg7aplx7HLBmyObky.jpg"
+    },
+    {
+      "personId": 13968,
+      "name": "Grady Sutton",
+      "character": "Charlie Van Rumple (uncredited)",
+      "order": 13,
+      "cast_id": 25,
+      "popularity": 0.7907,
+      "profile_path": "/tNvIf1ATZiZJCrO7lkI056yK1zp.jpg"
+    },
+    {
+      "personId": 20391,
+      "name": "Jane Wyman",
+      "character": "Socialite (uncredited)",
+      "order": 14,
+      "cast_id": 21,
+      "popularity": 2.7235,
+      "profile_path": "/A5aHswRznZbCzbU4aD4lJ1r1J62.jpg"
+    },
+    {
+      "personId": 34098,
+      "name": "Ernie Adams",
+      "character": "Forgotten Man (uncredited)",
+      "order": 15,
+      "cast_id": 28,
+      "popularity": 0.7289,
+      "profile_path": "/zpKSSdsuDVofN1GAAbKnkn2GjrL.jpg"
+    },
+    {
+      "personId": 1471394,
+      "name": "Jimmy Aye",
+      "character": "Party Guest (uncredited)",
+      "order": 16,
+      "cast_id": 29,
+      "popularity": 0.1744,
+      "profile_path": null
+    },
+    {
+      "personId": 1471395,
+      "name": "James Carlisle",
+      "character": "Socialite (uncredited)",
+      "order": 17,
+      "cast_id": 30,
+      "popularity": 1.8065,
+      "profile_path": null
+    },
+    {
+      "personId": 120217,
+      "name": "Jack Chefe",
+      "character": "Headwaiter (uncredited)",
+      "order": 18,
+      "cast_id": 31,
+      "popularity": 1.1458,
+      "profile_path": "/qwR4x2bEx6fWVwcNgd08bsZxnGe.jpg"
+    },
+    {
+      "personId": 148528,
+      "name": "Phyllis Crane",
+      "character": "Party Guest (uncredited)",
+      "order": 19,
+      "cast_id": 32,
+      "popularity": 0.2953,
+      "profile_path": "/5lK6UaywFbcFsPn5bTINZWje8BY.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 74659,
+      "name": "Gregory La Cava",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6474,
+      "profile_path": "/7qlNjjrbLcKvdTY9q6s92qwFZK1.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 725,
+      "name": "lovesickness"
+    },
+    {
+      "id": 1307,
+      "name": "butler"
+    },
+    {
+      "id": 8783,
+      "name": "scavenger hunt"
+    },
+    {
+      "id": 12999,
+      "name": "black and white"
+    },
+    {
+      "id": 155457,
+      "name": "screwball comedy"
+    },
+    {
+      "id": 156037,
+      "name": "socialite"
+    },
+    {
+      "id": 156766,
+      "name": "depression era"
+    },
+    {
+      "id": 165282,
+      "name": "high society"
+    },
+    {
+      "id": 166139,
+      "name": "lovesick"
+    },
+    {
+      "id": 171493,
+      "name": "mentor protégé relationship"
+    },
+    {
+      "id": 181532,
+      "name": "protégé"
+    },
+    {
+      "id": 190182,
+      "name": "city dump"
+    },
+    {
+      "id": 219872,
+      "name": "idle rich"
+    },
+    {
+      "id": 301050,
+      "name": "propriety"
+    },
+    {
+      "id": 325765,
+      "name": "amused"
+    }
+  ]
+}

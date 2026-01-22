@@ -1,0 +1,263 @@
+{
+  "overview": "A pair of kidnappings expose the complex power dynamics within the corrupt and unpredictable workings of 1930s Kansas City.",
+  "release_date": "1996-08-16",
+  "runtime": 116,
+  "budget": 18000000,
+  "revenue": 0,
+  "tmdb_vote_average": 6.088,
+  "tmdb_vote_count": 91,
+  "tmdb_popularity": 2.8544,
+  "original_language": "en",
+  "poster_path": "/deD8SAbQYGvzcpRr50HUb9uj8xJ.jpg",
+  "backdrop_path": "/caeaH63bqRSwz2BvDbZLf2srdNP.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 11487,
+      "name": "Sandcastle 5",
+      "origin_country": "US"
+    },
+    {
+      "id": 105,
+      "name": "CiBy 2000",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10431,
+      "name": "Jennifer Jason Leigh",
+      "character": "Blondie O'Hara",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 5.7385,
+      "profile_path": "/yYD255SwZkFc1wGgBMVRZ2i7Ina.jpg"
+    },
+    {
+      "personId": 8436,
+      "name": "Miranda Richardson",
+      "character": "Carolyn Stilton",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 2.8654,
+      "profile_path": "/2IEW3fxqHb4AHBl5xU8JuipJbNK.jpg"
+    },
+    {
+      "personId": 33162,
+      "name": "Harry Belafonte",
+      "character": "Seldom Seen",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 0.8518,
+      "profile_path": "/8x9zZS36gSOKiTnUwoBqYKvnYg6.jpg"
+    },
+    {
+      "personId": 4776,
+      "name": "Michael Murphy",
+      "character": "Henry Stilton",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 1.128,
+      "profile_path": "/3quWjoqh8vKoSXE9Ll3AC7pgsRh.jpg"
+    },
+    {
+      "personId": 20212,
+      "name": "Dermot Mulroney",
+      "character": "Johnny O'Hara",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 5.4409,
+      "profile_path": "/zemTC606JcuMgIGbJMYAocrS5Gm.jpg"
+    },
+    {
+      "personId": 884,
+      "name": "Steve Buscemi",
+      "character": "Johnny Flynn",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 5.9344,
+      "profile_path": "/kFzw4U5pExnLKZWhR48VSzL8Fre.jpg"
+    },
+    {
+      "personId": 31649,
+      "name": "Brooke Smith",
+      "character": "Babe Flynn",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 2.6994,
+      "profile_path": "/zD6SyVPGnrtnHvC0QtucEDxDTk5.jpg"
+    },
+    {
+      "personId": 209,
+      "name": "Jane Adams",
+      "character": "Nettie Bolt",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 2.1521,
+      "profile_path": "/2FsPAoatMkUZ7khJ9r4Fa7ZxQzS.jpg"
+    },
+    {
+      "personId": 1393917,
+      "name": "Jeff Feringa",
+      "character": "Addie Parker",
+      "order": 8,
+      "cast_id": 19,
+      "popularity": 0.6756,
+      "profile_path": "/sy2at8q2AqBOgdfa3BC7sXB5Ht.jpg"
+    },
+    {
+      "personId": 2912820,
+      "name": "A.C. Smith",
+      "character": "Sheepshan Red",
+      "order": 9,
+      "cast_id": 48,
+      "popularity": 0.1103,
+      "profile_path": null
+    },
+    {
+      "personId": 4612768,
+      "name": "Martin Martin",
+      "character": "'Blue' Green",
+      "order": 10,
+      "cast_id": 49,
+      "popularity": 0.1669,
+      "profile_path": null
+    },
+    {
+      "personId": 4612763,
+      "name": "Albert J. Burnes",
+      "character": "Charlie Parker",
+      "order": 11,
+      "cast_id": 47,
+      "popularity": 0.514,
+      "profile_path": null
+    },
+    {
+      "personId": 4612762,
+      "name": "Ajia Mignon Johnson",
+      "character": "Pearl Cummings",
+      "order": 12,
+      "cast_id": 46,
+      "popularity": 0.3506,
+      "profile_path": null
+    },
+    {
+      "personId": 167764,
+      "name": "Tim Snay",
+      "character": "Rally Speaker",
+      "order": 13,
+      "cast_id": 20,
+      "popularity": 1.2968,
+      "profile_path": "/nXFwMggQALVAEOOheFx5G7WkISO.jpg"
+    },
+    {
+      "personId": 4612769,
+      "name": "Tawanna Benbow",
+      "character": "Rose",
+      "order": 14,
+      "cast_id": 50,
+      "popularity": 0.1605,
+      "profile_path": null
+    },
+    {
+      "personId": 2153705,
+      "name": "Cal Pritner",
+      "character": "Governor Park",
+      "order": 15,
+      "cast_id": 51,
+      "popularity": 0.1032,
+      "profile_path": null
+    },
+    {
+      "personId": 4612791,
+      "name": "Jerry Fornelli",
+      "character": "Tom Prendergast",
+      "order": 16,
+      "cast_id": 52,
+      "popularity": 0.0797,
+      "profile_path": null
+    },
+    {
+      "personId": 45390,
+      "name": "Michael Ornstein",
+      "character": "Jackie Ciro",
+      "order": 17,
+      "cast_id": 21,
+      "popularity": 0.9357,
+      "profile_path": "/hZoD2myizEpkM7FoB7FQKbqBucd.jpg"
+    },
+    {
+      "personId": 103478,
+      "name": "John Durbin",
+      "character": "Gas Station Attendant",
+      "order": 18,
+      "cast_id": 22,
+      "popularity": 1.2853,
+      "profile_path": "/7CXkYB58VHwQMDvZcEQC0vjmhiC.jpg"
+    },
+    {
+      "personId": 183517,
+      "name": "Gina Belafonte",
+      "character": "Hey-Hey Club Hostess",
+      "order": 19,
+      "cast_id": 23,
+      "popularity": 0.2899,
+      "profile_path": "/9OkG8ZrSE8OlrgfvCQ9ab7vq9rO.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 9789,
+      "name": "Robert Altman",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1528,
+      "profile_path": "/wB1R6patGi35oaxKU5PWEGJlIZg.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1416,
+      "name": "jazz"
+    },
+    {
+      "id": 1930,
+      "name": "kidnapping"
+    },
+    {
+      "id": 6083,
+      "name": "politician"
+    },
+    {
+      "id": 11016,
+      "name": "kansas city"
+    },
+    {
+      "id": 15134,
+      "name": "election"
+    },
+    {
+      "id": 214548,
+      "name": "1930s"
+    }
+  ]
+}

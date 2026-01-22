@@ -1,0 +1,267 @@
+{
+  "overview": "Four former harlots try to leave the wild west (Colorado, to be exact) and head north to make a better life for themselves. Unfortunately someone from Cody's past won't let it happen that easily.",
+  "release_date": "1994-04-22",
+  "runtime": 99,
+  "budget": 0,
+  "revenue": 15240435,
+  "tmdb_vote_average": 5.382,
+  "tmdb_vote_count": 259,
+  "tmdb_popularity": 4.9533,
+  "original_language": "en",
+  "poster_path": "/cXY79luLXt2dzUP2Tx601zpZFzK.jpg",
+  "backdrop_path": "/lliLm5qfg8lbTCMHSuZ2Dup5HCM.jpg",
+  "tmdb_genres_raw": [
+    "Romance",
+    "Western"
+  ],
+  "production_companies": [
+    {
+      "id": 89311,
+      "name": "Ruddy Morgan Organization, The",
+      "origin_country": ""
+    },
+    {
+      "id": 25,
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "es",
+      "name": "Español"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 289,
+      "name": "Madeleine Stowe",
+      "character": "Cody Zamora",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.4683,
+      "profile_path": "/k7iQLoCP11e7iVMp1LQimUQLZe8.jpg"
+    },
+    {
+      "personId": 31140,
+      "name": "Mary Stuart Masterson",
+      "character": "Anita Crown",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.5527,
+      "profile_path": "/sxQksTRKrubxcfjA5f1cQIr7dk9.jpg"
+    },
+    {
+      "personId": 1533,
+      "name": "Andie MacDowell",
+      "character": "Eileen Spenser",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 4.6211,
+      "profile_path": "/akeheO4i3cR1HpSU8yu9HrLcsKm.jpg"
+    },
+    {
+      "personId": 69597,
+      "name": "Drew Barrymore",
+      "character": "Lily Laronette",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 4.7495,
+      "profile_path": "/9xMu2GLC5otUcC11sEWC5aEAERQ.jpg"
+    },
+    {
+      "personId": 785,
+      "name": "James Russo",
+      "character": "Kid Jarrett",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 1.4874,
+      "profile_path": "/nubhNb5OUkzsrndD1BNqzp7MGyo.jpg"
+    },
+    {
+      "personId": 6474,
+      "name": "James LeGros",
+      "character": "William Tucker",
+      "order": 5,
+      "cast_id": 12,
+      "popularity": 2.5826,
+      "profile_path": "/q7AgI7xjFDSQPlilkT17YddAc93.jpg"
+    },
+    {
+      "personId": 1162,
+      "name": "Robert Loggia",
+      "character": "Frank Jarrett",
+      "order": 6,
+      "cast_id": 13,
+      "popularity": 3.1646,
+      "profile_path": "/mRSUgJnfprCNw83pyVfpfW7ryfK.jpg"
+    },
+    {
+      "personId": 20212,
+      "name": "Dermot Mulroney",
+      "character": "Josh McCoy",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 4.8562,
+      "profile_path": "/zemTC606JcuMgIGbJMYAocrS5Gm.jpg"
+    },
+    {
+      "personId": 29862,
+      "name": "Jim Beaver",
+      "character": "Pinkerton Detective Graves",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 2.7121,
+      "profile_path": "/c3Cqp1XAdcyeUZKkcrdQsPwb010.jpg"
+    },
+    {
+      "personId": 18461,
+      "name": "Nick Chinlund",
+      "character": "Pinkerton Detective O'Brady",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 2.3794,
+      "profile_path": "/lRmgWDIXqBTneGbKlJNSFyiis1e.jpg"
+    },
+    {
+      "personId": 179188,
+      "name": "Neil Summers",
+      "character": "Ned, Jarrett Gang",
+      "order": 10,
+      "cast_id": 17,
+      "popularity": 1.0924,
+      "profile_path": "/2ESnlgBQzWM17KvSao5GrJInd0u.jpg"
+    },
+    {
+      "personId": 1576553,
+      "name": "Daniel O'Haco",
+      "character": "Roberto, Jarrett Gang",
+      "order": 11,
+      "cast_id": 18,
+      "popularity": 1.363,
+      "profile_path": null
+    },
+    {
+      "personId": 999663,
+      "name": "Richard Reyes",
+      "character": "Rico, Jarrett Gang",
+      "order": 12,
+      "cast_id": 19,
+      "popularity": 0.0719,
+      "profile_path": null
+    },
+    {
+      "personId": 162172,
+      "name": "Alex Kubik",
+      "character": "Yuma, Jarrett Gang",
+      "order": 13,
+      "cast_id": 20,
+      "popularity": 1.7206,
+      "profile_path": "/YQIhpoLgKgXUUpC1H5wvYpIFoY.jpg"
+    },
+    {
+      "personId": 47883,
+      "name": "Will MacMillan",
+      "character": "Colonel Clayborne",
+      "order": 14,
+      "cast_id": 21,
+      "popularity": 1.1232,
+      "profile_path": "/At9AwQzKGg0OdzMQIQPaSaMVyNr.jpg"
+    },
+    {
+      "personId": 127738,
+      "name": "Harry Northup",
+      "character": "Preacher",
+      "order": 15,
+      "cast_id": 22,
+      "popularity": 0.4954,
+      "profile_path": "/1ezyUMnxuYuY21ZstfgZRutuwJ9.jpg"
+    },
+    {
+      "personId": 39430,
+      "name": "Don Hood",
+      "character": "Echo City Sheriff",
+      "order": 16,
+      "cast_id": 23,
+      "popularity": 1.6075,
+      "profile_path": "/rmYtSaA8Ib7T9DX3ODk8wcowInK.jpg"
+    },
+    {
+      "personId": 3085042,
+      "name": "Donald L. Montoya",
+      "character": "Station Master",
+      "order": 17,
+      "cast_id": 40,
+      "popularity": 0.0639,
+      "profile_path": null
+    },
+    {
+      "personId": 27508,
+      "name": "Zoaunne LeRoy",
+      "character": "Widow Clayborne",
+      "order": 18,
+      "cast_id": 41,
+      "popularity": 0.4164,
+      "profile_path": "/apInV1y8CS1G6LBHcSyKJxJd7hl.jpg"
+    },
+    {
+      "personId": 2806249,
+      "name": "Jimmy Lewis Jr.",
+      "character": "Surrey Driver",
+      "order": 19,
+      "cast_id": 42,
+      "popularity": 0.9789,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 42171,
+      "name": "Jonathan Kaplan",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7151,
+      "profile_path": "/zpaZ3UpWRt3HrnR1Mv8u9Mg54Pa.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6946,
+      "name": "blonde"
+    },
+    {
+      "id": 9748,
+      "name": "revenge"
+    },
+    {
+      "id": 34009,
+      "name": "tough girl"
+    },
+    {
+      "id": 155573,
+      "name": "wild west"
+    },
+    {
+      "id": 168405,
+      "name": "fast draw"
+    },
+    {
+      "id": 168418,
+      "name": "pistol duel"
+    },
+    {
+      "id": 168422,
+      "name": "small western town"
+    }
+  ]
+}

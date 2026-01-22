@@ -1,0 +1,292 @@
+{
+  "overview": "A color-blind psychiatrist is stalked by an unknown killer after taking over his murdered friend's therapy group and becomes embroiled in an intense affair with a mysterious woman who may be connected to the crime.",
+  "release_date": "1994-08-19",
+  "runtime": 121,
+  "budget": 40000000,
+  "revenue": 19700000,
+  "tmdb_vote_average": 5.743,
+  "tmdb_vote_count": 610,
+  "tmdb_popularity": 4.3714,
+  "original_language": "en",
+  "poster_path": "/w1OBPkf3BxeC7543YzFwiKIwBFJ.jpg",
+  "backdrop_path": "/3yFGxAMXvfsVWIEmzRbntELcdkw.jpg",
+  "tmdb_genres_raw": [
+    "Romance",
+    "Mystery",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 1504,
+      "name": "Cinergi Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 915,
+      "name": "Hollywood Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 62,
+      "name": "Bruce Willis",
+      "character": "Capa",
+      "order": 0,
+      "cast_id": 15,
+      "popularity": 8.2539,
+      "profile_path": "/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+    },
+    {
+      "personId": 21817,
+      "name": "Jane March",
+      "character": "Rose",
+      "order": 1,
+      "cast_id": 16,
+      "popularity": 1.7719,
+      "profile_path": "/poHLGSYfi2Q31ZwMdxVkIE7yOrX.jpg"
+    },
+    {
+      "personId": 2049,
+      "name": "Rubén Blades",
+      "character": "Hector",
+      "order": 2,
+      "cast_id": 17,
+      "popularity": 2.5817,
+      "profile_path": "/kOgVo3qDJ9jXgIZJRJI3I1bm6sA.jpg"
+    },
+    {
+      "personId": 21818,
+      "name": "Lesley Ann Warren",
+      "character": "Sondra",
+      "order": 3,
+      "cast_id": 18,
+      "popularity": 2.6336,
+      "profile_path": "/bjjYsxNJexJzSVZezMRQ9dOHdGN.jpg"
+    },
+    {
+      "personId": 2154,
+      "name": "Scott Bakula",
+      "character": "Dr. Bob",
+      "order": 4,
+      "cast_id": 19,
+      "popularity": 2.6618,
+      "profile_path": "/meZvcpXmcFlrJUeme4UpH4GZeNV.jpg"
+    },
+    {
+      "personId": 1370,
+      "name": "Brad Dourif",
+      "character": "Clark",
+      "order": 5,
+      "cast_id": 20,
+      "popularity": 3.2923,
+      "profile_path": "/ex7AmuHM3owhUetYZAyOmN1ehWS.jpg"
+    },
+    {
+      "personId": 2714,
+      "name": "Lance Henriksen",
+      "character": "Buck",
+      "order": 6,
+      "cast_id": 21,
+      "popularity": 2.918,
+      "profile_path": "/1PkFmD5HdjmRa2DumtwINnnAjTH.jpg"
+    },
+    {
+      "personId": 18916,
+      "name": "Kevin J. O'Connor",
+      "character": "Casey",
+      "order": 7,
+      "cast_id": 28,
+      "popularity": 2.2717,
+      "profile_path": "/9ZO0QYkxjhThd8IVqSJw7gHyQ68.jpg"
+    },
+    {
+      "personId": 65704,
+      "name": "Andrew Lowery",
+      "character": "Dale",
+      "order": 8,
+      "cast_id": 27,
+      "popularity": 0.6018,
+      "profile_path": "/Amx29qyfDgYdkHbyQZN5MGAzlVc.jpg"
+    },
+    {
+      "personId": 23628,
+      "name": "Eriq La Salle",
+      "character": "Anderson",
+      "order": 9,
+      "cast_id": 22,
+      "popularity": 1.588,
+      "profile_path": "/3h8c10QW6k7Ck0IWko76SUMiD7F.jpg"
+    },
+    {
+      "personId": 9596,
+      "name": "Jeff Corey",
+      "character": "Ashland",
+      "order": 10,
+      "cast_id": 24,
+      "popularity": 1.5226,
+      "profile_path": "/n1BIWS5L0D6HmS0TpVZMHmDJY6g.jpg"
+    },
+    {
+      "personId": 42335,
+      "name": "Kathleen Wilhoite",
+      "character": "Michelle",
+      "order": 11,
+      "cast_id": 25,
+      "popularity": 2.5538,
+      "profile_path": "/aZAAeuvWxE6bOpm9v2vZ2A0NCjq.jpg"
+    },
+    {
+      "personId": 28778,
+      "name": "Shirley Knight",
+      "character": "Edith Niedelmeyer",
+      "order": 12,
+      "cast_id": 26,
+      "popularity": 1.3493,
+      "profile_path": "/5m1S3lOEP79hq10IODqEIfDPa1T.jpg"
+    },
+    {
+      "personId": 1638394,
+      "name": "John Bower",
+      "character": "Medical Examiner",
+      "order": 13,
+      "cast_id": 29,
+      "popularity": 2.1523,
+      "profile_path": null
+    },
+    {
+      "personId": 1546232,
+      "name": "Avi Korein",
+      "character": "Bouncer",
+      "order": 14,
+      "cast_id": 30,
+      "popularity": 0.1842,
+      "profile_path": null
+    },
+    {
+      "personId": 1330875,
+      "name": "Steven R. Barnett",
+      "character": "Cop #1",
+      "order": 15,
+      "cast_id": 32,
+      "popularity": 0.6027,
+      "profile_path": null
+    },
+    {
+      "personId": 2304705,
+      "name": "Roberta Storm",
+      "character": "Receptionist",
+      "order": 16,
+      "cast_id": 33,
+      "popularity": 0.1865,
+      "profile_path": null
+    },
+    {
+      "personId": 18917,
+      "name": "Erick Avari",
+      "character": "Cabbie (uncredited)",
+      "order": 17,
+      "cast_id": 40,
+      "popularity": 2.7001,
+      "profile_path": "/aO53uKgLUCID9rCI0SRAIEdsIex.jpg"
+    },
+    {
+      "personId": 1375144,
+      "name": "Lena Banks",
+      "character": "Mrs. Capa on picture (uncredited)",
+      "order": 18,
+      "cast_id": 41,
+      "popularity": 1.4335,
+      "profile_path": "/aM4r0uAUo1JodhJQGW6BIxQOaDG.jpg"
+    },
+    {
+      "personId": 227578,
+      "name": "Rachel Wagner",
+      "character": "Dancer (uncredited)",
+      "order": 19,
+      "cast_id": 42,
+      "popularity": 0.4308,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 21806,
+      "name": "Richard Rush",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.5223,
+      "profile_path": "/9z2ybXyx9lDblnop7HmsZ3oqyGa.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 387,
+      "name": "california"
+    },
+    {
+      "id": 2726,
+      "name": "therapist"
+    },
+    {
+      "id": 1308,
+      "name": "secret identity"
+    },
+    {
+      "id": 2340,
+      "name": "paranoia"
+    },
+    {
+      "id": 1664,
+      "name": "eroticism"
+    },
+    {
+      "id": 2655,
+      "name": "group therapy"
+    },
+    {
+      "id": 9872,
+      "name": "grief"
+    },
+    {
+      "id": 11036,
+      "name": "obsessive compulsive disorder (ocd)"
+    },
+    {
+      "id": 15106,
+      "name": "psychiatrist"
+    },
+    {
+      "id": 18118,
+      "name": "disguise"
+    },
+    {
+      "id": 41329,
+      "name": "mental illness"
+    },
+    {
+      "id": 155812,
+      "name": "color blindness"
+    },
+    {
+      "id": 178649,
+      "name": "voyeurism"
+    },
+    {
+      "id": 309974,
+      "name": "absurd"
+    }
+  ]
+}

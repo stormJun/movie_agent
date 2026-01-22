@@ -1,0 +1,262 @@
+{
+  "overview": "Two teen girls, one from the city, one from the country, try to find the hidden gold of Bear Mountain learning about friendship, loyalty and courage on the way.",
+  "release_date": "1995-11-03",
+  "runtime": 94,
+  "budget": 0,
+  "revenue": 6029091,
+  "tmdb_vote_average": 6.205,
+  "tmdb_vote_count": 156,
+  "tmdb_popularity": 0.9845,
+  "original_language": "en",
+  "poster_path": "/6USWKkOjS40KY19Q0gPEelEiDhc.jpg",
+  "backdrop_path": "/jialBd7dHN2kqhVxcYVsUZZDMBM.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Adventure",
+    "Family",
+    "Mystery"
+  ],
+  "production_companies": [
+    {
+      "id": 11393,
+      "name": "Bregman/Baer Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 69625,
+      "name": "Universal City Studios",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6886,
+      "name": "Christina Ricci",
+      "character": "Beth Easton",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 4.2915,
+      "profile_path": "/dzB58d6fNrTEi7nBAU1tySJc2at.jpg"
+    },
+    {
+      "personId": 34612,
+      "name": "Anna Chlumsky",
+      "character": "Jody Salerno",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 3.4904,
+      "profile_path": "/y5FMFdsORlQVhUWiR8yC35COlpO.jpg"
+    },
+    {
+      "personId": 114470,
+      "name": "Polly Draper",
+      "character": "Kate Easton",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 1.2982,
+      "profile_path": "/iMLGOq79b9w3eErmwQSPoSREsUa.jpg"
+    },
+    {
+      "personId": 50464,
+      "name": "Brian Kerwin",
+      "character": "Matt Hollinger",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 1.3394,
+      "profile_path": "/4OSrhPMEkRHcDXEkXba0FxF0WQD.jpg"
+    },
+    {
+      "personId": 2958,
+      "name": "Diana Scarwid",
+      "character": "Lynette Salerno",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 1.6682,
+      "profile_path": "/jGxYoIVKP8neczCUPHxBMoOY8lH.jpg"
+    },
+    {
+      "personId": 18181,
+      "name": "David Keith",
+      "character": "Ray Karnisak",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 1.8713,
+      "profile_path": "/zY0egiQb1iLx74GxcKgYOHNEgRM.jpg"
+    },
+    {
+      "personId": 56522,
+      "name": "Gillian Barber",
+      "character": "Grace Briggs",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 1.1304,
+      "profile_path": "/9ARa8Bw1s4dZzZyEMHDti8fwPbx.jpg"
+    },
+    {
+      "personId": 114471,
+      "name": "Ashleigh Aston Moore",
+      "character": "Tracy Briggs",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 2.1706,
+      "profile_path": "/p5B4SBp0ctQiDFYCu98RlY5E9R3.jpg"
+    },
+    {
+      "personId": 72092,
+      "name": "Jewel Staite",
+      "character": "Samantha",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 2.6277,
+      "profile_path": "/ztxDIZvuPreUixO6ZPxwkCg2UlO.jpg"
+    },
+    {
+      "personId": 114472,
+      "name": "Amy Kirk",
+      "character": "Molly Morgan",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 0.0457,
+      "profile_path": null
+    },
+    {
+      "personId": 114473,
+      "name": "Dwight McFee",
+      "character": "Sgt. Weller",
+      "order": 10,
+      "cast_id": 13,
+      "popularity": 0.9894,
+      "profile_path": "/ivFWCfSQJhnDpRwU7dgyhZwCte6.jpg"
+    },
+    {
+      "personId": 102748,
+      "name": "Andrew Wheeler",
+      "character": "Hank",
+      "order": 11,
+      "cast_id": 14,
+      "popularity": 1.2106,
+      "profile_path": "/bevGraSMlYp5HMu6pD7O9JDyP7l.jpg"
+    },
+    {
+      "personId": 25877,
+      "name": "Roger Cross",
+      "character": "Paramedic",
+      "order": 12,
+      "cast_id": 18,
+      "popularity": 3.1786,
+      "profile_path": "/gLbHM7JH2nWCeEzSjzAYBUOSkT8.jpg"
+    },
+    {
+      "personId": 102749,
+      "name": "Kimberley Warnat",
+      "character": "Girl",
+      "order": 13,
+      "cast_id": 16,
+      "popularity": 1.9644,
+      "profile_path": "/cdGjZDj3Fg6KWm2xyLrT9im4xBR.jpg"
+    },
+    {
+      "personId": 59926,
+      "name": "Jesse Moss",
+      "character": "Adam",
+      "order": 14,
+      "cast_id": 17,
+      "popularity": 1.4866,
+      "profile_path": "/ki9S8rLqvhde9nYaUqrMisCSqwq.jpg"
+    },
+    {
+      "personId": 1748619,
+      "name": "Scott Augustine",
+      "character": "Doug",
+      "order": 15,
+      "cast_id": 68,
+      "popularity": 0.3851,
+      "profile_path": null
+    },
+    {
+      "personId": 60294,
+      "name": "Steve Makaj",
+      "character": "Deputy Ted",
+      "order": 16,
+      "cast_id": 69,
+      "popularity": 1.615,
+      "profile_path": "/r9avzcVGGOu0JvzCXghbYs77vlu.jpg"
+    },
+    {
+      "personId": 1222731,
+      "name": "Betty Phillips",
+      "character": "Mysterious Woman",
+      "order": 17,
+      "cast_id": 70,
+      "popularity": 0.503,
+      "profile_path": "/fWriIbWVUENPuJsUn3nSVD5EnN1.jpg"
+    },
+    {
+      "personId": 63791,
+      "name": "Jay Brazeau",
+      "character": "Everett Graham",
+      "order": 18,
+      "cast_id": 71,
+      "popularity": 1.5744,
+      "profile_path": "/sfZmnOv1Nd6jqeks5QtsW2Co3uH.jpg"
+    },
+    {
+      "personId": 81667,
+      "name": "Jennifer Hale",
+      "character": "Adult Beth (voice)",
+      "order": 19,
+      "cast_id": 72,
+      "popularity": 2.3867,
+      "profile_path": "/oNQCrdiSm0mABCcE5YaHwuZQK8X.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 114468,
+      "name": "Kevin James Dobson",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.6348,
+      "profile_path": "/x9lbAgx9qVz24HlSW8xzCB2wiJ9.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6054,
+      "name": "friendship"
+    },
+    {
+      "id": 1321,
+      "name": "gold"
+    },
+    {
+      "id": 1964,
+      "name": "cave"
+    },
+    {
+      "id": 10809,
+      "name": "teenage girl"
+    },
+    {
+      "id": 240315,
+      "name": "mother daughter relationship"
+    }
+  ]
+}

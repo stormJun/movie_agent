@@ -1,0 +1,258 @@
+{
+  "overview": "A wacky group of locals visit the neighborhood cigar shop, looking for good times and finding plenty of hilarious fun. But when the greedy owner threatens to close the shop for good and turn it into a trendy vegetarian restaurant, the neighborhood proves they'll do just about anything to save their favorite hangout.",
+  "release_date": "1995-09-15",
+  "runtime": 83,
+  "budget": 2000000,
+  "revenue": 1300000,
+  "tmdb_vote_average": 6.514,
+  "tmdb_vote_count": 177,
+  "tmdb_popularity": 0.9544,
+  "original_language": "en",
+  "poster_path": "/u0iwm9SDjlfFZDrSdSbcebX7VUG.jpg",
+  "backdrop_path": "/qszPxuer6ibhX8IAFVrGPeAGlAF.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 30334,
+      "name": "InterAL",
+      "origin_country": ""
+    },
+    {
+      "id": 14,
+      "name": "Miramax",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1037,
+      "name": "Harvey Keitel",
+      "character": "Auggie Wren",
+      "order": 0,
+      "cast_id": 22,
+      "popularity": 4.7105,
+      "profile_path": "/7P30hza1neYWW3r7rSQOC736K2Z.jpg"
+    },
+    {
+      "personId": 46394,
+      "name": "Mel Gorham",
+      "character": "Violet",
+      "order": 1,
+      "cast_id": 7,
+      "popularity": 0.8317,
+      "profile_path": "/m1ju0BoV10CWPs0BuGw9rViX1Zj.jpg"
+    },
+    {
+      "personId": 2561,
+      "name": "Victor Argo",
+      "character": "Vinnie",
+      "order": 2,
+      "cast_id": 14,
+      "popularity": 1.0806,
+      "profile_path": "/of6bhqwk4HA5Bu8d16OtuD0HYom.jpg"
+    },
+    {
+      "personId": 46393,
+      "name": "Roseanne Barr",
+      "character": "Dot",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 1.0937,
+      "profile_path": "/oyY5lWTFzhymLB4sJ1OODseI3jR.jpg"
+    },
+    {
+      "personId": 4808,
+      "name": "Giancarlo Esposito",
+      "character": "Tommy Finelli",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 5.2377,
+      "profile_path": "/MJOo4QZgMAb3y8QzOUDVFQusQZ.jpg"
+    },
+    {
+      "personId": 15440,
+      "name": "Jared Harris",
+      "character": "Jimmy Rose",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 3.8094,
+      "profile_path": "/jAyPWkmge3BqXtgxIG9MfXBzOGj.jpg"
+    },
+    {
+      "personId": 10963,
+      "name": "José Zúñiga",
+      "character": "Jerry",
+      "order": 6,
+      "cast_id": 13,
+      "popularity": 2.4138,
+      "profile_path": "/r6nFkJkMHP9tFDohwfav9Bf2rCR.jpg"
+    },
+    {
+      "personId": 4429,
+      "name": "Jim Jarmusch",
+      "character": "Bob",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 1.627,
+      "profile_path": "/iMpIrvhoO9SZWhiDkSzaUt9Yd4N.jpg"
+    },
+    {
+      "personId": 46392,
+      "name": "Lou Reed",
+      "character": "Man with Strange Glasses",
+      "order": 8,
+      "cast_id": 4,
+      "popularity": 3.055,
+      "profile_path": "/lWFiXdQtYHqr2EXnk5nhDFm36XF.jpg"
+    },
+    {
+      "personId": 65827,
+      "name": "Keith David",
+      "character": "Jackie Robinson",
+      "order": 9,
+      "cast_id": 20,
+      "popularity": 5.1624,
+      "profile_path": "/hwykAZLSIP5Cb2bbauZ4CEEmq0u.jpg"
+    },
+    {
+      "personId": 521,
+      "name": "Michael J. Fox",
+      "character": "Pete Maloney",
+      "order": 10,
+      "cast_id": 5,
+      "popularity": 4.0225,
+      "profile_path": "/c8wWX6QsmrvwZ1flHF5iprAPdK7.jpg"
+    },
+    {
+      "personId": 10437,
+      "name": "Lily Tomlin",
+      "character": "Waffle eater",
+      "order": 11,
+      "cast_id": 9,
+      "popularity": 1.6527,
+      "profile_path": "/eoFMSqRykiaXMGCiz7Kxehfqy1W.jpg"
+    },
+    {
+      "personId": 3125,
+      "name": "Madonna",
+      "character": "Singing Telegram",
+      "order": 12,
+      "cast_id": 17,
+      "popularity": 2.1053,
+      "profile_path": "/d11f76gpql9RNSnyYgZ6yQr5DW7.jpg"
+    },
+    {
+      "personId": 23931,
+      "name": "Mira Sorvino",
+      "character": "Young lady",
+      "order": 13,
+      "cast_id": 19,
+      "popularity": 4.7289,
+      "profile_path": "/3CPM8yvppihiKsA1pf4x8PJe4x6.jpg"
+    },
+    {
+      "personId": 12977,
+      "name": "Malik Yoba",
+      "character": "Watch Man",
+      "order": 14,
+      "cast_id": 12,
+      "popularity": 1.6446,
+      "profile_path": "/nq7sNTe2I6xAoN2JiCrbDaZq5kn.jpg"
+    },
+    {
+      "personId": 6394,
+      "name": "John Lurie",
+      "character": "Saxophone player",
+      "order": 15,
+      "cast_id": 16,
+      "popularity": 0.9936,
+      "profile_path": "/ocxaaEEcdtKgQTIkkN55L7K1YGh.jpg"
+    },
+    {
+      "personId": 46395,
+      "name": "Stephen Gevedon",
+      "character": "Dennis",
+      "order": 16,
+      "cast_id": 15,
+      "popularity": 0.7818,
+      "profile_path": "/6VM3pEpwebjUKJvIlxzRu4LnBoP.jpg"
+    },
+    {
+      "personId": 46396,
+      "name": "Sharif Rashed",
+      "character": "Purse snatcher",
+      "order": 17,
+      "cast_id": 18,
+      "popularity": 1.9692,
+      "profile_path": "/xG792l8acpHKN9ptrYjFvPjGX43.jpg"
+    },
+    {
+      "personId": 46397,
+      "name": "Peggy Gormley",
+      "character": "Sue the waitress",
+      "order": 18,
+      "cast_id": 21,
+      "popularity": 0.4093,
+      "profile_path": "/jcePgWT2Hr69r2WNXXJJE1K8SFp.jpg"
+    },
+    {
+      "personId": 78589,
+      "name": "RuPaul",
+      "character": "Dancer",
+      "order": 19,
+      "cast_id": 39,
+      "popularity": 1.637,
+      "profile_path": "/aqmub88LK5Cic8yZwwfcDqIQQqk.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 46391,
+      "name": "Paul Auster",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4167,
+      "profile_path": "/oyjzonrhI6ODAPzsyJ2mMdSCwqp.jpg"
+    },
+    {
+      "personId": 39819,
+      "name": "Wayne Wang",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8475,
+      "profile_path": "/wtw5Cg8dWy9N7Fvn9SWvboibWek.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 919,
+      "name": "smoking"
+    },
+    {
+      "id": 1901,
+      "name": "corner shop"
+    },
+    {
+      "id": 3170,
+      "name": "cigarette"
+    },
+    {
+      "id": 6357,
+      "name": "tobacco"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "overview": "In 19th century New York high society, a young lawyer falls in love with a woman separated from her husband, while he is engaged to the woman's cousin.",
+  "release_date": "1993-09-10",
+  "runtime": 139,
+  "budget": 34000000,
+  "revenue": 32255440,
+  "tmdb_vote_average": 6.969,
+  "tmdb_vote_count": 1180,
+  "tmdb_popularity": 2.4121,
+  "original_language": "en",
+  "poster_path": "/5Tuyt26v7qNR8Cl3m7ZRx36rduf.jpg",
+  "backdrop_path": "/jha4hsGYlxPSsZC2AL35PJNW3o5.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 211783,
+      "name": "Cappa/De Fina Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "it",
+      "name": "Italiano"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11856,
+      "name": "Daniel Day-Lewis",
+      "character": "Newland Archer",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.0714,
+      "profile_path": "/3kNA9VcmymoEwT0btQ4bvMYxzcP.jpg"
+    },
+    {
+      "personId": 1160,
+      "name": "Michelle Pfeiffer",
+      "character": "Ellen Olenska",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 5.4029,
+      "profile_path": "/oGUmQBU87QXAsnaGleYaAjAXSlj.jpg"
+    },
+    {
+      "personId": 1920,
+      "name": "Winona Ryder",
+      "character": "May Welland",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 22.1809,
+      "profile_path": "/dlffgYbqr1BllWacVLhAFw23nLl.jpg"
+    },
+    {
+      "personId": 65284,
+      "name": "Alexis Smith",
+      "character": "Louisa van der Luyden",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.2069,
+      "profile_path": "/xvyrZ9EVZNIRmNIDZFsiUjN6DRr.jpg"
+    },
+    {
+      "personId": 400,
+      "name": "Geraldine Chaplin",
+      "character": "Mrs. Welland",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 4.7251,
+      "profile_path": "/hu9GC4GaJhgsjz99IrmO5YnzHiC.jpg"
+    },
+    {
+      "personId": 378,
+      "name": "Jonathan Pryce",
+      "character": "Rivière",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 3.6834,
+      "profile_path": "/zwSv5uXzPTtmitFe39UdqnVwmdL.jpg"
+    },
+    {
+      "personId": 20766,
+      "name": "Richard E. Grant",
+      "character": "Lawrence \"Larry\" Lefferts",
+      "order": 6,
+      "cast_id": 19,
+      "popularity": 3.138,
+      "profile_path": "/6UXv8E4WWvRCKMQx1FQ0FJVyu0a.jpg"
+    },
+    {
+      "personId": 8224,
+      "name": "Alec McCowen",
+      "character": "Sillerton Jackson",
+      "order": 7,
+      "cast_id": 20,
+      "popularity": 0.769,
+      "profile_path": "/f0J6VHLTMNo4rNTgHpJUv0odlFM.jpg"
+    },
+    {
+      "personId": 54782,
+      "name": "Mary Beth Hurt",
+      "character": "Regina Beaufort",
+      "order": 8,
+      "cast_id": 21,
+      "popularity": 1.0287,
+      "profile_path": "/kX58VOb6a5c4kmjfCIudcWqU24H.jpg"
+    },
+    {
+      "personId": 14344,
+      "name": "Stuart Wilson",
+      "character": "Julius Beaufort",
+      "order": 9,
+      "cast_id": 22,
+      "popularity": 1.6429,
+      "profile_path": "/ghP4hkVaNc4upspxsLQCwkOBhy6.jpg"
+    },
+    {
+      "personId": 28028,
+      "name": "Howard Erskine",
+      "character": "Beaufort Guest",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 0.9163,
+      "profile_path": "/9lMzFyWK0lOdlRfFUO0NXqrOVm4.jpg"
+    },
+    {
+      "personId": 1190705,
+      "name": "John McLoughlin",
+      "character": "Party Guest",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 0.5544,
+      "profile_path": null
+    },
+    {
+      "personId": 1190706,
+      "name": "Christopher Nilsson",
+      "character": "Party Guest",
+      "order": 12,
+      "cast_id": 25,
+      "popularity": 0.0621,
+      "profile_path": null
+    },
+    {
+      "personId": 6199,
+      "name": "Miriam Margolyes",
+      "character": "Mrs. Catherine Mingott",
+      "order": 13,
+      "cast_id": 26,
+      "popularity": 2.1728,
+      "profile_path": "/vsnCGCp0nhJTag56HP8XFhXnZo9.jpg"
+    },
+    {
+      "personId": 12522,
+      "name": "Siân Phillips",
+      "character": "Mrs. Archer",
+      "order": 14,
+      "cast_id": 27,
+      "popularity": 1.3656,
+      "profile_path": "/k2OIQZUWLTlZYfHjpS5X8csYbSY.jpg"
+    },
+    {
+      "personId": 1033159,
+      "name": "Carolyn Farina",
+      "character": "Janey Archer",
+      "order": 15,
+      "cast_id": 28,
+      "popularity": 0.4776,
+      "profile_path": "/pw05DL4jGc4BtXXZVGGbIc04QY9.jpg"
+    },
+    {
+      "personId": 3796,
+      "name": "Michael Gough",
+      "character": "Henry van der Luyden",
+      "order": 16,
+      "cast_id": 29,
+      "popularity": 1.4617,
+      "profile_path": "/yoxoYUnySjL0Ccyle91AkPTxXbC.jpg"
+    },
+    {
+      "personId": 109410,
+      "name": "Joanne Woodward",
+      "character": "Narrator (voice)",
+      "order": 17,
+      "cast_id": 30,
+      "popularity": 1.154,
+      "profile_path": "/oMBMP0x9Vxq9u2Kv6XFP167JAHF.jpg"
+    },
+    {
+      "personId": 2692,
+      "name": "Robert Sean Leonard",
+      "character": "Theodore \"Ted\" Archer",
+      "order": 18,
+      "cast_id": 31,
+      "popularity": 3.8095,
+      "profile_path": "/nlDEfUE4GH6UVEQS5v7NG9sXY8X.jpg"
+    },
+    {
+      "personId": 35515,
+      "name": "June Squibb",
+      "character": "Mingott Maid",
+      "order": 19,
+      "cast_id": 32,
+      "popularity": 1.9257,
+      "profile_path": "/a7vkoLhc8JGkdvDbHvpgKKHUPHH.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1032,
+      "name": "Martin Scorsese",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 3.6762,
+      "profile_path": "/g3DjfKsgZQWZiw30I20hZVk1oMX.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1326,
+      "name": "infidelity"
+    },
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 213,
+      "name": "upper class"
+    },
+    {
+      "id": 4320,
+      "name": "lover"
+    },
+    {
+      "id": 9886,
+      "name": "countess"
+    },
+    {
+      "id": 10909,
+      "name": "lawyer"
+    },
+    {
+      "id": 207928,
+      "name": "19th century"
+    }
+  ]
+}

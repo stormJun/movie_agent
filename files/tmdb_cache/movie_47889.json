@@ -1,0 +1,165 @@
+{
+  "overview": "Reeling from her mother's recent death, Ruby Lee Gissing relocates to Florida to start anew. After finding a job at a souvenir store, Ruby becomes friends with the shop's owner, Mildred Chambers, and slowly acclimates to her new surroundings. Before long, she's juggling the affections of Mildred's Lothario son, Ricky, and the good-natured Mike. As she wavers between Ricky and Mike, Ruby also tries to come to terms with her past.",
+  "release_date": "1993-10-08",
+  "runtime": 114,
+  "budget": 800000,
+  "revenue": 1001437,
+  "tmdb_vote_average": 5.9,
+  "tmdb_vote_count": 36,
+  "tmdb_popularity": 0.4072,
+  "original_language": "en",
+  "poster_path": "/gk0vbIVYwpXxSf1wQbS2r9IsBoV.jpg",
+  "backdrop_path": "/zcPBI0vCuYkG9ml8E3loZPtI7Ye.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 75712,
+      "name": "Ruby in Paradise",
+      "origin_country": ""
+    },
+    {
+      "id": 75713,
+      "name": "Full Crew/Say Yea",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 15852,
+      "name": "Ashley Judd",
+      "character": "Ruby Lee Gissing",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 4.1874,
+      "profile_path": "/5771ZxVIs5rQbI1SV8TOlAFcF15.jpg"
+    },
+    {
+      "personId": 5010,
+      "name": "Todd Field",
+      "character": "Mike McCaslin",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 1.3778,
+      "profile_path": "/KR12bc20pVnlTr0wir8XuxW3Pt.jpg"
+    },
+    {
+      "personId": 127544,
+      "name": "Bentley Mitchum",
+      "character": "Ricky Chambers",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 1.055,
+      "profile_path": "/7gKMXmpo5heq8dDuD3emUzSBl59.jpg"
+    },
+    {
+      "personId": 19488,
+      "name": "Dorothy Lyman",
+      "character": "Mildred Chambers",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 1.6124,
+      "profile_path": "/fXBwBgxKyOIwha47Csx5AEAVSEe.jpg"
+    },
+    {
+      "personId": 167736,
+      "name": "Allison Dean",
+      "character": "Rochelle Bridges",
+      "order": 4,
+      "cast_id": 18,
+      "popularity": 2.5844,
+      "profile_path": "/tpdKWbK5BxTyZZHMbIbTM5G62VQ.jpg"
+    },
+    {
+      "personId": 1607815,
+      "name": "Betsy Douds",
+      "character": "Debrah Ann",
+      "order": 5,
+      "cast_id": 19,
+      "popularity": 0.2768,
+      "profile_path": null
+    },
+    {
+      "personId": 1607816,
+      "name": "Felicia Hernández",
+      "character": "Persefina",
+      "order": 6,
+      "cast_id": 20,
+      "popularity": 0.2787,
+      "profile_path": null
+    },
+    {
+      "personId": 1607817,
+      "name": "Divya Satia",
+      "character": "Indian Singer",
+      "order": 7,
+      "cast_id": 21,
+      "popularity": 0.2687,
+      "profile_path": null
+    },
+    {
+      "personId": 1607818,
+      "name": "Bobby Barnes",
+      "character": "Wanda",
+      "order": 8,
+      "cast_id": 22,
+      "popularity": 0.0434,
+      "profile_path": null
+    },
+    {
+      "personId": 3109402,
+      "name": "Jean Garrido",
+      "character": "Bar Dancer",
+      "order": 9,
+      "cast_id": 23,
+      "popularity": 0.0412,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 138322,
+      "name": "Victor Nuñez",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1433,
+      "profile_path": "/uFyH8tPU7oN6l1CK47e7mR4ORAL.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1196,
+      "name": "florida"
+    },
+    {
+      "id": 155419,
+      "name": "shoplifting"
+    },
+    {
+      "id": 158054,
+      "name": "spring break"
+    },
+    {
+      "id": 226518,
+      "name": "souvenir shop"
+    },
+    {
+      "id": 326553,
+      "name": "northanger abbey"
+    }
+  ]
+}

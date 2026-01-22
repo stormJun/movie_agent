@@ -1,0 +1,275 @@
+{
+  "overview": "Cheated on, mistreated and stepped on, the women are holding their breath, waiting for the elusive \"good man\" to break a string of less-than-stellar lovers. Friends and confidants Vannah, Bernie, Glo and Robin talk it all out, determined to find a better way to breathe.",
+  "release_date": "1995-12-22",
+  "runtime": 127,
+  "budget": 16000000,
+  "revenue": 81452156,
+  "tmdb_vote_average": 6.2,
+  "tmdb_vote_count": 188,
+  "tmdb_popularity": 2.4366,
+  "original_language": "en",
+  "poster_path": "/8MprEuTY3EwkF9nBBPCUyjRjvs5.jpg",
+  "backdrop_path": "/jZjoEKXMTDoZAGdkjhAdJaKtXSN.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 25,
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8851,
+      "name": "Whitney Houston",
+      "character": "Savannah",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.4375,
+      "profile_path": "/5su69sRCQReFTS94j2OtcgIQLne.jpg"
+    },
+    {
+      "personId": 9780,
+      "name": "Angela Bassett",
+      "character": "Bernadine",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 3.9664,
+      "profile_path": "/tKnuviliyeKNGlo26IU5gIrJAtd.jpg"
+    },
+    {
+      "personId": 18284,
+      "name": "Loretta Devine",
+      "character": "Gloria",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.8746,
+      "profile_path": "/cGTQ0X19bkMWqL6O00JK2t6uJBK.jpg"
+    },
+    {
+      "personId": 51359,
+      "name": "Lela Rochon",
+      "character": "Robin",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.4173,
+      "profile_path": "/9DBu3r5O4fBosSS4FnSzFCVpm0O.jpg"
+    },
+    {
+      "personId": 66804,
+      "name": "Gregory Hines",
+      "character": "Marvin",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.9892,
+      "profile_path": "/tQDKvHbKAu6Jf90owFAvtYs0ADR.jpg"
+    },
+    {
+      "personId": 352,
+      "name": "Dennis Haysbert",
+      "character": "Kenneth",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 2.4269,
+      "profile_path": "/lcnjaw2CFN6q9eaes1jTYrUB0rb.jpg"
+    },
+    {
+      "personId": 34,
+      "name": "Mykelti Williamson",
+      "character": "Troy",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 2.6738,
+      "profile_path": "/dR16zD9AjnHWbeN5OVmJWE0vSax.jpg"
+    },
+    {
+      "personId": 87118,
+      "name": "Michael Beach",
+      "character": "John, Sr.",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 3.0485,
+      "profile_path": "/7gCBCpK2OSzuUWk5iTZds9NjqkF.jpg"
+    },
+    {
+      "personId": 12974,
+      "name": "Leon",
+      "character": "Russell",
+      "order": 8,
+      "cast_id": 37,
+      "popularity": 1.5021,
+      "profile_path": "/uhLVZV2rH0nnXwQKtsIT0qGsTyg.jpg"
+    },
+    {
+      "personId": 17859,
+      "name": "Wendell Pierce",
+      "character": "Michael",
+      "order": 9,
+      "cast_id": 22,
+      "popularity": 2.995,
+      "profile_path": "/r6yKahL6Z8l9aUX5qvWxTmWl8Nm.jpg"
+    },
+    {
+      "personId": 49002,
+      "name": "Donald Faison",
+      "character": "Tarik",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 1.4867,
+      "profile_path": "/gNwWP1CHob9Y8fjY69w7EwGxMoz.jpg"
+    },
+    {
+      "personId": 103898,
+      "name": "Jeffrey D. Sams",
+      "character": "Lionel",
+      "order": 11,
+      "cast_id": 36,
+      "popularity": 0.8199,
+      "profile_path": "/tEjdUfCEiX7ZrPm2HTGs5Y1Sn7V.jpg"
+    },
+    {
+      "personId": 1212697,
+      "name": "Jazz Raycole",
+      "character": "Onika",
+      "order": 12,
+      "cast_id": 35,
+      "popularity": 1.65,
+      "profile_path": "/6vYRFIDSU2lwUfddCEfYrSLkY6Y.jpg"
+    },
+    {
+      "personId": 23681,
+      "name": "Brandon Hammond",
+      "character": "John, Jr.",
+      "order": 13,
+      "cast_id": 25,
+      "popularity": 1.307,
+      "profile_path": "/qni4SWV6QLQ302Y8CURsRJ5OP00.jpg"
+    },
+    {
+      "personId": 49276,
+      "name": "Kenya Moore",
+      "character": "Denise",
+      "order": 14,
+      "cast_id": 30,
+      "popularity": 0.6202,
+      "profile_path": "/a4HUrzb8iHDeLC1gKerd9Uyhfxj.jpg"
+    },
+    {
+      "personId": 1276777,
+      "name": "Lamont Johnson",
+      "character": "Joseph",
+      "order": 15,
+      "cast_id": 20,
+      "popularity": 1.8084,
+      "profile_path": "/49CrcbKnC3hgNwlJfEjtwR4X9rd.jpg"
+    },
+    {
+      "personId": 55965,
+      "name": "Wren T. Brown",
+      "character": "Minister",
+      "order": 16,
+      "cast_id": 34,
+      "popularity": 1.9656,
+      "profile_path": "/vbTHkOhDGbcdB4L7HQF5syxfUJn.jpg"
+    },
+    {
+      "personId": 4006196,
+      "name": "Theo",
+      "character": "On Air D.J.",
+      "order": 17,
+      "cast_id": 47,
+      "popularity": 0.0256,
+      "profile_path": null
+    },
+    {
+      "personId": 1862890,
+      "name": "Ken Love",
+      "character": "DJ at the Hermosa",
+      "order": 18,
+      "cast_id": 48,
+      "popularity": 0.0782,
+      "profile_path": null
+    },
+    {
+      "personId": 93351,
+      "name": "Graham Galloway",
+      "character": "Fireman",
+      "order": 19,
+      "cast_id": 38,
+      "popularity": 0.3896,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2178,
+      "name": "Forest Whitaker",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 4.3198,
+      "profile_path": "/4w7l5JUwnwFNBy7J93ZwYN1nihm.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 14768,
+      "name": "single mother"
+    },
+    {
+      "id": 15160,
+      "name": "divorce"
+    },
+    {
+      "id": 251667,
+      "name": "anxious"
+    },
+    {
+      "id": 257890,
+      "name": "friendship between women"
+    },
+    {
+      "id": 266753,
+      "name": "cautionary"
+    },
+    {
+      "id": 325762,
+      "name": "adoring"
+    },
+    {
+      "id": 325781,
+      "name": "celebratory"
+    },
+    {
+      "id": 325784,
+      "name": "comforting"
+    },
+    {
+      "id": 338528,
+      "name": "african american romance"
+    },
+    {
+      "id": 338543,
+      "name": "african american friendship"
+    }
+  ]
+}

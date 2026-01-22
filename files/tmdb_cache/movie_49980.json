@@ -1,0 +1,246 @@
+{
+  "overview": "Maggie has had four children, by four different fathers, removed by social services because of a previous violent relationship. When she meets Jorge, a gentle Latin American refugee, she gradually sees her chance for happiness, but her history still haunts her.",
+  "release_date": "1994-02-18",
+  "runtime": 101,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 7.203,
+  "tmdb_vote_count": 101,
+  "tmdb_popularity": 2.6472,
+  "original_language": "en",
+  "poster_path": "/91KSK1xKdVEIDASKRo9ahBFCtM2.jpg",
+  "backdrop_path": "/cNftai0xQHlb3wiqWlFioAWNWwF.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 181,
+      "name": "Channel Four Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 983,
+      "name": "Parallax Pictures",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 110077,
+      "name": "Crissy Rock",
+      "character": "Maggie Conlan",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 0.929,
+      "profile_path": "/o2CqTOR32vS9SyCtKET4zs5SWUd.jpg"
+    },
+    {
+      "personId": 195410,
+      "name": "Vladimir Vega",
+      "character": "Jorge",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 0.2006,
+      "profile_path": null
+    },
+    {
+      "personId": 1168012,
+      "name": "Sandie Lavelle",
+      "character": "Mairead",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 0.1752,
+      "profile_path": null
+    },
+    {
+      "personId": 1168013,
+      "name": "Mauricio Venegas",
+      "character": "Adrian",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 0.5913,
+      "profile_path": null
+    },
+    {
+      "personId": 5538,
+      "name": "Ray Winstone",
+      "character": "Simon",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 2.8548,
+      "profile_path": "/eSRgAC98u5hQroeZzDeRf60XE21.jpg"
+    },
+    {
+      "personId": 1147904,
+      "name": "Clare Perkins",
+      "character": "Jill",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 0.6918,
+      "profile_path": "/dXYJxqSowCeyEr03cWYzbA7a33.jpg"
+    },
+    {
+      "personId": 1168014,
+      "name": "Jason Stracey",
+      "character": "Sean",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 0.2424,
+      "profile_path": null
+    },
+    {
+      "personId": 1653372,
+      "name": "Luke Brown",
+      "character": "Mickey",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 0.2031,
+      "profile_path": null
+    },
+    {
+      "personId": 1653373,
+      "name": "Lily Farrell",
+      "character": "Serena",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 0.2184,
+      "profile_path": null
+    },
+    {
+      "personId": 1653374,
+      "name": "Scottie Moore",
+      "character": "Maggie's Father",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 0.1982,
+      "profile_path": null
+    },
+    {
+      "personId": 1653375,
+      "name": "Linda Ross",
+      "character": "Maggie's Mother",
+      "order": 10,
+      "cast_id": 13,
+      "popularity": 0.2079,
+      "profile_path": null
+    },
+    {
+      "personId": 1653376,
+      "name": "Kim Hartley",
+      "character": "Maggie, Aged 5",
+      "order": 11,
+      "cast_id": 14,
+      "popularity": 0.0818,
+      "profile_path": null
+    },
+    {
+      "personId": 1653377,
+      "name": "Jimmy Batten",
+      "character": "Karaoke Compere",
+      "order": 12,
+      "cast_id": 15,
+      "popularity": 0.3892,
+      "profile_path": null
+    },
+    {
+      "personId": 1653378,
+      "name": "Sue Sawyer",
+      "character": "Foster Mother",
+      "order": 13,
+      "cast_id": 16,
+      "popularity": 0.0281,
+      "profile_path": null
+    },
+    {
+      "personId": 1653379,
+      "name": "Pamela Hunt",
+      "character": "Mrs Higgs",
+      "order": 14,
+      "cast_id": 17,
+      "popularity": 0.0503,
+      "profile_path": null
+    },
+    {
+      "personId": 1653380,
+      "name": "Alan Gold",
+      "character": "Neighbour",
+      "order": 15,
+      "cast_id": 18,
+      "popularity": 0.0984,
+      "profile_path": null
+    },
+    {
+      "personId": 292552,
+      "name": "James Bannon",
+      "character": "Fast Food Manager",
+      "order": 16,
+      "cast_id": 19,
+      "popularity": 1.7185,
+      "profile_path": null
+    },
+    {
+      "personId": 1653381,
+      "name": "Caroline Conway",
+      "character": "Social Worker",
+      "order": 17,
+      "cast_id": 20,
+      "popularity": 0.3524,
+      "profile_path": null
+    },
+    {
+      "personId": 1653382,
+      "name": "Ali De Souza",
+      "character": "Social Worker",
+      "order": 18,
+      "cast_id": 21,
+      "popularity": 0.0987,
+      "profile_path": null
+    },
+    {
+      "personId": 1653383,
+      "name": "Deirdre Edwards",
+      "character": "Social Worker",
+      "order": 19,
+      "cast_id": 22,
+      "popularity": 0.2456,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 15488,
+      "name": "Ken Loach",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.3642,
+      "profile_path": "/vGtkrPgNeK3xkbbKTQ4vWD1VsEm.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 9673,
+      "name": "love"
+    },
+    {
+      "id": 18035,
+      "name": "family"
+    },
+    {
+      "id": 170154,
+      "name": "social services"
+    }
+  ]
+}

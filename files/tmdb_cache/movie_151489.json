@@ -1,0 +1,239 @@
+{
+  "overview": "'Hedd Wyn' is a 1992 Welsh anti-war biopic. Ellis Humphrey Evans, a farmer's son and poet living at Trawsfynydd in the Meirionydd countryside of upland Wales, competes for the most coveted prize of all in Welsh Poetry - that of the chair of the National Eisteddfod, which in August 1917 was due to be held in Birkenhead (one of the rare occasions when it was held in England). After submitting his entry, under his bardic name \"Hedd Wyn\" (\"Blessed Peace\") Evans later departs from Meirionydd by train to join the Royal Welsh Fusiliers in Liverpool, despite his initial misgivings about the war. Ellis  is sent to fight in the trenches of Flanders.  'Hedd Wyn' was the first Welsh-language film to be nominated for an Oscar.",
+  "release_date": "1992-08-15",
+  "runtime": 123,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.091,
+  "tmdb_vote_count": 11,
+  "tmdb_popularity": 2.1951,
+  "original_language": "cy",
+  "poster_path": "/fkQJVqXittOKXTubdiID5cRFExr.jpg",
+  "backdrop_path": "/aBYzyOwLDA8mJRbED7CafuLmkvr.jpg",
+  "tmdb_genres_raw": [
+    "War",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 108896,
+      "name": "Pendefig Ty Cefn",
+      "origin_country": ""
+    },
+    {
+      "id": 5075,
+      "name": "S4C",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "cy",
+      "name": "Cymraeg"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1836812,
+      "name": "Huw Garmon",
+      "character": "Ellis Evans / Hedd Wyn",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 0.4619,
+      "profile_path": "/8XBU3bsvmPSDTf6d0edNb2eSDpb.jpg"
+    },
+    {
+      "personId": 1895633,
+      "name": "Catrin Fychan",
+      "character": "Magi Evans",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 0.0836,
+      "profile_path": null
+    },
+    {
+      "personId": 1895634,
+      "name": "Ceri Cunnington",
+      "character": "Bob Evans",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 0.2836,
+      "profile_path": null
+    },
+    {
+      "personId": 1895635,
+      "name": "Llio Silyn",
+      "character": "Mary Evans",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 0.0642,
+      "profile_path": null
+    },
+    {
+      "personId": 1360814,
+      "name": "Grey Evans",
+      "character": "Evan Evans",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 0.1708,
+      "profile_path": null
+    },
+    {
+      "personId": 1895636,
+      "name": "Gwen Ellis",
+      "character": "Mary Evans",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 0.1859,
+      "profile_path": null
+    },
+    {
+      "personId": 1988733,
+      "name": "Emma Kelly",
+      "character": "Enid Evans",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 1.1149,
+      "profile_path": "/eJeq6ix5mSgGf10AI1GNIXQz8zN.jpg"
+    },
+    {
+      "personId": 4446591,
+      "name": "Sioned Jonês Williams",
+      "character": "Cati Evans",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 0.3742,
+      "profile_path": null
+    },
+    {
+      "personId": 4446606,
+      "name": "Llŷr Joshua",
+      "character": "Ifan Evans",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 0.0555,
+      "profile_path": null
+    },
+    {
+      "personId": 4446608,
+      "name": "Angharad Roberts",
+      "character": "Ann Evans",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 0.0453,
+      "profile_path": null
+    },
+    {
+      "personId": 4446609,
+      "name": "Geraint Roberts",
+      "character": "R. Williams Parry",
+      "order": 10,
+      "cast_id": 13,
+      "popularity": 0.1798,
+      "profile_path": null
+    },
+    {
+      "personId": 4403048,
+      "name": "Emlyn Gomer",
+      "character": "Morris Davies / Moi",
+      "order": 11,
+      "cast_id": 14,
+      "popularity": 0.2193,
+      "profile_path": null
+    },
+    {
+      "personId": 4446612,
+      "name": "Guto Roberts",
+      "character": "Arweinydd Eisteddfod Pwllheli",
+      "order": 12,
+      "cast_id": 15,
+      "popularity": 0.0665,
+      "profile_path": null
+    },
+    {
+      "personId": 4446619,
+      "name": "Manon Prysor",
+      "character": "On-Set Merch y Drychinoedd",
+      "order": 13,
+      "cast_id": 16,
+      "popularity": 0.0614,
+      "profile_path": null
+    },
+    {
+      "personId": 4446621,
+      "name": "Gruffydd Aled",
+      "character": "Griff Jones",
+      "order": 14,
+      "cast_id": 17,
+      "popularity": 0.0836,
+      "profile_path": null
+    },
+    {
+      "personId": 4446623,
+      "name": "Derec Brown",
+      "character": "Y Parchedig J. D. Richards",
+      "order": 15,
+      "cast_id": 18,
+      "popularity": 0.0261,
+      "profile_path": null
+    },
+    {
+      "personId": 3092861,
+      "name": "Arwel Gruffydd",
+      "character": "William Morris",
+      "order": 16,
+      "cast_id": 19,
+      "popularity": 0.6104,
+      "profile_path": "/w5m2yUlYYa87sRGni69B3TwVuNQ.jpg"
+    },
+    {
+      "personId": 1120606,
+      "name": "Sue Roderick",
+      "character": "Lizzie Roberts",
+      "order": 17,
+      "cast_id": 20,
+      "popularity": 1.2441,
+      "profile_path": null
+    },
+    {
+      "personId": 4357855,
+      "name": "Lydia Griffiths",
+      "character": "Organyddes",
+      "order": 18,
+      "cast_id": 21,
+      "popularity": 0.0478,
+      "profile_path": null
+    },
+    {
+      "personId": 4446660,
+      "name": "J. O. Jones",
+      "character": "Ficar Ricriwtio",
+      "order": 19,
+      "cast_id": 22,
+      "popularity": 0.7051,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 87397,
+      "name": "Paul Turner",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5116,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 5933,
+      "name": "poet"
+    }
+  ]
+}

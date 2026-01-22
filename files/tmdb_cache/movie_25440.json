@@ -1,0 +1,134 @@
+{
+  "overview": "Scandal and mystery reign following the arrival of Edwina in a small Irish town populated entirely by widows. Edwina quickly falls out with the locals while also falling in with the son of the community's leader",
+  "release_date": "1994-04-15",
+  "runtime": 101,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.3,
+  "tmdb_vote_count": 19,
+  "tmdb_popularity": 2.5906,
+  "original_language": "en",
+  "poster_path": "/xXyVUwvJesJJChzpvn7xj5cAOfm.jpg",
+  "backdrop_path": "/a1FpItDtzTDBGBEy2MWYRyc8DDk.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Thriller",
+    "Mystery",
+    "Romance"
+  ],
+  "production_companies": [],
+  "production_countries": [
+    {
+      "code": "IE",
+      "name": "Ireland"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 12021,
+      "name": "Mia Farrow",
+      "character": "Katherine O'Hare / Clancy",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 2.4806,
+      "profile_path": "/vwxfB8Xv2EZoC0BbyOcy7MkUkpx.jpg"
+    },
+    {
+      "personId": 23709,
+      "name": "Joan Plowright",
+      "character": "Mrs. Doyle-Counihan",
+      "order": 1,
+      "cast_id": 7,
+      "popularity": 1.3788,
+      "profile_path": "/un5wsOnz22Rvl82niE0LGAVxggQ.jpg"
+    },
+    {
+      "personId": 20162,
+      "name": "Natasha Richardson",
+      "character": "Edwina Broome",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 3.2469,
+      "profile_path": "/eQNhOUDQY4NZD2cbaUpltLxrcG.jpg"
+    },
+    {
+      "personId": 42566,
+      "name": "Adrian Dunbar",
+      "character": "Godfrey Doyle-Counihan",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 1.2721,
+      "profile_path": "/AwiptVRftEIwXSM8C4izNVQtQL7.jpg"
+    },
+    {
+      "personId": 388,
+      "name": "Jim Broadbent",
+      "character": "Con Clancy",
+      "order": 4,
+      "cast_id": 4,
+      "popularity": 4.5224,
+      "profile_path": "/jTyvGwwR1NFpvgDhcmuWZCM241w.jpg"
+    },
+    {
+      "personId": 47777,
+      "name": "Anne Kent",
+      "character": "Miss Grubb",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 0.6749,
+      "profile_path": "/m5ftsPuYri4HmkA1G04YaQwlpcs.jpg"
+    },
+    {
+      "personId": 20282,
+      "name": "John Kavanagh",
+      "character": "Canon Murtagh",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 2.5244,
+      "profile_path": "/wG5dUlNS4b7eUof6m32MaVFWdla.jpg"
+    },
+    {
+      "personId": 43131,
+      "name": "Gerard McSorley",
+      "character": "Gaffney",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 1.5831,
+      "profile_path": "/8lrwOpnfwbNLbBzFvEj0t47aELy.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 17784,
+      "name": "John Irvin",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1745,
+      "profile_path": "/gF3FWhmbiwD96E1DP68F07LkX1m.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 160790,
+      "name": "wealthy widow"
+    },
+    {
+      "id": 207876,
+      "name": "1920s"
+    },
+    {
+      "id": 208634,
+      "name": "town gossip"
+    }
+  ]
+}

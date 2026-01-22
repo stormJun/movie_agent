@@ -1,0 +1,239 @@
+{
+  "overview": "The death of a prince brings a young woman back to the palace where she was born into servitude. The lingering legacy is brought into light from behind frosted windows and velvet curtains.",
+  "release_date": "1994-09-30",
+  "runtime": 124,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.4,
+  "tmdb_vote_count": 23,
+  "tmdb_popularity": 0.3461,
+  "original_language": "ar",
+  "poster_path": "/c8QQRaI3k3LNUqYKmlKldhLpgYK.jpg",
+  "backdrop_path": "/bTMp3YqzCV88EQBYdW6QwjYvumk.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 22029,
+      "name": "Canal+ Horizons",
+      "origin_country": "FR"
+    },
+    {
+      "id": 22618,
+      "name": "Mat Films",
+      "origin_country": ""
+    },
+    {
+      "id": 71842,
+      "name": "Cinétéléfilms",
+      "origin_country": "TN"
+    },
+    {
+      "id": 75450,
+      "name": "Ministère Tunisien de la Culture",
+      "origin_country": ""
+    },
+    {
+      "id": 10901,
+      "name": "Ministère de la culture",
+      "origin_country": "FR"
+    },
+    {
+      "id": 310,
+      "name": "CNC",
+      "origin_country": "FR"
+    },
+    {
+      "id": 6705,
+      "name": "Film4 Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 13413,
+      "name": "Hubert Bals Fund",
+      "origin_country": "NL"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands"
+    },
+    {
+      "code": "TN",
+      "name": "Tunisia"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "ar",
+      "name": "العربية"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 226438,
+      "name": "Hend Sabry",
+      "character": "Young Alia",
+      "order": 0,
+      "cast_id": 1020,
+      "popularity": 1.6257,
+      "profile_path": "/o8Cn0nzoUpsA6d8dORsZJWGVTCB.jpg"
+    },
+    {
+      "personId": 1066722,
+      "name": "Ghalya Lacroix",
+      "character": "Adult Alia",
+      "order": 1,
+      "cast_id": 1023,
+      "popularity": 0.6865,
+      "profile_path": "/j8qWct6mjRoLUt9JZrVlP7tbo83.jpg"
+    },
+    {
+      "personId": 1311664,
+      "name": "Nejia Ouerghi",
+      "character": "Khalti Hadda",
+      "order": 2,
+      "cast_id": 1004,
+      "popularity": 0.2275,
+      "profile_path": "/rmrllI11sfccVC0A4Kw232K8GqT.jpg"
+    },
+    {
+      "personId": 1311669,
+      "name": "Amel Hedhili",
+      "character": "Khedija",
+      "order": 3,
+      "cast_id": 1003,
+      "popularity": 0.2039,
+      "profile_path": "/iPPlbMwRggv19rJ0umkeXpvJVEb.jpg"
+    },
+    {
+      "personId": 1914677,
+      "name": "Kamel Fazaa",
+      "character": "Sid' Ali",
+      "order": 4,
+      "cast_id": 1027,
+      "popularity": 0.7776,
+      "profile_path": "/aMvjRz3FYPMBaV6jz2ztuK7zlQH.jpg"
+    },
+    {
+      "personId": 1311671,
+      "name": "Fatima Ben Saïdane",
+      "character": "Mroubia",
+      "order": 5,
+      "cast_id": 1006,
+      "popularity": 0.9151,
+      "profile_path": "/ofpPhmU9jaMdRUkoF4wkGVZYsC3.jpg"
+    },
+    {
+      "personId": 1311672,
+      "name": "Zahira Ben Ammar",
+      "character": "Habiba",
+      "order": 6,
+      "cast_id": 1007,
+      "popularity": 0.8153,
+      "profile_path": "/jsLKMuK1ReXUIwljYDWrrfJy9s6.jpg"
+    },
+    {
+      "personId": 1311673,
+      "name": "Sabah Bouzouita",
+      "character": "Schema",
+      "order": 7,
+      "cast_id": 1008,
+      "popularity": 0.605,
+      "profile_path": "/oJiRwA5iGgPFl06svYRcin36OqJ.jpg"
+    },
+    {
+      "personId": 1914676,
+      "name": "Sonia Meddeb",
+      "character": "La Jneina",
+      "order": 8,
+      "cast_id": 1021,
+      "popularity": 0.1558,
+      "profile_path": "/3OGdVPYekPm7Rbi85u8wKqB8bqd.jpg"
+    },
+    {
+      "personId": 1436422,
+      "name": "Hélène Catzaras",
+      "character": "Fella",
+      "order": 9,
+      "cast_id": 1022,
+      "popularity": 0.5674,
+      "profile_path": "/w24ed5djeLVqMqUO4z0v2mvvAiu.jpg"
+    },
+    {
+      "personId": 1347000,
+      "name": "Michket Krifa",
+      "character": "Memia",
+      "order": 10,
+      "cast_id": 1024,
+      "popularity": 0.1749,
+      "profile_path": null
+    },
+    {
+      "personId": 5477,
+      "name": "Hichem Rostom",
+      "character": "Si Bechir",
+      "order": 11,
+      "cast_id": 1025,
+      "popularity": 1.1364,
+      "profile_path": "/jnzhq99KAe5EirZy3NKUcPB8lMd.jpg"
+    },
+    {
+      "personId": 20667,
+      "name": "Sami Bouajila",
+      "character": "Lofti",
+      "order": 12,
+      "cast_id": 1028,
+      "popularity": 0.9761,
+      "profile_path": "/xq8TMMCA4RI2omGxbPtLVsBMWX8.jpg"
+    },
+    {
+      "personId": 1914678,
+      "name": "Hattem Berabeh",
+      "character": "Salim",
+      "order": 13,
+      "cast_id": 1029,
+      "popularity": 0.0857,
+      "profile_path": null
+    },
+    {
+      "personId": 1447075,
+      "name": "Kamel Touati",
+      "character": "Houssine",
+      "order": 14,
+      "cast_id": 1030,
+      "popularity": 0.5582,
+      "profile_path": "/pi3mShRKX9eIZBBAkz1fxGQpk9K.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 239321,
+      "name": "Moufida Tlatli",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.269,
+      "profile_path": "/yx8Gc64hruNAjgw9GDCn0NHZKvI.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 187056,
+      "name": "woman director"
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "overview": "A depressed housewife whose husband is having an affair contemplates suicide, but changes her mind when she faces death by a killer hired to do her in.",
+  "release_date": "1996-04-03",
+  "runtime": 91,
+  "budget": 13000000,
+  "revenue": 2104439,
+  "tmdb_vote_average": 5.2,
+  "tmdb_vote_count": 27,
+  "tmdb_popularity": 3.4254,
+  "original_language": "en",
+  "poster_path": "/dU1FhsiCDeXC7QlPycJo4swoLTF.jpg",
+  "backdrop_path": "/uLe08DokjJDRxhZJmQsAk4vtDjE.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 14,
+      "name": "Miramax",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 38225,
+      "name": "Cher",
+      "character": "Margaret",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.5556,
+      "profile_path": "/yDglV70XMu2cBWZigp5Jxd4etfv.jpg"
+    },
+    {
+      "personId": 9046,
+      "name": "Chazz Palminteri",
+      "character": "Tony",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.707,
+      "profile_path": "/mCbjKVyE5B2tleshbJw44tw3ktZ.jpg"
+    },
+    {
+      "personId": 31070,
+      "name": "Ryan O'Neal",
+      "character": "Jack Connor",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.9148,
+      "profile_path": "/qqzLcwme60ENV8PEcdWkS2zctMx.jpg"
+    },
+    {
+      "personId": 47773,
+      "name": "Paul Mazursky",
+      "character": "Dr. Susskind",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 0.9512,
+      "profile_path": "/buV8R7bHO4DATuC9FquUrZjn88I.jpg"
+    },
+    {
+      "personId": 42715,
+      "name": "Amber Smith",
+      "character": "Debbie",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 1.5896,
+      "profile_path": "/6zUCOaxoRvIZLzDWbWWLOgeZMrf.jpg"
+    },
+    {
+      "personId": 1384561,
+      "name": "Elisa Leonetti",
+      "character": "Maria",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 0.7933,
+      "profile_path": null
+    },
+    {
+      "personId": 167578,
+      "name": "Mark Nassar",
+      "character": "Maria's Boyfriend",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 0.7381,
+      "profile_path": null
+    },
+    {
+      "personId": 57093,
+      "name": "Stephen Spinella",
+      "character": "Young Man at Rolls",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 1.0152,
+      "profile_path": "/lJahZcmWjggljySaqnPyGIuOeXs.jpg"
+    },
+    {
+      "personId": 2954,
+      "name": "Jeffrey Wright",
+      "character": "Young Man at Rolls",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 4.3591,
+      "profile_path": "/yGcuHGW4glqRpOPxgiCvjcren7F.jpg"
+    },
+    {
+      "personId": 2528306,
+      "name": "David Marino",
+      "character": "Little Tony",
+      "order": 9,
+      "cast_id": 31,
+      "popularity": 0.1496,
+      "profile_path": "/eLT0GqobngWExP9j7ggAGPZqSdf.jpg"
+    },
+    {
+      "personId": 59281,
+      "name": "Steven Randazzo",
+      "character": "Tony's Father",
+      "order": 10,
+      "cast_id": 32,
+      "popularity": 0.8693,
+      "profile_path": "/ufifD3uO2pqNNsrLAwbAkbyzJ7i.jpg"
+    },
+    {
+      "personId": 3238181,
+      "name": "Olinda Turturro",
+      "character": "Tony's Mother",
+      "order": 11,
+      "cast_id": 33,
+      "popularity": 0.2318,
+      "profile_path": null
+    },
+    {
+      "personId": 3330112,
+      "name": "Max Norat",
+      "character": "Jewelery Store Salesman",
+      "order": 12,
+      "cast_id": 34,
+      "popularity": 0.0465,
+      "profile_path": null
+    },
+    {
+      "personId": 19,
+      "name": "Allison Janney",
+      "character": "Saleslady",
+      "order": 13,
+      "cast_id": 13,
+      "popularity": 4.0327,
+      "profile_path": "/hpBKWV1jjoXQbr1s0iUZTSvw582.jpg"
+    },
+    {
+      "personId": 199742,
+      "name": "Chris O'Neill",
+      "character": "Priest",
+      "order": 14,
+      "cast_id": 35,
+      "popularity": 0.7748,
+      "profile_path": "/8oTEU1Lph3Rf2AE6dTrxk6qG8KQ.jpg"
+    },
+    {
+      "personId": 28036,
+      "name": "Michael Mulheren",
+      "character": "Foreman",
+      "order": 15,
+      "cast_id": 36,
+      "popularity": 0.8802,
+      "profile_path": "/fGyHTMXAWGQ290NQktWuEF6ep1g.jpg"
+    },
+    {
+      "personId": 164538,
+      "name": "Jerry Walsh",
+      "character": "Trucking Dispatcher",
+      "order": 16,
+      "cast_id": 37,
+      "popularity": 0.6796,
+      "profile_path": "/8j6BcD9AN2NiOwYIEainZsegGc5.jpg"
+    },
+    {
+      "personId": 1291513,
+      "name": "Gianna Palminteri",
+      "character": "Teacher",
+      "order": 17,
+      "cast_id": 38,
+      "popularity": 0.4154,
+      "profile_path": null
+    },
+    {
+      "personId": 1606205,
+      "name": "Omar Scroggins",
+      "character": "Kid",
+      "order": 18,
+      "cast_id": 39,
+      "popularity": 0.4381,
+      "profile_path": "/koyzKAs6g1z4fBJMcsihtcyySx0.jpg"
+    },
+    {
+      "personId": 75619,
+      "name": "Zakee Howze",
+      "character": "Kid",
+      "order": 19,
+      "cast_id": 40,
+      "popularity": 0.0886,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 47773,
+      "name": "Paul Mazursky",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.9512,
+      "profile_path": "/buV8R7bHO4DATuC9FquUrZjn88I.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 9856,
+      "name": "flashback"
+    },
+    {
+      "id": 11322,
+      "name": "female protagonist"
+    },
+    {
+      "id": 14558,
+      "name": "bathtub"
+    },
+    {
+      "id": 154855,
+      "name": "wedding anniversary"
+    }
+  ]
+}

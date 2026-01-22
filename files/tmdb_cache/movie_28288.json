@@ -1,0 +1,278 @@
+{
+  "overview": "Seeking a divorce from her absentee husband, Mimi Glossop travels to an English seaside resort. There she falls in love with dancer Guy Holden, whom she later mistakes for the corespondent her lawyer hired.",
+  "release_date": "1934-10-12",
+  "runtime": 107,
+  "budget": 520000,
+  "revenue": 1800000,
+  "tmdb_vote_average": 6.9,
+  "tmdb_vote_count": 138,
+  "tmdb_popularity": 2.3495,
+  "original_language": "en",
+  "poster_path": "/xD6oUOAa0Q6PppaOnY6dy6sWPLG.jpg",
+  "backdrop_path": "/h5FknBwnx6fRaiCkHv4idjw6stu.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 6,
+      "name": "RKO Radio Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 30181,
+      "name": "Fred Astaire",
+      "character": "Guy Holden",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 1.4517,
+      "profile_path": "/6gw9PCrKi19I5QOwjEPaOYW9uLI.jpg"
+    },
+    {
+      "personId": 30003,
+      "name": "Ginger Rogers",
+      "character": "Mimi Glossop",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 1.2968,
+      "profile_path": "/ah4nyaNUOMZwmGbDOAtN8S8J6ap.jpg"
+    },
+    {
+      "personId": 125841,
+      "name": "Alice Brady",
+      "character": "Hortense",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 0.5508,
+      "profile_path": "/v9XVx9jV7ntUKog525jrYkSnq3n.jpg"
+    },
+    {
+      "personId": 2437,
+      "name": "Edward Everett Horton",
+      "character": "Egbert Fitzgerald",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 0.8375,
+      "profile_path": "/wtoC3cXLStuYmiEUVQavdvbh5Js.jpg"
+    },
+    {
+      "personId": 30183,
+      "name": "Erik Rhodes",
+      "character": "Rodolfo Tonetti",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 0.7505,
+      "profile_path": "/j6Nsz8FcOhei3fRGp9pMFrvxMuD.jpg"
+    },
+    {
+      "personId": 30184,
+      "name": "Eric Blore",
+      "character": "Waiter",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 0.6734,
+      "profile_path": "/qMZttNGOlnUPmiiff1hgvBa3WPk.jpg"
+    },
+    {
+      "personId": 134268,
+      "name": "William Austin",
+      "character": "Cyril Glossop",
+      "order": 6,
+      "cast_id": 13,
+      "popularity": 0.9801,
+      "profile_path": "/1lGOOMIx5Wd0JFwYCiV9o8GlPru.jpg"
+    },
+    {
+      "personId": 544585,
+      "name": "Charles Coleman",
+      "character": "Valet",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 0.5071,
+      "profile_path": "/fi7c2zHUsxYBVuDBGc2qrmfWpbN.jpg"
+    },
+    {
+      "personId": 118632,
+      "name": "Lillian Miles",
+      "character": "Guest",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 0.4523,
+      "profile_path": "/eBUqR5fcKSrlshahAlCr6yYBrfq.jpg"
+    },
+    {
+      "personId": 64838,
+      "name": "Betty Grable",
+      "character": "Guest",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 0.951,
+      "profile_path": "/oQwgN9Qx3w4S6u6rQFbl5TtUTsL.jpg"
+    },
+    {
+      "personId": 2930,
+      "name": "E. E. Clive",
+      "character": "Chief Customs Inspector (uncredited)",
+      "order": 10,
+      "cast_id": 20,
+      "popularity": 1.5349,
+      "profile_path": "/5jN00ac4hKNMRh4xpVVSNI89Blu.jpg"
+    },
+    {
+      "personId": 115770,
+      "name": "Paul Porcasi",
+      "character": "French Headwaiter (uncredited)",
+      "order": 11,
+      "cast_id": 21,
+      "popularity": 0.3112,
+      "profile_path": "/dlrr1MmW5n1aBAkZnzyUJ1oB8BP.jpg"
+    },
+    {
+      "personId": 2941,
+      "name": "Norman Ainsley",
+      "character": "(uncredited)",
+      "order": 12,
+      "cast_id": 85,
+      "popularity": 0.3701,
+      "profile_path": null
+    },
+    {
+      "personId": 88778,
+      "name": "Jimmy Aubrey",
+      "character": "(uncredited)",
+      "order": 13,
+      "cast_id": 86,
+      "popularity": 0.8347,
+      "profile_path": "/u3v4qfimtESXD71mVAs6Jtk8pLS.jpg"
+    },
+    {
+      "personId": 1186862,
+      "name": "Finis Barton",
+      "character": "(uncredited)",
+      "order": 14,
+      "cast_id": 87,
+      "popularity": 0.6453,
+      "profile_path": "/2MvEFGt6uu58HxX7XoK64O3IA9X.jpg"
+    },
+    {
+      "personId": 1431776,
+      "name": "Eleanor Bayley",
+      "character": "Dancer (uncredited)",
+      "order": 15,
+      "cast_id": 88,
+      "popularity": 0.1094,
+      "profile_path": null
+    },
+    {
+      "personId": 2261158,
+      "name": "De Don Blunier",
+      "character": "Chorus Girl (uncredited)",
+      "order": 16,
+      "cast_id": 89,
+      "popularity": 0.1206,
+      "profile_path": null
+    },
+    {
+      "personId": 120217,
+      "name": "Jack Chefe",
+      "character": "Night Club Patron (uncredited)",
+      "order": 17,
+      "cast_id": 90,
+      "popularity": 1.1458,
+      "profile_path": "/qwR4x2bEx6fWVwcNgd08bsZxnGe.jpg"
+    },
+    {
+      "personId": 2595939,
+      "name": "Cy Clegg",
+      "character": "Porter (uncredited)",
+      "order": 18,
+      "cast_id": 91,
+      "popularity": 0.088,
+      "profile_path": null
+    },
+    {
+      "personId": 135827,
+      "name": "Larry Steers",
+      "character": "Night Club Patron (uncredited)",
+      "order": 19,
+      "cast_id": 94,
+      "popularity": 1.7664,
+      "profile_path": "/8QBHXihnGldVMNIxnbW2ljTk7Y1.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 30165,
+      "name": "Mark Sandrich",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5101,
+      "profile_path": "/77Gh9XVPbWT68eoOGzOwu4e1gUC.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 246,
+      "name": "dancing"
+    },
+    {
+      "id": 212,
+      "name": "london, england"
+    },
+    {
+      "id": 1491,
+      "name": "entertainer"
+    },
+    {
+      "id": 2334,
+      "name": "nightclub"
+    },
+    {
+      "id": 10325,
+      "name": "mistaken identity"
+    },
+    {
+      "id": 4344,
+      "name": "musical"
+    },
+    {
+      "id": 6894,
+      "name": "aunt"
+    },
+    {
+      "id": 11343,
+      "name": "brighton, england"
+    },
+    {
+      "id": 12541,
+      "name": "misunderstanding"
+    },
+    {
+      "id": 12990,
+      "name": "singing"
+    },
+    {
+      "id": 15160,
+      "name": "divorce"
+    },
+    {
+      "id": 165643,
+      "name": "song and dance"
+    }
+  ]
+}

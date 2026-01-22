@@ -1,0 +1,276 @@
+{
+  "overview": "Writer Paul Benjamin is nearly hit by a bus when he leaves Auggie Wren's smoke shop. Stranger Rashid Cole  saves his life, and soon middle-aged Paul tells homeless Rashid that he wouldn't mind a short-term housemate. Still grieving over his wife's murder, Paul is moved by both Rashid's quest to reconnect with his father and Auggie's discovery that a woman who might be his daughter is about to give birth.",
+  "release_date": "1995-06-09",
+  "runtime": 112,
+  "budget": 7000000,
+  "revenue": 8349430,
+  "tmdb_vote_average": 7.201,
+  "tmdb_vote_count": 515,
+  "tmdb_popularity": 1.5267,
+  "original_language": "en",
+  "poster_path": "/1WMUaTQaj2dQrhsPI3Px0OR9eTF.jpg",
+  "backdrop_path": "/dkg2DcGg6cjDia20yLWDaNLBRIb.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 14,
+      "name": "Miramax",
+      "origin_country": "US"
+    },
+    {
+      "id": 6236,
+      "name": "NDF International",
+      "origin_country": ""
+    },
+    {
+      "id": 75055,
+      "name": "Eurospace",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "JP",
+      "name": "Japan"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1037,
+      "name": "Harvey Keitel",
+      "character": "Augustus 'Auggie' Wren",
+      "order": 0,
+      "cast_id": 11,
+      "popularity": 4.7105,
+      "profile_path": "/7P30hza1neYWW3r7rSQOC736K2Z.jpg"
+    },
+    {
+      "personId": 227,
+      "name": "William Hurt",
+      "character": "Paul Benjamin",
+      "order": 1,
+      "cast_id": 12,
+      "popularity": 2.7449,
+      "profile_path": "/j3mjmuHLBW4XQSw53C8Sh0Lh3ZQ.jpg"
+    },
+    {
+      "personId": 8893,
+      "name": "Stockard Channing",
+      "character": "Ruby McNutt",
+      "order": 2,
+      "cast_id": 19,
+      "popularity": 2.2977,
+      "profile_path": "/qAYBGvapAnnhpoZuYFyoqetncs5.jpg"
+    },
+    {
+      "personId": 6195,
+      "name": "Harold Perrineau",
+      "character": "Thomas 'Rashid' Cole",
+      "order": 3,
+      "cast_id": 17,
+      "popularity": 3.9411,
+      "profile_path": "/bVSLpGUaislREbujmknOqadrxYM.jpg"
+    },
+    {
+      "personId": 2178,
+      "name": "Forest Whitaker",
+      "character": "Cyrus Cole",
+      "order": 4,
+      "cast_id": 18,
+      "popularity": 4.4112,
+      "profile_path": "/4w7l5JUwnwFNBy7J93ZwYN1nihm.jpg"
+    },
+    {
+      "personId": 4808,
+      "name": "Giancarlo Esposito",
+      "character": "1st OTB Man / Tommy",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 5.2377,
+      "profile_path": "/MJOo4QZgMAb3y8QzOUDVFQusQZ.jpg"
+    },
+    {
+      "personId": 10963,
+      "name": "José Zúñiga",
+      "character": "2nd OTB Man / Jerry",
+      "order": 6,
+      "cast_id": 14,
+      "popularity": 2.4138,
+      "profile_path": "/r6nFkJkMHP9tFDohwfav9Bf2rCR.jpg"
+    },
+    {
+      "personId": 46395,
+      "name": "Stephen Gevedon",
+      "character": "OTB Man #3 / Dennis",
+      "order": 7,
+      "cast_id": 15,
+      "popularity": 0.7818,
+      "profile_path": "/6VM3pEpwebjUKJvIlxzRu4LnBoP.jpg"
+    },
+    {
+      "personId": 15440,
+      "name": "Jared Harris",
+      "character": "Jimmy Rose",
+      "order": 8,
+      "cast_id": 16,
+      "popularity": 3.8094,
+      "profile_path": "/jAyPWkmge3BqXtgxIG9MfXBzOGj.jpg"
+    },
+    {
+      "personId": 15852,
+      "name": "Ashley Judd",
+      "character": "Felicity",
+      "order": 9,
+      "cast_id": 20,
+      "popularity": 4.1874,
+      "profile_path": "/5771ZxVIs5rQbI1SV8TOlAFcF15.jpg"
+    },
+    {
+      "personId": 2561,
+      "name": "Victor Argo",
+      "character": "Vinnie",
+      "order": 10,
+      "cast_id": 22,
+      "popularity": 1.0806,
+      "profile_path": "/of6bhqwk4HA5Bu8d16OtuD0HYom.jpg"
+    },
+    {
+      "personId": 96223,
+      "name": "Michelle Hurst",
+      "character": "Aunt Em",
+      "order": 11,
+      "cast_id": 23,
+      "popularity": 0.5103,
+      "profile_path": "/fVsvGxQntmrDyVNMSdbkk7lxxh2.jpg"
+    },
+    {
+      "personId": 94430,
+      "name": "Erica Gimpel",
+      "character": "Doreen Cole",
+      "order": 12,
+      "cast_id": 24,
+      "popularity": 2.675,
+      "profile_path": "/9rEGsUqlbVJexRZ2TTxc0UIGY5P.jpg"
+    },
+    {
+      "personId": 77013,
+      "name": "Deirdre O'Connell",
+      "character": "Sue the Waitress",
+      "order": 13,
+      "cast_id": 37,
+      "popularity": 2.1533,
+      "profile_path": "/14e0AZOZafenduP7O6oMLSL92RP.jpg"
+    },
+    {
+      "personId": 12977,
+      "name": "Malik Yoba",
+      "character": "The Creeper",
+      "order": 14,
+      "cast_id": 25,
+      "popularity": 1.6446,
+      "profile_path": "/nq7sNTe2I6xAoN2JiCrbDaZq5kn.jpg"
+    },
+    {
+      "personId": 77255,
+      "name": "Murray Moston",
+      "character": "Waiter",
+      "order": 15,
+      "cast_id": 35,
+      "popularity": 1.2813,
+      "profile_path": "/dCykiwWb0WNfiFJjw7e8lb0Dy63.jpg"
+    },
+    {
+      "personId": 123897,
+      "name": "Mary B. Ward",
+      "character": "April Lee the Bookstore Clerk",
+      "order": 16,
+      "cast_id": 36,
+      "popularity": 1.1166,
+      "profile_path": null
+    },
+    {
+      "personId": 4092431,
+      "name": "Daniel Auster",
+      "character": "Book Thief",
+      "order": 17,
+      "cast_id": 171,
+      "popularity": 0.0904,
+      "profile_path": null
+    },
+    {
+      "personId": 2830128,
+      "name": "Vincenzo Amelia",
+      "character": "Irate Customer",
+      "order": 18,
+      "cast_id": 172,
+      "popularity": 0.1126,
+      "profile_path": null
+    },
+    {
+      "personId": 4092434,
+      "name": "Gilson Reglas",
+      "character": "Cyrus Jr.",
+      "order": 19,
+      "cast_id": 173,
+      "popularity": 0.0656,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 39819,
+      "name": "Wayne Wang",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8475,
+      "profile_path": "/wtw5Cg8dWy9N7Fvn9SWvboibWek.jpg"
+    },
+    {
+      "personId": 46391,
+      "name": "Paul Auster",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4167,
+      "profile_path": "/oyjzonrhI6ODAPzsyJ2mMdSCwqp.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 919,
+      "name": "smoking"
+    },
+    {
+      "id": 1621,
+      "name": "robber"
+    },
+    {
+      "id": 3170,
+      "name": "cigarette"
+    },
+    {
+      "id": 8736,
+      "name": "laden"
+    },
+    {
+      "id": 13028,
+      "name": "writer"
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "overview": "Precocious teenager Juliet moves to New Zealand with her family and soon befriends the quiet, brooding Pauline through their shared love of fantasy and literature. This friendship gradually develops into an intense and obsessive bond.",
+  "release_date": "1994-09-12",
+  "runtime": 109,
+  "budget": 5000000,
+  "revenue": 3049135,
+  "tmdb_vote_average": 6.968,
+  "tmdb_vote_count": 1003,
+  "tmdb_popularity": 3.6685,
+  "original_language": "en",
+  "poster_path": "/uvb86wVCIqD3Rlbr0GTNgWDF7Zo.jpg",
+  "backdrop_path": "/jHjOY9vgE7maH2HRk2fd9lOPg8.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Fantasy"
+  ],
+  "production_companies": [
+    {
+      "id": 14,
+      "name": "Miramax",
+      "origin_country": "US"
+    },
+    {
+      "id": 11,
+      "name": "WingNut Films",
+      "origin_country": "NZ"
+    },
+    {
+      "id": 294,
+      "name": "New Zealand Film Commission",
+      "origin_country": "NZ"
+    },
+    {
+      "id": 2306,
+      "name": "Fontana Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "NZ",
+      "name": "New Zealand"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 15091,
+      "name": "Melanie Lynskey",
+      "character": "Pauline Parker",
+      "order": 0,
+      "cast_id": 7,
+      "popularity": 3.7973,
+      "profile_path": "/4raNiD71caQXKKqIBZS1FDsvtkd.jpg"
+    },
+    {
+      "personId": 204,
+      "name": "Kate Winslet",
+      "character": "Juliet Hulme",
+      "order": 1,
+      "cast_id": 8,
+      "popularity": 10.0601,
+      "profile_path": "/9xDnfZrWhM67wJlQJEsOOjQzDUQ.jpg"
+    },
+    {
+      "personId": 15092,
+      "name": "Sarah Peirse",
+      "character": "Honorah Parker Rieper",
+      "order": 2,
+      "cast_id": 9,
+      "popularity": 1.7426,
+      "profile_path": "/wC9OFU4mFkK1N6r6UU6A0E7pBTr.jpg"
+    },
+    {
+      "personId": 15094,
+      "name": "Diana Kent",
+      "character": "Hilda Hulme",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 1.6596,
+      "profile_path": "/4iev2GzgEcZCYtPKA8DsiookCXg.jpg"
+    },
+    {
+      "personId": 5475,
+      "name": "Clive Merrison",
+      "character": "Dr. Henry Hulme",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 1.626,
+      "profile_path": "/2nfF8QT8uRKhrW2a6px9DSj4ygK.jpg"
+    },
+    {
+      "personId": 15093,
+      "name": "Simon O'Connor",
+      "character": "Herbert Rieper",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 0.6368,
+      "profile_path": null
+    },
+    {
+      "personId": 173451,
+      "name": "Jed Brophy",
+      "character": "John / Nicholas",
+      "order": 6,
+      "cast_id": 15,
+      "popularity": 2.0565,
+      "profile_path": "/8NOsHgZIscn9ObgN3vshCzHrl5H.jpg"
+    },
+    {
+      "personId": 1238424,
+      "name": "Peter Elliott",
+      "character": "Bill Perry",
+      "order": 7,
+      "cast_id": 17,
+      "popularity": 0.417,
+      "profile_path": "/jwzpgBgjSLal4CN9HhI32BgekzV.jpg"
+    },
+    {
+      "personId": 15095,
+      "name": "Gilbert Goldie",
+      "character": "Dr. Bennett",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 1.603,
+      "profile_path": null
+    },
+    {
+      "personId": 1777907,
+      "name": "Geoffrey Heath",
+      "character": "Rev. Norris",
+      "order": 9,
+      "cast_id": 25,
+      "popularity": 0.4023,
+      "profile_path": null
+    },
+    {
+      "personId": 2089818,
+      "name": "Kirsti Ferry",
+      "character": "Wendy",
+      "order": 10,
+      "cast_id": 26,
+      "popularity": 0.0639,
+      "profile_path": null
+    },
+    {
+      "personId": 2089819,
+      "name": "Ben Skjellerup",
+      "character": "Jonathan Hulme",
+      "order": 11,
+      "cast_id": 27,
+      "popularity": 0.1224,
+      "profile_path": null
+    },
+    {
+      "personId": 1085972,
+      "name": "Darien Takle",
+      "character": "Miss Stewart",
+      "order": 12,
+      "cast_id": 16,
+      "popularity": 1.3944,
+      "profile_path": "/394T6ts076a3WOIrJXOS9AWXHoz.jpg"
+    },
+    {
+      "personId": 11334,
+      "name": "Elizabeth Moody",
+      "character": "Miss Waller",
+      "order": 13,
+      "cast_id": 18,
+      "popularity": 1.5286,
+      "profile_path": "/3NSmhyOFruDwiJxe1GXyqmq8VjR.jpg"
+    },
+    {
+      "personId": 1326,
+      "name": "Liz Mullane",
+      "character": "Mrs. Collins",
+      "order": 14,
+      "cast_id": 19,
+      "popularity": 0.5676,
+      "profile_path": "/hwcIHjn8gwDMty6dw2rxGLJhOVq.jpg"
+    },
+    {
+      "personId": 2089821,
+      "name": "Moreen Eason",
+      "character": "Mrs. Stevens",
+      "order": 15,
+      "cast_id": 28,
+      "popularity": 0.0481,
+      "profile_path": null
+    },
+    {
+      "personId": 2089825,
+      "name": "Pearl Carpenter",
+      "character": "Mrs. Zwartz",
+      "order": 16,
+      "cast_id": 29,
+      "popularity": 0.0919,
+      "profile_path": null
+    },
+    {
+      "personId": 2089826,
+      "name": "Lou Dobson",
+      "character": "Grandma Parker",
+      "order": 17,
+      "cast_id": 30,
+      "popularity": 0.0965,
+      "profile_path": null
+    },
+    {
+      "personId": 2089827,
+      "name": "Jesse Griffin",
+      "character": "Laurie",
+      "order": 18,
+      "cast_id": 31,
+      "popularity": 0.8853,
+      "profile_path": null
+    },
+    {
+      "personId": 173601,
+      "name": "Glen Drake",
+      "character": "Steve",
+      "order": 19,
+      "cast_id": 32,
+      "popularity": 0.2373,
+      "profile_path": "/sRTf3KoWoRGs3eZ0gNujQo5kKaL.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 108,
+      "name": "Peter Jackson",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 3.415,
+      "profile_path": "/bNc908d59Ba8VDNr4eCcm4G1cR.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 456,
+      "name": "mother"
+    },
+    {
+      "id": 1523,
+      "name": "obsession"
+    },
+    {
+      "id": 2132,
+      "name": "literature"
+    },
+    {
+      "id": 4642,
+      "name": "christchurch"
+    },
+    {
+      "id": 9672,
+      "name": "based on true story"
+    },
+    {
+      "id": 9673,
+      "name": "love"
+    },
+    {
+      "id": 9713,
+      "name": "friends"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 14534,
+      "name": "relationship"
+    },
+    {
+      "id": 208611,
+      "name": "1950s"
+    },
+    {
+      "id": 324429,
+      "name": "romantic"
+    },
+    {
+      "id": 325854,
+      "name": "tragic"
+    }
+  ]
+}

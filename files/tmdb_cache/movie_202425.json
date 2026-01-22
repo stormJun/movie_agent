@@ -1,0 +1,220 @@
+{
+  "overview": "A young man with dreams of pursuing a career in music moves form his small village to  the capital. Along the way he falls head over heels for a woman - the same woman his boss is also pursuing for his own reasons.",
+  "release_date": "1987-11-17",
+  "runtime": 80,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.1,
+  "tmdb_vote_count": 12,
+  "tmdb_popularity": 0.1114,
+  "original_language": "fr",
+  "poster_path": "/aWU6bdzk1vqmGhMTKixafxIEeBW.jpg",
+  "backdrop_path": "/m5lhj4vTcbIZKVSMVFXDBacLoPy.jpg",
+  "tmdb_genres_raw": [
+    "Music",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 2359,
+      "name": "Stéphan Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 11796,
+      "name": "Centre du Cinéma et de l'Audiovisuel de la FWB",
+      "origin_country": "BE"
+    },
+    {
+      "id": 66451,
+      "name": "Lamy Films",
+      "origin_country": "BE"
+    },
+    {
+      "id": 72598,
+      "name": "Ministère des Affaires étrangères et du Développement International",
+      "origin_country": "FR"
+    },
+    {
+      "id": 43860,
+      "name": "Sol'oeil Films",
+      "origin_country": "CD"
+    },
+    {
+      "id": 142533,
+      "name": "Office Zaïrois de Radio Télévision (O.Z.R.T.)",
+      "origin_country": "CD"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "ZR",
+      "name": "Zaire"
+    },
+    {
+      "code": "CD",
+      "name": "Congo"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "ln",
+      "name": ""
+    }
+  ],
+  "cast": [
+    {
+      "personId": 41056,
+      "name": "Papa Wemba",
+      "character": "Kourou",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 0.4056,
+      "profile_path": "/bkpv2hnfyfOxB4WkFMIqjpysoqW.jpg"
+    },
+    {
+      "personId": 1184423,
+      "name": "Landu Nzunzimbu Matshia",
+      "character": "Mamou",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 0.2098,
+      "profile_path": null
+    },
+    {
+      "personId": 1184424,
+      "name": "Bibi Krubwa",
+      "character": "Kabibi",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 0.125,
+      "profile_path": null
+    },
+    {
+      "personId": 1871040,
+      "name": "Kanko Kasongo",
+      "character": "Nvouandou",
+      "order": 3,
+      "cast_id": 10,
+      "popularity": 0.1364,
+      "profile_path": null
+    },
+    {
+      "personId": 1871041,
+      "name": "Lokinda Menji Feza",
+      "character": "Nzazi",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 0.2199,
+      "profile_path": null
+    },
+    {
+      "personId": 1871042,
+      "name": "Kalimazi Lombume Riva",
+      "character": "Mongali",
+      "order": 5,
+      "cast_id": 12,
+      "popularity": 0.1003,
+      "profile_path": null
+    },
+    {
+      "personId": 1871043,
+      "name": "Mazaza Mukoko",
+      "character": "Mama Dingari, la mère de Kourou",
+      "order": 6,
+      "cast_id": 13,
+      "popularity": 0.4872,
+      "profile_path": null
+    },
+    {
+      "personId": 1871044,
+      "name": "Tumba Ayila",
+      "character": "Le nain Emoro",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 0.0306,
+      "profile_path": null
+    },
+    {
+      "personId": 1871045,
+      "name": "Mujinga Mbuji Inabanza",
+      "character": "Cherie Bondowe",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 0.0596,
+      "profile_path": null
+    },
+    {
+      "personId": 1871047,
+      "name": "Pépé Kallé",
+      "character": "Pépé Kallé",
+      "order": 9,
+      "cast_id": 17,
+      "popularity": 0.0071,
+      "profile_path": null
+    },
+    {
+      "personId": 1871048,
+      "name": "Alamba Engongo",
+      "character": "Le chauffeur de Nvouandou",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 0.0239,
+      "profile_path": null
+    },
+    {
+      "personId": 1871049,
+      "name": "Maître Nono",
+      "character": "Maître Nono",
+      "order": 11,
+      "cast_id": 19,
+      "popularity": 0.0,
+      "profile_path": null
+    },
+    {
+      "personId": 1871046,
+      "name": "Bwanando Ngimbi",
+      "character": "Maître Nganga",
+      "order": 12,
+      "cast_id": 20,
+      "popularity": 0.0071,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1184422,
+      "name": "Mwezé Ngangura",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.2784,
+      "profile_path": null
+    },
+    {
+      "personId": 24409,
+      "name": "Benoît Lamy",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.2685,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2521,
+      "name": "congo"
+    }
+  ]
+}

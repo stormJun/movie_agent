@@ -1,0 +1,248 @@
+{
+  "overview": "The death of a friend galvanizes three high school young women to reassess their friendship and their lives.",
+  "release_date": "1996-08-21",
+  "runtime": 90,
+  "budget": 0,
+  "revenue": 503667,
+  "tmdb_vote_average": 5.167,
+  "tmdb_vote_count": 9,
+  "tmdb_popularity": 1.2017,
+  "original_language": "en",
+  "poster_path": "/4Qyr7s8heJnMm0rM20YwtSvYI77.jpg",
+  "backdrop_path": "/ez5CG9KKd0LwcvwFEipuls1W2Lu.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 157032,
+      "name": "Boomer Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 62138,
+      "name": "C-Hundred Film Corporation",
+      "origin_country": "US"
+    },
+    {
+      "id": 2188,
+      "name": "Artisan Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 157033,
+      "name": "Dolly Bell Pictures Inc.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3127,
+      "name": "Lili Taylor",
+      "character": "Patti",
+      "order": 0,
+      "cast_id": 7,
+      "popularity": 2.5342,
+      "profile_path": "/vWcMUi3QyvCr3QuFbjtwyPx7WtU.jpg"
+    },
+    {
+      "personId": 188642,
+      "name": "Bruklin Harris",
+      "character": "Angela",
+      "order": 1,
+      "cast_id": 8,
+      "popularity": 2.0094,
+      "profile_path": "/ymAnt5aPgpLhAyWHl7YVJ1mta5N.jpg"
+    },
+    {
+      "personId": 1049720,
+      "name": "Anna Grace",
+      "character": "Emma",
+      "order": 2,
+      "cast_id": 9,
+      "popularity": 1.1336,
+      "profile_path": "/nwX0sR8C8fSvplbDJC7p6VF5eXY.jpg"
+    },
+    {
+      "personId": 53923,
+      "name": "Aunjanue Ellis-Taylor",
+      "character": "Nikki",
+      "order": 3,
+      "cast_id": 10,
+      "popularity": 2.2666,
+      "profile_path": "/e54DfgDyS67xdtomYODFule6Ofa.jpg"
+    },
+    {
+      "personId": 1218139,
+      "name": "Ramya Pratt",
+      "character": "Tomy",
+      "order": 4,
+      "cast_id": 16,
+      "popularity": 1.0539,
+      "profile_path": "/4PTtuvqvbNDI5D4bPNtAJiST8aq.jpg"
+    },
+    {
+      "personId": 1049741,
+      "name": "Asia Minor",
+      "character": "Marlys",
+      "order": 5,
+      "cast_id": 12,
+      "popularity": 0.2688,
+      "profile_path": null
+    },
+    {
+      "personId": 1046135,
+      "name": "Carl Kwaku Ford",
+      "character": "Jessie (Boom Box Guy)",
+      "order": 6,
+      "cast_id": 13,
+      "popularity": 0.2313,
+      "profile_path": null
+    },
+    {
+      "personId": 8695,
+      "name": "Guillermo Díaz",
+      "character": "Dylan",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 3.8126,
+      "profile_path": "/oso3tpCcf6wbjeHk2bpeKMV52zP.jpg"
+    },
+    {
+      "personId": 1049744,
+      "name": "Shondalin",
+      "character": "Teacher",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 0.1463,
+      "profile_path": null
+    },
+    {
+      "personId": 2332734,
+      "name": "Ernestine Jackson",
+      "character": "Nikki's Mom",
+      "order": 9,
+      "cast_id": 17,
+      "popularity": 0.2825,
+      "profile_path": "/hzJtkXBKVliTJO4EX58ioSJUQ34.jpg"
+    },
+    {
+      "personId": 87707,
+      "name": "John Ventimiglia",
+      "character": "Eddie",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 2.1652,
+      "profile_path": "/1KSrI47Q3mdb3XXoEpiNaZoWsGp.jpg"
+    },
+    {
+      "personId": 157176,
+      "name": "Mary Joy",
+      "character": "Cora",
+      "order": 11,
+      "cast_id": 19,
+      "popularity": 1.8061,
+      "profile_path": "/4w1kTAWkbyRwNabOwyJAk6wO6fA.jpg"
+    },
+    {
+      "personId": 10693,
+      "name": "Stephanie Berry",
+      "character": "Angela's Mom",
+      "order": 12,
+      "cast_id": 20,
+      "popularity": 0.6419,
+      "profile_path": "/wFLrNH4xoW13W1IXgqDNhqM6OlU.jpg"
+    },
+    {
+      "personId": 2300877,
+      "name": "Tara Carnes",
+      "character": "Heather",
+      "order": 13,
+      "cast_id": 21,
+      "popularity": 0.2759,
+      "profile_path": null
+    },
+    {
+      "personId": 3151356,
+      "name": "Yassira",
+      "character": "Benita",
+      "order": 14,
+      "cast_id": 22,
+      "popularity": 0.0722,
+      "profile_path": null
+    },
+    {
+      "personId": 3151357,
+      "name": "Nathaniel Freeman",
+      "character": "Cam",
+      "order": 15,
+      "cast_id": 23,
+      "popularity": 0.2301,
+      "profile_path": null
+    },
+    {
+      "personId": 11486,
+      "name": "Michael Imperioli",
+      "character": "Anthony",
+      "order": 16,
+      "cast_id": 24,
+      "popularity": 3.4147,
+      "profile_path": "/jfoEHR6BRMg8emtujXdM3G4JHIm.jpg"
+    },
+    {
+      "personId": 88750,
+      "name": "Tom Gilroy",
+      "character": "Richard Helms",
+      "order": 17,
+      "cast_id": 25,
+      "popularity": 0.9378,
+      "profile_path": "/bKzidtz01QqN49YdJE7fcyr8Ezm.jpg"
+    },
+    {
+      "personId": 3151358,
+      "name": "Andrew von Dusan",
+      "character": "Helms' Co-Worker",
+      "order": 18,
+      "cast_id": 26,
+      "popularity": 0.0387,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 205639,
+      "name": "Jim McKay",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.3099,
+      "profile_path": "/hrrBk9T8Ds0UH9NKds1gkbJioTo.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 236,
+      "name": "suicide"
+    },
+    {
+      "id": 9856,
+      "name": "flashback"
+    },
+    {
+      "id": 18005,
+      "name": "high school friends"
+    }
+  ]
+}

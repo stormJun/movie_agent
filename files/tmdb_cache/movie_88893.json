@@ -1,0 +1,261 @@
+{
+  "overview": "A meeting of two world famous climbers, one an experienced mountaineer the other a sport climber, and a journalist (Ivan) results in a bet on which of the two is the best climber. Roger (the mountaineering expert) states that Martin (the sport climber) wouldn't survive a day on a 'real' climbing expedition, although he is considered to be the world's best sport climber (having just won an indoor 'world championship,' an event depicted in the opening scene). They plan to climb 'Cerro Torre,' in the Patagonia region of South America, near the Argentinian/Chilean border, one of the world's most difficult mountains, especially considering the extreme weather conditions common to the area.",
+  "release_date": "1991-10-03",
+  "runtime": 105,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.2,
+  "tmdb_vote_count": 33,
+  "tmdb_popularity": 0.4447,
+  "original_language": "en",
+  "poster_path": "/egROOqQo00anjXFYd6YDZoM4VA3.jpg",
+  "backdrop_path": "/tQDeXcuogjNbqdqPeJxBPD7QUzS.jpg",
+  "tmdb_genres_raw": [
+    "Adventure",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 148077,
+      "name": "Sera Filmproduktions",
+      "origin_country": "DE"
+    },
+    {
+      "id": 67499,
+      "name": "Molécule",
+      "origin_country": ""
+    },
+    {
+      "id": 875,
+      "name": "Films A2",
+      "origin_country": "FR"
+    },
+    {
+      "id": 125611,
+      "name": "Les Films Stock International",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "es",
+      "name": "Español"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 23734,
+      "name": "Vittorio Mezzogiorno",
+      "character": "Roccia",
+      "order": 0,
+      "cast_id": 8,
+      "popularity": 0.584,
+      "profile_path": "/8xxQrh1CDcMSAxyvM4P5dWWq25I.jpg"
+    },
+    {
+      "personId": 1490206,
+      "name": "Stefan Glowacz",
+      "character": "Martin Sedlmayr",
+      "order": 1,
+      "cast_id": 28,
+      "popularity": 0.1163,
+      "profile_path": "/hXYImQfQ2dPc2peFss5KiKmxlvb.jpg"
+    },
+    {
+      "personId": 44233,
+      "name": "Mathilda May",
+      "character": "Katharina",
+      "order": 2,
+      "cast_id": 9,
+      "popularity": 2.0559,
+      "profile_path": "/nriCSDriKg7mKcJ0KSUqCz6nkMQ.jpg"
+    },
+    {
+      "personId": 36172,
+      "name": "Al Waxman",
+      "character": "Stephen",
+      "order": 3,
+      "cast_id": 10,
+      "popularity": 0.8778,
+      "profile_path": "/7nvvodM6mqMHPVzGQBIIG34pjsp.jpg"
+    },
+    {
+      "personId": 185422,
+      "name": "Gunilla Karlzen",
+      "character": "Carla",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 0.2324,
+      "profile_path": null
+    },
+    {
+      "personId": 991503,
+      "name": "Chavela Vargas",
+      "character": "Indianerin",
+      "order": 5,
+      "cast_id": 12,
+      "popularity": 0.3093,
+      "profile_path": "/8gpHAxtTiXbwIK2kP6MnDvoRGC7.jpg"
+    },
+    {
+      "personId": 23753,
+      "name": "Georg Marischka",
+      "character": "Werbeagent",
+      "order": 6,
+      "cast_id": 13,
+      "popularity": 0.7325,
+      "profile_path": "/k36AwZNXdB4vB1LpabZdX57HO3c.jpg"
+    },
+    {
+      "personId": 2370,
+      "name": "Volker Prechtel",
+      "character": "Himalaja-Bezwinger",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 1.2584,
+      "profile_path": "/kBNe9UD2doAGhWeNWSdFTlFMM3r.jpg"
+    },
+    {
+      "personId": 1169099,
+      "name": "Hans Kammerlander",
+      "character": "Bergsteiger",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 0.2231,
+      "profile_path": null
+    },
+    {
+      "personId": 105226,
+      "name": "Lautaro Murúa",
+      "character": "Estanciero",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 1.8436,
+      "profile_path": "/a7teROxSkY9tuisxJmWXZIVMss0.jpg"
+    },
+    {
+      "personId": 1370,
+      "name": "Brad Dourif",
+      "character": "Fingerless",
+      "order": 10,
+      "cast_id": 7,
+      "popularity": 3.089,
+      "profile_path": "/ex7AmuHM3owhUetYZAyOmN1ehWS.jpg"
+    },
+    {
+      "personId": 55636,
+      "name": "Donald Sutherland",
+      "character": "Ivan",
+      "order": 11,
+      "cast_id": 2,
+      "popularity": 3.1092,
+      "profile_path": "/yM8WO2BYqFvgQXAvf4CIuCYnY4j.jpg"
+    },
+    {
+      "personId": 1169100,
+      "name": "Amelie Fried",
+      "character": "TV-Moderatorin",
+      "order": 12,
+      "cast_id": 17,
+      "popularity": 0.5861,
+      "profile_path": "/gMmap5QSYAKiNbBC6En6H1xuWum.jpg"
+    },
+    {
+      "personId": 6818,
+      "name": "Werner Herzog",
+      "character": "TV-Regisseur",
+      "order": 13,
+      "cast_id": 18,
+      "popularity": 1.3988,
+      "profile_path": "/qKlz1oM482Xf0jTPfLiR6qXlLYK.jpg"
+    },
+    {
+      "personId": 25673,
+      "name": "Wolfgang Müller",
+      "character": "",
+      "order": 14,
+      "cast_id": 19,
+      "popularity": 0.5395,
+      "profile_path": "/nw3Z2PwZ8HcvEuopgMMb7hABt7Z.jpg"
+    },
+    {
+      "personId": 5800492,
+      "name": "Nicolas de la Cruz",
+      "character": "",
+      "order": 15,
+      "cast_id": 29,
+      "popularity": 0.4239,
+      "profile_path": null
+    },
+    {
+      "personId": 5134199,
+      "name": "Sebastien de la Cruz",
+      "character": "",
+      "order": 16,
+      "cast_id": 30,
+      "popularity": 1.0806,
+      "profile_path": null
+    },
+    {
+      "personId": 5800493,
+      "name": "Federico Marchesi",
+      "character": "",
+      "order": 17,
+      "cast_id": 31,
+      "popularity": 0.1569,
+      "profile_path": null
+    },
+    {
+      "personId": 5800495,
+      "name": "Tito Trevisan",
+      "character": "",
+      "order": 18,
+      "cast_id": 32,
+      "popularity": 0.0615,
+      "profile_path": null
+    },
+    {
+      "personId": 5800497,
+      "name": "Alejandro Sagrista",
+      "character": "",
+      "order": 19,
+      "cast_id": 33,
+      "popularity": 0.0387,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 6818,
+      "name": "Werner Herzog",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.3988,
+      "profile_path": "/qKlz1oM482Xf0jTPfLiR6qXlLYK.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1262,
+      "name": "mountain"
+    },
+    {
+      "id": 4560,
+      "name": "mountaineer"
+    },
+    {
+      "id": 8624,
+      "name": "climbing"
+    }
+  ]
+}

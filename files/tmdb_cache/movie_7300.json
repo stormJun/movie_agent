@@ -1,0 +1,264 @@
+{
+  "overview": "Melanie Parker, an architect and mother of Sammy, and Jack Taylor, a newspaper columnist and father of Maggie, are both divorced. They meet one morning when overwhelmed Jack is left unexpectedly with Maggie and forgets that Melanie was to take her to school. As a result, both children miss their school field trip and are stuck with the parents. The two adults project their negative stereotypes of ex-spouses on each other, but end up needing to rely on each other to watch the children as each must save his job. Humor is added by Sammy's propensity for lodging objects in his nose and Maggie's tendency to wander.",
+  "release_date": "1996-12-20",
+  "runtime": 108,
+  "budget": 0,
+  "revenue": 97529550,
+  "tmdb_vote_average": 6.447,
+  "tmdb_vote_count": 702,
+  "tmdb_popularity": 1.9155,
+  "original_language": "en",
+  "poster_path": "/Ao6OFtTH93p0yZ4vFNjHz5QgPrB.jpg",
+  "backdrop_path": "/8K4vmr375bnmB9SaqE4sLqRf9l2.jpg",
+  "tmdb_genres_raw": [
+    "Romance",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 711,
+      "name": "Fox 2000 Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 10103,
+      "name": "Via Rosa Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 25,
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1160,
+      "name": "Michelle Pfeiffer",
+      "character": "Melanie Parker",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 5.4029,
+      "profile_path": "/oGUmQBU87QXAsnaGleYaAjAXSlj.jpg"
+    },
+    {
+      "personId": 1461,
+      "name": "George Clooney",
+      "character": "Jack Taylor",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 5.464,
+      "profile_path": "/dt0a7DT0SQeHb7NpURD6ifyEzsN.jpg"
+    },
+    {
+      "personId": 52404,
+      "name": "Mae Whitman",
+      "character": "Maggie Taylor, Jack's daughter",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.8121,
+      "profile_path": "/hO1xLbFrfQLKH3Ln8eqjySgtxHX.jpg"
+    },
+    {
+      "personId": 15789,
+      "name": "Alex D. Linz",
+      "character": "Sammy Parker, Melanie's son",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 5.6107,
+      "profile_path": "/sGc3eYFDybC5lr0iWnRvJswZlH7.jpg"
+    },
+    {
+      "personId": 1466,
+      "name": "Charles Durning",
+      "character": "Lew, Jack's boss",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 1.7981,
+      "profile_path": "/bozKytaYVKoIbptxkMFWepK09U5.jpg"
+    },
+    {
+      "personId": 69697,
+      "name": "Jon Robin Baitz",
+      "character": "Mr. Yates, Jr.",
+      "order": 5,
+      "cast_id": 12,
+      "popularity": 0.4497,
+      "profile_path": null
+    },
+    {
+      "personId": 13420,
+      "name": "Ellen Greene",
+      "character": "Mrs. Elaine Lieberman",
+      "order": 6,
+      "cast_id": 13,
+      "popularity": 1.6253,
+      "profile_path": "/5OxY1mPqGPELD6UJ2BaP2GO25aP.jpg"
+    },
+    {
+      "personId": 2956,
+      "name": "Amanda Peet",
+      "character": "Celia",
+      "order": 7,
+      "cast_id": 19,
+      "popularity": 4.4812,
+      "profile_path": "/5TfyCj0X9ftKO11FN057P05s78C.jpg"
+    },
+    {
+      "personId": 4887,
+      "name": "Joe Grifasi",
+      "character": "Manny Feldstein",
+      "order": 8,
+      "cast_id": 14,
+      "popularity": 1.4496,
+      "profile_path": "/30c0szBZvqsk3nuOgg2A9PeSQFt.jpg"
+    },
+    {
+      "personId": 138243,
+      "name": "Pete Hamill",
+      "character": "Frank Burroughs",
+      "order": 9,
+      "cast_id": 15,
+      "popularity": 0.6887,
+      "profile_path": "/uW7RyOozX5gT92p3Q8saZJ95CKq.jpg"
+    },
+    {
+      "personId": 54800,
+      "name": "Anna Maria Horsford",
+      "character": "Evelyn",
+      "order": 10,
+      "cast_id": 16,
+      "popularity": 1.5862,
+      "profile_path": "/fVA25hLtwmrVsIVrcWOojaPoYEq.jpg"
+    },
+    {
+      "personId": 24360,
+      "name": "Gregory Jbara",
+      "character": "Freddy",
+      "order": 11,
+      "cast_id": 17,
+      "popularity": 3.2683,
+      "profile_path": "/nYkdyh9E0iNuue8k4437gCWD70G.jpg"
+    },
+    {
+      "personId": 68109,
+      "name": "Sheila Kelley",
+      "character": "Kristen, Jack's ex-wife",
+      "order": 12,
+      "cast_id": 18,
+      "popularity": 1.6931,
+      "profile_path": "/hM7V57prIElCPiPFuPQOWWFKmZA.jpg"
+    },
+    {
+      "personId": 138240,
+      "name": "Bitty Schram",
+      "character": "Marla",
+      "order": 13,
+      "cast_id": 21,
+      "popularity": 1.9361,
+      "profile_path": "/7N1FWQINAtQXcOBgw8xvBgITXTh.jpg"
+    },
+    {
+      "personId": 152345,
+      "name": "Barry Kivel",
+      "character": "Mr. Yates, Sr.",
+      "order": 14,
+      "cast_id": 22,
+      "popularity": 0.7735,
+      "profile_path": "/85QspM4BtKJIpfTBi3UGdCJMcoI.jpg"
+    },
+    {
+      "personId": 26715,
+      "name": "Robert Klein",
+      "character": "Dr. Martin",
+      "order": 15,
+      "cast_id": 23,
+      "popularity": 0.9873,
+      "profile_path": "/eZNiVyIMZSuyDmjIf7UaccpCJph.jpg"
+    },
+    {
+      "personId": 2701,
+      "name": "George Martin",
+      "character": "Mr. Smith Leland",
+      "order": 16,
+      "cast_id": 24,
+      "popularity": 0.7974,
+      "profile_path": "/nIgCta2DazdhpJLQKqyxHpKbqpl.jpg"
+    },
+    {
+      "personId": 9289,
+      "name": "Michael Massee",
+      "character": "Eddie Parker",
+      "order": 17,
+      "cast_id": 25,
+      "popularity": 1.7409,
+      "profile_path": "/jJntkRaa55HD3rrXLmpAVQYvWi9.jpg"
+    },
+    {
+      "personId": 11318,
+      "name": "Holland Taylor",
+      "character": "Rita",
+      "order": 18,
+      "cast_id": 26,
+      "popularity": 5.9315,
+      "profile_path": "/jt9yFB3nLfZQ0c1DcnvvcfA11gB.jpg"
+    },
+    {
+      "personId": 138246,
+      "name": "Rachel York",
+      "character": "Liza",
+      "order": 19,
+      "cast_id": 20,
+      "popularity": 1.7701,
+      "profile_path": "/zisS2K5c2644TyktjGTsjIEO2PZ.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 52405,
+      "name": "Michael Hoffman",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7946,
+      "profile_path": "/vi8H1gOWrpT1EtqPOnJ8QeEsSLU.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 14768,
+      "name": "single mother"
+    },
+    {
+      "id": 18008,
+      "name": "divorced"
+    },
+    {
+      "id": 33479,
+      "name": "single father"
+    },
+    {
+      "id": 155294,
+      "name": "family conflict"
+    },
+    {
+      "id": 178364,
+      "name": "child custody"
+    },
+    {
+      "id": 212795,
+      "name": "blended family"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "overview": "Two competing lawyers join forces to sue a prestigious law firm for AIDS discrimination. As their unlikely friendship develops their courage overcomes the prejudice and corruption of their powerful adversaries.",
+  "release_date": "1993-12-22",
+  "runtime": 126,
+  "budget": 26000000,
+  "revenue": 206678440,
+  "tmdb_vote_average": 7.714,
+  "tmdb_vote_count": 4496,
+  "tmdb_popularity": 5.1731,
+  "original_language": "en",
+  "poster_path": "/tFe5Yoo5zT495okA49bq1vPPkiV.jpg",
+  "backdrop_path": "/wBxNnJeYvmOkm67jopiF2hw2obk.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 559,
+      "name": "TriStar Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1274,
+      "name": "Clinica Estetico",
+      "origin_country": "US"
+    },
+    {
+      "id": 276744,
+      "name": "A Luta Continua",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 31,
+      "name": "Tom Hanks",
+      "character": "Andrew Beckett",
+      "order": 0,
+      "cast_id": 21,
+      "popularity": 14.445,
+      "profile_path": "/eKF1sGJRrZJbfBG1KirPt1cfNd3.jpg"
+    },
+    {
+      "personId": 5292,
+      "name": "Denzel Washington",
+      "character": "Joe Miller",
+      "order": 1,
+      "cast_id": 20,
+      "popularity": 7.8701,
+      "profile_path": "/jj2Gcobpopokal0YstuCQW0ldJ4.jpg"
+    },
+    {
+      "personId": 4765,
+      "name": "Jason Robards",
+      "character": "Charles Wheeler",
+      "order": 2,
+      "cast_id": 34,
+      "popularity": 1.7911,
+      "profile_path": "/9y0HAtWWBkB02gVzh8QDdz6UYZH.jpg"
+    },
+    {
+      "personId": 2453,
+      "name": "Mary Steenburgen",
+      "character": "Belinda Conine",
+      "order": 3,
+      "cast_id": 33,
+      "popularity": 3.4892,
+      "profile_path": "/yJhfuqS3yXW7kLSyvRU6n3b35mq.jpg"
+    },
+    {
+      "personId": 3131,
+      "name": "Antonio Banderas",
+      "character": "Miguel Alvarez",
+      "order": 4,
+      "cast_id": 19,
+      "popularity": 5.8003,
+      "profile_path": "/fce7zl6elUzsv7wudHFc7RgFtjD.jpg"
+    },
+    {
+      "personId": 32592,
+      "name": "Ron Vawter",
+      "character": "Bob Seidman",
+      "order": 5,
+      "cast_id": 27,
+      "popularity": 1.2052,
+      "profile_path": "/f5WDxaiBGOP5bg3JsZEpotnJYbE.jpg"
+    },
+    {
+      "personId": 25626,
+      "name": "Robert Ridgely",
+      "character": "Walter Kenton",
+      "order": 6,
+      "cast_id": 38,
+      "popularity": 1.2092,
+      "profile_path": "/9KXMqTrSeIxcW6hlCJZ6CTzNeMB.jpg"
+    },
+    {
+      "personId": 16119,
+      "name": "Charles Napier",
+      "character": "Judge Garnett",
+      "order": 7,
+      "cast_id": 36,
+      "popularity": 1.9959,
+      "profile_path": "/w16LEJlHDtqGWeFCk5a7a2GDeBK.jpg"
+    },
+    {
+      "personId": 1318896,
+      "name": "Lisa Summerour",
+      "character": "Lisa Miller",
+      "order": 8,
+      "cast_id": 39,
+      "popularity": 0.5686,
+      "profile_path": "/hN6jxYkoEgwOAExnwuaPMlLQTkS.jpg"
+    },
+    {
+      "personId": 52057,
+      "name": "Obba Babatundé",
+      "character": "Jerome Green",
+      "order": 9,
+      "cast_id": 40,
+      "popularity": 2.0099,
+      "profile_path": "/jkvxfhETmwR877VluO5kfbxxNER.jpg"
+    },
+    {
+      "personId": 552526,
+      "name": "Andre B. Blake",
+      "character": "Young Man in Pharmacy",
+      "order": 10,
+      "cast_id": 41,
+      "popularity": 0.782,
+      "profile_path": "/fDqEAu9Y2OyoGSG5W9HQNLbFBF5.jpg"
+    },
+    {
+      "personId": 552527,
+      "name": "Robert W. Castle",
+      "character": "Bud Beckett",
+      "order": 11,
+      "cast_id": 42,
+      "popularity": 1.0736,
+      "profile_path": "/5NIaVNPRVEFCHTrp0o19JzmOJIL.jpg"
+    },
+    {
+      "personId": 91428,
+      "name": "Daniel Chapman",
+      "character": "Clinic Storyteller",
+      "order": 12,
+      "cast_id": 23,
+      "popularity": 2.375,
+      "profile_path": "/7aD5xIlO9vDxv1YRzyteeCUz6eN.jpg"
+    },
+    {
+      "personId": 102429,
+      "name": "Roger Corman",
+      "character": "Mr. Laird",
+      "order": 13,
+      "cast_id": 43,
+      "popularity": 1.4987,
+      "profile_path": "/m0ApZMol42l8vLV8MLpUSCpyA6n.jpg"
+    },
+    {
+      "personId": 43366,
+      "name": "Ann Dowd",
+      "character": "Jill Beckett",
+      "order": 14,
+      "cast_id": 44,
+      "popularity": 2.2694,
+      "profile_path": "/zo44U71uiMNVW1HSiOa5F9MpqIq.jpg"
+    },
+    {
+      "personId": 1176208,
+      "name": "David Drake",
+      "character": "Bruno",
+      "order": 15,
+      "cast_id": 45,
+      "popularity": 0.8168,
+      "profile_path": null
+    },
+    {
+      "personId": 568363,
+      "name": "Karen Finley",
+      "character": "Dr. Gillman",
+      "order": 16,
+      "cast_id": 22,
+      "popularity": 0.5615,
+      "profile_path": "/n87A08kshhdj5CC75DJazCrZkcj.jpg"
+    },
+    {
+      "personId": 568366,
+      "name": "Charles Glenn",
+      "character": "Kenneth Killcoyne",
+      "order": 17,
+      "cast_id": 26,
+      "popularity": 0.196,
+      "profile_path": null
+    },
+    {
+      "personId": 1318898,
+      "name": "Peter Jacobs",
+      "character": "Peter / Mona Lisa",
+      "order": 18,
+      "cast_id": 46,
+      "popularity": 0.2128,
+      "profile_path": null
+    },
+    {
+      "personId": 138988,
+      "name": "Paul Lazar",
+      "character": "Dr. Klenstein",
+      "order": 19,
+      "cast_id": 47,
+      "popularity": 0.9335,
+      "profile_path": "/2lZdlxrQaKWBLD8BoolYLzTtzOW.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 16294,
+      "name": "Jonathan Demme",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.097,
+      "profile_path": "/w9Lw3xTEFQUYELkl9AH5i3p5OhJ.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 276,
+      "name": "philadelphia, pennsylvania"
+    },
+    {
+      "id": 6148,
+      "name": "court"
+    },
+    {
+      "id": 1417,
+      "name": "jurors"
+    },
+    {
+      "id": 740,
+      "name": "aids"
+    },
+    {
+      "id": 904,
+      "name": "pennsylvania, usa"
+    },
+    {
+      "id": 1013,
+      "name": "homophobia"
+    },
+    {
+      "id": 7335,
+      "name": "lawsuit"
+    },
+    {
+      "id": 9104,
+      "name": "partner"
+    },
+    {
+      "id": 9766,
+      "name": "hiv"
+    },
+    {
+      "id": 10909,
+      "name": "lawyer"
+    },
+    {
+      "id": 41589,
+      "name": "dying"
+    },
+    {
+      "id": 158718,
+      "name": "lgbt"
+    },
+    {
+      "id": 186782,
+      "name": "discrimination"
+    },
+    {
+      "id": 207968,
+      "name": "judiciary"
+    },
+    {
+      "id": 208289,
+      "name": "1980s"
+    },
+    {
+      "id": 214780,
+      "name": "courtroom drama"
+    },
+    {
+      "id": 258533,
+      "name": "gay theme"
+    }
+  ]
+}

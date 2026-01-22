@@ -1,0 +1,307 @@
+{
+  "overview": "During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.",
+  "release_date": "1942-03-06",
+  "runtime": 99,
+  "budget": 1200000,
+  "revenue": 1500000,
+  "tmdb_vote_average": 7.814,
+  "tmdb_vote_count": 796,
+  "tmdb_popularity": 1.596,
+  "original_language": "en",
+  "poster_path": "/dDQRpEoyjHT4fzw9cNklIvZuXYg.jpg",
+  "backdrop_path": "/28vvMlh490bxipmhkbYTQissiof.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "War",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 226986,
+      "name": "Romaine Film Corporation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "de",
+      "name": "Deutsch"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2491,
+      "name": "Carole Lombard",
+      "character": "Maria Tura",
+      "order": 0,
+      "cast_id": 5,
+      "popularity": 1.2308,
+      "profile_path": "/bPKG7DlExGyyl76A4OcGhO84P2L.jpg"
+    },
+    {
+      "personId": 2492,
+      "name": "Jack Benny",
+      "character": "Joseph Tura",
+      "order": 1,
+      "cast_id": 6,
+      "popularity": 0.8959,
+      "profile_path": "/nHhy8tF4WjGWvAfv0tM2pyl4D6R.jpg"
+    },
+    {
+      "personId": 2493,
+      "name": "Robert Stack",
+      "character": "Lieut. Stanislav Sobinski",
+      "order": 2,
+      "cast_id": 7,
+      "popularity": 1.5962,
+      "profile_path": "/f1MchlCMVc4LDWEALsodZHPkbIu.jpg"
+    },
+    {
+      "personId": 2494,
+      "name": "Felix Bressart",
+      "character": "Greenberg",
+      "order": 3,
+      "cast_id": 8,
+      "popularity": 0.6356,
+      "profile_path": "/h8Ac7m2toKeDCt2VjNV7s9ytgo7.jpg"
+    },
+    {
+      "personId": 2495,
+      "name": "Lionel Atwill",
+      "character": "Rawitch",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 0.5495,
+      "profile_path": "/2KFwXY3fsMWWyeTFxeU9GNnAIMc.jpg"
+    },
+    {
+      "personId": 2496,
+      "name": "Stanley Ridges",
+      "character": "Professor Alexander Siletsky",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 0.4124,
+      "profile_path": "/cL10nYNDpZru4Smqy9EfkBLUh4O.jpg"
+    },
+    {
+      "personId": 2497,
+      "name": "Sig Ruman",
+      "character": "Col. Ehrhardt",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 0.9004,
+      "profile_path": "/r2iCgnjgF4dEyeRBWrqGL8qOQpd.jpg"
+    },
+    {
+      "personId": 2501,
+      "name": "Tom Dugan",
+      "character": "Bronski",
+      "order": 7,
+      "cast_id": 16,
+      "popularity": 0.6364,
+      "profile_path": "/1rxaHndaUBGKLtZSliGovHN2nsK.jpg"
+    },
+    {
+      "personId": 2502,
+      "name": "Charles Halton",
+      "character": "Producer Dobosh",
+      "order": 8,
+      "cast_id": 17,
+      "popularity": 2.3529,
+      "profile_path": "/t3M7SJbcKxM2Nz7H46BAJ1A2MKm.jpg"
+    },
+    {
+      "personId": 31263,
+      "name": "George Lynn",
+      "character": "Actor-Adjutant",
+      "order": 9,
+      "cast_id": 22,
+      "popularity": 1.1789,
+      "profile_path": "/oitnXD4qTRvrTJZ1Lo8vMlH2aT5.jpg"
+    },
+    {
+      "personId": 1510,
+      "name": "Henry Victor",
+      "character": "Capt. Schultz",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 0.5851,
+      "profile_path": "/4bNOQWteeMkceF05KGT8GJZMgQd.jpg"
+    },
+    {
+      "personId": 2503,
+      "name": "Maude Eburne",
+      "character": "Anna",
+      "order": 11,
+      "cast_id": 19,
+      "popularity": 1.635,
+      "profile_path": "/ijQRIZzSXnt53lPHUFpjDRLpnEZ.jpg"
+    },
+    {
+      "personId": 29601,
+      "name": "Halliwell Hobbes",
+      "character": "Gen. Armstrong",
+      "order": 12,
+      "cast_id": 23,
+      "popularity": 0.6509,
+      "profile_path": "/ewmAwP5TBvqRlvFEgnXsMB7U6H0.jpg"
+    },
+    {
+      "personId": 19329,
+      "name": "Miles Mander",
+      "character": "Major Cunningham",
+      "order": 13,
+      "cast_id": 24,
+      "popularity": 1.1361,
+      "profile_path": "/AnbbuFFGTTAtM2dfi3YAYSfAaXD.jpg"
+    },
+    {
+      "personId": 131045,
+      "name": "Rudolph Anders",
+      "character": "Gestapo Sergeant at Desk at Top of Hotel Stairs (uncredited)",
+      "order": 14,
+      "cast_id": 39,
+      "popularity": 0.4895,
+      "profile_path": "/i9gNhtuGtRNuGfLxphaOqUvTGuq.jpg"
+    },
+    {
+      "personId": 1066638,
+      "name": "Paul Barrett",
+      "character": "Polish RAF Pilot (uncredited)",
+      "order": 15,
+      "cast_id": 40,
+      "popularity": 0.0643,
+      "profile_path": null
+    },
+    {
+      "personId": 1005247,
+      "name": "Sven Hugo Borg",
+      "character": "German Soldier (uncredited)",
+      "order": 16,
+      "cast_id": 41,
+      "popularity": 1.2975,
+      "profile_path": "/x9g69pFqud2bwIZDL2MXcklIHUU.jpg"
+    },
+    {
+      "personId": 1404180,
+      "name": "Danny Borzage",
+      "character": "Member of Audience at Performance of Hamlet (uncredited)",
+      "order": 17,
+      "cast_id": 42,
+      "popularity": 0.4181,
+      "profile_path": null
+    },
+    {
+      "personId": 1130467,
+      "name": "Buster Brodie",
+      "character": "Townsman (uncredited)",
+      "order": 18,
+      "cast_id": 43,
+      "popularity": 0.8507,
+      "profile_path": "/tASBdwuftOiPb5qXfWoTw3PPm9N.jpg"
+    },
+    {
+      "personId": 1822784,
+      "name": "Peter Caldwell",
+      "character": "Wilhelm Kunze (uncredited)",
+      "order": 19,
+      "cast_id": 44,
+      "popularity": 0.1217,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2428,
+      "name": "Ernst Lubitsch",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5832,
+      "profile_path": "/tAsEhwiu3oqDgzCZSYN2xu0dEdD.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1326,
+      "name": "infidelity"
+    },
+    {
+      "id": 212,
+      "name": "london, england"
+    },
+    {
+      "id": 3800,
+      "name": "airplane"
+    },
+    {
+      "id": 2652,
+      "name": "nazi"
+    },
+    {
+      "id": 128,
+      "name": "love triangle"
+    },
+    {
+      "id": 5265,
+      "name": "espionage"
+    },
+    {
+      "id": 2435,
+      "name": "warsaw ghetto"
+    },
+    {
+      "id": 2444,
+      "name": "jewish ghetto"
+    },
+    {
+      "id": 2436,
+      "name": "polish resistance"
+    },
+    {
+      "id": 4679,
+      "name": "parachuting"
+    },
+    {
+      "id": 11109,
+      "name": "military officer"
+    },
+    {
+      "id": 1956,
+      "name": "world war ii"
+    },
+    {
+      "id": 10123,
+      "name": "dark comedy"
+    },
+    {
+      "id": 12999,
+      "name": "black and white"
+    },
+    {
+      "id": 241930,
+      "name": "adolf hitler"
+    },
+    {
+      "id": 258533,
+      "name": "gay theme"
+    },
+    {
+      "id": 285695,
+      "name": "theater"
+    }
+  ]
+}

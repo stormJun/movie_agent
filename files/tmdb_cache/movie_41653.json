@@ -1,0 +1,316 @@
+{
+  "overview": "Stockholm in the 1920s. Young Roland lives with his socialist father, Jewish mother and a boxing brother. His mother sells condoms illegally, and from them, Roland makes slingshots which he sells. His rebellious ways has gotten him the special attention of his school teacher, who always makes sure that Roland is punished. Roland also tries to make extra money by repairing bicycles, a successful business that in the end lands him in hot water.",
+  "release_date": "1993-09-24",
+  "runtime": 102,
+  "budget": 0,
+  "revenue": 308368,
+  "tmdb_vote_average": 5.974,
+  "tmdb_vote_count": 38,
+  "tmdb_popularity": 5.1766,
+  "original_language": "sv",
+  "poster_path": "/hu8OM6AkfZeYlG10q5aQ9e07PqZ.jpg",
+  "backdrop_path": "/nBvrKWlF3YWZVLg8F7fwk8OaJPB.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 157,
+      "name": "SVT Drama",
+      "origin_country": "SE"
+    },
+    {
+      "id": 235,
+      "name": "Nordisk Film Denmark",
+      "origin_country": "DK"
+    },
+    {
+      "id": 6181,
+      "name": "SF Studios",
+      "origin_country": "SE"
+    },
+    {
+      "id": 2302,
+      "name": "Svenska Filminstitutet",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "DK",
+      "name": "Denmark"
+    },
+    {
+      "code": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "sv",
+      "name": "svenska"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1640,
+      "name": "Stellan Skarsgård",
+      "character": "Fritiof Schütt",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.5032,
+      "profile_path": "/x78BtYHElirO7Iw8bL4m8CnzRDc.jpg"
+    },
+    {
+      "personId": 68567,
+      "name": "Jesper Salén",
+      "character": "Roland Schütt",
+      "order": 1,
+      "cast_id": 6,
+      "popularity": 0.34,
+      "profile_path": "/4snr7kpyRAHmQrQzH6caQ4RI7Mp.jpg"
+    },
+    {
+      "personId": 540617,
+      "name": "Basia Frydman",
+      "character": "Zipa Schütt",
+      "order": 2,
+      "cast_id": 7,
+      "popularity": 0.2319,
+      "profile_path": "/50Pg8gcH4JTwUVhewLPQFBZvM2v.jpg"
+    },
+    {
+      "personId": 540618,
+      "name": "Niclas Olund",
+      "character": "Bertil Schütt",
+      "order": 3,
+      "cast_id": 8,
+      "popularity": 0.3656,
+      "profile_path": "/lxg91FeaoNk9wrf1xlQjhtzFVMV.jpg"
+    },
+    {
+      "personId": 56882,
+      "name": "Ernst-Hugo Järegård",
+      "character": "Teacher Lundin",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 0.807,
+      "profile_path": "/Av4Wq38NRFhRCZSVClr1Es1pIRd.jpg"
+    },
+    {
+      "personId": 67989,
+      "name": "Reine Brynolfsson",
+      "character": "Hinke Bergegren",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 1.169,
+      "profile_path": "/xDtDGJEeAEPpcDg7oS1Sn5deFuF.jpg"
+    },
+    {
+      "personId": 6285,
+      "name": "Frida Hallgren",
+      "character": "Margit",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 0.9458,
+      "profile_path": "/4N6haOFsCJZnsXt0KDOitWj0ZfW.jpg"
+    },
+    {
+      "personId": 48574,
+      "name": "Axel Düberg",
+      "character": "Inspector Gissle",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 0.4728,
+      "profile_path": "/aAAs99OOsbdjySLHiYW4yqtsD77.jpg"
+    },
+    {
+      "personId": 74712,
+      "name": "Ing-Marie Carlsson",
+      "character": "Karin Adamsson",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 0.8576,
+      "profile_path": "/8gAwjBAkqA7LmJaEf0H1tNLaYJl.jpg"
+    },
+    {
+      "personId": 112866,
+      "name": "Ernst Günther",
+      "character": "Principal",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 1.3859,
+      "profile_path": "/ovBFo195urOrEgseWKnJqX4pSVH.jpg"
+    },
+    {
+      "personId": 107909,
+      "name": "Roland Hedlund",
+      "character": "School janitor",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 0.4914,
+      "profile_path": "/l0sZsaufxlgiK52Bv8ZxJtQvDXD.jpg"
+    },
+    {
+      "personId": 67987,
+      "name": "Tomas Norström",
+      "character": "Boxing Trainer",
+      "order": 11,
+      "cast_id": 16,
+      "popularity": 0.5081,
+      "profile_path": "/9Tga0GtSbeYFaIg8JCqbWR36UGQ.jpg"
+    },
+    {
+      "personId": 77708,
+      "name": "Heinz Hopf",
+      "character": "Shoe salesman",
+      "order": 12,
+      "cast_id": 17,
+      "popularity": 1.7732,
+      "profile_path": "/2ICYKAo74bmPedOoPN1UFJ5RTid.jpg"
+    },
+    {
+      "personId": 116510,
+      "name": "Margreth Weivers",
+      "character": "Kopowski's assistent",
+      "order": 13,
+      "cast_id": 18,
+      "popularity": 2.2998,
+      "profile_path": "/lNVbcqOH7Haw4ytRUIDPi48G6Nw.jpg"
+    },
+    {
+      "personId": 81215,
+      "name": "Carl Magnus Dellow",
+      "character": "Police officer",
+      "order": 14,
+      "cast_id": 19,
+      "popularity": 1.1793,
+      "profile_path": "/q52JjpeGO1dcNlTNhaOlnSGtWzR.jpg"
+    },
+    {
+      "personId": 32684,
+      "name": "Rolf Lassgård",
+      "character": "Prisoner",
+      "order": 15,
+      "cast_id": 20,
+      "popularity": 1.2937,
+      "profile_path": "/jwS0hdn9k4APVHabGzzqGJz6n6j.jpg"
+    },
+    {
+      "personId": 114579,
+      "name": "Peter Viitanen",
+      "character": "Nils",
+      "order": 16,
+      "cast_id": 21,
+      "popularity": 1.2919,
+      "profile_path": "/joqizVeKOIjOs1tLRC0GL4Pz4BY.jpg"
+    },
+    {
+      "personId": 236041,
+      "name": "Viktor Friberg",
+      "character": "Andersson",
+      "order": 17,
+      "cast_id": 45,
+      "popularity": 2.0505,
+      "profile_path": null
+    },
+    {
+      "personId": 1263526,
+      "name": "Kenneth Söderman",
+      "character": "Teacher at Skrubba",
+      "order": 18,
+      "cast_id": 22,
+      "popularity": 0.3079,
+      "profile_path": "/ddO7RJ43bBhQEWmDDvkOmrIlscc.jpg"
+    },
+    {
+      "personId": 2644734,
+      "name": "Kalle Stridbeck",
+      "character": "boy",
+      "order": 19,
+      "cast_id": 27,
+      "popularity": 0.146,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 91565,
+      "name": "Åke Sandgren",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4352,
+      "profile_path": "/5N1wMO85sZtM2RtZ9iLk82bR7zI.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 516,
+      "name": "child abuse"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 970,
+      "name": "parent child relationship"
+    },
+    {
+      "id": 625,
+      "name": "sadistic"
+    },
+    {
+      "id": 6069,
+      "name": "class"
+    },
+    {
+      "id": 1773,
+      "name": "socialism"
+    },
+    {
+      "id": 3603,
+      "name": "fascist"
+    },
+    {
+      "id": 4313,
+      "name": "condom"
+    },
+    {
+      "id": 10683,
+      "name": "coming of age"
+    },
+    {
+      "id": 9888,
+      "name": "spanking"
+    },
+    {
+      "id": 10144,
+      "name": "antisemitism"
+    },
+    {
+      "id": 11935,
+      "name": "working class"
+    },
+    {
+      "id": 157912,
+      "name": "bigotry"
+    },
+    {
+      "id": 157955,
+      "name": "childhood"
+    },
+    {
+      "id": 159959,
+      "name": "reform school"
+    },
+    {
+      "id": 174254,
+      "name": "slingshot"
+    },
+    {
+      "id": 214548,
+      "name": "1930s"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "overview": "When a mute makeup/special effects artist working on a low-budget slasher film gets locked in a dilapidated Moscow movie studio late one night, she thinks she witnesses the making of a snuff film. Thus begins a night of terror.",
+  "release_date": "1995-09-15",
+  "runtime": 95,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.4,
+  "tmdb_vote_count": 150,
+  "tmdb_popularity": 3.6235,
+  "original_language": "en",
+  "poster_path": "/kfCIZNpb2bWspnQNkIQftQlksCU.jpg",
+  "backdrop_path": "/1QZBkYj1XbjfpYmMbCiXH6xqGXx.jpg",
+  "tmdb_genres_raw": [
+    "Thriller",
+    "Horror",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 38959,
+      "name": "Avrora Media",
+      "origin_country": "DE"
+    },
+    {
+      "id": 38960,
+      "name": "Cobblestone Pictures",
+      "origin_country": "DE"
+    },
+    {
+      "id": 279097,
+      "name": "Patmos Film",
+      "origin_country": "RU"
+    },
+    {
+      "id": 8178,
+      "name": "Comet Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "RU",
+      "name": "Russia"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 545828,
+      "name": "Marina Zudina",
+      "character": "Billy Hughes",
+      "order": 0,
+      "cast_id": 22,
+      "popularity": 1.6733,
+      "profile_path": "/6Jy3fJNGApgeY9A7ITnqQ1sPClO.jpg"
+    },
+    {
+      "personId": 102754,
+      "name": "Fay Ripley",
+      "character": "Karen Hughes",
+      "order": 1,
+      "cast_id": 9,
+      "popularity": 1.415,
+      "profile_path": "/m4LMoCAOj0llge24ffCAaQzZALn.jpg"
+    },
+    {
+      "personId": 88519,
+      "name": "Evan Richards",
+      "character": "Andy Clarke",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 0.8309,
+      "profile_path": "/pAQUgQSKJafpZ628AdD8XnyWay6.jpg"
+    },
+    {
+      "personId": 550752,
+      "name": "Igor Volkov",
+      "character": "Arkadi",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 1.0462,
+      "profile_path": "/dIt9I9NRTZv4GcAlfWWDdSsxTK8.jpg"
+    },
+    {
+      "personId": 1281840,
+      "name": "Sergei Karlenkov",
+      "character": "Lyosha",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 0.9261,
+      "profile_path": "/ggWfVscp8n9XhXhkfKzDsnv71u2.jpg"
+    },
+    {
+      "personId": 12248,
+      "name": "Alec Guinness",
+      "character": "The Reaper",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 1.8385,
+      "profile_path": "/q9QgiNDEO6lbi7uMAOw0OgWn8DG.jpg"
+    },
+    {
+      "personId": 47434,
+      "name": "Aleksandr Pyatkov",
+      "character": "Wartschuk",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 1.0931,
+      "profile_path": "/exv2YApX98zJI9PJ8NgzqO09dnt.jpg"
+    },
+    {
+      "personId": 586221,
+      "name": "Nikolai Pastukhov",
+      "character": "Janitor",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 0.7486,
+      "profile_path": "/v3vzSl0ibA3o1a5wWudNc4RTgr2.jpg"
+    },
+    {
+      "personId": 223412,
+      "name": "Aleksandr Bureyev",
+      "character": "Strohbecker",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 1.048,
+      "profile_path": "/f1p58T4yXmVxQhHm3gljk7GMOK2.jpg"
+    },
+    {
+      "personId": 1165647,
+      "name": "Yuriy Sherstnyov",
+      "character": "Angry Neighbour",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 2.2103,
+      "profile_path": "/lTLjNns4n2hSm1s0VQJlYB81uJ3.jpg"
+    },
+    {
+      "personId": 1254711,
+      "name": "Denis Karasyov",
+      "character": "Fake Policeman",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 1.3886,
+      "profile_path": "/mEfbDxsI0Uba3HAtd1CDRuHrK5i.jpg"
+    },
+    {
+      "personId": 1158865,
+      "name": "Olga Tolstetskaya",
+      "character": "Actress",
+      "order": 11,
+      "cast_id": 16,
+      "popularity": 1.2656,
+      "profile_path": "/5oq76lB5PlvSzXOsA1slH2hUBsw.jpg"
+    },
+    {
+      "personId": 1090481,
+      "name": "Oleg Yankovskiy",
+      "character": "Larsen",
+      "order": 12,
+      "cast_id": 21,
+      "popularity": 1.0897,
+      "profile_path": "/4Mw5mEOQKSkpV0zKEGZcfHOYSGL.jpg"
+    },
+    {
+      "personId": 235107,
+      "name": "Nikolay Chindyaykin",
+      "character": "Inspector Pekar",
+      "order": 13,
+      "cast_id": 25,
+      "popularity": 1.3368,
+      "profile_path": "/wrFtxVNNOqnhicWKVLbiwTCcazO.jpg"
+    },
+    {
+      "personId": 2072234,
+      "name": "Igor Ilin",
+      "character": "Fake Policeman",
+      "order": 14,
+      "cast_id": 26,
+      "popularity": 0.3751,
+      "profile_path": "/vhSv7McUlZBCdWc1EW3fYaeaFV9.jpg"
+    },
+    {
+      "personId": 2722147,
+      "name": "Konstantin Sitnikov",
+      "character": "Angry Props Manager",
+      "order": 15,
+      "cast_id": 27,
+      "popularity": 0.3383,
+      "profile_path": null
+    },
+    {
+      "personId": 4772388,
+      "name": "Larisa Khusnullina",
+      "character": "Victim",
+      "order": 16,
+      "cast_id": 29,
+      "popularity": 0.0946,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 58384,
+      "name": "Anthony Waller",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7567,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6149,
+      "name": "police"
+    },
+    {
+      "id": 3713,
+      "name": "chase"
+    },
+    {
+      "id": 3880,
+      "name": "snuff"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 10392,
+      "name": "mute"
+    },
+    {
+      "id": 197452,
+      "name": "disk"
+    }
+  ]
+}

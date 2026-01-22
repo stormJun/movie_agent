@@ -1,0 +1,232 @@
+{
+  "overview": "This is the Easter weekend. In an inner city project, three people struggle against their demons and try to find redemption. They are Maxine, a window dresser depressed since she had an abortion and lost her lover ; Jordan, a boxer who has indulged in gay-bashing ; and 'The General', a drug dealer turned artist.",
+  "release_date": "1995-09-08",
+  "runtime": 89,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 4.333,
+  "tmdb_vote_count": 6,
+  "tmdb_popularity": 2.8973,
+  "original_language": "en",
+  "poster_path": "/439AGtHRMO9TGUfiFZ97odEdvq.jpg",
+  "backdrop_path": "/nttazok4JqCpz5hpeD10qp1ztHH.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Crime"
+  ],
+  "production_companies": [],
+  "production_countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5900,
+      "name": "Maurice Dean Wint",
+      "character": "General",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 0.9242,
+      "profile_path": "/aTCGk2zc9z4xurgAtLrVSFk5HkU.jpg"
+    },
+    {
+      "personId": 54819,
+      "name": "Rachael Crawford",
+      "character": "Maxine",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 1.1345,
+      "profile_path": "/7YtWW02HKyxx1sGpVnRxVgZyEoE.jpg"
+    },
+    {
+      "personId": 47640,
+      "name": "Clark Johnson",
+      "character": "Reece",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 1.3107,
+      "profile_path": "/k4EcCKRI7lqxrqYqVuffdSe9JBN.jpg"
+    },
+    {
+      "personId": 166430,
+      "name": "Richard Chevolleau",
+      "character": "Jordan",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 0.9084,
+      "profile_path": "/cdhiFvkAdNxY7Y45qf83XX6zgfb.jpg"
+    },
+    {
+      "personId": 1725539,
+      "name": "Sharon Lewis",
+      "character": "Rude",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 0.4139,
+      "profile_path": "/vR8C9eiOvWfHhY4hHwdT4se2e2X.jpg"
+    },
+    {
+      "personId": 1212964,
+      "name": "Melanie Nicholls-King",
+      "character": "Jessica",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 0.8821,
+      "profile_path": "/lgDou5t3q8IsW5IlyJJtzVPESvz.jpg"
+    },
+    {
+      "personId": 4156,
+      "name": "Stephen Shellen",
+      "character": "Yankee",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 1.579,
+      "profile_path": "/m2x70cxaqKqxNzNuCVw8erfgm7W.jpg"
+    },
+    {
+      "personId": 166807,
+      "name": "Gordon Michael Woolvett",
+      "character": "Ricky",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 1.2793,
+      "profile_path": "/8fdk86FY8LjR9owIEJjtKX6kaLD.jpg"
+    },
+    {
+      "personId": 120889,
+      "name": "Dayo Ade",
+      "character": "Mike",
+      "order": 8,
+      "cast_id": 10,
+      "popularity": 1.1621,
+      "profile_path": "/rhYq3kLxIX1voOUsFSXnyOT50n7.jpg"
+    },
+    {
+      "personId": 79151,
+      "name": "Dean Marshall",
+      "character": "Joe",
+      "order": 9,
+      "cast_id": 11,
+      "popularity": 0.5984,
+      "profile_path": "/che3C6ZnOAGQimCgXWIZwnf56iW.jpg"
+    },
+    {
+      "personId": 1215857,
+      "name": "Ashley Brown",
+      "character": "Johnny",
+      "order": 10,
+      "cast_id": 12,
+      "popularity": 0.4056,
+      "profile_path": "/kQu8S5gRV2xyj92fhacS9WYir9J.jpg"
+    },
+    {
+      "personId": 1225399,
+      "name": "Andy Marshall",
+      "character": "Addict",
+      "order": 11,
+      "cast_id": 13,
+      "popularity": 0.9826,
+      "profile_path": "/te57GVxkwdcvD3tRfpwyDdgg9lz.jpg"
+    },
+    {
+      "personId": 180682,
+      "name": "Falconer Abraham",
+      "character": "Austin",
+      "order": 12,
+      "cast_id": 14,
+      "popularity": 0.8911,
+      "profile_path": "/yedXzkCKaXl0BvB4PTFa6iTO0rX.jpg"
+    },
+    {
+      "personId": 1434369,
+      "name": "Junior Williams",
+      "character": "Curtis",
+      "order": 13,
+      "cast_id": 15,
+      "popularity": 1.0022,
+      "profile_path": null
+    },
+    {
+      "personId": 166522,
+      "name": "Andrew Moodie",
+      "character": "Andre",
+      "order": 14,
+      "cast_id": 16,
+      "popularity": 0.7233,
+      "profile_path": "/mvMIQ1WyB6q5Qf3fj1cGO1izxh2.jpg"
+    },
+    {
+      "personId": 1576549,
+      "name": "Nicole Parker",
+      "character": "Niki",
+      "order": 15,
+      "cast_id": 17,
+      "popularity": 0.2747,
+      "profile_path": "/l5SyJctfOzs2CkuQPGq0aafyCbJ.jpg"
+    },
+    {
+      "personId": 154647,
+      "name": "Michael Greyeyes",
+      "character": "Spirit Dancer",
+      "order": 16,
+      "cast_id": 18,
+      "popularity": 1.1874,
+      "profile_path": "/jy45vhkNT0s7gtf1dRIfFL77YWg.jpg"
+    },
+    {
+      "personId": 2729899,
+      "name": "Ramiah Hylton",
+      "character": "Spirit Child",
+      "order": 17,
+      "cast_id": 19,
+      "popularity": 0.0454,
+      "profile_path": null
+    },
+    {
+      "personId": 190894,
+      "name": "Xuan Fraser",
+      "character": "Junior",
+      "order": 18,
+      "cast_id": 20,
+      "popularity": 0.2185,
+      "profile_path": "/b0gP5MgnkbJzzRvsdgev7Y5BCiJ.jpg"
+    },
+    {
+      "personId": 131546,
+      "name": "Thomas Mitchell",
+      "character": "Cop",
+      "order": 19,
+      "cast_id": 21,
+      "popularity": 0.9318,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 173004,
+      "name": "Clement Virgo",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4462,
+      "profile_path": "/dptuAHxXQ5cfjFYwm62QDHUMun5.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 158718,
+      "name": "lgbt"
+    },
+    {
+      "id": 258533,
+      "name": "gay theme"
+    }
+  ]
+}

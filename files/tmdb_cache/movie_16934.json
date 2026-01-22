@@ -1,0 +1,304 @@
+{
+  "overview": "Graham Young is a teenage misfit living in suburban London in the 1960s. He hates his stepmother but loves chemistry, and the two impulses unite in a wicked plot to slowly poison her. After she dies, he's found guilty and sent to a psychiatric hospital, where an idealistic doctor thinks he can be cured.",
+  "release_date": "1995-01-20",
+  "runtime": 99,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.6,
+  "tmdb_vote_count": 52,
+  "tmdb_popularity": 0.3049,
+  "original_language": "en",
+  "poster_path": "/d3Lakfy0K1eRHUbay9kMeWdt7y6.jpg",
+  "backdrop_path": "/ogEZl7DzCOS6gmrby2N7MSqe2JS.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 850,
+      "name": "Eurimages",
+      "origin_country": "FR"
+    },
+    {
+      "id": 12745,
+      "name": "British Screen Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 2051,
+      "name": "Kinowelt",
+      "origin_country": "DE"
+    },
+    {
+      "id": 10825,
+      "name": "Mass Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 185,
+      "name": "Pandora Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 726,
+      "name": "Haut et Court",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5312,
+      "name": "Hugh O'Conor",
+      "character": "Graham Young",
+      "order": 0,
+      "cast_id": 7,
+      "popularity": 2.0758,
+      "profile_path": "/2eXLWxV2DGGtAPzpbDZ0eHv9RrO.jpg"
+    },
+    {
+      "personId": 77637,
+      "name": "Antony Sher",
+      "character": "Dr. Ernest Zeigler",
+      "order": 1,
+      "cast_id": 23,
+      "popularity": 0.571,
+      "profile_path": "/e0V4i0avYfcfZORkt1tuORrIkGS.jpg"
+    },
+    {
+      "personId": 53367,
+      "name": "Ruth Sheen",
+      "character": "Molly",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 1.7064,
+      "profile_path": "/tchnF80OCEiq3JXpGI4z7eMla8W.jpg"
+    },
+    {
+      "personId": 81024,
+      "name": "Roger Lloyd Pack",
+      "character": "Fred",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 1.8965,
+      "profile_path": "/iF9b0wRykPT5nFOImS1A5w8HJ3c.jpg"
+    },
+    {
+      "personId": 10729,
+      "name": "Charlotte Coleman",
+      "character": "Winnie",
+      "order": 4,
+      "cast_id": 10,
+      "popularity": 1.3142,
+      "profile_path": "/R5RxaKkveZrwRW2DatqIWr9pmH.jpg"
+    },
+    {
+      "personId": 46427,
+      "name": "Paul Stacey",
+      "character": "Dennis",
+      "order": 5,
+      "cast_id": 11,
+      "popularity": 2.3173,
+      "profile_path": "/eVubpNOxffk6XkhnoEzRxJpPxRt.jpg"
+    },
+    {
+      "personId": 7321,
+      "name": "John Thomson",
+      "character": "Nathan",
+      "order": 6,
+      "cast_id": 26,
+      "popularity": 0.9851,
+      "profile_path": "/p7oShR4yImaPszUh3ywnJEu5a5.jpg"
+    },
+    {
+      "personId": 81029,
+      "name": "Jack Deam",
+      "character": "Mick",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 1.3035,
+      "profile_path": "/4EYUpMI6V3iZ91z3pHuw6KqisXF.jpg"
+    },
+    {
+      "personId": 8397,
+      "name": "Charlie Creed-Miles",
+      "character": "Berridge",
+      "order": 8,
+      "cast_id": 22,
+      "popularity": 1.6288,
+      "profile_path": "/aVPpJs7X03oNmbxFtHNaQdsnNod.jpg"
+    },
+    {
+      "personId": 81028,
+      "name": "Robert Demeger",
+      "character": "Mr. Dexter",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 0.4395,
+      "profile_path": "/u6yDTJIaLbv4m60shP3TvVWa4kN.jpg"
+    },
+    {
+      "personId": 81023,
+      "name": "Tobias Arnold",
+      "character": "Young Graham",
+      "order": 10,
+      "cast_id": 4,
+      "popularity": 0.0286,
+      "profile_path": null
+    },
+    {
+      "personId": 81025,
+      "name": "Norman Caro",
+      "character": "Mr. Goez",
+      "order": 11,
+      "cast_id": 8,
+      "popularity": 0.2102,
+      "profile_path": null
+    },
+    {
+      "personId": 81026,
+      "name": "Dorothea Alexander",
+      "character": "Mrs. Goez",
+      "order": 12,
+      "cast_id": 9,
+      "popularity": 0.5706,
+      "profile_path": null
+    },
+    {
+      "personId": 81027,
+      "name": "Samantha Edmonds",
+      "character": "Sue",
+      "order": 13,
+      "cast_id": 12,
+      "popularity": 0.1188,
+      "profile_path": null
+    },
+    {
+      "personId": 81030,
+      "name": "Peter Pacey",
+      "character": "Dickie Boone",
+      "order": 14,
+      "cast_id": 15,
+      "popularity": 2.5175,
+      "profile_path": "/lRQDAhX8Z8JEgb9NNJ0mjkQh6kE.jpg"
+    },
+    {
+      "personId": 16943,
+      "name": "Joost Siedhoff",
+      "character": "Dr. Scott",
+      "order": 15,
+      "cast_id": 16,
+      "popularity": 1.2536,
+      "profile_path": "/lQWdOSjm7nIin41ta5FFrpy69qw.jpg"
+    },
+    {
+      "personId": 81031,
+      "name": "Vilma Hollingbery",
+      "character": "Aunty Panty",
+      "order": 16,
+      "cast_id": 17,
+      "popularity": 1.0845,
+      "profile_path": "/hJGDTlkPlAWwZWgmflR001O6ctu.jpg"
+    },
+    {
+      "personId": 174710,
+      "name": "Frank Mills",
+      "character": "Uncle Jack",
+      "order": 17,
+      "cast_id": 39,
+      "popularity": 1.1052,
+      "profile_path": "/1WMbFhOR2mcbkCvgA3cgUnsSZP4.jpg"
+    },
+    {
+      "personId": 1214452,
+      "name": "Rupert Farley",
+      "character": "Nurse Trent",
+      "order": 18,
+      "cast_id": 20,
+      "popularity": 0.4171,
+      "profile_path": "/qZWkjuDMiF3UwT5JOtGHCE80T8Z.jpg"
+    },
+    {
+      "personId": 40660,
+      "name": "Malcolm Sinclair",
+      "character": "Dr. Triefus",
+      "order": 19,
+      "cast_id": 21,
+      "popularity": 0.7563,
+      "profile_path": "/aASeNunM9Sv49Kwk7gncov4G8Y0.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 81020,
+      "name": "Benjamin Ross",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.4766,
+      "profile_path": "/aPQ5aiJXVvyseXGNAeq31F1e5Iu.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 212,
+      "name": "london, england"
+    },
+    {
+      "id": 351,
+      "name": "poison"
+    },
+    {
+      "id": 5921,
+      "name": "stepmother"
+    },
+    {
+      "id": 9672,
+      "name": "based on true story"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 11857,
+      "name": "mental institution"
+    },
+    {
+      "id": 10714,
+      "name": "serial killer"
+    },
+    {
+      "id": 15106,
+      "name": "psychiatrist"
+    },
+    {
+      "id": 234682,
+      "name": "social misfit"
+    },
+    {
+      "id": 364209,
+      "name": "poisoner"
+    }
+  ]
+}

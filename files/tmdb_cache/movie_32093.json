@@ -1,0 +1,263 @@
+{
+  "overview": "In 1820 Spain, the son of a California nobleman comes home to find his native land under a villainous dictatorship. On one hand, he plays the useless fop, while on the other, he is the masked avenger Zorro.",
+  "release_date": "1940-11-08",
+  "runtime": 94,
+  "budget": 1000000,
+  "revenue": 4000000,
+  "tmdb_vote_average": 7.052,
+  "tmdb_vote_count": 220,
+  "tmdb_popularity": 1.1463,
+  "original_language": "en",
+  "poster_path": "/bJDonmAPnDV8jDv9jLlsejAdAoL.jpg",
+  "backdrop_path": "/bdLMfGoQhL8DAsiLjxBHmyAM8Yv.jpg",
+  "tmdb_genres_raw": [
+    "Adventure",
+    "Romance",
+    "Action"
+  ],
+  "production_companies": [
+    {
+      "id": 25,
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10922,
+      "name": "Tyrone Power",
+      "character": "Don Diego Vega, aka Zorro",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.2969,
+      "profile_path": "/iUyYe8JNOegoe0efRja4scocHYq.jpg"
+    },
+    {
+      "personId": 30289,
+      "name": "Linda Darnell",
+      "character": "Lolita Quintero",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.1333,
+      "profile_path": "/x7AhKFIhDfBrzFGf4HIKoUCQH1y.jpg"
+    },
+    {
+      "personId": 8727,
+      "name": "Basil Rathbone",
+      "character": "Captain Esteban Pasquale",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.6322,
+      "profile_path": "/kwDz2jfV06m2ljpTHfaC509FAmJ.jpg"
+    },
+    {
+      "personId": 25173,
+      "name": "Gale Sondergaard",
+      "character": "Inez Quintero",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 0.6851,
+      "profile_path": "/qIM4YO2sWBzdGOCAZctZjPcUK2c.jpg"
+    },
+    {
+      "personId": 8728,
+      "name": "Eugene Pallette",
+      "character": "Friar Felipe",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.8192,
+      "profile_path": "/y3n1c9qjmJzGeZWihwm0QWlmDoR.jpg"
+    },
+    {
+      "personId": 89999,
+      "name": "J. Edward Bromberg",
+      "character": "Don Luis B. Quintero",
+      "order": 5,
+      "cast_id": 18,
+      "popularity": 0.7928,
+      "profile_path": "/9Xd0pbrRA2L7tJ750SIi7bl4H9N.jpg"
+    },
+    {
+      "personId": 92907,
+      "name": "Montagu Love",
+      "character": "Don Alejandro Vega",
+      "order": 6,
+      "cast_id": 19,
+      "popularity": 0.4333,
+      "profile_path": "/aCOahFpYdCKMOg8RO9jMsFOA5xx.jpg"
+    },
+    {
+      "personId": 30261,
+      "name": "Janet Beecher",
+      "character": "Senora Isabella Vega",
+      "order": 7,
+      "cast_id": 20,
+      "popularity": 0.3691,
+      "profile_path": "/rggAkzwZhZp2zf4g51dUsR1Ef6k.jpg"
+    },
+    {
+      "personId": 104806,
+      "name": "George Regas",
+      "character": "Sergeant Gonzales",
+      "order": 8,
+      "cast_id": 21,
+      "popularity": 0.4377,
+      "profile_path": "/AfHbRzoxSF0LtRNTtdOWPNNKYh.jpg"
+    },
+    {
+      "personId": 120705,
+      "name": "Chris-Pin Martin",
+      "character": "Turnkey",
+      "order": 9,
+      "cast_id": 23,
+      "popularity": 0.596,
+      "profile_path": "/v8oMgJCZqI3j5sbBDJ5prvfLT3d.jpg"
+    },
+    {
+      "personId": 34117,
+      "name": "Robert Lowery",
+      "character": "Rodrigo",
+      "order": 10,
+      "cast_id": 24,
+      "popularity": 0.6334,
+      "profile_path": "/8wS1z1Di0lHQBHu6zOA75SUtJGN.jpg"
+    },
+    {
+      "personId": 153437,
+      "name": "Belle Mitchell",
+      "character": "Maria",
+      "order": 11,
+      "cast_id": 57,
+      "popularity": 0.4004,
+      "profile_path": "/wOHJLFoOD5B6lT9ktKP2gC7cJDe.jpg"
+    },
+    {
+      "personId": 106010,
+      "name": "John Bleifer",
+      "character": "Pedro",
+      "order": 12,
+      "cast_id": 26,
+      "popularity": 0.5574,
+      "profile_path": "/zF3gQxKqsyhA54js6P5hK9brVeX.jpg"
+    },
+    {
+      "personId": 89691,
+      "name": "Frank Puglia",
+      "character": "Proprietor",
+      "order": 13,
+      "cast_id": 27,
+      "popularity": 1.5091,
+      "profile_path": "/r1wLNTEnjKEQGrfUB5qzf8RpiCn.jpg"
+    },
+    {
+      "personId": 103493,
+      "name": "Pedro de Cordoba",
+      "character": "Don Miguel",
+      "order": 14,
+      "cast_id": 29,
+      "popularity": 0.8315,
+      "profile_path": "/2QXZzdaIkoYrCHXh7GRsGPqXM91.jpg"
+    },
+    {
+      "personId": 1021756,
+      "name": "Guy D'Ennery",
+      "character": "Don Jose",
+      "order": 15,
+      "cast_id": 30,
+      "popularity": 1.8503,
+      "profile_path": "/1ApOEJHPwv3REkJ25bGKVo99Mq.jpg"
+    },
+    {
+      "personId": 120545,
+      "name": "Eugene Borden",
+      "character": "Officer of the Day (uncredited)",
+      "order": 16,
+      "cast_id": 28,
+      "popularity": 0.7674,
+      "profile_path": "/wFXTDoDtZ7rdZeAM47qh7wmI6o3.jpg"
+    },
+    {
+      "personId": 34505,
+      "name": "Stanley Andrews",
+      "character": "Commanding Officer (uncredited)",
+      "order": 17,
+      "cast_id": 31,
+      "popularity": 0.9432,
+      "profile_path": "/zAW09eb1f0g4OPtNkJk83ej1os5.jpg"
+    },
+    {
+      "personId": 14979,
+      "name": "Fortunio Bonanova",
+      "character": "Sentry (uncredited)",
+      "order": 18,
+      "cast_id": 32,
+      "popularity": 0.6745,
+      "profile_path": "/39RJP5GMzaw1Bh6hBaYK6qsEDW1.jpg"
+    },
+    {
+      "personId": 127520,
+      "name": "Ralph Byrd",
+      "character": "Student / Officer (uncredited)",
+      "order": 19,
+      "cast_id": 33,
+      "popularity": 0.4989,
+      "profile_path": "/422UhGSaBmJmqhxZNXzYNAt3KtO.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 29595,
+      "name": "Rouben Mamoulian",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.0846,
+      "profile_path": "/A1P47V8OcxF0ukAnWboY4YvGJr9.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2546,
+      "name": "mask"
+    },
+    {
+      "id": 387,
+      "name": "california"
+    },
+    {
+      "id": 9725,
+      "name": "sword fight"
+    },
+    {
+      "id": 157186,
+      "name": "swashbuckler"
+    },
+    {
+      "id": 207928,
+      "name": "19th century"
+    },
+    {
+      "id": 230653,
+      "name": "corrupt governor"
+    },
+    {
+      "id": 232481,
+      "name": "zorro"
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "overview": "England, 1600. Queen Elizabeth I promises Orlando, a young nobleman obsessed with poetry, that she will grant him land and fortune if he agrees to satisfy a very particular request.",
+  "release_date": "1992-12-11",
+  "runtime": 94,
+  "budget": 4000000,
+  "revenue": 5377643,
+  "tmdb_vote_average": 6.886,
+  "tmdb_vote_count": 363,
+  "tmdb_popularity": 3.9704,
+  "original_language": "en",
+  "poster_path": "/otSCGdKzEeVgbfNl0YslOpRZHgk.jpg",
+  "backdrop_path": "/pm2rPN1yfmVDMVFDFNmn7DEFMqM.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Fantasy"
+  ],
+  "production_companies": [
+    {
+      "id": 11912,
+      "name": "Mikado Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 36765,
+      "name": "Adventure Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 132019,
+      "name": "Rio",
+      "origin_country": "FR"
+    },
+    {
+      "id": 45179,
+      "name": "Sigma Pictures",
+      "origin_country": "NL"
+    },
+    {
+      "id": 170208,
+      "name": "Lenfilm",
+      "origin_country": "RU"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "IT",
+      "name": "Italy"
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands"
+    },
+    {
+      "code": "RU",
+      "name": "Russia"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "ru",
+      "name": "Pусский"
+    },
+    {
+      "code": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3063,
+      "name": "Tilda Swinton",
+      "character": "Orlando",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.1403,
+      "profile_path": "/dzjT4LKgs7eOma84GsPy78DsGNH.jpg"
+    },
+    {
+      "personId": 1954,
+      "name": "Billy Zane",
+      "character": "Shelmerdine",
+      "order": 1,
+      "cast_id": 19,
+      "popularity": 5.3022,
+      "profile_path": "/7CBwxqE00aZAAEBaRkapylgdi15.jpg"
+    },
+    {
+      "personId": 38524,
+      "name": "Lothaire Bluteau",
+      "character": "The Khan",
+      "order": 2,
+      "cast_id": 22,
+      "popularity": 1.2925,
+      "profile_path": "/qapikAurXlhmDXnC7BuCR8UXbCP.jpg"
+    },
+    {
+      "personId": 8937,
+      "name": "John Wood",
+      "character": "Archduke Harry",
+      "order": 3,
+      "cast_id": 18,
+      "popularity": 1.5105,
+      "profile_path": "/6raTQciey2xpcVV5c8HRV4XzFCk.jpg"
+    },
+    {
+      "personId": 1048672,
+      "name": "Charlotte Valandrey",
+      "character": "Sasha",
+      "order": 4,
+      "cast_id": 34,
+      "popularity": 0.6119,
+      "profile_path": "/fEvqPs4fPgbgAsAt5edoQwfzCOs.jpg"
+    },
+    {
+      "personId": 30431,
+      "name": "Heathcote Williams",
+      "character": "Nick Greene / Publisher",
+      "order": 5,
+      "cast_id": 37,
+      "popularity": 0.9097,
+      "profile_path": "/1gCuLzhbBTiFPLZ0pD4RGAvE7NJ.jpg"
+    },
+    {
+      "personId": 57459,
+      "name": "Quentin Crisp",
+      "character": "Queen Elizabeth I",
+      "order": 6,
+      "cast_id": 3,
+      "popularity": 1.6452,
+      "profile_path": "/9kp2xAPdUtZnmSTmpiNxoBQz5Tj.jpg"
+    },
+    {
+      "personId": 12691,
+      "name": "Peter Eyre",
+      "character": "Mr. Pope",
+      "order": 7,
+      "cast_id": 38,
+      "popularity": 1.0477,
+      "profile_path": "/lqLx9IBYtkdfHTrWcAKooOkCUz5.jpg"
+    },
+    {
+      "personId": 7572,
+      "name": "Thom Hoffman",
+      "character": "King William of Orange",
+      "order": 8,
+      "cast_id": 21,
+      "popularity": 0.6024,
+      "profile_path": "/9idfzAANRjFDPnPHsRVVBb2LbNR.jpg"
+    },
+    {
+      "personId": 72309,
+      "name": "Kathryn Hunter",
+      "character": "Countess",
+      "order": 9,
+      "cast_id": 39,
+      "popularity": 2.6057,
+      "profile_path": "/ni98cNE8kOAj6kcpEVmIfi8iAsw.jpg"
+    },
+    {
+      "personId": 1229912,
+      "name": "Ned Sherrin",
+      "character": "Mr. Addison",
+      "order": 10,
+      "cast_id": 40,
+      "popularity": 0.5332,
+      "profile_path": null
+    },
+    {
+      "personId": 57460,
+      "name": "Jimmy Somerville",
+      "character": "Singer / Angel",
+      "order": 11,
+      "cast_id": 4,
+      "popularity": 0.6088,
+      "profile_path": "/pDU43HbtD8jAFe1QIyfcNSGgW4O.jpg"
+    },
+    {
+      "personId": 27393,
+      "name": "Dudley Sutton",
+      "character": "King James I",
+      "order": 12,
+      "cast_id": 31,
+      "popularity": 0.7797,
+      "profile_path": "/3xjbUsuCgRmR3NLZ5bPybE9XLEz.jpg"
+    },
+    {
+      "personId": 1636040,
+      "name": "John Bott",
+      "character": "Orlando's Father",
+      "order": 13,
+      "cast_id": 26,
+      "popularity": 0.2955,
+      "profile_path": null
+    },
+    {
+      "personId": 1636041,
+      "name": "Elaine Banham",
+      "character": "Orlando's Mother",
+      "order": 14,
+      "cast_id": 27,
+      "popularity": 0.143,
+      "profile_path": null
+    },
+    {
+      "personId": 40671,
+      "name": "Anna Farnworth",
+      "character": "Clorinda",
+      "order": 15,
+      "cast_id": 28,
+      "popularity": 1.027,
+      "profile_path": null
+    },
+    {
+      "personId": 1636042,
+      "name": "Sara Mair-Thomas",
+      "character": "Favilla",
+      "order": 16,
+      "cast_id": 29,
+      "popularity": 0.3573,
+      "profile_path": null
+    },
+    {
+      "personId": 107728,
+      "name": "Anna Healy",
+      "character": "Euphrosyne",
+      "order": 17,
+      "cast_id": 30,
+      "popularity": 0.2924,
+      "profile_path": null
+    },
+    {
+      "personId": 57461,
+      "name": "Simon Russell Beale",
+      "character": "Earl of Moray",
+      "order": 18,
+      "cast_id": 7,
+      "popularity": 1.4287,
+      "profile_path": "/uw0ngaqgT8qXwJqVr353cx1mEdB.jpg"
+    },
+    {
+      "personId": 1434017,
+      "name": "Matthew Sim",
+      "character": "Lord Francis Vere",
+      "order": 19,
+      "cast_id": 23,
+      "popularity": 1.4407,
+      "profile_path": "/9mh51GgmHIv7dflaE7e9y46eXDP.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 57206,
+      "name": "Sally Potter",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5408,
+      "profile_path": "/7hzuG6C7GD8gbBtqdoHOfwQ3P5M.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 212,
+      "name": "london, england"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 7153,
+      "name": "queen elizabeth i"
+    },
+    {
+      "id": 11687,
+      "name": "breaking the fourth wall"
+    },
+    {
+      "id": 11402,
+      "name": "androgyny"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    },
+    {
+      "id": 199812,
+      "name": "nobleman"
+    },
+    {
+      "id": 212915,
+      "name": "women's rights"
+    },
+    {
+      "id": 214410,
+      "name": "ottoman empire"
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "overview": "Aspiring architect Tom Thompson is told by mysterious Ruth Abernathy that his best friend, \"Bill,\" has taken his own life. Except that Tom has never met Bill and neither have his incredulous friends. So when Tom foolishly agrees to give the eulogy at Bill's funeral, it sets him on a collision course with Ruth -- who is revealed to be Bill's oversexed mother -- and Julie DeMarco, the longtime crush Tom hasn't seen since they were teens.",
+  "release_date": "1996-05-03",
+  "runtime": 97,
+  "budget": 8000000,
+  "revenue": 5656388,
+  "tmdb_vote_average": 4.931,
+  "tmdb_vote_count": 127,
+  "tmdb_popularity": 3.7533,
+  "original_language": "en",
+  "poster_path": "/zwHI9B3kcj3WqZoE2LaLDi6ZeAO.jpg",
+  "backdrop_path": "/srCUjSUPXaMad9X3Zz3XlMBlS6A.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 65446,
+      "name": "The Chess Club",
+      "origin_country": ""
+    },
+    {
+      "id": 14,
+      "name": "Miramax",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 14409,
+      "name": "David Schwimmer",
+      "character": "Tom Thompson",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.4793,
+      "profile_path": "/XtKzJ9lM5Xwa7vCmE4xNHy6Owf.jpg"
+    },
+    {
+      "personId": 12052,
+      "name": "Gwyneth Paltrow",
+      "character": "Julie DeMarco",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 5.8258,
+      "profile_path": "/mLarlXA8G02AdIMKptZmUzQluqF.jpg"
+    },
+    {
+      "personId": 4688,
+      "name": "Michael Rapaport",
+      "character": "Brad Schorr",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 5.3377,
+      "profile_path": "/nWD2kufgy6lPyFVCPr9A3e7FMMn.jpg"
+    },
+    {
+      "personId": 3051,
+      "name": "Toni Collette",
+      "character": "Cynthia",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 4.2481,
+      "profile_path": "/lzXRh16qe4HHeBN6tMyw0DHvaMn.jpg"
+    },
+    {
+      "personId": 10556,
+      "name": "Carol Kane",
+      "character": "Tom's Mother",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 3.4101,
+      "profile_path": "/3EOZ7B148lRwJcl3CmQhfpgubYQ.jpg"
+    },
+    {
+      "personId": 15424,
+      "name": "Michael Vartan",
+      "character": "Scott",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 1.1359,
+      "profile_path": "/5HCb1CxwIgiZAjKMe9BG8VtHE80.jpg"
+    },
+    {
+      "personId": 138240,
+      "name": "Bitty Schram",
+      "character": "Lauren",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 1.9361,
+      "profile_path": "/7N1FWQINAtQXcOBgw8xvBgITXTh.jpg"
+    },
+    {
+      "personId": 78518,
+      "name": "Jean De Baer",
+      "character": "Suzanne DeMarco",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 0.7083,
+      "profile_path": "/vflIAjlTKqldJ8zq8tx630OjWDU.jpg"
+    },
+    {
+      "personId": 138242,
+      "name": "Elizabeth Franz",
+      "character": "Aunt Lucille",
+      "order": 8,
+      "cast_id": 10,
+      "popularity": 0.9551,
+      "profile_path": "/mlNRhegXkx0dsPmFw3ftjAvVzng.jpg"
+    },
+    {
+      "personId": 1173,
+      "name": "Mark Margolis",
+      "character": "Philip DeMarco",
+      "order": 9,
+      "cast_id": 11,
+      "popularity": 2.9364,
+      "profile_path": "/rT5TYJIPLBkTqsrUs00AixGeaMM.jpg"
+    },
+    {
+      "personId": 10767,
+      "name": "Barbara Hershey",
+      "character": "Ruth Abernathy",
+      "order": 10,
+      "cast_id": 12,
+      "popularity": 2.5332,
+      "profile_path": "/6swwfge3HlvyBVRSNwroFtMcgNB.jpg"
+    },
+    {
+      "personId": 21359,
+      "name": "Edoardo Ballerini",
+      "character": "The Job Interviewer",
+      "order": 11,
+      "cast_id": 13,
+      "popularity": 1.0083,
+      "profile_path": "/n2m6nuQZ4kP1BihZIuAeoabKCp0.jpg"
+    },
+    {
+      "personId": 80541,
+      "name": "Matthew Faber",
+      "character": "Jared",
+      "order": 12,
+      "cast_id": 42,
+      "popularity": 1.0256,
+      "profile_path": "/7AN24bHosFTglFqsqSyCRioLLUf.jpg"
+    },
+    {
+      "personId": 3330203,
+      "name": "Robin Morse",
+      "character": "Sylvie",
+      "order": 13,
+      "cast_id": 44,
+      "popularity": 0.5609,
+      "profile_path": null
+    },
+    {
+      "personId": 2740520,
+      "name": "Tony Machine",
+      "character": "The Undertaker",
+      "order": 14,
+      "cast_id": 45,
+      "popularity": 0.3436,
+      "profile_path": null
+    },
+    {
+      "personId": 79654,
+      "name": "Robert Katims",
+      "character": "An Abernathy Cousin",
+      "order": 15,
+      "cast_id": 46,
+      "popularity": 0.4998,
+      "profile_path": "/pPdOLDVV8HNFPDdM6xV4fEcvwMy.jpg"
+    },
+    {
+      "personId": 17305,
+      "name": "Greg Grunberg",
+      "character": "An Abernathy Cousin",
+      "order": 16,
+      "cast_id": 47,
+      "popularity": 2.7722,
+      "profile_path": "/ir2QunLf6aTaowpEygbIcjiZLDB.jpg"
+    },
+    {
+      "personId": 37205,
+      "name": "David Vadim",
+      "character": "An Abernathy Cousin",
+      "order": 17,
+      "cast_id": 48,
+      "popularity": 1.1098,
+      "profile_path": "/y7JoVtexKudV5dUDal4Ko0xeIlF.jpg"
+    },
+    {
+      "personId": 6212,
+      "name": "Zak Orth",
+      "character": "An Abernathy Cousin",
+      "order": 18,
+      "cast_id": 49,
+      "popularity": 1.2541,
+      "profile_path": "/ldywlWMt89PO3qLDL174TpTc0ce.jpg"
+    },
+    {
+      "personId": 18472,
+      "name": "Kevin Corrigan",
+      "character": "A Pallbearer",
+      "order": 19,
+      "cast_id": 50,
+      "popularity": 1.9296,
+      "profile_path": "/obSUGc68mQDvFONalMg25Xw5GZM.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 32278,
+      "name": "Matt Reeves",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.1026,
+      "profile_path": "/5rA459xpMt6IeJG7ZqvhLbSozEH.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 10325,
+      "name": "mistaken identity"
+    }
+  ]
+}

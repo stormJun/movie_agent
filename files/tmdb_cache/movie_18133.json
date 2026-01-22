@@ -1,0 +1,190 @@
+{
+  "overview": "Several players from different backgrounds try to cope with the pressures of playing football at a major university. Each deals with the pressure differently, some turn to drinking, others to drugs, and some to studying.",
+  "release_date": "1993-09-24",
+  "runtime": 112,
+  "budget": 0,
+  "revenue": 23042200,
+  "tmdb_vote_average": 6.4,
+  "tmdb_vote_count": 100,
+  "tmdb_popularity": 2.8458,
+  "original_language": "en",
+  "poster_path": "/4pdbutHc9SLEPmdLKtlVffiLByP.jpg",
+  "backdrop_path": "/xuUDm3AGTaCxN9I8x6GxKtBlYfO.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Action",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 9195,
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 798,
+      "name": "The Samuel Goldwyn Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3085,
+      "name": "James Caan",
+      "character": "Sam Winters",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.616,
+      "profile_path": "/v3flJtQEyczxENi29yJyvnN6LVt.jpg"
+    },
+    {
+      "personId": 4587,
+      "name": "Halle Berry",
+      "character": "Autumn Haley",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 6.9392,
+      "profile_path": "/yfAJMERSlDIZD1iy6Aab8bArcCK.jpg"
+    },
+    {
+      "personId": 4987,
+      "name": "Omar Epps",
+      "character": "Darnell Jefferson",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.7192,
+      "profile_path": "/iURSiniuHrfOCtjVMAw9HKxJh6z.jpg"
+    },
+    {
+      "personId": 4138,
+      "name": "Craig Sheffer",
+      "character": "Joe Kane",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.7272,
+      "profile_path": "/w8wAAyXDifuxZDgvuL8U0fuLsLG.jpg"
+    },
+    {
+      "personId": 56128,
+      "name": "Kristy Swanson",
+      "character": "Camille Shafer",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.7363,
+      "profile_path": "/eoEhyZcJ1NMVAKefRh0E5adRMGh.jpg"
+    },
+    {
+      "personId": 21132,
+      "name": "Abraham Benrubi",
+      "character": "Bud-Lite Kaminski",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 2.366,
+      "profile_path": "/d5pQ1PCv0XDnYXZTbX2t5r4AMph.jpg"
+    },
+    {
+      "personId": 62032,
+      "name": "Duane Davis",
+      "character": "Alvin Mack",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 1.8727,
+      "profile_path": null
+    },
+    {
+      "personId": 82719,
+      "name": "Jon Pennell",
+      "character": "Bobby Collins",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 0.8334,
+      "profile_path": "/mD5goH1kDEyn8fQOQJr9DkaO0vI.jpg"
+    },
+    {
+      "personId": 52366,
+      "name": "Andrew Bryniarski",
+      "character": "Steve Lattimer",
+      "order": 8,
+      "cast_id": 9,
+      "popularity": 2.5608,
+      "profile_path": "/7WecTlVEkck19VMXTcBfSkmshYL.jpg"
+    },
+    {
+      "personId": 82720,
+      "name": "Michael Flippo",
+      "character": "Coach Humes",
+      "order": 9,
+      "cast_id": 10,
+      "popularity": 0.2102,
+      "profile_path": null
+    },
+    {
+      "personId": 82721,
+      "name": "Ernest Dixon",
+      "character": "Coach Clayton",
+      "order": 10,
+      "cast_id": 11,
+      "popularity": 0.1453,
+      "profile_path": null
+    },
+    {
+      "personId": 16484,
+      "name": "Joey Lauren Adams",
+      "character": "Louanne",
+      "order": 11,
+      "cast_id": 27,
+      "popularity": 1.3109,
+      "profile_path": "/tBexng7MCxaA0tXGQDAnww5Jp01.jpg"
+    },
+    {
+      "personId": 1511923,
+      "name": "Leon Pridgen",
+      "character": "Ray Griffen",
+      "order": 12,
+      "cast_id": 28,
+      "popularity": 0.8507,
+      "profile_path": "/nh3FeSBEB9EuJ2ZwG0EEMtnUgzj.jpg"
+    },
+    {
+      "personId": 5572088,
+      "name": "Tracy Fowler",
+      "character": "Orderly",
+      "order": 13,
+      "cast_id": 33,
+      "popularity": 0.0971,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 12920,
+      "name": "David S. Ward",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7905,
+      "profile_path": "/ibOXcuqdbisrZ3Y4ICiSDMxzGWv.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6075,
+      "name": "sports"
+    },
+    {
+      "id": 579,
+      "name": "american football"
+    }
+  ]
+}

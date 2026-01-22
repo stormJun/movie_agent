@@ -1,0 +1,342 @@
+{
+  "overview": "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious vampire clientele.",
+  "release_date": "1996-01-19",
+  "runtime": 108,
+  "budget": 19000000,
+  "revenue": 25800000,
+  "tmdb_vote_average": 7.032,
+  "tmdb_vote_count": 6296,
+  "tmdb_popularity": 7.9123,
+  "original_language": "en",
+  "poster_path": "/uBoQytp3KTQFaVqTe6d0ECGaKh9.jpg",
+  "backdrop_path": "/9JcMUzQy9gPqDmJJGH3AcL145mv.jpg",
+  "tmdb_genres_raw": [
+    "Horror",
+    "Action",
+    "Thriller",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 11705,
+      "name": "Los Hooligans Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 59,
+      "name": "A Band Apart",
+      "origin_country": "US"
+    },
+    {
+      "id": 7405,
+      "name": "Dimension Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1461,
+      "name": "George Clooney",
+      "character": "Seth Gecko",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 5.464,
+      "profile_path": "/dt0a7DT0SQeHb7NpURD6ifyEzsN.jpg"
+    },
+    {
+      "personId": 138,
+      "name": "Quentin Tarantino",
+      "character": "Richard Gecko",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 7.0693,
+      "profile_path": "/1gjcpAa99FAOWGnrUvHEXXsRs7o.jpg"
+    },
+    {
+      "personId": 1037,
+      "name": "Harvey Keitel",
+      "character": "Jacob Fuller",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 4.7105,
+      "profile_path": "/7P30hza1neYWW3r7rSQOC736K2Z.jpg"
+    },
+    {
+      "personId": 3196,
+      "name": "Juliette Lewis",
+      "character": "Kate Fuller",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 4.6144,
+      "profile_path": "/vvitS2sZSM9RupCf5B0sZYNS6wT.jpg"
+    },
+    {
+      "personId": 11158,
+      "name": "Ernest Liu",
+      "character": "Scott Fuller",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.3067,
+      "profile_path": "/wYnZ7DHrQ7NMekp6oADVEIzZkMw.jpg"
+    },
+    {
+      "personId": 3136,
+      "name": "Salma Hayek Pinault",
+      "character": "Santanico Pandemonium",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 8.923,
+      "profile_path": "/1qfYF7NGRObmeKR7IVXUFVIC0CN.jpg"
+    },
+    {
+      "personId": 11159,
+      "name": "Cheech Marin",
+      "character": "Border Guard / Chet Pussy / Carlos",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 2.6465,
+      "profile_path": "/eecHDNRn9K80ZcuSocsMhQb2G1i.jpg"
+    },
+    {
+      "personId": 11160,
+      "name": "Danny Trejo",
+      "character": "Razor Charlie",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 5.4406,
+      "profile_path": "/7JrUkRGBscZ1Hy5JinaaXjjzSCF.jpg"
+    },
+    {
+      "personId": 11161,
+      "name": "Tom Savini",
+      "character": "Sex Machine",
+      "order": 8,
+      "cast_id": 9,
+      "popularity": 1.6074,
+      "profile_path": "/zBYnzxzlAIEoanEU00bGYJmRS6k.jpg"
+    },
+    {
+      "personId": 9811,
+      "name": "Fred Williamson",
+      "character": "Frost",
+      "order": 9,
+      "cast_id": 10,
+      "popularity": 1.1296,
+      "profile_path": "/fwbqxb33pRZ5LcF3XZrZvxU1QSr.jpg"
+    },
+    {
+      "personId": 2536,
+      "name": "Michael Parks",
+      "character": "Texas Ranger Earl McGraw",
+      "order": 10,
+      "cast_id": 11,
+      "popularity": 1.5527,
+      "profile_path": "/sXK8vnVNyYzJl2oE6lxKLtxG9px.jpg"
+    },
+    {
+      "personId": 11162,
+      "name": "Brenda Hillhouse",
+      "character": "Hostage Gloria",
+      "order": 11,
+      "cast_id": 12,
+      "popularity": 0.5803,
+      "profile_path": "/8een5rR4vQZaUGI9sbsrerxQfqY.jpg"
+    },
+    {
+      "personId": 11163,
+      "name": "John Saxon",
+      "character": "FBI Agent Stanley Chase",
+      "order": 12,
+      "cast_id": 13,
+      "popularity": 2.3363,
+      "profile_path": "/rQh2ddJYtP3x2g1mnlFBQz547FO.jpg"
+    },
+    {
+      "personId": 3140,
+      "name": "Marc Lawrence",
+      "character": "Old Timer",
+      "order": 13,
+      "cast_id": 14,
+      "popularity": 2.3676,
+      "profile_path": "/exCnOfb7yD7VSppd32RA9K4TIWx.jpg"
+    },
+    {
+      "personId": 11164,
+      "name": "Kelly Preston",
+      "character": "Newscaster Kelly Houge",
+      "order": 14,
+      "cast_id": 15,
+      "popularity": 2.3248,
+      "profile_path": "/yyD9u0ziaHBrNs2eYx21pMG4Iq5.jpg"
+    },
+    {
+      "personId": 16861,
+      "name": "John Hawkes",
+      "character": "Pete Bottoms",
+      "order": 15,
+      "cast_id": 33,
+      "popularity": 2.891,
+      "profile_path": "/c0mDB6TApVcJ3LLM1gicjyUeD5A.jpg"
+    },
+    {
+      "personId": 53763,
+      "name": "Tito Larriva",
+      "character": "Titty Twister Guitarist & Vocalist",
+      "order": 16,
+      "cast_id": 34,
+      "popularity": 0.6595,
+      "profile_path": "/fs5yxJAYBXCQU4ovIGGZhtbVJUm.jpg"
+    },
+    {
+      "personId": 1089505,
+      "name": "Peter Atanasoff",
+      "character": "Titty Twister Saxophonist",
+      "order": 17,
+      "cast_id": 35,
+      "popularity": 0.1428,
+      "profile_path": "/pL8xNR8zvROsidIdL4CCHhcvAuv.jpg"
+    },
+    {
+      "personId": 1089510,
+      "name": "Johnny Vatos Hernandez",
+      "character": "Titty Twister Drummer",
+      "order": 18,
+      "cast_id": 36,
+      "popularity": 1.7317,
+      "profile_path": "/7yjeLfQM98FDi8O4OtOtRlI3FV0.jpg"
+    },
+    {
+      "personId": 35545,
+      "name": "Aimee Graham",
+      "character": "Blonde Hostage",
+      "order": 19,
+      "cast_id": 37,
+      "popularity": 1.2878,
+      "profile_path": "/qr9Ju3htBtai2xcekva1lxNMC93.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2294,
+      "name": "Robert Rodriguez",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.4457,
+      "profile_path": "/4Cwsa3PqeGRGtsgKoYOyxql0uUy.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 246,
+      "name": "dancing"
+    },
+    {
+      "id": 797,
+      "name": "showdown"
+    },
+    {
+      "id": 798,
+      "name": "sheriff"
+    },
+    {
+      "id": 380,
+      "name": "sibling relationship"
+    },
+    {
+      "id": 3133,
+      "name": "vampire"
+    },
+    {
+      "id": 2492,
+      "name": "bank robber"
+    },
+    {
+      "id": 3649,
+      "name": "holy water"
+    },
+    {
+      "id": 4063,
+      "name": "siege"
+    },
+    {
+      "id": 6593,
+      "name": "stripper"
+    },
+    {
+      "id": 10093,
+      "name": "priest"
+    },
+    {
+      "id": 15363,
+      "name": "bank robbery"
+    },
+    {
+      "id": 18072,
+      "name": "preacher"
+    },
+    {
+      "id": 18233,
+      "name": "hostage situation"
+    },
+    {
+      "id": 41380,
+      "name": "crucifix"
+    },
+    {
+      "id": 163795,
+      "name": "recreational vehicle"
+    },
+    {
+      "id": 188711,
+      "name": "mexican american border"
+    },
+    {
+      "id": 211429,
+      "name": "female stripping"
+    },
+    {
+      "id": 227811,
+      "name": "boa constrictor"
+    },
+    {
+      "id": 228753,
+      "name": "loss of faith"
+    },
+    {
+      "id": 230905,
+      "name": "foot fetish"
+    },
+    {
+      "id": 240165,
+      "name": "killer on the run"
+    },
+    {
+      "id": 262325,
+      "name": "brothers"
+    },
+    {
+      "id": 286665,
+      "name": "barefoot"
+    },
+    {
+      "id": 319397,
+      "name": "witty"
+    }
+  ]
+}

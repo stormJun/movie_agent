@@ -1,0 +1,202 @@
+{
+  "overview": "A bunch of high school misfits in Hawaii, introduced by their new teacher, attend a science fair in which they draw up inspiration to build their own solar car and win a trip to compete in the 1990 World Solar Challenge in Australia.",
+  "release_date": "1996-03-22",
+  "runtime": 100,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.1,
+  "tmdb_vote_count": 64,
+  "tmdb_popularity": 0.6981,
+  "original_language": "en",
+  "poster_path": "/jQA7TXgmEi35Zab6fHQ8VZ7Zhfn.jpg",
+  "backdrop_path": "/6vfsrnXNROHFBlNNGYURfiS5Qtl.jpg",
+  "tmdb_genres_raw": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 559,
+      "name": "TriStar Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4587,
+      "name": "Halle Berry",
+      "character": "Miss Sandra Beecher",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 6.9407,
+      "profile_path": "/yfAJMERSlDIZD1iy6Aab8bArcCK.jpg"
+    },
+    {
+      "personId": 1893,
+      "name": "Casey Affleck",
+      "character": "Daniel Webster",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 3.4435,
+      "profile_path": "/304ilSygaCRWykoBWAL67TOw8g9.jpg"
+    },
+    {
+      "personId": 13446,
+      "name": "Eliza Dushku",
+      "character": "Cindy Johnson",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 5.106,
+      "profile_path": "/lvu4Vo9GL7uOjtU59MDiy3QDPAZ.jpg"
+    },
+    {
+      "personId": 18324,
+      "name": "Steve Zahn",
+      "character": "Hans Kooiman",
+      "order": 3,
+      "cast_id": 8,
+      "popularity": 4.8898,
+      "profile_path": "/rwrPdKGwXnByxUVMxMf8Y7oswi3.jpg"
+    },
+    {
+      "personId": 17770,
+      "name": "Kevin Tighe",
+      "character": "Jack Fryman",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 3.2463,
+      "profile_path": "/t4LMNB2Rhu9SLbr64gOW5V4sW96.jpg"
+    },
+    {
+      "personId": 171522,
+      "name": "Anthony Ruivivar",
+      "character": "Eduardo Braz",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 1.1709,
+      "profile_path": "/pGyKViGHdi5BxQM2jo7yja4wVmf.jpg"
+    },
+    {
+      "personId": 239979,
+      "name": "Nadja Pionilla",
+      "character": "Oni Nagano",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 0.3187,
+      "profile_path": "/s0qkZRHVgIk0uqnZFJWVj5lewmK.jpg"
+    },
+    {
+      "personId": 26485,
+      "name": "Jim Belushi",
+      "character": "Frank Machi",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 3.5599,
+      "profile_path": "/7XhuV2ovoy01xxsegxzUGHjgUqw.jpg"
+    },
+    {
+      "personId": 20303,
+      "name": "Dionysio Basco",
+      "character": "Marco Kito",
+      "order": 8,
+      "cast_id": 9,
+      "popularity": 0.6636,
+      "profile_path": "/jtzK8t7sFPOR6yXc2kZhBVmUSJw.jpg"
+    },
+    {
+      "personId": 239978,
+      "name": "J. Moki Cho",
+      "character": "Gilbert Tutu",
+      "order": 9,
+      "cast_id": 10,
+      "popularity": 0.2699,
+      "profile_path": null
+    },
+    {
+      "personId": 239980,
+      "name": "Adriane Napualani Uganiza",
+      "character": "Luana Kanahele",
+      "order": 10,
+      "cast_id": 12,
+      "popularity": 0.1046,
+      "profile_path": null
+    },
+    {
+      "personId": 239981,
+      "name": "Sara Tanaka",
+      "character": "Uni Kakamura",
+      "order": 11,
+      "cast_id": 13,
+      "popularity": 0.329,
+      "profile_path": "/h7EtC4J0o0q25txQMAygqL6XsIH.jpg"
+    },
+    {
+      "personId": 23,
+      "name": "Bill Hunter",
+      "character": "Commissioner Hawkes",
+      "order": 12,
+      "cast_id": 15,
+      "popularity": 1.3509,
+      "profile_path": "/gvrRsTfx47KupgRwTKp0gqryHPe.jpg"
+    },
+    {
+      "personId": 33192,
+      "name": "Joel Edgerton",
+      "character": "Steve Fryman",
+      "order": 13,
+      "cast_id": 16,
+      "popularity": 3.2137,
+      "profile_path": "/2YzeeiYUbI94Ywc7MVMo1NcN6jf.jpg"
+    },
+    {
+      "personId": 1086335,
+      "name": "Gianfranco Negroponte",
+      "character": "Detention Teacher",
+      "order": 14,
+      "cast_id": 57,
+      "popularity": 0.1353,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 36147,
+      "name": "Charles T. Kanganis",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.0112,
+      "profile_path": "/1dycIzcyNzodPJD8XlVjfar1R2W.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 5657,
+      "name": "australia"
+    },
+    {
+      "id": 1668,
+      "name": "hawaii"
+    },
+    {
+      "id": 10508,
+      "name": "teacher"
+    },
+    {
+      "id": 175976,
+      "name": "solar power"
+    }
+  ]
+}

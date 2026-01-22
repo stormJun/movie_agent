@@ -1,0 +1,255 @@
+{
+  "overview": "A man claiming to be Carol Brady's long-lost first husband, Roy Martin, shows up at the suburban Brady residence one evening. An impostor, the man is actually determined to steal the Bradys' familiar horse statue, a $20-million ancient Asian artifact.",
+  "release_date": "1996-08-23",
+  "runtime": 90,
+  "budget": 12000000,
+  "revenue": 21440752,
+  "tmdb_vote_average": 5.773,
+  "tmdb_vote_count": 174,
+  "tmdb_popularity": 0.8452,
+  "original_language": "en",
+  "poster_path": "/7xqOkzAQvXCLkDtmlWU6HZnOhru.jpg",
+  "backdrop_path": "/6PktHOB9WiszclMWMNE8mbh4ww2.jpg",
+  "tmdb_genres_raw": [
+    "Family",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 7965,
+      "name": "The Ladd Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 56881,
+      "name": "Shelley Long",
+      "character": "Carol Brady",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.6142,
+      "profile_path": "/mJuDa3tiF1d34phattCVWVrFKIq.jpg"
+    },
+    {
+      "personId": 21163,
+      "name": "Gary Cole",
+      "character": "Mike Brady",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 5.4344,
+      "profile_path": "/cqsNC0LRZZz2k1dbgIcGITQ4DZN.jpg"
+    },
+    {
+      "personId": 31468,
+      "name": "Christopher Daniel Barnes",
+      "character": "Greg Brady",
+      "order": 2,
+      "cast_id": 18,
+      "popularity": 0.7827,
+      "profile_path": "/dE99eEJ9F8RweONabFIzb2p57iK.jpg"
+    },
+    {
+      "personId": 15286,
+      "name": "Christine Taylor",
+      "character": "Marcia Brady",
+      "order": 3,
+      "cast_id": 19,
+      "popularity": 2.5215,
+      "profile_path": "/81jveproLhJzWHpCuJh7hN65zRl.jpg"
+    },
+    {
+      "personId": 1231709,
+      "name": "Paul Sutera",
+      "character": "Peter Brady",
+      "order": 4,
+      "cast_id": 20,
+      "popularity": 0.5087,
+      "profile_path": "/d6mpfE1UTzrLiuquq7KlFr7KgY3.jpg"
+    },
+    {
+      "personId": 112052,
+      "name": "Jennifer Elise Cox",
+      "character": "Jan Brady",
+      "order": 5,
+      "cast_id": 21,
+      "popularity": 1.7413,
+      "profile_path": "/uc0WaHrCVS1pOfQj7vXmZxHGO4W.jpg"
+    },
+    {
+      "personId": 1011102,
+      "name": "Jesse Lee Soffer",
+      "character": "Bobby Brady",
+      "order": 6,
+      "cast_id": 22,
+      "popularity": 1.61,
+      "profile_path": "/gVEaHfRNwChrtdGdgPLcFg6MLFI.jpg"
+    },
+    {
+      "personId": 116437,
+      "name": "Olivia Hack",
+      "character": "Cindy Brady",
+      "order": 7,
+      "cast_id": 23,
+      "popularity": 1.3617,
+      "profile_path": "/vHiz3YSzQfnPAvqVt0W3f3eERWK.jpg"
+    },
+    {
+      "personId": 1224522,
+      "name": "Henriette Mantel",
+      "character": "Alice Nelson",
+      "order": 8,
+      "cast_id": 25,
+      "popularity": 0.7068,
+      "profile_path": "/l4je9YondpATFPTeE0Of2HSILCp.jpg"
+    },
+    {
+      "personId": 21561,
+      "name": "Tim Matheson",
+      "character": "Roy Martin / Trevor Thomas",
+      "order": 9,
+      "cast_id": 26,
+      "popularity": 4.6772,
+      "profile_path": "/6oexiiYLJYXU6NjIhzlpA3mqYGF.jpg"
+    },
+    {
+      "personId": 11089,
+      "name": "Whip Hubley",
+      "character": "Explorer / Dead Husband",
+      "order": 10,
+      "cast_id": 27,
+      "popularity": 1.2964,
+      "profile_path": "/lqwleuUWQhLWMJ4ZvAdRGrXgvjT.jpg"
+    },
+    {
+      "personId": 159034,
+      "name": "Whitney Rydbeck",
+      "character": "Auctioneer",
+      "order": 11,
+      "cast_id": 28,
+      "popularity": 0.9852,
+      "profile_path": null
+    },
+    {
+      "personId": 166961,
+      "name": "Sue Casey",
+      "character": "Art Patron #1",
+      "order": 12,
+      "cast_id": 29,
+      "popularity": 1.5013,
+      "profile_path": "/z2qUp4V3nnplKZf8hqJrbDWQwAr.jpg"
+    },
+    {
+      "personId": 149439,
+      "name": "Gregory White",
+      "character": "Art Patron #2",
+      "order": 13,
+      "cast_id": 30,
+      "popularity": 1.11,
+      "profile_path": "/hk0O0RjogFOc6VhmS29kNgg23Zs.jpg"
+    },
+    {
+      "personId": 78589,
+      "name": "RuPaul",
+      "character": "Ms. Cummings",
+      "order": 14,
+      "cast_id": 31,
+      "popularity": 1.5631,
+      "profile_path": "/aqmub88LK5Cic8yZwwfcDqIQQqk.jpg"
+    },
+    {
+      "personId": 156560,
+      "name": "Diana Theodore",
+      "character": "Ms. Cummings's Daughter",
+      "order": 15,
+      "cast_id": 32,
+      "popularity": 0.5232,
+      "profile_path": null
+    },
+    {
+      "personId": 116774,
+      "name": "David Ramsey",
+      "character": "Brent the Lifeguard",
+      "order": 16,
+      "cast_id": 33,
+      "popularity": 2.2859,
+      "profile_path": "/bZWO7WfBYI8iojTFozzqN2X3RWL.jpg"
+    },
+    {
+      "personId": 154072,
+      "name": "Phil Buckman",
+      "character": "Jason the Lifeguard",
+      "order": 17,
+      "cast_id": 34,
+      "popularity": 0.6251,
+      "profile_path": "/tV9ijojhG0yWjImlgCoabz1Jl5u.jpg"
+    },
+    {
+      "personId": 31032,
+      "name": "Steven Gilborn",
+      "character": "Mr. Phillips",
+      "order": 18,
+      "cast_id": 35,
+      "popularity": 1.1488,
+      "profile_path": "/k7Ow6qOO9rcQkFmJmyUpro4heVk.jpg"
+    },
+    {
+      "personId": 1172398,
+      "name": "Michael D. Weatherred",
+      "character": "Flower Delivery Guy",
+      "order": 19,
+      "cast_id": 36,
+      "popularity": 0.7899,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 15042,
+      "name": "Arlene Sanford",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6162,
+      "profile_path": "/hsnlVO1L51oeL85e1GTuxmI4Kqn.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1668,
+      "name": "hawaii"
+    },
+    {
+      "id": 13027,
+      "name": "wedding"
+    },
+    {
+      "id": 14724,
+      "name": "family vacation"
+    },
+    {
+      "id": 18035,
+      "name": "family"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    }
+  ]
+}

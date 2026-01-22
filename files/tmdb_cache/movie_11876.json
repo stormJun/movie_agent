@@ -1,0 +1,278 @@
+{
+  "overview": "In a time of war and disease, a young officer gallantly tries to help a young woman find her husband.",
+  "release_date": "1995-09-20",
+  "runtime": 135,
+  "budget": 35000000,
+  "revenue": 15000000,
+  "tmdb_vote_average": 6.5,
+  "tmdb_vote_count": 149,
+  "tmdb_popularity": 0.7623,
+  "original_language": "fr",
+  "poster_path": "/tsmwnxi8hGXQTNVqBRCAVsfeGON.jpg",
+  "backdrop_path": "/5aXOJ5cpzodpZoTDe4NVL0kSkRl.jpg",
+  "tmdb_genres_raw": [
+    "Adventure",
+    "Romance",
+    "History",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 582,
+      "name": "Hachette Première",
+      "origin_country": "FR"
+    },
+    {
+      "id": 83,
+      "name": "France 2 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 104,
+      "name": "Canal+",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "it",
+      "name": "Italiano"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1137,
+      "name": "Juliette Binoche",
+      "character": "Pauline de Théus",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.0878,
+      "profile_path": "/htdZZIroEyJaeHQAUTqokNfkPgl.jpg"
+    },
+    {
+      "personId": 15533,
+      "name": "Olivier Martinez",
+      "character": "Colonel Angelo Pardi",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.0024,
+      "profile_path": "/rS1pHEsXrLWqpkmzItnAqnBEpZQ.jpg"
+    },
+    {
+      "personId": 24816,
+      "name": "Pierre Arditi",
+      "character": "Monsieur Peyrolle",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 0.6352,
+      "profile_path": "/kLvyrJkfcGUKzn3rHI0SYX5uPwj.jpg"
+    },
+    {
+      "personId": 33161,
+      "name": "François Cluzet",
+      "character": "Doctor",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.2508,
+      "profile_path": "/4ioxRGRJdSjItLxAQ2pp7byWkd3.jpg"
+    },
+    {
+      "personId": 24381,
+      "name": "Jean Yanne",
+      "character": "Hawker",
+      "order": 4,
+      "cast_id": 15,
+      "popularity": 0.8471,
+      "profile_path": "/nZAsOM0mtE0oHHj9DlbH94SxtAI.jpg"
+    },
+    {
+      "personId": 4166,
+      "name": "Isabelle Carré",
+      "character": "Governess",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 0.7093,
+      "profile_path": "/hC7NLIv6RGvtwb8pjy9DJbbHhJG.jpg"
+    },
+    {
+      "personId": 23961,
+      "name": "Claudio Amendola",
+      "character": "Maggionari",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 1.0779,
+      "profile_path": "/wOLO9h2QvyrzWlG9dUpqhG3NAAc.jpg"
+    },
+    {
+      "personId": 16927,
+      "name": "Gérard Depardieu",
+      "character": "Police commissioner of Manosque",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 2.4993,
+      "profile_path": "/cibkIAJN6ctlqHohhdDEcfbiCAL.jpg"
+    },
+    {
+      "personId": 1316257,
+      "name": "Christiane Cohendy",
+      "character": "Madame Peyrolle",
+      "order": 8,
+      "cast_id": 18,
+      "popularity": 0.3601,
+      "profile_path": "/cNAwuHPihjKF4AD5xUChjSi7K9e.jpg"
+    },
+    {
+      "personId": 1316258,
+      "name": "Tony Lemiere",
+      "character": "Adrien Peyrolle",
+      "order": 9,
+      "cast_id": 19,
+      "popularity": 0.1029,
+      "profile_path": null
+    },
+    {
+      "personId": 96974,
+      "name": "Carlo Cecchi",
+      "character": "Giuseppe",
+      "order": 10,
+      "cast_id": 20,
+      "popularity": 0.5333,
+      "profile_path": "/ek6bObZ1kimovsmHSVjX861vQlA.jpg"
+    },
+    {
+      "personId": 1316259,
+      "name": "Laura Marinoni",
+      "character": "Carla",
+      "order": 11,
+      "cast_id": 21,
+      "popularity": 0.357,
+      "profile_path": "/o81t9XOXgJCF5CnvdcoBaY9wcV0.jpg"
+    },
+    {
+      "personId": 652,
+      "name": "Paul Freeman",
+      "character": "Laurent de Théus",
+      "order": 12,
+      "cast_id": 22,
+      "popularity": 2.6322,
+      "profile_path": "/mLDHLughdhSe6AqsklX0Zhjk9Rx.jpg"
+    },
+    {
+      "personId": 2415,
+      "name": "Yolande Moreau",
+      "character": "Madame Rigoard",
+      "order": 13,
+      "cast_id": 23,
+      "popularity": 1.2531,
+      "profile_path": "/hh5gwfxXuvAqljjiJ3IsJlFO0QU.jpg"
+    },
+    {
+      "personId": 2197,
+      "name": "Daniel Russo",
+      "character": "Maître Rigoard",
+      "order": 14,
+      "cast_id": 24,
+      "popularity": 0.8892,
+      "profile_path": "/cF8Uj5PTThdJMcdjHBRk2weqb3H.jpg"
+    },
+    {
+      "personId": 49487,
+      "name": "Richard Sammel",
+      "character": "Franz",
+      "order": 15,
+      "cast_id": 26,
+      "popularity": 1.1181,
+      "profile_path": "/91IPxy0IuHhIqcrJdI0hYBpJmOg.jpg"
+    },
+    {
+      "personId": 23985,
+      "name": "Georges Neri",
+      "character": "Old harvester",
+      "order": 16,
+      "cast_id": 27,
+      "popularity": 0.3768,
+      "profile_path": "/zjC5WThIxaiXEvninwgHwHqsHpl.jpg"
+    },
+    {
+      "personId": 146720,
+      "name": "Hervé Pierre",
+      "character": "Brigadier Maugin",
+      "order": 17,
+      "cast_id": 40,
+      "popularity": 0.4647,
+      "profile_path": "/zrorzRqdKqbZVNws404U13Ypxf.jpg"
+    },
+    {
+      "personId": 1316261,
+      "name": "Marie Albe",
+      "character": "",
+      "order": 18,
+      "cast_id": 28,
+      "popularity": 0.401,
+      "profile_path": null
+    },
+    {
+      "personId": 1316263,
+      "name": "Antonin Lebas-Joly",
+      "character": "Edmond as a child",
+      "order": 19,
+      "cast_id": 31,
+      "popularity": 0.2128,
+      "profile_path": "/x23SufZsGQlJediEynyWBf31Lh5.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 25950,
+      "name": "Jean-Paul Rappeneau",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4179,
+      "profile_path": "/qWYJCWgbLlenHmZyBDlmC4zS2TL.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1605,
+      "name": "new love"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 924,
+      "name": "italian"
+    },
+    {
+      "id": 1649,
+      "name": "provence"
+    },
+    {
+      "id": 2673,
+      "name": "horse"
+    },
+    {
+      "id": 4849,
+      "name": "exile"
+    },
+    {
+      "id": 7728,
+      "name": "cholera"
+    },
+    {
+      "id": 207928,
+      "name": "19th century"
+    }
+  ]
+}

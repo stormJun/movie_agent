@@ -1,0 +1,303 @@
+{
+  "overview": "Bret Maverick is a gambler who would rather con someone than fight them, and needs an additional $3k in order to enter a winner-takes-all poker game beginning in a few days. He joins forces with a woman with a marvelous Southern accent, and the two try and enter the game.",
+  "release_date": "1994-05-20",
+  "runtime": 127,
+  "budget": 75000000,
+  "revenue": 183031272,
+  "tmdb_vote_average": 6.886,
+  "tmdb_vote_count": 1698,
+  "tmdb_popularity": 6.6891,
+  "original_language": "en",
+  "poster_path": "/mTVbGGi5PIexmxVzeyFd2RYKwfM.jpg",
+  "backdrop_path": "/ctzKCslTsMRsOJNvAm1Mw8ytiHY.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Western"
+  ],
+  "production_companies": [
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 152,
+      "name": "Icon Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 5739,
+      "name": "Donner/Shuler-Donner Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2461,
+      "name": "Mel Gibson",
+      "character": "Bret Maverick",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 9.7865,
+      "profile_path": "/4wEWS5NgioKBGTi5fdv2BP3b4ZY.jpg"
+    },
+    {
+      "personId": 1038,
+      "name": "Jodie Foster",
+      "character": "Annabelle Bransford",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 6.7065,
+      "profile_path": "/8DAd9knKivHR4CCStxlNEQXzjIh.jpg"
+    },
+    {
+      "personId": 16896,
+      "name": "James Garner",
+      "character": "Marshal Zane Cooper",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.0674,
+      "profile_path": "/hiPky3VwIOAlmPhJwzRovEsGDrI.jpg"
+    },
+    {
+      "personId": 6804,
+      "name": "Graham Greene",
+      "character": "Joseph",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 4.602,
+      "profile_path": "/ubX9pwrzQqnR41gAGyY1GoSZr1G.jpg"
+    },
+    {
+      "personId": 658,
+      "name": "Alfred Molina",
+      "character": "Angel",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 4.6321,
+      "profile_path": "/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+    },
+    {
+      "personId": 5563,
+      "name": "James Coburn",
+      "character": "Commodore Duvall",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 3.7185,
+      "profile_path": "/9GApjInyrVvjnTAr652C1aViPqZ.jpg"
+    },
+    {
+      "personId": 6463,
+      "name": "Dub Taylor",
+      "character": "Room Clerk",
+      "order": 6,
+      "cast_id": 16,
+      "popularity": 2.3933,
+      "profile_path": "/a7eVCCqOeWPqJpBXoKse1vZj2sc.jpg"
+    },
+    {
+      "personId": 18071,
+      "name": "Geoffrey Lewis",
+      "character": "Matthew Wicker / Eugene, Banker",
+      "order": 7,
+      "cast_id": 17,
+      "popularity": 2.2641,
+      "profile_path": "/codb8rrsNqnsq3e0MHkH3kAAJwg.jpg"
+    },
+    {
+      "personId": 39782,
+      "name": "Paul L. Smith",
+      "character": "The Archduke",
+      "order": 8,
+      "cast_id": 18,
+      "popularity": 0.8178,
+      "profile_path": "/1Jxi6QSNn5CEuzDQzGGPgN1kxKq.jpg"
+    },
+    {
+      "personId": 6486,
+      "name": "Dan Hedaya",
+      "character": "Twitchy, Riverboat Poker Player",
+      "order": 9,
+      "cast_id": 19,
+      "popularity": 3.3541,
+      "profile_path": "/evL3mV8hNIjZOb1XG3qtgmiTgS5.jpg"
+    },
+    {
+      "personId": 27742,
+      "name": "Dennis Fimple",
+      "character": "Stuttering",
+      "order": 10,
+      "cast_id": 20,
+      "popularity": 1.0598,
+      "profile_path": "/tlPB6BSeVP0115P7PWGpXu16lu6.jpg"
+    },
+    {
+      "personId": 6462,
+      "name": "Denver Pyle",
+      "character": "Old Gambler on Riverboat",
+      "order": 11,
+      "cast_id": 21,
+      "popularity": 2.4797,
+      "profile_path": "/eYRwwhl3pWu3oNn1GKerUauooSV.jpg"
+    },
+    {
+      "personId": 109577,
+      "name": "Clint Black",
+      "character": "Sweet-Faced Gambler",
+      "order": 12,
+      "cast_id": 22,
+      "popularity": 0.7786,
+      "profile_path": "/brnmahG6dW9ynPB8D4YSSnWO1Wm.jpg"
+    },
+    {
+      "personId": 7268,
+      "name": "Max Perlich",
+      "character": "Johnny Hardin",
+      "order": 13,
+      "cast_id": 23,
+      "popularity": 1.6987,
+      "profile_path": "/hdyemQG5w6xGtcDsqnuZkZV11nG.jpg"
+    },
+    {
+      "personId": 44792,
+      "name": "Art LaFleur",
+      "character": "Poker Player",
+      "order": 14,
+      "cast_id": 24,
+      "popularity": 2.1345,
+      "profile_path": "/iCDhbcKVuvrIkS3LuwPkahTkEzS.jpg"
+    },
+    {
+      "personId": 95082,
+      "name": "Leo Gordon",
+      "character": "Poker Player",
+      "order": 15,
+      "cast_id": 25,
+      "popularity": 1.6935,
+      "profile_path": "/d87PfczbNFTbiu3qktqORlxnkMW.jpg"
+    },
+    {
+      "personId": 159013,
+      "name": "Paul Tuerpe",
+      "character": "Poker Player",
+      "order": 16,
+      "cast_id": 71,
+      "popularity": 1.0551,
+      "profile_path": "/t9TKV7FnjDnp5uOjDJHn9ABgj6g.jpg"
+    },
+    {
+      "personId": 78518,
+      "name": "Jean De Baer",
+      "character": "Mary Margret",
+      "order": 17,
+      "cast_id": 27,
+      "popularity": 0.7083,
+      "profile_path": "/vflIAjlTKqldJ8zq8tx630OjWDU.jpg"
+    },
+    {
+      "personId": 106611,
+      "name": "Paul Brinegar",
+      "character": "Stage Driver",
+      "order": 18,
+      "cast_id": 28,
+      "popularity": 1.1138,
+      "profile_path": "/6GarNdMHXLKSnt9BAVYa5jtoYi0.jpg"
+    },
+    {
+      "personId": 233499,
+      "name": "Hal Ketchum",
+      "character": "Bank Robber",
+      "order": 19,
+      "cast_id": 29,
+      "popularity": 0.4317,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 7187,
+      "name": "Richard Donner",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.2991,
+      "profile_path": "/wjRecQiVLUAm6jwyT5craxhg3lD.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3799,
+      "name": "ship"
+    },
+    {
+      "id": 1582,
+      "name": "saloon"
+    },
+    {
+      "id": 383,
+      "name": "poker"
+    },
+    {
+      "id": 787,
+      "name": "mississippi river"
+    },
+    {
+      "id": 10322,
+      "name": "native american"
+    },
+    {
+      "id": 1897,
+      "name": "oregon, usa"
+    },
+    {
+      "id": 10453,
+      "name": "con artist"
+    },
+    {
+      "id": 11073,
+      "name": "steamboat"
+    },
+    {
+      "id": 10562,
+      "name": "on the run"
+    },
+    {
+      "id": 18083,
+      "name": "attempted robbery"
+    },
+    {
+      "id": 223769,
+      "name": "professional gambler"
+    },
+    {
+      "id": 236140,
+      "name": "american frontier"
+    },
+    {
+      "id": 266416,
+      "name": "western comedy"
+    },
+    {
+      "id": 269769,
+      "name": "based on tv series"
+    },
+    {
+      "id": 298374,
+      "name": "old west"
+    }
+  ]
+}

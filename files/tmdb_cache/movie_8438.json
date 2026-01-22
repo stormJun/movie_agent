@@ -1,0 +1,288 @@
+{
+  "overview": "A young, inexperienced public defender is assigned to defend an inmate accused of committing murder while behind bars.",
+  "release_date": "1995-01-20",
+  "runtime": 122,
+  "budget": 20000000,
+  "revenue": 29500000,
+  "tmdb_vote_average": 7.147,
+  "tmdb_vote_count": 594,
+  "tmdb_popularity": 2.2643,
+  "original_language": "en",
+  "poster_path": "/duUpJUmuz82OKMwGnKc8sCV7emS.jpg",
+  "backdrop_path": "/8uw6OCa4ofQ6A9xz5ldtgnEVPDr.jpg",
+  "tmdb_genres_raw": [
+    "Crime",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 2428,
+      "name": "Wolper Organization",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 183,
+      "name": "Le Studio Canal+",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2224,
+      "name": "Christian Slater",
+      "character": "James Stamphill",
+      "order": 0,
+      "cast_id": 6,
+      "popularity": 4.3336,
+      "profile_path": "/6ww3uweEEXMlvtNjTlgBHxLErPF.jpg"
+    },
+    {
+      "personId": 4724,
+      "name": "Kevin Bacon",
+      "character": "Henri Young",
+      "order": 1,
+      "cast_id": 7,
+      "popularity": 7.2766,
+      "profile_path": "/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg"
+    },
+    {
+      "personId": 64,
+      "name": "Gary Oldman",
+      "character": "Glenn",
+      "order": 2,
+      "cast_id": 8,
+      "popularity": 5.5873,
+      "profile_path": "/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg"
+    },
+    {
+      "personId": 6368,
+      "name": "Embeth Davidtz",
+      "character": "Mary McCasslin",
+      "order": 3,
+      "cast_id": 9,
+      "popularity": 2.4587,
+      "profile_path": "/nwsdu9lOsKJ5v9RwOCc7kAiuxSO.jpg"
+    },
+    {
+      "personId": 3905,
+      "name": "William H. Macy",
+      "character": "Bill McNeill",
+      "order": 4,
+      "cast_id": 10,
+      "popularity": 5.7242,
+      "profile_path": "/hdVEGSrP8qWlJnt0v5vSVcGOjy7.jpg"
+    },
+    {
+      "personId": 537,
+      "name": "Stephen Tobolowsky",
+      "character": "Mr. Henkin",
+      "order": 5,
+      "cast_id": 11,
+      "popularity": 3.8913,
+      "profile_path": "/uL8yfcm0dCFYFQt052kczVQVvac.jpg"
+    },
+    {
+      "personId": 1370,
+      "name": "Brad Dourif",
+      "character": "Byron Stamphill",
+      "order": 6,
+      "cast_id": 12,
+      "popularity": 3.2923,
+      "profile_path": "/ex7AmuHM3owhUetYZAyOmN1ehWS.jpg"
+    },
+    {
+      "personId": 26467,
+      "name": "Kyra Sedgwick",
+      "character": "Blanche",
+      "order": 7,
+      "cast_id": 13,
+      "popularity": 5.0568,
+      "profile_path": "/cfpLVZWChElvkKegZopC0xDjEWk.jpg"
+    },
+    {
+      "personId": 18658,
+      "name": "Mia Kirshner",
+      "character": "Rosetta Young",
+      "order": 8,
+      "cast_id": 14,
+      "popularity": 4.3419,
+      "profile_path": "/7fSYUVxf84JdZ2aRJ9Lm28Ls6IK.jpg"
+    },
+    {
+      "personId": 8655,
+      "name": "R. Lee Ermey",
+      "character": "Judge Clawson",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 1.6841,
+      "profile_path": "/aXFJlEGHlQT7bwxkKwq6Sx7PeEp.jpg"
+    },
+    {
+      "personId": 52463,
+      "name": "Stefan Gierasch",
+      "character": "Warden James Humson",
+      "order": 10,
+      "cast_id": 17,
+      "popularity": 1.2074,
+      "profile_path": "/oAbH8rqOdeLSOM4OS1kydVm8rAM.jpg"
+    },
+    {
+      "personId": 1483270,
+      "name": "Mary Mackey",
+      "character": "Prison Guard's Wife",
+      "order": 11,
+      "cast_id": 18,
+      "popularity": 0.4085,
+      "profile_path": "/yadQhZRIqi6Ki7QMmw7UtZuQiQc.jpg"
+    },
+    {
+      "personId": 156638,
+      "name": "Gary Ballard",
+      "character": "Alcatraz Guard Swenson",
+      "order": 12,
+      "cast_id": 20,
+      "popularity": 0.5424,
+      "profile_path": "/5TjxX8pPHpnW12uk0jSrGqwWTTC.jpg"
+    },
+    {
+      "personId": 1221154,
+      "name": "Richie Allan",
+      "character": "Jury Foreman",
+      "order": 13,
+      "cast_id": 21,
+      "popularity": 0.2945,
+      "profile_path": "/viv9cfOxrRfhHwbIeni99FzL7SE.jpg"
+    },
+    {
+      "personId": 88518,
+      "name": "Ben Slack",
+      "character": "Jerry Hoolihan",
+      "order": 14,
+      "cast_id": 34,
+      "popularity": 1.3724,
+      "profile_path": "/gJA5r56CRyt64ZfSD1KYwRQVM4c.jpg"
+    },
+    {
+      "personId": 153436,
+      "name": "Alex Bookston",
+      "character": "Alcatraz Doc",
+      "order": 15,
+      "cast_id": 35,
+      "popularity": 0.4978,
+      "profile_path": null
+    },
+    {
+      "personId": 1233671,
+      "name": "Herb Ritts",
+      "character": "Mike Kelly",
+      "order": 16,
+      "cast_id": 36,
+      "popularity": 0.3372,
+      "profile_path": "/8oQCWCF1tT5l4pUv7dPA0EiLp1W.jpg"
+    },
+    {
+      "personId": 176329,
+      "name": "Charles Boswell",
+      "character": "Simpson",
+      "order": 17,
+      "cast_id": 37,
+      "popularity": 0.4775,
+      "profile_path": "/8k5ybaKZjuSy89RSpI0Mi3oIf8H.jpg"
+    },
+    {
+      "personId": 115993,
+      "name": "Tony Barr",
+      "character": "Winthrop",
+      "order": 18,
+      "cast_id": 38,
+      "popularity": 0.6149,
+      "profile_path": null
+    },
+    {
+      "personId": 1183497,
+      "name": "Stuart Nisbet",
+      "character": "Harve",
+      "order": 19,
+      "cast_id": 39,
+      "popularity": 1.6193,
+      "profile_path": "/xqvzD2LiS0IVjKK9k4Qo0eAhOiH.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 54971,
+      "name": "Marc Rocco",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6554,
+      "profile_path": "/8jvgKdEcmAQhZuZspmeqkKdLUtF.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 378,
+      "name": "prison"
+    },
+    {
+      "id": 1563,
+      "name": "prisoner"
+    },
+    {
+      "id": 2501,
+      "name": "death row"
+    },
+    {
+      "id": 3859,
+      "name": "alcatraz prison"
+    },
+    {
+      "id": 10909,
+      "name": "lawyer"
+    },
+    {
+      "id": 33519,
+      "name": "courtroom"
+    },
+    {
+      "id": 207240,
+      "name": "murder trial"
+    },
+    {
+      "id": 207883,
+      "name": "1940s"
+    },
+    {
+      "id": 211082,
+      "name": "mistreatment"
+    },
+    {
+      "id": 215596,
+      "name": "public defender"
+    },
+    {
+      "id": 223044,
+      "name": "prisoner abuse"
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "overview": "Tally Atwater has a dream: to be a prime-time network newscaster. She pursues this dream with nothing but ambition, raw talent and a homemade demo tape. Warren Justice is a brilliant, hard edged, veteran newsman. He sees Tally has talent and becomes her mentor. Tally’s career takes a meteoric rise and she and Warren fall in love. The romance that results is as intense and revealing as television news itself. Yet, each breaking story, every videotaped crisis that brings them together, also threatens to drive them apart...",
+  "release_date": "1996-03-01",
+  "runtime": 119,
+  "budget": 60000000,
+  "revenue": 100688562,
+  "tmdb_vote_average": 6.3,
+  "tmdb_vote_count": 231,
+  "tmdb_popularity": 1.162,
+  "original_language": "en",
+  "poster_path": "/zF67qcf7skMHLpXnifodinUqCFr.jpg",
+  "backdrop_path": "/wqD5zMFFITtzySK7fuYX42AtbJE.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 1504,
+      "name": "Cinergi Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 34998,
+      "name": "Avnet/Kerner Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4135,
+      "name": "Robert Redford",
+      "character": "Warren Justice",
+      "order": 0,
+      "cast_id": 10,
+      "popularity": 4.521,
+      "profile_path": "/tCcg8rXzYIM4ota9grCCHc881bo.jpg"
+    },
+    {
+      "personId": 1160,
+      "name": "Michelle Pfeiffer",
+      "character": "Tally Atwater",
+      "order": 1,
+      "cast_id": 11,
+      "popularity": 5.4029,
+      "profile_path": "/oGUmQBU87QXAsnaGleYaAjAXSlj.jpg"
+    },
+    {
+      "personId": 8893,
+      "name": "Stockard Channing",
+      "character": "Marcia McGrath",
+      "order": 2,
+      "cast_id": 12,
+      "popularity": 2.2977,
+      "profile_path": "/qAYBGvapAnnhpoZuYFyoqetncs5.jpg"
+    },
+    {
+      "personId": 3266,
+      "name": "Joe Mantegna",
+      "character": "Bucky Terranova",
+      "order": 3,
+      "cast_id": 13,
+      "popularity": 2.6702,
+      "profile_path": "/4jzvAE6B1eoiZDUnDUuMazirCPP.jpg"
+    },
+    {
+      "personId": 18794,
+      "name": "Kate Nelligan",
+      "character": "Joanna Kennelly",
+      "order": 4,
+      "cast_id": 14,
+      "popularity": 1.1163,
+      "profile_path": "/a2BUOy9A9WlvTfe8s4gn0MZfPa5.jpg"
+    },
+    {
+      "personId": 2683,
+      "name": "Glenn Plummer",
+      "character": "Ned Jackson",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 2.9778,
+      "profile_path": "/lNfRFcxD7bhqKLZwOqdpumA83TL.jpg"
+    },
+    {
+      "personId": 8986,
+      "name": "James Rebhorn",
+      "character": "John Merino",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 2.1243,
+      "profile_path": "/jRdR3q28gTPQU6eWRgiIqzGuMKU.jpg"
+    },
+    {
+      "personId": 1218088,
+      "name": "Scott Bryce",
+      "character": "Rob Sullivan",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 0.93,
+      "profile_path": "/eKrLOttO8r8moph0LaxKXHxZDsL.jpg"
+    },
+    {
+      "personId": 58650,
+      "name": "Raymond Cruz",
+      "character": "Fernando Buttanda",
+      "order": 8,
+      "cast_id": 19,
+      "popularity": 2.8926,
+      "profile_path": "/ndhc53yEQeeFn01QoOxtPa6GroU.jpg"
+    },
+    {
+      "personId": 91332,
+      "name": "Dedee Pfeiffer",
+      "character": "Luanne Atwater",
+      "order": 9,
+      "cast_id": 20,
+      "popularity": 2.1362,
+      "profile_path": "/5qEwnlKS2uapYYBca4VypL2K2JQ.jpg"
+    },
+    {
+      "personId": 19454,
+      "name": "Michael Laskin",
+      "character": "IBS Director",
+      "order": 10,
+      "cast_id": 21,
+      "popularity": 0.9169,
+      "profile_path": "/fSofPsl8VSnzNtb4Zaiv7KxotkS.jpg"
+    },
+    {
+      "personId": 102896,
+      "name": "Lorielle New",
+      "character": "Merino's Secretary",
+      "order": 11,
+      "cast_id": 22,
+      "popularity": 0.4269,
+      "profile_path": "/zQdZtXZcsqvKKrRsmhCN9haPjnT.jpg"
+    },
+    {
+      "personId": 30488,
+      "name": "Miguel Sandoval",
+      "character": "Dan Duarte",
+      "order": 12,
+      "cast_id": 24,
+      "popularity": 1.8718,
+      "profile_path": "/v5tHxTkgOqcdWgjoEhUj0a50NIK.jpg"
+    },
+    {
+      "personId": 14852,
+      "name": "James Karen",
+      "character": "Tom Orr",
+      "order": 13,
+      "cast_id": 25,
+      "popularity": 1.8441,
+      "profile_path": "/kW947hrR36DTHcm9mxes5nWkgVX.jpg"
+    },
+    {
+      "personId": 39757,
+      "name": "Fabian",
+      "character": "Fabian",
+      "order": 14,
+      "cast_id": 26,
+      "popularity": 0.5999,
+      "profile_path": "/7Q4ovwTM8phxR5WzxtIEeis2Bxp.jpg"
+    },
+    {
+      "personId": 11392,
+      "name": "Dennis Dun",
+      "character": "Satellite Van Technician",
+      "order": 15,
+      "cast_id": 27,
+      "popularity": 1.1506,
+      "profile_path": "/kVem07C5bxKI4g88RkWUDsQ9BRO.jpg"
+    },
+    {
+      "personId": 31005,
+      "name": "Noble Willingham",
+      "character": "Buford Sells",
+      "order": 16,
+      "cast_id": 39,
+      "popularity": 1.4736,
+      "profile_path": "/70HEA9aOmmPmTeCvxXqJC6KGHaZ.jpg"
+    },
+    {
+      "personId": 28004,
+      "name": "Brian Markinson",
+      "character": "Vic Nash",
+      "order": 17,
+      "cast_id": 40,
+      "popularity": 1.5456,
+      "profile_path": "/26fa857UrEU4aCMHVQbpvNOGuKv.jpg"
+    },
+    {
+      "personId": 3946575,
+      "name": "Robert Keith Watson",
+      "character": "IBS Makeup Man",
+      "order": 18,
+      "cast_id": 41,
+      "popularity": 0.0364,
+      "profile_path": null
+    },
+    {
+      "personId": 166896,
+      "name": "Lily Gibson",
+      "character": "Star Atwater",
+      "order": 19,
+      "cast_id": 42,
+      "popularity": 1.1849,
+      "profile_path": "/pW9YDLAKPs3xUlo8KvU5kUZ4QlK.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 18250,
+      "name": "Jon Avnet",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1214,
+      "profile_path": "/c8iDOTe30SgubSZK9hF4rS5tQDZ.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3658,
+      "name": "career"
+    },
+    {
+      "id": 416,
+      "name": "miami, florida"
+    },
+    {
+      "id": 2803,
+      "name": "affectation"
+    },
+    {
+      "id": 12193,
+      "name": "reporter"
+    },
+    {
+      "id": 209792,
+      "name": "candid"
+    },
+    {
+      "id": 292593,
+      "name": "intimate"
+    },
+    {
+      "id": 309974,
+      "name": "absurd"
+    },
+    {
+      "id": 325761,
+      "name": "admiring"
+    },
+    {
+      "id": 325762,
+      "name": "adoring"
+    },
+    {
+      "id": 325765,
+      "name": "amused"
+    },
+    {
+      "id": 325830,
+      "name": "informative"
+    },
+    {
+      "id": 325853,
+      "name": "sympathetic"
+    },
+    {
+      "id": 325856,
+      "name": "vibrant"
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "overview": "Colonel Guile and various other martial arts heroes fight against the tyranny of dictator M. Bison and his cohorts.",
+  "release_date": "1994-12-23",
+  "runtime": 102,
+  "budget": 35000000,
+  "revenue": 99423521,
+  "tmdb_vote_average": 4.659,
+  "tmdb_vote_count": 1581,
+  "tmdb_popularity": 6.4626,
+  "original_language": "en",
+  "poster_path": "/6yh95dD2Y6uWAlPfWCZZygBM1ec.jpg",
+  "backdrop_path": "/vmXRiIs6alZFDtlHlUT3Tx5rHww.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 7220,
+      "name": "Capcom",
+      "origin_country": "JP"
+    },
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 6455,
+      "name": "Pressman Film",
+      "origin_country": "US"
+    },
+    {
+      "id": 64110,
+      "name": "Film Queensland",
+      "origin_country": "AU"
+    },
+    {
+      "id": 105748,
+      "name": "Salon Films",
+      "origin_country": "TH"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "AU",
+      "name": "Australia"
+    },
+    {
+      "code": "JP",
+      "name": "Japan"
+    },
+    {
+      "code": "TH",
+      "name": "Thailand"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "eo",
+      "name": "Esperanto"
+    },
+    {
+      "code": "ja",
+      "name": "日本語"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 15111,
+      "name": "Jean-Claude Van Damme",
+      "character": "Colonel Guile",
+      "order": 0,
+      "cast_id": 14,
+      "popularity": 8.058,
+      "profile_path": "/v4hqSYeG17WOMp0xNjoWgi8Vbyn.jpg"
+    },
+    {
+      "personId": 27888,
+      "name": "Raúl Juliá",
+      "character": "Bison",
+      "order": 1,
+      "cast_id": 15,
+      "popularity": 1.6314,
+      "profile_path": "/zRvv5vdqCxdio38gx0WWmof4cO5.jpg"
+    },
+    {
+      "personId": 12207,
+      "name": "Kylie Minogue",
+      "character": "Cammy",
+      "order": 2,
+      "cast_id": 18,
+      "popularity": 1.7427,
+      "profile_path": "/sVe6DQ1iFlk4nad0Bd3WVVVj23P.jpg"
+    },
+    {
+      "personId": 57748,
+      "name": "Byron Mann",
+      "character": "Ryu",
+      "order": 3,
+      "cast_id": 20,
+      "popularity": 1.5779,
+      "profile_path": "/lJXes5cQU2a3x5V4auFV4CFyrYB.jpg"
+    },
+    {
+      "personId": 58646,
+      "name": "Damian Chapa",
+      "character": "Ken",
+      "order": 4,
+      "cast_id": 17,
+      "popularity": 1.3575,
+      "profile_path": "/MAJFUqA0FP3wbRqMSw9ALEuSgP.jpg"
+    },
+    {
+      "personId": 21702,
+      "name": "Ming-Na Wen",
+      "character": "Chun-Li",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 5.0318,
+      "profile_path": "/eqCzFF83It56cUdjpskzvg8jgq.jpg"
+    },
+    {
+      "personId": 52366,
+      "name": "Andrew Bryniarski",
+      "character": "Zangief",
+      "order": 6,
+      "cast_id": 25,
+      "popularity": 2.5829,
+      "profile_path": "/7WecTlVEkck19VMXTcBfSkmshYL.jpg"
+    },
+    {
+      "personId": 14333,
+      "name": "Grand L. Bush",
+      "character": "Balrog",
+      "order": 7,
+      "cast_id": 22,
+      "popularity": 1.5667,
+      "profile_path": "/s0Ld1HdCrCTpgYuw8D5LTfNuYwC.jpg"
+    },
+    {
+      "personId": 693,
+      "name": "Roshan Seth",
+      "character": "Dhalsim",
+      "order": 8,
+      "cast_id": 21,
+      "popularity": 1.9792,
+      "profile_path": "/4TbHkaZxPegaTns250cVXr8F91F.jpg"
+    },
+    {
+      "personId": 83769,
+      "name": "Robert Mammone",
+      "character": "Carlos Blanka",
+      "order": 9,
+      "cast_id": 27,
+      "popularity": 0.8374,
+      "profile_path": "/6R2xAV1tpJow5mLUmewOdtDA2Rg.jpg"
+    },
+    {
+      "personId": 74354,
+      "name": "Miguel A. Núñez Jr.",
+      "character": "Dee Jay",
+      "order": 10,
+      "cast_id": 26,
+      "popularity": 3.0995,
+      "profile_path": "/96N3fiIDGfu4yDArkVGfT7rLRvH.jpg"
+    },
+    {
+      "personId": 165312,
+      "name": "Gregg Rainwater",
+      "character": "T. Hawk",
+      "order": 11,
+      "cast_id": 186,
+      "popularity": 0.8348,
+      "profile_path": "/in7orxCN2m7iIgeh6e4C43sLjpT.jpg"
+    },
+    {
+      "personId": 1186988,
+      "name": "Kenya Sawada",
+      "character": "Captain Sawada",
+      "order": 12,
+      "cast_id": 187,
+      "popularity": 2.3881,
+      "profile_path": "/68devixyeQ0sbhqz0FzMZ88mNHw.jpg"
+    },
+    {
+      "personId": 29861,
+      "name": "Jay Tavare",
+      "character": "Vega",
+      "order": 13,
+      "cast_id": 23,
+      "popularity": 1.3658,
+      "profile_path": "/gGAiOz3CZ2CEtBNVQdmjJuAb3uG.jpg"
+    },
+    {
+      "personId": 84757,
+      "name": "Peter Navy Tuiasosopo",
+      "character": "Honda",
+      "order": 14,
+      "cast_id": 189,
+      "popularity": 0.782,
+      "profile_path": "/Aw70Db9jBi3bNElc8qExuiH6dus.jpg"
+    },
+    {
+      "personId": 15853,
+      "name": "Wes Studi",
+      "character": "Sagat",
+      "order": 15,
+      "cast_id": 19,
+      "popularity": 2.9234,
+      "profile_path": "/dAO2bY2NCceYLZiJaBjBdY19Hox.jpg"
+    },
+    {
+      "personId": 4001,
+      "name": "Simon Callow",
+      "character": "A. N. Official",
+      "order": 16,
+      "cast_id": 24,
+      "popularity": 2.8579,
+      "profile_path": "/no6qlnMrWeUzSt1FjD2Vf9x992e.jpg"
+    },
+    {
+      "personId": 1521621,
+      "name": "Gerry Day",
+      "character": "Lab Guard",
+      "order": 17,
+      "cast_id": 202,
+      "popularity": 0.7362,
+      "profile_path": null
+    },
+    {
+      "personId": 936089,
+      "name": "Sander Vanocur",
+      "character": "GNT News Anchor",
+      "order": 18,
+      "cast_id": 199,
+      "popularity": 1.0087,
+      "profile_path": "/eBr7ma4f9cikLZGnQnRg0VJHPNc.jpg"
+    },
+    {
+      "personId": 1605489,
+      "name": "Adrian Cronauer",
+      "character": "A. N. Forces D. J.",
+      "order": 19,
+      "cast_id": 201,
+      "popularity": 0.0848,
+      "profile_path": "/woQMkDzr5oLbRGFJC6nOt6kVx3E.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1726,
+      "name": "Steven E. de Souza",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.3932,
+      "profile_path": "/7sUWRiurj2LfdGk6zdYP7fDbQPO.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 779,
+      "name": "martial arts"
+    },
+    {
+      "id": 1562,
+      "name": "hostage"
+    },
+    {
+      "id": 5362,
+      "name": "liberation of hostage"
+    },
+    {
+      "id": 407,
+      "name": "dictator"
+    },
+    {
+      "id": 7188,
+      "name": "hostage-taking"
+    },
+    {
+      "id": 10076,
+      "name": "street fighter"
+    },
+    {
+      "id": 15053,
+      "name": "united nations"
+    },
+    {
+      "id": 41645,
+      "name": "based on video game"
+    },
+    {
+      "id": 325845,
+      "name": "sarcastic"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "overview": "In a remote Amazon jungle village, a group of angry diamond prospectors revolt when the local government undertakes a violent crackdown.",
+  "release_date": "1956-09-21",
+  "runtime": 105,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.3,
+  "tmdb_vote_count": 75,
+  "tmdb_popularity": 0.5673,
+  "original_language": "fr",
+  "poster_path": "/3HSPxDE0rvvvklNxYqba8glk3S5.jpg",
+  "backdrop_path": "/26YhgzoUHKGPyuCDa7rKneDhxNp.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Adventure"
+  ],
+  "production_companies": [
+    {
+      "id": 41954,
+      "name": "Producciones Tepeyac",
+      "origin_country": "MX"
+    },
+    {
+      "id": 56112,
+      "name": "Dismage",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 12266,
+      "name": "Simone Signoret",
+      "character": "Djin",
+      "order": 0,
+      "cast_id": 8,
+      "popularity": 1.2032,
+      "profile_path": "/vRI2Vt3HX911uDrVK170waQsL8b.jpg"
+    },
+    {
+      "personId": 2566,
+      "name": "Charles Vanel",
+      "character": "Castin",
+      "order": 1,
+      "cast_id": 9,
+      "popularity": 0.4648,
+      "profile_path": "/dznVyOfBuL2cTDucr0xOpzp6iGT.jpg"
+    },
+    {
+      "personId": 9767,
+      "name": "Georges Marchal",
+      "character": "Chark",
+      "order": 2,
+      "cast_id": 10,
+      "popularity": 0.6012,
+      "profile_path": "/n9Ct7fmIFAHRtXaRlrMaECMDF2k.jpg"
+    },
+    {
+      "personId": 3784,
+      "name": "Michel Piccoli",
+      "character": "Father Lizzardi",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 1.4025,
+      "profile_path": "/6yZaIIeMfYgQtcdNo4dubL2N5YT.jpg"
+    },
+    {
+      "personId": 100570,
+      "name": "Tito Junco",
+      "character": "Chenko",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 0.8,
+      "profile_path": "/oWTTywsKHenjp4rigfYBfL7b440.jpg"
+    },
+    {
+      "personId": 26166,
+      "name": "Michèle Girardon",
+      "character": "María Castin",
+      "order": 5,
+      "cast_id": 17,
+      "popularity": 0.9023,
+      "profile_path": "/nZxOMzM2PAygAeaC9Du6Qus8qXX.jpg"
+    },
+    {
+      "personId": 177449,
+      "name": "Raúl Ramírez",
+      "character": "Álvaro",
+      "order": 6,
+      "cast_id": 13,
+      "popularity": 0.4442,
+      "profile_path": "/a2HDcTD8VM1ulL9OoO9RCasF0W8.jpg"
+    },
+    {
+      "personId": 31884,
+      "name": "Luis Aceves Castañeda",
+      "character": "Alberto",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 0.2333,
+      "profile_path": "/14yniRq2DtqBv0TpWforKbCt79s.jpg"
+    },
+    {
+      "personId": 14532,
+      "name": "Jorge Martínez de Hoyos",
+      "character": "Captain Ferrero",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 1.0017,
+      "profile_path": "/nPALS6J1GaeSWNx24j06jqCuFBI.jpg"
+    },
+    {
+      "personId": 997803,
+      "name": "Alberto Pedret",
+      "character": "Lieutenant",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 0.0687,
+      "profile_path": "/ie8XCWnbpoWNsf2otHyfbG60LXb.jpg"
+    },
+    {
+      "personId": 3425378,
+      "name": "Marc Lambert",
+      "character": "Diamond Prospector",
+      "order": 10,
+      "cast_id": 53,
+      "popularity": 0.5763,
+      "profile_path": null
+    },
+    {
+      "personId": 4036443,
+      "name": "Stefani",
+      "character": "Diamond Prospector",
+      "order": 11,
+      "cast_id": 54,
+      "popularity": 0.0448,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 793,
+      "name": "Luis Buñuel",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.6245,
+      "profile_path": "/a7wib1eRG6TyonDXpAbF7PZd0f8.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 3379,
+      "name": "diamond mine"
+    },
+    {
+      "id": 5968,
+      "name": "amazon rainforest"
+    },
+    {
+      "id": 211362,
+      "name": "political repression"
+    },
+    {
+      "id": 240303,
+      "name": "father daughter relationship"
+    },
+    {
+      "id": 255220,
+      "name": "popular uprising"
+    }
+  ]
+}

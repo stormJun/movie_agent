@@ -1,0 +1,266 @@
+{
+  "overview": "Sam Clayton's marriage to ex-stripper Freddie comes about when she's strong-armed into the match by Red, a club proprietor who once did her a favor. But Freddie falls in love with Jjaks, Sam's brother, and the pair tries to escape the situation together. It isn't long before both Sam and Red catch up with them, resulting in threats against the two of them -- although tension also starts to build between Sam and Red.",
+  "release_date": "1996-09-13",
+  "runtime": 99,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.425,
+  "tmdb_vote_count": 174,
+  "tmdb_popularity": 2.9483,
+  "original_language": "en",
+  "poster_path": "/fCJ5eUZw6mGS53spQxGUu7rzFm1.jpg",
+  "backdrop_path": "/pWQccERGRrNRJTEK9cOLV8M4Efx.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Thriller",
+    "Crime",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 8,
+      "name": "Fine Line Features",
+      "origin_country": "US"
+    },
+    {
+      "id": 216,
+      "name": "Jersey Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6384,
+      "name": "Keanu Reeves",
+      "character": "Jjaks Clayton",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 11.833,
+      "profile_path": "/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+    },
+    {
+      "personId": 6941,
+      "name": "Cameron Diaz",
+      "character": "Freddie Clayton",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 8.1279,
+      "profile_path": "/d4f4cQ9EiYuvNMjT1IB2h06KoRx.jpg"
+    },
+    {
+      "personId": 7132,
+      "name": "Vincent D'Onofrio",
+      "character": "Sam Clayton",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.2082,
+      "profile_path": "/qkyiLolEqYMGH25xD4sFIXAjZQB.jpg"
+    },
+    {
+      "personId": 18792,
+      "name": "Delroy Lindo",
+      "character": "Red",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.5591,
+      "profile_path": "/kLwUBBmEIdchrLqwsYzgLB2B6q5.jpg"
+    },
+    {
+      "personId": 707,
+      "name": "Dan Aykroyd",
+      "character": "Det. Ben Costikyan",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 3.2536,
+      "profile_path": "/iVMmeVJx8IpCEjlGBZWzIWvX5Qo.jpg"
+    },
+    {
+      "personId": 7621,
+      "name": "Courtney Love",
+      "character": "Rhonda the Waitress",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 1.6063,
+      "profile_path": "/xOhKd9y4IdsUVecAVz0AR5Ye7yQ.jpg"
+    },
+    {
+      "personId": 1301279,
+      "name": "Drew Desmarais",
+      "character": "Young Jjaks Clayton",
+      "order": 6,
+      "cast_id": 21,
+      "popularity": 0.0655,
+      "profile_path": null
+    },
+    {
+      "personId": 4514,
+      "name": "Tuesday Weld",
+      "character": "Nora Clayton",
+      "order": 7,
+      "cast_id": 7,
+      "popularity": 2.5923,
+      "profile_path": "/9d58qElviT6Q9soeixJmxWtaMBc.jpg"
+    },
+    {
+      "personId": 1227075,
+      "name": "Aaron Michael Metchik",
+      "character": "Young Sam Clayton",
+      "order": 8,
+      "cast_id": 37,
+      "popularity": 0.2078,
+      "profile_path": "/cE3zEW2klqG4DXshcdzxBpeCSCV.jpg"
+    },
+    {
+      "personId": 1301280,
+      "name": "Russell Konstans",
+      "character": "Joseph",
+      "order": 9,
+      "cast_id": 22,
+      "popularity": 0.0214,
+      "profile_path": null
+    },
+    {
+      "personId": 1125667,
+      "name": "David Alan Smith",
+      "character": "Detective Lloyd",
+      "order": 10,
+      "cast_id": 26,
+      "popularity": 0.6028,
+      "profile_path": null
+    },
+    {
+      "personId": 975188,
+      "name": "Bill Schoppert",
+      "character": "Minister",
+      "order": 11,
+      "cast_id": 27,
+      "popularity": 0.374,
+      "profile_path": "/4fLdqoIeyLoOEidCP2n1Tcwq4sP.jpg"
+    },
+    {
+      "personId": 3032957,
+      "name": "Steve Ghizoni",
+      "character": "Wedding Band Singer",
+      "order": 12,
+      "cast_id": 28,
+      "popularity": 0.1136,
+      "profile_path": null
+    },
+    {
+      "personId": 5613,
+      "name": "Jack Walsh",
+      "character": "Bob, at Gas Station",
+      "order": 13,
+      "cast_id": 23,
+      "popularity": 1.0606,
+      "profile_path": "/hrklvoHt8KuRRUzMxS9YjMSNTEW.jpg"
+    },
+    {
+      "personId": 3032960,
+      "name": "Buffy Sedlachek",
+      "character": "Gas Station Attendant",
+      "order": 14,
+      "cast_id": 29,
+      "popularity": 0.1592,
+      "profile_path": null
+    },
+    {
+      "personId": 18313,
+      "name": "Michael Rispoli",
+      "character": "Manager of Motel",
+      "order": 15,
+      "cast_id": 24,
+      "popularity": 1.7315,
+      "profile_path": "/4rtCKJTtPq9cSHFQqZSbyCLLWCO.jpg"
+    },
+    {
+      "personId": 14722,
+      "name": "Arabella Field",
+      "character": "Manager's Wife",
+      "order": 16,
+      "cast_id": 30,
+      "popularity": 1.4232,
+      "profile_path": "/mKWXvd31RH0MNZqIiXBBHPyrtkF.jpg"
+    },
+    {
+      "personId": 975947,
+      "name": "Peter Syvertsen",
+      "character": "Cop",
+      "order": 17,
+      "cast_id": 31,
+      "popularity": 0.382,
+      "profile_path": "/xA38aVGSSpoBm2HQTKB7JqMBxBt.jpg"
+    },
+    {
+      "personId": 3911,
+      "name": "John Carroll Lynch",
+      "character": "Cop",
+      "order": 18,
+      "cast_id": 32,
+      "popularity": 2.5286,
+      "profile_path": "/i6xsWIgo3kW5Dc4A6VhQ17G9nuy.jpg"
+    },
+    {
+      "personId": 1574263,
+      "name": "Oliver Osterberg",
+      "character": "Man on Phone",
+      "order": 19,
+      "cast_id": 33,
+      "popularity": 0.1993,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 73838,
+      "name": "Steven Baigelman",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.7122,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 417,
+      "name": "corruption"
+    },
+    {
+      "id": 380,
+      "name": "sibling relationship"
+    },
+    {
+      "id": 6149,
+      "name": "police"
+    },
+    {
+      "id": 6593,
+      "name": "stripper"
+    },
+    {
+      "id": 9673,
+      "name": "love"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 13027,
+      "name": "wedding"
+    }
+  ]
+}

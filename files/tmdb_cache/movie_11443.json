@@ -1,0 +1,307 @@
+{
+  "overview": "On the streets they call cash dead presidents. And that's just what a Vietnam veteran is after when he returns home from the war only to find himself drawn into a life of crime. With the aid of his fellow vets he plans the ultimate heist -- a daring robbery of an armored car filled with unmarked U.S. currency!",
+  "release_date": "1995-09-29",
+  "runtime": 119,
+  "budget": 10000000,
+  "revenue": 24100000,
+  "tmdb_vote_average": 6.7,
+  "tmdb_vote_count": 311,
+  "tmdb_popularity": 1.7251,
+  "original_language": "en",
+  "poster_path": "/wRLepMZoUCwjLFb1WSbuUT6uVWR.jpg",
+  "backdrop_path": "/c8H6Xi9im1tT6HP9PA9HpFE3sOy.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller",
+    "War"
+  ],
+  "production_companies": [
+    {
+      "id": 175,
+      "name": "Caravan Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 476,
+      "name": "Underworld Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 915,
+      "name": "Hollywood Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 18291,
+      "name": "Larenz Tate",
+      "character": "Anthony Curtis",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.3263,
+      "profile_path": "/6BWajF1sbuwsvXHmdQDxP5MfZ5R.jpg"
+    },
+    {
+      "personId": 65827,
+      "name": "Keith David",
+      "character": "Kirby",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 5.1624,
+      "profile_path": "/hwykAZLSIP5Cb2bbauZ4CEEmq0u.jpg"
+    },
+    {
+      "personId": 66,
+      "name": "Chris Tucker",
+      "character": "Skip",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 5.9039,
+      "profile_path": "/k0oLIL0xTgDR6Qn3yCsNuLCJhFT.jpg"
+    },
+    {
+      "personId": 6862,
+      "name": "Freddy Rodríguez",
+      "character": "Jose",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.0478,
+      "profile_path": "/syCMZjteDnmWQa26NqOaVaRdYmj.jpg"
+    },
+    {
+      "personId": 69447,
+      "name": "Rose Jackson",
+      "character": "Juanita Benson",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.4951,
+      "profile_path": "/us3qc4mXEScTBpnneTtMhSykedo.jpg"
+    },
+    {
+      "personId": 10824,
+      "name": "N'Bushe Wright",
+      "character": "Deliah Benson",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 0.7736,
+      "profile_path": "/jSXuSko6tZQ69LfJEMmNLiXEOS8.jpg"
+    },
+    {
+      "personId": 58924,
+      "name": "Clifton Powell",
+      "character": "Cutty",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 1.8253,
+      "profile_path": "/9wGVqDcrjpZnwjlnwB45LMbsJSj.jpg"
+    },
+    {
+      "personId": 18288,
+      "name": "Terrence Howard",
+      "character": "Cowboy",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 3.3643,
+      "profile_path": "/eZ6uRZOYWZAyjNmWpDKGdLL6WUC.jpg"
+    },
+    {
+      "personId": 71913,
+      "name": "Bokeem Woodbine",
+      "character": "Cleon",
+      "order": 8,
+      "cast_id": 19,
+      "popularity": 3.4251,
+      "profile_path": "/pnPyA5pJn94zUzuLWTNkGBNZxza.jpg"
+    },
+    {
+      "personId": 5365,
+      "name": "Clifton Collins Jr.",
+      "character": "Betancourt",
+      "order": 9,
+      "cast_id": 21,
+      "popularity": 2.0149,
+      "profile_path": "/iUQGHVSAA48q1QMnj7hnBFVq3jK.jpg"
+    },
+    {
+      "personId": 65421,
+      "name": "Elizabeth Rodriguez",
+      "character": "Marisol",
+      "order": 10,
+      "cast_id": 22,
+      "popularity": 2.5052,
+      "profile_path": "/9f851DP7NHAOKvvlZdXxYigDYbl.jpg"
+    },
+    {
+      "personId": 11486,
+      "name": "Michael Imperioli",
+      "character": "D'ambrosio",
+      "order": 11,
+      "cast_id": 23,
+      "popularity": 3.4147,
+      "profile_path": "/jfoEHR6BRMg8emtujXdM3G4JHIm.jpg"
+    },
+    {
+      "personId": 75605,
+      "name": "Cheryl Freeman",
+      "character": "Mrs. Barton",
+      "order": 12,
+      "cast_id": 24,
+      "popularity": 0.3812,
+      "profile_path": "/tMg6Ln3Qx6EDYhqIx8Ha7qGHGH5.jpg"
+    },
+    {
+      "personId": 25544,
+      "name": "James Pickens Jr.",
+      "character": "Mr. Curtis",
+      "order": 13,
+      "cast_id": 45,
+      "popularity": 2.0535,
+      "profile_path": "/iddDcaysDQ6IVMUjJ97Bv3lTBCu.jpg"
+    },
+    {
+      "personId": 15899,
+      "name": "Jenifer Lewis",
+      "character": "Mrs. Curtis",
+      "order": 14,
+      "cast_id": 46,
+      "popularity": 3.5459,
+      "profile_path": "/bdeUHXY4cXvhOW2nCblNachBYsM.jpg"
+    },
+    {
+      "personId": 1385380,
+      "name": "Larry McCoy",
+      "character": "Nicky",
+      "order": 15,
+      "cast_id": 48,
+      "popularity": 0.6449,
+      "profile_path": "/k9i6xjpFHrB3hyplvZpmdpWpKie.jpg"
+    },
+    {
+      "personId": 589813,
+      "name": "Rodney Winfield",
+      "character": "Mr. Warren",
+      "order": 16,
+      "cast_id": 49,
+      "popularity": 0.0912,
+      "profile_path": null
+    },
+    {
+      "personId": 86462,
+      "name": "Sticky Fingaz",
+      "character": "Martin",
+      "order": 17,
+      "cast_id": 50,
+      "popularity": 1.3246,
+      "profile_path": "/21IRexFdibIGWyKpb4T2nyi8Q78.jpg"
+    },
+    {
+      "personId": 94974,
+      "name": "David Barry Gray",
+      "character": "Devaughn",
+      "order": 18,
+      "cast_id": 51,
+      "popularity": 1.132,
+      "profile_path": "/3gcvlxQzbp4KUWmFcAjfF2LRAHG.jpg"
+    },
+    {
+      "personId": 3710,
+      "name": "Jaimz Woolvett",
+      "character": "Lt Dugan",
+      "order": 19,
+      "cast_id": 52,
+      "popularity": 1.6073,
+      "profile_path": "/lpK7rD9lM1iIUt5BCV1b6vLo37l.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 11447,
+      "name": "Albert Hughes",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.0478,
+      "profile_path": "/9wfPXTkur93ZUyUH35lBQRNSY3y.jpg"
+    },
+    {
+      "personId": 11448,
+      "name": "Allen Hughes",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7965,
+      "profile_path": "/cenYyg8GR89817xnAHU6hNiFZ2x.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2956,
+      "name": "vietnam"
+    },
+    {
+      "id": 726,
+      "name": "drug abuse"
+    },
+    {
+      "id": 447,
+      "name": "post-traumatic stress disorder (ptsd)"
+    },
+    {
+      "id": 1543,
+      "name": "war veteran"
+    },
+    {
+      "id": 11436,
+      "name": "redemption"
+    },
+    {
+      "id": 11254,
+      "name": "loss of virginity"
+    },
+    {
+      "id": 10051,
+      "name": "heist"
+    },
+    {
+      "id": 10594,
+      "name": "money"
+    },
+    {
+      "id": 18231,
+      "name": "revolutinoary"
+    },
+    {
+      "id": 159643,
+      "name": "mercy killing"
+    },
+    {
+      "id": 159660,
+      "name": "armored truck"
+    },
+    {
+      "id": 161307,
+      "name": "bronx, new york city"
+    },
+    {
+      "id": 180507,
+      "name": "medic"
+    },
+    {
+      "id": 208992,
+      "name": "1960s"
+    }
+  ]
+}

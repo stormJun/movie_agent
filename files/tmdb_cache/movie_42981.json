@@ -1,0 +1,124 @@
+{
+  "overview": "Before computer graphics, special effects wizardry, and out-of-this world technology, the magic of animation flowed from the pencils of two of the greatest animators The Walt Disney Company ever produced -- Frank Thomas and Ollie Johnston. Frank and Ollie, the talent behind BAMBI, PINOCCHIO, LADY AND THE TRAMP, THE JUNGLE BOOK, and others, set the standard for such modern-day hits as THE LION KING. It was their creative genius that helped make Disney synonymous with brilliant animation, magnificent music, and emotional storytelling. Take a journey with these extraordinary artists as they share secrets, insights, and the inspiration behind some of the greatest animated movies the world has ever known!",
+  "release_date": "1995-10-20",
+  "runtime": 89,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 7.4,
+  "tmdb_vote_count": 39,
+  "tmdb_popularity": 0.6012,
+  "original_language": "en",
+  "poster_path": "/eUIELE2IkuWkAc3JzjYz6J2Lpx5.jpg",
+  "backdrop_path": "/pmvWLzvPYEvzD08tKRBn4g4SWLq.jpg",
+  "tmdb_genres_raw": [
+    "Documentary"
+  ],
+  "production_companies": [
+    {
+      "id": 90509,
+      "name": "Theodore Thomas Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 2,
+      "name": "Walt Disney Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 63646,
+      "name": "Frank Thomas",
+      "character": "Himself",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 0.4897,
+      "profile_path": "/ex3jyUogtwMt2zQgzmh3cwEz8ds.jpg"
+    },
+    {
+      "personId": 143786,
+      "name": "Ollie Johnston",
+      "character": "Himself",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 0.9121,
+      "profile_path": "/7LShcoYbJg7vfXV2lSjzTlGAGb.jpg"
+    },
+    {
+      "personId": 139474,
+      "name": "Glen Keane",
+      "character": "Himself",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 0.503,
+      "profile_path": "/6HmbOnIi539u8xRpXQGDVrIGZW7.jpg"
+    },
+    {
+      "personId": 1653447,
+      "name": "Andrew Gaskill",
+      "character": "Himself",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 0.9842,
+      "profile_path": null
+    },
+    {
+      "personId": 1122063,
+      "name": "John Canemaker",
+      "character": "Himself",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 0.7126,
+      "profile_path": "/lDISpeXQ1ZA0odIYzVAtLcPebYG.jpg"
+    },
+    {
+      "personId": 2122757,
+      "name": "John Culhane",
+      "character": "Himself",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 0.6213,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 129216,
+      "name": "Theodore Thomas",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.384,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2679,
+      "name": "artist"
+    },
+    {
+      "id": 2131,
+      "name": "visual arts"
+    },
+    {
+      "id": 5565,
+      "name": "biography"
+    },
+    {
+      "id": 222228,
+      "name": "cinema history"
+    }
+  ]
+}

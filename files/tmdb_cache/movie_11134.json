@@ -1,0 +1,292 @@
+{
+  "overview": "A Hong Kong detective teams up with his female Red Chinese counterpart to stop a Chinese drug czar.",
+  "release_date": "1992-07-04",
+  "runtime": 95,
+  "budget": 900000,
+  "revenue": 34391494,
+  "tmdb_vote_average": 6.892,
+  "tmdb_vote_count": 548,
+  "tmdb_popularity": 3.5047,
+  "original_language": "cn",
+  "poster_path": "/wHeJWZDXegVEiBGBfnc7LGffuF6.jpg",
+  "backdrop_path": "/8h7fl2pJ8NT83I7RXn3tqaiOkch.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 2521,
+      "name": "Orange Sky Golden Harvest",
+      "origin_country": "HK"
+    },
+    {
+      "id": 3054,
+      "name": "Golden Way Films Ltd.",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "cn",
+      "name": "广州话 / 廣州話"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ms",
+      "name": "Bahasa melayu"
+    },
+    {
+      "code": "th",
+      "name": "ภาษาไทย"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 18897,
+      "name": "Jackie Chan",
+      "character": "Kevin Chan Ka-Kui / Lin Fu-Sheng",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 17.7516,
+      "profile_path": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+    },
+    {
+      "personId": 1620,
+      "name": "Michelle Yeoh",
+      "character": "Captain Jessica Yang",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 4.8839,
+      "profile_path": "/nrbHNzSMydpWK9um5VqWIFJihB5.jpg"
+    },
+    {
+      "personId": 1338,
+      "name": "Maggie Cheung",
+      "character": "May",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.5995,
+      "profile_path": "/thHNJCHSmNwhRI5EQXWwg7RzPd7.jpg"
+    },
+    {
+      "personId": 10885,
+      "name": "Kenneth Tsang",
+      "character": "Khun Chaibat",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.0692,
+      "profile_path": "/nqlO9OTaqPA38fEmWont8n6spms.jpg"
+    },
+    {
+      "personId": 57609,
+      "name": "Yuen Wah",
+      "character": "Panther",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 2.1999,
+      "profile_path": "/50iChkgIJI7ZmPUjCpYKfEsXBnf.jpg"
+    },
+    {
+      "personId": 44922,
+      "name": "Bill Tung Biu",
+      "character": "Inspector \"Uncle\" Bill Chou",
+      "order": 5,
+      "cast_id": 25,
+      "popularity": 1.7214,
+      "profile_path": "/nB6ywhsUy3TlZpsulqtgR45IFUK.jpg"
+    },
+    {
+      "personId": 1069676,
+      "name": "Josephine Koo Mei-Wah",
+      "character": "Ching Wing-Xi",
+      "order": 6,
+      "cast_id": 26,
+      "popularity": 1.5897,
+      "profile_path": "/cyk61PlflnKAEMJiYaBtXzvXLs2.jpg"
+    },
+    {
+      "personId": 224918,
+      "name": "Kelvin Wong Siu",
+      "character": "Pierre",
+      "order": 7,
+      "cast_id": 28,
+      "popularity": 1.9681,
+      "profile_path": "/bttriWc1th6wE3IWIbRNxQoOXCQ.jpg"
+    },
+    {
+      "personId": 1346930,
+      "name": "William Duen Wai-Lun",
+      "character": "General's Bodyguard",
+      "order": 8,
+      "cast_id": 29,
+      "popularity": 1.7308,
+      "profile_path": "/hUgHLGnmzf5A5qVJJKY181154av.jpg"
+    },
+    {
+      "personId": 70591,
+      "name": "Philip Chan Yan-Kin",
+      "character": "Chief Superintendent of Police Y. K. Chan",
+      "order": 9,
+      "cast_id": 33,
+      "popularity": 1.7472,
+      "profile_path": "/2eEbrWbpdm8EHvhQsjmpIu3wjlt.jpg"
+    },
+    {
+      "personId": 70673,
+      "name": "Lo Lieh",
+      "character": "General in Thailand",
+      "order": 10,
+      "cast_id": 13,
+      "popularity": 2.3398,
+      "profile_path": "/cUZZlI9m1JnxmCvOWDtDu5hqO3p.jpg"
+    },
+    {
+      "personId": 119454,
+      "name": "Mars",
+      "character": "Hsiung",
+      "order": 11,
+      "cast_id": 17,
+      "popularity": 1.9498,
+      "profile_path": "/ubTgVTM9v25HcNbXk6y2Lf8OFc9.jpg"
+    },
+    {
+      "personId": 548370,
+      "name": "Shum Wai",
+      "character": "Drug Lord #1 at Meeting",
+      "order": 12,
+      "cast_id": 38,
+      "popularity": 1.5903,
+      "profile_path": "/ycggDHsRARScXQR0PwBUJyEoayr.jpg"
+    },
+    {
+      "personId": 1356189,
+      "name": "Hon Yee-Sang",
+      "character": "Drug Lord #2 at Meeting",
+      "order": 13,
+      "cast_id": 106,
+      "popularity": 0.6177,
+      "profile_path": "/bzYD6qbgCUEFivehO9VCHdOA5kP.jpg"
+    },
+    {
+      "personId": 1135709,
+      "name": "Sam Wong Ming-Sing",
+      "character": "PRC Chief Coach Wang (uncredited)",
+      "order": 14,
+      "cast_id": 44,
+      "popularity": 1.8046,
+      "profile_path": "/r8lU3VAJEP3s3ciJe9SX97dJmaR.jpg"
+    },
+    {
+      "personId": 1196099,
+      "name": "Lam Chi-Tai",
+      "character": "Tai (uncredited)",
+      "order": 15,
+      "cast_id": 31,
+      "popularity": 1.4713,
+      "profile_path": "/tfCv8S57AI74KWaec8v9XOOSIHp.jpg"
+    },
+    {
+      "personId": 581135,
+      "name": "Cheng Ka-Sang",
+      "character": "Drug Lord #1's Bodyguard (uncredited)",
+      "order": 16,
+      "cast_id": 107,
+      "popularity": 1.4931,
+      "profile_path": "/6e627B3stpREmznGvjji9Wj4tg5.jpg"
+    },
+    {
+      "personId": 1634898,
+      "name": "Wong Chi-Keung",
+      "character": "Drug Lord #2 Bodyguard (uncredited)",
+      "order": 17,
+      "cast_id": 108,
+      "popularity": 0.7418,
+      "profile_path": null
+    },
+    {
+      "personId": 1398251,
+      "name": "Jackson Ng Yuk-Sue",
+      "character": "Drug Lord #2 Bodyguard (uncredited)",
+      "order": 18,
+      "cast_id": 109,
+      "popularity": 0.6503,
+      "profile_path": "/5d9LcCUgLRRkdhFgthE0ktslRm9.jpg"
+    },
+    {
+      "personId": 954000,
+      "name": "Kim Maree Penn",
+      "character": "Drug Lord #3 Bodyguard (uncredited)",
+      "order": 19,
+      "cast_id": 110,
+      "popularity": 2.0888,
+      "profile_path": "/qXg3LtsRF4GnMYv0bAJhnoGH036.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 44916,
+      "name": "Stanley Tong Gwai-Lai",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.8689,
+      "profile_path": "/cunufPnRrZuYwvz8M11c3cr6GVf.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 779,
+      "name": "martial arts"
+    },
+    {
+      "id": 478,
+      "name": "china"
+    },
+    {
+      "id": 6149,
+      "name": "police"
+    },
+    {
+      "id": 3434,
+      "name": "thailand"
+    },
+    {
+      "id": 9777,
+      "name": "prison escape"
+    },
+    {
+      "id": 6847,
+      "name": "malaysia"
+    },
+    {
+      "id": 12354,
+      "name": "hong kong"
+    },
+    {
+      "id": 18432,
+      "name": "female martial artist"
+    },
+    {
+      "id": 156117,
+      "name": "illegal drugs"
+    },
+    {
+      "id": 206188,
+      "name": "stunt master"
+    },
+    {
+      "id": 227432,
+      "name": "kuala lumpur malaysia"
+    }
+  ]
+}

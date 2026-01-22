@@ -1,0 +1,303 @@
+{
+  "overview": "A US Army officer, who made a \"friendly fire\" mistake that was covered up, has been reassigned to a desk job. He is tasked to investigate a female chopper commander's worthiness to be awarded the Medal of Honor. At first all seems in order. But then he begins to notice inconsistencies between the testimonies of the witnesses...",
+  "release_date": "1996-07-04",
+  "runtime": 116,
+  "budget": 46000000,
+  "revenue": 100900000,
+  "tmdb_vote_average": 6.526,
+  "tmdb_vote_count": 1005,
+  "tmdb_popularity": 2.248,
+  "original_language": "en",
+  "poster_path": "/vDJurMJkrx049AiXa3DJx5Zx7a4.jpg",
+  "backdrop_path": "/sWaKmnieGBGSrstaPLopH4m1A3K.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Thriller",
+    "Mystery",
+    "War"
+  ],
+  "production_companies": [
+    {
+      "id": 1302,
+      "name": "Davis Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 711,
+      "name": "Fox 2000 Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1301,
+      "name": "Joseph M. Singer Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 25,
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5292,
+      "name": "Denzel Washington",
+      "character": "Lieutenant Colonel Nathaniel Serling",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 7.8701,
+      "profile_path": "/jj2Gcobpopokal0YstuCQW0ldJ4.jpg"
+    },
+    {
+      "personId": 5344,
+      "name": "Meg Ryan",
+      "character": "Captain Karen Emma Walden",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 4.1222,
+      "profile_path": "/iP1I2fpIIQtB3A8KJiWMbZcwFLr.jpg"
+    },
+    {
+      "personId": 38560,
+      "name": "Lou Diamond Phillips",
+      "character": "Staff Sergeant John Monfriez",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.856,
+      "profile_path": "/yqGZwaGe8XgoxfO7zmx7weGBaXZ.jpg"
+    },
+    {
+      "personId": 21030,
+      "name": "Michael Moriarty",
+      "character": "Brigadier General Hershberg",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.1316,
+      "profile_path": "/2EY162LDxpVVG6g10lm70uxkNJp.jpg"
+    },
+    {
+      "personId": 1892,
+      "name": "Matt Damon",
+      "character": "Ilario",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 11.843,
+      "profile_path": "/At3JgvaNeEN4Z4ESKlhhes85Xo3.jpg"
+    },
+    {
+      "personId": 4689,
+      "name": "Bronson Pinchot",
+      "character": "Bruno",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 1.6057,
+      "profile_path": "/oBQE58X65ANq4jY1d8iMDohl72w.jpg"
+    },
+    {
+      "personId": 41688,
+      "name": "Seth Gilliam",
+      "character": "Stephen Altameyer",
+      "order": 6,
+      "cast_id": 16,
+      "popularity": 2.461,
+      "profile_path": "/9CiWZNBysr4IiyERAYQFONqyTAQ.jpg"
+    },
+    {
+      "personId": 21848,
+      "name": "Regina Taylor",
+      "character": "Meredith Serling",
+      "order": 7,
+      "cast_id": 17,
+      "popularity": 0.8981,
+      "profile_path": "/s6a1zzRTFlu5ZQvczKbCqtD9FqM.jpg"
+    },
+    {
+      "personId": 6752,
+      "name": "Zeljko Ivanek",
+      "character": "Banacek",
+      "order": 8,
+      "cast_id": 18,
+      "popularity": 3.1778,
+      "profile_path": "/xLv19n8UvGJLxI7Z6RIv9eNXGmf.jpg"
+    },
+    {
+      "personId": 349,
+      "name": "Scott Glenn",
+      "character": "Gartner",
+      "order": 9,
+      "cast_id": 19,
+      "popularity": 3.7057,
+      "profile_path": "/keBKcMPojtRTi5ImLXOoKDmDbqU.jpg"
+    },
+    {
+      "personId": 40275,
+      "name": "Tim Guinee",
+      "character": "Rady",
+      "order": 10,
+      "cast_id": 20,
+      "popularity": 3.5446,
+      "profile_path": "/bl2kh12pzVORh6oavx0zYeuefl1.jpg"
+    },
+    {
+      "personId": 1174218,
+      "name": "Tim Ransom",
+      "character": "Boylar",
+      "order": 11,
+      "cast_id": 21,
+      "popularity": 1.0784,
+      "profile_path": "/ljKy6MwZOnhGxQegvlzzYQVLE0m.jpg"
+    },
+    {
+      "personId": 1328,
+      "name": "Sean Astin",
+      "character": "Patella",
+      "order": 12,
+      "cast_id": 22,
+      "popularity": 11.9838,
+      "profile_path": "/As3ctGUtBYmG4zj4Ifyrcqd71HP.jpg"
+    },
+    {
+      "personId": 2116579,
+      "name": "Armand Darrius",
+      "character": "Robins",
+      "order": 13,
+      "cast_id": 32,
+      "popularity": 0.2178,
+      "profile_path": null
+    },
+    {
+      "personId": 4511,
+      "name": "Mark Adair-Rios",
+      "character": "Bobcat 5",
+      "order": 14,
+      "cast_id": 33,
+      "popularity": 1.2849,
+      "profile_path": "/5RC49TiV8KhHeRUWIBGgR8t933O.jpg"
+    },
+    {
+      "personId": 51582,
+      "name": "Ned Vaughn",
+      "character": "Chelli",
+      "order": 15,
+      "cast_id": 23,
+      "popularity": 1.4451,
+      "profile_path": "/i07fYTaIVM4GOOX3rZ6fKlSIbvy.jpg"
+    },
+    {
+      "personId": 72983,
+      "name": "Manny Perez",
+      "character": "Jenkins",
+      "order": 16,
+      "cast_id": 24,
+      "popularity": 0.8641,
+      "profile_path": "/auDXIA7COAJkgPFYlZWAvCuezRG.jpg"
+    },
+    {
+      "personId": 1567432,
+      "name": "David McSwain",
+      "character": "Egan",
+      "order": 17,
+      "cast_id": 25,
+      "popularity": 0.1923,
+      "profile_path": null
+    },
+    {
+      "personId": 11868,
+      "name": "Sean Patrick Thomas",
+      "character": "Thompson",
+      "order": 18,
+      "cast_id": 34,
+      "popularity": 1.5535,
+      "profile_path": "/59Mqg13DVutKEN4ZmkG8O814uKg.jpg"
+    },
+    {
+      "personId": 38570,
+      "name": "Ken Jenkins",
+      "character": "Joel Walden",
+      "order": 19,
+      "cast_id": 35,
+      "popularity": 1.603,
+      "profile_path": "/basRrWk50y03ydjm0DW8A6AxH1o.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 9181,
+      "name": "Edward Zwick",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.2674,
+      "profile_path": "/RzRjOpqfob68smXTj5RPjankKr.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2952,
+      "name": "gulf war"
+    },
+    {
+      "id": 1543,
+      "name": "war veteran"
+    },
+    {
+      "id": 6078,
+      "name": "politics"
+    },
+    {
+      "id": 6049,
+      "name": "praise"
+    },
+    {
+      "id": 3203,
+      "name": "pilot"
+    },
+    {
+      "id": 11107,
+      "name": "rescue mission"
+    },
+    {
+      "id": 11110,
+      "name": "dead soldier"
+    },
+    {
+      "id": 11117,
+      "name": "tank"
+    },
+    {
+      "id": 4595,
+      "name": "us army"
+    },
+    {
+      "id": 11124,
+      "name": "medal"
+    },
+    {
+      "id": 10141,
+      "name": "battlefield"
+    },
+    {
+      "id": 158778,
+      "name": "behind enemy lines"
+    },
+    {
+      "id": 162365,
+      "name": "military"
+    },
+    {
+      "id": 173458,
+      "name": "army life"
+    }
+  ]
+}

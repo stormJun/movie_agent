@@ -1,0 +1,240 @@
+{
+  "overview": "J.J. is a rookie in the Sheriff's Department and the first black officer at that station. Racial tensions run high in the department as some of J.J.'s fellow officers resent his presence. His only real friend is the other new trooper, the first female officer to work there, who also suffers similar discrimination in the otherwise all-white male work environment. When J.J. becomes increasingly aware of police corruption during the murder trial of Teddy Woods, whom he helped to arrest, he faces difficult decisions and puts himself into grave personal danger in the service of justice.",
+  "release_date": "1994-09-16",
+  "runtime": 109,
+  "budget": 5000000,
+  "revenue": 3291163,
+  "tmdb_vote_average": 5.0,
+  "tmdb_vote_count": 46,
+  "tmdb_popularity": 0.4951,
+  "original_language": "en",
+  "poster_path": "/cgvBosSBpjF8ynBi7A1KmMwYoxl.jpg",
+  "backdrop_path": "/owgUoV6Hc1tgJcUgUuabbiPI5E.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Action",
+    "Thriller",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 105,
+      "name": "CiBy 2000",
+      "origin_country": "FR"
+    },
+    {
+      "id": 232382,
+      "name": "Byrnes Schroeder Walker Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 66101,
+      "name": "Michael Boatman",
+      "character": "Dep. J.J. Johnson",
+      "order": 0,
+      "cast_id": 9,
+      "popularity": 1.0787,
+      "profile_path": "/r1zMBznI1N24SmNGdFzZCjptVwP.jpg"
+    },
+    {
+      "personId": 15309,
+      "name": "Lori Petty",
+      "character": "Dep. Deborah Fields",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 3.3745,
+      "profile_path": "/bmJFh4VxRii7h7jpo4YVC6BFeVd.jpg"
+    },
+    {
+      "personId": 9778,
+      "name": "Ice Cube",
+      "character": "Theodore 'Teddy' Woods",
+      "order": 2,
+      "cast_id": 2,
+      "popularity": 3.8421,
+      "profile_path": "/2w7Pekf8QJ0WVN76cmhcEfTuEDc.jpg"
+    },
+    {
+      "personId": 58813,
+      "name": "Erich Anderson",
+      "character": "D.A. Ira Kern",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.4311,
+      "profile_path": "/hb89TAid82AM8MJLZEQ70WWISNv.jpg"
+    },
+    {
+      "personId": 10939,
+      "name": "Bernie Casey",
+      "character": "James Locket",
+      "order": 4,
+      "cast_id": 10,
+      "popularity": 1.224,
+      "profile_path": "/xxmL2k2lxWswkFOJJEdi2Tf51YK.jpg"
+    },
+    {
+      "personId": 12312,
+      "name": "Richard Anderson",
+      "character": "Watch Cmmdr. Clarence Massey",
+      "order": 5,
+      "cast_id": 5,
+      "popularity": 1.9787,
+      "profile_path": "/eNVusMxsfee5t79jXbYBP8JnVvm.jpg"
+    },
+    {
+      "personId": 827,
+      "name": "Elliott Gould",
+      "character": "Greenspan",
+      "order": 6,
+      "cast_id": 12,
+      "popularity": 2.8704,
+      "profile_path": "/vqjRBbuqXOvalAx5JZEaWx6kQOw.jpg"
+    },
+    {
+      "personId": 172103,
+      "name": "Victoria Dillard",
+      "character": "Barbara Simms",
+      "order": 7,
+      "cast_id": 37,
+      "popularity": 2.0778,
+      "profile_path": "/mjkQ5ChfjaLi5mNGAtt2DBwLRx1.jpg"
+    },
+    {
+      "personId": 11086,
+      "name": "Michael Ironside",
+      "character": "Det. Gene Baker",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 2.5555,
+      "profile_path": "/mzHmxtKcMJjDqWxKd67mKQJFW1B.jpg"
+    },
+    {
+      "personId": 65017,
+      "name": "Natalija Nogulich",
+      "character": "Judge Helen Lewis",
+      "order": 9,
+      "cast_id": 17,
+      "popularity": 1.5935,
+      "profile_path": "/axKrCucnVBd3Jdgrmse0GNlbaeC.jpg"
+    },
+    {
+      "personId": 57991,
+      "name": "Wanda De Jesus",
+      "character": "Carmen Munoz",
+      "order": 10,
+      "cast_id": 11,
+      "popularity": 0.932,
+      "profile_path": "/cJNzcJqYE4oBuYaj2SsEtL7K1Xs.jpg"
+    },
+    {
+      "personId": 59221,
+      "name": "Michael Gregory",
+      "character": "Dep. Roy Bush",
+      "order": 11,
+      "cast_id": 13,
+      "popularity": 0.8955,
+      "profile_path": "/2Su7OGPJtErcvj1bTTBuoGWbdA1.jpg"
+    },
+    {
+      "personId": 1280,
+      "name": "Don Harvey",
+      "character": "Dep. Jack Bono",
+      "order": 12,
+      "cast_id": 14,
+      "popularity": 1.7752,
+      "profile_path": "/dc10W0hRNxrO0IcwgKOcsUajtOG.jpg"
+    },
+    {
+      "personId": 94752,
+      "name": "Ernie Lee Banks",
+      "character": "Mr. Woods",
+      "order": 13,
+      "cast_id": 8,
+      "popularity": 0.6378,
+      "profile_path": null
+    },
+    {
+      "personId": 588,
+      "name": "M. Emmet Walsh",
+      "character": "Det. Jesse Hall",
+      "order": 14,
+      "cast_id": 19,
+      "popularity": 2.9949,
+      "profile_path": "/fVWvBxvwyk4aTA9vKZOV9qHRNNk.jpg"
+    },
+    {
+      "personId": 161537,
+      "name": "Thomas Babson",
+      "character": "U.S. Marshall",
+      "order": 15,
+      "cast_id": 6,
+      "popularity": 0.2504,
+      "profile_path": null
+    },
+    {
+      "personId": 44616,
+      "name": "Monty Bane",
+      "character": "Coroner",
+      "order": 16,
+      "cast_id": 7,
+      "popularity": 1.3717,
+      "profile_path": "/xxr0Dck6DwgOH2eaynLySsSmq7p.jpg"
+    },
+    {
+      "personId": 17413,
+      "name": "Julio Oscar Mechoso",
+      "character": "Assistant D.A.",
+      "order": 17,
+      "cast_id": 16,
+      "popularity": 1.6812,
+      "profile_path": "/2m1vtlRlSxozMOoHeobCY2pbrPi.jpg"
+    },
+    {
+      "personId": 58623,
+      "name": "Sy Richardson",
+      "character": "Mr. Taylor",
+      "order": 18,
+      "cast_id": 18,
+      "popularity": 0.7887,
+      "profile_path": "/kPlnnAmAbqQB33OcEVXiScK1Brr.jpg"
+    },
+    {
+      "personId": 127610,
+      "name": "Linden Chiles",
+      "character": "Sergeant Berry Foster",
+      "order": 19,
+      "cast_id": 38,
+      "popularity": 1.7385,
+      "profile_path": "/azaesDI7sVYMVFOv4ZkwK1cXPEO.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 97755,
+      "name": "Charles Burnett",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.2294,
+      "profile_path": "/798g9dlNawhj20PbP0w5U4eqq.jpg"
+    }
+  ],
+  "keywords": []
+}

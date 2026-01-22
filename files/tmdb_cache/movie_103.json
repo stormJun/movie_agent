@@ -1,0 +1,384 @@
+{
+  "overview": "Suffering from insomnia, disturbed loner Travis Bickle takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city.",
+  "release_date": "1976-02-09",
+  "runtime": 114,
+  "budget": 1900000,
+  "revenue": 28579636,
+  "tmdb_vote_average": 8.131,
+  "tmdb_vote_count": 13079,
+  "tmdb_popularity": 14.5388,
+  "original_language": "en",
+  "poster_path": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+  "backdrop_path": "/fhejfyX20tyF0s65CIf27wOuH9G.jpg",
+  "tmdb_genres_raw": [
+    "Crime",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 46059,
+      "name": "Italo/Judeo Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 46060,
+      "name": "Bill/Phillips",
+      "origin_country": ""
+    },
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 380,
+      "name": "Robert De Niro",
+      "character": "Travis Bickle",
+      "order": 0,
+      "cast_id": 5,
+      "popularity": 9.7751,
+      "profile_path": "/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+    },
+    {
+      "personId": 1038,
+      "name": "Jodie Foster",
+      "character": "Iris",
+      "order": 1,
+      "cast_id": 8,
+      "popularity": 6.7065,
+      "profile_path": "/8DAd9knKivHR4CCStxlNEQXzjIh.jpg"
+    },
+    {
+      "personId": 1036,
+      "name": "Cybill Shepherd",
+      "character": "Betsy",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 2.4705,
+      "profile_path": "/ci20y6ilSmiw759cUwQVheOqNaD.jpg"
+    },
+    {
+      "personId": 1037,
+      "name": "Harvey Keitel",
+      "character": "Sport",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 4.7105,
+      "profile_path": "/7P30hza1neYWW3r7rSQOC736K2Z.jpg"
+    },
+    {
+      "personId": 1039,
+      "name": "Peter Boyle",
+      "character": "Wizard",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 2.8603,
+      "profile_path": "/6TapQmC46mPDYrwm67tyJaEM97I.jpg"
+    },
+    {
+      "personId": 1040,
+      "name": "Leonard Harris",
+      "character": "Charles Palantine",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 2.0544,
+      "profile_path": "/aldnhNNMP8hZrq9cAcBE6pCVCCm.jpg"
+    },
+    {
+      "personId": 13,
+      "name": "Albert Brooks",
+      "character": "Tom",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 2.5434,
+      "profile_path": "/8iDSGu5l93N7benjf6b3AysBore.jpg"
+    },
+    {
+      "personId": 1041,
+      "name": "Diahnne Abbott",
+      "character": "Concession Girl",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 1.9867,
+      "profile_path": "/2huiGuIcrGn2bYiIDqVnuX2ZWzf.jpg"
+    },
+    {
+      "personId": 1042,
+      "name": "Frank Adu",
+      "character": "Angry Black Man",
+      "order": 8,
+      "cast_id": 97,
+      "popularity": 0.7274,
+      "profile_path": null
+    },
+    {
+      "personId": 2561,
+      "name": "Victor Argo",
+      "character": "Melio",
+      "order": 9,
+      "cast_id": 98,
+      "popularity": 1.0806,
+      "profile_path": "/of6bhqwk4HA5Bu8d16OtuD0HYom.jpg"
+    },
+    {
+      "personId": 1043,
+      "name": "Gino Ardito",
+      "character": "Policeman at Rally",
+      "order": 10,
+      "cast_id": 99,
+      "popularity": 0.7161,
+      "profile_path": null
+    },
+    {
+      "personId": 2340530,
+      "name": "Garth Avery",
+      "character": "Iris' Friend",
+      "order": 11,
+      "cast_id": 100,
+      "popularity": 0.1397,
+      "profile_path": null
+    },
+    {
+      "personId": 2147740,
+      "name": "Harry Cohn",
+      "character": "Cabbie in Bellmore",
+      "order": 12,
+      "cast_id": 101,
+      "popularity": 0.5615,
+      "profile_path": null
+    },
+    {
+      "personId": 1946280,
+      "name": "Cooper Cunningham",
+      "character": "Hooker in Cab",
+      "order": 13,
+      "cast_id": 102,
+      "popularity": 1.1767,
+      "profile_path": null
+    },
+    {
+      "personId": 101977,
+      "name": "Brenda Dickson",
+      "character": "Soap Opera Woman",
+      "order": 14,
+      "cast_id": 103,
+      "popularity": 0.6753,
+      "profile_path": null
+    },
+    {
+      "personId": 3727638,
+      "name": "Harry Fischler",
+      "character": "Dispatcher",
+      "order": 15,
+      "cast_id": 104,
+      "popularity": 0.0978,
+      "profile_path": null
+    },
+    {
+      "personId": 2848152,
+      "name": "Nat Grant",
+      "character": "Stick-Up Man",
+      "order": 16,
+      "cast_id": 105,
+      "popularity": 0.1797,
+      "profile_path": null
+    },
+    {
+      "personId": 1274408,
+      "name": "Richard Higgs",
+      "character": "Tall Secret Service Man",
+      "order": 17,
+      "cast_id": 106,
+      "popularity": 0.1191,
+      "profile_path": null
+    },
+    {
+      "personId": 1221450,
+      "name": "Beau Kayser",
+      "character": "Soap Opera Man",
+      "order": 18,
+      "cast_id": 107,
+      "popularity": 0.2551,
+      "profile_path": null
+    },
+    {
+      "personId": 26874,
+      "name": "Victor Magnotta",
+      "character": "Secret Service Photographer",
+      "order": 19,
+      "cast_id": 108,
+      "popularity": 0.9071,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1032,
+      "name": "Martin Scorsese",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 3.6762,
+      "profile_path": "/g3DjfKsgZQWZiw30I20hZVk1oMX.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2231,
+      "name": "drug dealer"
+    },
+    {
+      "id": 422,
+      "name": "vietnam veteran"
+    },
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 444,
+      "name": "taxi"
+    },
+    {
+      "id": 445,
+      "name": "pornography"
+    },
+    {
+      "id": 1523,
+      "name": "obsession"
+    },
+    {
+      "id": 1749,
+      "name": "taxi driver"
+    },
+    {
+      "id": 1228,
+      "name": "1970s"
+    },
+    {
+      "id": 1667,
+      "name": "pimp"
+    },
+    {
+      "id": 5446,
+      "name": "observer"
+    },
+    {
+      "id": 6112,
+      "name": "firearm"
+    },
+    {
+      "id": 6083,
+      "name": "politician"
+    },
+    {
+      "id": 7368,
+      "name": "alienation"
+    },
+    {
+      "id": 7151,
+      "name": "junk food"
+    },
+    {
+      "id": 9622,
+      "name": "misanthrophy"
+    },
+    {
+      "id": 7002,
+      "name": "vigilante"
+    },
+    {
+      "id": 18075,
+      "name": "political campaign"
+    },
+    {
+      "id": 33424,
+      "name": "cynical"
+    },
+    {
+      "id": 33625,
+      "name": "illegal prostitution"
+    },
+    {
+      "id": 161728,
+      "name": "urban decay"
+    },
+    {
+      "id": 164186,
+      "name": "character study"
+    },
+    {
+      "id": 167104,
+      "name": "loner"
+    },
+    {
+      "id": 168346,
+      "name": "manhattan, new york city"
+    },
+    {
+      "id": 197056,
+      "name": "meditative"
+    },
+    {
+      "id": 207268,
+      "name": "neo-noir"
+    },
+    {
+      "id": 225582,
+      "name": "child prostitution"
+    },
+    {
+      "id": 239797,
+      "name": "complex"
+    },
+    {
+      "id": 252192,
+      "name": "new hollywood"
+    },
+    {
+      "id": 261264,
+      "name": "dreary"
+    },
+    {
+      "id": 266753,
+      "name": "cautionary"
+    },
+    {
+      "id": 270831,
+      "name": "drives"
+    },
+    {
+      "id": 293649,
+      "name": "provocative"
+    },
+    {
+      "id": 325766,
+      "name": "antagonistic"
+    },
+    {
+      "id": 325773,
+      "name": "audacious"
+    },
+    {
+      "id": 325780,
+      "name": "callous"
+    }
+  ]
+}

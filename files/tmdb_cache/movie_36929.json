@@ -1,0 +1,233 @@
+{
+  "overview": "A writer returns to his hometown where he faces the childhood nemesis whose life he ultimately ruined, only the bully wants to relive their painful past by torturing him once again.",
+  "release_date": "1996-01-26",
+  "runtime": 90,
+  "budget": 15000000,
+  "revenue": 2042530,
+  "tmdb_vote_average": 4.6,
+  "tmdb_vote_count": 77,
+  "tmdb_popularity": 3.7396,
+  "original_language": "en",
+  "poster_path": "/dws3JR4Yi325Tz33XnuXEB6XjGr.jpg",
+  "backdrop_path": "/tYGxW8kkZD8sCOIDi5je9Vk2Wjx.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 10210,
+      "name": "Morgan Creek Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8872,
+      "name": "Rick Moranis",
+      "character": "David Leary",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.278,
+      "profile_path": "/rVZbTJjM4g0Um6trlLHRiBzBO7t.jpg"
+    },
+    {
+      "personId": 74036,
+      "name": "Tom Arnold",
+      "character": "Rosco Bigger - Fang",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.9804,
+      "profile_path": "/z2ajL1ozVCS4Ug04zOGCNH06OPP.jpg"
+    },
+    {
+      "personId": 105962,
+      "name": "Julianne Phillips",
+      "character": "Victoria Tucker",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 0.9796,
+      "profile_path": "/4n9oCCsZ2jR7PLdOpUEIXwuApaZ.jpg"
+    },
+    {
+      "personId": 10556,
+      "name": "Carol Kane",
+      "character": "Faith Bigger",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 3.2,
+      "profile_path": "/3EOZ7B148lRwJcl3CmQhfpgubYQ.jpg"
+    },
+    {
+      "personId": 4175,
+      "name": "Jeffrey Tambor",
+      "character": "Art Lundstrum",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 3.4053,
+      "profile_path": "/e4IkxsEo5O4oUWrIpXlEhWa6lqB.jpg"
+    },
+    {
+      "personId": 87003,
+      "name": "Curtis Armstrong",
+      "character": "Clark",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 2.7926,
+      "profile_path": "/3ZAX6NoU47Qshk0svFxkEcJ5fhI.jpg"
+    },
+    {
+      "personId": 27726,
+      "name": "Don Knotts",
+      "character": "Principal Kokelar",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 1.73,
+      "profile_path": "/i2xebSpIQQTpLhS2IbqkHchECyV.jpg"
+    },
+    {
+      "personId": 27138,
+      "name": "Doug Abrahams",
+      "character": "Guard",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 0.711,
+      "profile_path": "/u4M8YZGbZdJfqTttOGNDiVRa0MP.jpg"
+    },
+    {
+      "personId": 41505,
+      "name": "Faith Prince",
+      "character": "Betty Lundstrom",
+      "order": 8,
+      "cast_id": 14,
+      "popularity": 1.1794,
+      "profile_path": "/g1TX9yF5j4vn2l2qECj3jGpl1k9.jpg"
+    },
+    {
+      "personId": 7874,
+      "name": "Tony Pierce",
+      "character": "Ulf",
+      "order": 9,
+      "cast_id": 15,
+      "popularity": 1.6515,
+      "profile_path": "/rzk6swdNyDFX7qUlmJMoXGu48Bu.jpg"
+    },
+    {
+      "personId": 31170,
+      "name": "Blake Bashoff",
+      "character": "Ben Leary",
+      "order": 10,
+      "cast_id": 16,
+      "popularity": 0.5494,
+      "profile_path": "/mo1xkCGQC3oxnQonOCA4Cd4iLJf.jpg"
+    },
+    {
+      "personId": 154038,
+      "name": "Cody McMains",
+      "character": "Kirby Bigger",
+      "order": 11,
+      "cast_id": 17,
+      "popularity": 1.3229,
+      "profile_path": "/3t2MmiO0FyaL7q6Tb14pnDkDc5f.jpg"
+    },
+    {
+      "personId": 1074,
+      "name": "Harry Waters, Jr.",
+      "character": "Alan",
+      "order": 12,
+      "cast_id": 18,
+      "popularity": 0.3039,
+      "profile_path": "/leyDoL9wnYRFfUeDyOCourN6wxC.jpg"
+    },
+    {
+      "personId": 52043,
+      "name": "Stuart Pankin",
+      "character": "Gerry",
+      "order": 13,
+      "cast_id": 19,
+      "popularity": 2.1373,
+      "profile_path": "/9Zjv5YDfjrBKwCCEslb4Rkrx87V.jpg"
+    },
+    {
+      "personId": 149438,
+      "name": "Justin Jon Ross",
+      "character": "Young David",
+      "order": 14,
+      "cast_id": 20,
+      "popularity": 0.5141,
+      "profile_path": null
+    },
+    {
+      "personId": 112082,
+      "name": "Michael Zwiener",
+      "character": "Young Fang",
+      "order": 15,
+      "cast_id": 21,
+      "popularity": 1.1535,
+      "profile_path": null
+    },
+    {
+      "personId": 118462,
+      "name": "Bill Dow",
+      "character": "David's Father",
+      "order": 16,
+      "cast_id": 22,
+      "popularity": 1.2585,
+      "profile_path": "/dfl1WQzIRhswOw4zQxo6YKWL3Ik.jpg"
+    },
+    {
+      "personId": 5480532,
+      "name": "Tiffany Foster",
+      "character": "Young Victoria",
+      "order": 17,
+      "cast_id": 33,
+      "popularity": 0.1054,
+      "profile_path": null
+    },
+    {
+      "personId": 3271805,
+      "name": "Matthew Slowik",
+      "character": "Young Ulf",
+      "order": 18,
+      "cast_id": 34,
+      "popularity": 0.1835,
+      "profile_path": null
+    },
+    {
+      "personId": 5839551,
+      "name": "C.J. Grayson",
+      "character": "Young Alan",
+      "order": 19,
+      "cast_id": 35,
+      "popularity": 0.201,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 58712,
+      "name": "Steve Miner",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.2621,
+      "profile_path": "/jI202evRSMXDHCugyWvrAaUuVO4.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 10624,
+      "name": "bully"
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "overview": "When the very moralistic college ethics instructor Jack Lambert finds himself living next door to an accused German death camp commander, he takes it upon himself to rid the world of this man.",
+  "release_date": "1996-04-12",
+  "runtime": 88,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 4.6,
+  "tmdb_vote_count": 19,
+  "tmdb_popularity": 0.4313,
+  "original_language": "en",
+  "poster_path": "/zL9RbLQrhTyi60ZeXjc8hEIaTxf.jpg",
+  "backdrop_path": "/mJvMMgPupfGpmWuINVClcC3EDXI.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 364,
+      "name": "The Rank Organisation",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1121,
+      "name": "Price",
+      "origin_country": ""
+    },
+    {
+      "id": 11308,
+      "name": "Savoy Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 707,
+      "name": "Dan Aykroyd",
+      "character": "Jack Lambert",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 3.8321,
+      "profile_path": "/iVMmeVJx8IpCEjlGBZWzIWvX5Qo.jpg"
+    },
+    {
+      "personId": 10437,
+      "name": "Lily Tomlin",
+      "character": "Inga Mueller",
+      "order": 1,
+      "cast_id": 6,
+      "popularity": 1.6527,
+      "profile_path": "/eoFMSqRykiaXMGCiz7Kxehfqy1W.jpg"
+    },
+    {
+      "personId": 3151,
+      "name": "Jack Lemmon",
+      "character": "Mueller / Luger",
+      "order": 2,
+      "cast_id": 1,
+      "popularity": 2.2969,
+      "profile_path": "/7jWVWLr1VJqQrN3d4YJaATCIHRw.jpg"
+    },
+    {
+      "personId": 5149,
+      "name": "Bonnie Hunt",
+      "character": "Gail Holland",
+      "order": 3,
+      "cast_id": 3,
+      "popularity": 3.8154,
+      "profile_path": "/tT9C6uLztgN8OxJULq6F9iEzqlA.jpg"
+    },
+    {
+      "personId": 50464,
+      "name": "Brian Kerwin",
+      "character": "Marty Lambert",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 1.3394,
+      "profile_path": "/4OSrhPMEkRHcDXEkXba0FxF0WQD.jpg"
+    },
+    {
+      "personId": 24292,
+      "name": "Jerry Adler",
+      "character": "Judge",
+      "order": 5,
+      "cast_id": 5,
+      "popularity": 1.2046,
+      "profile_path": "/8HZi9sk98qH5IroTc1vyyo2AZ3C.jpg"
+    },
+    {
+      "personId": 32289,
+      "name": "Andy Romano",
+      "character": "Psychiatrist",
+      "order": 6,
+      "cast_id": 32,
+      "popularity": 1.767,
+      "profile_path": "/maQYk63vsymyolmJBHEsBmv3KxR.jpg"
+    },
+    {
+      "personId": 99826,
+      "name": "Robert Fields",
+      "character": "Sgt. Roarke",
+      "order": 7,
+      "cast_id": 33,
+      "popularity": 0.5196,
+      "profile_path": "/wuvkefdTDRTgintaO8A3nyZETIH.jpg"
+    },
+    {
+      "personId": 21757,
+      "name": "J.C. Quinn",
+      "character": "Detective Stanley",
+      "order": 8,
+      "cast_id": 4,
+      "popularity": 1.7433,
+      "profile_path": "/3ZebZIsQoTDnLnwYaLLluytXer8.jpg"
+    },
+    {
+      "personId": 21620,
+      "name": "Susan Forristal",
+      "character": "Waitress Patti",
+      "order": 9,
+      "cast_id": 34,
+      "popularity": 0.6107,
+      "profile_path": "/ruki0R38NGvDvi8Mg7UA27RnLEK.jpg"
+    },
+    {
+      "personId": 1721937,
+      "name": "Marissa Chibas",
+      "character": "Liz Lambert",
+      "order": 10,
+      "cast_id": 35,
+      "popularity": 0.455,
+      "profile_path": null
+    },
+    {
+      "personId": 14836,
+      "name": "Jon Korkes",
+      "character": "Chemistry Lab Professor",
+      "order": 11,
+      "cast_id": 36,
+      "popularity": 2.3252,
+      "profile_path": null
+    },
+    {
+      "personId": 303542,
+      "name": "Kathleen Marshall",
+      "character": "Student #1",
+      "order": 12,
+      "cast_id": 37,
+      "popularity": 1.7783,
+      "profile_path": null
+    },
+    {
+      "personId": 2288188,
+      "name": "Jack Jessup",
+      "character": "Old Man",
+      "order": 13,
+      "cast_id": 38,
+      "popularity": 0.0535,
+      "profile_path": null
+    },
+    {
+      "personId": 198760,
+      "name": "Judy Sinclair",
+      "character": "Old Woman",
+      "order": 14,
+      "cast_id": 39,
+      "popularity": 1.8535,
+      "profile_path": null
+    },
+    {
+      "personId": 185183,
+      "name": "Dave Nichols",
+      "character": "Lawyer Brownell",
+      "order": 15,
+      "cast_id": 40,
+      "popularity": 1.0157,
+      "profile_path": "/vQ9kTrVOPZgw01RqDDNuLDVfjgK.jpg"
+    },
+    {
+      "personId": 111817,
+      "name": "Damon D'Oliveira",
+      "character": "Electronic Salesman",
+      "order": 16,
+      "cast_id": 41,
+      "popularity": 0.6169,
+      "profile_path": "/yr0vCI0qsdkcWNlf0nQICqbclcl.jpg"
+    },
+    {
+      "personId": 5897,
+      "name": "Wayne Robson",
+      "character": "Bartender",
+      "order": 17,
+      "cast_id": 42,
+      "popularity": 1.1947,
+      "profile_path": "/idYHGiGyWcUUrVFm9THGLzTgWHF.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 29706,
+      "name": "Harvey Miller",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7117,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3683,
+      "name": "law and ethics"
+    },
+    {
+      "id": 183896,
+      "name": "neighbor neighbor relationship"
+    },
+    {
+      "id": 212059,
+      "name": "college professor"
+    },
+    {
+      "id": 252067,
+      "name": "nazi war criminal"
+    }
+  ]
+}

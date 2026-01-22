@@ -1,0 +1,109 @@
+{
+  "overview": "Three lonely young denizens of Taipei unknowingly share an apartment: May, a real estate agent who uses it for her sexual affairs; Ah-jung, her current lover; and Hsiao-kang, who's stolen the key and uses the apartment as a retreat.",
+  "release_date": "1995-03-02",
+  "runtime": 118,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 7.26,
+  "tmdb_vote_count": 154,
+  "tmdb_popularity": 1.0916,
+  "original_language": "zh",
+  "poster_path": "/uiVAPBx9D2Gb9ZGejvxMhRboaYz.jpg",
+  "backdrop_path": "/zcY5MpaNI7pSnxf4IcOMQ2xKICT.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 25345,
+      "name": "Central Motion Picture Corporation",
+      "origin_country": "TW"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "TW",
+      "name": "Taiwan"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "zh",
+      "name": "普通话"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 71171,
+      "name": "Lee Kang-sheng",
+      "character": "Hsiao-kang",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.3772,
+      "profile_path": "/rdyfLsAHK0h1ijwdJbXtDJ0iGOd.jpg"
+    },
+    {
+      "personId": 65354,
+      "name": "Yang Kuei-mei",
+      "character": "May Lin",
+      "order": 1,
+      "cast_id": 11,
+      "popularity": 1.6937,
+      "profile_path": "/bQuu5naLHk5ergPgQZXpGXJm3aO.jpg"
+    },
+    {
+      "personId": 71172,
+      "name": "Chen Chao-jung",
+      "character": "Ah-jung",
+      "order": 2,
+      "cast_id": 2,
+      "popularity": 2.0217,
+      "profile_path": "/exEFnrh8JigB5ybfUlG7CoL43RK.jpg"
+    },
+    {
+      "personId": 103648,
+      "name": "Lu Yi-ching",
+      "character": "Waitress (uncredited)",
+      "order": 3,
+      "cast_id": 14,
+      "popularity": 1.2265,
+      "profile_path": "/6yIPZ2F9bf4PlDtrDeDNjoqkytC.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 71174,
+      "name": "Tsai Ming-liang",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.2452,
+      "profile_path": "/ceVmDE537vnoxiGmkoNOf5srJWr.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 931,
+      "name": "jealousy"
+    },
+    {
+      "id": 128,
+      "name": "love triangle"
+    },
+    {
+      "id": 4951,
+      "name": "rejection"
+    },
+    {
+      "id": 5768,
+      "name": "urban life"
+    },
+    {
+      "id": 7439,
+      "name": "woman between two men"
+    },
+    {
+      "id": 10180,
+      "name": "male homosexuality"
+    }
+  ]
+}

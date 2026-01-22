@@ -1,0 +1,135 @@
+{
+  "overview": "Seven New Zealand women speak about their lives during World War II: some lost husbands, some got married, some went into service themselves. The director lets the women tell their stories simply, alternating between them talking and archival footage of the war years.",
+  "release_date": "1996-05-09",
+  "runtime": 95,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 2.667,
+  "tmdb_vote_count": 3,
+  "tmdb_popularity": 0.0759,
+  "original_language": "en",
+  "poster_path": "/qak8Mk1flb1dQwnBRAC0RNxFsOt.jpg",
+  "backdrop_path": null,
+  "tmdb_genres_raw": [
+    "Documentary"
+  ],
+  "production_companies": [
+    {
+      "id": 94234,
+      "name": "TV3 (Malaysian TV network)",
+      "origin_country": "MY"
+    },
+    {
+      "id": 100544,
+      "name": "Gaylene Preston Productions",
+      "origin_country": "NZ"
+    },
+    {
+      "id": 294,
+      "name": "New Zealand Film Commission",
+      "origin_country": "NZ"
+    },
+    {
+      "id": 295,
+      "name": "NZ on Air",
+      "origin_country": "NZ"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "NZ",
+      "name": "New Zealand"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1500204,
+      "name": "Jean Andrews",
+      "character": "Herself",
+      "order": 0,
+      "cast_id": 0,
+      "popularity": 0.0071,
+      "profile_path": null
+    },
+    {
+      "personId": 1972199,
+      "name": "Judith Fyfe",
+      "character": "Interviewer(voice)",
+      "order": 1,
+      "cast_id": 1,
+      "popularity": 0.4408,
+      "profile_path": null
+    },
+    {
+      "personId": 1394534,
+      "name": "Rita Graham",
+      "character": "Herself",
+      "order": 2,
+      "cast_id": 2,
+      "popularity": 0.307,
+      "profile_path": null
+    },
+    {
+      "personId": 1972200,
+      "name": "Neva Clarke McKenna",
+      "character": "Herself",
+      "order": 3,
+      "cast_id": 3,
+      "popularity": 0.078,
+      "profile_path": null
+    },
+    {
+      "personId": 1972201,
+      "name": "Tui Preston",
+      "character": "Herself",
+      "order": 4,
+      "cast_id": 4,
+      "popularity": 0.1623,
+      "profile_path": null
+    },
+    {
+      "personId": 1972202,
+      "name": "Penny Quill",
+      "character": "Herself",
+      "order": 5,
+      "cast_id": 5,
+      "popularity": 0.7559,
+      "profile_path": null
+    },
+    {
+      "personId": 1972204,
+      "name": "Flo Small",
+      "character": "Herself",
+      "order": 6,
+      "cast_id": 6,
+      "popularity": 0.1012,
+      "profile_path": null
+    },
+    {
+      "personId": 1972205,
+      "name": "Mabel Waititi",
+      "character": "Herself",
+      "order": 7,
+      "cast_id": 7,
+      "popularity": 0.0668,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 125934,
+      "name": "Gaylene Preston",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7335,
+      "profile_path": "/u3jQ734Us6tubvgd4dvFIgdk85P.jpg"
+    }
+  ],
+  "keywords": []
+}

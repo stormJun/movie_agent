@@ -1,0 +1,260 @@
+{
+  "overview": "Earl Pilcher Jr. runs an equipment rental outfit in Arkansas, lives with his wife and kids and parents, and rarely takes off his gimme cap. His mother dies, leaving a letter explaining he's not her natural son, but the son of a Black woman who died in childbirth; plus, he has a half brother Ray, in Chicago, she wants him to visit. Earl makes the trip, initially receiving a cold welcome from Ray and Ray's son, Virgil. His birth mother's sister, Aunt T., an aged and blind matriarch, takes Earl in tow and insists that the family open up to him.",
+  "release_date": "1996-03-29",
+  "runtime": 109,
+  "budget": 0,
+  "revenue": 10125417,
+  "tmdb_vote_average": 6.444,
+  "tmdb_vote_count": 71,
+  "tmdb_popularity": 0.658,
+  "original_language": "en",
+  "poster_path": "/v6BAse5R1jaTgxXNKMpdphVFZTh.jpg",
+  "backdrop_path": "/ypjHHnZuPn7A1Euqi1onU32Ejgs.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 60,
+      "name": "United Artists",
+      "origin_country": "US"
+    },
+    {
+      "id": 3864,
+      "name": "Butcher's Run Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3087,
+      "name": "Robert Duvall",
+      "character": "Earl Pilcher Jr.",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 9.6308,
+      "profile_path": "/ybMmK25h4IVtfE7qrnlVp47RQlh.jpg"
+    },
+    {
+      "personId": 15152,
+      "name": "James Earl Jones",
+      "character": "Ray Murdock",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 2.369,
+      "profile_path": "/oqMPIsXrl9SZkRfIKN08eFROmH6.jpg"
+    },
+    {
+      "personId": 87118,
+      "name": "Michael Beach",
+      "character": "Virgil",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 3.0496,
+      "profile_path": "/7gCBCpK2OSzuUWk5iTZds9NjqkF.jpg"
+    },
+    {
+      "personId": 43853,
+      "name": "Irma P. Hall",
+      "character": "Aunt T.",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 1.0215,
+      "profile_path": "/kKLDJvpAE1uKLeTw5jUmBwPgqOd.jpg"
+    },
+    {
+      "personId": 6465,
+      "name": "Grace Zabriskie",
+      "character": "Ruby",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 1.6055,
+      "profile_path": "/19tr5IbzCmv4x5B3WFlG1RQPwXu.jpg"
+    },
+    {
+      "personId": 21848,
+      "name": "Regina Taylor",
+      "character": "Ann",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 0.8981,
+      "profile_path": "/s6a1zzRTFlu5ZQvczKbCqtD9FqM.jpg"
+    },
+    {
+      "personId": 18181,
+      "name": "David Keith",
+      "character": "Sonny",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 1.8713,
+      "profile_path": "/zY0egiQb1iLx74GxcKgYOHNEgRM.jpg"
+    },
+    {
+      "personId": 3982,
+      "name": "Xander Berkeley",
+      "character": "Sunburned Man",
+      "order": 7,
+      "cast_id": 25,
+      "popularity": 3.2202,
+      "profile_path": "/oBoKGfngGGZmSVGFslphYjc23WO.jpg"
+    },
+    {
+      "personId": 1855240,
+      "name": "Jacqueline Williams",
+      "character": "Woman at Hospital",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 0.3914,
+      "profile_path": "/1AcxysNCkYYh1AfZSDYUnuB3xpM.jpg"
+    },
+    {
+      "personId": 84631,
+      "name": "Mary Jackson",
+      "character": "Carrie",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 1.0837,
+      "profile_path": "/fLrCF0ZctgkrwxjOuwcBRaJYPnF.jpg"
+    },
+    {
+      "personId": 59449,
+      "name": "Paula Marshall",
+      "character": "Karen",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 1.6097,
+      "profile_path": "/7jujYCDltWVQAGv4L6eHDs5wfxq.jpg"
+    },
+    {
+      "personId": 1226695,
+      "name": "Phillip Edward Van Lear",
+      "character": "Club Manager",
+      "order": 11,
+      "cast_id": 22,
+      "popularity": 0.7215,
+      "profile_path": "/h0sZVUB2H8ih4aXiA2Nq1JvNDGg.jpg"
+    },
+    {
+      "personId": 1467217,
+      "name": "Meg Thalken",
+      "character": "Doctor",
+      "order": 12,
+      "cast_id": 23,
+      "popularity": 0.7544,
+      "profile_path": "/mBcOwy2pmYNd0FyHvOczF5D2qNm.jpg"
+    },
+    {
+      "personId": 1376090,
+      "name": "Richard Lexsee",
+      "character": "Truckjacker",
+      "order": 13,
+      "cast_id": 24,
+      "popularity": 0.3402,
+      "profile_path": null
+    },
+    {
+      "personId": 236486,
+      "name": "James N. Harrell",
+      "character": "Earl Pilcher Sr.",
+      "order": 14,
+      "cast_id": 16,
+      "popularity": 1.7559,
+      "profile_path": null
+    },
+    {
+      "personId": 2354116,
+      "name": "Lauren Leigh Phillips",
+      "character": "Kindra",
+      "order": 15,
+      "cast_id": 17,
+      "popularity": 0.1054,
+      "profile_path": null
+    },
+    {
+      "personId": 2354117,
+      "name": "Ashleigh Jordan",
+      "character": "Danielle",
+      "order": 16,
+      "cast_id": 18,
+      "popularity": 0.0439,
+      "profile_path": null
+    },
+    {
+      "personId": 1226896,
+      "name": "Saundra Quarterman",
+      "character": "Young Aunt T.",
+      "order": 17,
+      "cast_id": 48,
+      "popularity": 0.5027,
+      "profile_path": null
+    },
+    {
+      "personId": 23310,
+      "name": "Rufus Thomas",
+      "character": "Tommy",
+      "order": 18,
+      "cast_id": 20,
+      "popularity": 0.4329,
+      "profile_path": null
+    },
+    {
+      "personId": 1517447,
+      "name": "Reggie Hayes",
+      "character": "Virgil's Friend",
+      "order": 19,
+      "cast_id": 21,
+      "popularity": 2.246,
+      "profile_path": "/qXBwIuuC3RXHw1FV4PmsdNB201S.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 73496,
+      "name": "Richard Pearce",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.0175,
+      "profile_path": "/yNxmwKv1nDaouFOWiyKyKmFRU6V.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3344,
+      "name": "letter"
+    },
+    {
+      "id": 5521,
+      "name": "arkansas"
+    },
+    {
+      "id": 17985,
+      "name": "birth"
+    },
+    {
+      "id": 168471,
+      "name": "biracial"
+    },
+    {
+      "id": 200690,
+      "name": "matriarchy"
+    }
+  ]
+}

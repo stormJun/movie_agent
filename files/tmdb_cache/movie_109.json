@@ -1,0 +1,302 @@
+{
+  "overview": "Polish immigrant Karol Karol finds himself out of a marriage, a job and a country when his French wife, Dominique, divorces him after six months due to his impotence. Forced to leave France after losing the business they jointly owned, Karol enlists fellow Polish expatriate Mikołaj to smuggle him back to their homeland.",
+  "release_date": "1994-01-26",
+  "runtime": 92,
+  "budget": 0,
+  "revenue": 1273525,
+  "tmdb_vote_average": 7.445,
+  "tmdb_vote_count": 1286,
+  "tmdb_popularity": 4.7468,
+  "original_language": "fr",
+  "poster_path": "/fdIet3NSa27gobMbaUml66oCQNT.jpg",
+  "backdrop_path": "/yOpNvGSsT0YECuhhrlGBLIshh0u.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Mystery"
+  ],
+  "production_companies": [
+    {
+      "id": 6274,
+      "name": "MK2 Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 591,
+      "name": "France 3 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 22587,
+      "name": "CAB Productions",
+      "origin_country": "CH"
+    },
+    {
+      "id": 38,
+      "name": "Studio Filmowe Tor",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "PL",
+      "name": "Poland"
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "pl",
+      "name": "Polski"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1145,
+      "name": "Zbigniew Zamachowski",
+      "character": "Karol Karol",
+      "order": 0,
+      "cast_id": 6,
+      "popularity": 0.7945,
+      "profile_path": "/qUi05ZXhKoOMOgBkonKOLuIMf0n.jpg"
+    },
+    {
+      "personId": 1146,
+      "name": "Julie Delpy",
+      "character": "Dominique",
+      "order": 1,
+      "cast_id": 7,
+      "popularity": 2.508,
+      "profile_path": "/rd40f4QpAUUne3hMaUhHrZtcK2c.jpg"
+    },
+    {
+      "personId": 1147,
+      "name": "Janusz Gajos",
+      "character": "Mikołaj",
+      "order": 2,
+      "cast_id": 15,
+      "popularity": 0.7385,
+      "profile_path": "/6JMVmicFJvsSsRkOpgqV2cetre.jpg"
+    },
+    {
+      "personId": 1148,
+      "name": "Jerzy Stuhr",
+      "character": "Jurek",
+      "order": 3,
+      "cast_id": 16,
+      "popularity": 1.4326,
+      "profile_path": "/1higxfq9DSYDufImetO5qwfa0tX.jpg"
+    },
+    {
+      "personId": 1138501,
+      "name": "Grzegorz Warchoł",
+      "character": "Elegant",
+      "order": 4,
+      "cast_id": 18,
+      "popularity": 0.6007,
+      "profile_path": "/wu33kWXWxcJt4y360KnuPjbZ9gh.jpg"
+    },
+    {
+      "personId": 7119,
+      "name": "Jerzy Nowak",
+      "character": "Old Peasant",
+      "order": 5,
+      "cast_id": 20,
+      "popularity": 0.9543,
+      "profile_path": "/d4FLYnKTAJdjtfbi5TiRmosLjwr.jpg"
+    },
+    {
+      "personId": 1149,
+      "name": "Aleksander Bardini",
+      "character": "Notary",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 0.768,
+      "profile_path": "/v816A7dBF8OFMyuofAYvBo9maZr.jpg"
+    },
+    {
+      "personId": 6415,
+      "name": "Cezary Harasimowicz",
+      "character": "Inspector",
+      "order": 7,
+      "cast_id": 19,
+      "popularity": 1.2947,
+      "profile_path": "/rHbmU9MLHDeQ1DOpu9vyvkN7NPx.jpg"
+    },
+    {
+      "personId": 2831,
+      "name": "Jerzy Trela",
+      "character": "Monsieur Bronek",
+      "order": 8,
+      "cast_id": 37,
+      "popularity": 0.9886,
+      "profile_path": "/rem3V2py3o6eaaR4KQTvClVKX6n.jpg"
+    },
+    {
+      "personId": 83266,
+      "name": "Cezary Pazura",
+      "character": "Exchange Office Owner",
+      "order": 9,
+      "cast_id": 38,
+      "popularity": 0.6755,
+      "profile_path": "/l1XAe6DKyAUXzqSgErl3BDeSF8r.jpg"
+    },
+    {
+      "personId": 1726332,
+      "name": "Michel Lisowski",
+      "character": "Interpreter",
+      "order": 10,
+      "cast_id": 48,
+      "popularity": 0.0709,
+      "profile_path": null
+    },
+    {
+      "personId": 543992,
+      "name": "Piotr Machalica",
+      "character": "Man under the Exchange Office",
+      "order": 11,
+      "cast_id": 39,
+      "popularity": 0.4721,
+      "profile_path": "/xoXFSBm3AH09f4S576md2yKl0Cm.jpg"
+    },
+    {
+      "personId": 66463,
+      "name": "Barbara Dziekan",
+      "character": "Mrs. Ewa",
+      "order": 12,
+      "cast_id": 40,
+      "popularity": 0.2334,
+      "profile_path": null
+    },
+    {
+      "personId": 1408,
+      "name": "Marzena Trybała",
+      "character": "Mariott Employee",
+      "order": 13,
+      "cast_id": 41,
+      "popularity": 0.1705,
+      "profile_path": "/oR7LRnQeHaPD4TMoYDHA6hM5b2e.jpg"
+    },
+    {
+      "personId": 19075,
+      "name": "Philippe Morier-Genoud",
+      "character": "Judge",
+      "order": 14,
+      "cast_id": 21,
+      "popularity": 0.3536,
+      "profile_path": "/vMGXntjEzXx7n1gyWi11I2urB9k.jpg"
+    },
+    {
+      "personId": 328624,
+      "name": "Francis Coffinet",
+      "character": "Bank Clerk",
+      "order": 15,
+      "cast_id": 49,
+      "popularity": 0.5906,
+      "profile_path": "/6s8qwFqOQskwgHhxvSSHTLraAlz.jpg"
+    },
+    {
+      "personId": 4424459,
+      "name": "Yannick Evely",
+      "character": "Metro Clerk",
+      "order": 16,
+      "cast_id": 50,
+      "popularity": 0.0618,
+      "profile_path": null
+    },
+    {
+      "personId": 4045400,
+      "name": "Jacques Disses",
+      "character": "Dominique's Lawyer",
+      "order": 17,
+      "cast_id": 51,
+      "popularity": 0.0586,
+      "profile_path": null
+    },
+    {
+      "personId": 1138176,
+      "name": "Teresa Budzisz-Krzyżanowska",
+      "character": "Madame Jadwiga",
+      "order": 18,
+      "cast_id": 42,
+      "popularity": 0.8653,
+      "profile_path": "/nIf7cH0346acoT8LRyHB09mJGZj.jpg"
+    },
+    {
+      "personId": 1487186,
+      "name": "Krystyna Bigelmajer",
+      "character": "",
+      "order": 19,
+      "cast_id": 52,
+      "popularity": 0.2199,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1126,
+      "name": "Krzysztof Kieślowski",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.4757,
+      "profile_path": "/zG9JD4kzQHhKJAtMOWbwrEolvun.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 254,
+      "name": "france"
+    },
+    {
+      "id": 928,
+      "name": "hairdresser"
+    },
+    {
+      "id": 2039,
+      "name": "sexual frustration"
+    },
+    {
+      "id": 4480,
+      "name": "businessman"
+    },
+    {
+      "id": 3739,
+      "name": "funeral"
+    },
+    {
+      "id": 9673,
+      "name": "love"
+    },
+    {
+      "id": 21747,
+      "name": "poland"
+    },
+    {
+      "id": 272553,
+      "name": "psychological"
+    },
+    {
+      "id": 317819,
+      "name": "french"
+    },
+    {
+      "id": 318182,
+      "name": "arthouse"
+    }
+  ]
+}

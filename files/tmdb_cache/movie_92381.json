@@ -1,0 +1,256 @@
+{
+  "overview": "A hefty homeboy borrows his dad's Mercedes and goes to the beach with his friends for wild sun &amp; fun.",
+  "release_date": "1996-08-02",
+  "runtime": 89,
+  "budget": 0,
+  "revenue": 1383726,
+  "tmdb_vote_average": 4.982,
+  "tmdb_vote_count": 28,
+  "tmdb_popularity": 4.7433,
+  "original_language": "en",
+  "poster_path": "/qp0oxzhvQWfkVZ2Iy6uhklrT0g0.jpg",
+  "backdrop_path": "/rLcfc3Ub5pBmIxkbk9LdcGhcVas.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 41,
+      "name": "Orion Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 285,
+      "name": "Live Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 13963,
+      "name": "Orion",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 79539,
+      "name": "Jermaine Hopkins",
+      "character": "Benny King",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 2.3843,
+      "profile_path": "/ddbniqxl8aezdKW5FTUf8wAWKQG.jpg"
+    },
+    {
+      "personId": 1385303,
+      "name": "Claudia Kaleem",
+      "character": "Candace Williams",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 1.3134,
+      "profile_path": null
+    },
+    {
+      "personId": 1385304,
+      "name": "Candice Merideth",
+      "character": "Tasha King",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 0.6346,
+      "profile_path": null
+    },
+    {
+      "personId": 1385305,
+      "name": "Alma Collins",
+      "character": "Janet",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 0.2122,
+      "profile_path": null
+    },
+    {
+      "personId": 35549,
+      "name": "Coolio",
+      "character": "Coolio",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 1.1553,
+      "profile_path": "/2RXxdCB68Haao2O9Fq8NCRpFkFm.jpg"
+    },
+    {
+      "personId": 55637,
+      "name": "Brian Hooks",
+      "character": "Durrel Jackson",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 1.3163,
+      "profile_path": "/2E7apZ2BTqHClmlFZesLRwvlhNx.jpg"
+    },
+    {
+      "personId": 3240280,
+      "name": "Tanya Reid",
+      "character": "Ulga",
+      "order": 6,
+      "cast_id": 28,
+      "popularity": 1.1801,
+      "profile_path": null
+    },
+    {
+      "personId": 3596121,
+      "name": "Nicole Amaral",
+      "character": "Inga",
+      "order": 7,
+      "cast_id": 29,
+      "popularity": 0.3049,
+      "profile_path": null
+    },
+    {
+      "personId": 8396,
+      "name": "Tommy Lister Jr.",
+      "character": "Tiny",
+      "order": 8,
+      "cast_id": 30,
+      "popularity": 2.4064,
+      "profile_path": "/i1seZDiLC3AKrAYqfFSln6ZGNmF.jpg"
+    },
+    {
+      "personId": 4220535,
+      "name": "Panthere",
+      "character": "Dana",
+      "order": 9,
+      "cast_id": 31,
+      "popularity": 0.1295,
+      "profile_path": null
+    },
+    {
+      "personId": 544073,
+      "name": "Devin DeRay",
+      "character": "Durrel's Stripper",
+      "order": 10,
+      "cast_id": 32,
+      "popularity": 1.4,
+      "profile_path": "/3DvH4eJaYrBQpa10iMbjtm0Ckxs.jpg"
+    },
+    {
+      "personId": 4220538,
+      "name": "Tamara Nicole Bennett",
+      "character": "Stripper on Pole",
+      "order": 11,
+      "cast_id": 33,
+      "popularity": 0.1027,
+      "profile_path": null
+    },
+    {
+      "personId": 4220542,
+      "name": "Glenise Brathwaite",
+      "character": "Angel",
+      "order": 12,
+      "cast_id": 34,
+      "popularity": 0.0955,
+      "profile_path": null
+    },
+    {
+      "personId": 80305,
+      "name": "Eric Fleeks",
+      "character": "Carl",
+      "order": 13,
+      "cast_id": 35,
+      "popularity": 0.6753,
+      "profile_path": "/z5zpbFVQlNYLqmxUNvtwko2yWc3.jpg"
+    },
+    {
+      "personId": 2013473,
+      "name": "Lawrence LeJohn",
+      "character": "House of Hamburgers Manager (as Lawrence J. LeJohn)",
+      "order": 14,
+      "cast_id": 36,
+      "popularity": 0.5956,
+      "profile_path": "/893keXF0oUQFzFWf9mXTJGY6BPn.jpg"
+    },
+    {
+      "personId": 4657556,
+      "name": "Kate Ann Haney",
+      "character": "Fat Woman",
+      "order": 15,
+      "cast_id": 37,
+      "popularity": 0.2509,
+      "profile_path": null
+    },
+    {
+      "personId": 4657558,
+      "name": "Bud O'Neal",
+      "character": "Cop #1",
+      "order": 16,
+      "cast_id": 38,
+      "popularity": 0.1509,
+      "profile_path": null
+    },
+    {
+      "personId": 189993,
+      "name": "Gregg Vance",
+      "character": "Mikey Z",
+      "order": 17,
+      "cast_id": 39,
+      "popularity": 0.3848,
+      "profile_path": null
+    },
+    {
+      "personId": 4657566,
+      "name": "Sean Welton",
+      "character": "Strip Club Bouncer",
+      "order": 18,
+      "cast_id": 40,
+      "popularity": 0.1169,
+      "profile_path": null
+    },
+    {
+      "personId": 1854405,
+      "name": "Paul Tranghese",
+      "character": "Cop #2",
+      "order": 19,
+      "cast_id": 41,
+      "popularity": 0.465,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 183036,
+      "name": "Doug Ellin",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.6279,
+      "profile_path": "/7jugVaVPHR6o1Gjtahuxz1ohZsw.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 966,
+      "name": "beach"
+    },
+    {
+      "id": 5605,
+      "name": "volleyball"
+    },
+    {
+      "id": 9974,
+      "name": "obesity"
+    },
+    {
+      "id": 13088,
+      "name": "summer"
+    }
+  ]
+}

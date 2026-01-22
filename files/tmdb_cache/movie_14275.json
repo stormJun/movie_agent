@@ -1,0 +1,162 @@
+{
+  "overview": "Every school day, African-American teenagers William Gates and Arthur Agee travel 90 minutes each way from inner-city Chicago to St. Joseph High School in Westchester, Illinois, a predominately white suburban school well-known for the excellence of its basketball program. Gates and Agee dream of NBA stardom, and with the support of their close-knit families, they battle the social and physical obstacles that stand in their way. This acclaimed documentary was shot over the course of five years.",
+  "release_date": "1994-09-12",
+  "runtime": 174,
+  "budget": 700000,
+  "revenue": 7830611,
+  "tmdb_vote_average": 7.6,
+  "tmdb_vote_count": 322,
+  "tmdb_popularity": 3.0849,
+  "original_language": "en",
+  "poster_path": "/gLzHl2XBtVwycl8DxdOXRHPm8G3.jpg",
+  "backdrop_path": "/pYeiEm55NySzK9ksKlQGlFQNapz.jpg",
+  "tmdb_genres_raw": [
+    "Documentary"
+  ],
+  "production_companies": [
+    {
+      "id": 8,
+      "name": "Fine Line Features",
+      "origin_country": "US"
+    },
+    {
+      "id": 13042,
+      "name": "Kartemquin Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 134119,
+      "name": "William Gates",
+      "character": "Self",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 0.5281,
+      "profile_path": null
+    },
+    {
+      "personId": 134120,
+      "name": "Arthur Agee",
+      "character": "Self",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 0.4911,
+      "profile_path": null
+    },
+    {
+      "personId": 3954832,
+      "name": "Gene Pingatore",
+      "character": "Self",
+      "order": 2,
+      "cast_id": 22,
+      "popularity": 0.0948,
+      "profile_path": null
+    },
+    {
+      "personId": 122449,
+      "name": "Steve James",
+      "character": "Narrator (voice)",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 0.4956,
+      "profile_path": "/1n01wuRSyi7ZOdzo4KGoDUZt8HB.jpg"
+    },
+    {
+      "personId": 1224931,
+      "name": "Dick Vitale",
+      "character": "Self",
+      "order": 4,
+      "cast_id": 16,
+      "popularity": 0.2458,
+      "profile_path": "/wtD2rMP3ey88G6SChPjAeqfZHpB.jpg"
+    },
+    {
+      "personId": 1222350,
+      "name": "Bobby Knight",
+      "character": "Self",
+      "order": 5,
+      "cast_id": 17,
+      "popularity": 0.2279,
+      "profile_path": "/kl3sjlk2PVi2XpjguuzN77eGvRr.jpg"
+    },
+    {
+      "personId": 5281,
+      "name": "Spike Lee",
+      "character": "Self",
+      "order": 6,
+      "cast_id": 18,
+      "popularity": 2.6369,
+      "profile_path": "/2KOHXgk2uoRXl6u7V9xpAIo3uay.jpg"
+    },
+    {
+      "personId": 1225387,
+      "name": "Isiah Thomas",
+      "character": "Self",
+      "order": 7,
+      "cast_id": 19,
+      "popularity": 1.355,
+      "profile_path": "/2TCHoTSmCqVaM5jIBPV0bJZtNt.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 122449,
+      "name": "Steve James",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4956,
+      "profile_path": "/1n01wuRSyi7ZOdzo4KGoDUZt8HB.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 520,
+      "name": "chicago, illinois"
+    },
+    {
+      "id": 6075,
+      "name": "sports"
+    },
+    {
+      "id": 2398,
+      "name": "narration"
+    },
+    {
+      "id": 2394,
+      "name": "ghetto"
+    },
+    {
+      "id": 3616,
+      "name": "college"
+    },
+    {
+      "id": 6496,
+      "name": "basketball"
+    },
+    {
+      "id": 8635,
+      "name": "high school sports"
+    },
+    {
+      "id": 33905,
+      "name": "inner city"
+    },
+    {
+      "id": 33910,
+      "name": "high school student"
+    }
+  ]
+}

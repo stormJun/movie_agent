@@ -1,0 +1,371 @@
+{
+  "overview": "Once an architect, Frank Bannister now passes himself off as an exorcist of evil spirits. To bolster his facade, he claims his \"special\" gift is the result of a car accident that killed his wife. But what he does not count on is more people dying in the small town where he lives. As he tries to piece together the supernatural mystery of these killings, he falls in love with the wife of one of the victims and deals with a crazy FBI agent.",
+  "release_date": "1996-07-19",
+  "runtime": 110,
+  "budget": 30000000,
+  "revenue": 29359216,
+  "tmdb_vote_average": 6.918,
+  "tmdb_vote_count": 1656,
+  "tmdb_popularity": 3.1095,
+  "original_language": "en",
+  "poster_path": "/zcJbCMwFLJdn5OLjhYwMVaSB32R.jpg",
+  "backdrop_path": "/krR08gys45BTnY3qXIfBJVDKrvK.jpg",
+  "tmdb_genres_raw": [
+    "Horror",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 11,
+      "name": "WingNut Films",
+      "origin_country": "NZ"
+    },
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "NZ",
+      "name": "New Zealand"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 521,
+      "name": "Michael J. Fox",
+      "character": "Frank Bannister",
+      "order": 0,
+      "cast_id": 10,
+      "popularity": 4.0225,
+      "profile_path": "/c8wWX6QsmrvwZ1flHF5iprAPdK7.jpg"
+    },
+    {
+      "personId": 17187,
+      "name": "Trini Alvarado",
+      "character": "Lucy Lynskey",
+      "order": 1,
+      "cast_id": 14,
+      "popularity": 1.4257,
+      "profile_path": "/uRAsuzmbC9xLbzsp5A8qwvax3jP.jpg"
+    },
+    {
+      "personId": 37822,
+      "name": "Peter Dobson",
+      "character": "Ray Lynskey",
+      "order": 2,
+      "cast_id": 15,
+      "popularity": 0.9001,
+      "profile_path": "/hvBUOf3hLnjUGbZuSwZWG5m76ur.jpg"
+    },
+    {
+      "personId": 41230,
+      "name": "John Astin",
+      "character": "The Judge",
+      "order": 3,
+      "cast_id": 16,
+      "popularity": 2.4673,
+      "profile_path": "/xczlYoJJblfyoOudcn7riLqsbXW.jpg"
+    },
+    {
+      "personId": 27993,
+      "name": "Jeffrey Combs",
+      "character": "Milton Dammers",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 2.5586,
+      "profile_path": "/dfWcxKNsyGuN18GjWkbOmMhO4c9.jpg"
+    },
+    {
+      "personId": 62001,
+      "name": "Dee Wallace",
+      "character": "Patricia Bradley",
+      "order": 5,
+      "cast_id": 26,
+      "popularity": 2.735,
+      "profile_path": "/gVnwovXGgGcny8LJ3w9j3I9xTE7.jpg"
+    },
+    {
+      "personId": 28410,
+      "name": "Jake Busey",
+      "character": "Johnny Bartlett",
+      "order": 6,
+      "cast_id": 12,
+      "popularity": 9.539,
+      "profile_path": "/3WknfRePAvwFJfrbYVvfYXTQCh9.jpg"
+    },
+    {
+      "personId": 8687,
+      "name": "Chi McBride",
+      "character": "Cyrus",
+      "order": 7,
+      "cast_id": 13,
+      "popularity": 2.2335,
+      "profile_path": "/cesCeJZ5gSywA9lTYReB5uhkfek.jpg"
+    },
+    {
+      "personId": 101776,
+      "name": "Jim Fyfe",
+      "character": "Stuart",
+      "order": 8,
+      "cast_id": 18,
+      "popularity": 0.9416,
+      "profile_path": "/nBarlSLF3cGe1YQcxbDLPkG3XuV.jpg"
+    },
+    {
+      "personId": 31006,
+      "name": "Troy Evans",
+      "character": "Sheriff Perry",
+      "order": 9,
+      "cast_id": 19,
+      "popularity": 2.1307,
+      "profile_path": "/hRdsLKr430COdIIyeHY3QAdg45e.jpg"
+    },
+    {
+      "personId": 101777,
+      "name": "Julianna McCarthy",
+      "character": "Old Lady Bradley",
+      "order": 10,
+      "cast_id": 20,
+      "popularity": 1.7111,
+      "profile_path": "/vNQRuYWIde8vUgs66S6MD1Y8FJP.jpg"
+    },
+    {
+      "personId": 8655,
+      "name": "R. Lee Ermey",
+      "character": "Hiles",
+      "order": 11,
+      "cast_id": 21,
+      "popularity": 1.6841,
+      "profile_path": "/aXFJlEGHlQT7bwxkKwq6Sx7PeEp.jpg"
+    },
+    {
+      "personId": 5533,
+      "name": "Elizabeth Hawthorne",
+      "character": "Magda Rees-Jones",
+      "order": 12,
+      "cast_id": 22,
+      "popularity": 0.7675,
+      "profile_path": "/mEL8pNamxnhIGvLwEro0H1vTmkm.jpg"
+    },
+    {
+      "personId": 1236966,
+      "name": "Angela Bloomfield",
+      "character": "Debra Bannister",
+      "order": 13,
+      "cast_id": 53,
+      "popularity": 0.4192,
+      "profile_path": "/fpi97jiHxjPFhrqe9cC94CtWSCE.jpg"
+    },
+    {
+      "personId": 135316,
+      "name": "Desmond Kelly",
+      "character": "Harry Sinclair",
+      "order": 14,
+      "cast_id": 54,
+      "popularity": 0.2678,
+      "profile_path": null
+    },
+    {
+      "personId": 132659,
+      "name": "Jonathan Blick",
+      "character": "Steve Bayliss",
+      "order": 15,
+      "cast_id": 55,
+      "popularity": 0.4667,
+      "profile_path": "/7l7nL9sNvcY2CtT6Tlj8IIcByxS.jpg"
+    },
+    {
+      "personId": 1336161,
+      "name": "Todd Rippon",
+      "character": "Deputy",
+      "order": 16,
+      "cast_id": 121,
+      "popularity": 0.8586,
+      "profile_path": "/t4hW0lz412I2Ss8Wiudi56VWXFi.jpg"
+    },
+    {
+      "personId": 3495,
+      "name": "John Sumner",
+      "character": "Deputy",
+      "order": 17,
+      "cast_id": 122,
+      "popularity": 0.4283,
+      "profile_path": "/rsyOO8YniQa0vQKklUYWYVOUyoO.jpg"
+    },
+    {
+      "personId": 1764602,
+      "name": "Michael Robinson",
+      "character": "Deputy",
+      "order": 18,
+      "cast_id": 52,
+      "popularity": 0.4735,
+      "profile_path": "/Aih7xtpeRdgd4ep2q3CCjF3a3fJ.jpg"
+    },
+    {
+      "personId": 196780,
+      "name": "Jim McLarty",
+      "character": "Deputy",
+      "order": 19,
+      "cast_id": 123,
+      "popularity": 1.7776,
+      "profile_path": "/jKct2L7VLmUVaj8T506j8IigtiJ.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 108,
+      "name": "Peter Jackson",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 3.415,
+      "profile_path": "/bNc908d59Ba8VDNr4eCcm4G1cR.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 5600,
+      "name": "daughter"
+    },
+    {
+      "id": 1415,
+      "name": "small town"
+    },
+    {
+      "id": 456,
+      "name": "mother"
+    },
+    {
+      "id": 798,
+      "name": "sheriff"
+    },
+    {
+      "id": 934,
+      "name": "judge"
+    },
+    {
+      "id": 3739,
+      "name": "funeral"
+    },
+    {
+      "id": 4129,
+      "name": "widow"
+    },
+    {
+      "id": 1812,
+      "name": "fbi"
+    },
+    {
+      "id": 2301,
+      "name": "architect"
+    },
+    {
+      "id": 6152,
+      "name": "supernatural"
+    },
+    {
+      "id": 3350,
+      "name": "poltergeist"
+    },
+    {
+      "id": 6154,
+      "name": "hell"
+    },
+    {
+      "id": 3202,
+      "name": "con man"
+    },
+    {
+      "id": 4553,
+      "name": "black humor"
+    },
+    {
+      "id": 4663,
+      "name": "lovers"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 11454,
+      "name": "scam"
+    },
+    {
+      "id": 10714,
+      "name": "serial killer"
+    },
+    {
+      "id": 11187,
+      "name": "grim reaper"
+    },
+    {
+      "id": 12193,
+      "name": "reporter"
+    },
+    {
+      "id": 13005,
+      "name": "doctor"
+    },
+    {
+      "id": 13063,
+      "name": "car accident"
+    },
+    {
+      "id": 14780,
+      "name": "investigator"
+    },
+    {
+      "id": 33476,
+      "name": "widower"
+    },
+    {
+      "id": 156661,
+      "name": "threat"
+    },
+    {
+      "id": 157701,
+      "name": "psychotic"
+    },
+    {
+      "id": 158086,
+      "name": "recluse"
+    },
+    {
+      "id": 162846,
+      "name": "ghost"
+    },
+    {
+      "id": 166512,
+      "name": "graveyard"
+    },
+    {
+      "id": 173224,
+      "name": "multiple murder"
+    },
+    {
+      "id": 187288,
+      "name": "army sergeant"
+    },
+    {
+      "id": 230191,
+      "name": "haunted"
+    },
+    {
+      "id": 259376,
+      "name": "playful"
+    }
+  ]
+}

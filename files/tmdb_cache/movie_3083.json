@@ -1,0 +1,318 @@
+{
+  "overview": "After the death of a United States Senator, idealistic Jefferson Smith is appointed as his replacement in Washington. Soon, the naive and earnest new senator has to battle political corruption.",
+  "release_date": "1939-10-19",
+  "runtime": 130,
+  "budget": 1500000,
+  "revenue": 9600000,
+  "tmdb_vote_average": 7.838,
+  "tmdb_vote_count": 1148,
+  "tmdb_popularity": 1.6415,
+  "original_language": "en",
+  "poster_path": "/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+  "backdrop_path": "/9AjG0YJLgDUtHl5KgrThHPhNNwZ.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 854,
+      "name": "James Stewart",
+      "character": "Jefferson Smith",
+      "order": 0,
+      "cast_id": 9,
+      "popularity": 3.0543,
+      "profile_path": "/jam9DRhOuKomlr0vUXTamPoxPdk.jpg"
+    },
+    {
+      "personId": 30210,
+      "name": "Jean Arthur",
+      "character": "Clarissa Saunders",
+      "order": 1,
+      "cast_id": 8,
+      "popularity": 1.075,
+      "profile_path": "/h46KhIQOOMPUMIdGNSN3A4zwcGQ.jpg"
+    },
+    {
+      "personId": 4113,
+      "name": "Claude Rains",
+      "character": "Joseph Paine",
+      "order": 2,
+      "cast_id": 10,
+      "popularity": 1.1896,
+      "profile_path": "/agbKGRcw65QRfMPm1aDijUL1Lqd.jpg"
+    },
+    {
+      "personId": 30211,
+      "name": "Edward Arnold",
+      "character": "Jim Taylor",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 1.2356,
+      "profile_path": "/iQfNbKGtR5SL5CCfFhsuqTbQw3D.jpg"
+    },
+    {
+      "personId": 30002,
+      "name": "Guy Kibbee",
+      "character": "Governor Hopper",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 0.8874,
+      "profile_path": "/dYPlMilU91vyesTKvsZE6l9dlL1.jpg"
+    },
+    {
+      "personId": 3383,
+      "name": "Thomas Mitchell",
+      "character": "Diz Moore",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 1.8095,
+      "profile_path": "/uOhcftGVj7tPrCKBYHYtYPlQKUP.jpg"
+    },
+    {
+      "personId": 8728,
+      "name": "Eugene Pallette",
+      "character": "Chick McGann",
+      "order": 6,
+      "cast_id": 14,
+      "popularity": 1.8192,
+      "profile_path": "/y3n1c9qjmJzGeZWihwm0QWlmDoR.jpg"
+    },
+    {
+      "personId": 17755,
+      "name": "Beulah Bondi",
+      "character": "Ma Smith",
+      "order": 7,
+      "cast_id": 15,
+      "popularity": 0.882,
+      "profile_path": "/eMBdRplrMZfv7xC5FjzfOiOOb3E.jpg"
+    },
+    {
+      "personId": 33278,
+      "name": "H.B. Warner",
+      "character": "Senate Majority Leader",
+      "order": 8,
+      "cast_id": 55,
+      "popularity": 0.7102,
+      "profile_path": "/be4wXVyhbvdbViK0gOZSrdbfie8.jpg"
+    },
+    {
+      "personId": 30212,
+      "name": "Harry Carey",
+      "character": "President of the Senate",
+      "order": 9,
+      "cast_id": 17,
+      "popularity": 1.0472,
+      "profile_path": "/AvNDsYjkLgeFHbxGFIFyl6QRgeM.jpg"
+    },
+    {
+      "personId": 119898,
+      "name": "Astrid Allwyn",
+      "character": "Susan Paine",
+      "order": 10,
+      "cast_id": 56,
+      "popularity": 0.9657,
+      "profile_path": "/A8ncjTYPkOnA9VSIynMdsbAh908.jpg"
+    },
+    {
+      "personId": 30214,
+      "name": "Ruth Donnelly",
+      "character": "Emma Hopper",
+      "order": 11,
+      "cast_id": 19,
+      "popularity": 0.5509,
+      "profile_path": "/xg5Gq8nBGddGv4n2DQvgxZbtRNK.jpg"
+    },
+    {
+      "personId": 30215,
+      "name": "Grant Mitchell",
+      "character": "Senator MacPherson",
+      "order": 12,
+      "cast_id": 20,
+      "popularity": 0.9808,
+      "profile_path": "/aK0rpMG4ALS3B6sVqb9cvLsPtJS.jpg"
+    },
+    {
+      "personId": 14975,
+      "name": "Porter Hall",
+      "character": "Senator Monroe",
+      "order": 13,
+      "cast_id": 21,
+      "popularity": 0.6559,
+      "profile_path": "/249Hlfx23i69MsA3rLnC185kbwT.jpg"
+    },
+    {
+      "personId": 30216,
+      "name": "Pierre Watkin",
+      "character": "Senator Barnes",
+      "order": 14,
+      "cast_id": 22,
+      "popularity": 0.73,
+      "profile_path": "/w36vNJFvQDiDyuC9zvT8nNZajhA.jpg"
+    },
+    {
+      "personId": 29579,
+      "name": "Charles Lane",
+      "character": "Nosey",
+      "order": 15,
+      "cast_id": 23,
+      "popularity": 1.3649,
+      "profile_path": "/ghyuQ8HoIY1ozRzbLGJNl2d1dz6.jpg"
+    },
+    {
+      "personId": 21510,
+      "name": "William Demarest",
+      "character": "Bill Griffith",
+      "order": 16,
+      "cast_id": 24,
+      "popularity": 0.9731,
+      "profile_path": "/yNr9tzg17nMsrfxqriaWg7PEBlV.jpg"
+    },
+    {
+      "personId": 30217,
+      "name": "Dick Elliott",
+      "character": "Carl Cook",
+      "order": 17,
+      "cast_id": 25,
+      "popularity": 0.6488,
+      "profile_path": "/4v08cvtoM8hjpZh2s9uIJZh75WD.jpg"
+    },
+    {
+      "personId": 30218,
+      "name": "Billy Watson",
+      "character": "Peter Hopper",
+      "order": 18,
+      "cast_id": 26,
+      "popularity": 0.2954,
+      "profile_path": null
+    },
+    {
+      "personId": 30219,
+      "name": "Delmar Watson",
+      "character": "Jimmie Hopper",
+      "order": 19,
+      "cast_id": 27,
+      "popularity": 1.1602,
+      "profile_path": "/zvQfnB9FepYMBbryCZX1T5FRLNb.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2662,
+      "name": "Frank Capra",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8336,
+      "profile_path": "/1OTZ7CEdEawDgA4qiBidpWTKE2x.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 5744,
+      "name": "governor"
+    },
+    {
+      "id": 521,
+      "name": "washington dc, usa"
+    },
+    {
+      "id": 1399,
+      "name": "senate"
+    },
+    {
+      "id": 2944,
+      "name": "senator"
+    },
+    {
+      "id": 4674,
+      "name": "sightseeing"
+    },
+    {
+      "id": 6083,
+      "name": "politician"
+    },
+    {
+      "id": 9031,
+      "name": "idealist"
+    },
+    {
+      "id": 9862,
+      "name": "dam"
+    },
+    {
+      "id": 11663,
+      "name": "camp"
+    },
+    {
+      "id": 11937,
+      "name": "conservative"
+    },
+    {
+      "id": 12999,
+      "name": "black and white"
+    },
+    {
+      "id": 14588,
+      "name": "disillusionment"
+    },
+    {
+      "id": 181659,
+      "name": "political corruption"
+    },
+    {
+      "id": 195541,
+      "name": "integrity"
+    },
+    {
+      "id": 206515,
+      "name": "usa politics"
+    },
+    {
+      "id": 207999,
+      "name": "determination"
+    },
+    {
+      "id": 239276,
+      "name": "filibuster"
+    },
+    {
+      "id": 239277,
+      "name": "walkout"
+    },
+    {
+      "id": 239279,
+      "name": "political machine"
+    },
+    {
+      "id": 239280,
+      "name": "smear campaign"
+    },
+    {
+      "id": 239281,
+      "name": "expulsion attempt"
+    },
+    {
+      "id": 325812,
+      "name": "exhilarated"
+    }
+  ]
+}

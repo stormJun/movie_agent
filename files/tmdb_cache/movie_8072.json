@@ -1,0 +1,234 @@
+{
+  "overview": "Lemmy Caution is on a mission to eliminate Professor Von Braun, the creator of a malevolent computer that rules the city of Alphaville. Befriended by the scientist’s daughter Natasha, Lemmy must unravel the mysteries of the strictly logical Alpha 60 and teach Natasha the meaning of the word “love.”",
+  "release_date": "1965-05-05",
+  "runtime": 99,
+  "budget": 220000,
+  "revenue": 46585,
+  "tmdb_vote_average": 6.928,
+  "tmdb_vote_count": 591,
+  "tmdb_popularity": 2.0785,
+  "original_language": "fr",
+  "poster_path": "/fFJP3D5fJDFxN7ChqSye1DZ0fTL.jpg",
+  "backdrop_path": "/iOUhnp01rP9Xr5QG66LMAKSDkYv.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Science Fiction",
+    "Mystery"
+  ],
+  "production_companies": [
+    {
+      "id": 46654,
+      "name": "Filmstudio",
+      "origin_country": ""
+    },
+    {
+      "id": 54659,
+      "name": "Athos Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 63558,
+      "name": "Chaumiane",
+      "origin_country": ""
+    },
+    {
+      "id": 167776,
+      "name": "André Michelin Productions",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 19794,
+      "name": "Eddie Constantine",
+      "character": "Lemmy Caution",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 0.8204,
+      "profile_path": "/rhxMbjrygEvvxOKJIGiSeXntTN5.jpg"
+    },
+    {
+      "personId": 18197,
+      "name": "Anna Karina",
+      "character": "Natacha von Braun",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 1.3407,
+      "profile_path": "/oSYtIsMpV8sZD6opNrOnWsspR0D.jpg"
+    },
+    {
+      "personId": 30719,
+      "name": "Akim Tamiroff",
+      "character": "Henri Dickson",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 0.8258,
+      "profile_path": "/nhdT4BvYkcHhN8cR1fedWNw5a78.jpg"
+    },
+    {
+      "personId": 1175258,
+      "name": "Valérie Boisgel",
+      "character": "2nd Seductress Third Class (uncredited)",
+      "order": 3,
+      "cast_id": 19,
+      "popularity": 1.7208,
+      "profile_path": "/poLDbYEyRWuyht8e2fuejQo3yWb.jpg"
+    },
+    {
+      "personId": 548814,
+      "name": "Jean-Louis Comolli",
+      "character": "Prof. Jeckell (uncredited)",
+      "order": 4,
+      "cast_id": 13,
+      "popularity": 0.5197,
+      "profile_path": "/jAglwT3DJjmXKe5cVQc28jQhRn2.jpg"
+    },
+    {
+      "personId": 38903,
+      "name": "Michel Delahaye",
+      "character": "von Braun's Assistant (uncredited)",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 0.4202,
+      "profile_path": "/dsKEh9hH1EbcYHOC6c2u1QOySxC.jpg"
+    },
+    {
+      "personId": 246358,
+      "name": "Christa Lang",
+      "character": "1st Seductress Third Class (uncredited)",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 0.4894,
+      "profile_path": "/yd3blC9ZmdSXOm2t4MtXVZYtx7J.jpg"
+    },
+    {
+      "personId": 1653,
+      "name": "Jean-Pierre Léaud",
+      "character": "Breakfast Waiter (uncredited)",
+      "order": 7,
+      "cast_id": 15,
+      "popularity": 1.3025,
+      "profile_path": "/zkWjuuyncnHfYpkUfEguwTTRntb.jpg"
+    },
+    {
+      "personId": 38899,
+      "name": "László Szabó",
+      "character": "Chief Engineer (uncredited)",
+      "order": 8,
+      "cast_id": 14,
+      "popularity": 3.161,
+      "profile_path": "/5kGcihh33EjWxZWQCCMywvKrbpC.jpg"
+    },
+    {
+      "personId": 13696,
+      "name": "Howard Vernon",
+      "character": "Léonard von Braun (uncredited)",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 0.8833,
+      "profile_path": "/wi74uKxjeih5oAXyCTntc00RYF0.jpg"
+    },
+    {
+      "personId": 272877,
+      "name": "Ernest Menzer",
+      "character": "Red Star Hotel Receptionist (uncredited)",
+      "order": 10,
+      "cast_id": 21,
+      "popularity": 0.3785,
+      "profile_path": "/sN2PV6fGkQ23cBPG0jzytDdDue0.jpg"
+    },
+    {
+      "personId": 1301075,
+      "name": "Jean-André Fieschi",
+      "character": "Prof. Heckell (uncredited)",
+      "order": 11,
+      "cast_id": 20,
+      "popularity": 0.2565,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 3776,
+      "name": "Jean-Luc Godard",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.4826,
+      "profile_path": "/zP5EDY5MstfkdBmPXNCj8Y6v5KR.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6025,
+      "name": "photography"
+    },
+    {
+      "id": 4565,
+      "name": "dystopia"
+    },
+    {
+      "id": 3222,
+      "name": "super computer"
+    },
+    {
+      "id": 9887,
+      "name": "surrealism"
+    },
+    {
+      "id": 9807,
+      "name": "film noir"
+    },
+    {
+      "id": 155517,
+      "name": "lemmy caution"
+    },
+    {
+      "id": 155790,
+      "name": "private detective"
+    },
+    {
+      "id": 155845,
+      "name": "french noir"
+    },
+    {
+      "id": 199320,
+      "name": "computer scientist"
+    },
+    {
+      "id": 210512,
+      "name": "future vision"
+    },
+    {
+      "id": 210591,
+      "name": "distant  planet"
+    },
+    {
+      "id": 290902,
+      "name": "authoritarian regime"
+    },
+    {
+      "id": 345640,
+      "name": "technology addiction"
+    },
+    {
+      "id": 350338,
+      "name": "dystopian future"
+    }
+  ]
+}

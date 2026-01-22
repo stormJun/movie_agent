@@ -1,0 +1,339 @@
+{
+  "overview": "In a dystopian future, Dredd, the most famous judge (a cop with instant field judiciary powers) is convicted for a crime he did not commit while his murderous counterpart escapes.",
+  "release_date": "1995-06-30",
+  "runtime": 96,
+  "budget": 90000000,
+  "revenue": 113493481,
+  "tmdb_vote_average": 5.846,
+  "tmdb_vote_count": 2638,
+  "tmdb_popularity": 6.0261,
+  "original_language": "en",
+  "poster_path": "/cfSnKn8NDU3m8UxihjVcYprA0Aq.jpg",
+  "backdrop_path": "/baJHUXBcoaHnMf2sjwegbuhIjEV.jpg",
+  "tmdb_genres_raw": [
+    "Science Fiction",
+    "Action"
+  ],
+  "production_companies": [
+    {
+      "id": 1504,
+      "name": "Cinergi Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 915,
+      "name": "Hollywood Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16483,
+      "name": "Sylvester Stallone",
+      "character": "Judge Joseph Dredd",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 11.3583,
+      "profile_path": "/gn3pDWthJqR0VDYGViGD3048og7.jpg"
+    },
+    {
+      "personId": 2882,
+      "name": "Diane Lane",
+      "character": "Judge Hershey",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 5.5686,
+      "profile_path": "/6OfP3vFMuCL51zamFKgb8aS74hs.jpg"
+    },
+    {
+      "personId": 23346,
+      "name": "Armand Assante",
+      "character": "Rico",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.9588,
+      "profile_path": "/9HbbWAJacTHguO2InDVHKGnaasm.jpg"
+    },
+    {
+      "personId": 60949,
+      "name": "Rob Schneider",
+      "character": "Herman 'Fergee' Ferguson",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 3.9571,
+      "profile_path": "/kVHNFDOGDrC3LjDyYf5RaCd6auK.jpg"
+    },
+    {
+      "personId": 920,
+      "name": "Jürgen Prochnow",
+      "character": "Judge Griffin",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.6544,
+      "profile_path": "/45gcCuTcZdqpVISh5C8q1N9HyEz.jpg"
+    },
+    {
+      "personId": 2201,
+      "name": "Max von Sydow",
+      "character": "Chief Justice Fargo",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 3.8155,
+      "profile_path": "/aUFBsGCN6qpcjsF14LccMzE5ye7.jpg"
+    },
+    {
+      "personId": 64102,
+      "name": "Christopher Adamson",
+      "character": "Mean Machine",
+      "order": 6,
+      "cast_id": 22,
+      "popularity": 0.8064,
+      "profile_path": "/anZJNTCnyeDzeWPnsArEKXfT7gc.jpg"
+    },
+    {
+      "personId": 106765,
+      "name": "Joanna Miles",
+      "character": "Judge Evelyn McGruder",
+      "order": 7,
+      "cast_id": 29,
+      "popularity": 1.4914,
+      "profile_path": "/nC7pXWmI7O9TjHi0kFfskbraBDr.jpg"
+    },
+    {
+      "personId": 6720,
+      "name": "Joan Chen",
+      "character": "Dr. Ilsa Hayden",
+      "order": 8,
+      "cast_id": 30,
+      "popularity": 2.6079,
+      "profile_path": "/yV8glhrxb5m9Uwz4n63JPdVjWvj.jpg"
+    },
+    {
+      "personId": 9296,
+      "name": "Balthazar Getty",
+      "character": "Cadet Nathan Olmeyer",
+      "order": 9,
+      "cast_id": 31,
+      "popularity": 1.6434,
+      "profile_path": "/xhj8GXVRe9h6U1Z9hum4GjyQjNS.jpg"
+    },
+    {
+      "personId": 54,
+      "name": "Maurice Roëves",
+      "character": "Warden Miller",
+      "order": 10,
+      "cast_id": 32,
+      "popularity": 1.8,
+      "profile_path": "/ni8j5n4Vx2mh23N9CkwX9wjbMR5.jpg"
+    },
+    {
+      "personId": 113908,
+      "name": "Ian Dury",
+      "character": "Geiger",
+      "order": 11,
+      "cast_id": 33,
+      "popularity": 0.8737,
+      "profile_path": "/97ggi8jy6O5RDaDtULkOl1YTXoP.jpg"
+    },
+    {
+      "personId": 1125,
+      "name": "Ewen Bremner",
+      "character": "Junior Angel",
+      "order": 12,
+      "cast_id": 34,
+      "popularity": 1.8239,
+      "profile_path": "/kPz9fySywEH9npKnkWE6cvNoItO.jpg"
+    },
+    {
+      "personId": 93477,
+      "name": "Peter Marinker",
+      "character": "Judge Carlos Esposito",
+      "order": 13,
+      "cast_id": 35,
+      "popularity": 1.4985,
+      "profile_path": "/ys24WuW2ebo6KTn0Jz2qJL3RnV9.jpg"
+    },
+    {
+      "personId": 36901,
+      "name": "Martin McDougall",
+      "character": "Twist",
+      "order": 14,
+      "cast_id": 36,
+      "popularity": 0.7292,
+      "profile_path": "/sqosciocBl1OgQmnBXjSOafDvpt.jpg"
+    },
+    {
+      "personId": 14312,
+      "name": "Mitchell Ryan",
+      "character": "Vartis Hammond",
+      "order": 15,
+      "cast_id": 37,
+      "popularity": 1.4805,
+      "profile_path": "/9XrbQfOjDeqjXJUHeSIA6OxJAJa.jpg"
+    },
+    {
+      "personId": 6914,
+      "name": "Scott Wilson",
+      "character": "Pa Angel",
+      "order": 16,
+      "cast_id": 38,
+      "popularity": 1.485,
+      "profile_path": "/ynH2YOLn0A7iIlmMiiWAGtC76Hx.jpg"
+    },
+    {
+      "personId": 58475,
+      "name": "Angus MacInnes",
+      "character": "Judge Silver",
+      "order": 17,
+      "cast_id": 39,
+      "popularity": 2.4205,
+      "profile_path": "/ylhpfXbXZ5Hr1qV3WhhbjJstgGh.jpg"
+    },
+    {
+      "personId": 130464,
+      "name": "Louise Delamere",
+      "character": "Locker Judge",
+      "order": 18,
+      "cast_id": 40,
+      "popularity": 1.9007,
+      "profile_path": "/cKa154VIGEKorRtO9h93scygnm3.jpg"
+    },
+    {
+      "personId": 1781215,
+      "name": "Phil Smeeton",
+      "character": "Fink Angel",
+      "order": 19,
+      "cast_id": 41,
+      "popularity": 0.3872,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 33279,
+      "name": "Danny Cannon",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.9087,
+      "profile_path": "/2jPyhdEnrA32MWsWDdQ9FJdz6vR.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 417,
+      "name": "corruption"
+    },
+    {
+      "id": 934,
+      "name": "judge"
+    },
+    {
+      "id": 4565,
+      "name": "dystopia"
+    },
+    {
+      "id": 9715,
+      "name": "superhero"
+    },
+    {
+      "id": 4458,
+      "name": "post-apocalyptic future"
+    },
+    {
+      "id": 3289,
+      "name": "villain"
+    },
+    {
+      "id": 11038,
+      "name": "trial"
+    },
+    {
+      "id": 9717,
+      "name": "based on comic"
+    },
+    {
+      "id": 12190,
+      "name": "cyberpunk"
+    },
+    {
+      "id": 15090,
+      "name": "police officer"
+    },
+    {
+      "id": 15095,
+      "name": "revenge motive"
+    },
+    {
+      "id": 15108,
+      "name": "justice"
+    },
+    {
+      "id": 18712,
+      "name": "based on graphic novel"
+    },
+    {
+      "id": 160159,
+      "name": "frame up"
+    },
+    {
+      "id": 163081,
+      "name": "law enforcement"
+    },
+    {
+      "id": 180172,
+      "name": "framed for murder"
+    },
+    {
+      "id": 182703,
+      "name": "gene"
+    },
+    {
+      "id": 182706,
+      "name": "prosthetic limb"
+    },
+    {
+      "id": 182711,
+      "name": "dna testing"
+    },
+    {
+      "id": 203493,
+      "name": "domineering"
+    },
+    {
+      "id": 214715,
+      "name": "futuristic city"
+    },
+    {
+      "id": 219404,
+      "name": "action hero"
+    },
+    {
+      "id": 269233,
+      "name": "good versus evil"
+    },
+    {
+      "id": 325844,
+      "name": "ridiculous"
+    }
+  ]
+}

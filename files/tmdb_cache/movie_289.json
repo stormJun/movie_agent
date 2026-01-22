@@ -1,0 +1,310 @@
+{
+  "overview": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
+  "release_date": "1943-01-15",
+  "runtime": 103,
+  "budget": 878000,
+  "revenue": 10462500,
+  "tmdb_vote_average": 8.145,
+  "tmdb_vote_count": 5856,
+  "tmdb_popularity": 6.6861,
+  "original_language": "en",
+  "poster_path": "/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+  "backdrop_path": "/87wqeMeUeMRLjsE1IWNKJcPlpuC.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "de",
+      "name": "Deutsch"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "it",
+      "name": "Italiano"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4110,
+      "name": "Humphrey Bogart",
+      "character": "Rick Blaine",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 1.7595,
+      "profile_path": "/4pk2VbOb2td7iBZyir6Ji46HH4N.jpg"
+    },
+    {
+      "personId": 4111,
+      "name": "Ingrid Bergman",
+      "character": "Ilsa Lund",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 2.1028,
+      "profile_path": "/jXEE0P6705JbMAJ2nwtHjmqkd5F.jpg"
+    },
+    {
+      "personId": 4112,
+      "name": "Paul Henreid",
+      "character": "Victor Laszlo",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 0.9238,
+      "profile_path": "/kqlDSharpQjqeNVS5BZkqqJl3ZF.jpg"
+    },
+    {
+      "personId": 4113,
+      "name": "Claude Rains",
+      "character": "Captain Louis Renault",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 1.1896,
+      "profile_path": "/agbKGRcw65QRfMPm1aDijUL1Lqd.jpg"
+    },
+    {
+      "personId": 3001,
+      "name": "Conrad Veidt",
+      "character": "Major Heinrich Strasser",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 1.0889,
+      "profile_path": "/AkRjkTKXIUoPlczpPegaiFeg4lu.jpg"
+    },
+    {
+      "personId": 4114,
+      "name": "Sydney Greenstreet",
+      "character": "Signor Ferrari",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 0.6708,
+      "profile_path": "/67bcDUjZEXrTpOTejsweP53KQGV.jpg"
+    },
+    {
+      "personId": 2094,
+      "name": "Peter Lorre",
+      "character": "Ugarte",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 1.8094,
+      "profile_path": "/hgum7XGkYgiJ8jkFr4MC03PCnD4.jpg"
+    },
+    {
+      "personId": 94110,
+      "name": "S.Z. Sakall",
+      "character": "Carl",
+      "order": 7,
+      "cast_id": 35,
+      "popularity": 0.7597,
+      "profile_path": "/AviTmjTn7MUezntky2YqBUh9Jiu.jpg"
+    },
+    {
+      "personId": 4116,
+      "name": "Madeleine Lebeau",
+      "character": "Yvonne",
+      "order": 8,
+      "cast_id": 9,
+      "popularity": 0.735,
+      "profile_path": "/4Mx6Nj7sPwA8OWHgcWOTL6OXWWE.jpg"
+    },
+    {
+      "personId": 4117,
+      "name": "Dooley Wilson",
+      "character": "Sam",
+      "order": 9,
+      "cast_id": 10,
+      "popularity": 1.2673,
+      "profile_path": "/eLXMuPM0lBXvmikeT77alaNPcgX.jpg"
+    },
+    {
+      "personId": 4118,
+      "name": "Joy Page",
+      "character": "Annina Brandel",
+      "order": 10,
+      "cast_id": 11,
+      "popularity": 0.5574,
+      "profile_path": "/bCwMkDrF0kUECkEoJ00fofLSXeo.jpg"
+    },
+    {
+      "personId": 4119,
+      "name": "John Qualen",
+      "character": "Berger",
+      "order": 11,
+      "cast_id": 12,
+      "popularity": 1.2486,
+      "profile_path": "/aMuzXYaBmblQm95JxHZrmseeIYh.jpg"
+    },
+    {
+      "personId": 4120,
+      "name": "Leonid Kinskey",
+      "character": "Sascha",
+      "order": 12,
+      "cast_id": 13,
+      "popularity": 1.6644,
+      "profile_path": "/e5WkDoFos1oolme2fbKNa6wgGqe.jpg"
+    },
+    {
+      "personId": 2313,
+      "name": "Curt Bois",
+      "character": "Pickpocket",
+      "order": 13,
+      "cast_id": 14,
+      "popularity": 0.7229,
+      "profile_path": "/r7C49zEsGX7uG7SlcRegJlNGUI2.jpg"
+    },
+    {
+      "personId": 1331750,
+      "name": "Enrique Acosta",
+      "character": "Guest at Rick's (uncredited)",
+      "order": 14,
+      "cast_id": 38,
+      "popularity": 1.1791,
+      "profile_path": "/sQp9QLTnRYaLQOUkM9gNKP5OU3P.jpg"
+    },
+    {
+      "personId": 121320,
+      "name": "Ed Agresti",
+      "character": "Bar Patron (uncredited)",
+      "order": 15,
+      "cast_id": 39,
+      "popularity": 0.4926,
+      "profile_path": null
+    },
+    {
+      "personId": 1224787,
+      "name": "Louis V. Arco",
+      "character": "Refugee at Rick's (uncredited)",
+      "order": 16,
+      "cast_id": 40,
+      "popularity": 0.6556,
+      "profile_path": null
+    },
+    {
+      "personId": 1331753,
+      "name": "Frank Arnold",
+      "character": "Overseer (uncredited)",
+      "order": 17,
+      "cast_id": 41,
+      "popularity": 0.08,
+      "profile_path": null
+    },
+    {
+      "personId": 95054,
+      "name": "Leon Belasco",
+      "character": "Dealer at Rick's (uncredited)",
+      "order": 18,
+      "cast_id": 42,
+      "popularity": 0.3846,
+      "profile_path": "/AuimSqbQ7lmRNIUmuMEkGguamJ9.jpg"
+    },
+    {
+      "personId": 1331754,
+      "name": "Nino Bellini",
+      "character": "Gendarme (uncredited)",
+      "order": 19,
+      "cast_id": 43,
+      "popularity": 0.1851,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 4109,
+      "name": "Michael Curtiz",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.6805,
+      "profile_path": "/AnxPuEsdjPTJ6uIaHY0KdgBeu7t.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 417,
+      "name": "corruption"
+    },
+    {
+      "id": 2652,
+      "name": "nazi"
+    },
+    {
+      "id": 10685,
+      "name": "escape"
+    },
+    {
+      "id": 128,
+      "name": "love triangle"
+    },
+    {
+      "id": 836,
+      "name": "resistance"
+    },
+    {
+      "id": 470,
+      "name": "spy"
+    },
+    {
+      "id": 1627,
+      "name": "patriotism"
+    },
+    {
+      "id": 1623,
+      "name": "casablanca, morocco"
+    },
+    {
+      "id": 1624,
+      "name": "vichy regime"
+    },
+    {
+      "id": 1626,
+      "name": "visa"
+    },
+    {
+      "id": 1628,
+      "name": "nationalism"
+    },
+    {
+      "id": 1956,
+      "name": "world war ii"
+    },
+    {
+      "id": 1629,
+      "name": "morocco"
+    },
+    {
+      "id": 9807,
+      "name": "film noir"
+    },
+    {
+      "id": 12999,
+      "name": "black and white"
+    },
+    {
+      "id": 273967,
+      "name": "war"
+    },
+    {
+      "id": 319319,
+      "name": "sentimental"
+    }
+  ]
+}

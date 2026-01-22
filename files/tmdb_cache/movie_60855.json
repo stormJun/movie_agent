@@ -1,0 +1,290 @@
+{
+  "overview": "Jade Li is a feisty, 20-something Chinese Canadian, trying to achieve that happy medium between giving in to her parent's wishes and fulfilling her own needs and desires - double happiness. Naturally, something's got to give and when love beckons in the shape of Mark, a white university student, the facade of the perfect Chinese daughter begins to slip.",
+  "release_date": "1994-09-07",
+  "runtime": 87,
+  "budget": 0,
+  "revenue": 759393,
+  "tmdb_vote_average": 6.25,
+  "tmdb_vote_count": 18,
+  "tmdb_popularity": 4.5647,
+  "original_language": "en",
+  "poster_path": "/5sbnCdiFoZLe4G27ERS7wtj1lCY.jpg",
+  "backdrop_path": "/o48Dkq4ImR7Infhp8KWmX8kEVH4.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Romance",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 806,
+      "name": "Téléfilm Canada",
+      "origin_country": "CA"
+    },
+    {
+      "id": 8,
+      "name": "Fine Line Features",
+      "origin_country": "US"
+    },
+    {
+      "id": 10473,
+      "name": "ONF | NFB",
+      "origin_country": "CA"
+    },
+    {
+      "id": 40742,
+      "name": "New Views Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "cn",
+      "name": "广州话 / 廣州話"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 25540,
+      "name": "Sandra Oh",
+      "character": "Jade Li",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.5866,
+      "profile_path": "/zU8vjebHxcP60ESEL5Ok68KWZvj.jpg"
+    },
+    {
+      "personId": 158567,
+      "name": "Stephen Chang",
+      "character": "Dad Li",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.6048,
+      "profile_path": "/8AjJon36Fx1UrS8qPi8PnrvTC6L.jpg"
+    },
+    {
+      "personId": 158522,
+      "name": "Alannah Ong",
+      "character": "Mom Li",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.5196,
+      "profile_path": "/kS0pq5LgZLd5VyriGcEm2Vw8TgU.jpg"
+    },
+    {
+      "personId": 231844,
+      "name": "Frances You",
+      "character": "Pearl Li",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 0.3586,
+      "profile_path": null
+    },
+    {
+      "personId": 86766,
+      "name": "Donald Fong",
+      "character": "Ah Hong",
+      "order": 4,
+      "cast_id": 4,
+      "popularity": 0.5106,
+      "profile_path": null
+    },
+    {
+      "personId": 540,
+      "name": "Callum Keith Rennie",
+      "character": "Mark",
+      "order": 5,
+      "cast_id": 34,
+      "popularity": 2.1107,
+      "profile_path": "/zOeA4IR4xYde2VlDsHZy2SoPZkc.jpg"
+    },
+    {
+      "personId": 4900035,
+      "name": "Claudette Carracedo",
+      "character": "Lisa",
+      "order": 6,
+      "cast_id": 37,
+      "popularity": 0.2969,
+      "profile_path": null
+    },
+    {
+      "personId": 1240565,
+      "name": "Gene Kiniski",
+      "character": "Man at Bus Stop",
+      "order": 7,
+      "cast_id": 36,
+      "popularity": 0.1969,
+      "profile_path": "/clyqqs3W3fECn6rzpE3XkvsUz2a.jpg"
+    },
+    {
+      "personId": 4900036,
+      "name": "Greg Chan",
+      "character": "Uncle Bing",
+      "order": 8,
+      "cast_id": 38,
+      "popularity": 0.2759,
+      "profile_path": null
+    },
+    {
+      "personId": 4900042,
+      "name": "Mimi Mok",
+      "character": "Mrs. Mar",
+      "order": 9,
+      "cast_id": 46,
+      "popularity": 0.0362,
+      "profile_path": null
+    },
+    {
+      "personId": 158609,
+      "name": "Lesley Ewen",
+      "character": "Carmen",
+      "order": 10,
+      "cast_id": 40,
+      "popularity": 0.8084,
+      "profile_path": "/giNlLPIhIJIXa4jK9pv63BTCC82.jpg"
+    },
+    {
+      "personId": 4900038,
+      "name": "Estelle Coppens",
+      "character": "Lead Woman",
+      "order": 11,
+      "cast_id": 39,
+      "popularity": 0.0441,
+      "profile_path": null
+    },
+    {
+      "personId": 4900039,
+      "name": "Nathan Fong",
+      "character": "Dr. Ming Chu/Bartender",
+      "order": 12,
+      "cast_id": 41,
+      "popularity": 0.0932,
+      "profile_path": null
+    },
+    {
+      "personId": 1218912,
+      "name": "Dennis Foon",
+      "character": "Director",
+      "order": 13,
+      "cast_id": 42,
+      "popularity": 0.4473,
+      "profile_path": null
+    },
+    {
+      "personId": 121745,
+      "name": "Kevin Kelly",
+      "character": "Lead Man",
+      "order": 14,
+      "cast_id": 43,
+      "popularity": 0.2291,
+      "profile_path": null
+    },
+    {
+      "personId": 4900040,
+      "name": "Tosca Chin Wah Leong",
+      "character": "Linda Taylor Wong",
+      "order": 15,
+      "cast_id": 44,
+      "popularity": 0.2108,
+      "profile_path": null
+    },
+    {
+      "personId": 4900041,
+      "name": "Johnny Mah",
+      "character": "Andrew Chau",
+      "order": 16,
+      "cast_id": 45,
+      "popularity": 0.1819,
+      "profile_path": null
+    },
+    {
+      "personId": 1491628,
+      "name": "Laara Ong",
+      "character": "Selina",
+      "order": 17,
+      "cast_id": 47,
+      "popularity": 1.1687,
+      "profile_path": null
+    },
+    {
+      "personId": 4900043,
+      "name": "Tony Seaver",
+      "character": "Bouncer",
+      "order": 18,
+      "cast_id": 48,
+      "popularity": 0.1155,
+      "profile_path": null
+    },
+    {
+      "personId": 2092111,
+      "name": "Wong Gerald Shuck",
+      "character": "See-Fu Geomancer",
+      "order": 19,
+      "cast_id": 49,
+      "popularity": 0.2376,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1230367,
+      "name": "Mina Shum",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6452,
+      "profile_path": "/5ScY0qUFwkTosreWTddNt64ccj.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 5600,
+      "name": "daughter"
+    },
+    {
+      "id": 2356,
+      "name": "immigrant"
+    },
+    {
+      "id": 970,
+      "name": "parent child relationship"
+    },
+    {
+      "id": 1463,
+      "name": "culture clash"
+    },
+    {
+      "id": 10194,
+      "name": "interracial romance"
+    },
+    {
+      "id": 13043,
+      "name": "dating"
+    },
+    {
+      "id": 18035,
+      "name": "family"
+    },
+    {
+      "id": 33928,
+      "name": "audition"
+    },
+    {
+      "id": 164224,
+      "name": "generation gap"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    }
+  ]
+}

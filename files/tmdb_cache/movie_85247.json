@@ -1,0 +1,161 @@
+{
+  "overview": "Cynical hit man Mick is tiring of his job and asks his boss George for time off. However, George gives him the assignment of his life, prompting Mick's soul-searching to reach new heights. Mick is asked to kill sultry Fiona, who owes George money and claims she wants to die. But as Mick spends time with her, he finds himself falling for her.",
+  "release_date": "1994-09-14",
+  "runtime": 97,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 4.5,
+  "tmdb_vote_count": 14,
+  "tmdb_popularity": 2.271,
+  "original_language": "en",
+  "poster_path": "/nKEwcGrTl0kWcFQlbrhciP8wYtK.jpg",
+  "backdrop_path": "/jU2s64xYJXtmxrnWrey6JPWKFhL.jpg",
+  "tmdb_genres_raw": [
+    "Thriller",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 10348,
+      "name": "Republic Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 37572,
+      "name": "Keystone Film Company (II)",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 57829,
+      "name": "Anthony LaPaglia",
+      "character": "Mick",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 3.3943,
+      "profile_path": "/31fRY01Dq2ebkx09FjuG5g3QW9G.jpg"
+    },
+    {
+      "personId": 13920,
+      "name": "Mimi Rogers",
+      "character": "Fiona",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 3.833,
+      "profile_path": "/o5G9610OuMuVyubfvXwR7rUPfHg.jpg"
+    },
+    {
+      "personId": 13525,
+      "name": "Matt Craven",
+      "character": "Archie",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 2.0438,
+      "profile_path": "/tWF8B3Dj7zvKRmkTplp7ice6Wo9.jpg"
+    },
+    {
+      "personId": 1039,
+      "name": "Peter Boyle",
+      "character": "George",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 2.8603,
+      "profile_path": "/6TapQmC46mPDYrwm67tyJaEM97I.jpg"
+    },
+    {
+      "personId": 101905,
+      "name": "Monika Schnarre",
+      "character": "Laura",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 0.8109,
+      "profile_path": "/wx1zAdVJqC8hPvZEPcVS5lvcW2X.jpg"
+    },
+    {
+      "personId": 20626,
+      "name": "Joseph Maher",
+      "character": "Dr. Alstricht",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 1.0864,
+      "profile_path": "/fdwV2XY41qJ7U4aO9xAZkJpJwXe.jpg"
+    },
+    {
+      "personId": 32751,
+      "name": "Mark Acheson",
+      "character": "Hellbig",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 1.7133,
+      "profile_path": "/84KnNSPJGQvVD57aDlhyUfFO7vz.jpg"
+    },
+    {
+      "personId": 976171,
+      "name": "Philip Maurice Hayes",
+      "character": "FBI Agent",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 0.7927,
+      "profile_path": "/gK7Vs6W6acXXWJZCNpWjXLmeHEa.jpg"
+    },
+    {
+      "personId": 151360,
+      "name": "Justine Priestley",
+      "character": "Masseuse",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 1.2697,
+      "profile_path": "/56XkjLbefJhK627WYURUMuPP5Ym.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 85547,
+      "name": "Mark Malone",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6152,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2708,
+      "name": "hitman"
+    },
+    {
+      "id": 179430,
+      "name": "aftercreditsstinger"
+    },
+    {
+      "id": 207268,
+      "name": "neo-noir"
+    },
+    {
+      "id": 208376,
+      "name": "willing to be murdered"
+    }
+  ]
+}

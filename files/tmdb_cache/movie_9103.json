@@ -1,0 +1,302 @@
+{
+  "overview": "Ghang-gheng, the ancient winner-take-all competition in which the deadliest fighters from around the world employ the most spectacular feats of martial arts skills ever displayed in order to win the prized Golden Dragon. But fighting prowess alone will not be enough for Chris to triumph over such daunting foes.",
+  "release_date": "1996-04-19",
+  "runtime": 95,
+  "budget": 30000000,
+  "revenue": 57400547,
+  "tmdb_vote_average": 6.2,
+  "tmdb_vote_count": 768,
+  "tmdb_popularity": 2.9192,
+  "original_language": "en",
+  "poster_path": "/xMDo0ewl6XMZei44UNGMfho6eBq.jpg",
+  "backdrop_path": "/vY89P28kXOJCJDfbgjibKqFCydL.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 2982,
+      "name": "Signature Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 10828,
+      "name": "MDP Worldwide",
+      "origin_country": "US"
+    },
+    {
+      "id": 38114,
+      "name": "Selima Films AVV",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 15111,
+      "name": "Jean-Claude Van Damme",
+      "character": "Christopher Dubois",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 8.058,
+      "profile_path": "/v4hqSYeG17WOMp0xNjoWgi8Vbyn.jpg"
+    },
+    {
+      "personId": 10222,
+      "name": "Roger Moore",
+      "character": "Lord Edgar Dobbs",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 3.6205,
+      "profile_path": "/6sZGGtq7RHt8Pg6ynUMrPJPuTlj.jpg"
+    },
+    {
+      "personId": 1736,
+      "name": "James Remar",
+      "character": "Maxie Devine",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 5.9465,
+      "profile_path": "/56LwfMaMge2LmWYI46O6R2Wm0YX.jpg"
+    },
+    {
+      "personId": 10489,
+      "name": "Jack McGee",
+      "character": "Harry Smythe",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 2.9765,
+      "profile_path": "/4fmjQ4z0Y7UraH8Pk2qxABvwmGS.jpg"
+    },
+    {
+      "personId": 54649,
+      "name": "Louis Mandylor",
+      "character": "Riggi",
+      "order": 4,
+      "cast_id": 13,
+      "popularity": 2.115,
+      "profile_path": "/skvNBR83wxjbFj6XuLxWAhCZTmh.jpg"
+    },
+    {
+      "personId": 93345,
+      "name": "Ryan Cutrona",
+      "character": "Officer O'Keefe",
+      "order": 5,
+      "cast_id": 14,
+      "popularity": 1.0306,
+      "profile_path": "/d1WiJvuyZa0XPPi474rytBjmZYF.jpg"
+    },
+    {
+      "personId": 74604,
+      "name": "Ze'ev Revach",
+      "character": "Turk Captain",
+      "order": 6,
+      "cast_id": 15,
+      "popularity": 1.5055,
+      "profile_path": "/stN60HiMmDwcwCykEVfFDyS82Gy.jpg"
+    },
+    {
+      "personId": 56984,
+      "name": "Janet Gunn",
+      "character": "Carrie Newton",
+      "order": 7,
+      "cast_id": 4,
+      "popularity": 1.3646,
+      "profile_path": "/t1YdvyPK0zz9OH2z0UfSspjquqZ.jpg"
+    },
+    {
+      "personId": 41757,
+      "name": "Aki Aleong",
+      "character": "Khao",
+      "order": 8,
+      "cast_id": 5,
+      "popularity": 1.2811,
+      "profile_path": "/Aq3IiDVCgdiOc6nSpzCcmBJoZR4.jpg"
+    },
+    {
+      "personId": 947361,
+      "name": "Abdel Qissi",
+      "character": "Khan (Mongolian Fighter)",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 0.5154,
+      "profile_path": "/afcjtjvxJjcYWjerAZg3NJUbg8R.jpg"
+    },
+    {
+      "personId": 130935,
+      "name": "Shane Meier",
+      "character": "Red",
+      "order": 10,
+      "cast_id": 16,
+      "popularity": 0.9297,
+      "profile_path": "/z3lmQgYB1BX8cTOt4NTqjupgUqp.jpg"
+    },
+    {
+      "personId": 1785844,
+      "name": "Peter Malota",
+      "character": "Spanish Fighter",
+      "order": 11,
+      "cast_id": 17,
+      "popularity": 2.1881,
+      "profile_path": "/nayUfoVh4WSRQmoyXlPJLrp1VUS.jpg"
+    },
+    {
+      "personId": 1158507,
+      "name": "Brick Bronsky",
+      "character": "Russian Fighter",
+      "order": 12,
+      "cast_id": 35,
+      "popularity": 1.3035,
+      "profile_path": "/aSwFt3qedhesbsx2R38FfCcmLJM.jpg"
+    },
+    {
+      "personId": 24968,
+      "name": "Nils Allen Stewart",
+      "character": "Turkish Pirate",
+      "order": 13,
+      "cast_id": 36,
+      "popularity": 1.7333,
+      "profile_path": "/qeTM6yMFJeP9dhudYGAKduzaoGD.jpg"
+    },
+    {
+      "personId": 1044952,
+      "name": "Kris Van Damme",
+      "character": "Young Chris",
+      "order": 14,
+      "cast_id": 37,
+      "popularity": 1.3292,
+      "profile_path": "/4465DC6Fz3RUtOGwD2E4xidFr8z.jpg"
+    },
+    {
+      "personId": 1346928,
+      "name": "Alex Yip Choi-Nam",
+      "character": "Korean Fighter",
+      "order": 15,
+      "cast_id": 38,
+      "popularity": 1.1782,
+      "profile_path": null
+    },
+    {
+      "personId": 2062365,
+      "name": "Wong Ming-Kin",
+      "character": "Chinese Fighter",
+      "order": 16,
+      "cast_id": 39,
+      "popularity": 0.5126,
+      "profile_path": "/6KB218QKBvyJKq0hStnyYvUEJdx.jpg"
+    },
+    {
+      "personId": 84609,
+      "name": "Jen Sung",
+      "character": "Phang (Siamese Fighter)",
+      "order": 17,
+      "cast_id": 40,
+      "popularity": 1.1483,
+      "profile_path": "/e9c3vaTlESZHWOHCOttmCH9AWN7.jpg"
+    },
+    {
+      "personId": 1109268,
+      "name": "Habby Heske",
+      "character": "German Fighter",
+      "order": 18,
+      "cast_id": 41,
+      "popularity": 0.3298,
+      "profile_path": null
+    },
+    {
+      "personId": 1363425,
+      "name": "Stefanos Miltsakakis",
+      "character": "Greek Fighter",
+      "order": 19,
+      "cast_id": 42,
+      "popularity": 0.7025,
+      "profile_path": "/gFRyQci4c7uJrlvCYXi6Snxm1cn.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 15111,
+      "name": "Jean-Claude Van Damme",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 8.058,
+      "profile_path": "/v4hqSYeG17WOMp0xNjoWgi8Vbyn.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 2041,
+      "name": "island"
+    },
+    {
+      "id": 779,
+      "name": "martial arts"
+    },
+    {
+      "id": 486,
+      "name": "himalaya mountain range"
+    },
+    {
+      "id": 397,
+      "name": "bare knuckle boxing"
+    },
+    {
+      "id": 3434,
+      "name": "thailand"
+    },
+    {
+      "id": 8406,
+      "name": "street artist"
+    },
+    {
+      "id": 10514,
+      "name": "muay thai"
+    },
+    {
+      "id": 10515,
+      "name": "kick boxing"
+    },
+    {
+      "id": 15060,
+      "name": "period drama"
+    },
+    {
+      "id": 17977,
+      "name": "underground fighting"
+    },
+    {
+      "id": 219404,
+      "name": "action hero"
+    },
+    {
+      "id": 325851,
+      "name": "straightforward"
+    }
+  ]
+}

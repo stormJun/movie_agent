@@ -1,0 +1,261 @@
+{
+  "overview": "Four young friends, while taking a shortcut en route to a local boxing match, witness a brutal murder which leaves them running for their lives.",
+  "release_date": "1993-10-15",
+  "runtime": 109,
+  "budget": 21000000,
+  "revenue": 12136938,
+  "tmdb_vote_average": 6.459,
+  "tmdb_vote_count": 364,
+  "tmdb_popularity": 1.4008,
+  "original_language": "en",
+  "poster_path": "/3rvvpS9YPM5HB2f4HYiNiJVtdam.jpg",
+  "backdrop_path": "/iUUpKunmBN5l8goObADBaFHnxQ8.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 1644,
+      "name": "Largo Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 182,
+      "name": "JVC",
+      "origin_country": "JP"
+    },
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2880,
+      "name": "Emilio Estevez",
+      "character": "Francis \"Frank\" Wyatt",
+      "order": 0,
+      "cast_id": 7,
+      "popularity": 4.1404,
+      "profile_path": "/6TNIik0wBLo8DTvmJNDkKDqKWme.jpg"
+    },
+    {
+      "personId": 9777,
+      "name": "Cuba Gooding Jr.",
+      "character": "Mike Peterson",
+      "order": 1,
+      "cast_id": 8,
+      "popularity": 5.2278,
+      "profile_path": "/2JguzbpOXoTGzSmLbWFlulKyyAe.jpg"
+    },
+    {
+      "personId": 5724,
+      "name": "Denis Leary",
+      "character": "Fallon",
+      "order": 2,
+      "cast_id": 9,
+      "popularity": 2.6305,
+      "profile_path": "/tAOziVWQBnrW9eR442M6g9SQkmA.jpg"
+    },
+    {
+      "personId": 10822,
+      "name": "Stephen Dorff",
+      "character": "John Wyatt",
+      "order": 3,
+      "cast_id": 22,
+      "popularity": 2.6164,
+      "profile_path": "/bhlM1xNzBvc8jTw42YloUKlGTCL.jpg"
+    },
+    {
+      "personId": 12799,
+      "name": "Jeremy Piven",
+      "character": "Ray Cochran",
+      "order": 4,
+      "cast_id": 10,
+      "popularity": 4.2669,
+      "profile_path": "/pBD1jcAZiDrHWcFpJtBtqLRD4gR.jpg"
+    },
+    {
+      "personId": 11803,
+      "name": "Peter Greene",
+      "character": "Sykes",
+      "order": 5,
+      "cast_id": 11,
+      "popularity": 5.3026,
+      "profile_path": "/kPnF9rK6ULrIycK7n0ewYjInMZG.jpg"
+    },
+    {
+      "personId": 52422,
+      "name": "Michael DeLorenzo",
+      "character": "Teddy, the Kid",
+      "order": 6,
+      "cast_id": 12,
+      "popularity": 1.1984,
+      "profile_path": "/dAYG7AcOYG4ZNEvC8isxBxe5Vjx.jpg"
+    },
+    {
+      "personId": 121667,
+      "name": "Everlast",
+      "character": "Rhodes",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 0.5389,
+      "profile_path": null
+    },
+    {
+      "personId": 102710,
+      "name": "Michael Wiseman",
+      "character": "Travis",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 1.3084,
+      "profile_path": "/hNPX5FGhJVDZIbsMtnoujqGh8Qa.jpg"
+    },
+    {
+      "personId": 1077264,
+      "name": "Relioues Webb",
+      "character": "Dre",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 0.4244,
+      "profile_path": null
+    },
+    {
+      "personId": 154124,
+      "name": "Eugene Williams",
+      "character": "Buck",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 1.2833,
+      "profile_path": null
+    },
+    {
+      "personId": 55964,
+      "name": "Christine Harnos",
+      "character": "Linda Wyatt",
+      "order": 11,
+      "cast_id": 19,
+      "popularity": 0.6514,
+      "profile_path": "/k3Y82zOyU2Tb5U2KEfz9FW1b17s.jpg"
+    },
+    {
+      "personId": 105988,
+      "name": "Galyn Görg",
+      "character": "Clarissa",
+      "order": 12,
+      "cast_id": 20,
+      "popularity": 0.9823,
+      "profile_path": "/sr3PUWk3Qo0b6cYh3pdSloBAgbx.jpg"
+    },
+    {
+      "personId": 22621,
+      "name": "Angela Alvarado",
+      "character": "Rita",
+      "order": 13,
+      "cast_id": 21,
+      "popularity": 1.4332,
+      "profile_path": "/AhxepIZWMZilICWiTEON7LgtNHg.jpg"
+    },
+    {
+      "personId": 1226696,
+      "name": "Will Zahrn",
+      "character": "Charley",
+      "order": 14,
+      "cast_id": 34,
+      "popularity": 1.431,
+      "profile_path": "/5JDnuufySepQ1fig7Hga4xL4nio.jpg"
+    },
+    {
+      "personId": 2557638,
+      "name": "Lauren Robinson",
+      "character": "Angie",
+      "order": 15,
+      "cast_id": 37,
+      "popularity": 0.5151,
+      "profile_path": null
+    },
+    {
+      "personId": 98171,
+      "name": "Doug Wert",
+      "character": "Freeway Driver",
+      "order": 16,
+      "cast_id": 38,
+      "popularity": 0.9777,
+      "profile_path": "/oHHepBik4ByOn3mzEviPNEFhDg.jpg"
+    },
+    {
+      "personId": 2210277,
+      "name": "Raichle Watt",
+      "character": "Driver's Girlfriend",
+      "order": 17,
+      "cast_id": 39,
+      "popularity": 0.2157,
+      "profile_path": null
+    },
+    {
+      "personId": 102572,
+      "name": "Deirdre Kelly",
+      "character": "Neighbor",
+      "order": 18,
+      "cast_id": 40,
+      "popularity": 0.1959,
+      "profile_path": null
+    },
+    {
+      "personId": 3820121,
+      "name": "Kathleen Perkins",
+      "character": "Bus Driver",
+      "order": 19,
+      "cast_id": 41,
+      "popularity": 0.1868,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2042,
+      "name": "Stephen Hopkins",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.8347,
+      "profile_path": "/vaPQMexdI3I33kVWAK3i3OrDxF.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2231,
+      "name": "drug dealer"
+    },
+    {
+      "id": 520,
+      "name": "chicago, illinois"
+    },
+    {
+      "id": 10685,
+      "name": "escape"
+    },
+    {
+      "id": 162914,
+      "name": "one night"
+    },
+    {
+      "id": 209476,
+      "name": "boxing"
+    }
+  ]
+}

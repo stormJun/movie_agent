@@ -1,0 +1,188 @@
+{
+  "overview": "An atmospheric coming-of-age story featuring an imaginative young boy named Marek who dreams of escaping an increasingly dangerous Poland on the eve of war for beautiful Venice.",
+  "release_date": "2010-06-11",
+  "runtime": 110,
+  "budget": 1783810,
+  "revenue": 0,
+  "tmdb_vote_average": 7.0,
+  "tmdb_vote_count": 15,
+  "tmdb_popularity": 2.5418,
+  "original_language": "pl",
+  "poster_path": "/jk8PwaZ14Duxy8hmLbYLFcYTUP9.jpg",
+  "backdrop_path": "/8vrmhLhPucmEOJr6EDxhxzVDMXi.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 10826,
+      "name": "Akson Studio",
+      "origin_country": "PL"
+    },
+    {
+      "id": 6480,
+      "name": "Telewizja Polska",
+      "origin_country": "PL"
+    },
+    {
+      "id": 74211,
+      "name": "Studio Filmowe Tramway",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "PL",
+      "name": "Poland"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "cs",
+      "name": "Český"
+    },
+    {
+      "code": "de",
+      "name": "Deutsch"
+    },
+    {
+      "code": "pl",
+      "name": "Polski"
+    },
+    {
+      "code": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 587975,
+      "name": "Marcin Walewski",
+      "character": "Marek",
+      "order": 0,
+      "cast_id": 1005,
+      "popularity": 0.5081,
+      "profile_path": "/6O87msJH5joLHWwOoa5Dj0vzVCh.jpg"
+    },
+    {
+      "personId": 591258,
+      "name": "Magdalena Cielecka",
+      "character": "Joanna - Marek's mother",
+      "order": 1,
+      "cast_id": 1007,
+      "popularity": 0.5554,
+      "profile_path": "/5lL9yMqYrUAnoi8Twq782YDbL7P.jpg"
+    },
+    {
+      "personId": 140221,
+      "name": "Mariusz Bonaszewski",
+      "character": "Roman - Marek's father",
+      "order": 2,
+      "cast_id": 1008,
+      "popularity": 1.4628,
+      "profile_path": "/ipcLobblABkQp2FP0s5I1Smisak.jpg"
+    },
+    {
+      "personId": 105562,
+      "name": "Agnieszka Grochowska",
+      "character": "Barbara - Joannas sister",
+      "order": 3,
+      "cast_id": 1009,
+      "popularity": 1.1893,
+      "profile_path": "/9XBjnqR2PWw4KdcyTRaTZCFllxu.jpg"
+    },
+    {
+      "personId": 92652,
+      "name": "Grażyna Błęcka-Kolska",
+      "character": "Weronika - Joannas sister",
+      "order": 4,
+      "cast_id": 1010,
+      "popularity": 0.1584,
+      "profile_path": "/xvucStwc5riSPK0kLmQlMehTQX.jpg"
+    },
+    {
+      "personId": 1095650,
+      "name": "Julia Kijowska",
+      "character": "Klaudyna - Joannas sister",
+      "order": 5,
+      "cast_id": 1011,
+      "popularity": 0.9632,
+      "profile_path": "/A5Ji193jOpO8ZDHfttJvXtiz4b8.jpg"
+    },
+    {
+      "personId": 1501229,
+      "name": "Filip Piotrowicz",
+      "character": "Wiktor - Marek's brother",
+      "order": 6,
+      "cast_id": 1018,
+      "popularity": 0.2763,
+      "profile_path": "/xCdrEhcaAyIztHvQ3Y66B81jy8w.jpg"
+    },
+    {
+      "personId": 1138176,
+      "name": "Teresa Budzisz-Krzyżanowska",
+      "character": "Marek's grandmother",
+      "order": 7,
+      "cast_id": 1019,
+      "popularity": 0.7272,
+      "profile_path": "/nIf7cH0346acoT8LRyHB09mJGZj.jpg"
+    },
+    {
+      "personId": 2558670,
+      "name": "Julia Chatys",
+      "character": "Karolina - Klaudyna's daughter",
+      "order": 8,
+      "cast_id": 1020,
+      "popularity": 0.2991,
+      "profile_path": "/oYUxxKCUBOYbSIqHqEhNyVkGHl3.jpg"
+    },
+    {
+      "personId": 2663441,
+      "name": "Hanna Kuzminska",
+      "character": "Zuzia",
+      "order": 9,
+      "cast_id": 1021,
+      "popularity": 0.0423,
+      "profile_path": null
+    },
+    {
+      "personId": 2663442,
+      "name": "Weronika Asińska",
+      "character": "Servant Frosia",
+      "order": 10,
+      "cast_id": 1022,
+      "popularity": 0.1203,
+      "profile_path": "/h10sy2PKB0dDZi1mJOaZQPXMoNZ.jpg"
+    },
+    {
+      "personId": 1247354,
+      "name": "Dana Batulková",
+      "character": "Lillian - Karolina's private tutor",
+      "order": 11,
+      "cast_id": 1023,
+      "popularity": 1.1776,
+      "profile_path": "/dhLQM2xKkX55gMwl7Q0kYyDHlv8.jpg"
+    },
+    {
+      "personId": 1140146,
+      "name": "Krzysztof Wach",
+      "character": "",
+      "order": 12,
+      "cast_id": 1024,
+      "popularity": 0.8648,
+      "profile_path": "/aai75c6zqPOZH6umCnAfnv5pfIP.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 587971,
+      "name": "Jan Jakub Kolski",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.3772,
+      "profile_path": null
+    }
+  ],
+  "keywords": []
+}

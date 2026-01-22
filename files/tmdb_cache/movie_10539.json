@@ -1,0 +1,309 @@
+{
+  "overview": "When the young orphan boy James spills a magic bag of crocodile tongues, he finds himself in possession of a giant peach that flies him away to strange lands.",
+  "release_date": "1996-04-12",
+  "runtime": 79,
+  "budget": 38000000,
+  "revenue": 28946127,
+  "tmdb_vote_average": 6.578,
+  "tmdb_vote_count": 1395,
+  "tmdb_popularity": 3.0047,
+  "original_language": "en",
+  "poster_path": "/vNEGobe23vW43mSPYVaVaBLP6qV.jpg",
+  "backdrop_path": "/6kTLm7zfwKAgAcGnaVU0uT4QYug.jpg",
+  "tmdb_genres_raw": [
+    "Adventure",
+    "Animation",
+    "Family",
+    "Fantasy"
+  ],
+  "production_companies": [
+    {
+      "id": 1755,
+      "name": "Allied Filmmakers",
+      "origin_country": "GB"
+    },
+    {
+      "id": 2,
+      "name": "Walt Disney Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1652305,
+      "name": "Paul Terry",
+      "character": "James Henry Trotter",
+      "order": 0,
+      "cast_id": 62,
+      "popularity": 0.6534,
+      "profile_path": "/v4qP4ghmW71ny7Pvi33ZGzSGZhZ.jpg"
+    },
+    {
+      "personId": 6199,
+      "name": "Miriam Margolyes",
+      "character": "Aunt Sponge / Glowworm (voice)",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 1.9513,
+      "profile_path": "/vsnCGCp0nhJTag56HP8XFhXnZo9.jpg"
+    },
+    {
+      "personId": 34901,
+      "name": "Joanna Lumley",
+      "character": "Aunt Spiker",
+      "order": 2,
+      "cast_id": 2,
+      "popularity": 5.342,
+      "profile_path": "/omQvLqkQf9yemMroaj6MJbf37sf.jpg"
+    },
+    {
+      "personId": 4935,
+      "name": "Pete Postlethwaite",
+      "character": "The Magic Man",
+      "order": 3,
+      "cast_id": 21,
+      "popularity": 2.951,
+      "profile_path": "/4RxwgdF1WXKjXaaAXIWeFqtMWfD.jpg"
+    },
+    {
+      "personId": 4001,
+      "name": "Simon Callow",
+      "character": "Grasshopper (voice)",
+      "order": 4,
+      "cast_id": 29,
+      "popularity": 2.9542,
+      "profile_path": "/no6qlnMrWeUzSt1FjD2Vf9x992e.jpg"
+    },
+    {
+      "personId": 3037,
+      "name": "Richard Dreyfuss",
+      "character": "Centipede (voice)",
+      "order": 5,
+      "cast_id": 5,
+      "popularity": 3.5339,
+      "profile_path": "/q2BPu6zWwFtnzQfpl4fgbKqURXM.jpg"
+    },
+    {
+      "personId": 52951,
+      "name": "Jane Leeves",
+      "character": "Ladybug (voice)",
+      "order": 6,
+      "cast_id": 20,
+      "popularity": 2.2183,
+      "profile_path": "/tx0ukHUVzpzWKOvdfwdhri7rXhE.jpg"
+    },
+    {
+      "personId": 4038,
+      "name": "Susan Sarandon",
+      "character": "Miss Spider (voice)",
+      "order": 7,
+      "cast_id": 4,
+      "popularity": 4.6989,
+      "profile_path": "/jR6l2EfvvGA8qCzZ7MB5FT9ZLkq.jpg"
+    },
+    {
+      "personId": 11207,
+      "name": "David Thewlis",
+      "character": "Earthworm (voice)",
+      "order": 8,
+      "cast_id": 22,
+      "popularity": 6.9501,
+      "profile_path": "/sNuYyT8ocLlQr3TdAW9CoKVbCU8.jpg"
+    },
+    {
+      "personId": 63544,
+      "name": "Steven Culp",
+      "character": "James' Father",
+      "order": 9,
+      "cast_id": 24,
+      "popularity": 2.0819,
+      "profile_path": "/oTD15Qg74sPV2Sj082pNMJ54Y0b.jpg"
+    },
+    {
+      "personId": 1829722,
+      "name": "Susan Turner-Cray",
+      "character": "James' Mother",
+      "order": 10,
+      "cast_id": 77,
+      "popularity": 0.3879,
+      "profile_path": null
+    },
+    {
+      "personId": 1011436,
+      "name": "Cirocco Dunlap",
+      "character": "Girl with Telescope",
+      "order": 11,
+      "cast_id": 25,
+      "popularity": 0.4197,
+      "profile_path": null
+    },
+    {
+      "personId": 12555,
+      "name": "Kathryn Howell",
+      "character": "Woman in Bathrobe",
+      "order": 12,
+      "cast_id": 28,
+      "popularity": 0.547,
+      "profile_path": "/3oH0mOOINunQXhdxW6SAXP3DxA4.jpg"
+    },
+    {
+      "personId": 5170,
+      "name": "Mike Starr",
+      "character": "Cop",
+      "order": 13,
+      "cast_id": 78,
+      "popularity": 2.4783,
+      "profile_path": "/hJGhV91dSUiFJ8GwGDTEEri79LX.jpg"
+    },
+    {
+      "personId": 177175,
+      "name": "Michael Girardin",
+      "character": "Reporter #1",
+      "order": 14,
+      "cast_id": 26,
+      "popularity": 0.3225,
+      "profile_path": null
+    },
+    {
+      "personId": 1011424,
+      "name": "J. Stephen Coyle",
+      "character": "Reporter #2",
+      "order": 15,
+      "cast_id": 23,
+      "popularity": 0.4111,
+      "profile_path": null
+    },
+    {
+      "personId": 215904,
+      "name": "Tony Haney",
+      "character": "Reporter #3",
+      "order": 16,
+      "cast_id": 27,
+      "popularity": 0.7948,
+      "profile_path": "/5oOp3D1C1d0AzDVUBVqDLug3mOG.jpg"
+    },
+    {
+      "personId": 533016,
+      "name": "Mario Yedidia",
+      "character": "Street Kid",
+      "order": 17,
+      "cast_id": 74,
+      "popularity": 0.4967,
+      "profile_path": null
+    },
+    {
+      "personId": 2142877,
+      "name": "Jeff Mosley",
+      "character": "Hard Hat Man",
+      "order": 18,
+      "cast_id": 85,
+      "popularity": 0.8507,
+      "profile_path": "/36rg5YDifingUVlfOrEjtzmBHKX.jpg"
+    },
+    {
+      "personId": 34982,
+      "name": "Jeff Bennett",
+      "character": "Centipede (singing voice) (uncredited)",
+      "order": 19,
+      "cast_id": 80,
+      "popularity": 3.2266,
+      "profile_path": "/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 57646,
+      "name": "Henry Selick",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1914,
+      "profile_path": "/2LvtcpV8njWrp2W9eXmTNjsAWev.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 332,
+      "name": "insect"
+    },
+    {
+      "id": 392,
+      "name": "england"
+    },
+    {
+      "id": 2343,
+      "name": "magic"
+    },
+    {
+      "id": 697,
+      "name": "loss of loved one"
+    },
+    {
+      "id": 2105,
+      "name": "garden"
+    },
+    {
+      "id": 3289,
+      "name": "villain"
+    },
+    {
+      "id": 4344,
+      "name": "musical"
+    },
+    {
+      "id": 9887,
+      "name": "surrealism"
+    },
+    {
+      "id": 6894,
+      "name": "aunt"
+    },
+    {
+      "id": 11477,
+      "name": "anthropomorphism"
+    },
+    {
+      "id": 10121,
+      "name": "stop motion"
+    },
+    {
+      "id": 15101,
+      "name": "based on children's book"
+    },
+    {
+      "id": 167888,
+      "name": "hot dog"
+    },
+    {
+      "id": 168346,
+      "name": "manhattan, new york city"
+    },
+    {
+      "id": 189008,
+      "name": "empire state building"
+    },
+    {
+      "id": 209220,
+      "name": "live action and animation"
+    }
+  ]
+}

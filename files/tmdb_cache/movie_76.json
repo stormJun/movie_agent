@@ -1,0 +1,284 @@
+{
+  "overview": "An unexpected meeting on a train leads two travelers to spend an evening wandering through Vienna. As the night unfolds, they share stories and conversations about life and love, exploring new ideas while a quiet intimacy grows between them, knowing it may be their only night together.",
+  "release_date": "1995-01-27",
+  "runtime": 101,
+  "budget": 2500000,
+  "revenue": 5987386,
+  "tmdb_vote_average": 7.971,
+  "tmdb_vote_count": 4518,
+  "tmdb_popularity": 6.0916,
+  "original_language": "en",
+  "poster_path": "/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg",
+  "backdrop_path": "/qA2TyqPldTtoTVY3LKrNIG5g6bH.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 97,
+      "name": "Castle Rock Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 11510,
+      "name": "Detour Filmproduction",
+      "origin_country": "US"
+    },
+    {
+      "id": 104576,
+      "name": "Filmhaus Films",
+      "origin_country": "AT"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "AT",
+      "name": "Austria"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "de",
+      "name": "Deutsch"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 569,
+      "name": "Ethan Hawke",
+      "character": "Jesse",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 9.0725,
+      "profile_path": "/2LoTr6x0TEM7L5em4kSx1VmGDgG.jpg"
+    },
+    {
+      "personId": 1146,
+      "name": "Julie Delpy",
+      "character": "Céline",
+      "order": 1,
+      "cast_id": 16,
+      "popularity": 2.508,
+      "profile_path": "/rd40f4QpAUUne3hMaUhHrZtcK2c.jpg"
+    },
+    {
+      "personId": 571,
+      "name": "Andrea Eckert",
+      "character": "Wife on Train",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 0.5588,
+      "profile_path": "/4O1mg7OTD2P7oVKIqfJeiLmJq6B.jpg"
+    },
+    {
+      "personId": 572,
+      "name": "Hanno Pöschl",
+      "character": "Husband on Train",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 0.9462,
+      "profile_path": "/gSjETreOKhsgnoo1WqWNKowdIBB.jpg"
+    },
+    {
+      "personId": 573,
+      "name": "Karl Bruckschwaiger",
+      "character": "Guy on Bridge",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 0.2639,
+      "profile_path": null
+    },
+    {
+      "personId": 574,
+      "name": "Tex Rubinowitz",
+      "character": "Guy on Bridge",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 0.9157,
+      "profile_path": "/myLjW8HX7O678ghf8tye7zovNAI.jpg"
+    },
+    {
+      "personId": 146859,
+      "name": "Erni Mangold",
+      "character": "Palm Reader",
+      "order": 6,
+      "cast_id": 28,
+      "popularity": 0.9012,
+      "profile_path": "/dBLFiX61FKym4dC6FKW4LBxmdVv.jpg"
+    },
+    {
+      "personId": 3735,
+      "name": "Dominik Castell",
+      "character": "Street Poet",
+      "order": 7,
+      "cast_id": 21,
+      "popularity": 0.5077,
+      "profile_path": "/yoRJWZuqClqq26MEiaJw2ObSn7B.jpg"
+    },
+    {
+      "personId": 3738,
+      "name": "Haymon Maria Buttinger",
+      "character": "Bartender",
+      "order": 8,
+      "cast_id": 24,
+      "popularity": 1.0704,
+      "profile_path": "/hBpdnFZYcKxqvpZaoGwWUC1ADxw.jpg"
+    },
+    {
+      "personId": 3737,
+      "name": "Harold Waiglein",
+      "character": "Guitarist in Club",
+      "order": 9,
+      "cast_id": 23,
+      "popularity": 0.141,
+      "profile_path": null
+    },
+    {
+      "personId": 3736,
+      "name": "Bilge Jeschim",
+      "character": "Belly Dancer",
+      "order": 10,
+      "cast_id": 22,
+      "popularity": 0.0759,
+      "profile_path": null
+    },
+    {
+      "personId": 3739,
+      "name": "Kurti",
+      "character": "Percussionist",
+      "order": 11,
+      "cast_id": 25,
+      "popularity": 0.0658,
+      "profile_path": null
+    },
+    {
+      "personId": 3722,
+      "name": "Hans Weingartner",
+      "character": "Cafe Patron",
+      "order": 12,
+      "cast_id": 15,
+      "popularity": 0.2719,
+      "profile_path": null
+    },
+    {
+      "personId": 1265413,
+      "name": "Liese Lyon",
+      "character": "Cafe Patron",
+      "order": 13,
+      "cast_id": 29,
+      "popularity": 0.2307,
+      "profile_path": null
+    },
+    {
+      "personId": 1265414,
+      "name": "Peter Ily Huemer",
+      "character": "Cafe Patron",
+      "order": 14,
+      "cast_id": 30,
+      "popularity": 0.3838,
+      "profile_path": null
+    },
+    {
+      "personId": 1265415,
+      "name": "Otto Reiter",
+      "character": "Cafe Patron",
+      "order": 15,
+      "cast_id": 31,
+      "popularity": 0.0582,
+      "profile_path": null
+    },
+    {
+      "personId": 1265416,
+      "name": "Hubert Fabian Kulterer",
+      "character": "Cafe Patron",
+      "order": 16,
+      "cast_id": 32,
+      "popularity": 0.0379,
+      "profile_path": null
+    },
+    {
+      "personId": 1265417,
+      "name": "Branko Andrić 'Andrla'",
+      "character": "Cafe Patron",
+      "order": 17,
+      "cast_id": 33,
+      "popularity": 0.2282,
+      "profile_path": null
+    },
+    {
+      "personId": 1265418,
+      "name": "Constanze Schweiger",
+      "character": "Cafe Patron",
+      "order": 18,
+      "cast_id": 34,
+      "popularity": 0.0995,
+      "profile_path": null
+    },
+    {
+      "personId": 3727,
+      "name": "John Sloss",
+      "character": "Cafe Patron",
+      "order": 19,
+      "cast_id": 35,
+      "popularity": 0.9454,
+      "profile_path": "/hkawHBjaKfuMER18Qs13mySGvXq.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 564,
+      "name": "Richard Linklater",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.1388,
+      "profile_path": "/xSctxeZQzQbZoaxIvcDeHlDjbiN.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 814,
+      "name": "talking"
+    },
+    {
+      "id": 815,
+      "name": "soulmates"
+    },
+    {
+      "id": 816,
+      "name": "walking"
+    },
+    {
+      "id": 1201,
+      "name": "austria"
+    },
+    {
+      "id": 18267,
+      "name": "vienna, austria"
+    },
+    {
+      "id": 165402,
+      "name": "semi autobiographical"
+    },
+    {
+      "id": 259376,
+      "name": "playful"
+    },
+    {
+      "id": 325783,
+      "name": "cliché"
+    }
+  ]
+}

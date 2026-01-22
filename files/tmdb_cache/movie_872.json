@@ -1,0 +1,334 @@
+{
+  "overview": "In 1927 Hollywood, a silent film star falls for a chorus girl just as he and his paranoid screen partner struggle to make the difficult transition to talking pictures.",
+  "release_date": "1952-04-10",
+  "runtime": 103,
+  "budget": 2540800,
+  "revenue": 7200000,
+  "tmdb_vote_average": 8.14,
+  "tmdb_vote_count": 3383,
+  "tmdb_popularity": 4.9768,
+  "original_language": "en",
+  "poster_path": "/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+  "backdrop_path": "/6qOyw4yfzbzTp5YsCX26C28Do0S.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13294,
+      "name": "Gene Kelly",
+      "character": "Don Lockwood",
+      "order": 0,
+      "cast_id": 14,
+      "popularity": 1.567,
+      "profile_path": "/g98yyY7oGrkocUxxJgOt82I7z6A.jpg"
+    },
+    {
+      "personId": 13295,
+      "name": "Donald O'Connor",
+      "character": "Cosmo Brown",
+      "order": 1,
+      "cast_id": 15,
+      "popularity": 0.9589,
+      "profile_path": "/sV7Dx16wcajPsxJItmW5dX4axoW.jpg"
+    },
+    {
+      "personId": 8857,
+      "name": "Debbie Reynolds",
+      "character": "Kathy Selden",
+      "order": 2,
+      "cast_id": 16,
+      "popularity": 2.2771,
+      "profile_path": "/9Z9DQqNztKlinANGGgD5dQODtlr.jpg"
+    },
+    {
+      "personId": 13296,
+      "name": "Jean Hagen",
+      "character": "Lina Lamont",
+      "order": 3,
+      "cast_id": 17,
+      "popularity": 1.1946,
+      "profile_path": "/nNhtN5Kk7JiwwP2qpxmzyqUyXVi.jpg"
+    },
+    {
+      "personId": 13297,
+      "name": "Millard Mitchell",
+      "character": "R.F. Simpson",
+      "order": 4,
+      "cast_id": 18,
+      "popularity": 2.4314,
+      "profile_path": "/elMhz4DvHUu5OK8hdC3cpzPwGEk.jpg"
+    },
+    {
+      "personId": 41226,
+      "name": "Cyd Charisse",
+      "character": "Dancer",
+      "order": 5,
+      "cast_id": 26,
+      "popularity": 2.5338,
+      "profile_path": "/13Sh935pjeY4hTeqkObCF61QRG2.jpg"
+    },
+    {
+      "personId": 13298,
+      "name": "Douglas Fowley",
+      "character": "Roscoe Dexter",
+      "order": 6,
+      "cast_id": 19,
+      "popularity": 1.002,
+      "profile_path": "/zsgxWLXCHdMKJrsCI8dRWs4IEEk.jpg"
+    },
+    {
+      "personId": 13299,
+      "name": "Rita Moreno",
+      "character": "Zelda Zanders",
+      "order": 7,
+      "cast_id": 20,
+      "popularity": 2.6446,
+      "profile_path": "/zB0M77jr7tmsmWHEr2bWO2Xq66L.jpg"
+    },
+    {
+      "personId": 29814,
+      "name": "Mae Clarke",
+      "character": "Hairdresser (uncredited)",
+      "order": 8,
+      "cast_id": 25,
+      "popularity": 1.1002,
+      "profile_path": "/9eKCjCHX920LGK0DhAmWExZ6mib.jpg"
+    },
+    {
+      "personId": 121323,
+      "name": "Bess Flowers",
+      "character": "Audience Member (uncredited)",
+      "order": 9,
+      "cast_id": 36,
+      "popularity": 1.3849,
+      "profile_path": "/oErbIo6a2QPYZSqfdzU6vlDTD8i.jpg"
+    },
+    {
+      "personId": 2784,
+      "name": "Robert Foulk",
+      "character": "Matt (uncredited)",
+      "order": 10,
+      "cast_id": 35,
+      "popularity": 1.1948,
+      "profile_path": "/jrJcoyksfLvnHgthmQHba2gwKWK.jpg"
+    },
+    {
+      "personId": 7210,
+      "name": "Kathleen Freeman",
+      "character": "Phoebe Dinsmore (uncredited)",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 1.4268,
+      "profile_path": "/pAlKHL8sshImJPCN45iQ5PGuURZ.jpg"
+    },
+    {
+      "personId": 55997,
+      "name": "Joi Lansing",
+      "character": "Chorus Girl (uncredited)",
+      "order": 12,
+      "cast_id": 37,
+      "popularity": 0.9485,
+      "profile_path": "/oHHcOp6G3OQOjcePv2xIa0BJsc.jpg"
+    },
+    {
+      "personId": 1213241,
+      "name": "Sylvia Lewis",
+      "character": "Female Tango Dancer (uncredited)",
+      "order": 13,
+      "cast_id": 44,
+      "popularity": 1.5901,
+      "profile_path": "/AVCudi54dBl1M3Dv3uU7SAEcCo.jpg"
+    },
+    {
+      "personId": 85778,
+      "name": "Harry 'Snub' Pollard",
+      "character": "Old Man Getting Umbrella (uncredited)",
+      "order": 14,
+      "cast_id": 45,
+      "popularity": 0.8138,
+      "profile_path": "/srCQa37TG3RHKx5PuthzjsTpe6n.jpg"
+    },
+    {
+      "personId": 15992,
+      "name": "William Schallert",
+      "character": "Messenger on Screen (uncredited)",
+      "order": 15,
+      "cast_id": 46,
+      "popularity": 2.1483,
+      "profile_path": "/cWwLO0UxvKupMFqu4jyMnycSE1o.jpg"
+    },
+    {
+      "personId": 121765,
+      "name": "Elaine Stewart",
+      "character": "Lady-in-Waiting (uncredited)",
+      "order": 16,
+      "cast_id": 47,
+      "popularity": 2.1518,
+      "profile_path": "/rbMTE2NitqDD3fsfxxvS1O1xsP9.jpg"
+    },
+    {
+      "personId": 120473,
+      "name": "Brick Sullivan",
+      "character": "Policeman (uncredited)",
+      "order": 17,
+      "cast_id": 48,
+      "popularity": 0.4134,
+      "profile_path": null
+    },
+    {
+      "personId": 97999,
+      "name": "John George",
+      "character": "Audience Member (uncredited)",
+      "order": 18,
+      "cast_id": 51,
+      "popularity": 0.9386,
+      "profile_path": "/67eRsXH4BISHgoKXpLODrgSn4PN.jpg"
+    },
+    {
+      "personId": 69811,
+      "name": "King Donovan",
+      "character": "Rod (uncredited)",
+      "order": 19,
+      "cast_id": 52,
+      "popularity": 0.5753,
+      "profile_path": "/wyLgxA4EwT1PdYD28Ya1Z1IvWO.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 13284,
+      "name": "Stanley Donen",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7874,
+      "profile_path": "/hvRi8etQyf6Zfh7MRsRP0pBR9Om.jpg"
+    },
+    {
+      "personId": 13294,
+      "name": "Gene Kelly",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.567,
+      "profile_path": "/g98yyY7oGrkocUxxJgOt82I7z6A.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3177,
+      "name": "fan"
+    },
+    {
+      "id": 4344,
+      "name": "musical"
+    },
+    {
+      "id": 9104,
+      "name": "partner"
+    },
+    {
+      "id": 9732,
+      "name": "film in film"
+    },
+    {
+      "id": 12396,
+      "name": "hollywood"
+    },
+    {
+      "id": 156028,
+      "name": "broadway"
+    },
+    {
+      "id": 161046,
+      "name": "dancing in the street"
+    },
+    {
+      "id": 164090,
+      "name": "audience"
+    },
+    {
+      "id": 164623,
+      "name": "chorus girl"
+    },
+    {
+      "id": 164628,
+      "name": "diction coach"
+    },
+    {
+      "id": 164636,
+      "name": "pearl necklace"
+    },
+    {
+      "id": 164641,
+      "name": "flapper"
+    },
+    {
+      "id": 188647,
+      "name": "silent film star"
+    },
+    {
+      "id": 199662,
+      "name": "squeaky voice"
+    },
+    {
+      "id": 207317,
+      "name": "christmas"
+    },
+    {
+      "id": 207876,
+      "name": "1920s"
+    },
+    {
+      "id": 225012,
+      "name": "satirical"
+    },
+    {
+      "id": 227561,
+      "name": "old hollywood"
+    },
+    {
+      "id": 259376,
+      "name": "playful"
+    },
+    {
+      "id": 288816,
+      "name": "lighthearted"
+    },
+    {
+      "id": 324429,
+      "name": "romantic"
+    },
+    {
+      "id": 325813,
+      "name": "exuberant"
+    },
+    {
+      "id": 325832,
+      "name": "joyful"
+    },
+    {
+      "id": 325840,
+      "name": "optimistic"
+    }
+  ]
+}

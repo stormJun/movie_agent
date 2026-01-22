@@ -1,0 +1,327 @@
+{
+  "overview": "When a string of jewel robberies hits the French Riviera, suspicion falls on retired thief John “The Cat” Robie. To clear his name, he sets out to trap the copycat himself—entangling a wealthy widow and her beguiling daughter in a seductive game of pursuit, deception, and desire.",
+  "release_date": "1955-08-03",
+  "runtime": 106,
+  "budget": 2500000,
+  "revenue": 8750000,
+  "tmdb_vote_average": 7.271,
+  "tmdb_vote_count": 1629,
+  "tmdb_popularity": 3.1399,
+  "original_language": "en",
+  "poster_path": "/6M6NwjV3XvtayljoiZ8wRHOKCQG.jpg",
+  "backdrop_path": "/jGyDvz8WjVZzHX573WDs8BTIUU9.jpg",
+  "tmdb_genres_raw": [
+    "Mystery",
+    "Romance",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2638,
+      "name": "Cary Grant",
+      "character": "John Robie",
+      "order": 0,
+      "cast_id": 19,
+      "popularity": 2.8189,
+      "profile_path": "/oF5Vj64OEEDAy7DzpBP0W8fSwC6.jpg"
+    },
+    {
+      "personId": 4070,
+      "name": "Grace Kelly",
+      "character": "Frances Stevens",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 2.3275,
+      "profile_path": "/gnz3NGJrUERwklqfuPWXxcOPs0Q.jpg"
+    },
+    {
+      "personId": 2640,
+      "name": "Jessie Royce Landis",
+      "character": "Jessie Stevens",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 0.7717,
+      "profile_path": "/9asCKCafalR0382PpkHZs5Lv8hK.jpg"
+    },
+    {
+      "personId": 5182,
+      "name": "John Williams",
+      "character": "H. H. Hughson",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 1.2622,
+      "profile_path": "/gsg1KjcGnZK76LGIYm8lMpSM1Oq.jpg"
+    },
+    {
+      "personId": 2566,
+      "name": "Charles Vanel",
+      "character": "Bertani",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 0.4648,
+      "profile_path": "/dznVyOfBuL2cTDucr0xOpzp6iGT.jpg"
+    },
+    {
+      "personId": 5183,
+      "name": "Brigitte Auber",
+      "character": "Danielle Foussard",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 0.8746,
+      "profile_path": "/csqCyLNVsKzaWrbSRO9k1J2pb0t.jpg"
+    },
+    {
+      "personId": 5185,
+      "name": "Jean Martinelli",
+      "character": "Foussard",
+      "order": 6,
+      "cast_id": 12,
+      "popularity": 0.4028,
+      "profile_path": "/kItuj3hxe5z6iUxTQcvWm1G2LX1.jpg"
+    },
+    {
+      "personId": 5186,
+      "name": "Georgette Anys",
+      "character": "Germaine",
+      "order": 7,
+      "cast_id": 13,
+      "popularity": 0.7503,
+      "profile_path": "/umHMzQTmXOVGqQp1zlLdmH6AbF6.jpg"
+    },
+    {
+      "personId": 553626,
+      "name": "René Blancard",
+      "character": "Commissaire Lepic (uncredited)",
+      "order": 8,
+      "cast_id": 23,
+      "popularity": 0.3761,
+      "profile_path": "/vh1px6ibfidqLZackcu9dSb91jV.jpg"
+    },
+    {
+      "personId": 96140,
+      "name": "William 'Wee Willie' Davis",
+      "character": "Big Man in Kitchen (uncredited)",
+      "order": 9,
+      "cast_id": 22,
+      "popularity": 1.4713,
+      "profile_path": "/g0UKPLgfyKkYtq9ByUC7xjLhLaB.jpg"
+    },
+    {
+      "personId": 121323,
+      "name": "Bess Flowers",
+      "character": "Masquerade Party Guest (uncredited)",
+      "order": 10,
+      "cast_id": 20,
+      "popularity": 1.3223,
+      "profile_path": "/oErbIo6a2QPYZSqfdzU6vlDTD8i.jpg"
+    },
+    {
+      "personId": 1662013,
+      "name": "Bernard Sell",
+      "character": "Casino Patron (uncredited)",
+      "order": 11,
+      "cast_id": 36,
+      "popularity": 0.6014,
+      "profile_path": null
+    },
+    {
+      "personId": 385470,
+      "name": "Charles Sherlock",
+      "character": "Detective (uncredited)",
+      "order": 12,
+      "cast_id": 24,
+      "popularity": 0.6308,
+      "profile_path": "/9grMCbCJKbfyLgFQK6XqkWOhZ12.jpg"
+    },
+    {
+      "personId": 11031,
+      "name": "Philip Van Zandt",
+      "character": "Jewelry Clerk (uncredited)",
+      "order": 13,
+      "cast_id": 37,
+      "popularity": 0.6472,
+      "profile_path": "/gcgbz8r0icOvd25HO7uK65QpYpX.jpg"
+    },
+    {
+      "personId": 2636,
+      "name": "Alfred Hitchcock",
+      "character": "Man Sitting Next to John Robie on Bus (uncredited)",
+      "order": 14,
+      "cast_id": 21,
+      "popularity": 3.8442,
+      "profile_path": "/108fiNM6poRieMg7RIqLJRxdAwG.jpg"
+    },
+    {
+      "personId": 36911,
+      "name": "Roland Lesaffre",
+      "character": "Bertani Employee (uncredited)",
+      "order": 15,
+      "cast_id": 38,
+      "popularity": 0.2886,
+      "profile_path": "/zJFvP5sukah6ou09lh6vD5kQAdv.jpg"
+    },
+    {
+      "personId": 1731646,
+      "name": "George Boyce",
+      "character": "Party Guest (uncredited)",
+      "order": 16,
+      "cast_id": 44,
+      "popularity": 1.9428,
+      "profile_path": null
+    },
+    {
+      "personId": 1171862,
+      "name": "John Alderson",
+      "character": "Detective at the Costume Ball (uncredited)",
+      "order": 17,
+      "cast_id": 45,
+      "popularity": 1.7454,
+      "profile_path": "/3FocJGetbAj9nsUuJqjNIqbZGzU.jpg"
+    },
+    {
+      "personId": 70939,
+      "name": "Alberto Morin",
+      "character": "Detective (uncredited)",
+      "order": 18,
+      "cast_id": 47,
+      "popularity": 1.3426,
+      "profile_path": "/ml7oMdKvxZMSxVDT0vORlQ7S558.jpg"
+    },
+    {
+      "personId": 1331770,
+      "name": "Manuel París",
+      "character": "Croupier (uncredited)",
+      "order": 19,
+      "cast_id": 48,
+      "popularity": 0.5984,
+      "profile_path": "/5F9318EvUe9IbR1NMKGmRR99uPc.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2636,
+      "name": "Alfred Hitchcock",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 3.8442,
+      "profile_path": "/108fiNM6poRieMg7RIqLJRxdAwG.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 612,
+      "name": "hotel"
+    },
+    {
+      "id": 931,
+      "name": "jealousy"
+    },
+    {
+      "id": 885,
+      "name": "villa"
+    },
+    {
+      "id": 6149,
+      "name": "police"
+    },
+    {
+      "id": 996,
+      "name": "expensive restaurant"
+    },
+    {
+      "id": 965,
+      "name": "age difference"
+    },
+    {
+      "id": 977,
+      "name": "cat"
+    },
+    {
+      "id": 6099,
+      "name": "jewelry"
+    },
+    {
+      "id": 769,
+      "name": "falsely accused"
+    },
+    {
+      "id": 2407,
+      "name": "fireworks"
+    },
+    {
+      "id": 2404,
+      "name": "masked ball"
+    },
+    {
+      "id": 2406,
+      "name": "picnic"
+    },
+    {
+      "id": 1861,
+      "name": "nice"
+    },
+    {
+      "id": 2405,
+      "name": "roof"
+    },
+    {
+      "id": 2408,
+      "name": "côte d'azur"
+    },
+    {
+      "id": 2335,
+      "name": "southern france"
+    },
+    {
+      "id": 6946,
+      "name": "blonde"
+    },
+    {
+      "id": 9813,
+      "name": "french riviera"
+    },
+    {
+      "id": 10562,
+      "name": "on the run"
+    },
+    {
+      "id": 156082,
+      "name": "cat burglar"
+    },
+    {
+      "id": 188344,
+      "name": "riviera"
+    },
+    {
+      "id": 323921,
+      "name": "man on the run"
+    },
+    {
+      "id": 361716,
+      "name": "vistavision"
+    }
+  ]
+}

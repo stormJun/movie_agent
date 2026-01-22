@@ -1,0 +1,293 @@
+{
+  "overview": "Tom Ripley is a talented mimic, moocher, forger and all-around criminal improviser; but there's more to Tom Ripley than even he can guess.",
+  "release_date": "1960-03-10",
+  "runtime": 118,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 7.6,
+  "tmdb_vote_count": 573,
+  "tmdb_popularity": 1.8695,
+  "original_language": "fr",
+  "poster_path": "/xGVRU34izQwG8YQNfVOSfKPhD3S.jpg",
+  "backdrop_path": "/d34za8faZk2zeSnrXEthF0h7a8r.jpg",
+  "tmdb_genres_raw": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 7046,
+      "name": "Paris Film Production",
+      "origin_country": "FR"
+    },
+    {
+      "id": 641,
+      "name": "Titanus",
+      "origin_country": "IT"
+    },
+    {
+      "id": 11290,
+      "name": "Robert et Raymond Hakim",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "it",
+      "name": "Italiano"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 15135,
+      "name": "Alain Delon",
+      "character": "Tom Ripley",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 5.7446,
+      "profile_path": "/dRPDxFehaVGbHojEUsCvqLSNfqH.jpg"
+    },
+    {
+      "personId": 39644,
+      "name": "Marie Laforêt",
+      "character": "Marge Duval",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 0.7463,
+      "profile_path": "/8y9gJDW8m5cXbdLvAgnThaYzQ3h.jpg"
+    },
+    {
+      "personId": 15395,
+      "name": "Maurice Ronet",
+      "character": "Philippe Greenleaf",
+      "order": 2,
+      "cast_id": 2,
+      "popularity": 0.8157,
+      "profile_path": "/kNoCaKscnlHGTUucSUwjla7QT1v.jpg"
+    },
+    {
+      "personId": 37728,
+      "name": "Erno Crisa",
+      "character": "Inspector Riccordi",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 0.8807,
+      "profile_path": "/tQqmn7GgYOJmgM71hPa74HlyLPG.jpg"
+    },
+    {
+      "personId": 13733,
+      "name": "Frank Latimore",
+      "character": "O'Brien",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.8485,
+      "profile_path": "/4yKBJYFW9hXhNZE3qxlKkJzCDtF.jpg"
+    },
+    {
+      "personId": 35958,
+      "name": "Billy Kearns",
+      "character": "Freddy Miles",
+      "order": 5,
+      "cast_id": 19,
+      "popularity": 0.591,
+      "profile_path": "/yX9kCJ4HLVyYPRZ83XQSACpNz8g.jpg"
+    },
+    {
+      "personId": 40165,
+      "name": "Ave Ninchi",
+      "character": "Signora Gianna",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 0.5974,
+      "profile_path": "/64BfpH5GnhMxtwHCRRV3DLKcYgu.jpg"
+    },
+    {
+      "personId": 64926,
+      "name": "Viviane Chantel",
+      "character": "Belgian Lady",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 0.1688,
+      "profile_path": "/7TIqy6APGdY9F6SzFPyYD8Gw0m6.jpg"
+    },
+    {
+      "personId": 99530,
+      "name": "Nerio Bernardi",
+      "character": "Agency Director",
+      "order": 8,
+      "cast_id": 21,
+      "popularity": 0.5038,
+      "profile_path": "/sFt9XjJo2rq1NAuAZDT62DOrkJw.jpg"
+    },
+    {
+      "personId": 3107265,
+      "name": "Barbel Fanger",
+      "character": "Mr. Greenleaf",
+      "order": 9,
+      "cast_id": 45,
+      "popularity": 0.0168,
+      "profile_path": null
+    },
+    {
+      "personId": 3107266,
+      "name": "Lily Romanelli",
+      "character": "Housekeeper",
+      "order": 10,
+      "cast_id": 46,
+      "popularity": 0.1338,
+      "profile_path": null
+    },
+    {
+      "personId": 3107267,
+      "name": "Nicolas Petrov",
+      "character": "Boris",
+      "order": 11,
+      "cast_id": 47,
+      "popularity": 0.0603,
+      "profile_path": null
+    },
+    {
+      "personId": 543816,
+      "name": "Elvira Popescu",
+      "character": "Mrs. Popova",
+      "order": 12,
+      "cast_id": 25,
+      "popularity": 0.4698,
+      "profile_path": "/797mN0xnRLduGxnZC3AFBJUTM82.jpg"
+    },
+    {
+      "personId": 6250,
+      "name": "Romy Schneider",
+      "character": "Freddy's Companion (uncredited)",
+      "order": 13,
+      "cast_id": 18,
+      "popularity": 3.5653,
+      "profile_path": "/7ZM51RfI5oMx8Q5hpyYZ7MyD6Do.jpg"
+    },
+    {
+      "personId": 101549,
+      "name": "Paul Müller",
+      "character": "Blind Man (uncredited)",
+      "order": 14,
+      "cast_id": 20,
+      "popularity": 1.1667,
+      "profile_path": "/sOtKH3ouYaWH6EzNdfxNqCT6zUY.jpg"
+    },
+    {
+      "personId": 9740,
+      "name": "René Clément",
+      "character": "Clumsy Waiter (uncredited)",
+      "order": 15,
+      "cast_id": 26,
+      "popularity": 0.5884,
+      "profile_path": "/z8mgHCLlND5B0rNaTdm9Ag1AtKz.jpg"
+    },
+    {
+      "personId": 578020,
+      "name": "Jacqueline Parey",
+      "character": "Ingrid (uncredited)",
+      "order": 16,
+      "cast_id": 63,
+      "popularity": 0.1367,
+      "profile_path": null
+    },
+    {
+      "personId": 2961978,
+      "name": "Leonello Zanchi",
+      "character": "Police Inspector (uncredited)",
+      "order": 17,
+      "cast_id": 54,
+      "popularity": 0.519,
+      "profile_path": null
+    },
+    {
+      "personId": 1279004,
+      "name": "Walter Grant",
+      "character": "Purchaser of the Yacht (uncredited)",
+      "order": 18,
+      "cast_id": 55,
+      "popularity": 0.0851,
+      "profile_path": null
+    },
+    {
+      "personId": 45983,
+      "name": "Nino Vingelli",
+      "character": "(uncredited)",
+      "order": 19,
+      "cast_id": 56,
+      "popularity": 0.3775,
+      "profile_path": "/2qBKo4pEciTmsV1ntsJ8UUe6WUS.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 9740,
+      "name": "René Clément",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5884,
+      "profile_path": "/z8mgHCLlND5B0rNaTdm9Ag1AtKz.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 544,
+      "name": "sailboat"
+    },
+    {
+      "id": 4812,
+      "name": "plan"
+    },
+    {
+      "id": 851,
+      "name": "dual identity"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 6149,
+      "name": "police"
+    },
+    {
+      "id": 383,
+      "name": "poker"
+    },
+    {
+      "id": 3180,
+      "name": "sailing"
+    },
+    {
+      "id": 33626,
+      "name": "millionaire"
+    },
+    {
+      "id": 155845,
+      "name": "french noir"
+    },
+    {
+      "id": 209096,
+      "name": "forger"
+    }
+  ]
+}

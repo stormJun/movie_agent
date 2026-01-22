@@ -1,0 +1,316 @@
+{
+  "overview": "The circularity of violence seen in a story that circles on itself. In Macedonia, during the war in Bosnia, Christians hunt an ethnic Albanian girl who may have murdered one of their own. A young monk who's taken a vow of silence offers her protection. In London, a photographic editor who's pregnant needs to talk it out with her estranged husband and chooses a toney restaurant.",
+  "release_date": "1994-06-09",
+  "runtime": 113,
+  "budget": 0,
+  "revenue": 763847,
+  "tmdb_vote_average": 7.336,
+  "tmdb_vote_count": 177,
+  "tmdb_popularity": 0.8052,
+  "original_language": "mk",
+  "poster_path": "/sAVSVFonnNkup5xnlxDkuRrmI2N.jpg",
+  "backdrop_path": "/sblkcCiwGeRhiOvQOe8txic0DZe.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "War"
+  ],
+  "production_companies": [
+    {
+      "id": 12745,
+      "name": "British Screen Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 6367,
+      "name": "PolyGram Audiovisuel",
+      "origin_country": "FR"
+    },
+    {
+      "id": 28208,
+      "name": "Vardar Film",
+      "origin_country": "MK"
+    },
+    {
+      "id": 69075,
+      "name": "Ministerstvo za kultura na Republika Makedonija",
+      "origin_country": "MK"
+    },
+    {
+      "id": 23433,
+      "name": "Noé Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 2103,
+      "name": "AIM Group",
+      "origin_country": "FR"
+    },
+    {
+      "id": 37,
+      "name": "Gramercy Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "MK",
+      "name": "Macedonia"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "sq",
+      "name": "shqip"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "mk",
+      "name": ""
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1641,
+      "name": "Katrin Cartlidge",
+      "character": "Anne",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.631,
+      "profile_path": "/noyb822u1qfPfQpvCuXtZwkjytB.jpg"
+    },
+    {
+      "personId": 1118,
+      "name": "Rade Šerbedžija",
+      "character": "Aleksander",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 3.0558,
+      "profile_path": "/1mJC5oD3pLH1vAS3wJ4sGNxYeqJ.jpg"
+    },
+    {
+      "personId": 136170,
+      "name": "Grégoire Colin",
+      "character": "Kiril",
+      "order": 2,
+      "cast_id": 7,
+      "popularity": 2.9192,
+      "profile_path": "/jtolsceVVsMT1wWi8m8pdtaUE4f.jpg"
+    },
+    {
+      "personId": 113758,
+      "name": "Labina Mitevska",
+      "character": "Zamira",
+      "order": 3,
+      "cast_id": 8,
+      "popularity": 1.2359,
+      "profile_path": "/wwZMlB4l0U2aeoE9zZendcCn3m6.jpg"
+    },
+    {
+      "personId": 17787,
+      "name": "Phyllida Law",
+      "character": "Anne's Mother",
+      "order": 4,
+      "cast_id": 13,
+      "popularity": 1.9319,
+      "profile_path": "/iL3UchWZqdk6RabqDZW9HBcJDwQ.jpg"
+    },
+    {
+      "personId": 1372190,
+      "name": "Silvija Stojanovska",
+      "character": "Hana",
+      "order": 5,
+      "cast_id": 14,
+      "popularity": 0.965,
+      "profile_path": "/4W7XMb9eloHgHlYRdAmCzovWcof.jpg"
+    },
+    {
+      "personId": 47589,
+      "name": "Jay Villiers",
+      "character": "Nick",
+      "order": 6,
+      "cast_id": 15,
+      "popularity": 1.9121,
+      "profile_path": "/pXLl3FGzgocI4binqSPgcyuzRrs.jpg"
+    },
+    {
+      "personId": 1372191,
+      "name": "Josif Josifovski",
+      "character": "Father Marko",
+      "order": 7,
+      "cast_id": 16,
+      "popularity": 0.4193,
+      "profile_path": null
+    },
+    {
+      "personId": 1372192,
+      "name": "Kiril Ristoski",
+      "character": "Father Damjan",
+      "order": 8,
+      "cast_id": 17,
+      "popularity": 0.29,
+      "profile_path": null
+    },
+    {
+      "personId": 936762,
+      "name": "Petar Mirčevski",
+      "character": "Zdrave",
+      "order": 9,
+      "cast_id": 18,
+      "popularity": 0.6856,
+      "profile_path": "/wl6pQQuSgJgBejMbpYuJQzFoQQH.jpg"
+    },
+    {
+      "personId": 1500643,
+      "name": "Ilko Stefanovski",
+      "character": "Bojan",
+      "order": 10,
+      "cast_id": 19,
+      "popularity": 0.3928,
+      "profile_path": null
+    },
+    {
+      "personId": 1450657,
+      "name": "Katerina Kocevska",
+      "character": "Kate",
+      "order": 11,
+      "cast_id": 20,
+      "popularity": 0.2715,
+      "profile_path": "/h8DH6837iLZ0zrgbCC8onYnK9z1.jpg"
+    },
+    {
+      "personId": 1047153,
+      "name": "Abdurrahman Shala",
+      "character": "Zekir",
+      "order": 12,
+      "cast_id": 21,
+      "popularity": 0.4116,
+      "profile_path": "/4tBY9PNDMl75l8WfVp1KyRdsMFO.jpg"
+    },
+    {
+      "personId": 585463,
+      "name": "Vladimir Jacev",
+      "character": "Alija",
+      "order": 13,
+      "cast_id": 22,
+      "popularity": 0.3705,
+      "profile_path": null
+    },
+    {
+      "personId": 1214087,
+      "name": "Peter Needham",
+      "character": "Maitre D",
+      "order": 14,
+      "cast_id": 23,
+      "popularity": 0.3989,
+      "profile_path": null
+    },
+    {
+      "personId": 1094725,
+      "name": "Rod Woodruff",
+      "character": "Waiter in fight",
+      "order": 15,
+      "cast_id": 24,
+      "popularity": 0.3352,
+      "profile_path": null
+    },
+    {
+      "personId": 1049532,
+      "name": "Meto Jovanovski",
+      "character": "Dr. Saso",
+      "order": 16,
+      "cast_id": 26,
+      "popularity": 0.8624,
+      "profile_path": "/oIHCP7Py9ap1cGLQScv1Ekojrki.jpg"
+    },
+    {
+      "personId": 1500635,
+      "name": "Mladen Krstevski",
+      "character": "Trifun",
+      "order": 17,
+      "cast_id": 27,
+      "popularity": 0.5144,
+      "profile_path": "/taHMBeDxMVCXMa3oapHKSfLYLXD.jpg"
+    },
+    {
+      "personId": 1318069,
+      "name": "Džemail Maksut",
+      "character": "Kuzman",
+      "order": 18,
+      "cast_id": 28,
+      "popularity": 0.2976,
+      "profile_path": null
+    },
+    {
+      "personId": 1364845,
+      "name": "Milica Stojanova",
+      "character": "Aunt Cveta",
+      "order": 19,
+      "cast_id": 29,
+      "popularity": 0.5015,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1364800,
+      "name": "Milcho Manchevski",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4607,
+      "profile_path": "/uE5vELkQa011mRnpAJDbCMYbQ4G.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 212,
+      "name": "london, england"
+    },
+    {
+      "id": 345,
+      "name": "monk"
+    },
+    {
+      "id": 1262,
+      "name": "mountain"
+    },
+    {
+      "id": 1946,
+      "name": "restaurant"
+    },
+    {
+      "id": 4747,
+      "name": "war photographer"
+    },
+    {
+      "id": 6805,
+      "name": "fashion photographer"
+    },
+    {
+      "id": 182045,
+      "name": "albanian"
+    },
+    {
+      "id": 206119,
+      "name": "macedonia"
+    },
+    {
+      "id": 361670,
+      "name": "guerra da bósnia"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "overview": "Jimmy Dolan is a college basketball coach who wants a big promotion. To get it, he needs to make a dramatic find. He ends up deep in Africa, hoping to recruit Saleh, a huge basketball prodigy Jimmy glimpsed in a home movie. But Saleh is the chief's son and has responsibilities at home, since the tribe's land is threatened by a mining company with its own hotshot basketball team.",
+  "release_date": "1994-01-07",
+  "runtime": 107,
+  "budget": 17000000,
+  "revenue": 21011500,
+  "tmdb_vote_average": 6.161,
+  "tmdb_vote_count": 158,
+  "tmdb_popularity": 1.1067,
+  "original_language": "en",
+  "poster_path": "/lY1yhtg0DRaMTzclYCXo0sP1kAV.jpg",
+  "backdrop_path": "/z25QroFHstdSqVuQfeGqpLu49DK.jpg",
+  "tmdb_genres_raw": [
+    "Family",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 82606,
+      "name": "NBB Unit One Film Partners",
+      "origin_country": ""
+    },
+    {
+      "id": 915,
+      "name": "Hollywood Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1382,
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 10201,
+      "name": "Interscope Communications",
+      "origin_country": "US"
+    },
+    {
+      "id": 12883,
+      "name": "Nomura Babcock & Brown",
+      "origin_country": ""
+    },
+    {
+      "id": 82607,
+      "name": "Longview Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4724,
+      "name": "Kevin Bacon",
+      "character": "Jimmy Dolan",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 7.2766,
+      "profile_path": "/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg"
+    },
+    {
+      "personId": 134763,
+      "name": "Charles Gitonga Maina",
+      "character": "Saleh",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 0.5032,
+      "profile_path": null
+    },
+    {
+      "personId": 134764,
+      "name": "Yolanda Vazquez",
+      "character": "Sister Susan",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 0.8836,
+      "profile_path": "/zR6789BnCi4Q9MC98556kVkUl6Z.jpg"
+    },
+    {
+      "personId": 134766,
+      "name": "Mabutho 'Kid' Sithole",
+      "character": "Nyaga",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 0.1881,
+      "profile_path": null
+    },
+    {
+      "personId": 17646,
+      "name": "Sean McCann",
+      "character": "Ray Fox",
+      "order": 4,
+      "cast_id": 16,
+      "popularity": 0.7254,
+      "profile_path": "/sVT3HB2rIkfgZ87mCiGmYS2OrzF.jpg"
+    },
+    {
+      "personId": 134768,
+      "name": "Dennis Patrick",
+      "character": "Father O'Hara",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 1.4336,
+      "profile_path": "/qYcwGGInSt3ZlSL4WsQJqaMdevF.jpg"
+    },
+    {
+      "personId": 134769,
+      "name": "Ilo Mutombo",
+      "character": "Mifundo",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 0.1655,
+      "profile_path": null
+    },
+    {
+      "personId": 134770,
+      "name": "Nigel Miguel",
+      "character": "Halawi",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 0.6515,
+      "profile_path": null
+    },
+    {
+      "personId": 134771,
+      "name": "Eric Menyuk",
+      "character": "Mark Collins",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 0.4987,
+      "profile_path": "/nHC7TrpbGNYtDXjXuPIXBhRoEb3.jpg"
+    },
+    {
+      "personId": 134772,
+      "name": "Keith Gibbs",
+      "character": "Buddy Wilson",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 0.1629,
+      "profile_path": null
+    },
+    {
+      "personId": 134773,
+      "name": "Miriam Owiti",
+      "character": "Beisa",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 0.2045,
+      "profile_path": null
+    },
+    {
+      "personId": 77681,
+      "name": "John Matshikiza",
+      "character": "Mingori Mining Company Clerk",
+      "order": 11,
+      "cast_id": 15,
+      "popularity": 1.9988,
+      "profile_path": "/pFjzSxpoPvHg84jdjpIqTDRjUbd.jpg"
+    },
+    {
+      "personId": 75790,
+      "name": "Winston Ntshona",
+      "character": "Urudu",
+      "order": 12,
+      "cast_id": 17,
+      "popularity": 0.4164,
+      "profile_path": "/uwtYuKAfjqncfD1lyYQ1uAavQRH.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 12988,
+      "name": "Paul Michael Glaser",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.8385,
+      "profile_path": "/6JIDF5x01dfnZUOLod5TEc0kYF2.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6075,
+      "name": "sports"
+    }
+  ]
+}

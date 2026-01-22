@@ -1,0 +1,17 @@
+# 电影数据处理目录
+
+本目录包含电影推荐知识图谱的所有数据处理脚本。
+
+## 快速开始
+
+```bash
+# 方式 1: 使用快速启动脚本（推荐）
+bash data/movie/quickstart.sh
+
+# 方式 2: 手动执行
+python3 data/movie/test_tmdb_api.py              # 测试 API
+python3 data/movie/verify_schema_fields.py      # 验证 Schema
+python3 data/movie/movie_data_preprocessing.py  # 数据预处理
+```
+
+详细说明请查看 README.md

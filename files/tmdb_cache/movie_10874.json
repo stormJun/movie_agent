@@ -1,0 +1,272 @@
+{
+  "overview": "After telling the story of Flint's last journey to young Jim Hawkins, Billy Bones has a heart attack and dies just as Jim and his friends are attacked by pirates. The gang escapes into the town where they hire out a boat and crew to find the hidden treasure, which was revealed by Bones before he died. On their voyage across the seas, they soon find out that not everyone on board can be trusted.",
+  "release_date": "1996-02-16",
+  "runtime": 99,
+  "budget": 31000000,
+  "revenue": 34327766,
+  "tmdb_vote_average": 6.674,
+  "tmdb_vote_count": 443,
+  "tmdb_popularity": 10.2874,
+  "original_language": "en",
+  "poster_path": "/k4KW2CUkzDKaCy4H4cS02cO8gvV.jpg",
+  "backdrop_path": "/3RfNxQhvseerf9dNlo1dmL09RLr.jpg",
+  "tmdb_genres_raw": [
+    "Family",
+    "Comedy",
+    "Adventure"
+  ],
+  "production_companies": [
+    {
+      "id": 2,
+      "name": "Walt Disney Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 2504,
+      "name": "Jim Henson Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13472,
+      "name": "Tim Curry",
+      "character": "Long John Silver",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 7.2023,
+      "profile_path": "/8ZsGg3N3OZgxshqLOtA2kl5ckOP.jpg"
+    },
+    {
+      "personId": 9188,
+      "name": "Billy Connolly",
+      "character": "Billy Bones",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 2.7039,
+      "profile_path": "/imqsEA1EPet7OvHx80VfTYfFcWf.jpg"
+    },
+    {
+      "personId": 12094,
+      "name": "Jennifer Saunders",
+      "character": "Mrs. Bluveridge",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.9465,
+      "profile_path": "/pTgxwHcz9L8SNVYvPJS0o0lgHya.jpg"
+    },
+    {
+      "personId": 19996,
+      "name": "Kevin Bishop",
+      "character": "Jim Hawkins",
+      "order": 3,
+      "cast_id": 2,
+      "popularity": 0.9937,
+      "profile_path": "/r4xMLMEunvpvG38eDFGYpNO1DGN.jpg"
+    },
+    {
+      "personId": 64181,
+      "name": "Dave Goelz",
+      "character": "The Great Gonzo / Dr. Bunsen Honeydew / Waldorf / Mudwell the Mudbunny / Zoot (voice)",
+      "order": 4,
+      "cast_id": 13,
+      "popularity": 1.228,
+      "profile_path": "/tBJDwH008IVSeTCB5e2P856NbIv.jpg"
+    },
+    {
+      "personId": 64180,
+      "name": "Steve Whitmire",
+      "character": "Kermit the Frog / Rizzo the Rat / Beaker (voice)",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 0.6478,
+      "profile_path": "/q1EVmCM1lKjI5OJOCmnvmYPWztp.jpg"
+    },
+    {
+      "personId": 68455,
+      "name": "Jerry Nelson",
+      "character": "Statler / Blind Pew / Mad Monty / Floyd Pepper / Lew Zealand / Tomato / Pirate / Skulls / Trelawney's Butler / Screaming Cat (voice)",
+      "order": 6,
+      "cast_id": 26,
+      "popularity": 1.1291,
+      "profile_path": "/daCTg4kX7AjrWj54qmRH2Po3znW.jpg"
+    },
+    {
+      "personId": 77156,
+      "name": "Kevin Clash",
+      "character": "Bad Polly / Black Dog / Spa'am / Chicken / Miss Piggy (assistant) / Fozzie Bear (assistant) / Sam the Eagle (assistant) / Animal (assistant) / Walleyed Pike / Monkey / Pirate / Real Old Tom (voice)",
+      "order": 7,
+      "cast_id": 27,
+      "popularity": 1.4774,
+      "profile_path": "/yZ5EdQQvjifJ0hLh8CU7Ug7kz1e.jpg"
+    },
+    {
+      "personId": 64182,
+      "name": "Bill Barretta",
+      "character": "Clueless Morgan / Swedish Chef / Blind Pew (hands) / Pirate / Pig / Skulls (voice)",
+      "order": 8,
+      "cast_id": 28,
+      "popularity": 0.6499,
+      "profile_path": "/m4M99V64Bni91R8J2YgJ2QPwRDL.jpg"
+    },
+    {
+      "personId": 7908,
+      "name": "Frank Oz",
+      "character": "Miss Piggy / Fozzie Bear / Sam the Eagle / Animal (voice)",
+      "order": 9,
+      "cast_id": 15,
+      "popularity": 2.1828,
+      "profile_path": "/mb2JbT8s6LIgaxj6QTph0NW1pmI.jpg"
+    },
+    {
+      "personId": 1572175,
+      "name": "John Henson",
+      "character": "Sweetums (voice)",
+      "order": 10,
+      "cast_id": 29,
+      "popularity": 0.1569,
+      "profile_path": "/cGvlPt3ALMSanoJRw6Si2W5mNoc.jpg"
+    },
+    {
+      "personId": 1430567,
+      "name": "Danny Blackner",
+      "character": "Short Stack Stevens",
+      "order": 11,
+      "cast_id": 31,
+      "popularity": 0.284,
+      "profile_path": null
+    },
+    {
+      "personId": 1220350,
+      "name": "Peter Geeves",
+      "character": "Black Eyed Pea",
+      "order": 12,
+      "cast_id": 20,
+      "popularity": 0.3621,
+      "profile_path": null
+    },
+    {
+      "personId": 121112,
+      "name": "Harry Jones",
+      "character": "Easy Pete",
+      "order": 13,
+      "cast_id": 19,
+      "popularity": 0.6469,
+      "profile_path": null
+    },
+    {
+      "personId": 1760088,
+      "name": "David J. Nicholls",
+      "character": "Captain Flint",
+      "order": 14,
+      "cast_id": 25,
+      "popularity": 0.7206,
+      "profile_path": null
+    },
+    {
+      "personId": 1705493,
+      "name": "Frederick Warder",
+      "character": "Calico Jerry",
+      "order": 15,
+      "cast_id": 18,
+      "popularity": 1.5828,
+      "profile_path": "/ra0rlyNMXEMXToSaMjr0CoHrCwK.jpg"
+    },
+    {
+      "personId": 1401233,
+      "name": "Nigel Plaskitt",
+      "character": "Additional Muppet Performer",
+      "order": 16,
+      "cast_id": 32,
+      "popularity": 0.7616,
+      "profile_path": null
+    },
+    {
+      "personId": 1228891,
+      "name": "Louise Gold",
+      "character": "Female Tourist Rat / Rat Tour Guide (voice)",
+      "order": 17,
+      "cast_id": 33,
+      "popularity": 1.0087,
+      "profile_path": "/9svBFiWFS7vgWrWHkN9hR8zCCXL.jpg"
+    },
+    {
+      "personId": 291223,
+      "name": "John Eccleston",
+      "character": "Additional Muppet Performer",
+      "order": 18,
+      "cast_id": 34,
+      "popularity": 0.2699,
+      "profile_path": "/6bGvNjSJn7SeetF6RLgdUDBekVS.jpg"
+    },
+    {
+      "personId": 235418,
+      "name": "Simon Buckley",
+      "character": "Additional Muppet Performer",
+      "order": 19,
+      "cast_id": 35,
+      "popularity": 0.0261,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 65298,
+      "name": "Brian Henson",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.9191,
+      "profile_path": "/3YSu2Zvvf4SLmRJ1nU5KgoIVH8e.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2041,
+      "name": "island"
+    },
+    {
+      "id": 4418,
+      "name": "pirate gang"
+    },
+    {
+      "id": 6300,
+      "name": "puppet"
+    },
+    {
+      "id": 6956,
+      "name": "treasure hunt"
+    },
+    {
+      "id": 11691,
+      "name": "puppetry"
+    },
+    {
+      "id": 12988,
+      "name": "pirate"
+    },
+    {
+      "id": 179431,
+      "name": "duringcreditsstinger"
+    },
+    {
+      "id": 251337,
+      "name": "anthropomorphic puppets"
+    },
+    {
+      "id": 288816,
+      "name": "lighthearted"
+    }
+  ]
+}

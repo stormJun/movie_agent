@@ -1,0 +1,256 @@
+{
+  "overview": "Long separated from his family, hitman Joshua returns to Brighton Beach for a contract killing for the Russian Mafia. His abusive father, Arkady, banned him from returning after Joshua committed his first murder. He takes up residence in a hotel, and soon everyone knows he has returned. He goes home to visit his dying mother, Irina, and prepares for the assassination, getting drawn back into the criminal community he left behind.",
+  "release_date": "1994-10-28",
+  "runtime": 98,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.401,
+  "tmdb_vote_count": 223,
+  "tmdb_popularity": 4.9736,
+  "original_language": "en",
+  "poster_path": "/80zDn3oanRMWDSDX1cPKZVIi8OO.jpg",
+  "backdrop_path": "/eixQk0rpDH3vYamqWw4Bvu3Y635.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 8,
+      "name": "Fine Line Features",
+      "origin_country": "US"
+    },
+    {
+      "id": 285,
+      "name": "Live Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3129,
+      "name": "Tim Roth",
+      "character": "Joshua Shapira",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 3.5847,
+      "profile_path": "/qSizF2i9gz6c6DbAC5RoIq8sVqX.jpg"
+    },
+    {
+      "personId": 820,
+      "name": "Edward Furlong",
+      "character": "Reuben Shapira",
+      "order": 1,
+      "cast_id": 1,
+      "popularity": 3.1355,
+      "profile_path": "/gzMDzH0UDXE4vS0xPhD1M8oTymo.jpg"
+    },
+    {
+      "personId": 20005,
+      "name": "Moira Kelly",
+      "character": "Alla Shustervich",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.0907,
+      "profile_path": "/3yQRnGSfbPWQDInZHTzzXsrAhUR.jpg"
+    },
+    {
+      "personId": 13333,
+      "name": "Vanessa Redgrave",
+      "character": "Irina Shapira",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 3.4678,
+      "profile_path": "/ngBS6mLHn1in3kLJlTMR7w0J68r.jpg"
+    },
+    {
+      "personId": 925,
+      "name": "Paul Guilfoyle",
+      "character": "Boris Volkoff",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.968,
+      "profile_path": "/c7unxeM13lF9pMhZhYwlNsSFjFe.jpg"
+    },
+    {
+      "personId": 544626,
+      "name": "Natalya Andreychenko",
+      "character": "Natasha",
+      "order": 5,
+      "cast_id": 34,
+      "popularity": 1.6224,
+      "profile_path": "/7GIpHXFj6c8xahr7qdYS1knUp2z.jpg"
+    },
+    {
+      "personId": 12150,
+      "name": "Maximilian Schell",
+      "character": "Arkady Shapira",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 1.3404,
+      "profile_path": "/6WLkJ6Lj8bhO3MdV8EBx41ZWjbL.jpg"
+    },
+    {
+      "personId": 37205,
+      "name": "David Vadim",
+      "character": "Sasha",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 1.1098,
+      "profile_path": "/y7JoVtexKudV5dUDal4Ko0xeIlF.jpg"
+    },
+    {
+      "personId": 939586,
+      "name": "Mina Bern",
+      "character": "Grandma Tsilya",
+      "order": 8,
+      "cast_id": 29,
+      "popularity": 0.5711,
+      "profile_path": null
+    },
+    {
+      "personId": 151432,
+      "name": "Boris McGiver",
+      "character": "Ivan",
+      "order": 9,
+      "cast_id": 30,
+      "popularity": 1.0402,
+      "profile_path": "/mwVp5Pt7gMhEHPsijU8niPRljiW.jpg"
+    },
+    {
+      "personId": 233547,
+      "name": "Mohammad Ghaffari",
+      "character": "Pahlevi",
+      "order": 10,
+      "cast_id": 31,
+      "popularity": 0.848,
+      "profile_path": null
+    },
+    {
+      "personId": 24523,
+      "name": "Michael Khmurov",
+      "character": "Yuri",
+      "order": 11,
+      "cast_id": 32,
+      "popularity": 1.1449,
+      "profile_path": "/m2IR4tpMvhI0ywZPz3HuUijVQc1.jpg"
+    },
+    {
+      "personId": 3865029,
+      "name": "Dmitry Preyers",
+      "character": "Victor",
+      "order": 12,
+      "cast_id": 123,
+      "popularity": 0.1188,
+      "profile_path": null
+    },
+    {
+      "personId": 3865030,
+      "name": "David Ross",
+      "character": "Anatoly",
+      "order": 13,
+      "cast_id": 124,
+      "popularity": 0.1215,
+      "profile_path": null
+    },
+    {
+      "personId": 75602,
+      "name": "Ron Brice",
+      "character": "Man with One Leg",
+      "order": 14,
+      "cast_id": 125,
+      "popularity": 0.7418,
+      "profile_path": "/6Bi5z4HNkpL62XMqzI1eS735Mmj.jpg"
+    },
+    {
+      "personId": 3865031,
+      "name": "Jace Kent",
+      "character": "Mechanic",
+      "order": 15,
+      "cast_id": 126,
+      "popularity": 0.3977,
+      "profile_path": null
+    },
+    {
+      "personId": 3865032,
+      "name": "Marianna Lead",
+      "character": "Clara",
+      "order": 16,
+      "cast_id": 127,
+      "popularity": 0.094,
+      "profile_path": null
+    },
+    {
+      "personId": 39599,
+      "name": "Gene Ruffini",
+      "character": "Janitor",
+      "order": 17,
+      "cast_id": 128,
+      "popularity": 0.6259,
+      "profile_path": "/9mkBmnrtyrdEKWHlQn6UOQKkKDz.jpg"
+    },
+    {
+      "personId": 63914,
+      "name": "Tuesday Knight",
+      "character": "Actress on Television (uncredited)",
+      "order": 18,
+      "cast_id": 130,
+      "popularity": 0.7477,
+      "profile_path": "/9dWhs1E4emCHrfNRANupI18y39t.jpg"
+    },
+    {
+      "personId": 55434,
+      "name": "Leonid Citer",
+      "character": "(uncredited)",
+      "order": 19,
+      "cast_id": 132,
+      "popularity": 1.5712,
+      "profile_path": "/unXcr87OEHaQ4FPbrSiJzMOZWJw.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 20561,
+      "name": "James Gray",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1053,
+      "profile_path": "/dfggvmgzy7DtGAUXXShf1Y8Yml6.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 8045,
+      "name": "bratva (russian mafia)"
+    },
+    {
+      "id": 5301,
+      "name": "brother"
+    },
+    {
+      "id": 10041,
+      "name": "dysfunctional family"
+    }
+  ]
+}

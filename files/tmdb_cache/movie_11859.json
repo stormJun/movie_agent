@@ -1,0 +1,351 @@
+{
+  "overview": "Max Kirkpatrick is a cop who protects Kate McQuean, a civil law attorney, from a renegade KGB team out to terminate her",
+  "release_date": "1995-11-03",
+  "runtime": 91,
+  "budget": 50000000,
+  "revenue": 11500000,
+  "tmdb_vote_average": 5.13,
+  "tmdb_vote_count": 326,
+  "tmdb_popularity": 1.576,
+  "original_language": "en",
+  "poster_path": "/qcxsWOzBaF7MZNNThtRQWQ9Wrdk.jpg",
+  "backdrop_path": "/iFfbBL8vtiuTkqb9Os7lO8y3KnY.jpg",
+  "tmdb_genres_raw": [
+    "Action"
+  ],
+  "production_companies": [
+    {
+      "id": 1885,
+      "name": "Silver Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13021,
+      "name": "William Baldwin",
+      "character": "Max Kirkpatrick",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.0861,
+      "profile_path": "/mFCUAl6Rko6ocONhFDCpztcmKXd.jpg"
+    },
+    {
+      "personId": 33665,
+      "name": "Cindy Crawford",
+      "character": "Kate McQueen",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.5003,
+      "profile_path": "/ncJLWNKFtNDg5HFZspDMrexw2Pf.jpg"
+    },
+    {
+      "personId": 782,
+      "name": "Steven Berkoff",
+      "character": "Colonel Ilya Kazak",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.9465,
+      "profile_path": "/3u4gxLWmDXAtY37GvkyCN05X2zw.jpg"
+    },
+    {
+      "personId": 4443,
+      "name": "Christopher McDonald",
+      "character": "Lieutenant Meyerson",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 3.2756,
+      "profile_path": "/gK1XhbfD9Xd8s3VXRPpgDCluyZp.jpg"
+    },
+    {
+      "personId": 30488,
+      "name": "Miguel Sandoval",
+      "character": "Emilio Juantorena",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 1.8718,
+      "profile_path": "/v5tHxTkgOqcdWgjoEhUj0a50NIK.jpg"
+    },
+    {
+      "personId": 170954,
+      "name": "Johann Carlo",
+      "character": "Jodi Kirkpatrick",
+      "order": 5,
+      "cast_id": 21,
+      "popularity": 0.6359,
+      "profile_path": "/tRLGyqgJW8PdDjT7oo9kh2dpZo4.jpg"
+    },
+    {
+      "personId": 3136,
+      "name": "Salma Hayek Pinault",
+      "character": "Rita",
+      "order": 6,
+      "cast_id": 14,
+      "popularity": 8.923,
+      "profile_path": "/1qfYF7NGRObmeKR7IVXUFVIC0CN.jpg"
+    },
+    {
+      "personId": 60118,
+      "name": "John Bedford Lloyd",
+      "character": "Louis Aragon",
+      "order": 7,
+      "cast_id": 15,
+      "popularity": 1.0514,
+      "profile_path": "/tyNDFeQgf2dyjBZtRAskz1lZG1I.jpg"
+    },
+    {
+      "personId": 3981,
+      "name": "Jenette Goldstein",
+      "character": "Rosa",
+      "order": 8,
+      "cast_id": 16,
+      "popularity": 1.7175,
+      "profile_path": "/4YZVLLWEFtxPLaOAlndfzxH1WG1.jpg"
+    },
+    {
+      "personId": 13925,
+      "name": "Paul Dillon",
+      "character": "Leonide \"the Hacker\" Volkov",
+      "order": 9,
+      "cast_id": 17,
+      "popularity": 0.8084,
+      "profile_path": "/eadglYBBzdsVMp2hxnfopdnDNFP.jpg"
+    },
+    {
+      "personId": 53573,
+      "name": "Olek Krupa",
+      "character": "Zhukov",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 2.2504,
+      "profile_path": "/2SoniTSs89uf2jPx4Wvy3CBkdYs.jpg"
+    },
+    {
+      "personId": 106066,
+      "name": "Gustav Vintas",
+      "character": "Stefan",
+      "order": 11,
+      "cast_id": 19,
+      "popularity": 0.5104,
+      "profile_path": "/aaLqHCy1Rq9iFRJz3gi6t4AxQDy.jpg"
+    },
+    {
+      "personId": 6908,
+      "name": "Marc Macaulay",
+      "character": "Navigator",
+      "order": 12,
+      "cast_id": 20,
+      "popularity": 1.2631,
+      "profile_path": "/89ms2YkIxl3LYOKojcKLTmmI8BB.jpg"
+    },
+    {
+      "personId": 1434041,
+      "name": "Ruben Rabasa",
+      "character": "Computer Store Manager",
+      "order": 13,
+      "cast_id": 11,
+      "popularity": 1.0887,
+      "profile_path": "/terEHwAQdJ2XnzZIWu1C7Jccfkm.jpg"
+    },
+    {
+      "personId": 63214,
+      "name": "Sonny Carl Davis",
+      "character": "Baker",
+      "order": 14,
+      "cast_id": 22,
+      "popularity": 1.1756,
+      "profile_path": "/rT9gvwfifLVt0Sz56k9EVrYX5mM.jpg"
+    },
+    {
+      "personId": 20562,
+      "name": "Antoni Corone",
+      "character": "Codebreaker",
+      "order": 15,
+      "cast_id": 24,
+      "popularity": 2.5474,
+      "profile_path": "/85G9purVJGnYwu1wCVQO8ZNHr8Z.jpg"
+    },
+    {
+      "personId": 6486,
+      "name": "Dan Hedaya",
+      "character": "Walter Hollenbach (uncredited)",
+      "order": 16,
+      "cast_id": 25,
+      "popularity": 3.3541,
+      "profile_path": "/evL3mV8hNIjZOb1XG3qtgmiTgS5.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 70850,
+      "name": "Andrew Sipes",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.3044,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2157,
+      "name": "hacker"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 416,
+      "name": "miami, florida"
+    },
+    {
+      "id": 258,
+      "name": "bomb"
+    },
+    {
+      "id": 3713,
+      "name": "chase"
+    },
+    {
+      "id": 4426,
+      "name": "sadism"
+    },
+    {
+      "id": 1930,
+      "name": "kidnapping"
+    },
+    {
+      "id": 1562,
+      "name": "hostage"
+    },
+    {
+      "id": 6259,
+      "name": "psychopath"
+    },
+    {
+      "id": 470,
+      "name": "spy"
+    },
+    {
+      "id": 703,
+      "name": "detective"
+    },
+    {
+      "id": 772,
+      "name": "handcuffs"
+    },
+    {
+      "id": 1812,
+      "name": "fbi"
+    },
+    {
+      "id": 3278,
+      "name": "kgb"
+    },
+    {
+      "id": 4735,
+      "name": "pizza"
+    },
+    {
+      "id": 4530,
+      "name": "parking garage"
+    },
+    {
+      "id": 5430,
+      "name": "police protection"
+    },
+    {
+      "id": 9844,
+      "name": "car crash"
+    },
+    {
+      "id": 9714,
+      "name": "remake"
+    },
+    {
+      "id": 10718,
+      "name": "fugitive"
+    },
+    {
+      "id": 10562,
+      "name": "on the run"
+    },
+    {
+      "id": 10410,
+      "name": "conspiracy"
+    },
+    {
+      "id": 10950,
+      "name": "shootout"
+    },
+    {
+      "id": 12371,
+      "name": "gunfight"
+    },
+    {
+      "id": 13125,
+      "name": "sadist"
+    },
+    {
+      "id": 14967,
+      "name": "foot chase"
+    },
+    {
+      "id": 15167,
+      "name": "police detective"
+    },
+    {
+      "id": 15321,
+      "name": "police station"
+    },
+    {
+      "id": 18320,
+      "name": "held at gunpoint"
+    },
+    {
+      "id": 33456,
+      "name": "double cross"
+    },
+    {
+      "id": 156650,
+      "name": "machine gun"
+    },
+    {
+      "id": 156816,
+      "name": "grenade launcher"
+    },
+    {
+      "id": 176802,
+      "name": "rogue agent"
+    },
+    {
+      "id": 181145,
+      "name": "woman lawyer"
+    },
+    {
+      "id": 188294,
+      "name": "damsel in distress"
+    }
+  ]
+}

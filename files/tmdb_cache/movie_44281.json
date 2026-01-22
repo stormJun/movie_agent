@@ -1,0 +1,215 @@
+{
+  "overview": "Twelve-year-old Noura dangles uncertainly in that difficult netherworld between childhood and adulthood. His growing libido has gotten him banned from the women's baths, where his mother took him when he was younger, but he's not yet old enough to participate in grown-up discussions with the men of his Tunisian village. Noura's only real friend is a troublemaker named Salih -- the village political outcast.",
+  "release_date": "1990-09-14",
+  "runtime": 98,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.3,
+  "tmdb_vote_count": 59,
+  "tmdb_popularity": 2.2138,
+  "original_language": "ar",
+  "poster_path": "/uI7hb9flZetd0KZoN2BGHLq4uvZ.jpg",
+  "backdrop_path": "/mzmJAIO1mYHapSPVSFRATuGxfKU.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 75424,
+      "name": "Les Films du Scarabée",
+      "origin_country": "FR"
+    },
+    {
+      "id": 71842,
+      "name": "Cinétéléfilms",
+      "origin_country": "TN"
+    },
+    {
+      "id": 75423,
+      "name": "France Média",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "IT",
+      "name": "Italy"
+    },
+    {
+      "code": "TN",
+      "name": "Tunisia"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "ar",
+      "name": "العربية"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1428133,
+      "name": "Selim Boughedir",
+      "character": "Noura",
+      "order": 0,
+      "cast_id": 1001,
+      "popularity": 0.4659,
+      "profile_path": "/rKTA1pltcjk5h1PF16AZHYCZrim.jpg"
+    },
+    {
+      "personId": 1428134,
+      "name": "Mustafa Adouani",
+      "character": "Si Azzouz, Noura's father",
+      "order": 1,
+      "cast_id": 1002,
+      "popularity": 0.1299,
+      "profile_path": "/gN6ohtJuzaaeyl0z96eh5mgknQf.jpg"
+    },
+    {
+      "personId": 1311650,
+      "name": "Rabia Ben Abdallah",
+      "character": "Jamila, Noura's mother",
+      "order": 2,
+      "cast_id": 1003,
+      "popularity": 1.1088,
+      "profile_path": "/waX9XSwWdOhSI6qwRAAqTucJVj4.jpg"
+    },
+    {
+      "personId": 1428135,
+      "name": "Mohammed Driss",
+      "character": "Salih",
+      "order": 3,
+      "cast_id": 1004,
+      "popularity": 0.1536,
+      "profile_path": null
+    },
+    {
+      "personId": 1436422,
+      "name": "Hélène Catzaras",
+      "character": "Latifa",
+      "order": 4,
+      "cast_id": 1028,
+      "popularity": 0.5674,
+      "profile_path": "/w24ed5djeLVqMqUO4z0v2mvvAiu.jpg"
+    },
+    {
+      "personId": 1311671,
+      "name": "Fatima Ben Saïdane",
+      "character": "Salouha",
+      "order": 5,
+      "cast_id": 1029,
+      "popularity": 0.9151,
+      "profile_path": "/ofpPhmU9jaMdRUkoF4wkGVZYsC3.jpg"
+    },
+    {
+      "personId": 3661395,
+      "name": "Carolyn Chelby",
+      "character": "Leila",
+      "order": 6,
+      "cast_id": 1030,
+      "popularity": 1.2554,
+      "profile_path": "/gML0FfuQ71Wgh39ry9uklEOwA0g.jpg"
+    },
+    {
+      "personId": 3091033,
+      "name": "Abdelhamid Guayas",
+      "character": "Sheikh Mokhtar",
+      "order": 7,
+      "cast_id": 1031,
+      "popularity": 0.5051,
+      "profile_path": null
+    },
+    {
+      "personId": 2247366,
+      "name": "Jamel Sassi",
+      "character": "Moncef",
+      "order": 8,
+      "cast_id": 1032,
+      "popularity": 0.358,
+      "profile_path": "/sGRLjt5dInQpOHQHv8EziFfoBRf.jpg"
+    },
+    {
+      "personId": 1311672,
+      "name": "Zahira Ben Ammar",
+      "character": "The matron",
+      "order": 9,
+      "cast_id": 1033,
+      "popularity": 0.8153,
+      "profile_path": "/jsLKMuK1ReXUIwljYDWrrfJy9s6.jpg"
+    },
+    {
+      "personId": 1847096,
+      "name": "Radhouane El Meddeb",
+      "character": "Mounir",
+      "order": 10,
+      "cast_id": 1034,
+      "popularity": 0.1653,
+      "profile_path": null
+    },
+    {
+      "personId": 1340495,
+      "name": "Jamila Ourabi",
+      "character": "Owner of the hammam",
+      "order": 11,
+      "cast_id": 1035,
+      "popularity": 0.0574,
+      "profile_path": null
+    },
+    {
+      "personId": 3661405,
+      "name": "Aziza Boulabiar",
+      "character": "Zekhia",
+      "order": 12,
+      "cast_id": 1036,
+      "popularity": 0.2628,
+      "profile_path": "/2mDYbfWLMCOZ5KOXvLGho675VvC.jpg"
+    },
+    {
+      "personId": 1453862,
+      "name": "Anouche Setbon",
+      "character": "The Beautiful Aicha",
+      "order": 13,
+      "cast_id": 1037,
+      "popularity": 0.0919,
+      "profile_path": "/rU8NOLfMFvSPYt1yiYsR4L5HFlg.jpg"
+    },
+    {
+      "personId": 3661415,
+      "name": "Marianne Catzaras",
+      "character": "Fatma",
+      "order": 14,
+      "cast_id": 1038,
+      "popularity": 0.0991,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1044284,
+      "name": "Férid Boughedir",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.3188,
+      "profile_path": "/53hqwxWDK5WR2cgDe983wNwteDd.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 5952,
+      "name": "tunesia"
+    },
+    {
+      "id": 11336,
+      "name": "young boy"
+    },
+    {
+      "id": 230876,
+      "name": "boyhood"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "overview": "Bruce Brown, king of surfing documentaries, returns after nearly thirty years to trace the steps of two young surfers to top surfing spots around the world. Along the way we see many of the people and locales Bruce visited during the filming of Endless Summer (1966).",
+  "release_date": "1994-06-03",
+  "runtime": 109,
+  "budget": 0,
+  "revenue": 2155385,
+  "tmdb_vote_average": 7.5,
+  "tmdb_vote_count": 25,
+  "tmdb_popularity": 0.3104,
+  "original_language": "en",
+  "poster_path": "/89y5faI7wXFghUcsMtwfcVS6JBZ.jpg",
+  "backdrop_path": "/tnETQoBKEf638Jgg5kRZgw1Q7Jb.jpg",
+  "tmdb_genres_raw": [
+    "Documentary"
+  ],
+  "production_companies": [
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 108343,
+      "name": "Robert 'Wingnut' Weaver",
+      "character": "Principal Surfer",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 0.6251,
+      "profile_path": null
+    },
+    {
+      "personId": 2603790,
+      "name": "Patrick O'Connell",
+      "character": "Principal Surfer",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 0.0747,
+      "profile_path": null
+    },
+    {
+      "personId": 86,
+      "name": "Bruce Brown",
+      "character": "Narrator",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 1.1609,
+      "profile_path": "/i6LqOfBqmZE2ytBygTHIVCazMxE.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 86,
+      "name": "Bruce Brown",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1609,
+      "profile_path": "/i6LqOfBqmZE2ytBygTHIVCazMxE.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 5349,
+      "name": "surfing"
+    },
+    {
+      "id": 159290,
+      "name": "sports documentary"
+    }
+  ]
+}

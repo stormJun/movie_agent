@@ -1,0 +1,260 @@
+{
+  "overview": "Moronic best friends get themselves locked inside the Bio-Dome, a science experiment, along with a group of environmental scientists for one year.",
+  "release_date": "1996-01-12",
+  "runtime": 95,
+  "budget": 8500000,
+  "revenue": 13400000,
+  "tmdb_vote_average": 4.528,
+  "tmdb_vote_count": 392,
+  "tmdb_popularity": 4.1829,
+  "original_language": "en",
+  "poster_path": "/pjSkGZAvksrbO6tGain8PJ3rfC7.jpg",
+  "backdrop_path": "/4pXKbwEFGxvBMFq4QjOjljtVzdq.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 38003,
+      "name": "Weasel Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    },
+    {
+      "id": 787,
+      "name": "3 Arts Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 2090,
+      "name": "Motion Picture Corporation of America",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 64998,
+      "name": "Pauly Shore",
+      "character": "Bud Macintosh",
+      "order": 0,
+      "cast_id": 14,
+      "popularity": 1.6709,
+      "profile_path": "/uI7ctTqSIlLL7nn6UqDdqqhGNVC.jpg"
+    },
+    {
+      "personId": 9045,
+      "name": "Stephen Baldwin",
+      "character": "Doyle Johnson",
+      "order": 1,
+      "cast_id": 15,
+      "popularity": 3.2661,
+      "profile_path": "/w2nZjBsEsjboQDZJXEkysuGgue4.jpg"
+    },
+    {
+      "personId": 7676,
+      "name": "William Atherton",
+      "character": "Dr. Noah Faulkner",
+      "order": 2,
+      "cast_id": 1,
+      "popularity": 2.1404,
+      "profile_path": "/S9W4deKuEa2K12ZiXwlvrC6J4U.jpg"
+    },
+    {
+      "personId": 16484,
+      "name": "Joey Lauren Adams",
+      "character": "Monique",
+      "order": 3,
+      "cast_id": 16,
+      "popularity": 1.6623,
+      "profile_path": "/tBexng7MCxaA0tXGQDAnww5Jp01.jpg"
+    },
+    {
+      "personId": 43433,
+      "name": "Teresa Hill",
+      "character": "Jen",
+      "order": 4,
+      "cast_id": 17,
+      "popularity": 1.5628,
+      "profile_path": "/d3QmlZxmr43UMEsTQ6UMBMwJjTE.jpg"
+    },
+    {
+      "personId": 19439,
+      "name": "Henry Gibson",
+      "character": "William Leaky",
+      "order": 5,
+      "cast_id": 29,
+      "popularity": 1.6931,
+      "profile_path": "/2Py2ZzFfTobPIHEKRYuWHhxRDqF.jpg"
+    },
+    {
+      "personId": 57869,
+      "name": "Kevin West",
+      "character": "T.C. Romulus",
+      "order": 6,
+      "cast_id": 4,
+      "popularity": 1.9951,
+      "profile_path": "/yUPnUbIRrezzx5cOXSTLJliPHlJ.jpg"
+    },
+    {
+      "personId": 23970,
+      "name": "Denise Dowse",
+      "character": "Olivia Biggs",
+      "order": 7,
+      "cast_id": 2,
+      "popularity": 1.4923,
+      "profile_path": "/7Ap7nK94rFEjaQcduKBsLhetmPy.jpg"
+    },
+    {
+      "personId": 57868,
+      "name": "Dara Tomanovich",
+      "character": "Mimi Simkins",
+      "order": 8,
+      "cast_id": 3,
+      "popularity": 0.7701,
+      "profile_path": "/jBzR1mGrJN6uU5mk7nspawsclSo.jpg"
+    },
+    {
+      "personId": 16850,
+      "name": "Rose McGowan",
+      "character": "Denise",
+      "order": 9,
+      "cast_id": 21,
+      "popularity": 3.6703,
+      "profile_path": "/x8sHWjQ7cWVcHKhqGR09x0Y0tsP.jpg"
+    },
+    {
+      "personId": 37043,
+      "name": "Taylor Negron",
+      "character": "Russell",
+      "order": 10,
+      "cast_id": 30,
+      "popularity": 1.3537,
+      "profile_path": "/9c2kknpnafWSaZQHOaHjFGSv8wM.jpg"
+    },
+    {
+      "personId": 77242,
+      "name": "Patricia Hearst",
+      "character": "Doyle's Mother",
+      "order": 11,
+      "cast_id": 31,
+      "popularity": 0.9523,
+      "profile_path": "/sZDXURaFCuxMbMHKg3RniYVs8vm.jpg"
+    },
+    {
+      "personId": 94999,
+      "name": "Jeremy Jordan",
+      "character": "Trent",
+      "order": 12,
+      "cast_id": 27,
+      "popularity": 0.7305,
+      "profile_path": "/j8OwM17P8DC4f41cvv9N8GglWXc.jpg"
+    },
+    {
+      "personId": 199298,
+      "name": "Trevor St. John",
+      "character": "Parker",
+      "order": 13,
+      "cast_id": 26,
+      "popularity": 2.0336,
+      "profile_path": "/hrBoF5u263objhRDuV7YCCLl7eH.jpg"
+    },
+    {
+      "personId": 76314,
+      "name": "Channon Roe",
+      "character": "Roach",
+      "order": 14,
+      "cast_id": 28,
+      "popularity": 1.1511,
+      "profile_path": "/qR5Fr8SwyYAKN3FN5ZmAv01EQgZ.jpg"
+    },
+    {
+      "personId": 12207,
+      "name": "Kylie Minogue",
+      "character": "Dr. Petra von Kant",
+      "order": 15,
+      "cast_id": 18,
+      "popularity": 1.7427,
+      "profile_path": "/sVe6DQ1iFlk4nad0Bd3WVVVj23P.jpg"
+    },
+    {
+      "personId": 22297,
+      "name": "Kyle Gass",
+      "character": "Tenacious D",
+      "order": 16,
+      "cast_id": 19,
+      "popularity": 1.643,
+      "profile_path": "/aLeTBMicOFIyBmggxIQ7H5AyjNK.jpg"
+    },
+    {
+      "personId": 70851,
+      "name": "Jack Black",
+      "character": "Tenacious D",
+      "order": 17,
+      "cast_id": 20,
+      "popularity": 11.7364,
+      "profile_path": "/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg"
+    },
+    {
+      "personId": 2001832,
+      "name": "Christopher Dye",
+      "character": "Partier",
+      "order": 18,
+      "cast_id": 22,
+      "popularity": 0.2076,
+      "profile_path": null
+    },
+    {
+      "personId": 1692535,
+      "name": "Loomis Fall",
+      "character": "Drummer",
+      "order": 19,
+      "cast_id": 32,
+      "popularity": 0.7832,
+      "profile_path": "/1ZKuwNmcynIPXMFVzDYZMqFnkp.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 57870,
+      "name": "Jason Bloom",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1053,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6305,
+      "name": "pollution"
+    },
+    {
+      "id": 4166,
+      "name": "biotope"
+    },
+    {
+      "id": 4459,
+      "name": "vegetarian"
+    },
+    {
+      "id": 255612,
+      "name": "biosphere"
+    }
+  ]
+}

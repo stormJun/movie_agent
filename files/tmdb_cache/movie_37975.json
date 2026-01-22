@@ -1,0 +1,229 @@
+{
+  "overview": "The adventures and deceptions of a photographer who travels through small villages of 1950s Sicily pretending to work for the big film studios in Rome.",
+  "release_date": "1995-09-21",
+  "runtime": 113,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 7.1,
+  "tmdb_vote_count": 189,
+  "tmdb_popularity": 0.7984,
+  "original_language": "it",
+  "poster_path": "/xa3IfslUY5hjIWFb3Z2Ofq37KHF.jpg",
+  "backdrop_path": "/ePyZVtn6j8upnk44HnDARDDOuPD.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 371,
+      "name": "Cecchi Gori Group Tiger Cinematografica",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "it",
+      "name": "Italiano"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2166,
+      "name": "Sergio Castellitto",
+      "character": "Joe Morelli (Giuseppe Romolo)",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.3664,
+      "profile_path": "/uq5xz7kinzgdclGOcechgfPBgYC.jpg"
+    },
+    {
+      "personId": 258039,
+      "name": "Tiziana Lodato",
+      "character": "Beata",
+      "order": 1,
+      "cast_id": 7,
+      "popularity": 0.6068,
+      "profile_path": "/5JkYyv6YSePIQ8ANaMMAVSzGP8e.jpg"
+    },
+    {
+      "personId": 592480,
+      "name": "Franco Scaldati",
+      "character": "Brigadier Mastropaolo",
+      "order": 2,
+      "cast_id": 8,
+      "popularity": 0.1586,
+      "profile_path": "/ArxYxm4T5eRoO9ojWv5UubPRhvk.jpg"
+    },
+    {
+      "personId": 14151,
+      "name": "Leopoldo Trieste",
+      "character": "Mute",
+      "order": 3,
+      "cast_id": 9,
+      "popularity": 0.8459,
+      "profile_path": "/rPvCj39OY7LClFh9CG2OXFKxioB.jpg"
+    },
+    {
+      "personId": 119992,
+      "name": "Leo Gullotta",
+      "character": "Vito",
+      "order": 4,
+      "cast_id": 16,
+      "popularity": 1.3902,
+      "profile_path": "/wn9LQjKRZxrXm6a5zyfrLs71ChM.jpg"
+    },
+    {
+      "personId": 652000,
+      "name": "Clelia Rondinella",
+      "character": "Anna's mother",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 0.5194,
+      "profile_path": "/5XnQm73pyj1HDbPd6qVBM7Oo7KS.jpg"
+    },
+    {
+      "personId": 240914,
+      "name": "Salvatore Billa",
+      "character": "Prince",
+      "order": 6,
+      "cast_id": 31,
+      "popularity": 2.2103,
+      "profile_path": "/3U3SqxbX6UjfwKGuKTFehn4tytA.jpg"
+    },
+    {
+      "personId": 1850191,
+      "name": "Jane Alexander",
+      "character": "Princess",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 1.6561,
+      "profile_path": "/sg3oR8irr5dElGGuC3a97nFEkFp.jpg"
+    },
+    {
+      "personId": 126975,
+      "name": "Tony Sperandeo",
+      "character": "1st Badalamenti",
+      "order": 8,
+      "cast_id": 27,
+      "popularity": 1.264,
+      "profile_path": "/ccBTr3bbio0IHVLVn6NYLJWRyZw.jpg"
+    },
+    {
+      "personId": 103627,
+      "name": "Tano Cimarosa",
+      "character": "Grandpa Bordonaro",
+      "order": 9,
+      "cast_id": 11,
+      "popularity": 1.1127,
+      "profile_path": "/npEuqZSuc9oq1nfBj1l93hY7Ygc.jpg"
+    },
+    {
+      "personId": 39618,
+      "name": "Nicola Di Pinto",
+      "character": "Communal Functionary",
+      "order": 10,
+      "cast_id": 12,
+      "popularity": 1.426,
+      "profile_path": "/1TCh4CylEp4uLIaM2o2N6YSyyZg.jpg"
+    },
+    {
+      "personId": 553182,
+      "name": "Domenico Gennaro",
+      "character": "1st Mafioso (as Mimmo Gennaro)",
+      "order": 11,
+      "cast_id": 15,
+      "popularity": 0.3817,
+      "profile_path": "/hK7dPs1O1FnuPndLafjAwpB7w7L.jpg"
+    },
+    {
+      "personId": 120656,
+      "name": "Luigi Maria Burruano",
+      "character": "Flirtatious Client",
+      "order": 12,
+      "cast_id": 17,
+      "popularity": 0.7737,
+      "profile_path": "/3kDUllVREGWbWIz5eQHm2DWNvSv.jpg"
+    },
+    {
+      "personId": 70083,
+      "name": "Antonella Attili",
+      "character": "Nurse",
+      "order": 13,
+      "cast_id": 4,
+      "popularity": 1.3673,
+      "profile_path": "/hoLib8DJzJ7fPQhtUjmo5n4ntu0.jpg"
+    },
+    {
+      "personId": 1264236,
+      "name": "Costantino Carrozza",
+      "character": "The Collector",
+      "order": 14,
+      "cast_id": 13,
+      "popularity": 0.392,
+      "profile_path": "/qqUWVD66anDULIJOBFqa96c3yRB.jpg"
+    },
+    {
+      "personId": 1180060,
+      "name": "Carmelo Di Mazzarelli",
+      "character": "Old Man in Wheelchair",
+      "order": 15,
+      "cast_id": 72,
+      "popularity": 0.7692,
+      "profile_path": "/5P4PcpBTNGAZje1cm8499igk1ps.jpg"
+    },
+    {
+      "personId": 1883254,
+      "name": "Domenico Dolce",
+      "character": "Peasant on Bus",
+      "order": 16,
+      "cast_id": 19,
+      "popularity": 0.2017,
+      "profile_path": "/iHDaWIRGSES4PdZv24X0zz9pTwa.jpg"
+    },
+    {
+      "personId": 1755923,
+      "name": "Stefano Gabbana",
+      "character": "Photographer",
+      "order": 17,
+      "cast_id": 20,
+      "popularity": 0.3378,
+      "profile_path": "/z9XSAu7hXK7ctrrdcV4RKqG66CI.jpg"
+    },
+    {
+      "personId": 1883255,
+      "name": "Maria Rosa Parrelo",
+      "character": "Santina",
+      "order": 18,
+      "cast_id": 21,
+      "popularity": 0.0071,
+      "profile_path": null
+    },
+    {
+      "personId": 1883256,
+      "name": "Rita Lia",
+      "character": "Pinuccia",
+      "order": 19,
+      "cast_id": 22,
+      "popularity": 0.0143,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 65314,
+      "name": "Giuseppe Tornatore",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.1014,
+      "profile_path": "/t5PurTT9QuvV5Xs9Q2JzVui5oqF.jpg"
+    }
+  ],
+  "keywords": []
+}

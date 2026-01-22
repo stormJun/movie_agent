@@ -1,0 +1,288 @@
+{
+  "overview": "The Law Enforcement Technology Advancement Centre (LETAC) has developed SID version 6.7: a Sadistic, Intelligent, and Dangerous virtual reality entity which is synthesized from the personalities of more than 150 serial killers, and only one man can stop him.",
+  "release_date": "1995-08-04",
+  "runtime": 106,
+  "budget": 30000000,
+  "revenue": 24048000,
+  "tmdb_vote_average": 5.505,
+  "tmdb_vote_count": 582,
+  "tmdb_popularity": 2.0507,
+  "original_language": "en",
+  "poster_path": "/5emgnXYrXjqyiup2JsvtuENseiV.jpg",
+  "backdrop_path": "/wH3rho5l3w0hV8XWQzl14DWduRU.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Crime",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5292,
+      "name": "Denzel Washington",
+      "character": "Parker Barnes",
+      "order": 0,
+      "cast_id": 10,
+      "popularity": 7.2868,
+      "profile_path": "/jj2Gcobpopokal0YstuCQW0ldJ4.jpg"
+    },
+    {
+      "personId": 934,
+      "name": "Russell Crowe",
+      "character": "Sid 6.7",
+      "order": 1,
+      "cast_id": 11,
+      "popularity": 5.1251,
+      "profile_path": "/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
+    },
+    {
+      "personId": 6473,
+      "name": "Kelly Lynch",
+      "character": "Madison Carter",
+      "order": 2,
+      "cast_id": 12,
+      "popularity": 2.845,
+      "profile_path": "/lYpcMbWOpZ552VHPCjwjyZ2jvvw.jpg"
+    },
+    {
+      "personId": 10402,
+      "name": "Alanna Ubach",
+      "character": "Ella",
+      "order": 3,
+      "cast_id": 57,
+      "popularity": 2.7646,
+      "profile_path": "/ffyBAEoW3bDgVJQV3GaHsZ9x29W.jpg"
+    },
+    {
+      "personId": 4520,
+      "name": "William Forsythe",
+      "character": "William Cochran",
+      "order": 4,
+      "cast_id": 13,
+      "popularity": 1.8284,
+      "profile_path": "/35BXHugSG931iVPbHn6W9SNXNY1.jpg"
+    },
+    {
+      "personId": 57093,
+      "name": "Stephen Spinella",
+      "character": "Lindenmeyer",
+      "order": 5,
+      "cast_id": 14,
+      "popularity": 1.0152,
+      "profile_path": "/lJahZcmWjggljySaqnPyGIuOeXs.jpg"
+    },
+    {
+      "personId": 7071,
+      "name": "Louise Fletcher",
+      "character": "Elizabeth Deane",
+      "order": 6,
+      "cast_id": 15,
+      "popularity": 1.5381,
+      "profile_path": "/hN15em5LqXqDe1QgDa6lXK9fx3z.jpg"
+    },
+    {
+      "personId": 886,
+      "name": "William Fichtner",
+      "character": "Wallace",
+      "order": 7,
+      "cast_id": 23,
+      "popularity": 4.3821,
+      "profile_path": "/wWtJOoaNAwPparpzMNuRBjvxwEf.jpg"
+    },
+    {
+      "personId": 36055,
+      "name": "Costas Mandylor",
+      "character": "John Donovan",
+      "order": 8,
+      "cast_id": 93,
+      "popularity": 2.0541,
+      "profile_path": "/yPkQdbhCj2EJM0cjDtkuJTlFp86.jpg"
+    },
+    {
+      "personId": 18916,
+      "name": "Kevin J. O'Connor",
+      "character": "Clyde Reilly",
+      "order": 9,
+      "cast_id": 25,
+      "popularity": 2.2869,
+      "profile_path": "/9ZO0QYkxjhThd8IVqSJw7gHyQ68.jpg"
+    },
+    {
+      "personId": 53862,
+      "name": "Kaley Cuoco",
+      "character": "Karin",
+      "order": 10,
+      "cast_id": 20,
+      "popularity": 9.6727,
+      "profile_path": "/jZdgOfncpYjks4AFd6ndYIwpAez.jpg"
+    },
+    {
+      "personId": 154644,
+      "name": "Una Damon",
+      "character": "Woman with Video Camera",
+      "order": 11,
+      "cast_id": 16,
+      "popularity": 1.5938,
+      "profile_path": "/pLRTeGtFBXAHfXbDhVRv3irHyDq.jpg"
+    },
+    {
+      "personId": 122491,
+      "name": "Christopher Murray",
+      "character": "Matthew Grimes",
+      "order": 12,
+      "cast_id": 26,
+      "popularity": 1.3782,
+      "profile_path": "/jyEAFTMN7p23oNM6WFBB1L2qsar.jpg"
+    },
+    {
+      "personId": 203762,
+      "name": "Miguel Nájera",
+      "character": "Rafael Debaca",
+      "order": 13,
+      "cast_id": 17,
+      "popularity": 1.3859,
+      "profile_path": "/iyzgMgk540UJjHx9d4fsuVTqC8F.jpg"
+    },
+    {
+      "personId": 1585201,
+      "name": "Miracle Vincent",
+      "character": "Christine Barnes",
+      "order": 14,
+      "cast_id": 18,
+      "popularity": 0.2261,
+      "profile_path": "/cJup3nx1L2uzeUUmxWILi5EkcEG.jpg"
+    },
+    {
+      "personId": 10826,
+      "name": "Traci Lords",
+      "character": "Media Zone Singer",
+      "order": 15,
+      "cast_id": 19,
+      "popularity": 25.605,
+      "profile_path": "/xcHV0zuDDYX5TZfJAd6osXfzLWC.jpg"
+    },
+    {
+      "personId": 66072,
+      "name": "Michael Buffer",
+      "character": "Emcee",
+      "order": 16,
+      "cast_id": 24,
+      "popularity": 1.0419,
+      "profile_path": "/433i2ensZyexe2tD0jlPEvCQakn.jpg"
+    },
+    {
+      "personId": 11321,
+      "name": "Heidi Schanz",
+      "character": "Sheila 3.2",
+      "order": 17,
+      "cast_id": 48,
+      "popularity": 2.7926,
+      "profile_path": "/wweWS7u1rc9Ldq6lsnPmBeLV9lJ.jpg"
+    },
+    {
+      "personId": 949901,
+      "name": "Mara Duronslet",
+      "character": "Beautiful Woman at Olympic Stadium",
+      "order": 18,
+      "cast_id": 49,
+      "popularity": 0.3002,
+      "profile_path": null
+    },
+    {
+      "personId": 1292188,
+      "name": "Karen Annarino",
+      "character": "IS? TV Reporter",
+      "order": 19,
+      "cast_id": 50,
+      "popularity": 0.3713,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 57090,
+      "name": "Brett Leonard",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5746,
+      "profile_path": "/vumJ0PLhcmbd34qKscrQGAjUg8v.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 803,
+      "name": "android"
+    },
+    {
+      "id": 310,
+      "name": "artificial intelligence (a.i.)"
+    },
+    {
+      "id": 4286,
+      "name": "computer program"
+    },
+    {
+      "id": 282,
+      "name": "video game"
+    },
+    {
+      "id": 4563,
+      "name": "virtual reality"
+    },
+    {
+      "id": 2651,
+      "name": "nanotechnology"
+    },
+    {
+      "id": 3249,
+      "name": "hologram"
+    },
+    {
+      "id": 8440,
+      "name": "ex-cop"
+    },
+    {
+      "id": 9819,
+      "name": "visual effect"
+    },
+    {
+      "id": 10714,
+      "name": "serial killer"
+    },
+    {
+      "id": 12190,
+      "name": "cyberpunk"
+    },
+    {
+      "id": 12670,
+      "name": "los angeles, california"
+    },
+    {
+      "id": 177258,
+      "name": "police training"
+    },
+    {
+      "id": 269233,
+      "name": "good versus evil"
+    }
+  ]
+}

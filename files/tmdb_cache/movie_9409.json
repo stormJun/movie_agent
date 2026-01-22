@@ -1,0 +1,251 @@
+{
+  "overview": "A pair of immature detectives are joined by a pesky assistant district attorney in staking out a lakeside home where an important Mafia trial witness is believed to be heading.",
+  "release_date": "1993-07-22",
+  "runtime": 109,
+  "budget": 30000000,
+  "revenue": 30008496,
+  "tmdb_vote_average": 5.418,
+  "tmdb_vote_count": 239,
+  "tmdb_popularity": 0.9476,
+  "original_language": "en",
+  "poster_path": "/hBItFUmCrRS1mel0TM69ymBD79k.jpg",
+  "backdrop_path": "/eBA3K1Vdh1UuagOu6KMzPrxw7EU.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Crime",
+    "Action"
+  ],
+  "production_companies": [
+    {
+      "id": 9195,
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3037,
+      "name": "Richard Dreyfuss",
+      "character": "Det. Chris Lecce",
+      "order": 0,
+      "cast_id": 19,
+      "popularity": 3.6249,
+      "profile_path": "/q2BPu6zWwFtnzQfpl4fgbKqURXM.jpg"
+    },
+    {
+      "personId": 2880,
+      "name": "Emilio Estevez",
+      "character": "Det. Bill Reimers",
+      "order": 1,
+      "cast_id": 18,
+      "popularity": 4.1404,
+      "profile_path": "/6TNIik0wBLo8DTvmJNDkKDqKWme.jpg"
+    },
+    {
+      "personId": 12929,
+      "name": "Rosie O'Donnell",
+      "character": "A.D.A. Gina Garrett",
+      "order": 2,
+      "cast_id": 17,
+      "popularity": 1.9917,
+      "profile_path": "/bfeIiPngsbLU7zK8sS18l3Pz3KR.jpg"
+    },
+    {
+      "personId": 1117,
+      "name": "Dennis Farina",
+      "character": "Brian O'Hara",
+      "order": 3,
+      "cast_id": 16,
+      "popularity": 1.7138,
+      "profile_path": "/4hEWe0ZcDpGlB3nRizLkVMcG13B.jpg"
+    },
+    {
+      "personId": 15860,
+      "name": "Miguel Ferrer",
+      "character": "Tony Castellano",
+      "order": 4,
+      "cast_id": 21,
+      "popularity": 2.7086,
+      "profile_path": "/n6VZ8OQmozHmnJQRwR55gBH8Tl0.jpg"
+    },
+    {
+      "personId": 14702,
+      "name": "Cathy Moriarty",
+      "character": "Luella Delano",
+      "order": 5,
+      "cast_id": 22,
+      "popularity": 1.6948,
+      "profile_path": "/g5pXUDGH30egsCq9eTDrsikFAYk.jpg"
+    },
+    {
+      "personId": 57418,
+      "name": "Marcia Strassman",
+      "character": "Pam O'Hara",
+      "order": 6,
+      "cast_id": 23,
+      "popularity": 1.7674,
+      "profile_path": "/7pihpMY2GlwpAvpGLRYMbOj2T3Y.jpg"
+    },
+    {
+      "personId": 29774,
+      "name": "Dan Lauria",
+      "character": "Capt. Phil Coldshank",
+      "order": 7,
+      "cast_id": 24,
+      "popularity": 2.4384,
+      "profile_path": "/uxJWnRJoSkpGbK882ptdNi2WrtP.jpg"
+    },
+    {
+      "personId": 289,
+      "name": "Madeleine Stowe",
+      "character": "Maria McGuire (uncredited)",
+      "order": 8,
+      "cast_id": 25,
+      "popularity": 3.7984,
+      "profile_path": "/k7iQLoCP11e7iVMp1LQimUQLZe8.jpg"
+    },
+    {
+      "personId": 61167,
+      "name": "Frank C. Turner",
+      "character": "Unlucky",
+      "order": 9,
+      "cast_id": 59,
+      "popularity": 1.3307,
+      "profile_path": "/sIF6E9RzaSJJy6GWpy4dHEUDudI.jpg"
+    },
+    {
+      "personId": 44261,
+      "name": "John Rubinstein",
+      "character": "Thomas Hassrick",
+      "order": 10,
+      "cast_id": 60,
+      "popularity": 1.7275,
+      "profile_path": "/9Ufrca4VnhnsN1Ec0i0QudPqS6L.jpg"
+    },
+    {
+      "personId": 56104,
+      "name": "Sharon Maughan",
+      "character": "Barbara Burnside",
+      "order": 11,
+      "cast_id": 61,
+      "popularity": 0.674,
+      "profile_path": "/zcIJ4RcKk2v5KGRL4E3aKjisoBq.jpg"
+    },
+    {
+      "personId": 1418031,
+      "name": "Christopher Doyle",
+      "character": "McNamara",
+      "order": 12,
+      "cast_id": 62,
+      "popularity": 1.2058,
+      "profile_path": "/yDr1eRA8ReJPllhqGd2wyFUlgDE.jpg"
+    },
+    {
+      "personId": 929042,
+      "name": "Sharon Schaffer",
+      "character": "Tilghman",
+      "order": 13,
+      "cast_id": 63,
+      "popularity": 0.5767,
+      "profile_path": "/kUeAvkhnJkP4mEi9uqZ8s4ertXu.jpg"
+    },
+    {
+      "personId": 9569,
+      "name": "Rick Seaman",
+      "character": "Van Agent",
+      "order": 14,
+      "cast_id": 64,
+      "popularity": 0.8629,
+      "profile_path": null
+    },
+    {
+      "personId": 1651501,
+      "name": "Jan Speck",
+      "character": "Van Agent",
+      "order": 15,
+      "cast_id": 65,
+      "popularity": 0.5336,
+      "profile_path": null
+    },
+    {
+      "personId": 99125,
+      "name": "Gene Ellison-Jones",
+      "character": "Vegas Police Captain",
+      "order": 16,
+      "cast_id": 66,
+      "popularity": 0.0995,
+      "profile_path": null
+    },
+    {
+      "personId": 1306784,
+      "name": "Frank DeAngelo",
+      "character": "Vegas Investigator",
+      "order": 17,
+      "cast_id": 67,
+      "popularity": 0.4116,
+      "profile_path": null
+    },
+    {
+      "personId": 2855633,
+      "name": "J.R. West",
+      "character": "Vegas Investigator",
+      "order": 18,
+      "cast_id": 68,
+      "popularity": 0.0862,
+      "profile_path": null
+    },
+    {
+      "personId": 99856,
+      "name": "Steven Lambert",
+      "character": "Killer",
+      "order": 19,
+      "cast_id": 69,
+      "popularity": 0.8002,
+      "profile_path": "/4xXQXJHECq50ea7C8VeBY0uN3ms.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 12840,
+      "name": "John Badham",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.4721,
+      "profile_path": "/hh0EssedcgUOICkZywbVuwVOJO4.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3149,
+      "name": "gangster"
+    },
+    {
+      "id": 4171,
+      "name": "staatsanwältin"
+    },
+    {
+      "id": 8015,
+      "name": "cop"
+    },
+    {
+      "id": 41158,
+      "name": "stakeout"
+    },
+    {
+      "id": 155446,
+      "name": "police stakeout"
+    }
+  ]
+}

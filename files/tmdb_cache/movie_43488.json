@@ -1,0 +1,251 @@
+{
+  "overview": "In the 1943 invasion of Italy, one American platoon lands, digs in, then makes its way inland to attempt to take a fortified farmhouse, as tension and casualties mount.",
+  "release_date": "1945-12-25",
+  "runtime": 117,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.8,
+  "tmdb_vote_count": 57,
+  "tmdb_popularity": 0.7104,
+  "original_language": "en",
+  "poster_path": "/uHZX36Ls2rtfMZqX1mmhmbV92R8.jpg",
+  "backdrop_path": "/oqt7YeyBCF1uevRdtKlQCVIY7dE.jpg",
+  "tmdb_genres_raw": [
+    "War",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 4532,
+      "name": "Superior Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 15524,
+      "name": "Lewis Milestone Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "it",
+      "name": "Italiano"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13578,
+      "name": "Dana Andrews",
+      "character": "Sgt. Bill Tyne",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.6632,
+      "profile_path": "/gTZaqIS441ejTsQmfZff6SHvWja.jpg"
+    },
+    {
+      "personId": 3090,
+      "name": "Richard Conte",
+      "character": "Pvt. Rivera",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 1.3526,
+      "profile_path": "/bDegodf4dYGXMejdm4T6XgOJwlr.jpg"
+    },
+    {
+      "personId": 34421,
+      "name": "George Tyne",
+      "character": "Pvt. Jake Friedman",
+      "order": 2,
+      "cast_id": 35,
+      "popularity": 0.4614,
+      "profile_path": "/qUVWU8q0cMeMzF79q5IWuRaxkce.jpg"
+    },
+    {
+      "personId": 14502,
+      "name": "John Ireland",
+      "character": "Pfc. Windy Craven",
+      "order": 3,
+      "cast_id": 21,
+      "popularity": 1.2564,
+      "profile_path": "/bvwphkKbqBzAYopNBTdzrbkPRmF.jpg"
+    },
+    {
+      "personId": 2177,
+      "name": "Lloyd Bridges",
+      "character": "Sgt. Ward",
+      "order": 4,
+      "cast_id": 2,
+      "popularity": 2.2708,
+      "profile_path": "/lO4HWxYvneC0dMFckK2WrKPZa9o.jpg"
+    },
+    {
+      "personId": 34759,
+      "name": "Sterling Holloway",
+      "character": "McWilliams",
+      "order": 5,
+      "cast_id": 22,
+      "popularity": 3.2984,
+      "profile_path": "/86gGSpQcfgQrumwwvOmO6DtTWkP.jpg"
+    },
+    {
+      "personId": 2698,
+      "name": "Norman Lloyd",
+      "character": "Pvt. Archimbeau",
+      "order": 6,
+      "cast_id": 23,
+      "popularity": 1.1325,
+      "profile_path": "/z7jg1zuFfC5jqn4kI40OGAOrD5U.jpg"
+    },
+    {
+      "personId": 50573,
+      "name": "Herbert Rudley",
+      "character": "Sgt. Eddie Porter",
+      "order": 7,
+      "cast_id": 24,
+      "popularity": 0.567,
+      "profile_path": "/zEbwWtHgP3x7hVVpjotEXiT0Kg7.jpg"
+    },
+    {
+      "personId": 93623,
+      "name": "Richard Benedict",
+      "character": "Pvt. Tranella",
+      "order": 8,
+      "cast_id": 5,
+      "popularity": 0.8705,
+      "profile_path": "/gjU0raDFcxLrRD3HHPWE88jKvX6.jpg"
+    },
+    {
+      "personId": 33024,
+      "name": "Huntz Hall",
+      "character": "Pvt. Carraway",
+      "order": 9,
+      "cast_id": 25,
+      "popularity": 1.0193,
+      "profile_path": "/nWQUrkHlYtEVMhkRZRau6YjnEVK.jpg"
+    },
+    {
+      "personId": 104996,
+      "name": "James Cardwell",
+      "character": "Sgt. Hoskins",
+      "order": 10,
+      "cast_id": 26,
+      "popularity": 0.1978,
+      "profile_path": "/5RFtgrAXB2FRA9F5v3BgLvTkOHI.jpg"
+    },
+    {
+      "personId": 223268,
+      "name": "George Offerman, Jr.",
+      "character": "Pvt. Tinker",
+      "order": 11,
+      "cast_id": 27,
+      "popularity": 0.9625,
+      "profile_path": "/x8t9IK5BAIzUkZIyoQBfxjNVLwr.jpg"
+    },
+    {
+      "personId": 10162,
+      "name": "Steve Brodie",
+      "character": "Pvt. Judson",
+      "order": 12,
+      "cast_id": 28,
+      "popularity": 0.9458,
+      "profile_path": "/cC8nuduu7C9pOZdctq8RpDrd9oj.jpg"
+    },
+    {
+      "personId": 104711,
+      "name": "Matt Willis",
+      "character": "Sgt. Pete Halverson",
+      "order": 13,
+      "cast_id": 29,
+      "popularity": 0.5077,
+      "profile_path": "/ov8xHQ0YDcFdVmGqA1zMz0lTpVI.jpg"
+    },
+    {
+      "personId": 1122269,
+      "name": "Chris Drake",
+      "character": "Rankin",
+      "order": 14,
+      "cast_id": 30,
+      "popularity": 1.8812,
+      "profile_path": "/cmn8pqfknpUBQppvdtLo4yEFpYl.jpg"
+    },
+    {
+      "personId": 135842,
+      "name": "Alvin Hammer",
+      "character": "Johnson",
+      "order": 15,
+      "cast_id": 31,
+      "popularity": 1.2619,
+      "profile_path": null
+    },
+    {
+      "personId": 117415,
+      "name": "Victor Cutler",
+      "character": "Cousins",
+      "order": 16,
+      "cast_id": 32,
+      "popularity": 0.3559,
+      "profile_path": "/ozcokCm4YZP5THHIF7kC2ZlHL5e.jpg"
+    },
+    {
+      "personId": 116662,
+      "name": "Jay Norris",
+      "character": "James",
+      "order": 17,
+      "cast_id": 33,
+      "popularity": 0.7406,
+      "profile_path": null
+    },
+    {
+      "personId": 78305,
+      "name": "John Kellogg",
+      "character": "Riddle",
+      "order": 18,
+      "cast_id": 34,
+      "popularity": 0.6321,
+      "profile_path": "/asGID6iV64631Z5hSvyXimOMTuV.jpg"
+    },
+    {
+      "personId": 2517735,
+      "name": "Fred Carpenter",
+      "character": "",
+      "order": 19,
+      "cast_id": 36,
+      "popularity": 0.1648,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2000,
+      "name": "Lewis Milestone",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8878,
+      "profile_path": "/zcbvWlJTkFcVJ86Yjsvx82Mjgul.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 131,
+      "name": "italy"
+    },
+    {
+      "id": 1956,
+      "name": "world war ii"
+    },
+    {
+      "id": 185454,
+      "name": "us military"
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "overview": "In this adaptation of the satirical British novel, Flora Poste, a plucky London society girl orphaned at age 19, finds a new home with some rough relatives, the Starkadders of Cold Comfort Farm. With a take-charge attitude and some encouragement from her mischievous friend, Mary, Flora changes the Starkadders' lives forever when she settles into their rustic estate, bringing the backward clan up to date and finding inspiration for her novel in the process.",
+  "release_date": "1995-01-01",
+  "runtime": 95,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.8,
+  "tmdb_vote_count": 76,
+  "tmdb_popularity": 0.6077,
+  "original_language": "en",
+  "poster_path": "/fkPm7MQhn3YqcRDM9qFDKNHiw7D.jpg",
+  "backdrop_path": "/h5D0kYyT6oyzxOU3LRNeSgAABCZ.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 5846,
+      "name": "Thames Television",
+      "origin_country": "GB"
+    },
+    {
+      "id": 288,
+      "name": "BBC Film",
+      "origin_country": "GB"
+    },
+    {
+      "id": 3324,
+      "name": "BBC",
+      "origin_country": "GB"
+    },
+    {
+      "id": 101023,
+      "name": "Thames International",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 20300,
+      "name": "Eileen Atkins",
+      "character": "Judith Starkadder",
+      "order": 0,
+      "cast_id": 6,
+      "popularity": 1.1699,
+      "profile_path": "/8gac03PfTFz2vByZi1aun0NiTqM.jpg"
+    },
+    {
+      "personId": 3967,
+      "name": "Kate Beckinsale",
+      "character": "Flora Poste",
+      "order": 1,
+      "cast_id": 7,
+      "popularity": 9.8953,
+      "profile_path": "/nUZuC2chd5PVw2tLxePZ6uaLbhx.jpg"
+    },
+    {
+      "personId": 127913,
+      "name": "Sheila Burrell",
+      "character": "Ada Doom",
+      "order": 2,
+      "cast_id": 8,
+      "popularity": 0.8455,
+      "profile_path": "/panfPQvx9NGnZRzdlDtfs8eAJfG.jpg"
+    },
+    {
+      "personId": 11275,
+      "name": "Stephen Fry",
+      "character": "Mybug",
+      "order": 3,
+      "cast_id": 9,
+      "popularity": 3.0622,
+      "profile_path": "/dH7GuUZ8QPM9RN99ak9KKOkSkdS.jpg"
+    },
+    {
+      "personId": 12517,
+      "name": "Freddie Jones",
+      "character": "Adam Lambsbreath",
+      "order": 4,
+      "cast_id": 10,
+      "popularity": 1.1316,
+      "profile_path": "/mWozC9kZFNhxoRSCBvmykROmMGB.jpg"
+    },
+    {
+      "personId": 34901,
+      "name": "Joanna Lumley",
+      "character": "Mary Smiling",
+      "order": 5,
+      "cast_id": 11,
+      "popularity": 5.931,
+      "profile_path": "/omQvLqkQf9yemMroaj6MJbf37sf.jpg"
+    },
+    {
+      "personId": 1327,
+      "name": "Ian McKellen",
+      "character": "Amos Starkadder",
+      "order": 6,
+      "cast_id": 20,
+      "popularity": 5.9185,
+      "profile_path": "/coWjgMEYJjk2OrNddlXCBm8EIr3.jpg"
+    },
+    {
+      "personId": 6199,
+      "name": "Miriam Margolyes",
+      "character": "Mrs. Beetle",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 2.1728,
+      "profile_path": "/vsnCGCp0nhJTag56HP8XFhXnZo9.jpg"
+    },
+    {
+      "personId": 17328,
+      "name": "Rufus Sewell",
+      "character": "Seth Starkadder",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 4.9021,
+      "profile_path": "/fVQ04mfnOZj9rB73VT3B7spRdeD.jpg"
+    },
+    {
+      "personId": 39683,
+      "name": "Ivan Kaye",
+      "character": "Reuben Starkadder",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 1.1541,
+      "profile_path": "/kBvEOcGs7aOEhjObN5xVgjnc5Y4.jpg"
+    },
+    {
+      "personId": 27653,
+      "name": "Jeremy Peters",
+      "character": "Urk",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 1.6133,
+      "profile_path": null
+    },
+    {
+      "personId": 131613,
+      "name": "Maria Miles",
+      "character": "Elfine Starkadder",
+      "order": 11,
+      "cast_id": 16,
+      "popularity": 0.4613,
+      "profile_path": null
+    },
+    {
+      "personId": 25688,
+      "name": "Christopher Bowen",
+      "character": "Charles Fairford",
+      "order": 12,
+      "cast_id": 17,
+      "popularity": 1.3155,
+      "profile_path": "/t6oV4tIaOWNVfNo2ITscG2bD923.jpg"
+    },
+    {
+      "personId": 131614,
+      "name": "Sophie Revell",
+      "character": "Rennet",
+      "order": 13,
+      "cast_id": 19,
+      "popularity": 0.0913,
+      "profile_path": null
+    },
+    {
+      "personId": 42276,
+      "name": "Rupert Penry-Jones",
+      "character": "Dick Hawk-Monitor",
+      "order": 14,
+      "cast_id": 32,
+      "popularity": 2.396,
+      "profile_path": "/50mfkdU5TY8nHuz7vXCz60ywg2c.jpg"
+    },
+    {
+      "personId": 1213515,
+      "name": "Angela Thorne",
+      "character": "Mrs. Hawk-Monitor",
+      "order": 15,
+      "cast_id": 31,
+      "popularity": 1.3565,
+      "profile_path": "/hLu6h6GaAyEQlm4kXZSV765aDvm.jpg"
+    },
+    {
+      "personId": 1220990,
+      "name": "Basil Hoskins",
+      "character": "Couturier",
+      "order": 16,
+      "cast_id": 21,
+      "popularity": 0.3522,
+      "profile_path": null
+    },
+    {
+      "personId": 123394,
+      "name": "William Osborne",
+      "character": "Coiffeur",
+      "order": 17,
+      "cast_id": 33,
+      "popularity": 1.1497,
+      "profile_path": "/u5qAMzK0camlc6NNxH7407HKhmA.jpg"
+    },
+    {
+      "personId": 1173401,
+      "name": "Richard Bebb",
+      "character": "Hawk-Monitor Butler",
+      "order": 18,
+      "cast_id": 23,
+      "popularity": 0.9016,
+      "profile_path": "/kuACTaiYsgK3gpHqr66a4PjXg0r.jpg"
+    },
+    {
+      "personId": 20244,
+      "name": "William Scott-Masson",
+      "character": "Bikki",
+      "order": 19,
+      "cast_id": 24,
+      "popularity": 0.7652,
+      "profile_path": "/uySkgv7h7YH9unWtReklfowRWYE.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 19304,
+      "name": "John Schlesinger",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.104,
+      "profile_path": "/pN9COwowU7v7dmslrPpQrjNRBBJ.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 13014,
+      "name": "orphan"
+    },
+    {
+      "id": 244113,
+      "name": "sussex"
+    },
+    {
+      "id": 305164,
+      "name": "faithful adaptation"
+    }
+  ]
+}

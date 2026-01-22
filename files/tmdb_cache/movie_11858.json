@@ -1,0 +1,267 @@
+{
+  "overview": "An advertising man is slowly sliding downhill. When he is fired from his job in Detroit, he signs up for unemployment. One day they find him a job: teaching thinking skills to Army recruits. He arrives on base to find that there is no structure set up for the class.",
+  "release_date": "1994-06-03",
+  "runtime": 128,
+  "budget": 40000000,
+  "revenue": 24332324,
+  "tmdb_vote_average": 6.113,
+  "tmdb_vote_count": 309,
+  "tmdb_popularity": 3.9666,
+  "original_language": "en",
+  "poster_path": "/iPRtaSfN8gNWFclgrcg5oD3V41i.jpg",
+  "backdrop_path": "/bNZ4G2h9EABULTThr7lEx9ODzoj.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 1504,
+      "name": "Cinergi Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 9195,
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 518,
+      "name": "Danny DeVito",
+      "character": "Bill Rago",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 5.1548,
+      "profile_path": "/6kO4IN7ndoIGw2JhyhAQN3SFmdx.jpg"
+    },
+    {
+      "personId": 66804,
+      "name": "Gregory Hines",
+      "character": "Sergeant Cass",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.8394,
+      "profile_path": "/tQDKvHbKAu6Jf90owFAvtYs0ADR.jpg"
+    },
+    {
+      "personId": 1736,
+      "name": "James Remar",
+      "character": "Captain Tom Murdoch",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 5.9465,
+      "profile_path": "/56LwfMaMge2LmWYI46O6R2Wm0YX.jpg"
+    },
+    {
+      "personId": 42157,
+      "name": "Ed Begley Jr.",
+      "character": "Jack Markin",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.7392,
+      "profile_path": "/cdS6hZVabhpQ3UdIK0HNvYXj5IM.jpg"
+    },
+    {
+      "personId": 17917,
+      "name": "Lillo Brancato",
+      "character": "Soldat Donnie Benitez",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 1.6197,
+      "profile_path": "/vUIga1je7MRsPSeJJvmtIpxfyRo.jpg"
+    },
+    {
+      "personId": 58150,
+      "name": "Stacey Dash",
+      "character": "Soldat Miranda Myers",
+      "order": 5,
+      "cast_id": 12,
+      "popularity": 1.6754,
+      "profile_path": "/cSzVCx2LJkXZoUGA4z4i8cm9wMD.jpg"
+    },
+    {
+      "personId": 66554,
+      "name": "Kadeem Hardison",
+      "character": "Soldat Jamaal Montgomery",
+      "order": 6,
+      "cast_id": 13,
+      "popularity": 1.57,
+      "profile_path": "/swexf3AEacs9Ep2oDcaUyE5XBdj.jpg"
+    },
+    {
+      "personId": 19153,
+      "name": "Cliff Robertson",
+      "character": "Colonel James",
+      "order": 7,
+      "cast_id": 15,
+      "popularity": 2.4516,
+      "profile_path": "/8pH2RWCPtXKzT9P33MbzgnzPlF0.jpg"
+    },
+    {
+      "personId": 55755,
+      "name": "Richard T. Jones",
+      "character": "Pvt. Jackson Leroy",
+      "order": 8,
+      "cast_id": 16,
+      "popularity": 3.4828,
+      "profile_path": "/hdko2C45Wr5G03Z8JwGjWMynP84.jpg"
+    },
+    {
+      "personId": 79538,
+      "name": "Khalil Kain",
+      "character": "Pvt. Roosevelt Nathaniel Hobbs",
+      "order": 9,
+      "cast_id": 17,
+      "popularity": 1.438,
+      "profile_path": "/3uLKdggLtnST0oTceEKzl4yAd5t.jpg"
+    },
+    {
+      "personId": 10000,
+      "name": "Gregory Sporleder",
+      "character": "Pvt. Melvin",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 2.1671,
+      "profile_path": "/qcCA7hMP8rEEGQDfNCKKl3XZrHn.jpg"
+    },
+    {
+      "personId": 1027230,
+      "name": "Peter Simmons",
+      "character": "Pvt. Brian Davis, Jr.",
+      "order": 11,
+      "cast_id": 20,
+      "popularity": 0.348,
+      "profile_path": null
+    },
+    {
+      "personId": 13240,
+      "name": "Mark Wahlberg",
+      "character": "Pvt. Tommy Lee Haywood",
+      "order": 12,
+      "cast_id": 14,
+      "popularity": 11.0171,
+      "profile_path": "/fqIZoibpZBwzCTBXQudVvPl87Db.jpg"
+    },
+    {
+      "personId": 59260,
+      "name": "Ann Cusack",
+      "character": "Bill's Secretary",
+      "order": 13,
+      "cast_id": 22,
+      "popularity": 2.6378,
+      "profile_path": "/vM2ZwKY3C1NZARrzQB7ch7n638T.jpg"
+    },
+    {
+      "personId": 1242684,
+      "name": "Jeb Brown",
+      "character": "Young Executive #1",
+      "order": 14,
+      "cast_id": 23,
+      "popularity": 0.5817,
+      "profile_path": "/aLPKWIz7M75Xunba99tuZJGC4ZN.jpg"
+    },
+    {
+      "personId": 1961113,
+      "name": "Paul Abbott",
+      "character": "Young Executive #2",
+      "order": 15,
+      "cast_id": 24,
+      "popularity": 0.396,
+      "profile_path": null
+    },
+    {
+      "personId": 31025,
+      "name": "Nat Mauldin",
+      "character": "U Love to Rent Voice (voice)",
+      "order": 16,
+      "cast_id": 25,
+      "popularity": 0.4605,
+      "profile_path": null
+    },
+    {
+      "personId": 3061420,
+      "name": "Hakiem Greenhut",
+      "character": "Paperboy (voice)",
+      "order": 17,
+      "cast_id": 26,
+      "popularity": 0.1115,
+      "profile_path": null
+    },
+    {
+      "personId": 3061421,
+      "name": "Roy K. Dennison",
+      "character": "Bum",
+      "order": 18,
+      "cast_id": 27,
+      "popularity": 0.1121,
+      "profile_path": null
+    },
+    {
+      "personId": 15899,
+      "name": "Jenifer Lewis",
+      "character": "Mrs. Coleman",
+      "order": 19,
+      "cast_id": 28,
+      "popularity": 3.5459,
+      "profile_path": "/bdeUHXY4cXvhOW2nCblNachBYsM.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 14911,
+      "name": "Penny Marshall",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.7949,
+      "profile_path": "/tENryuxNtctDMS26Tv5d8B7TclQ.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 422,
+      "name": "vietnam veteran"
+    },
+    {
+      "id": 1004,
+      "name": "commercial"
+    },
+    {
+      "id": 5920,
+      "name": "advertising expert"
+    },
+    {
+      "id": 13065,
+      "name": "soldier"
+    },
+    {
+      "id": 156052,
+      "name": "unemployment"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    },
+    {
+      "id": 193547,
+      "name": "teachers and students"
+    }
+  ]
+}

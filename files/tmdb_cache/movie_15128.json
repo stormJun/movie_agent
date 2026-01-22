@@ -1,0 +1,242 @@
+{
+  "overview": "In the midst of election season in New Mexico, political speechwriters Julia Mann and Kevin Vallick begin a romance, unaware they are working for candidates on opposite sides.",
+  "release_date": "1994-12-16",
+  "runtime": 99,
+  "budget": 38000000,
+  "revenue": 25067959,
+  "tmdb_vote_average": 5.9,
+  "tmdb_vote_count": 102,
+  "tmdb_popularity": 3.3391,
+  "original_language": "en",
+  "poster_path": "/bremBHwg2cAvFIGIRwlRtPMkgfL.jpg",
+  "backdrop_path": "/vYHVIpswtMQole5MjhOfTSJkPYA.jpg",
+  "tmdb_genres_raw": [
+    "Romance",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2232,
+      "name": "Michael Keaton",
+      "character": "Kevin",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.3313,
+      "profile_path": "/w6fwAQ7IwEFqtzByA1Wyz2Dwp7R.jpg"
+    },
+    {
+      "personId": 16935,
+      "name": "Geena Davis",
+      "character": "Julia",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 3.0877,
+      "profile_path": "/bx9ufx5cS7FfHDFFeT71syBh428.jpg"
+    },
+    {
+      "personId": 7673,
+      "name": "Bonnie Bedelia",
+      "character": "Annette",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 2.3568,
+      "profile_path": "/2dCd7HGOfmn4x7v97EcNIwy12io.jpg"
+    },
+    {
+      "personId": 20006,
+      "name": "Christopher Reeve",
+      "character": "Bob 'Bagdad' Freed",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.4554,
+      "profile_path": "/vAGrPf3ajy6OVE3FhgABynZfybP.jpg"
+    },
+    {
+      "personId": 8874,
+      "name": "Ernie Hudson",
+      "character": "Ventura",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 3.137,
+      "profile_path": "/kgAdQA2ItCDVvKXufeDHc6Omiso.jpg"
+    },
+    {
+      "personId": 1270,
+      "name": "Charles Martin Smith",
+      "character": "Kratz",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 1.7002,
+      "profile_path": "/uzm5v0Q7nCH223EvPiJyh9Y0qiN.jpg"
+    },
+    {
+      "personId": 2886,
+      "name": "Gailard Sartain",
+      "character": "Lee Cutler",
+      "order": 6,
+      "cast_id": 36,
+      "popularity": 1.7557,
+      "profile_path": "/oYCs7TlrvnwcNujQ2yzG4x7fz7f.jpg"
+    },
+    {
+      "personId": 12889,
+      "name": "Ray Baker",
+      "character": "Ray Garvin",
+      "order": 7,
+      "cast_id": 37,
+      "popularity": 1.9391,
+      "profile_path": "/6DIBcIzCCTMxR1RdMbyItg0J6YW.jpg"
+    },
+    {
+      "personId": 14312,
+      "name": "Mitchell Ryan",
+      "character": "Lloyd Wannamaker",
+      "order": 8,
+      "cast_id": 38,
+      "popularity": 1.4805,
+      "profile_path": "/9XrbQfOjDeqjXJUHeSIA6OxJAJa.jpg"
+    },
+    {
+      "personId": 1542,
+      "name": "Willie Garson",
+      "character": "Dick",
+      "order": 9,
+      "cast_id": 10,
+      "popularity": 2.2274,
+      "profile_path": "/8M3aV0mys2MMFtsLag0Vjox9dzc.jpg"
+    },
+    {
+      "personId": 138988,
+      "name": "Paul Lazar",
+      "character": "Harry",
+      "order": 10,
+      "cast_id": 39,
+      "popularity": 0.9335,
+      "profile_path": "/2lZdlxrQaKWBLD8BoolYLzTtzOW.jpg"
+    },
+    {
+      "personId": 44682,
+      "name": "Richard Poe",
+      "character": "Tom",
+      "order": 11,
+      "cast_id": 40,
+      "popularity": 1.7835,
+      "profile_path": "/btsHYAHNQHFcngfXy7ofJzmzzRC.jpg"
+    },
+    {
+      "personId": 6008,
+      "name": "Harry Shearer",
+      "character": "Chuck",
+      "order": 12,
+      "cast_id": 8,
+      "popularity": 1.8581,
+      "profile_path": "/7PnGZGVKJNDTUv3DkbaMEnCseT0.jpg"
+    },
+    {
+      "personId": 3214,
+      "name": "Steven Wright",
+      "character": "Eddie",
+      "order": 13,
+      "cast_id": 9,
+      "popularity": 1.1401,
+      "profile_path": "/9Q9buDjfm6uq0VE86MZ01o96lyG.jpg"
+    },
+    {
+      "personId": 1212225,
+      "name": "Jodi Carlisle",
+      "character": "Doris Wind",
+      "order": 14,
+      "cast_id": 44,
+      "popularity": 0.6206,
+      "profile_path": "/aSthDn8AHUxZPBYgqEbXmJRYqKw.jpg"
+    },
+    {
+      "personId": 1178622,
+      "name": "Cynthia Mace",
+      "character": "Michelle Kortz",
+      "order": 15,
+      "cast_id": 45,
+      "popularity": 0.6568,
+      "profile_path": "/uW7612fMKID4Sj8FCTQ936xU6ZA.jpg"
+    },
+    {
+      "personId": 62595,
+      "name": "Mary Pat Gleason",
+      "character": "Desk Clerk",
+      "order": 16,
+      "cast_id": 14,
+      "popularity": 1.9877,
+      "profile_path": "/zS07GnCViZj5XSHqjxqNcrIG9KC.jpg"
+    },
+    {
+      "personId": 15277,
+      "name": "Jon Favreau",
+      "character": "Debate Control Room Operator (uncredited)",
+      "order": 17,
+      "cast_id": 41,
+      "popularity": 4.8309,
+      "profile_path": "/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg"
+    },
+    {
+      "personId": 103742,
+      "name": "Khris Kaneff",
+      "character": "Party Guest (uncredited)",
+      "order": 18,
+      "cast_id": 42,
+      "popularity": 0.3397,
+      "profile_path": "/4zP8sgD1toDHYqvdWOIsVJWJ9sA.jpg"
+    },
+    {
+      "personId": 31028,
+      "name": "Richard Schiff",
+      "character": "Sound Technician (uncredited)",
+      "order": 19,
+      "cast_id": 43,
+      "popularity": 3.4669,
+      "profile_path": "/oFDka3Y5H3DBiZRqbdPabtX8ncP.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 33485,
+      "name": "Ron Underwood",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.7709,
+      "profile_path": "/3MxNvsTCxQIuAmEnmr5lRgxS20G.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6078,
+      "name": "politics"
+    },
+    {
+      "id": 9673,
+      "name": "love"
+    },
+    {
+      "id": 208323,
+      "name": "speech writer"
+    }
+  ]
+}

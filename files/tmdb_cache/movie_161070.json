@@ -1,0 +1,149 @@
+{
+  "overview": "Set in 1890s North Wales over a long, hot August weekend, the Victorian calm of a household is suddenly upset with the arrival of a London couple who impose their city ways and thoughts on the more rurally based family. An adaptation of Anton Chekhov's play, \"Uncle Vanya.\"",
+  "release_date": "1996-08-08",
+  "runtime": 94,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 4.0,
+  "tmdb_vote_count": 12,
+  "tmdb_popularity": 2.6995,
+  "original_language": "en",
+  "poster_path": "/lWU5Sf6xQGzVWd2OkKlDZhdK29k.jpg",
+  "backdrop_path": "/zMKJPmFbDW0qp09wLd0KI0k09El.jpg",
+  "tmdb_genres_raw": [
+    "Romance",
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 38178,
+      "name": "Newcomm",
+      "origin_country": ""
+    },
+    {
+      "id": 247,
+      "name": "Granada Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 2630,
+      "name": "Majestic Films International",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4173,
+      "name": "Anthony Hopkins",
+      "character": "Ieuan Davies",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 5.9209,
+      "profile_path": "/cbFWUHhk6pZKTEm48OKVM5awNNn.jpg"
+    },
+    {
+      "personId": 10655,
+      "name": "Leslie Phillips",
+      "character": "Professor Alexander Blathwaite",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.2325,
+      "profile_path": "/xD1ud9ud75GRRQz2EDATyE7NhUV.jpg"
+    },
+    {
+      "personId": 20879,
+      "name": "Kate Burton",
+      "character": "Helen Blathwaite",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.0434,
+      "profile_path": "/thfZNWxRTKqG2sd2K7HXuB6DPpf.jpg"
+    },
+    {
+      "personId": 189427,
+      "name": "Gawn Grainger",
+      "character": "Dr. Michael Lloyd",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.1665,
+      "profile_path": "/14ZEUFNYGFyuMvf8ZGqoSiSAgrN.jpg"
+    },
+    {
+      "personId": 185826,
+      "name": "Rhian Morgan",
+      "character": "Sian Blathwaite",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 2.222,
+      "profile_path": "/6IEi37TM7ZHcxFs4qp098isFv3u.jpg"
+    },
+    {
+      "personId": 575818,
+      "name": "Hugh Lloyd",
+      "character": "Prosser",
+      "order": 5,
+      "cast_id": 11,
+      "popularity": 2.3185,
+      "profile_path": "/1kUCSbU7802Waqb6a2pI2p2cZwu.jpg"
+    },
+    {
+      "personId": 134892,
+      "name": "Menna Trussler",
+      "character": "Gwen",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 1.3794,
+      "profile_path": "/9j0ZsaLPuMANIgU1vBwRgWC325s.jpg"
+    },
+    {
+      "personId": 7026,
+      "name": "Rhys Ifans",
+      "character": "Griffiths",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 2.6361,
+      "profile_path": "/1D670EEsbky3EtO7XLG32A09p92.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 4173,
+      "name": "Anthony Hopkins",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 5.9209,
+      "profile_path": "/cbFWUHhk6pZKTEm48OKVM5awNNn.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1209,
+      "name": "wales"
+    },
+    {
+      "id": 11004,
+      "name": "rural area"
+    },
+    {
+      "id": 157799,
+      "name": "older woman younger man relationship"
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "overview": "Isolated bell-ringer Quasimodo wishes to leave Notre Dame tower against the wishes of Judge Claude Frollo, his stern guardian and Paris' strait-laced Minister of Justice. His first venture to the outside world finds him Esmeralda, a kind-hearted and fearless Romani woman who openly stands up to Frollo's tyranny.",
+  "release_date": "1996-06-21",
+  "runtime": 91,
+  "budget": 100000000,
+  "revenue": 325300000,
+  "tmdb_vote_average": 7.126,
+  "tmdb_vote_count": 5253,
+  "tmdb_popularity": 8.5407,
+  "original_language": "en",
+  "poster_path": "/7k0fr2xLCTChjN8MnGNThTP9uEB.jpg",
+  "backdrop_path": "/k4HIk81b03lLeNo7I0dHxD3VPKD.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Animation",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 2,
+      "name": "Walt Disney Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 171656,
+      "name": "Walt Disney Feature Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "la",
+      "name": "Latin"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3999,
+      "name": "Tom Hulce",
+      "character": "Quasimodo (voice)",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.2701,
+      "profile_path": "/sQslzbyYZr4Qjv55VseLbbjpuMY.jpg"
+    },
+    {
+      "personId": 3416,
+      "name": "Demi Moore",
+      "character": "Esmeralda (voice)",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 10.0524,
+      "profile_path": "/wApParZYBDi4yxekjfxjKEifJYh.jpg"
+    },
+    {
+      "personId": 8945,
+      "name": "Kevin Kline",
+      "character": "Phoebus (voice)",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 3.7736,
+      "profile_path": "/ArH5dACd9AmWNNMnI6bGEkiFYIM.jpg"
+    },
+    {
+      "personId": 65598,
+      "name": "Tony Jay",
+      "character": "Frollo (voice)",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 1.7801,
+      "profile_path": "/uj5BYkgIJ5xyjosHcwrTM6cemel.jpg"
+    },
+    {
+      "personId": 20749,
+      "name": "Charles Kimbrough",
+      "character": "Gargoyle Victor (voice)",
+      "order": 4,
+      "cast_id": 21,
+      "popularity": 0.6819,
+      "profile_path": "/2vDb1yrs0p5gV2WtuvMiCbrv4iF.jpg"
+    },
+    {
+      "personId": 20624,
+      "name": "Mary Wickes",
+      "character": "Gargoyle Laverne (voice)",
+      "order": 5,
+      "cast_id": 62,
+      "popularity": 3.1893,
+      "profile_path": "/qbvnoLQH1yunVR54nRNSDM8cdwa.jpg"
+    },
+    {
+      "personId": 1206,
+      "name": "Jason Alexander",
+      "character": "Gargoyle Hugo (voice)",
+      "order": 6,
+      "cast_id": 3,
+      "popularity": 4.5774,
+      "profile_path": "/qRezZ2yhM2bmBERt7jVcxo8RVSA.jpg"
+    },
+    {
+      "personId": 72250,
+      "name": "Paul Kandel",
+      "character": "Clopin (voice)",
+      "order": 7,
+      "cast_id": 20,
+      "popularity": 2.1368,
+      "profile_path": "/aHE0zfz1fzOP3rhCH4S7WoQDHf7.jpg"
+    },
+    {
+      "personId": 30695,
+      "name": "Mary Kay Bergman",
+      "character": "Quasimodo's Mother (voice)",
+      "order": 8,
+      "cast_id": 17,
+      "popularity": 0.8613,
+      "profile_path": "/heTLLKqi4g7QqFa2JtOfoOGNpWh.jpg"
+    },
+    {
+      "personId": 28010,
+      "name": "David Ogden Stiers",
+      "character": "Archdeacon (voice)",
+      "order": 9,
+      "cast_id": 26,
+      "popularity": 2.0971,
+      "profile_path": "/cgCTQt3RZVkhkusG77l4HwHEH6A.jpg"
+    },
+    {
+      "personId": 62047,
+      "name": "Gary Trousdale",
+      "character": "The Old Heretic (voice)",
+      "order": 10,
+      "cast_id": 24,
+      "popularity": 1.1609,
+      "profile_path": "/yczbyaRGnhWYGU5OeFtTrzVaR87.jpg"
+    },
+    {
+      "personId": 35219,
+      "name": "Corey Burton",
+      "character": "Brutish Guard / Additional Voices (voice)",
+      "order": 11,
+      "cast_id": 18,
+      "popularity": 2.5165,
+      "profile_path": "/wcpFwdL7m01cZoBJiUSMQVakK2G.jpg"
+    },
+    {
+      "personId": 34398,
+      "name": "Bill Fagerbakke",
+      "character": "Oafish Guard (voice)",
+      "order": 12,
+      "cast_id": 19,
+      "popularity": 2.3334,
+      "profile_path": "/zntKKc1uT53BnIihmzbq601eWKZ.jpg"
+    },
+    {
+      "personId": 12077,
+      "name": "Jim Cummings",
+      "character": "Guards & Gypsies (voice)",
+      "order": 13,
+      "cast_id": 25,
+      "popularity": 3.4748,
+      "profile_path": "/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg"
+    },
+    {
+      "personId": 61968,
+      "name": "Patrick Pinney",
+      "character": "Guards & Gypsies / Additional Voices (voice)",
+      "order": 14,
+      "cast_id": 23,
+      "popularity": 1.9476,
+      "profile_path": "/b0jgxFRdzjwXnmLA0udvjzKEQO2.jpg"
+    },
+    {
+      "personId": 18736,
+      "name": "Jane Withers",
+      "character": "Additional Laverne Dialogue (voice)",
+      "order": 15,
+      "cast_id": 80,
+      "popularity": 0.804,
+      "profile_path": "/szNfkG7ChyGBCh7pef9lHKHqRtl.jpg"
+    },
+    {
+      "personId": 15831,
+      "name": "Frank Welker",
+      "character": "Baby Bird (voice)",
+      "order": 16,
+      "cast_id": 64,
+      "popularity": 5.2376,
+      "profile_path": "/xXODQ5AX6pG4my8ieeEIuiAREXs.jpg"
+    },
+    {
+      "personId": 19545,
+      "name": "Jack Angel",
+      "character": "Additional Voices (voice)",
+      "order": 17,
+      "cast_id": 75,
+      "popularity": 1.4271,
+      "profile_path": "/5MsVwIULYJotUSbDs61uSJff7ei.jpg"
+    },
+    {
+      "personId": 78317,
+      "name": "Bob Bergen",
+      "character": "Additional Voices (voice)",
+      "order": 18,
+      "cast_id": 76,
+      "popularity": 1.6625,
+      "profile_path": "/soDD1xiV3zVQWOJzVdJwfgIqzfe.jpg"
+    },
+    {
+      "personId": 19548,
+      "name": "Susan Blu",
+      "character": "Additional Voices (voice)",
+      "order": 19,
+      "cast_id": 83,
+      "popularity": 1.1761,
+      "profile_path": "/xDtrH8YqqVc11kAUThxG80AaaHP.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 62047,
+      "name": "Gary Trousdale",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1609,
+      "profile_path": "/yczbyaRGnhWYGU5OeFtTrzVaR87.jpg"
+    },
+    {
+      "personId": 62048,
+      "name": "Kirk Wise",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.2486,
+      "profile_path": "/7UjxOiWuIXGUrxHNSNZ7eaUCgHm.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1691,
+      "name": "dance"
+    },
+    {
+      "id": 90,
+      "name": "paris, france"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 934,
+      "name": "judge"
+    },
+    {
+      "id": 1938,
+      "name": "sword"
+    },
+    {
+      "id": 1523,
+      "name": "obsession"
+    },
+    {
+      "id": 2422,
+      "name": "mockery"
+    },
+    {
+      "id": 2544,
+      "name": "ugliness"
+    },
+    {
+      "id": 2638,
+      "name": "cathedral"
+    },
+    {
+      "id": 6513,
+      "name": "cartoon"
+    },
+    {
+      "id": 3289,
+      "name": "villain"
+    },
+    {
+      "id": 4344,
+      "name": "musical"
+    },
+    {
+      "id": 5090,
+      "name": "fool"
+    },
+    {
+      "id": 9995,
+      "name": "bell"
+    },
+    {
+      "id": 11001,
+      "name": "religion"
+    },
+    {
+      "id": 13014,
+      "name": "orphan"
+    },
+    {
+      "id": 158787,
+      "name": "army captain"
+    },
+    {
+      "id": 160213,
+      "name": "festival"
+    },
+    {
+      "id": 160274,
+      "name": "angry mob"
+    },
+    {
+      "id": 163138,
+      "name": "notre dame cathedral"
+    },
+    {
+      "id": 177894,
+      "name": "witch hunt"
+    },
+    {
+      "id": 213097,
+      "name": "15th century"
+    }
+  ]
+}

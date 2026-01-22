@@ -1,0 +1,288 @@
+{
+  "overview": "When a prominent art dealer is found murdered, the man's death leads to an intriguing investigation steeped in sex, corruption and crime. District Attorney David Corelli gets assigned to the case and discovers that a key suspect is his ex-lover Katrina Gavin, a beautiful psychologist who has settled down with his old friend and peer. As Corelli gets deeper into the case, he uncovers dark secrets with far-reaching implications.",
+  "release_date": "1995-10-13",
+  "runtime": 95,
+  "budget": 50000000,
+  "revenue": 9851610,
+  "tmdb_vote_average": 5.47,
+  "tmdb_vote_count": 285,
+  "tmdb_popularity": 4.178,
+  "original_language": "en",
+  "poster_path": "/8KWiZKDYpAgh8n27lanvTuDquyX.jpg",
+  "backdrop_path": "/k19u7EVyMqhfQrH9KMlyCNbnvBZ.jpg",
+  "tmdb_genres_raw": [
+    "Mystery",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 94856,
+      "name": "Robert Evans Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 49947,
+      "name": "Adelson-Baumgarten Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16560,
+      "name": "David Caruso",
+      "character": "David Corelli",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.6191,
+      "profile_path": "/7XjPzadIBQ0mIVwVT7o87B7NkJJ.jpg"
+    },
+    {
+      "personId": 9625,
+      "name": "Linda Fiorentino",
+      "character": "Trina Gavin",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.2735,
+      "profile_path": "/kG0O5DRNJfIgxqv9eXkCq8eeR9U.jpg"
+    },
+    {
+      "personId": 9046,
+      "name": "Chazz Palminteri",
+      "character": "Matt Gavin",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.707,
+      "profile_path": "/mCbjKVyE5B2tleshbJw44tw3ktZ.jpg"
+    },
+    {
+      "personId": 16554,
+      "name": "Richard Crenna",
+      "character": "Governor Edwards",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.3789,
+      "profile_path": "/dsViQ2ate32xTSQgxoEHKQl0Evj.jpg"
+    },
+    {
+      "personId": 2712,
+      "name": "Michael Biehn",
+      "character": "Bob Hargrove",
+      "order": 4,
+      "cast_id": 14,
+      "popularity": 2.373,
+      "profile_path": "/9oFLsADWQm2TvU8XzLIzBbjdMkU.jpg"
+    },
+    {
+      "personId": 2517,
+      "name": "Donna Murphy",
+      "character": "Karen Heller",
+      "order": 5,
+      "cast_id": 15,
+      "popularity": 1.7213,
+      "profile_path": "/tmre2oZkIHGqnLhWeldpX2Ujgl0.jpg"
+    },
+    {
+      "personId": 2892921,
+      "name": "Ken King",
+      "character": "Petey Vasko",
+      "order": 6,
+      "cast_id": 41,
+      "popularity": 0.1492,
+      "profile_path": null
+    },
+    {
+      "personId": 7497,
+      "name": "Holt McCallany",
+      "character": "Bill Barrett",
+      "order": 7,
+      "cast_id": 16,
+      "popularity": 3.3076,
+      "profile_path": "/nHZgHsBc8P69LFTGsDSrZYt2PmS.jpg"
+    },
+    {
+      "personId": 47932,
+      "name": "David Hunt",
+      "character": "Pat Callendar",
+      "order": 8,
+      "cast_id": 17,
+      "popularity": 1.2317,
+      "profile_path": "/5bf5sJsGUIIN9RUV3jxQmk5QM3u.jpg"
+    },
+    {
+      "personId": 58312,
+      "name": "Angie Everhart",
+      "character": "Patrice Jacinto",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 1.8764,
+      "profile_path": "/m7sABKY4hQpIgpvoD2GELLNIThk.jpg"
+    },
+    {
+      "personId": 17770,
+      "name": "Kevin Tighe",
+      "character": "D.A. Arnold Clifford",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 3.2463,
+      "profile_path": "/t4LMNB2Rhu9SLbr64gOW5V4sW96.jpg"
+    },
+    {
+      "personId": 41465,
+      "name": "Robin Thomas",
+      "character": "Mr. Green",
+      "order": 11,
+      "cast_id": 19,
+      "popularity": 1.9592,
+      "profile_path": "/lc3htZVt1tb8HzlWTDgMDVJrQn3.jpg"
+    },
+    {
+      "personId": 12553,
+      "name": "Jay Jacobus",
+      "character": "Justin Henderson",
+      "order": 12,
+      "cast_id": 42,
+      "popularity": 0.3435,
+      "profile_path": null
+    },
+    {
+      "personId": 1755979,
+      "name": "Victoria Smith",
+      "character": "Sandy",
+      "order": 13,
+      "cast_id": 20,
+      "popularity": 0.1046,
+      "profile_path": null
+    },
+    {
+      "personId": 52188,
+      "name": "Drew Snyder",
+      "character": "Executive",
+      "order": 14,
+      "cast_id": 21,
+      "popularity": 1.7086,
+      "profile_path": "/svKja4WkKpc608n5m0ZMHoGvvWq.jpg"
+    },
+    {
+      "personId": 2892925,
+      "name": "Bud Bostwick",
+      "character": "Justin Henderson's Brother",
+      "order": 15,
+      "cast_id": 43,
+      "popularity": 0.0911,
+      "profile_path": null
+    },
+    {
+      "personId": 92489,
+      "name": "Darryl Chan",
+      "character": "Tommy Loy",
+      "order": 16,
+      "cast_id": 39,
+      "popularity": 0.5641,
+      "profile_path": "/Z1AKHIs1ZXEFYRkhK6xZKdJmGG.jpg"
+    },
+    {
+      "personId": 2892926,
+      "name": "Graham Cowley",
+      "character": "Deputy Coroner",
+      "order": 17,
+      "cast_id": 44,
+      "popularity": 0.1058,
+      "profile_path": null
+    },
+    {
+      "personId": 2725247,
+      "name": "Nellie Cravens",
+      "character": "Governor's Secretary",
+      "order": 18,
+      "cast_id": 45,
+      "popularity": 0.1325,
+      "profile_path": null
+    },
+    {
+      "personId": 1758373,
+      "name": "Ron Ulstad",
+      "character": "Kyle Medford",
+      "order": 19,
+      "cast_id": 46,
+      "popularity": 0.5048,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 15175,
+      "name": "William Friedkin",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.215,
+      "profile_path": "/c70AdZsqOsSjEuUp37W5HPYeeKw.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 596,
+      "name": "adultery"
+    },
+    {
+      "id": 550,
+      "name": "call girl"
+    },
+    {
+      "id": 582,
+      "name": "san francisco, california"
+    },
+    {
+      "id": 738,
+      "name": "sexuality"
+    },
+    {
+      "id": 1936,
+      "name": "blackmail"
+    },
+    {
+      "id": 1664,
+      "name": "eroticism"
+    },
+    {
+      "id": 5340,
+      "name": "investigation"
+    },
+    {
+      "id": 3182,
+      "name": "seduction"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 10714,
+      "name": "serial killer"
+    },
+    {
+      "id": 13059,
+      "name": "prostitution"
+    },
+    {
+      "id": 207767,
+      "name": "erotic thriller"
+    }
+  ]
+}

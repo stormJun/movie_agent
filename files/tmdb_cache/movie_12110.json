@@ -1,0 +1,260 @@
+{
+  "overview": "When a lawyer shows up at the vampire's doorstep, he falls prey to his charms and joins him in his search for fresh blood. Enter Professor Van Helsing, who may be the only one able to vanquish the Count.",
+  "release_date": "1995-12-22",
+  "runtime": 88,
+  "budget": 30000000,
+  "revenue": 10772144,
+  "tmdb_vote_average": 6.067,
+  "tmdb_vote_count": 1066,
+  "tmdb_popularity": 2.7184,
+  "original_language": "en",
+  "poster_path": "/4rRfZz8YnHNRr16t3CFcJrPdXHi.jpg",
+  "backdrop_path": "/rLUTSWHmphMe0wH0WSFxcywzOHW.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Horror"
+  ],
+  "production_companies": [
+    {
+      "id": 97,
+      "name": "Castle Rock Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 5612,
+      "name": "Brooksfilms",
+      "origin_country": "US"
+    },
+    {
+      "id": 9,
+      "name": "Gaumont",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 7633,
+      "name": "Leslie Nielsen",
+      "character": "Count Dracula",
+      "order": 0,
+      "cast_id": 9,
+      "popularity": 5.435,
+      "profile_path": "/u5vWl5dw69Nf89f905Qb5JqEVL3.jpg"
+    },
+    {
+      "personId": 14639,
+      "name": "Mel Brooks",
+      "character": "Prof. Abraham Van Helsing",
+      "order": 1,
+      "cast_id": 10,
+      "popularity": 2.7392,
+      "profile_path": "/c21qNcMJlHnRolfhQhZOVacjtwI.jpg"
+    },
+    {
+      "personId": 1219,
+      "name": "Amy Yasbeck",
+      "character": "Mina Seward",
+      "order": 2,
+      "cast_id": 11,
+      "popularity": 2.3002,
+      "profile_path": "/5BbyiBjp5T8pKUcauVTweRcvLJJ.jpg"
+    },
+    {
+      "personId": 12688,
+      "name": "Peter MacNicol",
+      "character": "Thomas Renfield",
+      "order": 3,
+      "cast_id": 12,
+      "popularity": 4.2779,
+      "profile_path": "/8gizugTP8hykdfBkOY0Qg0aqpiP.jpg"
+    },
+    {
+      "personId": 12812,
+      "name": "Lysette Anthony",
+      "character": "Lucy Westenra",
+      "order": 4,
+      "cast_id": 13,
+      "popularity": 1.8944,
+      "profile_path": "/k3Nd6gxSWqgDtlE0Z6ZkuVcbxQz.jpg"
+    },
+    {
+      "personId": 13640,
+      "name": "Harvey Korman",
+      "character": "Dr. Jack Seward",
+      "order": 5,
+      "cast_id": 14,
+      "popularity": 2.8384,
+      "profile_path": "/cE5X1OAa6iDOo3JKj9uM8kHwQQI.jpg"
+    },
+    {
+      "personId": 6106,
+      "name": "Steven Weber",
+      "character": "Jonathan Harker",
+      "order": 6,
+      "cast_id": 15,
+      "popularity": 2.8455,
+      "profile_path": "/8FtkapenCOpe39eE1sQus5WLWAq.jpg"
+    },
+    {
+      "personId": 29709,
+      "name": "Mark Blankfield",
+      "character": "Martin",
+      "order": 7,
+      "cast_id": 17,
+      "popularity": 1.037,
+      "profile_path": "/2yHHfAixG6CafuKMy3MgpqS2pL2.jpg"
+    },
+    {
+      "personId": 53570,
+      "name": "Megan Cavanagh",
+      "character": "Essie",
+      "order": 8,
+      "cast_id": 18,
+      "popularity": 0.7882,
+      "profile_path": "/bitalcVxjX8ThYaO6cKN4taodKD.jpg"
+    },
+    {
+      "personId": 170185,
+      "name": "Gregg Binkley",
+      "character": "Woodbridge",
+      "order": 9,
+      "cast_id": 19,
+      "popularity": 1.6554,
+      "profile_path": "/jSRnKsijFKC0DBKTRDtTdrBc5sB.jpg"
+    },
+    {
+      "personId": 10774,
+      "name": "Anne Bancroft",
+      "character": "Madame Ouspenskaya",
+      "order": 10,
+      "cast_id": 20,
+      "popularity": 2.6376,
+      "profile_path": "/ydabiabIsMBe2HsNmx43gBpqzxx.jpg"
+    },
+    {
+      "personId": 20128,
+      "name": "Clive Revill",
+      "character": "Sykes",
+      "order": 11,
+      "cast_id": 21,
+      "popularity": 1.5283,
+      "profile_path": "/nnQlNoAtcbJaVHgAVq2ADLsIy5s.jpg"
+    },
+    {
+      "personId": 88450,
+      "name": "Chuck McCann",
+      "character": "Innkeeper",
+      "order": 12,
+      "cast_id": 22,
+      "popularity": 0.9936,
+      "profile_path": "/s3qNTQbRHRfbLd2rdtEl0Lmh2va.jpg"
+    },
+    {
+      "personId": 100624,
+      "name": "Avery Schreiber",
+      "character": "Peasant on Coach",
+      "order": 13,
+      "cast_id": 23,
+      "popularity": 0.748,
+      "profile_path": "/kNRVYuvDhYinmCGOKIL4bIE6lHB.jpg"
+    },
+    {
+      "personId": 158777,
+      "name": "Cherie Franklin",
+      "character": "Peasant on Coach",
+      "order": 14,
+      "cast_id": 24,
+      "popularity": 1.3014,
+      "profile_path": "/6FqMDoLqZvkEmkaoXOoYinNcu6b.jpg"
+    },
+    {
+      "personId": 52329,
+      "name": "Ezio Greggio",
+      "character": "Coach Driver",
+      "order": 15,
+      "cast_id": 25,
+      "popularity": 0.6761,
+      "profile_path": "/pBtWq5X8oOyCkCcKtZ2FWQimuao.jpg"
+    },
+    {
+      "personId": 1235999,
+      "name": "Leslie Sachs",
+      "character": "Usherette",
+      "order": 16,
+      "cast_id": 26,
+      "popularity": 0.5317,
+      "profile_path": "/zkcr96jQRSvQSjJGhuqAPAc8Npd.jpg"
+    },
+    {
+      "personId": 67674,
+      "name": "Rudy De Luca",
+      "character": "Guard",
+      "order": 17,
+      "cast_id": 27,
+      "popularity": 1.5349,
+      "profile_path": "/29rY1JSkJLMo9W2vMKyMBHDnP82.jpg"
+    },
+    {
+      "personId": 151371,
+      "name": "Darla Haun",
+      "character": "Brunette Vampire",
+      "order": 18,
+      "cast_id": 28,
+      "popularity": 0.6535,
+      "profile_path": "/6uRWn0JwDhqyOnx7HPnds030S45.jpg"
+    },
+    {
+      "personId": 87109,
+      "name": "Karen Roe",
+      "character": "Blonde Vampire",
+      "order": 19,
+      "cast_id": 29,
+      "popularity": 0.8551,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 14639,
+      "name": "Mel Brooks",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.7392,
+      "profile_path": "/c21qNcMJlHnRolfhQhZOVacjtwI.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3133,
+      "name": "vampire"
+    },
+    {
+      "id": 8201,
+      "name": "satire"
+    },
+    {
+      "id": 11931,
+      "name": "spoof"
+    },
+    {
+      "id": 261274,
+      "name": "dracula"
+    }
+  ]
+}

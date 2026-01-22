@@ -1,0 +1,287 @@
+{
+  "overview": "Exuberant, eye-opening movie that serves up a dazzling hundred-year history of the role of gay men and lesbians have had on the silver screen. Film contains fabulous footage from 120 films showing the changing face of cinema sexuality, from cruel stereotypes to covert love to the activist triumphs of the 1990s.",
+  "release_date": "1996-03-15",
+  "runtime": 102,
+  "budget": 0,
+  "revenue": 1400591,
+  "tmdb_vote_average": 7.1,
+  "tmdb_vote_count": 109,
+  "tmdb_popularity": 0.86,
+  "original_language": "en",
+  "poster_path": "/x0DSh3uMeQk6EG1DHjGJUywN7C0.jpg",
+  "backdrop_path": "/a6Ha2K2VGQVDEPL76oN8qLVnqAH.jpg",
+  "tmdb_genres_raw": [
+    "Documentary",
+    "History"
+  ],
+  "production_companies": [
+    {
+      "id": 4606,
+      "name": "ZDF",
+      "origin_country": "DE"
+    },
+    {
+      "id": 201,
+      "name": "ARTE",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1606,
+      "name": "Brillstein-Grey Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 3268,
+      "name": "HBO",
+      "origin_country": "US"
+    },
+    {
+      "id": 58855,
+      "name": "Telling Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 5778,
+      "name": "Channel 4 Television",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10437,
+      "name": "Lily Tomlin",
+      "character": "Narrator (voice)",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 1.6527,
+      "profile_path": "/eoFMSqRykiaXMGCiz7Kxehfqy1W.jpg"
+    },
+    {
+      "personId": 3150,
+      "name": "Tony Curtis",
+      "character": "Self",
+      "order": 1,
+      "cast_id": 9,
+      "popularity": 2.4639,
+      "profile_path": "/6Pj1XkYdI5Wc40Jl0UxJk8PPwlY.jpg"
+    },
+    {
+      "personId": 4038,
+      "name": "Susan Sarandon",
+      "character": "Self",
+      "order": 2,
+      "cast_id": 48,
+      "popularity": 5.2497,
+      "profile_path": "/jR6l2EfvvGA8qCzZ7MB5FT9ZLkq.jpg"
+    },
+    {
+      "personId": 11626,
+      "name": "Gore Vidal",
+      "character": "Self",
+      "order": 3,
+      "cast_id": 10,
+      "popularity": 1.5926,
+      "profile_path": "/vHIIjpltpM9StRYmjjM7liAObuZ.jpg"
+    },
+    {
+      "personId": 2395,
+      "name": "Whoopi Goldberg",
+      "character": "Self",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 4.2878,
+      "profile_path": "/wZKI7qcEIVgiHxeFtk3NuKt8URQ.jpg"
+    },
+    {
+      "personId": 84878,
+      "name": "Antonio Fargas",
+      "character": "Self",
+      "order": 5,
+      "cast_id": 43,
+      "popularity": 1.5003,
+      "profile_path": "/tolJfiTpIsVfqijPZ2UroUswwyr.jpg"
+    },
+    {
+      "personId": 4090,
+      "name": "Shirley MacLaine",
+      "character": "Self",
+      "order": 6,
+      "cast_id": 40,
+      "popularity": 4.8625,
+      "profile_path": "/mpW9c34IAFPW0ODuKR8J0FAqN5i.jpg"
+    },
+    {
+      "personId": 19304,
+      "name": "John Schlesinger",
+      "character": "Self",
+      "order": 7,
+      "cast_id": 47,
+      "popularity": 1.104,
+      "profile_path": "/pN9COwowU7v7dmslrPpQrjNRBBJ.jpg"
+    },
+    {
+      "personId": 59208,
+      "name": "Armistead Maupin",
+      "character": "Self",
+      "order": 8,
+      "cast_id": 5,
+      "popularity": 0.3671,
+      "profile_path": "/yxMuZevK7a0ggVNQHI6kvHFjm5I.jpg"
+    },
+    {
+      "personId": 17665,
+      "name": "Arthur Laurents",
+      "character": "Self",
+      "order": 9,
+      "cast_id": 6,
+      "popularity": 1.1817,
+      "profile_path": "/fcZJfQSVA4Qlcbt90SG40CKOhBH.jpg"
+    },
+    {
+      "personId": 31,
+      "name": "Tom Hanks",
+      "character": "Self",
+      "order": 10,
+      "cast_id": 8,
+      "popularity": 14.445,
+      "profile_path": "/eKF1sGJRrZJbfBG1KirPt1cfNd3.jpg"
+    },
+    {
+      "personId": 12497,
+      "name": "Farley Granger",
+      "character": "Self",
+      "order": 11,
+      "cast_id": 38,
+      "popularity": 1.0472,
+      "profile_path": "/4Tqi22qSxBdeWGDAOVvfa8pDX8E.jpg"
+    },
+    {
+      "personId": 57459,
+      "name": "Quentin Crisp",
+      "character": "Self",
+      "order": 12,
+      "cast_id": 31,
+      "popularity": 1.6452,
+      "profile_path": "/9kp2xAPdUtZnmSTmpiNxoBQz5Tj.jpg"
+    },
+    {
+      "personId": 64825,
+      "name": "Harry Hamlin",
+      "character": "Self",
+      "order": 13,
+      "cast_id": 46,
+      "popularity": 1.7541,
+      "profile_path": "/fJZcgqLemEURV5r69XdTgjueghN.jpg"
+    },
+    {
+      "personId": 4430,
+      "name": "Sharon Stone",
+      "character": "Self",
+      "order": 14,
+      "cast_id": 13,
+      "popularity": 4.8308,
+      "profile_path": "/t0WoTlfkLsvsL2ZiPgoihK5rZqq.jpg"
+    },
+    {
+      "personId": 1429026,
+      "name": "Susie Bright",
+      "character": "Self",
+      "order": 15,
+      "cast_id": 7,
+      "popularity": 1.094,
+      "profile_path": "/zVO2CUNkbwNhzo54Idzt0gLucDB.jpg"
+    },
+    {
+      "personId": 163630,
+      "name": "Mart Crowley",
+      "character": "Self",
+      "order": 16,
+      "cast_id": 42,
+      "popularity": 0.7161,
+      "profile_path": null
+    },
+    {
+      "personId": 6928,
+      "name": "Jay Presson Allen",
+      "character": "Self",
+      "order": 17,
+      "cast_id": 30,
+      "popularity": 0.4597,
+      "profile_path": "/eR72ktzUFXPU6pRjwq6qGd0zYtU.jpg"
+    },
+    {
+      "personId": 1340689,
+      "name": "Richard Dyer",
+      "character": "Self",
+      "order": 18,
+      "cast_id": 32,
+      "popularity": 0.0653,
+      "profile_path": null
+    },
+    {
+      "personId": 1488984,
+      "name": "Jan Oxenberg",
+      "character": "Self",
+      "order": 19,
+      "cast_id": 35,
+      "popularity": 1.1348,
+      "profile_path": "/mRuEcDGdBm1GLdRf8spTKUnMxTJ.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 109402,
+      "name": "Rob Epstein",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7578,
+      "profile_path": "/2Dt2pa7G45FOedK281eCplnLNOS.jpg"
+    },
+    {
+      "personId": 109403,
+      "name": "Jeffrey Friedman",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.6215,
+      "profile_path": "/qv9iaUggDYIEZqDigUw2H2gWkdj.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6007,
+      "name": "media"
+    },
+    {
+      "id": 12396,
+      "name": "hollywood"
+    },
+    {
+      "id": 158718,
+      "name": "lgbt"
+    }
+  ]
+}

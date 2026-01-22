@@ -1,0 +1,174 @@
+{
+  "overview": "When the police discover that a mob hitman has moved in next door to the Robbersons, they set up a stakeout in the Robbersons' home. Hard-nosed, tough-as-nails Jake Stone and his young partner Tony Moore are assigned to the stakeout, but now it is a question of whether Jake can last long enough to capture the bad guys. The Robbersons want to help, and by doing so, drive Jake crazy.",
+  "release_date": "1994-04-15",
+  "runtime": 93,
+  "budget": 20000000,
+  "revenue": 11391093,
+  "tmdb_vote_average": 5.096,
+  "tmdb_vote_count": 125,
+  "tmdb_popularity": 2.2117,
+  "original_language": "en",
+  "poster_path": "/wnkWgFU5UcLwbExCp1YtCg5Ox4E.jpg",
+  "backdrop_path": "/or1yV4hqs8X2sDsFhGXSR8Vc8YM.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Thriller",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 559,
+      "name": "TriStar Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 8812,
+      "name": "Channel Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 54812,
+      "name": "Chevy Chase",
+      "character": "Norman Robberson",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 3.8436,
+      "profile_path": "/xmAcHXakDi0elKsCl2sRjtobQnx.jpg"
+    },
+    {
+      "personId": 3785,
+      "name": "Jack Palance",
+      "character": "Jake Stone",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 2.1964,
+      "profile_path": "/9TovoWi3lbI7HIVjppgSH2fYPf5.jpg"
+    },
+    {
+      "personId": 1902,
+      "name": "Dianne Wiest",
+      "character": "Helen Robberson",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 3.4685,
+      "profile_path": "/axqtFLgJNNz0N9i443USHCOvrmY.jpg"
+    },
+    {
+      "personId": 2055,
+      "name": "Robert Davi",
+      "character": "Osborn",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 2.4378,
+      "profile_path": "/yizOUAKs59CwKM6pU30gIP9gTup.jpg"
+    },
+    {
+      "personId": 94974,
+      "name": "David Barry Gray",
+      "character": "Tony Moore",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 1.132,
+      "profile_path": "/3gcvlxQzbp4KUWmFcAjfF2LRAHG.jpg"
+    },
+    {
+      "personId": 18259,
+      "name": "Jason James Richter",
+      "character": "Kevin Robberson",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 2.6968,
+      "profile_path": "/bo00PwEHdDSwynXsbiqcZeVF05v.jpg"
+    },
+    {
+      "personId": 65409,
+      "name": "Fay Masterson",
+      "character": "Cindy Robberson",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 1.8808,
+      "profile_path": "/gKG30bketELJ7d22KIbX62djSKc.jpg"
+    },
+    {
+      "personId": 8186,
+      "name": "Miko Hughes",
+      "character": "Billy Robberson",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 2.2263,
+      "profile_path": "/6oBM2RVDryymOi966ZkCNEDEsws.jpg"
+    },
+    {
+      "personId": 1240,
+      "name": "Jack Kehler",
+      "character": "Caniff",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 2.3164,
+      "profile_path": "/5vPBJw92OKtD5pNO0TTPZvvxooV.jpg"
+    },
+    {
+      "personId": 588,
+      "name": "M. Emmet Walsh",
+      "character": "Captain Ted Corbett (uncredited)",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 2.9949,
+      "profile_path": "/fVWvBxvwyk4aTA9vKZOV9qHRNNk.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 12964,
+      "name": "Michael Ritchie",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.3625,
+      "profile_path": "/w2EXLsZNhTjZHi9E2nbYvLV05eO.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 155446,
+      "name": "police stakeout"
+    },
+    {
+      "id": 177637,
+      "name": "winging into a wall"
+    },
+    {
+      "id": 177648,
+      "name": "infra red"
+    },
+    {
+      "id": 177652,
+      "name": "photo album epilogue"
+    },
+    {
+      "id": 177656,
+      "name": "jumper cable"
+    },
+    {
+      "id": 177658,
+      "name": "rude waiter"
+    },
+    {
+      "id": 193171,
+      "name": "sitcom"
+    }
+  ]
+}

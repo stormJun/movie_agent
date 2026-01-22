@@ -1,0 +1,280 @@
+{
+  "overview": "Six-year-old Susan Walker has doubts about childhood's most enduring miracle—Santa Claus. Her mother told her the secret about Santa a long time ago, but, after meeting a special department store Santa who's convinced he's the real thing, Susan is given the most precious gift of all—something to believe in.",
+  "release_date": "1994-11-18",
+  "runtime": 114,
+  "budget": 0,
+  "revenue": 46264384,
+  "tmdb_vote_average": 6.749,
+  "tmdb_vote_count": 1126,
+  "tmdb_popularity": 5.3505,
+  "original_language": "en",
+  "poster_path": "/iUTPKkljdEjPlcPPYgbUz7APnHu.jpg",
+  "backdrop_path": "/oU0lGpUukjNOgZeuIqueNM3QiBE.jpg",
+  "tmdb_genres_raw": [
+    "Fantasy",
+    "Drama",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 25,
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    },
+    {
+      "id": 477,
+      "name": "Hughes Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11717,
+      "name": "Mara Wilson",
+      "character": "Susan Walker",
+      "order": 0,
+      "cast_id": 16,
+      "popularity": 2.1939,
+      "profile_path": "/1nhOc2os4LS76OHLyjnsD8oXc3I.jpg"
+    },
+    {
+      "personId": 4786,
+      "name": "Richard Attenborough",
+      "character": "Kris Kringle",
+      "order": 1,
+      "cast_id": 1,
+      "popularity": 2.1016,
+      "profile_path": "/sWO9wnFdpX3gbJFj6lIM0d4mwTl.jpg"
+    },
+    {
+      "personId": 32597,
+      "name": "Dylan McDermott",
+      "character": "Bryan Bedford",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 4.2479,
+      "profile_path": "/3i69RNLuL7KOD9pCmHQYruhcOdn.jpg"
+    },
+    {
+      "personId": 20,
+      "name": "Elizabeth Perkins",
+      "character": "Dorey Walker",
+      "order": 3,
+      "cast_id": 2,
+      "popularity": 4.3619,
+      "profile_path": "/vTWYllD9V76rgv9XAbtkkjjeunG.jpg"
+    },
+    {
+      "personId": 22131,
+      "name": "J. T. Walsh",
+      "character": "Ed Collins",
+      "order": 4,
+      "cast_id": 4,
+      "popularity": 2.5029,
+      "profile_path": "/4yQXzRXMqQxKgYaUteluNmAKBX4.jpg"
+    },
+    {
+      "personId": 1736,
+      "name": "James Remar",
+      "character": "Jack Duff",
+      "order": 5,
+      "cast_id": 5,
+      "popularity": 5.9465,
+      "profile_path": "/56LwfMaMge2LmWYI46O6R2Wm0YX.jpg"
+    },
+    {
+      "personId": 10360,
+      "name": "Robert Prosky",
+      "character": "Judge Henry Harper",
+      "order": 6,
+      "cast_id": 32,
+      "popularity": 1.8699,
+      "profile_path": "/yV95RE8UGyN8rZYF9W4fOGaAV6U.jpg"
+    },
+    {
+      "personId": 10489,
+      "name": "Jack McGee",
+      "character": "Tony Falacchi",
+      "order": 7,
+      "cast_id": 33,
+      "popularity": 2.9765,
+      "profile_path": "/4fmjQ4z0Y7UraH8Pk2qxABvwmGS.jpg"
+    },
+    {
+      "personId": 41421,
+      "name": "Jennifer Morrison",
+      "character": "Denice",
+      "order": 8,
+      "cast_id": 17,
+      "popularity": 5.462,
+      "profile_path": "/i6dkHIME0BOPhbcPESHZND3vmtk.jpg"
+    },
+    {
+      "personId": 52951,
+      "name": "Jane Leeves",
+      "character": "Alberta Leonard",
+      "order": 9,
+      "cast_id": 6,
+      "popularity": 2.2728,
+      "profile_path": "/tx0ukHUVzpzWKOvdfwdhri7rXhE.jpg"
+    },
+    {
+      "personId": 14324,
+      "name": "Joss Ackland",
+      "character": "Victor Landbergh",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 1.7906,
+      "profile_path": "/2votqyrYGvSsXKaPNIa0CZtvBMY.jpg"
+    },
+    {
+      "personId": 19,
+      "name": "Allison Janney",
+      "character": "Woman in Christmas Shop",
+      "order": 11,
+      "cast_id": 20,
+      "popularity": 4.0327,
+      "profile_path": "/hpBKWV1jjoXQbr1s0iUZTSvw582.jpg"
+    },
+    {
+      "personId": 37891,
+      "name": "Simon Jones",
+      "character": "Donald Shellhammer",
+      "order": 12,
+      "cast_id": 23,
+      "popularity": 1.5462,
+      "profile_path": "/lTTlSgTfbvI27hP4og8BZMUJWMh.jpg"
+    },
+    {
+      "personId": 17920,
+      "name": "Kathrine Narducci",
+      "character": "Mother",
+      "order": 13,
+      "cast_id": 24,
+      "popularity": 2.064,
+      "profile_path": "/bOxhHtEtmhdfVmnL0KyG4SPDlwJ.jpg"
+    },
+    {
+      "personId": 1980,
+      "name": "Mary McCormack",
+      "character": "Myrna Foy",
+      "order": 14,
+      "cast_id": 25,
+      "popularity": 2.6782,
+      "profile_path": "/kVVttyq0cuTvDE4l5wEBqgjCBnf.jpg"
+    },
+    {
+      "personId": 1686558,
+      "name": "Rosanna Scotto",
+      "character": "News Anchor",
+      "order": 15,
+      "cast_id": 26,
+      "popularity": 1.7687,
+      "profile_path": "/jiDviqcQeGxwBiBg55b9VW93lqX.jpg"
+    },
+    {
+      "personId": 161806,
+      "name": "Michele Marsh",
+      "character": "News Anchor",
+      "order": 16,
+      "cast_id": 27,
+      "popularity": 1.1366,
+      "profile_path": null
+    },
+    {
+      "personId": 1051811,
+      "name": "Susie Park",
+      "character": "Newscaster",
+      "order": 17,
+      "cast_id": 28,
+      "popularity": 0.5522,
+      "profile_path": "/mx82QjZXVqtbND3qeMETrL9XedZ.jpg"
+    },
+    {
+      "personId": 2636237,
+      "name": "Janet Kauss",
+      "character": "Newscaster",
+      "order": 18,
+      "cast_id": 29,
+      "popularity": 0.0497,
+      "profile_path": null
+    },
+    {
+      "personId": 2636238,
+      "name": "Eliza Harris",
+      "character": "Iceskater (uncredited)",
+      "order": 19,
+      "cast_id": 31,
+      "popularity": 0.2629,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 56911,
+      "name": "Les Mayfield",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.6747,
+      "profile_path": "/sQzUXEG1FeMhrxChLMl8bUNqc0Z.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1605,
+      "name": "new love"
+    },
+    {
+      "id": 65,
+      "name": "holiday"
+    },
+    {
+      "id": 2081,
+      "name": "department store"
+    },
+    {
+      "id": 1991,
+      "name": "santa claus"
+    },
+    {
+      "id": 2618,
+      "name": "miracle"
+    },
+    {
+      "id": 4896,
+      "name": "wish"
+    },
+    {
+      "id": 9714,
+      "name": "remake"
+    },
+    {
+      "id": 207317,
+      "name": "christmas"
+    },
+    {
+      "id": 325765,
+      "name": "amused"
+    },
+    {
+      "id": 325768,
+      "name": "apologetic"
+    },
+    {
+      "id": 325786,
+      "name": "compassionate"
+    }
+  ]
+}

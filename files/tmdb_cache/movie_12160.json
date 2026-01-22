@@ -1,0 +1,295 @@
+{
+  "overview": "From Wichita to Dodge City, to the O.K. Corral in Tombstone, Wyatt Earp is taught that nothing matters more than family and the law. Joined by his brothers and Doc Holliday, Earp wages war on the dreaded Clanton and McLaury gangs.",
+  "release_date": "1994-06-24",
+  "runtime": 191,
+  "budget": 63000000,
+  "revenue": 25100000,
+  "tmdb_vote_average": 6.779,
+  "tmdb_vote_count": 898,
+  "tmdb_popularity": 5.6098,
+  "original_language": "en",
+  "poster_path": "/51LItgyecu2KMAtIchYogEykCIu.jpg",
+  "backdrop_path": "/8Nhn88ZaR8txXSLptWMBgWm3QnJ.jpg",
+  "tmdb_genres_raw": [
+    "Western",
+    "Drama",
+    "Action",
+    "Adventure"
+  ],
+  "production_companies": [
+    {
+      "id": 24217,
+      "name": "Paragon Entertainment Corp.",
+      "origin_country": ""
+    },
+    {
+      "id": 335,
+      "name": "Tig Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 13040,
+      "name": "Kasdan Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1269,
+      "name": "Kevin Costner",
+      "character": "Wyatt Earp",
+      "order": 0,
+      "cast_id": 14,
+      "popularity": 8.6545,
+      "profile_path": "/bykmxJHLfbFM3NT05RZXhx8YTzF.jpg"
+    },
+    {
+      "personId": 6065,
+      "name": "Dennis Quaid",
+      "character": "Doc Holliday",
+      "order": 1,
+      "cast_id": 15,
+      "popularity": 5.2596,
+      "profile_path": "/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg"
+    },
+    {
+      "personId": 193,
+      "name": "Gene Hackman",
+      "character": "Nicholas Earp",
+      "order": 2,
+      "cast_id": 16,
+      "popularity": 3.843,
+      "profile_path": "/wN8brfOI8AjngGchkQtFqfEPam5.jpg"
+    },
+    {
+      "personId": 7219,
+      "name": "David Andrews",
+      "character": "James Earp",
+      "order": 3,
+      "cast_id": 17,
+      "popularity": 1.3785,
+      "profile_path": "/36LEerIIN7gpG52mM3Ier7YWDbh.jpg"
+    },
+    {
+      "personId": 57251,
+      "name": "Linden Ashby",
+      "character": "Morgan Earp",
+      "order": 4,
+      "cast_id": 18,
+      "popularity": 1.8606,
+      "profile_path": "/l1Px1Nw9rMA2p3yBYj51JjOneQB.jpg"
+    },
+    {
+      "personId": 20495,
+      "name": "Jeff Fahey",
+      "character": "Ike Clanton",
+      "order": 5,
+      "cast_id": 19,
+      "popularity": 3.2451,
+      "profile_path": "/zRu1ZmM7ekKwKbmXn3U0VjD8Wyd.jpg"
+    },
+    {
+      "personId": 59662,
+      "name": "Joanna Going",
+      "character": "Josie Marcus",
+      "order": 6,
+      "cast_id": 20,
+      "popularity": 1.777,
+      "profile_path": "/cqYMJFlkkAc2n1FTGaOmom4IFFL.jpg"
+    },
+    {
+      "personId": 19728,
+      "name": "Mark Harmon",
+      "character": "Sheriff Johnny Behan",
+      "order": 7,
+      "cast_id": 21,
+      "popularity": 5.3271,
+      "profile_path": "/jDRXlmBItH9IyXk9UhafpOSBIq7.jpg"
+    },
+    {
+      "personId": 147,
+      "name": "Michael Madsen",
+      "character": "Virgil Earp",
+      "order": 8,
+      "cast_id": 22,
+      "popularity": 9.432,
+      "profile_path": "/2pKJJKeCggtLOE4hzqgq07KYqFh.jpg"
+    },
+    {
+      "personId": 11514,
+      "name": "Catherine O'Hara",
+      "character": "Allie Earp",
+      "order": 9,
+      "cast_id": 23,
+      "popularity": 5.722,
+      "profile_path": "/xjthrsXA31PVX91ByIQzORKSD0E.jpg"
+    },
+    {
+      "personId": 8984,
+      "name": "Bill Pullman",
+      "character": "Ed Masterson",
+      "order": 10,
+      "cast_id": 24,
+      "popularity": 3.8015,
+      "profile_path": "/AlLhgmcX5zh3frPT82OSPY9gqXO.jpg"
+    },
+    {
+      "personId": 6588,
+      "name": "Isabella Rossellini",
+      "character": "Big Nose Kate",
+      "order": 11,
+      "cast_id": 25,
+      "popularity": 2.6635,
+      "profile_path": "/z0zojT6nwDxi35HMcXlVpBfuBAU.jpg"
+    },
+    {
+      "personId": 3197,
+      "name": "Tom Sizemore",
+      "character": "Bat Masterson",
+      "order": 12,
+      "cast_id": 26,
+      "popularity": 2.2998,
+      "profile_path": "/soINOuacuiThRb2LyPD4tTWve7C.jpg"
+    },
+    {
+      "personId": 10080,
+      "name": "JoBeth Williams",
+      "character": "Bessie Earp",
+      "order": 13,
+      "cast_id": 27,
+      "popularity": 2.5159,
+      "profile_path": "/nL9ZdnI50y1yRVvmz0P61TxjZsF.jpg"
+    },
+    {
+      "personId": 51544,
+      "name": "Mare Winningham",
+      "character": "Mattie Blaylock",
+      "order": 14,
+      "cast_id": 28,
+      "popularity": 2.0225,
+      "profile_path": "/pl4Cq1uCs8ajVxZkJ7Qd4XjD2P2.jpg"
+    },
+    {
+      "personId": 16433,
+      "name": "James Gammon",
+      "character": "Mr. Sutherland",
+      "order": 15,
+      "cast_id": 34,
+      "popularity": 1.6247,
+      "profile_path": "/ar7am7PST1c91LYPYnrmJJxc9zH.jpg"
+    },
+    {
+      "personId": 16937,
+      "name": "Rex Linn",
+      "character": "Frank McLaury",
+      "order": 16,
+      "cast_id": 35,
+      "popularity": 3.1417,
+      "profile_path": "/dY8x6OrmS0dBdogxeF2QALrCvpI.jpg"
+    },
+    {
+      "personId": 1218048,
+      "name": "Randle Mell",
+      "character": "John Clum",
+      "order": 17,
+      "cast_id": 37,
+      "popularity": 1.7287,
+      "profile_path": "/8pwFRQHXBpTecmymdBN4vTkA2NW.jpg"
+    },
+    {
+      "personId": 2059,
+      "name": "Adam Baldwin",
+      "character": "Tom McLaury",
+      "order": 18,
+      "cast_id": 43,
+      "popularity": 2.2444,
+      "profile_path": "/rtRCD2rl9k3RVgyv3cHaUJer0Ms.jpg"
+    },
+    {
+      "personId": 49425,
+      "name": "Annabeth Gish",
+      "character": "Urilla Sutherland",
+      "order": 19,
+      "cast_id": 38,
+      "popularity": 3.0018,
+      "profile_path": "/wDOs2HDYdaK0ZlB78H52ym3iEBX.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 8844,
+      "name": "Lawrence Kasdan",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1695,
+      "profile_path": "/jX1PvTXU6212ruyHhJHiFP2ZKQ9.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 75,
+      "name": "gunslinger"
+    },
+    {
+      "id": 798,
+      "name": "sheriff"
+    },
+    {
+      "id": 395,
+      "name": "gambling"
+    },
+    {
+      "id": 1559,
+      "name": "deputy sheriff"
+    },
+    {
+      "id": 1859,
+      "name": "arizona"
+    },
+    {
+      "id": 4391,
+      "name": "wretch"
+    },
+    {
+      "id": 6165,
+      "name": "historical figure"
+    },
+    {
+      "id": 5074,
+      "name": "wyatt earp"
+    },
+    {
+      "id": 9550,
+      "name": "doc holliday"
+    },
+    {
+      "id": 195218,
+      "name": "tombstone arizona"
+    },
+    {
+      "id": 207928,
+      "name": "19th century"
+    },
+    {
+      "id": 219366,
+      "name": "ok corral"
+    }
+  ]
+}

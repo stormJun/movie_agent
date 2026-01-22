@@ -1,0 +1,249 @@
+{
+  "overview": "Andrew Crocker-Harris is an embittered and disliked teacher of Greek and Latin at a British prep school. After nearly 20 years of service, he is being forced to retire for 'health reasons', and perhaps may not even be given a pension. The boys regard him as a Hitler, with some justification. His unfaithful wife Laura tries to hurt him in any way she can. Andrew must come to terms with his failed life and at least regain his own self-esteem.",
+  "release_date": "1994-06-08",
+  "runtime": 97,
+  "budget": 0,
+  "revenue": 487391,
+  "tmdb_vote_average": 6.439,
+  "tmdb_vote_count": 57,
+  "tmdb_popularity": 0.6256,
+  "original_language": "en",
+  "poster_path": "/8My9Wnzu1zasVVzGdDj5y2dItuM.jpg",
+  "backdrop_path": "/8GKe3okbcxaTMDkLumJJuv3wOGC.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1645,
+      "name": "Scott Free Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "la",
+      "name": "Latin"
+    },
+    {
+      "code": "el",
+      "name": "ελληνικά"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3926,
+      "name": "Albert Finney",
+      "character": "Andrew Crocker-Harris",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.8012,
+      "profile_path": "/8WCFO9lMHel1bHVYl5lj8pYEw2s.jpg"
+    },
+    {
+      "personId": 21245,
+      "name": "Greta Scacchi",
+      "character": "Laura Crocker-Harris",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.6819,
+      "profile_path": "/kgWjsnt0SWrypL6vkGQijJNkgS0.jpg"
+    },
+    {
+      "personId": 8654,
+      "name": "Matthew Modine",
+      "character": "Frank Hunter",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 5.6712,
+      "profile_path": "/z974QEHL12qUvLyk6hlWGAmDgom.jpg"
+    },
+    {
+      "personId": 6104,
+      "name": "Julian Sands",
+      "character": "Tom Gilbert",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 3.4522,
+      "profile_path": "/8TYtEyKZle2B3cUYT7FBM9HJRtZ.jpg"
+    },
+    {
+      "personId": 5658,
+      "name": "Michael Gambon",
+      "character": "Dr. Frobisher",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 2.4952,
+      "profile_path": "/3jdWkDKf4IODbG4JKTeaC7AzxZH.jpg"
+    },
+    {
+      "personId": 68014,
+      "name": "Ben Silverstone",
+      "character": "Taplow",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 1.7172,
+      "profile_path": "/m5qlKqJN98eswZ60XH2x5fPz76j.jpg"
+    },
+    {
+      "personId": 38941,
+      "name": "Jim Sturgess",
+      "character": "Bryant",
+      "order": 6,
+      "cast_id": 6,
+      "popularity": 1.8658,
+      "profile_path": "/acDJi0yEAMy82wmngFrJ0KjVRm2.jpg"
+    },
+    {
+      "personId": 72856,
+      "name": "Joseph Beattie",
+      "character": "Wilson",
+      "order": 7,
+      "cast_id": 16,
+      "popularity": 0.4096,
+      "profile_path": "/nAPjdqnQ9dG5ZpDbxBBuZym22f1.jpg"
+    },
+    {
+      "personId": 1214694,
+      "name": "Marc Bolton",
+      "character": "Grantham",
+      "order": 8,
+      "cast_id": 17,
+      "popularity": 0.2789,
+      "profile_path": null
+    },
+    {
+      "personId": 2590210,
+      "name": "Tom Havelock",
+      "character": "Grantham",
+      "order": 9,
+      "cast_id": 18,
+      "popularity": 0.0971,
+      "profile_path": null
+    },
+    {
+      "personId": 2590211,
+      "name": "Walter Micklethwait",
+      "character": "Buller",
+      "order": 10,
+      "cast_id": 19,
+      "popularity": 0.0143,
+      "profile_path": null
+    },
+    {
+      "personId": 83251,
+      "name": "Jotham Annan",
+      "character": "Prince Abakendi",
+      "order": 11,
+      "cast_id": 20,
+      "popularity": 0.1364,
+      "profile_path": null
+    },
+    {
+      "personId": 2590214,
+      "name": "David Lever",
+      "character": "David Fletcher",
+      "order": 12,
+      "cast_id": 21,
+      "popularity": 0.0861,
+      "profile_path": null
+    },
+    {
+      "personId": 72328,
+      "name": "Bruce Myers",
+      "character": "Dr. Rafferty",
+      "order": 13,
+      "cast_id": 9,
+      "popularity": 0.7874,
+      "profile_path": "/8ZxGn8K1Jh8q9G9c6plSqMQRmsh.jpg"
+    },
+    {
+      "personId": 10670,
+      "name": "Maryam D'Abo",
+      "character": "Diana",
+      "order": 14,
+      "cast_id": 8,
+      "popularity": 1.8428,
+      "profile_path": "/AwcD84CIlQ0HaLRX3AqlmunYzgE.jpg"
+    },
+    {
+      "personId": 30431,
+      "name": "Heathcote Williams",
+      "character": "Dr. Lake",
+      "order": 15,
+      "cast_id": 22,
+      "popularity": 0.9097,
+      "profile_path": "/1gCuLzhbBTiFPLZ0pD4RGAvE7NJ.jpg"
+    },
+    {
+      "personId": 95023,
+      "name": "Oliver Milburn",
+      "character": "Trubshaw",
+      "order": 16,
+      "cast_id": 14,
+      "popularity": 0.6464,
+      "profile_path": "/6XPgOpxZHvWTBZzhjAXETom7ycJ.jpg"
+    },
+    {
+      "personId": 102761,
+      "name": "Jeff Nuttall",
+      "character": "Lord Baxter",
+      "order": 17,
+      "cast_id": 23,
+      "popularity": 1.2465,
+      "profile_path": "/kVafLHsJ5YTFWBdbwxKPibBXllj.jpg"
+    },
+    {
+      "personId": 192903,
+      "name": "Dinah Stabb",
+      "character": "Jane Frobisher",
+      "order": 18,
+      "cast_id": 24,
+      "popularity": 0.8409,
+      "profile_path": null
+    },
+    {
+      "personId": 1090245,
+      "name": "Belinda Low",
+      "character": "Rowena Baxter",
+      "order": 19,
+      "cast_id": 25,
+      "popularity": 0.4927,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 6111,
+      "name": "Mike Figgis",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.5157,
+      "profile_path": "/8qTZVgAlkb0N03CW66q1j2VTdQw.jpg"
+    }
+  ],
+  "keywords": []
+}

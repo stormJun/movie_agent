@@ -1,0 +1,266 @@
+{
+  "overview": "A young boy must restore order when a group of bullies steal the magical book that acts as a portal between Earth and the imaginary world of Fantasia.",
+  "release_date": "1994-10-26",
+  "runtime": 95,
+  "budget": 17000000,
+  "revenue": 0,
+  "tmdb_vote_average": 4.471,
+  "tmdb_vote_count": 417,
+  "tmdb_popularity": 2.5997,
+  "original_language": "de",
+  "poster_path": "/o75HHfr23sgeqIeUPwjKY0V9Ppi.jpg",
+  "backdrop_path": "/leuav0ikW74sCZyuthKyvcKYVMP.jpg",
+  "tmdb_genres_raw": [
+    "Family",
+    "Fantasy",
+    "Adventure",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 1766,
+      "name": "Dieter Geissler Filmproduktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 1979,
+      "name": "Cinevox Filmproduktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 264,
+      "name": "Studio Babelsberg",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 18259,
+      "name": "Jason James Richter",
+      "character": "Bastian Bux",
+      "order": 0,
+      "cast_id": 6,
+      "popularity": 2.9089,
+      "profile_path": "/bo00PwEHdDSwynXsbiqcZeVF05v.jpg"
+    },
+    {
+      "personId": 57236,
+      "name": "Melody Kay",
+      "character": "Nicole",
+      "order": 1,
+      "cast_id": 7,
+      "popularity": 1.3119,
+      "profile_path": "/su3bd2DPyDlSLyTfraPA6dCuPd.jpg"
+    },
+    {
+      "personId": 70851,
+      "name": "Jack Black",
+      "character": "Slip",
+      "order": 2,
+      "cast_id": 10,
+      "popularity": 11.0446,
+      "profile_path": "/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg"
+    },
+    {
+      "personId": 95645,
+      "name": "Ryan Bollman",
+      "character": "Dog",
+      "order": 3,
+      "cast_id": 12,
+      "popularity": 0.9119,
+      "profile_path": "/jShOCZc85aSt1yPI3QPKioS1TM5.jpg"
+    },
+    {
+      "personId": 12517,
+      "name": "Freddie Jones",
+      "character": "Mr. Coreander / Old Man of Wandering Mountain",
+      "order": 4,
+      "cast_id": 13,
+      "popularity": 1.0786,
+      "profile_path": "/mWozC9kZFNhxoRSCBvmykROmMGB.jpg"
+    },
+    {
+      "personId": 13364,
+      "name": "Julie Cox",
+      "character": "The Childlike Empress",
+      "order": 5,
+      "cast_id": 14,
+      "popularity": 1.3274,
+      "profile_path": "/iEuysgJLFqvj98HwefDliZ1RRQl.jpg"
+    },
+    {
+      "personId": 663,
+      "name": "William Hootkins",
+      "character": "Bark Troll / Falkor (voice)",
+      "order": 6,
+      "cast_id": 80,
+      "popularity": 0.7641,
+      "profile_path": "/dav2i86GN0UvYIyoTwQmGE8Nweg.jpg"
+    },
+    {
+      "personId": 87385,
+      "name": "Tony Robinson",
+      "character": "Engywook",
+      "order": 7,
+      "cast_id": 17,
+      "popularity": 1.9853,
+      "profile_path": "/x8t38jqTwCSF1Gr5aBC9q1qPPKE.jpg"
+    },
+    {
+      "personId": 1115432,
+      "name": "Thomas Petruo",
+      "character": "Large Head",
+      "order": 8,
+      "cast_id": 18,
+      "popularity": 0.8174,
+      "profile_path": "/8521LExMmneqKU2filUCsZM8zg3.jpg"
+    },
+    {
+      "personId": 189921,
+      "name": "Moya Brady",
+      "character": "Urgl",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 1.544,
+      "profile_path": "/a14HZmsadaqndMu98l77cLHK6Dk.jpg"
+    },
+    {
+      "personId": 134063,
+      "name": "Carole Finn",
+      "character": "Mookie",
+      "order": 10,
+      "cast_id": 11,
+      "popularity": 0.0363,
+      "profile_path": null
+    },
+    {
+      "personId": 134061,
+      "name": "Tracey Ellis",
+      "character": "Jane Bux",
+      "order": 11,
+      "cast_id": 9,
+      "popularity": 0.9621,
+      "profile_path": "/zd5yJVArScvH8qCjR9Lu2DjvW6n.jpg"
+    },
+    {
+      "personId": 27111,
+      "name": "Kevin McNulty",
+      "character": "Barney Bux",
+      "order": 12,
+      "cast_id": 8,
+      "popularity": 1.1256,
+      "profile_path": "/jaXuLA5zYPVzfG8wLtnD2O4aveA.jpg"
+    },
+    {
+      "personId": 1576549,
+      "name": "Nicole Parker",
+      "character": "Nasty #1",
+      "order": 13,
+      "cast_id": 22,
+      "popularity": 0.296,
+      "profile_path": "/l5SyJctfOzs2CkuQPGq0aafyCbJ.jpg"
+    },
+    {
+      "personId": 43933,
+      "name": "Adrien Dorval",
+      "character": "Nasty #2",
+      "order": 14,
+      "cast_id": 21,
+      "popularity": 1.216,
+      "profile_path": "/toyI2xbgYYRLD4P0Uoudn59oW8G.jpg"
+    },
+    {
+      "personId": 1775815,
+      "name": "Kaefan Shaw",
+      "character": "Bark Troll",
+      "order": 15,
+      "cast_id": 56,
+      "popularity": 0.1056,
+      "profile_path": null
+    },
+    {
+      "personId": 1234258,
+      "name": "Gord Robertson",
+      "character": "Falkor",
+      "order": 16,
+      "cast_id": 57,
+      "popularity": 0.4005,
+      "profile_path": null
+    },
+    {
+      "personId": 1705493,
+      "name": "Frederick Warder",
+      "character": "Mr. Rock Chewer - Felsenbeißer / Shopping Clerk",
+      "order": 17,
+      "cast_id": 58,
+      "popularity": 1.48,
+      "profile_path": "/ra0rlyNMXEMXToSaMjr0CoHrCwK.jpg"
+    },
+    {
+      "personId": 102759,
+      "name": "William Todd-Jones",
+      "character": "Mrs. Rockchewer",
+      "order": 18,
+      "cast_id": 59,
+      "popularity": 0.4697,
+      "profile_path": null
+    },
+    {
+      "personId": 81432,
+      "name": "David Forman",
+      "character": "Junior Rockchewer",
+      "order": 19,
+      "cast_id": 60,
+      "popularity": 1.078,
+      "profile_path": "/y7CJ5d7j1A3dDnUl0xkze7O4jp9.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 16589,
+      "name": "Peter MacDonald",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6093,
+      "profile_path": "/tSOyLrYE10HjM7rC3BVvJGZCYyw.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 334,
+      "name": "flying"
+    },
+    {
+      "id": 2343,
+      "name": "magic"
+    },
+    {
+      "id": 9663,
+      "name": "sequel"
+    },
+    {
+      "id": 12554,
+      "name": "dragon"
+    },
+    {
+      "id": 15101,
+      "name": "based on children's book"
+    },
+    {
+      "id": 170362,
+      "name": "fantasy world"
+    }
+  ]
+}

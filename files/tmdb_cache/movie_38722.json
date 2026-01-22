@@ -1,0 +1,228 @@
+{
+  "overview": "Traces over three generations an immigrant family's trials, tribulations, tragedies, and triumphs. Maria and Jose, the first generation, come to Los Angeles, meet, marry, face deportation all in the 1930s. They establish their family in East L.A., and their children Chucho, Paco, Memo, Irene, Toni, and Jimmy deal with youth culture and the L.A. police in the '50s. As the second generation become adults in the '60s, the focus shifts to Jimmy, his marriage to Isabel (a Salvadorian refugee), their son, and Jimmy's journey to becoming a responsible parent.",
+  "release_date": "1995-05-03",
+  "runtime": 128,
+  "budget": 5500000,
+  "revenue": 11079373,
+  "tmdb_vote_average": 7.4,
+  "tmdb_vote_count": 81,
+  "tmdb_popularity": 2.9001,
+  "original_language": "en",
+  "poster_path": "/i6t6QF5QyUd3UAQ8JM8eVU1169D.jpg",
+  "backdrop_path": "/7aobDzV4NBSTVvaltT74EbpkDwO.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 89873,
+      "name": "Newcomb Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 70,
+      "name": "American Zoetrope",
+      "origin_country": "US"
+    },
+    {
+      "id": 3906,
+      "name": "American Playhouse",
+      "origin_country": "US"
+    },
+    {
+      "id": 2630,
+      "name": "Majestic Films International",
+      "origin_country": "GB"
+    },
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 587,
+      "name": "Edward James Olmos",
+      "character": "Paco",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.7037,
+      "profile_path": "/mXnilUrQBIMLHSQkPjQk99mX70x.jpg"
+    },
+    {
+      "personId": 33181,
+      "name": "Jimmy Smits",
+      "character": "Jimmy",
+      "order": 1,
+      "cast_id": 7,
+      "popularity": 3.0575,
+      "profile_path": "/dD04JlfW5N8bVrx7Cawn4A6g1xp.jpg"
+    },
+    {
+      "personId": 65344,
+      "name": "Esai Morales",
+      "character": "Chucho",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.8338,
+      "profile_path": "/cNYciYzUzxraGlw0BPql1QePi5H.jpg"
+    },
+    {
+      "personId": 16866,
+      "name": "Jennifer Lopez",
+      "character": "Young Maria",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 4.5493,
+      "profile_path": "/169kOiv7jkEfHxIC5wrZNszkPv1.jpg"
+    },
+    {
+      "personId": 16429,
+      "name": "Jacob Vargas",
+      "character": "Young Jose",
+      "order": 4,
+      "cast_id": 4,
+      "popularity": 4.3591,
+      "profile_path": "/hq5SIxyGHGTBCxc9LPpyeHmOjkU.jpg"
+    },
+    {
+      "personId": 92326,
+      "name": "Constance Marie",
+      "character": "Toni",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 1.1931,
+      "profile_path": "/4s5IKXj9gKHwNWjm8o5LgAkBVal.jpg"
+    },
+    {
+      "personId": 89499,
+      "name": "Jonathan Hernandez",
+      "character": "Young Jimmy",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 0.64,
+      "profile_path": "/c3KHYKzXLhTlRDyfYBrhuIF5e7t.jpg"
+    },
+    {
+      "personId": 129872,
+      "name": "Jenny Gago",
+      "character": "Maria",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 1.4034,
+      "profile_path": "/usYVMd4GvrvWrMXjAOFOZgGB8ZR.jpg"
+    },
+    {
+      "personId": 109627,
+      "name": "Eduardo López Rojas",
+      "character": "Jose",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 0.3712,
+      "profile_path": "/5HsBnVGYhgnN54TRmf0rmmliUdu.jpg"
+    },
+    {
+      "personId": 129871,
+      "name": "Rafael Cortés",
+      "character": "Roberto",
+      "order": 9,
+      "cast_id": 2,
+      "popularity": 0.5015,
+      "profile_path": null
+    },
+    {
+      "personId": 2453,
+      "name": "Mary Steenburgen",
+      "character": "Gloria",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 3.4892,
+      "profile_path": "/yJhfuqS3yXW7kLSyvRU6n3b35mq.jpg"
+    },
+    {
+      "personId": 2154,
+      "name": "Scott Bakula",
+      "character": "David Ronconi",
+      "order": 11,
+      "cast_id": 19,
+      "popularity": 2.6618,
+      "profile_path": "/meZvcpXmcFlrJUeme4UpH4GZeNV.jpg"
+    },
+    {
+      "personId": 1102,
+      "name": "Elpidia Carrillo",
+      "character": "Isabel Magaña",
+      "order": 12,
+      "cast_id": 21,
+      "popularity": 1.8485,
+      "profile_path": "/u8ZEUAUdVjUE8DTddv81rE1Qer7.jpg"
+    },
+    {
+      "personId": 91332,
+      "name": "Dedee Pfeiffer",
+      "character": "Karen Gillespie",
+      "order": 13,
+      "cast_id": 23,
+      "popularity": 2.1362,
+      "profile_path": "/5qEwnlKS2uapYYBca4VypL2K2JQ.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 16395,
+      "name": "Gregory Nava",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.3791,
+      "profile_path": "/iFwHd3RYaMnc3ENzOjMM6EdhtR4.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2356,
+      "name": "immigrant"
+    },
+    {
+      "id": 6038,
+      "name": "marriage"
+    },
+    {
+      "id": 10235,
+      "name": "family relationships"
+    },
+    {
+      "id": 12670,
+      "name": "los angeles, california"
+    },
+    {
+      "id": 18035,
+      "name": "family"
+    },
+    {
+      "id": 208397,
+      "name": "death of wife"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "overview": "Emily Hollander becomes the subject of a lesbian obsession at the hands of Andrea Glassen, her next-door neighbour.",
+  "release_date": "1980-01-18",
+  "runtime": 96,
+  "budget": 0,
+  "revenue": 2128898,
+  "tmdb_vote_average": 4.821,
+  "tmdb_vote_count": 28,
+  "tmdb_popularity": 4.5598,
+  "original_language": "en",
+  "poster_path": "/j4xaABkDbVOJRb1xllsfN3z2CPB.jpg",
+  "backdrop_path": "/oXMNPKfdPygnpJaeUHH0IYtnspI.jpg",
+  "tmdb_genres_raw": [
+    "Horror",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 52599,
+      "name": "Mike Lobell Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 60,
+      "name": "United Artists",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3094,
+      "name": "Talia Shire",
+      "character": "Emily Hollander",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 3.6133,
+      "profile_path": "/oktJmlLeyYKBCWPNjHskDwAfjct.jpg"
+    },
+    {
+      "personId": 44845,
+      "name": "Elizabeth Ashley",
+      "character": "Andrea Glassen",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 1.6283,
+      "profile_path": "/xtUALRSTXGryJvvgmTi4jXIPA49.jpg"
+    },
+    {
+      "personId": 830,
+      "name": "Joe Cortese",
+      "character": "Bob Luffrono",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 0.9091,
+      "profile_path": "/4Z2PvYRrpZ27xLKnDrtX6iRmJ3e.jpg"
+    },
+    {
+      "personId": 89841,
+      "name": "Kay Medford",
+      "character": "Ida Marx",
+      "order": 3,
+      "cast_id": 8,
+      "popularity": 0.9035,
+      "profile_path": "/lKZ8tZwfHoJc7Qld9Ncvr71MEc8.jpg"
+    },
+    {
+      "personId": 557998,
+      "name": "Michael Gorrin",
+      "character": "Sam Marx",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 0.4075,
+      "profile_path": "/fF0Xnq43GRKhcV1ch6vqmtES3Qj.jpg"
+    },
+    {
+      "personId": 1462345,
+      "name": "Russell Horton",
+      "character": "Steven Hollander",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 0.6096,
+      "profile_path": "/zK94uMiTlCnHCAhaIeYmggPOhCj.jpg"
+    },
+    {
+      "personId": 1462346,
+      "name": "Michael Lipton",
+      "character": "Dr. Marin",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 0.3098,
+      "profile_path": null
+    },
+    {
+      "personId": 1290895,
+      "name": "Rick Petrucelli",
+      "character": "Obecny",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 0.8119,
+      "profile_path": null
+    },
+    {
+      "personId": 1462347,
+      "name": "Ron Ryan",
+      "character": "Detective Swid",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 1.2002,
+      "profile_path": null
+    },
+    {
+      "personId": 198980,
+      "name": "Linda Gillen",
+      "character": "Police Woman",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 0.7213,
+      "profile_path": "/eBKGY0I86SlTpdpD7FLVezUSkfz.jpg"
+    },
+    {
+      "personId": 138116,
+      "name": "Tony DiBenedetto",
+      "character": "Nick",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 0.7041,
+      "profile_path": null
+    },
+    {
+      "personId": 1174793,
+      "name": "Pat McNamara",
+      "character": "Doorman",
+      "order": 11,
+      "cast_id": 28,
+      "popularity": 0.4854,
+      "profile_path": "/buUUXw9geHBgz73p9IR3H9wscra.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 3097,
+      "name": "Gordon Willis",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4777,
+      "profile_path": "/6gOmfatlF7UdhaHi2tPsZMb5vmz.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6293,
+      "name": "telescope"
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "overview": "For nine generations an evil sorcerer has been victorious in hand-to-hand battle against his mortal enemies. If he wins a tenth Mortal Kombat tournament, desolation and evil will reign over the multiverse forever. To save Earth, three warriors must overcome seemingly insurmountable odds, their own inner demons, and superhuman foes.",
+  "release_date": "1995-08-18",
+  "runtime": 101,
+  "budget": 18000000,
+  "revenue": 122195920,
+  "tmdb_vote_average": 5.874,
+  "tmdb_vote_count": 2434,
+  "tmdb_popularity": 5.158,
+  "original_language": "en",
+  "poster_path": "/fcK7tzSSXMYiMN8E9KlZJL1BYyp.jpg",
+  "backdrop_path": "/dfU9xyEEyLxvZ5unTn05Whm9Lce.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Fantasy"
+  ],
+  "production_companies": [
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 4174,
+      "name": "Threshold Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 57250,
+      "name": "Robin Shou",
+      "character": "Liu Kang",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 1.8974,
+      "profile_path": "/cnL8HqBowYu9ssTkShDfEmxTgdZ.jpg"
+    },
+    {
+      "personId": 57251,
+      "name": "Linden Ashby",
+      "character": "Johnny Cage",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 1.8606,
+      "profile_path": "/l1Px1Nw9rMA2p3yBYj51JjOneQB.jpg"
+    },
+    {
+      "personId": 20751,
+      "name": "Bridgette Wilson-Sampras",
+      "character": "Sonya Blade",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 2.5286,
+      "profile_path": "/zq6uzzL87CtfgxD4G3bLTcgUUTe.jpg"
+    },
+    {
+      "personId": 38559,
+      "name": "Christopher Lambert",
+      "character": "Lord Raiden",
+      "order": 3,
+      "cast_id": 1,
+      "popularity": 3.351,
+      "profile_path": "/qKmxieTgzvsA5hSA7w1VoHizmmE.jpg"
+    },
+    {
+      "personId": 11398,
+      "name": "Cary-Hiroyuki Tagawa",
+      "character": "Shang Tsung",
+      "order": 4,
+      "cast_id": 4,
+      "popularity": 3.1078,
+      "profile_path": "/5F8MQ4J4qIqUwGIfcWN4osrTUtP.jpg"
+    },
+    {
+      "personId": 10680,
+      "name": "Talisa Soto",
+      "character": "Princess Kitana",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 1.3951,
+      "profile_path": "/tpEGbGgASne8m1iHzncuxdSLIkX.jpg"
+    },
+    {
+      "personId": 57252,
+      "name": "Trevor Goddard",
+      "character": "Kano",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 1.4514,
+      "profile_path": "/hQvYSwjP8beKIKyAf2N5OlPkW7Q.jpg"
+    },
+    {
+      "personId": 57253,
+      "name": "Chris Casamassa",
+      "character": "Scorpion",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 0.6749,
+      "profile_path": "/4isia13goX4Op437JJUMCv3GlXO.jpg"
+    },
+    {
+      "personId": 57254,
+      "name": "François Petit",
+      "character": "Sub-Zero",
+      "order": 8,
+      "cast_id": 9,
+      "popularity": 0.4549,
+      "profile_path": null
+    },
+    {
+      "personId": 57255,
+      "name": "Keith Cooke",
+      "character": "Reptile",
+      "order": 9,
+      "cast_id": 10,
+      "popularity": 0.582,
+      "profile_path": "/dnvy4P6gd7jRduV4OLQoYdW9CAW.jpg"
+    },
+    {
+      "personId": 109870,
+      "name": "Tom Woodruff Jr.",
+      "character": "Goro (uncredited)",
+      "order": 10,
+      "cast_id": 45,
+      "popularity": 1.7149,
+      "profile_path": "/o5MW7KiROaA5uf9zzJmpHJfUjh3.jpg"
+    },
+    {
+      "personId": 156186,
+      "name": "Gregory McKinney",
+      "character": "Jax Briggs",
+      "order": 11,
+      "cast_id": 32,
+      "popularity": 0.9215,
+      "profile_path": "/toApK4QzQ35MHb6Yi2QtLJxT9xg.jpg"
+    },
+    {
+      "personId": 1216726,
+      "name": "Steven Ho",
+      "character": "Chan",
+      "order": 12,
+      "cast_id": 36,
+      "popularity": 0.6301,
+      "profile_path": "/knCr9YBFbNT0Qhu68Jz74G9tHon.jpg"
+    },
+    {
+      "personId": 1116836,
+      "name": "Lloyd Kino",
+      "character": "Grandfather",
+      "order": 13,
+      "cast_id": 35,
+      "popularity": 1.5055,
+      "profile_path": "/jZJ4PUdE2wVSSXpif11ceZTPLMS.jpg"
+    },
+    {
+      "personId": 2321681,
+      "name": "Kenneth Edwards",
+      "character": "Art Lean",
+      "order": 14,
+      "cast_id": 33,
+      "popularity": 0.4158,
+      "profile_path": "/4eeaZxcX91CnYJ9cWE53lEyDCC0.jpg"
+    },
+    {
+      "personId": 188274,
+      "name": "Leo Lee",
+      "character": "Kano Gunman (uncredited)",
+      "order": 15,
+      "cast_id": 46,
+      "popularity": 1.6106,
+      "profile_path": "/av9FrOPmE3gFEyNnNJWK82h70xp.jpg"
+    },
+    {
+      "personId": 10133,
+      "name": "John Fujioka",
+      "character": "Chief Priest",
+      "order": 16,
+      "cast_id": 39,
+      "popularity": 0.9533,
+      "profile_path": "/bH6tXN6aOOW97cbiXY5yLUtFl8c.jpg"
+    },
+    {
+      "personId": 6916,
+      "name": "Peter Jason",
+      "character": "Master Boyd",
+      "order": 17,
+      "cast_id": 34,
+      "popularity": 2.0627,
+      "profile_path": "/xoqIuVvEH6BG6sOg4NnZzUKFnaf.jpg"
+    },
+    {
+      "personId": 105047,
+      "name": "Gerald Okamura",
+      "character": "Outworld Warrior (uncredited)",
+      "order": 18,
+      "cast_id": 41,
+      "popularity": 1.1705,
+      "profile_path": "/aGR5B50q5eqfXF45Aun8lo6pVF7.jpg"
+    },
+    {
+      "personId": 60656,
+      "name": "T.J. Storm",
+      "character": "Guest Fighter (uncredited)",
+      "order": 19,
+      "cast_id": 40,
+      "popularity": 1.1391,
+      "profile_path": "/ncldw2ugSqCpGM7WbROD8Ha2Fln.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 4014,
+      "name": "Paul W. S. Anderson",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 3.5012,
+      "profile_path": "/3LBggv2qwBVjDi45DA0RTadgw12.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2041,
+      "name": "island"
+    },
+    {
+      "id": 779,
+      "name": "martial arts"
+    },
+    {
+      "id": 1299,
+      "name": "monster"
+    },
+    {
+      "id": 83,
+      "name": "saving the world"
+    },
+    {
+      "id": 2343,
+      "name": "magic"
+    },
+    {
+      "id": 3289,
+      "name": "villain"
+    },
+    {
+      "id": 10292,
+      "name": "gore"
+    },
+    {
+      "id": 9649,
+      "name": "god"
+    },
+    {
+      "id": 9820,
+      "name": "alternate dimension"
+    },
+    {
+      "id": 10278,
+      "name": "ninja"
+    },
+    {
+      "id": 10821,
+      "name": "sorcerer"
+    },
+    {
+      "id": 12380,
+      "name": "tournament"
+    },
+    {
+      "id": 17977,
+      "name": "underground fighting"
+    },
+    {
+      "id": 41645,
+      "name": "based on video game"
+    },
+    {
+      "id": 162846,
+      "name": "ghost"
+    },
+    {
+      "id": 188955,
+      "name": "hand to hand combat"
+    },
+    {
+      "id": 192913,
+      "name": "warrior"
+    },
+    {
+      "id": 219404,
+      "name": "action hero"
+    },
+    {
+      "id": 251513,
+      "name": "supernatural power"
+    },
+    {
+      "id": 263377,
+      "name": "mortal kombat"
+    },
+    {
+      "id": 269233,
+      "name": "good versus evil"
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "overview": "A year after losing his friend in a tragic 4,000-foot fall, former ranger Gabe Walker and his partner, Hal, are called to return to the same peak to rescue a group of stranded climbers, only to learn the climbers are actually thieving hijackers who are looking for boxes full of money.",
+  "release_date": "1993-05-28",
+  "runtime": 113,
+  "budget": 70000000,
+  "revenue": 255000211,
+  "tmdb_vote_average": 6.519,
+  "tmdb_vote_count": 2545,
+  "tmdb_popularity": 5.3813,
+  "original_language": "en",
+  "poster_path": "/b28DOM54OHb1c7Lsk6Nu7Kwuonj.jpg",
+  "backdrop_path": "/hPTaANKrpghMQeRIOcPJbJA4Yia.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 275,
+      "name": "Carolco Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 183,
+      "name": "Le Studio Canal+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 249444,
+      "name": "Pioneer",
+      "origin_country": "JP"
+    },
+    {
+      "id": 23246,
+      "name": "RCS Video",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "IT",
+      "name": "Italy"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16483,
+      "name": "Sylvester Stallone",
+      "character": "Gabe Walker",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 11.086,
+      "profile_path": "/gn3pDWthJqR0VDYGViGD3048og7.jpg"
+    },
+    {
+      "personId": 12074,
+      "name": "John Lithgow",
+      "character": "Eric Qualen",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 4.459,
+      "profile_path": "/8Y1sjBdnVR483S8PrnAQzlESwhx.jpg"
+    },
+    {
+      "personId": 12132,
+      "name": "Michael Rooker",
+      "character": "Hal Tucker",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.6823,
+      "profile_path": "/ngOuHNIAGrKyY1O7F0f9C5Q9ONg.jpg"
+    },
+    {
+      "personId": 51580,
+      "name": "Janine Turner",
+      "character": "Jessie Deighan",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.8756,
+      "profile_path": "/sstY4R6okeEKWfhFkwCF5dWoCiq.jpg"
+    },
+    {
+      "personId": 16937,
+      "name": "Rex Linn",
+      "character": "Richard Travers",
+      "order": 4,
+      "cast_id": 17,
+      "popularity": 2.5654,
+      "profile_path": "/dY8x6OrmS0dBdogxeF2QALrCvpI.jpg"
+    },
+    {
+      "personId": 6692,
+      "name": "Caroline Goodall",
+      "character": "Kristel - Jet Pilot",
+      "order": 5,
+      "cast_id": 18,
+      "popularity": 1.5145,
+      "profile_path": "/4cagGtMqACvkuw6Llq8Li8UJ1AR.jpg"
+    },
+    {
+      "personId": 12974,
+      "name": "Leon",
+      "character": "Kynette",
+      "order": 6,
+      "cast_id": 19,
+      "popularity": 1.2723,
+      "profile_path": "/uhLVZV2rH0nnXwQKtsIT0qGsTyg.jpg"
+    },
+    {
+      "personId": 51799,
+      "name": "Craig Fairbrass",
+      "character": "Delmar",
+      "order": 7,
+      "cast_id": 20,
+      "popularity": 0.8041,
+      "profile_path": "/z5WnSqwkM0Ax0Z47etVNmcew5Pn.jpg"
+    },
+    {
+      "personId": 44178,
+      "name": "Gregory Scott Cummins",
+      "character": "Ryan",
+      "order": 8,
+      "cast_id": 21,
+      "popularity": 1.1045,
+      "profile_path": "/7zIPV7Wmyap5uoC1soLFaKCtNJO.jpg"
+    },
+    {
+      "personId": 111078,
+      "name": "Denis Forest",
+      "character": "Heldon",
+      "order": 9,
+      "cast_id": 22,
+      "popularity": 0.8007,
+      "profile_path": "/mCon4Kh8MaOmvY1uhT3UQXyGh0V.jpg"
+    },
+    {
+      "personId": 30369,
+      "name": "Michelle Joyner",
+      "character": "Sarah",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 0.9241,
+      "profile_path": "/puIXV8yzhSLe3ay6n8WO6Zy4yIg.jpg"
+    },
+    {
+      "personId": 7268,
+      "name": "Max Perlich",
+      "character": "Evan",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 1.6964,
+      "profile_path": "/hdyemQG5w6xGtcDsqnuZkZV11nG.jpg"
+    },
+    {
+      "personId": 1818,
+      "name": "Paul Winfield",
+      "character": "Walter Wright",
+      "order": 12,
+      "cast_id": 25,
+      "popularity": 1.082,
+      "profile_path": "/6NLUJEFJCJ2Hog1ZOz4K2iyDvMZ.jpg"
+    },
+    {
+      "personId": 8853,
+      "name": "Ralph Waite",
+      "character": "Frank",
+      "order": 13,
+      "cast_id": 26,
+      "popularity": 2.2431,
+      "profile_path": "/9piV2h6tAuhynRP0PSmM2IsSh69.jpg"
+    },
+    {
+      "personId": 948644,
+      "name": "Trey Brownell",
+      "character": "Brett",
+      "order": 14,
+      "cast_id": 27,
+      "popularity": 0.1187,
+      "profile_path": null
+    },
+    {
+      "personId": 7471,
+      "name": "Zach Grenier",
+      "character": "Davis",
+      "order": 15,
+      "cast_id": 118,
+      "popularity": 2.3421,
+      "profile_path": "/fSyQKZO39sUsqY283GXiScOg3Hi.jpg"
+    },
+    {
+      "personId": 61216,
+      "name": "Vyto Ruginis",
+      "character": "Matheson",
+      "order": 16,
+      "cast_id": 119,
+      "popularity": 1.6733,
+      "profile_path": "/les4ZXAb2TL1Crqa8DzGwLvwns5.jpg"
+    },
+    {
+      "personId": 15863,
+      "name": "Don S. Davis",
+      "character": "Stuart",
+      "order": 17,
+      "cast_id": 120,
+      "popularity": 2.0548,
+      "profile_path": "/gxUvCXIFxAMqcWgosErBP5rHKDw.jpg"
+    },
+    {
+      "personId": 26680,
+      "name": "Scott Hoxby",
+      "character": "Agent Hayes",
+      "order": 18,
+      "cast_id": 121,
+      "popularity": 0.6443,
+      "profile_path": "/hdYtjIuUTH8Z5He1RTg5F5WxFt7.jpg"
+    },
+    {
+      "personId": 9277,
+      "name": "John Finn",
+      "character": "Agent Michaels",
+      "order": 19,
+      "cast_id": 122,
+      "popularity": 1.6733,
+      "profile_path": "/tEv7ZUiO4gafQnXEOp43WSEvRfp.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 16938,
+      "name": "Renny Harlin",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.4841,
+      "profile_path": "/IhXiDrZBrsLZpB5K5BmzUGkp4G.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3800,
+      "name": "airplane"
+    },
+    {
+      "id": 1262,
+      "name": "mountain"
+    },
+    {
+      "id": 2805,
+      "name": "rocky mountains"
+    },
+    {
+      "id": 4245,
+      "name": "hijacking"
+    },
+    {
+      "id": 4702,
+      "name": "suitcase"
+    },
+    {
+      "id": 8624,
+      "name": "climbing"
+    },
+    {
+      "id": 10051,
+      "name": "heist"
+    },
+    {
+      "id": 10594,
+      "name": "money"
+    },
+    {
+      "id": 10794,
+      "name": "snow"
+    },
+    {
+      "id": 159212,
+      "name": "mountain climbing"
+    }
+  ]
+}

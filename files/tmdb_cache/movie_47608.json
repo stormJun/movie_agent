@@ -1,0 +1,334 @@
+{
+  "overview": "Matt falls for Casey, the new girl in school. She's fun-loving and eccentric, but there's a darkness to her whimsy that Matt can't begin to comprehend. When Casey attempts to commit suicide, her parents place her in a mental institution. Matt springs her out, and together the young lovers head on a road trip. They believe their love can \"cure\" Casey's problems. Matt starts to wonder, though, if are they inspired or misguided.",
+  "release_date": "1995-05-26",
+  "runtime": 95,
+  "budget": 0,
+  "revenue": 15453274,
+  "tmdb_vote_average": 5.2,
+  "tmdb_vote_count": 119,
+  "tmdb_popularity": 3.4607,
+  "original_language": "en",
+  "poster_path": "/glhctWoYw1jg8z0FUSwFD4UTNi4.jpg",
+  "backdrop_path": "/8njBiJUriBw4wrT6FoVpYA57wdG.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 9195,
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5577,
+      "name": "Chris O'Donnell",
+      "character": "Matt Leland",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.9178,
+      "profile_path": "/KvWBFg1aMBdu4X2PihXYL8xcFD.jpg"
+    },
+    {
+      "personId": 69597,
+      "name": "Drew Barrymore",
+      "character": "Casey Roberts",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 5.264,
+      "profile_path": "/9xMu2GLC5otUcC11sEWC5aEAERQ.jpg"
+    },
+    {
+      "personId": 26457,
+      "name": "Matthew Lillard",
+      "character": "Eric",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 5.2129,
+      "profile_path": "/auUbijDzR9xpSgQtLsYDvNatloj.jpg"
+    },
+    {
+      "personId": 175540,
+      "name": "Richard Chaim",
+      "character": "Duncan",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 0.1557,
+      "profile_path": null
+    },
+    {
+      "personId": 162949,
+      "name": "Robert Nadir",
+      "character": "Coach",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 0.4864,
+      "profile_path": "/4M0edK3IlXX2BC1WOvIlgnOXBD4.jpg"
+    },
+    {
+      "personId": 11148,
+      "name": "Joan Allen",
+      "character": "Margaret Roberts",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 3.2481,
+      "profile_path": "/ipUhzenaOCmrxqbPqc7RadYxWao.jpg"
+    },
+    {
+      "personId": 8693,
+      "name": "Jude Ciccolella",
+      "character": "Richard Roberts",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 1.4283,
+      "profile_path": "/sS506N50Brzyu0wgq18mk3pj4dH.jpg"
+    },
+    {
+      "personId": 954763,
+      "name": "Amy Sakasitz",
+      "character": "Joanna Leland",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 1.5611,
+      "profile_path": "/5YpD3JugATyy1TLbHdSNtLnbHg3.jpg"
+    },
+    {
+      "personId": 64025,
+      "name": "T.J. Lowther",
+      "character": "Adam Leland",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 1.2474,
+      "profile_path": "/jRQJboPYY2LGf79j8OfKdjUUvD.jpg"
+    },
+    {
+      "personId": 14721,
+      "name": "Kevin Dunn",
+      "character": "Clifford Leland",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 2.9303,
+      "profile_path": "/7dqLQjMNCQnuxQJQwQ5Ozz16LBq.jpg"
+    },
+    {
+      "personId": 162999,
+      "name": "Sharon Collar",
+      "character": "Librarian",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 0.1878,
+      "profile_path": null
+    },
+    {
+      "personId": 1077783,
+      "name": "Selene H. Vigil",
+      "character": "Singer",
+      "order": 11,
+      "cast_id": 15,
+      "popularity": 1.2181,
+      "profile_path": "/mPioTbVX8Pt6iO54KoRQgMqtIw3.jpg"
+    },
+    {
+      "personId": 1077784,
+      "name": "Valerie M. Agnew",
+      "character": "Drummer",
+      "order": 12,
+      "cast_id": 16,
+      "popularity": 0.2495,
+      "profile_path": "/cWA4vrFsrSLUM8kPrNY10cccLFK.jpg"
+    },
+    {
+      "personId": 1077785,
+      "name": "Roisin Dunne",
+      "character": "Guitar",
+      "order": 13,
+      "cast_id": 17,
+      "popularity": 0.1174,
+      "profile_path": null
+    },
+    {
+      "personId": 1077786,
+      "name": "Elizabeth F. Davis",
+      "character": "Bass",
+      "order": 14,
+      "cast_id": 18,
+      "popularity": 0.1316,
+      "profile_path": null
+    },
+    {
+      "personId": 1006954,
+      "name": "Todd Sible",
+      "character": "Bartender",
+      "order": 15,
+      "cast_id": 19,
+      "popularity": 0.543,
+      "profile_path": "/t5jSOs2oB7vEUfDVO1Q6B7dTQS2.jpg"
+    },
+    {
+      "personId": 1077787,
+      "name": "Leslie Do Qui",
+      "character": "S.A.T. Monitor",
+      "order": 16,
+      "cast_id": 20,
+      "popularity": 0.3123,
+      "profile_path": null
+    },
+    {
+      "personId": 163030,
+      "name": "Patrick Ryals",
+      "character": "Vice Principal",
+      "order": 17,
+      "cast_id": 21,
+      "popularity": 0.2421,
+      "profile_path": null
+    },
+    {
+      "personId": 1039988,
+      "name": "Angela Hall",
+      "character": "Dr. Laura Genel",
+      "order": 18,
+      "cast_id": 22,
+      "popularity": 0.7185,
+      "profile_path": "/dKFdWnY7XK5KK7OjRDEOa7ntWwV.jpg"
+    },
+    {
+      "personId": 1077789,
+      "name": "Hunt Holman",
+      "character": "Nurse Barry",
+      "order": 19,
+      "cast_id": 23,
+      "popularity": 0.0732,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 42617,
+      "name": "Antonia Bird",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.3556,
+      "profile_path": "/65P6kUTtfinkafxNUYaezsm58Oz.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6270,
+      "name": "high school"
+    },
+    {
+      "id": 1252,
+      "name": "suicide attempt"
+    },
+    {
+      "id": 2803,
+      "name": "affectation"
+    },
+    {
+      "id": 3616,
+      "name": "college"
+    },
+    {
+      "id": 4232,
+      "name": "melancholy"
+    },
+    {
+      "id": 7312,
+      "name": "road trip"
+    },
+    {
+      "id": 10049,
+      "name": "teen angst"
+    },
+    {
+      "id": 11857,
+      "name": "mental institution"
+    },
+    {
+      "id": 18425,
+      "name": "teenage love"
+    },
+    {
+      "id": 41329,
+      "name": "mental illness"
+    },
+    {
+      "id": 156316,
+      "name": "troubled teen"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    },
+    {
+      "id": 188237,
+      "name": "teenage romance"
+    },
+    {
+      "id": 200918,
+      "name": "angry"
+    },
+    {
+      "id": 201456,
+      "name": "paranoid"
+    },
+    {
+      "id": 202371,
+      "name": "aggressive"
+    },
+    {
+      "id": 209792,
+      "name": "candid"
+    },
+    {
+      "id": 212737,
+      "name": "philosophical"
+    },
+    {
+      "id": 309974,
+      "name": "absurd"
+    },
+    {
+      "id": 325761,
+      "name": "admiring"
+    },
+    {
+      "id": 325762,
+      "name": "adoring"
+    },
+    {
+      "id": 325763,
+      "name": "ambiguous"
+    },
+    {
+      "id": 325764,
+      "name": "ambivalent"
+    },
+    {
+      "id": 325765,
+      "name": "amused"
+    },
+    {
+      "id": 325813,
+      "name": "exuberant"
+    },
+    {
+      "id": 325835,
+      "name": "melodramatic"
+    }
+  ]
+}

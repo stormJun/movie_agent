@@ -1,0 +1,327 @@
+{
+  "overview": "Death and violence anger twelve year old drug courier Fresh, who sets his rival employers against each other.",
+  "release_date": "1994-06-15",
+  "runtime": 114,
+  "budget": 3500000,
+  "revenue": 8094616,
+  "tmdb_vote_average": 7.2,
+  "tmdb_vote_count": 227,
+  "tmdb_popularity": 3.6698,
+  "original_language": "en",
+  "poster_path": "/uXRIIUzjDZZdWR2cUzPJ9eAqaHv.jpg",
+  "backdrop_path": "/rg0E4KETgFagjmoaucTnYDeWNVk.jpg",
+  "tmdb_genres_raw": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 14,
+      "name": "Miramax",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 75601,
+      "name": "Sean Nelson",
+      "character": "Michael (aka Fresh)",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.9087,
+      "profile_path": "/t6D4dQN6jZPsqspDarEGqNF80J1.jpg"
+    },
+    {
+      "personId": 4808,
+      "name": "Giancarlo Esposito",
+      "character": "Esteban",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 5.2377,
+      "profile_path": "/MJOo4QZgMAb3y8QzOUDVFQusQZ.jpg"
+    },
+    {
+      "personId": 2231,
+      "name": "Samuel L. Jackson",
+      "character": "Sam",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 9.5835,
+      "profile_path": "/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+    },
+    {
+      "personId": 10824,
+      "name": "N'Bushe Wright",
+      "character": "Nichole",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 0.7736,
+      "profile_path": "/jSXuSko6tZQ69LfJEMmNLiXEOS8.jpg"
+    },
+    {
+      "personId": 75602,
+      "name": "Ron Brice",
+      "character": "Corky",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 0.7418,
+      "profile_path": "/6Bi5z4HNkpL62XMqzI1eS735Mmj.jpg"
+    },
+    {
+      "personId": 7488,
+      "name": "Jean-Claude La Marre",
+      "character": "Jake",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 0.8289,
+      "profile_path": "/sMeXsS8U2ljL9axZCXxMm1BrF3u.jpg"
+    },
+    {
+      "personId": 10963,
+      "name": "José Zúñiga",
+      "character": "Lt. Perez",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 2.4138,
+      "profile_path": "/r6nFkJkMHP9tFDohwfav9Bf2rCR.jpg"
+    },
+    {
+      "personId": 75603,
+      "name": "Luis Lantigua",
+      "character": "Chuckie",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 0.3273,
+      "profile_path": null
+    },
+    {
+      "personId": 75604,
+      "name": "Yul Vazquez",
+      "character": "Chille",
+      "order": 8,
+      "cast_id": 9,
+      "popularity": 1.5655,
+      "profile_path": "/chAxqgeJVoRoQukw7zRYgtlo4KI.jpg"
+    },
+    {
+      "personId": 75605,
+      "name": "Cheryl Freeman",
+      "character": "Aunt Frances",
+      "order": 9,
+      "cast_id": 10,
+      "popularity": 0.3812,
+      "profile_path": "/tMg6Ln3Qx6EDYhqIx8Ha7qGHGH5.jpg"
+    },
+    {
+      "personId": 75606,
+      "name": "Anthony Thomas",
+      "character": "Red",
+      "order": 10,
+      "cast_id": 11,
+      "popularity": 0.4485,
+      "profile_path": null
+    },
+    {
+      "personId": 75607,
+      "name": "Curtis McClarin",
+      "character": "Darryl",
+      "order": 11,
+      "cast_id": 12,
+      "popularity": 0.7607,
+      "profile_path": "/17Jy67JrXRGUlUbC3BUSZdeo7D4.jpg"
+    },
+    {
+      "personId": 53572,
+      "name": "Charles Malik Whitfield",
+      "character": "Smokey",
+      "order": 12,
+      "cast_id": 13,
+      "popularity": 1.3235,
+      "profile_path": "/94C1eqU1IGj8IkWZNpRiimz77eW.jpg"
+    },
+    {
+      "personId": 8695,
+      "name": "Guillermo Díaz",
+      "character": "Spike",
+      "order": 13,
+      "cast_id": 15,
+      "popularity": 3.8126,
+      "profile_path": "/oso3tpCcf6wbjeHk2bpeKMV52zP.jpg"
+    },
+    {
+      "personId": 75609,
+      "name": "Robert M. Jimenez",
+      "character": "Salvadore",
+      "order": 14,
+      "cast_id": 16,
+      "popularity": 0.438,
+      "profile_path": "/3ehum3fmBTVzsS0cT6RRQRN6dk3.jpg"
+    },
+    {
+      "personId": 75610,
+      "name": "Jerome Butler",
+      "character": "James",
+      "order": 15,
+      "cast_id": 17,
+      "popularity": 0.3042,
+      "profile_path": null
+    },
+    {
+      "personId": 75611,
+      "name": "Cortez Nance Jr.",
+      "character": "Reggie",
+      "order": 16,
+      "cast_id": 18,
+      "popularity": 0.4902,
+      "profile_path": null
+    },
+    {
+      "personId": 75612,
+      "name": "Anthony Ruiz",
+      "character": "Hector",
+      "order": 17,
+      "cast_id": 19,
+      "popularity": 1.7051,
+      "profile_path": "/treRE1w3nFzPXtNVAiIEM4aah9E.jpg"
+    },
+    {
+      "personId": 75613,
+      "name": "Jacinto Taras Riddick",
+      "character": "Enriquez",
+      "order": 18,
+      "cast_id": 20,
+      "popularity": 0.6671,
+      "profile_path": "/6wOQDSJgTI5u3aEy3MdGieB2qme.jpg"
+    },
+    {
+      "personId": 75614,
+      "name": "Afi Bijou",
+      "character": "Hilary",
+      "order": 19,
+      "cast_id": 21,
+      "popularity": 0.8034,
+      "profile_path": "/9p9g6pHX8lBBsDDyPaxkKNHaUPT.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 52358,
+      "name": "Boaz Yakin",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.95,
+      "profile_path": "/fBMZdwXjIilRm4tWHs24fPnsVeq.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2231,
+      "name": "drug dealer"
+    },
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 316,
+      "name": "chess"
+    },
+    {
+      "id": 542,
+      "name": "street gang"
+    },
+    {
+      "id": 697,
+      "name": "loss of loved one"
+    },
+    {
+      "id": 1601,
+      "name": "war on drugs"
+    },
+    {
+      "id": 2149,
+      "name": "drug trafficking"
+    },
+    {
+      "id": 2394,
+      "name": "ghetto"
+    },
+    {
+      "id": 2235,
+      "name": "drug mule"
+    },
+    {
+      "id": 5707,
+      "name": "childhood trauma"
+    },
+    {
+      "id": 6691,
+      "name": "drug scene"
+    },
+    {
+      "id": 9748,
+      "name": "revenge"
+    },
+    {
+      "id": 10176,
+      "name": "gun battle"
+    },
+    {
+      "id": 10404,
+      "name": "dog fighting"
+    },
+    {
+      "id": 14964,
+      "name": "drugs"
+    },
+    {
+      "id": 15155,
+      "name": "witness to murder"
+    },
+    {
+      "id": 34079,
+      "name": "death"
+    },
+    {
+      "id": 41523,
+      "name": "brooklyn, new york city"
+    },
+    {
+      "id": 239274,
+      "name": "gangland killing"
+    },
+    {
+      "id": 253411,
+      "name": "death of a child"
+    },
+    {
+      "id": 307889,
+      "name": "rival gang"
+    },
+    {
+      "id": 319922,
+      "name": "gun death"
+    },
+    {
+      "id": 342829,
+      "name": "pitting ones enemy's against each other"
+    }
+  ]
+}

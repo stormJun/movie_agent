@@ -1,0 +1,254 @@
+{
+  "overview": "A biography of the Portuguese-born Brazilian singer Carmen Miranda, whose most distinctive feature was her tutti-frutti hat. From her arrival in the US as the \"Brazilian Bombshell\" to her Broadway career and Hollywood stardom in the 1940s.",
+  "release_date": "1995-04-13",
+  "runtime": 91,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 7.4,
+  "tmdb_vote_count": 8,
+  "tmdb_popularity": 0.1236,
+  "original_language": "pt",
+  "poster_path": "/aYYFx5SDQmhTwZnYxSA3r5xlAir.jpg",
+  "backdrop_path": "/qHsxpSVdMV6e0AN8WMdWRTozYi8.jpg",
+  "tmdb_genres_raw": [
+    "Documentary"
+  ],
+  "production_companies": [
+    {
+      "id": 40994,
+      "name": "RioFilme",
+      "origin_country": "BR"
+    },
+    {
+      "id": 5778,
+      "name": "Channel 4 Television",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "BR",
+      "name": "Brazil"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "pt",
+      "name": "Português"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 137907,
+      "name": "Carmen Miranda",
+      "character": "Self (archive footage)",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 0.4963,
+      "profile_path": "/e2i2owaoAXk1uBvf0plPLM43h7E.jpg"
+    },
+    {
+      "personId": 4753140,
+      "name": "Maria José Queiroz Miranda",
+      "character": "Self",
+      "order": 1,
+      "cast_id": 23,
+      "popularity": 0.2371,
+      "profile_path": null
+    },
+    {
+      "personId": 119300,
+      "name": "Aurora Miranda",
+      "character": "Self",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 0.7463,
+      "profile_path": "/vuJuI1mxdhve815sOla3nJf2B17.jpg"
+    },
+    {
+      "personId": 1467799,
+      "name": "Mario Cunha",
+      "character": "Self",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 0.2141,
+      "profile_path": null
+    },
+    {
+      "personId": 4753146,
+      "name": "Caribé da Rocha",
+      "character": "Self",
+      "order": 4,
+      "cast_id": 24,
+      "popularity": 0.5377,
+      "profile_path": null
+    },
+    {
+      "personId": 190783,
+      "name": "Laurindo Almeida",
+      "character": "Self",
+      "order": 5,
+      "cast_id": 22,
+      "popularity": 1.1144,
+      "profile_path": "/fCakWTsWxGOxRcpNSmQ9R5esjMX.jpg"
+    },
+    {
+      "personId": 1467800,
+      "name": "Synval Silva",
+      "character": "Self",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 0.6975,
+      "profile_path": null
+    },
+    {
+      "personId": 1678995,
+      "name": "Aloysio de Oliveira",
+      "character": "Self",
+      "order": 7,
+      "cast_id": 16,
+      "popularity": 0.3433,
+      "profile_path": null
+    },
+    {
+      "personId": 4355,
+      "name": "Cesar Romero",
+      "character": "Self",
+      "order": 8,
+      "cast_id": 4,
+      "popularity": 2.2145,
+      "profile_path": "/1UMk0r2rcMSpglnxd2QJMVgqZtI.jpg"
+    },
+    {
+      "personId": 94928,
+      "name": "Alice Faye",
+      "character": "Self",
+      "order": 9,
+      "cast_id": 6,
+      "popularity": 0.5677,
+      "profile_path": "/jC15KAoPnRWuuGWP2msKxWZsa3I.jpg"
+    },
+    {
+      "personId": 4753185,
+      "name": "Jeanne Allan",
+      "character": "Self",
+      "order": 10,
+      "cast_id": 25,
+      "popularity": 0.0379,
+      "profile_path": null
+    },
+    {
+      "personId": 4753213,
+      "name": "Estela Romero",
+      "character": "Self",
+      "order": 11,
+      "cast_id": 26,
+      "popularity": 0.0621,
+      "profile_path": null
+    },
+    {
+      "personId": 4753218,
+      "name": "Raul Smandek",
+      "character": "Self",
+      "order": 12,
+      "cast_id": 27,
+      "popularity": 0.0286,
+      "profile_path": null
+    },
+    {
+      "personId": 4753226,
+      "name": "Ivan Jack",
+      "character": "Self",
+      "order": 13,
+      "cast_id": 28,
+      "popularity": 0.0633,
+      "profile_path": null
+    },
+    {
+      "personId": 4753232,
+      "name": "Cássio Barsante",
+      "character": "Self",
+      "order": 14,
+      "cast_id": 29,
+      "popularity": 0.0853,
+      "profile_path": null
+    },
+    {
+      "personId": 4753233,
+      "name": "Jorginho Guinle",
+      "character": "Self",
+      "order": 15,
+      "cast_id": 30,
+      "popularity": 0.0311,
+      "profile_path": null
+    },
+    {
+      "personId": 565369,
+      "name": "Ted Allan",
+      "character": "Self",
+      "order": 16,
+      "cast_id": 31,
+      "popularity": 0.0143,
+      "profile_path": null
+    },
+    {
+      "personId": 13299,
+      "name": "Rita Moreno",
+      "character": "Self",
+      "order": 17,
+      "cast_id": 5,
+      "popularity": 2.5542,
+      "profile_path": "/zB0M77jr7tmsmWHEr2bWO2Xq66L.jpg"
+    },
+    {
+      "personId": 183726,
+      "name": "David Weir",
+      "character": "Voice",
+      "order": 18,
+      "cast_id": 21,
+      "popularity": 0.2537,
+      "profile_path": null
+    },
+    {
+      "personId": 552625,
+      "name": "Cynthia Adler",
+      "character": "Luella Hopper",
+      "order": 19,
+      "cast_id": 19,
+      "popularity": 0.2124,
+      "profile_path": "/h3l90Jiz57TLDGzN1ZtDUORi4OB.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1090082,
+      "name": "Helena Solberg",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.8904,
+      "profile_path": "/oIZDjFe30nu8FnxTBMdxBqHrF5S.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 14709,
+      "name": "profile"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    }
+  ]
+}

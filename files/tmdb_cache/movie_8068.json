@@ -1,0 +1,308 @@
+{
+  "overview": "El Mariachi plunges headfirst into the dark border underworld when he follows a trail of blood to the last of the infamous Mexican drug lords, Bucho, for an action-packed, bullet-riddled showdown. With the help of his friend and a beautiful bookstore owner, El Mariachi tracks Bucho, takes on his army of desperados, and leaves his own trail of blood.",
+  "release_date": "1995-08-25",
+  "runtime": 104,
+  "budget": 7000000,
+  "revenue": 25405445,
+  "tmdb_vote_average": 6.924,
+  "tmdb_vote_count": 3039,
+  "tmdb_popularity": 5.731,
+  "original_language": "en",
+  "poster_path": "/e3gwpBeXpvGZsxUya9zNym5QXrw.jpg",
+  "backdrop_path": "/rWFLgIRGXzECIbczgo7dmnwq55q.jpg",
+  "tmdb_genres_raw": [
+    "Thriller",
+    "Action",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 11705,
+      "name": "Los Hooligans Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3131,
+      "name": "Antonio Banderas",
+      "character": "El Mariachi",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 5.8003,
+      "profile_path": "/fce7zl6elUzsv7wudHFc7RgFtjD.jpg"
+    },
+    {
+      "personId": 3136,
+      "name": "Salma Hayek Pinault",
+      "character": "Carolina",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 8.923,
+      "profile_path": "/1qfYF7NGRObmeKR7IVXUFVIC0CN.jpg"
+    },
+    {
+      "personId": 22462,
+      "name": "Joaquim de Almeida",
+      "character": "Bucho",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 2.0839,
+      "profile_path": "/muXJn8kTEPxJaetkgCyS8RPEzTC.jpg"
+    },
+    {
+      "personId": 884,
+      "name": "Steve Buscemi",
+      "character": "Buscemi",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 5.9344,
+      "profile_path": "/kFzw4U5pExnLKZWhR48VSzL8Fre.jpg"
+    },
+    {
+      "personId": 11159,
+      "name": "Cheech Marin",
+      "character": "Short Bartender",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 2.6465,
+      "profile_path": "/eecHDNRn9K80ZcuSocsMhQb2G1i.jpg"
+    },
+    {
+      "personId": 115874,
+      "name": "Carlos Gómez",
+      "character": "Right Hand",
+      "order": 5,
+      "cast_id": 41,
+      "popularity": 2.0667,
+      "profile_path": "/4uCM3Y4QS2uaRJBYf7Yi67VvPHl.jpg"
+    },
+    {
+      "personId": 138,
+      "name": "Quentin Tarantino",
+      "character": "Pick-Up Guy",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 7.0693,
+      "profile_path": "/1gjcpAa99FAOWGnrUvHEXXsRs7o.jpg"
+    },
+    {
+      "personId": 53763,
+      "name": "Tito Larriva",
+      "character": "Tavo",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 0.6595,
+      "profile_path": "/fs5yxJAYBXCQU4ovIGGZhtbVJUm.jpg"
+    },
+    {
+      "personId": 53764,
+      "name": "Angel Aviles",
+      "character": "Zamira",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 1.8328,
+      "profile_path": "/3WS70GSDZJaeDxuBog5QRt8wArp.jpg"
+    },
+    {
+      "personId": 11160,
+      "name": "Danny Trejo",
+      "character": "Navajas",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 5.4406,
+      "profile_path": "/7JrUkRGBscZ1Hy5JinaaXjjzSCF.jpg"
+    },
+    {
+      "personId": 53765,
+      "name": "Abraham Verduzco",
+      "character": "Niño",
+      "order": 10,
+      "cast_id": 13,
+      "popularity": 0.7464,
+      "profile_path": null
+    },
+    {
+      "personId": 20498,
+      "name": "Carlos Gallardo",
+      "character": "Campa",
+      "order": 11,
+      "cast_id": 14,
+      "popularity": 0.6094,
+      "profile_path": "/1ZaDFJtyjAQUMDah86qJtEEjW7A.jpg"
+    },
+    {
+      "personId": 53766,
+      "name": "Albert Michel Jr.",
+      "character": "Quino",
+      "order": 12,
+      "cast_id": 15,
+      "popularity": 0.881,
+      "profile_path": null
+    },
+    {
+      "personId": 6897,
+      "name": "David Alvarado",
+      "character": "Buddy",
+      "order": 13,
+      "cast_id": 16,
+      "popularity": 0.3466,
+      "profile_path": "/diL4akWz4ip9Zdq372JHFFMVaLq.jpg"
+    },
+    {
+      "personId": 4666,
+      "name": "Angela Lanza",
+      "character": "Tourist Girl",
+      "order": 14,
+      "cast_id": 17,
+      "popularity": 1.7099,
+      "profile_path": "/AwAZH8nYRdh5awud9TPHliPwnmi.jpg"
+    },
+    {
+      "personId": 100260,
+      "name": "Mike Moroff",
+      "character": "Shrug",
+      "order": 15,
+      "cast_id": 42,
+      "popularity": 1.4978,
+      "profile_path": "/ani0XQFTLNI6zf1PeKEkw0WtIHD.jpg"
+    },
+    {
+      "personId": 1062395,
+      "name": "Robert Arevalo",
+      "character": "Opponent",
+      "order": 16,
+      "cast_id": 43,
+      "popularity": 0.5381,
+      "profile_path": "/ehYjCU0pwi8wbwrAx37VXyeJ0IT.jpg"
+    },
+    {
+      "personId": 1106684,
+      "name": "Gerardo Moscoso",
+      "character": "Priest",
+      "order": 17,
+      "cast_id": 44,
+      "popularity": 0.2597,
+      "profile_path": null
+    },
+    {
+      "personId": 57471,
+      "name": "Peter Marquardt",
+      "character": "Moco",
+      "order": 18,
+      "cast_id": 45,
+      "popularity": 1.3393,
+      "profile_path": "/hUFTLzot9V0S0B7MJRHmgonTeug.jpg"
+    },
+    {
+      "personId": 57469,
+      "name": "Consuelo Gómez",
+      "character": "Domino",
+      "order": 19,
+      "cast_id": 46,
+      "popularity": 1.0605,
+      "profile_path": "/afzKnG2rdZUKDXz0ySvSHg3deqY.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2294,
+      "name": "Robert Rodriguez",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.4457,
+      "profile_path": "/4Cwsa3PqeGRGtsgKoYOyxql0uUy.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 75,
+      "name": "gunslinger"
+    },
+    {
+      "id": 797,
+      "name": "showdown"
+    },
+    {
+      "id": 534,
+      "name": "mexico"
+    },
+    {
+      "id": 502,
+      "name": "ambush"
+    },
+    {
+      "id": 2708,
+      "name": "hitman"
+    },
+    {
+      "id": 953,
+      "name": "guitar"
+    },
+    {
+      "id": 139,
+      "name": "anti terror"
+    },
+    {
+      "id": 3458,
+      "name": "bartender"
+    },
+    {
+      "id": 9748,
+      "name": "revenge"
+    },
+    {
+      "id": 10044,
+      "name": "tragic hero"
+    },
+    {
+      "id": 10950,
+      "name": "shootout"
+    },
+    {
+      "id": 14575,
+      "name": "mariachi"
+    },
+    {
+      "id": 14601,
+      "name": "explosion"
+    },
+    {
+      "id": 14707,
+      "name": "brutality"
+    },
+    {
+      "id": 18026,
+      "name": "drug lord"
+    },
+    {
+      "id": 41372,
+      "name": "leg brace"
+    },
+    {
+      "id": 154889,
+      "name": "concealed weapon"
+    },
+    {
+      "id": 155851,
+      "name": "book store"
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "overview": "The seeds of love are planted when Lisa, a high-powered investment banker, receives flowers from a secret admirer. But when his fairy-tale fantasies clash with her workaholic ways, they soon find out that sometimes, it's harder than it seems for love to conquer all.",
+  "release_date": "1996-01-26",
+  "runtime": 87,
+  "budget": 0,
+  "revenue": 19030691,
+  "tmdb_vote_average": 5.847,
+  "tmdb_vote_count": 121,
+  "tmdb_popularity": 1.5319,
+  "original_language": "en",
+  "poster_path": "/zCXvHCEm8334d0d646ldDkXnKws.jpg",
+  "backdrop_path": "/p4JS5EvUKzCkqgHZdW7zdvm7sl.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 4286,
+      "name": "Juno Pix",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2224,
+      "name": "Christian Slater",
+      "character": "Lewis Farrell",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.3336,
+      "profile_path": "/6ww3uweEEXMlvtNjTlgBHxLErPF.jpg"
+    },
+    {
+      "personId": 31140,
+      "name": "Mary Stuart Masterson",
+      "character": "Lisa Walker",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.7279,
+      "profile_path": "/sxQksTRKrubxcfjA5f1cQIr7dk9.jpg"
+    },
+    {
+      "personId": 21063,
+      "name": "Pamela Adlon",
+      "character": "Kim",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.7237,
+      "profile_path": "/5eIRHUbNOH7ibXa0IfUfFvj5I5L.jpg"
+    },
+    {
+      "personId": 16851,
+      "name": "Josh Brolin",
+      "character": "Danny",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 8.493,
+      "profile_path": "/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+    },
+    {
+      "personId": 4890,
+      "name": "Brian Tarantina",
+      "character": "Randy",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.5269,
+      "profile_path": "/1EysTrCLtGQ0rQBg6EqZkOWoamR.jpg"
+    },
+    {
+      "personId": 10386,
+      "name": "Debra Monk",
+      "character": "Lewis' Mom",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 1.545,
+      "profile_path": "/qdb43ggK8PhAoQO357hE5f5Gw3O.jpg"
+    },
+    {
+      "personId": 9572,
+      "name": "Mary Alice",
+      "character": "Alice",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 1.0301,
+      "profile_path": "/jniFVDRjYyIxx5EFTR2kzpFAB02.jpg"
+    },
+    {
+      "personId": 26258,
+      "name": "Kenneth Cranham",
+      "character": "Simon",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 1.5865,
+      "profile_path": "/9lzTbNgaoArlxpEkYtWQfOyiYwu.jpg"
+    },
+    {
+      "personId": 18316,
+      "name": "Ally Walker",
+      "character": "Wendy",
+      "order": 8,
+      "cast_id": 9,
+      "popularity": 2.1835,
+      "profile_path": "/kuR6HUF1D0Xk5o5nShgWDBMV2gx.jpg"
+    },
+    {
+      "personId": 38691,
+      "name": "Anne Pitoniak",
+      "character": "Grandma Jean",
+      "order": 9,
+      "cast_id": 10,
+      "popularity": 0.5044,
+      "profile_path": "/xlKHdNrBCfCL7xJtmjFkWtoibkm.jpg"
+    },
+    {
+      "personId": 18274,
+      "name": "Michael Haley",
+      "character": "Lewis' Dad",
+      "order": 10,
+      "cast_id": 11,
+      "popularity": 0.6703,
+      "profile_path": "/7E5JI9exPaGp5smJV1mNdK2Rq5w.jpg"
+    },
+    {
+      "personId": 91029,
+      "name": "Cass Morgan",
+      "character": "Aunt Meg",
+      "order": 11,
+      "cast_id": 12,
+      "popularity": 0.4827,
+      "profile_path": "/8vZGqpEJRR4b2Xa2qX3ekvaDuF.jpg"
+    },
+    {
+      "personId": 9576,
+      "name": "Gina Torres",
+      "character": "Francine",
+      "order": 12,
+      "cast_id": 13,
+      "popularity": 2.9994,
+      "profile_path": "/ukDNHgvEgdU95eaw6pngiAPucv4.jpg"
+    },
+    {
+      "personId": 85354,
+      "name": "Nick Tate",
+      "character": "Bayard",
+      "order": 13,
+      "cast_id": 14,
+      "popularity": 1.3706,
+      "profile_path": "/N3wyGlm8JPSaiqdWyO78wAA8GJ.jpg"
+    },
+    {
+      "personId": 84520,
+      "name": "Víctor Sierra",
+      "character": "Jimmy",
+      "order": 14,
+      "cast_id": 15,
+      "popularity": 0.3493,
+      "profile_path": null
+    },
+    {
+      "personId": 91030,
+      "name": "Michael Mantell",
+      "character": "Sam",
+      "order": 15,
+      "cast_id": 16,
+      "popularity": 1.039,
+      "profile_path": "/wZ8XkAkpok05jQthvy0H8iGoXrz.jpg"
+    },
+    {
+      "personId": 91031,
+      "name": "Zachary Chaltiel",
+      "character": "Jason",
+      "order": 16,
+      "cast_id": 17,
+      "popularity": 0.0143,
+      "profile_path": null
+    },
+    {
+      "personId": 91032,
+      "name": "Claire Jacobs",
+      "character": "Lisa's Secretary / Claire Mari Jacobs",
+      "order": 17,
+      "cast_id": 18,
+      "popularity": 0.3322,
+      "profile_path": null
+    },
+    {
+      "personId": 91033,
+      "name": "Paul Cassell",
+      "character": "1st Executive",
+      "order": 18,
+      "cast_id": 19,
+      "popularity": 0.7858,
+      "profile_path": "/elWUnNAykhffzMzoiW2qdyl8TU.jpg"
+    },
+    {
+      "personId": 37252,
+      "name": "Yvonne Zima",
+      "character": "Young Lisa",
+      "order": 19,
+      "cast_id": 20,
+      "popularity": 2.3098,
+      "profile_path": "/x2waGVw4X5xhGrtXqD5EWoPVqjY.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 10296,
+      "name": "Michael Goldenberg",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.7203,
+      "profile_path": "/zMC1YO2iJYZ8jN5hBaEIj1grTgC.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2778,
+      "name": "florist"
+    },
+    {
+      "id": 10235,
+      "name": "family relationships"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "overview": "The Journey of August King is a multi-dimensional drama about a North Carolina farmer in 1815. August King, a widower, is on his way home as he does every year after selling his produce and purchasing the stock and goods he will need to survive the winter. On his journey, he comes upon a run-away slave, a young woman about 19 and August King must decide to violate the law and help this slave to freedom or else leave her to be hunted down and, ultimately, returned to her slave owner.",
+  "release_date": "1995-09-14",
+  "runtime": 91,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.7,
+  "tmdb_vote_count": 15,
+  "tmdb_popularity": 0.5713,
+  "original_language": "en",
+  "poster_path": "/1kWPXnCyUo20QCrv8lwQhTFPj9f.jpg",
+  "backdrop_path": "/MaRsLHjqwAjRfVyL0KN0EdzAzz.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 14,
+      "name": "Miramax",
+      "origin_country": "US"
+    },
+    {
+      "id": 4665,
+      "name": "Addis-Wechsler Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 12261,
+      "name": "Jason Patric",
+      "character": "August King",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 3.0482,
+      "profile_path": "/iv21ZjE90f9QNiNONKF9Lp6ZD68.jpg"
+    },
+    {
+      "personId": 9030,
+      "name": "Thandiwe Newton",
+      "character": "Annalees",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 5.7174,
+      "profile_path": "/hZQLvxj7nV7pBrRyWTvWVz1CDi8.jpg"
+    },
+    {
+      "personId": 16476,
+      "name": "Larry Drake",
+      "character": "Olaf Singletary",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 1.1351,
+      "profile_path": "/vPI6gPoWskUMWla92MOiSD1OuBt.jpg"
+    },
+    {
+      "personId": 8975,
+      "name": "Sam Waterston",
+      "character": "Mooney Wright",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 2.0739,
+      "profile_path": "/cSCy9Ng1QJSbEi440342bL71ceF.jpg"
+    },
+    {
+      "personId": 11867,
+      "name": "Eric Mabius",
+      "character": "Hal Wright",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 2.3292,
+      "profile_path": "/gfTyV38S5BzV9pZnIducUgo68hK.jpg"
+    },
+    {
+      "personId": 233294,
+      "name": "Sarah-Jane Wylde",
+      "character": "Ida Wright",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 0.1294,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 72624,
+      "name": "John Duigan",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6907,
+      "profile_path": "/cPVXXSgKexkzAF6dy7NeZIfeXqb.jpg"
+    }
+  ],
+  "keywords": []
+}

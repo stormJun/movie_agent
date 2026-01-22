@@ -1,0 +1,180 @@
+{
+  "overview": "Morgan Leafy is a secretary to the British High Commissioner to an Africa nation. Leafy is a man that makes himself useful to his boss, the snobbish Arthur Fanshawe, who has no clue about what's going on around him, but who wants to use his secretary to carry on his dirty work, which involves getting one of the most powerful men in the country to do business with his country.The young secretary has an eye for beautiful women around him, especially Hazel, a native beauty, with whom he is having an affair. Things get complicated because Sam Adekunle, a man running for president of the country, wants a favor from Leafy in return after he has accepted the invitation to visit London. The proposition involves swaying a prominent doctor's opposition to a plan that will make Adenkule filthy rich.",
+  "release_date": "1994-07-14",
+  "runtime": 94,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 4.857,
+  "tmdb_vote_count": 42,
+  "tmdb_popularity": 0.4735,
+  "original_language": "en",
+  "poster_path": "/4BBZLZVEANsnCVqIF9fgf0bshQD.jpg",
+  "backdrop_path": "/tElnLSJ7XH3KXFxJOTmw3MtAyV7.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 37,
+      "name": "Gramercy Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 27753,
+      "name": "Colin Friels",
+      "character": "Morgan Leafy, 1st Secretary of the High Commissioner",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 1.8252,
+      "profile_path": "/9ubzrtBT98thY80stfycCGRUEe3.jpg"
+    },
+    {
+      "personId": 738,
+      "name": "Sean Connery",
+      "character": "Dr. Alex Murray",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 3.6101,
+      "profile_path": "/iVr9HDPGIOhfUNO7LKt9g0MSHRP.jpg"
+    },
+    {
+      "personId": 12074,
+      "name": "John Lithgow",
+      "character": "Arthur Fanshawe, British High Commissioner",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 4.459,
+      "profile_path": "/8Y1sjBdnVR483S8PrnAQzlESwhx.jpg"
+    },
+    {
+      "personId": 10168,
+      "name": "Diana Rigg",
+      "character": "Chloe Fanshawe",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 3.6718,
+      "profile_path": "/tFZei9BMHqau7XN2PeQ0M24RT7G.jpg"
+    },
+    {
+      "personId": 12656,
+      "name": "Joanne Whalley",
+      "character": "Celia Adekunle",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 2.6193,
+      "profile_path": "/ItU1ROQkWkzabwdFG3H4VndgBb.jpg"
+    },
+    {
+      "personId": 20959,
+      "name": "Louis Gossett Jr.",
+      "character": "Prof. Sam Adekunle",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 1.6154,
+      "profile_path": "/27SplfxhM8Do78mYOyi43t1G3fy.jpg"
+    },
+    {
+      "personId": 57096,
+      "name": "Maynard Eziashi",
+      "character": "Friday, Leafy's Houseman",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 1.2928,
+      "profile_path": "/5sLTWKYiqLVNg8NLky3EnUrZ6Ca.jpg"
+    },
+    {
+      "personId": 20304,
+      "name": "Jeremy Crutchley",
+      "character": "Dickie Dalmire",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 1.7498,
+      "profile_path": "/cXFWc8L1CyCfzpiBCzmSH5OAzgI.jpg"
+    },
+    {
+      "personId": 2144472,
+      "name": "Sarah-Jane Fenton",
+      "character": "Priscilla Fanshawe",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 0.4006,
+      "profile_path": null
+    },
+    {
+      "personId": 2418106,
+      "name": "Jackie Mofokeng",
+      "character": "Hazel, Leafy's Mistress",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 0.0517,
+      "profile_path": null
+    },
+    {
+      "personId": 2418107,
+      "name": "Daphne Greenwood",
+      "character": "Duchess",
+      "order": 10,
+      "cast_id": 13,
+      "popularity": 0.1757,
+      "profile_path": null
+    },
+    {
+      "personId": 975310,
+      "name": "Themba Ndaba",
+      "character": "Kojo",
+      "order": 11,
+      "cast_id": 14,
+      "popularity": 1.2163,
+      "profile_path": "/4PgkxS0NNs5qcaS2RlJq7U42D4c.jpg"
+    },
+    {
+      "personId": 2418108,
+      "name": "David Phetoe",
+      "character": "Isaiah",
+      "order": 12,
+      "cast_id": 15,
+      "popularity": 0.2376,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 5696,
+      "name": "Bruce Beresford",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7048,
+      "profile_path": "/p5p1YhKTh1EOSvf1NO96oBQI2Ll.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2702,
+      "name": "golf"
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "overview": "A foul-mouthed finishing school graduate mistakenly winds up on an ill-fated fishing boat, and faces the wrath of a crew that considers him bad luck.",
+  "release_date": "1994-01-07",
+  "runtime": 80,
+  "budget": 0,
+  "revenue": 3662459,
+  "tmdb_vote_average": 5.165,
+  "tmdb_vote_count": 109,
+  "tmdb_popularity": 5.218,
+  "original_language": "en",
+  "poster_path": "/xy2BzE3siqU67VQCQ2k4xideNNM.jpg",
+  "backdrop_path": "/fTvDZ46fRW9zcz5myEBuE5Dp6SS.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Fantasy",
+    "Adventure",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 9195,
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 8835,
+      "name": "Skellington Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1534,
+      "name": "Chris Elliott",
+      "character": "Nathanial Mayweather",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.8422,
+      "profile_path": "/oZFGgyDCZaanGfco1UdfxM4rHAJ.jpg"
+    },
+    {
+      "personId": 22134,
+      "name": "Ritch Brinkley",
+      "character": "Captain Graybar",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.2111,
+      "profile_path": "/x7W7jxIHn9DdJ8RhoZ0ippR3OWw.jpg"
+    },
+    {
+      "personId": 16433,
+      "name": "James Gammon",
+      "character": "Paps",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.6247,
+      "profile_path": "/ar7am7PST1c91LYPYnrmJJxc9zH.jpg"
+    },
+    {
+      "personId": 1535,
+      "name": "Brian Doyle-Murray",
+      "character": "Skunk",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.5426,
+      "profile_path": "/3RFH00449ppcwA0tkD1uqDvP865.jpg"
+    },
+    {
+      "personId": 591,
+      "name": "Brion James",
+      "character": "Big Teddy",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 2.0646,
+      "profile_path": "/qy5jIIsWrNCV1OVRaUiqYNhLLVT.jpg"
+    },
+    {
+      "personId": 4766,
+      "name": "Melora Walters",
+      "character": "Trina",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 1.962,
+      "profile_path": "/FSxiDBekrKgmzow1j3UhmNHOhI.jpg"
+    },
+    {
+      "personId": 4257,
+      "name": "I.M. Hobson",
+      "character": "Headmaster Timmons",
+      "order": 6,
+      "cast_id": 25,
+      "popularity": 1.1738,
+      "profile_path": "/iU0BwBTILhQ4qWrDVryxwa1aI7N.jpg"
+    },
+    {
+      "personId": 1212484,
+      "name": "Alex Nevil",
+      "character": "Thomas",
+      "order": 7,
+      "cast_id": 26,
+      "popularity": 0.4657,
+      "profile_path": "/411W2HmzZFzU9OIWOfaJOIY79DQ.jpg"
+    },
+    {
+      "personId": 100554,
+      "name": "David H. Sterry",
+      "character": "Lance",
+      "order": 8,
+      "cast_id": 27,
+      "popularity": 0.8162,
+      "profile_path": null
+    },
+    {
+      "personId": 178232,
+      "name": "Bob Elliott",
+      "character": "William Mayweather",
+      "order": 9,
+      "cast_id": 28,
+      "popularity": 0.6268,
+      "profile_path": "/ApysF6vUAU5IdsuFQMtgjkXcfbs.jpg"
+    },
+    {
+      "personId": 1421754,
+      "name": "Edward Flotard",
+      "character": "Limo Driver",
+      "order": 10,
+      "cast_id": 29,
+      "popularity": 0.3196,
+      "profile_path": null
+    },
+    {
+      "personId": 12077,
+      "name": "Jim Cummings",
+      "character": "Cupcake (voice)",
+      "order": 11,
+      "cast_id": 30,
+      "popularity": 3.4748,
+      "profile_path": "/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg"
+    },
+    {
+      "personId": 136487,
+      "name": "David Letterman",
+      "character": "Old Salt In Fishing Village",
+      "order": 12,
+      "cast_id": 17,
+      "popularity": 0.9396,
+      "profile_path": "/nk1rMabb84e52G2oax6yO9FBiAd.jpg"
+    },
+    {
+      "personId": 37042,
+      "name": "Ann Magnuson",
+      "character": "Calli",
+      "order": 13,
+      "cast_id": 8,
+      "popularity": 1.2365,
+      "profile_path": "/gzT97QR7Q6ZWkDttAVIpO0pyoM2.jpg"
+    },
+    {
+      "personId": 6725,
+      "name": "Russ Tamblyn",
+      "character": "Chocki",
+      "order": 14,
+      "cast_id": 18,
+      "popularity": 2.4109,
+      "profile_path": "/yNy2xvNTGVvFxIQthtxA5md6HDN.jpg"
+    },
+    {
+      "personId": 70233,
+      "name": "Ricki Lake",
+      "character": "Figurehead",
+      "order": 15,
+      "cast_id": 10,
+      "popularity": 1.4281,
+      "profile_path": "/e49u3hZXgOuhBMMDxOVgY2Mrt8s.jpg"
+    },
+    {
+      "personId": 5170,
+      "name": "Mike Starr",
+      "character": "Mulligan",
+      "order": 16,
+      "cast_id": 9,
+      "popularity": 2.6759,
+      "profile_path": "/hJGhV91dSUiFJ8GwGDTEEri79LX.jpg"
+    },
+    {
+      "personId": 28637,
+      "name": "Andy Richter",
+      "character": "Kenny",
+      "order": 17,
+      "cast_id": 7,
+      "popularity": 3.2156,
+      "profile_path": "/qazhLkyKOsPmdOQSaUWWbbUjs9q.jpg"
+    },
+    {
+      "personId": 658,
+      "name": "Alfred Molina",
+      "character": "School Professor (uncredited)",
+      "order": 18,
+      "cast_id": 14,
+      "popularity": 4.6321,
+      "profile_path": "/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+    },
+    {
+      "personId": 1551605,
+      "name": "Ralph Moratz",
+      "character": "Finishing School Groundskeeper (uncredited)",
+      "order": 19,
+      "cast_id": 31,
+      "popularity": 0.513,
+      "profile_path": "/ax2d7RI6kcHIzV6PBnoE7hafNbs.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 57107,
+      "name": "Adam Resnick",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5064,
+      "profile_path": null
+    }
+  ],
+  "keywords": []
+}

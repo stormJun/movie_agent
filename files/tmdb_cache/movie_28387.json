@@ -1,0 +1,265 @@
+{
+  "overview": "After college graduation, Grover's girlfriend Jane tells him she's moving to Prague to study writing. Grover declines to accompany her, deciding instead to move in with several friends, all of whom can't quite work up the inertia to escape their university's pull. Nobody wants to make any big decisions that would radically alter his life, yet none of them wants to end up like Chet, the professional student who tends bar and is in his tenth year of university studies.",
+  "release_date": "1995-10-06",
+  "runtime": 96,
+  "budget": 0,
+  "revenue": 718490,
+  "tmdb_vote_average": 6.2,
+  "tmdb_vote_count": 229,
+  "tmdb_popularity": 0.717,
+  "original_language": "en",
+  "poster_path": "/ynAtSpTou7snNOq32djzILw9VCA.jpg",
+  "backdrop_path": "/hyG7Y6r0aQnE5ssoTyq8xSQmS25.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 5841,
+      "name": "Castleberg Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 5842,
+      "name": "Sandollar Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 4063,
+      "name": "Trimark Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 52419,
+      "name": "Josh Hamilton",
+      "character": "Grover",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.8112,
+      "profile_path": "/7nuAUPd7E8iOE5lhUcNpogS2akP.jpg"
+    },
+    {
+      "personId": 46423,
+      "name": "Olivia D'Abo",
+      "character": "Jane",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 4.5974,
+      "profile_path": "/sQTqkjNyUSl25cIDr8xhjmO4DhA.jpg"
+    },
+    {
+      "personId": 78190,
+      "name": "Chris Eigeman",
+      "character": "Max",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 0.8686,
+      "profile_path": "/tXzouEBdfTQE3tUYZhfG5NDlJG3.jpg"
+    },
+    {
+      "personId": 7489,
+      "name": "Parker Posey",
+      "character": "Miami",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 3.2512,
+      "profile_path": "/yoFt75JfGUqQ6EV8qN6fckQuElk.jpg"
+    },
+    {
+      "personId": 81373,
+      "name": "Jason Wiles",
+      "character": "Skippy",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 1.3772,
+      "profile_path": "/e0XIAjLnanYR1GYgfs3hNlibtUi.jpg"
+    },
+    {
+      "personId": 20047,
+      "name": "Cara Buono",
+      "character": "Kate",
+      "order": 5,
+      "cast_id": 23,
+      "popularity": 23.4882,
+      "profile_path": "/QQv5pitEXvrGR4sgECvNDLwhTG.jpg"
+    },
+    {
+      "personId": 52930,
+      "name": "Carlos Jacott",
+      "character": "Otis",
+      "order": 6,
+      "cast_id": 3,
+      "popularity": 0.9574,
+      "profile_path": "/jtZ0Eh0nS0qHUEP20iT02LTYoX2.jpg"
+    },
+    {
+      "personId": 827,
+      "name": "Elliott Gould",
+      "character": "Grover's Dad",
+      "order": 7,
+      "cast_id": 21,
+      "popularity": 2.8704,
+      "profile_path": "/vqjRBbuqXOvalAx5JZEaWx6kQOw.jpg"
+    },
+    {
+      "personId": 7036,
+      "name": "Eric Stoltz",
+      "character": "Chet",
+      "order": 8,
+      "cast_id": 5,
+      "popularity": 3.934,
+      "profile_path": "/idFuM00MeVmwGAiqvDaJcBiLAmD.jpg"
+    },
+    {
+      "personId": 21967,
+      "name": "Samuel Gould",
+      "character": "Pete",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 0.6934,
+      "profile_path": null
+    },
+    {
+      "personId": 10130,
+      "name": "Catherine Kellner",
+      "character": "Gail",
+      "order": 10,
+      "cast_id": 13,
+      "popularity": 1.4428,
+      "profile_path": "/uBCxiv5z4Y3o7600GffU8BdPROu.jpg"
+    },
+    {
+      "personId": 1052883,
+      "name": "Jonathan Baumbach",
+      "character": "Professor",
+      "order": 11,
+      "cast_id": 14,
+      "popularity": 0.0901,
+      "profile_path": null
+    },
+    {
+      "personId": 1219214,
+      "name": "John Lehr",
+      "character": "Louis",
+      "order": 12,
+      "cast_id": 26,
+      "popularity": 2.4133,
+      "profile_path": "/lygAk9A7forypGW7H61m3hcalKH.jpg"
+    },
+    {
+      "personId": 54474,
+      "name": "Peter Czernin",
+      "character": "Lester",
+      "order": 13,
+      "cast_id": 16,
+      "popularity": 0.4425,
+      "profile_path": "/mgsZQ959ro3lB2iJUcFkvLxojH3.jpg"
+    },
+    {
+      "personId": 55207,
+      "name": "Eliza Roberts",
+      "character": "Josselyn",
+      "order": 14,
+      "cast_id": 17,
+      "popularity": 2.4589,
+      "profile_path": "/dnVfqF9qBajS19dmZ9AHrUMoSpb.jpg"
+    },
+    {
+      "personId": 76989,
+      "name": "Christopher Reed",
+      "character": "Friedrich",
+      "order": 15,
+      "cast_id": 18,
+      "popularity": 1.5763,
+      "profile_path": null
+    },
+    {
+      "personId": 5656,
+      "name": "Noah Baumbach",
+      "character": "Danny",
+      "order": 16,
+      "cast_id": 19,
+      "popularity": 1.9586,
+      "profile_path": "/pNCt2m8jfiX3YOiCdnJT3OPxNvm.jpg"
+    },
+    {
+      "personId": 3449664,
+      "name": "Jason S. Kassin",
+      "character": "Freddy",
+      "order": 17,
+      "cast_id": 44,
+      "popularity": 0.4234,
+      "profile_path": null
+    },
+    {
+      "personId": 97600,
+      "name": "David DeLuise",
+      "character": "Bouncer",
+      "order": 18,
+      "cast_id": 45,
+      "popularity": 1.3667,
+      "profile_path": "/sVhASyuFr0sZeKzaO7q2kEiSSkg.jpg"
+    },
+    {
+      "personId": 3449665,
+      "name": "Thea Goodman",
+      "character": "Friedrich's Date",
+      "order": 19,
+      "cast_id": 46,
+      "popularity": 0.2609,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 5656,
+      "name": "Noah Baumbach",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.9586,
+      "profile_path": "/pNCt2m8jfiX3YOiCdnJT3OPxNvm.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6054,
+      "name": "friendship"
+    },
+    {
+      "id": 3616,
+      "name": "college"
+    },
+    {
+      "id": 3230,
+      "name": "male friendship"
+    },
+    {
+      "id": 8039,
+      "name": "campus"
+    },
+    {
+      "id": 34053,
+      "name": "video store"
+    },
+    {
+      "id": 171206,
+      "name": "graduate"
+    }
+  ]
+}

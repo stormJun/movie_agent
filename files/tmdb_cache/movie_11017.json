@@ -1,0 +1,263 @@
+{
+  "overview": "Billy Madison is the 27 year-old son of Bryan Madison, a very rich man who has made his living in the hotel industry. Billy stands to inherit his father's empire, but only if he can make it through all 12 grades, 2 weeks per grade, to prove that he has what it takes to run the family business.",
+  "release_date": "1995-02-10",
+  "runtime": 90,
+  "budget": 10000000,
+  "revenue": 26488734,
+  "tmdb_vote_average": 6.191,
+  "tmdb_vote_count": 1746,
+  "tmdb_popularity": 5.2319,
+  "original_language": "en",
+  "poster_path": "/sOdgtJdFalL9kRKaeJItARLTAEq.jpg",
+  "backdrop_path": "/xtgQkD280doGaFOL3c2LVokz3tt.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 6365,
+      "name": "Jack Giarraputo Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 3929,
+      "name": "Robert Simonds Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 19292,
+      "name": "Adam Sandler",
+      "character": "Billy Madison",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 6.2191,
+      "profile_path": "/gLkLCsQdwDDPabRhKPB25nGtKwS.jpg"
+    },
+    {
+      "personId": 11367,
+      "name": "Bradley Whitford",
+      "character": "Eric Gordon",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 4.2732,
+      "profile_path": "/hy3jwrcpmEpM7jLkrhlqQb1TfGN.jpg"
+    },
+    {
+      "personId": 33489,
+      "name": "Josh Mostel",
+      "character": "Principal Max Anderson",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 1.5545,
+      "profile_path": "/zX8vyQ9JdWsr1cmPvvyrw01aPiQ.jpg"
+    },
+    {
+      "personId": 20751,
+      "name": "Bridgette Wilson-Sampras",
+      "character": "Veronica Vaughn",
+      "order": 3,
+      "cast_id": 3,
+      "popularity": 2.5286,
+      "profile_path": "/zq6uzzL87CtfgxD4G3bLTcgUUTe.jpg"
+    },
+    {
+      "personId": 7333,
+      "name": "Darren McGavin",
+      "character": "Brian Madison",
+      "order": 4,
+      "cast_id": 2,
+      "popularity": 2.0922,
+      "profile_path": "/xD9rZ6SLGPVs6QHjart68QhjVTt.jpg"
+    },
+    {
+      "personId": 77075,
+      "name": "Norm Macdonald",
+      "character": "Frank",
+      "order": 5,
+      "cast_id": 15,
+      "popularity": 1.9268,
+      "profile_path": "/pGOpdt9Xy9YO2nUEWgp8G89KC5r.jpg"
+    },
+    {
+      "personId": 188694,
+      "name": "Mark Beltzman",
+      "character": "Jack",
+      "order": 6,
+      "cast_id": 16,
+      "popularity": 1.9829,
+      "profile_path": "/97oUiYEjKWdATDRDvJvL3Lug4qo.jpg"
+    },
+    {
+      "personId": 11519,
+      "name": "Larry Hankin",
+      "character": "Carl Alphonse",
+      "order": 7,
+      "cast_id": 17,
+      "popularity": 2.6876,
+      "profile_path": "/2uR8SZ9geiSQOpBhKrerh9qY7CX.jpg"
+    },
+    {
+      "personId": 77226,
+      "name": "Theresa Merritt",
+      "character": "Juanita",
+      "order": 8,
+      "cast_id": 18,
+      "popularity": 0.6755,
+      "profile_path": "/nPr9sAu3x2W4XvitP2cs3bHuyKy.jpg"
+    },
+    {
+      "personId": 954122,
+      "name": "Dina Platias",
+      "character": "Miss Lippy",
+      "order": 9,
+      "cast_id": 19,
+      "popularity": 2.2114,
+      "profile_path": "/sxWIaOb5DzkcMC5TTnH6jrhz2wm.jpg"
+    },
+    {
+      "personId": 44155,
+      "name": "Hrant Alianak",
+      "character": "Pete",
+      "order": 10,
+      "cast_id": 20,
+      "popularity": 1.3437,
+      "profile_path": "/8heYIeUkBDqGSOuUCia4XS2DdvV.jpg"
+    },
+    {
+      "personId": 185154,
+      "name": "Vincent Marino",
+      "character": "Cook",
+      "order": 11,
+      "cast_id": 21,
+      "popularity": 0.4635,
+      "profile_path": null
+    },
+    {
+      "personId": 1073822,
+      "name": "Christopher Kelk",
+      "character": "Rollo the Janitor",
+      "order": 12,
+      "cast_id": 23,
+      "popularity": 0.5987,
+      "profile_path": null
+    },
+    {
+      "personId": 112600,
+      "name": "Marc Donato",
+      "character": "Nodding 1st Grader",
+      "order": 13,
+      "cast_id": 24,
+      "popularity": 1.1323,
+      "profile_path": "/b67UHn7WYsH1lsynQ2b98hxx4Lc.jpg"
+    },
+    {
+      "personId": 2987552,
+      "name": "Keith Cole",
+      "character": "Penguin",
+      "order": 14,
+      "cast_id": 54,
+      "popularity": 0.2407,
+      "profile_path": null
+    },
+    {
+      "personId": 2987553,
+      "name": "Chris Mei",
+      "character": "Penguin",
+      "order": 15,
+      "cast_id": 55,
+      "popularity": 0.1406,
+      "profile_path": null
+    },
+    {
+      "personId": 2987554,
+      "name": "Conor Devitt",
+      "character": "O'Doyle (Grade 1)",
+      "order": 16,
+      "cast_id": 56,
+      "popularity": 0.12,
+      "profile_path": null
+    },
+    {
+      "personId": 2961863,
+      "name": "Jared Durand",
+      "character": "Scotty Logan (Grade 1)",
+      "order": 17,
+      "cast_id": 57,
+      "popularity": 0.3158,
+      "profile_path": null
+    },
+    {
+      "personId": 2987556,
+      "name": "Jessica Nakamura",
+      "character": "Tricia Labonte (Grade 1)",
+      "order": 18,
+      "cast_id": 58,
+      "popularity": 0.0416,
+      "profile_path": null
+    },
+    {
+      "personId": 201798,
+      "name": "Helen Hughes",
+      "character": "2nd Grade Teacher",
+      "order": 19,
+      "cast_id": 59,
+      "popularity": 0.4928,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 57691,
+      "name": "Tamra Davis",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7474,
+      "profile_path": "/mo2IRqEOj7sfqJR9Ev75WLhnFXC.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 5683,
+      "name": "family business "
+    },
+    {
+      "id": 10873,
+      "name": "school"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    },
+    {
+      "id": 187282,
+      "name": "back to school"
+    }
+  ]
+}

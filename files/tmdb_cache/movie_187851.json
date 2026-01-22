@@ -1,0 +1,224 @@
+{
+  "overview": "Aliens who've come to earth to spawn deep beneath the ocean begin terrorizing a Florida beach community. An ichthyologist and a young filmmaker team up to uncover the mystery of these monsters from the deep--before they strike again.",
+  "release_date": "1996-04-02",
+  "runtime": 98,
+  "budget": 130000,
+  "revenue": 0,
+  "tmdb_vote_average": 3.346,
+  "tmdb_vote_count": 13,
+  "tmdb_popularity": 3.0071,
+  "original_language": "en",
+  "poster_path": "/eIm9qNAZdDpwTyXs6aKN4fs3UWm.jpg",
+  "backdrop_path": null,
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Horror",
+    "Science Fiction"
+  ],
+  "production_companies": [],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1682222,
+      "name": "Donna Frotscher",
+      "character": "Melody Duncan",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 0.1375,
+      "profile_path": null
+    },
+    {
+      "personId": 929393,
+      "name": "Nick Baldasare",
+      "character": "Director Mel Duncan",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 0.5702,
+      "profile_path": null
+    },
+    {
+      "personId": 103856,
+      "name": "Christina Veronica",
+      "character": "Tammy",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 0.7467,
+      "profile_path": "/npq8ambyy8BvldZNARgD3gCKF9u.jpg"
+    },
+    {
+      "personId": 119897,
+      "name": "Charlie Barnett",
+      "character": "Larry",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 0.7069,
+      "profile_path": null
+    },
+    {
+      "personId": 42545,
+      "name": "Ron Jeremy",
+      "character": "Darryl",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 14.033,
+      "profile_path": "/h43ihXotHzPpMdqNV80JDAua0co.jpg"
+    },
+    {
+      "personId": 1682227,
+      "name": "George Mazzone",
+      "character": "Sam Nicholhoff",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 0.3195,
+      "profile_path": null
+    },
+    {
+      "personId": 222904,
+      "name": "Alex Pirnie",
+      "character": "Rev. Rex Stoner",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 0.2273,
+      "profile_path": null
+    },
+    {
+      "personId": 1502788,
+      "name": "Patrick Williams",
+      "character": "Biff",
+      "order": 7,
+      "cast_id": 15,
+      "popularity": 0.6953,
+      "profile_path": "/8LPTeAr6wZ2DgpYErOOY9ONQGqg.jpg"
+    },
+    {
+      "personId": 1681006,
+      "name": "Susie Owens",
+      "character": "Katie",
+      "order": 8,
+      "cast_id": 9,
+      "popularity": 1.4738,
+      "profile_path": "/286lKT51keDI3pmFaMthmWEEYzL.jpg"
+    },
+    {
+      "personId": 5366529,
+      "name": "Roy A. Peddie",
+      "character": "Brannigan",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 0.165,
+      "profile_path": null
+    },
+    {
+      "personId": 99229,
+      "name": "Blake Pickett",
+      "character": "Model",
+      "order": 10,
+      "cast_id": 10,
+      "popularity": 0.4865,
+      "profile_path": "/5FmtqvInYpasM5ybDhIRDfoyDbx.jpg"
+    },
+    {
+      "personId": 5366530,
+      "name": "Thomas Cavanno",
+      "character": "Photographer",
+      "order": 11,
+      "cast_id": 17,
+      "popularity": 0.0935,
+      "profile_path": null
+    },
+    {
+      "personId": 5366531,
+      "name": "Ludy Goodson",
+      "character": "Mother",
+      "order": 12,
+      "cast_id": 18,
+      "popularity": 0.0286,
+      "profile_path": null
+    },
+    {
+      "personId": 5366532,
+      "name": "Joe Belitzsky",
+      "character": "Father",
+      "order": 13,
+      "cast_id": 19,
+      "popularity": 0.0707,
+      "profile_path": null
+    },
+    {
+      "personId": 5366533,
+      "name": "Jeremy Steele",
+      "character": "Boy at Beach",
+      "order": 14,
+      "cast_id": 20,
+      "popularity": 0.0829,
+      "profile_path": null
+    },
+    {
+      "personId": 5366534,
+      "name": "Rebecca Moss",
+      "character": "Girl at Beach",
+      "order": 15,
+      "cast_id": 21,
+      "popularity": 0.0646,
+      "profile_path": null
+    },
+    {
+      "personId": 5366535,
+      "name": "Haylle Moss",
+      "character": "Girl at Beach",
+      "order": 16,
+      "cast_id": 22,
+      "popularity": 0.0261,
+      "profile_path": null
+    },
+    {
+      "personId": 5366536,
+      "name": "Fred Smith",
+      "character": "Sheriff",
+      "order": 17,
+      "cast_id": 23,
+      "popularity": 0.0214,
+      "profile_path": null
+    },
+    {
+      "personId": 5366537,
+      "name": "Matthew Z. Cunningham",
+      "character": "Deputy",
+      "order": 18,
+      "cast_id": 24,
+      "popularity": 1.0727,
+      "profile_path": null
+    },
+    {
+      "personId": 5366538,
+      "name": "Travis McMillan",
+      "character": "Mike",
+      "order": 19,
+      "cast_id": 25,
+      "popularity": 0.3248,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 98094,
+      "name": "Brett Piper",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.0076,
+      "profile_path": "/t5TFv4QuoahwG8KGjtWjVQR8xnc.jpg"
+    }
+  ],
+  "keywords": []
+}

@@ -1,0 +1,258 @@
+{
+  "overview": "The evil Gen. Rancor has his sights set on world domination, and only one man can stop him: Dick Steele, also known as Agent WD-40. Rancor needs to obtain a computer circuit for the missile that he is planning to fire, so Steele teams up with Veronique Ukrinsky, a KGB agent whose father designed the chip. Together they try to locate the evil mastermind's headquarters, where Veronique's father and several other hostages are being held.",
+  "release_date": "1996-05-24",
+  "runtime": 81,
+  "budget": 18000000,
+  "revenue": 27000000,
+  "tmdb_vote_average": 5.393,
+  "tmdb_vote_count": 729,
+  "tmdb_popularity": 6.1493,
+  "original_language": "en",
+  "poster_path": "/yoegp9XEG4YCbJJKR0wvm0BGYpG.jpg",
+  "backdrop_path": "/yAzC0pV1e1BzXA5NyWsGsRggOM5.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Action"
+  ],
+  "production_companies": [
+    {
+      "id": 915,
+      "name": "Hollywood Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 7633,
+      "name": "Leslie Nielsen",
+      "character": "Dick Steele",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 5.435,
+      "profile_path": "/u5vWl5dw69Nf89f905Qb5JqEVL3.jpg"
+    },
+    {
+      "personId": 37045,
+      "name": "Nicollette Sheridan",
+      "character": "Veronique Ukrinsky",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.5406,
+      "profile_path": "/5jClu0aOq5hLzXa0ic3NoZBuZG4.jpg"
+    },
+    {
+      "personId": 1466,
+      "name": "Charles Durning",
+      "character": "The Director",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.7981,
+      "profile_path": "/bozKytaYVKoIbptxkMFWepK09U5.jpg"
+    },
+    {
+      "personId": 4726,
+      "name": "Marcia Gay Harden",
+      "character": "Miss Cheevus",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.4282,
+      "profile_path": "/5vxcHIHABJxqhweAsTiXVOhT4SE.jpg"
+    },
+    {
+      "personId": 13473,
+      "name": "Barry Bostwick",
+      "character": "Norman Coleman",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 2.1011,
+      "profile_path": "/z2jlL5g5PMxelSHMXFF03fTSsLl.jpg"
+    },
+    {
+      "personId": 65562,
+      "name": "Andy Griffith",
+      "character": "General Rancor",
+      "order": 5,
+      "cast_id": 19,
+      "popularity": 1.973,
+      "profile_path": "/akaxOUO7UmxSX0Xlr6vrCNwzqt3.jpg"
+    },
+    {
+      "personId": 159485,
+      "name": "Stephanie Romanov",
+      "character": "Victoria / Barbara Dahl",
+      "order": 6,
+      "cast_id": 20,
+      "popularity": 0.7565,
+      "profile_path": "/v2HDZQrEkxmYdz6ntaAIainnbzY.jpg"
+    },
+    {
+      "personId": 10680,
+      "name": "Talisa Soto",
+      "character": "Desiree More",
+      "order": 7,
+      "cast_id": 21,
+      "popularity": 1.3951,
+      "profile_path": "/tpEGbGgASne8m1iHzncuxdSLIkX.jpg"
+    },
+    {
+      "personId": 8294,
+      "name": "Robert Guillaume",
+      "character": "Agent Steve Bishop",
+      "order": 8,
+      "cast_id": 22,
+      "popularity": 1.5407,
+      "profile_path": "/prqxpeFeyyarRxxfaMHrqCKVyhV.jpg"
+    },
+    {
+      "personId": 42824,
+      "name": "Carl Ciarfalio",
+      "character": "Thug #1",
+      "order": 9,
+      "cast_id": 42,
+      "popularity": 1.0428,
+      "profile_path": "/yADROfK7uJkmd8p3GyjxH8WZqRL.jpg"
+    },
+    {
+      "personId": 15318,
+      "name": "Keith Campbell",
+      "character": "Thug #2",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 1.0435,
+      "profile_path": "/oPAqYzvsm2m3HtnxKTuzglgFxum.jpg"
+    },
+    {
+      "personId": 1202776,
+      "name": "Esau McKnight",
+      "character": "Skippy, Warrior on Cell Phone",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 0.1663,
+      "profile_path": "/hzBKmyjKAinqY9m5jOxoa0SPfCC.jpg"
+    },
+    {
+      "personId": 37043,
+      "name": "Taylor Negron",
+      "character": "Painter",
+      "order": 12,
+      "cast_id": 25,
+      "popularity": 1.3537,
+      "profile_path": "/9c2kknpnafWSaZQHOaHjFGSv8wM.jpg"
+    },
+    {
+      "personId": 71041,
+      "name": "'Weird Al' Yankovic",
+      "character": "Himself",
+      "order": 13,
+      "cast_id": 26,
+      "popularity": 1.5176,
+      "profile_path": "/ptaQLv6iMCCTTkNeqm5tpffJhjm.jpg"
+    },
+    {
+      "personId": 158208,
+      "name": "Alex Trebek",
+      "character": "Agency Tape Recorder (Voice)",
+      "order": 14,
+      "cast_id": 27,
+      "popularity": 0.9057,
+      "profile_path": "/wRUDQpssSwgj0R39XrHFrU3Myf.jpg"
+    },
+    {
+      "personId": 16619,
+      "name": "Mr. T",
+      "character": "Helicopter Pilot",
+      "order": 15,
+      "cast_id": 28,
+      "popularity": 3.423,
+      "profile_path": "/pJbHlEsrhyW8dptDwBdXpoY9EmQ.jpg"
+    },
+    {
+      "personId": 7174,
+      "name": "Ray Charles",
+      "character": "Busdriver",
+      "order": 16,
+      "cast_id": 29,
+      "popularity": 1.0726,
+      "profile_path": "/bzslDGVJqglob5nFMcoKCXm0TMD.jpg"
+    },
+    {
+      "personId": 119781,
+      "name": "Joyce Brothers",
+      "character": "Steele's Tag Team Member",
+      "order": 17,
+      "cast_id": 30,
+      "popularity": 0.7337,
+      "profile_path": "/4kCrMUi8cgtqRNI4BYVTxljmFaO.jpg"
+    },
+    {
+      "personId": 16620,
+      "name": "Hulk Hogan",
+      "character": "Steele's Other Tag Team Member",
+      "order": 18,
+      "cast_id": 31,
+      "popularity": 1.9731,
+      "profile_path": "/i27iSeP7hhtlFOeVnthRQ9Ox2m4.jpg"
+    },
+    {
+      "personId": 23915,
+      "name": "Pat Morita",
+      "character": "Brian, Waiter in Restaurant",
+      "order": 19,
+      "cast_id": 32,
+      "popularity": 2.2985,
+      "profile_path": "/dwnjbEvhKRanS5xTaI1NkZ98aM9.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 65548,
+      "name": "Rick Friedberg",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.2463,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1815,
+      "name": "atomic bomb"
+    },
+    {
+      "id": 11931,
+      "name": "spoof"
+    },
+    {
+      "id": 15267,
+      "name": "james bond spoof"
+    },
+    {
+      "id": 325767,
+      "name": "apathetic"
+    },
+    {
+      "id": 325802,
+      "name": "doubtful"
+    },
+    {
+      "id": 325803,
+      "name": "dubious"
+    },
+    {
+      "id": 325819,
+      "name": "frustrated"
+    }
+  ]
+}

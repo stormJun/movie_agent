@@ -1,0 +1,224 @@
+{
+  "overview": "Mr. Chu is an elderly widower who teaches tai chi chuan in Beijing. He moves to America to live with his son's family, but finds the cultural adjustment difficult. Since his daughter-in-law is a white woman who does not speak Chinese, Mr. Chu's son, Alex, must mediate.",
+  "release_date": "1991-12-07",
+  "runtime": 105,
+  "budget": 400000,
+  "revenue": 152322,
+  "tmdb_vote_average": 7.3,
+  "tmdb_vote_count": 83,
+  "tmdb_popularity": 1.3924,
+  "original_language": "zh",
+  "poster_path": "/46WdJMUhZpIsG5D7bb0lYjoE1Uu.jpg",
+  "backdrop_path": "/2rRyAY9IbykdzkYZULoWCInw5j3.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 5528,
+      "name": "Ang Lee Productions",
+      "origin_country": "TW"
+    },
+    {
+      "id": 25345,
+      "name": "Central Motion Picture Corporation",
+      "origin_country": "TW"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "TW",
+      "name": "Taiwan"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "zh",
+      "name": "普通话"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1623,
+      "name": "Lung Sihung",
+      "character": "Mr. Chu",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 1.6016,
+      "profile_path": "/i1aiG0pf73LKssRbo6tFv0kzUnz.jpg"
+    },
+    {
+      "personId": 2040625,
+      "name": "Wang Bozhao",
+      "character": "Alex Chu",
+      "order": 1,
+      "cast_id": 28,
+      "popularity": 1.3741,
+      "profile_path": "/98Wy06sUZD6Bo2bTrLMTi9TuQQg.jpg"
+    },
+    {
+      "personId": 1570978,
+      "name": "Deb Snyder",
+      "character": "Martha Chu",
+      "order": 2,
+      "cast_id": 8,
+      "popularity": 0.4976,
+      "profile_path": "/eLVqbC91m6kog99qcBjQX9Kuqcs.jpg"
+    },
+    {
+      "personId": 113794,
+      "name": "Wang Lai",
+      "character": "Mrs. Chen",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 1.5067,
+      "profile_path": "/A8i9VNeKYPuHWILUgfVAlpXh62X.jpg"
+    },
+    {
+      "personId": 1570979,
+      "name": "Fanny De Luz",
+      "character": "Linda",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 1.1206,
+      "profile_path": null
+    },
+    {
+      "personId": 1570980,
+      "name": "Haan Lee",
+      "character": "Jeremy Chu",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 1.0173,
+      "profile_path": "/1YWcf0Z2kkMFQCXBCy5HOmRaNh3.jpg"
+    },
+    {
+      "personId": 929239,
+      "name": "Wang Hung-Chang",
+      "character": "Boss Huang",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 1.7288,
+      "profile_path": "/lWqJKg8xTcHDgoPKRXSVjPxbYIJ.jpg"
+    },
+    {
+      "personId": 1570981,
+      "name": "Jeanne Kuo Chang",
+      "character": "New Cooking Teacher",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 0.7851,
+      "profile_path": "/jgV9ixMxwNEWP9e9EPosmIRlTix.jpg"
+    },
+    {
+      "personId": 1570982,
+      "name": "James Lou",
+      "character": "Mr. Chao",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 0.2368,
+      "profile_path": null
+    },
+    {
+      "personId": 565145,
+      "name": "Lester Chit-Man Chan",
+      "character": "Chef Tsien",
+      "order": 9,
+      "cast_id": 29,
+      "popularity": 1.831,
+      "profile_path": "/5pnpmMTTKb7SLdnwB9epfm42vub.jpg"
+    },
+    {
+      "personId": 5722197,
+      "name": "Yin Liang",
+      "character": "Chef Chang",
+      "order": 10,
+      "cast_id": 34,
+      "popularity": 0.1325,
+      "profile_path": null
+    },
+    {
+      "personId": 2824928,
+      "name": "Emily Yi-Ming Liu",
+      "character": "Chen Yi-Chien",
+      "order": 11,
+      "cast_id": 35,
+      "popularity": 0.138,
+      "profile_path": null
+    },
+    {
+      "personId": 5722206,
+      "name": "Yang Ying-Han",
+      "character": "Yiyi",
+      "order": 12,
+      "cast_id": 36,
+      "popularity": 0.1872,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1614,
+      "name": "Ang Lee",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.8396,
+      "profile_path": "/jrmdsPZI5WT4rmOl20Gb1Y2femb.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 779,
+      "name": "martial arts"
+    },
+    {
+      "id": 1463,
+      "name": "culture clash"
+    },
+    {
+      "id": 1788,
+      "name": "chinatown"
+    },
+    {
+      "id": 11051,
+      "name": "tai chi"
+    },
+    {
+      "id": 11595,
+      "name": "american culture"
+    },
+    {
+      "id": 11860,
+      "name": "fish out of water"
+    },
+    {
+      "id": 40865,
+      "name": "new york state"
+    },
+    {
+      "id": 164224,
+      "name": "generation gap"
+    },
+    {
+      "id": 165576,
+      "name": "intercultural relationship"
+    },
+    {
+      "id": 198147,
+      "name": "family home"
+    },
+    {
+      "id": 226776,
+      "name": "culture shock"
+    },
+    {
+      "id": 262142,
+      "name": "multigenerational"
+    }
+  ]
+}

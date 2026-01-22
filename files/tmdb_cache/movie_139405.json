@@ -1,0 +1,191 @@
+{
+  "overview": "A young Russian boy, Thomas Minton, travels to New York as a passenger on a Russian freighter. Close to Ellis Island he gets off and thus starts his journey to America the same way as all immigrants in former times. Thomas is searching for the family of one of his ancestors, who had emigrated decades ago, but once sent a letter home together with a sample of his new profession: 3D-Photography.",
+  "release_date": "1995-10-20",
+  "runtime": 51,
+  "budget": 0,
+  "revenue": 16015639,
+  "tmdb_vote_average": 5.2,
+  "tmdb_vote_count": 5,
+  "tmdb_popularity": 0.249,
+  "original_language": "en",
+  "poster_path": "/iP0bT4f4BTAZ6fWKgLmd4lNeJ2H.jpg",
+  "backdrop_path": null,
+  "tmdb_genres_raw": [
+    "Adventure",
+    "History",
+    "Drama",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 53390,
+      "name": "Sony New Technologies",
+      "origin_country": ""
+    },
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 58,
+      "name": "Sony Pictures Classics",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1467084,
+      "name": "Peter Reznick",
+      "character": "Tomas Minton",
+      "order": 0,
+      "cast_id": 12,
+      "popularity": 0.1744,
+      "profile_path": null
+    },
+    {
+      "personId": 3330728,
+      "name": "John McDonough",
+      "character": "Freighter Chief",
+      "order": 1,
+      "cast_id": 28,
+      "popularity": 0.3047,
+      "profile_path": null
+    },
+    {
+      "personId": 1467086,
+      "name": "Avi Hoffman",
+      "character": "Seaman",
+      "order": 2,
+      "cast_id": 14,
+      "popularity": 0.34,
+      "profile_path": null
+    },
+    {
+      "personId": 19208,
+      "name": "Matt Malloy",
+      "character": "Wall Street Businessman",
+      "order": 3,
+      "cast_id": 15,
+      "popularity": 1.7108,
+      "profile_path": "/csNVv2jlw6QLoNCcifGnvT9hN2O.jpg"
+    },
+    {
+      "personId": 1218074,
+      "name": "Abby Lewis",
+      "character": "Julia Minton",
+      "order": 4,
+      "cast_id": 16,
+      "popularity": 0.1517,
+      "profile_path": null
+    },
+    {
+      "personId": 6171,
+      "name": "Victor Steinbach",
+      "character": "Seaman--Pilot",
+      "order": 5,
+      "cast_id": 19,
+      "popularity": 0.2708,
+      "profile_path": null
+    },
+    {
+      "personId": 73513,
+      "name": "Peter Boyden",
+      "character": "ConEd Worker",
+      "order": 6,
+      "cast_id": 20,
+      "popularity": 1.5655,
+      "profile_path": "/rmIdnerA4pFinouQFXJ3J3UtGAm.jpg"
+    },
+    {
+      "personId": 28008,
+      "name": "Philip Levy",
+      "character": "Hot Dog Vendor",
+      "order": 7,
+      "cast_id": 21,
+      "popularity": 0.5703,
+      "profile_path": null
+    },
+    {
+      "personId": 2678554,
+      "name": "Nick Muglia",
+      "character": "Policeman",
+      "order": 8,
+      "cast_id": 22,
+      "popularity": 1.0083,
+      "profile_path": null
+    },
+    {
+      "personId": 2678555,
+      "name": "Luigi Petrozza",
+      "character": "Pizza Pie Man",
+      "order": 9,
+      "cast_id": 23,
+      "popularity": 0.0286,
+      "profile_path": null
+    },
+    {
+      "personId": 2678556,
+      "name": "Bernard Ferstenberg",
+      "character": "Pickle Vendor",
+      "order": 10,
+      "cast_id": 24,
+      "popularity": 0.1138,
+      "profile_path": null
+    },
+    {
+      "personId": 2678558,
+      "name": "Robert Buckley",
+      "character": "Socialite",
+      "order": 11,
+      "cast_id": 25,
+      "popularity": 0.0445,
+      "profile_path": null
+    },
+    {
+      "personId": 33663,
+      "name": "Donald Trump",
+      "character": "Donald Trump",
+      "order": 12,
+      "cast_id": 26,
+      "popularity": 2.6635,
+      "profile_path": "/nkQrZELEgxsvwDSlYkNfpFmsFx4.jpg"
+    },
+    {
+      "personId": 2678564,
+      "name": "Patrick Flynn",
+      "character": "Bartender",
+      "order": 13,
+      "cast_id": 27,
+      "popularity": 0.2615,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 77867,
+      "name": "Stephen Low",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8114,
+      "profile_path": "/2QKc6mOCpgAKq9zogEPKGYgQJJk.jpg"
+    }
+  ],
+  "keywords": []
+}

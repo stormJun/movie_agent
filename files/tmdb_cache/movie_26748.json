@@ -1,0 +1,260 @@
+{
+  "overview": "When the skeleton of his murdered predecessor is found, Sheriff Sam Deeds unearths many other long-buried secrets in his Texas border town.",
+  "release_date": "1996-06-21",
+  "runtime": 135,
+  "budget": 5000000,
+  "revenue": 13269963,
+  "tmdb_vote_average": 6.999,
+  "tmdb_vote_count": 393,
+  "tmdb_popularity": 2.6161,
+  "original_language": "en",
+  "poster_path": "/lBxY8znsRoqa9Dy2NCe8I6GPsRm.jpg",
+  "backdrop_path": "/vsxo1dkhRHd9YT9Um5IaxvnF8Yt.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 97,
+      "name": "Castle Rock Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 11948,
+      "name": "Rio Dulce",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2955,
+      "name": "Chris Cooper",
+      "character": "Sam Deeds",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.1258,
+      "profile_path": "/j0sQDzaDlnNAdaYhy6HRRAFi22.jpg"
+    },
+    {
+      "personId": 7430,
+      "name": "Elizabeth Peña",
+      "character": "Pilar Cruz",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 1.7221,
+      "profile_path": "/uyUrPmtbwiGFOq8pIfYVQYgmBmK.jpg"
+    },
+    {
+      "personId": 10823,
+      "name": "Kris Kristofferson",
+      "character": "Charlie Wade",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 1.5406,
+      "profile_path": "/fWZCpnXT7sLOdc96Bm66QTOjnXZ.jpg"
+    },
+    {
+      "personId": 10224,
+      "name": "Clifton James",
+      "character": "Hollis Pogue",
+      "order": 3,
+      "cast_id": 48,
+      "popularity": 1.0091,
+      "profile_path": "/4XRoVhgoeQEZdg4BAKCWRkI1UfR.jpg"
+    },
+    {
+      "personId": 1163,
+      "name": "Miriam Colon",
+      "character": "Mercedes Cruz",
+      "order": 4,
+      "cast_id": 40,
+      "popularity": 2.0279,
+      "profile_path": "/9jnz7htVMCTDNRDmoi2mdOKv6Pj.jpg"
+    },
+    {
+      "personId": 85170,
+      "name": "Ron Canada",
+      "character": "Otis Payne",
+      "order": 5,
+      "cast_id": 43,
+      "popularity": 1.4884,
+      "profile_path": "/2B8fFweT0PGcA1sj3duMzPpLgD6.jpg"
+    },
+    {
+      "personId": 3977,
+      "name": "Joe Morton",
+      "character": "Delmore \"Del\" Payne",
+      "order": 6,
+      "cast_id": 5,
+      "popularity": 2.5903,
+      "profile_path": "/w7rGWWSGKWWukojLbZOQJ5yh9jv.jpg"
+    },
+    {
+      "personId": 10297,
+      "name": "Matthew McConaughey",
+      "character": "Buddy Deeds",
+      "order": 7,
+      "cast_id": 2,
+      "popularity": 7.7751,
+      "profile_path": "/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
+    },
+    {
+      "personId": 103835,
+      "name": "Jeff Monahan",
+      "character": "Young Hollis",
+      "order": 8,
+      "cast_id": 41,
+      "popularity": 0.7041,
+      "profile_path": "/uimMAMJPmhOPrQ41deHbli63vcE.jpg"
+    },
+    {
+      "personId": 18272,
+      "name": "Gabriel Casseus",
+      "character": "Young Otis",
+      "order": 9,
+      "cast_id": 76,
+      "popularity": 2.3361,
+      "profile_path": "/sQ8IhQEVT7TFtfPucg47UCI7RqS.jpg"
+    },
+    {
+      "personId": 3910,
+      "name": "Frances McDormand",
+      "character": "Bunny",
+      "order": 10,
+      "cast_id": 6,
+      "popularity": 4.3145,
+      "profile_path": "/r0A7hZsM1zuavTr0jN7bwmBcliR.jpg"
+    },
+    {
+      "personId": 61010,
+      "name": "LaTanya Richardson Jackson",
+      "character": "Priscilla Worth",
+      "order": 11,
+      "cast_id": 21,
+      "popularity": 0.9542,
+      "profile_path": "/4PBuz4m2sGTC3j66Cuc13hwVxCt.jpg"
+    },
+    {
+      "personId": 41737,
+      "name": "Tony Plana",
+      "character": "Ray",
+      "order": 12,
+      "cast_id": 73,
+      "popularity": 2.095,
+      "profile_path": "/oiJaRVl9vvq7nqoGDNlymxpvJ0a.jpg"
+    },
+    {
+      "personId": 158354,
+      "name": "Stephen J. Lang",
+      "character": "Mikey",
+      "order": 13,
+      "cast_id": 19,
+      "popularity": 1.0228,
+      "profile_path": null
+    },
+    {
+      "personId": 58647,
+      "name": "Jesse Borrego",
+      "character": "Danny",
+      "order": 14,
+      "cast_id": 71,
+      "popularity": 1.1799,
+      "profile_path": "/bK9cPqXTJSRN72ZDKN3UXlKN3gU.jpg"
+    },
+    {
+      "personId": 157609,
+      "name": "Richard Coca",
+      "character": "Enrique",
+      "order": 15,
+      "cast_id": 39,
+      "popularity": 1.3014,
+      "profile_path": "/qevgolgHKGKOHxvns3BvAvLV5c1.jpg"
+    },
+    {
+      "personId": 96735,
+      "name": "Carmen De Lavallade",
+      "character": "Carolyn",
+      "order": 16,
+      "cast_id": 82,
+      "popularity": 0.8685,
+      "profile_path": "/mDIFgFqThA3OJxSBFnKQWt8B1Jj.jpg"
+    },
+    {
+      "personId": 19023,
+      "name": "Stephen Mendillo",
+      "character": "Cliff",
+      "order": 17,
+      "cast_id": 49,
+      "popularity": 0.6498,
+      "profile_path": "/fclYLKHhQH4ZRTsUKf9JCsHqI9a.jpg"
+    },
+    {
+      "personId": 37430,
+      "name": "Gordon Tootoosis",
+      "character": "Wesley Birdsong",
+      "order": 18,
+      "cast_id": 46,
+      "popularity": 0.7423,
+      "profile_path": "/ls9gOUs7nSZyutuL5MULC1PZftN.jpg"
+    },
+    {
+      "personId": 168638,
+      "name": "Beatrice Winde",
+      "character": "Minnie Bledsoe",
+      "order": 19,
+      "cast_id": 75,
+      "popularity": 0.6395,
+      "profile_path": "/m3mC8clIuki4s11cTDqcvKiLX59.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 102445,
+      "name": "John Sayles",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.9298,
+      "profile_path": "/xJL2xLTDXGFe5t54xLx1hr0raaM.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 798,
+      "name": "sheriff"
+    },
+    {
+      "id": 1556,
+      "name": "texas"
+    },
+    {
+      "id": 6625,
+      "name": "family secrets"
+    },
+    {
+      "id": 168713,
+      "name": "neo-western"
+    },
+    {
+      "id": 193282,
+      "name": "dark secret"
+    }
+  ]
+}

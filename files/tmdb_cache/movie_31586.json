@@ -1,0 +1,263 @@
+{
+  "overview": "Eleven-year-old North has had it with his parents. They are always busy with their careers and don't give North the attention he needs, so he files a lawsuit against them. The judge rules that North should either find new parents or return to his own parents within two months. Thus North starts off on a journey around the world to find parents that really care about him.",
+  "release_date": "1994-07-22",
+  "runtime": 87,
+  "budget": 40000000,
+  "revenue": 7182747,
+  "tmdb_vote_average": 5.004,
+  "tmdb_vote_count": 271,
+  "tmdb_popularity": 4.1042,
+  "original_language": "en",
+  "poster_path": "/e4JEG7dstmurXMUPOW9Jy6UDR9F.jpg",
+  "backdrop_path": "/gXLwU18p3UrwqT3DLlymTjfCZek.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Family",
+    "Fantasy",
+    "Adventure",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 97,
+      "name": "Castle Rock Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 109,
+      "name": "Elijah Wood",
+      "character": "North",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 5.2316,
+      "profile_path": "/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
+    },
+    {
+      "personId": 62,
+      "name": "Bruce Willis",
+      "character": "Narrator (voice)",
+      "order": 1,
+      "cast_id": 14,
+      "popularity": 8.2539,
+      "profile_path": "/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+    },
+    {
+      "personId": 1206,
+      "name": "Jason Alexander",
+      "character": "North's Dad",
+      "order": 2,
+      "cast_id": 2,
+      "popularity": 4.5774,
+      "profile_path": "/qRezZ2yhM2bmBERt7jVcxo8RVSA.jpg"
+    },
+    {
+      "personId": 15886,
+      "name": "Julia Louis-Dreyfus",
+      "character": "North's Mom",
+      "order": 3,
+      "cast_id": 3,
+      "popularity": 3.5982,
+      "profile_path": "/sXpjQoFoYqNehfWhlkScF8lo9vc.jpg"
+    },
+    {
+      "personId": 16165,
+      "name": "Jon Lovitz",
+      "character": "Arthur Belt",
+      "order": 4,
+      "cast_id": 37,
+      "popularity": 3.1835,
+      "profile_path": "/jBXSLoDEVwYkNqSVWHV9yDo8whA.jpg"
+    },
+    {
+      "personId": 1903,
+      "name": "Alan Arkin",
+      "character": "Judge Buckle",
+      "order": 5,
+      "cast_id": 32,
+      "popularity": 2.554,
+      "profile_path": "/lTMMpkqL0G3WeFNfbtdP5COZEiX.jpg"
+    },
+    {
+      "personId": 707,
+      "name": "Dan Aykroyd",
+      "character": "Pa Tex",
+      "order": 6,
+      "cast_id": 33,
+      "popularity": 3.8321,
+      "profile_path": "/iVMmeVJx8IpCEjlGBZWzIWvX5Qo.jpg"
+    },
+    {
+      "personId": 8534,
+      "name": "Kathy Bates",
+      "character": "Alaskan Mom",
+      "order": 7,
+      "cast_id": 36,
+      "popularity": 4.1732,
+      "profile_path": "/nP7zRmXJyMyj2OohclSSo6JAEbD.jpg"
+    },
+    {
+      "personId": 6804,
+      "name": "Graham Greene",
+      "character": "Alaskan Dad",
+      "order": 8,
+      "cast_id": 35,
+      "popularity": 4.602,
+      "profile_path": "/ubX9pwrzQqnR41gAGyY1GoSZr1G.jpg"
+    },
+    {
+      "personId": 62054,
+      "name": "Faith Ford",
+      "character": "Donna Nelson",
+      "order": 9,
+      "cast_id": 42,
+      "popularity": 1.6485,
+      "profile_path": "/8FMAHz9LD7xCnmeX8rkkNknXqhy.jpg"
+    },
+    {
+      "personId": 33492,
+      "name": "Robert Costanzo",
+      "character": "Al",
+      "order": 10,
+      "cast_id": 53,
+      "popularity": 2.0559,
+      "profile_path": "/vyUeNk56Yv7xyHztgVa8UBEIasu.jpg"
+    },
+    {
+      "personId": 112088,
+      "name": "Matthew McCurley",
+      "character": "Winchell",
+      "order": 11,
+      "cast_id": 6,
+      "popularity": 0.5928,
+      "profile_path": null
+    },
+    {
+      "personId": 21986,
+      "name": "Reba McEntire",
+      "character": "Ma Tex",
+      "order": 12,
+      "cast_id": 34,
+      "popularity": 1.3651,
+      "profile_path": "/q4T5XDHzVepqQi4NoqI9GKJcD3s.jpg"
+    },
+    {
+      "personId": 27772,
+      "name": "John Ritter",
+      "character": "Ward Nelson",
+      "order": 13,
+      "cast_id": 43,
+      "popularity": 2.9352,
+      "profile_path": "/opfNiumC8LjFoUwaOKrDGuNbIPM.jpg"
+    },
+    {
+      "personId": 15100,
+      "name": "Lauren Tom",
+      "character": "Mrs. Ho",
+      "order": 14,
+      "cast_id": 45,
+      "popularity": 3.0736,
+      "profile_path": "/fTKFspRRQ275AkzvtPERLZnXe0n.jpg"
+    },
+    {
+      "personId": 3093,
+      "name": "Abe Vigoda",
+      "character": "Alaskan Grandpa",
+      "order": 15,
+      "cast_id": 39,
+      "popularity": 1.8221,
+      "profile_path": "/luWKPNb58IgJ2ovrtgPAzHGLLYL.jpg"
+    },
+    {
+      "personId": 91387,
+      "name": "Keone Young",
+      "character": "Governor Ho",
+      "order": 16,
+      "cast_id": 44,
+      "popularity": 3.1051,
+      "profile_path": "/nDTQe7D7NmbzAryfKQKx2NALmid.jpg"
+    },
+    {
+      "personId": 9251,
+      "name": "Marc Shaiman",
+      "character": "Piano Player",
+      "order": 17,
+      "cast_id": 76,
+      "popularity": 1.7864,
+      "profile_path": "/gYQh7yWHw3RBMGmookenwCYFfbi.jpg"
+    },
+    {
+      "personId": 181081,
+      "name": "Jussie Smollett",
+      "character": "Adam",
+      "order": 18,
+      "cast_id": 77,
+      "popularity": 0.9783,
+      "profile_path": "/Mhecg0ylH55rTdC48SyX5IxjGM.jpg"
+    },
+    {
+      "personId": 1232407,
+      "name": "Taylor Fry",
+      "character": "Zoe",
+      "order": 19,
+      "cast_id": 78,
+      "popularity": 1.2814,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 3026,
+      "name": "Rob Reiner",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 7.1942,
+      "profile_path": "/rcmPU3YlhHQVzZlV197qhmRsgEL.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 970,
+      "name": "parent child relationship"
+    },
+    {
+      "id": 5561,
+      "name": "child prodigy"
+    },
+    {
+      "id": 11336,
+      "name": "young boy"
+    },
+    {
+      "id": 9935,
+      "name": "travel"
+    },
+    {
+      "id": 15101,
+      "name": "based on children's book"
+    }
+  ]
+}

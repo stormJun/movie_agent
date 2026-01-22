@@ -1,0 +1,328 @@
+{
+  "overview": "Set in the Bronx during the tumultuous 1960s, an adolescent boy is torn between his honest, working-class father and a violent yet charismatic crime boss. Complicating matters is the youngster's growing attraction - forbidden in his neighborhood - for a beautiful black girl.",
+  "release_date": "1993-10-01",
+  "runtime": 121,
+  "budget": 22000000,
+  "revenue": 17287898,
+  "tmdb_vote_average": 7.873,
+  "tmdb_vote_count": 2724,
+  "tmdb_popularity": 7.8373,
+  "original_language": "en",
+  "poster_path": "/sDbO6LmLYtyqAoFTPpRcMgPSCEO.jpg",
+  "backdrop_path": "/daS0GUqP6YwLz3BFdgbdwpcPZxl.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 23808,
+      "name": "Price Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 73866,
+      "name": "Penta Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 11391,
+      "name": "Tribeca Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "it",
+      "name": "Italiano"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 380,
+      "name": "Robert De Niro",
+      "character": "Lorenzo Anello",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 9.7751,
+      "profile_path": "/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+    },
+    {
+      "personId": 9046,
+      "name": "Chazz Palminteri",
+      "character": "Sonny LoSpecchio",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.707,
+      "profile_path": "/mCbjKVyE5B2tleshbJw44tw3ktZ.jpg"
+    },
+    {
+      "personId": 17917,
+      "name": "Lillo Brancato",
+      "character": "Calogero 'C' Anello (Age 17)",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.6197,
+      "profile_path": "/vUIga1je7MRsPSeJJvmtIpxfyRo.jpg"
+    },
+    {
+      "personId": 17918,
+      "name": "Francis Capra",
+      "character": "Calogero 'C' Anello (Age 9)",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.577,
+      "profile_path": "/iMbTbfIKNqjNwtwtdMLMRJUG1ej.jpg"
+    },
+    {
+      "personId": 17919,
+      "name": "Taral Hicks",
+      "character": "Jane Williams",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 2.1891,
+      "profile_path": "/vospKzNf1QPbToCg4aN26BzT8o6.jpg"
+    },
+    {
+      "personId": 17920,
+      "name": "Kathrine Narducci",
+      "character": "Rosina Anello",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 2.064,
+      "profile_path": "/bOxhHtEtmhdfVmnL0KyG4SPDlwJ.jpg"
+    },
+    {
+      "personId": 17921,
+      "name": "Clem Caserta",
+      "character": "Jimmy Whispers",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 1.121,
+      "profile_path": "/myqnAbqh9jR5ku4eB4UrwTCBlSU.jpg"
+    },
+    {
+      "personId": 17922,
+      "name": "Alfred Sauchelli, Jr.",
+      "character": "Bobby Bars",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 0.4583,
+      "profile_path": "/7OpH1wjhzZAnomaPz8o0xdtA4du.jpg"
+    },
+    {
+      "personId": 17923,
+      "name": "Frank Pietrangolare",
+      "character": "Danny K.O.",
+      "order": 8,
+      "cast_id": 9,
+      "popularity": 0.7948,
+      "profile_path": "/wFohY73v2kG0HuoLWsq0ORgMkph.jpg"
+    },
+    {
+      "personId": 4517,
+      "name": "Joe Pesci",
+      "character": "Carmine",
+      "order": 9,
+      "cast_id": 10,
+      "popularity": 4.9925,
+      "profile_path": "/zbAdhqbMfRXSz26TjxJvB5f2eL5.jpg"
+    },
+    {
+      "personId": 17924,
+      "name": "Robert D'Andrea",
+      "character": "Tony Toupee",
+      "order": 10,
+      "cast_id": 11,
+      "popularity": 0.0528,
+      "profile_path": null
+    },
+    {
+      "personId": 17925,
+      "name": "Eddie Montanaro",
+      "character": "Eddie Mush",
+      "order": 11,
+      "cast_id": 12,
+      "popularity": 0.145,
+      "profile_path": null
+    },
+    {
+      "personId": 17926,
+      "name": "Fred Fischer",
+      "character": "JoJo 'The Whale'",
+      "order": 12,
+      "cast_id": 13,
+      "popularity": 0.5048,
+      "profile_path": null
+    },
+    {
+      "personId": 17927,
+      "name": "Dave Salerno",
+      "character": "Frankie Coffeecake",
+      "order": 13,
+      "cast_id": 14,
+      "popularity": 0.3712,
+      "profile_path": null
+    },
+    {
+      "personId": 17928,
+      "name": "Joseph D'Onofrio",
+      "character": "Slick (Age 17)",
+      "order": 14,
+      "cast_id": 15,
+      "popularity": 1.4602,
+      "profile_path": "/sbDtKGXn4mQIjnTVCUfLMf15Kmj.jpg"
+    },
+    {
+      "personId": 17929,
+      "name": "Luigi D'Angelo",
+      "character": "Aldo (Age 17)",
+      "order": 15,
+      "cast_id": 16,
+      "popularity": 0.0481,
+      "profile_path": null
+    },
+    {
+      "personId": 17930,
+      "name": "Louis Vanaria",
+      "character": "Crazy Mario (Age 17)",
+      "order": 16,
+      "cast_id": 17,
+      "popularity": 0.702,
+      "profile_path": "/9Vc5mxFxePd3pTLUaORMMy6po3V.jpg"
+    },
+    {
+      "personId": 17931,
+      "name": "Dominick Rocchio",
+      "character": "Ralphie (Age 17)",
+      "order": 17,
+      "cast_id": 18,
+      "popularity": 0.0831,
+      "profile_path": null
+    },
+    {
+      "personId": 17932,
+      "name": "Patrick Borriello",
+      "character": "Slick (Age 9)",
+      "order": 18,
+      "cast_id": 19,
+      "popularity": 1.3952,
+      "profile_path": null
+    },
+    {
+      "personId": 1305246,
+      "name": "Paul Perri",
+      "character": "Crazy Mario (Age 9)",
+      "order": 19,
+      "cast_id": 98,
+      "popularity": 0.0802,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 380,
+      "name": "Robert De Niro",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 9.7751,
+      "profile_path": "/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 700,
+      "name": "italian american"
+    },
+    {
+      "id": 395,
+      "name": "gambling"
+    },
+    {
+      "id": 3739,
+      "name": "funeral"
+    },
+    {
+      "id": 924,
+      "name": "italian"
+    },
+    {
+      "id": 970,
+      "name": "parent child relationship"
+    },
+    {
+      "id": 3149,
+      "name": "gangster"
+    },
+    {
+      "id": 1797,
+      "name": "loyalty"
+    },
+    {
+      "id": 5343,
+      "name": "molotow cocktail"
+    },
+    {
+      "id": 5606,
+      "name": "gang leader"
+    },
+    {
+      "id": 5609,
+      "name": "nostalgia"
+    },
+    {
+      "id": 5611,
+      "name": "game of dice"
+    },
+    {
+      "id": 5612,
+      "name": "bus driver"
+    },
+    {
+      "id": 10391,
+      "name": "mafia"
+    },
+    {
+      "id": 12392,
+      "name": "best friend"
+    },
+    {
+      "id": 15155,
+      "name": "witness to murder"
+    },
+    {
+      "id": 160488,
+      "name": "hoodlum"
+    },
+    {
+      "id": 160910,
+      "name": "xenophobia"
+    },
+    {
+      "id": 161307,
+      "name": "bronx, new york city"
+    },
+    {
+      "id": 170652,
+      "name": "father figure"
+    },
+    {
+      "id": 208992,
+      "name": "1960s"
+    },
+    {
+      "id": 217989,
+      "name": "confession booth"
+    }
+  ]
+}

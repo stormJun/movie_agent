@@ -1,0 +1,311 @@
+{
+  "overview": "In an ancient time when majestic fire-breathers soared through the skies, a knight named Bowen comes face to face and heart to heart with the last dragon on Earth, Draco. Taking up arms to suppress a tyrant king, Bowen soon realizes his task will be harder than he'd imagined: If he kills the king, Draco will die as well.",
+  "release_date": "1996-05-31",
+  "runtime": 103,
+  "budget": 57000000,
+  "revenue": 115267375,
+  "tmdb_vote_average": 6.54,
+  "tmdb_vote_count": 2089,
+  "tmdb_popularity": 6.2412,
+  "original_language": "en",
+  "poster_path": "/5ciO16x4LQ7uhy854YHvQuQvHU9.jpg",
+  "backdrop_path": "/14XdkokjCqVjzG2h1HMBh4CEhQg.jpg",
+  "tmdb_genres_raw": [
+    "Fantasy",
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6065,
+      "name": "Dennis Quaid",
+      "character": "Bowen",
+      "order": 0,
+      "cast_id": 9,
+      "popularity": 5.2596,
+      "profile_path": "/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg"
+    },
+    {
+      "personId": 738,
+      "name": "Sean Connery",
+      "character": "Draco (voice)",
+      "order": 1,
+      "cast_id": 14,
+      "popularity": 3.5113,
+      "profile_path": "/iVr9HDPGIOhfUNO7LKt9g0MSHRP.jpg"
+    },
+    {
+      "personId": 11207,
+      "name": "David Thewlis",
+      "character": "King Einon",
+      "order": 2,
+      "cast_id": 10,
+      "popularity": 8.0343,
+      "profile_path": "/sNuYyT8ocLlQr3TdAW9CoKVbCU8.jpg"
+    },
+    {
+      "personId": 2133,
+      "name": "Dina Meyer",
+      "character": "Kara",
+      "order": 3,
+      "cast_id": 12,
+      "popularity": 4.0893,
+      "profile_path": "/bKte4cIXI1aQat8JLVNONZE4Y2.jpg"
+    },
+    {
+      "personId": 4935,
+      "name": "Pete Postlethwaite",
+      "character": "Gilbert",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 3.4106,
+      "profile_path": "/4RxwgdF1WXKjXaaAXIWeFqtMWfD.jpg"
+    },
+    {
+      "personId": 11355,
+      "name": "Jason Isaacs",
+      "character": "Lord Felton",
+      "order": 5,
+      "cast_id": 18,
+      "popularity": 4.2309,
+      "profile_path": "/s6XRFjqUsrDJfDQuXPOoExAYPmb.jpg"
+    },
+    {
+      "personId": 2719,
+      "name": "Brian Thompson",
+      "character": "Brok",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 2.2762,
+      "profile_path": "/qooSjBMA1P85JhBpHlwmmisGroO.jpg"
+    },
+    {
+      "personId": 1666,
+      "name": "Julie Christie",
+      "character": "Queen Aislinn",
+      "order": 7,
+      "cast_id": 13,
+      "popularity": 1.7477,
+      "profile_path": "/siAi4XZhDPP8LRgbByzwLqVaLIQ.jpg"
+    },
+    {
+      "personId": 59075,
+      "name": "Lee Oakes",
+      "character": "Young (Prince) Einon",
+      "order": 8,
+      "cast_id": 16,
+      "popularity": 1.7591,
+      "profile_path": "/qrOPp3tE8i9vmChInXW9IfCwx5A.jpg"
+    },
+    {
+      "personId": 260536,
+      "name": "Wolf Christian",
+      "character": "Hewe",
+      "order": 9,
+      "cast_id": 20,
+      "popularity": 0.1926,
+      "profile_path": null
+    },
+    {
+      "personId": 82410,
+      "name": "Terry O'Neill",
+      "character": "Redbeard",
+      "order": 10,
+      "cast_id": 21,
+      "popularity": 0.6867,
+      "profile_path": "/fTXu5CxUCS3M9aPbRldEaGer9AF.jpg"
+    },
+    {
+      "personId": 1074680,
+      "name": "Peter Hric",
+      "character": "King Freyne",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 0.1966,
+      "profile_path": null
+    },
+    {
+      "personId": 544311,
+      "name": "Eva Vejmělková",
+      "character": "Felton's Minx",
+      "order": 12,
+      "cast_id": 22,
+      "popularity": 2.3698,
+      "profile_path": "/r6uh22h1TjjQ1xrs15YD5xsIh3Y.jpg"
+    },
+    {
+      "personId": 1074679,
+      "name": "Milan Bahul",
+      "character": "Swamp Village Chief",
+      "order": 13,
+      "cast_id": 23,
+      "popularity": 1.1669,
+      "profile_path": "/eaq2jDpH8idyc4zPpnu4KV3BS3a.jpg"
+    },
+    {
+      "personId": 1074681,
+      "name": "Sandra Kovacicova",
+      "character": "Young Kara",
+      "order": 14,
+      "cast_id": 25,
+      "popularity": 0.0839,
+      "profile_path": null
+    },
+    {
+      "personId": 1074682,
+      "name": "Kyle Cohen",
+      "character": "Boy in Field",
+      "order": 15,
+      "cast_id": 26,
+      "popularity": 0.0893,
+      "profile_path": null
+    },
+    {
+      "personId": 1074683,
+      "name": "Thom Baker",
+      "character": "Aislinn's Chess Partner",
+      "order": 16,
+      "cast_id": 27,
+      "popularity": 0.2152,
+      "profile_path": null
+    },
+    {
+      "personId": 11857,
+      "name": "John Gielgud",
+      "character": "King Arthur (voice) (uncredited)",
+      "order": 17,
+      "cast_id": 15,
+      "popularity": 1.3897,
+      "profile_path": "/ztD6tFl6cq5zPSTgVqiX7j6OeHm.jpg"
+    },
+    {
+      "personId": 1271143,
+      "name": "Buddy Quaid",
+      "character": "Servant (uncredited)",
+      "order": 18,
+      "cast_id": 50,
+      "popularity": 2.2522,
+      "profile_path": "/rR1oUEXRIK7Vykionsn3aH7LSCk.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 18878,
+      "name": "Rob Cohen",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.4097,
+      "profile_path": "/kVbB8Q0g8eXsn8l81flyC6TgMPW.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1400,
+      "name": "swordplay"
+    },
+    {
+      "id": 2343,
+      "name": "magic"
+    },
+    {
+      "id": 4152,
+      "name": "kingdom"
+    },
+    {
+      "id": 4978,
+      "name": "immortality"
+    },
+    {
+      "id": 3071,
+      "name": "prince"
+    },
+    {
+      "id": 4798,
+      "name": "despot"
+    },
+    {
+      "id": 5457,
+      "name": "mythical creature"
+    },
+    {
+      "id": 9725,
+      "name": "sword fight"
+    },
+    {
+      "id": 9748,
+      "name": "revenge"
+    },
+    {
+      "id": 10466,
+      "name": "knight"
+    },
+    {
+      "id": 10982,
+      "name": "king arthur"
+    },
+    {
+      "id": 12554,
+      "name": "dragon"
+    },
+    {
+      "id": 14643,
+      "name": "battle"
+    },
+    {
+      "id": 161257,
+      "name": "medieval"
+    },
+    {
+      "id": 173905,
+      "name": "dragonslayer"
+    },
+    {
+      "id": 211614,
+      "name": "scheme"
+    },
+    {
+      "id": 234213,
+      "name": "sword and sorcery"
+    },
+    {
+      "id": 235499,
+      "name": "10th century"
+    },
+    {
+      "id": 252344,
+      "name": "talking dragon"
+    },
+    {
+      "id": 269233,
+      "name": "good versus evil"
+    },
+    {
+      "id": 307254,
+      "name": "evil king"
+    },
+    {
+      "id": 307255,
+      "name": "last of its kind"
+    }
+  ]
+}

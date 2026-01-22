@@ -1,0 +1,307 @@
+{
+  "overview": "Victor Frankenstein is a promising young doctor who, devastated by the death of his mother during childbirth, becomes obsessed with bringing the dead back to life. His experiments lead to the creation of a monster, which Frankenstein has put together with the remains of corpses. It's not long before Frankenstein regrets his actions.",
+  "release_date": "1994-11-04",
+  "runtime": 123,
+  "budget": 45000000,
+  "revenue": 112000000,
+  "tmdb_vote_average": 6.441,
+  "tmdb_vote_count": 1324,
+  "tmdb_popularity": 2.7632,
+  "original_language": "en",
+  "poster_path": "/bOwCAQsZlEKrwhPi1ejY6BS8jpL.jpg",
+  "backdrop_path": "/qhZgRQB6ExVcbFXXGL3ISvshfJm.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Horror",
+    "Science Fiction",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 70,
+      "name": "American Zoetrope",
+      "origin_country": "US"
+    },
+    {
+      "id": 559,
+      "name": "TriStar Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 5350,
+      "name": "Japan Satellite Broadcasting",
+      "origin_country": "JP"
+    },
+    {
+      "id": 959,
+      "name": "IndieProd Company Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 380,
+      "name": "Robert De Niro",
+      "character": "The Creature / Sharp Featured Man",
+      "order": 0,
+      "cast_id": 16,
+      "popularity": 9.7751,
+      "profile_path": "/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+    },
+    {
+      "personId": 11181,
+      "name": "Kenneth Branagh",
+      "character": "Victor Frankenstein",
+      "order": 1,
+      "cast_id": 17,
+      "popularity": 4.0633,
+      "profile_path": "/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg"
+    },
+    {
+      "personId": 3999,
+      "name": "Tom Hulce",
+      "character": "Henry Clerval",
+      "order": 2,
+      "cast_id": 18,
+      "popularity": 2.2701,
+      "profile_path": "/sQslzbyYZr4Qjv55VseLbbjpuMY.jpg"
+    },
+    {
+      "personId": 1283,
+      "name": "Helena Bonham Carter",
+      "character": "Elizabeth",
+      "order": 3,
+      "cast_id": 19,
+      "popularity": 5.2193,
+      "profile_path": "/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
+    },
+    {
+      "personId": 18992,
+      "name": "Aidan Quinn",
+      "character": "Cap. Robert Walton",
+      "order": 4,
+      "cast_id": 20,
+      "popularity": 2.4949,
+      "profile_path": "/viUuUmhiGdsfoQh0IpO5N312qNd.jpg"
+    },
+    {
+      "personId": 65,
+      "name": "Ian Holm",
+      "character": "Baron Frankenstein",
+      "order": 5,
+      "cast_id": 21,
+      "popularity": 2.364,
+      "profile_path": "/cOJDgvgj4nMec6Inzj1H5nugTO5.jpg"
+    },
+    {
+      "personId": 29859,
+      "name": "Richard Briers",
+      "character": "Grandfather",
+      "order": 6,
+      "cast_id": 22,
+      "popularity": 1.1077,
+      "profile_path": "/gNsEDp8K7dRYVxYeHNgelOiOO97.jpg"
+    },
+    {
+      "personId": 8930,
+      "name": "John Cleese",
+      "character": "Prof. Waldman",
+      "order": 7,
+      "cast_id": 23,
+      "popularity": 3.5435,
+      "profile_path": "/dhDw43v7EY52GG3Z4H8B9mr2s9p.jpg"
+    },
+    {
+      "personId": 23076,
+      "name": "Robert Hardy",
+      "character": "Prof. Krempe",
+      "order": 8,
+      "cast_id": 24,
+      "popularity": 1.5765,
+      "profile_path": "/5FK7rDWRsbNwAMsHHpkpeGafFtu.jpg"
+    },
+    {
+      "personId": 20768,
+      "name": "Cherie Lunghi",
+      "character": "Caroline Beaufort Frankenstein",
+      "order": 9,
+      "cast_id": 25,
+      "popularity": 1.5344,
+      "profile_path": "/LoIGKqUw3d58MrVsLpw22goYCK.jpg"
+    },
+    {
+      "personId": 9139,
+      "name": "Celia Imrie",
+      "character": "Mrs. Moritz",
+      "order": 10,
+      "cast_id": 26,
+      "popularity": 3.6367,
+      "profile_path": "/eEtVfESOVnkkdPLYkyQpalEwAwj.jpg"
+    },
+    {
+      "personId": 29860,
+      "name": "Trevyn McDowell",
+      "character": "Justine",
+      "order": 11,
+      "cast_id": 27,
+      "popularity": 0.4562,
+      "profile_path": null
+    },
+    {
+      "personId": 195309,
+      "name": "Mark Hadfield",
+      "character": "Felix",
+      "order": 12,
+      "cast_id": 112,
+      "popularity": 1.5713,
+      "profile_path": "/um8w6IJxgmUdVUdnQj8BEWAR2lt.jpg"
+    },
+    {
+      "personId": 56101,
+      "name": "Gerard Horan",
+      "character": "Claude",
+      "order": 13,
+      "cast_id": 111,
+      "popularity": 1.7007,
+      "profile_path": "/crvohW6KrgAZUgoBE8IwKN5ErxQ.jpg"
+    },
+    {
+      "personId": 195471,
+      "name": "Joanna Roth",
+      "character": "Marie",
+      "order": 14,
+      "cast_id": 113,
+      "popularity": 1.0881,
+      "profile_path": null
+    },
+    {
+      "personId": 938577,
+      "name": "Alfred Bell",
+      "character": "Landlord",
+      "order": 15,
+      "cast_id": 116,
+      "popularity": 0.3849,
+      "profile_path": null
+    },
+    {
+      "personId": 2232470,
+      "name": "Sasha Hanau",
+      "character": "Maggie",
+      "order": 16,
+      "cast_id": 114,
+      "popularity": 0.3516,
+      "profile_path": null
+    },
+    {
+      "personId": 2232156,
+      "name": "Joseph England",
+      "character": "Thomas",
+      "order": 17,
+      "cast_id": 115,
+      "popularity": 0.3163,
+      "profile_path": null
+    },
+    {
+      "personId": 186389,
+      "name": "Richard Clifford",
+      "character": "Minister",
+      "order": 18,
+      "cast_id": 117,
+      "popularity": 0.8628,
+      "profile_path": "/2aIJ0omA2KlicAyo7C6xkzi8LGZ.jpg"
+    },
+    {
+      "personId": 1243338,
+      "name": "George Asprey",
+      "character": "Policeman",
+      "order": 19,
+      "cast_id": 118,
+      "popularity": 1.4419,
+      "profile_path": "/9v3kXtXNtBVTWRe8qC8TodLX4Ab.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 11181,
+      "name": "Kenneth Branagh",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 4.0633,
+      "profile_path": "/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1706,
+      "name": "experiment"
+    },
+    {
+      "id": 9714,
+      "name": "remake"
+    },
+    {
+      "id": 15032,
+      "name": "gothic horror"
+    },
+    {
+      "id": 162810,
+      "name": "macabre"
+    },
+    {
+      "id": 200918,
+      "name": "angry"
+    },
+    {
+      "id": 212737,
+      "name": "philosophical"
+    },
+    {
+      "id": 249629,
+      "name": "goth"
+    },
+    {
+      "id": 251667,
+      "name": "anxious"
+    },
+    {
+      "id": 292593,
+      "name": "intimate"
+    },
+    {
+      "id": 325773,
+      "name": "audacious"
+    },
+    {
+      "id": 325780,
+      "name": "callous"
+    },
+    {
+      "id": 325786,
+      "name": "compassionate"
+    },
+    {
+      "id": 325853,
+      "name": "sympathetic"
+    },
+    {
+      "id": 363954,
+      "name": "cólera"
+    }
+  ]
+}

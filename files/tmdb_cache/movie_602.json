@@ -1,0 +1,328 @@
+{
+  "overview": "Strange phenomena surface around the globe. The skies ignite. Terror races through the world's major cities. As these extraordinary events unfold, it becomes increasingly clear that a force of incredible magnitude has arrived. Its mission: total annihilation over the Fourth of July weekend. The last hope to stop the destruction is an unlikely group of people united by fate and unimaginable circumstances.",
+  "release_date": "1996-06-25",
+  "runtime": 145,
+  "budget": 75000000,
+  "revenue": 817400891,
+  "tmdb_vote_average": 6.898,
+  "tmdb_vote_count": 10123,
+  "tmdb_popularity": 9.7742,
+  "original_language": "en",
+  "poster_path": "/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg",
+  "backdrop_path": "/kFI1oF6KVnLEbUT7yLIbKXeyvu.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    {
+      "id": 25,
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    },
+    {
+      "id": 347,
+      "name": "Centropolis Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2888,
+      "name": "Will Smith",
+      "character": "Capt. Steven Hiller",
+      "order": 0,
+      "cast_id": 16,
+      "popularity": 7.0496,
+      "profile_path": "/8TlKqbXYgHmmaEoPBJ7djJ8Rxxa.jpg"
+    },
+    {
+      "personId": 8984,
+      "name": "Bill Pullman",
+      "character": "President Thomas J. Whitmore",
+      "order": 1,
+      "cast_id": 17,
+      "popularity": 3.8015,
+      "profile_path": "/AlLhgmcX5zh3frPT82OSPY9gqXO.jpg"
+    },
+    {
+      "personId": 4785,
+      "name": "Jeff Goldblum",
+      "character": "David Levinson",
+      "order": 2,
+      "cast_id": 18,
+      "popularity": 5.6565,
+      "profile_path": "/ceSmXnD0FUSTaq2WIrnZu9caL0t.jpg"
+    },
+    {
+      "personId": 1581,
+      "name": "Mary McDonnell",
+      "character": "Marilyn Whitmore",
+      "order": 3,
+      "cast_id": 19,
+      "popularity": 5.347,
+      "profile_path": "/qqdaaFLEPXbB8thVJJkYJ4WoAuj.jpg"
+    },
+    {
+      "personId": 6167,
+      "name": "Judd Hirsch",
+      "character": "Julius Levinson",
+      "order": 4,
+      "cast_id": 20,
+      "popularity": 2.4073,
+      "profile_path": "/7rJ0TZfMoPLTcO203tHhE6tcPKP.jpg"
+    },
+    {
+      "personId": 1162,
+      "name": "Robert Loggia",
+      "character": "General William Grey",
+      "order": 5,
+      "cast_id": 21,
+      "popularity": 3.5124,
+      "profile_path": "/mRSUgJnfprCNw83pyVfpfW7ryfK.jpg"
+    },
+    {
+      "personId": 1811,
+      "name": "Randy Quaid",
+      "character": "Russell Casse",
+      "order": 6,
+      "cast_id": 22,
+      "popularity": 3.2668,
+      "profile_path": "/rGWvDokcMLIwck10dKIutSoTM9r.jpg"
+    },
+    {
+      "personId": 8985,
+      "name": "Margaret Colin",
+      "character": "Constance Spano",
+      "order": 7,
+      "cast_id": 23,
+      "popularity": 2.4222,
+      "profile_path": "/tsg9bGtD1mY1FLKIeIFUNeD5jpm.jpg"
+    },
+    {
+      "personId": 8986,
+      "name": "James Rebhorn",
+      "character": "Albert Nimzicki",
+      "order": 8,
+      "cast_id": 25,
+      "popularity": 2.1243,
+      "profile_path": "/jRdR3q28gTPQU6eWRgiIqzGuMKU.jpg"
+    },
+    {
+      "personId": 7420,
+      "name": "Harvey Fierstein",
+      "character": "Marty Gilbert",
+      "order": 9,
+      "cast_id": 145,
+      "popularity": 1.4428,
+      "profile_path": "/4th4mr9iR23DdjFjVGhrtCnJRNq.jpg"
+    },
+    {
+      "personId": 2059,
+      "name": "Adam Baldwin",
+      "character": "Major Mitchell",
+      "order": 10,
+      "cast_id": 27,
+      "popularity": 2.2444,
+      "profile_path": "/rtRCD2rl9k3RVgyv3cHaUJer0Ms.jpg"
+    },
+    {
+      "personId": 1213786,
+      "name": "Brent Spiner",
+      "character": "Dr. Brackish Okun",
+      "order": 11,
+      "cast_id": 85,
+      "popularity": 1.7415,
+      "profile_path": "/wHaOTfxOEKOPssDYaSSB5zenml4.jpg"
+    },
+    {
+      "personId": 1582,
+      "name": "James Duval",
+      "character": "Miguel",
+      "order": 12,
+      "cast_id": 29,
+      "popularity": 1.8533,
+      "profile_path": "/vvasxKKPnxv2qOoXTnaXW3ecGLO.jpg"
+    },
+    {
+      "personId": 2535,
+      "name": "Vivica A. Fox",
+      "character": "Jasmine Dubrow",
+      "order": 13,
+      "cast_id": 24,
+      "popularity": 2.9027,
+      "profile_path": "/oIzevp0dqjIxqRQ2VoSzjiDCBt.jpg"
+    },
+    {
+      "personId": 8987,
+      "name": "Lisa Jakub",
+      "character": "Alicia",
+      "order": 14,
+      "cast_id": 30,
+      "popularity": 3.0055,
+      "profile_path": "/6lgi7ietMAsarGhEvjWZFjDA3S2.jpg"
+    },
+    {
+      "personId": 67382,
+      "name": "Ross Bagley",
+      "character": "Dylan",
+      "order": 15,
+      "cast_id": 167,
+      "popularity": 1.7803,
+      "profile_path": "/modarNXEmohsS1cEstQ6ppVeMlX.jpg"
+    },
+    {
+      "personId": 52404,
+      "name": "Mae Whitman",
+      "character": "Patricia Whitmore",
+      "order": 16,
+      "cast_id": 33,
+      "popularity": 3.8121,
+      "profile_path": "/hO1xLbFrfQLKH3Ln8eqjySgtxHX.jpg"
+    },
+    {
+      "personId": 17200,
+      "name": "Bill Smitrovich",
+      "character": "Captain Watson",
+      "order": 17,
+      "cast_id": 168,
+      "popularity": 2.0011,
+      "profile_path": "/yzZUYnAdX0MMA8eZMTVsXufRCfU.jpg"
+    },
+    {
+      "personId": 23504,
+      "name": "Kiersten Warren",
+      "character": "Tiffany",
+      "order": 18,
+      "cast_id": 34,
+      "popularity": 1.585,
+      "profile_path": "/1hFHgbKDQiuRr8vdFqbnEjAvUGj.jpg"
+    },
+    {
+      "personId": 18688,
+      "name": "Harry Connick Jr.",
+      "character": "Capt. Jimmy Wilder",
+      "order": 19,
+      "cast_id": 32,
+      "popularity": 1.514,
+      "profile_path": "/il1t0cshowbZ6mMtH1930baQx9n.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 6046,
+      "name": "Roland Emmerich",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.9675,
+      "profile_path": "/mN8x74uv9yQ7dJl8nh2q26mkY8v.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1612,
+      "name": "spacecraft"
+    },
+    {
+      "id": 797,
+      "name": "showdown"
+    },
+    {
+      "id": 4097,
+      "name": "independence"
+    },
+    {
+      "id": 1627,
+      "name": "patriotism"
+    },
+    {
+      "id": 1825,
+      "name": "countdown"
+    },
+    {
+      "id": 4278,
+      "name": "invasion"
+    },
+    {
+      "id": 9951,
+      "name": "alien"
+    },
+    {
+      "id": 9738,
+      "name": "ufo"
+    },
+    {
+      "id": 9739,
+      "name": "extraterrestrial"
+    },
+    {
+      "id": 13031,
+      "name": "creature"
+    },
+    {
+      "id": 14643,
+      "name": "battle"
+    },
+    {
+      "id": 14909,
+      "name": "alien invasion"
+    },
+    {
+      "id": 176217,
+      "name": "world domination"
+    },
+    {
+      "id": 177163,
+      "name": "area 51"
+    },
+    {
+      "id": 186497,
+      "name": "human vs alien"
+    },
+    {
+      "id": 202371,
+      "name": "aggressive"
+    },
+    {
+      "id": 269233,
+      "name": "good versus evil"
+    },
+    {
+      "id": 311315,
+      "name": "dramatic"
+    },
+    {
+      "id": 314730,
+      "name": "suspenseful"
+    },
+    {
+      "id": 325772,
+      "name": "assertive"
+    },
+    {
+      "id": 325773,
+      "name": "audacious"
+    },
+    {
+      "id": 325781,
+      "name": "celebratory"
+    },
+    {
+      "id": 325785,
+      "name": "commanding"
+    }
+  ]
+}

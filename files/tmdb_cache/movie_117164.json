@@ -1,0 +1,253 @@
+{
+  "overview": "Detective-turned-bodyguard Cynthia McKay is hired by a psychotic, icy seductress, Nina Lindell, the same woman who killed McKay's lover months earlier.  With vendetta in her heart, McKay accompanies a flamboyantly playful womanizer through the glamorous world of the super-rich, as his protector.  In a unique role reversal, it is the woman protecting the man from another woman, erupting into a deadly triangle of passion, suspense and action.",
+  "release_date": "1994-11-14",
+  "runtime": 97,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 4.4,
+  "tmdb_vote_count": 17,
+  "tmdb_popularity": 4.6684,
+  "original_language": "en",
+  "poster_path": "/AoRBM85EbRY9U0jtgy88DtV99Jl.jpg",
+  "backdrop_path": "/c62gkhlEjKDosmhOZjJ98VIrUBn.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Thriller",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 125558,
+      "name": "PM Entertainment Group",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "de",
+      "name": "Deutsch"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 74375,
+      "name": "Cynthia Rothrock",
+      "character": "Cynthia McKay",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.2471,
+      "profile_path": "/beYPJbNlN3zHC54Ii6WWS5U4B4R.jpg"
+    },
+    {
+      "personId": 63941,
+      "name": "Marshall R. Teague",
+      "character": "Nick",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 2.1511,
+      "profile_path": "/yOlxb4cz9qzp6vDAE248VXH6lTK.jpg"
+    },
+    {
+      "personId": 1093379,
+      "name": "Daniel McVicar",
+      "character": "Hobbs",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 1.9022,
+      "profile_path": "/iKRt7y2NL8yo1mKSUklnPb16v2i.jpg"
+    },
+    {
+      "personId": 42137,
+      "name": "Lydie Denier",
+      "character": "Nina",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 0.8006,
+      "profile_path": "/6pyAo3TASdlB1SduzkehFhMtb0m.jpg"
+    },
+    {
+      "personId": 53552,
+      "name": "John O'Leary",
+      "character": "Clayton",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 1.4918,
+      "profile_path": "/v73J1QaYPRobDRDIqJYRqCDx52V.jpg"
+    },
+    {
+      "personId": 112159,
+      "name": "Art Camacho",
+      "character": "Jimmy Lee",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 0.5346,
+      "profile_path": "/5r43Lo6EYrtqnRdzHKgioyrNruN.jpg"
+    },
+    {
+      "personId": 62715,
+      "name": "Robert Miano",
+      "character": "David",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 1.0569,
+      "profile_path": "/5kVa6TValftXzWjWX8JZzJepHD0.jpg"
+    },
+    {
+      "personId": 1040948,
+      "name": "Ken McLeod",
+      "character": "Ostendorf",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 2.1203,
+      "profile_path": "/zAlR6aO364kHxQk2ZY2BnTO73Ot.jpg"
+    },
+    {
+      "personId": 48587,
+      "name": "Brian Brophy",
+      "character": "Slick",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 1.9059,
+      "profile_path": "/cvC2xxeBgeGSQVBvqJBy7tVgiIw.jpg"
+    },
+    {
+      "personId": 162556,
+      "name": "Dennis Paladino",
+      "character": "Tommy",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 1.2688,
+      "profile_path": null
+    },
+    {
+      "personId": 154762,
+      "name": "Joe Sabatino",
+      "character": "Katz",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 0.724,
+      "profile_path": "/xwK2ciEgtElXW3L7XT6kOFdqth5.jpg"
+    },
+    {
+      "personId": 25808,
+      "name": "Aharon Ipalé",
+      "character": "Batania",
+      "order": 11,
+      "cast_id": 15,
+      "popularity": 1.2881,
+      "profile_path": "/fpIXU27F2iC6w0EyKnBDbn5rghI.jpg"
+    },
+    {
+      "personId": 1871912,
+      "name": "Pablo Marz",
+      "character": "Lenny G",
+      "order": 12,
+      "cast_id": 16,
+      "popularity": 0.5049,
+      "profile_path": null
+    },
+    {
+      "personId": 1548716,
+      "name": "Tonya Lawson",
+      "character": "Yellow Bikini",
+      "order": 13,
+      "cast_id": 12,
+      "popularity": 1.3327,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 100505,
+      "name": "Richard W. Munchkin",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7178,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 779,
+      "name": "martial arts"
+    },
+    {
+      "id": 720,
+      "name": "helicopter"
+    },
+    {
+      "id": 3088,
+      "name": "bodyguard"
+    },
+    {
+      "id": 11522,
+      "name": "police officer killed"
+    },
+    {
+      "id": 12391,
+      "name": "boat chase"
+    },
+    {
+      "id": 15090,
+      "name": "police officer"
+    },
+    {
+      "id": 18432,
+      "name": "female martial artist"
+    },
+    {
+      "id": 155546,
+      "name": "female police officer"
+    },
+    {
+      "id": 168359,
+      "name": "police surveillance"
+    },
+    {
+      "id": 180996,
+      "name": "counterfeit money"
+    },
+    {
+      "id": 190007,
+      "name": "mental hospital"
+    },
+    {
+      "id": 218121,
+      "name": "murder of a police officer"
+    },
+    {
+      "id": 234978,
+      "name": "jetski"
+    },
+    {
+      "id": 267608,
+      "name": "corrupt cop"
+    },
+    {
+      "id": 326087,
+      "name": "female bodyguard"
+    },
+    {
+      "id": 326088,
+      "name": "shooting a police officer"
+    },
+    {
+      "id": 326090,
+      "name": "speedboat chase"
+    },
+    {
+      "id": 326091,
+      "name": "horse polo"
+    }
+  ]
+}

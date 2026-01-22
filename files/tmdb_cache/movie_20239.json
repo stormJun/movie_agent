@@ -1,0 +1,210 @@
+{
+  "overview": "Chronicling the controversial career of bad boys N.W.H. (Niggaz With Hats), this uproarious 'mockumentary' lampoons all of hardcore rap's hot-button issues. This underground laugh riot recounts the rise, fall and resurrection of a clueless bunch of would-be rappers, Ice Cold, Tone-Def & Tasty Taste performing as N.W.H.",
+  "release_date": "1994-06-03",
+  "runtime": 88,
+  "budget": 1000000,
+  "revenue": 233824,
+  "tmdb_vote_average": 5.898,
+  "tmdb_vote_count": 49,
+  "tmdb_popularity": 0.3804,
+  "original_language": "en",
+  "poster_path": "/jiJp7B74GBKJK8yCqLjMaFu24nJ.jpg",
+  "backdrop_path": "/5ezE1ThLm4zLUX9VbXFXlXFePwt.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Music"
+  ],
+  "production_companies": [
+    {
+      "id": 798,
+      "name": "The Samuel Goldwyn Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 1155,
+      "name": "ITC Entertainment",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 67893,
+      "name": "Larry B. Scott",
+      "character": "Tasty Taste",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 0.9515,
+      "profile_path": "/5T6qtSbpDlI7GLOdd8eZKPtjhjj.jpg"
+    },
+    {
+      "personId": 33501,
+      "name": "Mark Christopher Lawrence",
+      "character": "Tone Def",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 0.9321,
+      "profile_path": "/uQgXQbaDS0hoPyqUhs5Z97KIZPA.jpg"
+    },
+    {
+      "personId": 141825,
+      "name": "Rusty Cundieff",
+      "character": "Ice Cold",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 0.7274,
+      "profile_path": "/14re77GRWUNrI3gEGIiCSRGqtVL.jpg"
+    },
+    {
+      "personId": 51864,
+      "name": "Kasi Lemmons",
+      "character": "Nina Blackburn",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.0394,
+      "profile_path": "/7iiZTyu8TnN242AS9m3LcrwVuzz.jpg"
+    },
+    {
+      "personId": 32649,
+      "name": "G. Smokey Campbell",
+      "character": "Backstage Manager 1",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.5397,
+      "profile_path": "/bIWEckVYUQQmm7mtLhb5E9NJq0N.jpg"
+    },
+    {
+      "personId": 62066,
+      "name": "Faizon Love",
+      "character": "Jam Boy 1",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 2.3717,
+      "profile_path": "/dK3hUGpG3SzmqTCy6rQzyK6YaCy.jpg"
+    },
+    {
+      "personId": 541733,
+      "name": "Deezer D",
+      "character": "Jam Boy 2",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 0.9047,
+      "profile_path": "/zIBcfwtnfTAcXDJXuGDQW2Gn2LX.jpg"
+    },
+    {
+      "personId": 174966,
+      "name": "Devin Kamin",
+      "character": "Vanilla Sherbet",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 3.0144,
+      "profile_path": "/p9Jde3yAYaHrNILO4tkhfYSzKzn.jpg"
+    },
+    {
+      "personId": 163474,
+      "name": "Don Reed",
+      "character": "Daryll in Charge",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 0.5943,
+      "profile_path": "/qNBK2He4GFINiZELWT0dFKhWLr.jpg"
+    },
+    {
+      "personId": 8689,
+      "name": "Barry Shabaka Henley",
+      "character": "Geoffrey Lennox",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 1.6122,
+      "profile_path": "/q0hI6T9OlmdUYdjYRX8K3pdRnYH.jpg"
+    },
+    {
+      "personId": 1218219,
+      "name": "Penny Johnson Jerald",
+      "character": "Re-Re",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 2.093,
+      "profile_path": "/lWB66icA4Cwyg8WfAdDmZDG1uS7.jpg"
+    },
+    {
+      "personId": 69447,
+      "name": "Rose Jackson",
+      "character": "Cheryl C.",
+      "order": 11,
+      "cast_id": 16,
+      "popularity": 1.3641,
+      "profile_path": "/us3qc4mXEScTBpnneTtMhSykedo.jpg"
+    },
+    {
+      "personId": 3155754,
+      "name": "LaVerne Anderson",
+      "character": "Sage",
+      "order": 12,
+      "cast_id": 17,
+      "popularity": 2.2168,
+      "profile_path": "/IYg1IQ68Mt9dRqrtQ0G9HABYvL.jpg"
+    },
+    {
+      "personId": 44995,
+      "name": "Monique Gabrielle",
+      "character": "Girl in Music Video",
+      "order": 13,
+      "cast_id": 19,
+      "popularity": 5.648,
+      "profile_path": "/yBXkvJZvBBWOQyPRY5RJAeteJ3N.jpg"
+    },
+    {
+      "personId": 2764832,
+      "name": "Homeselle Joy",
+      "character": "Mabel Ann Jackson",
+      "order": 14,
+      "cast_id": 20,
+      "popularity": 0.2922,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 141825,
+      "name": "Rusty Cundieff",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7274,
+      "profile_path": "/14re77GRWUNrI3gEGIiCSRGqtVL.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 898,
+      "name": "hip-hop"
+    },
+    {
+      "id": 4048,
+      "name": "musician"
+    },
+    {
+      "id": 11800,
+      "name": "mockumentary"
+    },
+    {
+      "id": 11931,
+      "name": "spoof"
+    }
+  ]
+}

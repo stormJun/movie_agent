@@ -1,0 +1,267 @@
+{
+  "overview": "Nick, a gay, HIV-positive architect, begins to display severe symptoms of AIDS and makes preparations to kill himself before he is unable to function normally. He arranges a party to reconnect and say goodbye to his closest friends and his confused parents. But when his ex-partner, Brandon, a television director who left Nick when he was diagnosed with HIV, shows up, what was supposed to be a celebratory event becomes much more difficult for everyone.",
+  "release_date": "1996-03-22",
+  "runtime": 110,
+  "budget": 0,
+  "revenue": 622503,
+  "tmdb_vote_average": 6.1,
+  "tmdb_vote_count": 36,
+  "tmdb_popularity": 0.9913,
+  "original_language": "en",
+  "poster_path": "/ltrjg99gc3bA3P5E6WaIbGMxWHS.jpg",
+  "backdrop_path": "/81Rf7XnNEP4ttNbAl2zQRWOt9eY.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 5270,
+      "name": "Opala Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 60,
+      "name": "United Artists",
+      "origin_country": "US"
+    },
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 21315,
+      "name": "Eric Roberts",
+      "character": "Nick Stark",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 5.9778,
+      "profile_path": "/NiWg1TaUcal7xn1ZQeyA2dLd5F.jpg"
+    },
+    {
+      "personId": 29370,
+      "name": "Gregory Harrison",
+      "character": "Brandon Theis",
+      "order": 1,
+      "cast_id": 7,
+      "popularity": 1.0891,
+      "profile_path": "/jAM849EA6rE8N6Ma6i9Ne9qw8gN.jpg"
+    },
+    {
+      "personId": 30123,
+      "name": "Lee Grant",
+      "character": "Amalia Stark",
+      "order": 2,
+      "cast_id": 9,
+      "popularity": 5.5215,
+      "profile_path": "/fM3VAVGzKlmuvc0DPmxuAZNH9oi.jpg"
+    },
+    {
+      "personId": 52374,
+      "name": "Bruce Davison",
+      "character": "Rodney Bingham",
+      "order": 3,
+      "cast_id": 8,
+      "popularity": 2.5334,
+      "profile_path": "/41JtouCUhnnBwWmdsemPydtk3FB.jpg"
+    },
+    {
+      "personId": 8892,
+      "name": "Olivia Newton-John",
+      "character": "Lina Bingham",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.978,
+      "profile_path": "/pPgHm4ToBirjWcuOTrEMxS82stP.jpg"
+    },
+    {
+      "personId": 54455,
+      "name": "Devon Gummersall",
+      "character": "Andrew Bingham",
+      "order": 5,
+      "cast_id": 18,
+      "popularity": 1.1397,
+      "profile_path": "/yCMfsk2sQCnAmcEda0DmMQAsXbC.jpg"
+    },
+    {
+      "personId": 19797,
+      "name": "Marlee Matlin",
+      "character": "Daphne Stark",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 1.2459,
+      "profile_path": "/1iV3yA07kdj7RFj2yyzwO2T6M8o.jpg"
+    },
+    {
+      "personId": 11152,
+      "name": "Margaret Cho",
+      "character": "Charlene Lee",
+      "order": 7,
+      "cast_id": 2,
+      "popularity": 1.2612,
+      "profile_path": "/lsHpa4aRrBMn7LtFX8AdPTFBMGY.jpg"
+    },
+    {
+      "personId": 18364,
+      "name": "George Segal",
+      "character": "Paul Stark",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 1.583,
+      "profile_path": "/nkAMWhWNdCaRp1wPOOsaXuWnwoB.jpg"
+    },
+    {
+      "personId": 4689,
+      "name": "Bronson Pinchot",
+      "character": "Monty Tipton",
+      "order": 9,
+      "cast_id": 1,
+      "popularity": 1.3519,
+      "profile_path": "/oBQE58X65ANq4jY1d8iMDohl72w.jpg"
+    },
+    {
+      "personId": 7505,
+      "name": "Roddy McDowall",
+      "character": "Damian Knowles",
+      "order": 10,
+      "cast_id": 4,
+      "popularity": 2.4145,
+      "profile_path": "/mGO0pDPi5p91k2Og09HTf270rxL.jpg"
+    },
+    {
+      "personId": 42745,
+      "name": "Steve Antin",
+      "character": "Zack Phillips",
+      "order": 11,
+      "cast_id": 19,
+      "popularity": 1.1375,
+      "profile_path": "/id9xROmosHeF1W4HqDu8oi2zeF3.jpg"
+    },
+    {
+      "personId": 9805,
+      "name": "Sally Kellerman",
+      "character": "Sara Hart",
+      "order": 12,
+      "cast_id": 14,
+      "popularity": 2.2319,
+      "profile_path": "/dcErCXrb3DWfC9Hw77EifoIlMSY.jpg"
+    },
+    {
+      "personId": 1087648,
+      "name": "Lou Liberatore",
+      "character": "Joel Ferris",
+      "order": 13,
+      "cast_id": 37,
+      "popularity": 0.7259,
+      "profile_path": "/5EP8FG4FuvUwOfjaqbkw9Coo37R.jpg"
+    },
+    {
+      "personId": 13026,
+      "name": "Nina Foch",
+      "character": "Brandon's mother",
+      "order": 14,
+      "cast_id": 15,
+      "popularity": 1.6161,
+      "profile_path": "/zkSVQYtUBFKpoBXCyIA0dW8N5Tj.jpg"
+    },
+    {
+      "personId": 42740,
+      "name": "Christopher Atkins",
+      "character": "Jack Allen",
+      "order": 15,
+      "cast_id": 13,
+      "popularity": 1.4149,
+      "profile_path": "/jLuwUuLaPaLYHUJ8pqzNwnr2IyG.jpg"
+    },
+    {
+      "personId": 27770,
+      "name": "Dennis Christopher",
+      "character": "Douglas Reedy",
+      "order": 16,
+      "cast_id": 38,
+      "popularity": 2.831,
+      "profile_path": "/bZMnSpQ6KEBuwUfnngNEpmqhEK.jpg"
+    },
+    {
+      "personId": 74570,
+      "name": "Ron Glass",
+      "character": "Dr. David Wahl",
+      "order": 17,
+      "cast_id": 39,
+      "popularity": 1.4395,
+      "profile_path": "/wXkS9e8VZPWlc7jK3AaMXZ2OTUx.jpg"
+    },
+    {
+      "personId": 171737,
+      "name": "Paul Regina",
+      "character": "Tony Zamara",
+      "order": 18,
+      "cast_id": 40,
+      "popularity": 0.4552,
+      "profile_path": "/m2zwmTlWD9QpkVUALQrbEFOiCnK.jpg"
+    },
+    {
+      "personId": 1220923,
+      "name": "Dimitra Arliss",
+      "character": "Fanny Kondos",
+      "order": 19,
+      "cast_id": 17,
+      "popularity": 0.8908,
+      "profile_path": "/rhGEghV0oYvZzYXyYISHFkIUurB.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 8876,
+      "name": "Randal Kleiser",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.9399,
+      "profile_path": "/t0HFkRWh3K06XhyTuJTvsVAd0Hh.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 740,
+      "name": "aids"
+    },
+    {
+      "id": 6564,
+      "name": "terminal illness"
+    },
+    {
+      "id": 9766,
+      "name": "hiv"
+    },
+    {
+      "id": 34079,
+      "name": "death"
+    },
+    {
+      "id": 158718,
+      "name": "lgbt"
+    },
+    {
+      "id": 211553,
+      "name": "assisted suicide"
+    },
+    {
+      "id": 262235,
+      "name": "hiv/aids epidemic"
+    }
+  ]
+}

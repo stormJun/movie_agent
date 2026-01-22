@@ -1,0 +1,269 @@
+{
+  "overview": "During a routine case in L.A., NY private investigator Harry D'Amour stumbles over members of a fanatic cult who are preparing for the resurrection of their leader Nix, a powerful magician who was killed 13 years earlier.",
+  "release_date": "1995-08-25",
+  "runtime": 109,
+  "budget": 0,
+  "revenue": 13294594,
+  "tmdb_vote_average": 6.0,
+  "tmdb_vote_count": 363,
+  "tmdb_popularity": 1.0897,
+  "original_language": "en",
+  "poster_path": "/8MZu8s01psozeTuD6OzstP4vSvM.jpg",
+  "backdrop_path": "/xeoSaPhZ3SCizkCQaofVB9w6iZE.jpg",
+  "tmdb_genres_raw": [
+    "Horror",
+    "Fantasy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 60,
+      "name": "United Artists",
+      "origin_country": "US"
+    },
+    {
+      "id": 3557,
+      "name": "Seraphim Films",
+      "origin_country": ""
+    },
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2154,
+      "name": "Scott Bakula",
+      "character": "Harry D'Amour",
+      "order": 0,
+      "cast_id": 13,
+      "popularity": 2.6618,
+      "profile_path": "/meZvcpXmcFlrJUeme4UpH4GZeNV.jpg"
+    },
+    {
+      "personId": 18916,
+      "name": "Kevin J. O'Connor",
+      "character": "Philip Swann",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 2.2717,
+      "profile_path": "/9ZO0QYkxjhThd8IVqSJw7gHyQ68.jpg"
+    },
+    {
+      "personId": 10696,
+      "name": "Famke Janssen",
+      "character": "Dorothea Swann",
+      "order": 2,
+      "cast_id": 14,
+      "popularity": 6.6446,
+      "profile_path": "/uvZGwNsLqe9NyA57Qlt46IkO8Bd.jpg"
+    },
+    {
+      "personId": 156136,
+      "name": "Joel Swetow",
+      "character": "Valentin",
+      "order": 3,
+      "cast_id": 20,
+      "popularity": 0.8577,
+      "profile_path": "/eYGiPqOy65ldNUfOZ5liRETs7ok.jpg"
+    },
+    {
+      "personId": 1473,
+      "name": "Daniel von Bargen",
+      "character": "Nix",
+      "order": 4,
+      "cast_id": 2,
+      "popularity": 2.4129,
+      "profile_path": "/2S03pvALrrAkXU8TdDSuYevtdBc.jpg"
+    },
+    {
+      "personId": 8214,
+      "name": "Barry Del Sherman",
+      "character": "Butterfield",
+      "order": 5,
+      "cast_id": 23,
+      "popularity": 1.7206,
+      "profile_path": "/zXLTW52g9BW9CCQ5fzxoGNLDe8P.jpg"
+    },
+    {
+      "personId": 56440,
+      "name": "Joseph Latimore",
+      "character": "Caspar Quaid",
+      "order": 6,
+      "cast_id": 4,
+      "popularity": 0.6254,
+      "profile_path": "/xhHgv4btqWwjDgqNIrHjiYJBhmq.jpg"
+    },
+    {
+      "personId": 56441,
+      "name": "Sheila Tousey",
+      "character": "Jennifer Desiderio",
+      "order": 7,
+      "cast_id": 5,
+      "popularity": 0.6363,
+      "profile_path": "/axPhHFAX1qEmtLF0PDfk5lDEsoX.jpg"
+    },
+    {
+      "personId": 3418,
+      "name": "Vincent Schiavelli",
+      "character": "Vinovich",
+      "order": 8,
+      "cast_id": 21,
+      "popularity": 2.4604,
+      "profile_path": "/8wq2WF9ohUUZZjfVxEEiUGxLHzp.jpg"
+    },
+    {
+      "personId": 55875,
+      "name": "Ashley Tesoro",
+      "character": "Young Dorothea",
+      "order": 9,
+      "cast_id": 22,
+      "popularity": 0.7771,
+      "profile_path": "/qkfJXlcIducW5eSkzrrt32ZW5Uy.jpg"
+    },
+    {
+      "personId": 56439,
+      "name": "J. Trevor Edmond",
+      "character": "Young Butterfield",
+      "order": 10,
+      "cast_id": 1,
+      "popularity": 1.7983,
+      "profile_path": "/fTRoA0brlWTJaCU05q4vM6UfIup.jpg"
+    },
+    {
+      "personId": 52145,
+      "name": "Wayne Grace",
+      "character": "Loomis",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 0.8062,
+      "profile_path": "/11uxoFw8pwHfNhUIw40L0jSdckX.jpg"
+    },
+    {
+      "personId": 1236020,
+      "name": "Jordan Marder",
+      "character": "Ray Miller",
+      "order": 12,
+      "cast_id": 25,
+      "popularity": 0.7195,
+      "profile_path": "/mGWM1cEX7OUnDFmnEmcYgxiIC8h.jpg"
+    },
+    {
+      "personId": 4158,
+      "name": "Susan Traylor",
+      "character": "Maureen Pimm",
+      "order": 13,
+      "cast_id": 26,
+      "popularity": 1.0143,
+      "profile_path": "/mAQwOoUrf4Su4MOBPPn68q9JLPx.jpg"
+    },
+    {
+      "personId": 154815,
+      "name": "Joanna Sanchez",
+      "character": "Clemenzia",
+      "order": 14,
+      "cast_id": 27,
+      "popularity": 1.4238,
+      "profile_path": "/4Qztq8t6LJs8LofGaFgxaEOF7Dd.jpg"
+    },
+    {
+      "personId": 148632,
+      "name": "McNally Sagal",
+      "character": "Detective Edison",
+      "order": 15,
+      "cast_id": 28,
+      "popularity": 1.2103,
+      "profile_path": "/y0aPgUK7xJcJmfj176hWKPApGVk.jpg"
+    },
+    {
+      "personId": 13645,
+      "name": "Danny Woodburn",
+      "character": "Forensic Photographer",
+      "order": 16,
+      "cast_id": 19,
+      "popularity": 2.1777,
+      "profile_path": "/wmxPxtUWPr7Vux9nsYpFPRGDlWM.jpg"
+    },
+    {
+      "personId": 77149,
+      "name": "Johnny Venokur",
+      "character": "Tapert",
+      "order": 17,
+      "cast_id": 30,
+      "popularity": 0.4367,
+      "profile_path": "/tAmb4Y3bsfEcOqEmG6f3jhSdJRE.jpg"
+    },
+    {
+      "personId": 8689,
+      "name": "Barry Shabaka Henley",
+      "character": "Dr. Toffler",
+      "order": 18,
+      "cast_id": 31,
+      "popularity": 1.8155,
+      "profile_path": "/q0hI6T9OlmdUYdjYRX8K3pdRnYH.jpg"
+    },
+    {
+      "personId": 149571,
+      "name": "Keith Brunsmann",
+      "character": "Snakeman",
+      "order": 19,
+      "cast_id": 32,
+      "popularity": 0.8658,
+      "profile_path": "/oJG5SxE0kCEJR7HaXMWXQYrG7pf.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 31211,
+      "name": "Clive Barker",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1275,
+      "profile_path": "/h6JebwvNTpOquhJGrmDh8zCYjQZ.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6152,
+      "name": "supernatural"
+    },
+    {
+      "id": 3419,
+      "name": "fanatic"
+    },
+    {
+      "id": 6506,
+      "name": "resurrection"
+    },
+    {
+      "id": 156174,
+      "name": "occult"
+    },
+    {
+      "id": 173162,
+      "name": "sect"
+    },
+    {
+      "id": 177912,
+      "name": "wizard"
+    },
+    {
+      "id": 351855,
+      "name": "occult detective"
+    }
+  ]
+}

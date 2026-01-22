@@ -1,0 +1,304 @@
+{
+  "overview": "Based on the Depression-era bildungsroman memoir of writer A. E. Hotchner, the film follows the story of a boy struggling to survive on his own in a hotel in St. Louis after his mother is committed to a sanatorium with tuberculosis. His father, a German immigrant and traveling salesman working for the Hamilton Watch Company, is off on long trips from which the boy cannot be certain he will return.",
+  "release_date": "1993-08-20",
+  "runtime": 103,
+  "budget": 8000000,
+  "revenue": 1214231,
+  "tmdb_vote_average": 6.8,
+  "tmdb_vote_count": 167,
+  "tmdb_popularity": 1.3413,
+  "original_language": "en",
+  "poster_path": "/vmV21mWwclW2A3lmlBejn8TyIu2.jpg",
+  "backdrop_path": "/bnN6H3vng04ofPXa0Xe7PJHFd7J.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    {
+      "id": 37,
+      "name": "Gramercy Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 316,
+      "name": "Wildwood Enterprises",
+      "origin_country": "US"
+    },
+    {
+      "id": 715,
+      "name": "Bona Fide Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 17772,
+      "name": "Jesse Bradford",
+      "character": "Aaron Kurlander",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 2.0767,
+      "profile_path": "/aT3eZzGDMKrwlYgHtwBH4KHKa64.jpg"
+    },
+    {
+      "personId": 1924,
+      "name": "Jeroen Krabbé",
+      "character": "Mr. Kurlander",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 1.6467,
+      "profile_path": "/r26lZKUeLIaUt8DMotm4mdc4EaY.jpg"
+    },
+    {
+      "personId": 28950,
+      "name": "Lisa Eichhorn",
+      "character": "Mrs. Kurlander",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 1.3498,
+      "profile_path": "/gMKTeKne8A3E8p5HxwOCX5Wts1A.jpg"
+    },
+    {
+      "personId": 650,
+      "name": "Karen Allen",
+      "character": "Miss Mathey",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 4.0592,
+      "profile_path": "/eJszpndpRzrXbSlz7RUlApoTykn.jpg"
+    },
+    {
+      "personId": 8978,
+      "name": "Spalding Gray",
+      "character": "Mr. Mungo",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 0.7913,
+      "profile_path": "/qmEBNepXpBuDnW3gdkY2sHeoGkq.jpg"
+    },
+    {
+      "personId": 4513,
+      "name": "Elizabeth McGovern",
+      "character": "Lydia",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 3.1097,
+      "profile_path": "/e69zJZNlRMDGaXuYaybnCPiJ8Cy.jpg"
+    },
+    {
+      "personId": 2407733,
+      "name": "Cameron Boyd",
+      "character": "Sullivan",
+      "order": 6,
+      "cast_id": 20,
+      "popularity": 0.1293,
+      "profile_path": null
+    },
+    {
+      "personId": 3490,
+      "name": "Adrien Brody",
+      "character": "Lester",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 6.1349,
+      "profile_path": "/qBc7ahQrpVpcllaZ5hkivsOEb3C.jpg"
+    },
+    {
+      "personId": 141762,
+      "name": "Joe Chrest",
+      "character": "Ben",
+      "order": 8,
+      "cast_id": 23,
+      "popularity": 3.8792,
+      "profile_path": "/n6Z4fFEzYjHiaEjFDkZOxGokcYs.jpg"
+    },
+    {
+      "personId": 16459,
+      "name": "John McConnell",
+      "character": "Patrolman Burns",
+      "order": 9,
+      "cast_id": 24,
+      "popularity": 2.0528,
+      "profile_path": "/gAHxNx9PhT2xVqct6ac61tKFabT.jpg"
+    },
+    {
+      "personId": 35468,
+      "name": "Amber Benson",
+      "character": "Ella McShane",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 1.7198,
+      "profile_path": "/vEBdN1BhSOG2pCZPpCb6dgj6Wer.jpg"
+    },
+    {
+      "personId": 164343,
+      "name": "Kristin Griffith",
+      "character": "Mrs. McShane",
+      "order": 11,
+      "cast_id": 25,
+      "popularity": 0.6659,
+      "profile_path": "/t0jwm5HlDYwKMasMLXig5ztFzWm.jpg"
+    },
+    {
+      "personId": 2813453,
+      "name": "Chris Samples",
+      "character": "Billy Thompson",
+      "order": 12,
+      "cast_id": 26,
+      "popularity": 0.1394,
+      "profile_path": "/81Bky87bpTSye4Olh7s9yK5Ulpq.jpg"
+    },
+    {
+      "personId": 2518263,
+      "name": "Peggy Freisen",
+      "character": "Mrs. Thompson",
+      "order": 13,
+      "cast_id": 27,
+      "popularity": 1.1557,
+      "profile_path": null
+    },
+    {
+      "personId": 25541,
+      "name": "Katherine Heigl",
+      "character": "Christina Sebastian",
+      "order": 14,
+      "cast_id": 9,
+      "popularity": 4.8174,
+      "profile_path": "/hjtNdbdy1qn25y5SGl71y8nR0Kg.jpg"
+    },
+    {
+      "personId": 103478,
+      "name": "John Durbin",
+      "character": "Mr. Sandoz",
+      "order": 15,
+      "cast_id": 28,
+      "popularity": 1.2853,
+      "profile_path": "/7CXkYB58VHwQMDvZcEQC0vjmhiC.jpg"
+    },
+    {
+      "personId": 4244,
+      "name": "Lauryn Hill",
+      "character": "Elevator Operator",
+      "order": 16,
+      "cast_id": 16,
+      "popularity": 1.0165,
+      "profile_path": "/9NXrss7UnGUptONQlhCt9lnrw3R.jpg"
+    },
+    {
+      "personId": 93688,
+      "name": "Jesse Zeigler",
+      "character": "Jealous Kid",
+      "order": 17,
+      "cast_id": 29,
+      "popularity": 0.3158,
+      "profile_path": null
+    },
+    {
+      "personId": 21153,
+      "name": "Remak Ramsay",
+      "character": "Principal Stellwater",
+      "order": 18,
+      "cast_id": 30,
+      "popularity": 0.8411,
+      "profile_path": "/9v9rslxhyrHVE4Xcj2GR7ziT6cW.jpg"
+    },
+    {
+      "personId": 2813455,
+      "name": "Fred Cherrick",
+      "character": "Woodbine Owner",
+      "order": 19,
+      "cast_id": 31,
+      "popularity": 0.1484,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1884,
+      "name": "Steven Soderbergh",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.965,
+      "profile_path": "/y8JlSDcQzd7gAaKyxFpExupMwDz.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 612,
+      "name": "hotel"
+    },
+    {
+      "id": 5571,
+      "name": "great depression"
+    },
+    {
+      "id": 7453,
+      "name": "canary"
+    },
+    {
+      "id": 14641,
+      "name": "based on memoir or autobiography"
+    },
+    {
+      "id": 159845,
+      "name": "tuberculosis"
+    },
+    {
+      "id": 170869,
+      "name": "traveling salesman"
+    },
+    {
+      "id": 171026,
+      "name": "marbles"
+    },
+    {
+      "id": 171028,
+      "name": "elevator operator"
+    },
+    {
+      "id": 171036,
+      "name": "bellboy"
+    },
+    {
+      "id": 171039,
+      "name": "lock child"
+    },
+    {
+      "id": 171040,
+      "name": "living alone"
+    },
+    {
+      "id": 171043,
+      "name": "st. louis"
+    },
+    {
+      "id": 171051,
+      "name": "against the odds"
+    },
+    {
+      "id": 171052,
+      "name": "epileptic seizure"
+    },
+    {
+      "id": 171054,
+      "name": "understanding"
+    },
+    {
+      "id": 196549,
+      "name": "children home alone"
+    }
+  ]
+}

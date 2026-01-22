@@ -1,0 +1,251 @@
+{
+  "overview": "When jobless Tommy Collins discovers that sequestered jurors earn free room and board as well as $5-a-day, he gets himself assigned to a jury in a murder trial. Once there, he does everything he can to prolong the trial and deliberations and make the sequestration more comfortable for himself.",
+  "release_date": "1995-04-12",
+  "runtime": 88,
+  "budget": 0,
+  "revenue": 17014653,
+  "tmdb_vote_average": 4.35,
+  "tmdb_vote_count": 127,
+  "tmdb_popularity": 4.3804,
+  "original_language": "en",
+  "poster_path": "/DbKQDPqBE4kCaePj4CHu6r3ZAb.jpg",
+  "backdrop_path": "/8zO4AoxU7pzH8PRjDl1phWwLuVm.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 559,
+      "name": "TriStar Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 23098,
+      "name": "Triumph Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 64998,
+      "name": "Pauly Shore",
+      "character": "Tommy Collins",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.6709,
+      "profile_path": "/uI7ctTqSIlLL7nn6UqDdqqhGNVC.jpg"
+    },
+    {
+      "personId": 13445,
+      "name": "Tia Carrere",
+      "character": "Monica",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 6.7751,
+      "profile_path": "/oAIyl8U6bMvID8gJKskeKmLB1cA.jpg"
+    },
+    {
+      "personId": 2283,
+      "name": "Stanley Tucci",
+      "character": "Frank",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 5.7697,
+      "profile_path": "/q4TanMDI5Rgsvw4SfyNbPBh4URr.jpg"
+    },
+    {
+      "personId": 1535,
+      "name": "Brian Doyle-Murray",
+      "character": "Harry",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.5426,
+      "profile_path": "/3RFH00449ppcwA0tkD1uqDvP865.jpg"
+    },
+    {
+      "personId": 3093,
+      "name": "Abe Vigoda",
+      "character": "Judge Powell",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.8221,
+      "profile_path": "/luWKPNb58IgJ2ovrtgPAzHGLLYL.jpg"
+    },
+    {
+      "personId": 16119,
+      "name": "Charles Napier",
+      "character": "Jed",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 1.9959,
+      "profile_path": "/w16LEJlHDtqGWeFCk5a7a2GDeBK.jpg"
+    },
+    {
+      "personId": 6396,
+      "name": "Richard Edson",
+      "character": "Skeets",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 1.1977,
+      "profile_path": "/vuuU7beZrawR6VZB3a2QhDVtkjg.jpg"
+    },
+    {
+      "personId": 18262,
+      "name": "Richard Riehle",
+      "character": "Principal Beasely",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 2.4741,
+      "profile_path": "/wgjBsgpzRvardVXZhNGixSw63g2.jpg"
+    },
+    {
+      "personId": 46924,
+      "name": "Alex Datcher",
+      "character": "Sarah",
+      "order": 8,
+      "cast_id": 9,
+      "popularity": 1.9139,
+      "profile_path": "/Tt0MoXBxQhmw62HoTVLElUuqAY.jpg"
+    },
+    {
+      "personId": 55755,
+      "name": "Richard T. Jones",
+      "character": "Nathan",
+      "order": 9,
+      "cast_id": 10,
+      "popularity": 3.4828,
+      "profile_path": "/hdko2C45Wr5G03Z8JwGjWMynP84.jpg"
+    },
+    {
+      "personId": 94750,
+      "name": "Sharon Barr",
+      "character": "Libby Starling",
+      "order": 10,
+      "cast_id": 11,
+      "popularity": 0.5689,
+      "profile_path": "/xkG5oZAfX9GX6ZvuPDaOj5yiNLj.jpg"
+    },
+    {
+      "personId": 10489,
+      "name": "Jack McGee",
+      "character": "Murphy",
+      "order": 11,
+      "cast_id": 12,
+      "popularity": 2.9765,
+      "profile_path": "/4fmjQ4z0Y7UraH8Pk2qxABvwmGS.jpg"
+    },
+    {
+      "personId": 78435,
+      "name": "Nick Bakay",
+      "character": "Richard Hertz",
+      "order": 12,
+      "cast_id": 13,
+      "popularity": 1.6165,
+      "profile_path": "/yzmDfEG14D8WVG1ebh1a24jUSR2.jpg"
+    },
+    {
+      "personId": 94752,
+      "name": "Ernie Lee Banks",
+      "character": "Ray",
+      "order": 13,
+      "cast_id": 14,
+      "popularity": 0.6378,
+      "profile_path": null
+    },
+    {
+      "personId": 7632,
+      "name": "Shelley Winters",
+      "character": "Mrs. Collins",
+      "order": 14,
+      "cast_id": 15,
+      "popularity": 1.5699,
+      "profile_path": "/nCWHQ21r83JmcEVEvOAIzUyiuBh.jpg"
+    },
+    {
+      "personId": 1224931,
+      "name": "Dick Vitale",
+      "character": "Hal Gibson",
+      "order": 15,
+      "cast_id": 56,
+      "popularity": 0.2458,
+      "profile_path": "/wtD2rMP3ey88G6SChPjAeqfZHpB.jpg"
+    },
+    {
+      "personId": 140778,
+      "name": "Billie Bird",
+      "character": "Rose",
+      "order": 16,
+      "cast_id": 24,
+      "popularity": 1.0617,
+      "profile_path": "/7xFN80OJw3JUk907UBJ1OWSWmcU.jpg"
+    },
+    {
+      "personId": 1179787,
+      "name": "Jorge Luis Abreu",
+      "character": "Jorge",
+      "order": 17,
+      "cast_id": 57,
+      "popularity": 0.8392,
+      "profile_path": "/dJkKhSQUJXuAKMtwVKm3PLN1cBk.jpg"
+    },
+    {
+      "personId": 6751,
+      "name": "Siobhan Fallon Hogan",
+      "character": "Heather",
+      "order": 18,
+      "cast_id": 19,
+      "popularity": 1.64,
+      "profile_path": "/5OExagnRsUcOYLMPTSrv4x2G95R.jpg"
+    },
+    {
+      "personId": 8551,
+      "name": "Gregory Cooke",
+      "character": "Fishburne",
+      "order": 19,
+      "cast_id": 58,
+      "popularity": 1.6284,
+      "profile_path": "/mGApVQVkSRJV9gZeBqtxQEhe0Nc.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 58316,
+      "name": "John Fortenberry",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4713,
+      "profile_path": "/cDOXgCxHBqIKVr4lkB6R89QoiqO.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6593,
+      "name": "stripper"
+    },
+    {
+      "id": 8881,
+      "name": "jury"
+    },
+    {
+      "id": 10639,
+      "name": "jury duty"
+    },
+    {
+      "id": 10640,
+      "name": "verdict"
+    }
+  ]
+}

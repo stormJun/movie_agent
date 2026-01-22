@@ -1,0 +1,270 @@
+{
+  "overview": "The US army is known for churning out lean mean fighting machines intent on protecting our great nation. Sergeant Ernie Bilko is the leader of a ragtag group of the sorriest soldiers ever to enlist in the armed forces.",
+  "release_date": "1996-03-29",
+  "runtime": 90,
+  "budget": 39000000,
+  "revenue": 37956793,
+  "tmdb_vote_average": 5.879,
+  "tmdb_vote_count": 375,
+  "tmdb_popularity": 3.6833,
+  "original_language": "en",
+  "poster_path": "/q4zmVdQq35ZBj8uyxsU2RCPOQxo.jpg",
+  "backdrop_path": "/kv6tpMykekRKAiktXJKffAIpdH8.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 23,
+      "name": "Imagine Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 67773,
+      "name": "Steve Martin",
+      "character": "MSG Ernest G. Bilko",
+      "order": 0,
+      "cast_id": 6,
+      "popularity": 2.8087,
+      "profile_path": "/d0KthX8hVWU9BxTCG1QUO8FURRm.jpg"
+    },
+    {
+      "personId": 707,
+      "name": "Dan Aykroyd",
+      "character": "COL John T. Hall",
+      "order": 1,
+      "cast_id": 7,
+      "popularity": 3.8321,
+      "profile_path": "/iVMmeVJx8IpCEjlGBZWzIWvX5Qo.jpg"
+    },
+    {
+      "personId": 14104,
+      "name": "Phil Hartman",
+      "character": "MAJ Colin Thorn",
+      "order": 2,
+      "cast_id": 8,
+      "popularity": 8.241,
+      "profile_path": "/m3QyeaVLzIo2fZJZaGbJalfD56t.jpg"
+    },
+    {
+      "personId": 21104,
+      "name": "Glenne Headly",
+      "character": "Rita Robbins",
+      "order": 3,
+      "cast_id": 9,
+      "popularity": 2.1512,
+      "profile_path": "/4z9baWyXNdW8rFSVgPJK7wrGzVF.jpg"
+    },
+    {
+      "personId": 15028,
+      "name": "Daryl Mitchell",
+      "character": "PFC Wally Holbrook",
+      "order": 4,
+      "cast_id": 10,
+      "popularity": 1.0154,
+      "profile_path": "/7QGYaK5HrwdEnSYyZmjXPfxwWes.jpg"
+    },
+    {
+      "personId": 2632,
+      "name": "Chris Rock",
+      "character": "1LT Oster",
+      "order": 5,
+      "cast_id": 12,
+      "popularity": 3.5031,
+      "profile_path": "/cqI8yQ00GNDV3PAAz5UeLj7vOX0.jpg"
+    },
+    {
+      "personId": 19505,
+      "name": "Mitchell Whitfield",
+      "character": "PFC Mickey Zimmerman",
+      "order": 6,
+      "cast_id": 13,
+      "popularity": 1.0275,
+      "profile_path": "/aCyQGfiRfoCNlSXQ8D2mD5f8zFn.jpg"
+    },
+    {
+      "personId": 115786,
+      "name": "Eric Edwards",
+      "character": "PVT Duane Doberman",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 1.3661,
+      "profile_path": "/19AfQogqljLovvBrm0rIyb6LXKL.jpg"
+    },
+    {
+      "personId": 6168,
+      "name": "Austin Pendleton",
+      "character": "MAJ Ebersole",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 1.775,
+      "profile_path": "/nrXfqtXDDYzSFNLPQnfLkus4I7s.jpg"
+    },
+    {
+      "personId": 15453,
+      "name": "Debra Jo Rupp",
+      "character": "Mrs. Hall",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 1.5562,
+      "profile_path": "/fUhZOSPckMspk03Lh1XgoYGqd5k.jpg"
+    },
+    {
+      "personId": 7133,
+      "name": "Max Casella",
+      "character": "SPC Dino Paparelli",
+      "order": 10,
+      "cast_id": 17,
+      "popularity": 2.5958,
+      "profile_path": "/gwjxobbLikH5UV2UROkrNxzpqI0.jpg"
+    },
+    {
+      "personId": 13732,
+      "name": "Richard Herd",
+      "character": "Gen Tennyson",
+      "order": 11,
+      "cast_id": 18,
+      "popularity": 2.1237,
+      "profile_path": "/e9ZYBIiIr2qLbeNxOXABgYOjzpW.jpg"
+    },
+    {
+      "personId": 34841,
+      "name": "Dan Ferro",
+      "character": "SPC Tony Morales",
+      "order": 12,
+      "cast_id": 19,
+      "popularity": 0.6934,
+      "profile_path": null
+    },
+    {
+      "personId": 154838,
+      "name": "Brian Leckner",
+      "character": "PFC Sam Fender",
+      "order": 13,
+      "cast_id": 20,
+      "popularity": 0.8599,
+      "profile_path": "/tVWIMEM8142abZYqZ4ZxYBcUC3F.jpg"
+    },
+    {
+      "personId": 40543,
+      "name": "John Ortiz",
+      "character": "SPC Luis Clemente",
+      "order": 14,
+      "cast_id": 21,
+      "popularity": 2.3193,
+      "profile_path": "/tMDPYhpc9nqIJAK3vtMroEH9qho.jpg"
+    },
+    {
+      "personId": 1231706,
+      "name": "Cathy Silvers",
+      "character": "1LT Monday",
+      "order": 15,
+      "cast_id": 22,
+      "popularity": 0.5463,
+      "profile_path": "/aIma2c5bgUoIGHlUHpUS8j6k50g.jpg"
+    },
+    {
+      "personId": 21063,
+      "name": "Pamela Adlon",
+      "character": "SGT Raquel Barbella",
+      "order": 16,
+      "cast_id": 23,
+      "popularity": 3.7237,
+      "profile_path": "/5eIRHUbNOH7ibXa0IfUfFvj5I5L.jpg"
+    },
+    {
+      "personId": 1194347,
+      "name": "John Marshall Jones",
+      "character": "SGT Henshaw",
+      "order": 17,
+      "cast_id": 32,
+      "popularity": 1.0727,
+      "profile_path": "/8aQ8qxVOeUx23Jw89ouj9gOwy1W.jpg"
+    },
+    {
+      "personId": 4025,
+      "name": "Steve Park",
+      "character": "CPT Moon",
+      "order": 18,
+      "cast_id": 33,
+      "popularity": 1.5192,
+      "profile_path": "/wDa3CYi7GPUcFBoi7Fg0fcCCXDc.jpg"
+    },
+    {
+      "personId": 168588,
+      "name": "Steve Kehela",
+      "character": "MSG Sowicki",
+      "order": 19,
+      "cast_id": 34,
+      "popularity": 1.2412,
+      "profile_path": "/fzuwseqyMnsZhHa34yLtKwL79JX.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 21217,
+      "name": "Jonathan Lynn",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8187,
+      "profile_path": "/q1yanpd0HSPOENuyU267euwIdgY.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6212,
+      "name": "smuggling (contraband)"
+    },
+    {
+      "id": 395,
+      "name": "gambling"
+    },
+    {
+      "id": 11138,
+      "name": "military spoof"
+    },
+    {
+      "id": 4595,
+      "name": "us army"
+    },
+    {
+      "id": 9748,
+      "name": "revenge"
+    },
+    {
+      "id": 159627,
+      "name": "con game"
+    },
+    {
+      "id": 211614,
+      "name": "scheme"
+    },
+    {
+      "id": 335179,
+      "name": "base realignment and closure commission (brac)"
+    },
+    {
+      "id": 335180,
+      "name": "military acquisitions"
+    }
+  ]
+}

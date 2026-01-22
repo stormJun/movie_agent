@@ -1,0 +1,305 @@
+{
+  "overview": "Upon his release from a mental hospital following a nervous breakdown, the directionless Anthony joins his friend Dignan, who seems far less sane than the former. Dignan has hatched a harebrained scheme for an as-yet-unspecified crime spree that somehow involves his former boss, the (supposedly) legendary Mr. Henry.",
+  "release_date": "1996-02-21",
+  "runtime": 91,
+  "budget": 7000000,
+  "revenue": 1040879,
+  "tmdb_vote_average": 6.694,
+  "tmdb_vote_count": 1138,
+  "tmdb_popularity": 4.4334,
+  "original_language": "en",
+  "poster_path": "/wOPiNYt9V3Cbr9Izeddwj7nU8RT.jpg",
+  "backdrop_path": "/yTDwyUEYHZTK35z7Iyp4QHxvVj9.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 18,
+      "name": "Gracie Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 96081,
+      "name": "Boyle-Taylor Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "es",
+      "name": "Español"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 36422,
+      "name": "Luke Wilson",
+      "character": "Anthony Adams",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.2412,
+      "profile_path": "/nH1h9dZGSBuWIOyX27HpYyYykvr.jpg"
+    },
+    {
+      "personId": 887,
+      "name": "Owen Wilson",
+      "character": "Dignan",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 5.147,
+      "profile_path": "/lFxHIlcywMlYpe6wkW39sfBrqag.jpg"
+    },
+    {
+      "personId": 52797,
+      "name": "Robert Musgrave",
+      "character": "Bob Mapplethorpe",
+      "order": 2,
+      "cast_id": 13,
+      "popularity": 0.5557,
+      "profile_path": "/cHU0RBBi8euvpFkvfzVg1zexRAB.jpg"
+    },
+    {
+      "personId": 74940,
+      "name": "Lumi Cavazos",
+      "character": "Inez",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 0.4901,
+      "profile_path": "/tYSFZAIZzaQ3klvFga8DWq8olPX.jpg"
+    },
+    {
+      "personId": 3085,
+      "name": "James Caan",
+      "character": "Mr. Abe Henry",
+      "order": 4,
+      "cast_id": 15,
+      "popularity": 3.616,
+      "profile_path": "/v3flJtQEyczxENi29yJyvnN6LVt.jpg"
+    },
+    {
+      "personId": 71555,
+      "name": "Andrew Wilson",
+      "character": "John \"Future Man\" Mapplethorpe",
+      "order": 5,
+      "cast_id": 12,
+      "popularity": 1.5259,
+      "profile_path": "/z5e7BqvOaMUzBPDep3bb2Bwv2mB.jpg"
+    },
+    {
+      "personId": 2674324,
+      "name": "Teddy Wilson",
+      "character": "Hector Mapplethorpe",
+      "order": 6,
+      "cast_id": 56,
+      "popularity": 0.1933,
+      "profile_path": null
+    },
+    {
+      "personId": 2086069,
+      "name": "Donny Caicedo",
+      "character": "Rocky",
+      "order": 7,
+      "cast_id": 41,
+      "popularity": 1.0936,
+      "profile_path": null
+    },
+    {
+      "personId": 42006,
+      "name": "Ned Dowd",
+      "character": "Dr. Nichols",
+      "order": 8,
+      "cast_id": 29,
+      "popularity": 0.6186,
+      "profile_path": "/l6DltK997GS5SIDBmwRa5ia7iLR.jpg"
+    },
+    {
+      "personId": 955807,
+      "name": "Jenni Tooley",
+      "character": "Stacy Sinclair",
+      "order": 9,
+      "cast_id": 32,
+      "popularity": 0.3974,
+      "profile_path": "/kRhCVK9CyIVwndAAJYU1KeVv3y5.jpg"
+    },
+    {
+      "personId": 1117323,
+      "name": "Shea Fowler",
+      "character": "Grace",
+      "order": 10,
+      "cast_id": 30,
+      "popularity": 0.2319,
+      "profile_path": null
+    },
+    {
+      "personId": 8690,
+      "name": "Kumar Pallana",
+      "character": "Kumar",
+      "order": 11,
+      "cast_id": 34,
+      "popularity": 0.699,
+      "profile_path": "/xmwvYrmg2DDvUH79Be54V7r905J.jpg"
+    },
+    {
+      "personId": 194294,
+      "name": "Jim Ponds",
+      "character": "Applejack",
+      "order": 12,
+      "cast_id": 46,
+      "popularity": 0.3534,
+      "profile_path": null
+    },
+    {
+      "personId": 2086924,
+      "name": "Haskel Craver",
+      "character": "Jackson",
+      "order": 13,
+      "cast_id": 48,
+      "popularity": 0.0868,
+      "profile_path": null
+    },
+    {
+      "personId": 148593,
+      "name": "Haley Miller",
+      "character": "Bernice",
+      "order": 14,
+      "cast_id": 14,
+      "popularity": 0.2647,
+      "profile_path": null
+    },
+    {
+      "personId": 1117324,
+      "name": "Brian Tenenbaum",
+      "character": "H. Clay Murchison",
+      "order": 15,
+      "cast_id": 31,
+      "popularity": 0.368,
+      "profile_path": null
+    },
+    {
+      "personId": 1117325,
+      "name": "Temple Nash",
+      "character": "Temple",
+      "order": 16,
+      "cast_id": 33,
+      "popularity": 0.2466,
+      "profile_path": null
+    },
+    {
+      "personId": 97391,
+      "name": "Darryl Cox",
+      "character": "Bookstore Manager",
+      "order": 17,
+      "cast_id": 36,
+      "popularity": 0.7363,
+      "profile_path": "/dokVBvE6DlV7gBXnLPfQo8GDC6t.jpg"
+    },
+    {
+      "personId": 2086041,
+      "name": "Dipak Pallana",
+      "character": "Bookstore Employee",
+      "order": 18,
+      "cast_id": 35,
+      "popularity": 0.2533,
+      "profile_path": null
+    },
+    {
+      "personId": 74939,
+      "name": "Stephen Dignan",
+      "character": "Rob",
+      "order": 19,
+      "cast_id": 37,
+      "popularity": 0.3779,
+      "profile_path": "/zgfsOl533j3XhTHSFdUZkSW4vDf.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 5655,
+      "name": "Wes Anderson",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 3.1273,
+      "profile_path": "/s03CeUeC5yAXyB1acqP0zGNo2SC.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 642,
+      "name": "robbery"
+    },
+    {
+      "id": 380,
+      "name": "sibling relationship"
+    },
+    {
+      "id": 1437,
+      "name": "burglar"
+    },
+    {
+      "id": 2669,
+      "name": "motel"
+    },
+    {
+      "id": 2568,
+      "name": "language barrier"
+    },
+    {
+      "id": 10051,
+      "name": "heist"
+    },
+    {
+      "id": 10323,
+      "name": "psychiatric hospital"
+    },
+    {
+      "id": 13097,
+      "name": "maid"
+    },
+    {
+      "id": 14604,
+      "name": "theft"
+    },
+    {
+      "id": 15274,
+      "name": "nervous breakdown"
+    },
+    {
+      "id": 187710,
+      "name": "escapade"
+    },
+    {
+      "id": 187717,
+      "name": "laundry room"
+    },
+    {
+      "id": 268132,
+      "name": "based on short film"
+    },
+    {
+      "id": 303310,
+      "name": "joyous"
+    },
+    {
+      "id": 309974,
+      "name": "absurd"
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "overview": "In this sprawling, fictionalized history of the Black Panthers, 1960s Oakland becomes a war zone as the Panthers battle for the right to exist.",
+  "release_date": "1995-05-03",
+  "runtime": 124,
+  "budget": 0,
+  "revenue": 6834525,
+  "tmdb_vote_average": 6.2,
+  "tmdb_vote_count": 42,
+  "tmdb_popularity": 2.5326,
+  "original_language": "en",
+  "poster_path": "/gxGOkt6WBhSIdZiQqyVEccRURVv.jpg",
+  "backdrop_path": "/wLNDiDL0o4Ht2UsLd1jGu4tCM5N.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    {
+      "id": 1382,
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 10163,
+      "name": "Working Title Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 11391,
+      "name": "Tribeca Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 37580,
+      "name": "MVP Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 66554,
+      "name": "Kadeem Hardison",
+      "character": "Judge",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 1.57,
+      "profile_path": "/swexf3AEacs9Ep2oDcaUyE5XBdj.jpg"
+    },
+    {
+      "personId": 71913,
+      "name": "Bokeem Woodbine",
+      "character": "Tyrone",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 3.4251,
+      "profile_path": "/pnPyA5pJn94zUzuLWTNkGBNZxza.jpg"
+    },
+    {
+      "personId": 10671,
+      "name": "Joe Don Baker",
+      "character": "Brimmer",
+      "order": 2,
+      "cast_id": 45,
+      "popularity": 1.7912,
+      "profile_path": "/7AEqsKLyAO3tt9bUufdirU1xXo8.jpg"
+    },
+    {
+      "personId": 24047,
+      "name": "Courtney B. Vance",
+      "character": "Bobby Seale",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 1.8285,
+      "profile_path": "/6ci3wf6oecjz875QRwryOsapW0Y.jpg"
+    },
+    {
+      "personId": 57773,
+      "name": "Tyrin Turner",
+      "character": "Cy",
+      "order": 4,
+      "cast_id": 43,
+      "popularity": 1.4101,
+      "profile_path": "/aZ515GZxxhNhR6CT2F931SrTyUo.jpg"
+    },
+    {
+      "personId": 9372,
+      "name": "Marcus Chong",
+      "character": "Huey P. Newton",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 0.942,
+      "profile_path": "/q9HQttibTj2MoXVtLjq2kKqmPrE.jpg"
+    },
+    {
+      "personId": 131118,
+      "name": "Anthony Griffith",
+      "character": "Eldridge Cleaver",
+      "order": 6,
+      "cast_id": 46,
+      "popularity": 0.4399,
+      "profile_path": "/i5MhV8kPl8jI3eNKUVMljtYLqQy.jpg"
+    },
+    {
+      "personId": 93279,
+      "name": "Bobby Brown",
+      "character": "Rose",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 0.7881,
+      "profile_path": "/eNrYbn7j8iWfgLUh3oen4MQA2Zo.jpg"
+    },
+    {
+      "personId": 1591266,
+      "name": "Nefertiti",
+      "character": "Alma",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 0.0875,
+      "profile_path": null
+    },
+    {
+      "personId": 785,
+      "name": "James Russo",
+      "character": "Rodgers",
+      "order": 9,
+      "cast_id": 47,
+      "popularity": 1.7692,
+      "profile_path": "/nubhNb5OUkzsrndD1BNqzp7MGyo.jpg"
+    },
+    {
+      "personId": 15899,
+      "name": "Jenifer Lewis",
+      "character": "Rita",
+      "order": 10,
+      "cast_id": 9,
+      "popularity": 3.5459,
+      "profile_path": "/bdeUHXY4cXvhOW2nCblNachBYsM.jpg"
+    },
+    {
+      "personId": 2632,
+      "name": "Chris Rock",
+      "character": "Yuck Mouth",
+      "order": 11,
+      "cast_id": 11,
+      "popularity": 3.5031,
+      "profile_path": "/cqI8yQ00GNDV3PAAz5UeLj7vOX0.jpg"
+    },
+    {
+      "personId": 40377,
+      "name": "Roger Guenveur Smith",
+      "character": "Pruitt",
+      "order": 12,
+      "cast_id": 10,
+      "popularity": 1.1173,
+      "profile_path": "/HN7w27Tss9HAHnqebnw6qWKk7z.jpg"
+    },
+    {
+      "personId": 7486,
+      "name": "Michael Wincott",
+      "character": "Tynan",
+      "order": 13,
+      "cast_id": 48,
+      "popularity": 2.2841,
+      "profile_path": "/z6FtWACKaIivi0khxM6vEHoUH0.jpg"
+    },
+    {
+      "personId": 15413,
+      "name": "Richard Dysart",
+      "character": "J. Edgar Hoover",
+      "order": 14,
+      "cast_id": 49,
+      "popularity": 1.805,
+      "profile_path": "/yQOaZexN3YbqGWOguu2VrjsvX2G.jpg"
+    },
+    {
+      "personId": 588,
+      "name": "M. Emmet Walsh",
+      "character": "Dorsett",
+      "order": 15,
+      "cast_id": 14,
+      "popularity": 2.9949,
+      "profile_path": "/fVWvBxvwyk4aTA9vKZOV9qHRNNk.jpg"
+    },
+    {
+      "personId": 76667,
+      "name": "Wesley Jonathan",
+      "character": "Little Bobby Hutton",
+      "order": 16,
+      "cast_id": 42,
+      "popularity": 0.8155,
+      "profile_path": "/aUWV6HxLh9isqlcKeGwm3xYcLEg.jpg"
+    },
+    {
+      "personId": 9780,
+      "name": "Angela Bassett",
+      "character": "Dr. Betty Shabazz",
+      "order": 17,
+      "cast_id": 152,
+      "popularity": 3.7132,
+      "profile_path": "/tKnuviliyeKNGlo26IU5gIrJAtd.jpg"
+    },
+    {
+      "personId": 3753635,
+      "name": "Kahlil Nelson",
+      "character": "Boy On Bike",
+      "order": 18,
+      "cast_id": 58,
+      "popularity": 0.1764,
+      "profile_path": null
+    },
+    {
+      "personId": 83101,
+      "name": "Anthony Johnson",
+      "character": "Sabu",
+      "order": 19,
+      "cast_id": 41,
+      "popularity": 0.5806,
+      "profile_path": "/j2GJiF5TjmPsJNax3o0vvbYvDPd.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 16214,
+      "name": "Mario Van Peebles",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.7887,
+      "profile_path": "/fiExKjVttfePRwmfVvMHPjC7F9n.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 4243,
+      "name": "black panther party"
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "overview": "In the midst of the Mariel boat lift -- a hurried exodus of refugees from Cuba going to America -- an immigration clerk accidentally presumes that dissident Juan Raul Perez and Dorita Evita Perez are married. United by their last name and a mutual resolve to emigrate, Dorita and Juan agree to play along. But it gets complicated when the two begin falling for each other just as Juan reunites with his wife, Carmela, whom he hasn't seen in decades.",
+  "release_date": "1995-05-12",
+  "runtime": 113,
+  "budget": 11000000,
+  "revenue": 2832826,
+  "tmdb_vote_average": 6.0,
+  "tmdb_vote_count": 40,
+  "tmdb_popularity": 0.4908,
+  "original_language": "en",
+  "poster_path": "/jxi3UDHf86kDk5hqJxnpEMzVch2.jpg",
+  "backdrop_path": "/34O2EvrVTUup7a0JllQWtXURQw1.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 798,
+      "name": "The Samuel Goldwyn Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3141,
+      "name": "Marisa Tomei",
+      "character": "Dorita Evita Perez",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 7.1438,
+      "profile_path": "/5w6qM8FWsl5SutKSpx6Va64eCTE.jpg"
+    },
+    {
+      "personId": 658,
+      "name": "Alfred Molina",
+      "character": "Juan Raul Perez",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 4.6321,
+      "profile_path": "/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+    },
+    {
+      "personId": 5657,
+      "name": "Anjelica Huston",
+      "character": "Carmela Perez",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 3.0248,
+      "profile_path": "/6hnYeHa7Rc1w1MmQ3JsLSIb7yCX.jpg"
+    },
+    {
+      "personId": 9046,
+      "name": "Chazz Palminteri",
+      "character": "Lt. John Pirelli",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 1.707,
+      "profile_path": "/mCbjKVyE5B2tleshbJw44tw3ktZ.jpg"
+    },
+    {
+      "personId": 17187,
+      "name": "Trini Alvarado",
+      "character": "Teresa Perez",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 1.4257,
+      "profile_path": "/uRAsuzmbC9xLbzsp5A8qwvax3jP.jpg"
+    },
+    {
+      "personId": 1434041,
+      "name": "Ruben Rabasa",
+      "character": "Father Martinez",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 1.0887,
+      "profile_path": "/terEHwAQdJ2XnzZIWu1C7Jccfkm.jpg"
+    },
+    {
+      "personId": 84182,
+      "name": "Luis Raúl",
+      "character": "News Photographer",
+      "order": 6,
+      "cast_id": 26,
+      "popularity": 1.333,
+      "profile_path": null
+    },
+    {
+      "personId": 22461,
+      "name": "Vincent Gallo",
+      "character": "Orlando",
+      "order": 7,
+      "cast_id": 27,
+      "popularity": 1.8398,
+      "profile_path": "/2H8ucxG6LWAHCJAJf9OGfhSXpqQ.jpg"
+    },
+    {
+      "personId": 124744,
+      "name": "Celia Cruz",
+      "character": "Luz Pat",
+      "order": 8,
+      "cast_id": 28,
+      "popularity": 0.6762,
+      "profile_path": "/qEyPC9xA8L0CbyzfUKgBwjyoJ0i.jpg"
+    },
+    {
+      "personId": 24609,
+      "name": "Diego Wallraff",
+      "character": "Angel Diaz",
+      "order": 9,
+      "cast_id": 29,
+      "popularity": 0.4,
+      "profile_path": "/oI4G5rSSMuDExR7e2delUh8w5Ng.jpg"
+    },
+    {
+      "personId": 1232807,
+      "name": "Ellen Cleghorne",
+      "character": "Officer Rhoades",
+      "order": 10,
+      "cast_id": 30,
+      "popularity": 1.5371,
+      "profile_path": "/vGQd7zcCqcGKDQlYqgcLpYuoGK7.jpg"
+    },
+    {
+      "personId": 4666,
+      "name": "Angela Lanza",
+      "character": "Flavia",
+      "order": 11,
+      "cast_id": 31,
+      "popularity": 1.7099,
+      "profile_path": "/AwAZH8nYRdh5awud9TPHliPwnmi.jpg"
+    },
+    {
+      "personId": 32029,
+      "name": "Bill Sage",
+      "character": "Steve Steverino",
+      "order": 12,
+      "cast_id": 32,
+      "popularity": 1.6908,
+      "profile_path": "/3q2r6eDcC843GgVHVA7mSehcqC9.jpg"
+    },
+    {
+      "personId": 3192,
+      "name": "Billy Hopkins",
+      "character": "Father Aiden",
+      "order": 13,
+      "cast_id": 33,
+      "popularity": 0.6471,
+      "profile_path": null
+    },
+    {
+      "personId": 2075701,
+      "name": "Gustavo Laborie",
+      "character": "Cuban Official",
+      "order": 14,
+      "cast_id": 34,
+      "popularity": 0.0683,
+      "profile_path": null
+    },
+    {
+      "personId": 1692101,
+      "name": "Melissa Anne Acosta",
+      "character": "Isabel",
+      "order": 15,
+      "cast_id": 35,
+      "popularity": 0.3929,
+      "profile_path": null
+    },
+    {
+      "personId": 178681,
+      "name": "Roberto Escobar",
+      "character": "Rivera",
+      "order": 16,
+      "cast_id": 36,
+      "popularity": 0.6184,
+      "profile_path": "/949B6sslM9JdZF30vISfOBFyR4b.jpg"
+    },
+    {
+      "personId": 20275,
+      "name": "Sarita Choudhury",
+      "character": "Josette",
+      "order": 17,
+      "cast_id": 37,
+      "popularity": 2.9201,
+      "profile_path": "/pABEOxQAns54tHpxN2w73b7SiPB.jpg"
+    },
+    {
+      "personId": 2075705,
+      "name": "Glenda Díaz Rigau",
+      "character": "Giovanna",
+      "order": 18,
+      "cast_id": 38,
+      "popularity": 0.0997,
+      "profile_path": null
+    },
+    {
+      "personId": 164119,
+      "name": "Melissa Hickey",
+      "character": "Young Carmela",
+      "order": 19,
+      "cast_id": 39,
+      "popularity": 0.2272,
+      "profile_path": "/tMPpPxSpv9xcTSmviHxGg9KOuRH.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 6495,
+      "name": "Mira Nair",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.3845,
+      "profile_path": "/AwpYt2FDZL7dN5HFE1XVJRjh9D4.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1900,
+      "name": "immigration"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    },
+    {
+      "id": 207901,
+      "name": "political prisoner"
+    },
+    {
+      "id": 208396,
+      "name": "cuban refugees"
+    }
+  ]
+}

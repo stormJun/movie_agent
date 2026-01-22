@@ -1,0 +1,247 @@
+{
+  "overview": "Mercedes is a taxi dancer who wants to be an actress. She's involved with the married Harry, who considers himself a respected actor. Ernesto is in love with Mercedes, but he doesn't dance or have money.",
+  "release_date": "1994-09-27",
+  "runtime": 102,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.0,
+  "tmdb_vote_count": 16,
+  "tmdb_popularity": 0.9509,
+  "original_language": "en",
+  "poster_path": "/9ShSfdYCbDoPtgZpZ1MbkrexuIQ.jpg",
+  "backdrop_path": "/gwr3a49ZZlYgpPkUKRx6SEpW7Ch.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 25129,
+      "name": "Lumière Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 21304,
+      "name": "Cabin Fever Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 231,
+      "name": "Initial Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1037,
+      "name": "Harvey Keitel",
+      "character": "Harry Harrelson",
+      "order": 0,
+      "cast_id": 5,
+      "popularity": 4.7105,
+      "profile_path": "/7P30hza1neYWW3r7rSQOC736K2Z.jpg"
+    },
+    {
+      "personId": 4810,
+      "name": "Rosie Perez",
+      "character": "Mercedes",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 2.352,
+      "profile_path": "/gITXAn0inTa9wELgvbONxiw1PWz.jpg"
+    },
+    {
+      "personId": 5401,
+      "name": "Anthony Quinn",
+      "character": "Emillio",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 2.1729,
+      "profile_path": "/aBxjWWvZR63rTQfrtBPiI0CbGKA.jpg"
+    },
+    {
+      "personId": 884,
+      "name": "Steve Buscemi",
+      "character": "Mickey",
+      "order": 3,
+      "cast_id": 8,
+      "popularity": 5.9344,
+      "profile_path": "/kFzw4U5pExnLKZWhR48VSzL8Fre.jpg"
+    },
+    {
+      "personId": 2283,
+      "name": "Stanley Tucci",
+      "character": "George",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 5.7697,
+      "profile_path": "/q4TanMDI5Rgsvw4SfyNbPBh4URr.jpg"
+    },
+    {
+      "personId": 52422,
+      "name": "Michael DeLorenzo",
+      "character": "Ernesto",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 1.1984,
+      "profile_path": "/dAYG7AcOYG4ZNEvC8isxBxe5Vjx.jpg"
+    },
+    {
+      "personId": 571297,
+      "name": "Gerardo Mejía",
+      "character": "Armando",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 1.1039,
+      "profile_path": "/pz7lR2UEpHjQg7Ntr2IzmLSg40x.jpg"
+    },
+    {
+      "personId": 59281,
+      "name": "Steven Randazzo",
+      "character": "Nick",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 0.8693,
+      "profile_path": "/ufifD3uO2pqNNsrLAwbAkbyzJ7i.jpg"
+    },
+    {
+      "personId": 58535,
+      "name": "Paul Herman",
+      "character": "Pinky",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 1.3637,
+      "profile_path": "/xC7qCS2EFTpfd1KX0ysR6zr60NZ.jpg"
+    },
+    {
+      "personId": 26959,
+      "name": "Samuel Fuller",
+      "character": "Sam Silverman",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 0.5707,
+      "profile_path": "/qlDY0qaBfNynnvKNfueIgVUgWeG.jpg"
+    },
+    {
+      "personId": 3208223,
+      "name": "Helena",
+      "character": "Taxi Dancer",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 0.1179,
+      "profile_path": null
+    },
+    {
+      "personId": 54887,
+      "name": "Elizabeth Bracco",
+      "character": "Taxi Dancer",
+      "order": 11,
+      "cast_id": 15,
+      "popularity": 1.515,
+      "profile_path": "/hWkmSuDWfelZ7PAmllHU3YHb3oV.jpg"
+    },
+    {
+      "personId": 53764,
+      "name": "Angel Aviles",
+      "character": "Taxi Dancer",
+      "order": 12,
+      "cast_id": 16,
+      "popularity": 1.8328,
+      "profile_path": "/3WS70GSDZJaeDxuBog5QRt8wArp.jpg"
+    },
+    {
+      "personId": 1099751,
+      "name": "Lorelei Leslie",
+      "character": "Taxi Dancer",
+      "order": 13,
+      "cast_id": 17,
+      "popularity": 0.5581,
+      "profile_path": "/6XUwwQSwk3Oys8bXmNoVE25SdNh.jpg"
+    },
+    {
+      "personId": 1768503,
+      "name": "Julie Shannon",
+      "character": "Taxi Dancer",
+      "order": 14,
+      "cast_id": 18,
+      "popularity": 0.1445,
+      "profile_path": null
+    },
+    {
+      "personId": 1928062,
+      "name": "Francesco Messina",
+      "character": "Taxi Dancer",
+      "order": 15,
+      "cast_id": 19,
+      "popularity": 0.3545,
+      "profile_path": null
+    },
+    {
+      "personId": 55959,
+      "name": "Mickey Cottrell",
+      "character": "Little Mort",
+      "order": 16,
+      "cast_id": 20,
+      "popularity": 0.9154,
+      "profile_path": "/p9qp6XcXXCgidPxI5tr7T3wANEH.jpg"
+    },
+    {
+      "personId": 14545,
+      "name": "Sully Boyar",
+      "character": "Porno Theatre Owner",
+      "order": 17,
+      "cast_id": 21,
+      "popularity": 1.6279,
+      "profile_path": "/oQAiwLBv3rEg4Y2T8VQGyRIiJcz.jpg"
+    },
+    {
+      "personId": 1386618,
+      "name": "Edward Lynch",
+      "character": "Drexel",
+      "order": 18,
+      "cast_id": 25,
+      "popularity": 0.4879,
+      "profile_path": null
+    },
+    {
+      "personId": 6939,
+      "name": "Edward Bunker",
+      "character": "Jimmy",
+      "order": 19,
+      "cast_id": 22,
+      "popularity": 1.626,
+      "profile_path": "/or5afkJZ6wVCL9XWOxs7tjft2El.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 3111,
+      "name": "Alexandre Rockwell",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7531,
+      "profile_path": "/hYaedJhO8IFAXfkkV9diJWEUquG.jpg"
+    }
+  ],
+  "keywords": []
+}

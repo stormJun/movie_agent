@@ -1,0 +1,333 @@
+{
+  "overview": "A drama about a Maori family living in Auckland, New Zealand. Lee Tamahori tells the story of Beth Heke’s strong will to keep her family together during times of unemployment and abuse from her violent and alcoholic husband.",
+  "release_date": "1994-09-02",
+  "runtime": 99,
+  "budget": 950000,
+  "revenue": 6700000,
+  "tmdb_vote_average": 7.358,
+  "tmdb_vote_count": 468,
+  "tmdb_popularity": 1.6287,
+  "original_language": "en",
+  "poster_path": "/1nd4SsytVc96hy92g8NNVPD3mzf.jpg",
+  "backdrop_path": "/ninIdXC6iCDKuQRKFJw7nY4uRY2.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 293,
+      "name": "Avalon Studios",
+      "origin_country": "NZ"
+    },
+    {
+      "id": 294,
+      "name": "New Zealand Film Commission",
+      "origin_country": "NZ"
+    },
+    {
+      "id": 295,
+      "name": "NZ on Air",
+      "origin_country": "NZ"
+    },
+    {
+      "id": 240536,
+      "name": "Fish Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "NZ",
+      "name": "New Zealand"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "mi",
+      "name": ""
+    }
+  ],
+  "cast": [
+    {
+      "personId": 7241,
+      "name": "Rena Owen",
+      "character": "Beth Heke",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.3467,
+      "profile_path": "/648ZdDBmlx6OFDFRmgAbh6q5LBo.jpg"
+    },
+    {
+      "personId": 7242,
+      "name": "Temuera Morrison",
+      "character": "Jake Heke",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.4628,
+      "profile_path": "/AvtSC0f9QW7fMyFFNXEWDeQyfUk.jpg"
+    },
+    {
+      "personId": 7243,
+      "name": "Mamaengaroa Kerr-Bell",
+      "character": "Grace Heke",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 0.3374,
+      "profile_path": "/69053PL9dp597VaHPetCnsQNkHZ.jpg"
+    },
+    {
+      "personId": 7244,
+      "name": "Julian Arahanga",
+      "character": "Nig Heke",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.3194,
+      "profile_path": "/g2YkF3PWSJU1vTKuURBH0DOMblm.jpg"
+    },
+    {
+      "personId": 7245,
+      "name": "Taungaroa Emile",
+      "character": "Mark 'Boogie' Heke",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 0.6405,
+      "profile_path": "/9Xtg1zIo6iSL5LC9XRIoHD4hsNe.jpg"
+    },
+    {
+      "personId": 7246,
+      "name": "Rachael Morris Jr.",
+      "character": "Polly Heke",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 1.1219,
+      "profile_path": "/ns0MNsk9dEDTXQiZiNIwHtoRI0T.jpg"
+    },
+    {
+      "personId": 7247,
+      "name": "Joseph Kairau",
+      "character": "Huata Heke",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 0.4582,
+      "profile_path": "/ti7Q3lvimC0FxV486rRbz8EN1uo.jpg"
+    },
+    {
+      "personId": 7248,
+      "name": "Cliff Curtis",
+      "character": "Bully",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 4.2499,
+      "profile_path": "/3D6qz8vL6DWHAO3HeXeaSuwxq3s.jpg"
+    },
+    {
+      "personId": 7249,
+      "name": "Pete Smith",
+      "character": "Dooley",
+      "order": 8,
+      "cast_id": 9,
+      "popularity": 1.0158,
+      "profile_path": "/xtDy3uPThZg1twK7Tgw709rtoEt.jpg"
+    },
+    {
+      "personId": 7250,
+      "name": "George Henare",
+      "character": "Bennett",
+      "order": 9,
+      "cast_id": 10,
+      "popularity": 0.3158,
+      "profile_path": "/6HN1pi1U3HbSKpQ7eQmemFMvfFR.jpg"
+    },
+    {
+      "personId": 7251,
+      "name": "Mere Boynton",
+      "character": "Mavis",
+      "order": 10,
+      "cast_id": 11,
+      "popularity": 0.1941,
+      "profile_path": "/jymqpFLkkYRaudMxiRQaPEnKt57.jpg"
+    },
+    {
+      "personId": 7252,
+      "name": "Shannon Williams",
+      "character": "Toot",
+      "order": 11,
+      "cast_id": 12,
+      "popularity": 0.0699,
+      "profile_path": "/6Sm4AhHlJEr6w2jHBqn4gCCtKYa.jpg"
+    },
+    {
+      "personId": 7253,
+      "name": "Calvin Tuteao",
+      "character": "Taka",
+      "order": 12,
+      "cast_id": 13,
+      "popularity": 2.463,
+      "profile_path": "/3GVIQySK1HOf8CZ824W30AEN4gY.jpg"
+    },
+    {
+      "personId": 7254,
+      "name": "Ray Bishop",
+      "character": "King Hitter",
+      "order": 13,
+      "cast_id": 14,
+      "popularity": 0.5935,
+      "profile_path": "/gj6ULzcbPPmEqybkhfo3YQwzQg4.jpg"
+    },
+    {
+      "personId": 7255,
+      "name": "Ian Mune",
+      "character": "Judge",
+      "order": 14,
+      "cast_id": 15,
+      "popularity": 1.368,
+      "profile_path": "/8MO8QjpoKWr2I6gSx5MQJgtP6su.jpg"
+    },
+    {
+      "personId": 129394,
+      "name": "Robert Pollock",
+      "character": "Policeman",
+      "order": 15,
+      "cast_id": 29,
+      "popularity": 0.1781,
+      "profile_path": "/hrgZTxx2IK79Kkgm1YIcXRDl0cq.jpg"
+    },
+    {
+      "personId": 99495,
+      "name": "Donald V. Allen",
+      "character": "Jake's Mate (as Donald Allen)",
+      "order": 16,
+      "cast_id": 31,
+      "popularity": 1.3322,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 7256,
+      "name": "Lee Tamahori",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8858,
+      "profile_path": "/lkivtT9U7gLXVnhq5qF9GL3k7NN.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 30,
+      "name": "individual"
+    },
+    {
+      "id": 236,
+      "name": "suicide"
+    },
+    {
+      "id": 570,
+      "name": "rape"
+    },
+    {
+      "id": 2660,
+      "name": "strong woman"
+    },
+    {
+      "id": 331,
+      "name": "tattoo"
+    },
+    {
+      "id": 100,
+      "name": "slum"
+    },
+    {
+      "id": 3739,
+      "name": "funeral"
+    },
+    {
+      "id": 567,
+      "name": "alcohol"
+    },
+    {
+      "id": 941,
+      "name": "tradition"
+    },
+    {
+      "id": 6267,
+      "name": "approved school "
+    },
+    {
+      "id": 697,
+      "name": "loss of loved one"
+    },
+    {
+      "id": 2300,
+      "name": "despair"
+    },
+    {
+      "id": 1551,
+      "name": "indigenous"
+    },
+    {
+      "id": 2394,
+      "name": "ghetto"
+    },
+    {
+      "id": 2320,
+      "name": "violent husband"
+    },
+    {
+      "id": 2658,
+      "name": "new zealand"
+    },
+    {
+      "id": 2659,
+      "name": "maori"
+    },
+    {
+      "id": 2663,
+      "name": "lack of prospects"
+    },
+    {
+      "id": 2667,
+      "name": "maori tradition"
+    },
+    {
+      "id": 10508,
+      "name": "teacher"
+    },
+    {
+      "id": 10766,
+      "name": "youth gang"
+    },
+    {
+      "id": 9986,
+      "name": "crush"
+    },
+    {
+      "id": 11925,
+      "name": "domestic violence"
+    },
+    {
+      "id": 15158,
+      "name": "rebellious youth"
+    },
+    {
+      "id": 15237,
+      "name": "alcohol abuse"
+    },
+    {
+      "id": 33841,
+      "name": "incest"
+    },
+    {
+      "id": 156052,
+      "name": "unemployment"
+    },
+    {
+      "id": 219865,
+      "name": "auckland"
+    }
+  ]
+}

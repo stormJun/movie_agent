@@ -1,0 +1,345 @@
+{
+  "overview": "When vengeful General Francis X. Hummel seizes control of Alcatraz Island and threatens to launch missiles loaded with deadly chemical weapons into San Francisco, only a young FBI chemical weapons expert and notorious Federal prisoner have the skills to penetrate the impregnable island fortress and take him down.",
+  "release_date": "1996-06-07",
+  "runtime": 137,
+  "budget": 75000000,
+  "revenue": 335062621,
+  "tmdb_vote_average": 7.14,
+  "tmdb_vote_count": 5016,
+  "tmdb_popularity": 7.4457,
+  "original_language": "en",
+  "poster_path": "/eBcoxveWzzXQrCrwWMGAROcqgpP.jpg",
+  "backdrop_path": "/qDVdTL1KqGmGLGsy7UPA3vksku7.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 10288,
+      "name": "Don Simpson/Jerry Bruckheimer Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 915,
+      "name": "Hollywood Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 32,
+      "name": "Buena Vista Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 738,
+      "name": "Sean Connery",
+      "character": "John Patrick Mason",
+      "order": 0,
+      "cast_id": 20,
+      "popularity": 3.5113,
+      "profile_path": "/iVr9HDPGIOhfUNO7LKt9g0MSHRP.jpg"
+    },
+    {
+      "personId": 2963,
+      "name": "Nicolas Cage",
+      "character": "Dr. Stanley Goodspeed",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 8.4149,
+      "profile_path": "/y1RtezurZYveYkVNRht7CwEgSYY.jpg"
+    },
+    {
+      "personId": 228,
+      "name": "Ed Harris",
+      "character": "Brigadier General Francis X. Hummel, USMC",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 4.9022,
+      "profile_path": "/kUbUA70WPiosPT4kBJMWtGk0ASd.jpg"
+    },
+    {
+      "personId": 34691,
+      "name": "John Spencer",
+      "character": "FBI Director James Womack",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.0456,
+      "profile_path": "/8AZRfw1vqdsw7tOIK03LSQlphW.jpg"
+    },
+    {
+      "personId": 52,
+      "name": "David Morse",
+      "character": "Major Tom Baxter",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 3.4713,
+      "profile_path": "/tzBIwZYV2dmWZGSrGkJJx5F7Cei.jpg"
+    },
+    {
+      "personId": 4520,
+      "name": "William Forsythe",
+      "character": "Special Agent Ernest Paxton",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 2.2043,
+      "profile_path": "/35BXHugSG931iVPbHn6W9SNXNY1.jpg"
+    },
+    {
+      "personId": 2712,
+      "name": "Michael Biehn",
+      "character": "Commander Charles Anderson",
+      "order": 6,
+      "cast_id": 21,
+      "popularity": 2.373,
+      "profile_path": "/9oFLsADWQm2TvU8XzLIzBbjdMkU.jpg"
+    },
+    {
+      "personId": 169586,
+      "name": "Vanessa Marcil",
+      "character": "Carla Pestalozzi",
+      "order": 7,
+      "cast_id": 22,
+      "popularity": 2.218,
+      "profile_path": "/e2bgnPVavuJfFyO84ny8eGhQ6iP.jpg"
+    },
+    {
+      "personId": 11885,
+      "name": "John C. McGinley",
+      "character": "Marine Captain Hendrix",
+      "order": 8,
+      "cast_id": 23,
+      "popularity": 2.471,
+      "profile_path": "/a9Oc7STg83syQh3X22u2TroAifk.jpg"
+    },
+    {
+      "personId": 10000,
+      "name": "Gregory Sporleder",
+      "character": "Captain Frye",
+      "order": 9,
+      "cast_id": 26,
+      "popularity": 2.1671,
+      "profile_path": "/qcCA7hMP8rEEGQDfNCKKl3XZrHn.jpg"
+    },
+    {
+      "personId": 19384,
+      "name": "Tony Todd",
+      "character": "Captain Darrow",
+      "order": 10,
+      "cast_id": 27,
+      "popularity": 2.6629,
+      "profile_path": "/cNUIRoewwiLi8JxyA1J2zb1z5SN.jpg"
+    },
+    {
+      "personId": 71913,
+      "name": "Bokeem Woodbine",
+      "character": "Sergeant Crisp",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 3.4251,
+      "profile_path": "/pnPyA5pJn94zUzuLWTNkGBNZxza.jpg"
+    },
+    {
+      "personId": 1235953,
+      "name": "Jim Maniaci",
+      "character": "Private Scarpetti",
+      "order": 12,
+      "cast_id": 38,
+      "popularity": 1.3503,
+      "profile_path": null
+    },
+    {
+      "personId": 58950,
+      "name": "Greg Collins",
+      "character": "Private Gamble",
+      "order": 13,
+      "cast_id": 29,
+      "popularity": 1.3574,
+      "profile_path": "/42p7hsOck2OzIkr4b9Wtp0HckkG.jpg"
+    },
+    {
+      "personId": 166893,
+      "name": "Brendan Kelly",
+      "character": "Private Cox",
+      "order": 14,
+      "cast_id": 30,
+      "popularity": 0.6494,
+      "profile_path": "/nJXxgwcGdAL5P1KfgcGrjDaCbsY.jpg"
+    },
+    {
+      "personId": 2202,
+      "name": "Steve Harris",
+      "character": "Private McCoy",
+      "order": 15,
+      "cast_id": 31,
+      "popularity": 2.3757,
+      "profile_path": "/6qD0I3RPe2ivV5GdXgW3tJHSu1e.jpg"
+    },
+    {
+      "personId": 8540,
+      "name": "Danny Nucci",
+      "character": "Lieutenant Shephard",
+      "order": 16,
+      "cast_id": 32,
+      "popularity": 2.6985,
+      "profile_path": "/w8nMQvgBFY5vuDoN5B698ostLWN.jpg"
+    },
+    {
+      "personId": 4174,
+      "name": "Claire Forlani",
+      "character": "Jade Angelou",
+      "order": 17,
+      "cast_id": 25,
+      "popularity": 5.3575,
+      "profile_path": "/4xy9tARkNN3nAnDhHvMSeEt18mz.jpg"
+    },
+    {
+      "personId": 170696,
+      "name": "Celeste Weaver",
+      "character": "Stacy Richards",
+      "order": 18,
+      "cast_id": 33,
+      "popularity": 0.632,
+      "profile_path": "/14g5pyRmcfJyTGS8REbHMlnL1V6.jpg"
+    },
+    {
+      "personId": 3230,
+      "name": "Todd Louiso",
+      "character": "Marvin Isherwood",
+      "order": 19,
+      "cast_id": 34,
+      "popularity": 1.6507,
+      "profile_path": "/dkvuAxxXoCqGQrPNYHlELxL75q2.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 865,
+      "name": "Michael Bay",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 3.3957,
+      "profile_path": "/rkC7lei20x5xlFH4SivAXXBh6uR.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1543,
+      "name": "war veteran"
+    },
+    {
+      "id": 582,
+      "name": "san francisco, california"
+    },
+    {
+      "id": 1812,
+      "name": "fbi"
+    },
+    {
+      "id": 3070,
+      "name": "mercenary"
+    },
+    {
+      "id": 3293,
+      "name": "gas attack"
+    },
+    {
+      "id": 3859,
+      "name": "alcatraz prison"
+    },
+    {
+      "id": 9777,
+      "name": "prison escape"
+    },
+    {
+      "id": 10950,
+      "name": "shootout"
+    },
+    {
+      "id": 11219,
+      "name": "u.s. navy seal"
+    },
+    {
+      "id": 13015,
+      "name": "terrorism"
+    },
+    {
+      "id": 14618,
+      "name": "british spy"
+    },
+    {
+      "id": 14750,
+      "name": "chemist"
+    },
+    {
+      "id": 15248,
+      "name": "commando"
+    },
+    {
+      "id": 18233,
+      "name": "hostage situation"
+    },
+    {
+      "id": 158139,
+      "name": "tourist attraction"
+    },
+    {
+      "id": 158780,
+      "name": "u.s. marine"
+    },
+    {
+      "id": 162365,
+      "name": "military"
+    },
+    {
+      "id": 192600,
+      "name": "island prison"
+    },
+    {
+      "id": 195355,
+      "name": "tourists in peril"
+    },
+    {
+      "id": 220935,
+      "name": "nerve gas"
+    },
+    {
+      "id": 225906,
+      "name": "disillusioned"
+    },
+    {
+      "id": 232488,
+      "name": "terrorist threat"
+    },
+    {
+      "id": 268125,
+      "name": "chemical weapon"
+    },
+    {
+      "id": 272551,
+      "name": "fbi agent"
+    },
+    {
+      "id": 296037,
+      "name": "chemical warfare"
+    },
+    {
+      "id": 325764,
+      "name": "ambivalent"
+    }
+  ]
+}

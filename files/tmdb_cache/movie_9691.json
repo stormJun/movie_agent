@@ -1,0 +1,318 @@
+{
+  "overview": "Assassin Robert Rath arrives at a funeral to kill a prominent mobster, only to witness a rival hired gun complete the job for him -- with grisly results. Horrified by the murder of innocent bystanders, Rath decides to take one last job and then return to civilian life. But finding his way out of the world of contract killing grows ever more dangerous as Rath falls for his female target and becomes a marked man himself.",
+  "release_date": "1995-10-06",
+  "runtime": 132,
+  "budget": 50000000,
+  "revenue": 30303072,
+  "tmdb_vote_average": 6.493,
+  "tmdb_vote_count": 1657,
+  "tmdb_popularity": 3.416,
+  "original_language": "en",
+  "poster_path": "/wPmZYnaQpxwoHmwNwVhZ2IY0UbF.jpg",
+  "backdrop_path": "/sYpmWBe1IO7Fxthtw3UmlzQEylK.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Adventure",
+    "Crime",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1885,
+      "name": "Silver Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 5739,
+      "name": "Donner/Shuler-Donner Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    },
+    {
+      "code": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16483,
+      "name": "Sylvester Stallone",
+      "character": "Robert Rath",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 11.3583,
+      "profile_path": "/gn3pDWthJqR0VDYGViGD3048og7.jpg"
+    },
+    {
+      "personId": 3131,
+      "name": "Antonio Banderas",
+      "character": "Miguel Bain",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 5.8003,
+      "profile_path": "/fce7zl6elUzsv7wudHFc7RgFtjD.jpg"
+    },
+    {
+      "personId": 1231,
+      "name": "Julianne Moore",
+      "character": "Electra",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 7.7537,
+      "profile_path": "/3YF19rWusxWfEI59ZM33dFhasRq.jpg"
+    },
+    {
+      "personId": 58556,
+      "name": "Anatoli Davydov",
+      "character": "Nicolai Tashlinkov",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.7397,
+      "profile_path": "/h612YfWBEymtZw13UQ6JVe0rXEs.jpg"
+    },
+    {
+      "personId": 17348,
+      "name": "Muse Watson",
+      "character": "Ketcham",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.125,
+      "profile_path": "/rq7pu8sh0borueON6MK5wkqc2ej.jpg"
+    },
+    {
+      "personId": 14328,
+      "name": "Steve Kahan",
+      "character": "Alan Branch",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 1.4592,
+      "profile_path": "/qnarH2PdHTWsG7Hv2DlHSr7rj5h.jpg"
+    },
+    {
+      "personId": 47757,
+      "name": "Kelly Rowan",
+      "character": "Jennifer, Electra's Neighbor",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 1.6158,
+      "profile_path": "/xPBHrefHV3yqtvdo9nUlPG7jCO9.jpg"
+    },
+    {
+      "personId": 31508,
+      "name": "Reed Diamond",
+      "character": "Bob",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 2.4696,
+      "profile_path": "/z3ESNaXSeHiGmmhm49Og9FeXwG8.jpg"
+    },
+    {
+      "personId": 42146,
+      "name": "Kai Wulff",
+      "character": "Remy",
+      "order": 8,
+      "cast_id": 9,
+      "popularity": 1.134,
+      "profile_path": "/rP4donw54RqNZwJuMDLLhY9lX7u.jpg"
+    },
+    {
+      "personId": 58557,
+      "name": "Kerry Skalsky",
+      "character": "Buyer with Remy",
+      "order": 9,
+      "cast_id": 10,
+      "popularity": 0.121,
+      "profile_path": null
+    },
+    {
+      "personId": 58558,
+      "name": "James Douglas Haskins",
+      "character": "Buyer with Remy",
+      "order": 10,
+      "cast_id": 11,
+      "popularity": 0.111,
+      "profile_path": null
+    },
+    {
+      "personId": 58559,
+      "name": "Stephen Liska",
+      "character": "Cop",
+      "order": 11,
+      "cast_id": 12,
+      "popularity": 0.7346,
+      "profile_path": "/1OJ0WfTfojKNYf6Jk2qNy5sccgH.jpg"
+    },
+    {
+      "personId": 58560,
+      "name": "John Harms",
+      "character": "Cop",
+      "order": 12,
+      "cast_id": 13,
+      "popularity": 0.962,
+      "profile_path": null
+    },
+    {
+      "personId": 58561,
+      "name": "Edward J. Rosen",
+      "character": "Cemetery Caretaker",
+      "order": 13,
+      "cast_id": 14,
+      "popularity": 0.6571,
+      "profile_path": null
+    },
+    {
+      "personId": 58562,
+      "name": "Christina Orchid",
+      "character": "Dowager",
+      "order": 14,
+      "cast_id": 15,
+      "popularity": 0.083,
+      "profile_path": null
+    },
+    {
+      "personId": 2568159,
+      "name": "Bruce R. Orchid",
+      "character": "Cabbie",
+      "order": 15,
+      "cast_id": 98,
+      "popularity": 0.1727,
+      "profile_path": null
+    },
+    {
+      "personId": 2568195,
+      "name": "Sue Carolyn Wise",
+      "character": "Obnoxious Woman in Elevator",
+      "order": 16,
+      "cast_id": 100,
+      "popularity": 0.0416,
+      "profile_path": null
+    },
+    {
+      "personId": 1233872,
+      "name": "James Oliver",
+      "character": "Customs Officer",
+      "order": 17,
+      "cast_id": 189,
+      "popularity": 0.2626,
+      "profile_path": null
+    },
+    {
+      "personId": 1420974,
+      "name": "Ron Ben Jarrett",
+      "character": "Maintenance Man at Marriott Hotel",
+      "order": 18,
+      "cast_id": 101,
+      "popularity": 0.7527,
+      "profile_path": null
+    },
+    {
+      "personId": 153395,
+      "name": "Marian Collier",
+      "character": "Eugene & Danny's Pet Supply Lady",
+      "order": 19,
+      "cast_id": 102,
+      "popularity": 2.2961,
+      "profile_path": "/ohSTBTqC4XRqrQZdfGBP7p3pxFH.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 7187,
+      "name": "Richard Donner",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.2991,
+      "profile_path": "/wjRecQiVLUAm6jwyT5craxhg3lD.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 10084,
+      "name": "rescue"
+    },
+    {
+      "id": 591,
+      "name": "central intelligence agency (cia)"
+    },
+    {
+      "id": 2708,
+      "name": "hitman"
+    },
+    {
+      "id": 977,
+      "name": "cat"
+    },
+    {
+      "id": 974,
+      "name": "bank"
+    },
+    {
+      "id": 1666,
+      "name": "mexican standoff"
+    },
+    {
+      "id": 2350,
+      "name": "seattle, washington"
+    },
+    {
+      "id": 3045,
+      "name": "mission of murder"
+    },
+    {
+      "id": 3979,
+      "name": "hidden camera"
+    },
+    {
+      "id": 9823,
+      "name": "rivalry"
+    },
+    {
+      "id": 10950,
+      "name": "shootout"
+    },
+    {
+      "id": 11148,
+      "name": "police chase"
+    },
+    {
+      "id": 12355,
+      "name": "sniper rifle"
+    },
+    {
+      "id": 18021,
+      "name": "detroit, michigan"
+    },
+    {
+      "id": 18107,
+      "name": "silencer"
+    },
+    {
+      "id": 33456,
+      "name": "double cross"
+    },
+    {
+      "id": 167861,
+      "name": "caribbean sea"
+    }
+  ]
+}

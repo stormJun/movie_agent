@@ -1,0 +1,308 @@
+{
+  "overview": "When a prostitute is found dead in a Los Angeles skyscraper occupied by a large Japanese corporation, detectives John Connor and Web Smith are called in to investigate. Although Connor has previous experience working in Japan, cultural differences make their progress difficult until a security disc showing the murder turns up. Close scrutiny proves the disc has been doctored, and the detectives realize they're dealing with a cover-up as well.",
+  "release_date": "1993-07-30",
+  "runtime": 125,
+  "budget": 40000000,
+  "revenue": 107198790,
+  "tmdb_vote_average": 6.14,
+  "tmdb_vote_count": 811,
+  "tmdb_popularity": 6.2032,
+  "original_language": "en",
+  "poster_path": "/jVWEeZ383peKxwE284AdyHqq6GH.jpg",
+  "backdrop_path": "/dmaLmrP3PYfhb8P2SWMucZCZqjk.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 8780,
+      "name": "Walrus & Associates",
+      "origin_country": ""
+    },
+    {
+      "id": 25,
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "ja",
+      "name": "日本語"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 738,
+      "name": "Sean Connery",
+      "character": "Capt. John Connor",
+      "order": 0,
+      "cast_id": 6,
+      "popularity": 3.5113,
+      "profile_path": "/iVr9HDPGIOhfUNO7LKt9g0MSHRP.jpg"
+    },
+    {
+      "personId": 10814,
+      "name": "Wesley Snipes",
+      "character": "Lt. Webster Smith",
+      "order": 1,
+      "cast_id": 7,
+      "popularity": 4.1852,
+      "profile_path": "/232tIFkJYkmtQIM31Pi5dmLRR8p.jpg"
+    },
+    {
+      "personId": 13445,
+      "name": "Tia Carrere",
+      "character": "Jingo Asakuma",
+      "order": 2,
+      "cast_id": 15,
+      "popularity": 6.7751,
+      "profile_path": "/oAIyl8U6bMvID8gJKskeKmLB1cA.jpg"
+    },
+    {
+      "personId": 11398,
+      "name": "Cary-Hiroyuki Tagawa",
+      "character": "Eddie Sakamura",
+      "order": 3,
+      "cast_id": 9,
+      "popularity": 3.1078,
+      "profile_path": "/5F8MQ4J4qIqUwGIfcWN4osrTUtP.jpg"
+    },
+    {
+      "personId": 1037,
+      "name": "Harvey Keitel",
+      "character": "Lt. Tom Graham",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 4.7105,
+      "profile_path": "/7P30hza1neYWW3r7rSQOC736K2Z.jpg"
+    },
+    {
+      "personId": 10134,
+      "name": "Mako",
+      "character": "Yoshida-san",
+      "order": 5,
+      "cast_id": 11,
+      "popularity": 2.1691,
+      "profile_path": "/x0dZQHKQOZ1ancuRw8slO3rAiPq.jpg"
+    },
+    {
+      "personId": 51806,
+      "name": "Stan Egi",
+      "character": "Ishihara",
+      "order": 6,
+      "cast_id": 13,
+      "popularity": 0.621,
+      "profile_path": "/BpuVjBfeEm3Q2y6EbtThJTUxIU.jpg"
+    },
+    {
+      "personId": 51805,
+      "name": "Kevin Anderson",
+      "character": "Bob Richmond",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 0.7686,
+      "profile_path": "/5Y1ozTcXk02wTXmyvZnJlaxE82T.jpg"
+    },
+    {
+      "personId": 2249,
+      "name": "Clyde Kusatsu",
+      "character": "Tanaka",
+      "order": 8,
+      "cast_id": 37,
+      "popularity": 2.9924,
+      "profile_path": "/5dTSe1F9cnReZGHYzbCbVy7vbcf.jpg"
+    },
+    {
+      "personId": 6719,
+      "name": "Ray Wise",
+      "character": "Senator John Morton",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 3.7813,
+      "profile_path": "/60313U01R1j9eueDBXiIh9o55RQ.jpg"
+    },
+    {
+      "personId": 1608011,
+      "name": "Lauren Robinson",
+      "character": "Zelda \"Zelly\" Smith",
+      "order": 10,
+      "cast_id": 42,
+      "popularity": 0.1194,
+      "profile_path": null
+    },
+    {
+      "personId": 884,
+      "name": "Steve Buscemi",
+      "character": "Willy Wilhelm",
+      "order": 11,
+      "cast_id": 16,
+      "popularity": 5.9344,
+      "profile_path": "/kFzw4U5pExnLKZWhR48VSzL8Fre.jpg"
+    },
+    {
+      "personId": 33165,
+      "name": "Tatjana Patitz",
+      "character": "Cheryl Lynn Austin",
+      "order": 12,
+      "cast_id": 17,
+      "popularity": 0.3769,
+      "profile_path": "/bnpdAa8HroZvL02PantSa6g160u.jpg"
+    },
+    {
+      "personId": 1473,
+      "name": "Daniel von Bargen",
+      "character": "Chief Olson / Interrogator",
+      "order": 13,
+      "cast_id": 40,
+      "popularity": 2.4129,
+      "profile_path": "/2S03pvALrrAkXU8TdDSuYevtdBc.jpg"
+    },
+    {
+      "personId": 16936,
+      "name": "Stan Shaw",
+      "character": "Phillips",
+      "order": 14,
+      "cast_id": 14,
+      "popularity": 2.0172,
+      "profile_path": "/gq8VmKHlSZuBKBdwXFP48rIY4WR.jpg"
+    },
+    {
+      "personId": 30487,
+      "name": "Peter Crombie",
+      "character": "Greg",
+      "order": 15,
+      "cast_id": 18,
+      "popularity": 0.7011,
+      "profile_path": "/pMvhE1wwQo3eTSp4vwq8Hb22CwN.jpg"
+    },
+    {
+      "personId": 46920,
+      "name": "Sam Lloyd",
+      "character": "Rick",
+      "order": 16,
+      "cast_id": 35,
+      "popularity": 1.4726,
+      "profile_path": "/ti0pt6k5eXGbW8j7ktxSXLfutLA.jpg"
+    },
+    {
+      "personId": 131183,
+      "name": "Alexandra Powers",
+      "character": "Julia",
+      "order": 17,
+      "cast_id": 36,
+      "popularity": 2.6504,
+      "profile_path": "/zfz44FfM0YbGeScUTlUmf7gPvpq.jpg"
+    },
+    {
+      "personId": 59401,
+      "name": "Amy Hill",
+      "character": "Hsieh",
+      "order": 18,
+      "cast_id": 41,
+      "popularity": 3.7113,
+      "profile_path": "/x5vR2MXZiWGHkppRXlXYj7y7611.jpg"
+    },
+    {
+      "personId": 1044,
+      "name": "Michael Chapman",
+      "character": "Fred Hoffman",
+      "order": 19,
+      "cast_id": 34,
+      "popularity": 0.6327,
+      "profile_path": "/vFFWHlwwIgWoi2NPoVq3uzikCnM.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 648,
+      "name": "Philip Kaufman",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.3446,
+      "profile_path": "/AtTB8qM4UsifYsKtEPgQSCibP5s.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 736,
+      "name": "journalist"
+    },
+    {
+      "id": 417,
+      "name": "corruption"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 6149,
+      "name": "police"
+    },
+    {
+      "id": 703,
+      "name": "detective"
+    },
+    {
+      "id": 2564,
+      "name": "wheelchair"
+    },
+    {
+      "id": 1946,
+      "name": "restaurant"
+    },
+    {
+      "id": 4530,
+      "name": "parking garage"
+    },
+    {
+      "id": 9665,
+      "name": "cover-up"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 18100,
+      "name": "seppuku"
+    },
+    {
+      "id": 167618,
+      "name": "bulletproof vest"
+    },
+    {
+      "id": 189402,
+      "name": "crime investigation"
+    },
+    {
+      "id": 226616,
+      "name": "falsification"
+    },
+    {
+      "id": 238032,
+      "name": "cover-up attempt"
+    },
+    {
+      "id": 254921,
+      "name": "homicide investigation"
+    },
+    {
+      "id": 306984,
+      "name": "japanese culture"
+    }
+  ]
+}

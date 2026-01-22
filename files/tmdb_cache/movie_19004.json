@@ -1,0 +1,181 @@
+{
+  "overview": "When a sudden shortage of water threatens all life in the great valley, The gang of young dinosaur must cooperate with a group of bullies to make a risky journey outside the valley and find the cause.",
+  "release_date": "1995-03-16",
+  "runtime": 70,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.17,
+  "tmdb_vote_count": 400,
+  "tmdb_popularity": 1.3924,
+  "original_language": "en",
+  "poster_path": "/abcJUBDHi6hxibSgm2bxYK1wAZK.jpg",
+  "backdrop_path": "/iH3w4JwrsslnDKkNi5kLtiNh7DN.jpg",
+  "tmdb_genres_raw": [
+    "Animation",
+    "Adventure",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 4285,
+      "name": "Universal Cartoon Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 80853,
+      "name": "AKOM Production Company",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "KR",
+      "name": "South Korea"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 79020,
+      "name": "Scott McAfee",
+      "character": "Littlefoot (voice)",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 0.4452,
+      "profile_path": "/meKYkzavWpSg2KheDlMlUmZC4za.jpg"
+    },
+    {
+      "personId": 71447,
+      "name": "Candace Hutson",
+      "character": "Cera (voice)",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 3.6657,
+      "profile_path": "/wcjJAGnPycphdY3gWM2JeJEmoe3.jpg"
+    },
+    {
+      "personId": 79021,
+      "name": "Heather Hogan",
+      "character": "Ducky (voice)",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 1.4376,
+      "profile_path": "/AlwODumHv2zeKDMyep2nRrT7SoG.jpg"
+    },
+    {
+      "personId": 34982,
+      "name": "Jeff Bennett",
+      "character": "Petrie / Mutt / Iguanadon (voice)",
+      "order": 3,
+      "cast_id": 24,
+      "popularity": 3.7804,
+      "profile_path": "/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg"
+    },
+    {
+      "personId": 43125,
+      "name": "Rob Paulsen",
+      "character": "Spike (voice)",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 2.5185,
+      "profile_path": "/7buvKWIjPlspqruaO3b28V5owJr.jpg"
+    },
+    {
+      "personId": 44052,
+      "name": "John Ingle",
+      "character": "Narrator / Cera's Father (voice)",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 0.9989,
+      "profile_path": "/cFrwER1BE3WnXwfXdlxAI03meCo.jpg"
+    },
+    {
+      "personId": 586496,
+      "name": "Linda Gary",
+      "character": "Grandma / Mother Quetzalcoatlus (voice)",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 0.9903,
+      "profile_path": "/6HVYuYlTJ5KsAV5ivXgjxcEocMp.jpg"
+    },
+    {
+      "personId": 166298,
+      "name": "Whit Hertford",
+      "character": "Hyp (voice)",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 1.9742,
+      "profile_path": "/9wSo1hShKBG2xagMVg5yGiS1XFQ.jpg"
+    },
+    {
+      "personId": 36821,
+      "name": "Nicholas Guest",
+      "character": "Hyp's Father (voice)",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 1.2674,
+      "profile_path": "/dSA11Xw5JX7uJ3SSFWc1eimtoY4.jpg"
+    },
+    {
+      "personId": 34983,
+      "name": "Tress MacNeille",
+      "character": "Stegosaurus / Spike & Ducky's Mother (voice)",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 2.713,
+      "profile_path": "/gI2LsgByvSffQY34vabVnPmrHzw.jpg"
+    },
+    {
+      "personId": 15831,
+      "name": "Frank Welker",
+      "character": "Velociraptor (voice)",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 5.2376,
+      "profile_path": "/xXODQ5AX6pG4my8ieeEIuiAREXs.jpg"
+    },
+    {
+      "personId": 113916,
+      "name": "Scott Menville",
+      "character": "Nod (voice)",
+      "order": 11,
+      "cast_id": 15,
+      "popularity": 1.9566,
+      "profile_path": "/iLoApH8LbyJSKFmdgWxNR314GGa.jpg"
+    },
+    {
+      "personId": 9601,
+      "name": "Kenneth Mars",
+      "character": "Grandpa (voice)",
+      "order": 12,
+      "cast_id": 16,
+      "popularity": 4.0369,
+      "profile_path": "/5ueZGenOr87KfMENzffdtGn3AQ9.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 24346,
+      "name": "Roy Allen Smith",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7745,
+      "profile_path": "/ltRcpzw3yfVf4Yb5MJINQiCYyQU.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 12616,
+      "name": "dinosaur"
+    }
+  ]
+}

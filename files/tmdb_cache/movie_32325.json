@@ -1,0 +1,301 @@
+{
+  "overview": "Mousie and Sad Girl are childhood best friends in a contemporary Los Angeles poor Hispanic neighborhood. But when Sad Girl becomes pregnant by Mousie's boyfriend, a drug dealer named Ernesto, the two become bitter enemies. While their dispute escalates towards violence, the violence of the world around them soon also impacts their lives.",
+  "release_date": "1994-06-08",
+  "runtime": 92,
+  "budget": 0,
+  "revenue": 3267313,
+  "tmdb_vote_average": 6.6,
+  "tmdb_vote_count": 35,
+  "tmdb_popularity": 0.7571,
+  "original_language": "en",
+  "poster_path": "/gtKIaHUqkNqdgVnMFosyVJXvKMC.jpg",
+  "backdrop_path": "/vIGWegxzGfymD9sQBnw9HBINY3l.jpg",
+  "tmdb_genres_raw": [
+    "Crime",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 2832,
+      "name": "Cineville",
+      "origin_country": "US"
+    },
+    {
+      "id": 6705,
+      "name": "Film4 Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 58,
+      "name": "Sony Pictures Classics",
+      "origin_country": "US"
+    },
+    {
+      "id": 143571,
+      "name": "HBO Showcase",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 53764,
+      "name": "Angel Aviles",
+      "character": "Sad Girl",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 1.8328,
+      "profile_path": "/3WS70GSDZJaeDxuBog5QRt8wArp.jpg"
+    },
+    {
+      "personId": 104380,
+      "name": "Seidy López",
+      "character": "Mousie",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 1.3379,
+      "profile_path": "/yucTzwkIHZeCGR74AT377JI5M5B.jpg"
+    },
+    {
+      "personId": 16429,
+      "name": "Jacob Vargas",
+      "character": "Ernesto",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 4.3591,
+      "profile_path": "/hq5SIxyGHGTBCxc9LPpyeHmOjkU.jpg"
+    },
+    {
+      "personId": 3999171,
+      "name": "Devine",
+      "character": "Devine",
+      "order": 3,
+      "cast_id": 23,
+      "popularity": 0.1321,
+      "profile_path": null
+    },
+    {
+      "personId": 3999172,
+      "name": "Monica Lutton",
+      "character": "Chucky",
+      "order": 4,
+      "cast_id": 24,
+      "popularity": 0.1453,
+      "profile_path": null
+    },
+    {
+      "personId": 162524,
+      "name": "Marlo Marron",
+      "character": "Giggles",
+      "order": 5,
+      "cast_id": 20,
+      "popularity": 0.8347,
+      "profile_path": "/68jlBRTTiT1gaQZoquRZZSjxAS2.jpg"
+    },
+    {
+      "personId": 2576905,
+      "name": "Nelida Lopez",
+      "character": "Whisper",
+      "order": 6,
+      "cast_id": 21,
+      "popularity": 0.681,
+      "profile_path": null
+    },
+    {
+      "personId": 3136,
+      "name": "Salma Hayek Pinault",
+      "character": "Gata",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 8.923,
+      "profile_path": "/1qfYF7NGRObmeKR7IVXUFVIC0CN.jpg"
+    },
+    {
+      "personId": 11160,
+      "name": "Danny Trejo",
+      "character": "Frank",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 5.4406,
+      "profile_path": "/7JrUkRGBscZ1Hy5JinaaXjjzSCF.jpg"
+    },
+    {
+      "personId": 5953,
+      "name": "Spike Jonze",
+      "character": "Teenage Drug Customer",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 1.853,
+      "profile_path": "/x2QeqEXvi3QjgTybvZ4mmqUf4qO.jpg"
+    },
+    {
+      "personId": 11662,
+      "name": "Jason Lee",
+      "character": "Teenage Drug Customer",
+      "order": 10,
+      "cast_id": 17,
+      "popularity": 3.7499,
+      "profile_path": "/64tEXo3xR9IFXsIJKSlJ2LUrrEA.jpg"
+    },
+    {
+      "personId": 19135,
+      "name": "Panchito Gómez",
+      "character": "Joker Bird",
+      "order": 11,
+      "cast_id": 22,
+      "popularity": 0.9171,
+      "profile_path": "/nOPP5x1OzH16mZDbkSCOyeGg5qm.jpg"
+    },
+    {
+      "personId": 2530984,
+      "name": "Christina Solis",
+      "character": "",
+      "order": 12,
+      "cast_id": 29,
+      "popularity": 1.8001,
+      "profile_path": null
+    },
+    {
+      "personId": 121613,
+      "name": "Magali Alvarado",
+      "character": "",
+      "order": 13,
+      "cast_id": 30,
+      "popularity": 0.4045,
+      "profile_path": null
+    },
+    {
+      "personId": 58647,
+      "name": "Jesse Borrego",
+      "character": "",
+      "order": 14,
+      "cast_id": 31,
+      "popularity": 1.1921,
+      "profile_path": "/bK9cPqXTJSRN72ZDKN3UXlKN3gU.jpg"
+    },
+    {
+      "personId": 156406,
+      "name": "Noah Verduzco",
+      "character": "",
+      "order": 15,
+      "cast_id": 32,
+      "popularity": 0.6157,
+      "profile_path": null
+    },
+    {
+      "personId": 170334,
+      "name": "Julian Reyes",
+      "character": "",
+      "order": 16,
+      "cast_id": 33,
+      "popularity": 0.8426,
+      "profile_path": "/8bNGZEDjrH9OlhoL6wj6t17cbMC.jpg"
+    },
+    {
+      "personId": 143171,
+      "name": "Bertila Damas",
+      "character": "",
+      "order": 17,
+      "cast_id": 34,
+      "popularity": 0.7269,
+      "profile_path": "/pvrwuYZOQqRLIUKGh7662fuCKzN.jpg"
+    },
+    {
+      "personId": 2494831,
+      "name": "John Rangel",
+      "character": "",
+      "order": 18,
+      "cast_id": 35,
+      "popularity": 0.4481,
+      "profile_path": null
+    },
+    {
+      "personId": 1031469,
+      "name": "Eddie Perez",
+      "character": "",
+      "order": 19,
+      "cast_id": 36,
+      "popularity": 0.9407,
+      "profile_path": "/lJ0584zfHNwj2QywbBvF7TcEy8w.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 3110,
+      "name": "Allison Anders",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5761,
+      "profile_path": "/tP9x5lWT4EofhiGITfnmmfpZShA.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 10211,
+      "name": "east los angeles"
+    },
+    {
+      "id": 10726,
+      "name": "gang"
+    },
+    {
+      "id": 12670,
+      "name": "los angeles, california"
+    },
+    {
+      "id": 12987,
+      "name": "poverty"
+    },
+    {
+      "id": 33426,
+      "name": "gang member"
+    },
+    {
+      "id": 41334,
+      "name": "hispanic"
+    },
+    {
+      "id": 164253,
+      "name": "mexican american"
+    },
+    {
+      "id": 180085,
+      "name": "girl gang"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    },
+    {
+      "id": 206318,
+      "name": "cholo"
+    },
+    {
+      "id": 230668,
+      "name": "chola"
+    },
+    {
+      "id": 262332,
+      "name": "echo park"
+    }
+  ]
+}

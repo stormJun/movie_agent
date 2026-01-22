@@ -1,0 +1,299 @@
+{
+  "overview": "Showman Jerry Travers is working for producer Horace Hardwick in London. Jerry demonstrates his new dance steps late one night in Horace's hotel room, much to the annoyance of sleeping Dale Tremont below. She goes upstairs to complain and the two are immediately attracted to each other. Complications arise when Dale mistakes Jerry for Horace.",
+  "release_date": "1935-08-29",
+  "runtime": 101,
+  "budget": 609000,
+  "revenue": 3202000,
+  "tmdb_vote_average": 7.238,
+  "tmdb_vote_count": 319,
+  "tmdb_popularity": 1.1401,
+  "original_language": "en",
+  "poster_path": "/qoPBiN6PBs2NsP7BNOJGCnmwruG.jpg",
+  "backdrop_path": "/9riMLH4EOw6PZzeCDnPlIGSyiEu.jpg",
+  "tmdb_genres_raw": [
+    "Music",
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 6,
+      "name": "RKO Radio Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "it",
+      "name": "Italiano"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 30181,
+      "name": "Fred Astaire",
+      "character": "Jerry Travers",
+      "order": 0,
+      "cast_id": 10,
+      "popularity": 1.4517,
+      "profile_path": "/6gw9PCrKi19I5QOwjEPaOYW9uLI.jpg"
+    },
+    {
+      "personId": 30003,
+      "name": "Ginger Rogers",
+      "character": "Dale Tremont",
+      "order": 1,
+      "cast_id": 11,
+      "popularity": 1.2968,
+      "profile_path": "/ah4nyaNUOMZwmGbDOAtN8S8J6ap.jpg"
+    },
+    {
+      "personId": 2437,
+      "name": "Edward Everett Horton",
+      "character": "Horace Hardwick",
+      "order": 2,
+      "cast_id": 12,
+      "popularity": 0.8375,
+      "profile_path": "/wtoC3cXLStuYmiEUVQavdvbh5Js.jpg"
+    },
+    {
+      "personId": 30183,
+      "name": "Erik Rhodes",
+      "character": "Alberto Beddini",
+      "order": 3,
+      "cast_id": 13,
+      "popularity": 0.7505,
+      "profile_path": "/j6Nsz8FcOhei3fRGp9pMFrvxMuD.jpg"
+    },
+    {
+      "personId": 30184,
+      "name": "Eric Blore",
+      "character": "Bates",
+      "order": 4,
+      "cast_id": 14,
+      "popularity": 0.6734,
+      "profile_path": "/qMZttNGOlnUPmiiff1hgvBa3WPk.jpg"
+    },
+    {
+      "personId": 30185,
+      "name": "Helen Broderick",
+      "character": "Madge Hardwick",
+      "order": 5,
+      "cast_id": 15,
+      "popularity": 0.4066,
+      "profile_path": "/ivLLiHElyLFtRlYxj46f4Rc91Li.jpg"
+    },
+    {
+      "personId": 40174,
+      "name": "Lucille Ball",
+      "character": "Flower Shop Clerk  (uncredited)",
+      "order": 6,
+      "cast_id": 18,
+      "popularity": 1.566,
+      "profile_path": "/gcJ5Qwg9lcadvdCxC22AjFuJC4A.jpg"
+    },
+    {
+      "personId": 9096,
+      "name": "Gino Corrado",
+      "character": "Venice Hotel Manager  (uncredited)",
+      "order": 7,
+      "cast_id": 19,
+      "popularity": 0.6164,
+      "profile_path": "/f4FxGEcWMoRcBbArEvYCxy7QSk7.jpg"
+    },
+    {
+      "personId": 101742,
+      "name": "Leonard Mudie",
+      "character": "Florist (uncredited)",
+      "order": 8,
+      "cast_id": 36,
+      "popularity": 0.6675,
+      "profile_path": "/gODC8yLtVXYypdqQcE01I2IFqfO.jpg"
+    },
+    {
+      "personId": 88462,
+      "name": "Dennis O'Keefe",
+      "character": "Elevator Passenger / Hotel Guest / Dancer (uncredited)",
+      "order": 9,
+      "cast_id": 30,
+      "popularity": 0.6811,
+      "profile_path": "/xwdMxksOymeFYYi9oWtn7aocFKP.jpg"
+    },
+    {
+      "personId": 178757,
+      "name": "Nick Thompson",
+      "character": "Italian Police Officer (uncredited)",
+      "order": 10,
+      "cast_id": 37,
+      "popularity": 0.4508,
+      "profile_path": null
+    },
+    {
+      "personId": 119402,
+      "name": "Tom Ricketts",
+      "character": "Nervous Thackeray Club Waiter (uncredited)",
+      "order": 11,
+      "cast_id": 38,
+      "popularity": 0.3117,
+      "profile_path": "/66ezBnrNzoiL82VNBjo6NTAYHns.jpg"
+    },
+    {
+      "personId": 120456,
+      "name": "Robert Adair",
+      "character": "London Hotel Clerk (uncredited)",
+      "order": 12,
+      "cast_id": 48,
+      "popularity": 0.4655,
+      "profile_path": "/1thnqDeiQiT2liCyWiZf442rhd4.jpg"
+    },
+    {
+      "personId": 2870279,
+      "name": "William A. Boardway",
+      "character": "Club Member (uncredited)",
+      "order": 13,
+      "cast_id": 49,
+      "popularity": 0.9371,
+      "profile_path": null
+    },
+    {
+      "personId": 1424115,
+      "name": "Tex Brodus",
+      "character": "Hotel Guest (uncredited)",
+      "order": 14,
+      "cast_id": 50,
+      "popularity": 1.0719,
+      "profile_path": null
+    },
+    {
+      "personId": 179121,
+      "name": "Phyllis Coghlan",
+      "character": "Dancer (uncredited)",
+      "order": 15,
+      "cast_id": 51,
+      "popularity": 0.327,
+      "profile_path": null
+    },
+    {
+      "personId": 2206472,
+      "name": "Lorinne Crawford",
+      "character": "Dancer (uncredited)",
+      "order": 16,
+      "cast_id": 52,
+      "popularity": 0.5466,
+      "profile_path": null
+    },
+    {
+      "personId": 1581070,
+      "name": "Oliver Cross",
+      "character": "Hotel Guest (uncredited)",
+      "order": 17,
+      "cast_id": 53,
+      "popularity": 0.6639,
+      "profile_path": null
+    },
+    {
+      "personId": 1329667,
+      "name": "Jay Eaton",
+      "character": "Guest Leaving Elevator (uncredited)",
+      "order": 18,
+      "cast_id": 54,
+      "popularity": 1.9287,
+      "profile_path": "/uf9GvUbp3QInCO6hQ5RPxh0tBOG.jpg"
+    },
+    {
+      "personId": 4284483,
+      "name": "Jack Ellison",
+      "character": "Dancer (uncredited)",
+      "order": 19,
+      "cast_id": 55,
+      "popularity": 0.096,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 30165,
+      "name": "Mark Sandrich",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5101,
+      "profile_path": "/77Gh9XVPbWT68eoOGzOwu4e1gUC.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 246,
+      "name": "dancing"
+    },
+    {
+      "id": 1691,
+      "name": "dance"
+    },
+    {
+      "id": 212,
+      "name": "london, england"
+    },
+    {
+      "id": 110,
+      "name": "venice, italy"
+    },
+    {
+      "id": 10325,
+      "name": "mistaken identity"
+    },
+    {
+      "id": 4344,
+      "name": "musical"
+    },
+    {
+      "id": 4345,
+      "name": "tap dancing"
+    },
+    {
+      "id": 6415,
+      "name": "stage show"
+    },
+    {
+      "id": 10181,
+      "name": "based on play or musical"
+    },
+    {
+      "id": 7024,
+      "name": "fashion designer"
+    },
+    {
+      "id": 12990,
+      "name": "singing"
+    },
+    {
+      "id": 12999,
+      "name": "black and white"
+    },
+    {
+      "id": 15479,
+      "name": "fashion"
+    },
+    {
+      "id": 33493,
+      "name": "valet"
+    },
+    {
+      "id": 41613,
+      "name": "rapier"
+    },
+    {
+      "id": 165643,
+      "name": "song and dance"
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "overview": "Erik, a loner, finds a friend in Dexter, an eleven-year-old boy with AIDS. They vow to find a cure for AIDS together and save Dexter's life in an eventful summer.",
+  "release_date": "1995-04-21",
+  "runtime": 97,
+  "budget": 0,
+  "revenue": 2568235,
+  "tmdb_vote_average": 7.94,
+  "tmdb_vote_count": 339,
+  "tmdb_popularity": 4.7157,
+  "original_language": "en",
+  "poster_path": "/3WN1H5NzLOjhY9AP848v8WPc9uu.jpg",
+  "backdrop_path": "/cXliQvK1xSi9lSqP7qaBUyED1Az.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1595,
+      "name": "Island World",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4787,
+      "name": "Joseph Mazzello",
+      "character": "Dexter",
+      "order": 0,
+      "cast_id": 13,
+      "popularity": 1.9612,
+      "profile_path": "/44gsv7TlXOOKDGg5aRtqxZjM9ae.jpg"
+    },
+    {
+      "personId": 51214,
+      "name": "Brad Renfro",
+      "character": "Erik",
+      "order": 1,
+      "cast_id": 1,
+      "popularity": 1.3534,
+      "profile_path": "/oOtzyE9wkbBV58ZxyYsGzyPxoSw.jpg"
+    },
+    {
+      "personId": 18750,
+      "name": "Annabella Sciorra",
+      "character": "Linda",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 5.2988,
+      "profile_path": "/p2dnBSjLzKxldrHCQZYmVq0LcFw.jpg"
+    },
+    {
+      "personId": 2958,
+      "name": "Diana Scarwid",
+      "character": "Gail",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.6682,
+      "profile_path": "/jGxYoIVKP8neczCUPHxBMoOY8lH.jpg"
+    },
+    {
+      "personId": 52374,
+      "name": "Bruce Davison",
+      "character": "Dr. Stevens",
+      "order": 4,
+      "cast_id": 27,
+      "popularity": 2.5524,
+      "profile_path": "/41JtouCUhnnBwWmdsemPydtk3FB.jpg"
+    },
+    {
+      "personId": 18070,
+      "name": "Nicky Katt",
+      "character": "Pony",
+      "order": 5,
+      "cast_id": 3,
+      "popularity": 1.9335,
+      "profile_path": "/9OY1D1WXJsqC7OnrKErc3mFfly5.jpg"
+    },
+    {
+      "personId": 51215,
+      "name": "Aeryk Egan",
+      "character": "Tyler",
+      "order": 6,
+      "cast_id": 2,
+      "popularity": 1.3448,
+      "profile_path": "/u80Qmmm2rdKGwdLf0RWhFqqsvsK.jpg"
+    },
+    {
+      "personId": 23647,
+      "name": "Renée Humphrey",
+      "character": "Angle",
+      "order": 7,
+      "cast_id": 28,
+      "popularity": 0.4877,
+      "profile_path": "/ePssPPOdSMqDm0vauGuDNDPcxyl.jpg"
+    },
+    {
+      "personId": 156108,
+      "name": "Peter Moore",
+      "character": "Male Nurse",
+      "order": 8,
+      "cast_id": 14,
+      "popularity": 0.7036,
+      "profile_path": "/8rbVoZIl7n7JM8eiCI5gXFGXu7x.jpg"
+    },
+    {
+      "personId": 3911,
+      "name": "John Carroll Lynch",
+      "character": "Skipper #1",
+      "order": 9,
+      "cast_id": 31,
+      "popularity": 3.02,
+      "profile_path": "/i6xsWIgo3kW5Dc4A6VhQ17G9nuy.jpg"
+    },
+    {
+      "personId": 38571,
+      "name": "John Beasley",
+      "character": "Skipper #2",
+      "order": 10,
+      "cast_id": 32,
+      "popularity": 2.052,
+      "profile_path": "/tpZQojv2UfelPHr1eSphcp0iEpJ.jpg"
+    },
+    {
+      "personId": 15034,
+      "name": "Jeremy Howard",
+      "character": "Tyler's Buddy #2",
+      "order": 11,
+      "cast_id": 33,
+      "popularity": 1.0392,
+      "profile_path": "/tkZNfmlNkiH7UZxYDaDqO9z1TuV.jpg"
+    },
+    {
+      "personId": 3406080,
+      "name": "T. Mychael Rambo",
+      "character": "Garbageman #1",
+      "order": 12,
+      "cast_id": 34,
+      "popularity": 0.0775,
+      "profile_path": null
+    },
+    {
+      "personId": 1125667,
+      "name": "David Alan Smith",
+      "character": "Garbageman #2",
+      "order": 13,
+      "cast_id": 35,
+      "popularity": 0.6028,
+      "profile_path": null
+    },
+    {
+      "personId": 1838050,
+      "name": "Laurie A. Sinclair",
+      "character": "Cheryl",
+      "order": 14,
+      "cast_id": 36,
+      "popularity": 0.4394,
+      "profile_path": null
+    },
+    {
+      "personId": 53011,
+      "name": "Mary McCusker",
+      "character": "Nurse Murphy",
+      "order": 15,
+      "cast_id": 37,
+      "popularity": 1.4147,
+      "profile_path": "/2VmyATItuveMKa47tp0urp0h2gO.jpg"
+    },
+    {
+      "personId": 1079395,
+      "name": "Shirley Venard",
+      "character": "Nurse Snyder",
+      "order": 16,
+      "cast_id": 38,
+      "popularity": 0.6788,
+      "profile_path": "/wl2WcYy3sn2RxtAcu8rNwa53E1V.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 44990,
+      "name": "Peter Horton",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.7603,
+      "profile_path": "/7t4np3Y3QRtGG4CrosjcfVcDlIQ.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 740,
+      "name": "aids"
+    },
+    {
+      "id": 787,
+      "name": "mississippi river"
+    },
+    {
+      "id": 1360,
+      "name": "minnesota"
+    },
+    {
+      "id": 3230,
+      "name": "male friendship"
+    },
+    {
+      "id": 9766,
+      "name": "hiv"
+    },
+    {
+      "id": 169725,
+      "name": "sick child"
+    }
+  ]
+}

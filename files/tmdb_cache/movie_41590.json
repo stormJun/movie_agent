@@ -1,0 +1,216 @@
+{
+  "overview": "Valerie is a juror in the trial of a mob boss. When her young son's life is threatened, she has no option other than to see that justice isn't done.",
+  "release_date": "1994-09-09",
+  "runtime": 107,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.306,
+  "tmdb_vote_count": 49,
+  "tmdb_popularity": 0.498,
+  "original_language": "en",
+  "poster_path": "/uYVGv35bMH7MybbfvWHEC9xQDMY.jpg",
+  "backdrop_path": "/A9oxp0W1fpI4beE3LECEmzlNnq4.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Action",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 10210,
+      "name": "Morgan Creek Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 227,
+      "name": "William Hurt",
+      "character": "Tommy Vesey",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 2.7449,
+      "profile_path": "/j3mjmuHLBW4XQSw53C8Sh0Lh3ZQ.jpg"
+    },
+    {
+      "personId": 12656,
+      "name": "Joanne Whalley",
+      "character": "Valerie Alston",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 2.7179,
+      "profile_path": "/ItU1ROQkWkzabwdFG3H4VndgBb.jpg"
+    },
+    {
+      "personId": 5168,
+      "name": "Gabriel Byrne",
+      "character": "Daniel Graham",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 3.0224,
+      "profile_path": "/9r9oDGENg92VYYFMkV4C09IUlrb.jpg"
+    },
+    {
+      "personId": 23346,
+      "name": "Armand Assante",
+      "character": "Rusty Pirone",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 1.9588,
+      "profile_path": "/9HbbWAJacTHguO2InDVHKGnaasm.jpg"
+    },
+    {
+      "personId": 8183,
+      "name": "Kathleen Quinlan",
+      "character": "Wanda",
+      "order": 4,
+      "cast_id": 22,
+      "popularity": 2.9169,
+      "profile_path": "/ggzY1JfGsNfLa1UdnUiQWem0zMq.jpg"
+    },
+    {
+      "personId": 60700,
+      "name": "Margaret Whitton",
+      "character": "Jane Lyle, Juror",
+      "order": 5,
+      "cast_id": 23,
+      "popularity": 1.4649,
+      "profile_path": "/AaeGGScxFyAHQuKzYrNbSxw05iR.jpg"
+    },
+    {
+      "personId": 21523,
+      "name": "Ed Lauter",
+      "character": "John Boyle",
+      "order": 6,
+      "cast_id": 24,
+      "popularity": 1.294,
+      "profile_path": "/3oWs1Di6KipqQgIg97y4emyyRaE.jpg"
+    },
+    {
+      "personId": 4255,
+      "name": "Richard Portnow",
+      "character": "Leo Greco",
+      "order": 7,
+      "cast_id": 25,
+      "popularity": 1.5045,
+      "profile_path": "/uQZ3vSa2HHXywkDjGY8dN0oH5oY.jpg"
+    },
+    {
+      "personId": 80759,
+      "name": "Lisa Arrindell",
+      "character": "Eleanor Lyons",
+      "order": 8,
+      "cast_id": 26,
+      "popularity": 0.9783,
+      "profile_path": "/zHHOTp6qt0grtnwFdKbZ2ZZYM4l.jpg"
+    },
+    {
+      "personId": 159850,
+      "name": "Jack Gwaltney",
+      "character": "Teddy Parnell",
+      "order": 9,
+      "cast_id": 27,
+      "popularity": 0.7347,
+      "profile_path": "/2vR6ed4Susp34uOvRcZV43f1Oo5.jpg"
+    },
+    {
+      "personId": 36927,
+      "name": "Graham Jarvis",
+      "character": "Mr. Duffy, Foreman",
+      "order": 10,
+      "cast_id": 28,
+      "popularity": 1.1693,
+      "profile_path": "/bVwjPeo7mAvzqCulFE4Yhx6NYsa.jpg"
+    },
+    {
+      "personId": 68527,
+      "name": "William R. Moses",
+      "character": "Paul Baker, Juror",
+      "order": 11,
+      "cast_id": 29,
+      "popularity": 2.5817,
+      "profile_path": "/mbGteKONCey21NqRO5sfIIKs1UF.jpg"
+    },
+    {
+      "personId": 6774,
+      "name": "Joe Santos",
+      "character": "Johnny Verona",
+      "order": 12,
+      "cast_id": 30,
+      "popularity": 2.104,
+      "profile_path": "/86TX5CrNq5Dg5LAied1Ho4XeaIf.jpg"
+    },
+    {
+      "personId": 5170,
+      "name": "Mike Starr",
+      "character": "Hughie Bonner",
+      "order": 13,
+      "cast_id": 32,
+      "popularity": 2.6759,
+      "profile_path": "/hJGhV91dSUiFJ8GwGDTEEri79LX.jpg"
+    },
+    {
+      "personId": 224,
+      "name": "David Cronenberg",
+      "character": "Director",
+      "order": 14,
+      "cast_id": 33,
+      "popularity": 1.649,
+      "profile_path": "/3xh4e2gWHDilMLtucHzDGsmJMuQ.jpg"
+    },
+    {
+      "personId": 18282,
+      "name": "Karina Arroyave",
+      "character": "Mercedes",
+      "order": 15,
+      "cast_id": 40,
+      "popularity": 1.3353,
+      "profile_path": "/dsMtfSCLeL6xAQF1XHNH3QF0E97.jpg"
+    },
+    {
+      "personId": 1627230,
+      "name": "Elena Kudaba",
+      "character": "Elena",
+      "order": 16,
+      "cast_id": 42,
+      "popularity": 1.1885,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 53387,
+      "name": "Heywood Gould",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5033,
+      "profile_path": "/psv87T3Fq6ILAEr3cR3x4JIieIH.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 10291,
+      "name": "organized crime"
+    },
+    {
+      "id": 166462,
+      "name": "mob boss"
+    },
+    {
+      "id": 254459,
+      "name": "legal thriller"
+    }
+  ]
+}

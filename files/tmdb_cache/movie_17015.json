@@ -1,0 +1,313 @@
+{
+  "overview": "Living with her snobby family on the brink of bankruptcy, Anne Elliot is an unconforming woman with modern sensibilities. When Frederick Wentworth – the dashing one she once sent away – crashes back into her life, Anne must choose between putting the past behind her or listening to her heart when it comes to second chances.",
+  "release_date": "1995-05-01",
+  "runtime": 104,
+  "budget": 1500000,
+  "revenue": 5269757,
+  "tmdb_vote_average": 7.1,
+  "tmdb_vote_count": 137,
+  "tmdb_popularity": 13.2248,
+  "original_language": "en",
+  "poster_path": "/10hycdhFLq3M3y0ONxIMSiY8Mrs.jpg",
+  "backdrop_path": "/evCHYeumw4Y4hikG4AG9o5yZXUW.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 288,
+      "name": "BBC Film",
+      "origin_country": "GB"
+    },
+    {
+      "id": 132236,
+      "name": "Millésime Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 10197,
+      "name": "GBH",
+      "origin_country": "US"
+    },
+    {
+      "id": 11359,
+      "name": "France 2",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 30318,
+      "name": "Amanda Root",
+      "character": "Anne Elliott",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.656,
+      "profile_path": "/tOiRDlvdVFgCp4tkbNQOmmZ7GSL.jpg"
+    },
+    {
+      "personId": 8785,
+      "name": "Ciarán Hinds",
+      "character": "Captain Frederick Wentworth",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 4.5856,
+      "profile_path": "/d8wLIX9VYgwXRGSp1gmUdUxmApv.jpg"
+    },
+    {
+      "personId": 87415,
+      "name": "Susan Fleetwood",
+      "character": "Lady Russell",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 0.7434,
+      "profile_path": "/ww9Xo8KoZUKYiLeniSmC7lvPeUO.jpg"
+    },
+    {
+      "personId": 13328,
+      "name": "Corin Redgrave",
+      "character": "Sir Walter Elliot",
+      "order": 3,
+      "cast_id": 51,
+      "popularity": 0.8552,
+      "profile_path": "/3n6KZJnMXUWeQ31Y7UkkVIgdW6q.jpg"
+    },
+    {
+      "personId": 10981,
+      "name": "Fiona Shaw",
+      "character": "Mrs. Croft",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 3.2875,
+      "profile_path": "/tjM74LcxwnYM77Csg1EtlXb1F9a.jpg"
+    },
+    {
+      "personId": 14465,
+      "name": "John Woodvine",
+      "character": "Admiral Croft",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 0.9619,
+      "profile_path": "/mqNKneqT3W4YEfW35BN1UJ1kJoy.jpg"
+    },
+    {
+      "personId": 3930,
+      "name": "Phoebe Nicholls",
+      "character": "Elizabeth Elliot",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 1.5288,
+      "profile_path": "/d8kT2SmUGPwYJBVapftuX2EQHRr.jpg"
+    },
+    {
+      "personId": 54447,
+      "name": "Samuel West",
+      "character": "Mr. Elliot",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 4.3343,
+      "profile_path": "/bn1nd5zERi5wyHcA1YMGvrHAD5L.jpg"
+    },
+    {
+      "personId": 32990,
+      "name": "Sophie Thompson",
+      "character": "Mary Musgrove",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 1.9422,
+      "profile_path": "/tRPHovRBLwZTeWodLBqUD2arrlH.jpg"
+    },
+    {
+      "personId": 57461,
+      "name": "Simon Russell Beale",
+      "character": "Charles Musgrove",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 1.4287,
+      "profile_path": "/uw0ngaqgT8qXwJqVr353cx1mEdB.jpg"
+    },
+    {
+      "personId": 42645,
+      "name": "Felicity Dean",
+      "character": "Mrs. Clay",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 0.6681,
+      "profile_path": "/ed4GXMxcMxhcEtxgesdgN9IGg6s.jpg"
+    },
+    {
+      "personId": 45455,
+      "name": "Judy Cornwell",
+      "character": "Mrs. Musgrove",
+      "order": 11,
+      "cast_id": 13,
+      "popularity": 1.3836,
+      "profile_path": "/6jyYOPeE9vXngm8xaQw6p6LPHPE.jpg"
+    },
+    {
+      "personId": 27660,
+      "name": "Roger Hammond",
+      "character": "Mr. Musgrove",
+      "order": 12,
+      "cast_id": 16,
+      "popularity": 0.8939,
+      "profile_path": "/7HYiv8lqGJPILsjPicVBIIa5HOR.jpg"
+    },
+    {
+      "personId": 55645,
+      "name": "Victoria Hamilton",
+      "character": "Henrietta Musgrove",
+      "order": 13,
+      "cast_id": 18,
+      "popularity": 2.8927,
+      "profile_path": "/xisT8HsZW36JWuQ5MXkupwhVIpm.jpg"
+    },
+    {
+      "personId": 1487246,
+      "name": "Emma Roberts",
+      "character": "Louisa Musgrove",
+      "order": 14,
+      "cast_id": 20,
+      "popularity": 0.4808,
+      "profile_path": null
+    },
+    {
+      "personId": 25665,
+      "name": "Robert Glenister",
+      "character": "Captain Harville",
+      "order": 15,
+      "cast_id": 21,
+      "popularity": 1.6467,
+      "profile_path": "/18oHwzcExUfXnDLyDWQEtmjPo1V.jpg"
+    },
+    {
+      "personId": 7025,
+      "name": "Richard McCabe",
+      "character": "Captain Benwick",
+      "order": 16,
+      "cast_id": 22,
+      "popularity": 1.1426,
+      "profile_path": "/j7ra3qbWSYKwONNfJ6GBMuIoixY.jpg"
+    },
+    {
+      "personId": 1229181,
+      "name": "Helen Schlesinger",
+      "character": "Mrs. Smith",
+      "order": 17,
+      "cast_id": 23,
+      "popularity": 0.4867,
+      "profile_path": "/mVM3auPV9wDPl7oRGep2cAb0kNq.jpg"
+    },
+    {
+      "personId": 1246598,
+      "name": "Jane Wood",
+      "character": "Nurse Rooke",
+      "order": 18,
+      "cast_id": 24,
+      "popularity": 0.7855,
+      "profile_path": "/nUlCpwCet27jalyhVcQaq7ReUyh.jpg"
+    },
+    {
+      "personId": 1227492,
+      "name": "David Collings",
+      "character": "Mr. Shepherd",
+      "order": 19,
+      "cast_id": 25,
+      "popularity": 0.6698,
+      "profile_path": "/b5cf5xxGciODfifgFIW9bok66AY.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 7017,
+      "name": "Roger Michell",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7994,
+      "profile_path": "/lZP8wowfwLZ0rIld95KSkmGQd23.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1459,
+      "name": "marriage proposal"
+    },
+    {
+      "id": 2660,
+      "name": "strong woman"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 128,
+      "name": "love triangle"
+    },
+    {
+      "id": 6038,
+      "name": "marriage"
+    },
+    {
+      "id": 10048,
+      "name": "unrequited love"
+    },
+    {
+      "id": 15370,
+      "name": "family in peril"
+    },
+    {
+      "id": 33386,
+      "name": "old flame"
+    },
+    {
+      "id": 33388,
+      "name": "admiral"
+    },
+    {
+      "id": 157296,
+      "name": "bankruptcy"
+    },
+    {
+      "id": 195789,
+      "name": "marriage broker"
+    },
+    {
+      "id": 299326,
+      "name": "lovers reunited"
+    },
+    {
+      "id": 352644,
+      "name": "lovers reunion"
+    },
+    {
+      "id": 353499,
+      "name": "betrothal"
+    },
+    {
+      "id": 358204,
+      "name": "rejected suitor"
+    }
+  ]
+}

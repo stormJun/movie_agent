@@ -1,0 +1,260 @@
+{
+  "overview": "A small circle of friends suffering from post-collegiate blues must confront the hard truth about life, love and the pursuit of gainful employment. As they struggle to map out survival guides for the future, the Gen-X quartet soon begins to realize that reality isn't all it's cracked up to be.",
+  "release_date": "1994-02-18",
+  "runtime": 98,
+  "budget": 11500000,
+  "revenue": 33351557,
+  "tmdb_vote_average": 6.559,
+  "tmdb_vote_count": 777,
+  "tmdb_popularity": 1.9718,
+  "original_language": "en",
+  "poster_path": "/qGDhodtpkpxkrFqokenGNJlzt6w.jpg",
+  "backdrop_path": "/wPW1cMe2XyeLnm2DNDudoDXVSwt.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 216,
+      "name": "Jersey Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1920,
+      "name": "Winona Ryder",
+      "character": "Lelaina Pierce",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 22.1809,
+      "profile_path": "/dlffgYbqr1BllWacVLhAFw23nLl.jpg"
+    },
+    {
+      "personId": 569,
+      "name": "Ethan Hawke",
+      "character": "Troy Dyer",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 9.0725,
+      "profile_path": "/2LoTr6x0TEM7L5em4kSx1VmGDgG.jpg"
+    },
+    {
+      "personId": 21197,
+      "name": "Janeane Garofalo",
+      "character": "Vickie Miner",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.2426,
+      "profile_path": "/cdNooT0otUf5QVHDPm9bkGN7gNu.jpg"
+    },
+    {
+      "personId": 18324,
+      "name": "Steve Zahn",
+      "character": "Sammy Gray",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 4.8898,
+      "profile_path": "/rwrPdKGwXnByxUVMxMf8Y7oswi3.jpg"
+    },
+    {
+      "personId": 7399,
+      "name": "Ben Stiller",
+      "character": "Michael Grates",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 5.5893,
+      "profile_path": "/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg"
+    },
+    {
+      "personId": 12967,
+      "name": "Swoosie Kurtz",
+      "character": "Charlane McGregor",
+      "order": 5,
+      "cast_id": 25,
+      "popularity": 1.6186,
+      "profile_path": "/uCHMttpxVITjDXtjs8FS6O7TQHx.jpg"
+    },
+    {
+      "personId": 28101,
+      "name": "Harry O'Reilly",
+      "character": "Wes McGregor",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 0.733,
+      "profile_path": "/sVUIeCbD6ct3vkzlOAElY8d6tVe.jpg"
+    },
+    {
+      "personId": 28102,
+      "name": "Susan Norfleet",
+      "character": "Helen Anne Pierce",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 0.3527,
+      "profile_path": null
+    },
+    {
+      "personId": 10671,
+      "name": "Joe Don Baker",
+      "character": "Tom Pierce",
+      "order": 8,
+      "cast_id": 9,
+      "popularity": 1.7912,
+      "profile_path": "/7AEqsKLyAO3tt9bUufdirU1xXo8.jpg"
+    },
+    {
+      "personId": 9137,
+      "name": "Renée Zellweger",
+      "character": "Tami",
+      "order": 9,
+      "cast_id": 10,
+      "popularity": 5.0656,
+      "profile_path": "/u4wQXVYhN9OOimHn5hbWKefdjjG.jpg"
+    },
+    {
+      "personId": 28103,
+      "name": "James Rothenberg",
+      "character": "Rick",
+      "order": 10,
+      "cast_id": 11,
+      "popularity": 0.0807,
+      "profile_path": null
+    },
+    {
+      "personId": 4251,
+      "name": "John Mahoney",
+      "character": "Grant Gubler",
+      "order": 11,
+      "cast_id": 12,
+      "popularity": 1.8003,
+      "profile_path": "/paVSw7Brdp6MKa2j4UPukA0KHs3.jpg"
+    },
+    {
+      "personId": 28104,
+      "name": "Eric Morgan Stuart",
+      "character": "Damien",
+      "order": 12,
+      "cast_id": 13,
+      "popularity": 0.4409,
+      "profile_path": "/14Krtyw8xjNV8Q1coVsJPE6Nu2D.jpg"
+    },
+    {
+      "personId": 8214,
+      "name": "Barry Del Sherman",
+      "character": "Grant's Produzent",
+      "order": 13,
+      "cast_id": 14,
+      "popularity": 1.7206,
+      "profile_path": "/zXLTW52g9BW9CCQ5fzxoGNLDe8P.jpg"
+    },
+    {
+      "personId": 28105,
+      "name": "Chelsea Lagos",
+      "character": "Troy Groupie",
+      "order": 14,
+      "cast_id": 15,
+      "popularity": 1.3162,
+      "profile_path": "/cZkKcWfi2pXZA31kJ1oSSPxCPhv.jpg"
+    },
+    {
+      "personId": 105649,
+      "name": "Bill Bolender",
+      "character": "Truck Driver",
+      "order": 15,
+      "cast_id": 36,
+      "popularity": 0.7325,
+      "profile_path": "/x300IuivwmdtuEY1V52cAoprlBV.jpg"
+    },
+    {
+      "personId": 28106,
+      "name": "Helen Childress",
+      "character": "Waitress",
+      "order": 16,
+      "cast_id": 37,
+      "popularity": 0.2538,
+      "profile_path": null
+    },
+    {
+      "personId": 21299,
+      "name": "David Pirner",
+      "character": "Phineas",
+      "order": 17,
+      "cast_id": 38,
+      "popularity": 0.3052,
+      "profile_path": null
+    },
+    {
+      "personId": 43120,
+      "name": "Andy Dick",
+      "character": "Rock",
+      "order": 18,
+      "cast_id": 35,
+      "popularity": 2.6976,
+      "profile_path": "/n4WT4oYoYrzSGAanlWPsneCzBPk.jpg"
+    },
+    {
+      "personId": 65827,
+      "name": "Keith David",
+      "character": "Roger",
+      "order": 19,
+      "cast_id": 32,
+      "popularity": 5.1624,
+      "profile_path": "/hwykAZLSIP5Cb2bbauZ4CEEmq0u.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 7399,
+      "name": "Ben Stiller",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 5.5893,
+      "profile_path": "/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1873,
+      "name": "yuppie"
+    },
+    {
+      "id": 1253,
+      "name": "roommates"
+    },
+    {
+      "id": 2200,
+      "name": "generations conflict"
+    },
+    {
+      "id": 2566,
+      "name": "cohabitant"
+    },
+    {
+      "id": 5865,
+      "name": "cabriolet"
+    },
+    {
+      "id": 198673,
+      "name": "unemployed"
+    }
+  ]
+}

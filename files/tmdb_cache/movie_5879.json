@@ -1,0 +1,324 @@
+{
+  "overview": "A passionate telling of the story of Sada Abe, a woman whose affair with her master led to an obsessive and ultimately destructive sexual relationship.",
+  "release_date": "1976-09-15",
+  "runtime": 105,
+  "budget": 0,
+  "revenue": 7650000,
+  "tmdb_vote_average": 6.6,
+  "tmdb_vote_count": 697,
+  "tmdb_popularity": 9.6438,
+  "original_language": "ja",
+  "poster_path": "/AiFQbgjgSXWPfbi9iIYT39iXWMW.jpg",
+  "backdrop_path": "/g3L6tOvJIRWSkxnhmoEW1SKEvW3.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 6116,
+      "name": "Argos films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 13139,
+      "name": "Oshima Productions",
+      "origin_country": "JP"
+    },
+    {
+      "id": 14668,
+      "name": "Shibata Organisation",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "ja",
+      "name": "日本語"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 46239,
+      "name": "Eiko Matsuda",
+      "character": "Sada Abe",
+      "order": 0,
+      "cast_id": 8,
+      "popularity": 2.2367,
+      "profile_path": "/iAkw70zEammVeKlr99OyyEHb1gj.jpg"
+    },
+    {
+      "personId": 21503,
+      "name": "Tatsuya Fuji",
+      "character": "Kichizo Ishida",
+      "order": 1,
+      "cast_id": 9,
+      "popularity": 1.2884,
+      "profile_path": "/vfQBWOKFztXYexzNmKmaFJ8hT0E.jpg"
+    },
+    {
+      "personId": 142535,
+      "name": "Aoi Nakajima",
+      "character": "Toku",
+      "order": 2,
+      "cast_id": 10,
+      "popularity": 2.511,
+      "profile_path": "/td7dfN0lWMhtPyZ5WFkuBiPMl0t.jpg"
+    },
+    {
+      "personId": 136880,
+      "name": "Yasuko Matsui",
+      "character": "Tagawa Inn Manager",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 1.928,
+      "profile_path": "/ojHIJ9xxAqSGjB8z49s288zHyRn.jpg"
+    },
+    {
+      "personId": 310173,
+      "name": "Meika Seri",
+      "character": "Matsuko (Yoshidaya Maid)",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 1.6092,
+      "profile_path": "/nsr6GPpnmoBHvYYXgeG0Cxec3LE.jpg"
+    },
+    {
+      "personId": 134619,
+      "name": "Kanae Kobayashi",
+      "character": "Old Geisha Kikuryû",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 1.4228,
+      "profile_path": "/tLyqCS0ap8Q6EVFlHN0hqA5TyBn.jpg"
+    },
+    {
+      "personId": 33732,
+      "name": "Taiji Tonoyama",
+      "character": "Old Beggar",
+      "order": 6,
+      "cast_id": 14,
+      "popularity": 1.706,
+      "profile_path": "/k88bvJ91SiL2Nn6QtQf7hB8U4iv.jpg"
+    },
+    {
+      "personId": 1268220,
+      "name": "Kyōji Kokonoe",
+      "character": "Teacher Ômiya",
+      "order": 7,
+      "cast_id": 32,
+      "popularity": 1.3057,
+      "profile_path": null
+    },
+    {
+      "personId": 1270263,
+      "name": "Naomi Shiraishi",
+      "character": "Geisha Yaeji",
+      "order": 8,
+      "cast_id": 33,
+      "popularity": 1.1137,
+      "profile_path": null
+    },
+    {
+      "personId": 2285226,
+      "name": "Shinkichi Noda",
+      "character": "Street Restaurant Owner",
+      "order": 9,
+      "cast_id": 34,
+      "popularity": 0.9111,
+      "profile_path": null
+    },
+    {
+      "personId": 3317611,
+      "name": "Komikichi Hori",
+      "character": "Mitsuwa Geisha",
+      "order": 10,
+      "cast_id": 35,
+      "popularity": 0.3531,
+      "profile_path": null
+    },
+    {
+      "personId": 3317612,
+      "name": "Kikuhei Matsunoya",
+      "character": "Hôkan Jester",
+      "order": 11,
+      "cast_id": 36,
+      "popularity": 0.2773,
+      "profile_path": null
+    },
+    {
+      "personId": 552315,
+      "name": "Akiko Koyama",
+      "character": "Mansaki Geisha",
+      "order": 12,
+      "cast_id": 15,
+      "popularity": 1.4678,
+      "profile_path": "/q8iwkok7FA2dbdes0m1pspIu0W.jpg"
+    },
+    {
+      "personId": 1269172,
+      "name": "Yuriko Azuma",
+      "character": "Mitsuwa Geisha",
+      "order": 13,
+      "cast_id": 37,
+      "popularity": 1.6079,
+      "profile_path": "/ix8ryjRXy7B5ypnMzGGjHBzvKvg.jpg"
+    },
+    {
+      "personId": 1472732,
+      "name": "Rei Minami",
+      "character": "Mitsuwa Geisha",
+      "order": 14,
+      "cast_id": 38,
+      "popularity": 0.9367,
+      "profile_path": null
+    },
+    {
+      "personId": 1207530,
+      "name": "Machiko Aoki",
+      "character": "Mitsuwa Maid",
+      "order": 15,
+      "cast_id": 39,
+      "popularity": 1.016,
+      "profile_path": null
+    },
+    {
+      "personId": 3317620,
+      "name": "Mariko Abe",
+      "character": "Kinu (Yoshidaya Maid)",
+      "order": 16,
+      "cast_id": 40,
+      "popularity": 1.0672,
+      "profile_path": null
+    },
+    {
+      "personId": 1270565,
+      "name": "Kiyomi Yasuda",
+      "character": "Mitsuwa Geisha",
+      "order": 17,
+      "cast_id": 42,
+      "popularity": 1.2383,
+      "profile_path": null
+    },
+    {
+      "personId": 556806,
+      "name": "Hiroko Fuji",
+      "character": "O-Tsune (Yoshidaya Head Maid)",
+      "order": 18,
+      "cast_id": 43,
+      "popularity": 1.4669,
+      "profile_path": "/70cFPhlOSSXtaiSX6M7sl70v0NN.jpg"
+    },
+    {
+      "personId": 2612662,
+      "name": "Tomi Mitsuboshi",
+      "character": "Chieko (Yoshidaya Maid)",
+      "order": 19,
+      "cast_id": 44,
+      "popularity": 0.4447,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 46230,
+      "name": "Nagisa Ōshima",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.6052,
+      "profile_path": "/7G4g7V3z5ultk05MaRWE0RvOLtW.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 233,
+      "name": "japan"
+    },
+    {
+      "id": 445,
+      "name": "pornography"
+    },
+    {
+      "id": 931,
+      "name": "jealousy"
+    },
+    {
+      "id": 4342,
+      "name": "geisha"
+    },
+    {
+      "id": 1411,
+      "name": "brothel"
+    },
+    {
+      "id": 1796,
+      "name": "sake"
+    },
+    {
+      "id": 4115,
+      "name": "longing"
+    },
+    {
+      "id": 4481,
+      "name": "deceived wife"
+    },
+    {
+      "id": 9672,
+      "name": "based on true story"
+    },
+    {
+      "id": 6373,
+      "name": "sadomasochism"
+    },
+    {
+      "id": 11869,
+      "name": "mistress"
+    },
+    {
+      "id": 13059,
+      "name": "prostitution"
+    },
+    {
+      "id": 197505,
+      "name": "nymphomania"
+    },
+    {
+      "id": 214548,
+      "name": "1930s"
+    },
+    {
+      "id": 244904,
+      "name": "depravation"
+    },
+    {
+      "id": 267122,
+      "name": "sex"
+    },
+    {
+      "id": 296479,
+      "name": "shōwa era (1926-89)"
+    },
+    {
+      "id": 320654,
+      "name": "penis mutilation"
+    },
+    {
+      "id": 328992,
+      "name": "erotic asphyxiation"
+    },
+    {
+      "id": 353176,
+      "name": "pinku eiga"
+    }
+  ]
+}

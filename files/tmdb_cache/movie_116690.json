@@ -1,0 +1,178 @@
+{
+  "overview": "In Kabuki style, the film tells the story of a remote mountain village where the scarcity of food leads to a voluntary but socially-enforced policy in which relatives carry 70-year-old family members up Narayama mountain to die. Granny Orin is approaching 70, content to embrace her fate. Her widowed son Tatsuhei cannot bear losing his mother, even as she arranges his marriage to a widow his age. Her grandson Kesa, who's girlfriend is pregnant, is selfishly happy to see Orin die. Around them, a family of thieves are dealt with severely, and an old man, past 70, whose son has cast him out, scrounges for food. Will Orin's loving and accepting spirit teach and ennoble her family?",
+  "release_date": "1958-06-01",
+  "runtime": 98,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 7.5,
+  "tmdb_vote_count": 84,
+  "tmdb_popularity": 1.0478,
+  "original_language": "ja",
+  "poster_path": "/kwvNyyXFsVAPg9PYQsogcXj99lV.jpg",
+  "backdrop_path": "/d81tSjYWT0ITcqL5ecTkUcGwVig.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 192,
+      "name": "Shochiku",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "ja",
+      "name": "日本語"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 24551,
+      "name": "Kinuyo Tanaka",
+      "character": "Orin",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 1.7338,
+      "profile_path": "/1OnULAXSOskknSCxTzx3Naqoe5O.jpg"
+    },
+    {
+      "personId": 213493,
+      "name": "Teiji Takahashi",
+      "character": "Tatsuhei",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 1.5112,
+      "profile_path": "/whFvr8JkrLLe2vWKGQxdHe3Cy2o.jpg"
+    },
+    {
+      "personId": 213497,
+      "name": "Yūko Mochizuki",
+      "character": "Tamayan",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 1.3868,
+      "profile_path": "/5TUdCo50ZN3aX8mYw152hBb9rqL.jpg"
+    },
+    {
+      "personId": 20829,
+      "name": "Seiji Miyaguchi",
+      "character": "Matayan",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 2.0459,
+      "profile_path": "/mAGkZlsowKzgpvvi40mRLU4vA53.jpg"
+    },
+    {
+      "personId": 128023,
+      "name": "Yūnosuke Itō",
+      "character": "Matayan's son",
+      "order": 4,
+      "cast_id": 26,
+      "popularity": 1.4865,
+      "profile_path": "/bGD0uSAMZQSgWBo1sRmdjn36CYp.jpg"
+    },
+    {
+      "personId": 134321,
+      "name": "Ken Mitsuda",
+      "character": "Teruyan",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 1.3341,
+      "profile_path": null
+    },
+    {
+      "personId": 1888164,
+      "name": "Danko Ichikawa",
+      "character": "Kesakichi",
+      "order": 6,
+      "cast_id": 23,
+      "popularity": 1.1606,
+      "profile_path": "/yNpDoqKMEi8iwh3W3h087sQczLp.jpg"
+    },
+    {
+      "personId": 1888165,
+      "name": "Keiko Ogasawara",
+      "character": "Matsu-yan",
+      "order": 7,
+      "cast_id": 24,
+      "popularity": 2.2445,
+      "profile_path": null
+    },
+    {
+      "personId": 106165,
+      "name": "Eijirō Tōno",
+      "character": "Messenger",
+      "order": 8,
+      "cast_id": 25,
+      "popularity": 0.7945,
+      "profile_path": "/dJqhcdHUqwa4S7bFjFXMza8jBth.jpg"
+    },
+    {
+      "personId": 25462,
+      "name": "Kō Nishimura",
+      "character": "One of the villagers who Teaches Narayama's Manners (uncredited)",
+      "order": 9,
+      "cast_id": 28,
+      "popularity": 0.933,
+      "profile_path": "/vIJRKuIndIdwHwrgJpse4yCMweK.jpg"
+    },
+    {
+      "personId": 4217998,
+      "name": "Katsuyuki Hattori",
+      "character": "Tatsuhei's son (uncredited)",
+      "order": 10,
+      "cast_id": 29,
+      "popularity": 0.2006,
+      "profile_path": null
+    },
+    {
+      "personId": 1093459,
+      "name": "Tokuji Kobayashi",
+      "character": "One of the villagers who teaches Narayama's manners (uncredited)",
+      "order": 11,
+      "cast_id": 30,
+      "popularity": 1.7671,
+      "profile_path": "/twYMMpXN8ZoaSHzMnt1Vmq2NLMZ.jpg"
+    },
+    {
+      "personId": 552188,
+      "name": "Masao Oda",
+      "character": "One of the villagers who teaches Narayama's manners (uncredited)",
+      "order": 12,
+      "cast_id": 31,
+      "popularity": 1.4288,
+      "profile_path": "/ahc1cBIt5lOsfIKf0W7AhIJUPXv.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 587603,
+      "name": "Keisuke Kinoshita",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.4412,
+      "profile_path": "/27amgveVP79VyG8swdJU9lZu9v9.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 10235,
+      "name": "family relationships"
+    },
+    {
+      "id": 231044,
+      "name": "dying traditions"
+    },
+    {
+      "id": 231045,
+      "name": "social convention"
+    }
+  ]
+}

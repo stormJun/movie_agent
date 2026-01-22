@@ -1,0 +1,291 @@
+{
+  "overview": "A sweet-natured Temp Agency operator and amateur Presidential look-alike is recruited by the Secret Service to become a temporary stand-in for the President of the United States.",
+  "release_date": "1993-05-07",
+  "runtime": 110,
+  "budget": 28000000,
+  "revenue": 92000000,
+  "tmdb_vote_average": 6.644,
+  "tmdb_vote_count": 803,
+  "tmdb_popularity": 1.9327,
+  "original_language": "en",
+  "poster_path": "/wIUuf1NFchdCJe833JBTiSMzqfv.jpg",
+  "backdrop_path": "/lpBqjU3OyG9DnIy5BHt0zNw8n0q.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 5739,
+      "name": "Donner/Shuler-Donner Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 8816,
+      "name": "Northern Lights Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "es",
+      "name": "Español"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8945,
+      "name": "Kevin Kline",
+      "character": "Dave Kovic / Bill Mitchell",
+      "order": 0,
+      "cast_id": 10,
+      "popularity": 3.7736,
+      "profile_path": "/ArH5dACd9AmWNNMnI6bGEkiFYIM.jpg"
+    },
+    {
+      "personId": 10205,
+      "name": "Sigourney Weaver",
+      "character": "Ellen Mitchell",
+      "order": 1,
+      "cast_id": 12,
+      "popularity": 7.7971,
+      "profile_path": "/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+    },
+    {
+      "personId": 8924,
+      "name": "Frank Langella",
+      "character": "Bob Alexander",
+      "order": 2,
+      "cast_id": 13,
+      "popularity": 2.9835,
+      "profile_path": "/86DEo3sBguyc1l46606yVKD28T4.jpg"
+    },
+    {
+      "personId": 14721,
+      "name": "Kevin Dunn",
+      "character": "Alan Reed",
+      "order": 3,
+      "cast_id": 14,
+      "popularity": 2.9303,
+      "profile_path": "/7dqLQjMNCQnuxQJQwQ5Ozz16LBq.jpg"
+    },
+    {
+      "personId": 10182,
+      "name": "Ving Rhames",
+      "character": "Duane Stevenson",
+      "order": 4,
+      "cast_id": 15,
+      "popularity": 4.5568,
+      "profile_path": "/rqPdVVIdt45wNDsXuREu2M6PApU.jpg"
+    },
+    {
+      "personId": 2282,
+      "name": "Ben Kingsley",
+      "character": "Vice-President Nance",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 6.8778,
+      "profile_path": "/vQtBqpF2HDdzbfXHDzR4u37i1Ac.jpg"
+    },
+    {
+      "personId": 28164,
+      "name": "Charles Grodin",
+      "character": "Murray Blum",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 1.4532,
+      "profile_path": "/k3LIbJE9nxn4nI79tef4zdjtEzq.jpg"
+    },
+    {
+      "personId": 41505,
+      "name": "Faith Prince",
+      "character": "Alice",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 1.1794,
+      "profile_path": "/g1TX9yF5j4vn2l2qECj3jGpl1k9.jpg"
+    },
+    {
+      "personId": 350,
+      "name": "Laura Linney",
+      "character": "Randi",
+      "order": 8,
+      "cast_id": 19,
+      "popularity": 4.3471,
+      "profile_path": "/yIopIq7l7eIvjoQqnZJkpdQEvds.jpg"
+    },
+    {
+      "personId": 5149,
+      "name": "Bonnie Hunt",
+      "character": "White House Tour Guide",
+      "order": 9,
+      "cast_id": 20,
+      "popularity": 3.8154,
+      "profile_path": "/tT9C6uLztgN8OxJULq6F9iEzqlA.jpg"
+    },
+    {
+      "personId": 86369,
+      "name": "Parley Baer",
+      "character": "Senate Majority Leader",
+      "order": 10,
+      "cast_id": 21,
+      "popularity": 1.4256,
+      "profile_path": "/a6b9pONRmi03ggBpHpevyGokxgJ.jpg"
+    },
+    {
+      "personId": 52463,
+      "name": "Stefan Gierasch",
+      "character": "House Majority Leader",
+      "order": 11,
+      "cast_id": 22,
+      "popularity": 1.2074,
+      "profile_path": "/oAbH8rqOdeLSOM4OS1kydVm8rAM.jpg"
+    },
+    {
+      "personId": 63279,
+      "name": "Anna Deavere Smith",
+      "character": "Mrs. Travis",
+      "order": 12,
+      "cast_id": 23,
+      "popularity": 0.85,
+      "profile_path": "/jrvaXqXAHBhnCaP3ewXo8OtvKwJ.jpg"
+    },
+    {
+      "personId": 15414,
+      "name": "Charles Hallahan",
+      "character": "Policeman",
+      "order": 13,
+      "cast_id": 24,
+      "popularity": 1.5628,
+      "profile_path": "/zQr2ytNB23Dy3uzbGkxfIsANw3y.jpg"
+    },
+    {
+      "personId": 1144361,
+      "name": "Tom Dugan",
+      "character": "Jerry",
+      "order": 14,
+      "cast_id": 25,
+      "popularity": 0.6195,
+      "profile_path": "/n26BNkoiZt9dYgjkAYKNFOMJvlF.jpg"
+    },
+    {
+      "personId": 171554,
+      "name": "Alba Oms",
+      "character": "Lola",
+      "order": 15,
+      "cast_id": 26,
+      "popularity": 0.4029,
+      "profile_path": null
+    },
+    {
+      "personId": 152864,
+      "name": "Steve Witting",
+      "character": "Secret Service #1",
+      "order": 16,
+      "cast_id": 27,
+      "popularity": 0.8404,
+      "profile_path": "/xpCi5RVLq2X6xtz4LzOBsVVmevD.jpg"
+    },
+    {
+      "personId": 1171063,
+      "name": "Kellen Sampson",
+      "character": "David",
+      "order": 17,
+      "cast_id": 28,
+      "popularity": 0.1112,
+      "profile_path": null
+    },
+    {
+      "personId": 9783,
+      "name": "Lexie Bigham",
+      "character": "White House Guard",
+      "order": 18,
+      "cast_id": 29,
+      "popularity": 1.109,
+      "profile_path": "/tphaLLDSABnp1oZAxS8FOQrndkA.jpg"
+    },
+    {
+      "personId": 1171064,
+      "name": "Frederic W. Barnes",
+      "character": "Frederic W. Barnes",
+      "order": 19,
+      "cast_id": 30,
+      "popularity": 0.2964,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 8858,
+      "name": "Ivan Reitman",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.3781,
+      "profile_path": "/zqD7JCRwqWVAdFqspDU6kzdqkan.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 732,
+      "name": "coma"
+    },
+    {
+      "id": 840,
+      "name": "usa president"
+    },
+    {
+      "id": 833,
+      "name": "the white house"
+    },
+    {
+      "id": 4073,
+      "name": "apoplectic stroke"
+    },
+    {
+      "id": 11200,
+      "name": "look-alike"
+    },
+    {
+      "id": 13067,
+      "name": "body double"
+    },
+    {
+      "id": 41249,
+      "name": "secret service"
+    },
+    {
+      "id": 160364,
+      "name": "impersonation"
+    },
+    {
+      "id": 161891,
+      "name": "doppelgänger"
+    },
+    {
+      "id": 209327,
+      "name": "temp agency"
+    },
+    {
+      "id": 260428,
+      "name": "nice guy"
+    },
+    {
+      "id": 261315,
+      "name": "corgi"
+    }
+  ]
+}

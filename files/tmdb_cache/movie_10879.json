@@ -1,0 +1,267 @@
+{
+  "overview": "Rival Chicago reporters Sabrina Peterson and Peter Brackett join forces to uncover a train wreck conspiracy.",
+  "release_date": "1994-06-29",
+  "runtime": 123,
+  "budget": 45000000,
+  "revenue": 61947267,
+  "tmdb_vote_average": 5.484,
+  "tmdb_vote_count": 223,
+  "tmdb_popularity": 1.866,
+  "original_language": "en",
+  "poster_path": "/2uyytK3XFRPFXoTchFDtsWiSujn.jpg",
+  "backdrop_path": "/lnO0pcgCyzirR2QRt1XNPBTgjNB.jpg",
+  "tmdb_genres_raw": [
+    "Romance",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 175,
+      "name": "Caravan Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 9195,
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1733,
+      "name": "Nick Nolte",
+      "character": "Peter Brackett",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 5.9989,
+      "profile_path": "/jpYzFBi6zfn8CHVaXmqgiOTas4V.jpg"
+    },
+    {
+      "personId": 1204,
+      "name": "Julia Roberts",
+      "character": "Sabrina Peterson",
+      "order": 1,
+      "cast_id": 12,
+      "popularity": 7.8361,
+      "profile_path": "/h13yvG0tRNMTAwciQXxYmQWdYW8.jpg"
+    },
+    {
+      "personId": 3712,
+      "name": "Saul Rubinek",
+      "character": "Sam Smotherman",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.09,
+      "profile_path": "/oQQxpxDo7mULPsjhrPLFiZ6e2Ca.jpg"
+    },
+    {
+      "personId": 8986,
+      "name": "James Rebhorn",
+      "character": "The Thin Man",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.1243,
+      "profile_path": "/jRdR3q28gTPQU6eWRgiIqzGuMKU.jpg"
+    },
+    {
+      "personId": 1162,
+      "name": "Robert Loggia",
+      "character": "Matt Greenfield",
+      "order": 4,
+      "cast_id": 13,
+      "popularity": 3.5124,
+      "profile_path": "/mRSUgJnfprCNw83pyVfpfW7ryfK.jpg"
+    },
+    {
+      "personId": 53924,
+      "name": "Kelly Rutherford",
+      "character": "Kim",
+      "order": 5,
+      "cast_id": 14,
+      "popularity": 1.9352,
+      "profile_path": "/qq05zHgR6lunxEOAEwJ7peAJHDN.jpg"
+    },
+    {
+      "personId": 3019,
+      "name": "Olympia Dukakis",
+      "character": "Jeannie",
+      "order": 6,
+      "cast_id": 15,
+      "popularity": 1.1349,
+      "profile_path": "/pwoIzB9QSjKkWORQ7SpetnxFizf.jpg"
+    },
+    {
+      "personId": 19131,
+      "name": "Marsha Mason",
+      "character": "Senator Gayle Robbins",
+      "order": 7,
+      "cast_id": 16,
+      "popularity": 1.0449,
+      "profile_path": "/2IkzpW9eYT0m1jhssQryvmN4gS6.jpg"
+    },
+    {
+      "personId": 26510,
+      "name": "Eugene Levy",
+      "character": "Justice of the Peace",
+      "order": 8,
+      "cast_id": 17,
+      "popularity": 3.7089,
+      "profile_path": "/y4CexxKSI6qR5A6PDaD8mSrEhYC.jpg"
+    },
+    {
+      "personId": 1270,
+      "name": "Charles Martin Smith",
+      "character": "Rick Medwick",
+      "order": 9,
+      "cast_id": 18,
+      "popularity": 1.7002,
+      "profile_path": "/uzm5v0Q7nCH223EvPiJyh9Y0qiN.jpg"
+    },
+    {
+      "personId": 76470,
+      "name": "Dan Butler",
+      "character": "Wilson Chess",
+      "order": 10,
+      "cast_id": 19,
+      "popularity": 1.7723,
+      "profile_path": "/6RcrSFeqZooY4YZouS2HX5iMUay.jpg"
+    },
+    {
+      "personId": 7675,
+      "name": "Paul Gleason",
+      "character": "Kenny Bacon",
+      "order": 11,
+      "cast_id": 20,
+      "popularity": 2.3372,
+      "profile_path": "/a7PJofFcVpDxw2wAak1d56J7L4k.jpg"
+    },
+    {
+      "personId": 209,
+      "name": "Jane Adams",
+      "character": "Evans",
+      "order": 12,
+      "cast_id": 21,
+      "popularity": 2.1521,
+      "profile_path": "/2FsPAoatMkUZ7khJ9r4Fa7ZxQzS.jpg"
+    },
+    {
+      "personId": 86633,
+      "name": "Lisa Lu",
+      "character": "Virgina Hervey",
+      "order": 13,
+      "cast_id": 22,
+      "popularity": 1.1152,
+      "profile_path": "/cK69ncJvlUVnJwsVinSYc4n8yWw.jpg"
+    },
+    {
+      "personId": 4496,
+      "name": "Nora Dunn",
+      "character": "Lindy",
+      "order": 14,
+      "cast_id": 23,
+      "popularity": 1.7265,
+      "profile_path": "/x9NAUBciKKxDaYRcntc4vKjqilG.jpg"
+    },
+    {
+      "personId": 1714926,
+      "name": "Hallie Meyers-Shyer",
+      "character": "Little Girl in Barn",
+      "order": 15,
+      "cast_id": 48,
+      "popularity": 0.9418,
+      "profile_path": "/oA6e8WLTgVIjlpVHdcZdaNxbfqF.jpg"
+    },
+    {
+      "personId": 3178342,
+      "name": "Boone David Cates",
+      "character": "Little Boy in Barn",
+      "order": 16,
+      "cast_id": 49,
+      "popularity": 0.1064,
+      "profile_path": null
+    },
+    {
+      "personId": 3162386,
+      "name": "Richard Brown",
+      "character": "Minister",
+      "order": 17,
+      "cast_id": 50,
+      "popularity": 0.2016,
+      "profile_path": null
+    },
+    {
+      "personId": 9048,
+      "name": "Clark Gregg",
+      "character": "Darryl Beekman, Jr.",
+      "order": 18,
+      "cast_id": 45,
+      "popularity": 2.841,
+      "profile_path": "/mq686D91XoZpqkzELn0888NOiZW.jpg"
+    },
+    {
+      "personId": 54711,
+      "name": "Kevin Breznahan",
+      "character": "Groom",
+      "order": 19,
+      "cast_id": 51,
+      "popularity": 1.7199,
+      "profile_path": "/jKKkDdDSHptbwUVkfel77p922Ai.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 56106,
+      "name": "Charles Shyer",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5957,
+      "profile_path": "/stcwg4mJKGQo0UBfWcXVQy6fOdP.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 918,
+      "name": "newspaper"
+    },
+    {
+      "id": 9799,
+      "name": "romcom"
+    },
+    {
+      "id": 5440,
+      "name": "adversary"
+    },
+    {
+      "id": 9823,
+      "name": "rivalry"
+    },
+    {
+      "id": 12193,
+      "name": "reporter"
+    },
+    {
+      "id": 33556,
+      "name": "urban setting"
+    },
+    {
+      "id": 165301,
+      "name": "opposites attract"
+    },
+    {
+      "id": 202401,
+      "name": "experience"
+    }
+  ]
+}

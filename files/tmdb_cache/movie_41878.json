@@ -1,0 +1,263 @@
+{
+  "overview": "Jean is young, gay, and promiscuous. Only after he meets one or two women, including Laura, does he come to realize his bisexuality. Jean has to overcome a personal crisis and a tough choice between Laura and his male lover Samy.",
+  "release_date": "1992-10-21",
+  "runtime": 126,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.4,
+  "tmdb_vote_count": 78,
+  "tmdb_popularity": 0.5259,
+  "original_language": "fr",
+  "poster_path": "/5Onj1lmo28QklT5iiEdYlKygO7h.jpg",
+  "backdrop_path": "/skqgXTN4ioWCqykgVl2QnDkhtlh.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 16366,
+      "name": "La Sept Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 249,
+      "name": "Société Nouvelle de Cinématographie",
+      "origin_country": "FR"
+    },
+    {
+      "id": 20769,
+      "name": "Banfilm",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 127283,
+      "name": "Cyril Collard",
+      "character": "Jean",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 1.3375,
+      "profile_path": "/u9z5DoZBwHCEBUMkktQnJSzUpfB.jpg"
+    },
+    {
+      "personId": 40938,
+      "name": "Romane Bohringer",
+      "character": "Laura",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 0.9379,
+      "profile_path": "/xijSy3jkjSQlbN2XfD12q7OWPPR.jpg"
+    },
+    {
+      "personId": 256268,
+      "name": "Carlos López",
+      "character": "Samy",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 0.1912,
+      "profile_path": "/c6EVvTqEpZb7An1vd6e57izuIl6.jpg"
+    },
+    {
+      "personId": 109516,
+      "name": "Clémentine Célarié",
+      "character": "Marianne",
+      "order": 3,
+      "cast_id": 12,
+      "popularity": 0.7731,
+      "profile_path": "/yhWfbsn2VV86bziD2mfos6vsP87.jpg"
+    },
+    {
+      "personId": 1162582,
+      "name": "Corine Blue",
+      "character": "Laura's Mother",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 0.1653,
+      "profile_path": "/tLLKtt0oOhl2fFTDYoSTvbAMp02.jpg"
+    },
+    {
+      "personId": 286184,
+      "name": "Claude Winter",
+      "character": "Jean's Mother",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 0.2156,
+      "profile_path": "/xoApPON6k4JUhH8Q0mdDBH7p7cQ.jpg"
+    },
+    {
+      "personId": 18329,
+      "name": "Maria Schneider",
+      "character": "Noria",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 1.1486,
+      "profile_path": "/6te97SWzt2K678UaBbG5v7c5cdc.jpg"
+    },
+    {
+      "personId": 25344,
+      "name": "Laura Favali",
+      "character": "Karine",
+      "order": 7,
+      "cast_id": 13,
+      "popularity": 0.3661,
+      "profile_path": "/9jzgzp7EiiOpZeGiWRtaFcSJFoW.jpg"
+    },
+    {
+      "personId": 40264,
+      "name": "Marine Delterme",
+      "character": "Sylvie",
+      "order": 8,
+      "cast_id": 22,
+      "popularity": 0.6548,
+      "profile_path": "/jGkxyep6EKFcDF7gH10sUGxB4tL.jpg"
+    },
+    {
+      "personId": 23300,
+      "name": "René-Marc Bini",
+      "character": "Marc",
+      "order": 9,
+      "cast_id": 7,
+      "popularity": 0.6919,
+      "profile_path": null
+    },
+    {
+      "personId": 1407311,
+      "name": "Denis d'Arcangelo",
+      "character": "The realistic singer",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 1.8476,
+      "profile_path": "/cgvAKBTPxwshskLvpmHQ4AEdf29.jpg"
+    },
+    {
+      "personId": 1050920,
+      "name": "Jean-Jacques Jauffret",
+      "character": "Pierre Ollivier",
+      "order": 11,
+      "cast_id": 15,
+      "popularity": 0.0756,
+      "profile_path": "/sz4MJZzDH6oSug0heJnUE9qFyqB.jpg"
+    },
+    {
+      "personId": 17625,
+      "name": "Aïssa Djabri",
+      "character": "Kader",
+      "order": 12,
+      "cast_id": 20,
+      "popularity": 0.4062,
+      "profile_path": "/qF4SU9YXZO2soy4k9igFqqASz6T.jpg"
+    },
+    {
+      "personId": 2589449,
+      "name": "Francisco Giménez",
+      "character": "Paco",
+      "order": 13,
+      "cast_id": 21,
+      "popularity": 0.0454,
+      "profile_path": null
+    },
+    {
+      "personId": 2589452,
+      "name": "Yannick Tolila",
+      "character": "The nurse",
+      "order": 14,
+      "cast_id": 23,
+      "popularity": 0.0256,
+      "profile_path": null
+    },
+    {
+      "personId": 267603,
+      "name": "Olivier Pajot",
+      "character": "Lempereur",
+      "order": 15,
+      "cast_id": 24,
+      "popularity": 0.4927,
+      "profile_path": "/uCJUq5nRy5g4XynjtDYXqPnX0xJ.jpg"
+    },
+    {
+      "personId": 2589454,
+      "name": "Diego Porres",
+      "character": "Jaime",
+      "order": 16,
+      "cast_id": 25,
+      "popularity": 0.0389,
+      "profile_path": null
+    },
+    {
+      "personId": 2589455,
+      "name": "Stephan Lakatos",
+      "character": "Jipe",
+      "order": 17,
+      "cast_id": 26,
+      "popularity": 0.0214,
+      "profile_path": null
+    },
+    {
+      "personId": 2589457,
+      "name": "Christophe Chantre",
+      "character": "Martial",
+      "order": 18,
+      "cast_id": 27,
+      "popularity": 0.0336,
+      "profile_path": null
+    },
+    {
+      "personId": 68056,
+      "name": "Michel Voletti",
+      "character": "Mr. André",
+      "order": 19,
+      "cast_id": 28,
+      "popularity": 0.4774,
+      "profile_path": "/6atUHElQipdo1pTj5PtFEDJydGN.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 127283,
+      "name": "Cyril Collard",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.3375,
+      "profile_path": "/u9z5DoZBwHCEBUMkktQnJSzUpfB.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 158718,
+      "name": "lgbt"
+    },
+    {
+      "id": 168812,
+      "name": "bisexual man"
+    },
+    {
+      "id": 258533,
+      "name": "gay theme"
+    },
+    {
+      "id": 349176,
+      "name": "gay man has sex with a woman"
+    }
+  ]
+}

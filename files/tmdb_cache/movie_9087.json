@@ -1,0 +1,276 @@
+{
+  "overview": "Widowed U.S. president Andrew Shepherd, one of the world's most powerful men, can have anything he wants -- and what he covets most is Sydney Ellen Wade, a Washington lobbyist. But Shepherd's attempts at courting her spark wild rumors and decimate his approval ratings.",
+  "release_date": "1995-11-17",
+  "runtime": 113,
+  "budget": 62000000,
+  "revenue": 107879496,
+  "tmdb_vote_average": 6.528,
+  "tmdb_vote_count": 760,
+  "tmdb_popularity": 2.2957,
+  "original_language": "en",
+  "poster_path": "/yObOAYFIHXHkFPQ3jhgkN2ezaD.jpg",
+  "backdrop_path": "/62BnXyJtVEq4WKNSpnPG7QPYYDI.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 97,
+      "name": "Castle Rock Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 316,
+      "name": "Wildwood Enterprises",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3392,
+      "name": "Michael Douglas",
+      "character": "Andrew Shepherd",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.8377,
+      "profile_path": "/kVYGPIZowzXLEQfAGUNOqKjAbBb.jpg"
+    },
+    {
+      "personId": 516,
+      "name": "Annette Bening",
+      "character": "Sydney Ellen Wade",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 3.3106,
+      "profile_path": "/sBiiRwAVXd0FCRZ87m0I89qGBvy.jpg"
+    },
+    {
+      "personId": 8349,
+      "name": "Martin Sheen",
+      "character": "A.J. MacInerney",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 3.1653,
+      "profile_path": "/m2Y3Q0uyuW6htrn2W9UWCWMkpZu.jpg"
+    },
+    {
+      "personId": 521,
+      "name": "Michael J. Fox",
+      "character": "Lewis Rothschild",
+      "order": 3,
+      "cast_id": 3,
+      "popularity": 4.0225,
+      "profile_path": "/c8wWX6QsmrvwZ1flHF5iprAPdK7.jpg"
+    },
+    {
+      "personId": 63279,
+      "name": "Anna Deavere Smith",
+      "character": "Robin McCall",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 0.85,
+      "profile_path": "/jrvaXqXAHBhnCaP3ewXo8OtvKwJ.jpg"
+    },
+    {
+      "personId": 20767,
+      "name": "Samantha Mathis",
+      "character": "Janie Basdin",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 2.4015,
+      "profile_path": "/7J7gvH1uRqfPAPlg7b35rrxSbLB.jpg"
+    },
+    {
+      "personId": 112080,
+      "name": "Shawna Waldron",
+      "character": "Lucy Shepherd",
+      "order": 6,
+      "cast_id": 12,
+      "popularity": 1.2377,
+      "profile_path": "/quG2h6qGGZToR4Qx2s2C4CrEljC.jpg"
+    },
+    {
+      "personId": 19839,
+      "name": "David Paymer",
+      "character": "Leon Kodak",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 2.6305,
+      "profile_path": "/owoOdDFgXpls1OFKwmQ104Nkl5.jpg"
+    },
+    {
+      "personId": 11718,
+      "name": "Anne Haney",
+      "character": "Mrs. Chapil",
+      "order": 8,
+      "cast_id": 33,
+      "popularity": 2.0263,
+      "profile_path": "/yb2RVcI5JLlFlT5wLVa8XNvnbAL.jpg"
+    },
+    {
+      "personId": 3037,
+      "name": "Richard Dreyfuss",
+      "character": "Senator Rumson",
+      "order": 9,
+      "cast_id": 15,
+      "popularity": 3.6249,
+      "profile_path": "/q2BPu6zWwFtnzQfpl4fgbKqURXM.jpg"
+    },
+    {
+      "personId": 42133,
+      "name": "Nina Siemaszko",
+      "character": "Beth Wade",
+      "order": 10,
+      "cast_id": 16,
+      "popularity": 1.293,
+      "profile_path": "/aXEBJst8pDU662tkrnJ1XZb4uUi.jpg"
+    },
+    {
+      "personId": 61980,
+      "name": "Wendie Malick",
+      "character": "Susan Sloan",
+      "order": 11,
+      "cast_id": 17,
+      "popularity": 3.597,
+      "profile_path": "/4yDh5iu4Qyib35aXfo7SStFpnNC.jpg"
+    },
+    {
+      "personId": 78494,
+      "name": "Beau Billingslea",
+      "character": "Agent Cooper",
+      "order": 12,
+      "cast_id": 18,
+      "popularity": 1.7871,
+      "profile_path": "/tU2NJQ5m1sRlwpw9ljyt5NJB0Bf.jpg"
+    },
+    {
+      "personId": 42003,
+      "name": "Gail Strickland",
+      "character": "Esther MacInerney",
+      "order": 13,
+      "cast_id": 19,
+      "popularity": 1.0963,
+      "profile_path": "/nvSOOk3P1VQsgxC3FOYki5JIlF8.jpg"
+    },
+    {
+      "personId": 131642,
+      "name": "Joshua Malina",
+      "character": "David",
+      "order": 14,
+      "cast_id": 20,
+      "popularity": 2.0817,
+      "profile_path": "/xcIzAGoCL5TxBXI6cqWFb8KFl8d.jpg"
+    },
+    {
+      "personId": 43115,
+      "name": "Clement von Franckenstein",
+      "character": "President D'Astier",
+      "order": 15,
+      "cast_id": 21,
+      "popularity": 0.5437,
+      "profile_path": "/3MC0muNTGzt1zVN5EW49M55PFG5.jpg"
+    },
+    {
+      "personId": 1157377,
+      "name": "Efrat Lavie",
+      "character": "Madame D'Astier",
+      "order": 16,
+      "cast_id": 34,
+      "popularity": 0.4633,
+      "profile_path": null
+    },
+    {
+      "personId": 4251,
+      "name": "John Mahoney",
+      "character": "Leo Solomon",
+      "order": 17,
+      "cast_id": 22,
+      "popularity": 1.8003,
+      "profile_path": "/paVSw7Brdp6MKa2j4UPukA0KHs3.jpg"
+    },
+    {
+      "personId": 4944,
+      "name": "Taylor Nichols",
+      "character": "Stu",
+      "order": 18,
+      "cast_id": 35,
+      "popularity": 1.552,
+      "profile_path": "/2VnYWsBXx19tNvBX1diwfjdLkjU.jpg"
+    },
+    {
+      "personId": 43978,
+      "name": "John Mahon",
+      "character": "Chairman of the Joint Chiefs",
+      "order": 19,
+      "cast_id": 23,
+      "popularity": 1.2552,
+      "profile_path": "/HQ5v471RZCcWhl9qY4cImUf5tP.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 3026,
+      "name": "Rob Reiner",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 7.1942,
+      "profile_path": "/rcmPU3YlhHQVzZlV197qhmRsgEL.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1605,
+      "name": "new love"
+    },
+    {
+      "id": 840,
+      "name": "usa president"
+    },
+    {
+      "id": 833,
+      "name": "the white house"
+    },
+    {
+      "id": 14514,
+      "name": "class differences"
+    },
+    {
+      "id": 33476,
+      "name": "widower"
+    },
+    {
+      "id": 211505,
+      "name": "wildlife conservation"
+    },
+    {
+      "id": 219605,
+      "name": "lobbyist"
+    },
+    {
+      "id": 324429,
+      "name": "romantic"
+    }
+  ]
+}

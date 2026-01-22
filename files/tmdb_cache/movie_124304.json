@@ -1,0 +1,255 @@
+{
+  "overview": "In an Argentine village in the 1930s, the willful Leonor discovers that her beloved daughter, Charlotte, has dwarfism. Attempting to let her have as normal a childhood as possible, Leonor never discusses Charlotte's lack of stature, nor lets anyone else in the village ever mention it. As Charlotte grows up into a smart and self-possessed young woman, local eccentric Ludovico, who collects miniatures, becomes smitten with her.",
+  "release_date": "1993-05-20",
+  "runtime": 106,
+  "budget": 0,
+  "revenue": 249530,
+  "tmdb_vote_average": 6.0,
+  "tmdb_vote_count": 8,
+  "tmdb_popularity": 0.8721,
+  "original_language": "es",
+  "poster_path": "/ijVUC5LFY2XA2FtLpz7WqMR29TL.jpg",
+  "backdrop_path": "/atfoe8sASsuGruWp0qNRq1adKJE.jpg",
+  "tmdb_genres_raw": [
+    "Romance",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 37352,
+      "name": "Oscar Kramer",
+      "origin_country": "AR"
+    },
+    {
+      "id": 37353,
+      "name": "Aura Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 37354,
+      "name": "Mojame S.A.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "AR",
+      "name": "Argentina"
+    },
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5676,
+      "name": "Marcello Mastroianni",
+      "character": "Ludovico D'Andrea",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 1.6782,
+      "profile_path": "/bfLnFfNfMC73Q7WW90xQy2PvRZm.jpg"
+    },
+    {
+      "personId": 1077529,
+      "name": "Luisina Brando",
+      "character": "Leonor",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 1.0317,
+      "profile_path": "/1uf8muvDYdn9T6RLbeeAK3Rebp9.jpg"
+    },
+    {
+      "personId": 1381778,
+      "name": "Alejandra Podestá",
+      "character": "Charlotte",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 0.4024,
+      "profile_path": "/weFV1hP3K1Hnh4oE7dK76lKPpFV.jpg"
+    },
+    {
+      "personId": 74900,
+      "name": "Betiana Blum",
+      "character": "Madama",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 1.4499,
+      "profile_path": "/pY19BWvRNjkEn4lGZ2Q2sVgIEO.jpg"
+    },
+    {
+      "personId": 113365,
+      "name": "Roberto Carnaghi",
+      "character": "Father Aurelio",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 0.531,
+      "profile_path": "/7kFAlJ4fSScGcffGfUOeD25k2Bc.jpg"
+    },
+    {
+      "personId": 992530,
+      "name": "Alberto Segado",
+      "character": "Dr. Blanes",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 0.3642,
+      "profile_path": "/bVvsXqDH5AJJxMBgaQQcHX9zzrj.jpg"
+    },
+    {
+      "personId": 74902,
+      "name": "Mónica Villa",
+      "character": "Miss Zamildio",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 0.8176,
+      "profile_path": "/30LtaxXyvjseyWQk64JJWN3rzhv.jpg"
+    },
+    {
+      "personId": 1977183,
+      "name": "Mónica Lacoste",
+      "character": "Miss Blanes",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 0.0725,
+      "profile_path": null
+    },
+    {
+      "personId": 74901,
+      "name": "Juan Manuel Tenuta",
+      "character": "Police Chef",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 0.1203,
+      "profile_path": "/dA3YGLGlSaDLNSSjJ2BiWl4ucW.jpg"
+    },
+    {
+      "personId": 990731,
+      "name": "Tina Serrano",
+      "character": "Widow Schmidt",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 0.2904,
+      "profile_path": "/y5FTS9P77cZ6BCVptAUmexgOuOX.jpg"
+    },
+    {
+      "personId": 1508229,
+      "name": "Jorge Luz",
+      "character": "Mayor",
+      "order": 10,
+      "cast_id": 10,
+      "popularity": 0.3139,
+      "profile_path": "/AvC2q91sDmN5y6oY8PLZXMv0OeG.jpg"
+    },
+    {
+      "personId": 3393647,
+      "name": "Verónica Lilnás",
+      "character": "Myrna",
+      "order": 11,
+      "cast_id": 14,
+      "popularity": 0.1401,
+      "profile_path": null
+    },
+    {
+      "personId": 2833605,
+      "name": "Susana Cortínez",
+      "character": "Miss Peralta",
+      "order": 12,
+      "cast_id": 15,
+      "popularity": 0.1301,
+      "profile_path": null
+    },
+    {
+      "personId": 138244,
+      "name": "Fito Páez",
+      "character": "Self",
+      "order": 13,
+      "cast_id": 18,
+      "popularity": 1.2001,
+      "profile_path": "/cyYaFG0cd2wcqEg3cYW0ARFfrfa.jpg"
+    },
+    {
+      "personId": 1434989,
+      "name": "Martin Kalwill",
+      "character": "Mayor's Clerk",
+      "order": 14,
+      "cast_id": 16,
+      "popularity": 0.1661,
+      "profile_path": null
+    },
+    {
+      "personId": 235410,
+      "name": "Alfredo Alcón",
+      "character": "Narrator",
+      "order": 15,
+      "cast_id": 19,
+      "popularity": 0.1687,
+      "profile_path": "/aduz6sKFU2L0kWlntD1i3GVEhe.jpg"
+    },
+    {
+      "personId": 3393652,
+      "name": "Cecilia Reymúndez",
+      "character": "Uncredited",
+      "order": 16,
+      "cast_id": 17,
+      "popularity": 0.0409,
+      "profile_path": null
+    },
+    {
+      "personId": 3393653,
+      "name": "Jorge Bruno",
+      "character": "Uncredited",
+      "order": 17,
+      "cast_id": 20,
+      "popularity": 0.2553,
+      "profile_path": null
+    },
+    {
+      "personId": 66959,
+      "name": "Verónica Llinás",
+      "character": "Myrna",
+      "order": 18,
+      "cast_id": 93,
+      "popularity": 1.2412,
+      "profile_path": "/eRT77QU9BxH6l1snTSGwYqPR8AC.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1066960,
+      "name": "María Luisa Bemberg",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5306,
+      "profile_path": "/sh2PArpS6HV3OWl3SZlaTeGlRt6.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1415,
+      "name": "small town"
+    },
+    {
+      "id": 604,
+      "name": "dwarf"
+    },
+    {
+      "id": 4129,
+      "name": "widow"
+    },
+    {
+      "id": 10596,
+      "name": "argentina"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    }
+  ]
+}

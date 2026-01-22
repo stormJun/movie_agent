@@ -1,0 +1,288 @@
+{
+  "overview": "Jeffrey, a gay man living in New York City with an overwhelming fear of contracting AIDS, concludes that being celibate is the only option to protect himself. As fate would have it, shortly after his declaration of a sex-free existence, he meets the handsome Steve Howard, his dream man -- except for his HIV-positive status. Facing this dilemma, Jeffrey turns to his best friend and an outrageous priest for guidance.",
+  "release_date": "1995-08-18",
+  "runtime": 92,
+  "budget": 0,
+  "revenue": 3487767,
+  "tmdb_vote_average": 6.2,
+  "tmdb_vote_count": 67,
+  "tmdb_popularity": 3.6321,
+  "original_language": "en",
+  "poster_path": "/cacIqtIkUaD5xYqUUN1J7qJjciQ.jpg",
+  "backdrop_path": "/8dCgk9uer8DvMHKdC7wcyzPTwiA.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 12909,
+      "name": "The Booking Office",
+      "origin_country": ""
+    },
+    {
+      "id": 12910,
+      "name": "Workin' Man Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6106,
+      "name": "Steven Weber",
+      "character": "Jeffrey",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.8455,
+      "profile_path": "/8FtkapenCOpe39eE1sQus5WLWAq.jpg"
+    },
+    {
+      "personId": 2387,
+      "name": "Patrick Stewart",
+      "character": "Sterling",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 4.3871,
+      "profile_path": "/ufqtnLh3JJjPbEgxEag3MM5nZyv.jpg"
+    },
+    {
+      "personId": 42722,
+      "name": "Michael T. Weiss",
+      "character": "Steve Howard",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.2505,
+      "profile_path": "/blubry0tJA9kqEkwYl1b7VUgRlM.jpg"
+    },
+    {
+      "personId": 180422,
+      "name": "Bryan Batt",
+      "character": "Darius",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 0.928,
+      "profile_path": "/4M0ZUaeM12U4tXYhITfnRSEynIr.jpg"
+    },
+    {
+      "personId": 78729,
+      "name": "Nathan Lane",
+      "character": "Father Dan",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 2.7287,
+      "profile_path": "/nEYS0KO1qVO3y0RAt8V8pFxnPb7.jpg"
+    },
+    {
+      "personId": 10205,
+      "name": "Sigourney Weaver",
+      "character": "Debra Moorhouse",
+      "order": 5,
+      "cast_id": 5,
+      "popularity": 7.7971,
+      "profile_path": "/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+    },
+    {
+      "personId": 3019,
+      "name": "Olympia Dukakis",
+      "character": "Mrs. Marcangelo",
+      "order": 6,
+      "cast_id": 12,
+      "popularity": 1.1349,
+      "profile_path": "/pwoIzB9QSjKkWORQ7SpetnxFizf.jpg"
+    },
+    {
+      "personId": 26715,
+      "name": "Robert Klein",
+      "character": "Skip Winkley",
+      "order": 7,
+      "cast_id": 34,
+      "popularity": 0.9873,
+      "profile_path": "/eZNiVyIMZSuyDmjIf7UaccpCJph.jpg"
+    },
+    {
+      "personId": 11870,
+      "name": "Christine Baranski",
+      "character": "Ann Marwood Bartle",
+      "order": 8,
+      "cast_id": 6,
+      "popularity": 3.5073,
+      "profile_path": "/q6Zi3BYlmoim1JXXMGgRVS5C87x.jpg"
+    },
+    {
+      "personId": 11074,
+      "name": "Kathy Najimy",
+      "character": "Acolyte",
+      "order": 9,
+      "cast_id": 15,
+      "popularity": 2.6806,
+      "profile_path": "/pwzkG00mjA6meR4uyZL0oaT5kbO.jpg"
+    },
+    {
+      "personId": 10386,
+      "name": "Debra Monk",
+      "character": "Mom",
+      "order": 10,
+      "cast_id": 11,
+      "popularity": 1.545,
+      "profile_path": "/qdb43ggK8PhAoQO357hE5f5Gw3O.jpg"
+    },
+    {
+      "personId": 15415,
+      "name": "Peter Maloney",
+      "character": "Dad",
+      "order": 11,
+      "cast_id": 10,
+      "popularity": 1.107,
+      "profile_path": "/AuWdzHWJA6Jx9mdxxjJs6VcIs7m.jpg"
+    },
+    {
+      "personId": 52475,
+      "name": "J. Smith-Cameron",
+      "character": "Sharon",
+      "order": 12,
+      "cast_id": 13,
+      "popularity": 1.8968,
+      "profile_path": "/7DlYGLX5oywXpyvCsDZpOsWYpbg.jpg"
+    },
+    {
+      "personId": 143328,
+      "name": "K. Todd Freeman",
+      "character": "Barney's Waiter",
+      "order": 13,
+      "cast_id": 35,
+      "popularity": 1.0645,
+      "profile_path": "/oH93DHGXt2NTzW1sqrqEYKGBrt2.jpg"
+    },
+    {
+      "personId": 8536,
+      "name": "Victor Garber",
+      "character": "Tim",
+      "order": 14,
+      "cast_id": 8,
+      "popularity": 2.8268,
+      "profile_path": "/zPkpRPdW7rEm4fjgoJNz8hAZ6av.jpg"
+    },
+    {
+      "personId": 29445,
+      "name": "Ethan Phillips",
+      "character": "Dave",
+      "order": 15,
+      "cast_id": 14,
+      "popularity": 1.8362,
+      "profile_path": "/npr6XzOaGJauOBV1ydaqmX6T5hl.jpg"
+    },
+    {
+      "personId": 20187,
+      "name": "Camryn Manheim",
+      "character": "Single Woman",
+      "order": 16,
+      "cast_id": 16,
+      "popularity": 2.5784,
+      "profile_path": "/jBriBpXLkgJW7ONUIMuK1k99Ywp.jpg"
+    },
+    {
+      "personId": 17488,
+      "name": "Alice Drummond",
+      "character": "Grandma Rose",
+      "order": 17,
+      "cast_id": 28,
+      "popularity": 1.3847,
+      "profile_path": "/ghiQNRLEw5sTRxh4yhue3vWcOHg.jpg"
+    },
+    {
+      "personId": 31514,
+      "name": "Peter Jacobson",
+      "character": "Man #1",
+      "order": 18,
+      "cast_id": 29,
+      "popularity": 4.127,
+      "profile_path": "/pGi9CnzEG4cLa2viUP89yvlPCyR.jpg"
+    },
+    {
+      "personId": 76526,
+      "name": "David Thornton",
+      "character": "Man #3",
+      "order": 19,
+      "cast_id": 30,
+      "popularity": 2.3548,
+      "profile_path": "/jKlG3icyzBrpOqPoimRmENf3tPf.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 252806,
+      "name": "Christopher Ashley",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.0124,
+      "profile_path": "/kAJnxNhnUgKweXAEGSg3QhaGR2t.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 740,
+      "name": "aids"
+    },
+    {
+      "id": 2698,
+      "name": "celibacy"
+    },
+    {
+      "id": 10181,
+      "name": "based on play or musical"
+    },
+    {
+      "id": 9766,
+      "name": "hiv"
+    },
+    {
+      "id": 10093,
+      "name": "priest"
+    },
+    {
+      "id": 10855,
+      "name": "fate"
+    },
+    {
+      "id": 168346,
+      "name": "manhattan, new york city"
+    },
+    {
+      "id": 210608,
+      "name": "1990s"
+    },
+    {
+      "id": 245045,
+      "name": "gay friend"
+    },
+    {
+      "id": 254375,
+      "name": "male male relationship"
+    },
+    {
+      "id": 258533,
+      "name": "gay theme"
+    }
+  ]
+}

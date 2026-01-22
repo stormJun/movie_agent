@@ -1,0 +1,298 @@
+{
+  "overview": "Impoverished priest Harihar Ray leaves his rural Bengal village in search of work. His wife, Sarbojaya, looks after their rebellious daughter, Durga, and young son, Apu. The children enjoy the small pleasures of their difficult life.",
+  "release_date": "1955-08-26",
+  "runtime": 125,
+  "budget": 0,
+  "revenue": 536364,
+  "tmdb_vote_average": 7.828,
+  "tmdb_vote_count": 470,
+  "tmdb_popularity": 1.8955,
+  "original_language": "bn",
+  "poster_path": "/frZj5djlU9hFEjMcL21RJZVuG5O.jpg",
+  "backdrop_path": "/wadoNHCMPElgYuOqLxqDQqXpTMx.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    {
+      "id": 1984,
+      "name": "Government of West Bengal",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "bn",
+      "name": "বাংলা"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13762,
+      "name": "Kanu Bannerjee",
+      "character": "Harihar Ray",
+      "order": 0,
+      "cast_id": 23,
+      "popularity": 0.8184,
+      "profile_path": "/4Si1KHQMsgIlmRtxoMualY6Iazv.jpg"
+    },
+    {
+      "personId": 13763,
+      "name": "Karuna Banerjee",
+      "character": "Sarbojaya Ray",
+      "order": 1,
+      "cast_id": 24,
+      "popularity": 2.1817,
+      "profile_path": "/pm4DcNLgkzzuHO53mi1BEuYnliv.jpg"
+    },
+    {
+      "personId": 45593,
+      "name": "Chunibala Devi",
+      "character": "Indir Thakrun",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 0.4457,
+      "profile_path": "/8IOUdR2D9Elw7JH2eqaqokdlzvT.jpg"
+    },
+    {
+      "personId": 45591,
+      "name": "Uma Das Gupta",
+      "character": "Durga Ray",
+      "order": 3,
+      "cast_id": 3,
+      "popularity": 1.3736,
+      "profile_path": "/nanvcNhfI5bGEJTASI0RfaugLOr.jpg"
+    },
+    {
+      "personId": 45592,
+      "name": "Subir Banerjee",
+      "character": "Apurba \"Apu\" Kumar Ray",
+      "order": 4,
+      "cast_id": 4,
+      "popularity": 0.8319,
+      "profile_path": "/dYUcCuK159NQdptALzcXwGj5JH5.jpg"
+    },
+    {
+      "personId": 1559031,
+      "name": "Runki Banerjee",
+      "character": "Little Durga Ray",
+      "order": 5,
+      "cast_id": 25,
+      "popularity": 0.7172,
+      "profile_path": "/stIqJonoZE6oeHpWsc5vFHrLHlw.jpg"
+    },
+    {
+      "personId": 1409834,
+      "name": "Reba Devi",
+      "character": "Seja Thakrun",
+      "order": 6,
+      "cast_id": 26,
+      "popularity": 0.8742,
+      "profile_path": "/rwCatordwQdDqizNLtiUlIB75i2.jpg"
+    },
+    {
+      "personId": 1554963,
+      "name": "Aparna Devi",
+      "character": "Nilmoni's wife",
+      "order": 7,
+      "cast_id": 27,
+      "popularity": 0.2329,
+      "profile_path": "/pQ2WmrepdJS4ry0hr7tlvoHpeEh.jpg"
+    },
+    {
+      "personId": 1124677,
+      "name": "Tulsi Chakraborty",
+      "character": "Prasanna, school teacher",
+      "order": 8,
+      "cast_id": 28,
+      "popularity": 1.4225,
+      "profile_path": "/rRyitVbDqnP8pnq1KYfelSD2PNJ.jpg"
+    },
+    {
+      "personId": 1559037,
+      "name": "Binoy Mukherjee",
+      "character": "Baidyanath Majumdar",
+      "order": 9,
+      "cast_id": 34,
+      "popularity": 0.2359,
+      "profile_path": null
+    },
+    {
+      "personId": 1559032,
+      "name": "Haren Banerjee",
+      "character": "Chinibas, Sweet-seller",
+      "order": 10,
+      "cast_id": 29,
+      "popularity": 0.0822,
+      "profile_path": null
+    },
+    {
+      "personId": 1559034,
+      "name": "Nibhanani Devi",
+      "character": "Dasi Thakurun",
+      "order": 11,
+      "cast_id": 31,
+      "popularity": 0.436,
+      "profile_path": "/qY95iJSXYPFt1jh53vCvXBXvFiz.jpg"
+    },
+    {
+      "personId": 1559036,
+      "name": "Roma Ganguli",
+      "character": "Roma",
+      "order": 12,
+      "cast_id": 33,
+      "popularity": 0.0558,
+      "profile_path": null
+    },
+    {
+      "personId": 1559038,
+      "name": "Haridhan Nag",
+      "character": "",
+      "order": 13,
+      "cast_id": 35,
+      "popularity": 0.071,
+      "profile_path": null
+    },
+    {
+      "personId": 1559033,
+      "name": "Rampada Das",
+      "character": "",
+      "order": 14,
+      "cast_id": 30,
+      "popularity": 0.1133,
+      "profile_path": null
+    },
+    {
+      "personId": 1559039,
+      "name": "Harimohan Nag",
+      "character": "Doctor",
+      "order": 15,
+      "cast_id": 36,
+      "popularity": 0.0982,
+      "profile_path": null
+    },
+    {
+      "personId": 1559040,
+      "name": "Kshirod Roy",
+      "character": "Priest",
+      "order": 16,
+      "cast_id": 37,
+      "popularity": 0.0854,
+      "profile_path": null
+    },
+    {
+      "personId": 1559041,
+      "name": "Suren Roy",
+      "character": "",
+      "order": 17,
+      "cast_id": 38,
+      "popularity": 0.0888,
+      "profile_path": null
+    },
+    {
+      "personId": 5824086,
+      "name": "Manju",
+      "character": "",
+      "order": 18,
+      "cast_id": 43,
+      "popularity": 0.053,
+      "profile_path": null
+    },
+    {
+      "personId": 5824088,
+      "name": "Shyamal",
+      "character": "",
+      "order": 19,
+      "cast_id": 44,
+      "popularity": 0.0553,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 12160,
+      "name": "Satyajit Ray",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8782,
+      "profile_path": "/qP5mjuc3dL8n9c1zeY4W6L2w38L.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 642,
+      "name": "robbery"
+    },
+    {
+      "id": 5252,
+      "name": "misery"
+    },
+    {
+      "id": 2467,
+      "name": "difficult childhood"
+    },
+    {
+      "id": 2232,
+      "name": "move"
+    },
+    {
+      "id": 2385,
+      "name": "monsoon"
+    },
+    {
+      "id": 10508,
+      "name": "teacher"
+    },
+    {
+      "id": 10093,
+      "name": "priest"
+    },
+    {
+      "id": 10319,
+      "name": "remembered death"
+    },
+    {
+      "id": 12999,
+      "name": "black and white"
+    },
+    {
+      "id": 13028,
+      "name": "writer"
+    },
+    {
+      "id": 18044,
+      "name": "railroad"
+    },
+    {
+      "id": 156052,
+      "name": "unemployment"
+    },
+    {
+      "id": 209673,
+      "name": "calm"
+    },
+    {
+      "id": 209792,
+      "name": "candid"
+    },
+    {
+      "id": 325761,
+      "name": "admiring"
+    },
+    {
+      "id": 325762,
+      "name": "adoring"
+    },
+    {
+      "id": 325782,
+      "name": "cheerful"
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "overview": "After her husband is arrested for looting, Lisette struggles for independence while dealing with her transgender sibling, her critical mother-in-law and assorted neighborhood eccentrics.",
+  "release_date": "1994-10-14",
+  "runtime": 104,
+  "budget": 0,
+  "revenue": 1777020,
+  "tmdb_vote_average": 6.2,
+  "tmdb_vote_count": 20,
+  "tmdb_popularity": 0.3623,
+  "original_language": "en",
+  "poster_path": "/aCxh21UPLHi7Pxm9ykH1GNx39OW.jpg",
+  "backdrop_path": "/vay1nnmwRbS6HUPjCEhWHzUkq8x.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 37294,
+      "name": "Think Again Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 37295,
+      "name": "Riot of Color",
+      "origin_country": ""
+    },
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 141610,
+      "name": "Luna Lauren Vélez",
+      "character": "Lisette Linares",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.6655,
+      "profile_path": "/98BvmTJCZHx0jPv0oNcv04Jkmfb.jpg"
+    },
+    {
+      "personId": 288,
+      "name": "Jon Seda",
+      "character": "Chino Linares",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.0099,
+      "profile_path": "/4Wwgtvieu2j4f6AHqUMgnDFufa5.jpg"
+    },
+    {
+      "personId": 1381482,
+      "name": "Tomas Melly",
+      "character": "Li'l Chino Linares",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 0.9172,
+      "profile_path": null
+    },
+    {
+      "personId": 91034,
+      "name": "Desiree Casado",
+      "character": "Minnie Linares",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 1.4176,
+      "profile_path": "/ruJDkLDGd82PEVvIbgIQ2wAjWIu.jpg"
+    },
+    {
+      "personId": 1381484,
+      "name": "Isaiah Garcia",
+      "character": "Pee Wee Linares",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 0.2563,
+      "profile_path": null
+    },
+    {
+      "personId": 58647,
+      "name": "Jesse Borrego",
+      "character": "Alexis",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 1.1921,
+      "profile_path": "/bK9cPqXTJSRN72ZDKN3UXlKN3gU.jpg"
+    },
+    {
+      "personId": 92774,
+      "name": "Lisa Vidal",
+      "character": "Magdalena Soto",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 2.0351,
+      "profile_path": "/sfCwghBjHIVsE09pP9cBD52ee2.jpg"
+    },
+    {
+      "personId": 2171,
+      "name": "Griffin Dunne",
+      "character": "Stephen Price",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 2.4959,
+      "profile_path": "/oZeAznfOHgK1Kvy9TknkQhag1Um.jpg"
+    },
+    {
+      "personId": 13299,
+      "name": "Rita Moreno",
+      "character": "Rosaria Linares",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 2.5542,
+      "profile_path": "/zB0M77jr7tmsmWHEr2bWO2Xq66L.jpg"
+    },
+    {
+      "personId": 1983,
+      "name": "Vincent Laresca",
+      "character": "Angel",
+      "order": 9,
+      "cast_id": 27,
+      "popularity": 1.1185,
+      "profile_path": "/nO1HrEcjXzot40qDJkTcI4CFqTf.jpg"
+    },
+    {
+      "personId": 1333665,
+      "name": "Elvis Nolasco",
+      "character": "Tito",
+      "order": 10,
+      "cast_id": 12,
+      "popularity": 0.9397,
+      "profile_path": "/oOTqaaWCq2oIU7EbuX3hU6pzFch.jpg"
+    },
+    {
+      "personId": 3886454,
+      "name": "Sammy Melendez",
+      "character": "Victor",
+      "order": 11,
+      "cast_id": 28,
+      "popularity": 0.0311,
+      "profile_path": null
+    },
+    {
+      "personId": 1315260,
+      "name": "Jose Soto",
+      "character": "Chris",
+      "order": 12,
+      "cast_id": 29,
+      "popularity": 0.4346,
+      "profile_path": "/PUW8r3UER6IGuaiHFcuqKdlVnm.jpg"
+    },
+    {
+      "personId": 155544,
+      "name": "Gloria Irizarry",
+      "character": "Mrs. Gonzalez",
+      "order": 13,
+      "cast_id": 30,
+      "popularity": 0.5739,
+      "profile_path": "/hPg6pGfiajqcuf1CSdCiQ0V7RH0.jpg"
+    },
+    {
+      "personId": 1983672,
+      "name": "Emilio Del Pozo",
+      "character": "Mr. Soto",
+      "order": 14,
+      "cast_id": 31,
+      "popularity": 1.1248,
+      "profile_path": null
+    },
+    {
+      "personId": 2174735,
+      "name": "Donald Jackson",
+      "character": "Jack",
+      "order": 15,
+      "cast_id": 32,
+      "popularity": 0.1195,
+      "profile_path": null
+    },
+    {
+      "personId": 96320,
+      "name": "Gary Perez",
+      "character": "Father Jaime",
+      "order": 16,
+      "cast_id": 33,
+      "popularity": 1.2795,
+      "profile_path": "/eqmUokhLIpZLXKUH9WETmU0nnPS.jpg"
+    },
+    {
+      "personId": 3886458,
+      "name": "Scott Jarred Cohen",
+      "character": "Ritchie Soto",
+      "order": 17,
+      "cast_id": 34,
+      "popularity": 0.0848,
+      "profile_path": null
+    },
+    {
+      "personId": 3886459,
+      "name": "Martha Speakes",
+      "character": "Hefty Woman",
+      "order": 18,
+      "cast_id": 35,
+      "popularity": 0.1852,
+      "profile_path": null
+    },
+    {
+      "personId": 1658467,
+      "name": "Marina Durell",
+      "character": "Cookie",
+      "order": 19,
+      "cast_id": 36,
+      "popularity": 0.3441,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 81727,
+      "name": "Darnell Martin",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4466,
+      "profile_path": "/ckJYoBeDRT6DgqfyEA1LWdIQjr1.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2124,
+      "name": "puerto rico"
+    },
+    {
+      "id": 9673,
+      "name": "love"
+    },
+    {
+      "id": 9890,
+      "name": "jail"
+    },
+    {
+      "id": 14604,
+      "name": "theft"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    }
+  ]
+}

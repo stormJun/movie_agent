@@ -1,0 +1,31 @@
+[
+  {
+    "code": "US",
+    "name": "United States of America",
+    "movieIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "movieIds": [
+      7
+    ]
+  },
+  {
+    "code": "GB",
+    "name": "United Kingdom",
+    "movieIds": [
+      10
+    ]
+  }
+]

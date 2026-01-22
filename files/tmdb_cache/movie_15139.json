@@ -1,0 +1,270 @@
+{
+  "overview": "Rich knows a lot about accidents. So much so, he is scared to do anything that might endanger him, like riding his bike, or climbing into his treehouse. While in an old library, he is mystically transported into the unknown world of books, and he has to try and get home again.",
+  "release_date": "1994-11-23",
+  "runtime": 75,
+  "budget": 27000000,
+  "revenue": 13670688,
+  "tmdb_vote_average": 6.397,
+  "tmdb_vote_count": 771,
+  "tmdb_popularity": 3.5906,
+  "original_language": "en",
+  "poster_path": "/1NM0W9fwe2IZ4SPdN5OCNKjkrqN.jpg",
+  "backdrop_path": "/60XduQspYjRnvKQszuBtQwhzCDc.jpg",
+  "tmdb_genres_raw": [
+    "Family",
+    "Fantasy",
+    "Animation"
+  ],
+  "production_companies": [
+    {
+      "id": 25,
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    },
+    {
+      "id": 1765,
+      "name": "Turner Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 11050,
+      "name": "David Kirschner Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 90511,
+      "name": "Turner Feature Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11510,
+      "name": "Macaulay Culkin",
+      "character": "Richard Tyler",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 5.745,
+      "profile_path": "/5We9Y4zUJ5TUnRgfmkzWQx0mLIF.jpg"
+    },
+    {
+      "personId": 1062,
+      "name": "Christopher Lloyd",
+      "character": "Mr. Dewey",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 4.1347,
+      "profile_path": "/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg"
+    },
+    {
+      "personId": 2395,
+      "name": "Whoopi Goldberg",
+      "character": "Fantasy (voice)",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 4.5481,
+      "profile_path": "/wZKI7qcEIVgiHxeFtk3NuKt8URQ.jpg"
+    },
+    {
+      "personId": 2387,
+      "name": "Patrick Stewart",
+      "character": "Adventure (voice)",
+      "order": 3,
+      "cast_id": 3,
+      "popularity": 4.3311,
+      "profile_path": "/ufqtnLh3JJjPbEgxEag3MM5nZyv.jpg"
+    },
+    {
+      "personId": 15831,
+      "name": "Frank Welker",
+      "character": "Horror (voice)",
+      "order": 4,
+      "cast_id": 13,
+      "popularity": 4.1066,
+      "profile_path": "/xXODQ5AX6pG4my8ieeEIuiAREXs.jpg"
+    },
+    {
+      "personId": 1749,
+      "name": "Leonard Nimoy",
+      "character": "Dr. Jekyll / Mr. Hyde (voice)",
+      "order": 5,
+      "cast_id": 14,
+      "popularity": 2.4908,
+      "profile_path": "/vyo1sOdwEIP8adhts3UpelyiBwn.jpg"
+    },
+    {
+      "personId": 42157,
+      "name": "Ed Begley Jr.",
+      "character": "Alan Tyler",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 2.4085,
+      "profile_path": "/cdS6hZVabhpQ3UdIK0HNvYXj5IM.jpg"
+    },
+    {
+      "personId": 25306,
+      "name": "Mel Harris",
+      "character": "Claire Tyler",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 1.5195,
+      "profile_path": "/hKQ09Iku4IwfSD6D8jTmvm8ptMq.jpg"
+    },
+    {
+      "personId": 88622,
+      "name": "B.J. Ward",
+      "character": "Queen of Hearts (voice)",
+      "order": 8,
+      "cast_id": 23,
+      "popularity": 0.9131,
+      "profile_path": "/yAhCijxDiron64XjbIXAAECgVj0.jpg"
+    },
+    {
+      "personId": 38337,
+      "name": "George Hearn",
+      "character": "Captain Ahab (voice)",
+      "order": 9,
+      "cast_id": 15,
+      "popularity": 0.9562,
+      "profile_path": "/oOvuRDkJ5m0A5DwNLZFbUbi0ZXm.jpg"
+    },
+    {
+      "personId": 35243,
+      "name": "Ed Gilbert",
+      "character": "George Merry (voice)",
+      "order": 10,
+      "cast_id": 17,
+      "popularity": 1.0781,
+      "profile_path": "/uuyoM4Bo3zzmsDoOPzr5JeJaMdE.jpg"
+    },
+    {
+      "personId": 14104,
+      "name": "Phil Hartman",
+      "character": "Tom Morgan (voice)",
+      "order": 11,
+      "cast_id": 21,
+      "popularity": 7.9777,
+      "profile_path": "/m3QyeaVLzIo2fZJZaGbJalfD56t.jpg"
+    },
+    {
+      "personId": 12077,
+      "name": "Jim Cummings",
+      "character": "Long John Silver (voice)",
+      "order": 12,
+      "cast_id": 22,
+      "popularity": 2.9588,
+      "profile_path": "/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg"
+    },
+    {
+      "personId": 8656,
+      "name": "Dorian Harewood",
+      "character": "Jamaican Pirates (voice)",
+      "order": 13,
+      "cast_id": 16,
+      "popularity": 1.0101,
+      "profile_path": "/j3Nc0uNpe3MkonLtOrzVegO22QO.jpg"
+    },
+    {
+      "personId": 16180,
+      "name": "Robert Picardo",
+      "character": "Pirate (voice)",
+      "order": 14,
+      "cast_id": 20,
+      "popularity": 1.765,
+      "profile_path": "/9TOY0mhWRMlU5Ur8QHMoDecWs2n.jpg"
+    },
+    {
+      "personId": 9110,
+      "name": "Richard Erdman",
+      "character": "Pirate (voice)",
+      "order": 15,
+      "cast_id": 18,
+      "popularity": 1.1051,
+      "profile_path": "/1fqfBDlztr3jqdmW1bC6VRPmf5p.jpg"
+    },
+    {
+      "personId": 176463,
+      "name": "Fernando Escandon",
+      "character": "Pirate (voice)",
+      "order": 16,
+      "cast_id": 19,
+      "popularity": 0.5149,
+      "profile_path": null
+    },
+    {
+      "personId": 947355,
+      "name": "Canan J. Howell",
+      "character": "Neighborhood Kid",
+      "order": 17,
+      "cast_id": 6,
+      "popularity": 0.106,
+      "profile_path": null
+    },
+    {
+      "personId": 947356,
+      "name": "Alexis Kirschner",
+      "character": "Neighborhood Kid",
+      "order": 18,
+      "cast_id": 7,
+      "popularity": 0.7551,
+      "profile_path": null
+    },
+    {
+      "personId": 951963,
+      "name": "Jessica Kirschner",
+      "character": "Neighborhood Kid",
+      "order": 19,
+      "cast_id": 8,
+      "popularity": 0.1235,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 4945,
+      "name": "Joe Johnston",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.777,
+      "profile_path": "/fbGZo6CG9Z9zKFh8D5wHunyu7gJ.jpg"
+    },
+    {
+      "personId": 74299,
+      "name": "Pixote Hunt",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.6355,
+      "profile_path": "/mHqwfwpW7uJIydEdwytUQeoB8bs.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2217,
+      "name": "rain"
+    },
+    {
+      "id": 11321,
+      "name": "animated scene"
+    },
+    {
+      "id": 18185,
+      "name": "bike"
+    },
+    {
+      "id": 209220,
+      "name": "live action and animation"
+    }
+  ]
+}

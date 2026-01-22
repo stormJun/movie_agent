@@ -1,0 +1,284 @@
+{
+  "overview": "The adventures of a group of Texas teens on their last day of school in 1976, centering on student Randall Floyd, who moves easily among stoners, jocks and geeks. Floyd is a star athlete, but he also likes smoking weed, which presents a conundrum when his football coach demands he sign a \"no drugs\" pledge.",
+  "release_date": "1993-09-24",
+  "runtime": 102,
+  "budget": 6900000,
+  "revenue": 8259076,
+  "tmdb_vote_average": 7.313,
+  "tmdb_vote_count": 2185,
+  "tmdb_popularity": 3.1336,
+  "original_language": "en",
+  "poster_path": "/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+  "backdrop_path": "/mhYQOazZVBAPtKDw3TXybDtMJgK.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 37,
+      "name": "Gramercy Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 11462,
+      "name": "Alphaville Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 11510,
+      "name": "Detour Filmproduction",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 52474,
+      "name": "Jason London",
+      "character": "Pink",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.7923,
+      "profile_path": "/bFkC2ZRcurTQzbjBuuMljFCKfEv.jpg"
+    },
+    {
+      "personId": 10297,
+      "name": "Matthew McConaughey",
+      "character": "Wooderson",
+      "order": 1,
+      "cast_id": 72,
+      "popularity": 7.6078,
+      "profile_path": "/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
+    },
+    {
+      "personId": 16484,
+      "name": "Joey Lauren Adams",
+      "character": "Simone",
+      "order": 2,
+      "cast_id": 17,
+      "popularity": 1.6623,
+      "profile_path": "/tBexng7MCxaA0tXGQDAnww5Jp01.jpg"
+    },
+    {
+      "personId": 51792,
+      "name": "Rory Cochrane",
+      "character": "Slater",
+      "order": 3,
+      "cast_id": 2,
+      "popularity": 2.0167,
+      "profile_path": "/yBwm1RI4QCRXM0vkkDGVqdoiZLH.jpg"
+    },
+    {
+      "personId": 56934,
+      "name": "Wiley Wiggins",
+      "character": "Mitch",
+      "order": 4,
+      "cast_id": 3,
+      "popularity": 0.8519,
+      "profile_path": "/5ghmT4UGH1MQNeTu5fk9gVa8XlN.jpg"
+    },
+    {
+      "personId": 6163,
+      "name": "Adam Goldberg",
+      "character": "Mike",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 2.5522,
+      "profile_path": "/xEbqDqTWlSSCi4v8FI3S9YSEPJz.jpg"
+    },
+    {
+      "personId": 6165,
+      "name": "Anthony Rapp",
+      "character": "Tony",
+      "order": 6,
+      "cast_id": 21,
+      "popularity": 1.5172,
+      "profile_path": "/9Pj11mrX2MsWsOiHRjVDxYS93K5.jpg"
+    },
+    {
+      "personId": 58000,
+      "name": "Sasha Jenson",
+      "character": "Don",
+      "order": 7,
+      "cast_id": 4,
+      "popularity": 1.0061,
+      "profile_path": "/yX50q9daoGyHCUFX2crWmKtseIa.jpg"
+    },
+    {
+      "personId": 586101,
+      "name": "Shawn Andrews",
+      "character": "Pickford",
+      "order": 8,
+      "cast_id": 26,
+      "popularity": 4.493,
+      "profile_path": "/hCraUjLKcMxNPqBZ7VxARdWatpZ.jpg"
+    },
+    {
+      "personId": 63,
+      "name": "Milla Jovovich",
+      "character": "Michelle",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 8.182,
+      "profile_path": "/usWnHCzbADijULREZYSJ0qfM00y.jpg"
+    },
+    {
+      "personId": 880,
+      "name": "Ben Affleck",
+      "character": "O'Bannion",
+      "order": 10,
+      "cast_id": 68,
+      "popularity": 17.8491,
+      "profile_path": "/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg"
+    },
+    {
+      "personId": 27727,
+      "name": "Marissa Ribisi",
+      "character": "Cynthia",
+      "order": 11,
+      "cast_id": 22,
+      "popularity": 0.9292,
+      "profile_path": "/2kUaoNoc5X83CKMkhqsRcfCfFZw.jpg"
+    },
+    {
+      "personId": 58001,
+      "name": "Michelle Burke",
+      "character": "Jodi",
+      "order": 12,
+      "cast_id": 5,
+      "popularity": 1.5012,
+      "profile_path": "/9UVHjztmZmC1zQxF7S7qsLn2hAg.jpg"
+    },
+    {
+      "personId": 171233,
+      "name": "Deena Martin",
+      "character": "Shavonne",
+      "order": 13,
+      "cast_id": 27,
+      "popularity": 0.7315,
+      "profile_path": "/uop6McvqjxDpYdB0jABk8zyKWEz.jpg"
+    },
+    {
+      "personId": 6614,
+      "name": "Cole Hauser",
+      "character": "Benny",
+      "order": 14,
+      "cast_id": 28,
+      "popularity": 4.2151,
+      "profile_path": "/1SNoIDILoXtAUJu4f7nDCPVQH5j.jpg"
+    },
+    {
+      "personId": 55964,
+      "name": "Christine Harnos",
+      "character": "Kaye",
+      "order": 15,
+      "cast_id": 29,
+      "popularity": 0.6514,
+      "profile_path": "/k3Y82zOyU2Tb5U2KEfz9FW1b17s.jpg"
+    },
+    {
+      "personId": 3667422,
+      "name": "Mark Vandermeulen",
+      "character": "Tommy",
+      "order": 16,
+      "cast_id": 65,
+      "popularity": 0.0943,
+      "profile_path": null
+    },
+    {
+      "personId": 93523,
+      "name": "Esteban Powell",
+      "character": "Carl",
+      "order": 17,
+      "cast_id": 66,
+      "popularity": 0.736,
+      "profile_path": "/nQuuT1Yj4mLNbL1ZXTHV8wQYv7F.jpg"
+    },
+    {
+      "personId": 2953254,
+      "name": "Jeremy Fox",
+      "character": "Hirschfelder",
+      "order": 18,
+      "cast_id": 67,
+      "popularity": 0.1167,
+      "profile_path": null
+    },
+    {
+      "personId": 3667425,
+      "name": "Jason O. Smith",
+      "character": "Melvin",
+      "order": 19,
+      "cast_id": 69,
+      "popularity": 0.2102,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 564,
+      "name": "Richard Linklater",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.1388,
+      "profile_path": "/xSctxeZQzQbZoaxIvcDeHlDjbiN.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6270,
+      "name": "high school"
+    },
+    {
+      "id": 1228,
+      "name": "1970s"
+    },
+    {
+      "id": 1556,
+      "name": "texas"
+    },
+    {
+      "id": 10683,
+      "name": "coming of age"
+    },
+    {
+      "id": 10776,
+      "name": "marijuana"
+    },
+    {
+      "id": 13088,
+      "name": "summer"
+    },
+    {
+      "id": 15060,
+      "name": "period drama"
+    },
+    {
+      "id": 288816,
+      "name": "lighthearted"
+    },
+    {
+      "id": 296608,
+      "name": "teenager"
+    },
+    {
+      "id": 319319,
+      "name": "sentimental"
+    },
+    {
+      "id": 325784,
+      "name": "comforting"
+    }
+  ]
+}

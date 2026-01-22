@@ -1,0 +1,297 @@
+{
+  "overview": "The 21st successor to the role of Bengalla's resident superhero must travel to New York to prevent a rich madman from obtaining three magic skulls that would give him the secret to ultimate power.",
+  "release_date": "1996-06-06",
+  "runtime": 100,
+  "budget": 45000000,
+  "revenue": 17323326,
+  "tmdb_vote_average": 5.274,
+  "tmdb_vote_count": 598,
+  "tmdb_popularity": 1.7584,
+  "original_language": "en",
+  "poster_path": "/8k8RSMkmGR9Lp6FbKtithM3KIQb.jpg",
+  "backdrop_path": "/jeVion38tN3JVaAB44EhiBSbXC1.jpg",
+  "tmdb_genres_raw": [
+    "Adventure",
+    "Action"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 94856,
+      "name": "Robert Evans Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 7965,
+      "name": "The Ladd Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 79,
+      "name": "Village Roadshow Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "AU",
+      "name": "Australia"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1954,
+      "name": "Billy Zane",
+      "character": "The Phantom / Kit Walker",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 5.3022,
+      "profile_path": "/7CBwxqE00aZAAEBaRkapylgdi15.jpg"
+    },
+    {
+      "personId": 56128,
+      "name": "Kristy Swanson",
+      "character": "Diana Palmer",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 1.7457,
+      "profile_path": "/eoEhyZcJ1NMVAKefRh0E5adRMGh.jpg"
+    },
+    {
+      "personId": 4515,
+      "name": "Treat Williams",
+      "character": "Xander Drax",
+      "order": 2,
+      "cast_id": 2,
+      "popularity": 2.4043,
+      "profile_path": "/jbRMOU2K7ePg7Zs59nfgEYLeD1e.jpg"
+    },
+    {
+      "personId": 1922,
+      "name": "Catherine Zeta-Jones",
+      "character": "Sala",
+      "order": 3,
+      "cast_id": 10,
+      "popularity": 7.8874,
+      "profile_path": "/bBZKAbjNCGS9VpDKaK6TWGsL3ws.jpg"
+    },
+    {
+      "personId": 1736,
+      "name": "James Remar",
+      "character": "Quill",
+      "order": 4,
+      "cast_id": 4,
+      "popularity": 5.9465,
+      "profile_path": "/56LwfMaMge2LmWYI46O6R2Wm0YX.jpg"
+    },
+    {
+      "personId": 11398,
+      "name": "Cary-Hiroyuki Tagawa",
+      "character": "The Great Kabai Sengh",
+      "order": 5,
+      "cast_id": 11,
+      "popularity": 3.1078,
+      "profile_path": "/5F8MQ4J4qIqUwGIfcWN4osrTUtP.jpg"
+    },
+    {
+      "personId": 17200,
+      "name": "Bill Smitrovich",
+      "character": "Uncle Dave Palmer",
+      "order": 6,
+      "cast_id": 12,
+      "popularity": 2.0011,
+      "profile_path": "/yzZUYnAdX0MMA8eZMTVsXufRCfU.jpg"
+    },
+    {
+      "personId": 1953,
+      "name": "Casey Siemaszko",
+      "character": "Morgan",
+      "order": 7,
+      "cast_id": 13,
+      "popularity": 1.4712,
+      "profile_path": "/7Ba8fFtFsh1SX01UxfIADtTTVl9.jpg"
+    },
+    {
+      "personId": 2555,
+      "name": "David Proval",
+      "character": "Charlie Zephro",
+      "order": 8,
+      "cast_id": 14,
+      "popularity": 1.7995,
+      "profile_path": "/ku3LWQXiJ80nWgs21fKvTMaR6Ui.jpg"
+    },
+    {
+      "personId": 5063,
+      "name": "Joseph Ragno",
+      "character": "Ray Zephro",
+      "order": 9,
+      "cast_id": 15,
+      "popularity": 0.8288,
+      "profile_path": "/fF7M5JyfA2kUeh8YItkiCd1of1b.jpg"
+    },
+    {
+      "personId": 46780,
+      "name": "Samantha Eggar",
+      "character": "Lily Palmer",
+      "order": 10,
+      "cast_id": 16,
+      "popularity": 1.0395,
+      "profile_path": "/Vbk8DHrsowKNG5wWuFzKOk26OR.jpg"
+    },
+    {
+      "personId": 4602,
+      "name": "Jon Tenney",
+      "character": "Jimmy Wells",
+      "order": 11,
+      "cast_id": 17,
+      "popularity": 2.9918,
+      "profile_path": "/ktb1RA23pHJKMdcFenQ2cosnCkp.jpg"
+    },
+    {
+      "personId": 2463,
+      "name": "Patrick McGoohan",
+      "character": "Phantom's Dad",
+      "order": 12,
+      "cast_id": 18,
+      "popularity": 1.931,
+      "profile_path": "/xtUMgFYGF7KmJg1KqiYQuwYTTe3.jpg"
+    },
+    {
+      "personId": 190826,
+      "name": "Robert Coleby",
+      "character": "Capt. Philip Horton",
+      "order": 13,
+      "cast_id": 19,
+      "popularity": 1.2855,
+      "profile_path": "/uEKduzndAp23MNJqNHEeHzHABRg.jpg"
+    },
+    {
+      "personId": 37254,
+      "name": "Al Ruscio",
+      "character": "Police Commissioner Farley",
+      "order": 14,
+      "cast_id": 20,
+      "popularity": 1.2289,
+      "profile_path": "/anaof1CdgNUwTEuhhNNIoxzBkyc.jpg"
+    },
+    {
+      "personId": 169920,
+      "name": "Leon Russom",
+      "character": "Mayor Krebs",
+      "order": 15,
+      "cast_id": 61,
+      "popularity": 1.5844,
+      "profile_path": "/lLBJc5ThJEMafNUlsQyYQ7x1efg.jpg"
+    },
+    {
+      "personId": 31007,
+      "name": "John Capodice",
+      "character": "Al the Cabby",
+      "order": 16,
+      "cast_id": 62,
+      "popularity": 1.1096,
+      "profile_path": "/lN5VuGKFqfOFH5F8zso34I77sy2.jpg"
+    },
+    {
+      "personId": 60676,
+      "name": "Bo Kane",
+      "character": "Mounted Cop",
+      "order": 17,
+      "cast_id": 63,
+      "popularity": 0.6119,
+      "profile_path": "/j4tF3DC3Cuo4ZsdlnapsilHyNuZ.jpg"
+    },
+    {
+      "personId": 42724,
+      "name": "John Prosky",
+      "character": "Cycle Cop",
+      "order": 18,
+      "cast_id": 64,
+      "popularity": 1.1748,
+      "profile_path": "/zinfZ6InYtlnXnwl4UwKEITP1xf.jpg"
+    },
+    {
+      "personId": 1648160,
+      "name": "Dane Farwell",
+      "character": "Breen",
+      "order": 19,
+      "cast_id": 65,
+      "popularity": 0.9642,
+      "profile_path": "/tw5vgvb46XdaZ3YVh49YObfsi9i.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 18254,
+      "name": "Simon Wincer",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.8521,
+      "profile_path": "/ApOARHoSzaR0N9DEJrddns340oe.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1321,
+      "name": "gold"
+    },
+    {
+      "id": 3149,
+      "name": "gangster"
+    },
+    {
+      "id": 1308,
+      "name": "secret identity"
+    },
+    {
+      "id": 3284,
+      "name": "phantom"
+    },
+    {
+      "id": 4933,
+      "name": "battle for power"
+    },
+    {
+      "id": 9717,
+      "name": "based on comic"
+    },
+    {
+      "id": 8643,
+      "name": "jade"
+    },
+    {
+      "id": 3625,
+      "name": "silver"
+    },
+    {
+      "id": 10787,
+      "name": "jungle"
+    },
+    {
+      "id": 164246,
+      "name": "nostalgic"
+    },
+    {
+      "id": 203423,
+      "name": "masked hero"
+    },
+    {
+      "id": 212009,
+      "name": "crystal skull"
+    }
+  ]
+}

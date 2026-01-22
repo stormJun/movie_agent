@@ -1,0 +1,278 @@
+{
+  "overview": "Sadie looks up to her older sister Georgia, a successful folk singer. Unfortunately it is this very obsession — coupled with her self-destructive tendencies and rampant drug abuse — that keeps her spiraling down the drain.",
+  "release_date": "1995-05-19",
+  "runtime": 115,
+  "budget": 0,
+  "revenue": 1110974,
+  "tmdb_vote_average": 5.7,
+  "tmdb_vote_count": 46,
+  "tmdb_popularity": 4.0095,
+  "original_language": "en",
+  "poster_path": "/uXjfK404xo7SiVlFcAoRyaFqXR4.jpg",
+  "backdrop_path": "/mHi1zNvKnfLqV85RDDGmuQoPMP8.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 105,
+      "name": "CiBy 2000",
+      "origin_country": "FR"
+    },
+    {
+      "id": 252707,
+      "name": "Georgia Film Corporation",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10431,
+      "name": "Jennifer Jason Leigh",
+      "character": "Sadie Flood",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 5.7385,
+      "profile_path": "/yYD255SwZkFc1wGgBMVRZ2i7Ina.jpg"
+    },
+    {
+      "personId": 51544,
+      "name": "Mare Winningham",
+      "character": "Georgia Flood",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 2.0225,
+      "profile_path": "/pl4Cq1uCs8ajVxZkJ7Qd4XjD2P2.jpg"
+    },
+    {
+      "personId": 15854,
+      "name": "Ted Levine",
+      "character": "Jake",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 3.6444,
+      "profile_path": "/451KSkowLW6M2Au0wBKZZcidgGm.jpg"
+    },
+    {
+      "personId": 7268,
+      "name": "Max Perlich",
+      "character": "Axel Goldman",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 1.6987,
+      "profile_path": "/hdyemQG5w6xGtcDsqnuZkZV11nG.jpg"
+    },
+    {
+      "personId": 42746,
+      "name": "John Doe",
+      "character": "Bobby",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 1.6288,
+      "profile_path": "/k3oUl2OlYWETwaJbCGc5WXvAg1T.jpg"
+    },
+    {
+      "personId": 4764,
+      "name": "John C. Reilly",
+      "character": "Herman",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 4.4063,
+      "profile_path": "/iDQ8w4qcxU3le5ZWoCKpHs1QNok.jpg"
+    },
+    {
+      "personId": 590356,
+      "name": "Jimmy Witherspoon",
+      "character": "Trucker",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 0.3294,
+      "profile_path": null
+    },
+    {
+      "personId": 52308,
+      "name": "Jason Carter",
+      "character": "Chasman",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 0.7301,
+      "profile_path": "/g1igye9orIvwezl9fm4bjEyOz73.jpg"
+    },
+    {
+      "personId": 19453,
+      "name": "Tom Bower",
+      "character": "Erwin Flood",
+      "order": 8,
+      "cast_id": 21,
+      "popularity": 1.8679,
+      "profile_path": "/q26z6T3QZfpirZV3Ex885zUgUR4.jpg"
+    },
+    {
+      "personId": 1360759,
+      "name": "Smokey Hormel",
+      "character": "Leland",
+      "order": 9,
+      "cast_id": 22,
+      "popularity": 0.0917,
+      "profile_path": null
+    },
+    {
+      "personId": 3074598,
+      "name": "Jimmy Z.",
+      "character": "Clay",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 0.4721,
+      "profile_path": null
+    },
+    {
+      "personId": 3074599,
+      "name": "Tony Marsico",
+      "character": "Paul",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 0.3358,
+      "profile_path": null
+    },
+    {
+      "personId": 3074600,
+      "name": "Jamian Briar",
+      "character": "Andrew Flood",
+      "order": 12,
+      "cast_id": 25,
+      "popularity": 0.0868,
+      "profile_path": null
+    },
+    {
+      "personId": 3074601,
+      "name": "Rachel Rasco",
+      "character": "Miss Flood",
+      "order": 13,
+      "cast_id": 26,
+      "popularity": 0.2116,
+      "profile_path": null
+    },
+    {
+      "personId": 3074602,
+      "name": "Nicole Donahoo",
+      "character": "Young Sadie Flood",
+      "order": 14,
+      "cast_id": 27,
+      "popularity": 0.1273,
+      "profile_path": null
+    },
+    {
+      "personId": 1799138,
+      "name": "Aisleagh Jackson",
+      "character": "Young Georgia Flood",
+      "order": 15,
+      "cast_id": 28,
+      "popularity": 0.4448,
+      "profile_path": "/nfzSSSvgHK1voUBpo16x0zdekZS.jpg"
+    },
+    {
+      "personId": 3074604,
+      "name": "Colleen O'Hara",
+      "character": "Ticket Agent",
+      "order": 16,
+      "cast_id": 29,
+      "popularity": 0.2404,
+      "profile_path": null
+    },
+    {
+      "personId": 3074605,
+      "name": "Bruce Wirth",
+      "character": "Dan Ferguson",
+      "order": 17,
+      "cast_id": 30,
+      "popularity": 0.0645,
+      "profile_path": null
+    },
+    {
+      "personId": 1135254,
+      "name": "Dieter Thomas Kuhn",
+      "character": "Bartender at Larry's (as Thomas Kuhn)",
+      "order": 18,
+      "cast_id": 31,
+      "popularity": 0.7093,
+      "profile_path": null
+    },
+    {
+      "personId": 115432,
+      "name": "Bill Johns",
+      "character": "Promoter",
+      "order": 19,
+      "cast_id": 32,
+      "popularity": 0.2754,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 140354,
+      "name": "Ulu Grosbard",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.3972,
+      "profile_path": "/hqTLWKs9oyQA8nKgZPnQH5NnkoQ.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 380,
+      "name": "sibling relationship"
+    },
+    {
+      "id": 567,
+      "name": "alcohol"
+    },
+    {
+      "id": 2671,
+      "name": "heroin"
+    },
+    {
+      "id": 2350,
+      "name": "seattle, washington"
+    },
+    {
+      "id": 2679,
+      "name": "artist"
+    },
+    {
+      "id": 10229,
+      "name": "singer"
+    },
+    {
+      "id": 14964,
+      "name": "drugs"
+    },
+    {
+      "id": 33534,
+      "name": "folk singer"
+    },
+    {
+      "id": 241738,
+      "name": "sister sister relationship"
+    }
+  ]
+}

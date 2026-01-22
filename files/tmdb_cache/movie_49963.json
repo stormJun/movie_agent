@@ -1,0 +1,277 @@
+{
+  "overview": "Just as Amelia thinks she's over her anxiety and insecurity, her best friend announces her engagement, bringing her anxiety and insecurity right back.",
+  "release_date": "1996-07-17",
+  "runtime": 86,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.1,
+  "tmdb_vote_count": 52,
+  "tmdb_popularity": 0.4802,
+  "original_language": "en",
+  "poster_path": "/m8JMJQUfGwGt7gse8aoduAcTYE.jpg",
+  "backdrop_path": "/qyUcA9yqly33P0shcexLmVwhBPS.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 10565,
+      "name": "Good Machine",
+      "origin_country": "US"
+    },
+    {
+      "id": 721,
+      "name": "Zenith Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 181,
+      "name": "Channel Four Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 53408,
+      "name": "TEAM Communications Group",
+      "origin_country": ""
+    },
+    {
+      "id": 140,
+      "name": "Pandora Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 11912,
+      "name": "Mikado Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 20616,
+      "name": "Electric Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2229,
+      "name": "Catherine Keener",
+      "character": "Amelia",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 3.361,
+      "profile_path": "/n4CTwGszs6cwS1wJRlDQ5Mlh7Ex.jpg"
+    },
+    {
+      "personId": 8256,
+      "name": "Anne Heche",
+      "character": "Laura",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 3.3429,
+      "profile_path": "/65LVuA01bmKCmr8yqY2Ae3IgeC4.jpg"
+    },
+    {
+      "personId": 5010,
+      "name": "Todd Field",
+      "character": "Frank",
+      "order": 2,
+      "cast_id": 21,
+      "popularity": 1.3778,
+      "profile_path": "/KR12bc20pVnlTr0wir8XuxW3Pt.jpg"
+    },
+    {
+      "personId": 23626,
+      "name": "Liev Schreiber",
+      "character": "Andrew",
+      "order": 3,
+      "cast_id": 20,
+      "popularity": 3.8333,
+      "profile_path": "/26G7QjSb5ZazgWb9XB2X6SwcILQ.jpg"
+    },
+    {
+      "personId": 18472,
+      "name": "Kevin Corrigan",
+      "character": "Bill",
+      "order": 4,
+      "cast_id": 22,
+      "popularity": 1.9296,
+      "profile_path": "/obSUGc68mQDvFONalMg25Xw5GZM.jpg"
+    },
+    {
+      "personId": 143150,
+      "name": "Amy Braverman",
+      "character": "Young Amelia",
+      "order": 5,
+      "cast_id": 30,
+      "popularity": 0.1276,
+      "profile_path": null
+    },
+    {
+      "personId": 143151,
+      "name": "Miranda Rhyne",
+      "character": "Young Laura",
+      "order": 6,
+      "cast_id": 31,
+      "popularity": 0.8802,
+      "profile_path": null
+    },
+    {
+      "personId": 36631,
+      "name": "Randall Batinkoff",
+      "character": "Peter",
+      "order": 7,
+      "cast_id": 32,
+      "popularity": 1.8374,
+      "profile_path": "/tq4njPdsUNXjnIAnPetT6B423BW.jpg"
+    },
+    {
+      "personId": 171079,
+      "name": "Brenda Denmark",
+      "character": "The Vet",
+      "order": 8,
+      "cast_id": 33,
+      "popularity": 0.4642,
+      "profile_path": null
+    },
+    {
+      "personId": 47774,
+      "name": "Vincent Pastore",
+      "character": "Laura's Devil-Seeing Patient",
+      "order": 9,
+      "cast_id": 34,
+      "popularity": 1.7656,
+      "profile_path": "/dyRRn8POwLUMHT7lIISujioYOym.jpg"
+    },
+    {
+      "personId": 47770,
+      "name": "Joseph Siravo",
+      "character": "Amelia's Therapist",
+      "order": 10,
+      "cast_id": 35,
+      "popularity": 0.5901,
+      "profile_path": "/ttygfcaWZRkhiphvi7scZUF3Kbx.jpg"
+    },
+    {
+      "personId": 64318,
+      "name": "Rafa Alvarez",
+      "character": "Laura's Sexy Patient",
+      "order": 11,
+      "cast_id": 36,
+      "popularity": 0.3991,
+      "profile_path": null
+    },
+    {
+      "personId": 3367191,
+      "name": "Ritamarie Kelly",
+      "character": "Ellen",
+      "order": 12,
+      "cast_id": 37,
+      "popularity": 0.0593,
+      "profile_path": null
+    },
+    {
+      "personId": 3353954,
+      "name": "Steve Cohen",
+      "character": "Actor In Play",
+      "order": 13,
+      "cast_id": 38,
+      "popularity": 0.4534,
+      "profile_path": "/cVa8C9Q3dWKHq4f1Kv5L384947n.jpg"
+    },
+    {
+      "personId": 3367192,
+      "name": "Jordan Levinson",
+      "character": "Peter's Friend",
+      "order": 14,
+      "cast_id": 39,
+      "popularity": 0.0729,
+      "profile_path": null
+    },
+    {
+      "personId": 153867,
+      "name": "Heather Gottlieb",
+      "character": "Amelia's Co-Worker",
+      "order": 15,
+      "cast_id": 40,
+      "popularity": 0.7536,
+      "profile_path": null
+    },
+    {
+      "personId": 8792,
+      "name": "Lynn Cohen",
+      "character": "Andrew's Mom",
+      "order": 16,
+      "cast_id": 41,
+      "popularity": 1.3076,
+      "profile_path": "/gF2YATtRwDbnLB5eG0DGeHFW2QM.jpg"
+    },
+    {
+      "personId": 2798033,
+      "name": "Lawrence Holofcener",
+      "character": "Andrew's Dad",
+      "order": 17,
+      "cast_id": 42,
+      "popularity": 0.0549,
+      "profile_path": null
+    },
+    {
+      "personId": 3367195,
+      "name": "Nitza Wilon",
+      "character": "Cat Sympathizer",
+      "order": 18,
+      "cast_id": 43,
+      "popularity": 0.0261,
+      "profile_path": null
+    },
+    {
+      "personId": 19,
+      "name": "Allison Janney",
+      "character": "Gum Puller",
+      "order": 19,
+      "cast_id": 44,
+      "popularity": 4.0327,
+      "profile_path": "/hpBKWV1jjoXQbr1s0iUZTSvw582.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 56539,
+      "name": "Nicole Holofcener",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1379,
+      "profile_path": "/3RYCd2oskQEhGnIANjJXqPCsGXP.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 187056,
+      "name": "woman director"
+    }
+  ]
+}

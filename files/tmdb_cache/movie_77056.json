@@ -1,0 +1,181 @@
+{
+  "overview": "Three stories of love and coincidence around the theme of dates in Paris.",
+  "release_date": "1995-03-22",
+  "runtime": 98,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.5,
+  "tmdb_vote_count": 55,
+  "tmdb_popularity": 0.3871,
+  "original_language": "fr",
+  "poster_path": "/rCdlWdkwA4MMVNdEQFXQKgxqkzw.jpg",
+  "backdrop_path": "/ioAjcXAZ6qzY7OY3HsK0A7XecmA.jpg",
+  "tmdb_genres_raw": [
+    "Romance",
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 104,
+      "name": "Canal+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1255,
+      "name": "Compagnie Éric Rohmer",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 27637,
+      "name": "Clara Bellar",
+      "character": "Esther",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 0.7604,
+      "profile_path": "/6kBythcCN2bvuqEtSIEWK2crx2Y.jpg"
+    },
+    {
+      "personId": 35965,
+      "name": "Antoine Basler",
+      "character": "Horace",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 0.3762,
+      "profile_path": "/4VT9tZrVmiq3a27w0i0wyDju2jB.jpg"
+    },
+    {
+      "personId": 33997,
+      "name": "Mathias Mégard",
+      "character": "le flirt",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 0.099,
+      "profile_path": "/4NS5bpl28AJza5FgP7z0tf6wuYf.jpg"
+    },
+    {
+      "personId": 308636,
+      "name": "Judith Chancel",
+      "character": "Aricie",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 0.2255,
+      "profile_path": "/5I2gAdy5Mxl57IMpLEJTy2dZIh9.jpg"
+    },
+    {
+      "personId": 262738,
+      "name": "Malcolm Conrath",
+      "character": "Félix",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 0.3524,
+      "profile_path": "/tdzPiz3PwD6Yqb2T75IwtmAaO57.jpg"
+    },
+    {
+      "personId": 581114,
+      "name": "Cécile Parès",
+      "character": "Hermione",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 0.368,
+      "profile_path": "/vk4tOLGHzOLtvGWFWqgq0CHlGum.jpg"
+    },
+    {
+      "personId": 376760,
+      "name": "Olivier Poujol",
+      "character": "le garçon de café",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 0.2127,
+      "profile_path": "/8zDm7cRqCLvgFre56leIq0QpVV7.jpg"
+    },
+    {
+      "personId": 251065,
+      "name": "Aurore Rauscher",
+      "character": "elle",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 0.1413,
+      "profile_path": "/ja0YHYmSpiqqjm860jMn9Zjnwcn.jpg"
+    },
+    {
+      "personId": 29516,
+      "name": "Serge Renko",
+      "character": "lui",
+      "order": 8,
+      "cast_id": 10,
+      "popularity": 0.2188,
+      "profile_path": "/tFZSKMzhC5GzjoO7REUDecxx4Sb.jpg"
+    },
+    {
+      "personId": 275014,
+      "name": "Michael Kraft",
+      "character": "le peintre",
+      "order": 9,
+      "cast_id": 11,
+      "popularity": 0.0256,
+      "profile_path": "/7v35JWZR0VndEshTzwE1QIqANyg.jpg"
+    },
+    {
+      "personId": 85626,
+      "name": "Bénédicte Loyen",
+      "character": "la jeune femme",
+      "order": 10,
+      "cast_id": 12,
+      "popularity": 0.1689,
+      "profile_path": "/eLngU0258aIJvK76wN0P8PXucXr.jpg"
+    },
+    {
+      "personId": 352112,
+      "name": "Veronika Johansson",
+      "character": "la Suédoise",
+      "order": 11,
+      "cast_id": 13,
+      "popularity": 0.0311,
+      "profile_path": "/uUqXsICPdD93xwiMTV8bPvCBBEc.jpg"
+    },
+    {
+      "personId": 581115,
+      "name": "Florence Levu",
+      "character": "Mouffetard",
+      "order": 12,
+      "cast_id": 14,
+      "popularity": 0.2261,
+      "profile_path": "/kOKxS8DzQ9O4nA2e8pQTdoCvB5P.jpg"
+    },
+    {
+      "personId": 581116,
+      "name": "Christian Bassoul",
+      "character": "Musette",
+      "order": 13,
+      "cast_id": 15,
+      "popularity": 0.0492,
+      "profile_path": "/euCiza4Wx0HP67ziffw5jqehP9S.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 28615,
+      "name": "Éric Rohmer",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.9793,
+      "profile_path": "/i05cH3yv7CK385SGhxuVFyxX6c6.jpg"
+    }
+  ],
+  "keywords": []
+}

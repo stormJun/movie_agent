@@ -1,0 +1,259 @@
+{
+  "overview": "An undercover police officer named Rock Keats befriends a drug dealer and car thief named Archie Moses in a bid to catch the villainous drug lord Frank Coltan. But the only problem is that Keats is a cop, his real name is Jack Carter, and he is working undercover with the LAPD to bust Moses and Colton at a sting operation the LAPD has set up.",
+  "release_date": "1996-09-06",
+  "runtime": 84,
+  "budget": 25000000,
+  "revenue": 22611954,
+  "tmdb_vote_average": 5.716,
+  "tmdb_vote_count": 617,
+  "tmdb_popularity": 1.8242,
+  "original_language": "en",
+  "poster_path": "/iI7G9YXxodrqkQPKis1y3EKP8wJ.jpg",
+  "backdrop_path": "/ifOEPOHMnoT9YRu8dcvf26HsW47.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Crime",
+    "Action"
+  ],
+  "production_companies": [
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 22675,
+      "name": "Damon Wayans",
+      "character": "Rock Keats / Jack Carter",
+      "order": 0,
+      "cast_id": 17,
+      "popularity": 1.9478,
+      "profile_path": "/10gs0DB8ulakUN47hZwFRr5UdT0.jpg"
+    },
+    {
+      "personId": 19292,
+      "name": "Adam Sandler",
+      "character": "Archie Moses",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 5.7645,
+      "profile_path": "/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
+    },
+    {
+      "personId": 3085,
+      "name": "James Caan",
+      "character": "Frank Colton",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 3.616,
+      "profile_path": "/v3flJtQEyczxENi29yJyvnN6LVt.jpg"
+    },
+    {
+      "personId": 66813,
+      "name": "Jeep Swenson",
+      "character": "Bledsoe",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 0.7805,
+      "profile_path": "/hIezsyidTWeefmkz9cT0DJ3LI2R.jpg"
+    },
+    {
+      "personId": 24685,
+      "name": "James Farentino",
+      "character": "Capt. Jensen",
+      "order": 4,
+      "cast_id": 18,
+      "popularity": 1.0458,
+      "profile_path": "/x0E31EcI8HRvgVKqnyWpElLCO0.jpg"
+    },
+    {
+      "personId": 31029,
+      "name": "Kristen Wilson",
+      "character": "Traci",
+      "order": 5,
+      "cast_id": 19,
+      "popularity": 0.9098,
+      "profile_path": "/ld2W1mIvaS0yAd3pHW2wyeacg8v.jpg"
+    },
+    {
+      "personId": 1385380,
+      "name": "Larry McCoy",
+      "character": "Detective Sulliman",
+      "order": 6,
+      "cast_id": 20,
+      "popularity": 0.6449,
+      "profile_path": "/k9i6xjpFHrB3hyplvZpmdpWpKie.jpg"
+    },
+    {
+      "personId": 20818,
+      "name": "Allen Covert",
+      "character": "Detective Jones",
+      "order": 7,
+      "cast_id": 21,
+      "popularity": 1.4403,
+      "profile_path": "/7n3euonyxM0wOGfk0T50pgHo06v.jpg"
+    },
+    {
+      "personId": 5502,
+      "name": "Bill Nunn",
+      "character": "Finch",
+      "order": 8,
+      "cast_id": 22,
+      "popularity": 1.3754,
+      "profile_path": "/trxNvS6g5yvwbXzx2LK6JqutE5z.jpg"
+    },
+    {
+      "personId": 1232373,
+      "name": "Mark Roberts",
+      "character": "Charles",
+      "order": 9,
+      "cast_id": 34,
+      "popularity": 0.6428,
+      "profile_path": "/u7eo1kqyxyXwf318TVoangOZswg.jpg"
+    },
+    {
+      "personId": 1211995,
+      "name": "Mark Casella",
+      "character": "Disneyland Cop",
+      "order": 10,
+      "cast_id": 45,
+      "popularity": 0.2543,
+      "profile_path": null
+    },
+    {
+      "personId": 87332,
+      "name": "Andrew Shaifer",
+      "character": "Cop at Airport",
+      "order": 11,
+      "cast_id": 32,
+      "popularity": 0.512,
+      "profile_path": "/wUFxe40TJ6wRs0kny8FwM8STWR.jpg"
+    },
+    {
+      "personId": 2140,
+      "name": "Monica Potter",
+      "character": "Biker's Woman",
+      "order": 12,
+      "cast_id": 23,
+      "popularity": 2.9041,
+      "profile_path": "/jCFOlFAjNPMkX9pJF2Au0cquZ6v.jpg"
+    },
+    {
+      "personId": 58477,
+      "name": "Jonathan Loughran",
+      "character": "Rookie Cop",
+      "order": 13,
+      "cast_id": 46,
+      "popularity": 1.9632,
+      "profile_path": "/xKr3g9aDsVZjibawZvh2aCLvp5p.jpg"
+    },
+    {
+      "personId": 15536,
+      "name": "Steve White",
+      "character": "Veteran Cop",
+      "order": 14,
+      "cast_id": 47,
+      "popularity": 0.5666,
+      "profile_path": "/sxOUPWrGPWszcAe6h5OVIzDi3mL.jpg"
+    },
+    {
+      "personId": 42296,
+      "name": "Gwen McGee",
+      "character": "Surgeon",
+      "order": 15,
+      "cast_id": 48,
+      "popularity": 1.02,
+      "profile_path": "/2wj44JWYHtbQhNWd5UIk5XYVm7o.jpg"
+    },
+    {
+      "personId": 108943,
+      "name": "Bill Capizzi",
+      "character": "Tommy",
+      "order": 16,
+      "cast_id": 49,
+      "popularity": 0.9964,
+      "profile_path": null
+    },
+    {
+      "personId": 129724,
+      "name": "Charmaine Craig",
+      "character": "Waitress",
+      "order": 17,
+      "cast_id": 50,
+      "popularity": 0.3225,
+      "profile_path": "/bu5bPqRXswIpI5Fd70p6vGYxchI.jpg"
+    },
+    {
+      "personId": 1182298,
+      "name": "Jill Holden",
+      "character": "Gruesome Lady",
+      "order": 18,
+      "cast_id": 51,
+      "popularity": 0.9494,
+      "profile_path": "/2IvuzjnyiqAhGD0BTXY1RlPjIAf.jpg"
+    },
+    {
+      "personId": 995489,
+      "name": "Lovette",
+      "character": "Porn Woman",
+      "order": 19,
+      "cast_id": 99,
+      "popularity": 2.07,
+      "profile_path": "/pAQGsXRLZmreWHnZ98fP5wOzwtQ.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 15521,
+      "name": "Ernest R. Dickerson",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6832,
+      "profile_path": "/iF1jgMI2b8Q2crFPCk5IaGUBdND.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6054,
+      "name": "friendship"
+    },
+    {
+      "id": 6149,
+      "name": "police"
+    },
+    {
+      "id": 1568,
+      "name": "undercover"
+    },
+    {
+      "id": 8015,
+      "name": "cop"
+    },
+    {
+      "id": 14677,
+      "name": "bullet wound"
+    },
+    {
+      "id": 14964,
+      "name": "drugs"
+    },
+    {
+      "id": 18026,
+      "name": "drug lord"
+    }
+  ]
+}

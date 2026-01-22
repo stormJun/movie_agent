@@ -1,0 +1,246 @@
+{
+  "overview": "The setting is early America during the oil boom. An elderly, down on his luck 'oil man', Mr. Cox finds himself in the town of Henrietta. Using unconventional methods, he convinces himself and local Don Day that there is oil on Day's land. The financially strapped Day puts everything into finding oil...but at what cost?",
+  "release_date": "1995-09-15",
+  "runtime": 109,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.1,
+  "tmdb_vote_count": 17,
+  "tmdb_popularity": 0.3046,
+  "original_language": "en",
+  "poster_path": "/dQYD0WNRNZ5OBQ8iWRySIH8TEVd.jpg",
+  "backdrop_path": "/9LFMPGg8xijZVqO3LnIfpBNa6nn.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 3864,
+      "name": "Butcher's Run Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 171,
+      "name": "Malpaso Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3087,
+      "name": "Robert Duvall",
+      "character": "Mr. Cox",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 7.5174,
+      "profile_path": "/ybMmK25h4IVtfE7qrnlVp47RQlh.jpg"
+    },
+    {
+      "personId": 18992,
+      "name": "Aidan Quinn",
+      "character": "Don Day",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.6127,
+      "profile_path": "/viUuUmhiGdsfoQh0IpO5N312qNd.jpg"
+    },
+    {
+      "personId": 3713,
+      "name": "Frances Fisher",
+      "character": "Cora Day",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 4.5438,
+      "profile_path": "/3iNDgd54IIj8g8hGqhhUjM6TeWd.jpg"
+    },
+    {
+      "personId": 6197,
+      "name": "Brian Dennehy",
+      "character": "Big Dave McDermot",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.7582,
+      "profile_path": "/cg7CwS1vMJXCzZ0FUm4RbrjAJ2t.jpg"
+    },
+    {
+      "personId": 78717,
+      "name": "Lexi Randall",
+      "character": "Beatric Day (eldest daughter)",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 3.2077,
+      "profile_path": "/m2MGOflX6wVwbaF8UeirE6jg6Hn.jpg"
+    },
+    {
+      "personId": 1387330,
+      "name": "Kaytlyn Knowles",
+      "character": "Pauline Day",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 0.0621,
+      "profile_path": null
+    },
+    {
+      "personId": 1274513,
+      "name": "Francesca Eastwood",
+      "character": "Mary Day (as Francesca Ruth Eastwood)",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 2.1972,
+      "profile_path": "/stVF1cGuXJliykckGShBCscgaFq.jpg"
+    },
+    {
+      "personId": 177905,
+      "name": "Joe Stevens",
+      "character": "Big Dave's driver",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 2.8414,
+      "profile_path": "/pCflBRau0xOGR17W1kzue7ySVqv.jpg"
+    },
+    {
+      "personId": 879,
+      "name": "Billy Bob Thornton",
+      "character": "Roy",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 11.2236,
+      "profile_path": "/i5EKWHuXokznIDMy2prTXzRmklI.jpg"
+    },
+    {
+      "personId": 11395,
+      "name": "Victor Wong Chi-Keung",
+      "character": "Henry Nakai",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 2.1431,
+      "profile_path": "/3XvU2mK3i5V8Un7HyZn5pVnp4qw.jpg"
+    },
+    {
+      "personId": 138988,
+      "name": "Paul Lazar",
+      "character": "Seymour",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 0.9589,
+      "profile_path": "/2lZdlxrQaKWBLD8BoolYLzTtzOW.jpg"
+    },
+    {
+      "personId": 49275,
+      "name": "Spencer Garrett",
+      "character": "Delbert Tims",
+      "order": 11,
+      "cast_id": 15,
+      "popularity": 2.6061,
+      "profile_path": "/jJWISea4PvC9Mv5kWONAMKhEK7j.jpg"
+    },
+    {
+      "personId": 14704,
+      "name": "Park Overall",
+      "character": "Shirl (waitress)",
+      "order": 12,
+      "cast_id": 16,
+      "popularity": 2.0482,
+      "profile_path": "/fKl0zP4HuzMPxTvXZqDGHpN6U.jpg"
+    },
+    {
+      "personId": 7471,
+      "name": "Zach Grenier",
+      "character": "Larry Ligstow (owner of Greek restaurant)",
+      "order": 13,
+      "cast_id": 17,
+      "popularity": 2.3421,
+      "profile_path": "/fSyQKZO39sUsqY283GXiScOg3Hi.jpg"
+    },
+    {
+      "personId": 1193431,
+      "name": "Wayne Dehart",
+      "character": "Robert",
+      "order": 14,
+      "cast_id": 18,
+      "popularity": 0.4802,
+      "profile_path": "/lvSDWQ0TpkhsTmk9obaZLIxU0j2.jpg"
+    },
+    {
+      "personId": 78722,
+      "name": "Woody Watson",
+      "character": "Jack Sterling",
+      "order": 15,
+      "cast_id": 19,
+      "popularity": 0.6152,
+      "profile_path": "/7h2ceTrOuHcHruWp5P5U0aZTxGw.jpg"
+    },
+    {
+      "personId": 19152,
+      "name": "Dylan Baker",
+      "character": "Alex Wilde",
+      "order": 16,
+      "cast_id": 20,
+      "popularity": 3.3579,
+      "profile_path": "/4mw6xj8Aj3ixjjeUj9pZdZPTbvz.jpg"
+    },
+    {
+      "personId": 49835,
+      "name": "Tom Aldredge",
+      "character": "Grizzled old man",
+      "order": 17,
+      "cast_id": 21,
+      "popularity": 0.7502,
+      "profile_path": "/klvcf4vc6PP1xPzOSqDs8Jn4prC.jpg"
+    },
+    {
+      "personId": 1232525,
+      "name": "Robert Westenberg",
+      "character": "Mr. Rumsfelk",
+      "order": 18,
+      "cast_id": 22,
+      "popularity": 0.3522,
+      "profile_path": "/lGOez1AbRKIyNC2tYOgu71WyP9d.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 408,
+      "name": "James Keach",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.0053,
+      "profile_path": "/fvy4gGSHcKnbRlgL07XfiI7udXk.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1946,
+      "name": "restaurant"
+    },
+    {
+      "id": 11004,
+      "name": "rural area"
+    },
+    {
+      "id": 10590,
+      "name": "oil"
+    }
+  ]
+}

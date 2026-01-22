@@ -1,0 +1,268 @@
+{
+  "overview": "During a snowy winter in the small fictional town of Knight's Ridge, Massachusetts, a group of lifelong buddies hang out, drink and struggle to connect with the women who affect their decisions, dreams and desires.",
+  "release_date": "1996-02-09",
+  "runtime": 112,
+  "budget": 16000000,
+  "revenue": 27000000,
+  "tmdb_vote_average": 6.637,
+  "tmdb_vote_count": 387,
+  "tmdb_popularity": 2.4828,
+  "original_language": "en",
+  "poster_path": "/sHcx1fBmrtZYvFmUywU0d5cvIFd.jpg",
+  "backdrop_path": "/5VfgNZJvJ6FcwF3PPQbpUIzILkQ.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 14,
+      "name": "Miramax",
+      "origin_country": "US"
+    },
+    {
+      "id": 163562,
+      "name": "Woods Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "MY",
+      "name": "Malaysia"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16327,
+      "name": "Timothy Hutton",
+      "character": "Willie Conway",
+      "order": 0,
+      "cast_id": 14,
+      "popularity": 1.9944,
+      "profile_path": "/gIzPFbDr6pdcdxp2YzobYGkicrT.jpg"
+    },
+    {
+      "personId": 2876,
+      "name": "Matt Dillon",
+      "character": "Tommy \"Birdman\" Rowland",
+      "order": 1,
+      "cast_id": 10,
+      "popularity": 4.4328,
+      "profile_path": "/wVoSUexYH79igPgxIXKWRlV2uBk.jpg"
+    },
+    {
+      "personId": 11315,
+      "name": "Noah Emmerich",
+      "character": "Michael \"Mo\" Morris",
+      "order": 2,
+      "cast_id": 11,
+      "popularity": 2.2886,
+      "profile_path": "/qwPPHYWJ3a9yRwFXicbbHsf60Nm.jpg"
+    },
+    {
+      "personId": 49425,
+      "name": "Annabeth Gish",
+      "character": "Tracy Stover",
+      "order": 3,
+      "cast_id": 12,
+      "popularity": 3.0018,
+      "profile_path": "/wDOs2HDYdaK0ZlB78H52ym3iEBX.jpg"
+    },
+    {
+      "personId": 34485,
+      "name": "Lauren Holly",
+      "character": "Darian Smalls",
+      "order": 4,
+      "cast_id": 13,
+      "popularity": 4.493,
+      "profile_path": "/bWQsB6ueNNkygxCiIxyKznQAiOK.jpg"
+    },
+    {
+      "personId": 139,
+      "name": "Uma Thurman",
+      "character": "Andera",
+      "order": 5,
+      "cast_id": 15,
+      "popularity": 11.2187,
+      "profile_path": "/xuxgPXyv6KjUHIM8cZaxx4ry25L.jpg"
+    },
+    {
+      "personId": 23931,
+      "name": "Mira Sorvino",
+      "character": "Sharon Cassidy",
+      "order": 6,
+      "cast_id": 16,
+      "popularity": 4.7289,
+      "profile_path": "/3CPM8yvppihiKsA1pf4x8PJe4x6.jpg"
+    },
+    {
+      "personId": 4688,
+      "name": "Michael Rapaport",
+      "character": "Paul Kirkwood",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 5.3377,
+      "profile_path": "/nWD2kufgy6lPyFVCPr9A3e7FMMn.jpg"
+    },
+    {
+      "personId": 12929,
+      "name": "Rosie O'Donnell",
+      "character": "Gina Barrisano",
+      "order": 8,
+      "cast_id": 22,
+      "popularity": 1.9917,
+      "profile_path": "/bfeIiPngsbLU7zK8sS18l3Pz3KR.jpg"
+    },
+    {
+      "personId": 3201,
+      "name": "Pruitt Taylor Vince",
+      "character": "Stanley \"Stinky\" Womack",
+      "order": 9,
+      "cast_id": 23,
+      "popularity": 3.9495,
+      "profile_path": "/jqC1v8tF92QcmkQycnaLSuJiQfl.jpg"
+    },
+    {
+      "personId": 7268,
+      "name": "Max Perlich",
+      "character": "Kev",
+      "order": 10,
+      "cast_id": 24,
+      "popularity": 1.6987,
+      "profile_path": "/hdyemQG5w6xGtcDsqnuZkZV11nG.jpg"
+    },
+    {
+      "personId": 17495,
+      "name": "Martha Plimpton",
+      "character": "Jan",
+      "order": 11,
+      "cast_id": 25,
+      "popularity": 3.2446,
+      "profile_path": "/bCfhOm4WRb2X5RQdfz5TpMvMZ1.jpg"
+    },
+    {
+      "personId": 524,
+      "name": "Natalie Portman",
+      "character": "Marty",
+      "order": 12,
+      "cast_id": 26,
+      "popularity": 8.8182,
+      "profile_path": "/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
+    },
+    {
+      "personId": 140234,
+      "name": "Anne Bobby",
+      "character": "Sarah Morris",
+      "order": 13,
+      "cast_id": 27,
+      "popularity": 0.9521,
+      "profile_path": "/8PdeV4EoTgt3LajTWC7ikVgNZa7.jpg"
+    },
+    {
+      "personId": 3174,
+      "name": "Richard Bright",
+      "character": "Dick Conway",
+      "order": 14,
+      "cast_id": 28,
+      "popularity": 1.1012,
+      "profile_path": "/potMaJ2u5PRjXZb7qF9lSW1ldNZ.jpg"
+    },
+    {
+      "personId": 8213,
+      "name": "Sam Robards",
+      "character": "Steve Rossmore",
+      "order": 15,
+      "cast_id": 52,
+      "popularity": 1.86,
+      "profile_path": "/AqYRpRgNqQopOU5YGfSFVSuIyl9.jpg"
+    },
+    {
+      "personId": 15234,
+      "name": "David Arquette",
+      "character": "Bobby Conway",
+      "order": 16,
+      "cast_id": 53,
+      "popularity": 1.9442,
+      "profile_path": "/1C5sLNLNVZ3P8sMy7HUQ32IKdqX.jpg"
+    },
+    {
+      "personId": 61607,
+      "name": "Adam LeFevre",
+      "character": "Victor",
+      "order": 17,
+      "cast_id": 54,
+      "popularity": 1.5846,
+      "profile_path": "/5PHvUM9YwGbwAZIxNHBeSadesnL.jpg"
+    },
+    {
+      "personId": 3911,
+      "name": "John Carroll Lynch",
+      "character": "Frank Womack",
+      "order": 18,
+      "cast_id": 55,
+      "popularity": 3.02,
+      "profile_path": "/i6xsWIgo3kW5Dc4A6VhQ17G9nuy.jpg"
+    },
+    {
+      "personId": 174793,
+      "name": "Tom Gibis",
+      "character": "Peter the Eater",
+      "order": 19,
+      "cast_id": 56,
+      "popularity": 0.5982,
+      "profile_path": "/arLub66UpzbPvD9RncJNNjkrCsO.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 34849,
+      "name": "Ted Demme",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.4058,
+      "profile_path": "/gAzwOACFPvmoSWM87ru8u4vLA9N.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6054,
+      "name": "friendship"
+    },
+    {
+      "id": 1415,
+      "name": "small town"
+    },
+    {
+      "id": 1700,
+      "name": "massachusetts"
+    },
+    {
+      "id": 10683,
+      "name": "coming of age"
+    },
+    {
+      "id": 155808,
+      "name": "hometown"
+    },
+    {
+      "id": 155939,
+      "name": "group of friends"
+    }
+  ]
+}

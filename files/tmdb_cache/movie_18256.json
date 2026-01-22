@@ -1,0 +1,272 @@
+{
+  "overview": "John Reilly discovers that his family's newly inherited castle in Italy is haunted by a relentless, bloodthirsty creature.",
+  "release_date": "1996-04-20",
+  "runtime": 90,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.103,
+  "tmdb_vote_count": 234,
+  "tmdb_popularity": 3.3097,
+  "original_language": "en",
+  "poster_path": "/rZv3aUkNngyZeiCgAjOEF5n0tve.jpg",
+  "backdrop_path": "/gggdkmSWasCCwtEItnvQw9NpFLi.jpg",
+  "tmdb_genres_raw": [
+    "Thriller",
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "production_companies": [
+    {
+      "id": 4867,
+      "name": "Full Moon Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "it",
+      "name": "Italiano"
+    },
+    {
+      "code": "sv",
+      "name": "svenska"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 27993,
+      "name": "Jeffrey Combs",
+      "character": "John Reilly",
+      "order": 0,
+      "cast_id": 6,
+      "popularity": 2.5586,
+      "profile_path": "/dfWcxKNsyGuN18GjWkbOmMhO4c9.jpg"
+    },
+    {
+      "personId": 27995,
+      "name": "Barbara Crampton",
+      "character": "Susan Reilly",
+      "order": 1,
+      "cast_id": 7,
+      "popularity": 1.2481,
+      "profile_path": "/AaLIWSrUgHIESuJEh6w7UD5RzV4.jpg"
+    },
+    {
+      "personId": 80291,
+      "name": "Jonathan Fuller",
+      "character": "Giorgio",
+      "order": 2,
+      "cast_id": 8,
+      "popularity": 2.1082,
+      "profile_path": "/ncwdJD7VtVKMazfS93XoJCvfXBU.jpg"
+    },
+    {
+      "personId": 105645,
+      "name": "Jessica Dollarhide",
+      "character": "Rebecca Reilly",
+      "order": 3,
+      "cast_id": 9,
+      "popularity": 0.1686,
+      "profile_path": null
+    },
+    {
+      "personId": 27279,
+      "name": "Massimo Sarchielli",
+      "character": "Giannetti",
+      "order": 4,
+      "cast_id": 10,
+      "popularity": 0.6875,
+      "profile_path": "/b5wKRtXHJJrJNy5zukmsMJQ2IXo.jpg"
+    },
+    {
+      "personId": 136813,
+      "name": "Elisabeth Kaza",
+      "character": "Agnese",
+      "order": 5,
+      "cast_id": 11,
+      "popularity": 0.6227,
+      "profile_path": "/6Y9dXdVAC7L9G10iiRhAcAC3Q6z.jpg"
+    },
+    {
+      "personId": 72246,
+      "name": "Luca Zingaretti",
+      "character": "Forte",
+      "order": 6,
+      "cast_id": 12,
+      "popularity": 1.044,
+      "profile_path": "/yHvitzNxavhVt6uK0Vf4ktZDAhh.jpg"
+    },
+    {
+      "personId": 1191529,
+      "name": "Helen Stirling",
+      "character": "Duchess D'Orsino",
+      "order": 7,
+      "cast_id": 13,
+      "popularity": 0.1735,
+      "profile_path": null
+    },
+    {
+      "personId": 1191530,
+      "name": "Alessandro Sebastian Satta",
+      "character": "JJ",
+      "order": 8,
+      "cast_id": 14,
+      "popularity": 0.1196,
+      "profile_path": null
+    },
+    {
+      "personId": 123547,
+      "name": "Raffaella Offidani",
+      "character": "Sylvana",
+      "order": 9,
+      "cast_id": 15,
+      "popularity": 1.7624,
+      "profile_path": "/mLo21UEyvqqN8QVfWMTQeRHog7H.jpg"
+    },
+    {
+      "personId": 68332,
+      "name": "Marco Stefanelli",
+      "character": "Benedetti",
+      "order": 10,
+      "cast_id": 16,
+      "popularity": 1.8615,
+      "profile_path": "/uUpR3RmwhMemIxKRsbbkiEOX1Na.jpg"
+    },
+    {
+      "personId": 1191531,
+      "name": "Tunny Piras",
+      "character": "Grimaldi",
+      "order": 11,
+      "cast_id": 17,
+      "popularity": 0.0327,
+      "profile_path": null
+    },
+    {
+      "personId": 37028,
+      "name": "Carolyn Purdy-Gordon",
+      "character": "Gelato Woman",
+      "order": 12,
+      "cast_id": 42,
+      "popularity": 0.9235,
+      "profile_path": "/rkNC80zwfLwDAb23eXZuyZO0JOO.jpg"
+    },
+    {
+      "personId": 2024707,
+      "name": "Suzanna Gordon",
+      "character": "The Gelato People",
+      "order": 13,
+      "cast_id": 52,
+      "popularity": 0.0714,
+      "profile_path": null
+    },
+    {
+      "personId": 2024706,
+      "name": "Jillian Gordon",
+      "character": "The Gelato People",
+      "order": 14,
+      "cast_id": 53,
+      "popularity": 0.1524,
+      "profile_path": null
+    },
+    {
+      "personId": 2377426,
+      "name": "Margaret Gordon",
+      "character": "The Gelato People",
+      "order": 15,
+      "cast_id": 54,
+      "popularity": 0.1428,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 27991,
+      "name": "Stuart Gordon",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.2227,
+      "profile_path": "/9LZpmQx9pwgFInRbbAFEkyUMGlc.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 516,
+      "name": "child abuse"
+    },
+    {
+      "id": 1299,
+      "name": "monster"
+    },
+    {
+      "id": 3358,
+      "name": "haunted house"
+    },
+    {
+      "id": 3098,
+      "name": "castle"
+    },
+    {
+      "id": 11534,
+      "name": "sexual violence"
+    },
+    {
+      "id": 10911,
+      "name": "inheritance"
+    },
+    {
+      "id": 13063,
+      "name": "car accident"
+    },
+    {
+      "id": 14895,
+      "name": "cannibal"
+    },
+    {
+      "id": 34079,
+      "name": "death"
+    },
+    {
+      "id": 155817,
+      "name": "estranged wife"
+    },
+    {
+      "id": 164092,
+      "name": "blindness"
+    },
+    {
+      "id": 178649,
+      "name": "voyeurism"
+    },
+    {
+      "id": 208018,
+      "name": "infanticide"
+    },
+    {
+      "id": 213833,
+      "name": "blind woman"
+    },
+    {
+      "id": 253411,
+      "name": "death of a child"
+    },
+    {
+      "id": 285961,
+      "name": "low budget"
+    },
+    {
+      "id": 287274,
+      "name": "lovecraftian"
+    }
+  ]
+}

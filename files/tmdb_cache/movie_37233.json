@@ -1,0 +1,306 @@
+{
+  "overview": "Mitch McDeere is a young man with a promising future in Law. About to sit his Bar exam, he is approached by 'The Firm' and made an offer he doesn't refuse. Seduced by the money and gifts showered on him, he is totally oblivious to the more sinister side of his company. Then, two Associates are murdered. The FBI contact him, asking him for information and suddenly his life is ruined. He has a choice - work with the FBI, or stay with the Firm. Either way he will lose his life as he knows it. Mitch figures the only way out is to follow his own plan...",
+  "release_date": "1993-06-30",
+  "runtime": 154,
+  "budget": 42000000,
+  "revenue": 270248367,
+  "tmdb_vote_average": 6.7,
+  "tmdb_vote_count": 2210,
+  "tmdb_popularity": 4.9372,
+  "original_language": "en",
+  "poster_path": "/kFexXCzidkm4LwlgZqxsJsDQB5v.jpg",
+  "backdrop_path": "/jlUTfePS1XRyMpgZvjFvDk7yEi0.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 932,
+      "name": "Mirage Enterprises",
+      "origin_country": "US"
+    },
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1302,
+      "name": "Davis Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 258,
+      "name": "Scott Rudin Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 500,
+      "name": "Tom Cruise",
+      "character": "Mitch McDeere",
+      "order": 0,
+      "cast_id": 13,
+      "popularity": 15.2673,
+      "profile_path": "/3mShHjSQR7NXOVbdTu5rT2Qd0MN.jpg"
+    },
+    {
+      "personId": 10478,
+      "name": "Jeanne Tripplehorn",
+      "character": "Abby McDeere",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 3.5662,
+      "profile_path": "/q7D9MDnMVc5PAm99853gszHwJy7.jpg"
+    },
+    {
+      "personId": 193,
+      "name": "Gene Hackman",
+      "character": "Avery Tolar",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.843,
+      "profile_path": "/wN8brfOI8AjngGchkQtFqfEPam5.jpg"
+    },
+    {
+      "personId": 11066,
+      "name": "Hal Holbrook",
+      "character": "Oliver Lambert",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.981,
+      "profile_path": "/cnhje99hbqldY1wimQTKpApvj1n.jpg"
+    },
+    {
+      "personId": 11067,
+      "name": "Terry Kinney",
+      "character": "Lamar Quinn",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 2.2902,
+      "profile_path": "/2Y6AeUUj1xUd5p7mRM9tFqUCN87.jpg"
+    },
+    {
+      "personId": 11065,
+      "name": "Wilford Brimley",
+      "character": "William Devasher",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 1.5671,
+      "profile_path": "/pOfcXSGKiHcdFIcnhBV3ibGUruW.jpg"
+    },
+    {
+      "personId": 228,
+      "name": "Ed Harris",
+      "character": "Wayne Tarrance",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 4.9022,
+      "profile_path": "/kUbUA70WPiosPT4kBJMWtGk0ASd.jpg"
+    },
+    {
+      "personId": 18686,
+      "name": "Holly Hunter",
+      "character": "Tammy Hemphill",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 3.6139,
+      "profile_path": "/kC7KX03VAWvogOCuwKbMo4V6TuU.jpg"
+    },
+    {
+      "personId": 11068,
+      "name": "Karina Lombard",
+      "character": "Young Woman on the Beach",
+      "order": 8,
+      "cast_id": 45,
+      "popularity": 1.2841,
+      "profile_path": "/yiRO0bdHkPccjQDA3HdEPmJUEA7.jpg"
+    },
+    {
+      "personId": 11064,
+      "name": "David Strathairn",
+      "character": "Ray McDeere",
+      "order": 9,
+      "cast_id": 9,
+      "popularity": 3.5317,
+      "profile_path": "/6MRnh27jFz0347S6uU11LZG6aaz.jpg"
+    },
+    {
+      "personId": 2048,
+      "name": "Gary Busey",
+      "character": "Eddie Lomax",
+      "order": 10,
+      "cast_id": 10,
+      "popularity": 3.5191,
+      "profile_path": "/8H7Hlv6b7ZoK4jZKeLnc2i4pfPL.jpg"
+    },
+    {
+      "personId": 21521,
+      "name": "Steven Hill",
+      "character": "F. Denton Voyles",
+      "order": 11,
+      "cast_id": 15,
+      "popularity": 1.3148,
+      "profile_path": "/nEKqHodZLRaGbSmNd3LbLKnq8W9.jpg"
+    },
+    {
+      "personId": 2144,
+      "name": "Tobin Bell",
+      "character": "The Nordic Man",
+      "order": 12,
+      "cast_id": 11,
+      "popularity": 3.0131,
+      "profile_path": "/q21uuCtTioIVcGc3a1Q0DpdcNMO.jpg"
+    },
+    {
+      "personId": 12932,
+      "name": "Barbara Garrick",
+      "character": "Kay Quinn",
+      "order": 13,
+      "cast_id": 16,
+      "popularity": 0.7323,
+      "profile_path": "/i41Z1pwl9GpobFrjISQSkqwyCAB.jpg"
+    },
+    {
+      "personId": 89141,
+      "name": "Jerry Hardin",
+      "character": "Royce McKnight",
+      "order": 14,
+      "cast_id": 36,
+      "popularity": 1.2678,
+      "profile_path": "/5VXeqsnepyAEuTT7vaiqfVyK7vZ.jpg"
+    },
+    {
+      "personId": 3137,
+      "name": "Paul Calderon",
+      "character": "Thomas Richie",
+      "order": 15,
+      "cast_id": 46,
+      "popularity": 1.7227,
+      "profile_path": "/xIORhcIDmFMlaS3ZS3em1QiTkt5.jpg"
+    },
+    {
+      "personId": 1888,
+      "name": "Jerry Weintraub",
+      "character": "Sonny Capps",
+      "order": 16,
+      "cast_id": 40,
+      "popularity": 0.3392,
+      "profile_path": "/4CXByDT1Zc4jicCwwqU01Qbs3WX.jpg"
+    },
+    {
+      "personId": 62647,
+      "name": "Sullivan Walker",
+      "character": "Thomas Abanks",
+      "order": 17,
+      "cast_id": 37,
+      "popularity": 1.1384,
+      "profile_path": "/lEvsF26M0zwVgK5drgVzCK6kbfV.jpg"
+    },
+    {
+      "personId": 452,
+      "name": "Margo Martindale",
+      "character": "Nina Huff",
+      "order": 18,
+      "cast_id": 38,
+      "popularity": 2.8804,
+      "profile_path": "/6ANuYnZZJTuQLL4bbt8vH1qDYje.jpg"
+    },
+    {
+      "personId": 97314,
+      "name": "John Beal",
+      "character": "Nathan Locke",
+      "order": 19,
+      "cast_id": 43,
+      "popularity": 1.5373,
+      "profile_path": "/uz8Ba14zgfgKDYVKecP6dPGVPIY.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2226,
+      "name": "Sydney Pollack",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.4692,
+      "profile_path": "/d22QmhGE9bCkXeOwRsfrGTk188I.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1936,
+      "name": "blackmail"
+    },
+    {
+      "id": 2587,
+      "name": "married couple"
+    },
+    {
+      "id": 1812,
+      "name": "fbi"
+    },
+    {
+      "id": 8758,
+      "name": "cayman islands"
+    },
+    {
+      "id": 3702,
+      "name": "memphis, tennessee"
+    },
+    {
+      "id": 10391,
+      "name": "mafia"
+    },
+    {
+      "id": 10909,
+      "name": "lawyer"
+    },
+    {
+      "id": 34079,
+      "name": "death"
+    },
+    {
+      "id": 162813,
+      "name": "law firm"
+    },
+    {
+      "id": 201456,
+      "name": "paranoid"
+    },
+    {
+      "id": 208043,
+      "name": "bar exam"
+    },
+    {
+      "id": 214652,
+      "name": "marital tensions"
+    },
+    {
+      "id": 254459,
+      "name": "legal thriller"
+    },
+    {
+      "id": 302593,
+      "name": "secrets"
+    },
+    {
+      "id": 316832,
+      "name": "tense"
+    }
+  ]
+}

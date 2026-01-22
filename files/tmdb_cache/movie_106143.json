@@ -1,0 +1,243 @@
+{
+  "overview": "Matt Hobbs is a talented but unsuccessful actor. When estranged (and strange) ex-wife Beth dumps their daughter Jeannie on Matt, father and daughter have a lot of adjusting to do. His budding relationship with attractive production assistant Cathy Breslow is made complicated, while the precocious child is overly accustomed to getting her own way. Matt eventually faces the choice of family vs career in a particularly difficult way.",
+  "release_date": "1994-02-04",
+  "runtime": 115,
+  "budget": 40000000,
+  "revenue": 0,
+  "tmdb_vote_average": 5.491,
+  "tmdb_vote_count": 55,
+  "tmdb_popularity": 1.3924,
+  "original_language": "en",
+  "poster_path": "/q7CFDCUNfuOxZssINLGkPE9m2l1.jpg",
+  "backdrop_path": "/9NJeoQCm8hJwUnngZrI3HBFTdh0.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 18,
+      "name": "Gracie Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1733,
+      "name": "Nick Nolte",
+      "character": "Matt Hobbs",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 5.9989,
+      "profile_path": "/jpYzFBi6zfn8CHVaXmqgiOTas4V.jpg"
+    },
+    {
+      "personId": 79088,
+      "name": "Whittni Wright",
+      "character": "Jeannie Hobbs",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 0.4308,
+      "profile_path": "/7A7C5ljLzVB9FimZTESsRFFSmZz.jpg"
+    },
+    {
+      "personId": 13,
+      "name": "Albert Brooks",
+      "character": "Burke Adler",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 2.5434,
+      "profile_path": "/8iDSGu5l93N7benjf6b3AysBore.jpg"
+    },
+    {
+      "personId": 199,
+      "name": "Julie Kavner",
+      "character": "Nan Mulhanney",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 2.1615,
+      "profile_path": "/87kSPYlWcHvqOVEkhdqxysiAf6w.jpg"
+    },
+    {
+      "personId": 20810,
+      "name": "Joely Richardson",
+      "character": "Cathy Breslow",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 4.3329,
+      "profile_path": "/6OWUwieNiWcZNnu4h6gd8vyhxBV.jpg"
+    },
+    {
+      "personId": 30364,
+      "name": "Tracey Ullman",
+      "character": "Beth Hobbs",
+      "order": 5,
+      "cast_id": 14,
+      "popularity": 5.8436,
+      "profile_path": "/cmug3uUXKBo9fhCcJk3pkgt1nvM.jpg"
+    },
+    {
+      "personId": 1242684,
+      "name": "Jeb Brown",
+      "character": "Male D Person",
+      "order": 6,
+      "cast_id": 33,
+      "popularity": 0.5817,
+      "profile_path": "/aLPKWIz7M75Xunba99tuZJGC4ZN.jpg"
+    },
+    {
+      "personId": 4758,
+      "name": "Joely Fisher",
+      "character": "Female D Person",
+      "order": 7,
+      "cast_id": 32,
+      "popularity": 1.1695,
+      "profile_path": "/aHJxw4cbpoxvi7LNbnuA1c6jPPO.jpg"
+    },
+    {
+      "personId": 14723,
+      "name": "Vicki Lewis",
+      "character": "Millie",
+      "order": 8,
+      "cast_id": 10,
+      "popularity": 1.97,
+      "profile_path": "/dwTjtleLh1uu8n9AvUCv0n3mi2R.jpg"
+    },
+    {
+      "personId": 8256,
+      "name": "Anne Heche",
+      "character": "Claire",
+      "order": 9,
+      "cast_id": 11,
+      "popularity": 3.3429,
+      "profile_path": "/65LVuA01bmKCmr8yqY2Ae3IgeC4.jpg"
+    },
+    {
+      "personId": 1327,
+      "name": "Ian McKellen",
+      "character": "John Earl McAlpine",
+      "order": 10,
+      "cast_id": 12,
+      "popularity": 5.9185,
+      "profile_path": "/coWjgMEYJjk2OrNddlXCBm8EIr3.jpg"
+    },
+    {
+      "personId": 8882,
+      "name": "Joel Thurm",
+      "character": "Martin",
+      "order": 11,
+      "cast_id": 34,
+      "popularity": 0.3074,
+      "profile_path": null
+    },
+    {
+      "personId": 22621,
+      "name": "Angela Alvarado",
+      "character": "Lucy",
+      "order": 12,
+      "cast_id": 35,
+      "popularity": 1.4332,
+      "profile_path": "/AhxepIZWMZilICWiTEON7LgtNHg.jpg"
+    },
+    {
+      "personId": 2020211,
+      "name": "Dominik Lukas-Espeleta",
+      "character": "Ricky",
+      "order": 13,
+      "cast_id": 36,
+      "popularity": 0.0239,
+      "profile_path": null
+    },
+    {
+      "personId": 2020212,
+      "name": "Justina Hardesty",
+      "character": "Essa",
+      "order": 14,
+      "cast_id": 37,
+      "popularity": 0.1117,
+      "profile_path": null
+    },
+    {
+      "personId": 19976,
+      "name": "Robert Joy",
+      "character": "U.S. Marshal",
+      "order": 15,
+      "cast_id": 38,
+      "popularity": 1.8868,
+      "profile_path": "/kPY9ggs4qCi3oeEvkYP17Yvfm5r.jpg"
+    },
+    {
+      "personId": 3208,
+      "name": "Maria Pitillo",
+      "character": "Flight Attendant",
+      "order": 16,
+      "cast_id": 31,
+      "popularity": 1.5316,
+      "profile_path": "/e2RqURksoCGa9fBqqMtOuY7pDk5.jpg"
+    },
+    {
+      "personId": 80622,
+      "name": "Suzzanne Douglas",
+      "character": "Rainbow House Star",
+      "order": 17,
+      "cast_id": 39,
+      "popularity": 0.6759,
+      "profile_path": "/ldfCErLjjST3HBZSK8G4KBMDZhR.jpg"
+    },
+    {
+      "personId": 170211,
+      "name": "Joseph Malone",
+      "character": "Assistant Director",
+      "order": 18,
+      "cast_id": 43,
+      "popularity": 1.4466,
+      "profile_path": "/KZFM8xFnKgtQ2BHsDZEDOEaDao.jpg"
+    },
+    {
+      "personId": 28410,
+      "name": "Jake Busey",
+      "character": "Burke's Fired Driver",
+      "order": 19,
+      "cast_id": 40,
+      "popularity": 9.539,
+      "profile_path": "/3WknfRePAvwFJfrbYVvfYXTQCh9.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 3388,
+      "name": "James L. Brooks",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.3104,
+      "profile_path": "/mZBy39mFACFHMCqfbsN4Kc2qb2k.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 970,
+      "name": "parent child relationship"
+    },
+    {
+      "id": 208186,
+      "name": "unsuccessful"
+    }
+  ]
+}

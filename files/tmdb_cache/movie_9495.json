@@ -1,0 +1,346 @@
+{
+  "overview": "Exactly one year after young rock guitarist Eric Draven and his fiancée are brutally killed by a ruthless gang of criminals, Draven, watched over by a hypnotic crow, returns from the grave to exact revenge.",
+  "release_date": "1994-05-11",
+  "runtime": 102,
+  "budget": 23000000,
+  "revenue": 93722164,
+  "tmdb_vote_average": 7.52,
+  "tmdb_vote_count": 4381,
+  "tmdb_popularity": 5.9367,
+  "original_language": "en",
+  "poster_path": "/rMMB3v6jYHjsvXRNJYESacoTD7j.jpg",
+  "backdrop_path": "/cLqvQbP2utIKHRonwXnDjY3l1kk.jpg",
+  "tmdb_genres_raw": [
+    "Fantasy",
+    "Action",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 4029,
+      "name": "Entertainment Media Investment",
+      "origin_country": "US"
+    },
+    {
+      "id": 4030,
+      "name": "Jeff Most Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 6455,
+      "name": "Pressman Film",
+      "origin_country": "US"
+    },
+    {
+      "id": 7405,
+      "name": "Dimension Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 57700,
+      "name": "Brandon Lee",
+      "character": "Eric",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.2052,
+      "profile_path": "/1PV3h6KP0AzeqFCZjb3qxkpfoGE.jpg"
+    },
+    {
+      "personId": 57701,
+      "name": "Rochelle Davis",
+      "character": "Sarah",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.9704,
+      "profile_path": "/89FluwJCKBVj6JmvB9VI4DodSTy.jpg"
+    },
+    {
+      "personId": 8874,
+      "name": "Ernie Hudson",
+      "character": "Albrecht",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.137,
+      "profile_path": "/kgAdQA2ItCDVvKXufeDHc6Omiso.jpg"
+    },
+    {
+      "personId": 7486,
+      "name": "Michael Wincott",
+      "character": "Top Dollar",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.2841,
+      "profile_path": "/z6FtWACKaIivi0khxM6vEHoUH0.jpg"
+    },
+    {
+      "personId": 39126,
+      "name": "Bai Ling",
+      "character": "Myca",
+      "order": 4,
+      "cast_id": 30,
+      "popularity": 2.4039,
+      "profile_path": "/PXbFNTUbC3aoLrquCzFaxdF2ev.jpg"
+    },
+    {
+      "personId": 42649,
+      "name": "Sofia Shinas",
+      "character": "Shelly",
+      "order": 5,
+      "cast_id": 19,
+      "popularity": 0.8992,
+      "profile_path": "/adxGXbuyEvrXxtE2HvLlE0Q7N5d.jpg"
+    },
+    {
+      "personId": 3711,
+      "name": "Anna Thomson",
+      "character": "Darla",
+      "order": 6,
+      "cast_id": 20,
+      "popularity": 1.3069,
+      "profile_path": "/52deQc7eUzqoLfh2rpHtFKqLEle.jpg"
+    },
+    {
+      "personId": 1737,
+      "name": "David Patrick Kelly",
+      "character": "T-Bird",
+      "order": 7,
+      "cast_id": 21,
+      "popularity": 2.1128,
+      "profile_path": "/bOPih90JJ2lCg3VXbNwpANHz8tm.jpg"
+    },
+    {
+      "personId": 37207,
+      "name": "Angel David",
+      "character": "Skank",
+      "order": 8,
+      "cast_id": 22,
+      "popularity": 1.3501,
+      "profile_path": "/kl3sMwySWZM82FZHgblRpEgCze7.jpg"
+    },
+    {
+      "personId": 65141,
+      "name": "Laurence Mason",
+      "character": "Tin Tin",
+      "order": 9,
+      "cast_id": 23,
+      "popularity": 1.3078,
+      "profile_path": "/9QCYSKak0Zw6G5yAgGQPOnlOc7I.jpg"
+    },
+    {
+      "personId": 9289,
+      "name": "Michael Massee",
+      "character": "Funboy",
+      "order": 10,
+      "cast_id": 24,
+      "popularity": 1.7409,
+      "profile_path": "/jJntkRaa55HD3rrXLmpAVQYvWi9.jpg"
+    },
+    {
+      "personId": 19384,
+      "name": "Tony Todd",
+      "character": "Grange",
+      "order": 11,
+      "cast_id": 25,
+      "popularity": 2.6629,
+      "profile_path": "/cNUIRoewwiLi8JxyA1J2zb1z5SN.jpg"
+    },
+    {
+      "personId": 4253,
+      "name": "Jon Polito",
+      "character": "Gideon",
+      "order": 12,
+      "cast_id": 26,
+      "popularity": 3.0706,
+      "profile_path": "/4HjxMy4Ir2dWz7ycX5l3sgxOY4g.jpg"
+    },
+    {
+      "personId": 7576,
+      "name": "Bill Raymond",
+      "character": "Mickey",
+      "order": 13,
+      "cast_id": 27,
+      "popularity": 0.7549,
+      "profile_path": "/v8x97buvWoFj3di8eCuhc0hBlow.jpg"
+    },
+    {
+      "personId": 73132,
+      "name": "Marco Rodríguez",
+      "character": "Torres",
+      "order": 14,
+      "cast_id": 28,
+      "popularity": 1.8885,
+      "profile_path": "/p0Sf93CgRmysHEBRapRpqlFH1SJ.jpg"
+    },
+    {
+      "personId": 2019085,
+      "name": "Kim Sykes",
+      "character": "Annabella",
+      "order": 15,
+      "cast_id": 111,
+      "popularity": 0.7017,
+      "profile_path": "/o3Io9w1Mq9QmbtzCDNTRAc0QWam.jpg"
+    },
+    {
+      "personId": 2095333,
+      "name": "Rock Taulbee",
+      "character": "Lead Cop",
+      "order": 16,
+      "cast_id": 112,
+      "popularity": 0.648,
+      "profile_path": null
+    },
+    {
+      "personId": 545576,
+      "name": "Norman Max Maxwell",
+      "character": "Roscoe",
+      "order": 17,
+      "cast_id": 46,
+      "popularity": 0.9673,
+      "profile_path": "/axTGrLHFH4jlWla9jIJAYWasHWJ.jpg"
+    },
+    {
+      "personId": 182243,
+      "name": "Jeff Cadiente",
+      "character": "Waldo",
+      "order": 18,
+      "cast_id": 113,
+      "popularity": 0.5524,
+      "profile_path": "/vrVLNfwjq0dY0qxHyFIIqcj2Ry3.jpg"
+    },
+    {
+      "personId": 1513690,
+      "name": "Henry Kingi Jr.",
+      "character": "MJ",
+      "order": 19,
+      "cast_id": 114,
+      "popularity": 0.7328,
+      "profile_path": "/dNsZTVShyJVRXHb2vjjEC8mC4f3.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 21085,
+      "name": "Alex Proyas",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.9225,
+      "profile_path": "/mO9l5kK98stC34jRuvFOWQtpC8l.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 779,
+      "name": "martial arts"
+    },
+    {
+      "id": 9715,
+      "name": "superhero"
+    },
+    {
+      "id": 6152,
+      "name": "supernatural"
+    },
+    {
+      "id": 3335,
+      "name": "halloween"
+    },
+    {
+      "id": 4639,
+      "name": "crow"
+    },
+    {
+      "id": 9717,
+      "name": "based on comic"
+    },
+    {
+      "id": 9748,
+      "name": "revenge"
+    },
+    {
+      "id": 11363,
+      "name": "arson"
+    },
+    {
+      "id": 7002,
+      "name": "vigilante"
+    },
+    {
+      "id": 10044,
+      "name": "tragic hero"
+    },
+    {
+      "id": 12415,
+      "name": "back from the dead"
+    },
+    {
+      "id": 13125,
+      "name": "sadist"
+    },
+    {
+      "id": 18021,
+      "name": "detroit, michigan"
+    },
+    {
+      "id": 33505,
+      "name": "gothic"
+    },
+    {
+      "id": 33556,
+      "name": "urban setting"
+    },
+    {
+      "id": 202371,
+      "name": "aggressive"
+    },
+    {
+      "id": 207268,
+      "name": "neo-noir"
+    },
+    {
+      "id": 232469,
+      "name": "urban gothic"
+    },
+    {
+      "id": 251513,
+      "name": "supernatural power"
+    },
+    {
+      "id": 266013,
+      "name": "vigilante justice"
+    },
+    {
+      "id": 269233,
+      "name": "good versus evil"
+    },
+    {
+      "id": 315058,
+      "name": "horror"
+    },
+    {
+      "id": 325778,
+      "name": "bold"
+    },
+    {
+      "id": 325851,
+      "name": "straightforward"
+    },
+    {
+      "id": 325854,
+      "name": "tragic"
+    }
+  ]
+}

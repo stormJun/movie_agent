@@ -1,0 +1,267 @@
+{
+  "overview": "The Earth is invaded by alien parasites—AKA 'slugs'—that ride on people's backs and control their minds.",
+  "release_date": "1994-10-21",
+  "runtime": 109,
+  "budget": 15000000,
+  "revenue": 8600000,
+  "tmdb_vote_average": 5.751,
+  "tmdb_vote_count": 195,
+  "tmdb_popularity": 0.903,
+  "original_language": "en",
+  "poster_path": "/8xJGom6fUqmVhJ7EWprZEHygUis.jpg",
+  "backdrop_path": "/pEpm3o5GM1YU48VrczRP8pdWNAG.jpg",
+  "tmdb_genres_raw": [
+    "Horror",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 915,
+      "name": "Hollywood Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 55636,
+      "name": "Donald Sutherland",
+      "character": "Andrew Nivens",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.4917,
+      "profile_path": "/yM8WO2BYqFvgQXAvf4CIuCYnY4j.jpg"
+    },
+    {
+      "personId": 53574,
+      "name": "Eric Thal",
+      "character": "Sam Nivens",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 0.8721,
+      "profile_path": "/mohh0ONnWuGQPRm4VxQ7JpN2WZD.jpg"
+    },
+    {
+      "personId": 63681,
+      "name": "Julie Warner",
+      "character": "Mary Sefton",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.7517,
+      "profile_path": "/zsuQf2FhJB4vER6xcNJVXemn4i4.jpg"
+    },
+    {
+      "personId": 65827,
+      "name": "Keith David",
+      "character": "Alex Holland",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 5.1624,
+      "profile_path": "/hwykAZLSIP5Cb2bbauZ4CEEmq0u.jpg"
+    },
+    {
+      "personId": 883,
+      "name": "Will Patton",
+      "character": "Dr. Lawrence Graves",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 4.0293,
+      "profile_path": "/1V4DbU1mfEim4oaA5bvJywDAKwB.jpg"
+    },
+    {
+      "personId": 32396,
+      "name": "Richard Belzer",
+      "character": "Neil Jarvis",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 1.4229,
+      "profile_path": "/pc5UOMd78kO7Us0nUvKOMgbigd2.jpg"
+    },
+    {
+      "personId": 80874,
+      "name": "Tom Mason",
+      "character": "President Douglas",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 0.9532,
+      "profile_path": "/ljxKA8lNf3HtMzDopBy2w7Zj0CM.jpg"
+    },
+    {
+      "personId": 5050,
+      "name": "Yaphet Kotto",
+      "character": "Ressler",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 1.7572,
+      "profile_path": "/f0jquWLj22hvYf6PTIggdolhiDx.jpg"
+    },
+    {
+      "personId": 11517,
+      "name": "Gerry Bamman",
+      "character": "Viscott",
+      "order": 8,
+      "cast_id": 9,
+      "popularity": 1.2206,
+      "profile_path": "/hiMgT6OYvmdgz758vbw4y9iEAns.jpg"
+    },
+    {
+      "personId": 36221,
+      "name": "Sam Anderson",
+      "character": "Culbertson",
+      "order": 9,
+      "cast_id": 10,
+      "popularity": 1.9139,
+      "profile_path": "/AnSyGuhjALUwUzMfQFhYMSJp4ra.jpg"
+    },
+    {
+      "personId": 93958,
+      "name": "J. Patrick McCormack",
+      "character": "Gidding",
+      "order": 10,
+      "cast_id": 11,
+      "popularity": 1.0641,
+      "profile_path": "/pVgmRIqO71fS78lYuI7UU4yVSjh.jpg"
+    },
+    {
+      "personId": 3041,
+      "name": "Marshall Bell",
+      "character": "General Morgan",
+      "order": 11,
+      "cast_id": 12,
+      "popularity": 1.6218,
+      "profile_path": "/3AdZRUFlmV9KvArzqSVEVZVl0Sa.jpg"
+    },
+    {
+      "personId": 8539,
+      "name": "Nicholas Cascone",
+      "character": "Greenberg",
+      "order": 12,
+      "cast_id": 13,
+      "popularity": 1.8254,
+      "profile_path": null
+    },
+    {
+      "personId": 53005,
+      "name": "Bruce Jarchow",
+      "character": "Barnes",
+      "order": 13,
+      "cast_id": 14,
+      "popularity": 1.1267,
+      "profile_path": "/3RwlMOHVfgje8I8U0dKprNj3wUe.jpg"
+    },
+    {
+      "personId": 10488,
+      "name": "Benjamin Mouton",
+      "character": "Higgins",
+      "order": 14,
+      "cast_id": 15,
+      "popularity": 0.5571,
+      "profile_path": "/gkJLl8hlOFFNqX9eLk8SudcGtD0.jpg"
+    },
+    {
+      "personId": 1762450,
+      "name": "Donna Garrett",
+      "character": "Miss Haines",
+      "order": 15,
+      "cast_id": 32,
+      "popularity": 0.8293,
+      "profile_path": "/gf2qgBOMOSAYlp834vsh4RF0LBG.jpg"
+    },
+    {
+      "personId": 14782,
+      "name": "Andrew Robinson",
+      "character": "Hawthorne",
+      "order": 16,
+      "cast_id": 33,
+      "popularity": 1.5673,
+      "profile_path": "/b71NHLbjGHLqOQDrf71QPisTawo.jpg"
+    },
+    {
+      "personId": 1048963,
+      "name": "Bill Blair",
+      "character": "Slugged Businessman (uncredited)",
+      "order": 17,
+      "cast_id": 35,
+      "popularity": 2.1614,
+      "profile_path": "/zTInottwIUbxP089eLjH0edKzmM.jpg"
+    },
+    {
+      "personId": 175999,
+      "name": "Eric Briant Wells",
+      "character": "Vince Hayward",
+      "order": 18,
+      "cast_id": 139,
+      "popularity": 0.4908,
+      "profile_path": null
+    },
+    {
+      "personId": 74487,
+      "name": "David Pasquesi",
+      "character": "",
+      "order": 19,
+      "cast_id": 140,
+      "popularity": 0.9036,
+      "profile_path": "/oQplec891LMv0wndTtKh1bIS11Z.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 29482,
+      "name": "Stuart Orme",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7571,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 9678,
+      "name": "mind control"
+    },
+    {
+      "id": 1415,
+      "name": "small town"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 10685,
+      "name": "escape"
+    },
+    {
+      "id": 2029,
+      "name": "iowa"
+    },
+    {
+      "id": 11107,
+      "name": "rescue mission"
+    },
+    {
+      "id": 9951,
+      "name": "alien"
+    },
+    {
+      "id": 9882,
+      "name": "space"
+    },
+    {
+      "id": 160515,
+      "name": "alien contact"
+    }
+  ]
+}

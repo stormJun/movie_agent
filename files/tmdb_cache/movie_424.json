@@ -1,0 +1,335 @@
+{
+  "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+  "release_date": "1993-12-15",
+  "runtime": 195,
+  "budget": 22000000,
+  "revenue": 321365567,
+  "tmdb_vote_average": 8.565,
+  "tmdb_vote_count": 16971,
+  "tmdb_popularity": 16.3744,
+  "original_language": "en",
+  "poster_path": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+  "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "production_companies": [
+    {
+      "id": 56,
+      "name": "Amblin Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "de",
+      "name": "Deutsch"
+    },
+    {
+      "code": "pl",
+      "name": "Polski"
+    },
+    {
+      "code": "he",
+      "name": "עִבְרִית"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3896,
+      "name": "Liam Neeson",
+      "character": "Oskar Schindler",
+      "order": 0,
+      "cast_id": 14,
+      "popularity": 11.8885,
+      "profile_path": "/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg"
+    },
+    {
+      "personId": 2282,
+      "name": "Ben Kingsley",
+      "character": "Itzhak Stern",
+      "order": 1,
+      "cast_id": 15,
+      "popularity": 6.8778,
+      "profile_path": "/vQtBqpF2HDdzbfXHDzR4u37i1Ac.jpg"
+    },
+    {
+      "personId": 5469,
+      "name": "Ralph Fiennes",
+      "character": "Amon Goeth",
+      "order": 2,
+      "cast_id": 16,
+      "popularity": 6.4519,
+      "profile_path": "/u29BOqiV5GCQ8k8WUJM50i9xlBf.jpg"
+    },
+    {
+      "personId": 6692,
+      "name": "Caroline Goodall",
+      "character": "Emilie Schindler",
+      "order": 3,
+      "cast_id": 17,
+      "popularity": 1.9233,
+      "profile_path": "/4cagGtMqACvkuw6Llq8Li8UJ1AR.jpg"
+    },
+    {
+      "personId": 6693,
+      "name": "Jonathan Sagall",
+      "character": "Poldek Pfefferberg",
+      "order": 4,
+      "cast_id": 18,
+      "popularity": 2.0798,
+      "profile_path": "/waxNDsgfw7CXXO3LH8EdKi8z7VV.jpg"
+    },
+    {
+      "personId": 6368,
+      "name": "Embeth Davidtz",
+      "character": "Helen Hirsch",
+      "order": 5,
+      "cast_id": 19,
+      "popularity": 2.4587,
+      "profile_path": "/nwsdu9lOsKJ5v9RwOCc7kAiuxSO.jpg"
+    },
+    {
+      "personId": 6694,
+      "name": "Małgorzata Gebel",
+      "character": "Viktoria Klonowska",
+      "order": 6,
+      "cast_id": 20,
+      "popularity": 1.704,
+      "profile_path": null
+    },
+    {
+      "personId": 6695,
+      "name": "Shmuel Levy",
+      "character": "Wilek Chilowicz",
+      "order": 7,
+      "cast_id": 21,
+      "popularity": 0.9815,
+      "profile_path": "/eZDmJaS0Z0Fj2377wBul9xmm27S.jpg"
+    },
+    {
+      "personId": 6696,
+      "name": "Mark Ivanir",
+      "character": "Marcel Goldberg",
+      "order": 8,
+      "cast_id": 22,
+      "popularity": 3.2609,
+      "profile_path": "/biVPUjq1BbX3YWpvXv5OZjEuJI0.jpg"
+    },
+    {
+      "personId": 6697,
+      "name": "Béatrice Macola",
+      "character": "Ingrid",
+      "order": 9,
+      "cast_id": 23,
+      "popularity": 2.0959,
+      "profile_path": "/dXdt4Ti4mbJilnsm0wtvwb13eny.jpg"
+    },
+    {
+      "personId": 2829,
+      "name": "Andrzej Seweryn",
+      "character": "Julian Scherner",
+      "order": 10,
+      "cast_id": 24,
+      "popularity": 0.7645,
+      "profile_path": "/uYohJvqAai28Piqa0eEs6zAeFer.jpg"
+    },
+    {
+      "personId": 6698,
+      "name": "Friedrich von Thun",
+      "character": "Rolf Czurda",
+      "order": 11,
+      "cast_id": 25,
+      "popularity": 1.5678,
+      "profile_path": "/iQuOeoD8mi4cZEa91mXLlpz6SJz.jpg"
+    },
+    {
+      "personId": 6699,
+      "name": "Krzysztof Luft",
+      "character": "Herman Toffel",
+      "order": 12,
+      "cast_id": 26,
+      "popularity": 0.699,
+      "profile_path": "/oxJZuqnpv1b2nnciFFeF33xZ0dP.jpg"
+    },
+    {
+      "personId": 6700,
+      "name": "Harry Nehring",
+      "character": "Leo John",
+      "order": 13,
+      "cast_id": 27,
+      "popularity": 0.1221,
+      "profile_path": null
+    },
+    {
+      "personId": 6701,
+      "name": "Norbert Weisser",
+      "character": "Albert Hujar",
+      "order": 14,
+      "cast_id": 28,
+      "popularity": 0.9152,
+      "profile_path": "/A2QeLaigXmj1dtJHVLl27N8qNFd.jpg"
+    },
+    {
+      "personId": 6702,
+      "name": "Adi Nitzan",
+      "character": "Mila Pfefferberg",
+      "order": 15,
+      "cast_id": 29,
+      "popularity": 0.7107,
+      "profile_path": null
+    },
+    {
+      "personId": 1115699,
+      "name": "Michael Schneider",
+      "character": "Juda Dresner",
+      "order": 16,
+      "cast_id": 211,
+      "popularity": 1.3136,
+      "profile_path": null
+    },
+    {
+      "personId": 6704,
+      "name": "Miri Fabian",
+      "character": "Chaja Dresner",
+      "order": 17,
+      "cast_id": 31,
+      "popularity": 2.3285,
+      "profile_path": null
+    },
+    {
+      "personId": 6705,
+      "name": "Anna Mucha",
+      "character": "Danka Dresner",
+      "order": 18,
+      "cast_id": 32,
+      "popularity": 1.0125,
+      "profile_path": "/4MwlGzFNzVIwBJajjVxcd7VOnYh.jpg"
+    },
+    {
+      "personId": 6706,
+      "name": "Albert Misak",
+      "character": "Mordecai Wulkan",
+      "order": 19,
+      "cast_id": 33,
+      "popularity": 0.1058,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 488,
+      "name": "Steven Spielberg",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 6.2717,
+      "profile_path": "/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1382,
+      "name": "factory"
+    },
+    {
+      "id": 1701,
+      "name": "hero"
+    },
+    {
+      "id": 2652,
+      "name": "nazi"
+    },
+    {
+      "id": 1631,
+      "name": "concentration camp"
+    },
+    {
+      "id": 1799,
+      "name": "ss (nazi schutzstaffel)"
+    },
+    {
+      "id": 1739,
+      "name": "holocaust (shoah)"
+    },
+    {
+      "id": 1956,
+      "name": "world war ii"
+    },
+    {
+      "id": 2394,
+      "name": "ghetto"
+    },
+    {
+      "id": 2433,
+      "name": "jew persecution"
+    },
+    {
+      "id": 2446,
+      "name": "kraków, poland"
+    },
+    {
+      "id": 3599,
+      "name": "defense industry"
+    },
+    {
+      "id": 2450,
+      "name": "auschwitz-birkenau concentration camp"
+    },
+    {
+      "id": 5565,
+      "name": "biography"
+    },
+    {
+      "id": 9672,
+      "name": "based on true story"
+    },
+    {
+      "id": 2456,
+      "name": "industrialist"
+    },
+    {
+      "id": 12995,
+      "name": "historical fiction"
+    },
+    {
+      "id": 12999,
+      "name": "black and white"
+    },
+    {
+      "id": 13008,
+      "name": "train"
+    },
+    {
+      "id": 21747,
+      "name": "poland"
+    },
+    {
+      "id": 156075,
+      "name": "evil"
+    },
+    {
+      "id": 234812,
+      "name": "weapons manufacturer"
+    },
+    {
+      "id": 325799,
+      "name": "disheartening"
+    },
+    {
+      "id": 343969,
+      "name": "nazi train"
+    }
+  ]
+}

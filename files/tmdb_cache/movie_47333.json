@@ -1,0 +1,282 @@
+{
+  "overview": "After a bleak childhood, Jane Eyre goes out into the world to become a governess. As she lives happily in her new position at Thornfield Hall, she meet the dark, cold, and abrupt master of the house, Mr. Rochester. Jane and her employer grow close in friendship and she soon finds herself falling in love with him. Happiness seems to have found Jane at last, but could Mr. Rochester's terrible secret be about to destroy it forever?",
+  "release_date": "1996-01-20",
+  "runtime": 112,
+  "budget": 0,
+  "revenue": 5200601,
+  "tmdb_vote_average": 6.9,
+  "tmdb_vote_count": 238,
+  "tmdb_popularity": 4.3831,
+  "original_language": "en",
+  "poster_path": "/2vyt97wy8dEJYILoDoiPwTzLnzK.jpg",
+  "backdrop_path": "/s4WgUHG8RieewPBL44i8hYrBy2m.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 14,
+      "name": "Miramax",
+      "origin_country": "US"
+    },
+    {
+      "id": 114711,
+      "name": "Cineritino S.r.L.",
+      "origin_country": ""
+    },
+    {
+      "id": 1677,
+      "name": "Mediaset",
+      "origin_country": "IT"
+    },
+    {
+      "id": 114712,
+      "name": "RCS Editori S.p.A.",
+      "origin_country": ""
+    },
+    {
+      "id": 324,
+      "name": "Flach Film",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "IT",
+      "name": "Italy"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 227,
+      "name": "William Hurt",
+      "character": "Rochester",
+      "order": 0,
+      "cast_id": 11,
+      "popularity": 2.4878,
+      "profile_path": "/j3mjmuHLBW4XQSw53C8Sh0Lh3ZQ.jpg"
+    },
+    {
+      "personId": 4273,
+      "name": "Charlotte Gainsbourg",
+      "character": "Jane Eyre",
+      "order": 1,
+      "cast_id": 10,
+      "popularity": 3.6765,
+      "profile_path": "/54RgTfNxhiTsaZfmCXWYLeZgMlC.jpg"
+    },
+    {
+      "personId": 23709,
+      "name": "Joan Plowright",
+      "character": "Mrs. Fairfax",
+      "order": 2,
+      "cast_id": 12,
+      "popularity": 1.2154,
+      "profile_path": "/un5wsOnz22Rvl82niE0LGAVxggQ.jpg"
+    },
+    {
+      "personId": 10690,
+      "name": "Anna Paquin",
+      "character": "Young Jane Eyre",
+      "order": 3,
+      "cast_id": 9,
+      "popularity": 2.3178,
+      "profile_path": "/5FjBCsn3kujldP8LizoCrc3hsHp.jpg"
+    },
+    {
+      "personId": 400,
+      "name": "Geraldine Chaplin",
+      "character": "Miss Scatcherd",
+      "order": 4,
+      "cast_id": 18,
+      "popularity": 4.7231,
+      "profile_path": "/hu9GC4GaJhgsjz99IrmO5YnzHiC.jpg"
+    },
+    {
+      "personId": 8226,
+      "name": "Billie Whitelaw",
+      "character": "Grace Poole",
+      "order": 5,
+      "cast_id": 40,
+      "popularity": 0.7786,
+      "profile_path": "/hTEhij0sI9eE89NMWNqpjKp7BxY.jpg"
+    },
+    {
+      "personId": 18329,
+      "name": "Maria Schneider",
+      "character": "Bertha",
+      "order": 6,
+      "cast_id": 41,
+      "popularity": 1.1486,
+      "profile_path": "/6te97SWzt2K678UaBbG5v7c5cdc.jpg"
+    },
+    {
+      "personId": 5590,
+      "name": "Elle Macpherson",
+      "character": "Blanche Ingram",
+      "order": 7,
+      "cast_id": 39,
+      "popularity": 1.0587,
+      "profile_path": "/eIuwJxRydMeHnyjhFPPzQ88Hbx1.jpg"
+    },
+    {
+      "personId": 138560,
+      "name": "Nic Knight",
+      "character": "John Reed",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 0.4156,
+      "profile_path": null
+    },
+    {
+      "personId": 138561,
+      "name": "Nicola Howard ",
+      "character": "Eliza Reed",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 0.128,
+      "profile_path": null
+    },
+    {
+      "personId": 138562,
+      "name": "Sasha Graff",
+      "character": "Georgina Reed",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 0.1225,
+      "profile_path": null
+    },
+    {
+      "personId": 10981,
+      "name": "Fiona Shaw",
+      "character": "Mrs. Reed",
+      "order": 11,
+      "cast_id": 16,
+      "popularity": 3.2334,
+      "profile_path": "/tjM74LcxwnYM77Csg1EtlXb1F9a.jpg"
+    },
+    {
+      "personId": 8937,
+      "name": "John Wood",
+      "character": "Mr. Brocklehurst",
+      "order": 12,
+      "cast_id": 24,
+      "popularity": 1.4891,
+      "profile_path": "/6raTQciey2xpcVV5c8HRV4XzFCk.jpg"
+    },
+    {
+      "personId": 30318,
+      "name": "Amanda Root",
+      "character": "Miss Temple",
+      "order": 13,
+      "cast_id": 19,
+      "popularity": 2.6553,
+      "profile_path": "/tOiRDlvdVFgCp4tkbNQOmmZ7GSL.jpg"
+    },
+    {
+      "personId": 3546,
+      "name": "Leanne Rowe",
+      "character": "Helen Burns",
+      "order": 14,
+      "cast_id": 20,
+      "popularity": 1.1385,
+      "profile_path": "/9WDdaz7FlsIZONyyiRtMeYtYXTe.jpg"
+    },
+    {
+      "personId": 138563,
+      "name": "Richard Warwick",
+      "character": "John",
+      "order": 15,
+      "cast_id": 21,
+      "popularity": 0.6795,
+      "profile_path": "/1Q1bKTFWIXkG5M1A5efYoaj9tHz.jpg"
+    },
+    {
+      "personId": 138564,
+      "name": "Judith Parker",
+      "character": "Leah",
+      "order": 16,
+      "cast_id": 22,
+      "popularity": 0.0655,
+      "profile_path": null
+    },
+    {
+      "personId": 54447,
+      "name": "Samuel West",
+      "character": "St John Rivers",
+      "order": 17,
+      "cast_id": 42,
+      "popularity": 3.964,
+      "profile_path": "/bn1nd5zERi5wyHcA1YMGvrHAD5L.jpg"
+    },
+    {
+      "personId": 10465,
+      "name": "Edward de Souza",
+      "character": "",
+      "order": 18,
+      "cast_id": 43,
+      "popularity": 0.8929,
+      "profile_path": "/tE5yfWjXdjgsFOSw65KvkcL8YFU.jpg"
+    },
+    {
+      "personId": 25658,
+      "name": "Chris Larkin",
+      "character": "",
+      "order": 19,
+      "cast_id": 44,
+      "popularity": 1.9956,
+      "profile_path": "/9o4epHGaMjumXcoDg44DVJWL8Sp.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 24657,
+      "name": "Franco Zeffirelli",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8581,
+      "profile_path": "/gJYH7WPikYON2gAMjkw8QZkOGX2.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 6894,
+      "name": "aunt"
+    },
+    {
+      "id": 182376,
+      "name": "gentleman"
+    },
+    {
+      "id": 207928,
+      "name": "19th century"
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "overview": "An android fighting-machine is charged with destroying a small brigade of rebels in a Latin American war who are fighting to maintain their freedom and protect their village. Contrary to his programming, Peebles decides to stay and assist the rebels in their plight. Having gained this information, his \"creators\" develop a more powerful android to try and defeat him.",
+  "release_date": "1996-08-23",
+  "runtime": 94,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 4.8,
+  "tmdb_vote_count": 79,
+  "tmdb_popularity": 3.8668,
+  "original_language": "en",
+  "poster_path": "/9qqdpyYVnU5zY5KsTKCIp5gpZoV.jpg",
+  "backdrop_path": "/vuYYs28DH51wM9UAdJNcnvy14LS.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Adventure",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 38955,
+      "name": "Orpheus Films",
+      "origin_country": ""
+    },
+    {
+      "id": 23098,
+      "name": "Triumph Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 8331,
+      "name": "Van Peebles Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16214,
+      "name": "Mario Van Peebles",
+      "character": "Solo",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.5992,
+      "profile_path": "/fiExKjVttfePRwmfVvMHPjC7F9n.jpg"
+    },
+    {
+      "personId": 12852,
+      "name": "Barry Corbin",
+      "character": "General Clyde Haynes",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 3.8107,
+      "profile_path": "/avNg0rmudSPg30f8Xt9BwkPDC17.jpg"
+    },
+    {
+      "personId": 6573,
+      "name": "William Sadler",
+      "character": "Colonel Frank Madden / Improved Solo",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.0462,
+      "profile_path": "/xC9sijoDnjS3oDZ5eszcGKHKAOp.jpg"
+    },
+    {
+      "personId": 5874,
+      "name": "Jaime Osorio Gómez",
+      "character": "Sgt. Lorenzo the Tracker",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 0.4088,
+      "profile_path": null
+    },
+    {
+      "personId": 76961,
+      "name": "Demián Bichir",
+      "character": "Rio",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 2.2985,
+      "profile_path": "/dur9tX8tbDDJE5mSOZkuW2VDGz4.jpg"
+    },
+    {
+      "personId": 104380,
+      "name": "Seidy López",
+      "character": "Agela",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 1.3379,
+      "profile_path": "/yucTzwkIHZeCGR74AT377JI5M5B.jpg"
+    },
+    {
+      "personId": 53765,
+      "name": "Abraham Verduzco",
+      "character": "Miguel the Kid",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 0.8918,
+      "profile_path": null
+    },
+    {
+      "personId": 104381,
+      "name": "Joaquín Garrido",
+      "character": "Vasquez",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 0.4393,
+      "profile_path": "/cTrd5UToarFLbup3cLdAinOOdwI.jpg"
+    },
+    {
+      "personId": 3490,
+      "name": "Adrien Brody",
+      "character": "Dr. Bill Stewart, Solo's Designer",
+      "order": 8,
+      "cast_id": 10,
+      "popularity": 5.6146,
+      "profile_path": "/qBc7ahQrpVpcllaZ5hkivsOEb3C.jpg"
+    },
+    {
+      "personId": 104383,
+      "name": "Brent Schaeffer",
+      "character": "Communications Officer",
+      "order": 9,
+      "cast_id": 11,
+      "popularity": 0.1519,
+      "profile_path": null
+    },
+    {
+      "personId": 104384,
+      "name": "Lucas Dudley",
+      "character": "Helmsman",
+      "order": 10,
+      "cast_id": 12,
+      "popularity": 0.4055,
+      "profile_path": "/8nLj6YYTWiLg12MLD4CtR70U5A8.jpg"
+    },
+    {
+      "personId": 104387,
+      "name": "Christopher Michael",
+      "character": "Flight Deck Officer",
+      "order": 11,
+      "cast_id": 13,
+      "popularity": 1.4937,
+      "profile_path": "/avH9HsIYSrL1I66FrQLCVjekeqB.jpg"
+    },
+    {
+      "personId": 104389,
+      "name": "Rafael Velasco",
+      "character": "Justos",
+      "order": 12,
+      "cast_id": 14,
+      "popularity": 0.2613,
+      "profile_path": "/fIsrGJHk0Khjf1ANOTmOIXY19J8.jpg"
+    },
+    {
+      "personId": 104391,
+      "name": "Abel Woolrich",
+      "character": "Lazaro",
+      "order": 13,
+      "cast_id": 15,
+      "popularity": 0.9814,
+      "profile_path": null
+    },
+    {
+      "personId": 104393,
+      "name": "Farnesio de Bernal",
+      "character": "Father Cerna",
+      "order": 14,
+      "cast_id": 16,
+      "popularity": 0.245,
+      "profile_path": "/b08rr2zqKJoBu7VHvJ1iYuel6qQ.jpg"
+    },
+    {
+      "personId": 104395,
+      "name": "Socorro Avelar",
+      "character": "Abeulita",
+      "order": 15,
+      "cast_id": 17,
+      "popularity": 0.2832,
+      "profile_path": null
+    },
+    {
+      "personId": 104396,
+      "name": "Álvaro Carcaño",
+      "character": "Elder #1",
+      "order": 16,
+      "cast_id": 18,
+      "popularity": 0.2788,
+      "profile_path": null
+    },
+    {
+      "personId": 104397,
+      "name": "Carlos Quintero",
+      "character": "Elder #2",
+      "order": 17,
+      "cast_id": 19,
+      "popularity": 0.1832,
+      "profile_path": null
+    },
+    {
+      "personId": 104398,
+      "name": "William Ungerman",
+      "character": "Bayne",
+      "order": 18,
+      "cast_id": 20,
+      "popularity": 0.1672,
+      "profile_path": null
+    },
+    {
+      "personId": 58950,
+      "name": "Greg Collins",
+      "character": "Scanion",
+      "order": 19,
+      "cast_id": 21,
+      "popularity": 1.3645,
+      "profile_path": "/42p7hsOck2OzIkr4b9Wtp0HckkG.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 104404,
+      "name": "Norberto Barba",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5593,
+      "profile_path": "/dGtWLR3P7F9ufp8ZPtAAlU4SqOJ.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 803,
+      "name": "android"
+    },
+    {
+      "id": 1280,
+      "name": "laser gun"
+    },
+    {
+      "id": 5331,
+      "name": "village"
+    }
+  ]
+}

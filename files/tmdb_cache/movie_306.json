@@ -1,0 +1,326 @@
+{
+  "overview": "When his boss is killed, Detroit cop Axel Foley finds evidence that the murderer had ties to a California amusement park called Wonder World. Returning to sunny Beverly Hills once more, Foley reunites with Detective Billy Rosewood to solve the case. Along with Billy's new partner, Detective Jon Flint, they discover that Wonder World is being used as a front for a massive counterfeiting ring.",
+  "release_date": "1994-05-24",
+  "runtime": 105,
+  "budget": 50000000,
+  "revenue": 119208989,
+  "tmdb_vote_average": 5.877,
+  "tmdb_vote_count": 2046,
+  "tmdb_popularity": 3.5554,
+  "original_language": "en",
+  "poster_path": "/7vIpCkgGEfk5LZwm78nMxswLJRH.jpg",
+  "backdrop_path": "/wnxg3DsHRlSyJNHpVwwqWdOedGN.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 30,
+      "name": "Eddie Murphy Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 2767,
+      "name": "Mace Neufeld Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 211576,
+      "name": "Robert Rehme Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 776,
+      "name": "Eddie Murphy",
+      "character": "Axel Foley",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 5.6305,
+      "profile_path": "/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg"
+    },
+    {
+      "personId": 777,
+      "name": "Judge Reinhold",
+      "character": "Billy Rosewood",
+      "order": 1,
+      "cast_id": 7,
+      "popularity": 2.1988,
+      "profile_path": "/6R0vCxzSx1CaDAM9y9ZgmejUdiL.jpg"
+    },
+    {
+      "personId": 1210,
+      "name": "Héctor Elizondo",
+      "character": "Jon Flint",
+      "order": 2,
+      "cast_id": 2,
+      "popularity": 3.1113,
+      "profile_path": "/7Mfx9xeOFKXtzVpAc1488LiHs0b.jpg"
+    },
+    {
+      "personId": 17396,
+      "name": "Timothy Carhart",
+      "character": "Ellis DeWald",
+      "order": 3,
+      "cast_id": 32,
+      "popularity": 1.5226,
+      "profile_path": "/jfEzqYXfX7sH0BFmmiXty6kB1Lq.jpg"
+    },
+    {
+      "personId": 11163,
+      "name": "John Saxon",
+      "character": "Orrin Sanderson",
+      "order": 4,
+      "cast_id": 33,
+      "popularity": 2.3363,
+      "profile_path": "/rQh2ddJYtP3x2g1mnlFBQz547FO.jpg"
+    },
+    {
+      "personId": 4602,
+      "name": "Jon Tenney",
+      "character": "Levine",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 2.9918,
+      "profile_path": "/ktb1RA23pHJKMdcFenQ2cosnCkp.jpg"
+    },
+    {
+      "personId": 4603,
+      "name": "Joey Travolta",
+      "character": "Giolito",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 1.6132,
+      "profile_path": "/tv1yDXQUUj9FiaPZlYKJsrtbiNv.jpg"
+    },
+    {
+      "personId": 4605,
+      "name": "Eugene Collier",
+      "character": "Leppert",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 0.331,
+      "profile_path": "/qRCwUNg3nrGXmQv5qGzKTbYe25D.jpg"
+    },
+    {
+      "personId": 4606,
+      "name": "Jimmy Ortega",
+      "character": "Rondell",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 1.0852,
+      "profile_path": "/KwQuw0UHHXSwj6JTgnnHRUoO0w.jpg"
+    },
+    {
+      "personId": 4607,
+      "name": "Ousaun Elam",
+      "character": "Pederson",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 2.3217,
+      "profile_path": "/tXZxvROrBp11OeYoBp2AcOGFSp6.jpg"
+    },
+    {
+      "personId": 4608,
+      "name": "Ray Lykins",
+      "character": "Nixon",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 0.8986,
+      "profile_path": "/9cJnf225TyU1uMPkgUemNgtxvgx.jpg"
+    },
+    {
+      "personId": 4609,
+      "name": "Tim Gilbert",
+      "character": "McKee",
+      "order": 11,
+      "cast_id": 15,
+      "popularity": 0.72,
+      "profile_path": "/ynyR29qNlAtaZcUGRPyiuXfTQaz.jpg"
+    },
+    {
+      "personId": 81687,
+      "name": "Rick Avery",
+      "character": "Cline",
+      "order": 12,
+      "cast_id": 51,
+      "popularity": 0.8723,
+      "profile_path": "/7CiosKnycMKSi3UD2cXFJJNceAZ.jpg"
+    },
+    {
+      "personId": 787,
+      "name": "Gilbert R. Hill",
+      "character": "Todd",
+      "order": 13,
+      "cast_id": 27,
+      "popularity": 0.2135,
+      "profile_path": "/3vERTxcH9gy2TBRPAHJDyOGPBRq.jpg"
+    },
+    {
+      "personId": 2983245,
+      "name": "Dick Purtan",
+      "character": "Detroit Disc Jockey",
+      "order": 14,
+      "cast_id": 52,
+      "popularity": 0.059,
+      "profile_path": null
+    },
+    {
+      "personId": 191545,
+      "name": "Fred Asparagus",
+      "character": "Bobby",
+      "order": 15,
+      "cast_id": 53,
+      "popularity": 1.8252,
+      "profile_path": null
+    },
+    {
+      "personId": 3218,
+      "name": "Louis Lombardi",
+      "character": "Snake",
+      "order": 16,
+      "cast_id": 41,
+      "popularity": 1.9523,
+      "profile_path": "/cYxbGCEf0mnsACuxCIX0faCjGUQ.jpg"
+    },
+    {
+      "personId": 156038,
+      "name": "Lindsey Ginter",
+      "character": "Holloway",
+      "order": 17,
+      "cast_id": 54,
+      "popularity": 2.0102,
+      "profile_path": "/wktPUBjRcOCTXZzXL4Rt9c1d9t7.jpg"
+    },
+    {
+      "personId": 2234,
+      "name": "Michael Bowen",
+      "character": "Fletch",
+      "order": 18,
+      "cast_id": 50,
+      "popularity": 2.0789,
+      "profile_path": "/dYIzQQ4yozTIlpqJbmDkSyDd86C.jpg"
+    },
+    {
+      "personId": 101272,
+      "name": "David Parry",
+      "character": "Taddeo",
+      "order": 19,
+      "cast_id": 55,
+      "popularity": 0.2373,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 4610,
+      "name": "John Landis",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.5311,
+      "profile_path": "/3T778poXnyAeJO15m1XwvSCv9nc.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 10084,
+      "name": "rescue"
+    },
+    {
+      "id": 1568,
+      "name": "undercover"
+    },
+    {
+      "id": 703,
+      "name": "detective"
+    },
+    {
+      "id": 5340,
+      "name": "investigation"
+    },
+    {
+      "id": 4230,
+      "name": "carousel "
+    },
+    {
+      "id": 10950,
+      "name": "shootout"
+    },
+    {
+      "id": 11719,
+      "name": "dirty cop"
+    },
+    {
+      "id": 12371,
+      "name": "gunfight"
+    },
+    {
+      "id": 12670,
+      "name": "los angeles, california"
+    },
+    {
+      "id": 14967,
+      "name": "foot chase"
+    },
+    {
+      "id": 15124,
+      "name": "framed"
+    },
+    {
+      "id": 18021,
+      "name": "detroit, michigan"
+    },
+    {
+      "id": 41249,
+      "name": "secret service"
+    },
+    {
+      "id": 155582,
+      "name": "amusement park"
+    },
+    {
+      "id": 156768,
+      "name": "roller coaster / rollercoaster"
+    },
+    {
+      "id": 158340,
+      "name": "theme park"
+    },
+    {
+      "id": 163047,
+      "name": "beverly hills"
+    },
+    {
+      "id": 167316,
+      "name": "buddy cop"
+    },
+    {
+      "id": 170192,
+      "name": "chop shop"
+    },
+    {
+      "id": 180996,
+      "name": "counterfeit money"
+    }
+  ]
+}

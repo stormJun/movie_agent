@@ -1,0 +1,263 @@
+{
+  "overview": "A group of South Asian women try but cannot escape their problems on a day trip to a British beach resort.",
+  "release_date": "1993-09-11",
+  "runtime": 100,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.2,
+  "tmdb_vote_count": 28,
+  "tmdb_popularity": 0.929,
+  "original_language": "en",
+  "poster_path": "/jq27h7iCkqwBP3Dd9DQnWdgfGGV.jpg",
+  "backdrop_path": "/9Nll0mqi0dOTyX7rRfFV5REaqL4.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 179495,
+      "name": "Umbi Films",
+      "origin_country": ""
+    },
+    {
+      "id": 6705,
+      "name": "Film4 Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "pa",
+      "name": "ਪੰਜਾਬੀ"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1238117,
+      "name": "Kim Vithana",
+      "character": "Ginder",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 1.385,
+      "profile_path": "/1mPTsyfqpTmDJfsfyIVtl75blEo.jpg"
+    },
+    {
+      "personId": 218402,
+      "name": "Jimmi Harkishin",
+      "character": "Ranjit",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 0.5874,
+      "profile_path": "/ftZsysJuUKKbELMMR8tqd6Mmdln.jpg"
+    },
+    {
+      "personId": 550127,
+      "name": "Sarita Khajuria",
+      "character": "Hashida",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 0.1334,
+      "profile_path": "/hh22R7NIPXrU5YQp5MZMpvnzwDr.jpg"
+    },
+    {
+      "personId": 2981,
+      "name": "Akbar Kurtha",
+      "character": "Manjit",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 1.0197,
+      "profile_path": "/8rvCGsbzDFFHCWzrkHvE2Yiqrq6.jpg"
+    },
+    {
+      "personId": 108462,
+      "name": "Mo Sesay",
+      "character": "Oliver",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 0.4452,
+      "profile_path": "/egIuV5XcSJjsXE5RbLJ2c24jTRQ.jpg"
+    },
+    {
+      "personId": 1031118,
+      "name": "Lalita Ahmed",
+      "character": "Asha",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 1.4046,
+      "profile_path": "/jzRLEFbZfzRp9ffSRzqkB6JoKFP.jpg"
+    },
+    {
+      "personId": 6218,
+      "name": "Shaheen Khan",
+      "character": "Simi",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 1.6951,
+      "profile_path": "/bYUDP00ym7zqav7KjOrVxmwfjqt.jpg"
+    },
+    {
+      "personId": 35783,
+      "name": "Zohra Sehgal",
+      "character": "Pushpa",
+      "order": 7,
+      "cast_id": 29,
+      "popularity": 2.6371,
+      "profile_path": "/iQUJRmu0ZTbY5PAx3BifV4rjD19.jpg"
+    },
+    {
+      "personId": 1616920,
+      "name": "Amar Chadha-Patel",
+      "character": "Amrik",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 1.2354,
+      "profile_path": "/6SZXUfn5A2IzwrWhpBDw99gC4uQ.jpg"
+    },
+    {
+      "personId": 1229068,
+      "name": "Nisha Nayar",
+      "character": "Ladhu",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 0.7351,
+      "profile_path": "/qgDsszjJ7O1yY95G5o0svLZMpWF.jpg"
+    },
+    {
+      "personId": 1616921,
+      "name": "Renu Kochar",
+      "character": "Madhu",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 0.0429,
+      "profile_path": null
+    },
+    {
+      "personId": 1241522,
+      "name": "Surendra Kochar",
+      "character": "Bina",
+      "order": 11,
+      "cast_id": 16,
+      "popularity": 0.4965,
+      "profile_path": "/cTutmUpQiv4dOk9vEt1z32Uhlxr.jpg"
+    },
+    {
+      "personId": 261927,
+      "name": "Souad Faress",
+      "character": "Rekha",
+      "order": 12,
+      "cast_id": 17,
+      "popularity": 0.6418,
+      "profile_path": "/aEGdIch9eRzJcsAGbF7mAZPUiXt.jpg"
+    },
+    {
+      "personId": 1616922,
+      "name": "Tanveer Ghani",
+      "character": "Balbir",
+      "order": 13,
+      "cast_id": 18,
+      "popularity": 0.5263,
+      "profile_path": "/zE1v5KwV84Q7aAdkUJLoPblfM2o.jpg"
+    },
+    {
+      "personId": 44419,
+      "name": "Peter Cellier",
+      "character": "Ambrose Waddington",
+      "order": 14,
+      "cast_id": 19,
+      "popularity": 1.106,
+      "profile_path": "/nMGTMkNPtM3Qc1uZakKsdoMIl7x.jpg"
+    },
+    {
+      "personId": 164904,
+      "name": "Rudolph Walker",
+      "character": "Leonard Baptiste",
+      "order": 15,
+      "cast_id": 20,
+      "popularity": 0.7181,
+      "profile_path": "/b28mC01hzC1S4O7LpvElEbJcNR.jpg"
+    },
+    {
+      "personId": 30087,
+      "name": "Fraser James",
+      "character": "Joe",
+      "order": 16,
+      "cast_id": 21,
+      "popularity": 1.7478,
+      "profile_path": "/mGAPQG2OKTgdKFkp9YpvCSqcbgY.jpg"
+    },
+    {
+      "personId": 1616923,
+      "name": "Dean Gatiss",
+      "character": "Paul",
+      "order": 17,
+      "cast_id": 22,
+      "popularity": 0.3317,
+      "profile_path": null
+    },
+    {
+      "personId": 2251,
+      "name": "Hugo Speer",
+      "character": "Andy",
+      "order": 18,
+      "cast_id": 23,
+      "popularity": 1.8077,
+      "profile_path": "/qN7t7UVF0B80GXZv6IsdJPKcJFl.jpg"
+    },
+    {
+      "personId": 1616311,
+      "name": "Gurdial Sira",
+      "character": "Hashida's Father",
+      "order": 19,
+      "cast_id": 24,
+      "popularity": 0.3785,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 6220,
+      "name": "Gurinder Chadha",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7448,
+      "profile_path": "/giMqMKMIu9e9ieQoHRoqZqnWGwr.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 5248,
+      "name": "female friendship"
+    },
+    {
+      "id": 178650,
+      "name": "bus trip"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    },
+    {
+      "id": 207579,
+      "name": "blackpool"
+    },
+    {
+      "id": 210590,
+      "name": "birmingham"
+    },
+    {
+      "id": 266601,
+      "name": "british asian"
+    }
+  ]
+}

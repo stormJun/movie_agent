@@ -1,0 +1,189 @@
+{
+  "overview": "It has been 73 years since Alex failed and the Humans lost the Cyborg Wars. Since then, the Humans have been enslaved. Scientists have developed a new DNA strain, which could signal the end of the Cyborgs, and they inject it into a volunteer. When the Cyborgs learn of the woman and the baby they list both for termination.",
+  "release_date": "1995-08-18",
+  "runtime": 83,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 4.176,
+  "tmdb_vote_count": 51,
+  "tmdb_popularity": 0.4768,
+  "original_language": "en",
+  "poster_path": "/dfBROAe2wXgbB7NbksvVvT49vZW.jpg",
+  "backdrop_path": "/l3smZdpL4gu4oGIBgNMfiiNJhKh.jpg",
+  "tmdb_genres_raw": [
+    "Science Fiction",
+    "Action",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 21437,
+      "name": "Imperial Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 7954,
+      "name": "Filmwerks",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 230665,
+      "name": "Sue Price",
+      "character": "Alex",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 2.7445,
+      "profile_path": "/mGcreWWvxcBfT53Ho1T6DRvU34z.jpg"
+    },
+    {
+      "personId": 40644,
+      "name": "Chad Stahelski",
+      "character": "Nebula",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 1.7024,
+      "profile_path": "/eRCryGwKDH4XqUlrdkERmeBWPo8.jpg"
+    },
+    {
+      "personId": 94648,
+      "name": "Tina Cote",
+      "character": "Emily",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 1.0985,
+      "profile_path": null
+    },
+    {
+      "personId": 94663,
+      "name": "Earl White",
+      "character": "Po / Juna",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 0.7291,
+      "profile_path": null
+    },
+    {
+      "personId": 94656,
+      "name": "Jahi J.J. Zuri",
+      "character": "Zumi / Rebel #2",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 0.7954,
+      "profile_path": null
+    },
+    {
+      "personId": 1263308,
+      "name": "Karen Studer",
+      "character": "Zana",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 0.1668,
+      "profile_path": null
+    },
+    {
+      "personId": 1263309,
+      "name": "Shelton Baily",
+      "character": "Tribal Chief",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 0.2418,
+      "profile_path": null
+    },
+    {
+      "personId": 91897,
+      "name": "Jon H. Epstein",
+      "character": "U.N. Chief",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 0.5515,
+      "profile_path": "/y67Sku8W28gZrcdLKfIJwGgPhuC.jpg"
+    },
+    {
+      "personId": 1041315,
+      "name": "Sharon Bruneau",
+      "character": "Lock",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 1.0214,
+      "profile_path": null
+    },
+    {
+      "personId": 975563,
+      "name": "Debbie Muggli",
+      "character": "Ditko",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 0.1714,
+      "profile_path": null
+    },
+    {
+      "personId": 94647,
+      "name": "Michael Halsey",
+      "character": "Narrator / Nebula (voice)",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 0.5903,
+      "profile_path": "/ofvE578ka9ugkumAfUSnoD4xddc.jpg"
+    },
+    {
+      "personId": 12371,
+      "name": "Richard Cetrone",
+      "character": "Rebel Mercenary Soldier #1",
+      "order": 11,
+      "cast_id": 28,
+      "popularity": 1.7442,
+      "profile_path": "/lZQqNU3QUcnIssWhIfatePfU6M7.jpg"
+    },
+    {
+      "personId": 2512091,
+      "name": "Jack Thomerson",
+      "character": "DNA Doctor",
+      "order": 12,
+      "cast_id": 29,
+      "popularity": 0.1555,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 63937,
+      "name": "Albert Pyun",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.9917,
+      "profile_path": "/c1lkhBrHiqn5pD0Cm0zg0UU7hHF.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 679,
+      "name": "cyborg"
+    },
+    {
+      "id": 4458,
+      "name": "post-apocalyptic future"
+    },
+    {
+      "id": 9663,
+      "name": "sequel"
+    },
+    {
+      "id": 12190,
+      "name": "cyberpunk"
+    }
+  ]
+}

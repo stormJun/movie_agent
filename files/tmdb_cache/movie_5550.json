@@ -1,0 +1,261 @@
+{
+  "overview": "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
+  "release_date": "1993-01-21",
+  "runtime": 105,
+  "budget": 22000000,
+  "revenue": 10696210,
+  "tmdb_vote_average": 4.9,
+  "tmdb_vote_count": 1398,
+  "tmdb_popularity": 4.1197,
+  "original_language": "en",
+  "poster_path": "/ppLSSwCuC5ERRWbu9H3R8SPL9AM.jpg",
+  "backdrop_path": "/3f7ZW8F8qZA3IZy2jZ9Dee7cPxC.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Adventure",
+    "Crime",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 41,
+      "name": "Orion Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ja",
+      "name": "日本語"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 31512,
+      "name": "Robert John Burke",
+      "character": "Robocop",
+      "order": 0,
+      "cast_id": 11,
+      "popularity": 2.4179,
+      "profile_path": "/4uCjxK6QmPW98W56aCldwINSOcX.jpg"
+    },
+    {
+      "personId": 44038,
+      "name": "Nancy Allen",
+      "character": "Anne Lewis",
+      "order": 1,
+      "cast_id": 23,
+      "popularity": 1.6959,
+      "profile_path": "/ok87WkvJJJTDsTzqgmoC5BHv6Wh.jpg"
+    },
+    {
+      "personId": 9626,
+      "name": "Rip Torn",
+      "character": "The CEO",
+      "order": 2,
+      "cast_id": 21,
+      "popularity": 2.3072,
+      "profile_path": "/jP74MHyQl6R8mH7aZKHrrD2Qjj2.jpg"
+    },
+    {
+      "personId": 15198,
+      "name": "John Castle",
+      "character": "McDaggett",
+      "order": 3,
+      "cast_id": 18,
+      "popularity": 1.967,
+      "profile_path": "/bC2KfRuMflJTDegbLJYawM5t2fS.jpg"
+    },
+    {
+      "personId": 50877,
+      "name": "Jill Hennessy",
+      "character": "Dr. Marie Lazarus",
+      "order": 4,
+      "cast_id": 29,
+      "popularity": 2.2039,
+      "profile_path": "/dCJvqrN7KXAEJLfb2JFTvMr9HXh.jpg"
+    },
+    {
+      "personId": 30485,
+      "name": "CCH Pounder",
+      "character": "Bertha",
+      "order": 5,
+      "cast_id": 24,
+      "popularity": 3.3854,
+      "profile_path": "/mr6BLDN75T8DJl9dNK3hN4YwqJa.jpg"
+    },
+    {
+      "personId": 10134,
+      "name": "Mako",
+      "character": "Kanemitsu",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 2.1691,
+      "profile_path": "/x0dZQHKQOZ1ancuRw8slO3rAiPq.jpg"
+    },
+    {
+      "personId": 30615,
+      "name": "Robert DoQui",
+      "character": "Sergeant Reed",
+      "order": 7,
+      "cast_id": 26,
+      "popularity": 0.9637,
+      "profile_path": "/uLQsWehFSYRn2LNfzT9fUjSRpkF.jpg"
+    },
+    {
+      "personId": 44058,
+      "name": "Remy Ryan Hernandez",
+      "character": "Nikko",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 0.9798,
+      "profile_path": "/u6Sgabu6LLKZHl0WOsb5EliSgG4.jpg"
+    },
+    {
+      "personId": 35244,
+      "name": "Bruce Locke",
+      "character": "Otomo",
+      "order": 9,
+      "cast_id": 34,
+      "popularity": 1.1908,
+      "profile_path": "/rBXOctfwHRK8kh9rpOmLh7uQBns.jpg"
+    },
+    {
+      "personId": 15253,
+      "name": "Stanley Anderson",
+      "character": "Zack",
+      "order": 10,
+      "cast_id": 48,
+      "popularity": 2.3463,
+      "profile_path": "/6kHp1SlLRw0NobVdY8X6DbBAPt8.jpg"
+    },
+    {
+      "personId": 17401,
+      "name": "Stephen Root",
+      "character": "Coontz",
+      "order": 11,
+      "cast_id": 25,
+      "popularity": 4.4856,
+      "profile_path": "/2Zwi6AydqQQ9InVdhjYcfJXNzkp.jpg"
+    },
+    {
+      "personId": 1473,
+      "name": "Daniel von Bargen",
+      "character": "Moreno",
+      "order": 12,
+      "cast_id": 42,
+      "popularity": 2.4129,
+      "profile_path": "/2S03pvALrrAkXU8TdDSuYevtdBc.jpg"
+    },
+    {
+      "personId": 44042,
+      "name": "Felton Perry",
+      "character": "Johnson",
+      "order": 13,
+      "cast_id": 36,
+      "popularity": 1.017,
+      "profile_path": "/vHH6ciuv8Wc03iKqYTmz4TcWcnv.jpg"
+    },
+    {
+      "personId": 11367,
+      "name": "Bradley Whitford",
+      "character": "Fleck",
+      "order": 14,
+      "cast_id": 22,
+      "popularity": 4.2732,
+      "profile_path": "/hy3jwrcpmEpM7jLkrhlqQb1TfGN.jpg"
+    },
+    {
+      "personId": 44050,
+      "name": "Mario Machado",
+      "character": "Casey Wong",
+      "order": 15,
+      "cast_id": 12,
+      "popularity": 0.6597,
+      "profile_path": "/mE1gnCm9ETbVvrmdc97p7TkVOk6.jpg"
+    },
+    {
+      "personId": 44059,
+      "name": "Jodi Long",
+      "character": "Nikko's Mom",
+      "order": 16,
+      "cast_id": 14,
+      "popularity": 1.3654,
+      "profile_path": "/rLsdDkJMQRGiLfYgfwqQcNW4ZGc.jpg"
+    },
+    {
+      "personId": 44060,
+      "name": "John Posey",
+      "character": "Nikko's Dad",
+      "order": 17,
+      "cast_id": 15,
+      "popularity": 1.4699,
+      "profile_path": "/sUk2tKOWTAkYAxMZ0QfhxdzboJf.jpg"
+    },
+    {
+      "personId": 44062,
+      "name": "S.D. Nemeth",
+      "character": "Bixby Snyder",
+      "order": 18,
+      "cast_id": 19,
+      "popularity": 0.9117,
+      "profile_path": "/kia4GS5KmGyRofCyOqLgpNeYMwX.jpg"
+    },
+    {
+      "personId": 44063,
+      "name": "Edith Ivey",
+      "character": "Elderly Woman in Bathrobe",
+      "order": 19,
+      "cast_id": 20,
+      "popularity": 0.9184,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 44056,
+      "name": "Fred Dekker",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.861,
+      "profile_path": "/kH5OoVnZm0LmO6pFfOcyq7bjbva.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6149,
+      "name": "police"
+    },
+    {
+      "id": 679,
+      "name": "cyborg"
+    },
+    {
+      "id": 4565,
+      "name": "dystopia"
+    },
+    {
+      "id": 9663,
+      "name": "sequel"
+    },
+    {
+      "id": 12190,
+      "name": "cyberpunk"
+    },
+    {
+      "id": 33699,
+      "name": "policeman"
+    }
+  ]
+}

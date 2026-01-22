@@ -1,0 +1,267 @@
+{
+  "overview": "Middle-aged romance author Leo writes under a pseudonym, since she despises her own work. At home, her husband, who works overseas, is distant both physically and emotionally. As she reevaluates her life and writing, Leo is led to an unexpected relationship with Ángel, a sensitive newspaper editor.",
+  "release_date": "1995-09-22",
+  "runtime": 106,
+  "budget": 4500000,
+  "revenue": 19000000,
+  "tmdb_vote_average": 6.789,
+  "tmdb_vote_count": 247,
+  "tmdb_popularity": 0.8168,
+  "original_language": "es",
+  "poster_path": "/u172NHV9SvqgVDSyRayJIPK2Brl.jpg",
+  "backdrop_path": "/kbY2KsmwyFiRYtO0f9Xwd3cV9tZ.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 49,
+      "name": "El Deseo",
+      "origin_country": "ES"
+    },
+    {
+      "id": 105,
+      "name": "CiBy 2000",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "ES",
+      "name": "Spain"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 954,
+      "name": "Marisa Paredes",
+      "character": "Leo Macías",
+      "order": 0,
+      "cast_id": 11,
+      "popularity": 0.9989,
+      "profile_path": "/71esuRUCyeSyib35mTFPkR24zH7.jpg"
+    },
+    {
+      "personId": 36277,
+      "name": "Juan Echanove",
+      "character": "Ángel",
+      "order": 1,
+      "cast_id": 12,
+      "popularity": 0.3881,
+      "profile_path": "/vxmDaQTD6mRFRwXMEtXqovoaPXj.jpg"
+    },
+    {
+      "personId": 36278,
+      "name": "Carme Elias",
+      "character": "Betty",
+      "order": 2,
+      "cast_id": 13,
+      "popularity": 1.7256,
+      "profile_path": "/zdEM6b1NGwOWKd6rgmPnRCpPedw.jpg"
+    },
+    {
+      "personId": 25258,
+      "name": "Rossy de Palma",
+      "character": "Rosa",
+      "order": 3,
+      "cast_id": 14,
+      "popularity": 1.3071,
+      "profile_path": "/3IH9ZBUcFNwBr8IcS1RZhMKTpeg.jpg"
+    },
+    {
+      "personId": 3482,
+      "name": "Chus Lampreave",
+      "character": "Madre de Leo",
+      "order": 4,
+      "cast_id": 15,
+      "popularity": 0.4644,
+      "profile_path": "/86dFl41dHUzRYHRBoMt8Mocvfzf.jpg"
+    },
+    {
+      "personId": 16975,
+      "name": "Kiti Mánver",
+      "character": "Manuela",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 2.5714,
+      "profile_path": "/1hMLpxmw3HP6yx6LtH0UgMiFGmA.jpg"
+    },
+    {
+      "personId": 36279,
+      "name": "Joaquín Cortés",
+      "character": "Antonio",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 0.3876,
+      "profile_path": "/t0C1otbXmDS0ddBCgmzkSln2nGg.jpg"
+    },
+    {
+      "personId": 36280,
+      "name": "Manuela Vargas",
+      "character": "Blanca",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 0.2123,
+      "profile_path": "/dtyUQRdk5sOYj5UwJyMh2Ep91B9.jpg"
+    },
+    {
+      "personId": 36281,
+      "name": "Imanol Arias",
+      "character": "Paco",
+      "order": 8,
+      "cast_id": 19,
+      "popularity": 0.7343,
+      "profile_path": "/lbBiRaDzDzojfs6VbMfgzsf6QnI.jpg"
+    },
+    {
+      "personId": 36282,
+      "name": "Gloria Muñoz",
+      "character": "Alicia",
+      "order": 9,
+      "cast_id": 20,
+      "popularity": 1.5857,
+      "profile_path": "/welTISMFpKiNvgPIz5NiViUMVzr.jpg"
+    },
+    {
+      "personId": 36283,
+      "name": "Juan José Otegui",
+      "character": "Tomas",
+      "order": 10,
+      "cast_id": 21,
+      "popularity": 0.2734,
+      "profile_path": "/cgorZufFVWYRVcOshLsI2Eug5wq.jpg"
+    },
+    {
+      "personId": 16948,
+      "name": "Nancho Novo",
+      "character": "Doctor B",
+      "order": 11,
+      "cast_id": 28,
+      "popularity": 0.5522,
+      "profile_path": "/76tMiuvM2GHCJ429J8O3BcfMVKP.jpg"
+    },
+    {
+      "personId": 31384,
+      "name": "Jordi Mollà",
+      "character": "Doctor A",
+      "order": 12,
+      "cast_id": 27,
+      "popularity": 2.9017,
+      "profile_path": "/2XEuPT0T9SRwcpsOXD9vMpm4Vad.jpg"
+    },
+    {
+      "personId": 25221,
+      "name": "Alicia Agut",
+      "character": "Neighbor A",
+      "order": 13,
+      "cast_id": 23,
+      "popularity": 0.62,
+      "profile_path": "/yIihKpIBKJZ2g2trsB4CXq2PDWf.jpg"
+    },
+    {
+      "personId": 2231205,
+      "name": "Marisol Muriel",
+      "character": "Bailarina",
+      "order": 14,
+      "cast_id": 39,
+      "popularity": 0.0919,
+      "profile_path": null
+    },
+    {
+      "personId": 2708180,
+      "name": "Teresa Ibáñez",
+      "character": "Vecina B",
+      "order": 15,
+      "cast_id": 40,
+      "popularity": 0.2767,
+      "profile_path": "/64wW7i3uNbfiA79KKDxYOxUJt0n.jpg"
+    },
+    {
+      "personId": 4388572,
+      "name": "José Palau",
+      "character": "Yonqui",
+      "order": 16,
+      "cast_id": 41,
+      "popularity": 0.0382,
+      "profile_path": null
+    },
+    {
+      "personId": 2389558,
+      "name": "Abraham García",
+      "character": "Camarero",
+      "order": 17,
+      "cast_id": 42,
+      "popularity": 0.0555,
+      "profile_path": "/rUs2AbI75O7JhvQLc0rlzyYNSsc.jpg"
+    },
+    {
+      "personId": 991503,
+      "name": "Chavela Vargas",
+      "character": "Self (archive footage)",
+      "order": 18,
+      "cast_id": 43,
+      "popularity": 0.4747,
+      "profile_path": "/8gpHAxtTiXbwIK2kP6MnDvoRGC7.jpg"
+    },
+    {
+      "personId": 1490109,
+      "name": "Daniel Cebrián",
+      "character": "Cameraman (uncredited)",
+      "order": 19,
+      "cast_id": 44,
+      "popularity": 0.6854,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 309,
+      "name": "Pedro Almodóvar",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.7448,
+      "profile_path": "/dKlaXJk3NLcsC1CKMx6xmyW5BZD.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 514,
+      "name": "spain"
+    },
+    {
+      "id": 744,
+      "name": "madrid, spain"
+    },
+    {
+      "id": 970,
+      "name": "parent child relationship"
+    },
+    {
+      "id": 1252,
+      "name": "suicide attempt"
+    },
+    {
+      "id": 155251,
+      "name": "novelist"
+    },
+    {
+      "id": 172972,
+      "name": "old woman"
+    }
+  ]
+}

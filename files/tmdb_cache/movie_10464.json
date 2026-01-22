@@ -1,0 +1,263 @@
+{
+  "overview": "When Manny Singer's wife dies, his young daughter Molly becomes mute and withdrawn. To help cope with looking after Molly, he hires sassy housekeeper Corrina Washington, who coaxes Molly out of her shell and shows father and daughter a whole new way of life. Manny and Corrina's friendship delights Molly and enrages the other townspeople.",
+  "release_date": "1994-08-12",
+  "runtime": 115,
+  "budget": 12500000,
+  "revenue": 20100000,
+  "tmdb_vote_average": 6.682,
+  "tmdb_vote_count": 440,
+  "tmdb_popularity": 3.5448,
+  "original_language": "en",
+  "poster_path": "/xuEubxRGut2Yh118RyNa6ruXXCp.jpg",
+  "backdrop_path": "/uFh5qOyctqOOuEayOOoukE8CkV9.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Family",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2395,
+      "name": "Whoopi Goldberg",
+      "character": "Corrina Washington",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.2878,
+      "profile_path": "/wZKI7qcEIVgiHxeFtk3NuKt8URQ.jpg"
+    },
+    {
+      "personId": 11477,
+      "name": "Ray Liotta",
+      "character": "Manny Singer",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 4.0613,
+      "profile_path": "/rhaCUi04uEXDFvuPM5Drj1AprE6.jpg"
+    },
+    {
+      "personId": 53930,
+      "name": "Tina Majorino",
+      "character": "Molly Singer",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.8327,
+      "profile_path": "/2sOAKJHk38fsZPtM7L13KjqA8hR.jpg"
+    },
+    {
+      "personId": 3234,
+      "name": "Joan Cusack",
+      "character": "Jonesy",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 3.9926,
+      "profile_path": "/ytjiXEqnaEYtS7XkYmoUXPrZCm5.jpg"
+    },
+    {
+      "personId": 1211,
+      "name": "Larry Miller",
+      "character": "Sid",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 2.6049,
+      "profile_path": "/ajnXlXG20LJwAwxne8G94ucVj0v.jpg"
+    },
+    {
+      "personId": 15899,
+      "name": "Jenifer Lewis",
+      "character": "Jevina",
+      "order": 5,
+      "cast_id": 21,
+      "popularity": 3.5459,
+      "profile_path": "/bdeUHXY4cXvhOW2nCblNachBYsM.jpg"
+    },
+    {
+      "personId": 19957,
+      "name": "Wendy Crewson",
+      "character": "Jenny Davis",
+      "order": 6,
+      "cast_id": 22,
+      "popularity": 3.0368,
+      "profile_path": "/6hplkzK8KV5Cw8Z8SVKwlt3nU5I.jpg"
+    },
+    {
+      "personId": 40349,
+      "name": "Erica Yohn",
+      "character": "Grandma Eva",
+      "order": 7,
+      "cast_id": 24,
+      "popularity": 1.6863,
+      "profile_path": "/ArpkNzcdaYQTjg6VdYtDFxAygIX.jpg"
+    },
+    {
+      "personId": 18156,
+      "name": "Don Ameche",
+      "character": "Grandpa Harry",
+      "order": 8,
+      "cast_id": 20,
+      "popularity": 3.174,
+      "profile_path": "/p2Q0LE3SECDvb5W2yAvvfRtzIyo.jpg"
+    },
+    {
+      "personId": 1213786,
+      "name": "Brent Spiner",
+      "character": "Brent Witherspoon",
+      "order": 9,
+      "cast_id": 17,
+      "popularity": 1.7415,
+      "profile_path": "/wHaOTfxOEKOPssDYaSSB5zenml4.jpg"
+    },
+    {
+      "personId": 1063614,
+      "name": "Tommy Bertelsen",
+      "character": "Bratty Boy",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 0.5319,
+      "profile_path": "/vSlRndjzrZhicsVsWqlmckwDlYv.jpg"
+    },
+    {
+      "personId": 7401,
+      "name": "Lin Shaye",
+      "character": "Repeat Nanny",
+      "order": 11,
+      "cast_id": 19,
+      "popularity": 2.5879,
+      "profile_path": "/aL87Za52elH81zMiXQn5C7AXAeg.jpg"
+    },
+    {
+      "personId": 3153017,
+      "name": "Noreen Hennessey",
+      "character": "High Heels",
+      "order": 12,
+      "cast_id": 25,
+      "popularity": 1.0601,
+      "profile_path": null
+    },
+    {
+      "personId": 1180882,
+      "name": "Lucy Webb",
+      "character": "Shirl",
+      "order": 13,
+      "cast_id": 26,
+      "popularity": 1.0422,
+      "profile_path": null
+    },
+    {
+      "personId": 112936,
+      "name": "Juney Ellis",
+      "character": "Miss O'Herlihy",
+      "order": 14,
+      "cast_id": 27,
+      "popularity": 0.5806,
+      "profile_path": null
+    },
+    {
+      "personId": 1226358,
+      "name": "Mimi Lieber",
+      "character": "Rita Lang",
+      "order": 15,
+      "cast_id": 28,
+      "popularity": 0.8041,
+      "profile_path": "/jFLISGEW0aqK6A69JruCaC5AzjP.jpg"
+    },
+    {
+      "personId": 16852,
+      "name": "Karen Leigh Hopkins",
+      "character": "Liala Sheffield",
+      "order": 16,
+      "cast_id": 29,
+      "popularity": 1.84,
+      "profile_path": "/uwQquaAk39bENdtJrDwm3gHgv2r.jpg"
+    },
+    {
+      "personId": 1760004,
+      "name": "Pearl Huang",
+      "character": "Mrs. Wang",
+      "order": 17,
+      "cast_id": 30,
+      "popularity": 1.2847,
+      "profile_path": null
+    },
+    {
+      "personId": 112086,
+      "name": "Marcus Toji",
+      "character": "Tommy",
+      "order": 18,
+      "cast_id": 31,
+      "popularity": 0.9887,
+      "profile_path": "/2PImLFJZ3UlDkew5AJVUfgrm7vg.jpg"
+    },
+    {
+      "personId": 55962,
+      "name": "Louis Mustillo",
+      "character": "Joe Allechinetti",
+      "order": 19,
+      "cast_id": 32,
+      "popularity": 1.0802,
+      "profile_path": "/gfp2kJUrOojQCmRltRrFFTv8Vr2.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 16853,
+      "name": "Jessie Nelson",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.5027,
+      "profile_path": "/u63xiwuHHpp0gcwMAOfSg9Jwr7G.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 5600,
+      "name": "daughter"
+    },
+    {
+      "id": 6054,
+      "name": "friendship"
+    },
+    {
+      "id": 697,
+      "name": "loss of loved one"
+    },
+    {
+      "id": 10392,
+      "name": "mute"
+    },
+    {
+      "id": 17997,
+      "name": "housekeeper"
+    },
+    {
+      "id": 160910,
+      "name": "xenophobia"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    },
+    {
+      "id": 325765,
+      "name": "amused"
+    }
+  ]
+}

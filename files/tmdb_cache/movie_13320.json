@@ -1,0 +1,303 @@
+{
+  "overview": "A shy Greenwich Village book clerk is discovered by a fashion photographer and whisked off to Paris where she becomes a reluctant model.",
+  "release_date": "1957-02-13",
+  "runtime": 103,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 7.0,
+  "tmdb_vote_count": 715,
+  "tmdb_popularity": 4.1422,
+  "original_language": "en",
+  "poster_path": "/tzTjalpIz6NyFrWPPlOBFoBjb7z.jpg",
+  "backdrop_path": "/Ezr1StPIK9xMqXeTNBXbrnbgu4.jpg",
+  "tmdb_genres_raw": [
+    "Music",
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1932,
+      "name": "Audrey Hepburn",
+      "character": "Jo Stockton",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.0905,
+      "profile_path": "/hwPHPRz7YqmcRAlvhag5VPeoaoC.jpg"
+    },
+    {
+      "personId": 30181,
+      "name": "Fred Astaire",
+      "character": "Dick Avery",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.4517,
+      "profile_path": "/6gw9PCrKi19I5QOwjEPaOYW9uLI.jpg"
+    },
+    {
+      "personId": 83393,
+      "name": "Kay Thompson",
+      "character": "Maggie Prescott",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.3449,
+      "profile_path": "/bFNq0fWlid7kOCpj3VDVtazgWXH.jpg"
+    },
+    {
+      "personId": 9746,
+      "name": "Michel Auclair",
+      "character": "Prof. Emile Flostre",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 0.9073,
+      "profile_path": "/2fh0NOnrIqhmkP0pg83ry6Xgpfw.jpg"
+    },
+    {
+      "personId": 41958,
+      "name": "Robert Flemyng",
+      "character": "Paul Duval",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 0.5009,
+      "profile_path": "/iD3fCCy38wgxpUlNwMR25L30h3l.jpg"
+    },
+    {
+      "personId": 1461562,
+      "name": "Dovima",
+      "character": "Marion",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 0.3198,
+      "profile_path": "/kZJHkdd2H04GIFhlO9G58pkSmCA.jpg"
+    },
+    {
+      "personId": 145861,
+      "name": "Suzy Parker",
+      "character": "Specialty Dancer (Think Pink Number)",
+      "order": 6,
+      "cast_id": 14,
+      "popularity": 2.1454,
+      "profile_path": "/qwBMjvIv4vOYd0yoWF12y0wRNs7.jpg"
+    },
+    {
+      "personId": 1461565,
+      "name": "Sunny Hartnett",
+      "character": "Specialty Dancer (Think Pink Number)",
+      "order": 7,
+      "cast_id": 15,
+      "popularity": 0.4008,
+      "profile_path": "/fGFE3fDT1x0ioCmEMfucLqkrrNi.jpg"
+    },
+    {
+      "personId": 22099,
+      "name": "Jean Del Val",
+      "character": "Hairdresser",
+      "order": 8,
+      "cast_id": 16,
+      "popularity": 0.9945,
+      "profile_path": "/3JyToN4VZ4Gwcoia9MpeF1MTFmR.jpg"
+    },
+    {
+      "personId": 118231,
+      "name": "Virginia Gibson",
+      "character": "Babs",
+      "order": 9,
+      "cast_id": 17,
+      "popularity": 1.4494,
+      "profile_path": "/xkSc35o7XOWEaGVccxTD9wNlnCO.jpg"
+    },
+    {
+      "personId": 124852,
+      "name": "Sue England",
+      "character": "Laura",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 1.1519,
+      "profile_path": "/dWOiDIypMTJh83lBjuIP4LRwWpp.jpg"
+    },
+    {
+      "personId": 10929,
+      "name": "Ruta Lee",
+      "character": "Lettie",
+      "order": 11,
+      "cast_id": 19,
+      "popularity": 2.4547,
+      "profile_path": "/mnTHXYoZzB1QCy5vsRwicgybLgY.jpg"
+    },
+    {
+      "personId": 78778,
+      "name": "Alex Gerry",
+      "character": "Dovitch",
+      "order": 12,
+      "cast_id": 20,
+      "popularity": 0.8925,
+      "profile_path": "/4QZ2dhwYxtXZ8iEtcCPQUiAKJYs.jpg"
+    },
+    {
+      "personId": 121323,
+      "name": "Bess Flowers",
+      "character": "Fashion Show Spectator",
+      "order": 13,
+      "cast_id": 10,
+      "popularity": 1.3223,
+      "profile_path": "/oErbIo6a2QPYZSqfdzU6vlDTD8i.jpg"
+    },
+    {
+      "personId": 170577,
+      "name": "Iphigenie Castiglioni",
+      "character": "Armande",
+      "order": 14,
+      "cast_id": 51,
+      "popularity": 1.2077,
+      "profile_path": "/vlh34wKdQdbpHuBr6Ai32h8dfQQ.jpg"
+    },
+    {
+      "personId": 1208035,
+      "name": "Bert Stevens",
+      "character": "Guest at Aborted Fashion Show",
+      "order": 15,
+      "cast_id": 52,
+      "popularity": 1.204,
+      "profile_path": "/nEIxsXjWCtGDKcECuKL8qsqwGcb.jpg"
+    },
+    {
+      "personId": 171111,
+      "name": "Harold Miller",
+      "character": "Guest at Aborted Fashion Show (uncredited)",
+      "order": 16,
+      "cast_id": 53,
+      "popularity": 0.88,
+      "profile_path": "/baYrpaujUdnO5aoQFHJrkLru7l0.jpg"
+    },
+    {
+      "personId": 975597,
+      "name": "Franklyn Farnum",
+      "character": "Guest at Duval's Fashion Show (uncredited)",
+      "order": 17,
+      "cast_id": 54,
+      "popularity": 0.7947,
+      "profile_path": "/273KbcYjCmFpDMUcFtNKf7hNTRV.jpg"
+    },
+    {
+      "personId": 1072437,
+      "name": "Brandon Beach",
+      "character": "Guest at Aborted Fashion Show",
+      "order": 18,
+      "cast_id": 58,
+      "popularity": 0.6516,
+      "profile_path": null
+    },
+    {
+      "personId": 95782,
+      "name": "Carole Eastman",
+      "character": "Specialty Dancer (uncredited)",
+      "order": 19,
+      "cast_id": 59,
+      "popularity": 0.5725,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 13284,
+      "name": "Stanley Donen",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6937,
+      "profile_path": "/hvRi8etQyf6Zfh7MRsRP0pBR9Om.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1691,
+      "name": "dance"
+    },
+    {
+      "id": 90,
+      "name": "paris, france"
+    },
+    {
+      "id": 1003,
+      "name": "photographer"
+    },
+    {
+      "id": 6258,
+      "name": "intellectual"
+    },
+    {
+      "id": 4344,
+      "name": "musical"
+    },
+    {
+      "id": 6553,
+      "name": "beatnik"
+    },
+    {
+      "id": 5756,
+      "name": "man woman relationship"
+    },
+    {
+      "id": 6805,
+      "name": "fashion photographer"
+    },
+    {
+      "id": 155851,
+      "name": "book store"
+    },
+    {
+      "id": 164889,
+      "name": "eiffel tower, paris"
+    },
+    {
+      "id": 167198,
+      "name": "fashion show"
+    },
+    {
+      "id": 176876,
+      "name": "fashion magazine"
+    },
+    {
+      "id": 228964,
+      "name": "high fashion"
+    },
+    {
+      "id": 275133,
+      "name": "fashion model"
+    },
+    {
+      "id": 299886,
+      "name": "fotógrafo"
+    },
+    {
+      "id": 316240,
+      "name": "women's fashion"
+    },
+    {
+      "id": 363700,
+      "name": "livraria"
+    },
+    {
+      "id": 363718,
+      "name": "revista"
+    }
+  ]
+}

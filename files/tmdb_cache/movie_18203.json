@@ -1,0 +1,283 @@
+{
+  "overview": "Primo and Secondo, two immigrant brothers, pin their hopes on a banquet honoring Louis Prima to save their struggling restaurant.",
+  "release_date": "1996-09-20",
+  "runtime": 109,
+  "budget": 4100000,
+  "revenue": 12000000,
+  "tmdb_vote_average": 6.94,
+  "tmdb_vote_count": 257,
+  "tmdb_popularity": 1.518,
+  "original_language": "en",
+  "poster_path": "/8AJGSDyrj3Dz2B57n1ZB4qNPbmJ.jpg",
+  "backdrop_path": "/79EyItsEl7pnIO0jFi5HDMhsiON.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 11661,
+      "name": "Rysher Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "it",
+      "name": "Italiano"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6613,
+      "name": "Minnie Driver",
+      "character": "Phyllis",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 7.7298,
+      "profile_path": "/OskQBuriLtKWNiCnLTHjMqV1ga.jpg"
+    },
+    {
+      "personId": 65,
+      "name": "Ian Holm",
+      "character": "Pascal",
+      "order": 1,
+      "cast_id": 9,
+      "popularity": 2.364,
+      "profile_path": "/cOJDgvgj4nMec6Inzj1H5nugTO5.jpg"
+    },
+    {
+      "personId": 6588,
+      "name": "Isabella Rossellini",
+      "character": "Gabriella",
+      "order": 2,
+      "cast_id": 7,
+      "popularity": 2.6635,
+      "profile_path": "/z0zojT6nwDxi35HMcXlVpBfuBAU.jpg"
+    },
+    {
+      "personId": 4252,
+      "name": "Tony Shalhoub",
+      "character": "Primo",
+      "order": 3,
+      "cast_id": 2,
+      "popularity": 2.505,
+      "profile_path": "/1zfBSuAmOr1xXjNg4WzFWPm5B0Z.jpg"
+    },
+    {
+      "personId": 2283,
+      "name": "Stanley Tucci",
+      "character": "Secondo",
+      "order": 4,
+      "cast_id": 1,
+      "popularity": 5.7697,
+      "profile_path": "/q4TanMDI5Rgsvw4SfyNbPBh4URr.jpg"
+    },
+    {
+      "personId": 1910,
+      "name": "Caroline Aaron",
+      "character": "Woman in Restaurant",
+      "order": 5,
+      "cast_id": 14,
+      "popularity": 1.9742,
+      "profile_path": "/7nnic1Dao3XoScrwX7Ac39N2BC1.jpg"
+    },
+    {
+      "personId": 47775,
+      "name": "Marc Anthony",
+      "character": "Cristiano",
+      "order": 6,
+      "cast_id": 3,
+      "popularity": 1.9236,
+      "profile_path": "/mOkqbV5iiusOLEOVPmepQcAGF8K.jpg"
+    },
+    {
+      "personId": 19,
+      "name": "Allison Janney",
+      "character": "Ann",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 4.0327,
+      "profile_path": "/hpBKWV1jjoXQbr1s0iUZTSvw582.jpg"
+    },
+    {
+      "personId": 77254,
+      "name": "Larry Block",
+      "character": "Man in Restaurant",
+      "order": 8,
+      "cast_id": 35,
+      "popularity": 0.8346,
+      "profile_path": "/4d1RGduVhFt3D2PpY5eN9NaqnnS.jpg"
+    },
+    {
+      "personId": 212651,
+      "name": "Andre Belgrader",
+      "character": "Stash",
+      "order": 9,
+      "cast_id": 36,
+      "popularity": 0.3421,
+      "profile_path": null
+    },
+    {
+      "personId": 19489,
+      "name": "Peter McRobbie",
+      "character": "Loan Officer",
+      "order": 10,
+      "cast_id": 37,
+      "popularity": 1.918,
+      "profile_path": "/dzqI3wITKVTrnFBxYGFswDxALjf.jpg"
+    },
+    {
+      "personId": 23626,
+      "name": "Liev Schreiber",
+      "character": "Leo",
+      "order": 11,
+      "cast_id": 8,
+      "popularity": 3.8333,
+      "profile_path": "/26G7QjSb5ZazgWb9XB2X6SwcILQ.jpg"
+    },
+    {
+      "personId": 7165,
+      "name": "Pasquale Cajano",
+      "character": "Alberto",
+      "order": 12,
+      "cast_id": 38,
+      "popularity": 0.5063,
+      "profile_path": "/yVVVGHe3FnXMBgNlmuA3tgF750u.jpg"
+    },
+    {
+      "personId": 126235,
+      "name": "Christine Tucci",
+      "character": "Woman Singer",
+      "order": 13,
+      "cast_id": 39,
+      "popularity": 1.0272,
+      "profile_path": "/m6sB1LuCKit4y2TtFjSNsdFv2gs.jpg"
+    },
+    {
+      "personId": 21382,
+      "name": "Gene Canfield",
+      "character": "Charlie",
+      "order": 14,
+      "cast_id": 42,
+      "popularity": 0.8954,
+      "profile_path": "/luiINXn3z8m8ABxaqdTSJd8q4vm.jpg"
+    },
+    {
+      "personId": 4454861,
+      "name": "Tina Bruno",
+      "character": "Ida",
+      "order": 15,
+      "cast_id": 59,
+      "popularity": 0.0532,
+      "profile_path": null
+    },
+    {
+      "personId": 1005,
+      "name": "Peter Appel",
+      "character": "Chubby",
+      "order": 16,
+      "cast_id": 43,
+      "popularity": 1.3302,
+      "profile_path": "/AvOZjWVwklfJHNHD2AwLmYRhSXw.jpg"
+    },
+    {
+      "personId": 1186003,
+      "name": "Jack O'Connell",
+      "character": "Man on Truck",
+      "order": 17,
+      "cast_id": 44,
+      "popularity": 1.003,
+      "profile_path": "/icyChFtrQ1TrXfk73ewLqPiKNRX.jpg"
+    },
+    {
+      "personId": 55152,
+      "name": "Campbell Scott",
+      "character": "Bob",
+      "order": 18,
+      "cast_id": 40,
+      "popularity": 2.8641,
+      "profile_path": "/lJCxZpQru76zBeuZGxc0Gm5Pm9y.jpg"
+    },
+    {
+      "personId": 1217603,
+      "name": "Karen Shallo",
+      "character": "Chubby's Wife",
+      "order": 19,
+      "cast_id": 60,
+      "popularity": 1.3543,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 55152,
+      "name": "Campbell Scott",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.8641,
+      "profile_path": "/lJCxZpQru76zBeuZGxc0Gm5Pm9y.jpg"
+    },
+    {
+      "personId": 2283,
+      "name": "Stanley Tucci",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 5.7697,
+      "profile_path": "/q4TanMDI5Rgsvw4SfyNbPBh4URr.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2356,
+      "name": "immigrant"
+    },
+    {
+      "id": 586,
+      "name": "new jersey"
+    },
+    {
+      "id": 1416,
+      "name": "jazz"
+    },
+    {
+      "id": 1946,
+      "name": "restaurant"
+    },
+    {
+      "id": 10637,
+      "name": "food"
+    },
+    {
+      "id": 10729,
+      "name": "car salesman"
+    },
+    {
+      "id": 14836,
+      "name": "italian restaurant"
+    },
+    {
+      "id": 34068,
+      "name": "feast"
+    },
+    {
+      "id": 208611,
+      "name": "1950s"
+    },
+    {
+      "id": 272849,
+      "name": "italian cuisine"
+    }
+  ]
+}

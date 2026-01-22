@@ -1,0 +1,319 @@
+{
+  "overview": "The brief life of Jean Michel Basquiat, a world renowned New York street artist struggling with fame, drugs and his identity.",
+  "release_date": "1996-08-09",
+  "runtime": 107,
+  "budget": 3300000,
+  "revenue": 3022292,
+  "tmdb_vote_average": 6.62,
+  "tmdb_vote_count": 303,
+  "tmdb_popularity": 1.2149,
+  "original_language": "en",
+  "poster_path": "/gFfVhN8BbgHhMb3ZNQRAH5xc7kq.jpg",
+  "backdrop_path": "/h7vBO0meGzjW3yu0Gejx5hI09I9.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    {
+      "id": 93380,
+      "name": "Eleventh Street Production",
+      "origin_country": ""
+    },
+    {
+      "id": 93381,
+      "name": "Jon Kilik Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2954,
+      "name": "Jeffrey Wright",
+      "character": "Jean Michel Basquiat",
+      "order": 0,
+      "cast_id": 6,
+      "popularity": 4.5715,
+      "profile_path": "/yGcuHGW4glqRpOPxgiCvjcren7F.jpg"
+    },
+    {
+      "personId": 7486,
+      "name": "Michael Wincott",
+      "character": "Rene Ricard",
+      "order": 1,
+      "cast_id": 7,
+      "popularity": 2.4342,
+      "profile_path": "/z6FtWACKaIivi0khxM6vEHoUH0.jpg"
+    },
+    {
+      "personId": 1121,
+      "name": "Benicio del Toro",
+      "character": "Benny Dalmau",
+      "order": 2,
+      "cast_id": 8,
+      "popularity": 5.8805,
+      "profile_path": "/cVh4UgCMu6aAkZ2BqymTLV86FzZ.jpg"
+    },
+    {
+      "personId": 4174,
+      "name": "Claire Forlani",
+      "character": "Gina Cardinale",
+      "order": 3,
+      "cast_id": 9,
+      "popularity": 5.4973,
+      "profile_path": "/4xy9tARkNN3nAnDhHvMSeEt18mz.jpg"
+    },
+    {
+      "personId": 7487,
+      "name": "David Bowie",
+      "character": "Andy Warhol",
+      "order": 4,
+      "cast_id": 10,
+      "popularity": 2.1282,
+      "profile_path": "/7OIa363iSLG43x9Sb9HojUANwbh.jpg"
+    },
+    {
+      "personId": 2778,
+      "name": "Dennis Hopper",
+      "character": "Bruno Bischofberger",
+      "order": 5,
+      "cast_id": 11,
+      "popularity": 2.9959,
+      "profile_path": "/kqyNvLHi5RZGZcZMxl7e6XvoB5U.jpg"
+    },
+    {
+      "personId": 64,
+      "name": "Gary Oldman",
+      "character": "Albert Milo",
+      "order": 6,
+      "cast_id": 12,
+      "popularity": 5.2774,
+      "profile_path": "/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg"
+    },
+    {
+      "personId": 4690,
+      "name": "Christopher Walken",
+      "character": "The Interviewer",
+      "order": 7,
+      "cast_id": 13,
+      "popularity": 4.2022,
+      "profile_path": "/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+    },
+    {
+      "personId": 5293,
+      "name": "Willem Dafoe",
+      "character": "The Electrician",
+      "order": 8,
+      "cast_id": 14,
+      "popularity": 6.0192,
+      "profile_path": "/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+    },
+    {
+      "personId": 7488,
+      "name": "Jean-Claude La Marre",
+      "character": "Shenge",
+      "order": 9,
+      "cast_id": 15,
+      "popularity": 0.7897,
+      "profile_path": "/sMeXsS8U2ljL9axZCXxMm1BrF3u.jpg"
+    },
+    {
+      "personId": 7489,
+      "name": "Parker Posey",
+      "character": "Mary Boone",
+      "order": 10,
+      "cast_id": 16,
+      "popularity": 3.3399,
+      "profile_path": "/yoFt75JfGUqQ6EV8qN6fckQuElk.jpg"
+    },
+    {
+      "personId": 17257,
+      "name": "Elina Löwensohn",
+      "character": "Annina Nosei",
+      "order": 11,
+      "cast_id": 48,
+      "popularity": 0.8987,
+      "profile_path": "/pRFLUsONKzg0hnl2CLnNBE4AJZ1.jpg"
+    },
+    {
+      "personId": 101377,
+      "name": "Paul Bartel",
+      "character": "Henry Geldzahler",
+      "order": 12,
+      "cast_id": 49,
+      "popularity": 0.7332,
+      "profile_path": "/qBs4BQ80N3QsQKfUApEeKcFoRap.jpg"
+    },
+    {
+      "personId": 7621,
+      "name": "Courtney Love",
+      "character": "Big Pink",
+      "order": 13,
+      "cast_id": 27,
+      "popularity": 1.6063,
+      "profile_path": "/xOhKd9y4IdsUVecAVz0AR5Ye7yQ.jpg"
+    },
+    {
+      "personId": 68890,
+      "name": "Tatum O'Neal",
+      "character": "Cynthia Kruger",
+      "order": 14,
+      "cast_id": 31,
+      "popularity": 1.3864,
+      "profile_path": "/wGFUPiHMHIEegtNumeDlBDCFcsG.jpg"
+    },
+    {
+      "personId": 118757,
+      "name": "Chuck Pfeiffer",
+      "character": "Tom Kruger",
+      "order": 15,
+      "cast_id": 58,
+      "popularity": 1.6334,
+      "profile_path": "/7Mj0D03nFlR5a87Rg18ppiTUmzQ.jpg"
+    },
+    {
+      "personId": 6401,
+      "name": "Rockets Redglare",
+      "character": "Rockets",
+      "order": 16,
+      "cast_id": 29,
+      "popularity": 0.6159,
+      "profile_path": "/2B40xLjGMsxTY5dHxpiCmBZhni3.jpg"
+    },
+    {
+      "personId": 4647527,
+      "name": "Esther G. Schnabel",
+      "character": "Esther Milo",
+      "order": 17,
+      "cast_id": 59,
+      "popularity": 0.0534,
+      "profile_path": null
+    },
+    {
+      "personId": 4647528,
+      "name": "Jack Schnabel",
+      "character": "Jack Milo",
+      "order": 18,
+      "cast_id": 60,
+      "popularity": 0.0517,
+      "profile_path": null
+    },
+    {
+      "personId": 1444777,
+      "name": "Lola Schnabel",
+      "character": "Jacqueline Milo",
+      "order": 19,
+      "cast_id": 61,
+      "popularity": 0.0988,
+      "profile_path": "/dkPUPOgEu2DBQ3bVUK9BpBxffCu.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 7482,
+      "name": "Julian Schnabel",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.4198,
+      "profile_path": "/pg4vhqMaVNlXtor4kHGPc8P68Zb.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 6054,
+      "name": "friendship"
+    },
+    {
+      "id": 1605,
+      "name": "new love"
+    },
+    {
+      "id": 960,
+      "name": "homeless person"
+    },
+    {
+      "id": 726,
+      "name": "drug abuse"
+    },
+    {
+      "id": 2818,
+      "name": "vernissage"
+    },
+    {
+      "id": 1803,
+      "name": "drug addiction"
+    },
+    {
+      "id": 2635,
+      "name": "overdose"
+    },
+    {
+      "id": 2679,
+      "name": "artist"
+    },
+    {
+      "id": 2815,
+      "name": "graffiti"
+    },
+    {
+      "id": 2816,
+      "name": "street art"
+    },
+    {
+      "id": 2819,
+      "name": "exhibit"
+    },
+    {
+      "id": 5565,
+      "name": "biography"
+    },
+    {
+      "id": 8406,
+      "name": "street artist"
+    },
+    {
+      "id": 14964,
+      "name": "drugs"
+    },
+    {
+      "id": 33648,
+      "name": "celebration"
+    },
+    {
+      "id": 156306,
+      "name": "price of fame"
+    },
+    {
+      "id": 196135,
+      "name": "eccentric artist"
+    },
+    {
+      "id": 208289,
+      "name": "1980s"
+    },
+    {
+      "id": 303954,
+      "name": "art documentary"
+    }
+  ]
+}

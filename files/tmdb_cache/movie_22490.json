@@ -1,0 +1,302 @@
+{
+  "overview": "A happily married woman lets her catty friends talk her into divorce when her husband strays.",
+  "release_date": "1939-09-01",
+  "runtime": 133,
+  "budget": 1688000,
+  "revenue": 2270000,
+  "tmdb_vote_average": 7.071,
+  "tmdb_vote_count": 169,
+  "tmdb_popularity": 3.108,
+  "original_language": "en",
+  "poster_path": "/wMTbDI60uvt7ecLZ301XEE8mAOo.jpg",
+  "backdrop_path": "/v7d5LDcIhNn9j3wWeSWp1mesgBe.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 88867,
+      "name": "Norma Shearer",
+      "character": "Mary Haines",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 0.6901,
+      "profile_path": "/y9UuVsv4Wif8tqOdrLxSOfLNyW5.jpg"
+    },
+    {
+      "personId": 31550,
+      "name": "Joan Crawford",
+      "character": "Crystal Allen",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.5321,
+      "profile_path": "/jqMBHLMcVzDca32yk6CltjY1b2F.jpg"
+    },
+    {
+      "personId": 30233,
+      "name": "Rosalind Russell",
+      "character": "Sylvia Fowler",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.2426,
+      "profile_path": "/rM7cjXZv9ikJ3QOOqK2muzMhHsE.jpg"
+    },
+    {
+      "personId": 88870,
+      "name": "Mary Boland",
+      "character": "The Countess De Lave",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.2354,
+      "profile_path": "/7eB9G2LeQGzocsCNQc6jIsTw9XH.jpg"
+    },
+    {
+      "personId": 14027,
+      "name": "Paulette Goddard",
+      "character": "Miriam Aarons",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.1122,
+      "profile_path": "/7fMtXuVbJMbsFB4U3CsgDdivizP.jpg"
+    },
+    {
+      "personId": 3360,
+      "name": "Joan Fontaine",
+      "character": "Peggy Day",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 0.9452,
+      "profile_path": "/y5Hl4TyipNN7463zZpPq5KFB3aM.jpg"
+    },
+    {
+      "personId": 83260,
+      "name": "Lucile Watson",
+      "character": "Mrs. Morehead",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 0.575,
+      "profile_path": "/wNBcS1nGUNvKta1jHrnoSdxDUUZ.jpg"
+    },
+    {
+      "personId": 88871,
+      "name": "Phyllis Povah",
+      "character": "Edith Potter",
+      "order": 7,
+      "cast_id": 6,
+      "popularity": 0.3231,
+      "profile_path": "/e8ohJaTjUBTm4MUgbxJ6OgfGKl2.jpg"
+    },
+    {
+      "personId": 14689,
+      "name": "Virginia Weidler",
+      "character": "Little Mary",
+      "order": 8,
+      "cast_id": 8,
+      "popularity": 0.8943,
+      "profile_path": "/w5qTSGFl3UBZnL2hs0N0pmydXEb.jpg"
+    },
+    {
+      "personId": 13996,
+      "name": "Marjorie Main",
+      "character": "Lucy",
+      "order": 9,
+      "cast_id": 10,
+      "popularity": 0.5632,
+      "profile_path": "/t6sY3EiBVYMcboUImwYlkQ7pMEk.jpg"
+    },
+    {
+      "personId": 19967,
+      "name": "Virginia Grey",
+      "character": "Pat",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 0.7044,
+      "profile_path": "/ftyCI3XPJoGS75m3DFXOgOpw58z.jpg"
+    },
+    {
+      "personId": 14683,
+      "name": "Ruth Hussey",
+      "character": "Miss Wattson",
+      "order": 11,
+      "cast_id": 16,
+      "popularity": 0.9781,
+      "profile_path": "/dycKG8ajqQ1IPhzUJR10khvkd9Y.jpg"
+    },
+    {
+      "personId": 149107,
+      "name": "Muriel Hutchison",
+      "character": "Jane",
+      "order": 12,
+      "cast_id": 17,
+      "popularity": 0.219,
+      "profile_path": "/b2nzpTqyGqjVrmleqiRVwzMHclv.jpg"
+    },
+    {
+      "personId": 8637,
+      "name": "Hedda Hopper",
+      "character": "Dolly Dupuyster",
+      "order": 13,
+      "cast_id": 18,
+      "popularity": 0.6861,
+      "profile_path": "/kfXPY1cSrOmjJ3TYrGF4giT6EPI.jpg"
+    },
+    {
+      "personId": 991385,
+      "name": "Florence Nash",
+      "character": "Nancy Blake",
+      "order": 14,
+      "cast_id": 19,
+      "popularity": 0.4372,
+      "profile_path": "/swNSN4fpzVARy4A7uBAESxYoQjz.jpg"
+    },
+    {
+      "personId": 13962,
+      "name": "Cora Witherspoon",
+      "character": "Mrs. Van Adams",
+      "order": 15,
+      "cast_id": 20,
+      "popularity": 0.326,
+      "profile_path": "/dptHFjTA3CDg7d4cpjXqvkthm3S.jpg"
+    },
+    {
+      "personId": 231216,
+      "name": "Ann Morriss",
+      "character": "Exercise Instructress",
+      "order": 16,
+      "cast_id": 23,
+      "popularity": 0.4071,
+      "profile_path": "/gSR0I0m2Y37XVgXNC9hW31oC3eg.jpg"
+    },
+    {
+      "personId": 223052,
+      "name": "Dennie Moore",
+      "character": "Olga",
+      "order": 17,
+      "cast_id": 21,
+      "popularity": 0.2957,
+      "profile_path": "/mWJdf7WNtJN3l0ZJeD3IyI0EnCo.jpg"
+    },
+    {
+      "personId": 991145,
+      "name": "Mary Cecil",
+      "character": "Maggie",
+      "order": 18,
+      "cast_id": 27,
+      "popularity": 0.1109,
+      "profile_path": null
+    },
+    {
+      "personId": 14655,
+      "name": "Mary Beth Hughes",
+      "character": "Miss Trimmerback",
+      "order": 19,
+      "cast_id": 22,
+      "popularity": 0.6636,
+      "profile_path": "/25Hi4J133OcCfrBkrlnZVZDAvGJ.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 14674,
+      "name": "George Cukor",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.9434,
+      "profile_path": "/w7I9Af9fpL7nywdZiOogH0gBoZ2.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1326,
+      "name": "infidelity"
+    },
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 970,
+      "name": "parent child relationship"
+    },
+    {
+      "id": 1197,
+      "name": "nevada"
+    },
+    {
+      "id": 5876,
+      "name": "reno, nevada"
+    },
+    {
+      "id": 5248,
+      "name": "female friendship"
+    },
+    {
+      "id": 10181,
+      "name": "based on play or musical"
+    },
+    {
+      "id": 9749,
+      "name": "beauty salon"
+    },
+    {
+      "id": 12999,
+      "name": "black and white"
+    },
+    {
+      "id": 14558,
+      "name": "bathtub"
+    },
+    {
+      "id": 15160,
+      "name": "divorce"
+    },
+    {
+      "id": 18453,
+      "name": "gossip"
+    },
+    {
+      "id": 157286,
+      "name": "gold digger"
+    },
+    {
+      "id": 160845,
+      "name": "dressing room"
+    },
+    {
+      "id": 167198,
+      "name": "fashion show"
+    },
+    {
+      "id": 209064,
+      "name": "columnist"
+    },
+    {
+      "id": 240315,
+      "name": "mother daughter relationship"
+    }
+  ]
+}

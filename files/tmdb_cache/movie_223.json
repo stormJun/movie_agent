@@ -1,0 +1,311 @@
+{
+  "overview": "Story of a young woman who marries a fascinating widower only to find out that she must live in the shadow of his former wife, Rebecca, who died mysteriously several years earlier. The young wife must come to grips with the terrible secret of her handsome, cold husband, Max De Winter. She must also deal with the jealous, obsessed Mrs. Danvers, the housekeeper, who will not accept her as the mistress of the house.",
+  "release_date": "1940-03-23",
+  "runtime": 130,
+  "budget": 1288000,
+  "revenue": 7592465,
+  "tmdb_vote_average": 7.895,
+  "tmdb_vote_count": 1911,
+  "tmdb_popularity": 2.803,
+  "original_language": "en",
+  "poster_path": "/1qz3qUOHnVy7dL7M7G8jSErxE4b.jpg",
+  "backdrop_path": "/i8fiqKaQklF02VmQYhSxmwa8KOH.jpg",
+  "tmdb_genres_raw": [
+    "Mystery",
+    "Romance",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 1553,
+      "name": "Selznick International Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3359,
+      "name": "Laurence Olivier",
+      "character": "Maxim de Winter",
+      "order": 0,
+      "cast_id": 10,
+      "popularity": 2.3457,
+      "profile_path": "/kziWbtgEJB0dFZA6kPyzoaYEyQ5.jpg"
+    },
+    {
+      "personId": 3360,
+      "name": "Joan Fontaine",
+      "character": "Mrs. de Winter",
+      "order": 1,
+      "cast_id": 11,
+      "popularity": 0.9304,
+      "profile_path": "/y5Hl4TyipNN7463zZpPq5KFB3aM.jpg"
+    },
+    {
+      "personId": 3361,
+      "name": "George Sanders",
+      "character": "Jack Favell",
+      "order": 2,
+      "cast_id": 12,
+      "popularity": 1.8071,
+      "profile_path": "/5tzdY4lCnfbLZU8Wblp5xfjn10B.jpg"
+    },
+    {
+      "personId": 3362,
+      "name": "Judith Anderson",
+      "character": "Mrs. Danvers",
+      "order": 3,
+      "cast_id": 13,
+      "popularity": 1.2784,
+      "profile_path": "/33Ree0GhYJoxQuh1vAjyGsoKiS4.jpg"
+    },
+    {
+      "personId": 3363,
+      "name": "Nigel Bruce",
+      "character": "Major Giles Lacy",
+      "order": 4,
+      "cast_id": 14,
+      "popularity": 0.7885,
+      "profile_path": "/bJPnCDgMQmEx6Ti1NFtz6Uhaupf.jpg"
+    },
+    {
+      "personId": 3364,
+      "name": "Reginald Denny",
+      "character": "Frank Crawley",
+      "order": 5,
+      "cast_id": 15,
+      "popularity": 0.5547,
+      "profile_path": "/wbR5zRDwZpDqDwuoW5hSQbIptHW.jpg"
+    },
+    {
+      "personId": 2438,
+      "name": "C. Aubrey Smith",
+      "character": "Colonel Julyan",
+      "order": 6,
+      "cast_id": 30,
+      "popularity": 0.7979,
+      "profile_path": "/bmkvivg9TJJhbc2ZxQ1xJfq0mWt.jpg"
+    },
+    {
+      "personId": 3366,
+      "name": "Gladys Cooper",
+      "character": "Beatrice Lacy",
+      "order": 7,
+      "cast_id": 17,
+      "popularity": 0.8497,
+      "profile_path": "/eREC6ZGIxWcoeZC8b94O7gsFMs4.jpg"
+    },
+    {
+      "personId": 3367,
+      "name": "Florence Bates",
+      "character": "Edythe Van Hopper",
+      "order": 8,
+      "cast_id": 18,
+      "popularity": 0.6625,
+      "profile_path": "/uAqYoWW4xICzyMXbpvpMivvmXCH.jpg"
+    },
+    {
+      "personId": 8730,
+      "name": "Melville Cooper",
+      "character": "Coroner",
+      "order": 9,
+      "cast_id": 36,
+      "popularity": 1.1319,
+      "profile_path": "/qtrkqGRWA1kmud8NG3W44cpjIHc.jpg"
+    },
+    {
+      "personId": 2642,
+      "name": "Leo G. Carroll",
+      "character": "Dr. Baker",
+      "order": 10,
+      "cast_id": 19,
+      "popularity": 1.7108,
+      "profile_path": "/56ND35pQZetw5xpagHDKFZjMeuE.jpg"
+    },
+    {
+      "personId": 3368,
+      "name": "Leonard Carey",
+      "character": "Ben",
+      "order": 11,
+      "cast_id": 20,
+      "popularity": 0.7937,
+      "profile_path": "/rXoN81uP5UqGN1SSbGLAYjX5khL.jpg"
+    },
+    {
+      "personId": 3369,
+      "name": "Lumsden Hare",
+      "character": "Tabbs",
+      "order": 12,
+      "cast_id": 21,
+      "popularity": 0.7575,
+      "profile_path": "/xV6xxgFGmnRokzAp4ssjhQPWRg2.jpg"
+    },
+    {
+      "personId": 3370,
+      "name": "Edward Fielding",
+      "character": "Frith",
+      "order": 13,
+      "cast_id": 22,
+      "popularity": 1.3039,
+      "profile_path": "/lJdX8eSZwudkgXXtSaUTYxC7GAI.jpg"
+    },
+    {
+      "personId": 3372,
+      "name": "Philip Winter",
+      "character": "Robert",
+      "order": 14,
+      "cast_id": 24,
+      "popularity": 0.145,
+      "profile_path": null
+    },
+    {
+      "personId": 3371,
+      "name": "Forrester Harvey",
+      "character": "Chalcroft",
+      "order": 15,
+      "cast_id": 23,
+      "popularity": 0.3804,
+      "profile_path": "/vzYmee31j2aozcodvLf4BzViRUh.jpg"
+    },
+    {
+      "personId": 149116,
+      "name": "Bunny Beatty",
+      "character": "Maid (uncredited)",
+      "order": 16,
+      "cast_id": 66,
+      "popularity": 1.3736,
+      "profile_path": "/4Z4LH0qGuIxeZP7hi5UA0GWstgT.jpg"
+    },
+    {
+      "personId": 100763,
+      "name": "Billy Bevan",
+      "character": "Policeman (uncredited)",
+      "order": 17,
+      "cast_id": 34,
+      "popularity": 0.8236,
+      "profile_path": "/5yAbj9GLj7RfcMEFo3A20eOAIGU.jpg"
+    },
+    {
+      "personId": 89727,
+      "name": "Egon Brecher",
+      "character": "Hotel Desk Clerk (uncredited)",
+      "order": 18,
+      "cast_id": 37,
+      "popularity": 0.557,
+      "profile_path": "/sNEB6hOJxTUuooPE3YdrKqVQ0C5.jpg"
+    },
+    {
+      "personId": 9096,
+      "name": "Gino Corrado",
+      "character": "Manager of Princesse Hotel (uncredited)",
+      "order": 19,
+      "cast_id": 35,
+      "popularity": 0.8038,
+      "profile_path": "/f4FxGEcWMoRcBbArEvYCxy7QSk7.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2636,
+      "name": "Alfred Hitchcock",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 3.5845,
+      "profile_path": "/108fiNM6poRieMg7RIqLJRxdAwG.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 965,
+      "name": "age difference"
+    },
+    {
+      "id": 1523,
+      "name": "obsession"
+    },
+    {
+      "id": 660,
+      "name": "monte carlo"
+    },
+    {
+      "id": 3582,
+      "name": "bride"
+    },
+    {
+      "id": 8079,
+      "name": "cornwall, england"
+    },
+    {
+      "id": 9673,
+      "name": "love"
+    },
+    {
+      "id": 9807,
+      "name": "film noir"
+    },
+    {
+      "id": 11004,
+      "name": "rural area"
+    },
+    {
+      "id": 12999,
+      "name": "black and white"
+    },
+    {
+      "id": 14769,
+      "name": "devotion"
+    },
+    {
+      "id": 17997,
+      "name": "housekeeper"
+    },
+    {
+      "id": 33505,
+      "name": "gothic"
+    },
+    {
+      "id": 34079,
+      "name": "death"
+    },
+    {
+      "id": 155881,
+      "name": "estate"
+    },
+    {
+      "id": 188990,
+      "name": "costume party"
+    },
+    {
+      "id": 211197,
+      "name": "mysterious death"
+    },
+    {
+      "id": 281649,
+      "name": "gothic thriller"
+    },
+    {
+      "id": 282667,
+      "name": "age-gap relationship"
+    }
+  ]
+}

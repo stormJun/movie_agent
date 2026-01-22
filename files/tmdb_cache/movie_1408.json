@@ -1,0 +1,349 @@
+{
+  "overview": "Morgan Adams and her slave, William Shaw, are on a quest to recover the three portions of a treasure map. Unfortunately, the final portion is held by her murderous uncle, Dawg. Her crew is skeptical of her leadership abilities, so she must complete her quest before they mutiny against her. This is made yet more difficult by the efforts of the British crown to end her pirate raids.",
+  "release_date": "1995-12-22",
+  "runtime": 124,
+  "budget": 102000000,
+  "revenue": 16000000,
+  "tmdb_vote_average": 5.782,
+  "tmdb_vote_count": 598,
+  "tmdb_popularity": 2.3548,
+  "original_language": "en",
+  "poster_path": "/hYdeBZ4BFXivdouxLfQGWNE6zRx.jpg",
+  "backdrop_path": "/ndjMBg9FINJBEi1RaP64oLApR1s.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Adventure"
+  ],
+  "production_companies": [
+    {
+      "id": 275,
+      "name": "Carolco Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 2980,
+      "name": "Forge",
+      "origin_country": "US"
+    },
+    {
+      "id": 415,
+      "name": "Laurence Mark Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 178024,
+      "name": "Beckner/Gorman Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 183,
+      "name": "Le Studio Canal+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 178026,
+      "name": "Tele-Communications",
+      "origin_country": "DE"
+    },
+    {
+      "id": 23246,
+      "name": "RCS Video",
+      "origin_country": "IT"
+    },
+    {
+      "id": 178025,
+      "name": "Cutthroat Productions L.P.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "la",
+      "name": "Latin"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16935,
+      "name": "Geena Davis",
+      "character": "Morgan Adams",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.0877,
+      "profile_path": "/bx9ufx5cS7FfHDFFeT71syBh428.jpg"
+    },
+    {
+      "personId": 8654,
+      "name": "Matthew Modine",
+      "character": "William Shaw",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 5.9191,
+      "profile_path": "/z974QEHL12qUvLyk6hlWGAmDgom.jpg"
+    },
+    {
+      "personId": 8924,
+      "name": "Frank Langella",
+      "character": "Dawg",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.9835,
+      "profile_path": "/86DEo3sBguyc1l46606yVKD28T4.jpg"
+    },
+    {
+      "personId": 7868,
+      "name": "Maury Chaykin",
+      "character": "John Reed",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.8672,
+      "profile_path": "/Aqmsu1UHo40Md4RlLGfotSt8Lrr.jpg"
+    },
+    {
+      "personId": 8979,
+      "name": "Patrick Malahide",
+      "character": "Ainslee",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.6288,
+      "profile_path": "/ae0AJ8FbJireYPQyglIxNucjqIy.jpg"
+    },
+    {
+      "personId": 16936,
+      "name": "Stan Shaw",
+      "character": "Glasspoole",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 2.0172,
+      "profile_path": "/gq8VmKHlSZuBKBdwXFP48rIY4WR.jpg"
+    },
+    {
+      "personId": 16937,
+      "name": "Rex Linn",
+      "character": "Mr. Blair",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 3.1417,
+      "profile_path": "/dY8x6OrmS0dBdogxeF2QALrCvpI.jpg"
+    },
+    {
+      "personId": 13925,
+      "name": "Paul Dillon",
+      "character": "Snelgrave",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 0.8084,
+      "profile_path": "/eadglYBBzdsVMp2hxnfopdnDNFP.jpg"
+    },
+    {
+      "personId": 35769,
+      "name": "Christopher Masterson",
+      "character": "Bowen",
+      "order": 8,
+      "cast_id": 26,
+      "popularity": 1.9228,
+      "profile_path": "/hOq2XG7QNtYphFcokFpJNPv4k4q.jpg"
+    },
+    {
+      "personId": 133771,
+      "name": "Jimmie F. Skaggs",
+      "character": "Scully",
+      "order": 9,
+      "cast_id": 27,
+      "popularity": 1.0086,
+      "profile_path": "/5XvRkiACcVb0D7NYcrFbHvfM0Nl.jpg"
+    },
+    {
+      "personId": 1166,
+      "name": "Harris Yulin",
+      "character": "Black Harry",
+      "order": 10,
+      "cast_id": 28,
+      "popularity": 1.9398,
+      "profile_path": "/3W758yxhdphzblpgDz4wKgLCriB.jpg"
+    },
+    {
+      "personId": 127166,
+      "name": "Carl Chase",
+      "character": "Bishop",
+      "order": 11,
+      "cast_id": 29,
+      "popularity": 1.789,
+      "profile_path": "/aIGqwYzkq2pwTE4J4HzW2fse1so.jpg"
+    },
+    {
+      "personId": 1220350,
+      "name": "Peter Geeves",
+      "character": "Fiddler Pirate",
+      "order": 12,
+      "cast_id": 30,
+      "popularity": 0.3621,
+      "profile_path": null
+    },
+    {
+      "personId": 933640,
+      "name": "Angus Wright",
+      "character": "Captain Trotter",
+      "order": 13,
+      "cast_id": 31,
+      "popularity": 1.1568,
+      "profile_path": "/7VOW55b8WF0eyFJiCjiBXSRA5mG.jpg"
+    },
+    {
+      "personId": 91662,
+      "name": "Ken Bones",
+      "character": "Toussant",
+      "order": 14,
+      "cast_id": 32,
+      "popularity": 1.1174,
+      "profile_path": "/y95GD9NyaO5bKVlQohXaOwmbkd5.jpg"
+    },
+    {
+      "personId": 3104489,
+      "name": "Mary Pegler",
+      "character": "Mandy Rickets",
+      "order": 15,
+      "cast_id": 64,
+      "popularity": 0.3193,
+      "profile_path": null
+    },
+    {
+      "personId": 31294,
+      "name": "Mary Peach",
+      "character": "Lady",
+      "order": 16,
+      "cast_id": 33,
+      "popularity": 0.512,
+      "profile_path": "/gZ6479ST2s2NZ1Sw4LQEbHykoPX.jpg"
+    },
+    {
+      "personId": 3104490,
+      "name": "Lucinda Aurel",
+      "character": "Lady",
+      "order": 17,
+      "cast_id": 65,
+      "popularity": 0.0946,
+      "profile_path": null
+    },
+    {
+      "personId": 17202,
+      "name": "Thomas Lockyer",
+      "character": "Lieutenant",
+      "order": 18,
+      "cast_id": 34,
+      "popularity": 1.81,
+      "profile_path": "/wArFs4Xa3gMjINQurV13jmUYuH8.jpg"
+    },
+    {
+      "personId": 1649736,
+      "name": "Roger Booth",
+      "character": "Auctioneer",
+      "order": 19,
+      "cast_id": 35,
+      "popularity": 0.3941,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 16938,
+      "name": "Renny Harlin",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.6079,
+      "profile_path": "/IhXiDrZBrsLZpB5K5BmzUGkp4G.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3799,
+      "name": "ship"
+    },
+    {
+      "id": 1454,
+      "name": "treasure"
+    },
+    {
+      "id": 911,
+      "name": "exotic island"
+    },
+    {
+      "id": 2041,
+      "name": "island"
+    },
+    {
+      "id": 1969,
+      "name": "map"
+    },
+    {
+      "id": 5470,
+      "name": "scalp"
+    },
+    {
+      "id": 11088,
+      "name": "treasure map"
+    },
+    {
+      "id": 9725,
+      "name": "sword fight"
+    },
+    {
+      "id": 10085,
+      "name": "betrayal"
+    },
+    {
+      "id": 12988,
+      "name": "pirate"
+    },
+    {
+      "id": 156525,
+      "name": "heroine"
+    },
+    {
+      "id": 157186,
+      "name": "swashbuckler"
+    },
+    {
+      "id": 175428,
+      "name": "adventurer"
+    },
+    {
+      "id": 185200,
+      "name": "pirate ship"
+    },
+    {
+      "id": 207941,
+      "name": "17th century"
+    }
+  ]
+}

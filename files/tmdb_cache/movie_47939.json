@@ -1,0 +1,256 @@
+{
+  "overview": "While Jane Holman is driving with her two sons, she accidentally runs into a drifter, Jack McCloud, who breaks his leg. Being responsible, Jane invites Jack, and his dog, to stay at her home until his leg has healed. Jack struggles to adapt their lifestyle, and finds himself loved by the family.",
+  "release_date": "1995-10-27",
+  "runtime": 115,
+  "budget": 10000000,
+  "revenue": 7027000,
+  "tmdb_vote_average": 6.229,
+  "tmdb_vote_count": 83,
+  "tmdb_popularity": 1.3832,
+  "original_language": "en",
+  "poster_path": "/qY1Mz8bPGKYmrb4kY1zm7s4480V.jpg",
+  "backdrop_path": "/BuOA7HsDQmWLuvoTh7gCazSgCo.jpg",
+  "tmdb_genres_raw": [
+    "Fantasy",
+    "Family",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 11308,
+      "name": "Savoy Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 11661,
+      "name": "Rysher Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 723,
+      "name": "Patrick Swayze",
+      "character": "Jack McCloud",
+      "order": 0,
+      "cast_id": 5,
+      "popularity": 2.9005,
+      "profile_path": "/ys8dRhQRsS0nLPTXXEHyuFhXCYO.jpg"
+    },
+    {
+      "personId": 1161,
+      "name": "Mary Elizabeth Mastrantonio",
+      "character": "Jeanne Holman",
+      "order": 1,
+      "cast_id": 6,
+      "popularity": 2.7503,
+      "profile_path": "/vbZ1E557K5oj34xLHR5ErO8wPCi.jpg"
+    },
+    {
+      "personId": 4787,
+      "name": "Joseph Mazzello",
+      "character": "Tom Holman",
+      "order": 2,
+      "cast_id": 7,
+      "popularity": 1.9612,
+      "profile_path": "/44gsv7TlXOOKDGg5aRtqxZjM9ae.jpg"
+    },
+    {
+      "personId": 1542806,
+      "name": "Seth Mumy",
+      "character": "Gunny",
+      "order": 3,
+      "cast_id": 39,
+      "popularity": 0.4988,
+      "profile_path": null
+    },
+    {
+      "personId": 24535,
+      "name": "David Marshall Grant",
+      "character": "Phil",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 0.6952,
+      "profile_path": "/81E0yZVUrojvq10qKRdSvNkq9up.jpg"
+    },
+    {
+      "personId": 6067,
+      "name": "Jay O. Sanders",
+      "character": "Coach Schramka",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 2.4474,
+      "profile_path": "/z8btmLryEZlLkBah2XhZFydmty4.jpg"
+    },
+    {
+      "personId": 38085,
+      "name": "Michael O'Keefe",
+      "character": "Adult Tom",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 3.0782,
+      "profile_path": "/wQsTL887RWvAJljzLhiPP52kjec.jpg"
+    },
+    {
+      "personId": 4942,
+      "name": "John Diehl",
+      "character": "Leland's Dad",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 2.2334,
+      "profile_path": "/fSaOexgc31Xmp4koMu0HvlkJMr4.jpg"
+    },
+    {
+      "personId": 6200,
+      "name": "Diane Venora",
+      "character": "Joyce",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 2.7377,
+      "profile_path": "/mZWVEZ18jMiJuS3A56tejPipdo8.jpg"
+    },
+    {
+      "personId": 72862,
+      "name": "Brock Pierce",
+      "character": "Scott",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 0.6043,
+      "profile_path": "/46kzHo1lQPFSxUvfFCbwYwrCVNY.jpg"
+    },
+    {
+      "personId": 106119,
+      "name": "David Hart",
+      "character": "Brian's Father",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 0.7341,
+      "profile_path": "/AnkgjZaW5fXuS9NK1Wg5ne4VOY4.jpg"
+    },
+    {
+      "personId": 50020,
+      "name": "Scott Patterson",
+      "character": "Scott's Father",
+      "order": 11,
+      "cast_id": 15,
+      "popularity": 2.5614,
+      "profile_path": "/qTm0LFuV8DktunzKa5T3UZoq1tC.jpg"
+    },
+    {
+      "personId": 19454,
+      "name": "Michael Laskin",
+      "character": "Sackin's Father",
+      "order": 12,
+      "cast_id": 16,
+      "popularity": 0.9169,
+      "profile_path": "/fSofPsl8VSnzNtb4Zaiv7KxotkS.jpg"
+    },
+    {
+      "personId": 42324,
+      "name": "Annabelle Gurwitch",
+      "character": "Leland's Mother",
+      "order": 13,
+      "cast_id": 17,
+      "popularity": 0.8209,
+      "profile_path": "/8aiLc2xzjpCGOx5vWfKQXEOtaRN.jpg"
+    },
+    {
+      "personId": 927959,
+      "name": "Moira Sinise",
+      "character": "Katherine Holman",
+      "order": 14,
+      "cast_id": 18,
+      "popularity": 1.7075,
+      "profile_path": "/twInciBafWI03FqGmd53u64PJgC.jpg"
+    },
+    {
+      "personId": 2203,
+      "name": "Neal McDonough",
+      "character": "Policeman",
+      "order": 15,
+      "cast_id": 19,
+      "popularity": 7.7886,
+      "profile_path": "/3mI3i1CpjATSCta1Tb2qsyl1KCh.jpg"
+    },
+    {
+      "personId": 49357,
+      "name": "Bill Mumy",
+      "character": "Neighbor",
+      "order": 16,
+      "cast_id": 20,
+      "popularity": 1.9146,
+      "profile_path": "/pxjz9MOh1PMGV2SYu2hw7cmpO9e.jpg"
+    },
+    {
+      "personId": 13023,
+      "name": "Colleen Camp",
+      "character": "Neighbor's Wife",
+      "order": 17,
+      "cast_id": 21,
+      "popularity": 3.0729,
+      "profile_path": "/hNAIkUVtsQfpC95BDkXr1lmoI2F.jpg"
+    },
+    {
+      "personId": 76239,
+      "name": "Garette Ratliff Henson",
+      "character": "Neighborhood Teenager",
+      "order": 18,
+      "cast_id": 22,
+      "popularity": 1.0562,
+      "profile_path": "/J9R9AU4rAPq9lhOpWdf9uemJuG.jpg"
+    },
+    {
+      "personId": 64896,
+      "name": "Michael Wong",
+      "character": "Additional Ball Player",
+      "order": 19,
+      "cast_id": 23,
+      "popularity": 2.5037,
+      "profile_path": "/k3iH4zPZ8faWEF5uJeiq7fTtg7p.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 63713,
+      "name": "Martha Coolidge",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4703,
+      "profile_path": "/pvJGxWwdPaUCvu9YojlwA7D3FY1.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1480,
+      "name": "baseball"
+    },
+    {
+      "id": 3264,
+      "name": "korean war (1950-53)"
+    },
+    {
+      "id": 13017,
+      "name": "drifter"
+    },
+    {
+      "id": 15162,
+      "name": "dog"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    }
+  ]
+}

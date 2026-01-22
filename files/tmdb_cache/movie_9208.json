@@ -1,0 +1,343 @@
+{
+  "overview": "When rogue stealth-fighter pilot Vic Deakins deliberately drops off the radar while on maneuvers, the Air Force ends up with two stolen nuclear warheads -- and Deakins's co-pilot, Riley Hale, is the military's only hope for getting them back. Traversing the deserted canyons of Utah, Hale teams with park ranger Terry Carmichael to put Deakins back in his box.",
+  "release_date": "1996-02-09",
+  "runtime": 108,
+  "budget": 50000000,
+  "revenue": 150300000,
+  "tmdb_vote_average": 6.062,
+  "tmdb_vote_count": 1610,
+  "tmdb_popularity": 3.7186,
+  "original_language": "en",
+  "poster_path": "/iBPMwYYJFvdCBkXrwV75peo5Lz2.jpg",
+  "backdrop_path": "/446lXnrT0vSIkeClW8bCN8KrnxN.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 1557,
+      "name": "The Mark Gordon Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 456,
+      "name": "WCG Entertainment Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8891,
+      "name": "John Travolta",
+      "character": "Vic Deakins",
+      "order": 0,
+      "cast_id": 176,
+      "popularity": 7.5196,
+      "profile_path": "/ap8eEYfBKTLixmVVpRlq4NslDD5.jpg"
+    },
+    {
+      "personId": 2224,
+      "name": "Christian Slater",
+      "character": "Riley Hale",
+      "order": 1,
+      "cast_id": 177,
+      "popularity": 4.3336,
+      "profile_path": "/6ww3uweEEXMlvtNjTlgBHxLErPF.jpg"
+    },
+    {
+      "personId": 20767,
+      "name": "Samantha Mathis",
+      "character": "Terry Carmichael",
+      "order": 2,
+      "cast_id": 178,
+      "popularity": 2.4015,
+      "profile_path": "/7J7gvH1uRqfPAPlg7b35rrxSbLB.jpg"
+    },
+    {
+      "personId": 18792,
+      "name": "Delroy Lindo",
+      "character": "Colonel Max Wilkins",
+      "order": 3,
+      "cast_id": 179,
+      "popularity": 2.6845,
+      "profile_path": "/kLwUBBmEIdchrLqwsYzgLB2B6q5.jpg"
+    },
+    {
+      "personId": 11805,
+      "name": "Frank Whaley",
+      "character": "Giles Prentice",
+      "order": 4,
+      "cast_id": 180,
+      "popularity": 3.5716,
+      "profile_path": "/vxxV3rPGUvsiXuu8A5g61lz27yS.jpg"
+    },
+    {
+      "personId": 4029,
+      "name": "Bob Gunton",
+      "character": "Pritchett",
+      "order": 5,
+      "cast_id": 181,
+      "popularity": 3.1979,
+      "profile_path": "/ulbVvuBToBN3aCGcV028hwO0MOP.jpg"
+    },
+    {
+      "personId": 126418,
+      "name": "Howie Long",
+      "character": "Kelly",
+      "order": 6,
+      "cast_id": 182,
+      "popularity": 1.2055,
+      "profile_path": "/qEnlcLGMS3mVp3XJRm4TmmCXb0U.jpg"
+    },
+    {
+      "personId": 12536,
+      "name": "Jack Thompson",
+      "character": "Chairman, Joint Chief of Staff",
+      "order": 7,
+      "cast_id": 183,
+      "popularity": 1.27,
+      "profile_path": "/aqIViuyx2RBfUHeIvyEbxNYKLXg.jpg"
+    },
+    {
+      "personId": 2115,
+      "name": "Kurtwood Smith",
+      "character": "Secretary of Defense Baird",
+      "order": 8,
+      "cast_id": 184,
+      "popularity": 2.6059,
+      "profile_path": "/7dqsk4NYbNZNnmppv2zPuf1hKBn.jpg"
+    },
+    {
+      "personId": 6198,
+      "name": "Vondie Curtis-Hall",
+      "character": "Lt. Colonel Sam Rhodes",
+      "order": 9,
+      "cast_id": 185,
+      "popularity": 2.2095,
+      "profile_path": "/eJbwjnUB3VGGioAtQTmiYI4k7lH.jpg"
+    },
+    {
+      "personId": 61216,
+      "name": "Vyto Ruginis",
+      "character": "Johnson",
+      "order": 10,
+      "cast_id": 186,
+      "popularity": 1.5447,
+      "profile_path": "/les4ZXAb2TL1Crqa8DzGwLvwns5.jpg"
+    },
+    {
+      "personId": 4607,
+      "name": "Ousaun Elam",
+      "character": "Lt. Thomas",
+      "order": 11,
+      "cast_id": 187,
+      "popularity": 2.3217,
+      "profile_path": "/tXZxvROrBp11OeYoBp2AcOGFSp6.jpg"
+    },
+    {
+      "personId": 17857,
+      "name": "Shaun Toub",
+      "character": "Max",
+      "order": 12,
+      "cast_id": 188,
+      "popularity": 2.4865,
+      "profile_path": "/6fuJ9D50bYuMAhrlEgVqzgqF0LU.jpg"
+    },
+    {
+      "personId": 62548,
+      "name": "Casey Biggs",
+      "character": "Novacek",
+      "order": 13,
+      "cast_id": 189,
+      "popularity": 1.7362,
+      "profile_path": "/rshL6LDi7HyW4SQy8f5MYj0xmou.jpg"
+    },
+    {
+      "personId": 141582,
+      "name": "Jeffrey Stephan",
+      "character": "Shepherd",
+      "order": 14,
+      "cast_id": 190,
+      "popularity": 0.2838,
+      "profile_path": null
+    },
+    {
+      "personId": 9558,
+      "name": "Joey Box",
+      "character": "Frakes",
+      "order": 15,
+      "cast_id": 191,
+      "popularity": 0.7174,
+      "profile_path": "/q7XY8ZqhBoBfOb7RwpyrN0tM6TK.jpg"
+    },
+    {
+      "personId": 2769603,
+      "name": "Jon W. Kishi",
+      "character": "Daly",
+      "order": 16,
+      "cast_id": 192,
+      "popularity": 0.486,
+      "profile_path": null
+    },
+    {
+      "personId": 1531865,
+      "name": "Myke Schwartz",
+      "character": "Brandt",
+      "order": 17,
+      "cast_id": 193,
+      "popularity": 1.8499,
+      "profile_path": null
+    },
+    {
+      "personId": 9568,
+      "name": "Jim Palmer",
+      "character": "Lt. Reed",
+      "order": 18,
+      "cast_id": 194,
+      "popularity": 2.2027,
+      "profile_path": "/oFaoyxX8EPY6VxBJ3pVyMezseuZ.jpg"
+    },
+    {
+      "personId": 1402879,
+      "name": "Vince Deadrick Sr.",
+      "character": "Jim",
+      "order": 19,
+      "cast_id": 195,
+      "popularity": 0.7962,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 11401,
+      "name": "John Woo",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.5864,
+      "profile_path": "/s7sDmQq8cegHnsTmD0u2eZ4ArYZ.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 8122,
+      "name": "canyon"
+    },
+    {
+      "id": 720,
+      "name": "helicopter"
+    },
+    {
+      "id": 1353,
+      "name": "underground"
+    },
+    {
+      "id": 1261,
+      "name": "river"
+    },
+    {
+      "id": 1666,
+      "name": "mexican standoff"
+    },
+    {
+      "id": 1825,
+      "name": "countdown"
+    },
+    {
+      "id": 3203,
+      "name": "pilot"
+    },
+    {
+      "id": 5572,
+      "name": "fistfight"
+    },
+    {
+      "id": 9052,
+      "name": "major"
+    },
+    {
+      "id": 10085,
+      "name": "betrayal"
+    },
+    {
+      "id": 12371,
+      "name": "gunfight"
+    },
+    {
+      "id": 13008,
+      "name": "train"
+    },
+    {
+      "id": 14601,
+      "name": "explosion"
+    },
+    {
+      "id": 15263,
+      "name": "park ranger"
+    },
+    {
+      "id": 18034,
+      "name": "desert"
+    },
+    {
+      "id": 162365,
+      "name": "military"
+    },
+    {
+      "id": 201864,
+      "name": "hostile"
+    },
+    {
+      "id": 208547,
+      "name": "nuclear device"
+    },
+    {
+      "id": 209476,
+      "name": "boxing"
+    },
+    {
+      "id": 214472,
+      "name": "stealth aircraft"
+    },
+    {
+      "id": 215861,
+      "name": "abandoned mine"
+    },
+    {
+      "id": 219404,
+      "name": "action hero"
+    },
+    {
+      "id": 219869,
+      "name": "humvee"
+    },
+    {
+      "id": 325766,
+      "name": "antagonistic"
+    },
+    {
+      "id": 325773,
+      "name": "audacious"
+    },
+    {
+      "id": 325774,
+      "name": "authoritarian"
+    },
+    {
+      "id": 325839,
+      "name": "ominous"
+    }
+  ]
+}

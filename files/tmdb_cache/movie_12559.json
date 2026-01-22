@@ -1,0 +1,267 @@
+{
+  "overview": "Some say that to be the leader of a country is one of the loneliest jobs in the world. But being the child of a world leader can be doubly so. Constantly surrounded by security officers, restricted in movements and having almost every waking moment carefully monitored makes normalcy an impossibility. No one knows this better than young Luke Davenport, the son of U.S. President Davenport. He vents his loneliness, frustration and feelings of isolation from family and friends by being a brat to his private Secret Service agent. When the agent snaps from the strain in front of the First Lady, a new agent is assigned to Luke. He turns out to be the enormous Sam Simms, a bit of a rogue who managed to rise through the ranks by sheer determination rather than strict adherence to Secret-Service protocol. At first, Luke tries all his old tricks upon Sam. But instead of getting angry, Sam seems to actually understand.",
+  "release_date": "1996-08-30",
+  "runtime": 101,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.681,
+  "tmdb_vote_count": 196,
+  "tmdb_popularity": 0.8369,
+  "original_language": "en",
+  "poster_path": "/t7yTkuXQpnougXmRIqgfT32axZi.jpg",
+  "backdrop_path": "/rysvKeLogXYSGlx4XuH04ldr8mh.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 175,
+      "name": "Caravan Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 2,
+      "name": "Walt Disney Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 57119,
+      "name": "Sinbad",
+      "character": "Sam Simms",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.5177,
+      "profile_path": "/fxvKYnwFYjglBfWScjydrChRvwZ.jpg"
+    },
+    {
+      "personId": 72862,
+      "name": "Brock Pierce",
+      "character": "Luke Davenport",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 0.6043,
+      "profile_path": "/46kzHo1lQPFSxUvfFCbwYwrCVNY.jpg"
+    },
+    {
+      "personId": 72863,
+      "name": "Blake Boyd",
+      "character": "Dash",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 0.6473,
+      "profile_path": "/gKp4TXEkCdCczEgZ73paUn8CabT.jpg"
+    },
+    {
+      "personId": 23881,
+      "name": "Timothy Busfield",
+      "character": "Woods",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.9623,
+      "profile_path": "/r2VQ4Ar1WCISJoTqOOcO3HEgN4p.jpg"
+    },
+    {
+      "personId": 44792,
+      "name": "Art LaFleur",
+      "character": "Morton",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 2.1345,
+      "profile_path": "/iCDhbcKVuvrIkS3LuwPkahTkEzS.jpg"
+    },
+    {
+      "personId": 8294,
+      "name": "Robert Guillaume",
+      "character": "Wilkes",
+      "order": 5,
+      "cast_id": 34,
+      "popularity": 1.5407,
+      "profile_path": "/prqxpeFeyyarRxxfaMHrqCKVyhV.jpg"
+    },
+    {
+      "personId": 28950,
+      "name": "Lisa Eichhorn",
+      "character": "Linda Davenport",
+      "order": 6,
+      "cast_id": 19,
+      "popularity": 1.3498,
+      "profile_path": "/gMKTeKne8A3E8p5HxwOCX5Wts1A.jpg"
+    },
+    {
+      "personId": 37421,
+      "name": "James Naughton",
+      "character": "President Paul Davenport",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 2.0068,
+      "profile_path": "/iXFkBdxB2Qd2uNwXka9pTp6XBXS.jpg"
+    },
+    {
+      "personId": 147788,
+      "name": "Fawn Reed",
+      "character": "Susan Lawrence",
+      "order": 8,
+      "cast_id": 22,
+      "popularity": 2.0257,
+      "profile_path": "/aiNr9WQPFQJdbHqpX2bWU9vrBVb.jpg"
+    },
+    {
+      "personId": 1419313,
+      "name": "Erin Williby",
+      "character": "Katie Warren",
+      "order": 9,
+      "cast_id": 20,
+      "popularity": 0.1147,
+      "profile_path": null
+    },
+    {
+      "personId": 52477,
+      "name": "Zachery Ty Bryan",
+      "character": "Rob McArthur",
+      "order": 10,
+      "cast_id": 28,
+      "popularity": 1.5169,
+      "profile_path": "/tEIfky2Fv8dwy4I3nzqzSy56vPZ.jpg"
+    },
+    {
+      "personId": 62035,
+      "name": "Michael Krawic",
+      "character": "James",
+      "order": 11,
+      "cast_id": 35,
+      "popularity": 1.2094,
+      "profile_path": "/hc6O2B8muO2je43LHmxK4yDK8ei.jpg"
+    },
+    {
+      "personId": 8854,
+      "name": "Bill Cobbs",
+      "character": "Speet",
+      "order": 12,
+      "cast_id": 23,
+      "popularity": 2.9606,
+      "profile_path": "/xRBrI4rPkZuMBMDh8GPke20ZgUv.jpg"
+    },
+    {
+      "personId": 67949,
+      "name": "Sonny Bono",
+      "character": "Congressman Sonny Bono",
+      "order": 13,
+      "cast_id": 26,
+      "popularity": 1.1211,
+      "profile_path": "/lf3RiHakkpqcoAYeJJhDzmpr4H6.jpg"
+    },
+    {
+      "personId": 116341,
+      "name": "Bill Clinton",
+      "character": "Bill Clinton (uncredited)",
+      "order": 14,
+      "cast_id": 27,
+      "popularity": 0.8369,
+      "profile_path": "/aOSAwUHkTYdcVrl5MdOzuGRluTm.jpg"
+    },
+    {
+      "personId": 5890274,
+      "name": "Jemar Jefferson",
+      "character": "Andre (as Jemar Jewann Jefferson)",
+      "order": 15,
+      "cast_id": 36,
+      "popularity": 0.0379,
+      "profile_path": null
+    },
+    {
+      "personId": 20166,
+      "name": "Joe Inscoe",
+      "character": "Peerson",
+      "order": 16,
+      "cast_id": 37,
+      "popularity": 1.0942,
+      "profile_path": "/kqkZzgrCb4a9nhnItinl3QL6sLA.jpg"
+    },
+    {
+      "personId": 11797,
+      "name": "J. Michael Hunter",
+      "character": "Clark",
+      "order": 17,
+      "cast_id": 38,
+      "popularity": 0.4937,
+      "profile_path": "/mjR1BiWsxHmmC3L0xLbevw8KLxm.jpg"
+    },
+    {
+      "personId": 941,
+      "name": "Tomas Arana",
+      "character": "Harold",
+      "order": 18,
+      "cast_id": 39,
+      "popularity": 1.9537,
+      "profile_path": "/qMuQWxUQ2sXDiN2d9EDVT5VXHo2.jpg"
+    },
+    {
+      "personId": 193580,
+      "name": "Doug Williams",
+      "character": "Eddie (as Douglas MacArthur Williams)",
+      "order": 19,
+      "cast_id": 40,
+      "popularity": 0.6954,
+      "profile_path": "/9wUKZZl8T4BUoHhNeRj6nMLMKp8.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 69741,
+      "name": "David Mickey Evans",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.9812,
+      "profile_path": "/gIEovXquuFjoW0sWPaCwBaY3Y1w.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 441,
+      "name": "assassination"
+    },
+    {
+      "id": 840,
+      "name": "usa president"
+    },
+    {
+      "id": 833,
+      "name": "the white house"
+    },
+    {
+      "id": 396,
+      "name": "transporter"
+    },
+    {
+      "id": 248,
+      "name": "date"
+    },
+    {
+      "id": 3088,
+      "name": "bodyguard"
+    }
+  ]
+}

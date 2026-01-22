@@ -1,0 +1,279 @@
+{
+  "overview": "Six incredible teens out-maneuver and defeat evil everywhere as the Mighty Morphin Power Rangers, but this time the Power Rangers may have met their match when they face off with Ivan Ooze, the most sinister monster the galaxy has ever seen.",
+  "release_date": "1995-06-30",
+  "runtime": 95,
+  "budget": 15000000,
+  "revenue": 66433194,
+  "tmdb_vote_average": 5.858,
+  "tmdb_vote_count": 745,
+  "tmdb_popularity": 2.4642,
+  "original_language": "en",
+  "poster_path": "/pcLbHqs80dchv0byHivhdwHKEup.jpg",
+  "backdrop_path": "/7n6RzJfPGnSGsHidO2gUWYgs1TT.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Adventure",
+    "Science Fiction",
+    "Fantasy"
+  ],
+  "production_companies": [
+    {
+      "id": 2106,
+      "name": "Saban Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 25,
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    },
+    {
+      "id": 5822,
+      "name": "Toei Company",
+      "origin_country": "JP"
+    },
+    {
+      "id": 11232,
+      "name": "Fox Family Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 536099,
+      "name": "Karan Ashley",
+      "character": "Aisha Campbell / Yellow Ranger",
+      "order": 0,
+      "cast_id": 14,
+      "popularity": 0.8135,
+      "profile_path": "/lXfsZLudyBFnMFmPhCEttXyQsWD.jpg"
+    },
+    {
+      "personId": 50096,
+      "name": "Johnny Yong Bosch",
+      "character": "Adam Park / Black Ranger",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 1.1076,
+      "profile_path": "/a0JtdXCVw8HIkWNq2rqlWs1A8CR.jpg"
+    },
+    {
+      "personId": 56897,
+      "name": "Steve Cardenas",
+      "character": "Rocky DeSantos / Red Ranger",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 0.4189,
+      "profile_path": "/w6UfCoXzbiRWq9HLSdAzxTjk60X.jpg"
+    },
+    {
+      "personId": 50098,
+      "name": "Jason David Frank",
+      "character": "Tommy Oliver / White Ranger",
+      "order": 3,
+      "cast_id": 1,
+      "popularity": 1.2535,
+      "profile_path": "/lR7VkHYktJTgim0UGpafC1t8gLS.jpg"
+    },
+    {
+      "personId": 56895,
+      "name": "Amy Jo Johnson",
+      "character": "Kimberly Hart / Pink Ranger",
+      "order": 4,
+      "cast_id": 2,
+      "popularity": 1.6595,
+      "profile_path": "/mgMtXlgOjEIvpndGFQo5TuuFKjC.jpg"
+    },
+    {
+      "personId": 56896,
+      "name": "David Yost",
+      "character": "Billy Cranston / Blue Ranger",
+      "order": 5,
+      "cast_id": 3,
+      "popularity": 0.8267,
+      "profile_path": "/yS9o0lmhsCBDevzUXDvE5ahsCSV.jpg"
+    },
+    {
+      "personId": 1215855,
+      "name": "Jason Narvy",
+      "character": "Skull",
+      "order": 6,
+      "cast_id": 21,
+      "popularity": 1.495,
+      "profile_path": "/1OM4Wt4TMgmq1WBSz4SmCgn8wzV.jpg"
+    },
+    {
+      "personId": 200201,
+      "name": "Paul Schrier",
+      "character": "Bulk",
+      "order": 7,
+      "cast_id": 61,
+      "popularity": 1.4477,
+      "profile_path": "/jCzbtSQSsoBTWWmL85vnSIPJRiI.jpg"
+    },
+    {
+      "personId": 652,
+      "name": "Paul Freeman",
+      "character": "Ivan Ooze",
+      "order": 8,
+      "cast_id": 17,
+      "popularity": 2.6322,
+      "profile_path": "/mLDHLughdhSe6AqsklX0Zhjk9Rx.jpg"
+    },
+    {
+      "personId": 81662,
+      "name": "Richard Steven Horvitz",
+      "character": "Alpha 5 (voice)",
+      "order": 9,
+      "cast_id": 49,
+      "popularity": 0.8999,
+      "profile_path": "/pyL1MykCkuKTAp23PmmD6T8HVbn.jpg"
+    },
+    {
+      "personId": 15340,
+      "name": "Nicholas Bell",
+      "character": "Zordon",
+      "order": 10,
+      "cast_id": 53,
+      "popularity": 0.8782,
+      "profile_path": "/u6wGCSowG03IkZiXEFO8ecYXiZv.jpg"
+    },
+    {
+      "personId": 1229754,
+      "name": "Robert L. Manahan",
+      "character": "Zordon (voice)",
+      "order": 11,
+      "cast_id": 50,
+      "popularity": 0.2689,
+      "profile_path": null
+    },
+    {
+      "personId": 149731,
+      "name": "Mark Ginther",
+      "character": "Lord Zedd",
+      "order": 12,
+      "cast_id": 55,
+      "popularity": 0.6619,
+      "profile_path": "/kaaLC5LcqpsLIdbaINQuUfbbrCr.jpg"
+    },
+    {
+      "personId": 99681,
+      "name": "Robert Axelrod",
+      "character": "Lord Zedd (voice)",
+      "order": 13,
+      "cast_id": 32,
+      "popularity": 0.5965,
+      "profile_path": "/1mOhH7ln6yRHll0hN795cC4XUEr.jpg"
+    },
+    {
+      "personId": 2517530,
+      "name": "Julia Cortez",
+      "character": "Rita Repulsa",
+      "order": 14,
+      "cast_id": 56,
+      "popularity": 0.2163,
+      "profile_path": null
+    },
+    {
+      "personId": 85294,
+      "name": "Barbara Goodson",
+      "character": "Rita Repulsa (voice)",
+      "order": 15,
+      "cast_id": 31,
+      "popularity": 0.7368,
+      "profile_path": "/tiLlOlaP5boOpL9RKKzQGb1RQAN.jpg"
+    },
+    {
+      "personId": 2749478,
+      "name": "Kerry Casey",
+      "character": "Goldar",
+      "order": 16,
+      "cast_id": 54,
+      "popularity": 0.3283,
+      "profile_path": null
+    },
+    {
+      "personId": 158322,
+      "name": "Kerrigan Mahan",
+      "character": "Goldar (voice)",
+      "order": 17,
+      "cast_id": 33,
+      "popularity": 0.7716,
+      "profile_path": "/nms8sNmjLhEJtbbr5Ji1fPebudi.jpg"
+    },
+    {
+      "personId": 60464,
+      "name": "Gabrielle Fitzpatrick",
+      "character": "Dulcea",
+      "order": 18,
+      "cast_id": 18,
+      "popularity": 1.3016,
+      "profile_path": "/rnaR1kCmP9ZLFiKcWoxpOG7BePG.jpg"
+    },
+    {
+      "personId": 135228,
+      "name": "Jamie Croft",
+      "character": "Fred Kelman",
+      "order": 19,
+      "cast_id": 19,
+      "popularity": 0.7965,
+      "profile_path": "/uyIEJTvwqAH8paKqGXTpJ9C2OJG.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 42111,
+      "name": "Bryan Spicer",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6988,
+      "profile_path": "/xkVGuYFrIs6WPwR5cPpL7ax7LMb.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 155030,
+      "name": "superhero team"
+    },
+    {
+      "id": 173577,
+      "name": "ethnic diversity"
+    },
+    {
+      "id": 203224,
+      "name": "mmpr"
+    },
+    {
+      "id": 309974,
+      "name": "absurd"
+    },
+    {
+      "id": 325765,
+      "name": "amused"
+    },
+    {
+      "id": 325766,
+      "name": "antagonistic"
+    },
+    {
+      "id": 325809,
+      "name": "enthusiastic"
+    }
+  ]
+}

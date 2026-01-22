@@ -1,0 +1,171 @@
+{
+  "overview": "Deals with the lives of the three Irish Catholic McMullen brothers from Long Island, New York, over three months, as they grapple with basic ideas and values — love, sex, marriage, religion and family — in the 1990s.",
+  "release_date": "1995-08-11",
+  "runtime": 98,
+  "budget": 25000,
+  "revenue": 19326506,
+  "tmdb_vote_average": 6.0,
+  "tmdb_vote_count": 98,
+  "tmdb_popularity": 0.8791,
+  "original_language": "en",
+  "poster_path": "/6oWsOJP0ed5gs8n2UywcailoxFN.jpg",
+  "backdrop_path": "/FMzWki3kw14V8SzQjFaAmR4AWR.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 211574,
+      "name": "Videography",
+      "origin_country": ""
+    },
+    {
+      "id": 60919,
+      "name": "Marlboro Road Gang Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 10565,
+      "name": "Good Machine",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 12833,
+      "name": "Edward Burns",
+      "character": "Barry / Finbar McMullen",
+      "order": 0,
+      "cast_id": 5,
+      "popularity": 2.6601,
+      "profile_path": "/pTLdPUSxDUcdmvy91LGCF3pk0AM.jpg"
+    },
+    {
+      "personId": 69298,
+      "name": "Michael McGlone",
+      "character": "Patrick McMullen",
+      "order": 1,
+      "cast_id": 8,
+      "popularity": 0.9807,
+      "profile_path": "/bA4VNmTIFPBMxnf7NWai525PB6v.jpg"
+    },
+    {
+      "personId": 86310,
+      "name": "Connie Britton",
+      "character": "Molly McMullen",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 4.4103,
+      "profile_path": "/lxfHf4tTx5NukbemcJjmgqqFAiV.jpg"
+    },
+    {
+      "personId": 86313,
+      "name": "Jack Mulcahy",
+      "character": "Jack McMullen",
+      "order": 3,
+      "cast_id": 10,
+      "popularity": 2.4022,
+      "profile_path": "/CWd2m5BBCQ9BsXmh28CfZjUhCB.jpg"
+    },
+    {
+      "personId": 86309,
+      "name": "Catharine Bolz",
+      "character": "Mrs McMullen",
+      "order": 4,
+      "cast_id": 3,
+      "popularity": 1.0202,
+      "profile_path": null
+    },
+    {
+      "personId": 86308,
+      "name": "Shari Albert",
+      "character": "Susan",
+      "order": 5,
+      "cast_id": 1,
+      "popularity": 1.1175,
+      "profile_path": "/fwtpoe6W1us9n9kb8g3ZKoUnqe0.jpg"
+    },
+    {
+      "personId": 21398,
+      "name": "Maxine Bahns",
+      "character": "Audrey",
+      "order": 6,
+      "cast_id": 2,
+      "popularity": 0.818,
+      "profile_path": "/6kcAbxss0gXt50J1KVGmobbLMHD.jpg"
+    },
+    {
+      "personId": 27739,
+      "name": "Jennifer Jostyn",
+      "character": "Leslie",
+      "order": 7,
+      "cast_id": 7,
+      "popularity": 1.5758,
+      "profile_path": "/pJQwoECxJLMoDi1OehlueOsT1Yg.jpg"
+    },
+    {
+      "personId": 86311,
+      "name": "Peter Johansen",
+      "character": "Marty",
+      "order": 8,
+      "cast_id": 6,
+      "popularity": 0.1296,
+      "profile_path": null
+    },
+    {
+      "personId": 86312,
+      "name": "Elizabeth McKay",
+      "character": "Ann",
+      "order": 9,
+      "cast_id": 9,
+      "popularity": 1.1031,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 12833,
+      "name": "Edward Burns",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.6601,
+      "profile_path": "/pTLdPUSxDUcdmvy91LGCF3pk0AM.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 9673,
+      "name": "love"
+    },
+    {
+      "id": 12392,
+      "name": "best friend"
+    },
+    {
+      "id": 188993,
+      "name": "true love"
+    },
+    {
+      "id": 208725,
+      "name": "irish catholic"
+    },
+    {
+      "id": 281237,
+      "name": "independent film"
+    }
+  ]
+}

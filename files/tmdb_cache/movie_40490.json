@@ -1,0 +1,229 @@
+{
+  "overview": "Ben Archer is not happy. His mother, Sandy, has just met a man, and it looks like things are pretty serious. Driven by a fear of abandonment, Ben tries anything and everything to ruin the \"love bubble\" which surrounds his mom. However, after Ben and Jack's experiences in the Indian Guides, the two become much closer.",
+  "release_date": "1995-03-03",
+  "runtime": 96,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.392,
+  "tmdb_vote_count": 185,
+  "tmdb_popularity": 0.8738,
+  "original_language": "en",
+  "poster_path": "/6bnOhhrrrq6RZhMgz4aGyqbJ9Wf.jpg",
+  "backdrop_path": "/45XjLWOACuD9UcFZ5iFGtQPVlAW.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 2,
+      "name": "Walt Disney Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 54812,
+      "name": "Chevy Chase",
+      "character": "Jack Sturgess",
+      "order": 0,
+      "cast_id": 9,
+      "popularity": 3.8436,
+      "profile_path": "/xmAcHXakDi0elKsCl2sRjtobQnx.jpg"
+    },
+    {
+      "personId": 28768,
+      "name": "Farrah Fawcett-Majors",
+      "character": "Sandy Archer",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 3.4947,
+      "profile_path": "/v1osF8x0G4OiXfGmElnyymyrUCn.jpg"
+    },
+    {
+      "personId": 53283,
+      "name": "Jonathan Taylor Thomas",
+      "character": "Ben Archer",
+      "order": 2,
+      "cast_id": 10,
+      "popularity": 2.6664,
+      "profile_path": "/lv1ZNrdFGMa8lYjwQyJqePONaDY.jpg"
+    },
+    {
+      "personId": 66606,
+      "name": "George Wendt",
+      "character": "Chet Bronski",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 1.6163,
+      "profile_path": "/noQKS06TbuPJQ9o91CzKbEvTwZR.jpg"
+    },
+    {
+      "personId": 147491,
+      "name": "David Shiner",
+      "character": "Lloyd Small",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 1.7715,
+      "profile_path": null
+    },
+    {
+      "personId": 44792,
+      "name": "Art LaFleur",
+      "character": "Red Sweeney",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 2.1345,
+      "profile_path": "/iCDhbcKVuvrIkS3LuwPkahTkEzS.jpg"
+    },
+    {
+      "personId": 4255,
+      "name": "Richard Portnow",
+      "character": "Joey Renda",
+      "order": 6,
+      "cast_id": 14,
+      "popularity": 1.5045,
+      "profile_path": "/uQZ3vSa2HHXywkDjGY8dN0oH5oY.jpg"
+    },
+    {
+      "personId": 47771,
+      "name": "Richard Foronjy",
+      "character": "Murray",
+      "order": 7,
+      "cast_id": 15,
+      "popularity": 1.1508,
+      "profile_path": "/zNerBPOQawN4PxT35WmqwFd9PMu.jpg"
+    },
+    {
+      "personId": 1005,
+      "name": "Peter Appel",
+      "character": "Tony",
+      "order": 8,
+      "cast_id": 25,
+      "popularity": 1.3302,
+      "profile_path": "/AvOZjWVwklfJHNHD2AwLmYRhSXw.jpg"
+    },
+    {
+      "personId": 147492,
+      "name": "Chief Leonard George",
+      "character": "Leonard Red Crow",
+      "order": 9,
+      "cast_id": 17,
+      "popularity": 0.8496,
+      "profile_path": null
+    },
+    {
+      "personId": 147493,
+      "name": "George Greif",
+      "character": "Frank Renda",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 0.0338,
+      "profile_path": null
+    },
+    {
+      "personId": 85170,
+      "name": "Ron Canada",
+      "character": "Bob Younger",
+      "order": 11,
+      "cast_id": 19,
+      "popularity": 1.77,
+      "profile_path": "/2B8fFweT0PGcA1sj3duMzPpLgD6.jpg"
+    },
+    {
+      "personId": 147495,
+      "name": "Christopher Miranda",
+      "character": "Hank Sweeney",
+      "order": 12,
+      "cast_id": 21,
+      "popularity": 0.4311,
+      "profile_path": null
+    },
+    {
+      "personId": 147494,
+      "name": "Zachary Browne",
+      "character": "Norman Bronski",
+      "order": 13,
+      "cast_id": 20,
+      "popularity": 0.5125,
+      "profile_path": null
+    },
+    {
+      "personId": 147496,
+      "name": "Spencer Vrooman",
+      "character": "Darryl Small",
+      "order": 14,
+      "cast_id": 22,
+      "popularity": 1.0658,
+      "profile_path": "/vJ7wCxVlkG5ysF4jU1cM91Qcu3U.jpg"
+    },
+    {
+      "personId": 1884778,
+      "name": "Nicholas Garrett",
+      "character": "Monroe Hill",
+      "order": 15,
+      "cast_id": 26,
+      "popularity": 0.0675,
+      "profile_path": null
+    },
+    {
+      "personId": 2979750,
+      "name": "Jimmy Baker",
+      "character": "Young Ben",
+      "order": 16,
+      "cast_id": 27,
+      "popularity": 0.1849,
+      "profile_path": null
+    },
+    {
+      "personId": 113922,
+      "name": "John DiSanti",
+      "character": "Romeo Costanza",
+      "order": 17,
+      "cast_id": 47,
+      "popularity": 0.6305,
+      "profile_path": null
+    },
+    {
+      "personId": 1219890,
+      "name": "Walter Marsh",
+      "character": "Judge #1",
+      "order": 18,
+      "cast_id": 48,
+      "popularity": 0.4205,
+      "profile_path": "/urNc7acpDK2cDJr1pYKgSThiULE.jpg"
+    },
+    {
+      "personId": 1228455,
+      "name": "Judith Maxie",
+      "character": "Judge #2",
+      "order": 19,
+      "cast_id": 49,
+      "popularity": 0.7117,
+      "profile_path": "/zIc0D2UMBxn2R6O4SJL8WSMZ6x5.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 27444,
+      "name": "James Orr",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.892,
+      "profile_path": null
+    }
+  ],
+  "keywords": []
+}

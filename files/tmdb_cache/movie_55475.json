@@ -1,0 +1,212 @@
+{
+  "overview": "Balbuena is a genial illegal immigrant who makes his way to New York City to take a bite out of the Big Apple. But his hopes of finding a better life soon begin to fade as Balbuena encounters one obstacle after another in the hardscrabble, uncaring metropolis.",
+  "release_date": "1995-08-16",
+  "runtime": 102,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 4.8,
+  "tmdb_vote_count": 6,
+  "tmdb_popularity": 0.085,
+  "original_language": "es",
+  "poster_path": "/wXJImKBIFIanoZQsx0knEfthpq5.jpg",
+  "backdrop_path": null,
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 93488,
+      "name": "Cigua Films",
+      "origin_country": ""
+    },
+    {
+      "id": 93489,
+      "name": "D'Pelicula",
+      "origin_country": ""
+    },
+    {
+      "id": 107482,
+      "name": "Miravista Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "DO",
+      "name": "Dominican Republic"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 222473,
+      "name": "Luisito Marti",
+      "character": "Balbuena",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 0.2124,
+      "profile_path": null
+    },
+    {
+      "personId": 222477,
+      "name": "Alfonso Zayas",
+      "character": "Chef",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 1.926,
+      "profile_path": "/zEMXB6ufQTIp9c5eiI03sq1NajX.jpg"
+    },
+    {
+      "personId": 71839,
+      "name": "Caridad Ravelo",
+      "character": "Nancy",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 0.0747,
+      "profile_path": null
+    },
+    {
+      "personId": 222474,
+      "name": "Raúl Carbonell Jr.",
+      "character": "Fellito",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 0.9209,
+      "profile_path": "/zuk76rlpSWyFulM7ZYqvdhWywWH.jpg"
+    },
+    {
+      "personId": 1809293,
+      "name": "Rafael Villalona",
+      "character": "Pedro",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 0.3736,
+      "profile_path": null
+    },
+    {
+      "personId": 1845273,
+      "name": "Joel Garcia",
+      "character": "Juan Carlos",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 0.0978,
+      "profile_path": null
+    },
+    {
+      "personId": 1866867,
+      "name": "Randolph Feliz",
+      "character": "Police Officer",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 0.1417,
+      "profile_path": null
+    },
+    {
+      "personId": 1866868,
+      "name": "Bersaida Vega",
+      "character": "Xiomara",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 0.0697,
+      "profile_path": null
+    },
+    {
+      "personId": 1656675,
+      "name": "Rosalba Rolón",
+      "character": "Matilde",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 0.294,
+      "profile_path": null
+    },
+    {
+      "personId": 1866869,
+      "name": "Manny Gironny",
+      "character": "Consul",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 0.0071,
+      "profile_path": null
+    },
+    {
+      "personId": 1866870,
+      "name": "Ledesma",
+      "character": "'El Flaco'",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 0.0071,
+      "profile_path": null
+    },
+    {
+      "personId": 1866871,
+      "name": "Rafael Decena",
+      "character": "Chico",
+      "order": 11,
+      "cast_id": 15,
+      "popularity": 0.4251,
+      "profile_path": null
+    },
+    {
+      "personId": 222475,
+      "name": "Graciela Mas",
+      "character": "Teresita",
+      "order": 12,
+      "cast_id": 16,
+      "popularity": 0.0849,
+      "profile_path": null
+    },
+    {
+      "personId": 232239,
+      "name": "Carlota Carretero",
+      "character": "Natalia",
+      "order": 13,
+      "cast_id": 17,
+      "popularity": 0.1527,
+      "profile_path": null
+    },
+    {
+      "personId": 1866872,
+      "name": "Fermín Suárez",
+      "character": "Policia",
+      "order": 14,
+      "cast_id": 18,
+      "popularity": 0.0322,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 114997,
+      "name": "Ángel Muñiz",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.3699,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 1625,
+      "name": "emigration"
+    },
+    {
+      "id": 190019,
+      "name": "dominican republic"
+    }
+  ]
+}

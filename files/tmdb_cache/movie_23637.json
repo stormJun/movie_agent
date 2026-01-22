@@ -1,0 +1,189 @@
+{
+  "overview": "A bureaucratic snafu sends Marco Tullio Sperelli, a portly, middle-aged northern Italian, to teach third grade in a poor town outside Naples",
+  "release_date": "1992-10-09",
+  "runtime": 93,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 7.2,
+  "tmdb_vote_count": 396,
+  "tmdb_popularity": 0.4289,
+  "original_language": "it",
+  "poster_path": "/b4wZkB4FNUi7SK46Tw9kxT5oW8M.jpg",
+  "backdrop_path": "/zlMRleOFzHntYUByjp3OVs1GjSo.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 12823,
+      "name": "Eurolux Produzione",
+      "origin_country": "IT"
+    },
+    {
+      "id": 6651,
+      "name": "Penta Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 371,
+      "name": "Cecchi Gori Group Tiger Cinematografica",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "it",
+      "name": "Italiano"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 27433,
+      "name": "Paolo Villaggio",
+      "character": "Marco Sperelli",
+      "order": 0,
+      "cast_id": 6,
+      "popularity": 1.521,
+      "profile_path": "/teLgBlbIGoToECSfwwkjaehPUPr.jpg"
+    },
+    {
+      "personId": 1014911,
+      "name": "Isa Danieli",
+      "character": "Preside",
+      "order": 1,
+      "cast_id": 9,
+      "popularity": 1.654,
+      "profile_path": "/xUETwTcqaEdc4jEO5JzZBxbrGsA.jpg"
+    },
+    {
+      "personId": 4819,
+      "name": "Paolo Bonacelli",
+      "character": "Ludovico Mazzullo",
+      "order": 2,
+      "cast_id": 8,
+      "popularity": 0.7342,
+      "profile_path": "/7h2EJQ19m9pZCfyGEoXb8aEFIF2.jpg"
+    },
+    {
+      "personId": 72786,
+      "name": "Gigio Morra",
+      "character": "Custode",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 1.7318,
+      "profile_path": "/n4osWBIcJVgs7KyoaFZPxaBJfYD.jpg"
+    },
+    {
+      "personId": 1151165,
+      "name": "Sergio Solli",
+      "character": "Cartonaio",
+      "order": 4,
+      "cast_id": 10,
+      "popularity": 0.2872,
+      "profile_path": "/awwiyTMCPpHv2IvnNTZ1I7zI7Wm.jpg"
+    },
+    {
+      "personId": 130616,
+      "name": "Ester Carloni",
+      "character": "Zia Esterina",
+      "order": 5,
+      "cast_id": 11,
+      "popularity": 2.0821,
+      "profile_path": "/nSi6e7LFoGyaTyYScUdUOOpNWqD.jpg"
+    },
+    {
+      "personId": 1831111,
+      "name": "Mario Porfito",
+      "character": "Sindaco Antonio Ruoppolo",
+      "order": 6,
+      "cast_id": 12,
+      "popularity": 1.9829,
+      "profile_path": "/6spG6nU5TXRyU89fYqRjdYQwV9q.jpg"
+    },
+    {
+      "personId": 1914974,
+      "name": "Filomena Lieto",
+      "character": "Cecchina",
+      "order": 7,
+      "cast_id": 13,
+      "popularity": 0.2967,
+      "profile_path": null
+    },
+    {
+      "personId": 1914975,
+      "name": "Alessandra Detora",
+      "character": "Angeluccia",
+      "order": 8,
+      "cast_id": 14,
+      "popularity": 0.1004,
+      "profile_path": null
+    },
+    {
+      "personId": 1914977,
+      "name": "Raffaele Gioia",
+      "character": "Autista",
+      "order": 9,
+      "cast_id": 15,
+      "popularity": 0.056,
+      "profile_path": null
+    },
+    {
+      "personId": 1086927,
+      "name": "Adriano Pantaleo",
+      "character": "Vincenzino",
+      "order": 10,
+      "cast_id": 16,
+      "popularity": 1.5367,
+      "profile_path": "/uPSKmQKUe4ncOdGBmo94lQa8KcL.jpg"
+    },
+    {
+      "personId": 1124837,
+      "name": "Ciro Esposito",
+      "character": "Raffaele",
+      "order": 11,
+      "cast_id": 17,
+      "popularity": 0.3643,
+      "profile_path": "/afFFrJ0NboFjR1O7XZSiHBnzuVw.jpg"
+    },
+    {
+      "personId": 1887394,
+      "name": "Mario Bianco",
+      "character": "Nicola",
+      "order": 12,
+      "cast_id": 18,
+      "popularity": 0.1258,
+      "profile_path": null
+    },
+    {
+      "personId": 3250845,
+      "name": "Pierfrancesco Borruto",
+      "character": "Peppiniello",
+      "order": 13,
+      "cast_id": 19,
+      "popularity": 0.0338,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 26265,
+      "name": "Lina Wertmüller",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.637,
+      "profile_path": "/1CSAr1pTmwhgzjPVelu6nF2ACgO.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 187056,
+      "name": "woman director"
+    }
+  ]
+}

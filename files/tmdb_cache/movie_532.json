@@ -1,0 +1,164 @@
+{
+  "overview": "Wallace's whirlwind romance with the proprietor of the local wool shop puts his head in a spin, and Gromit is framed for sheep-rustling in a fiendish criminal plot.",
+  "release_date": "1996-03-07",
+  "runtime": 30,
+  "budget": 0,
+  "revenue": 4638,
+  "tmdb_vote_average": 7.577,
+  "tmdb_vote_count": 896,
+  "tmdb_popularity": 2.4853,
+  "original_language": "en",
+  "poster_path": "/qdIR27trLyrlJ5nmkbcG3Bomah6.jpg",
+  "backdrop_path": "/3mbuK1tZ981G9I2Niu522s6y7hG.jpg",
+  "tmdb_genres_raw": [
+    "Family",
+    "Animation",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 297,
+      "name": "Aardman",
+      "origin_country": "GB"
+    },
+    {
+      "id": 31272,
+      "name": "BBC Bristol Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 125982,
+      "name": "BBC Children's Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 276928,
+      "name": "Wallace and Gromit",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 7317,
+      "name": "Peter Sallis",
+      "character": "Wallace (voice)",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 1.5752,
+      "profile_path": "/tB7r7LxdNEn7RfRs837V3REfgF4.jpg"
+    },
+    {
+      "personId": 77287,
+      "name": "Anne Reid",
+      "character": "Wendolene (voice)",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 1.8696,
+      "profile_path": "/d9ujsWfh1SfKNaiLs40cFue0CfE.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 7314,
+      "name": "Nick Park",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.3913,
+      "profile_path": "/C51kzgPopTjOkLewW9Pt8f2YIG.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 378,
+      "name": "prison"
+    },
+    {
+      "id": 3020,
+      "name": "sheep"
+    },
+    {
+      "id": 1436,
+      "name": "inventor"
+    },
+    {
+      "id": 1797,
+      "name": "loyalty"
+    },
+    {
+      "id": 6139,
+      "name": "innocence"
+    },
+    {
+      "id": 2526,
+      "name": "human animal relationship"
+    },
+    {
+      "id": 3289,
+      "name": "villain"
+    },
+    {
+      "id": 9887,
+      "name": "surrealism"
+    },
+    {
+      "id": 9840,
+      "name": "romance"
+    },
+    {
+      "id": 11477,
+      "name": "anthropomorphism"
+    },
+    {
+      "id": 10121,
+      "name": "stop motion"
+    },
+    {
+      "id": 15124,
+      "name": "framed"
+    },
+    {
+      "id": 15162,
+      "name": "dog"
+    },
+    {
+      "id": 18165,
+      "name": "animals"
+    },
+    {
+      "id": 158692,
+      "name": "wool"
+    },
+    {
+      "id": 182287,
+      "name": "sheep rustling"
+    },
+    {
+      "id": 197065,
+      "name": "claymation"
+    },
+    {
+      "id": 230385,
+      "name": "plasticine"
+    },
+    {
+      "id": 263548,
+      "name": "short film"
+    },
+    {
+      "id": 286644,
+      "name": "store owner"
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "overview": "Babe is a little pig who doesn't quite know his place in the world. With a bunch of odd friends, like Ferdinand the duck who thinks he is a rooster and Fly the dog he calls mum, Babe realises that he has the makings to become the greatest sheep pig of all time, and Farmer Hoggett knows it. With the help of the sheep dogs, Babe learns that a pig can be anything that he wants to be.",
+  "release_date": "1995-07-18",
+  "runtime": 92,
+  "budget": 30000000,
+  "revenue": 254100000,
+  "tmdb_vote_average": 6.254,
+  "tmdb_vote_count": 3045,
+  "tmdb_popularity": 5.324,
+  "original_language": "en",
+  "poster_path": "/zKuQMtnbVTz9DsOnOJmlW71v4qH.jpg",
+  "backdrop_path": "/agkZziO4ZPAsVfKUrJD68lys08P.jpg",
+  "tmdb_genres_raw": [
+    "Fantasy",
+    "Drama",
+    "Comedy",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 2537,
+      "name": "Kennedy Miller Productions",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "AU",
+      "name": "Australia"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 58136,
+      "name": "Christine Cavanaugh",
+      "character": "Babe (voice)",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 0.9212,
+      "profile_path": "/8fDGffuBfbMTRTALHpSQQvuzSuO.jpg"
+    },
+    {
+      "personId": 6199,
+      "name": "Miriam Margolyes",
+      "character": "Fly (voice)",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.1728,
+      "profile_path": "/vsnCGCp0nhJTag56HP8XFhXnZo9.jpg"
+    },
+    {
+      "personId": 52699,
+      "name": "Danny Mann",
+      "character": "Ferdinand (voice)",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.7185,
+      "profile_path": "/980QYqXIZCMn5Knx0vjROkw9vKo.jpg"
+    },
+    {
+      "personId": 1331,
+      "name": "Hugo Weaving",
+      "character": "Rex (voice)",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 3.1926,
+      "profile_path": "/t4ScpYIHlXVD41scEyiGdQDYflX.jpg"
+    },
+    {
+      "personId": 35109,
+      "name": "Miriam Flynn",
+      "character": "Maa (voice)",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.7571,
+      "profile_path": "/8o4nFOpCPrgJRhrUMHoouT1E9X3.jpg"
+    },
+    {
+      "personId": 2505,
+      "name": "James Cromwell",
+      "character": "Farmer Hoggett",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 3.5051,
+      "profile_path": "/17AIez58rJyk7EzU5a9L2r6Tn3u.jpg"
+    },
+    {
+      "personId": 45586,
+      "name": "Magda Szubanski",
+      "character": "Esme Hoggett",
+      "order": 6,
+      "cast_id": 24,
+      "popularity": 1.2025,
+      "profile_path": "/fNb650TNqOBG6dSP9bLhoxxI9wA.jpg"
+    },
+    {
+      "personId": 6035,
+      "name": "Russi Taylor",
+      "character": "Cat (voice)",
+      "order": 7,
+      "cast_id": 7,
+      "popularity": 1.7804,
+      "profile_path": "/r79GVF7LyBExJP7cRMob8QQZ6IU.jpg"
+    },
+    {
+      "personId": 24368,
+      "name": "Roscoe Lee Browne",
+      "character": "Narrator (voice)",
+      "order": 8,
+      "cast_id": 23,
+      "popularity": 1.1556,
+      "profile_path": "/zNOJbPMeQd5thNTA1dvb1ZT61mI.jpg"
+    },
+    {
+      "personId": 1080206,
+      "name": "Evelyn Krape",
+      "character": "Old Ewe (voice)",
+      "order": 9,
+      "cast_id": 19,
+      "popularity": 0.1617,
+      "profile_path": "/vpJgIoI3FjLiQtnpA44dLJwqt1A.jpg"
+    },
+    {
+      "personId": 1080207,
+      "name": "Michael Edward-Stevens",
+      "character": "Horse (voice)",
+      "order": 10,
+      "cast_id": 20,
+      "popularity": 0.3058,
+      "profile_path": null
+    },
+    {
+      "personId": 1229258,
+      "name": "Charles Bartlett",
+      "character": "Cow (voice)",
+      "order": 11,
+      "cast_id": 30,
+      "popularity": 0.3772,
+      "profile_path": null
+    },
+    {
+      "personId": 61351,
+      "name": "Paul Livingston",
+      "character": "Rooster (voice)",
+      "order": 12,
+      "cast_id": 22,
+      "popularity": 0.5,
+      "profile_path": "/2PcPjzp5klJNuIPPjnatJcbR3hh.jpg"
+    },
+    {
+      "personId": 1080208,
+      "name": "Zoe Burton",
+      "character": "Daughter",
+      "order": 13,
+      "cast_id": 25,
+      "popularity": 0.08,
+      "profile_path": null
+    },
+    {
+      "personId": 9380,
+      "name": "Paul Goddard",
+      "character": "Son-in-Law",
+      "order": 14,
+      "cast_id": 26,
+      "popularity": 2.3115,
+      "profile_path": "/z6XP6Xhkh5ZE88gBOz2FnVQaKuf.jpg"
+    },
+    {
+      "personId": 1080209,
+      "name": "Wade Hayward",
+      "character": "Grandson",
+      "order": 15,
+      "cast_id": 27,
+      "popularity": 0.1007,
+      "profile_path": null
+    },
+    {
+      "personId": 210276,
+      "name": "Brittany Byrnes",
+      "character": "Granddaughter",
+      "order": 16,
+      "cast_id": 28,
+      "popularity": 0.8703,
+      "profile_path": null
+    },
+    {
+      "personId": 75934,
+      "name": "Mary Acres",
+      "character": "Valda",
+      "order": 17,
+      "cast_id": 29,
+      "popularity": 0.3938,
+      "profile_path": null
+    },
+    {
+      "personId": 2108110,
+      "name": "Janet Foye",
+      "character": "Country Woman",
+      "order": 18,
+      "cast_id": 79,
+      "popularity": 0.4601,
+      "profile_path": null
+    },
+    {
+      "personId": 4072021,
+      "name": "Pamela Hawken",
+      "character": "Country Woman",
+      "order": 19,
+      "cast_id": 80,
+      "popularity": 0.0934,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 58137,
+      "name": "Chris Noonan",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4565,
+      "profile_path": "/c2puWxztfzl6q4XShy7NceXZNtE.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 4932,
+      "name": "farm"
+    },
+    {
+      "id": 3020,
+      "name": "sheep"
+    },
+    {
+      "id": 4931,
+      "name": "pig"
+    },
+    {
+      "id": 905,
+      "name": "alarm clock"
+    },
+    {
+      "id": 977,
+      "name": "cat"
+    },
+    {
+      "id": 1339,
+      "name": "duck"
+    },
+    {
+      "id": 11115,
+      "name": "heroism"
+    },
+    {
+      "id": 5608,
+      "name": "affection"
+    },
+    {
+      "id": 8082,
+      "name": "piglet"
+    },
+    {
+      "id": 11477,
+      "name": "anthropomorphism"
+    },
+    {
+      "id": 15101,
+      "name": "based on children's book"
+    },
+    {
+      "id": 15162,
+      "name": "dog"
+    },
+    {
+      "id": 18013,
+      "name": "separation"
+    },
+    {
+      "id": 18165,
+      "name": "animals"
+    },
+    {
+      "id": 154846,
+      "name": "farmer"
+    },
+    {
+      "id": 158019,
+      "name": "grandson"
+    },
+    {
+      "id": 189609,
+      "name": "sheepdog"
+    },
+    {
+      "id": 206052,
+      "name": "talking pig"
+    },
+    {
+      "id": 207317,
+      "name": "christmas"
+    }
+  ]
+}

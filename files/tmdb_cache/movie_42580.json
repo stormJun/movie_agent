@@ -1,0 +1,258 @@
+{
+  "overview": "Michael Chapman, a former child TV star, runs a struggling talent agency specilizing in child acts. When a young girl off the street puts on a real performance after he catches her picking his pocket, he may have just found the next big thing.",
+  "release_date": "1993-06-04",
+  "runtime": 91,
+  "budget": 2000000,
+  "revenue": 12440858,
+  "tmdb_vote_average": 5.711,
+  "tmdb_vote_count": 152,
+  "tmdb_popularity": 1.2609,
+  "original_language": "en",
+  "poster_path": "/dKsvF5t5xsm17HG3GJzQQGJpJzP.jpg",
+  "backdrop_path": "/wvg3tUVZ4iv7xjBRlyyWyvzLshA.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 9195,
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 521,
+      "name": "Michael J. Fox",
+      "character": "Michael Chapman",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.0225,
+      "profile_path": "/c8wWX6QsmrvwZ1flHF5iprAPdK7.jpg"
+    },
+    {
+      "personId": 61904,
+      "name": "Christina Vidal Mitchell",
+      "character": "Angie Vega",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 1.2913,
+      "profile_path": "/crf8W71bjJIHPiFYB1ny4Dl3amY.jpg"
+    },
+    {
+      "personId": 78729,
+      "name": "Nathan Lane",
+      "character": "Ed Chapman",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 2.7287,
+      "profile_path": "/nEYS0KO1qVO3y0RAt8V8pFxnPb7.jpg"
+    },
+    {
+      "personId": 8536,
+      "name": "Victor Garber",
+      "character": "Brian Spiro",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 2.8268,
+      "profile_path": "/zPkpRPdW7rEm4fjgoJNz8hAZ6av.jpg"
+    },
+    {
+      "personId": 38582,
+      "name": "David Krumholtz",
+      "character": "Barry Corman",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 3.0423,
+      "profile_path": "/2vaimzfyPQVxZGHbQS5M3z3tZw0.jpg"
+    },
+    {
+      "personId": 87255,
+      "name": "Cyndi Lauper",
+      "character": "Geena Briganti",
+      "order": 5,
+      "cast_id": 5,
+      "popularity": 1.4546,
+      "profile_path": "/9WIFmL57TcQARRaoysn66KDGL7C.jpg"
+    },
+    {
+      "personId": 1232,
+      "name": "David Huddleston",
+      "character": "Herr Corcoran",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 1.4523,
+      "profile_path": "/g4FEQ1cRhrwjdd1boWDSLkrWK1g.jpg"
+    },
+    {
+      "personId": 1570190,
+      "name": "Frances Chaney",
+      "character": "Mrs. Cantrell",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 0.9343,
+      "profile_path": "/yEglTFdg6vbkyU1y5hEN5O6AONJ.jpg"
+    },
+    {
+      "personId": 164426,
+      "name": "Kathryn Grody",
+      "character": "Mrs. Corman",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 0.4971,
+      "profile_path": "/bxmrevUhLWdWoaFtqy6SwGglgTn.jpg"
+    },
+    {
+      "personId": 9572,
+      "name": "Mary Alice",
+      "character": "Mrs. Gordon",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 1.0301,
+      "profile_path": "/jniFVDRjYyIxx5EFTR2kzpFAB02.jpg"
+    },
+    {
+      "personId": 42324,
+      "name": "Annabelle Gurwitch",
+      "character": "Debbie",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 0.8209,
+      "profile_path": "/8aiLc2xzjpCGOx5vWfKQXEOtaRN.jpg"
+    },
+    {
+      "personId": 171673,
+      "name": "Kathleen McNenny",
+      "character": "Allison Jones",
+      "order": 11,
+      "cast_id": 16,
+      "popularity": 0.5848,
+      "profile_path": "/cDwjK7AXvqns0YknppoGNBTCErN.jpg"
+    },
+    {
+      "personId": 1173187,
+      "name": "Jonathan C. Kaplan",
+      "character": "George",
+      "order": 12,
+      "cast_id": 17,
+      "popularity": 1.1854,
+      "profile_path": "/6RbLywpVCcAtcjZmiVsBZuRQv7Z.jpg"
+    },
+    {
+      "personId": 1040043,
+      "name": "Tony Hendra",
+      "character": "Cookie Commercial Director",
+      "order": 13,
+      "cast_id": 18,
+      "popularity": 0.4895,
+      "profile_path": "/clFWUwXg6cyvZndvJwJVptUTusJ.jpg"
+    },
+    {
+      "personId": 176958,
+      "name": "Mario Todisco",
+      "character": "Driver",
+      "order": 14,
+      "cast_id": 19,
+      "popularity": 2.177,
+      "profile_path": "/paGo0TMKtKaCNu2LSjahYNz6UiK.jpg"
+    },
+    {
+      "personId": 40004,
+      "name": "Michael Rupert",
+      "character": "Harrison",
+      "order": 15,
+      "cast_id": 20,
+      "popularity": 0.6078,
+      "profile_path": "/iEqDTYhlrcmLojiyh4LaC17MRjS.jpg"
+    },
+    {
+      "personId": 11870,
+      "name": "Christine Baranski",
+      "character": "Carol",
+      "order": 16,
+      "cast_id": 21,
+      "popularity": 3.5073,
+      "profile_path": "/q6Zi3BYlmoim1JXXMGgRVS5C87x.jpg"
+    },
+    {
+      "personId": 33396,
+      "name": "Sean Power",
+      "character": "Lenny",
+      "order": 17,
+      "cast_id": 22,
+      "popularity": 1.6897,
+      "profile_path": "/rYweGzNcHpRmodT87PMLvgVCbV5.jpg"
+    },
+    {
+      "personId": 56523,
+      "name": "Laura Bell Bundy",
+      "character": "Courtney Aspinall",
+      "order": 18,
+      "cast_id": 23,
+      "popularity": 1.2631,
+      "profile_path": "/u2jEH4n630lCXKV9GaUkmRV5vu4.jpg"
+    },
+    {
+      "personId": 138000,
+      "name": "Christopher Durang",
+      "character": "Santa",
+      "order": 19,
+      "cast_id": 24,
+      "popularity": 0.4209,
+      "profile_path": "/qC5n6xUE8YVoXFGxjaWvQ3lpEcf.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 90037,
+      "name": "James Lapine",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5001,
+      "profile_path": "/ff9SmSsPt7chds2PTWyvEoL2DUq.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 1785,
+      "name": "casting agent"
+    },
+    {
+      "id": 33935,
+      "name": "tv commercial"
+    },
+    {
+      "id": 155621,
+      "name": "child star"
+    },
+    {
+      "id": 162936,
+      "name": "precocious child"
+    },
+    {
+      "id": 190186,
+      "name": "talent agent"
+    },
+    {
+      "id": 207317,
+      "name": "christmas"
+    }
+  ]
+}

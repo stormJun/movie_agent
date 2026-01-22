@@ -1,0 +1,166 @@
+{
+  "overview": "The quirky story of a young boy's adventures growing up with his stunningly beautiful mother and the two very different men who love her.",
+  "release_date": "1995-11-22",
+  "runtime": 101,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.036,
+  "tmdb_vote_count": 14,
+  "tmdb_popularity": 3.0549,
+  "original_language": "en",
+  "poster_path": "/6v3VxWhFsr2Qx8qIQkG4WL3f76X.jpg",
+  "backdrop_path": "/zJIZVQ8wLpkL3cmrkIhMOshmOdR.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance",
+    "War"
+  ],
+  "production_companies": [
+    {
+      "id": 1898,
+      "name": "Fís Éireann/Screen Ireland",
+      "origin_country": "IE"
+    },
+    {
+      "id": 8,
+      "name": "Fine Line Features",
+      "origin_country": "US"
+    },
+    {
+      "id": 104,
+      "name": "Canal+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 6705,
+      "name": "Film4 Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "IE",
+      "name": "Ireland"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2876,
+      "name": "Matt Dillon",
+      "character": "Terry Klout",
+      "order": 0,
+      "cast_id": 5,
+      "popularity": 4.4328,
+      "profile_path": "/wVoSUexYH79igPgxIXKWRlV2uBk.jpg"
+    },
+    {
+      "personId": 567972,
+      "name": "Corban Walker",
+      "character": "Frank Bois",
+      "order": 1,
+      "cast_id": 6,
+      "popularity": 0.3513,
+      "profile_path": null
+    },
+    {
+      "personId": 5168,
+      "name": "Gabriel Byrne",
+      "character": "Jack Kelly",
+      "order": 2,
+      "cast_id": 7,
+      "popularity": 3.0224,
+      "profile_path": "/9r9oDGENg92VYYFMkV4C09IUlrb.jpg"
+    },
+    {
+      "personId": 57298,
+      "name": "Anne Parillaud",
+      "character": "Bernadette",
+      "order": 3,
+      "cast_id": 8,
+      "popularity": 2.0339,
+      "profile_path": "/jv8ufhXcPc00l0PWkc01CfJoczC.jpg"
+    },
+    {
+      "personId": 140230,
+      "name": "Niall Tóibín",
+      "character": "Handy Paige",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 1.2171,
+      "profile_path": "/gWIVPjTihFpmCbTqMwEc81dKVsz.jpg"
+    },
+    {
+      "personId": 17024,
+      "name": "Owen Roe",
+      "character": "Senior Customs Officer",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 1.1912,
+      "profile_path": "/7ojmv5J9yohpvA8Jli84h412Ptj.jpg"
+    },
+    {
+      "personId": 72466,
+      "name": "Colin Farrell",
+      "character": "Young Man In Cinema No. 2 (uncredited)",
+      "order": 6,
+      "cast_id": 14,
+      "popularity": 7.4899,
+      "profile_path": "/oyQVfpowL9eSudYhwoPGkd9WxS7.jpg"
+    },
+    {
+      "personId": 44033,
+      "name": "Barbara Alyn Woods",
+      "character": "Marcia",
+      "order": 7,
+      "cast_id": 28,
+      "popularity": 1.2697,
+      "profile_path": "/9mEaXMGP03gsCkqW3svWxTk2lXi.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 125543,
+      "name": "Michael Lindsay-Hogg",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6711,
+      "profile_path": "/bF0N8ses8QGgFpIUssBF9kOgHla.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 9856,
+      "name": "flashback"
+    },
+    {
+      "id": 13028,
+      "name": "writer"
+    },
+    {
+      "id": 14985,
+      "name": "ireland"
+    },
+    {
+      "id": 208501,
+      "name": "troop ship"
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "overview": "Tired of scaring humans every October 31 with the same old bag of tricks, Jack Skellington, the spindly king of Halloween Town, kidnaps Santa Claus and plans to deliver shrunken heads and other ghoulish gifts to children on Christmas morning. But as Christmas approaches, Jack's rag-doll girlfriend, Sally, tries to foil his misguided plans.",
+  "release_date": "1993-10-09",
+  "runtime": 76,
+  "budget": 18000000,
+  "revenue": 75634409,
+  "tmdb_vote_average": 7.832,
+  "tmdb_vote_count": 10106,
+  "tmdb_popularity": 10.2764,
+  "original_language": "en",
+  "poster_path": "/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+  "backdrop_path": "/16lk65YfrDFIr6evkWRjSeOOSws.jpg",
+  "tmdb_genres_raw": [
+    "Fantasy",
+    "Animation",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 9195,
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 8835,
+      "name": "Skellington Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 531,
+      "name": "Danny Elfman",
+      "character": "Jack Skellington (singing) / Barrel / Clown with the Tear away Face (voice)",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.981,
+      "profile_path": "/bcpur9bF56nLxzFzZowipA2wZhy.jpg"
+    },
+    {
+      "personId": 14541,
+      "name": "Chris Sarandon",
+      "character": "Jack Skellington (voice)",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.3902,
+      "profile_path": "/jP92Lq3JHl8mbdxzcZ6PyCQDwa5.jpg"
+    },
+    {
+      "personId": 11514,
+      "name": "Catherine O'Hara",
+      "character": "Sally / Shock (voice)",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 5.722,
+      "profile_path": "/xjthrsXA31PVX91ByIQzORKSD0E.jpg"
+    },
+    {
+      "personId": 21282,
+      "name": "William Hickey",
+      "character": "Dr. Finkelstein (voice)",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.8739,
+      "profile_path": "/sqqmvSkDK6vDNrmEgUAjzWztg9c.jpg"
+    },
+    {
+      "personId": 13243,
+      "name": "Glenn Shadix",
+      "character": "Mayor (voice)",
+      "order": 4,
+      "cast_id": 16,
+      "popularity": 0.9968,
+      "profile_path": "/zTu0Fh0ohLIvFnEXiRvhe91T3Wg.jpg"
+    },
+    {
+      "personId": 5129,
+      "name": "Paul Reubens",
+      "character": "Lock (voice)",
+      "order": 5,
+      "cast_id": 17,
+      "popularity": 2.1647,
+      "profile_path": "/9xGL3pGNAiZDtzKTVDQY90Mkyqs.jpg"
+    },
+    {
+      "personId": 95758,
+      "name": "Ken Page",
+      "character": "Oogie Boogie (voice)",
+      "order": 6,
+      "cast_id": 45,
+      "popularity": 0.8093,
+      "profile_path": "/pF2kpxQ9ycQyw3LvhmE5oJ4XQf1.jpg"
+    },
+    {
+      "personId": 1495928,
+      "name": "Edward Ivory",
+      "character": "Santa Claus (voice)",
+      "order": 7,
+      "cast_id": 44,
+      "popularity": 0.6926,
+      "profile_path": null
+    },
+    {
+      "personId": 2011698,
+      "name": "Susan McBride",
+      "character": "Big Witch / WWD. (voice)",
+      "order": 8,
+      "cast_id": 126,
+      "popularity": 0.5646,
+      "profile_path": null
+    },
+    {
+      "personId": 1383860,
+      "name": "Debi Durst",
+      "character": "Corpse Kid / Corpse Mom / Small Witch (voice)",
+      "order": 9,
+      "cast_id": 51,
+      "popularity": 0.9701,
+      "profile_path": "/eyciVzqLaB7qDxBJ20c0OaNBUSc.jpg"
+    },
+    {
+      "personId": 61965,
+      "name": "Greg Proops",
+      "character": "Harlequin Demon / Devil / Sax Player (voice)",
+      "order": 10,
+      "cast_id": 54,
+      "popularity": 0.9678,
+      "profile_path": "/t3ImKdWc9eJz29Y9aStQa8aFiRB.jpg"
+    },
+    {
+      "personId": 1720665,
+      "name": "Kerry Katz",
+      "character": "Man Under Stairs / Vampire / Corpse Dad (voice)",
+      "order": 11,
+      "cast_id": 48,
+      "popularity": 0.4835,
+      "profile_path": null
+    },
+    {
+      "personId": 1720666,
+      "name": "Randy Crenshaw",
+      "character": "Mr. Hyde / Behemoth / Vampire Corpse Dad (voice)",
+      "order": 12,
+      "cast_id": 50,
+      "popularity": 1.3507,
+      "profile_path": "/7k0I27lamR9EZqZm37cOHBIqJcP.jpg"
+    },
+    {
+      "personId": 1720668,
+      "name": "Sherwood Ball",
+      "character": "Mummy / Vampire (voice)",
+      "order": 13,
+      "cast_id": 53,
+      "popularity": 1.3544,
+      "profile_path": null
+    },
+    {
+      "personId": 1222823,
+      "name": "Carmen Twillie",
+      "character": "Undersea Gal / Man Under the Stairs (voice)",
+      "order": 14,
+      "cast_id": 49,
+      "popularity": 0.5727,
+      "profile_path": "/6RsAMRvE82FHIGPOSJcbanJPewM.jpg"
+    },
+    {
+      "personId": 1720667,
+      "name": "Glenn Walters",
+      "character": "Wolfman (voice)",
+      "order": 15,
+      "cast_id": 52,
+      "popularity": 0.0655,
+      "profile_path": null
+    },
+    {
+      "personId": 2011699,
+      "name": "Mia Brown",
+      "character": "Additional Voices (voice)",
+      "order": 16,
+      "cast_id": 127,
+      "popularity": 0.1104,
+      "profile_path": null
+    },
+    {
+      "personId": 2011701,
+      "name": "L. Peter Callender",
+      "character": "Additional Voices (voice)",
+      "order": 17,
+      "cast_id": 128,
+      "popularity": 0.5266,
+      "profile_path": null
+    },
+    {
+      "personId": 2011702,
+      "name": "Ann Fraser",
+      "character": "Additional Voices (voice)",
+      "order": 18,
+      "cast_id": 129,
+      "popularity": 0.0545,
+      "profile_path": null
+    },
+    {
+      "personId": 2011703,
+      "name": "Jennifer Levey",
+      "character": "Additional Voices (voice)",
+      "order": 19,
+      "cast_id": 130,
+      "popularity": 0.0948,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 57646,
+      "name": "Henry Selick",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1819,
+      "profile_path": "/2LvtcpV8njWrp2W9eXmTNjsAWev.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 4062,
+      "name": "skeleton"
+    },
+    {
+      "id": 657,
+      "name": "fire"
+    },
+    {
+      "id": 2343,
+      "name": "magic"
+    },
+    {
+      "id": 65,
+      "name": "holiday"
+    },
+    {
+      "id": 1991,
+      "name": "santa claus"
+    },
+    {
+      "id": 3335,
+      "name": "halloween"
+    },
+    {
+      "id": 3289,
+      "name": "villain"
+    },
+    {
+      "id": 4344,
+      "name": "musical"
+    },
+    {
+      "id": 5570,
+      "name": "christmas tree"
+    },
+    {
+      "id": 12200,
+      "name": "saving christmas"
+    },
+    {
+      "id": 12198,
+      "name": "pumpkin"
+    },
+    {
+      "id": 9720,
+      "name": "woods"
+    },
+    {
+      "id": 10121,
+      "name": "stop motion"
+    },
+    {
+      "id": 162846,
+      "name": "ghost"
+    },
+    {
+      "id": 186466,
+      "name": "christmas horror"
+    },
+    {
+      "id": 207317,
+      "name": "christmas"
+    }
+  ]
+}

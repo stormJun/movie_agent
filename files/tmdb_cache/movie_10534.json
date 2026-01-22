@@ -1,0 +1,304 @@
+{
+  "overview": "In 1960, a hardy group of prep school students boards an old-fashioned sailing ship. With Capt. Christopher Sheldon at the helm, the oceangoing voyage is intended to teach the boys fortitude and discipline. But the youthful crew are about to get some unexpected instruction in survival when they get caught in the clutches of a white squall storm.",
+  "release_date": "1996-02-02",
+  "runtime": 129,
+  "budget": 38000000,
+  "revenue": 10300000,
+  "tmdb_vote_average": 6.264,
+  "tmdb_vote_count": 387,
+  "tmdb_popularity": 5.4005,
+  "original_language": "en",
+  "poster_path": "/muhTVa52IufjTaqNseXFQUAEuyG.jpg",
+  "backdrop_path": "/kpVQHZrBLUsB35S1pTbP8apgT5W.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Adventure"
+  ],
+  "production_companies": [
+    {
+      "id": 1644,
+      "name": "Largo Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 1645,
+      "name": "Scott Free Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 915,
+      "name": "Hollywood Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1229,
+      "name": "Jeff Bridges",
+      "character": "Christopher 'Skipper' Sheldon",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.7865,
+      "profile_path": "/xms1RAY6q7Lzp7wNeRCB0kzhucn.jpg"
+    },
+    {
+      "personId": 6692,
+      "name": "Caroline Goodall",
+      "character": "Alice Sheldon",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.9233,
+      "profile_path": "/4cagGtMqACvkuw6Llq8Li8UJ1AR.jpg"
+    },
+    {
+      "personId": 47879,
+      "name": "John Savage",
+      "character": "McCrea",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.644,
+      "profile_path": "/exzL5D7RSnIepF9FsFlzCs248he.jpg"
+    },
+    {
+      "personId": 24965,
+      "name": "Scott Wolf",
+      "character": "Chuck Gieg",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.3782,
+      "profile_path": "/pg1K2DNuX5LWZ1KqYpX6ykdeLYa.jpg"
+    },
+    {
+      "personId": 23958,
+      "name": "Jeremy Sisto",
+      "character": "Frank Beaumont",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 2.5312,
+      "profile_path": "/1XfuASLjBhGOhJ4os7juRJot2we.jpg"
+    },
+    {
+      "personId": 11864,
+      "name": "Ryan Phillippe",
+      "character": "Gil Martin",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 4.6064,
+      "profile_path": "/lDqc0Tl5PrXbXYBxhA11MRLlbfG.jpg"
+    },
+    {
+      "personId": 153862,
+      "name": "David Lascher",
+      "character": "Robert Marsh",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 0.4591,
+      "profile_path": "/a1BM0KDeO1wd488hxOezoq5Y9gO.jpg"
+    },
+    {
+      "personId": 83051,
+      "name": "Eric Michael Cole",
+      "character": "Dean Preston",
+      "order": 7,
+      "cast_id": 19,
+      "popularity": 0.8952,
+      "profile_path": "/v2eLFJQ0TOAFvGwCr2T1Y4dMOJt.jpg"
+    },
+    {
+      "personId": 61983,
+      "name": "Jason Marsden",
+      "character": "Shay Jennings",
+      "order": 8,
+      "cast_id": 20,
+      "popularity": 4.0831,
+      "profile_path": "/68kkcU88K9vS6Rrw2ysfe2zFwZ0.jpg"
+    },
+    {
+      "personId": 56930,
+      "name": "David Selby",
+      "character": "Francis Beaumont",
+      "order": 9,
+      "cast_id": 21,
+      "popularity": 1.44,
+      "profile_path": "/w7OUsn0tXFV3p056704eP7DkrcP.jpg"
+    },
+    {
+      "personId": 17413,
+      "name": "Julio Oscar Mechoso",
+      "character": "Girard Pascal",
+      "order": 10,
+      "cast_id": 22,
+      "popularity": 1.6812,
+      "profile_path": "/2m1vtlRlSxozMOoHeobCY2pbrPi.jpg"
+    },
+    {
+      "personId": 6752,
+      "name": "Zeljko Ivanek",
+      "character": "Sanders",
+      "order": 11,
+      "cast_id": 23,
+      "popularity": 3.1778,
+      "profile_path": "/xLv19n8UvGJLxI7Z6RIv9eNXGmf.jpg"
+    },
+    {
+      "personId": 9296,
+      "name": "Balthazar Getty",
+      "character": "Tod Johnstone",
+      "order": 12,
+      "cast_id": 24,
+      "popularity": 1.6434,
+      "profile_path": "/xhj8GXVRe9h6U1Z9hum4GjyQjNS.jpg"
+    },
+    {
+      "personId": 58019,
+      "name": "Ethan Embry",
+      "character": "Tracy Lapchick",
+      "order": 13,
+      "cast_id": 25,
+      "popularity": 3.6312,
+      "profile_path": "/feYnMlTejbHfkhD1akVVXKWG0u1.jpg"
+    },
+    {
+      "personId": 1217532,
+      "name": "Jordan Clarke",
+      "character": "Charles Gieg",
+      "order": 14,
+      "cast_id": 30,
+      "popularity": 0.5725,
+      "profile_path": null
+    },
+    {
+      "personId": 552218,
+      "name": "Lizbeth MacKay",
+      "character": "Middy Gieg",
+      "order": 15,
+      "cast_id": 31,
+      "popularity": 0.4168,
+      "profile_path": "/elwev9KElVuZFXrct0hq8GJyrcd.jpg"
+    },
+    {
+      "personId": 1236283,
+      "name": "Jill Larson",
+      "character": "Peggy Beaumont",
+      "order": 16,
+      "cast_id": 32,
+      "popularity": 1.6943,
+      "profile_path": "/iL0YIQk8bSSeyd3OojffWJhNUjT.jpg"
+    },
+    {
+      "personId": 170202,
+      "name": "James Medina",
+      "character": "Cuban Commander",
+      "order": 17,
+      "cast_id": 33,
+      "popularity": 0.2539,
+      "profile_path": null
+    },
+    {
+      "personId": 8986,
+      "name": "James Rebhorn",
+      "character": "Tyler",
+      "order": 18,
+      "cast_id": 28,
+      "popularity": 2.1243,
+      "profile_path": "/jRdR3q28gTPQU6eWRgiIqzGuMKU.jpg"
+    },
+    {
+      "personId": 3136125,
+      "name": "Nicole Ann Samuel",
+      "character": "Girl in Brothel",
+      "order": 19,
+      "cast_id": 34,
+      "popularity": 0.0429,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 578,
+      "name": "Ridley Scott",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 3.2518,
+      "profile_path": "/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2082,
+      "name": "sailing trip"
+    },
+    {
+      "id": 3180,
+      "name": "sailing"
+    },
+    {
+      "id": 2913,
+      "name": "diary"
+    },
+    {
+      "id": 10683,
+      "name": "coming of age"
+    },
+    {
+      "id": 10349,
+      "name": "survival"
+    },
+    {
+      "id": 18068,
+      "name": "teenage boy"
+    },
+    {
+      "id": 46962,
+      "name": "discipline"
+    },
+    {
+      "id": 167836,
+      "name": "squall"
+    },
+    {
+      "id": 167837,
+      "name": "sail"
+    },
+    {
+      "id": 167861,
+      "name": "caribbean sea"
+    },
+    {
+      "id": 167863,
+      "name": "male bonding"
+    },
+    {
+      "id": 167868,
+      "name": "seasickness"
+    },
+    {
+      "id": 168683,
+      "name": "storm at sea"
+    },
+    {
+      "id": 208992,
+      "name": "1960s"
+    },
+    {
+      "id": 346769,
+      "name": "gay interest"
+    }
+  ]
+}

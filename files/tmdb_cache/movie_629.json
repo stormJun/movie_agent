@@ -1,0 +1,316 @@
+{
+  "overview": "Held in an L.A. interrogation room, Verbal Kint attempts to convince the feds that a mythic crime lord, Keyser Soze, not only exists, but was also responsible for drawing him and his four partners into a multi-million dollar heist that ended with an explosion in San Pedro harbor – leaving few survivors. Verbal lures his interrogators with an incredible story of the crime lord's almost supernatural prowess.",
+  "release_date": "1995-07-19",
+  "runtime": 106,
+  "budget": 6000000,
+  "revenue": 23300000,
+  "tmdb_vote_average": 8.172,
+  "tmdb_vote_count": 11057,
+  "tmdb_popularity": 12.7845,
+  "original_language": "en",
+  "poster_path": "/99X2SgyFunJFXGAYnDv3sb9pnUD.jpg",
+  "backdrop_path": "/hy0Hx9fMPk2fmw26Li60z1S2giU.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Crime",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 9168,
+      "name": "Bad Hat Harry Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 361,
+      "name": "Blue Parrot Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "es",
+      "name": "Español"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 9045,
+      "name": "Stephen Baldwin",
+      "character": "McManus",
+      "order": 0,
+      "cast_id": 19,
+      "popularity": 3.2661,
+      "profile_path": "/w2nZjBsEsjboQDZJXEkysuGgue4.jpg"
+    },
+    {
+      "personId": 5168,
+      "name": "Gabriel Byrne",
+      "character": "Keaton",
+      "order": 1,
+      "cast_id": 20,
+      "popularity": 3.0224,
+      "profile_path": "/9r9oDGENg92VYYFMkV4C09IUlrb.jpg"
+    },
+    {
+      "personId": 1121,
+      "name": "Benicio del Toro",
+      "character": "Fenster",
+      "order": 2,
+      "cast_id": 21,
+      "popularity": 5.6972,
+      "profile_path": "/cVh4UgCMu6aAkZ2BqymTLV86FzZ.jpg"
+    },
+    {
+      "personId": 7166,
+      "name": "Kevin Pollak",
+      "character": "Hockney",
+      "order": 3,
+      "cast_id": 22,
+      "popularity": 2.2416,
+      "profile_path": "/jWhKIVtmc3vIoS2l1VsdNwMAMJB.jpg"
+    },
+    {
+      "personId": 1979,
+      "name": "Kevin Spacey",
+      "character": "Verbal",
+      "order": 4,
+      "cast_id": 23,
+      "popularity": 3.1115,
+      "profile_path": "/nPrUZDEbGQe6jwpVbHKJCXsMd7r.jpg"
+    },
+    {
+      "personId": 9046,
+      "name": "Chazz Palminteri",
+      "character": "Dave Kujan",
+      "order": 5,
+      "cast_id": 24,
+      "popularity": 1.707,
+      "profile_path": "/mCbjKVyE5B2tleshbJw44tw3ktZ.jpg"
+    },
+    {
+      "personId": 4935,
+      "name": "Pete Postlethwaite",
+      "character": "Kobayashi",
+      "order": 6,
+      "cast_id": 25,
+      "popularity": 3.4106,
+      "profile_path": "/4RxwgdF1WXKjXaaAXIWeFqtMWfD.jpg"
+    },
+    {
+      "personId": 2179,
+      "name": "Suzy Amis",
+      "character": "Edie Finneran",
+      "order": 7,
+      "cast_id": 27,
+      "popularity": 2.0126,
+      "profile_path": "/q8aPLY9CjCl7tp60neddbJl4ZfW.jpg"
+    },
+    {
+      "personId": 4808,
+      "name": "Giancarlo Esposito",
+      "character": "Jack Baer",
+      "order": 8,
+      "cast_id": 26,
+      "popularity": 5.2377,
+      "profile_path": "/MJOo4QZgMAb3y8QzOUDVFQusQZ.jpg"
+    },
+    {
+      "personId": 6486,
+      "name": "Dan Hedaya",
+      "character": "Jeff Rabin",
+      "order": 9,
+      "cast_id": 28,
+      "popularity": 3.3541,
+      "profile_path": "/evL3mV8hNIjZOb1XG3qtgmiTgS5.jpg"
+    },
+    {
+      "personId": 101377,
+      "name": "Paul Bartel",
+      "character": "Smuggler",
+      "order": 10,
+      "cast_id": 32,
+      "popularity": 0.8049,
+      "profile_path": "/qBs4BQ80N3QsQKfUApEeKcFoRap.jpg"
+    },
+    {
+      "personId": 56166,
+      "name": "Carl Bressler",
+      "character": "Saul Berg",
+      "order": 11,
+      "cast_id": 38,
+      "popularity": 1.9631,
+      "profile_path": "/g4ZIiRNlF2u1pamX65B28VuFunH.jpg"
+    },
+    {
+      "personId": 201883,
+      "name": "Phillipe Simon",
+      "character": "Fortier",
+      "order": 12,
+      "cast_id": 166,
+      "popularity": 0.4282,
+      "profile_path": "/kBlKF87X1mnLfBKWmUVVHCLVL1l.jpg"
+    },
+    {
+      "personId": 1228876,
+      "name": "Jack Shearer",
+      "character": "Renault",
+      "order": 13,
+      "cast_id": 165,
+      "popularity": 0.8353,
+      "profile_path": "/93sSC5PtmLR1CyAjyguASWz1UDw.jpg"
+    },
+    {
+      "personId": 9047,
+      "name": "Christine Estabrook",
+      "character": "Dr. Plummer",
+      "order": 14,
+      "cast_id": 29,
+      "popularity": 1.3582,
+      "profile_path": "/7RDpJNd3mOqbtnOKJisF04pQSpH.jpg"
+    },
+    {
+      "personId": 9048,
+      "name": "Clark Gregg",
+      "character": "Dr. Walters",
+      "order": 15,
+      "cast_id": 30,
+      "popularity": 2.841,
+      "profile_path": "/mq686D91XoZpqkzELn0888NOiZW.jpg"
+    },
+    {
+      "personId": 156227,
+      "name": "Morgan Hunter",
+      "character": "Arkosh Kovash",
+      "order": 16,
+      "cast_id": 39,
+      "popularity": 0.3481,
+      "profile_path": null
+    },
+    {
+      "personId": 1386351,
+      "name": "Ken Daly",
+      "character": "Translator",
+      "order": 17,
+      "cast_id": 169,
+      "popularity": 0.7316,
+      "profile_path": null
+    },
+    {
+      "personId": 84894,
+      "name": "Michelle Clunie",
+      "character": "Sketch Artist",
+      "order": 18,
+      "cast_id": 170,
+      "popularity": 1.4257,
+      "profile_path": "/2ufYSKtGj4smn6hBtQO1Uu81er2.jpg"
+    },
+    {
+      "personId": 3218,
+      "name": "Louis Lombardi",
+      "character": "Strausz",
+      "order": 19,
+      "cast_id": 31,
+      "popularity": 1.9523,
+      "profile_path": "/cYxbGCEf0mnsACuxCIX0faCjGUQ.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 9032,
+      "name": "Bryan Singer",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.2235,
+      "profile_path": "/to8mWJabPoWkphkbYKoutCVSj06.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 642,
+      "name": "robbery"
+    },
+    {
+      "id": 5493,
+      "name": "relatives"
+    },
+    {
+      "id": 10051,
+      "name": "heist"
+    },
+    {
+      "id": 9856,
+      "name": "flashback"
+    },
+    {
+      "id": 11734,
+      "name": "police corruption"
+    },
+    {
+      "id": 12570,
+      "name": "whodunit"
+    },
+    {
+      "id": 12670,
+      "name": "los angeles, california"
+    },
+    {
+      "id": 14604,
+      "name": "theft"
+    },
+    {
+      "id": 15009,
+      "name": "criminal"
+    },
+    {
+      "id": 18023,
+      "name": "criminal mastermind"
+    },
+    {
+      "id": 158022,
+      "name": "cargo ship"
+    },
+    {
+      "id": 184312,
+      "name": "mind game"
+    },
+    {
+      "id": 207268,
+      "name": "neo-noir"
+    },
+    {
+      "id": 263443,
+      "name": "mystery villain"
+    },
+    {
+      "id": 325843,
+      "name": "pretentious"
+    },
+    {
+      "id": 327412,
+      "name": "rashomon effect"
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "overview": "The mostly true story of the legendary \"worst director of all time\", who, with the help of his strange friends, filmed countless B-movies without ever becoming famous or successful.",
+  "release_date": "1994-09-28",
+  "runtime": 127,
+  "budget": 18000000,
+  "revenue": 5900000,
+  "tmdb_vote_average": 7.482,
+  "tmdb_vote_count": 2448,
+  "tmdb_popularity": 2.2159,
+  "original_language": "en",
+  "poster_path": "/jNao464ZTwWUWr3uJJ8swVgaKd9.jpg",
+  "backdrop_path": "/9Lc59aJZVILQ5grIqhl9jaMGOpv.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    {
+      "id": 9195,
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 8601,
+      "name": "Tim Burton Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 813,
+      "name": "Di Novi Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 85,
+      "name": "Johnny Depp",
+      "character": "Ed Wood",
+      "order": 0,
+      "cast_id": 5,
+      "popularity": 8.6485,
+      "profile_path": "/drl9qDZoxPHhUbDamYcOQEhlHzW.jpg"
+    },
+    {
+      "personId": 2641,
+      "name": "Martin Landau",
+      "character": "Bela Lugosi",
+      "order": 1,
+      "cast_id": 6,
+      "popularity": 2.2864,
+      "profile_path": "/3Hk817L900dnoOuvVJIaXhQdgNy.jpg"
+    },
+    {
+      "personId": 520,
+      "name": "Sarah Jessica Parker",
+      "character": "Dolores Fuller",
+      "order": 2,
+      "cast_id": 7,
+      "popularity": 3.272,
+      "profile_path": "/tEhHY7Uyn8VktwLhawBRuR0tdaJ.jpg"
+    },
+    {
+      "personId": 4687,
+      "name": "Patricia Arquette",
+      "character": "Kathy O'Hara",
+      "order": 3,
+      "cast_id": 8,
+      "popularity": 4.1778,
+      "profile_path": "/jeThSouMatiuRiLkjDvSBLHpmq0.jpg"
+    },
+    {
+      "personId": 4004,
+      "name": "Jeffrey Jones",
+      "character": "Criswell",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 3.3955,
+      "profile_path": "/zLodpqWUb9OzQLpK1ZY9im1Lh0p.jpg"
+    },
+    {
+      "personId": 3173,
+      "name": "G. D. Spradlin",
+      "character": "Reverend Lemon",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 0.9771,
+      "profile_path": "/pWNa9H3ABB3Ug9CwTfVNtHsCFjV.jpg"
+    },
+    {
+      "personId": 7132,
+      "name": "Vincent D'Onofrio",
+      "character": "Orson Welles",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 3.2082,
+      "profile_path": "/qkyiLolEqYMGH25xD4sFIXAjZQB.jpg"
+    },
+    {
+      "personId": 1532,
+      "name": "Bill Murray",
+      "character": "Bunny Breckinridge",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 3.4192,
+      "profile_path": "/nnCsJc9x3ZiG3AFyiyc3FPehppy.jpg"
+    },
+    {
+      "personId": 5170,
+      "name": "Mike Starr",
+      "character": "Georgie Weiss",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 2.4783,
+      "profile_path": "/hJGhV91dSUiFJ8GwGDTEEri79LX.jpg"
+    },
+    {
+      "personId": 7133,
+      "name": "Max Casella",
+      "character": "Paul Marco",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 2.4525,
+      "profile_path": "/gwjxobbLikH5UV2UROkrNxzpqI0.jpg"
+    },
+    {
+      "personId": 7134,
+      "name": "Brent Hinkley",
+      "character": "Conrad Brooks",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 1.2282,
+      "profile_path": "/6FZvUjIUTGLFBoxMbcBVkHgxmar.jpg"
+    },
+    {
+      "personId": 4452,
+      "name": "Lisa Marie",
+      "character": "Vampira",
+      "order": 11,
+      "cast_id": 37,
+      "popularity": 1.2639,
+      "profile_path": "/ze1gOeR6qfAMAUlMqNYdV7KX3Pd.jpg"
+    },
+    {
+      "personId": 7136,
+      "name": "Jim Myers",
+      "character": "Tor Johnson",
+      "order": 12,
+      "cast_id": 151,
+      "popularity": 0.8816,
+      "profile_path": "/ekJOuNSDbJALloXlgyCjAHmIviI.jpg"
+    },
+    {
+      "personId": 7137,
+      "name": "Juliet Landau",
+      "character": "Loretta King",
+      "order": 13,
+      "cast_id": 17,
+      "popularity": 1.2111,
+      "profile_path": "/fxLW9OteJEO2MGVaNc3oDL0EjR0.jpg"
+    },
+    {
+      "personId": 7138,
+      "name": "Clive Rosengren",
+      "character": "Ed Reynolds",
+      "order": 14,
+      "cast_id": 18,
+      "popularity": 0.3647,
+      "profile_path": "/n8EcJgGQodlJf5CvB6Z71fobQjf.jpg"
+    },
+    {
+      "personId": 7139,
+      "name": "Norman Alden",
+      "character": "Cameraman Bill",
+      "order": 15,
+      "cast_id": 19,
+      "popularity": 3.4694,
+      "profile_path": "/zfClMw6EEImQtxArqunRcjbjvMg.jpg"
+    },
+    {
+      "personId": 7140,
+      "name": "Leonard Termo",
+      "character": "Makeup Man Harry",
+      "order": 16,
+      "cast_id": 20,
+      "popularity": 1.1949,
+      "profile_path": "/A7B63DhCBSVNFyR1mV27GNgzYbg.jpg"
+    },
+    {
+      "personId": 2141,
+      "name": "Ned Bellamy",
+      "character": "Dr. Tom Mason",
+      "order": 17,
+      "cast_id": 21,
+      "popularity": 1.4716,
+      "profile_path": "/9qj6thu0g6iUc2hvfoEYlO4GSbY.jpg"
+    },
+    {
+      "personId": 7141,
+      "name": "Danny Dayton",
+      "character": "Soundman",
+      "order": 18,
+      "cast_id": 22,
+      "popularity": 0.8725,
+      "profile_path": "/aHO2FLTgypy210Vl3wVLTYosaUz.jpg"
+    },
+    {
+      "personId": 7142,
+      "name": "Ross Manarchy",
+      "character": "Camera Assistant",
+      "order": 19,
+      "cast_id": 23,
+      "popularity": 0.532,
+      "profile_path": "/dpK2uFch0ZnS8ScxXKER0LRqjaG.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 510,
+      "name": "Tim Burton",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 4.2767,
+      "profile_path": "/yHEHAHQpN9PfSEQx1UxZPczhcAi.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 30,
+      "name": "individual"
+    },
+    {
+      "id": 444,
+      "name": "taxi"
+    },
+    {
+      "id": 663,
+      "name": "fortune teller"
+    },
+    {
+      "id": 571,
+      "name": "transsexuality"
+    },
+    {
+      "id": 640,
+      "name": "transvestite"
+    },
+    {
+      "id": 886,
+      "name": "movie business"
+    },
+    {
+      "id": 1803,
+      "name": "drug addiction"
+    },
+    {
+      "id": 2792,
+      "name": "boxer"
+    },
+    {
+      "id": 2794,
+      "name": "oddball"
+    },
+    {
+      "id": 6562,
+      "name": "celebrity"
+    },
+    {
+      "id": 10338,
+      "name": "morphine"
+    },
+    {
+      "id": 12670,
+      "name": "los angeles, california"
+    },
+    {
+      "id": 12999,
+      "name": "black and white"
+    },
+    {
+      "id": 14632,
+      "name": "suburb"
+    },
+    {
+      "id": 162687,
+      "name": "theremin"
+    },
+    {
+      "id": 173594,
+      "name": "handgun"
+    },
+    {
+      "id": 180193,
+      "name": "trick or treating"
+    },
+    {
+      "id": 208611,
+      "name": "1950s"
+    }
+  ]
+}

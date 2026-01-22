@@ -1,0 +1,315 @@
+{
+  "overview": "In Prohibition-era Chicago, musicians Joe and Jerry witness a mob hit, and flee the state in an all-female band disguised as Josephine and Daphne, but further complications set in.",
+  "release_date": "1959-03-19",
+  "runtime": 122,
+  "budget": 2900000,
+  "revenue": 25000000,
+  "tmdb_vote_average": 8.087,
+  "tmdb_vote_count": 3750,
+  "tmdb_popularity": 7.6662,
+  "original_language": "en",
+  "poster_path": "/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+  "backdrop_path": "/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Romance",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 219,
+      "name": "The Mirisch Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3150,
+      "name": "Tony Curtis",
+      "character": "Joe (Josephine)",
+      "order": 0,
+      "cast_id": 5,
+      "popularity": 2.4639,
+      "profile_path": "/6Pj1XkYdI5Wc40Jl0UxJk8PPwlY.jpg"
+    },
+    {
+      "personId": 3151,
+      "name": "Jack Lemmon",
+      "character": "Jerry (Daphne)",
+      "order": 1,
+      "cast_id": 6,
+      "popularity": 2.2969,
+      "profile_path": "/7jWVWLr1VJqQrN3d4YJaATCIHRw.jpg"
+    },
+    {
+      "personId": 3149,
+      "name": "Marilyn Monroe",
+      "character": "Sugar Kane Kowalczyk",
+      "order": 2,
+      "cast_id": 15,
+      "popularity": 2.8285,
+      "profile_path": "/vcp6rHL2sZWdlJQDEWsEe0jAAe1.jpg"
+    },
+    {
+      "personId": 3152,
+      "name": "George Raft",
+      "character": "Spats Colombo",
+      "order": 3,
+      "cast_id": 16,
+      "popularity": 2.0653,
+      "profile_path": "/rTNM6gZpPduQfPb5UrDmYj48ALk.jpg"
+    },
+    {
+      "personId": 3155,
+      "name": "Pat O'Brien",
+      "character": "Detective Mulligan",
+      "order": 4,
+      "cast_id": 17,
+      "popularity": 1.0641,
+      "profile_path": "/a2io08DZPKgsaM8p9So2LAHOiPn.jpg"
+    },
+    {
+      "personId": 3156,
+      "name": "Joe E. Brown",
+      "character": "Osgood Fielding III",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 0.7636,
+      "profile_path": "/r4xvWwOfTjDrSxx2MRhsJW1omX.jpg"
+    },
+    {
+      "personId": 3160,
+      "name": "Nehemiah Persoff",
+      "character": "Little Bonaparte",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 1.8885,
+      "profile_path": "/vJoqhr7HVxP9HLTqt2rxo5OsSvq.jpg"
+    },
+    {
+      "personId": 3161,
+      "name": "Joan Shawlee",
+      "character": "Sweet Sue",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 0.9704,
+      "profile_path": "/oUmK5YF1jcGs5eEGStI1I3iF5vd.jpg"
+    },
+    {
+      "personId": 1700403,
+      "name": "Billy Gray",
+      "character": "Sig Poliakoff",
+      "order": 8,
+      "cast_id": 81,
+      "popularity": 0.2118,
+      "profile_path": null
+    },
+    {
+      "personId": 3163,
+      "name": "George E. Stone",
+      "character": "Toothpick Charlie",
+      "order": 9,
+      "cast_id": 18,
+      "popularity": 1.477,
+      "profile_path": "/xuQahElsqcJ24XpEbQEnvHOJMwJ.jpg"
+    },
+    {
+      "personId": 1238851,
+      "name": "Dave Barry",
+      "character": "Beinstock",
+      "order": 10,
+      "cast_id": 20,
+      "popularity": 0.6418,
+      "profile_path": "/sjBsu8FAne6NIJ77h1LLYqTWgYg.jpg"
+    },
+    {
+      "personId": 84229,
+      "name": "Mike Mazurki",
+      "character": "Spats' Henchman",
+      "order": 11,
+      "cast_id": 19,
+      "popularity": 1.478,
+      "profile_path": "/pqvD7JIIJ6NbzbnpvUmDWI63T39.jpg"
+    },
+    {
+      "personId": 1045763,
+      "name": "Harry Wilson",
+      "character": "Spats' Henchman",
+      "order": 12,
+      "cast_id": 21,
+      "popularity": 1.0411,
+      "profile_path": "/jbJHEyDbCRyD7hnUbmNjCNqWTMT.jpg"
+    },
+    {
+      "personId": 164975,
+      "name": "Beverly Wills",
+      "character": "Dolores",
+      "order": 13,
+      "cast_id": 22,
+      "popularity": 0.9723,
+      "profile_path": "/hfL1tnpME2VeTsbswifI3agrdnT.jpg"
+    },
+    {
+      "personId": 3168,
+      "name": "Barbara Drew",
+      "character": "Nellie",
+      "order": 14,
+      "cast_id": 12,
+      "popularity": 0.1884,
+      "profile_path": null
+    },
+    {
+      "personId": 81501,
+      "name": "Edward G. Robinson Jr.",
+      "character": "Johnny Paradise",
+      "order": 15,
+      "cast_id": 14,
+      "popularity": 0.4358,
+      "profile_path": "/3lUuOEIaso97RC5CzdHe3qwoUFD.jpg"
+    },
+    {
+      "personId": 1344987,
+      "name": "Mary Foley",
+      "character": "Band Member (uncredited)",
+      "order": 16,
+      "cast_id": 110,
+      "popularity": 0.1412,
+      "profile_path": null
+    },
+    {
+      "personId": 4258167,
+      "name": "Georgia Joan Hannan",
+      "character": "Band Member (uncredited)",
+      "order": 17,
+      "cast_id": 138,
+      "popularity": 0.779,
+      "profile_path": null
+    },
+    {
+      "personId": 1358269,
+      "name": "Colleen O'Sullivan",
+      "character": "Band Member (uncredited)",
+      "order": 18,
+      "cast_id": 129,
+      "popularity": 0.1622,
+      "profile_path": null
+    },
+    {
+      "personId": 2501534,
+      "name": "Al Breneman",
+      "character": "Bellhop (uncredited)",
+      "order": 19,
+      "cast_id": 99,
+      "popularity": 0.1184,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 3146,
+      "name": "Billy Wilder",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.3435,
+      "profile_path": "/nWV9BDDCbRegP7etiPjl3vYnJEq.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 520,
+      "name": "chicago, illinois"
+    },
+    {
+      "id": 1196,
+      "name": "florida"
+    },
+    {
+      "id": 108,
+      "name": "transvestism"
+    },
+    {
+      "id": 4048,
+      "name": "musician"
+    },
+    {
+      "id": 3581,
+      "name": "witness"
+    },
+    {
+      "id": 3864,
+      "name": "fake identity"
+    },
+    {
+      "id": 9758,
+      "name": "deception"
+    },
+    {
+      "id": 10391,
+      "name": "mafia"
+    },
+    {
+      "id": 12090,
+      "name": "cross dressing"
+    },
+    {
+      "id": 12999,
+      "name": "black and white"
+    },
+    {
+      "id": 13008,
+      "name": "train"
+    },
+    {
+      "id": 15214,
+      "name": "buddy"
+    },
+    {
+      "id": 155457,
+      "name": "screwball comedy"
+    },
+    {
+      "id": 160395,
+      "name": "spats"
+    },
+    {
+      "id": 160396,
+      "name": "all girl band"
+    },
+    {
+      "id": 160397,
+      "name": "st. valentine's day massacre"
+    },
+    {
+      "id": 160404,
+      "name": "valentine's day"
+    },
+    {
+      "id": 160406,
+      "name": "dressing"
+    },
+    {
+      "id": 170827,
+      "name": "sex comedy"
+    },
+    {
+      "id": 217140,
+      "name": "double identity"
+    },
+    {
+      "id": 320205,
+      "name": "south florida"
+    }
+  ]
+}

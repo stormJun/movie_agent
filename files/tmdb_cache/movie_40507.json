@@ -1,0 +1,268 @@
+{
+  "overview": "The Rebels rule the streets of Gary, Indiana. They shoot storekeeper Marvin Bookman for giving the police information about a drive-by shooting they committed. Marvin’s son, former NFL star and Rebel founder John returns to be with his father and, with a little help from some friends, to destroy the gang his way.",
+  "release_date": "1996-05-10",
+  "runtime": 99,
+  "budget": 4800000,
+  "revenue": 3014000,
+  "tmdb_vote_average": 5.6,
+  "tmdb_vote_count": 34,
+  "tmdb_popularity": 1.8216,
+  "original_language": "en",
+  "poster_path": "/uirrsTZmoPmscHZdyWz4tiXVqHE.jpg",
+  "backdrop_path": "/yowGMmlfVvqwPZWiZJrG1fBaa6V.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Drama",
+    "Crime",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 11787,
+      "name": "Po' Boy Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "es",
+      "name": "Español"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 9811,
+      "name": "Fred Williamson",
+      "character": "John Bookman",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 1.1296,
+      "profile_path": "/fwbqxb33pRZ5LcF3XZrZvxU1QSr.jpg"
+    },
+    {
+      "personId": 4774,
+      "name": "Jim Brown",
+      "character": "Jake Trevor",
+      "order": 1,
+      "cast_id": 6,
+      "popularity": 1.0044,
+      "profile_path": "/wfp06VC5yr9mdzdZ5JcbzqD5YEG.jpg"
+    },
+    {
+      "personId": 2230,
+      "name": "Pam Grier",
+      "character": "Laurie Thompson",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 2.3648,
+      "profile_path": "/irCJf8OTSaPkThijP8PWkP1A7ls.jpg"
+    },
+    {
+      "personId": 1818,
+      "name": "Paul Winfield",
+      "character": "Reverend Dorsey",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 1.4009,
+      "profile_path": "/6NLUJEFJCJ2Hog1ZOz4K2iyDvMZ.jpg"
+    },
+    {
+      "personId": 21009,
+      "name": "Isabel Sanford",
+      "character": "Gracie Bookman",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 1.1466,
+      "profile_path": "/qiVE5wtlJVXwSvqnNu7PUOQaCqA.jpg"
+    },
+    {
+      "personId": 1245503,
+      "name": "Oscar Brown Jr.",
+      "character": "Marvin Bookman",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 0.4544,
+      "profile_path": null
+    },
+    {
+      "personId": 6487,
+      "name": "Richard Roundtree",
+      "character": "Slick",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 2.199,
+      "profile_path": "/wPuLgW8PrzJFBrfsB03oon5MT7f.jpg"
+    },
+    {
+      "personId": 55841,
+      "name": "Ron O'Neal",
+      "character": "Bubba",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 1.2803,
+      "profile_path": "/aqcIHjX3MfbdViZlb4jPfzaDsEp.jpg"
+    },
+    {
+      "personId": 94570,
+      "name": "Christopher B. Duncan",
+      "character": "Spyro",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 1.0243,
+      "profile_path": "/6fC0HJ5DpqEKfvjnG1bDYyccw2R.jpg"
+    },
+    {
+      "personId": 86573,
+      "name": "Eddie Bo Smith Jr.",
+      "character": "Damien",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 1.5932,
+      "profile_path": "/66m3OnwwHLnhEWiBIp0onTyC3mr.jpg"
+    },
+    {
+      "personId": 1848768,
+      "name": "Dru Down",
+      "character": "Kayo",
+      "order": 10,
+      "cast_id": 17,
+      "popularity": 0.1378,
+      "profile_path": "/eznKvxmeNF5HsRt2XJpGzWMIdS0.jpg"
+    },
+    {
+      "personId": 1848770,
+      "name": "Shyheim Franklin",
+      "character": "Dink",
+      "order": 11,
+      "cast_id": 18,
+      "popularity": 0.214,
+      "profile_path": "/A1ZZh7Z7yNT9NS8AZqhKpkJb5fT.jpg"
+    },
+    {
+      "personId": 5694,
+      "name": "Robert Forster",
+      "character": "Detective Slatten",
+      "order": 12,
+      "cast_id": 13,
+      "popularity": 2.6179,
+      "profile_path": "/vGDifxN2PnO69rnpg6FoWkocFCD.jpg"
+    },
+    {
+      "personId": 16119,
+      "name": "Charles Napier",
+      "character": "Mayor",
+      "order": 13,
+      "cast_id": 14,
+      "popularity": 1.9959,
+      "profile_path": "/w16LEJlHDtqGWeFCk5a7a2GDeBK.jpg"
+    },
+    {
+      "personId": 61153,
+      "name": "Wings Hauser",
+      "character": "Michael Casey",
+      "order": 14,
+      "cast_id": 15,
+      "popularity": 1.3348,
+      "profile_path": "/yYGJCFjsWNVVOPqq2Rl1JWRrYt3.jpg"
+    },
+    {
+      "personId": 101615,
+      "name": "Frank Pesce",
+      "character": "Detective Waits",
+      "order": 15,
+      "cast_id": 19,
+      "popularity": 1.4472,
+      "profile_path": "/3GIoHp4pgOl2pETdEOfWrCmxrzr.jpg"
+    },
+    {
+      "personId": 73831,
+      "name": "Godfrey",
+      "character": "Marcus",
+      "order": 16,
+      "cast_id": 20,
+      "popularity": 1.3161,
+      "profile_path": "/aKI13rfct5TrtMrYJpOB0VOtm4b.jpg"
+    },
+    {
+      "personId": 1226519,
+      "name": "Tim Rhoze",
+      "character": "Blood",
+      "order": 17,
+      "cast_id": 24,
+      "popularity": 0.9672,
+      "profile_path": "/88LiZdy8qYK81Q8VMBCgm6RseyC.jpg"
+    },
+    {
+      "personId": 1798623,
+      "name": "Seraiah Carol",
+      "character": "Thelma Jones",
+      "order": 18,
+      "cast_id": 23,
+      "popularity": 0.1339,
+      "profile_path": null
+    },
+    {
+      "personId": 151200,
+      "name": "Dawn Stern",
+      "character": "Princess",
+      "order": 19,
+      "cast_id": 22,
+      "popularity": 0.703,
+      "profile_path": "/oJTWRBx1YUM5C515lcftZNnCFZ4.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 19266,
+      "name": "Larry Cohen",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8057,
+      "profile_path": "/5p1y0KKAVv5EK2XAfs9hsIMDiBq.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3149,
+      "name": "gangster"
+    },
+    {
+      "id": 7002,
+      "name": "vigilante"
+    },
+    {
+      "id": 10601,
+      "name": "blaxploitation cinema"
+    },
+    {
+      "id": 10950,
+      "name": "shootout"
+    },
+    {
+      "id": 11034,
+      "name": "b movie"
+    },
+    {
+      "id": 166492,
+      "name": "drive by shooting"
+    },
+    {
+      "id": 181858,
+      "name": "gang violence"
+    },
+    {
+      "id": 188955,
+      "name": "hand to hand combat"
+    }
+  ]
+}

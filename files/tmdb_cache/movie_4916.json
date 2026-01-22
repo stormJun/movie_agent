@@ -1,0 +1,238 @@
+{
+  "overview": "Before a criminal lawyer knows what has happened, she is forced to defend a wife killer she knows is guilty.",
+  "release_date": "1993-06-04",
+  "runtime": 107,
+  "budget": 12000000,
+  "revenue": 22866222,
+  "tmdb_vote_average": 5.644,
+  "tmdb_vote_count": 142,
+  "tmdb_popularity": 1.0809,
+  "original_language": "en",
+  "poster_path": "/a5b53cYM23bUA7OyoNyDtIJ38kc.jpg",
+  "backdrop_path": "/m4nj31M92zxZJxtjjOyZIYenTzQ.jpg",
+  "tmdb_genres_raw": [
+    "Thriller",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 915,
+      "name": "Hollywood Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 28412,
+      "name": "Rebecca De Mornay",
+      "character": "Jennifer Haines",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 3.3052,
+      "profile_path": "/zC2RrrdZv4UKUtHgCfKD6bJY1Qy.jpg"
+    },
+    {
+      "personId": 25129,
+      "name": "Don Johnson",
+      "character": "David Greenhill",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 3.5933,
+      "profile_path": "/6s6oav541p7xspCG6PvXut7knkP.jpg"
+    },
+    {
+      "personId": 32747,
+      "name": "Stephen Lang",
+      "character": "Phil Garson",
+      "order": 2,
+      "cast_id": 7,
+      "popularity": 6.8351,
+      "profile_path": "/gnO5VfkDgA2fsHweD0622LUY3Hu.jpg"
+    },
+    {
+      "personId": 5251,
+      "name": "Jack Warden",
+      "character": "Moe",
+      "order": 3,
+      "cast_id": 8,
+      "popularity": 2.3486,
+      "profile_path": "/hSShXiYMfRpMByaB5euZ59qCKN.jpg"
+    },
+    {
+      "personId": 13314,
+      "name": "Dana Ivey",
+      "character": "Judge Tompkins",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 2.1488,
+      "profile_path": "/oQEeRwEb9w4TuSVp334OP9z6Ljm.jpg"
+    },
+    {
+      "personId": 1242148,
+      "name": "Ron White",
+      "character": "Diangelo",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 0.6503,
+      "profile_path": "/rxM6b0zqJE2eb913zm8RSqSxKX2.jpg"
+    },
+    {
+      "personId": 271933,
+      "name": "Norma Dell'Agnese",
+      "character": "Emily",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 0.6099,
+      "profile_path": "/hoFgiolnQBZy67ScOtAjRi3GQbg.jpg"
+    },
+    {
+      "personId": 17646,
+      "name": "Sean McCann",
+      "character": "Nolan",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 0.7254,
+      "profile_path": "/sVT3HB2rIkfgZ87mCiGmYS2OrzF.jpg"
+    },
+    {
+      "personId": 40481,
+      "name": "Luis Guzmán",
+      "character": "Lt. Bernard Martinez",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 5.6095,
+      "profile_path": "/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg"
+    },
+    {
+      "personId": 552060,
+      "name": "Robert Kennedy",
+      "character": "Caniff",
+      "order": 9,
+      "cast_id": 33,
+      "popularity": 0.1772,
+      "profile_path": null
+    },
+    {
+      "personId": 165369,
+      "name": "James Blendick",
+      "character": "McMartin",
+      "order": 10,
+      "cast_id": 34,
+      "popularity": 0.6499,
+      "profile_path": null
+    },
+    {
+      "personId": 85922,
+      "name": "Tom Butler",
+      "character": "Heath",
+      "order": 11,
+      "cast_id": 35,
+      "popularity": 1.6366,
+      "profile_path": "/sMDuFSvna90gGV0jkOK7PDzQC8g.jpg"
+    },
+    {
+      "personId": 4001406,
+      "name": "Christina Grace",
+      "character": "Miriam Langford",
+      "order": 12,
+      "cast_id": 36,
+      "popularity": 0.2449,
+      "profile_path": null
+    },
+    {
+      "personId": 123305,
+      "name": "Lynne Cormack",
+      "character": "Esther Rothman",
+      "order": 13,
+      "cast_id": 37,
+      "popularity": 1.0742,
+      "profile_path": "/9ePiCxXiNYTIjBOkTesbLdaEAJf.jpg"
+    },
+    {
+      "personId": 157146,
+      "name": "Barbara Eve Harris",
+      "character": "Kathleen Bigelow",
+      "order": 14,
+      "cast_id": 38,
+      "popularity": 1.3576,
+      "profile_path": "/1WcoqAQn7KN0MadAWA5xebyt9bd.jpg"
+    },
+    {
+      "personId": 185092,
+      "name": "Simon Sinn",
+      "character": "Mr. Loo",
+      "order": 15,
+      "cast_id": 39,
+      "popularity": 0.9966,
+      "profile_path": "/t2umcoYo4nyMWJCWPjDWCl0cppP.jpg"
+    },
+    {
+      "personId": 55554,
+      "name": "John Kapelos",
+      "character": "Ed Lombardo",
+      "order": 16,
+      "cast_id": 40,
+      "popularity": 2.8303,
+      "profile_path": "/9buu5iq8FxJXMqMjmqEjm1zl2A6.jpg"
+    },
+    {
+      "personId": 64712,
+      "name": "Tom McCamus",
+      "character": "Ray Schiff",
+      "order": 17,
+      "cast_id": 41,
+      "popularity": 0.9823,
+      "profile_path": "/t9OjLyV9i0LilORn3kBp1YXwMYD.jpg"
+    },
+    {
+      "personId": 108890,
+      "name": "Harvey Atkin",
+      "character": "Judge Steinberg",
+      "order": 18,
+      "cast_id": 42,
+      "popularity": 1.0618,
+      "profile_path": "/4mPAx1XpJwPAeaVOaabM1AHSapZ.jpg"
+    },
+    {
+      "personId": 62126,
+      "name": "Anthony Sherwood",
+      "character": "Ken Powell",
+      "order": 19,
+      "cast_id": 43,
+      "popularity": 1.8076,
+      "profile_path": "/lJhDCtTbEdC4FhRkVA3mbgj3OH7.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 39996,
+      "name": "Sidney Lumet",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.377,
+      "profile_path": "/hjj3V2DkPJ46zo5uz9bsZQzAk6R.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 281849,
+      "name": "odvjetnik"
+    },
+    {
+      "id": 281850,
+      "name": "đavo"
+    }
+  ]
+}

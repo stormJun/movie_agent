@@ -1,0 +1,210 @@
+{
+  "overview": "A documentary about the culture of hip-hop. Through interviews with some of hip-hops biggest names, the film makers attempt to find out why it has become so popular.",
+  "release_date": "1995-08-25",
+  "runtime": 93,
+  "budget": 0,
+  "revenue": 2702578,
+  "tmdb_vote_average": 6.4,
+  "tmdb_vote_count": 10,
+  "tmdb_popularity": 2.2069,
+  "original_language": "en",
+  "poster_path": "/u08TkPYyKeHvkrpvLEZxRLVxdwu.jpg",
+  "backdrop_path": null,
+  "tmdb_genres_raw": [
+    "Documentary"
+  ],
+  "production_companies": [
+    {
+      "id": 11661,
+      "name": "Rysher Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 11308,
+      "name": "Savoy Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 2184,
+      "name": "Tollin/Robbins Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 103902,
+      "name": "Kurtis Blow",
+      "character": "Self",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 0.478,
+      "profile_path": "/1nwbRmOKgeRt8hCRjZt41s3RTfC.jpg"
+    },
+    {
+      "personId": 16450,
+      "name": "Sean Combs",
+      "character": "Self",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 2.982,
+      "profile_path": "/4AIfaoGkcuWPhTRR4A6k5tjYJci.jpg"
+    },
+    {
+      "personId": 19767,
+      "name": "Snoop Dogg",
+      "character": "Self",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 4.2966,
+      "profile_path": "/rbxBK2m6fEq0oHeMoBUMVYkJEdJ.jpg"
+    },
+    {
+      "personId": 2041,
+      "name": "Dr. Dre",
+      "character": "Self",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 2.3902,
+      "profile_path": "/xm2pYFBggiXSkFBV2I612i3fDd3.jpg"
+    },
+    {
+      "personId": 153997,
+      "name": "Warren G",
+      "character": "Self",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 1.0739,
+      "profile_path": "/7UyIpCDDo6lOyBfK7wJeP6BH5fq.jpg"
+    },
+    {
+      "personId": 5384,
+      "name": "Method Man",
+      "character": "Self",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 1.8415,
+      "profile_path": "/mYJFxOcrda410rS5JHPf0nPuimZ.jpg"
+    },
+    {
+      "personId": 107129,
+      "name": "The Notorious B.I.G.",
+      "character": "Self",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 1.1598,
+      "profile_path": "/3hmz48Vevx6Q3FwxBmNkNKPeLkx.jpg"
+    },
+    {
+      "personId": 82431,
+      "name": "Slick Rick",
+      "character": "Self",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 0.6465,
+      "profile_path": "/y7NM67JumkaeIchQIcvAe1IGpBY.jpg"
+    },
+    {
+      "personId": 1096822,
+      "name": "Afrika Bambaataa",
+      "character": "Self",
+      "order": 8,
+      "cast_id": 16,
+      "popularity": 1.0526,
+      "profile_path": "/uYurKkjZ3h3XCOdjjEjVv5LTWCA.jpg"
+    },
+    {
+      "personId": 36424,
+      "name": "LL Cool J",
+      "character": "Self",
+      "order": 9,
+      "cast_id": 17,
+      "popularity": 1.9509,
+      "profile_path": "/dpOHjasRJz7rk9CVutd6L9WnWTc.jpg"
+    },
+    {
+      "personId": 1221706,
+      "name": "Kid Capri",
+      "character": "Self",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 0.2416,
+      "profile_path": "/nq1ycaamTBwhpj3pC0eCykIWssH.jpg"
+    },
+    {
+      "personId": 1850602,
+      "name": "Craig Mack",
+      "character": "Self",
+      "order": 11,
+      "cast_id": 19,
+      "popularity": 0.2664,
+      "profile_path": "/vz7qwsOT5ZxyHSJDl24MvQk9fhg.jpg"
+    },
+    {
+      "personId": 214586,
+      "name": "Melle Mel",
+      "character": "Self",
+      "order": 12,
+      "cast_id": 20,
+      "popularity": 0.5359,
+      "profile_path": "/lG5IEMB3oSFQ5SR1ySmbFsOATDr.jpg"
+    },
+    {
+      "personId": 939272,
+      "name": "Raekwon",
+      "character": "Self",
+      "order": 13,
+      "cast_id": 22,
+      "popularity": 1.8178,
+      "profile_path": "/67KP94XL7hmQhOJw8yCC5WMmz9x.jpg"
+    },
+    {
+      "personId": 60474,
+      "name": "Russell Simmons",
+      "character": "Self",
+      "order": 14,
+      "cast_id": 23,
+      "popularity": 0.5708,
+      "profile_path": "/rnAWUAWuJJQLBqW0Sc48j9R71QK.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 53177,
+      "name": "Brian Robbins",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.0797,
+      "profile_path": "/sBHXouMBM9bon05a1Fy4QvBd11n.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242921,
+      "name": "rap"
+    },
+    {
+      "id": 282633,
+      "name": "history"
+    },
+    {
+      "id": 283297,
+      "name": "music"
+    },
+    {
+      "id": 301039,
+      "name": "hip pop"
+    }
+  ]
+}

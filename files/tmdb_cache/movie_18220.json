@@ -1,0 +1,210 @@
+{
+  "overview": "A young and naive college art student becomes obsessed with assuming the identity and personality of a departed coed who used to live in her room, and in so doing causes complications that result in two men, a student and her art professor, lusting after her.",
+  "release_date": "1996-04-26",
+  "runtime": 106,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 4.62,
+  "tmdb_vote_count": 138,
+  "tmdb_popularity": 1.6854,
+  "original_language": "en",
+  "poster_path": "/jXLuQYRwWNuwW8dkx3zo5bWon2r.jpg",
+  "backdrop_path": "/4zjQuPXBz7XOl0QXzdmah5Bwj5U.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 17067,
+      "name": "CineTel Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 17068,
+      "name": "MG Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 24967,
+      "name": "Alyssa Milano",
+      "character": "Lily Leonetti",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.7243,
+      "profile_path": "/q5RAaX57dLvlpigAhbX3lCb2dkZ.jpg"
+    },
+    {
+      "personId": 51670,
+      "name": "Johnathon Schaech",
+      "character": "Gredin",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 1.7388,
+      "profile_path": "/13hf3VhszBoykxF7lNER2ur4Z9B.jpg"
+    },
+    {
+      "personId": 3982,
+      "name": "Xander Berkeley",
+      "character": "Donald Falk",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 3.2202,
+      "profile_path": "/oBoKGfngGGZmSVGFslphYjc23WO.jpg"
+    },
+    {
+      "personId": 44049,
+      "name": "Belinda Bauer",
+      "character": "Angela Falk",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 1.0199,
+      "profile_path": "/oVKC7AAYTwz60GPXSUP04i83iW6.jpg"
+    },
+    {
+      "personId": 38670,
+      "name": "Camilla Belle",
+      "character": "Daphne Falk",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 2.3728,
+      "profile_path": "/kYhpuTi1E3IvdHAmuijjth0lQNS.jpg"
+    },
+    {
+      "personId": 1228787,
+      "name": "Kathryne Dora Brown",
+      "character": "Tanya",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 0.5741,
+      "profile_path": "/dTuj0YN86KRslFjsolWVYwukkch.jpg"
+    },
+    {
+      "personId": 1582756,
+      "name": "Walter Kim",
+      "character": "Robert",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 0.1199,
+      "profile_path": null
+    },
+    {
+      "personId": 172073,
+      "name": "Victoria Haas",
+      "character": "Bridgette",
+      "order": 7,
+      "cast_id": 26,
+      "popularity": 1.6352,
+      "profile_path": "/ck1H78q2hykRK0goqbLRQPSWCC5.jpg"
+    },
+    {
+      "personId": 1787694,
+      "name": "Tara Ellison",
+      "character": "Catherine",
+      "order": 8,
+      "cast_id": 65,
+      "popularity": 0.0808,
+      "profile_path": null
+    },
+    {
+      "personId": 2536794,
+      "name": "Mychal Wilson",
+      "character": "Spin",
+      "order": 9,
+      "cast_id": 22,
+      "popularity": 0.4175,
+      "profile_path": "/3KdG9jG4ZATt2drhnUOm1LQxBc0.jpg"
+    },
+    {
+      "personId": 4326195,
+      "name": "Joey Krees",
+      "character": "Peter the Performance Artist",
+      "order": 10,
+      "cast_id": 67,
+      "popularity": 0.0865,
+      "profile_path": null
+    },
+    {
+      "personId": 149542,
+      "name": "Kate Rodger",
+      "character": "Isabel",
+      "order": 11,
+      "cast_id": 10,
+      "popularity": 0.7135,
+      "profile_path": "/nIzWa91b6dZLtKmeRrmE3MQbdbU.jpg"
+    },
+    {
+      "personId": 85805,
+      "name": "Howard Brown",
+      "character": "Rocco",
+      "order": 12,
+      "cast_id": 66,
+      "popularity": 0.0692,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2873,
+      "name": "Anne Goursaud",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4859,
+      "profile_path": "/p00sjw0puqjfL9QeNRZSVRzQYvl.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1523,
+      "name": "obsession"
+    },
+    {
+      "id": 2913,
+      "name": "diary"
+    },
+    {
+      "id": 9663,
+      "name": "sequel"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 14794,
+      "name": "lust"
+    },
+    {
+      "id": 14893,
+      "name": "art"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    },
+    {
+      "id": 190370,
+      "name": "erotic movie"
+    }
+  ]
+}

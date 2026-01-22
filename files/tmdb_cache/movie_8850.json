@@ -1,0 +1,276 @@
+{
+  "overview": "Based on the 1930s comic strip, The Shadow is put up against his archenemy Shiwan Khan, who plans to take over the world by holding a city to ransom using an atom bomb. Using his powers of invisibility and \"the power to cloud men's minds\", The Shadow comes blazing to the rescue with explosive results.",
+  "release_date": "1994-07-01",
+  "runtime": 108,
+  "budget": 25000000,
+  "revenue": 48063465,
+  "tmdb_vote_average": 6.068,
+  "tmdb_vote_count": 551,
+  "tmdb_popularity": 2.1456,
+  "original_language": "en",
+  "poster_path": "/xAbFJH3vQYZvUyzzGAtG4OLy492.jpg",
+  "backdrop_path": "/j3CMtQbRS4bBAuRuoTBpnPAaHSj.jpg",
+  "tmdb_genres_raw": [
+    "Fantasy",
+    "Action",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 11393,
+      "name": "Bregman/Baer Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 7447,
+      "name": "Alec Baldwin",
+      "character": "Lamont Cranston / The Shadow",
+      "order": 0,
+      "cast_id": 8,
+      "popularity": 3.9045,
+      "profile_path": "/hzKy7x574eeUS3wt1R3yvWBRpeR.jpg"
+    },
+    {
+      "personId": 11389,
+      "name": "John Lone",
+      "character": "Shiwan Khan",
+      "order": 1,
+      "cast_id": 9,
+      "popularity": 2.2288,
+      "profile_path": "/cO62O0mZGCvR0y5zM5oI2rUDhto.jpg"
+    },
+    {
+      "personId": 14698,
+      "name": "Penelope Ann Miller",
+      "character": "Margo Lane",
+      "order": 2,
+      "cast_id": 10,
+      "popularity": 1.9669,
+      "profile_path": "/6wjG6NUBKc6Ca4KX6G6V4t6sU2.jpg"
+    },
+    {
+      "personId": 1039,
+      "name": "Peter Boyle",
+      "character": "Moe Shrevnitz",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 2.8603,
+      "profile_path": "/6TapQmC46mPDYrwm67tyJaEM97I.jpg"
+    },
+    {
+      "personId": 1327,
+      "name": "Ian McKellen",
+      "character": "Dr. Reinhardt Lane",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 5.9185,
+      "profile_path": "/coWjgMEYJjk2OrNddlXCBm8EIr3.jpg"
+    },
+    {
+      "personId": 13472,
+      "name": "Tim Curry",
+      "character": "Farley Claymore",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 7.2023,
+      "profile_path": "/8ZsGg3N3OZgxshqLOtA2kl5ckOP.jpg"
+    },
+    {
+      "personId": 13593,
+      "name": "Jonathan Winters",
+      "character": "Wainwright Barth",
+      "order": 6,
+      "cast_id": 14,
+      "popularity": 1.2278,
+      "profile_path": "/c2pp7XSUBTbUyptlDjaEhoyz9QX.jpg"
+    },
+    {
+      "personId": 85500,
+      "name": "Sab Shimono",
+      "character": "Dr. Roy Tam",
+      "order": 7,
+      "cast_id": 15,
+      "popularity": 1.3933,
+      "profile_path": "/aMmU3CK8TkHAJSDhsRBCYkse4Ck.jpg"
+    },
+    {
+      "personId": 1813086,
+      "name": "Brady Tsurutani",
+      "character": "Tulku",
+      "order": 8,
+      "cast_id": 31,
+      "popularity": 0.3325,
+      "profile_path": null
+    },
+    {
+      "personId": 20904,
+      "name": "James Hong",
+      "character": "Li Peng",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 3.7319,
+      "profile_path": "/v3lfw5aHOy0paOCx6WHiSnwzbH0.jpg"
+    },
+    {
+      "personId": 20626,
+      "name": "Joseph Maher",
+      "character": "Isaac Newboldt",
+      "order": 10,
+      "cast_id": 17,
+      "popularity": 1.0864,
+      "profile_path": "/fdwV2XY41qJ7U4aO9xAZkJpJwXe.jpg"
+    },
+    {
+      "personId": 55554,
+      "name": "John Kapelos",
+      "character": "Duke Rollins",
+      "order": 11,
+      "cast_id": 18,
+      "popularity": 2.8303,
+      "profile_path": "/9buu5iq8FxJXMqMjmqEjm1zl2A6.jpg"
+    },
+    {
+      "personId": 106772,
+      "name": "Max Wright",
+      "character": "Berger",
+      "order": 12,
+      "cast_id": 19,
+      "popularity": 0.9198,
+      "profile_path": "/bM0yC42RbFCSUWITFGVdiojn7ba.jpg"
+    },
+    {
+      "personId": 140237,
+      "name": "Aaron Lustig",
+      "character": "Doctor",
+      "order": 13,
+      "cast_id": 20,
+      "popularity": 2.3464,
+      "profile_path": "/1MoV1alXiNWep56G597kiBm1gj7.jpg"
+    },
+    {
+      "personId": 29445,
+      "name": "Ethan Phillips",
+      "character": "Nelson",
+      "order": 14,
+      "cast_id": 21,
+      "popularity": 1.8362,
+      "profile_path": "/npr6XzOaGJauOBV1ydaqmX6T5hl.jpg"
+    },
+    {
+      "personId": 11519,
+      "name": "Larry Hankin",
+      "character": "Taxi Driver",
+      "order": 15,
+      "cast_id": 22,
+      "popularity": 2.6876,
+      "profile_path": "/2uR8SZ9geiSQOpBhKrerh9qY7CX.jpg"
+    },
+    {
+      "personId": 21380,
+      "name": "Larry Joshua",
+      "character": "Maxie",
+      "order": 16,
+      "cast_id": 23,
+      "popularity": 1.4768,
+      "profile_path": "/vFKFwlwTzQ1IAtGUlApk3ROLMIA.jpg"
+    },
+    {
+      "personId": 61704,
+      "name": "Al Leong",
+      "character": "Tibetan Driver",
+      "order": 17,
+      "cast_id": 24,
+      "popularity": 1.4812,
+      "profile_path": "/zC01uEOvbdTQIg19LKVu5r2QKan.jpg"
+    },
+    {
+      "personId": 105047,
+      "name": "Gerald Okamura",
+      "character": "Tibetan Passenger",
+      "order": 18,
+      "cast_id": 25,
+      "popularity": 1.1705,
+      "profile_path": "/aGR5B50q5eqfXF45Aun8lo6pVF7.jpg"
+    },
+    {
+      "personId": 21132,
+      "name": "Abraham Benrubi",
+      "character": "Marine Guard",
+      "order": 19,
+      "cast_id": 26,
+      "popularity": 2.6343,
+      "profile_path": "/d5pQ1PCv0XDnYXZTbX2t5r4AMph.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 52968,
+      "name": "Russell Mulcahy",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6184,
+      "profile_path": "/gzJDD5bj0fBgvyb2puB6O951Gnv.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 1815,
+      "name": "atomic bomb"
+    },
+    {
+      "id": 9715,
+      "name": "superhero"
+    },
+    {
+      "id": 2336,
+      "name": "ladykiller"
+    },
+    {
+      "id": 3363,
+      "name": "hypnosis"
+    },
+    {
+      "id": 9717,
+      "name": "based on comic"
+    },
+    {
+      "id": 155494,
+      "name": "radio series"
+    },
+    {
+      "id": 189115,
+      "name": "invisibility"
+    },
+    {
+      "id": 190034,
+      "name": "the shadow"
+    },
+    {
+      "id": 207268,
+      "name": "neo-noir"
+    }
+  ]
+}

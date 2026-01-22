@@ -1,0 +1,228 @@
+{
+  "overview": "Jennifer (Alicia Silverstone) is a lovely teen who has been hired to baby-sit the kids of Harry Tucker (J.T. Walsh) and his wife, Dolly (Lee Garlington). The Tuckers go to a party and proceed to get inebriated, with Mr. Tucker fantasizing about his beautiful baby sitter. Meanwhile, Jack (Jeremy London), her boyfriend, and Mark (Nicky Katt), another guy interested in her, decide to spy on Jennifer at the Tucker house, with each young man also fixated on her.",
+  "release_date": "1995-10-17",
+  "runtime": 90,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.188,
+  "tmdb_vote_count": 176,
+  "tmdb_popularity": 1.6329,
+  "original_language": "en",
+  "poster_path": "/wOv6HKiKTcDiyZRXPOsjm2JhVZV.jpg",
+  "backdrop_path": "/A4tG725okDhIG7fWwU4olFstMVK.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 18189,
+      "name": "Spelling Films International",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5588,
+      "name": "Alicia Silverstone",
+      "character": "Jennifer",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 4.9695,
+      "profile_path": "/pyxqkP4i0ubVdoRe5hoiiiwkHkb.jpg"
+    },
+    {
+      "personId": 23646,
+      "name": "Jeremy London",
+      "character": "Jack",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 1.0073,
+      "profile_path": "/2eSv6kcfWinz0xDoAclyCVsArhu.jpg"
+    },
+    {
+      "personId": 22131,
+      "name": "J. T. Walsh",
+      "character": "Harry Tucker",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 2.2425,
+      "profile_path": "/4yQXzRXMqQxKgYaUteluNmAKBX4.jpg"
+    },
+    {
+      "personId": 18070,
+      "name": "Nicky Katt",
+      "character": "Mark Holsten",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 1.8506,
+      "profile_path": "/9OY1D1WXJsqC7OnrKErc3mFfly5.jpg"
+    },
+    {
+      "personId": 23975,
+      "name": "Lee Garlington",
+      "character": "Dolly Tucker",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 1.9242,
+      "profile_path": "/8hkdeBX6K2QUsH1kuVGfSyTiZod.jpg"
+    },
+    {
+      "personId": 18364,
+      "name": "George Segal",
+      "character": "Bill Holsten",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 1.583,
+      "profile_path": "/nkAMWhWNdCaRp1wPOOsaXuWnwoB.jpg"
+    },
+    {
+      "personId": 108210,
+      "name": "Ryan Slater",
+      "character": "Jimmy Tucker",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 2.1438,
+      "profile_path": "/14Og8Pzmk2iSiQ3sazLy70IiJqV.jpg"
+    },
+    {
+      "personId": 10475,
+      "name": "Lois Chiles",
+      "character": "Bernice Holsten",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 2.1407,
+      "profile_path": "/4iNFyon7E8LvwyyrMVDQ8nItVZk.jpg"
+    },
+    {
+      "personId": 1227036,
+      "name": "Brittany English Stephens",
+      "character": "Bitsy",
+      "order": 8,
+      "cast_id": 26,
+      "popularity": 1.4351,
+      "profile_path": null
+    },
+    {
+      "personId": 63914,
+      "name": "Tuesday Knight",
+      "character": "Waitress",
+      "order": 9,
+      "cast_id": 27,
+      "popularity": 0.7774,
+      "profile_path": "/9dWhs1E4emCHrfNRANupI18y39t.jpg"
+    },
+    {
+      "personId": 134771,
+      "name": "Eric Menyuk",
+      "character": "Joe",
+      "order": 10,
+      "cast_id": 28,
+      "popularity": 0.521,
+      "profile_path": "/nHC7TrpbGNYtDXjXuPIXBhRoEb3.jpg"
+    },
+    {
+      "personId": 177623,
+      "name": "Matthew Kimbrough",
+      "character": "Large man",
+      "order": 11,
+      "cast_id": 29,
+      "popularity": 0.899,
+      "profile_path": "/7e5670Oi06CxylJhxRzMHO1gKOO.jpg"
+    },
+    {
+      "personId": 33497,
+      "name": "Jane Alden",
+      "character": "Wilma",
+      "order": 12,
+      "cast_id": 30,
+      "popularity": 0.9767,
+      "profile_path": "/8j9G5OuDATi1Qief6xawo5TiAES.jpg"
+    },
+    {
+      "personId": 1745662,
+      "name": "Noel Evangelisti",
+      "character": "Audrey",
+      "order": 13,
+      "cast_id": 31,
+      "popularity": 0.4244,
+      "profile_path": "/wMvLFKoBgA8FrpNWi2NO9LoDHw3.jpg"
+    },
+    {
+      "personId": 112053,
+      "name": "Michael Chieffo",
+      "character": "Young man",
+      "order": 14,
+      "cast_id": 32,
+      "popularity": 1.2986,
+      "profile_path": "/zKRG5CKvP861Gec5jDfmfBkGNfV.jpg"
+    },
+    {
+      "personId": 2565402,
+      "name": "Monty Silverstone",
+      "character": "British party guest",
+      "order": 15,
+      "cast_id": 34,
+      "popularity": 0.1861,
+      "profile_path": null
+    },
+    {
+      "personId": 1517840,
+      "name": "Cameron Fuller",
+      "character": "Tucker baby",
+      "order": 16,
+      "cast_id": 35,
+      "popularity": 1.8705,
+      "profile_path": "/qdQSgq8QB1LJ7BvJpWzqPEISk83.jpg"
+    },
+    {
+      "personId": 45399,
+      "name": "Hal Fort Atkinson",
+      "character": "Police Officer",
+      "order": 17,
+      "cast_id": 39,
+      "popularity": 0.9882,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 43468,
+      "name": "Guy Ferland",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.6917,
+      "profile_path": "/oOBx7tqSGZ5BatZydBYRXfoKsRj.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 567,
+      "name": "alcohol"
+    },
+    {
+      "id": 1523,
+      "name": "obsession"
+    },
+    {
+      "id": 2604,
+      "name": "babysitter"
+    },
+    {
+      "id": 159947,
+      "name": "parents"
+    }
+  ]
+}

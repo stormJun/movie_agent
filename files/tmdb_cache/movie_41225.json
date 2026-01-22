@@ -1,0 +1,317 @@
+{
+  "overview": "Anthology film from three European directors based on stories by Edgar Allan Poe: a cruel countess haunted by a ghostly horse, a sadistic young man haunted by his double, and an alcoholic actor haunted by the Devil.",
+  "release_date": "1968-05-16",
+  "runtime": 121,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.249,
+  "tmdb_vote_count": 179,
+  "tmdb_popularity": 4.0332,
+  "original_language": "fr",
+  "poster_path": "/9HmCwfPG7URPSXSrmEAFN65VoWE.jpg",
+  "backdrop_path": "/s8h41U0rqM0PP6qCas8qzBtxeen.jpg",
+  "tmdb_genres_raw": [
+    "Horror",
+    "Mystery",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 7508,
+      "name": "PEA",
+      "origin_country": "IT"
+    },
+    {
+      "id": 2260,
+      "name": "Les Films Marceau",
+      "origin_country": "FR"
+    },
+    {
+      "id": 512,
+      "name": "Cocinor",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "de",
+      "name": "Deutsch"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "it",
+      "name": "Italiano"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3783,
+      "name": "Brigitte Bardot",
+      "character": "Giuseppina (segment \"William Wilson\")",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 10.0905,
+      "profile_path": "/prEu5JJslUBTjOSAxsO9VU4OoYq.jpg"
+    },
+    {
+      "personId": 15135,
+      "name": "Alain Delon",
+      "character": "William Wilson and his double (segment \"William Wilson\")",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 5.7446,
+      "profile_path": "/dRPDxFehaVGbHojEUsCvqLSNfqH.jpg"
+    },
+    {
+      "personId": 6352,
+      "name": "Jane Fonda",
+      "character": "Contessa Frederique de Metzengerstein (segment \"Metzengerstein\")",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 3.2905,
+      "profile_path": "/3uH6SFBWx8zn8Zqz9HvafZcfZm.jpg"
+    },
+    {
+      "personId": 28641,
+      "name": "Terence Stamp",
+      "character": "Toby Dammit (segment \"Toby Dammit\")",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 2.9767,
+      "profile_path": "/ept9urkuhPbGndVXkERw39R9oid.jpg"
+    },
+    {
+      "personId": 8949,
+      "name": "Peter Fonda",
+      "character": "Baron Wilhelm Berlifitzing (segment \"Metzengerstein\")",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 1.6614,
+      "profile_path": "/dgorN06SQ9ZNL2NY3I7BNxg93lc.jpg"
+    },
+    {
+      "personId": 11130,
+      "name": "James Robertson Justice",
+      "character": "Countess' Advisor (segment \"Metzengerstein\")",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 1.9808,
+      "profile_path": "/u0fYhKndmqr99KGV6SOhjXuMOnX.jpg"
+    },
+    {
+      "personId": 68406,
+      "name": "Salvo Randone",
+      "character": "Priest (segment \"Toby Dammit\")",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 1.3835,
+      "profile_path": "/jjCd9gFzvpZOrbQLgsnnRhDT6fh.jpg"
+    },
+    {
+      "personId": 36386,
+      "name": "Françoise Prévost",
+      "character": "Friend of Countess (segment \"Metzengerstein\")",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 0.5561,
+      "profile_path": "/h1Gkag228zEWU7HUlZe2n8Z8L3d.jpg"
+    },
+    {
+      "personId": 139129,
+      "name": "Katia Christine",
+      "character": "Girl on Dissection Table",
+      "order": 8,
+      "cast_id": 20,
+      "popularity": 0.6139,
+      "profile_path": "/66l3ecAXy2Mk6bXNqdDGy3pXDMF.jpg"
+    },
+    {
+      "personId": 37727,
+      "name": "Philippe Lemaire",
+      "character": "Philippe",
+      "order": 9,
+      "cast_id": 21,
+      "popularity": 0.8487,
+      "profile_path": "/dvUgTNHcqBWleHlDq7ge6QZlMwN.jpg"
+    },
+    {
+      "personId": 38915,
+      "name": "Serge Marquand",
+      "character": "Hugues",
+      "order": 10,
+      "cast_id": 22,
+      "popularity": 0.3163,
+      "profile_path": "/fXEwlrbSTmBkz2tgKdxp1EXMkuS.jpg"
+    },
+    {
+      "personId": 120613,
+      "name": "John Karlsen",
+      "character": "Schoolmaster (segment \"William Wilson\") (uncredited)",
+      "order": 11,
+      "cast_id": 26,
+      "popularity": 0.5386,
+      "profile_path": "/fKtoAqPcyi73eW2BaAWhHE2bwEr.jpg"
+    },
+    {
+      "personId": 1108286,
+      "name": "Maria Tedeschi",
+      "character": "Woman (uncredited)",
+      "order": 12,
+      "cast_id": 27,
+      "popularity": 1.2617,
+      "profile_path": "/tF3oeho2TkUZJrbpaIjN0slxYO7.jpg"
+    },
+    {
+      "personId": 44104,
+      "name": "Milena Vukotić",
+      "character": "TV Interviewer (segment \"Toby Dammit\") (uncredited)",
+      "order": 13,
+      "cast_id": 28,
+      "popularity": 1.2257,
+      "profile_path": "/k4dsiarmq3s5kryz7MxSIQcrPRR.jpg"
+    },
+    {
+      "personId": 628316,
+      "name": "Umberto D'Orsi",
+      "character": "Hans (segment \"William Wilson\")",
+      "order": 14,
+      "cast_id": 29,
+      "popularity": 0.6623,
+      "profile_path": "/6vEmZzHfhI7MdIBfFSvKouRfoFH.jpg"
+    },
+    {
+      "personId": 39020,
+      "name": "Daniele Vargas",
+      "character": "University Professor (segment \"William Wilson\")",
+      "order": 15,
+      "cast_id": 62,
+      "popularity": 2.0815,
+      "profile_path": "/fb5Qgqt8I4i0tNjAEcEsGemiMwl.jpg"
+    },
+    {
+      "personId": 103106,
+      "name": "Ernesto Colli",
+      "character": "Manetti Brother (segment \"Toby Dammit\") (uncredited)",
+      "order": 16,
+      "cast_id": 63,
+      "popularity": 2.082,
+      "profile_path": "/bU9CjyeadiZujWAfRjxRTw8Ae3q.jpg"
+    },
+    {
+      "personId": 578024,
+      "name": "Marie-Ange Aniès",
+      "character": "Courtesan (segment \"Metzengerstein\")",
+      "order": 17,
+      "cast_id": 68,
+      "popularity": 1.0108,
+      "profile_path": "/tuHAHs3u1qvK9Hfy9st4APWmcCB.jpg"
+    },
+    {
+      "personId": 24475,
+      "name": "Anny Duperey",
+      "character": "Courtesan (segment \"Metzengerstein\") (uncredited)",
+      "order": 18,
+      "cast_id": 64,
+      "popularity": 1.4109,
+      "profile_path": "/mQ6nUOTmQFLNbPfHXqfTqZgm9wJ.jpg"
+    },
+    {
+      "personId": 141838,
+      "name": "Irina Maleeva",
+      "character": "Gypsy Fortune Teller (Segment \"Toby Dammit\") (uncredited)",
+      "order": 19,
+      "cast_id": 65,
+      "popularity": 0.7919,
+      "profile_path": "/pdFD98IoPFUlOxkyqaojfUJv7SC.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 15389,
+      "name": "Louis Malle",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.3795,
+      "profile_path": "/8BKM2iXcr4b8pvx1OOcNsO9wADn.jpg"
+    },
+    {
+      "personId": 53767,
+      "name": "Roger Vadim",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.9156,
+      "profile_path": "/crHhPONmTVKYAVe2b1THMjx54xq.jpg"
+    },
+    {
+      "personId": 4415,
+      "name": "Federico Fellini",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1194,
+      "profile_path": "/r0GTpMWUrxgPRbMmv38mNggOBvA.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6092,
+      "name": "army"
+    },
+    {
+      "id": 1523,
+      "name": "obsession"
+    },
+    {
+      "id": 9706,
+      "name": "anthology"
+    },
+    {
+      "id": 18396,
+      "name": "catholic"
+    },
+    {
+      "id": 33457,
+      "name": "alcoholic"
+    },
+    {
+      "id": 33513,
+      "name": "desire"
+    },
+    {
+      "id": 41011,
+      "name": "based on song, poem or rhyme"
+    },
+    {
+      "id": 161891,
+      "name": "doppelgänger"
+    },
+    {
+      "id": 162262,
+      "name": "movie star"
+    },
+    {
+      "id": 250593,
+      "name": "horror anthology"
+    },
+    {
+      "id": 305704,
+      "name": "poe"
+    }
+  ]
+}

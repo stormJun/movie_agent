@@ -1,0 +1,144 @@
+{
+  "overview": "After a run-in with the law, an angry maladjusted young man starts calling himself \"Hate\". One night he saves a girl from a lusty Assistant District Attorney. He falsely accuses them of robbery, so they go on the run and make things worse.",
+  "release_date": "1996-05-22",
+  "runtime": 97,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 4.333,
+  "tmdb_vote_count": 9,
+  "tmdb_popularity": 0.2523,
+  "original_language": "en",
+  "poster_path": "/mbagWLUzEemKmiWnJNWGrU3SkWJ.jpg",
+  "backdrop_path": "/mC4DctRVXfrJjJGk5cljwqrGaZt.jpg",
+  "tmdb_genres_raw": [
+    "Crime",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 276141,
+      "name": "Nickel Pacific Motion Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1894,
+      "name": "Scott Caan",
+      "character": "Steve / Hate",
+      "order": 0,
+      "cast_id": 0,
+      "popularity": 2.433,
+      "profile_path": "/67V8YrMglGzvuTOZGpqygDhNK1z.jpg"
+    },
+    {
+      "personId": 53646,
+      "name": "Missy Crider",
+      "character": "Cindy",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 3.0323,
+      "profile_path": "/rDPVqnIvk5KPan2pFo8PCaZX7B.jpg"
+    },
+    {
+      "personId": 827,
+      "name": "Elliott Gould",
+      "character": "Richard",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 2.8704,
+      "profile_path": "/vqjRBbuqXOvalAx5JZEaWx6kQOw.jpg"
+    },
+    {
+      "personId": 33527,
+      "name": "Adam Beach",
+      "character": "Billy Little Plume",
+      "order": 3,
+      "cast_id": 9,
+      "popularity": 2.4713,
+      "profile_path": "/3ZMGfnRc7dYnAPl6ZSbGhqj6LHx.jpg"
+    },
+    {
+      "personId": 62032,
+      "name": "Duane Davis",
+      "character": "Ed Jenkins",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 1.9202,
+      "profile_path": null
+    },
+    {
+      "personId": 92903,
+      "name": "Frank Salsedo",
+      "character": "Ted",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 1.5857,
+      "profile_path": "/2HoTBejS2oZVQrVcuKyXIoNDvmp.jpg"
+    },
+    {
+      "personId": 50020,
+      "name": "Scott Patterson",
+      "character": "CHP Officer",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 2.5614,
+      "profile_path": "/qTm0LFuV8DktunzKa5T3UZoq1tC.jpg"
+    },
+    {
+      "personId": 3085,
+      "name": "James Caan",
+      "character": "Jim",
+      "order": 7,
+      "cast_id": 3,
+      "popularity": 4.3622,
+      "profile_path": "/v3flJtQEyczxENi29yJyvnN6LVt.jpg"
+    },
+    {
+      "personId": 1339926,
+      "name": "Lee Nashold",
+      "character": "Suburban Cop",
+      "order": 8,
+      "cast_id": 1,
+      "popularity": 0.1898,
+      "profile_path": null
+    },
+    {
+      "personId": 24362,
+      "name": "Kevin Michael Richardson",
+      "character": "Staff Member",
+      "order": 9,
+      "cast_id": 2,
+      "popularity": 3.9959,
+      "profile_path": "/xXt9Nh7RAT5bOen66TaXreNYmCl.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 30869,
+      "name": "Mitch Marcus",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.6419,
+      "profile_path": null
+    }
+  ],
+  "keywords": []
+}

@@ -1,0 +1,285 @@
+{
+  "overview": "D'Artagnan travels to Paris hoping to become a musketeer, one of the French king's elite bodyguards, only to discover that the corps has been disbanded by conniving Cardinal Richelieu, who secretly hopes to usurp the throne. Fortunately, Athos, Porthos and Aramis have refused to lay down their weapons and continue to protect their king. D'Artagnan joins with the rogues to expose Richelieu's plot against the crown.",
+  "release_date": "1993-11-11",
+  "runtime": 105,
+  "budget": 30000000,
+  "revenue": 111898845,
+  "tmdb_vote_average": 6.399,
+  "tmdb_vote_count": 1018,
+  "tmdb_popularity": 4.155,
+  "original_language": "en",
+  "poster_path": "/mk8UH7JRmK8adcqJJpB1ygP7B1C.jpg",
+  "backdrop_path": "/1M7eNvLkrAbhQDbcoBnVfzanHcT.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 2,
+      "name": "Walt Disney Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 175,
+      "name": "Caravan Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "AT",
+      "name": "Austria"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5577,
+      "name": "Chris O'Donnell",
+      "character": "D'Artagnan",
+      "order": 0,
+      "cast_id": 13,
+      "popularity": 4.9178,
+      "profile_path": "/KvWBFg1aMBdu4X2PihXYL8xcFD.jpg"
+    },
+    {
+      "personId": 2628,
+      "name": "Kiefer Sutherland",
+      "character": "Athos",
+      "order": 1,
+      "cast_id": 12,
+      "popularity": 5.0794,
+      "profile_path": "/tK5zjdvao2NELns3bqT7PPqPeJI.jpg"
+    },
+    {
+      "personId": 17485,
+      "name": "Oliver Platt",
+      "character": "Porthos",
+      "order": 2,
+      "cast_id": 14,
+      "popularity": 3.6846,
+      "profile_path": "/ipBzOzgWRdxxYoM5xNN1cfenFaC.jpg"
+    },
+    {
+      "personId": 6952,
+      "name": "Charlie Sheen",
+      "character": "Aramis",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 4.1931,
+      "profile_path": "/npEqnIw321opMKuu3lsFNKNKQdX.jpg"
+    },
+    {
+      "personId": 13472,
+      "name": "Tim Curry",
+      "character": "Cardinal Richelieu",
+      "order": 4,
+      "cast_id": 15,
+      "popularity": 7.2023,
+      "profile_path": "/8ZsGg3N3OZgxshqLOtA2kl5ckOP.jpg"
+    },
+    {
+      "personId": 28412,
+      "name": "Rebecca De Mornay",
+      "character": "Milady",
+      "order": 5,
+      "cast_id": 17,
+      "popularity": 3.3052,
+      "profile_path": "/zC2RrrdZv4UKUtHgCfKD6bJY1Qy.jpg"
+    },
+    {
+      "personId": 47654,
+      "name": "Paul McGann",
+      "character": "Girard / Jussac",
+      "order": 6,
+      "cast_id": 21,
+      "popularity": 1.9949,
+      "profile_path": "/4NAtQI30CAaJuQRiot9twe7J9t9.jpg"
+    },
+    {
+      "personId": 5503,
+      "name": "Gabrielle Anwar",
+      "character": "Queen Anne",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 2.8203,
+      "profile_path": "/v0zVLAM7kv7ZP0j95HWfNPr1fvp.jpg"
+    },
+    {
+      "personId": 7486,
+      "name": "Michael Wincott",
+      "character": "Rochefort",
+      "order": 8,
+      "cast_id": 20,
+      "popularity": 2.2841,
+      "profile_path": "/z6FtWACKaIivi0khxM6vEHoUH0.jpg"
+    },
+    {
+      "personId": 1146,
+      "name": "Julie Delpy",
+      "character": "Constance",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 2.508,
+      "profile_path": "/rd40f4QpAUUne3hMaUhHrZtcK2c.jpg"
+    },
+    {
+      "personId": 5312,
+      "name": "Hugh O'Conor",
+      "character": "King Louis XIII",
+      "order": 10,
+      "cast_id": 22,
+      "popularity": 2.0758,
+      "profile_path": "/2eXLWxV2DGGtAPzpbDZ0eHv9RrO.jpg"
+    },
+    {
+      "personId": 64102,
+      "name": "Christopher Adamson",
+      "character": "Henri",
+      "order": 11,
+      "cast_id": 71,
+      "popularity": 0.8064,
+      "profile_path": "/anZJNTCnyeDzeWPnsArEKXfT7gc.jpg"
+    },
+    {
+      "personId": 702,
+      "name": "Philip Tan",
+      "character": "Parker",
+      "order": 12,
+      "cast_id": 70,
+      "popularity": 1.4051,
+      "profile_path": "/6cXDkOsHPbdsgiUUM7UIz6s8cXX.jpg"
+    },
+    {
+      "personId": 3970,
+      "name": "Erwin Leder",
+      "character": "Peasant",
+      "order": 13,
+      "cast_id": 72,
+      "popularity": 1.4993,
+      "profile_path": "/4V6ewUr0KAMl8C2xvWvg8JPjsab.jpg"
+    },
+    {
+      "personId": 2955520,
+      "name": "Axel Anselm",
+      "character": "Musketeer",
+      "order": 14,
+      "cast_id": 73,
+      "popularity": 0.1897,
+      "profile_path": null
+    },
+    {
+      "personId": 545504,
+      "name": "Bruno Thost",
+      "character": "Seneschal #1",
+      "order": 15,
+      "cast_id": 74,
+      "popularity": 0.3437,
+      "profile_path": null
+    },
+    {
+      "personId": 3096191,
+      "name": "Oliver Hoppa",
+      "character": "Seneschal #2",
+      "order": 16,
+      "cast_id": 75,
+      "popularity": 0.0695,
+      "profile_path": null
+    },
+    {
+      "personId": 3096198,
+      "name": "Emma Moore",
+      "character": "Damsel",
+      "order": 17,
+      "cast_id": 76,
+      "popularity": 0.117,
+      "profile_path": null
+    },
+    {
+      "personId": 22531,
+      "name": "Herbert Fux",
+      "character": "Innkeeper",
+      "order": 18,
+      "cast_id": 77,
+      "popularity": 1.2153,
+      "profile_path": "/8NYHbiDrVWYoFKgwXxsdeCd0oOR.jpg"
+    },
+    {
+      "personId": 1179605,
+      "name": "Nichola Cordey",
+      "character": "Barmaid",
+      "order": 19,
+      "cast_id": 78,
+      "popularity": 0.5671,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 18356,
+      "name": "Stephen Herek",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5893,
+      "profile_path": "/ni2MxgHBvzzYj9OzHpQ3yHkar79.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 90,
+      "name": "paris, france"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 14577,
+      "name": "musketeer"
+    },
+    {
+      "id": 196513,
+      "name": "king of france"
+    },
+    {
+      "id": 207941,
+      "name": "17th century"
+    },
+    {
+      "id": 317660,
+      "name": "three musketeers"
+    },
+    {
+      "id": 336396,
+      "name": "porthos"
+    },
+    {
+      "id": 336397,
+      "name": "athos"
+    },
+    {
+      "id": 336398,
+      "name": "d'artagnan"
+    },
+    {
+      "id": 336399,
+      "name": "king louis xiii"
+    },
+    {
+      "id": 336400,
+      "name": "year 1625"
+    }
+  ]
+}

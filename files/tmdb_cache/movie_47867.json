@@ -1,0 +1,252 @@
+{
+  "overview": "A talking pig named Gordy becomes involved in a quest to save his family from the slaughterhouse.",
+  "release_date": "1995-05-12",
+  "runtime": 90,
+  "budget": 0,
+  "revenue": 3992809,
+  "tmdb_vote_average": 5.3,
+  "tmdb_vote_count": 32,
+  "tmdb_popularity": 3.1791,
+  "original_language": "en",
+  "poster_path": "/4sLmghaiAIYXh320qCvZWY4avVT.jpg",
+  "backdrop_path": "/9vzENEEun6X2do2qWbNkPOSRaKL.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Family",
+    "Fantasy"
+  ],
+  "production_companies": [
+    {
+      "id": 86421,
+      "name": "Robson Orr Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 97978,
+      "name": "RAS Entertainment Ltd.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 571332,
+      "name": "Doug Stone",
+      "character": "Luke MaCallister",
+      "order": 0,
+      "cast_id": 22,
+      "popularity": 0.3761,
+      "profile_path": "/3ayNwWrkrwgIUL8sGZMU6o6TocR.jpg"
+    },
+    {
+      "personId": 1932602,
+      "name": "Kristy Young",
+      "character": "Jinnie Sue MaCallister",
+      "order": 1,
+      "cast_id": 23,
+      "popularity": 0.2658,
+      "profile_path": "/9MAMQHs2Bbb3XKtpw7ZLdoNxV3D.jpg"
+    },
+    {
+      "personId": 1932603,
+      "name": "James Donadio",
+      "character": "Gilbert Sipes",
+      "order": 2,
+      "cast_id": 24,
+      "popularity": 0.3797,
+      "profile_path": "/1yo4lxwL9WVa4hAJZjTG3C1jv6e.jpg"
+    },
+    {
+      "personId": 174125,
+      "name": "Deborah Hobart",
+      "character": "Jessica Royce",
+      "order": 3,
+      "cast_id": 25,
+      "popularity": 2.4163,
+      "profile_path": "/iQEmuqTVO4StL1ePjfW9rZ7vYoT.jpg"
+    },
+    {
+      "personId": 198415,
+      "name": "Tom Lester",
+      "character": "Cousin Jake",
+      "order": 4,
+      "cast_id": 26,
+      "popularity": 0.7142,
+      "profile_path": "/eOmHvhCU8jMuoYnFH9y79qJQHO6.jpg"
+    },
+    {
+      "personId": 1932604,
+      "name": "Michael Roescher",
+      "character": "Hanky Royce",
+      "order": 5,
+      "cast_id": 27,
+      "popularity": 0.2136,
+      "profile_path": null
+    },
+    {
+      "personId": 1351003,
+      "name": "Tom Key",
+      "character": "Brinks",
+      "order": 6,
+      "cast_id": 28,
+      "popularity": 0.4301,
+      "profile_path": null
+    },
+    {
+      "personId": 1788835,
+      "name": "Jon Kohler",
+      "character": "Dietz",
+      "order": 7,
+      "cast_id": 29,
+      "popularity": 0.559,
+      "profile_path": "/7EmEZxMmzurYupRVy5PvcbOTwZO.jpg"
+    },
+    {
+      "personId": 37825,
+      "name": "Afemo Omilami",
+      "character": "Krugman",
+      "order": 8,
+      "cast_id": 3,
+      "popularity": 1.0873,
+      "profile_path": "/usW1GHq20ZEX3rpei1HpeXfSpiP.jpg"
+    },
+    {
+      "personId": 86812,
+      "name": "Ted Manson",
+      "character": "Henry Royce",
+      "order": 9,
+      "cast_id": 2,
+      "popularity": 1.3235,
+      "profile_path": "/8S59R7ZvGYs5I2hMupD2QpDgNr5.jpg"
+    },
+    {
+      "personId": 1242134,
+      "name": "Louis Rukeyser",
+      "character": "Himself",
+      "order": 10,
+      "cast_id": 30,
+      "popularity": 0.0878,
+      "profile_path": null
+    },
+    {
+      "personId": 1219220,
+      "name": "Dennis Letts",
+      "character": "Governor",
+      "order": 11,
+      "cast_id": 31,
+      "popularity": 0.433,
+      "profile_path": "/eJW5Uzv6DP9n4iOG2Z0W1PgjWCG.jpg"
+    },
+    {
+      "personId": 1932625,
+      "name": "Toshio Ogawa",
+      "character": "Mikko Kokoyaki",
+      "order": 12,
+      "cast_id": 32,
+      "popularity": 0.1299,
+      "profile_path": null
+    },
+    {
+      "personId": 1932626,
+      "name": "Kyle Weir",
+      "character": "Camera Assistant",
+      "order": 13,
+      "cast_id": 33,
+      "popularity": 0.0518,
+      "profile_path": null
+    },
+    {
+      "personId": 197356,
+      "name": "Sandra Dorsey",
+      "character": "Maxine",
+      "order": 14,
+      "cast_id": 34,
+      "popularity": 0.4539,
+      "profile_path": "/htDUa4MSzfhuYfh3oqiDJOB96SA.jpg"
+    },
+    {
+      "personId": 1501462,
+      "name": "Jack Mason",
+      "character": "Vinnie",
+      "order": 15,
+      "cast_id": 35,
+      "popularity": 0.0593,
+      "profile_path": null
+    },
+    {
+      "personId": 1932628,
+      "name": "Rick Andosca",
+      "character": "Norm",
+      "order": 16,
+      "cast_id": 36,
+      "popularity": 0.1906,
+      "profile_path": "/7SN53iaDLmmoAMO1NkZPQQNl5aN.jpg"
+    },
+    {
+      "personId": 29934,
+      "name": "Brett Rice",
+      "character": "Jud",
+      "order": 17,
+      "cast_id": 37,
+      "popularity": 1.3969,
+      "profile_path": "/4OTUfCVDOsCFQoQwiNE8deDFxKW.jpg"
+    },
+    {
+      "personId": 1748207,
+      "name": "Joe Washington",
+      "character": "TV Anchorman",
+      "order": 18,
+      "cast_id": 38,
+      "popularity": 0.715,
+      "profile_path": null
+    },
+    {
+      "personId": 34956,
+      "name": "Sybil Robson",
+      "character": "Andrea Jenkins",
+      "order": 19,
+      "cast_id": 39,
+      "popularity": 0.3153,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 548480,
+      "name": "Mark Lewis",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.9325,
+      "profile_path": "/8TWe0m49h32aYk5symCm7mOQ2tw.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 727,
+      "name": "country music"
+    },
+    {
+      "id": 4931,
+      "name": "pig"
+    },
+    {
+      "id": 206052,
+      "name": "talking pig"
+    },
+    {
+      "id": 325824,
+      "name": "hopeful"
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "overview": "Young, wild poet Arthur Rimbaud and his mentor Paul Verlaine engage in a fierce, forbidden romance while feeling the effects of a hellish artistic lifestyle.",
+  "release_date": "1995-11-03",
+  "runtime": 111,
+  "budget": 0,
+  "revenue": 339889,
+  "tmdb_vote_average": 6.4,
+  "tmdb_vote_count": 544,
+  "tmdb_popularity": 3.5217,
+  "original_language": "en",
+  "poster_path": "/9ihmgsX9aDXZmwjvgrzJgH8FxNa.jpg",
+  "backdrop_path": "/3FYltaTkmrFeVquPOXbAXgYVuqZ.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 16026,
+      "name": "FIT Production",
+      "origin_country": "FR"
+    },
+    {
+      "id": 16027,
+      "name": "Portman Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 6849,
+      "name": "SFP",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6193,
+      "name": "Leonardo DiCaprio",
+      "character": "Arthur Rimbaud",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 11.6978,
+      "profile_path": "/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+    },
+    {
+      "personId": 11207,
+      "name": "David Thewlis",
+      "character": "Paul Verlaine",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 8.0343,
+      "profile_path": "/sNuYyT8ocLlQr3TdAW9CoKVbCU8.jpg"
+    },
+    {
+      "personId": 40938,
+      "name": "Romane Bohringer",
+      "character": "Mathilde Maute",
+      "order": 2,
+      "cast_id": 12,
+      "popularity": 1.3108,
+      "profile_path": "/xijSy3jkjSQlbN2XfD12q7OWPPR.jpg"
+    },
+    {
+      "personId": 19068,
+      "name": "Dominique Blanc",
+      "character": "Isabelle Rimbaud",
+      "order": 3,
+      "cast_id": 13,
+      "popularity": 0.6504,
+      "profile_path": "/yxy0yaSu7Zk7gecvjRJ55TBTze8.jpg"
+    },
+    {
+      "personId": 150916,
+      "name": "Nita Klein",
+      "character": "Rimbaud's Mother",
+      "order": 4,
+      "cast_id": 14,
+      "popularity": 0.2228,
+      "profile_path": null
+    },
+    {
+      "personId": 1163055,
+      "name": "Félicie Pasotti",
+      "character": "Isabelle, as a child",
+      "order": 5,
+      "cast_id": 15,
+      "popularity": 0.2284,
+      "profile_path": null
+    },
+    {
+      "personId": 46274,
+      "name": "James Thierrée",
+      "character": "Frederic",
+      "order": 6,
+      "cast_id": 16,
+      "popularity": 0.4782,
+      "profile_path": "/reqkGvYZFwhhKtbZ5h6ODN9WTU3.jpg"
+    },
+    {
+      "personId": 1163056,
+      "name": "Emmanuelle Oppo",
+      "character": "Vitalie",
+      "order": 7,
+      "cast_id": 17,
+      "popularity": 0.3463,
+      "profile_path": null
+    },
+    {
+      "personId": 12952,
+      "name": "Christopher Hampton",
+      "character": "The Judge",
+      "order": 8,
+      "cast_id": 18,
+      "popularity": 0.5312,
+      "profile_path": "/utg2E5j1D4xt5vgoUnrc4WEh7fE.jpg"
+    },
+    {
+      "personId": 146375,
+      "name": "Denise Chalem",
+      "character": "Mrs. Maute De Fleurville",
+      "order": 9,
+      "cast_id": 19,
+      "popularity": 0.247,
+      "profile_path": "/vtOSgZ24Ov2QFtaKI1gbUGLPLhi.jpg"
+    },
+    {
+      "personId": 2829,
+      "name": "Andrzej Seweryn",
+      "character": "Mr. Maute De Fleurville",
+      "order": 10,
+      "cast_id": 20,
+      "popularity": 0.7645,
+      "profile_path": "/uYohJvqAai28Piqa0eEs6zAeFer.jpg"
+    },
+    {
+      "personId": 35530,
+      "name": "Christopher Thompson",
+      "character": "Carjat",
+      "order": 11,
+      "cast_id": 21,
+      "popularity": 0.415,
+      "profile_path": "/p9cGZ4pk6BNOvE9ljYAmaRGDz76.jpg"
+    },
+    {
+      "personId": 1163057,
+      "name": "Bruce Van Barthold",
+      "character": "Aicard",
+      "order": 12,
+      "cast_id": 22,
+      "popularity": 0.13,
+      "profile_path": null
+    },
+    {
+      "personId": 1163058,
+      "name": "Christopher Chaplin",
+      "character": "Charles Cros",
+      "order": 13,
+      "cast_id": 23,
+      "popularity": 0.2484,
+      "profile_path": null
+    },
+    {
+      "personId": 309816,
+      "name": "Mathias Jung",
+      "character": "André",
+      "order": 14,
+      "cast_id": 24,
+      "popularity": 0.4183,
+      "profile_path": "/uPHzTyc3EaJKJ3CWOeOz2xo951z.jpg"
+    },
+    {
+      "personId": 1163059,
+      "name": "Kettly Noël",
+      "character": "Somalian Woman",
+      "order": 15,
+      "cast_id": 25,
+      "popularity": 0.476,
+      "profile_path": "/uv2BHnIwRyjUh4MXywGZcduuQOc.jpg"
+    },
+    {
+      "personId": 1163060,
+      "name": "Cheb Han",
+      "character": "Djami",
+      "order": 16,
+      "cast_id": 26,
+      "popularity": 0.1404,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1128,
+      "name": "Agnieszka Holland",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6964,
+      "profile_path": "/rfM2l3Z1Vm3ASuiEC50Zpf37jLj.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 90,
+      "name": "paris, france"
+    },
+    {
+      "id": 1310,
+      "name": "mentor"
+    },
+    {
+      "id": 5933,
+      "name": "poet"
+    },
+    {
+      "id": 5565,
+      "name": "biography"
+    },
+    {
+      "id": 10181,
+      "name": "based on play or musical"
+    },
+    {
+      "id": 158718,
+      "name": "lgbt"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    },
+    {
+      "id": 207928,
+      "name": "19th century"
+    },
+    {
+      "id": 258533,
+      "name": "gay theme"
+    }
+  ]
+}

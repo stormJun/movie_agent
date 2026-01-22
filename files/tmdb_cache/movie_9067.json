@@ -1,0 +1,275 @@
+{
+  "overview": "After a comet disrupts the rain cycle of Earth, the planet has become a desolate, barren desert by the year 2033. With resources scarce, Kesslee, head of the powerful and evil Water & Power Corporation, the de facto government, has taken control of the water supply. Unwilling to cower under Kesslee's tyrannical rule, a pair of outlaws known as Tank Girl and Jet Girl rise up, joining the mysterious rebel Rippers to destroy the corrupt system.",
+  "release_date": "1995-03-31",
+  "runtime": 104,
+  "budget": 25000000,
+  "revenue": 4064495,
+  "tmdb_vote_average": 5.451,
+  "tmdb_vote_count": 556,
+  "tmdb_popularity": 8.1661,
+  "original_language": "en",
+  "poster_path": "/qohdY3BcJ98sFneOUAWp0FmH4Z6.jpg",
+  "backdrop_path": "/rmG0rboJMA9sE6vttQCM2eXXJ2Q.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Comedy",
+    "Science Fiction",
+    "Fantasy"
+  ],
+  "production_companies": [
+    {
+      "id": 2231,
+      "name": "Trilogy Entertainment Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 60,
+      "name": "United Artists",
+      "origin_country": "US"
+    },
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    },
+    {
+      "id": 138907,
+      "name": "Image Comics",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 15309,
+      "name": "Lori Petty",
+      "character": "Rebecca / Tank Girl",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.3745,
+      "profile_path": "/bmJFh4VxRii7h7jpo4YVC6BFeVd.jpg"
+    },
+    {
+      "personId": 3489,
+      "name": "Naomi Watts",
+      "character": "Jet Girl",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 4.807,
+      "profile_path": "/5s6UE6VjYx5TBDvyFk4vfOdS9GR.jpg"
+    },
+    {
+      "personId": 56890,
+      "name": "Malcolm McDowell",
+      "character": "Kesslee",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 4.4296,
+      "profile_path": "/hL8ep4Hqj6izX7IlzE7Bbcfq62w.jpg"
+    },
+    {
+      "personId": 21411,
+      "name": "Ice-T",
+      "character": "T-Saint",
+      "order": 3,
+      "cast_id": 2,
+      "popularity": 3.2796,
+      "profile_path": "/96TdPckI16ggfHcPrSFf6bHYLLe.jpg"
+    },
+    {
+      "personId": 54865,
+      "name": "Jeff Kober",
+      "character": "Booga",
+      "order": 4,
+      "cast_id": 15,
+      "popularity": 3.3846,
+      "profile_path": "/rSHfqqDdNCBbia04NqxIB2U19wM.jpg"
+    },
+    {
+      "personId": 38951,
+      "name": "Reg E. Cathey",
+      "character": "Deetee",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 1.6415,
+      "profile_path": "/cgyJJQUdbK4S7ihkL9hgIIwutk3.jpg"
+    },
+    {
+      "personId": 9306,
+      "name": "Scott Coffey",
+      "character": "Donner",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 1.0063,
+      "profile_path": "/86ShscBwPqnG5BuZxMkT6kc6ELv.jpg"
+    },
+    {
+      "personId": 1280,
+      "name": "Don Harvey",
+      "character": "Sgt. Small",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 1.7752,
+      "profile_path": "/dc10W0hRNxrO0IcwgKOcsUajtOG.jpg"
+    },
+    {
+      "personId": 59260,
+      "name": "Ann Cusack",
+      "character": "Sub Girl",
+      "order": 8,
+      "cast_id": 18,
+      "popularity": 2.6378,
+      "profile_path": "/vM2ZwKY3C1NZARrzQB7ch7n638T.jpg"
+    },
+    {
+      "personId": 13604,
+      "name": "Iggy Pop",
+      "character": "Rat Face",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 1.6992,
+      "profile_path": "/kZwFoGujhS3D39R1uyuyNbgSPr0.jpg"
+    },
+    {
+      "personId": 20904,
+      "name": "James Hong",
+      "character": "Che'tsai",
+      "order": 10,
+      "cast_id": 19,
+      "popularity": 3.7319,
+      "profile_path": "/v3lfw5aHOy0paOCx6WHiSnwzbH0.jpg"
+    },
+    {
+      "personId": 31028,
+      "name": "Richard Schiff",
+      "character": "Trooper in Trench",
+      "order": 11,
+      "cast_id": 20,
+      "popularity": 3.4669,
+      "profile_path": "/oFDka3Y5H3DBiZRqbdPabtX8ncP.jpg"
+    },
+    {
+      "personId": 1028072,
+      "name": "Mary Ann Hermansen",
+      "character": "Liquid Silver Dancer",
+      "order": 12,
+      "cast_id": 21,
+      "popularity": 1.2791,
+      "profile_path": "/eD1hmCKALB3SKpvjCQPbNcZNMAA.jpg"
+    },
+    {
+      "personId": 1748010,
+      "name": "Stacy Linn Ramsower",
+      "character": "Sam",
+      "order": 13,
+      "cast_id": 24,
+      "popularity": 0.2363,
+      "profile_path": null
+    },
+    {
+      "personId": 113785,
+      "name": "Brian Wimmer",
+      "character": "Richard",
+      "order": 14,
+      "cast_id": 25,
+      "popularity": 0.7266,
+      "profile_path": "/rgNyMoXYbQHptCgTuvXNimWMeNl.jpg"
+    },
+    {
+      "personId": 51321,
+      "name": "Dawn Robinson",
+      "character": "Model",
+      "order": 15,
+      "cast_id": 26,
+      "popularity": 0.41,
+      "profile_path": "/yJWlvAL1HcytpPYvV8Ko4ZwvaIN.jpg"
+    },
+    {
+      "personId": 21735,
+      "name": "Billy L. Sullivan",
+      "character": "Max",
+      "order": 16,
+      "cast_id": 27,
+      "popularity": 0.7882,
+      "profile_path": "/1SB7xuFNP3DMeelVRuN6i1pO0mr.jpg"
+    },
+    {
+      "personId": 88522,
+      "name": "Charles Lucia",
+      "character": "Capt. Derouche",
+      "order": 17,
+      "cast_id": 28,
+      "popularity": 0.7737,
+      "profile_path": "/jwNxR4sVWzSkpQPRngXvW0CHJnv.jpg"
+    },
+    {
+      "personId": 37042,
+      "name": "Ann Magnuson",
+      "character": "The Madam",
+      "order": 18,
+      "cast_id": 84,
+      "popularity": 1.2365,
+      "profile_path": "/gzT97QR7Q6ZWkDttAVIpO0pyoM2.jpg"
+    },
+    {
+      "personId": 1748021,
+      "name": "Harlan Clark",
+      "character": "Additional Ripper",
+      "order": 19,
+      "cast_id": 29,
+      "popularity": 0.1176,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 56891,
+      "name": "Rachel Talalay",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.933,
+      "profile_path": "/zPK5SDFQO9BFOp5I9knh1pCQlEs.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 4565,
+      "name": "dystopia"
+    },
+    {
+      "id": 2535,
+      "name": "destroy"
+    },
+    {
+      "id": 5484,
+      "name": "reincarnation"
+    },
+    {
+      "id": 9717,
+      "name": "based on comic"
+    },
+    {
+      "id": 18034,
+      "name": "desert"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    },
+    {
+      "id": 256328,
+      "name": "2030s"
+    }
+  ]
+}

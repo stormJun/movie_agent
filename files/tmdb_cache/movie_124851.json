@@ -1,0 +1,182 @@
+{
+  "overview": "Angel celebrates the birth of his daughter by taking his first hit of crack cocaine. With the hesitant support of his wife, Monika, he joins a friend of his to deal drugs for a short time--enough time to get out of debt and buy some nice things for the family. Three years later, Angel is still dealing, and has not saved any money, instead spending it on crack. His addiction grows, straining his friendship and his family life, and he gradually loses control.",
+  "release_date": "1995-06-08",
+  "runtime": 89,
+  "budget": 0,
+  "revenue": 102350,
+  "tmdb_vote_average": 6.3,
+  "tmdb_vote_count": 7,
+  "tmdb_popularity": 2.8017,
+  "original_language": "en",
+  "poster_path": "/fQzq50uVV2vjaTUzUp3j0hZ00R6.jpg",
+  "backdrop_path": null,
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 164719,
+      "name": "Concrete Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11486,
+      "name": "Michael Imperioli",
+      "character": "Angelo",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 3.0135,
+      "profile_path": "/jfoEHR6BRMg8emtujXdM3G4JHIm.jpg"
+    },
+    {
+      "personId": 23931,
+      "name": "Mira Sorvino",
+      "character": "Monika",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 4.2223,
+      "profile_path": "/3CPM8yvppihiKsA1pf4x8PJe4x6.jpg"
+    },
+    {
+      "personId": 3314397,
+      "name": "Joyce Phillips",
+      "character": "Nurse (voice)",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 0.0921,
+      "profile_path": null
+    },
+    {
+      "personId": 3137,
+      "name": "Paul Calderon",
+      "character": "Ray",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 1.5123,
+      "profile_path": "/xIORhcIDmFMlaS3ZS3em1QiTkt5.jpg"
+    },
+    {
+      "personId": 2655312,
+      "name": "Lisa Louise Langford",
+      "character": "Edna (as Lisa Langford)",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 0.1464,
+      "profile_path": null
+    },
+    {
+      "personId": 63373,
+      "name": "Sean Marquette",
+      "character": "Young Richie",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 1.3879,
+      "profile_path": "/uOLbwLSwln0mEPdOvpC2rQXu1Ar.jpg"
+    },
+    {
+      "personId": 3314398,
+      "name": "Raymond McRinna",
+      "character": "Office Clerk",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 0.4066,
+      "profile_path": null
+    },
+    {
+      "personId": 15031,
+      "name": "Patrick Breen",
+      "character": "Greg",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 1.5285,
+      "profile_path": "/oGK78qN4cezMlG7VBvZ0QYh1Ui0.jpg"
+    },
+    {
+      "personId": 1185405,
+      "name": "Maria Tucci",
+      "character": "Monika's Mother",
+      "order": 8,
+      "cast_id": 10,
+      "popularity": 0.3817,
+      "profile_path": null
+    },
+    {
+      "personId": 3314399,
+      "name": "Claire Imperioli",
+      "character": "Thanksgiving Guest",
+      "order": 9,
+      "cast_id": 11,
+      "popularity": 0.0409,
+      "profile_path": null
+    },
+    {
+      "personId": 3314400,
+      "name": "Dan Imperioli",
+      "character": "Thanksgiving Guest",
+      "order": 10,
+      "cast_id": 12,
+      "popularity": 0.1013,
+      "profile_path": null
+    },
+    {
+      "personId": 3314401,
+      "name": "Ford Sorvino",
+      "character": "Thanksgiving Guest",
+      "order": 11,
+      "cast_id": 13,
+      "popularity": 0.0707,
+      "profile_path": null
+    },
+    {
+      "personId": 59238,
+      "name": "Christopher Rodriguez Marquette",
+      "character": "Richie (as Christopher Marquette)",
+      "order": 12,
+      "cast_id": 14,
+      "popularity": 1.2968,
+      "profile_path": "/8AL7UPXM4sVkOMgTHIxNdRi2SXP.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 17046,
+      "name": "Gary Winick",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.012,
+      "profile_path": "/65IlEyU6HWKTglfAk7cQRelYAbx.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 10594,
+      "name": "money"
+    },
+    {
+      "id": 12544,
+      "name": "crying"
+    },
+    {
+      "id": 14964,
+      "name": "drugs"
+    }
+  ]
+}

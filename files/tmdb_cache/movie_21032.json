@@ -1,0 +1,266 @@
+{
+  "overview": "An outcast half-wolf risks his life to prevent a deadly epidemic from ravaging Nome, Alaska.",
+  "release_date": "1995-12-22",
+  "runtime": 78,
+  "budget": 31000000,
+  "revenue": 11348324,
+  "tmdb_vote_average": 7.304,
+  "tmdb_vote_count": 2131,
+  "tmdb_popularity": 3.2095,
+  "original_language": "en",
+  "poster_path": "/dCVcdb5oxDizqFLz0F7TE60NoC9.jpg",
+  "backdrop_path": "/tNhmSedhPFBgYobhp5PxKyDVCez.jpg",
+  "tmdb_genres_raw": [
+    "Family",
+    "Animation",
+    "Adventure"
+  ],
+  "production_companies": [
+    {
+      "id": 56,
+      "name": "Amblin Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 4105,
+      "name": "Amblimation",
+      "origin_country": ""
+    },
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4724,
+      "name": "Kevin Bacon",
+      "character": "Balto (voice)",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 7.2766,
+      "profile_path": "/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg"
+    },
+    {
+      "personId": 382,
+      "name": "Bob Hoskins",
+      "character": "Boris the Goose (voice)",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.4116,
+      "profile_path": "/qOeE7bVHAsNTbP77Qk6TwrrWHZc.jpg"
+    },
+    {
+      "personId": 2233,
+      "name": "Bridget Fonda",
+      "character": "Jenna (voice)",
+      "order": 2,
+      "cast_id": 8,
+      "popularity": 4.2338,
+      "profile_path": "/ylGktmhDCLnaaV8owSPL8cVlsbn.jpg"
+    },
+    {
+      "personId": 12077,
+      "name": "Jim Cummings",
+      "character": "Steele the Sled Dog (voice)",
+      "order": 3,
+      "cast_id": 9,
+      "popularity": 3.4748,
+      "profile_path": "/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg"
+    },
+    {
+      "personId": 110001,
+      "name": "Phil Collins",
+      "character": "Muk and Luk (voice)",
+      "order": 4,
+      "cast_id": 10,
+      "popularity": 1.2743,
+      "profile_path": "/3Gq6UQH1HHWkFv59lY1BHFTk5yk.jpg"
+    },
+    {
+      "personId": 67386,
+      "name": "Juliette Brewer",
+      "character": "Young Rosy (voice)",
+      "order": 5,
+      "cast_id": 19,
+      "popularity": 0.7426,
+      "profile_path": "/c8pxfyYFR92YiTrecnj2l5pMNnP.jpg"
+    },
+    {
+      "personId": 19545,
+      "name": "Jack Angel",
+      "character": "Nikki (voice)",
+      "order": 6,
+      "cast_id": 20,
+      "popularity": 1.4271,
+      "profile_path": "/5MsVwIULYJotUSbDs61uSJff7ei.jpg"
+    },
+    {
+      "personId": 52699,
+      "name": "Danny Mann",
+      "character": "Kaltag (voice)",
+      "order": 7,
+      "cast_id": 21,
+      "popularity": 1.7185,
+      "profile_path": "/980QYqXIZCMn5Knx0vjROkw9vKo.jpg"
+    },
+    {
+      "personId": 77157,
+      "name": "Robbie Rist",
+      "character": "Star (voice)",
+      "order": 8,
+      "cast_id": 22,
+      "popularity": 0.9782,
+      "profile_path": "/xaDQBCyjEOtgsto7xTiVRP0PsKe.jpg"
+    },
+    {
+      "personId": 176254,
+      "name": "Sandra Dickinson",
+      "character": "Dixie / Sylvie (voice)",
+      "order": 9,
+      "cast_id": 23,
+      "popularity": 1.1323,
+      "profile_path": "/fZYuygLSA8HMEbDHgH2txtaEeWa.jpg"
+    },
+    {
+      "personId": 15831,
+      "name": "Frank Welker",
+      "character": "Grizzly Bear (voice)",
+      "order": 10,
+      "cast_id": 24,
+      "popularity": 5.2376,
+      "profile_path": "/xXODQ5AX6pG4my8ieeEIuiAREXs.jpg"
+    },
+    {
+      "personId": 6199,
+      "name": "Miriam Margolyes",
+      "character": "Grandma Rosy",
+      "order": 11,
+      "cast_id": 11,
+      "popularity": 2.1728,
+      "profile_path": "/vsnCGCp0nhJTag56HP8XFhXnZo9.jpg"
+    },
+    {
+      "personId": 1592266,
+      "name": "Lola Bates-Campbell",
+      "character": "Rosie's granddaughter",
+      "order": 12,
+      "cast_id": 25,
+      "popularity": 0.2462,
+      "profile_path": null
+    },
+    {
+      "personId": 39954,
+      "name": "Donald Sinden",
+      "character": "Doc (voice)",
+      "order": 13,
+      "cast_id": 39,
+      "popularity": 0.6605,
+      "profile_path": "/AaHT02f2FMqEKEleTZrXbnnSCHU.jpg"
+    },
+    {
+      "personId": 17356,
+      "name": "Garrick Hagon",
+      "character": "Telegraph Operator (voice)",
+      "order": 14,
+      "cast_id": 40,
+      "popularity": 1.1446,
+      "profile_path": "/fGz7qzJQdVclj75vDGJDisGmqCH.jpg"
+    },
+    {
+      "personId": 1529474,
+      "name": "William Roberts",
+      "character": "Rosy's Father (voice)",
+      "order": 15,
+      "cast_id": 41,
+      "popularity": 1.4662,
+      "profile_path": "/ppp8HAYs6AL9B1gDSiKIZYwzHUW.jpg"
+    },
+    {
+      "personId": 5363169,
+      "name": "Big Al",
+      "character": "Town Dog (voice)",
+      "order": 16,
+      "cast_id": 42,
+      "popularity": 0.1967,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 21879,
+      "name": "Simon Wells",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7003,
+      "profile_path": "/1p3DWHCJ8XzfvYRgxlhPnLDAeDy.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1994,
+      "name": "wolf"
+    },
+    {
+      "id": 2551,
+      "name": "pet"
+    },
+    {
+      "id": 6513,
+      "name": "cartoon"
+    },
+    {
+      "id": 3289,
+      "name": "villain"
+    },
+    {
+      "id": 6411,
+      "name": "dog-sledding race"
+    },
+    {
+      "id": 9880,
+      "name": "alaska"
+    },
+    {
+      "id": 15162,
+      "name": "dog"
+    },
+    {
+      "id": 15169,
+      "name": "goose"
+    },
+    {
+      "id": 158175,
+      "name": "bear attack"
+    },
+    {
+      "id": 158370,
+      "name": "dog sled"
+    },
+    {
+      "id": 190098,
+      "name": "cartoon wolf"
+    },
+    {
+      "id": 208152,
+      "name": "pets"
+    },
+    {
+      "id": 271856,
+      "name": "cartoon animal"
+    }
+  ]
+}

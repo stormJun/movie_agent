@@ -1,0 +1,305 @@
+{
+  "overview": "Stanley, a meek bank employee, turns into an eccentric and maniacal green-skinned superhero who can bend reality, after wearing a wooden mask that was created by Loki, the Norse god of mischief.",
+  "release_date": "1994-07-29",
+  "runtime": 101,
+  "budget": 23000000,
+  "revenue": 351583407,
+  "tmdb_vote_average": 6.974,
+  "tmdb_vote_count": 10930,
+  "tmdb_popularity": 14.8657,
+  "original_language": "en",
+  "poster_path": "/jPC2eYub74zwf2tPGVtzSlBW6Oy.jpg",
+  "backdrop_path": "/bQlw59HncOXX9alFlOYKHAvSnm.jpg",
+  "tmdb_genres_raw": [
+    "Romance",
+    "Comedy",
+    "Crime",
+    "Fantasy"
+  ],
+  "production_companies": [
+    {
+      "id": 552,
+      "name": "Dark Horse Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "sv",
+      "name": "svenska"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 206,
+      "name": "Jim Carrey",
+      "character": "Stanley Ipkiss / The Mask",
+      "order": 0,
+      "cast_id": 17,
+      "popularity": 11.1914,
+      "profile_path": "/u0AqTz6Y7GHPCHINS01P7gPvDSb.jpg"
+    },
+    {
+      "personId": 20899,
+      "name": "Peter Riegert",
+      "character": "Mitch Kellaway",
+      "order": 1,
+      "cast_id": 22,
+      "popularity": 1.7717,
+      "profile_path": "/z7Fat4xqx7dvUOsmimd98xmTkFG.jpg"
+    },
+    {
+      "personId": 11803,
+      "name": "Peter Greene",
+      "character": "Dorian Tyrrell",
+      "order": 2,
+      "cast_id": 23,
+      "popularity": 5.3026,
+      "profile_path": "/kPnF9rK6ULrIycK7n0ewYjInMZG.jpg"
+    },
+    {
+      "personId": 1219,
+      "name": "Amy Yasbeck",
+      "character": "Peggy Brandt",
+      "order": 3,
+      "cast_id": 24,
+      "popularity": 2.3002,
+      "profile_path": "/5BbyiBjp5T8pKUcauVTweRcvLJJ.jpg"
+    },
+    {
+      "personId": 53402,
+      "name": "Richard Jeni",
+      "character": "Charlie Schumaker",
+      "order": 4,
+      "cast_id": 25,
+      "popularity": 0.6155,
+      "profile_path": "/fyGOCHDImuNP9KDbGCQdkmg94vO.jpg"
+    },
+    {
+      "personId": 53403,
+      "name": "Orestes Matacena",
+      "character": "Niko",
+      "order": 5,
+      "cast_id": 26,
+      "popularity": 0.6634,
+      "profile_path": "/kBN6pmgyLs4LZ2IUAcxSQ8SsE13.jpg"
+    },
+    {
+      "personId": 53400,
+      "name": "Tim Bagley",
+      "character": "Irv",
+      "order": 6,
+      "cast_id": 20,
+      "popularity": 2.1046,
+      "profile_path": "/l00IDn897RHTbTB7GcU1Pm9dKsO.jpg"
+    },
+    {
+      "personId": 42168,
+      "name": "Nancy Fish",
+      "character": "Mrs. Peenman",
+      "order": 7,
+      "cast_id": 19,
+      "popularity": 1.5972,
+      "profile_path": "/4hsbpX8MaxXDQBh9T4IJZD3wGza.jpg"
+    },
+    {
+      "personId": 53401,
+      "name": "Johnny Williams",
+      "character": "Burt",
+      "order": 8,
+      "cast_id": 21,
+      "popularity": 0.8351,
+      "profile_path": "/mQNhYK7SCzj6TY6m764ROposuRY.jpg"
+    },
+    {
+      "personId": 38951,
+      "name": "Reg E. Cathey",
+      "character": "Freeze",
+      "order": 9,
+      "cast_id": 30,
+      "popularity": 1.6415,
+      "profile_path": "/cgyJJQUdbK4S7ihkL9hgIIwutk3.jpg"
+    },
+    {
+      "personId": 1219157,
+      "name": "Jim Doughan",
+      "character": "Doyle",
+      "order": 10,
+      "cast_id": 31,
+      "popularity": 1.7478,
+      "profile_path": "/oPn0LX43yvJ5qGuNpQRQryHX7lu.jpg"
+    },
+    {
+      "personId": 111078,
+      "name": "Denis Forest",
+      "character": "Sweet Eddy",
+      "order": 11,
+      "cast_id": 32,
+      "popularity": 1.0399,
+      "profile_path": "/mCon4Kh8MaOmvY1uhT3UQXyGh0V.jpg"
+    },
+    {
+      "personId": 6941,
+      "name": "Cameron Diaz",
+      "character": "Tina Carlyle",
+      "order": 12,
+      "cast_id": 18,
+      "popularity": 7.2,
+      "profile_path": "/d4f4cQ9EiYuvNMjT1IB2h06KoRx.jpg"
+    },
+    {
+      "personId": 1647716,
+      "name": "Joseph Alfieri",
+      "character": "Police Officer",
+      "order": 13,
+      "cast_id": 48,
+      "popularity": 0.2851,
+      "profile_path": "/fpTSzxhKrjn3iLZBwy9Q67rKPmE.jpg"
+    },
+    {
+      "personId": 1597482,
+      "name": "B.J. Barie",
+      "character": "Alley Punk #1",
+      "order": 14,
+      "cast_id": 49,
+      "popularity": 0.7368,
+      "profile_path": "/rfBp9JaaPWfOFQfHgqb8h6WaIfk.jpg"
+    },
+    {
+      "personId": 2478048,
+      "name": "Catherine Berge",
+      "character": "Cigarette Girl",
+      "order": 15,
+      "cast_id": 50,
+      "popularity": 0.2677,
+      "profile_path": null
+    },
+    {
+      "personId": 1944778,
+      "name": "Philip Boardman",
+      "character": "Guard",
+      "order": 16,
+      "cast_id": 51,
+      "popularity": 0.3051,
+      "profile_path": "/xEtqwiUDctYdIiEvLGoj0B28UTl.jpg"
+    },
+    {
+      "personId": 2478050,
+      "name": "Krista Buonauro",
+      "character": "Lady Cop",
+      "order": 17,
+      "cast_id": 52,
+      "popularity": 2.1632,
+      "profile_path": null
+    },
+    {
+      "personId": 1785229,
+      "name": "Debra Casey",
+      "character": "Alley Punk #3",
+      "order": 18,
+      "cast_id": 53,
+      "popularity": 1.1328,
+      "profile_path": null
+    },
+    {
+      "personId": 21485,
+      "name": "Blake Clark",
+      "character": "Murray",
+      "order": 19,
+      "cast_id": 54,
+      "popularity": 2.2358,
+      "profile_path": "/sGnpoCZ9rarxzLR6KlyCAwPwwQ2.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 26713,
+      "name": "Chuck Russell",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.0261,
+      "profile_path": "/d0ISieRQuAEKqNMDzTFGdJ4KrVw.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 851,
+      "name": "dual identity"
+    },
+    {
+      "id": 974,
+      "name": "bank"
+    },
+    {
+      "id": 9715,
+      "name": "superhero"
+    },
+    {
+      "id": 2422,
+      "name": "mockery"
+    },
+    {
+      "id": 4375,
+      "name": "transformation"
+    },
+    {
+      "id": 3289,
+      "name": "villain"
+    },
+    {
+      "id": 9887,
+      "name": "surrealism"
+    },
+    {
+      "id": 9717,
+      "name": "based on comic"
+    },
+    {
+      "id": 9253,
+      "name": "slapstick comedy"
+    },
+    {
+      "id": 9903,
+      "name": "balloon"
+    },
+    {
+      "id": 15162,
+      "name": "dog"
+    },
+    {
+      "id": 33556,
+      "name": "urban setting"
+    },
+    {
+      "id": 156257,
+      "name": "jail cell"
+    },
+    {
+      "id": 163074,
+      "name": "super villain"
+    },
+    {
+      "id": 179101,
+      "name": "norse mythology"
+    },
+    {
+      "id": 251513,
+      "name": "supernatural power"
+    }
+  ]
+}

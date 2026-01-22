@@ -1,0 +1,357 @@
+{
+  "overview": "Wounded Civil War soldier John Dunbar tries to commit suicide—and becomes a hero instead. As a reward, he's assigned to his dream post, a remote junction on the Western frontier, and soon makes unlikely friends with the local Sioux tribe.",
+  "release_date": "1990-03-30",
+  "runtime": 181,
+  "budget": 22000000,
+  "revenue": 424208848,
+  "tmdb_vote_average": 7.836,
+  "tmdb_vote_count": 4541,
+  "tmdb_popularity": 11.0589,
+  "original_language": "en",
+  "poster_path": "/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg",
+  "backdrop_path": "/ywWva4trKw7f3wtbz81Fe3FnrtC.jpg",
+  "tmdb_genres_raw": [
+    "Adventure",
+    "Drama",
+    "Western"
+  ],
+  "production_companies": [
+    {
+      "id": 335,
+      "name": "Tig Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 2630,
+      "name": "Majestic Films International",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1755,
+      "name": "Allied Filmmakers",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1269,
+      "name": "Kevin Costner",
+      "character": "Lieutenant Dunbar",
+      "order": 0,
+      "cast_id": 12,
+      "popularity": 8.6545,
+      "profile_path": "/bykmxJHLfbFM3NT05RZXhx8YTzF.jpg"
+    },
+    {
+      "personId": 1581,
+      "name": "Mary McDonnell",
+      "character": "Stands With A Fist",
+      "order": 1,
+      "cast_id": 13,
+      "popularity": 5.347,
+      "profile_path": "/qqdaaFLEPXbB8thVJJkYJ4WoAuj.jpg"
+    },
+    {
+      "personId": 6804,
+      "name": "Graham Greene",
+      "character": "Kicking Bird",
+      "order": 2,
+      "cast_id": 14,
+      "popularity": 4.602,
+      "profile_path": "/ubX9pwrzQqnR41gAGyY1GoSZr1G.jpg"
+    },
+    {
+      "personId": 7853,
+      "name": "Rodney A. Grant",
+      "character": "Wind In His Hair",
+      "order": 3,
+      "cast_id": 15,
+      "popularity": 1.0416,
+      "profile_path": "/44J0nk3dWoGbCXIgHi9lftmiUHR.jpg"
+    },
+    {
+      "personId": 7862,
+      "name": "Floyd \"Red Crow\" Westerman",
+      "character": "Ten Bears",
+      "order": 4,
+      "cast_id": 16,
+      "popularity": 0.5303,
+      "profile_path": "/mtlDkkqentn5wyJcVOOEq8UXKk9.jpg"
+    },
+    {
+      "personId": 7863,
+      "name": "Tantoo Cardinal",
+      "character": "Black Shawl",
+      "order": 5,
+      "cast_id": 17,
+      "popularity": 1.5433,
+      "profile_path": "/rxhjfygJlPwztf36iRI7UDn5dr7.jpg"
+    },
+    {
+      "personId": 7866,
+      "name": "Robert Pastorelli",
+      "character": "Timmons",
+      "order": 6,
+      "cast_id": 18,
+      "popularity": 1.5388,
+      "profile_path": "/ds12780uuJrpSabogQBqc7mveSQ.jpg"
+    },
+    {
+      "personId": 7867,
+      "name": "Charles Rocket",
+      "character": "Lieutenant Elgin",
+      "order": 7,
+      "cast_id": 19,
+      "popularity": 0.7916,
+      "profile_path": "/g2HeXDVqtGhYKBqeV4cFaZ7RbVV.jpg"
+    },
+    {
+      "personId": 7868,
+      "name": "Maury Chaykin",
+      "character": "Major Fambrough",
+      "order": 8,
+      "cast_id": 20,
+      "popularity": 1.8672,
+      "profile_path": "/Aqmsu1UHo40Md4RlLGfotSt8Lrr.jpg"
+    },
+    {
+      "personId": 7869,
+      "name": "Jimmy Herman",
+      "character": "Stone Calf",
+      "order": 9,
+      "cast_id": 21,
+      "popularity": 1.3885,
+      "profile_path": "/aFEJ8KceyDhtarKEhazH7cWJyDA.jpg"
+    },
+    {
+      "personId": 7871,
+      "name": "Nathan Lee Chasing His Horse",
+      "character": "Smiles A Lot",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 1.7535,
+      "profile_path": null
+    },
+    {
+      "personId": 7872,
+      "name": "Michael Spears",
+      "character": "Otter",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 0.7625,
+      "profile_path": "/g9gkvBMGjGpDxqbtAbHuRfAeNdr.jpg"
+    },
+    {
+      "personId": 7873,
+      "name": "Jason R. Lone Hill",
+      "character": "Worm",
+      "order": 12,
+      "cast_id": 25,
+      "popularity": 0.4171,
+      "profile_path": null
+    },
+    {
+      "personId": 7874,
+      "name": "Tony Pierce",
+      "character": "Spivey",
+      "order": 13,
+      "cast_id": 26,
+      "popularity": 1.5279,
+      "profile_path": "/rzk6swdNyDFX7qUlmJMoXGu48Bu.jpg"
+    },
+    {
+      "personId": 7875,
+      "name": "Doris Leader Charge",
+      "character": "Pretty Shield",
+      "order": 14,
+      "cast_id": 27,
+      "popularity": 1.3079,
+      "profile_path": null
+    },
+    {
+      "personId": 140250,
+      "name": "Tom Everett",
+      "character": "Sergeant Pepper",
+      "order": 15,
+      "cast_id": 30,
+      "popularity": 1.5228,
+      "profile_path": "/lJIlLkadJ62eRai5BRgmmyObeiC.jpg"
+    },
+    {
+      "personId": 21380,
+      "name": "Larry Joshua",
+      "character": "Sergeant Bauer",
+      "order": 16,
+      "cast_id": 31,
+      "popularity": 1.4768,
+      "profile_path": "/vFKFwlwTzQ1IAtGUlApk3ROLMIA.jpg"
+    },
+    {
+      "personId": 3206,
+      "name": "Kirk Baltz",
+      "character": "Edwards",
+      "order": 17,
+      "cast_id": 32,
+      "popularity": 1.1357,
+      "profile_path": "/8PkKnqLOjfWm33GFk2Azt7MvY2Q.jpg"
+    },
+    {
+      "personId": 52145,
+      "name": "Wayne Grace",
+      "character": "Major",
+      "order": 18,
+      "cast_id": 33,
+      "popularity": 0.8062,
+      "profile_path": "/11uxoFw8pwHfNhUIw40L0jSdckX.jpg"
+    },
+    {
+      "personId": 14854,
+      "name": "Donald Hotton",
+      "character": "General Tide",
+      "order": 19,
+      "cast_id": 34,
+      "popularity": 0.8971,
+      "profile_path": "/ln7mzCuthQjZo8AGX713fGanGTA.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1269,
+      "name": "Kevin Costner",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 8.6545,
+      "profile_path": "/bykmxJHLfbFM3NT05RZXhx8YTzF.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6054,
+      "name": "friendship"
+    },
+    {
+      "id": 1860,
+      "name": "mutiny"
+    },
+    {
+      "id": 548,
+      "name": "countryside"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 6059,
+      "name": "unsociability"
+    },
+    {
+      "id": 1994,
+      "name": "wolf"
+    },
+    {
+      "id": 1463,
+      "name": "culture clash"
+    },
+    {
+      "id": 2796,
+      "name": "self-discovery"
+    },
+    {
+      "id": 6089,
+      "name": "freedom"
+    },
+    {
+      "id": 1806,
+      "name": "desertion"
+    },
+    {
+      "id": 2568,
+      "name": "language barrier"
+    },
+    {
+      "id": 2911,
+      "name": "dakota"
+    },
+    {
+      "id": 2912,
+      "name": "buffalo"
+    },
+    {
+      "id": 10322,
+      "name": "native american"
+    },
+    {
+      "id": 7658,
+      "name": "kansas, usa"
+    },
+    {
+      "id": 8099,
+      "name": "sioux"
+    },
+    {
+      "id": 6335,
+      "name": "tennessee"
+    },
+    {
+      "id": 10794,
+      "name": "snow"
+    },
+    {
+      "id": 190039,
+      "name": "pawnee tribe"
+    },
+    {
+      "id": 207928,
+      "name": "19th century"
+    },
+    {
+      "id": 208780,
+      "name": "lakota"
+    },
+    {
+      "id": 211482,
+      "name": "bison"
+    },
+    {
+      "id": 211659,
+      "name": "somber"
+    },
+    {
+      "id": 230457,
+      "name": "early america"
+    },
+    {
+      "id": 293649,
+      "name": "provocative"
+    },
+    {
+      "id": 311315,
+      "name": "dramatic"
+    },
+    {
+      "id": 321464,
+      "name": "intense"
+    },
+    {
+      "id": 325842,
+      "name": "powerful"
+    }
+  ]
+}

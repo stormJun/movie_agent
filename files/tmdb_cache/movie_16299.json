@@ -1,0 +1,257 @@
+{
+  "overview": "An incredibly dull-witted family unknowingly stumble upon an illegal weapons deal while on the trail of their \"stolen\" garbage.",
+  "release_date": "1996-08-08",
+  "runtime": 94,
+  "budget": 25000000,
+  "revenue": 2491989,
+  "tmdb_vote_average": 4.768,
+  "tmdb_vote_count": 82,
+  "tmdb_popularity": 2.7162,
+  "original_language": "en",
+  "poster_path": "/uR0EPkE66y2DU21NOZAu6xtfpQL.jpg",
+  "backdrop_path": "/rNxqquM6jUrm9rIBGtHc2NevC7y.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 11308,
+      "name": "Savoy Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 364,
+      "name": "The Rank Organisation",
+      "origin_country": "GB"
+    },
+    {
+      "id": 266638,
+      "name": "Landis/Belzberg Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 74036,
+      "name": "Tom Arnold",
+      "character": "Stanley Stupid",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 1.9804,
+      "profile_path": "/z2ajL1ozVCS4Ug04zOGCNH06OPP.jpg"
+    },
+    {
+      "personId": 83196,
+      "name": "Jessica Lundy",
+      "character": "Joan Stupid",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 0.8397,
+      "profile_path": "/nbTcto9xjHzQIIV1gM73IJwLVbT.jpg"
+    },
+    {
+      "personId": 69395,
+      "name": "Bug Hall",
+      "character": "Buster Stupid",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 2.3066,
+      "profile_path": "/axuZx8nn7R7ohlkfnxO9k3TIGiq.jpg"
+    },
+    {
+      "personId": 80290,
+      "name": "Alex McKenna",
+      "character": "Petunia Stupid",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 2.1009,
+      "profile_path": "/2uzX8eLMWo6Dz9EAo8BFYqfrnT4.jpg"
+    },
+    {
+      "personId": 55194,
+      "name": "Mark Metcalf",
+      "character": "Colonel Neidermeyer",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 2.0413,
+      "profile_path": "/oEtVysd2D05g2UHEZi2IbJRPxVX.jpg"
+    },
+    {
+      "personId": 35598,
+      "name": "Matt Keeslar",
+      "character": "Lieutenant Neal",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 1.0313,
+      "profile_path": "/wlSP3DCJSOnS8njeFvboS33qbyw.jpg"
+    },
+    {
+      "personId": 113,
+      "name": "Christopher Lee",
+      "character": "Evil Sender",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 3.0467,
+      "profile_path": "/dA26fBr3t7mKqjn3OYW6kbD1LXM.jpg"
+    },
+    {
+      "personId": 13936,
+      "name": "Frankie Faison",
+      "character": "The Lloyd",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 2.9337,
+      "profile_path": "/3717JOXK2Z8qelfyvScDGimfFBf.jpg"
+    },
+    {
+      "personId": 1744,
+      "name": "Robert Wise",
+      "character": "Stanley's Neighbor",
+      "order": 8,
+      "cast_id": 26,
+      "popularity": 1.2181,
+      "profile_path": "/fOMU2lb9usmqdoC1sMcLOdBmLgV.jpg"
+    },
+    {
+      "personId": 54791,
+      "name": "David Ferry",
+      "character": "Late-night show host",
+      "order": 9,
+      "cast_id": 19,
+      "popularity": 0.9018,
+      "profile_path": "/vSp7x6OqIfAktTmFp7xNgox7OGb.jpg"
+    },
+    {
+      "personId": 13563,
+      "name": "Norman Jewison",
+      "character": "TV Director",
+      "order": 10,
+      "cast_id": 25,
+      "popularity": 0.4921,
+      "profile_path": "/1lAQLc0csazVyRYpYgvePpOoKG7.jpg"
+    },
+    {
+      "personId": 35597,
+      "name": "Jenny McCarthy",
+      "character": "Glamorous Actress",
+      "order": 11,
+      "cast_id": 13,
+      "popularity": 3.2337,
+      "profile_path": "/6D27Xx43SocxLPh3PrYu2M8BcLa.jpg"
+    },
+    {
+      "personId": 56205,
+      "name": "Atom Egoyan",
+      "character": "TV Studio Guard",
+      "order": 12,
+      "cast_id": 23,
+      "popularity": 1.0894,
+      "profile_path": "/tovLR7Q6IlGD1jS5Sfv0DEGWgZf.jpg"
+    },
+    {
+      "personId": 90694,
+      "name": "Gillo Pontecorvo",
+      "character": "Talk show guest",
+      "order": 13,
+      "cast_id": 28,
+      "popularity": 0.934,
+      "profile_path": "/iRwLtl4aRdZMsfwGBUMbgELsDG6.jpg"
+    },
+    {
+      "personId": 224,
+      "name": "David Cronenberg",
+      "character": "Postal Supervisor",
+      "order": 14,
+      "cast_id": 27,
+      "popularity": 1.5747,
+      "profile_path": "/3xh4e2gWHDilMLtucHzDGsmJMuQ.jpg"
+    },
+    {
+      "personId": 27436,
+      "name": "Costa-Gavras",
+      "character": "Gas Station Attendant",
+      "order": 15,
+      "cast_id": 29,
+      "popularity": 1.3833,
+      "profile_path": "/tJ4HybIWWpNrg5yBCfuB2EMYf9H.jpg"
+    },
+    {
+      "personId": 180686,
+      "name": "Anthony J. Mifsud",
+      "character": "Explosive Guy",
+      "order": 16,
+      "cast_id": 32,
+      "popularity": 0.704,
+      "profile_path": "/1ZEp0vuFxKzy1soNdQhdQi5leSZ.jpg"
+    },
+    {
+      "personId": 305275,
+      "name": "Rolonda Watts",
+      "character": "Talk Show Hostess",
+      "order": 17,
+      "cast_id": 20,
+      "popularity": 1.0237,
+      "profile_path": "/4zX8lI4QG7U9Kl3jzRccT7DV9c4.jpg"
+    },
+    {
+      "personId": 180979,
+      "name": "George Chiang",
+      "character": "Chinese Waiter #1",
+      "order": 18,
+      "cast_id": 22,
+      "popularity": 0.8289,
+      "profile_path": null
+    },
+    {
+      "personId": 203285,
+      "name": "Max Landis",
+      "character": "Graffiti Artist",
+      "order": 19,
+      "cast_id": 24,
+      "popularity": 1.7245,
+      "profile_path": "/2hXTFULxH5cHiTx5jzKefeVDcaI.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 4610,
+      "name": "John Landis",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.2667,
+      "profile_path": "/3T778poXnyAeJO15m1XwvSCv9nc.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 11208,
+      "name": "conspiracy theory"
+    },
+    {
+      "id": 179430,
+      "name": "aftercreditsstinger"
+    }
+  ]
+}

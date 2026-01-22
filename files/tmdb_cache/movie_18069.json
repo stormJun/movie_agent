@@ -1,0 +1,252 @@
+{
+  "overview": "This film chronicles the life of Lane Frost, 1987 PRCA Bull Riding World Champion, his marriage and his friendships with Tuff Hedeman (three-time World Champion) and Cody Lambert.",
+  "release_date": "1994-02-25",
+  "runtime": 105,
+  "budget": 7000000,
+  "revenue": 19623396,
+  "tmdb_vote_average": 7.165,
+  "tmdb_vote_count": 106,
+  "tmdb_popularity": 1.4394,
+  "original_language": "en",
+  "poster_path": "/wqKVkOveZrK6zwfrptGLVPmnMpR.jpg",
+  "backdrop_path": "/fO2ulA6piUHhKDSiQvC1ulYwZgR.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance",
+    "Western"
+  ],
+  "production_companies": [
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 216,
+      "name": "Jersey Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8395,
+      "name": "Luke Perry",
+      "character": "Lane Frost",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.2471,
+      "profile_path": "/78TAr0wLoRHyubnYxjyHNCt70V2.jpg"
+    },
+    {
+      "personId": 9045,
+      "name": "Stephen Baldwin",
+      "character": "Tuff Hedeman",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 3.2661,
+      "profile_path": "/w2nZjBsEsjboQDZJXEkysuGgue4.jpg"
+    },
+    {
+      "personId": 227548,
+      "name": "Red Mitchell",
+      "character": "Cody Lambert",
+      "order": 2,
+      "cast_id": 25,
+      "popularity": 1.7288,
+      "profile_path": "/zDXNgcZ9ush5fBPSsh9zoYsOM46.jpg"
+    },
+    {
+      "personId": 162945,
+      "name": "Cynthia Geary",
+      "character": "Kellie Frost",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 0.6721,
+      "profile_path": "/jAZtCCCyQU18iY0DzpRuevJk57i.jpg"
+    },
+    {
+      "personId": 8986,
+      "name": "James Rebhorn",
+      "character": "Clyde Frost",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 2.1243,
+      "profile_path": "/jRdR3q28gTPQU6eWRgiIqzGuMKU.jpg"
+    },
+    {
+      "personId": 44831,
+      "name": "Carrie Snodgress",
+      "character": "Elsie Frost",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 1.1765,
+      "profile_path": "/5Bygw37FqX7qeuNTRycGIKFcaCj.jpg"
+    },
+    {
+      "personId": 57251,
+      "name": "Linden Ashby",
+      "character": "Martin Hudson",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 1.8606,
+      "profile_path": "/l1Px1Nw9rMA2p3yBYj51JjOneQB.jpg"
+    },
+    {
+      "personId": 161473,
+      "name": "Ronnie Claire Edwards",
+      "character": "Carolyn Kyle",
+      "order": 7,
+      "cast_id": 26,
+      "popularity": 0.7562,
+      "profile_path": "/7qt56NUxZ2dMzpKnsiit4tjwxTY.jpg"
+    },
+    {
+      "personId": 215830,
+      "name": "Cameron Finley",
+      "character": "Young Lane",
+      "order": 8,
+      "cast_id": 37,
+      "popularity": 1.331,
+      "profile_path": "/yp1CHqsrRUy99YA8VlfILCeTJ26.jpg"
+    },
+    {
+      "personId": 5370879,
+      "name": "Dustin Mayfield",
+      "character": "Teenage Lane",
+      "order": 9,
+      "cast_id": 38,
+      "popularity": 0.0239,
+      "profile_path": null
+    },
+    {
+      "personId": 1280992,
+      "name": "George Michael",
+      "character": "Self",
+      "order": 10,
+      "cast_id": 46,
+      "popularity": 0.1152,
+      "profile_path": "/7bH7BANLIOsOICtTHkWjpZEEGby.jpg"
+    },
+    {
+      "personId": 5370887,
+      "name": "John Growney",
+      "character": "Self",
+      "order": 11,
+      "cast_id": 48,
+      "popularity": 0.5185,
+      "profile_path": null
+    },
+    {
+      "personId": 9137,
+      "name": "Renée Zellweger",
+      "character": "Buckle Bunny",
+      "order": 12,
+      "cast_id": 9,
+      "popularity": 5.0656,
+      "profile_path": "/u4wQXVYhN9OOimHn5hbWKefdjjG.jpg"
+    },
+    {
+      "personId": 975230,
+      "name": "Tonie Perensky",
+      "character": "Buckle Bunny",
+      "order": 13,
+      "cast_id": 29,
+      "popularity": 2.8919,
+      "profile_path": "/l1AZvcoHFwAbqw9jlAdvJAoEBYX.jpg"
+    },
+    {
+      "personId": 1813351,
+      "name": "Coquina Dunn",
+      "character": "Buckle Bunny",
+      "order": 14,
+      "cast_id": 47,
+      "popularity": 0.4649,
+      "profile_path": null
+    },
+    {
+      "personId": 15010,
+      "name": "Lori Heuring",
+      "character": "Bridesmaid",
+      "order": 15,
+      "cast_id": 10,
+      "popularity": 0.974,
+      "profile_path": "/xhTyGqOcLIxkNKAzeaVQsbpywAc.jpg"
+    },
+    {
+      "personId": 976690,
+      "name": "John Swasey",
+      "character": "Drunk Cowboy",
+      "order": 16,
+      "cast_id": 27,
+      "popularity": 1.6639,
+      "profile_path": "/uL0SE4AMdY5PXUUMewG8lNnz33B.jpg"
+    },
+    {
+      "personId": 154778,
+      "name": "Jonathan Joss",
+      "character": "Medic Del Rio",
+      "order": 17,
+      "cast_id": 28,
+      "popularity": 0.6755,
+      "profile_path": "/93r1kYapwDyjjBlGLCuNgkDQ7Mz.jpg"
+    },
+    {
+      "personId": 2470282,
+      "name": "Daniel Ramos",
+      "character": "Bartender",
+      "order": 18,
+      "cast_id": 36,
+      "popularity": 0.4916,
+      "profile_path": "/oXOIHjQm4lSKgCdZaH91PByMG7W.jpg"
+    },
+    {
+      "personId": 5370880,
+      "name": "Clyde Frost",
+      "character": "Couple #1",
+      "order": 19,
+      "cast_id": 39,
+      "popularity": 0.1629,
+      "profile_path": "/cXf0mBpZ5vtHeMqPx32pN5QdUn7.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 16513,
+      "name": "John G. Avildsen",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8737,
+      "profile_path": "/vDroEhmg2LLLKvReiHRwVvhtxh0.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1019,
+      "name": "rodeo"
+    },
+    {
+      "id": 155291,
+      "name": "cowboy"
+    },
+    {
+      "id": 190078,
+      "name": "bull riding"
+    }
+  ]
+}

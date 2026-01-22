@@ -1,0 +1,241 @@
+{
+  "overview": "While visiting her father, an American teenage girl is thrown into London society during its final \"Debutante Season.\"",
+  "release_date": "1958-08-14",
+  "runtime": 94,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.65,
+  "tmdb_vote_count": 40,
+  "tmdb_popularity": 0.5338,
+  "original_language": "en",
+  "poster_path": "/prqscm98H6Ybt5AD8JvIhOgqXFO.jpg",
+  "backdrop_path": "/rYYYZdTUoiddvw3uTlniXIZ1txx.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    },
+    {
+      "id": 100,
+      "name": "Avon Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "it",
+      "name": "Italiano"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 35321,
+      "name": "Rex Harrison",
+      "character": "Jimmy Broadbent",
+      "order": 0,
+      "cast_id": 7,
+      "popularity": 0.8894,
+      "profile_path": "/hy8cyCpmV0iRSl4Thby01anz4FY.jpg"
+    },
+    {
+      "personId": 142385,
+      "name": "Kay Kendall",
+      "character": "Sheila Broadbent",
+      "order": 1,
+      "cast_id": 8,
+      "popularity": 0.7743,
+      "profile_path": "/d7KAREf6Bq8VkOxTesF1vSN1p9Y.jpg"
+    },
+    {
+      "personId": 11163,
+      "name": "John Saxon",
+      "character": "David Parkson",
+      "order": 2,
+      "cast_id": 14,
+      "popularity": 2.3363,
+      "profile_path": "/rQh2ddJYtP3x2g1mnlFBQz547FO.jpg"
+    },
+    {
+      "personId": 89808,
+      "name": "Sandra Dee",
+      "character": "Jane Broadbent",
+      "order": 3,
+      "cast_id": 9,
+      "popularity": 1.683,
+      "profile_path": "/aBZ6rrTznd032S0P68xSHfLGlGZ.jpg"
+    },
+    {
+      "personId": 14730,
+      "name": "Angela Lansbury",
+      "character": "Mabel Claremont",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 3.0305,
+      "profile_path": "/gGAWbfMqhJnXzC8dRLeOSXOo9vO.jpg"
+    },
+    {
+      "personId": 19611,
+      "name": "Peter Myers",
+      "character": "David Fenner",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 0.7418,
+      "profile_path": "/lqQI6YOWyzw2JQ2lYguQRYq6cpB.jpg"
+    },
+    {
+      "personId": 102661,
+      "name": "Diane Clare",
+      "character": "Clarissa Claremont",
+      "order": 6,
+      "cast_id": 12,
+      "popularity": 2.1294,
+      "profile_path": "/2c7zDVPPfoMPvH27TXYub02oujw.jpg"
+    },
+    {
+      "personId": 2276,
+      "name": "Sheila Raynor",
+      "character": "Broadbents' Maid (uncredited)",
+      "order": 7,
+      "cast_id": 27,
+      "popularity": 0.5748,
+      "profile_path": "/ixB326sr3OGS6YzqR87T776aqbW.jpg"
+    },
+    {
+      "personId": 84406,
+      "name": "Ambrosine Phillpotts",
+      "character": "Miss Grey (uncredited)",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 0.6927,
+      "profile_path": "/f1P4wLHBEJ64NcguyX1FkE0IVMQ.jpg"
+    },
+    {
+      "personId": 37145,
+      "name": "Henri Guégan",
+      "character": "Man at the Airport (uncredited)",
+      "order": 9,
+      "cast_id": 28,
+      "popularity": 0.4105,
+      "profile_path": "/3dyEWcjHcB1S0XtWuKKGMoftYiT.jpg"
+    },
+    {
+      "personId": 1100816,
+      "name": "René Aranda",
+      "character": "Quaglino Diner (uncredited)",
+      "order": 10,
+      "cast_id": 29,
+      "popularity": 0.1361,
+      "profile_path": null
+    },
+    {
+      "personId": 1664788,
+      "name": "Georges Billy",
+      "character": "Quaglino Diner (uncredited)",
+      "order": 11,
+      "cast_id": 30,
+      "popularity": 0.1179,
+      "profile_path": "/euVeRoJYg5wwwryu2IdatpBJjN9.jpg"
+    },
+    {
+      "personId": 2570322,
+      "name": "Jean-Paul Blonday",
+      "character": "Quaglino Diner (uncredited)",
+      "order": 12,
+      "cast_id": 31,
+      "popularity": 0.2031,
+      "profile_path": "/3GW8IoFpY0HypAKwmbLgj8frbg7.jpg"
+    },
+    {
+      "personId": 1664786,
+      "name": "Pierre Vaudier",
+      "character": "Quaglino Diner (uncredited)",
+      "order": 13,
+      "cast_id": 32,
+      "popularity": 0.2779,
+      "profile_path": "/e6dNbOalTmHSQrEbwk6nspv8FRg.jpg"
+    },
+    {
+      "personId": 541912,
+      "name": "Charles Cullum",
+      "character": "English Colonel (uncredited)",
+      "order": 14,
+      "cast_id": 34,
+      "popularity": 0.7696,
+      "profile_path": null
+    },
+    {
+      "personId": 2560406,
+      "name": "Roger LaVern",
+      "character": "Soldier on Guard (uncredited)",
+      "order": 15,
+      "cast_id": 33,
+      "popularity": 0.1526,
+      "profile_path": null
+    },
+    {
+      "personId": 3127259,
+      "name": "Carl Jablonski",
+      "character": "Dancer (uncredited)",
+      "order": 16,
+      "cast_id": 36,
+      "popularity": 0.1397,
+      "profile_path": null
+    },
+    {
+      "personId": 4671885,
+      "name": "Michel Thomas",
+      "character": "Quaglino Diner (uncredited)",
+      "order": 17,
+      "cast_id": 37,
+      "popularity": 0.1292,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 13980,
+      "name": "Vincente Minnelli",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8671,
+      "profile_path": "/fmlq7RMQdWsrPBAskIezf22e8Mv.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 10325,
+      "name": "mistaken identity"
+    },
+    {
+      "id": 157258,
+      "name": "british high society"
+    },
+    {
+      "id": 160962,
+      "name": "stepparent stepchild relationship"
+    },
+    {
+      "id": 188991,
+      "name": "drunkenness"
+    },
+    {
+      "id": 191790,
+      "name": "debutante"
+    }
+  ]
+}

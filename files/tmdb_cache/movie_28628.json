@@ -1,0 +1,286 @@
+{
+  "overview": "A group of gay friends try to live with dignity and self-respect while events build to the opening battle in the major gay rights movement.",
+  "release_date": "1995-12-26",
+  "runtime": 99,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.7,
+  "tmdb_vote_count": 27,
+  "tmdb_popularity": 2.6686,
+  "original_language": "en",
+  "poster_path": "/pCkn7r7V9UFmtuREaKmaoI5OeeT.jpg",
+  "backdrop_path": "/8513UQR6ZYUUT3fKJgaoFQu4EEU.jpg",
+  "tmdb_genres_raw": [
+    "Romance",
+    "Drama",
+    "Comedy",
+    "History"
+  ],
+  "production_companies": [
+    {
+      "id": 3324,
+      "name": "BBC",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1422,
+      "name": "Killer Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 17179,
+      "name": "BBC Arena",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8695,
+      "name": "Guillermo Díaz",
+      "character": "La Miranda",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.8126,
+      "profile_path": "/oso3tpCcf6wbjeHk2bpeKMV52zP.jpg"
+    },
+    {
+      "personId": 143017,
+      "name": "Frederick Weller",
+      "character": "Matty Dean",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 1.2121,
+      "profile_path": "/nNgNNahLhlQqlknS2dA1ZTO3NKG.jpg"
+    },
+    {
+      "personId": 138252,
+      "name": "Duane Boutte",
+      "character": "Bostonia",
+      "order": 2,
+      "cast_id": 7,
+      "popularity": 0.1593,
+      "profile_path": "/tbMZzH78gacg1vic5RE9XgaIfjX.jpg"
+    },
+    {
+      "personId": 155576,
+      "name": "Bruce MacVittie",
+      "character": "Vinnie",
+      "order": 3,
+      "cast_id": 8,
+      "popularity": 0.9908,
+      "profile_path": "/fSNyxCflKmXRCzQhCy7kESpW82M.jpg"
+    },
+    {
+      "personId": 1186916,
+      "name": "Brendan Corbalis",
+      "character": "Ethan",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 1.4676,
+      "profile_path": null
+    },
+    {
+      "personId": 40481,
+      "name": "Luis Guzmán",
+      "character": "Vito",
+      "order": 5,
+      "cast_id": 18,
+      "popularity": 5.6095,
+      "profile_path": "/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg"
+    },
+    {
+      "personId": 156819,
+      "name": "Peter Ratray",
+      "character": "Burt",
+      "order": 6,
+      "cast_id": 19,
+      "popularity": 1.6384,
+      "profile_path": null
+    },
+    {
+      "personId": 20283,
+      "name": "Dwight Ewell",
+      "character": "Helen Wheels",
+      "order": 7,
+      "cast_id": 30,
+      "popularity": 0.8903,
+      "profile_path": "/cHbxYfDX7tfKmhWWJFkt5cFw4eZ.jpg"
+    },
+    {
+      "personId": 80541,
+      "name": "Matthew Faber",
+      "character": "Mizz Moxie",
+      "order": 8,
+      "cast_id": 16,
+      "popularity": 1.0256,
+      "profile_path": "/7AN24bHosFTglFqsqSyCRioLLUf.jpg"
+    },
+    {
+      "personId": 159435,
+      "name": "Michael McElroy",
+      "character": "Princess Ernestine",
+      "order": 9,
+      "cast_id": 32,
+      "popularity": 0.2324,
+      "profile_path": "/yjeNH8gPWQY9Sd1fJ7aTq7GAAPs.jpg"
+    },
+    {
+      "personId": 84063,
+      "name": "Joey Dedio",
+      "character": "Angelo",
+      "order": 10,
+      "cast_id": 33,
+      "popularity": 0.7232,
+      "profile_path": "/oExPfNA6cJXAZcBKiZmzHGubl82.jpg"
+    },
+    {
+      "personId": 4735,
+      "name": "John Doman",
+      "character": "Plainclothes Cop 2",
+      "order": 11,
+      "cast_id": 21,
+      "popularity": 2.4263,
+      "profile_path": "/2HQRXWb6QrUFHJtJrgY8zpLP8u8.jpg"
+    },
+    {
+      "personId": 10963,
+      "name": "José Zúñiga",
+      "character": "Randy",
+      "order": 12,
+      "cast_id": 22,
+      "popularity": 2.4138,
+      "profile_path": "/r6nFkJkMHP9tFDohwfav9Bf2rCR.jpg"
+    },
+    {
+      "personId": 1218032,
+      "name": "Tim Artz",
+      "character": "Plainclothes Cop 1",
+      "order": 13,
+      "cast_id": 34,
+      "popularity": 0.515,
+      "profile_path": null
+    },
+    {
+      "personId": 21353,
+      "name": "Isaiah Washington",
+      "character": "Uniformed Cop",
+      "order": 14,
+      "cast_id": 17,
+      "popularity": 1.8389,
+      "profile_path": "/3yY5h1t7AKZpf4lfdSMwDQvCroQ.jpg"
+    },
+    {
+      "personId": 1231526,
+      "name": "Candis Cayne",
+      "character": "Diva 1",
+      "order": 15,
+      "cast_id": 23,
+      "popularity": 0.5464,
+      "profile_path": "/s0JDLERtTEWiNKe9VrU69iKdf8J.jpg"
+    },
+    {
+      "personId": 2498104,
+      "name": "David Drumgold",
+      "character": "Diva 2",
+      "order": 16,
+      "cast_id": 29,
+      "popularity": 0.1259,
+      "profile_path": null
+    },
+    {
+      "personId": 1256480,
+      "name": "Sherry Vine",
+      "character": "Diva 3",
+      "order": 17,
+      "cast_id": 36,
+      "popularity": 0.6433,
+      "profile_path": "/3DZxTTZN6KAu34cUGBxZ0a4KFM.jpg"
+    },
+    {
+      "personId": 187683,
+      "name": "Fenton Lawless",
+      "character": "Mr August",
+      "order": 18,
+      "cast_id": 25,
+      "popularity": 0.5708,
+      "profile_path": "/w43Cq1bDAPKTWfBuXr5kaJbr1P7.jpg"
+    },
+    {
+      "personId": 94437,
+      "name": "Meg Gibson",
+      "character": "Agnes",
+      "order": 19,
+      "cast_id": 37,
+      "popularity": 1.0885,
+      "profile_path": "/wFtGCTXzkVhcctPENfWyGGfHVCd.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 179609,
+      "name": "Nigel Finch",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.2758,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 108,
+      "name": "transvestism"
+    },
+    {
+      "id": 10180,
+      "name": "male homosexuality"
+    },
+    {
+      "id": 14748,
+      "name": "raid"
+    },
+    {
+      "id": 169590,
+      "name": "police raid"
+    },
+    {
+      "id": 171636,
+      "name": "drag"
+    },
+    {
+      "id": 173510,
+      "name": "stonewall riot"
+    },
+    {
+      "id": 173662,
+      "name": "gay pride"
+    },
+    {
+      "id": 208992,
+      "name": "1960s"
+    },
+    {
+      "id": 258533,
+      "name": "gay theme"
+    },
+    {
+      "id": 313433,
+      "name": "lgbt history"
+    }
+  ]
+}

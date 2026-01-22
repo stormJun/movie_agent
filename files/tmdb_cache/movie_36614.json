@@ -1,0 +1,237 @@
+{
+  "overview": "A widowed father has to deal with two complex issues: while he is searching for \"Miss Right,\" his son, who is in his 20s and gay, is searching for \"Mr. Right.\"",
+  "release_date": "1994-07-28",
+  "runtime": 100,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.7,
+  "tmdb_vote_count": 72,
+  "tmdb_popularity": 0.5402,
+  "original_language": "en",
+  "poster_path": "/4rBI4KISTuMCsWGb0kurWxKjqPQ.jpg",
+  "backdrop_path": "/nlcD0fZBXPy6wYINygD4PHZeH.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 1380,
+      "name": "Australian Film Finance Corporation",
+      "origin_country": "AU"
+    },
+    {
+      "id": 218760,
+      "name": "Great Sum Film Limited Partnership",
+      "origin_country": ""
+    },
+    {
+      "id": 110945,
+      "name": "Southern Star Entertainment",
+      "origin_country": "AU"
+    },
+    {
+      "id": 798,
+      "name": "The Samuel Goldwyn Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "AU",
+      "name": "Australia"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 12536,
+      "name": "Jack Thompson",
+      "character": "Harry Mitchell",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.27,
+      "profile_path": "/aqIViuyx2RBfUHeIvyEbxNYKLXg.jpg"
+    },
+    {
+      "personId": 934,
+      "name": "Russell Crowe",
+      "character": "Jeff Mitchell",
+      "order": 1,
+      "cast_id": 15,
+      "popularity": 5.217,
+      "profile_path": "/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
+    },
+    {
+      "personId": 15337,
+      "name": "John Polson",
+      "character": "Greg",
+      "order": 2,
+      "cast_id": 2,
+      "popularity": 0.7695,
+      "profile_path": "/rsjpQFAvQSo05HflPSCODCCbYFl.jpg"
+    },
+    {
+      "personId": 96460,
+      "name": "Deborah Kennedy",
+      "character": "Joyce Johnson",
+      "order": 3,
+      "cast_id": 3,
+      "popularity": 1.7346,
+      "profile_path": "/z5Toskoh0D7yXX4gQEr47oEyEUJ.jpg"
+    },
+    {
+      "personId": 115713,
+      "name": "Joss Moroney",
+      "character": "Young Jeff",
+      "order": 4,
+      "cast_id": 4,
+      "popularity": 0.0538,
+      "profile_path": null
+    },
+    {
+      "personId": 115714,
+      "name": "Mitch Mathews",
+      "character": "Gran",
+      "order": 5,
+      "cast_id": 5,
+      "popularity": 0.1367,
+      "profile_path": null
+    },
+    {
+      "personId": 115715,
+      "name": "Julie Herbert",
+      "character": "Mary",
+      "order": 6,
+      "cast_id": 6,
+      "popularity": 0.1701,
+      "profile_path": null
+    },
+    {
+      "personId": 115716,
+      "name": "Des James",
+      "character": "Football Coach",
+      "order": 7,
+      "cast_id": 7,
+      "popularity": 0.7057,
+      "profile_path": null
+    },
+    {
+      "personId": 115717,
+      "name": "Mick Campbell",
+      "character": "Footballer",
+      "order": 8,
+      "cast_id": 8,
+      "popularity": 0.1243,
+      "profile_path": null
+    },
+    {
+      "personId": 115718,
+      "name": "Donny Muntz",
+      "character": "Ferry Captain",
+      "order": 9,
+      "cast_id": 9,
+      "popularity": 0.1229,
+      "profile_path": null
+    },
+    {
+      "personId": 115719,
+      "name": "Jan Adele",
+      "character": "Barmaid",
+      "order": 10,
+      "cast_id": 10,
+      "popularity": 0.521,
+      "profile_path": "/eQEQThxaDQbdS266N6XvkHocJfR.jpg"
+    },
+    {
+      "personId": 115720,
+      "name": "Rebekah Elmaloglou",
+      "character": "Jenny Johnson",
+      "order": 11,
+      "cast_id": 11,
+      "popularity": 0.6427,
+      "profile_path": "/gEPicJVLGh8pUvEzk0k2HzhZX6S.jpg"
+    },
+    {
+      "personId": 115721,
+      "name": "Lola Nixon",
+      "character": "Desiree",
+      "order": 12,
+      "cast_id": 12,
+      "popularity": 0.0577,
+      "profile_path": null
+    },
+    {
+      "personId": 115722,
+      "name": "Sally Cahill",
+      "character": "Greg's Mother",
+      "order": 13,
+      "cast_id": 13,
+      "popularity": 0.2923,
+      "profile_path": "/vruyGz7JY2iNxPqNhMkxhlOWlE9.jpg"
+    },
+    {
+      "personId": 115723,
+      "name": "Bob Baines",
+      "character": "Greg's Father",
+      "order": 14,
+      "cast_id": 14,
+      "popularity": 0.403,
+      "profile_path": "/mzlyNs3TwhfAWGhMhqYUXHVAAfW.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 72629,
+      "name": "Geoff Burton",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4322,
+      "profile_path": "/k5Ss5ifNUO1GpqZZKQEGHxduaWD.jpg"
+    },
+    {
+      "personId": 91499,
+      "name": "Kevin Dowling",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.3833,
+      "profile_path": "/ovzRMc6bIv9LtREJaC0Z564lrPd.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 5656,
+      "name": "sydney, australia"
+    },
+    {
+      "id": 5657,
+      "name": "australia"
+    },
+    {
+      "id": 10181,
+      "name": "based on play or musical"
+    },
+    {
+      "id": 11687,
+      "name": "breaking the fourth wall"
+    },
+    {
+      "id": 158718,
+      "name": "lgbt"
+    },
+    {
+      "id": 240119,
+      "name": "father son relationship"
+    },
+    {
+      "id": 258533,
+      "name": "gay theme"
+    }
+  ]
+}

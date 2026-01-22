@@ -1,0 +1,251 @@
+{
+  "overview": "An obese lawyer finds himself growing \"Thinner\" when an old Romani man places a hex on him. Now the lawyer must call upon his friends in organized crime to help him persuade the old man to lift the curse. Time is running out for the desperate lawyer as he draws closer to his own death, and grows ever thinner.",
+  "release_date": "1996-10-25",
+  "runtime": 92,
+  "budget": 8000000,
+  "revenue": 15315484,
+  "tmdb_vote_average": 5.886,
+  "tmdb_vote_count": 664,
+  "tmdb_popularity": 4.4708,
+  "original_language": "en",
+  "poster_path": "/nXqHqsQXA0jJpCaUsyre1Yw18oV.jpg",
+  "backdrop_path": "/3xLT29KkCwLqRgRRtaUHGG6OaZ5.jpg",
+  "tmdb_genres_raw": [
+    "Fantasy",
+    "Horror"
+  ],
+  "production_companies": [
+    {
+      "id": 10355,
+      "name": "Spelling Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 266480,
+      "name": "Richard P. Rubinstein Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 31512,
+      "name": "Robert John Burke",
+      "character": "Billy Halleck",
+      "order": 0,
+      "cast_id": 9,
+      "popularity": 2.4179,
+      "profile_path": "/4uCjxK6QmPW98W56aCldwINSOcX.jpg"
+    },
+    {
+      "personId": 14884,
+      "name": "Michael Constantine",
+      "character": "Tadzu Lempke",
+      "order": 1,
+      "cast_id": 12,
+      "popularity": 2.2798,
+      "profile_path": "/lrLDIfx7Cjcx0Kk34ptY1BAABfP.jpg"
+    },
+    {
+      "personId": 5148,
+      "name": "Lucinda Jenney",
+      "character": "Heidi Halleck",
+      "order": 2,
+      "cast_id": 11,
+      "popularity": 1.6681,
+      "profile_path": "/ahR0bNUJRi9Phpd7RZWx4ILiMEb.jpg"
+    },
+    {
+      "personId": 56152,
+      "name": "Kari Wührer",
+      "character": "Gina Lempke",
+      "order": 3,
+      "cast_id": 13,
+      "popularity": 2.284,
+      "profile_path": "/sTWVUK4WBcSpuIotCjlU7sRaEH7.jpg"
+    },
+    {
+      "personId": 163979,
+      "name": "John Horton",
+      "character": "Judge Cary Rossington",
+      "order": 4,
+      "cast_id": 112,
+      "popularity": 1.1636,
+      "profile_path": "/6c1x9prTCTcG3DyZ8l6pqvTEobk.jpg"
+    },
+    {
+      "personId": 161547,
+      "name": "Sam Freed",
+      "character": "Dr. Mike Houston",
+      "order": 5,
+      "cast_id": 113,
+      "popularity": 1.3489,
+      "profile_path": "/weMB6f1gB2SeUcOr56O9EB0lWuX.jpg"
+    },
+    {
+      "personId": 1473,
+      "name": "Daniel von Bargen",
+      "character": "Chief Duncan Hopley",
+      "order": 6,
+      "cast_id": 15,
+      "popularity": 2.4129,
+      "profile_path": "/2S03pvALrrAkXU8TdDSuYevtdBc.jpg"
+    },
+    {
+      "personId": 3266,
+      "name": "Joe Mantegna",
+      "character": "Richie Ginelli",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 2.6702,
+      "profile_path": "/4jzvAE6B1eoiZDUnDUuMazirCPP.jpg"
+    },
+    {
+      "personId": 138242,
+      "name": "Elizabeth Franz",
+      "character": "Leda Rossington",
+      "order": 8,
+      "cast_id": 114,
+      "popularity": 0.9551,
+      "profile_path": "/mlNRhegXkx0dsPmFw3ftjAvVzng.jpg"
+    },
+    {
+      "personId": 169128,
+      "name": "Walter Bobbie",
+      "character": "Kirk Penschley",
+      "order": 9,
+      "cast_id": 18,
+      "popularity": 0.2039,
+      "profile_path": "/1H6rNqx6KsDQMp9eQDN5P0RQCBx.jpg"
+    },
+    {
+      "personId": 1118081,
+      "name": "Bethany Joy Lenz",
+      "character": "Linda Halleck",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 2.4328,
+      "profile_path": "/wdzam5aHZyWwPSbxQz8iL9wIpR7.jpg"
+    },
+    {
+      "personId": 85421,
+      "name": "Time Winters",
+      "character": "Prosecutor",
+      "order": 11,
+      "cast_id": 19,
+      "popularity": 1.3064,
+      "profile_path": "/sqLSp5glrEbMpUaF7zIhuHmLL37.jpg"
+    },
+    {
+      "personId": 28028,
+      "name": "Howard Erskine",
+      "character": "Judge Phillips",
+      "order": 12,
+      "cast_id": 20,
+      "popularity": 0.9163,
+      "profile_path": "/9lMzFyWK0lOdlRfFUO0NXqrOVm4.jpg"
+    },
+    {
+      "personId": 4202435,
+      "name": "Terrence Garmey",
+      "character": "Bailiff",
+      "order": 13,
+      "cast_id": 117,
+      "popularity": 0.0847,
+      "profile_path": null
+    },
+    {
+      "personId": 1068099,
+      "name": "Randy Jurgensen",
+      "character": "Court Clerk",
+      "order": 14,
+      "cast_id": 21,
+      "popularity": 0.8999,
+      "profile_path": null
+    },
+    {
+      "personId": 171346,
+      "name": "Jeffrey Ware",
+      "character": "Max Duggenfield",
+      "order": 15,
+      "cast_id": 118,
+      "popularity": 0.8085,
+      "profile_path": null
+    },
+    {
+      "personId": 1510513,
+      "name": "Antonette Schwartzberg",
+      "character": "Mama Ginelli",
+      "order": 16,
+      "cast_id": 119,
+      "popularity": 0.1661,
+      "profile_path": null
+    },
+    {
+      "personId": 4202437,
+      "name": "Terrence Kava",
+      "character": "Gabe Lempke",
+      "order": 17,
+      "cast_id": 120,
+      "popularity": 0.1322,
+      "profile_path": null
+    },
+    {
+      "personId": 4202439,
+      "name": "Adriana Delphine",
+      "character": "Gypsy Woman",
+      "order": 18,
+      "cast_id": 121,
+      "popularity": 0.1573,
+      "profile_path": null
+    },
+    {
+      "personId": 3112641,
+      "name": "Ruth Miller",
+      "character": "Billy's Secretary",
+      "order": 19,
+      "cast_id": 122,
+      "popularity": 0.4356,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 64796,
+      "name": "Tom Holland",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8003,
+      "profile_path": "/dWkwc5b0OjJSpk5oUZd6dEDnBlu.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 10541,
+      "name": "curse"
+    },
+    {
+      "id": 156092,
+      "name": "fat suit"
+    },
+    {
+      "id": 199524,
+      "name": "disturbed"
+    }
+  ]
+}

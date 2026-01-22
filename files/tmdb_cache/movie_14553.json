@@ -1,0 +1,344 @@
+{
+  "overview": "Lucy Harmon, an American teenager is arriving in the lush Tuscan countryside to be sculpted by a family friend who lives in a beautiful villa. Lucy visited there four years earlier and exchanged a kiss with an Italian boy with whom she hopes to become reacquainted.",
+  "release_date": "1996-03-29",
+  "runtime": 116,
+  "budget": 10000000,
+  "revenue": 4800000,
+  "tmdb_vote_average": 6.685,
+  "tmdb_vote_count": 593,
+  "tmdb_popularity": 2.3313,
+  "original_language": "en",
+  "poster_path": "/5ugxnyVmBK952bwOcE4M0szNimx.jpg",
+  "backdrop_path": "/bJFapHYlJIhXpfqH8uaNLtUxHwD.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 11561,
+      "name": "Recorded Picture Company",
+      "origin_country": "GB"
+    },
+    {
+      "id": 581,
+      "name": "UGC",
+      "origin_country": "FR"
+    },
+    {
+      "id": 43,
+      "name": "Fox Searchlight Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 238621,
+      "name": "Fiction",
+      "origin_country": "IT"
+    },
+    {
+      "id": 591,
+      "name": "France 3 Cinéma",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    },
+    {
+      "code": "it",
+      "name": "Italiano"
+    },
+    {
+      "code": "de",
+      "name": "Deutsch"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 882,
+      "name": "Liv Tyler",
+      "character": "Lucy Harmon",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.9926,
+      "profile_path": "/jrOj6t9pH8TqO65pnsRuvRNhwqx.jpg"
+    },
+    {
+      "personId": 11281,
+      "name": "Sinéad Cusack",
+      "character": "Diana Grayson",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.4776,
+      "profile_path": "/sEYOT1L4t32QDPpRlzYqWBrsXco.jpg"
+    },
+    {
+      "personId": 16940,
+      "name": "Jeremy Irons",
+      "character": "Alex Parrish",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 5.0112,
+      "profile_path": "/w8Ct1q02Ht3sWdOSqfp3B85TzT.jpg"
+    },
+    {
+      "personId": 973,
+      "name": "Jason Flemyng",
+      "character": "Gregory",
+      "order": 3,
+      "cast_id": 10,
+      "popularity": 2.7955,
+      "profile_path": "/nYl0180ACnLzVlGbaAfuPtdGr9K.jpg"
+    },
+    {
+      "personId": 12763,
+      "name": "Joseph Fiennes",
+      "character": "Christopher Fox",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 3.3382,
+      "profile_path": "/sg5Z7nTvEPBqDKULvGXWzJRbnrU.jpg"
+    },
+    {
+      "personId": 96974,
+      "name": "Carlo Cecchi",
+      "character": "Carlo Lisca",
+      "order": 5,
+      "cast_id": 5,
+      "popularity": 0.5333,
+      "profile_path": "/ek6bObZ1kimovsmHSVjX861vQlA.jpg"
+    },
+    {
+      "personId": 87435,
+      "name": "Donal McCann",
+      "character": "Ian Grayson",
+      "order": 6,
+      "cast_id": 6,
+      "popularity": 1.578,
+      "profile_path": "/xGjV73QUTFPvNwWSv6R1dNqsMt.jpg"
+    },
+    {
+      "personId": 9741,
+      "name": "Jean Marais",
+      "character": "M. Guillaume",
+      "order": 7,
+      "cast_id": 7,
+      "popularity": 1.1927,
+      "profile_path": "/cixkEqevNXJVy7u666VcgyrdQSZ.jpg"
+    },
+    {
+      "personId": 3293,
+      "name": "Rachel Weisz",
+      "character": "Miranda Fox",
+      "order": 8,
+      "cast_id": 8,
+      "popularity": 5.6312,
+      "profile_path": "/msTqKPA33ryVtcVNgOdeaJGYq16.jpg"
+    },
+    {
+      "personId": 582128,
+      "name": "Anna Maria Gherardi",
+      "character": "Chiarella Donati",
+      "order": 9,
+      "cast_id": 11,
+      "popularity": 0.2939,
+      "profile_path": "/zD5EFJ8TAi4U4q17ak01JHxxEEs.jpg"
+    },
+    {
+      "personId": 87956,
+      "name": "D.W. Moffett",
+      "character": "Richard",
+      "order": 10,
+      "cast_id": 12,
+      "popularity": 2.2272,
+      "profile_path": "/7lcIxTqarAgkdLiNlc7Ad57vcP1.jpg"
+    },
+    {
+      "personId": 81512,
+      "name": "Ignazio Oliva",
+      "character": "Osvaldo Donati",
+      "order": 11,
+      "cast_id": 13,
+      "popularity": 0.6322,
+      "profile_path": "/wwMWnCsLYlOuif0LcNCwfvQOunS.jpg"
+    },
+    {
+      "personId": 34027,
+      "name": "Stefania Sandrelli",
+      "character": "Noemi",
+      "order": 12,
+      "cast_id": 14,
+      "popularity": 1.9098,
+      "profile_path": "/91OvQqmb1QGxOft0Pzjs11XVQs9.jpg"
+    },
+    {
+      "personId": 263002,
+      "name": "Roberto Zibetti",
+      "character": "Niccolò Donati",
+      "order": 13,
+      "cast_id": 15,
+      "popularity": 0.6464,
+      "profile_path": "/xoLiBGPduhBJRKAW174r39UDbwT.jpg"
+    },
+    {
+      "personId": 27203,
+      "name": "Francesco Siciliano",
+      "character": "Michele Lisca",
+      "order": 14,
+      "cast_id": 16,
+      "popularity": 0.5181,
+      "profile_path": "/n5vjjzY66uRgZB4Z14dT8F7rDEn.jpg"
+    },
+    {
+      "personId": 582129,
+      "name": "Mary Jo Sorgani",
+      "character": "Maria",
+      "order": 15,
+      "cast_id": 17,
+      "popularity": 0.1254,
+      "profile_path": null
+    },
+    {
+      "personId": 103181,
+      "name": "Leonardo Treviglio",
+      "character": "le Lieutenant",
+      "order": 16,
+      "cast_id": 18,
+      "popularity": 1.6836,
+      "profile_path": "/jQvAzbi4WA0RBuu2uoxKZamSAwH.jpg"
+    },
+    {
+      "personId": 1173638,
+      "name": "Alessandra Vanzi",
+      "character": "Marta",
+      "order": 17,
+      "cast_id": 22,
+      "popularity": 0.3718,
+      "profile_path": "/dqLIO9071mudiYFjKzIUaSaIeMY.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 4956,
+      "name": "Bernardo Bertolucci",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1016,
+      "profile_path": "/b0W7CtXxbo24sX8TPnDlLTYfc2E.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 596,
+      "name": "adultery"
+    },
+    {
+      "id": 2389,
+      "name": "virgin"
+    },
+    {
+      "id": 6054,
+      "name": "friendship"
+    },
+    {
+      "id": 131,
+      "name": "italy"
+    },
+    {
+      "id": 493,
+      "name": "poem"
+    },
+    {
+      "id": 2679,
+      "name": "artist"
+    },
+    {
+      "id": 2913,
+      "name": "diary"
+    },
+    {
+      "id": 9840,
+      "name": "romance"
+    },
+    {
+      "id": 10683,
+      "name": "coming of age"
+    },
+    {
+      "id": 11334,
+      "name": "joy of life"
+    },
+    {
+      "id": 13088,
+      "name": "summer"
+    },
+    {
+      "id": 15055,
+      "name": "kissing"
+    },
+    {
+      "id": 157303,
+      "name": "first love"
+    },
+    {
+      "id": 161192,
+      "name": "tuscany, italy"
+    },
+    {
+      "id": 162804,
+      "name": "sexual awakening"
+    },
+    {
+      "id": 173245,
+      "name": "sculptor"
+    },
+    {
+      "id": 207776,
+      "name": "feelings"
+    },
+    {
+      "id": 240303,
+      "name": "father daughter relationship"
+    },
+    {
+      "id": 241739,
+      "name": "loss of mother"
+    },
+    {
+      "id": 251619,
+      "name": "rural"
+    },
+    {
+      "id": 287439,
+      "name": "terminal disease"
+    }
+  ]
+}

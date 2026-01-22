@@ -1,0 +1,239 @@
+{
+  "overview": "Proud father Stanley Banks remembers the day his daughter, Kay, got married. Starting when she announces her engagement through to the wedding itself, we learn of all the surprises and disasters along the way.",
+  "release_date": "1950-05-18",
+  "runtime": 92,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.995,
+  "tmdb_vote_count": 221,
+  "tmdb_popularity": 0.8669,
+  "original_language": "en",
+  "poster_path": "/sygyqqXq41SBZiYjY8nuQRAcuUv.jpg",
+  "backdrop_path": "/6F3S8eNVnAkUsllkCPpIZGKXxIE.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Romance",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 12147,
+      "name": "Spencer Tracy",
+      "character": "Stanley T. Banks",
+      "order": 0,
+      "cast_id": 10,
+      "popularity": 1.6069,
+      "profile_path": "/aUZUlQjiWvl23stKXzxycb31sen.jpg"
+    },
+    {
+      "personId": 7639,
+      "name": "Joan Bennett",
+      "character": "Ellie Banks",
+      "order": 1,
+      "cast_id": 11,
+      "popularity": 1.5638,
+      "profile_path": "/3xKU8SKCytMMBeIXzfZXvwaq0oO.jpg"
+    },
+    {
+      "personId": 3635,
+      "name": "Elizabeth Taylor",
+      "character": "Kay Banks",
+      "order": 2,
+      "cast_id": 12,
+      "popularity": 4.2547,
+      "profile_path": "/nKF00U432UIe9AokJsN6IIft3CC.jpg"
+    },
+    {
+      "personId": 9108,
+      "name": "Don Taylor",
+      "character": "Buckley Dunstan",
+      "order": 3,
+      "cast_id": 13,
+      "popularity": 1.2221,
+      "profile_path": "/6Gg2DR2oP3qUPTEomlJi7i4dne9.jpg"
+    },
+    {
+      "personId": 9071,
+      "name": "Billie Burke",
+      "character": "Doris Dunstan",
+      "order": 4,
+      "cast_id": 14,
+      "popularity": 0.8016,
+      "profile_path": "/gciSUzrGMI1BHDxiElw8KEcIOVW.jpg"
+    },
+    {
+      "personId": 2642,
+      "name": "Leo G. Carroll",
+      "character": "Mr. Massoula",
+      "order": 5,
+      "cast_id": 15,
+      "popularity": 1.714,
+      "profile_path": "/56ND35pQZetw5xpagHDKFZjMeuE.jpg"
+    },
+    {
+      "personId": 18586,
+      "name": "Moroni Olsen",
+      "character": "Herbert Dunstan",
+      "order": 6,
+      "cast_id": 16,
+      "popularity": 0.8362,
+      "profile_path": "/xJ56TNofwpQH3b0UAs8spNq35OR.jpg"
+    },
+    {
+      "personId": 8730,
+      "name": "Melville Cooper",
+      "character": "Mr. Tringle",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 1.1319,
+      "profile_path": "/qtrkqGRWA1kmud8NG3W44cpjIHc.jpg"
+    },
+    {
+      "personId": 11172,
+      "name": "Taylor Holmes",
+      "character": "Warner",
+      "order": 8,
+      "cast_id": 19,
+      "popularity": 0.6537,
+      "profile_path": "/3Ry2FISteIUevnkrEyUnByuIaHy.jpg"
+    },
+    {
+      "personId": 34320,
+      "name": "Paul Harvey",
+      "character": "Reverend Galsworthy",
+      "order": 9,
+      "cast_id": 20,
+      "popularity": 1.1638,
+      "profile_path": "/vJdEr0liyuAlDT2TlpFCzHIwDYR.jpg"
+    },
+    {
+      "personId": 30240,
+      "name": "Frank Orth",
+      "character": "Joe",
+      "order": 10,
+      "cast_id": 21,
+      "popularity": 0.6507,
+      "profile_path": "/s8yUbtAu6wueQjDRncuSX6x6ZUt.jpg"
+    },
+    {
+      "personId": 6725,
+      "name": "Russ Tamblyn",
+      "character": "Tommy Banks",
+      "order": 11,
+      "cast_id": 22,
+      "popularity": 2.4109,
+      "profile_path": "/yNy2xvNTGVvFxIQthtxA5md6HDN.jpg"
+    },
+    {
+      "personId": 50305,
+      "name": "Tom Irish",
+      "character": "Ben Banks",
+      "order": 12,
+      "cast_id": 33,
+      "popularity": 0.6052,
+      "profile_path": "/fGqGftRNLa2ZvjCWxtFSbqdxXEz.jpg"
+    },
+    {
+      "personId": 2790,
+      "name": "Marietta Canty",
+      "character": "Delilah",
+      "order": 13,
+      "cast_id": 24,
+      "popularity": 0.6234,
+      "profile_path": "/rfJaehAVzXraDrIu3oHLjy6QxOS.jpg"
+    },
+    {
+      "personId": 30197,
+      "name": "Richard Alexander",
+      "character": "Moving Man with Screen (uncredited)",
+      "order": 14,
+      "cast_id": 49,
+      "popularity": 0.9298,
+      "profile_path": "/slzm6BNole2pXxjrfnoeZKmFEUY.jpg"
+    },
+    {
+      "personId": 1541923,
+      "name": "Don Anderson",
+      "character": "Usher (uncredited)",
+      "order": 15,
+      "cast_id": 50,
+      "popularity": 1.7533,
+      "profile_path": null
+    },
+    {
+      "personId": 120472,
+      "name": "William Bailey",
+      "character": "Man in Dream Sequence (uncredited)",
+      "order": 16,
+      "cast_id": 51,
+      "popularity": 0.7557,
+      "profile_path": "/xNWVxnNCk6wsSOSrPsSVWcmsGh.jpg"
+    },
+    {
+      "personId": 98160,
+      "name": "Fay Baker",
+      "character": "Miss Bellamy (uncredited)",
+      "order": 17,
+      "cast_id": 41,
+      "popularity": 0.8957,
+      "profile_path": "/nKljuxst7i05xMAkCXDhtX0ZiKE.jpg"
+    },
+    {
+      "personId": 1757010,
+      "name": "Lucile Barnes",
+      "character": "Bridesmaid (uncredited)",
+      "order": 18,
+      "cast_id": 52,
+      "popularity": 0.1329,
+      "profile_path": null
+    },
+    {
+      "personId": 114402,
+      "name": "Oliver Blake",
+      "character": "Engagement Party Guest (uncredited)",
+      "order": 19,
+      "cast_id": 47,
+      "popularity": 0.8654,
+      "profile_path": "/xIg6ezgbzBLfkyZvGv0ZeKoXgv4.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 13980,
+      "name": "Vincente Minnelli",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8671,
+      "profile_path": "/fmlq7RMQdWsrPBAskIezf22e8Mv.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6038,
+      "name": "marriage"
+    },
+    {
+      "id": 6167,
+      "name": "engagement"
+    }
+  ]
+}

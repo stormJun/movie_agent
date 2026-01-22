@@ -1,0 +1,200 @@
+{
+  "overview": "Bones Conway and Jack Kaufman, two misguided youths, join the reserves to make some easy money for their entrepreneurial dreams. Unfortunately, no sooner than they finish basic training they find themselves at war as part of the water purification team.",
+  "release_date": "1994-08-12",
+  "runtime": 91,
+  "budget": 0,
+  "revenue": 28881266,
+  "tmdb_vote_average": 5.072,
+  "tmdb_vote_count": 222,
+  "tmdb_popularity": 0.7648,
+  "original_language": "en",
+  "poster_path": "/cNIIDaJM9nsDP9tTmAN6sjKpeiN.jpg",
+  "backdrop_path": "/94udTcVXzo8nsN1yrgs3CbKAvC0.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 915,
+      "name": "Hollywood Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 64998,
+      "name": "Pauly Shore",
+      "character": "Bones Conway",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.6709,
+      "profile_path": "/uI7ctTqSIlLL7nn6UqDdqqhGNVC.jpg"
+    },
+    {
+      "personId": 43120,
+      "name": "Andy Dick",
+      "character": "Jack Kaufman",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.6976,
+      "profile_path": "/n4WT4oYoYrzSGAanlWPsneCzBPk.jpg"
+    },
+    {
+      "personId": 15309,
+      "name": "Lori Petty",
+      "character": "Christine Jones",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.3745,
+      "profile_path": "/bmJFh4VxRii7h7jpo4YVC6BFeVd.jpg"
+    },
+    {
+      "personId": 58563,
+      "name": "David Alan Grier",
+      "character": "Fred Ostroff",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.8372,
+      "profile_path": "/2BJ2sueZu98fOMZ9Z1tbUzUTxw9.jpg"
+    },
+    {
+      "personId": 65344,
+      "name": "Esai Morales",
+      "character": "Sgt. Stern",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 2.8338,
+      "profile_path": "/cNYciYzUzxraGlw0BPql1QePi5H.jpg"
+    },
+    {
+      "personId": 16217,
+      "name": "Lynn Whitfield",
+      "character": "Sgt. Ladd",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 2.9971,
+      "profile_path": "/wXSwJplyOgANJKTRvOAsvqURbP0.jpg"
+    },
+    {
+      "personId": 44792,
+      "name": "Art LaFleur",
+      "character": "First Sergeant Brandon T. Williams",
+      "order": 6,
+      "cast_id": 40,
+      "popularity": 2.1345,
+      "profile_path": "/iCDhbcKVuvrIkS3LuwPkahTkEzS.jpg"
+    },
+    {
+      "personId": 13923,
+      "name": "Fabiana Udenio",
+      "character": "Gabriella",
+      "order": 7,
+      "cast_id": 41,
+      "popularity": 1.5125,
+      "profile_path": "/h0X8ZywuhsqdYpqy6dNiXaOG7XM.jpg"
+    },
+    {
+      "personId": 12797,
+      "name": "Glenn Morshower",
+      "character": "Recruiting Sergeant Richard Day",
+      "order": 8,
+      "cast_id": 42,
+      "popularity": 2.7757,
+      "profile_path": "/SjgNUSLoBAVossDI4QkNtDxYDZ.jpg"
+    },
+    {
+      "personId": 78494,
+      "name": "Beau Billingslea",
+      "character": "Sergeant Daniels",
+      "order": 9,
+      "cast_id": 43,
+      "popularity": 1.7871,
+      "profile_path": "/tU2NJQ5m1sRlwpw9ljyt5NJB0Bf.jpg"
+    },
+    {
+      "personId": 9659,
+      "name": "Peter Spellos",
+      "character": "Mr. Quinn",
+      "order": 10,
+      "cast_id": 44,
+      "popularity": 0.7794,
+      "profile_path": "/wxgf8Bm5VxBE0DBUoC2oUQQxWn9.jpg"
+    },
+    {
+      "personId": 18269,
+      "name": "Brendan Fraser",
+      "character": "Link (Uncredited)",
+      "order": 11,
+      "cast_id": 45,
+      "popularity": 5.3938,
+      "profile_path": "/tFj5PaWWQbb8rHBBhu1EHklznph.jpg"
+    },
+    {
+      "personId": 4884119,
+      "name": "John Larsen",
+      "character": "Radio Operator",
+      "order": 12,
+      "cast_id": 58,
+      "popularity": 0.2189,
+      "profile_path": null
+    },
+    {
+      "personId": 56145,
+      "name": "Keith Coogan",
+      "character": "Stoner #1",
+      "order": 13,
+      "cast_id": 61,
+      "popularity": 2.2676,
+      "profile_path": "/vqOs0xsxJ5oxpl7A0cZREWIf773.jpg"
+    },
+    {
+      "personId": 1228823,
+      "name": "Matthew Walker",
+      "character": "Stoner #2",
+      "order": 14,
+      "cast_id": 62,
+      "popularity": 1.9942,
+      "profile_path": "/vxuf0ftTqC0AvEUQvTczcG1Ggq6.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 774,
+      "name": "Daniel Petrie Jr.",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1922,
+      "profile_path": "/6IYnav3hwFaU5PdgzuRgK76acOB.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6054,
+      "name": "friendship"
+    },
+    {
+      "id": 4595,
+      "name": "us army"
+    },
+    {
+      "id": 2470,
+      "name": "education"
+    },
+    {
+      "id": 156052,
+      "name": "unemployment"
+    }
+  ]
+}

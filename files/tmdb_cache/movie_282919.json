@@ -1,0 +1,109 @@
+{
+  "overview": "",
+  "release_date": "1996-06-20",
+  "runtime": 0,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 4.0,
+  "tmdb_vote_count": 1,
+  "tmdb_popularity": 0.1259,
+  "original_language": "de",
+  "poster_path": null,
+  "backdrop_path": null,
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [],
+  "production_countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "spoken_languages": [],
+  "cast": [
+    {
+      "personId": 48775,
+      "name": "Christiane Hörbiger",
+      "character": "Klara Herzog",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 0.8676,
+      "profile_path": "/oC9GqVZSysTEBvHrg5WYf5nWxst.jpg"
+    },
+    {
+      "personId": 70999,
+      "name": "Jennifer Nitsch",
+      "character": "Michaela Ritter",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 0.334,
+      "profile_path": "/7qvCSEhoPYnFZyIQFpwafkS59ze.jpg"
+    },
+    {
+      "personId": 36486,
+      "name": "Lena Stolze",
+      "character": "Sabine Heyer",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 0.796,
+      "profile_path": "/9Ev2geJS50wux6vLvuZDhAlpX1v.jpg"
+    },
+    {
+      "personId": 37887,
+      "name": "Peter Ehrlich",
+      "character": "Karl Herzog",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 0.5037,
+      "profile_path": "/n7kdnaEivjj7P6OlxWGV9FDV8M9.jpg"
+    },
+    {
+      "personId": 26396,
+      "name": "Wolf Roth",
+      "character": "Rolf Stutz",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.0179,
+      "profile_path": "/kkvwbp04dz6SABUlhbUOkuLoANT.jpg"
+    },
+    {
+      "personId": 77881,
+      "name": "Francis Fulton-Smith",
+      "character": "Martin Gruber",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 0.4998,
+      "profile_path": "/r7LNiLxjmGPmF6VgrRenMCo2CKy.jpg"
+    },
+    {
+      "personId": 26911,
+      "name": "Gert Haucke",
+      "character": "",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 0.6848,
+      "profile_path": "/4gc4GeHKnyIFZnw5b5Ef4jEpuvt.jpg"
+    },
+    {
+      "personId": 27595,
+      "name": "Heinz Baumann",
+      "character": "",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 1.4349,
+      "profile_path": "/s2DSvlzUdw3uogn12lQcwnLwPHq.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 6258,
+      "name": "Peter Weck",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.0062,
+      "profile_path": "/mgJXR5NxDK9kvY4Zu3fYDavCMdI.jpg"
+    }
+  ],
+  "keywords": []
+}

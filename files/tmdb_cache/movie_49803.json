@@ -1,0 +1,257 @@
+{
+  "overview": "Recently estranged from her husband, and mother of seven sons, Mag Singer stands poised to pursue a whole new way of life. But when one of her children is involved in an explosion while on duty in the Middle East, Mag must rexamine everything she cherishes.",
+  "release_date": "1994-12-01",
+  "runtime": 98,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.886,
+  "tmdb_vote_count": 22,
+  "tmdb_popularity": 0.4444,
+  "original_language": "en",
+  "poster_path": "/b0pcExU3UvqUoaRiYwrVEAYC2iL.jpg",
+  "backdrop_path": "/7cqj9BaaaZ3C7WGq7rzeKct2RKc.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4038,
+      "name": "Susan Sarandon",
+      "character": "Mag",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 5.2497,
+      "profile_path": "/jR6l2EfvvGA8qCzZ7MB5FT9ZLkq.jpg"
+    },
+    {
+      "personId": 9880,
+      "name": "Sam Shepard",
+      "character": "Patrick",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 2.3098,
+      "profile_path": "/mVR3Le1rSGIbQmld3Ve42RVFcyI.jpg"
+    },
+    {
+      "personId": 2692,
+      "name": "Robert Sean Leonard",
+      "character": "Alfred",
+      "order": 2,
+      "cast_id": 7,
+      "popularity": 3.8095,
+      "profile_path": "/nlDEfUE4GH6UVEQS5v7NG9sXY8X.jpg"
+    },
+    {
+      "personId": 6408,
+      "name": "Nick Stahl",
+      "character": "Simon",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.2901,
+      "profile_path": "/hV1Fs7LcYWBQ90hWYA3DrCh0rPV.jpg"
+    },
+    {
+      "personId": 52474,
+      "name": "Jason London",
+      "character": "Gideon",
+      "order": 4,
+      "cast_id": 25,
+      "popularity": 1.7923,
+      "profile_path": "/bFkC2ZRcurTQzbjBuuMljFCKfEv.jpg"
+    },
+    {
+      "personId": 4726,
+      "name": "Marcia Gay Harden",
+      "character": "Cynthia",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 2.4282,
+      "profile_path": "/5vxcHIHABJxqhweAsTiXVOhT4SE.jpg"
+    },
+    {
+      "personId": 35598,
+      "name": "Matt Keeslar",
+      "character": "Percival",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 0.9955,
+      "profile_path": "/wlSP3DCJSOnS8njeFvboS33qbyw.jpg"
+    },
+    {
+      "personId": 6541,
+      "name": "Philip Bosco",
+      "character": "Mort",
+      "order": 7,
+      "cast_id": 24,
+      "popularity": 1.253,
+      "profile_path": "/fhN45vRvNiHr1lqx5tjdQULHcKU.jpg"
+    },
+    {
+      "personId": 2309855,
+      "name": "Philip Arthur Ross",
+      "character": "Merle Singer",
+      "order": 8,
+      "cast_id": 18,
+      "popularity": 0.3285,
+      "profile_path": null
+    },
+    {
+      "personId": 2309856,
+      "name": "Steven Robert Ross",
+      "character": "Darren Singer",
+      "order": 9,
+      "cast_id": 19,
+      "popularity": 0.3837,
+      "profile_path": null
+    },
+    {
+      "personId": 1328,
+      "name": "Sean Astin",
+      "character": "Izzy",
+      "order": 10,
+      "cast_id": 8,
+      "popularity": 11.9838,
+      "profile_path": "/As3ctGUtBYmG4zj4Ifyrcqd71HP.jpg"
+    },
+    {
+      "personId": 1381761,
+      "name": "Patricia Reeves",
+      "character": "Mrs. Silverman",
+      "order": 11,
+      "cast_id": 9,
+      "popularity": 0.117,
+      "profile_path": null
+    },
+    {
+      "personId": 1217553,
+      "name": "Joe Lisi",
+      "character": "Dog Owner",
+      "order": 12,
+      "cast_id": 13,
+      "popularity": 2.131,
+      "profile_path": "/7JQRz5fKMTgSVOZ9sWbMwABDqq0.jpg"
+    },
+    {
+      "personId": 1203838,
+      "name": "Marvin Scott",
+      "character": "Newsperson #1",
+      "order": 13,
+      "cast_id": 14,
+      "popularity": 1.0306,
+      "profile_path": null
+    },
+    {
+      "personId": 177425,
+      "name": "Bill Boggs",
+      "character": "Newsperson #2",
+      "order": 14,
+      "cast_id": 15,
+      "popularity": 1.0799,
+      "profile_path": null
+    },
+    {
+      "personId": 65924,
+      "name": "Christopher Wynkoop",
+      "character": "Evangelist",
+      "order": 15,
+      "cast_id": 16,
+      "popularity": 1.3776,
+      "profile_path": "/5Dzq42lOuPnAVNKcCtaSJ9eQwvy.jpg"
+    },
+    {
+      "personId": 3263679,
+      "name": "Kathryn Kinley",
+      "character": "Newsperson #3",
+      "order": 16,
+      "cast_id": 17,
+      "popularity": 0.1199,
+      "profile_path": null
+    },
+    {
+      "personId": 3263681,
+      "name": "Cindy Hom",
+      "character": "Newsperson #4",
+      "order": 17,
+      "cast_id": 20,
+      "popularity": 0.0479,
+      "profile_path": null
+    },
+    {
+      "personId": 1011102,
+      "name": "Jesse Lee Soffer",
+      "character": "Percival at 9 and 10",
+      "order": 18,
+      "cast_id": 21,
+      "popularity": 1.61,
+      "profile_path": "/gVEaHfRNwChrtdGdgPLcFg6MLFI.jpg"
+    },
+    {
+      "personId": 1217532,
+      "name": "Jordan Clarke",
+      "character": "Coach",
+      "order": 19,
+      "cast_id": 22,
+      "popularity": 0.5725,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 83588,
+      "name": "Robert Allan Ackerman",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.2738,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 456,
+      "name": "mother"
+    },
+    {
+      "id": 586,
+      "name": "new jersey"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 4424,
+      "name": "pain"
+    },
+    {
+      "id": 6038,
+      "name": "marriage"
+    },
+    {
+      "id": 10170,
+      "name": "premonition"
+    },
+    {
+      "id": 208316,
+      "name": "worry"
+    }
+  ]
+}

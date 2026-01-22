@@ -1,0 +1,299 @@
+{
+  "overview": "Four sisters come of age in America in the aftermath of the Civil War.",
+  "release_date": "1994-12-21",
+  "runtime": 115,
+  "budget": 18000000,
+  "revenue": 94983123,
+  "tmdb_vote_average": 7.268,
+  "tmdb_vote_count": 1308,
+  "tmdb_popularity": 4.9455,
+  "original_language": "en",
+  "poster_path": "/1ZzH1XMcKAe5NdrKL5MfcqZHHsZ.jpg",
+  "backdrop_path": "/lmMVUuu2hHX6qrpcusiuSGU8HaC.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 813,
+      "name": "Di Novi Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "de",
+      "name": "Deutsch"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1920,
+      "name": "Winona Ryder",
+      "character": "Jo March",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 22.1809,
+      "profile_path": "/dlffgYbqr1BllWacVLhAFw23nLl.jpg"
+    },
+    {
+      "personId": 17187,
+      "name": "Trini Alvarado",
+      "character": "Meg March",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 1.4257,
+      "profile_path": "/uRAsuzmbC9xLbzsp5A8qwvax3jP.jpg"
+    },
+    {
+      "personId": 20767,
+      "name": "Samantha Mathis",
+      "character": "Older Amy March",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 2.4015,
+      "profile_path": "/7J7gvH1uRqfPAPlg7b35rrxSbLB.jpg"
+    },
+    {
+      "personId": 205,
+      "name": "Kirsten Dunst",
+      "character": "Younger Amy March",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 7.35,
+      "profile_path": "/yhLKGjuiMMdbGnFrR8AREkCZcVF.jpg"
+    },
+    {
+      "personId": 6194,
+      "name": "Claire Danes",
+      "character": "Beth March",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 10.5732,
+      "profile_path": "/6YvMc6RViFSornxmZjRgEKWQMzI.jpg"
+    },
+    {
+      "personId": 3894,
+      "name": "Christian Bale",
+      "character": "Laurie",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 6.3624,
+      "profile_path": "/gbcLQi7lQVaIF3WXNjW9Fqi84xZ.jpg"
+    },
+    {
+      "personId": 4038,
+      "name": "Susan Sarandon",
+      "character": "Mrs. March",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 5.2497,
+      "profile_path": "/jR6l2EfvvGA8qCzZ7MB5FT9ZLkq.jpg"
+    },
+    {
+      "personId": 5168,
+      "name": "Gabriel Byrne",
+      "character": "Friedrich Bhaer",
+      "order": 7,
+      "cast_id": 2,
+      "popularity": 3.0224,
+      "profile_path": "/9r9oDGENg92VYYFMkV4C09IUlrb.jpg"
+    },
+    {
+      "personId": 7036,
+      "name": "Eric Stoltz",
+      "character": "John Brooke",
+      "order": 8,
+      "cast_id": 8,
+      "popularity": 3.934,
+      "profile_path": "/idFuM00MeVmwGAiqvDaJcBiLAmD.jpg"
+    },
+    {
+      "personId": 12642,
+      "name": "John Neville",
+      "character": "Mr. Laurence",
+      "order": 9,
+      "cast_id": 17,
+      "popularity": 1.1257,
+      "profile_path": "/q9dqdcETh7fejWKYpIRz1tWnkN3.jpg"
+    },
+    {
+      "personId": 20624,
+      "name": "Mary Wickes",
+      "character": "Aunt March",
+      "order": 10,
+      "cast_id": 43,
+      "popularity": 3.1893,
+      "profile_path": "/qbvnoLQH1yunVR54nRNSDM8cdwa.jpg"
+    },
+    {
+      "personId": 152409,
+      "name": "Florence Paterson",
+      "character": "Hannah",
+      "order": 11,
+      "cast_id": 46,
+      "popularity": 1.0021,
+      "profile_path": null
+    },
+    {
+      "personId": 2218466,
+      "name": "Robin Collins",
+      "character": "Carriage Boy",
+      "order": 12,
+      "cast_id": 109,
+      "popularity": 0.3753,
+      "profile_path": null
+    },
+    {
+      "personId": 1248215,
+      "name": "Corrie Clark",
+      "character": "Belle Gardiner",
+      "order": 13,
+      "cast_id": 110,
+      "popularity": 0.9073,
+      "profile_path": null
+    },
+    {
+      "personId": 1178114,
+      "name": "Rebecca Toolan",
+      "character": "Mrs. Gardiner",
+      "order": 14,
+      "cast_id": 111,
+      "popularity": 0.7815,
+      "profile_path": "/21qQi0CvDnX2tYJEyyYxXRx1hoy.jpg"
+    },
+    {
+      "personId": 3972000,
+      "name": "Curt Willington",
+      "character": "Red Haired Young Man",
+      "order": 15,
+      "cast_id": 112,
+      "popularity": 0.1918,
+      "profile_path": null
+    },
+    {
+      "personId": 1351990,
+      "name": "Billie Pleffer",
+      "character": "Naughty Girl",
+      "order": 16,
+      "cast_id": 85,
+      "popularity": 0.3696,
+      "profile_path": null
+    },
+    {
+      "personId": 2778670,
+      "name": "Louella Pleffer",
+      "character": "Naughty Girl",
+      "order": 17,
+      "cast_id": 86,
+      "popularity": 0.183,
+      "profile_path": null
+    },
+    {
+      "personId": 27114,
+      "name": "Janne Mortil",
+      "character": "Sally Moffat",
+      "order": 18,
+      "cast_id": 87,
+      "popularity": 1.6422,
+      "profile_path": null
+    },
+    {
+      "personId": 83023,
+      "name": "Sarah Strange",
+      "character": "Sally's Friend",
+      "order": 19,
+      "cast_id": 88,
+      "popularity": 1.3003,
+      "profile_path": "/u1KEAdixiGx7YAA3EglNSNU4tK4.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 58094,
+      "name": "Gillian Armstrong",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8774,
+      "profile_path": "/ysSAJdM0iQvLvWqJigidRkiUK54.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 894,
+      "name": "depression"
+    },
+    {
+      "id": 970,
+      "name": "parent child relationship"
+    },
+    {
+      "id": 65,
+      "name": "holiday"
+    },
+    {
+      "id": 3725,
+      "name": "pregnancy"
+    },
+    {
+      "id": 5923,
+      "name": "sister"
+    },
+    {
+      "id": 33513,
+      "name": "desire"
+    },
+    {
+      "id": 174566,
+      "name": "chalkboard"
+    },
+    {
+      "id": 174570,
+      "name": "nightgown"
+    },
+    {
+      "id": 174584,
+      "name": "birth of twins"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    },
+    {
+      "id": 207317,
+      "name": "christmas"
+    },
+    {
+      "id": 207928,
+      "name": "19th century"
+    },
+    {
+      "id": 272698,
+      "name": "christmas romance"
+    },
+    {
+      "id": 336680,
+      "name": "four sisters"
+    }
+  ]
+}

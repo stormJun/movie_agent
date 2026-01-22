@@ -1,0 +1,357 @@
+{
+  "overview": "Sabrina Fairchild, a chauffeur's daughter, grew up at the Long Island estate of the wealthy Larrabee family enchanted with their sparkling world of privilege and wealth, but she's especially enamored of younger son David, a charming playboy. After the once plain Sabrina returns from a sojourn in Paris transformed into a glamorous young woman, she at long last catches David's eye. In a calculated effort to manipulate David away from her and into a more financially advantageous marriage, formidable older brother Linus devises a plan to keep them apart.",
+  "release_date": "1995-12-15",
+  "runtime": 127,
+  "budget": 58000000,
+  "revenue": 53672080,
+  "tmdb_vote_average": 6.208,
+  "tmdb_vote_count": 660,
+  "tmdb_popularity": 6.8621,
+  "original_language": "en",
+  "poster_path": "/i8PbLJDPU7vCwwscWD625oHbJy.jpg",
+  "backdrop_path": "/oMGV48EGhsNavC1PL8HMeWs5Udq.jpg",
+  "tmdb_genres_raw": [
+    "Romance",
+    "Drama",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 457,
+      "name": "Constellation Films",
+      "origin_country": ""
+    },
+    {
+      "id": 932,
+      "name": "Mirage Enterprises",
+      "origin_country": "US"
+    },
+    {
+      "id": 258,
+      "name": "Scott Rudin Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 5842,
+      "name": "Sandollar Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 12192,
+      "name": "Worldwide Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 58079,
+      "name": "Mont Blanc Entertainment GmbH",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3,
+      "name": "Harrison Ford",
+      "character": "Linus Larrabee",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 6.355,
+      "profile_path": "/5M7oN3sznp99hWYQ9sX0xheswWX.jpg"
+    },
+    {
+      "personId": 15887,
+      "name": "Julia Ormond",
+      "character": "Sabrina Fairchild",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 4.8093,
+      "profile_path": "/u7Oz6nHfMSlXuT34K7Ffp4f2qgP.jpg"
+    },
+    {
+      "personId": 17141,
+      "name": "Greg Kinnear",
+      "character": "David Larrabee",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.7121,
+      "profile_path": "/fweC1tDqEWuMQK6OHcJLnmGBf5.jpg"
+    },
+    {
+      "personId": 12957,
+      "name": "Nancy Marchand",
+      "character": "Maude Larrabee",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 1.2401,
+      "profile_path": "/4dPOOlSAGXZ9Bf5BcSc7I2QMEiA.jpg"
+    },
+    {
+      "personId": 8937,
+      "name": "John Wood",
+      "character": "Fairchild",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 1.769,
+      "profile_path": "/6raTQciey2xpcVV5c8HRV4XzFCk.jpg"
+    },
+    {
+      "personId": 16554,
+      "name": "Richard Crenna",
+      "character": "Patrick Tyson",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 1.6683,
+      "profile_path": "/dsViQ2ate32xTSQgxoEHKQl0Evj.jpg"
+    },
+    {
+      "personId": 4301,
+      "name": "Angie Dickinson",
+      "character": "Ingrid Tyson",
+      "order": 6,
+      "cast_id": 4,
+      "popularity": 4.7782,
+      "profile_path": "/5OmGKBhCTz7nobyMOPfaxs2F9n3.jpg"
+    },
+    {
+      "personId": 34485,
+      "name": "Lauren Holly",
+      "character": "Elizabeth Tyson",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 4.7099,
+      "profile_path": "/bWQsB6ueNNkygxCiIxyKznQAiOK.jpg"
+    },
+    {
+      "personId": 13314,
+      "name": "Dana Ivey",
+      "character": "Mack",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 2.5652,
+      "profile_path": "/oQEeRwEb9w4TuSVp334OP9z6Ljm.jpg"
+    },
+    {
+      "personId": 1163,
+      "name": "Miriam Colon",
+      "character": "Rosa",
+      "order": 9,
+      "cast_id": 57,
+      "popularity": 2.0786,
+      "profile_path": "/9jnz7htVMCTDNRDmoi2mdOKv6Pj.jpg"
+    },
+    {
+      "personId": 138242,
+      "name": "Elizabeth Franz",
+      "character": "Joanna",
+      "order": 10,
+      "cast_id": 58,
+      "popularity": 1.1123,
+      "profile_path": "/mlNRhegXkx0dsPmFw3ftjAvVzng.jpg"
+    },
+    {
+      "personId": 20234,
+      "name": "Fanny Ardant",
+      "character": "Irene",
+      "order": 11,
+      "cast_id": 16,
+      "popularity": 1.5695,
+      "profile_path": "/q8Hj88E3ME5z795haGMqVDwFDjp.jpg"
+    },
+    {
+      "personId": 62531,
+      "name": "Valérie Lemercier",
+      "character": "Martine",
+      "order": 12,
+      "cast_id": 59,
+      "popularity": 1.074,
+      "profile_path": "/2WMtL9SFIWmOIL2P6PdfHncSLXP.jpg"
+    },
+    {
+      "personId": 73827,
+      "name": "Patrick Bruel",
+      "character": "Louis",
+      "order": 13,
+      "cast_id": 17,
+      "popularity": 0.8126,
+      "profile_path": "/qeqCilfQzh0whViLeSovpaUEvfG.jpg"
+    },
+    {
+      "personId": 59206,
+      "name": "Becky Ann Baker",
+      "character": "Linda",
+      "order": 14,
+      "cast_id": 60,
+      "popularity": 1.6479,
+      "profile_path": "/84fEZMqVMlcl9EaBeCLbrYhHn0x.jpg"
+    },
+    {
+      "personId": 13242,
+      "name": "Paul Giamatti",
+      "character": "Scott",
+      "order": 15,
+      "cast_id": 56,
+      "popularity": 4.0568,
+      "profile_path": "/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
+    },
+    {
+      "personId": 163775,
+      "name": "John C. Vennema",
+      "character": "Ron",
+      "order": 16,
+      "cast_id": 61,
+      "popularity": 1.2893,
+      "profile_path": "/gx1PrG9r10366c2J5kpSkPIU2DX.jpg"
+    },
+    {
+      "personId": 161591,
+      "name": "Gregory Chase",
+      "character": "Ron",
+      "order": 17,
+      "cast_id": 121,
+      "popularity": 0.3813,
+      "profile_path": "/gNdodev00CROpXuAh5EFmkWTVOo.jpg"
+    },
+    {
+      "personId": 452,
+      "name": "Margo Martindale",
+      "character": "Nurse",
+      "order": 18,
+      "cast_id": 62,
+      "popularity": 2.4384,
+      "profile_path": "/6ANuYnZZJTuQLL4bbt8vH1qDYje.jpg"
+    },
+    {
+      "personId": 52475,
+      "name": "J. Smith-Cameron",
+      "character": "Carol",
+      "order": 19,
+      "cast_id": 63,
+      "popularity": 1.9454,
+      "profile_path": "/7DlYGLX5oywXpyvCsDZpOsWYpbg.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2226,
+      "name": "Sydney Pollack",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.5967,
+      "profile_path": "/d22QmhGE9bCkXeOwRsfrGTk188I.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2072,
+      "name": "chauffeur"
+    },
+    {
+      "id": 380,
+      "name": "sibling relationship"
+    },
+    {
+      "id": 90,
+      "name": "paris, france"
+    },
+    {
+      "id": 4375,
+      "name": "transformation"
+    },
+    {
+      "id": 5732,
+      "name": "birthday party"
+    },
+    {
+      "id": 5683,
+      "name": "family business "
+    },
+    {
+      "id": 9398,
+      "name": "long island, new york"
+    },
+    {
+      "id": 9639,
+      "name": "playboy"
+    },
+    {
+      "id": 10791,
+      "name": "teenage crush"
+    },
+    {
+      "id": 33626,
+      "name": "millionaire"
+    },
+    {
+      "id": 164664,
+      "name": "marriage engagement"
+    },
+    {
+      "id": 165282,
+      "name": "high society"
+    },
+    {
+      "id": 169057,
+      "name": "merger"
+    },
+    {
+      "id": 179367,
+      "name": "impossible love"
+    },
+    {
+      "id": 199764,
+      "name": "family disapproval"
+    },
+    {
+      "id": 211614,
+      "name": "scheme"
+    },
+    {
+      "id": 220314,
+      "name": "wealth differences"
+    },
+    {
+      "id": 237462,
+      "name": "wealthy family"
+    },
+    {
+      "id": 240303,
+      "name": "father daughter relationship"
+    },
+    {
+      "id": 243959,
+      "name": "brother brother relationship"
+    },
+    {
+      "id": 305033,
+      "name": "unlikely romance"
+    },
+    {
+      "id": 324429,
+      "name": "romantic"
+    }
+  ]
+}

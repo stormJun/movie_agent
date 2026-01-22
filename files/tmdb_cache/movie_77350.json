@@ -1,0 +1,202 @@
+{
+  "overview": "Isaac Mizrahi, one of the most successful designers in high fashion, plans his fall 1994 collection.",
+  "release_date": "1995-08-11",
+  "runtime": 73,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.2,
+  "tmdb_vote_count": 18,
+  "tmdb_popularity": 1.0132,
+  "original_language": "en",
+  "poster_path": "/dnIzv4rXr9FXkqW880E3rStYQA7.jpg",
+  "backdrop_path": "/qVmsH6us23qZPn3SXBJXKvMbXk5.jpg",
+  "tmdb_genres_raw": [
+    "Documentary"
+  ],
+  "production_companies": [
+    {
+      "id": 160204,
+      "name": "Hachette Filipacchi Films",
+      "origin_country": ""
+    },
+    {
+      "id": 14,
+      "name": "Miramax",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 56696,
+      "name": "Isaac Mizrahi",
+      "character": "Self",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 0.5693,
+      "profile_path": "/oP2Ebh9mDaDeFgzAGd6VuiLsDVb.jpg"
+    },
+    {
+      "personId": 3664,
+      "name": "Sandra Bernhard",
+      "character": "Self",
+      "order": 1,
+      "cast_id": 1,
+      "popularity": 1.6939,
+      "profile_path": "/3S93MgFQtXH4eO3oCxx1BA13nBj.jpg"
+    },
+    {
+      "personId": 56367,
+      "name": "Naomi Campbell",
+      "character": "Self",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.1114,
+      "profile_path": "/szSm9TgGVS8clzNQFGyWDfaq6OG.jpg"
+    },
+    {
+      "personId": 547866,
+      "name": "John Galliano",
+      "character": "Self",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 0.337,
+      "profile_path": "/rDkUllmqrIHiR69gi6kmUqQjIXK.jpg"
+    },
+    {
+      "personId": 533007,
+      "name": "Kate Moss",
+      "character": "Self",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 0.8303,
+      "profile_path": "/q9WnaG3YNAtKmtjIbJMd8gSyr2b.jpg"
+    },
+    {
+      "personId": 588627,
+      "name": "Linda Evangelista",
+      "character": "Self",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 0.9781,
+      "profile_path": "/bqwPL3pC9FoMV3GIhmoWWHFPdRq.jpg"
+    },
+    {
+      "personId": 33665,
+      "name": "Cindy Crawford",
+      "character": "Self",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 1.5003,
+      "profile_path": "/ncJLWNKFtNDg5HFZspDMrexw2Pf.jpg"
+    },
+    {
+      "personId": 70243,
+      "name": "Eartha Kitt",
+      "character": "Self",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 1.6645,
+      "profile_path": "/e1Lc2KU1ejimRNOMAL3mHegQFvc.jpg"
+    },
+    {
+      "personId": 58780,
+      "name": "Padma Lakshmi",
+      "character": "Self",
+      "order": 8,
+      "cast_id": 10,
+      "popularity": 0.916,
+      "profile_path": "/zOMJUovtprggxfbKl5i7EUEhYs.jpg"
+    },
+    {
+      "personId": 66776,
+      "name": "Liza Minnelli",
+      "character": "Self",
+      "order": 9,
+      "cast_id": 11,
+      "popularity": 2.1433,
+      "profile_path": "/kfG0Sm0uhF7vGMxFPiJTrpN6f81.jpg"
+    },
+    {
+      "personId": 937054,
+      "name": "André Leon Talley",
+      "character": "Self",
+      "order": 10,
+      "cast_id": 12,
+      "popularity": 1.1833,
+      "profile_path": "/naSz2UyKLd84Wsz6utSFSyEmHXR.jpg"
+    },
+    {
+      "personId": 46393,
+      "name": "Roseanne Barr",
+      "character": "Self",
+      "order": 11,
+      "cast_id": 13,
+      "popularity": 1.0937,
+      "profile_path": "/oyY5lWTFzhymLB4sJ1OODseI3jR.jpg"
+    },
+    {
+      "personId": 937039,
+      "name": "Carla Bruni",
+      "character": "Self",
+      "order": 12,
+      "cast_id": 14,
+      "popularity": 0.5987,
+      "profile_path": "/tNnjIZ2LsETJxnfkCYOVXzfEZjK.jpg"
+    },
+    {
+      "personId": 937034,
+      "name": "Christy Turlington",
+      "character": "Self",
+      "order": 13,
+      "cast_id": 15,
+      "popularity": 0.9587,
+      "profile_path": "/sWuOYoDDuPJWecjCYo0tuP8AXaK.jpg"
+    },
+    {
+      "personId": 6450,
+      "name": "Faye Dunaway",
+      "character": "Self",
+      "order": 14,
+      "cast_id": 16,
+      "popularity": 3.1233,
+      "profile_path": "/bwHJPkiDOjTslgrl0mri1Ndvx2V.jpg"
+    },
+    {
+      "personId": 1205,
+      "name": "Richard Gere",
+      "character": "Self",
+      "order": 15,
+      "cast_id": 21,
+      "popularity": 5.9547,
+      "profile_path": "/lWjnKsszeYaY7McFPyyQxK2gONV.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 588623,
+      "name": "Douglas Keeve",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.1775,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 15479,
+      "name": "fashion"
+    }
+  ]
+}

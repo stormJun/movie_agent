@@ -1,0 +1,268 @@
+{
+  "overview": "Private eye Rafe Guttman is hired by repressed, born-again Katherine to find her missing bad-boy brother. The trail leads him to a whorehouse run by a thousand-year-old vampire and secretly backed by Katherine's boss, televangelist Jimmy Current.",
+  "release_date": "1996-08-16",
+  "runtime": 87,
+  "budget": 15000000,
+  "revenue": 5600000,
+  "tmdb_vote_average": 5.909,
+  "tmdb_vote_count": 399,
+  "tmdb_popularity": 3.3938,
+  "original_language": "en",
+  "poster_path": "/aKkUQ0Zd9TFlqfcMMHFKQBB15wZ.jpg",
+  "backdrop_path": "/4pdn51JC1pliaFjf5tNDi8sMRqs.jpg",
+  "tmdb_genres_raw": [
+    "Horror",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 69626,
+      "name": "Tales From The Crypt Holdings",
+      "origin_country": ""
+    },
+    {
+      "id": 69625,
+      "name": "Universal City Studios",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 18326,
+      "name": "Dennis Miller",
+      "character": "Rafe Guttman",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.1456,
+      "profile_path": "/AdO5Dm8xyuYvXIQEuzpBi6nG9QF.jpg"
+    },
+    {
+      "personId": 23764,
+      "name": "Erika Eleniak",
+      "character": "Katherine Verdoux",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 3.5011,
+      "profile_path": "/lu9RKtMCHRZIzLJzWieiku0LSYU.jpg"
+    },
+    {
+      "personId": 58312,
+      "name": "Angie Everhart",
+      "character": "Lillith",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.8764,
+      "profile_path": "/m7sABKY4hQpIgpvoD2GELLNIThk.jpg"
+    },
+    {
+      "personId": 14541,
+      "name": "Chris Sarandon",
+      "character": "Reverend Current",
+      "order": 3,
+      "cast_id": 14,
+      "popularity": 2.3902,
+      "profile_path": "/jP92Lq3JHl8mbdxzcZ6PyCQDwa5.jpg"
+    },
+    {
+      "personId": 3034,
+      "name": "Corey Feldman",
+      "character": "Caleb Verdoux",
+      "order": 4,
+      "cast_id": 15,
+      "popularity": 3.0608,
+      "profile_path": "/9n5xDsrBFY0AFESmXOJEzEj4ezx.jpg"
+    },
+    {
+      "personId": 6573,
+      "name": "William Sadler",
+      "character": "Mummy",
+      "order": 5,
+      "cast_id": 18,
+      "popularity": 3.1185,
+      "profile_path": "/xC9sijoDnjS3oDZ5eszcGKHKAOp.jpg"
+    },
+    {
+      "personId": 2278,
+      "name": "Aubrey Morris",
+      "character": "McCutcheon",
+      "order": 6,
+      "cast_id": 16,
+      "popularity": 0.8071,
+      "profile_path": "/xuiSnXTy96VqANZq2x59pCEKb7z.jpg"
+    },
+    {
+      "personId": 12662,
+      "name": "Phil Fondacaro",
+      "character": "Vincent Prather",
+      "order": 7,
+      "cast_id": 17,
+      "popularity": 1.3098,
+      "profile_path": "/vJbPx90IzOdE6L1maYu1HIJayjG.jpg"
+    },
+    {
+      "personId": 172814,
+      "name": "Kiara Hunter",
+      "character": "Tamara",
+      "order": 8,
+      "cast_id": 42,
+      "popularity": 0.7305,
+      "profile_path": null
+    },
+    {
+      "personId": 3513025,
+      "name": "Leslie Ann Phillips",
+      "character": "Patrice",
+      "order": 9,
+      "cast_id": 60,
+      "popularity": 0.0538,
+      "profile_path": null
+    },
+    {
+      "personId": 1017228,
+      "name": "Juliet Reagh",
+      "character": "Tallulah",
+      "order": 10,
+      "cast_id": 43,
+      "popularity": 0.1994,
+      "profile_path": null
+    },
+    {
+      "personId": 1218930,
+      "name": "Eli Gabay",
+      "character": "Miguel",
+      "order": 11,
+      "cast_id": 61,
+      "popularity": 1.3521,
+      "profile_path": "/eu7F3sS18dYyoMQfl21UVTYTrXr.jpg"
+    },
+    {
+      "personId": 27120,
+      "name": "Matt Hill",
+      "character": "Reggie",
+      "order": 12,
+      "cast_id": 62,
+      "popularity": 1.0822,
+      "profile_path": "/c9LL79WphPAjDX4J9yHV5ZoANxy.jpg"
+    },
+    {
+      "personId": 2250,
+      "name": "Eric Keenleyside",
+      "character": "Noonan",
+      "order": 13,
+      "cast_id": 63,
+      "popularity": 2.1246,
+      "profile_path": "/n7CFXU0redDCSHuLIPIKg45M0Do.jpg"
+    },
+    {
+      "personId": 27141,
+      "name": "Kim Kondrashoff",
+      "character": "Jenkins",
+      "order": 14,
+      "cast_id": 64,
+      "popularity": 0.7728,
+      "profile_path": "/uL4rVpEtniiJw0LUuWqKLrGkQWw.jpg"
+    },
+    {
+      "personId": 31365,
+      "name": "John Kassir",
+      "character": "The Crypt Keeper (voice)",
+      "order": 15,
+      "cast_id": 65,
+      "popularity": 1.617,
+      "profile_path": "/byj6Px0tLcqRFWIJYUxstg25Qd2.jpg"
+    },
+    {
+      "personId": 81702,
+      "name": "Robert Munic",
+      "character": "Zeke",
+      "order": 16,
+      "cast_id": 66,
+      "popularity": 0.7408,
+      "profile_path": "/tXkP4CwmFxihWb5rIN8KsybkgfL.jpg"
+    },
+    {
+      "personId": 3513033,
+      "name": "Gary Starr",
+      "character": "Jed",
+      "order": 17,
+      "cast_id": 67,
+      "popularity": 0.0143,
+      "profile_path": null
+    },
+    {
+      "personId": 1235417,
+      "name": "Robin Douglas",
+      "character": "Louise",
+      "order": 18,
+      "cast_id": 68,
+      "popularity": 0.2629,
+      "profile_path": "/tRC5WvHksmcoP3ZcOHXSuax5uHZ.jpg"
+    },
+    {
+      "personId": 185282,
+      "name": "Dorian Joe Clark",
+      "character": "Jonas",
+      "order": 19,
+      "cast_id": 69,
+      "popularity": 0.7534,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 10953,
+      "name": "Gilbert Adler",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.9575,
+      "profile_path": "/k5zwY1iyXliIM3Ntz4XbtS051hg.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3133,
+      "name": "vampire"
+    },
+    {
+      "id": 1411,
+      "name": "brothel"
+    },
+    {
+      "id": 9717,
+      "name": "based on comic"
+    },
+    {
+      "id": 11168,
+      "name": "private investigator"
+    },
+    {
+      "id": 188914,
+      "name": "born again christian"
+    },
+    {
+      "id": 220389,
+      "name": "televangelist"
+    }
+  ]
+}

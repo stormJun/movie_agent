@@ -1,0 +1,235 @@
+{
+  "overview": "Steven Lidz, unhappy with his home life since his mother became sick, moves in with his two eccentric uncles. As Steven grows closer to his uncles, he learns how to cope with his emotions and to value his own uniqueness.",
+  "release_date": "1995-09-15",
+  "runtime": 93,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.9,
+  "tmdb_vote_count": 29,
+  "tmdb_popularity": 4.8335,
+  "original_language": "en",
+  "poster_path": "/twnqc80AL55WYnCVz4nMGEGcL7.jpg",
+  "backdrop_path": "/2gY7KFsEWAqj6oDajd51lZxGueY.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 915,
+      "name": "Hollywood Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1533,
+      "name": "Andie MacDowell",
+      "character": "Selma Lidz",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 4.5134,
+      "profile_path": "/akeheO4i3cR1HpSU8yu9HrLcsKm.jpg"
+    },
+    {
+      "personId": 1241,
+      "name": "John Turturro",
+      "character": "Sid Lidz",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 3.5084,
+      "profile_path": "/6O9W9cJW0kCqMzYeLupV9oH0ftn.jpg"
+    },
+    {
+      "personId": 50807,
+      "name": "Michael Richards",
+      "character": "Danny Lidz",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 1.8518,
+      "profile_path": "/bAYwmBdPJAiFkossWq56pEDmUh4.jpg"
+    },
+    {
+      "personId": 7868,
+      "name": "Maury Chaykin",
+      "character": "Arthur Lidz",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 1.8672,
+      "profile_path": "/Aqmsu1UHo40Md4RlLGfotSt8Lrr.jpg"
+    },
+    {
+      "personId": 1238944,
+      "name": "Nathan Watt",
+      "character": "Steven Lidz",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 0.2163,
+      "profile_path": null
+    },
+    {
+      "personId": 49422,
+      "name": "Anne DeSalvo",
+      "character": "May",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 0.865,
+      "profile_path": "/1ajM4cei3izJOCZhJWFKnjhdgpI.jpg"
+    },
+    {
+      "personId": 1989,
+      "name": "Celia Weston",
+      "character": "Amelia",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 1.7162,
+      "profile_path": "/pQYygvqfmKnK4weuUCLUX45q5AJ.jpg"
+    },
+    {
+      "personId": 10489,
+      "name": "Jack McGee",
+      "character": "Lindquist",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 2.9765,
+      "profile_path": "/4fmjQ4z0Y7UraH8Pk2qxABvwmGS.jpg"
+    },
+    {
+      "personId": 9283,
+      "name": "Candice Azzara",
+      "character": "Joanie",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 1.308,
+      "profile_path": "/4H5oacxmRVgqc2oGU9SmjRaOr1A.jpg"
+    },
+    {
+      "personId": 2573922,
+      "name": "Kendra Krull",
+      "character": "Sandy Lidz",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 0.1113,
+      "profile_path": null
+    },
+    {
+      "personId": 4133,
+      "name": "Giuseppe Andrews",
+      "character": "Ash",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 0.9426,
+      "profile_path": "/lQrnST9P6aRbxAs2eQiCkkBY83v.jpg"
+    },
+    {
+      "personId": 101231,
+      "name": "Lillian Adams",
+      "character": "Aunt Estelle",
+      "order": 11,
+      "cast_id": 15,
+      "popularity": 0.7779,
+      "profile_path": "/g3TfZxwFKxTTy1YquprDuenio7y.jpg"
+    },
+    {
+      "personId": 30865,
+      "name": "Lou Cutell",
+      "character": "Uncle Melvin",
+      "order": 12,
+      "cast_id": 16,
+      "popularity": 1.5672,
+      "profile_path": "/ulwBRPKeaiNAccffIJqCAJcLR32.jpg"
+    },
+    {
+      "personId": 2573925,
+      "name": "Sumer Stamper",
+      "character": "Nancy Oppenheim",
+      "order": 13,
+      "cast_id": 17,
+      "popularity": 0.0718,
+      "profile_path": null
+    },
+    {
+      "personId": 105175,
+      "name": "Sean P. Donahue",
+      "character": "Ralph Crispi",
+      "order": 14,
+      "cast_id": 18,
+      "popularity": 1.2854,
+      "profile_path": "/mmi8pF6nnazdCKRsKHF9z7ZtBkK.jpg"
+    },
+    {
+      "personId": 2573928,
+      "name": "Harold M. Schulweis",
+      "character": "Rabbi Blaustein",
+      "order": 15,
+      "cast_id": 19,
+      "popularity": 0.0474,
+      "profile_path": null
+    },
+    {
+      "personId": 27508,
+      "name": "Zoaunne LeRoy",
+      "character": "Mrs. Kantruitz",
+      "order": 16,
+      "cast_id": 20,
+      "popularity": 0.4284,
+      "profile_path": "/apInV1y8CS1G6LBHcSyKJxJd7hl.jpg"
+    },
+    {
+      "personId": 112153,
+      "name": "Vince Melocchi",
+      "character": "Inspector Marshall",
+      "order": 17,
+      "cast_id": 21,
+      "popularity": 0.9905,
+      "profile_path": "/6LjUctOXAPEif7f1GecW1MWFIZZ.jpg"
+    },
+    {
+      "personId": 2573931,
+      "name": "Charles Patrick",
+      "character": "In-crowd Boy",
+      "order": 18,
+      "cast_id": 22,
+      "popularity": 0.2834,
+      "profile_path": null
+    },
+    {
+      "personId": 2573932,
+      "name": "Alison Chalmers",
+      "character": "In-crowd Girl",
+      "order": 19,
+      "cast_id": 23,
+      "popularity": 0.2808,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 3092,
+      "name": "Diane Keaton",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 8.9327,
+      "profile_path": "/2mSm65Z6npanPn7ilZYmGk2Ul1k.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 187056,
+      "name": "woman director"
+    }
+  ]
+}

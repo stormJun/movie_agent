@@ -1,0 +1,277 @@
+{
+  "overview": "After learning of her husband's infidelities, a housewife invites an itinerant lesbian to move in with them. None of their lives will ever be the same again.",
+  "release_date": "1995-01-18",
+  "runtime": 95,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.057,
+  "tmdb_vote_count": 318,
+  "tmdb_popularity": 4.02,
+  "original_language": "fr",
+  "poster_path": "/xlLnHizshGBwMiNrnop2kg2nYzE.jpg",
+  "backdrop_path": "/eAexMnPNZG0Q9QNHNWWfr9iHLMf.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 1614,
+      "name": "Les Films Flam",
+      "origin_country": ""
+    },
+    {
+      "id": 82,
+      "name": "Renn Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 104,
+      "name": "Canal+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 356,
+      "name": "TF1 Films Production",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 25256,
+      "name": "Victoria Abril",
+      "character": "Loli",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 2.6356,
+      "profile_path": "/eXI42Fp7MIGHxEzmAX20I94CZi6.jpg"
+    },
+    {
+      "personId": 35137,
+      "name": "Josiane Balasko",
+      "character": "Marijo",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 1.1027,
+      "profile_path": "/1ABz0yKr3nwiUX8Es8CrFJ1rse3.jpg"
+    },
+    {
+      "personId": 4275,
+      "name": "Alain Chabat",
+      "character": "Laurent Lafaye",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 1.423,
+      "profile_path": "/xRjymE6LIJd0useKWN2R1WgKDRy.jpg"
+    },
+    {
+      "personId": 13689,
+      "name": "Ticky Holgado",
+      "character": "Antoine",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 0.9703,
+      "profile_path": "/lWrhoM6snzSFi22B401iiXRUUoi.jpg"
+    },
+    {
+      "personId": 35908,
+      "name": "Catherine Hiegel",
+      "character": "Dany",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 0.7533,
+      "profile_path": "/pcbGRRllIm5vaVjrPgpW0Fyq3TL.jpg"
+    },
+    {
+      "personId": 35917,
+      "name": "Catherine Samie",
+      "character": "Prostitute",
+      "order": 5,
+      "cast_id": 17,
+      "popularity": 1.0429,
+      "profile_path": "/7lGnDMpBPkP8i7gqoG3pcWoKX3X.jpg"
+    },
+    {
+      "personId": 35887,
+      "name": "Catherine Lachens",
+      "character": "Fabienne, boss of the Sopha",
+      "order": 6,
+      "cast_id": 18,
+      "popularity": 0.4677,
+      "profile_path": "/oyQfoj6pAiqWgsu6tNVCMoN8fu.jpg"
+    },
+    {
+      "personId": 38402,
+      "name": "Katrine Boorman",
+      "character": "Emily Crumble",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 1.5163,
+      "profile_path": "/f5ar3esUWl5x3YlrX6OFydFRNui.jpg"
+    },
+    {
+      "personId": 38404,
+      "name": "Véronique Barrault",
+      "character": "Véro",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 0.698,
+      "profile_path": "/hO824WnsA4DlBob82j54um5Yj44.jpg"
+    },
+    {
+      "personId": 38403,
+      "name": "Telsche Boorman",
+      "character": "Dorothy Crumble",
+      "order": 9,
+      "cast_id": 10,
+      "popularity": 0.4703,
+      "profile_path": null
+    },
+    {
+      "personId": 1706887,
+      "name": "Sylvie Audcoeur",
+      "character": "Ingrid",
+      "order": 10,
+      "cast_id": 19,
+      "popularity": 0.6709,
+      "profile_path": "/9cGkOHcxpFsYIZsE13mBb0EU6qb.jpg"
+    },
+    {
+      "personId": 31390,
+      "name": "Michèle Bernier",
+      "character": "Solange",
+      "order": 11,
+      "cast_id": 20,
+      "popularity": 0.3812,
+      "profile_path": "/8ivozzgDM1X9Ib5D7XqEWAPJzEL.jpg"
+    },
+    {
+      "personId": 1553686,
+      "name": "Maureen Diot",
+      "character": "Cristelle",
+      "order": 12,
+      "cast_id": 21,
+      "popularity": 0.0686,
+      "profile_path": "/pixV2RSTFc0VJHio0dwFiF52dDe.jpg"
+    },
+    {
+      "personId": 54153,
+      "name": "Miguel Bosé",
+      "character": "Diego, the young man",
+      "order": 13,
+      "cast_id": 22,
+      "popularity": 0.8162,
+      "profile_path": "/9mt55pbT38jrSYaFvhmiyCIIXsv.jpg"
+    },
+    {
+      "personId": 2581553,
+      "name": "Jean-Luc Violet",
+      "character": "Barman",
+      "order": 14,
+      "cast_id": 23,
+      "popularity": 0.1059,
+      "profile_path": null
+    },
+    {
+      "personId": 1540300,
+      "name": "Catherine Alias",
+      "character": "Woman from the coffee shop",
+      "order": 15,
+      "cast_id": 24,
+      "popularity": 1.662,
+      "profile_path": null
+    },
+    {
+      "personId": 3137450,
+      "name": "Philippe Berry",
+      "character": "Rose seller",
+      "order": 16,
+      "cast_id": 25,
+      "popularity": 0.181,
+      "profile_path": "/tQ0q06N2ZYASdquaXPIFytCubEj.jpg"
+    },
+    {
+      "personId": 3137466,
+      "name": "Anthony Martin",
+      "character": "Pablo",
+      "order": 17,
+      "cast_id": 26,
+      "popularity": 0.4055,
+      "profile_path": "/eKm8YuYwLP9EOkYH23zXDAjvz6b.jpg"
+    },
+    {
+      "personId": 1316510,
+      "name": "Edmonde Franchi",
+      "character": "Mrs. Lombard",
+      "order": 18,
+      "cast_id": 27,
+      "popularity": 0.2126,
+      "profile_path": "/hSaUGGMQN7AzoXFknQXdPcM6PSi.jpg"
+    },
+    {
+      "personId": 1199845,
+      "name": "Annick Berger",
+      "character": "Secretary",
+      "order": 19,
+      "cast_id": 28,
+      "popularity": 0.258,
+      "profile_path": "/HytGdJPCYMtLbXMZiocEE2SXsd.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 35137,
+      "name": "Josiane Balasko",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1027,
+      "profile_path": "/1ABz0yKr3nwiUX8Es8CrFJ1rse3.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2918,
+      "name": "estate agent"
+    },
+    {
+      "id": 4580,
+      "name": "van"
+    },
+    {
+      "id": 128,
+      "name": "love triangle"
+    },
+    {
+      "id": 2335,
+      "name": "southern france"
+    },
+    {
+      "id": 3190,
+      "name": "menage a trois"
+    },
+    {
+      "id": 155870,
+      "name": "polyamory"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    }
+  ]
+}

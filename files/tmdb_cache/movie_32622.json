@@ -1,0 +1,233 @@
+{
+  "overview": "A ten year old girl named Angela leads her six year old sister, Ellie, through various regimens of 'purification' in an attempt to rid themselves of their evil, which she believes to be the cause of their mother's mental illness. Precocious, to say the least, Angela has visions of Lucifer coming to take her and her sister away, and one of her remedies for this is for them to remain within a circle of their dolls and toys until they see a vision of the virgin Mary come to them. But such thinking can only lead to an ending befitting of her own mental state.",
+  "release_date": "1996-01-26",
+  "runtime": 99,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.5,
+  "tmdb_vote_count": 27,
+  "tmdb_popularity": 3.3781,
+  "original_language": "en",
+  "poster_path": "/fhxU3jFzC2tlBgqFhB7NqO4qAFe.jpg",
+  "backdrop_path": "/u49LQw75oynfoiN1HyWGuh78hs5.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 109361,
+      "name": "Tree Farm Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 143151,
+      "name": "Miranda Rhyne",
+      "character": "Angela",
+      "order": 0,
+      "cast_id": 17,
+      "popularity": 0.8891,
+      "profile_path": null
+    },
+    {
+      "personId": 196180,
+      "name": "Charlotte Eve Blythe",
+      "character": "Ellie",
+      "order": 1,
+      "cast_id": 18,
+      "popularity": 0.2645,
+      "profile_path": null
+    },
+    {
+      "personId": 3711,
+      "name": "Anna Thomson",
+      "character": "Mae",
+      "order": 2,
+      "cast_id": 19,
+      "popularity": 1.6015,
+      "profile_path": "/52deQc7eUzqoLfh2rpHtFKqLEle.jpg"
+    },
+    {
+      "personId": 87707,
+      "name": "John Ventimiglia",
+      "character": "Andrew",
+      "order": 3,
+      "cast_id": 20,
+      "popularity": 2.1267,
+      "profile_path": "/1KSrI47Q3mdb3XXoEpiNaZoWsGp.jpg"
+    },
+    {
+      "personId": 1590957,
+      "name": "iO Tillett Wright",
+      "character": "Sam",
+      "order": 4,
+      "cast_id": 22,
+      "popularity": 0.7821,
+      "profile_path": null
+    },
+    {
+      "personId": 22461,
+      "name": "Vincent Gallo",
+      "character": "Preacher",
+      "order": 5,
+      "cast_id": 23,
+      "popularity": 1.822,
+      "profile_path": "/2H8ucxG6LWAHCJAJf9OGfhSXpqQ.jpg"
+    },
+    {
+      "personId": 156591,
+      "name": "Ruth Maleczech",
+      "character": "Sleepwalker",
+      "order": 6,
+      "cast_id": 24,
+      "popularity": 0.867,
+      "profile_path": "/iU9deeE41qiy3DGexVqPSJq78dH.jpg"
+    },
+    {
+      "personId": 2067823,
+      "name": "Garrett Bemer",
+      "character": "Tom",
+      "order": 7,
+      "cast_id": 25,
+      "popularity": 0.2104,
+      "profile_path": null
+    },
+    {
+      "personId": 56857,
+      "name": "Peter Facinelli",
+      "character": "Lucifer",
+      "order": 8,
+      "cast_id": 26,
+      "popularity": 3.3241,
+      "profile_path": "/mmha3A5INmromiCsN8FBSLScVpZ.jpg"
+    },
+    {
+      "personId": 113919,
+      "name": "Hynden Walch",
+      "character": "Darlene",
+      "order": 9,
+      "cast_id": 27,
+      "popularity": 1.4587,
+      "profile_path": "/oFfZaFF1o724BuZ3cLK6tl9L03.jpg"
+    },
+    {
+      "personId": 1455797,
+      "name": "Henry Stram",
+      "character": "Man at Fair",
+      "order": 10,
+      "cast_id": 28,
+      "popularity": 0.7902,
+      "profile_path": "/xyqrH8eYIyr0vwciioXn7SJoFFh.jpg"
+    },
+    {
+      "personId": 2067824,
+      "name": "Caitlin Hall",
+      "character": "Anne",
+      "order": 11,
+      "cast_id": 29,
+      "popularity": 0.0996,
+      "profile_path": null
+    },
+    {
+      "personId": 2067825,
+      "name": "Francis Conroy",
+      "character": "Anne's Mother",
+      "order": 12,
+      "cast_id": 30,
+      "popularity": 0.0239,
+      "profile_path": null
+    },
+    {
+      "personId": 2067826,
+      "name": "Gerard Lyons III",
+      "character": "Anne's Father",
+      "order": 13,
+      "cast_id": 31,
+      "popularity": 0.0387,
+      "profile_path": null
+    },
+    {
+      "personId": 2067827,
+      "name": "Rodger L. Phillips",
+      "character": "Frank",
+      "order": 14,
+      "cast_id": 32,
+      "popularity": 0.0583,
+      "profile_path": null
+    },
+    {
+      "personId": 1902685,
+      "name": "William McKnight",
+      "character": "Greg",
+      "order": 15,
+      "cast_id": 33,
+      "popularity": 0.4726,
+      "profile_path": null
+    },
+    {
+      "personId": 1186003,
+      "name": "Jack O'Connell",
+      "character": "Man at Bar",
+      "order": 16,
+      "cast_id": 34,
+      "popularity": 1.003,
+      "profile_path": "/icyChFtrQ1TrXfk73ewLqPiKNRX.jpg"
+    },
+    {
+      "personId": 134761,
+      "name": "Nurith Cohn",
+      "character": "Makeover Woman",
+      "order": 17,
+      "cast_id": 35,
+      "popularity": 1.6549,
+      "profile_path": null
+    },
+    {
+      "personId": 1936248,
+      "name": "Constance McCord",
+      "character": "The Virgin Mary",
+      "order": 18,
+      "cast_id": 36,
+      "popularity": 0.1243,
+      "profile_path": null
+    },
+    {
+      "personId": 2067829,
+      "name": "Roxana Stuart",
+      "character": "Saleslady",
+      "order": 19,
+      "cast_id": 37,
+      "popularity": 0.0526,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 41670,
+      "name": "Rebecca Miller",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7433,
+      "profile_path": "/s0jjPvcX4i8yd7IiBuvnrJ7FbT3.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 187056,
+      "name": "woman director"
+    }
+  ]
+}

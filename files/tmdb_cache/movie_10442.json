@@ -1,0 +1,255 @@
+{
+  "overview": "Just after a bad breakup, Charlie MacKenzie falls for lovely butcher Harriet Michaels and introduces her to his parents. But, as voracious consumers of sensational tabloids, his parents soon come to suspect that Harriet is actually a notorious serial killer -- \"Mrs. X\" -- wanted in connection with a string of bizarre honeymoon killings. Thinking his parents foolish, Charlie proposes to Harriet. But while on his honeymoon with her, he begins to fear they were right.",
+  "release_date": "1993-07-30",
+  "runtime": 93,
+  "budget": 20000000,
+  "revenue": 11585483,
+  "tmdb_vote_average": 6.098,
+  "tmdb_vote_count": 461,
+  "tmdb_popularity": 1.6574,
+  "original_language": "en",
+  "poster_path": "/zQlpQDKDADKlgqfMs1E191ofDJU.jpg",
+  "backdrop_path": "/iVweNwFhEtlJlPxOkaDh8VboE9b.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Crime",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 559,
+      "name": "TriStar Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "ru",
+      "name": "Pусский"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 12073,
+      "name": "Mike Myers",
+      "character": "Charlie MacKenzie / Stuart MacKenzie",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.478,
+      "profile_path": "/gjfDl52Kk02MPgUYFjs9bOy33OY.jpg"
+    },
+    {
+      "personId": 18331,
+      "name": "Nancy Travis",
+      "character": "Harriet Michaels",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.9203,
+      "profile_path": "/8NVTIgCYB6H0GrAwNPLwdU92pdt.jpg"
+    },
+    {
+      "personId": 57829,
+      "name": "Anthony LaPaglia",
+      "character": "Tony Giardino",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.0267,
+      "profile_path": "/31fRY01Dq2ebkx09FjuG5g3QW9G.jpg"
+    },
+    {
+      "personId": 99,
+      "name": "Amanda Plummer",
+      "character": "Rose Michaels",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 4.3498,
+      "profile_path": "/wEwyajjePFVVn2wFdH1NH7z9Qn5.jpg"
+    },
+    {
+      "personId": 18345,
+      "name": "Brenda Fricker",
+      "character": "May Mackenzie",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 2.2126,
+      "profile_path": "/osvE1ZFs7SsqCzTpoTia8pUwamX.jpg"
+    },
+    {
+      "personId": 148637,
+      "name": "Matt Doherty",
+      "character": "William \"Heed\" Mackenzie",
+      "order": 5,
+      "cast_id": 75,
+      "popularity": 0.7421,
+      "profile_path": "/yKB3ulgNLMzIvqDwSYW29OFoZlu.jpg"
+    },
+    {
+      "personId": 28164,
+      "name": "Charles Grodin",
+      "character": "Commandeered Car Driver",
+      "order": 6,
+      "cast_id": 15,
+      "popularity": 1.3769,
+      "profile_path": "/k3LIbJE9nxn4nI79tef4zdjtEzq.jpg"
+    },
+    {
+      "personId": 14104,
+      "name": "Phil Hartman",
+      "character": "Ranger John \"Vicky\" Johnson",
+      "order": 7,
+      "cast_id": 16,
+      "popularity": 7.9777,
+      "profile_path": "/m3QyeaVLzIo2fZJZaGbJalfD56t.jpg"
+    },
+    {
+      "personId": 5578,
+      "name": "Debi Mazar",
+      "character": "Susan",
+      "order": 8,
+      "cast_id": 17,
+      "popularity": 5.8577,
+      "profile_path": "/cU3LhqOjXzOqpGCSDFj5otlZreu.jpg"
+    },
+    {
+      "personId": 3214,
+      "name": "Steven Wright",
+      "character": "Pilot",
+      "order": 9,
+      "cast_id": 18,
+      "popularity": 1.1413,
+      "profile_path": "/9Q9buDjfm6uq0VE86MZ01o96lyG.jpg"
+    },
+    {
+      "personId": 111080,
+      "name": "Patrick Bristow",
+      "character": "Cafe Roads Performer",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 1.1917,
+      "profile_path": "/bNnv5c0AyJdfI5kYhucARYvqm9F.jpg"
+    },
+    {
+      "personId": 1878988,
+      "name": "Cintra Wilson",
+      "character": "Cafe Roads M.C.",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 0.2163,
+      "profile_path": null
+    },
+    {
+      "personId": 161318,
+      "name": "Al Nalbandian",
+      "character": "Butchershop Customer",
+      "order": 12,
+      "cast_id": 25,
+      "popularity": 1.0046,
+      "profile_path": "/gyx16JUR7P3RhEfcCW7MzzRrFwP.jpg"
+    },
+    {
+      "personId": 1878989,
+      "name": "George F. Mauricio",
+      "character": "Butchershop Customer",
+      "order": 13,
+      "cast_id": 26,
+      "popularity": 0.2033,
+      "profile_path": null
+    },
+    {
+      "personId": 1878990,
+      "name": "Kiki Douveas",
+      "character": "Butchershop Customer",
+      "order": 14,
+      "cast_id": 27,
+      "popularity": 0.0595,
+      "profile_path": null
+    },
+    {
+      "personId": 4774805,
+      "name": "Lillie Lowe",
+      "character": "Butchershop Customer",
+      "order": 15,
+      "cast_id": 76,
+      "popularity": 0.0214,
+      "profile_path": null
+    },
+    {
+      "personId": 4774812,
+      "name": "Maria Dos Remedios",
+      "character": "Butchershop Customer",
+      "order": 16,
+      "cast_id": 77,
+      "popularity": 0.0752,
+      "profile_path": null
+    },
+    {
+      "personId": 6735,
+      "name": "Luenell",
+      "character": "Police Records Officer",
+      "order": 17,
+      "cast_id": 78,
+      "popularity": 1.0839,
+      "profile_path": "/5Mz0UEpcu1PHftgmKgoEhSSaiiA.jpg"
+    },
+    {
+      "personId": 50807,
+      "name": "Michael Richards",
+      "character": "Obituary Employee",
+      "order": 18,
+      "cast_id": 19,
+      "popularity": 1.5916,
+      "profile_path": "/bAYwmBdPJAiFkossWq56pEDmUh4.jpg"
+    },
+    {
+      "personId": 15105,
+      "name": "Mike Hagerty",
+      "character": "Obituary Employee",
+      "order": 19,
+      "cast_id": 20,
+      "popularity": 2.3482,
+      "profile_path": "/qoAlWEhWMNE7vOOXZPvnz7PcDBt.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 15106,
+      "name": "Thomas Schlamme",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5217,
+      "profile_path": "/9ZFuqO0NJW6wqIlmLTexSQBrPvT.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 388,
+      "name": "scotland"
+    },
+    {
+      "id": 4452,
+      "name": "butcher"
+    },
+    {
+      "id": 5923,
+      "name": "sister"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 157758,
+      "name": "axe murder"
+    }
+  ]
+}

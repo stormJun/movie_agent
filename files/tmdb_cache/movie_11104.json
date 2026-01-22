@@ -1,0 +1,257 @@
+{
+  "overview": "Two melancholic Hong Kong policemen fall in love: one with a mysterious underworld figure, the other with a beautiful and ethereal server at a late-night restaurant.",
+  "release_date": "1994-07-14",
+  "runtime": 103,
+  "budget": 160000,
+  "revenue": 0,
+  "tmdb_vote_average": 7.965,
+  "tmdb_vote_count": 2084,
+  "tmdb_popularity": 6.8624,
+  "original_language": "cn",
+  "poster_path": "/43I9DcNoCzpyzK8JCkJYpHqHqGG.jpg",
+  "backdrop_path": "/vuglA60RqvpHK9rIcG8sXaiWw1L.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 540,
+      "name": "Jet Tone Production",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "cn",
+      "name": "广州话 / 廣州話"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "zh",
+      "name": "普通话"
+    },
+    {
+      "code": "pa",
+      "name": "ਪੰਜਾਬੀ"
+    },
+    {
+      "code": "ur",
+      "name": "اردو"
+    },
+    {
+      "code": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "code": "ja",
+      "name": "日本語"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 56830,
+      "name": "Brigitte Lin",
+      "character": "Woman in Blonde Wig",
+      "order": 0,
+      "cast_id": 11,
+      "popularity": 2.3901,
+      "profile_path": "/ovuQ0uWaR40SEXyGkSpEP1QLYTl.jpg"
+    },
+    {
+      "personId": 43661,
+      "name": "Takeshi Kaneshiro",
+      "character": "He Zhiwu / Cop 223",
+      "order": 1,
+      "cast_id": 14,
+      "popularity": 3.226,
+      "profile_path": "/mOxNGub5nW9i35FQrg6gltW3PQd.jpg"
+    },
+    {
+      "personId": 1337,
+      "name": "Tony Leung Chiu-wai",
+      "character": "Cop 663",
+      "order": 2,
+      "cast_id": 12,
+      "popularity": 9.8366,
+      "profile_path": "/nQbSQAws5BdakPEB5MtiqWVeaMV.jpg"
+    },
+    {
+      "personId": 12671,
+      "name": "Faye Wong",
+      "character": "Faye",
+      "order": 3,
+      "cast_id": 13,
+      "popularity": 3.1387,
+      "profile_path": "/bWXgNHgo8XdCgpC0F8pYViEwN3P.jpg"
+    },
+    {
+      "personId": 119875,
+      "name": "Valerie Chow",
+      "character": "Air Hostess",
+      "order": 4,
+      "cast_id": 15,
+      "popularity": 1.2211,
+      "profile_path": "/dLwGKQkaRDz5yKDRrAiFluV9Vsh.jpg"
+    },
+    {
+      "personId": 119876,
+      "name": "Piggy Chan Kam-Chuen",
+      "character": "Owner of Eatery",
+      "order": 5,
+      "cast_id": 29,
+      "popularity": 1.3259,
+      "profile_path": null
+    },
+    {
+      "personId": 119877,
+      "name": "Kwan Lee-Na",
+      "character": "May",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 1.8727,
+      "profile_path": "/urn0b8TvUFKfZc1DSH10nPnvyeQ.jpg"
+    },
+    {
+      "personId": 1407506,
+      "name": "Leung San",
+      "character": "K Store Clerk",
+      "order": 7,
+      "cast_id": 31,
+      "popularity": 0.4066,
+      "profile_path": null
+    },
+    {
+      "personId": 4015733,
+      "name": "Zhiming Huang",
+      "character": "Man",
+      "order": 8,
+      "cast_id": 43,
+      "popularity": 0.2229,
+      "profile_path": null
+    },
+    {
+      "personId": 4015734,
+      "name": "Liang Zhen",
+      "character": "The 2nd May",
+      "order": 9,
+      "cast_id": 44,
+      "popularity": 0.0718,
+      "profile_path": null
+    },
+    {
+      "personId": 208316,
+      "name": "Vickie Eng",
+      "character": "Bar Maid (uncredited)",
+      "order": 10,
+      "cast_id": 27,
+      "popularity": 1.3287,
+      "profile_path": "/av58UfVqzkkRNOZ6GIcWdcD8ugl.jpg"
+    },
+    {
+      "personId": 68560,
+      "name": "Lynne Langdon",
+      "character": "Complaining Customer (uncredited)",
+      "order": 11,
+      "cast_id": 28,
+      "popularity": 0.5578,
+      "profile_path": "/x9CCNnDQonSvhPwECrTdIL2c1j6.jpg"
+    },
+    {
+      "personId": 1074683,
+      "name": "Thom Baker",
+      "character": "Drug Dealer (uncredited)",
+      "order": 12,
+      "cast_id": 40,
+      "popularity": 0.2152,
+      "profile_path": null
+    },
+    {
+      "personId": 1591060,
+      "name": "Joh Chung-Sing Rico",
+      "character": "Man (uncredited)",
+      "order": 13,
+      "cast_id": 47,
+      "popularity": 1.645,
+      "profile_path": "/6tvypNRr4lC4yYd1FWVLLSAZhMo.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 12453,
+      "name": "Wong Kar-Wai",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 3.1809,
+      "profile_path": "/wjNI9KM9qJSYZHxkjD4Pm81kfc4.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3391,
+      "name": "drug smuggling"
+    },
+    {
+      "id": 6149,
+      "name": "police"
+    },
+    {
+      "id": 1595,
+      "name": "ex-girlfriend"
+    },
+    {
+      "id": 5490,
+      "name": "girlfriend"
+    },
+    {
+      "id": 6618,
+      "name": "snack bar"
+    },
+    {
+      "id": 9840,
+      "name": "romance"
+    },
+    {
+      "id": 12354,
+      "name": "hong kong"
+    },
+    {
+      "id": 185265,
+      "name": "expiration date"
+    },
+    {
+      "id": 185266,
+      "name": "flight attendant"
+    },
+    {
+      "id": 229524,
+      "name": "cleaning"
+    },
+    {
+      "id": 267876,
+      "name": "relaxed"
+    },
+    {
+      "id": 320420,
+      "name": "hilarious"
+    },
+    {
+      "id": 324429,
+      "name": "romantic"
+    },
+    {
+      "id": 325832,
+      "name": "joyful"
+    }
+  ]
+}

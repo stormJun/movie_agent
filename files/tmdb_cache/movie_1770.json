@@ -1,0 +1,293 @@
+{
+  "overview": "Michael Collins plays a crucial role in the establishment of the Irish Free State in the 1920s, but becomes vilified by those hoping to create a completely independent Irish republic.",
+  "release_date": "1996-10-25",
+  "runtime": 132,
+  "budget": 25000000,
+  "revenue": 16900000,
+  "tmdb_vote_average": 6.9,
+  "tmdb_vote_count": 503,
+  "tmdb_popularity": 4.0685,
+  "original_language": "en",
+  "poster_path": "/brIBbU6t9glEGAKRTJ4PMj9OiDC.jpg",
+  "backdrop_path": "/hZQE3YIoajSFtqkvSZCTnvISIMl.jpg",
+  "tmdb_genres_raw": [
+    "War",
+    "Drama",
+    "Thriller",
+    "History"
+  ],
+  "production_companies": [
+    {
+      "id": 360,
+      "name": "Geffen Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1898,
+      "name": "Fís Éireann/Screen Ireland",
+      "origin_country": "IE"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "IE",
+      "name": "Ireland"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3896,
+      "name": "Liam Neeson",
+      "character": "Michael Collins",
+      "order": 0,
+      "cast_id": 17,
+      "popularity": 11.8885,
+      "profile_path": "/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg"
+    },
+    {
+      "personId": 18992,
+      "name": "Aidan Quinn",
+      "character": "Harry Roland",
+      "order": 1,
+      "cast_id": 19,
+      "popularity": 2.4949,
+      "profile_path": "/viUuUmhiGdsfoQh0IpO5N312qNd.jpg"
+    },
+    {
+      "personId": 9029,
+      "name": "Stephen Rea",
+      "character": "Ned Broy",
+      "order": 2,
+      "cast_id": 20,
+      "popularity": 2.1574,
+      "profile_path": "/n52WDwObYghPTfV1TZ1EOVIWUGS.jpg"
+    },
+    {
+      "personId": 4566,
+      "name": "Alan Rickman",
+      "character": "Eamon de Valera",
+      "order": 3,
+      "cast_id": 16,
+      "popularity": 3.5569,
+      "profile_path": "/1EearzPgXkmYFKvECfWNrctIFT9.jpg"
+    },
+    {
+      "personId": 1204,
+      "name": "Julia Roberts",
+      "character": "Kitty Kiernan",
+      "order": 4,
+      "cast_id": 18,
+      "popularity": 7.8361,
+      "profile_path": "/h13yvG0tRNMTAwciQXxYmQWdYW8.jpg"
+    },
+    {
+      "personId": 10985,
+      "name": "Ian Hart",
+      "character": "Joe O'Reilly",
+      "order": 5,
+      "cast_id": 21,
+      "popularity": 1.9299,
+      "profile_path": "/xMC8aPDwhEZcjRHEFcgytSr3BzM.jpg"
+    },
+    {
+      "personId": 2039,
+      "name": "Brendan Gleeson",
+      "character": "Liam Tobin",
+      "order": 6,
+      "cast_id": 22,
+      "popularity": 5.991,
+      "profile_path": "/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg"
+    },
+    {
+      "personId": 18993,
+      "name": "Stuart Graham",
+      "character": "Tom Cullen",
+      "order": 7,
+      "cast_id": 23,
+      "popularity": 1.6505,
+      "profile_path": "/kLmI6avVGCNGXeW7M7o1lT5fAyD.jpg"
+    },
+    {
+      "personId": 2468,
+      "name": "Sean McGinley",
+      "character": "Smith",
+      "order": 8,
+      "cast_id": 28,
+      "popularity": 1.8004,
+      "profile_path": "/6dNAreBr5Egv3vVLEtCqJuyjDG9.jpg"
+    },
+    {
+      "personId": 43131,
+      "name": "Gerard McSorley",
+      "character": "Cathal Brugha",
+      "order": 9,
+      "cast_id": 34,
+      "popularity": 1.5831,
+      "profile_path": "/8lrwOpnfwbNLbBzFvEj0t47aELy.jpg"
+    },
+    {
+      "personId": 1244,
+      "name": "Jonathan Rhys Meyers",
+      "character": "Collin's Assassin",
+      "order": 10,
+      "cast_id": 39,
+      "popularity": 5.4755,
+      "profile_path": "/RsrGA98aMmyjTTxTLhAaOqnfLz.jpg"
+    },
+    {
+      "personId": 4391,
+      "name": "Charles Dance",
+      "character": "Soames",
+      "order": 11,
+      "cast_id": 37,
+      "popularity": 5.1723,
+      "profile_path": "/3xHwq5lchAI6mfW0aGQOEijexv6.jpg"
+    },
+    {
+      "personId": 3665076,
+      "name": "Richard Ingram",
+      "character": "British Officer",
+      "order": 12,
+      "cast_id": 76,
+      "popularity": 0.1065,
+      "profile_path": null
+    },
+    {
+      "personId": 3665078,
+      "name": "John Kenny",
+      "character": "Patrick Pearse",
+      "order": 13,
+      "cast_id": 77,
+      "popularity": 0.2085,
+      "profile_path": null
+    },
+    {
+      "personId": 3665079,
+      "name": "Ronan McCairbre",
+      "character": "Thomas MacDonagh",
+      "order": 14,
+      "cast_id": 78,
+      "popularity": 0.1674,
+      "profile_path": null
+    },
+    {
+      "personId": 549342,
+      "name": "Jer O'Leary",
+      "character": "Thomas Clarke",
+      "order": 15,
+      "cast_id": 79,
+      "popularity": 1.6576,
+      "profile_path": "/AbYoIkDvLJLRnrF3jeuKniZozJB.jpg"
+    },
+    {
+      "personId": 18995,
+      "name": "Mike Dwyer",
+      "character": "James Connolly",
+      "order": 16,
+      "cast_id": 80,
+      "popularity": 0.289,
+      "profile_path": "/fmylyTdM9J34tXxCulfMIqsA9fN.jpg"
+    },
+    {
+      "personId": 1333582,
+      "name": "Martin Murphy",
+      "character": "Captain Lee-Wilson",
+      "order": 17,
+      "cast_id": 81,
+      "popularity": 1.3778,
+      "profile_path": "/e471NdDFTykIYdbbXkMHgDHX3Dz.jpg"
+    },
+    {
+      "personId": 17203,
+      "name": "Gary Whelan",
+      "character": "Hoey",
+      "order": 18,
+      "cast_id": 82,
+      "popularity": 1.706,
+      "profile_path": "/umZRMjGWntACxfPUvj4xAmSnyIh.jpg"
+    },
+    {
+      "personId": 1189010,
+      "name": "Frank O'Sullivan",
+      "character": "Kavanagh",
+      "order": 19,
+      "cast_id": 83,
+      "popularity": 1.2464,
+      "profile_path": "/4qBatLqjRMmcdFzNrMBcAQWagFo.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 17016,
+      "name": "Neil Jordan",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7841,
+      "profile_path": "/uZ7CvCLTKb9qxjU4VsTNeyMRucd.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 393,
+      "name": "civil war"
+    },
+    {
+      "id": 1721,
+      "name": "fight"
+    },
+    {
+      "id": 2946,
+      "name": "presidential election"
+    },
+    {
+      "id": 3538,
+      "name": "freedom fighter"
+    },
+    {
+      "id": 5565,
+      "name": "biography"
+    },
+    {
+      "id": 14985,
+      "name": "ireland"
+    },
+    {
+      "id": 154787,
+      "name": "irish easter rebellion (1916)"
+    },
+    {
+      "id": 207876,
+      "name": "1920s"
+    },
+    {
+      "id": 246738,
+      "name": "assination"
+    },
+    {
+      "id": 273371,
+      "name": "irish history"
+    },
+    {
+      "id": 299594,
+      "name": "irish"
+    },
+    {
+      "id": 340549,
+      "name": "assassinated"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "overview": "Based on Gila Almagor’s autobiographical book, Under the Domim Tree follows a group of teenagers who survived the Holocaust in a boarding school in the early 50s. During the day, they are like all other adolescents, but at night they struggle with their painful memories. The place where they feel secure is under the Domim tree.",
+  "release_date": "1994-01-01",
+  "runtime": 102,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.3,
+  "tmdb_vote_count": 7,
+  "tmdb_popularity": 0.6473,
+  "original_language": "he",
+  "poster_path": "/tjdP7TUOyUdlSialMmdnpDp9PZK.jpg",
+  "backdrop_path": "/iAWyntkK3LvHXkpmwNhPmu4qHMs.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [],
+  "production_countries": [
+    {
+      "code": "IL",
+      "name": "Israel"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "he",
+      "name": "עִבְרִית"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8787,
+      "name": "Gila Almagor",
+      "character": "Henya Aleksandrowicz",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 1.4724,
+      "profile_path": "/w5X2yS6tgVVbYUwRjFenWeN25I3.jpg"
+    },
+    {
+      "personId": 2605692,
+      "name": "Kaipu Cohen",
+      "character": "Aviya Aleksandrowicz",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 0.1933,
+      "profile_path": null
+    },
+    {
+      "personId": 1066798,
+      "name": "Juliano Mer-Khamis",
+      "character": "Ariel",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 1.4521,
+      "profile_path": "/kgxwoXffcI7TAyASeyGWDtDM3Iu.jpg"
+    },
+    {
+      "personId": 4009309,
+      "name": "Yael Pearl",
+      "character": "Mrs. Segal",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 0.4,
+      "profile_path": null
+    },
+    {
+      "personId": 1107346,
+      "name": "Alexander Peleg",
+      "character": "Judge",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 2.2072,
+      "profile_path": null
+    },
+    {
+      "personId": 1466055,
+      "name": "Ohad Shahar",
+      "character": "Lawyer Kaplan",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 0.1243,
+      "profile_path": null
+    },
+    {
+      "personId": 4009313,
+      "name": "Tali Atzmon",
+      "character": "Lawyer Ofra Eilam",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 0.1322,
+      "profile_path": null
+    },
+    {
+      "personId": 4009315,
+      "name": "Shimon Lev-Ari",
+      "character": "Naphtali",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 0.275,
+      "profile_path": null
+    },
+    {
+      "personId": 82097,
+      "name": "Ohad Knoller",
+      "character": "Yurek",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 0.9341,
+      "profile_path": "/h5g16mN4MeVSZOAYx4chWDUDuYL.jpg"
+    },
+    {
+      "personId": 1381817,
+      "name": "Riki Blich",
+      "character": "Mira",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 0.5983,
+      "profile_path": "/yQJBiNHCbSvgumJo8jDCn2DMo0W.jpg"
+    },
+    {
+      "personId": 583801,
+      "name": "Orli Perl",
+      "character": "Yola",
+      "order": 10,
+      "cast_id": 13,
+      "popularity": 0.4844,
+      "profile_path": null
+    },
+    {
+      "personId": 1317875,
+      "name": "Uri Avrahami",
+      "character": "Mr. Segal",
+      "order": 11,
+      "cast_id": 14,
+      "popularity": 1.1075,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 585248,
+      "name": "Eli Cohen",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6651,
+      "profile_path": null
+    }
+  ],
+  "keywords": []
+}

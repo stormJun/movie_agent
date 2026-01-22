@@ -1,0 +1,190 @@
+{
+  "overview": "Set in modern times, Alex finds King Arthur's sword Excalibur and must prove himself worthy of it.",
+  "release_date": "1995-12-15",
+  "runtime": 89,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 4.4,
+  "tmdb_vote_count": 7,
+  "tmdb_popularity": 0.214,
+  "original_language": "en",
+  "poster_path": "/1y8KAZOKrdmTI2sddcilcbRsMtI.jpg",
+  "backdrop_path": "/81iQJJ7nb4bVjDEps3O3Mmb1fmJ.jpg",
+  "tmdb_genres_raw": [
+    "Family",
+    "Fantasy",
+    "Comedy",
+    "Adventure"
+  ],
+  "production_companies": [
+    {
+      "id": 10260,
+      "name": "Melenny Productions",
+      "origin_country": "CA"
+    },
+    {
+      "id": 806,
+      "name": "Téléfilm Canada",
+      "origin_country": "CA"
+    },
+    {
+      "id": 18218,
+      "name": "Malofilm Communications Inc.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 198643,
+      "name": "Johnny Morina",
+      "character": "Alex Cole",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.1814,
+      "profile_path": "/aCkyW20QjhzJGXTF1Bgb6IZ8Wyr.jpg"
+    },
+    {
+      "personId": 56890,
+      "name": "Malcolm McDowell",
+      "character": "Merlin",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 4.4296,
+      "profile_path": "/hL8ep4Hqj6izX7IlzE7Bbcfq62w.jpg"
+    },
+    {
+      "personId": 41743,
+      "name": "Maggie Castle",
+      "character": "Jenny",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.5398,
+      "profile_path": "/qZzd4YiOgfN9rQBsf2zESK49vt7.jpg"
+    },
+    {
+      "personId": 1569328,
+      "name": "James Rae",
+      "character": "Sheriff Ferguson",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.1894,
+      "profile_path": "/hVMuelTiTsy7vScuAir2sEuvtSx.jpg"
+    },
+    {
+      "personId": 11086,
+      "name": "Michael Ironside",
+      "character": "Butch Scarsdale",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 2.5555,
+      "profile_path": "/mzHmxtKcMJjDqWxKd67mKQJFW1B.jpg"
+    },
+    {
+      "personId": 3021294,
+      "name": "Justin Borntraeger",
+      "character": "James 'Scar' Scarsdale",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 0.7202,
+      "profile_path": null
+    },
+    {
+      "personId": 3021305,
+      "name": "Billy Coyle",
+      "character": "Ronnie",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 0.2102,
+      "profile_path": null
+    },
+    {
+      "personId": 30607,
+      "name": "Jamieson Boulanger",
+      "character": "Luke",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 1.2935,
+      "profile_path": null
+    },
+    {
+      "personId": 3021317,
+      "name": "Jeoffrey Graves",
+      "character": "Buck",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 0.0934,
+      "profile_path": null
+    },
+    {
+      "personId": 3021322,
+      "name": "Christopher Olscamp",
+      "character": "Norman",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 0.0143,
+      "profile_path": null
+    },
+    {
+      "personId": 1217850,
+      "name": "Michael Yarmush",
+      "character": "Kid of the Round Table (uncredited)",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 0.7708,
+      "profile_path": "/q2KNjKxABx5Yqv66jzIi7TydDwS.jpg"
+    },
+    {
+      "personId": 73159,
+      "name": "Melissa Altro",
+      "character": "Heather",
+      "order": 11,
+      "cast_id": 23,
+      "popularity": 0.5547,
+      "profile_path": "/hW3NYUu64UvFoA08ZA8GxqoarSc.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 30586,
+      "name": "Robert Tinnell",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.3036,
+      "profile_path": "/sp3EIovxGmw2zRmJfXL6YqoeqdU.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1938,
+      "name": "sword"
+    },
+    {
+      "id": 10982,
+      "name": "king arthur"
+    },
+    {
+      "id": 177128,
+      "name": "excalibur"
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "overview": "After his father's death, a young boy finds solace in action movies featuring an indestructible cop. Given a magic ticket by a theater manager, he is transported into the film and teams up with the cop to stop a villain who escapes into the real world.",
+  "release_date": "1993-06-18",
+  "runtime": 131,
+  "budget": 85000000,
+  "revenue": 137300000,
+  "tmdb_vote_average": 6.473,
+  "tmdb_vote_count": 2894,
+  "tmdb_popularity": 4.9983,
+  "original_language": "en",
+  "poster_path": "/vkhEaWAv5j3qgrOGp3BgMeiYPKj.jpg",
+  "backdrop_path": "/neVhDxYVsmMMSuhXpHMT3LMK9f.jpg",
+  "tmdb_genres_raw": [
+    "Adventure",
+    "Fantasy",
+    "Action",
+    "Comedy",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 55528,
+      "name": "Oak Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1100,
+      "name": "Arnold Schwarzenegger",
+      "character": "Jack Slater / Self",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 5.4331,
+      "profile_path": "/2marNcjIfCUE5Z2HyrcEiJHPbsA.jpg"
+    },
+    {
+      "personId": 58119,
+      "name": "Austin O'Brien",
+      "character": "Danny Madigan",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 1.8865,
+      "profile_path": "/IQypQEGa3HNv5Eg5PxcKt3BnaL.jpg"
+    },
+    {
+      "personId": 20751,
+      "name": "Bridgette Wilson-Sampras",
+      "character": "Whitney / Meredith",
+      "order": 2,
+      "cast_id": 37,
+      "popularity": 2.5286,
+      "profile_path": "/zq6uzzL87CtfgxD4G3bLTcgUUTe.jpg"
+    },
+    {
+      "personId": 1164,
+      "name": "F. Murray Abraham",
+      "character": "John Practice",
+      "order": 3,
+      "cast_id": 2,
+      "popularity": 4.0198,
+      "profile_path": "/p2RYVGdrcP0m70BkkiKcwyrDeim.jpg"
+    },
+    {
+      "personId": 40176,
+      "name": "Art Carney",
+      "character": "Frank",
+      "order": 4,
+      "cast_id": 4,
+      "popularity": 1.5018,
+      "profile_path": "/dXuApUbw2Wlfj5jg3Qv4PwCanR6.jpg"
+    },
+    {
+      "personId": 4391,
+      "name": "Charles Dance",
+      "character": "Benedict",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 5.1723,
+      "profile_path": "/3xHwq5lchAI6mfW0aGQOEijexv6.jpg"
+    },
+    {
+      "personId": 1735,
+      "name": "Frank McRae",
+      "character": "Lieutenant Dekker",
+      "order": 6,
+      "cast_id": 19,
+      "popularity": 1.6531,
+      "profile_path": "/5aGo82fuwSs1k9ZQckvdFGLjqPE.jpg"
+    },
+    {
+      "personId": 119232,
+      "name": "Tom Noonan",
+      "character": "Ripper / Tommy Noonan",
+      "order": 7,
+      "cast_id": 38,
+      "popularity": 2.1175,
+      "profile_path": "/8cwl9gaCr0F0yJ518nc6baebPLL.jpg"
+    },
+    {
+      "personId": 10360,
+      "name": "Robert Prosky",
+      "character": "Nick",
+      "order": 8,
+      "cast_id": 41,
+      "popularity": 1.8699,
+      "profile_path": "/yV95RE8UGyN8rZYF9W4fOGaAV6U.jpg"
+    },
+    {
+      "personId": 5401,
+      "name": "Anthony Quinn",
+      "character": "Tony Vivaldi",
+      "order": 9,
+      "cast_id": 5,
+      "popularity": 2.1729,
+      "profile_path": "/aBxjWWvZR63rTQfrtBPiI0CbGKA.jpg"
+    },
+    {
+      "personId": 2167,
+      "name": "Mercedes Ruehl",
+      "character": "Irene Madigan",
+      "order": 10,
+      "cast_id": 20,
+      "popularity": 1.7319,
+      "profile_path": "/8GUgm1Xcsb6LJgNugQEQCOpx5Su.jpg"
+    },
+    {
+      "personId": 1327,
+      "name": "Ian McKellen",
+      "character": "Death",
+      "order": 11,
+      "cast_id": 6,
+      "popularity": 5.9185,
+      "profile_path": "/coWjgMEYJjk2OrNddlXCBm8EIr3.jpg"
+    },
+    {
+      "personId": 13006,
+      "name": "Professor Toru Tanaka",
+      "character": "Tough Asian Man",
+      "order": 12,
+      "cast_id": 176,
+      "popularity": 0.9199,
+      "profile_path": null
+    },
+    {
+      "personId": 23709,
+      "name": "Joan Plowright",
+      "character": "Teacher",
+      "order": 13,
+      "cast_id": 22,
+      "popularity": 1.3788,
+      "profile_path": "/un5wsOnz22Rvl82niE0LGAVxggQ.jpg"
+    },
+    {
+      "personId": 21725,
+      "name": "Keith Barish",
+      "character": "Self",
+      "order": 14,
+      "cast_id": 177,
+      "popularity": 0.3953,
+      "profile_path": null
+    },
+    {
+      "personId": 26485,
+      "name": "Jim Belushi",
+      "character": "James Belushi",
+      "order": 15,
+      "cast_id": 40,
+      "popularity": 3.5599,
+      "profile_path": "/7XhuV2ovoy01xxsegxzUGHjgUqw.jpg"
+    },
+    {
+      "personId": 54812,
+      "name": "Chevy Chase",
+      "character": "Self",
+      "order": 16,
+      "cast_id": 39,
+      "popularity": 3.8436,
+      "profile_path": "/xmAcHXakDi0elKsCl2sRjtobQnx.jpg"
+    },
+    {
+      "personId": 124368,
+      "name": "Chris Connelly",
+      "character": "Self",
+      "order": 17,
+      "cast_id": 219,
+      "popularity": 0.4627,
+      "profile_path": "/4iK7NcWYzeX4MaSQVSiRaM7VNeT.jpg"
+    },
+    {
+      "personId": 76131,
+      "name": "Karen Duffy",
+      "character": "Self",
+      "order": 18,
+      "cast_id": 178,
+      "popularity": 2.3409,
+      "profile_path": "/wDhawxKUlcgBSKy6JwwYrA7W7DU.jpg"
+    },
+    {
+      "personId": 912,
+      "name": "Larry Ferguson",
+      "character": "Self",
+      "order": 19,
+      "cast_id": 179,
+      "popularity": 1.0994,
+      "profile_path": "/yayNcvBk09eaRDwAsHoDU69OF1L.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1090,
+      "name": "John McTiernan",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.5221,
+      "profile_path": "/yVfDkVbgQHD1A7JSV8Z47EjB1mU.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1701,
+      "name": "hero"
+    },
+    {
+      "id": 2343,
+      "name": "magic"
+    },
+    {
+      "id": 3289,
+      "name": "villain"
+    },
+    {
+      "id": 10656,
+      "name": "child in peril"
+    },
+    {
+      "id": 9732,
+      "name": "film in film"
+    },
+    {
+      "id": 11687,
+      "name": "breaking the fourth wall"
+    },
+    {
+      "id": 11931,
+      "name": "spoof"
+    },
+    {
+      "id": 15252,
+      "name": "magical object"
+    },
+    {
+      "id": 15284,
+      "name": "cartoon cat"
+    },
+    {
+      "id": 48711,
+      "name": "ticket"
+    },
+    {
+      "id": 160612,
+      "name": "self-referential"
+    },
+    {
+      "id": 161849,
+      "name": "projectionist"
+    },
+    {
+      "id": 161868,
+      "name": "child's point of view"
+    },
+    {
+      "id": 219404,
+      "name": "action hero"
+    },
+    {
+      "id": 269233,
+      "name": "good versus evil"
+    }
+  ]
+}

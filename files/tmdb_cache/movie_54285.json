@@ -1,0 +1,135 @@
+{
+  "overview": "Two obsessive-compulsives, a chef and an anorexic writer, are neighbors in an apartment building. The chef (301) tries to entice her neighbor to eat with fabulous meals. The writer (302) refuses to eat, and this refusal begins a turbulent relationship that forces both women to delve into their pasts of torment.",
+  "release_date": "1995-04-22",
+  "runtime": 100,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.0,
+  "tmdb_vote_count": 32,
+  "tmdb_popularity": 0.646,
+  "original_language": "ko",
+  "poster_path": "/7gMh5BcWebJ5qy4M1529FjmK94H.jpg",
+  "backdrop_path": "/8ZNGbL8dLdyXmmEdIwwMzy2eOqS.jpg",
+  "tmdb_genres_raw": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 6636,
+      "name": "Park Cheol-su Films",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 150127,
+      "name": "Pang Eun-jin",
+      "character": "Song-hee",
+      "order": 0,
+      "cast_id": 1004,
+      "popularity": 1.417,
+      "profile_path": "/lOZRwcO5HezyxLjYqCS3DwFLH0Z.jpg"
+    },
+    {
+      "personId": 1145025,
+      "name": "Hwang Shin-hye",
+      "character": "Yun-hee",
+      "order": 1,
+      "cast_id": 1006,
+      "popularity": 1.3205,
+      "profile_path": "/qNfBffDdgEqu9AdfLKaGp7gBoSM.jpg"
+    },
+    {
+      "personId": 1386703,
+      "name": "Kim Chu-ryeon",
+      "character": "Investigator",
+      "order": 2,
+      "cast_id": 1005,
+      "popularity": 1.4234,
+      "profile_path": "/llgxJw4LRGgByjdwIdoYUxkemIn.jpg"
+    },
+    {
+      "personId": 554825,
+      "name": "Park Cheol-ho",
+      "character": "Kang Joon-shik",
+      "order": 3,
+      "cast_id": 1007,
+      "popularity": 0.4286,
+      "profile_path": null
+    },
+    {
+      "personId": 1554866,
+      "name": "Jung Yoo-jin",
+      "character": "Oh Rin-yi",
+      "order": 4,
+      "cast_id": 1015,
+      "popularity": 1.1977,
+      "profile_path": "/iiY8UUU93EjutlfRrTZTPm566d6.jpg"
+    },
+    {
+      "personId": 4809048,
+      "name": "Jae Young",
+      "character": "Father",
+      "order": 5,
+      "cast_id": 1017,
+      "popularity": 0.7629,
+      "profile_path": null
+    },
+    {
+      "personId": 3718528,
+      "name": "Park Young-rok",
+      "character": "Detective",
+      "order": 6,
+      "cast_id": 1018,
+      "popularity": 0.5775,
+      "profile_path": null
+    },
+    {
+      "personId": 1573923,
+      "name": "Lee Ji-yeon",
+      "character": "Yoon-hee",
+      "order": 7,
+      "cast_id": 1019,
+      "popularity": 1.5701,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 105617,
+      "name": "Park Cheol-su",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.2376,
+      "profile_path": "/8z4YLqJo9S5aPKKb5goiIhy8ryG.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 10226,
+      "name": "neighbor"
+    },
+    {
+      "id": 18293,
+      "name": "chef"
+    },
+    {
+      "id": 208678,
+      "name": "anorexic"
+    }
+  ]
+}

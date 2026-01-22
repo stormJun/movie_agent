@@ -1,0 +1,289 @@
+{
+  "overview": "The story of five teenage girls who form an unlikely bond after beating up a teacher who has sexually harassed them. They build a solid friendship but their wild ways begin to get out of control.",
+  "release_date": "1996-08-23",
+  "runtime": 102,
+  "budget": 0,
+  "revenue": 258263,
+  "tmdb_vote_average": 5.976,
+  "tmdb_vote_count": 144,
+  "tmdb_popularity": 3.7812,
+  "original_language": "en",
+  "poster_path": "/ywrSScJT43HerqWPlMu8nigLFzg.jpg",
+  "backdrop_path": "/i2WrfAiK3o5NjqdM7XZKTrwil6m.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 11661,
+      "name": "Rysher Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 26192,
+      "name": "Chestnut Hill Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 24827,
+      "name": "Red Mullet",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 41558,
+      "name": "Hedy Burress",
+      "character": "Maddy Wirtz",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 1.4942,
+      "profile_path": "/8N4X01ENb7how6pXQ0qjFAYUgrB.jpg"
+    },
+    {
+      "personId": 11701,
+      "name": "Angelina Jolie",
+      "character": "Legs Sadovsky",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 12.167,
+      "profile_path": "/nXA9vMvskmIDB5NqHCkTQPmemep.jpg"
+    },
+    {
+      "personId": 91415,
+      "name": "Jenny Lewis",
+      "character": "Rita Faldes",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 1.1079,
+      "profile_path": "/dwE0XBFKBvu85bSR4xjQpefkWhP.jpg"
+    },
+    {
+      "personId": 119311,
+      "name": "Jenny Shimizu",
+      "character": "Goldie Goldman",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 0.9352,
+      "profile_path": "/eC2IoSD6qP3uJ0UIgpAaM7aPOKf.jpg"
+    },
+    {
+      "personId": 119312,
+      "name": "Sarah Rosenberg",
+      "character": "Violet Kahn",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 0.7002,
+      "profile_path": null
+    },
+    {
+      "personId": 56857,
+      "name": "Peter Facinelli",
+      "character": "Ethan Bixby",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 3.4488,
+      "profile_path": "/mmha3A5INmromiCsN8FBSLScVpZ.jpg"
+    },
+    {
+      "personId": 6066,
+      "name": "Dash Mihok",
+      "character": "Dana Taylor",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 2.8597,
+      "profile_path": "/jnruNUJv57nNtO66SR3oJ5tQuM5.jpg"
+    },
+    {
+      "personId": 154481,
+      "name": "Michelle Brookhurst",
+      "character": "Cindy",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 0.4946,
+      "profile_path": "/zenmixb7HasrJ4T0c7EBlmPIG3.jpg"
+    },
+    {
+      "personId": 20220,
+      "name": "Elden Henson",
+      "character": "Bobby",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 1.7437,
+      "profile_path": "/8U5g30U76UJe0erbJdWjGLVz7NF.jpg"
+    },
+    {
+      "personId": 14702,
+      "name": "Cathy Moriarty",
+      "character": "Martha Wirtz",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 1.5411,
+      "profile_path": "/g5pXUDGH30egsCq9eTDrsikFAYk.jpg"
+    },
+    {
+      "personId": 6679,
+      "name": "Richard Beymer",
+      "character": "Mr. Parks",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 1.7232,
+      "profile_path": "/AngPwmylRbDFLB86vKRVlHwGOEd.jpg"
+    },
+    {
+      "personId": 1212018,
+      "name": "Fran Bennett",
+      "character": "Judge Holifield",
+      "order": 11,
+      "cast_id": 45,
+      "popularity": 1.501,
+      "profile_path": "/hMEnWBn8SctR3njFsagqSMPrc9U.jpg"
+    },
+    {
+      "personId": 4942,
+      "name": "John Diehl",
+      "character": "Mr. Buttinger",
+      "order": 12,
+      "cast_id": 15,
+      "popularity": 1.7809,
+      "profile_path": "/fSaOexgc31Xmp4koMu0HvlkJMr4.jpg"
+    },
+    {
+      "personId": 15824,
+      "name": "Chris Mulkey",
+      "character": "Dan Goldman",
+      "order": 13,
+      "cast_id": 20,
+      "popularity": 1.996,
+      "profile_path": "/fNsKtr9iTSEFoHknI6dJm0hC6qH.jpg"
+    },
+    {
+      "personId": 41557,
+      "name": "Ever Carradine",
+      "character": "Girl in Print Shop",
+      "order": 14,
+      "cast_id": 16,
+      "popularity": 1.64,
+      "profile_path": "/fL23W2vjdaVS91s9c6AKjvB94aW.jpg"
+    },
+    {
+      "personId": 42547,
+      "name": "Jay Acovone",
+      "character": "Chuck",
+      "order": 15,
+      "cast_id": 56,
+      "popularity": 2.1207,
+      "profile_path": "/ltaJoC5NUsE97f3GuP3d7BkANKJ.jpg"
+    },
+    {
+      "personId": 3346310,
+      "name": "Arwen Carter",
+      "character": "Leaflet Girl",
+      "order": 16,
+      "cast_id": 57,
+      "popularity": 0.2169,
+      "profile_path": null
+    },
+    {
+      "personId": 141384,
+      "name": "María Celedonio",
+      "character": "Zoe",
+      "order": 17,
+      "cast_id": 58,
+      "popularity": 0.8922,
+      "profile_path": "/wU8pPR8giJJpoTen5gHyN3vjT4X.jpg"
+    },
+    {
+      "personId": 950306,
+      "name": "Raissa Fleming",
+      "character": "Rita's Mom",
+      "order": 18,
+      "cast_id": 59,
+      "popularity": 0.3003,
+      "profile_path": null
+    },
+    {
+      "personId": 3346375,
+      "name": "T.J. Galash",
+      "character": "Teenage Boy",
+      "order": 19,
+      "cast_id": 60,
+      "popularity": 0.0637,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 119310,
+      "name": "Annette Haywood-Carter",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.1685,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 378,
+      "name": "prison"
+    },
+    {
+      "id": 6270,
+      "name": "high school"
+    },
+    {
+      "id": 6054,
+      "name": "friendship"
+    },
+    {
+      "id": 331,
+      "name": "tattoo"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 1721,
+      "name": "fight"
+    },
+    {
+      "id": 1562,
+      "name": "hostage"
+    },
+    {
+      "id": 2539,
+      "name": "harassment"
+    },
+    {
+      "id": 10508,
+      "name": "teacher"
+    },
+    {
+      "id": 10809,
+      "name": "teenage girl"
+    },
+    {
+      "id": 14964,
+      "name": "drugs"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    }
+  ]
+}

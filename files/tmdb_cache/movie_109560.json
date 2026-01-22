@@ -1,0 +1,248 @@
+{
+  "overview": "Allegedly based on a true story, this film follows the life of Toshi, a Japanese man living in America and working with the New York City police. After being recommended for undercover work, Toshi decides to go after a gang lead by Hawk. Hawk and Toshi soon become friends, although Hawk's second-in-command, Tito, is suspicious of the newcomer. Will Toshi be able to bring the gang down, or will his cover be blown before he can finish the assignment?",
+  "release_date": "1993-08-14",
+  "runtime": 88,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 2.813,
+  "tmdb_vote_count": 9,
+  "tmdb_popularity": 0.6714,
+  "original_language": "en",
+  "poster_path": "/5kXO783UrTaKZE3wn0KZv3RubZc.jpg",
+  "backdrop_path": "/k2xYDG9bYC73DPZ643y6pnWehhL.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Thriller",
+    "Crime",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 42935,
+      "name": "Distant Justice Joint Venture",
+      "origin_country": ""
+    },
+    {
+      "id": 9221,
+      "name": "Toei Video Company",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "cn",
+      "name": "广州话 / 廣州話"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ja",
+      "name": "日本語"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 74195,
+      "name": "Toru Nakamura",
+      "character": "Toshi",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 5.5349,
+      "profile_path": "/hZuETSVRoDV5L8AuS5hKmAi6Wzr.jpg"
+    },
+    {
+      "personId": 23920,
+      "name": "Chad McQueen",
+      "character": "Hawk",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.4482,
+      "profile_path": "/wHU54LIBJwxjnNvmc6sofdiy8Bi.jpg"
+    },
+    {
+      "personId": 23931,
+      "name": "Mira Sorvino",
+      "character": "Maria",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 4.7289,
+      "profile_path": "/3CPM8yvppihiKsA1pf4x8PJe4x6.jpg"
+    },
+    {
+      "personId": 26783,
+      "name": "Conan Lee",
+      "character": "Konen Li",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.486,
+      "profile_path": "/cBTCJPSsBBQWg0VaUD2mj285gYk.jpg"
+    },
+    {
+      "personId": 43773,
+      "name": "Andreas Katsulas",
+      "character": "Ferrara",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 1.0247,
+      "profile_path": "/nUWW0rW02JEVxIvu8y0Y4W0oK41.jpg"
+    },
+    {
+      "personId": 21385,
+      "name": "Tony Sirico",
+      "character": "Mr. C",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 1.9703,
+      "profile_path": "/yiTvFhaPlVIWETNObwqB72hgNeI.jpg"
+    },
+    {
+      "personId": 72983,
+      "name": "Manny Perez",
+      "character": "Tito",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 0.8641,
+      "profile_path": "/auDXIA7COAJkgPFYlZWAvCuezRG.jpg"
+    },
+    {
+      "personId": 288,
+      "name": "Jon Seda",
+      "character": "Mario",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 2.0099,
+      "profile_path": "/4Wwgtvieu2j4f6AHqUMgnDFufa5.jpg"
+    },
+    {
+      "personId": 4438,
+      "name": "Manny Siverio",
+      "character": "Sledge",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 0.8556,
+      "profile_path": "/o75WDzTAYZYAV5nr2OeS8iOzqQW.jpg"
+    },
+    {
+      "personId": 61233,
+      "name": "Larry Romano",
+      "character": "Emilio",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 0.9574,
+      "profile_path": "/ekhIH4yOvVGPTcb28EPwALBj5Hu.jpg"
+    },
+    {
+      "personId": 134083,
+      "name": "Eric Lutes",
+      "character": "Powell",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 0.9545,
+      "profile_path": "/2BDg05USmUXaYTnLm4csTF5Sq7e.jpg"
+    },
+    {
+      "personId": 185529,
+      "name": "Theresa Lynn",
+      "character": "Babes",
+      "order": 11,
+      "cast_id": 16,
+      "popularity": 0.5598,
+      "profile_path": null
+    },
+    {
+      "personId": 1437861,
+      "name": "Cliff Cudney",
+      "character": "Man in Porno Shop",
+      "order": 12,
+      "cast_id": 17,
+      "popularity": 2.7278,
+      "profile_path": null
+    },
+    {
+      "personId": 88447,
+      "name": "Vic Noto",
+      "character": "Biker Dirty Joe",
+      "order": 13,
+      "cast_id": 18,
+      "popularity": 0.6299,
+      "profile_path": null
+    },
+    {
+      "personId": 16580,
+      "name": "George Cheung",
+      "character": "Tong",
+      "order": 14,
+      "cast_id": 19,
+      "popularity": 2.7203,
+      "profile_path": "/kUXxjH3tyxbiiTqDcqoXbuTTFGM.jpg"
+    },
+    {
+      "personId": 3172148,
+      "name": "Candace Kirkpatrick",
+      "character": "Rosie",
+      "order": 15,
+      "cast_id": 20,
+      "popularity": 0.343,
+      "profile_path": "/xyOAw5afvMoYGRF2QXLJaiU6sl1.jpg"
+    },
+    {
+      "personId": 124645,
+      "name": "Chad L. Coleman",
+      "character": "Iceman",
+      "order": 16,
+      "cast_id": 21,
+      "popularity": 1.6864,
+      "profile_path": "/lXcBz0qt4L767WqkTxl96RFTZvz.jpg"
+    },
+    {
+      "personId": 65141,
+      "name": "Laurence Mason",
+      "character": "",
+      "order": 17,
+      "cast_id": 22,
+      "popularity": 1.3078,
+      "profile_path": "/9QCYSKak0Zw6G5yAgGQPOnlOc7I.jpg"
+    },
+    {
+      "personId": 1169885,
+      "name": "Vito Antuofermo",
+      "character": "",
+      "order": 18,
+      "cast_id": 23,
+      "popularity": 1.0529,
+      "profile_path": "/i069XiMberhfIxFit8EfTxMirTJ.jpg"
+    },
+    {
+      "personId": 131264,
+      "name": "Christine Romeo",
+      "character": "",
+      "order": 19,
+      "cast_id": 24,
+      "popularity": 0.7277,
+      "profile_path": "/dn8S2TeEQQtebBhU0MRX2YxDRC4.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 129957,
+      "name": "Tōru Murakawa",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7821,
+      "profile_path": "/v0LokyF1reI9n4tEwxUpgOw9nq8.jpg"
+    }
+  ],
+  "keywords": []
+}

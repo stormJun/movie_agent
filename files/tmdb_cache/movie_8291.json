@@ -1,0 +1,286 @@
+{
+  "overview": "Still grieving after the murder of her boyfriend, hairdresser Justice writes poetry to deal with the pain of her loss. Unable to get to Oakland to attend a convention because of her broken-down car, Justice gets a lift with her friend, Iesha, and Iesha's postal worker boyfriend, Chicago. Along for the ride is Chicago's co-worker, Lucky, to whom Justice grows close after some initial problems. But is she ready to open her heart again?",
+  "release_date": "1993-07-23",
+  "runtime": 109,
+  "budget": 14000000,
+  "revenue": 27515786,
+  "tmdb_vote_average": 6.799,
+  "tmdb_vote_count": 268,
+  "tmdb_popularity": 1.9535,
+  "original_language": "en",
+  "poster_path": "/fOtMHxhYaCQcu3dwWpg7lz4Bqo0.jpg",
+  "backdrop_path": "/lNvlerKoYwboltmK7hQfgxsYtNP.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 54421,
+      "name": "Janet Jackson",
+      "character": "Justice",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.6026,
+      "profile_path": "/qNUFuXg10cH7n1ggFgOaLbjBglg.jpg"
+    },
+    {
+      "personId": 54422,
+      "name": "Tupac Shakur",
+      "character": "Lucky",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.333,
+      "profile_path": "/wZUpIy4ttbKbFTef0pfd1Yk0pAW.jpg"
+    },
+    {
+      "personId": 9788,
+      "name": "Regina King",
+      "character": "Iesha",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.5789,
+      "profile_path": "/fEIz0ljk9CBrp3AitM5nwjfoGVu.jpg"
+    },
+    {
+      "personId": 54423,
+      "name": "Joe Torry",
+      "character": "Chicago",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 0.9046,
+      "profile_path": "/4by7vUKB5hUpIKQkPCnIhtFcJjz.jpg"
+    },
+    {
+      "personId": 9782,
+      "name": "Tyra Ferrell",
+      "character": "Jessie",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.1276,
+      "profile_path": "/pcki5nhHD9V7gFocHGt2rgSW5T3.jpg"
+    },
+    {
+      "personId": 40377,
+      "name": "Roger Guenveur Smith",
+      "character": "Heywood",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 1.1173,
+      "profile_path": "/HN7w27Tss9HAHnqebnw6qWKk7z.jpg"
+    },
+    {
+      "personId": 54424,
+      "name": "Maya Angelou",
+      "character": "Aunt June",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 0.6796,
+      "profile_path": "/9dDY1bDRF7GnGlOEY5t9LrAdzw8.jpg"
+    },
+    {
+      "personId": 54432,
+      "name": "Dina D.",
+      "character": "Dina",
+      "order": 7,
+      "cast_id": 19,
+      "popularity": 0.9563,
+      "profile_path": null
+    },
+    {
+      "personId": 1661543,
+      "name": "Rose Weaver",
+      "character": "Aunt Audrey",
+      "order": 8,
+      "cast_id": 63,
+      "popularity": 0.3496,
+      "profile_path": "/gbvBh2JrbwMCWpfjz0IpEyIYI7y.jpg"
+    },
+    {
+      "personId": 19265,
+      "name": "Khandi Alexander",
+      "character": "Simone",
+      "order": 9,
+      "cast_id": 8,
+      "popularity": 2.0975,
+      "profile_path": "/53IjZhkaywgsM0ZkDt3GJQtY5ls.jpg"
+    },
+    {
+      "personId": 54425,
+      "name": "Ché J. Avery",
+      "character": "Thug #2",
+      "order": 10,
+      "cast_id": 11,
+      "popularity": 0.1661,
+      "profile_path": null
+    },
+    {
+      "personId": 54426,
+      "name": "Lloyd Avery II",
+      "character": "Thug #1",
+      "order": 11,
+      "cast_id": 12,
+      "popularity": 0.2774,
+      "profile_path": null
+    },
+    {
+      "personId": 54428,
+      "name": "Rico Bueno",
+      "character": "Ticket Taker",
+      "order": 12,
+      "cast_id": 14,
+      "popularity": 0.5805,
+      "profile_path": "/iM5SIP4fnJNnsRt6wi7z04vsJPB.jpg"
+    },
+    {
+      "personId": 54429,
+      "name": "Maia Campbell",
+      "character": "Shante",
+      "order": 13,
+      "cast_id": 15,
+      "popularity": 0.659,
+      "profile_path": "/wztjZbsd85qesVPKUrxLbW0i22v.jpg"
+    },
+    {
+      "personId": 54430,
+      "name": "Michael Colyar",
+      "character": "Panhandler",
+      "order": 14,
+      "cast_id": 16,
+      "popularity": 0.4116,
+      "profile_path": "/eG4ojLYkXY84hRQnfqysnZzl2H4.jpg"
+    },
+    {
+      "personId": 54431,
+      "name": "Kina Cosper",
+      "character": "Female Cousin",
+      "order": 15,
+      "cast_id": 17,
+      "popularity": 0.1779,
+      "profile_path": null
+    },
+    {
+      "personId": 9785,
+      "name": "John Cothran",
+      "character": "Uncle Earl",
+      "order": 16,
+      "cast_id": 18,
+      "popularity": 1.4721,
+      "profile_path": "/ybpI2PeHD8Dd3LFzLNimsujBq1M.jpg"
+    },
+    {
+      "personId": 54433,
+      "name": "James Deeth",
+      "character": "Helicopter Pilot",
+      "order": 17,
+      "cast_id": 20,
+      "popularity": 0.5007,
+      "profile_path": null
+    },
+    {
+      "personId": 54434,
+      "name": "Norma Donaldson",
+      "character": "Aunt May",
+      "order": 18,
+      "cast_id": 21,
+      "popularity": 0.5316,
+      "profile_path": "/r7QKoenqCefuR3MulyH7FTsVC4h.jpg"
+    },
+    {
+      "personId": 54435,
+      "name": "Kelly Joe Dugan",
+      "character": "Truck Driver",
+      "order": 19,
+      "cast_id": 22,
+      "popularity": 0.1823,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 6482,
+      "name": "John Singleton",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.3801,
+      "profile_path": "/akcugIHTLKZajrsq51uGGGzHEdv.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 697,
+      "name": "loss of loved one"
+    },
+    {
+      "id": 1647,
+      "name": "sadness"
+    },
+    {
+      "id": 7312,
+      "name": "road trip"
+    },
+    {
+      "id": 12670,
+      "name": "los angeles, california"
+    },
+    {
+      "id": 15208,
+      "name": "biting"
+    },
+    {
+      "id": 159103,
+      "name": "mourning"
+    },
+    {
+      "id": 209792,
+      "name": "candid"
+    },
+    {
+      "id": 225219,
+      "name": "reflective"
+    },
+    {
+      "id": 269808,
+      "name": "introspective"
+    },
+    {
+      "id": 281585,
+      "name": "inspirational"
+    },
+    {
+      "id": 325761,
+      "name": "admiring"
+    },
+    {
+      "id": 325808,
+      "name": "enraged"
+    },
+    {
+      "id": 338528,
+      "name": "african american romance"
+    },
+    {
+      "id": 338543,
+      "name": "african american friendship"
+    }
+  ]
+}

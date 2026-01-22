@@ -1,0 +1,241 @@
+{
+  "overview": "SIRIUS 6B, Year 2078. On a distant mining planet ravaged by a decade of war, scientists have created the perfect weapon: a blade-wielding, self-replicating race of killing devices known as Screamers designed for one purpose only -- to hunt down and destroy all enemy life forms.",
+  "release_date": "1995-09-08",
+  "runtime": 108,
+  "budget": 20000000,
+  "revenue": 5781885,
+  "tmdb_vote_average": 6.224,
+  "tmdb_vote_count": 581,
+  "tmdb_popularity": 3.5541,
+  "original_language": "en",
+  "poster_path": "/eqgBf791rMZG7ywHfObpXeMpiRf.jpg",
+  "backdrop_path": "/7LMy4tZggDRa31ycv5ccnPtLspV.jpg",
+  "tmdb_genres_raw": [
+    "Horror",
+    "Science Fiction",
+    "War"
+  ],
+  "production_companies": [
+    {
+      "id": 7958,
+      "name": "Fuji Eight Company Ltd.",
+      "origin_country": ""
+    },
+    {
+      "id": 4899,
+      "name": "Allegro Films",
+      "origin_country": "CA"
+    },
+    {
+      "id": 23096,
+      "name": "Fries Film Group",
+      "origin_country": ""
+    },
+    {
+      "id": 23097,
+      "name": "Super Ecran",
+      "origin_country": ""
+    },
+    {
+      "id": 23098,
+      "name": "Triumph Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 808,
+      "name": "The Movie Network",
+      "origin_country": "CA"
+    },
+    {
+      "id": 62765,
+      "name": "Fries Film Company",
+      "origin_country": ""
+    },
+    {
+      "id": 4078,
+      "name": "Triumph",
+      "origin_country": ""
+    },
+    {
+      "id": 404,
+      "name": "Allegro Film",
+      "origin_country": "AT"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "JP",
+      "name": "Japan"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 27811,
+      "name": "Peter Weller",
+      "character": "Colonel Hendricksson",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.0268,
+      "profile_path": "/mVRJX38zabRadVPJe0XOTObVzhp.jpg"
+    },
+    {
+      "personId": 56978,
+      "name": "Jennifer Rubin",
+      "character": "Jessica",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 0.8661,
+      "profile_path": "/vftRV5P4OQ4D9TBTmCoNDgmqyBp.jpg"
+    },
+    {
+      "personId": 56977,
+      "name": "Roy Dupuis",
+      "character": "Becker",
+      "order": 2,
+      "cast_id": 2,
+      "popularity": 1.2638,
+      "profile_path": "/iS6BCJzfzxxSMMyGbpQTarVeNSP.jpg"
+    },
+    {
+      "personId": 56979,
+      "name": "Andrew Lauer",
+      "character": "Ace Jefferson",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 0.8277,
+      "profile_path": "/frf7HFm6yVUsITZdUrEUptYXBCD.jpg"
+    },
+    {
+      "personId": 25689,
+      "name": "Liliana Komorowska",
+      "character": "Landowska",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 0.8712,
+      "profile_path": "/ovQVsXMWigEx3Qwb7UvRfSFox7t.jpg"
+    },
+    {
+      "personId": 1229549,
+      "name": "Michael Caloz",
+      "character": "David",
+      "order": 5,
+      "cast_id": 42,
+      "popularity": 0.6006,
+      "profile_path": "/hS0pnOUH00C2stBRvAPBMH3t8bU.jpg"
+    },
+    {
+      "personId": 30617,
+      "name": "Jason Cavalier",
+      "character": "Leone",
+      "order": 6,
+      "cast_id": 43,
+      "popularity": 0.8539,
+      "profile_path": "/nTCcnKIS8Eil9Ve2aGUz2fcf2I.jpg"
+    },
+    {
+      "personId": 1242148,
+      "name": "Ron White",
+      "character": "Chuck Elbarak",
+      "order": 7,
+      "cast_id": 45,
+      "popularity": 0.6503,
+      "profile_path": "/rxM6b0zqJE2eb913zm8RSqSxKX2.jpg"
+    },
+    {
+      "personId": 90461,
+      "name": "Leni Parker",
+      "character": "Cpl. McDonald",
+      "order": 8,
+      "cast_id": 62,
+      "popularity": 1.7029,
+      "profile_path": "/rmOCAuZxYO50EmRxNDdrS3JB6f1.jpg"
+    },
+    {
+      "personId": 1298077,
+      "name": "Sylvain Massé",
+      "character": "N.E.B. Soldier",
+      "order": 9,
+      "cast_id": 63,
+      "popularity": 0.7184,
+      "profile_path": "/wmA1dE0lTDxFMI12g4jmihLPBL9.jpg"
+    },
+    {
+      "personId": 8664,
+      "name": "Bruce Boa",
+      "character": "Secretary Green",
+      "order": 10,
+      "cast_id": 64,
+      "popularity": 1.2097,
+      "profile_path": "/lTphLsubUVSKjRCokSwSYWOTr7T.jpg"
+    },
+    {
+      "personId": 56982,
+      "name": "Tom Berry",
+      "character": "Technician",
+      "order": 11,
+      "cast_id": 65,
+      "popularity": 1.0739,
+      "profile_path": "/up0VPkoOUYFIeDrKGTsLSv0HAoE.jpg"
+    },
+    {
+      "personId": 1015794,
+      "name": "Henry Ramer",
+      "character": "Screamers Crawl Narration (voice)",
+      "order": 12,
+      "cast_id": 66,
+      "popularity": 0.7631,
+      "profile_path": "/6IAUTatDbPJUze3UqBDgf3tMLEC.jpg"
+    },
+    {
+      "personId": 81308,
+      "name": "Charles Edwin Powell",
+      "character": "Ross",
+      "order": 13,
+      "cast_id": 71,
+      "popularity": 0.7176,
+      "profile_path": "/mowURgrpAtbFn0OU1rrtTo6LXzQ.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 25735,
+      "name": "Christian Duguay",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6506,
+      "profile_path": "/2v1gj3tJC6btabF8xp0N4p0nlSz.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 312,
+      "name": "man vs machine"
+    },
+    {
+      "id": 10158,
+      "name": "alien planet"
+    },
+    {
+      "id": 15354,
+      "name": "struggle for survival"
+    },
+    {
+      "id": 340171,
+      "name": "android horror"
+    }
+  ]
+}

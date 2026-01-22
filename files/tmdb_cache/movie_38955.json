@@ -1,0 +1,255 @@
+{
+  "overview": "As a crime wave sweeps through Hong Kong, the police call Jessica Yang, a rising star in the ranks, to help stop a notorious gang of thieves! What Jessica doesn't realize is that her boyfriend – recently discharged from the force – is the leader of this ruthless crime ring!",
+  "release_date": "1993-10-21",
+  "runtime": 101,
+  "budget": 1000000,
+  "revenue": 1207130,
+  "tmdb_vote_average": 5.74,
+  "tmdb_vote_count": 98,
+  "tmdb_popularity": 1.7343,
+  "original_language": "cn",
+  "poster_path": "/wYGXe2BRIyNX2z7Y6UdQoiw8yfk.jpg",
+  "backdrop_path": "/7YvvanAc23ArKgcgrjNTrsX9ybI.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Crime",
+    "Thriller",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 2521,
+      "name": "Orange Sky Golden Harvest",
+      "origin_country": "HK"
+    },
+    {
+      "id": 2734,
+      "name": "Paragon Films",
+      "origin_country": "HK"
+    },
+    {
+      "id": 3054,
+      "name": "Golden Way Films Ltd.",
+      "origin_country": "HK"
+    },
+    {
+      "id": 230861,
+      "name": "Top Stunt Limited",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "cn",
+      "name": "广州话 / 廣州話"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1620,
+      "name": "Michelle Yeoh",
+      "character": "Jessica Yang Jian Wa",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.6091,
+      "profile_path": "/nrbHNzSMydpWK9um5VqWIFJihB5.jpg"
+    },
+    {
+      "personId": 120725,
+      "name": "Yu Rongguang",
+      "character": "David Chang Fung",
+      "order": 1,
+      "cast_id": 15,
+      "popularity": 3.4228,
+      "profile_path": "/qRPhrqPLYvca6Wdv9lMxwEm7ZD6.jpg"
+    },
+    {
+      "personId": 67889,
+      "name": "Emil Chau",
+      "character": "Inspector Lee Ming",
+      "order": 2,
+      "cast_id": 16,
+      "popularity": 1.6167,
+      "profile_path": "/czuEFuQeqXryf4RapQgi6OwRDEj.jpg"
+    },
+    {
+      "personId": 130598,
+      "name": "Louis Fan Siu-Wong",
+      "character": "Kuo Shao Long",
+      "order": 3,
+      "cast_id": 17,
+      "popularity": 2.0704,
+      "profile_path": "/jBuu1y50Qeq27tJyikx6KHGcyJE.jpg"
+    },
+    {
+      "personId": 87942,
+      "name": "Athena Chu Yan",
+      "character": "May Lee",
+      "order": 4,
+      "cast_id": 4,
+      "popularity": 2.3612,
+      "profile_path": "/gI2onXp0H5tr2aBN6f0SLjYpqUG.jpg"
+    },
+    {
+      "personId": 44922,
+      "name": "Bill Tung Biu",
+      "character": "Inspector \"Uncle\" Bill Chou",
+      "order": 5,
+      "cast_id": 19,
+      "popularity": 1.9676,
+      "profile_path": "/nB6ywhsUy3TlZpsulqtgR45IFUK.jpg"
+    },
+    {
+      "personId": 62424,
+      "name": "Dick Wei",
+      "character": "Chuen",
+      "order": 6,
+      "cast_id": 6,
+      "popularity": 2.442,
+      "profile_path": "/pkllOdDN2CGukmyOv2XlzoMAQfC.jpg"
+    },
+    {
+      "personId": 552084,
+      "name": "Bowie Lam Bo-Yee",
+      "character": "Ho Chu",
+      "order": 7,
+      "cast_id": 21,
+      "popularity": 2.3923,
+      "profile_path": "/7scIX24RyIlibdyeXljnEPjXeKO.jpg"
+    },
+    {
+      "personId": 1365930,
+      "name": "Alain Guernier",
+      "character": "Roger Davidson",
+      "order": 8,
+      "cast_id": 24,
+      "popularity": 0.4565,
+      "profile_path": null
+    },
+    {
+      "personId": 81670,
+      "name": "Yukari Ôshima",
+      "character": "Red Fighter",
+      "order": 9,
+      "cast_id": 7,
+      "popularity": 1.9393,
+      "profile_path": "/76B1cA3EgXbEHBsFJD13Pv4LLrg.jpg"
+    },
+    {
+      "personId": 1277939,
+      "name": "Ailen Sit Chun-Wai",
+      "character": "Cheung Ken",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 0.6881,
+      "profile_path": "/1cFoTB2JIJiUDhhjMx4YSR65fSK.jpg"
+    },
+    {
+      "personId": 1365929,
+      "name": "Maggie Chan Mei-Kei",
+      "character": "Bank Manager Hostage",
+      "order": 11,
+      "cast_id": 22,
+      "popularity": 1.4611,
+      "profile_path": "/af09cDffB6EP7ZqWwuxdCi7RIsr.jpg"
+    },
+    {
+      "personId": 18897,
+      "name": "Jackie Chan",
+      "character": "Inspector Chan Ka-Kui",
+      "order": 12,
+      "cast_id": 2,
+      "popularity": 18.7484,
+      "profile_path": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+    },
+    {
+      "personId": 26724,
+      "name": "Eric Tsang Chi-Wai",
+      "character": "Busty Woman in Red",
+      "order": 13,
+      "cast_id": 5,
+      "popularity": 2.9014,
+      "profile_path": "/stPYRqExNK4gdaFbq6tuYoRL1Po.jpg"
+    },
+    {
+      "personId": 1002925,
+      "name": "Joe Cheung Tung-Cho",
+      "character": "Fung's Man in Hospital",
+      "order": 14,
+      "cast_id": 18,
+      "popularity": 1.9476,
+      "profile_path": "/4RJ9r6FP6kQUmEUWZylPByh7TtG.jpg"
+    },
+    {
+      "personId": 4060816,
+      "name": "Qian Yi-Fei",
+      "character": "Terrorist",
+      "order": 15,
+      "cast_id": 83,
+      "popularity": 0.246,
+      "profile_path": null
+    },
+    {
+      "personId": 4761003,
+      "name": "Anne-Simone Kwon",
+      "character": "Terrorist",
+      "order": 16,
+      "cast_id": 82,
+      "popularity": 0.1993,
+      "profile_path": null
+    },
+    {
+      "personId": 4761009,
+      "name": "Yau Siu-Sing",
+      "character": "Terrorist",
+      "order": 17,
+      "cast_id": 84,
+      "popularity": 0.1158,
+      "profile_path": null
+    },
+    {
+      "personId": 1418536,
+      "name": "Hon Chun",
+      "character": "Terrorist",
+      "order": 18,
+      "cast_id": 26,
+      "popularity": 0.8081,
+      "profile_path": "/imR7dRwoIS4RCp2ZWrScU2DIfDW.jpg"
+    },
+    {
+      "personId": 4760435,
+      "name": "Au Kwok-Wai",
+      "character": "",
+      "order": 19,
+      "cast_id": 102,
+      "popularity": 0.6772,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 44916,
+      "name": "Stanley Tong Gwai-Lai",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.725,
+      "profile_path": "/cunufPnRrZuYwvz8M11c3cr6GVf.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 779,
+      "name": "martial arts"
+    }
+  ]
+}

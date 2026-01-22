@@ -1,0 +1,341 @@
+{
+  "overview": "Former policeman Lenny Nero has moved into a more lucrative trade: the illegal sale of virtual reality-like recordings that allow users to experience the emotions and past experiences of others. While they typically contain tawdry incidents, Nero is shocked when he receives one showing a murder.",
+  "release_date": "1995-10-13",
+  "runtime": 145,
+  "budget": 42000000,
+  "revenue": 7959291,
+  "tmdb_vote_average": 7.01,
+  "tmdb_vote_count": 1477,
+  "tmdb_popularity": 2.8502,
+  "original_language": "en",
+  "poster_path": "/rY5BrDRcYAKE0BYmmT66YG6Uy5Q.jpg",
+  "backdrop_path": "/zSFuvi6fIPT8CHpH1KMG25T2Iub.jpg",
+  "tmdb_genres_raw": [
+    "Crime",
+    "Drama",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 574,
+      "name": "Lightstorm Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 25,
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5469,
+      "name": "Ralph Fiennes",
+      "character": "Lenny Nero",
+      "order": 0,
+      "cast_id": 9,
+      "popularity": 6.3552,
+      "profile_path": "/u29BOqiV5GCQ8k8WUJM50i9xlBf.jpg"
+    },
+    {
+      "personId": 9780,
+      "name": "Angela Bassett",
+      "character": "Lornette 'Mace' Mason",
+      "order": 1,
+      "cast_id": 10,
+      "popularity": 3.5023,
+      "profile_path": "/tKnuviliyeKNGlo26IU5gIrJAtd.jpg"
+    },
+    {
+      "personId": 3196,
+      "name": "Juliette Lewis",
+      "character": "Faith Justin",
+      "order": 2,
+      "cast_id": 12,
+      "popularity": 4.9662,
+      "profile_path": "/vvitS2sZSM9RupCf5B0sZYNS6wT.jpg"
+    },
+    {
+      "personId": 3197,
+      "name": "Tom Sizemore",
+      "character": "Max Peltier",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 2.403,
+      "profile_path": "/soINOuacuiThRb2LyPD4tTWve7C.jpg"
+    },
+    {
+      "personId": 7486,
+      "name": "Michael Wincott",
+      "character": "Philo Gant",
+      "order": 4,
+      "cast_id": 15,
+      "popularity": 2.4342,
+      "profile_path": "/z6FtWACKaIivi0khxM6vEHoUH0.jpg"
+    },
+    {
+      "personId": 7132,
+      "name": "Vincent D'Onofrio",
+      "character": "Burton Steckler",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 3.2082,
+      "profile_path": "/qkyiLolEqYMGH25xD4sFIXAjZQB.jpg"
+    },
+    {
+      "personId": 2683,
+      "name": "Glenn Plummer",
+      "character": "Jeriko One",
+      "order": 6,
+      "cast_id": 16,
+      "popularity": 2.9184,
+      "profile_path": "/lNfRFcxD7bhqKLZwOqdpumA83TL.jpg"
+    },
+    {
+      "personId": 14607,
+      "name": "Brigitte Bako",
+      "character": "Iris",
+      "order": 7,
+      "cast_id": 17,
+      "popularity": 1.2032,
+      "profile_path": "/i7Jb30gO8bQi65tJSuH428jDjTO.jpg"
+    },
+    {
+      "personId": 6396,
+      "name": "Richard Edson",
+      "character": "Tick",
+      "order": 8,
+      "cast_id": 32,
+      "popularity": 0.9866,
+      "profile_path": "/vuuU7beZrawR6VZB3a2QhDVtkjg.jpg"
+    },
+    {
+      "personId": 886,
+      "name": "William Fichtner",
+      "character": "Dwayne Engelman",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 4.3821,
+      "profile_path": "/wWtJOoaNAwPparpzMNuRBjvxwEf.jpg"
+    },
+    {
+      "personId": 14792,
+      "name": "Josef Sommer",
+      "character": "Palmer Strickland",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 1.8541,
+      "profile_path": "/eY3tCB4j7nWhsZX1enU6BYpaZl.jpg"
+    },
+    {
+      "personId": 151433,
+      "name": "Joe Urla",
+      "character": "Keith",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 1.2558,
+      "profile_path": "/pwqma50fyn4TE2TGNGUICmovJK0.jpg"
+    },
+    {
+      "personId": 18070,
+      "name": "Nicky Katt",
+      "character": "Joey Corto",
+      "order": 12,
+      "cast_id": 177,
+      "popularity": 1.8506,
+      "profile_path": "/9OY1D1WXJsqC7OnrKErc3mFfly5.jpg"
+    },
+    {
+      "personId": 46921,
+      "name": "Michael Jace",
+      "character": "Wade Beemer",
+      "order": 13,
+      "cast_id": 25,
+      "popularity": 1.0137,
+      "profile_path": "/dTHdnj0qfBx6sXr9cT4Xxu0AcIG.jpg"
+    },
+    {
+      "personId": 1294556,
+      "name": "Louise LeCavalier",
+      "character": "Cindy 'Vita' Minh",
+      "order": 14,
+      "cast_id": 153,
+      "popularity": 0.0966,
+      "profile_path": "/wWluGvx2EncieP7zMxEepNadDB3.jpg"
+    },
+    {
+      "personId": 1766029,
+      "name": "David Carrera",
+      "character": "Duncan",
+      "order": 15,
+      "cast_id": 154,
+      "popularity": 0.8345,
+      "profile_path": "/iJgLLhZxETk3cFr27s1dt7C3szs.jpg"
+    },
+    {
+      "personId": 156196,
+      "name": "Jim Ishida",
+      "character": "Mr. Fumitsu",
+      "order": 16,
+      "cast_id": 155,
+      "popularity": 1.5755,
+      "profile_path": "/mC8iH5HdlKZXpKFgLO0YtGZc23g.jpg"
+    },
+    {
+      "personId": 18342,
+      "name": "Todd Graff",
+      "character": "Tex Arcana",
+      "order": 17,
+      "cast_id": 156,
+      "popularity": 1.1095,
+      "profile_path": "/nA8idC01PtLDWBdxWgan7RFiIMz.jpg"
+    },
+    {
+      "personId": 3962990,
+      "name": "Malcolm Norrington",
+      "character": "Replay",
+      "order": 18,
+      "cast_id": 216,
+      "popularity": 0.3591,
+      "profile_path": null
+    },
+    {
+      "personId": 3962991,
+      "name": "Anais Munoz",
+      "character": "Diamanda",
+      "order": 19,
+      "cast_id": 217,
+      "popularity": 0.0393,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 14392,
+      "name": "Kathryn Bigelow",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.3341,
+      "profile_path": "/llfsTIvItT7IEmX5qK1qUX0dbqc.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 613,
+      "name": "new year's eve"
+    },
+    {
+      "id": 2964,
+      "name": "future"
+    },
+    {
+      "id": 445,
+      "name": "pornography"
+    },
+    {
+      "id": 549,
+      "name": "prostitute"
+    },
+    {
+      "id": 796,
+      "name": "police brutality"
+    },
+    {
+      "id": 1566,
+      "name": "dreams"
+    },
+    {
+      "id": 570,
+      "name": "rape"
+    },
+    {
+      "id": 6149,
+      "name": "police"
+    },
+    {
+      "id": 4563,
+      "name": "virtual reality"
+    },
+    {
+      "id": 2340,
+      "name": "paranoia"
+    },
+    {
+      "id": 1595,
+      "name": "ex-girlfriend"
+    },
+    {
+      "id": 3088,
+      "name": "bodyguard"
+    },
+    {
+      "id": 4562,
+      "name": "rapper"
+    },
+    {
+      "id": 4565,
+      "name": "dystopia"
+    },
+    {
+      "id": 4566,
+      "name": "minidisc"
+    },
+    {
+      "id": 8440,
+      "name": "ex-cop"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 12190,
+      "name": "cyberpunk"
+    },
+    {
+      "id": 12670,
+      "name": "los angeles, california"
+    },
+    {
+      "id": 15009,
+      "name": "criminal"
+    },
+    {
+      "id": 155790,
+      "name": "private detective"
+    },
+    {
+      "id": 162845,
+      "name": "revolt"
+    },
+    {
+      "id": 178657,
+      "name": "tech noir"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    },
+    {
+      "id": 325810,
+      "name": "euphoric"
+    }
+  ]
+}

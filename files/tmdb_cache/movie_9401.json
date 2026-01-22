@@ -1,0 +1,288 @@
+{
+  "overview": "In a sleepy bedroom community of LA's San Fernando Valley, the murder of a professional athlete by two hit men sets into motion a chain of events that puts the mundane lives of a dozen residents on a collision course. This clever tale tells the story of two hit men, a mistress, a nurse, a vindictive ex-wife, a wealthy art dealer and his lovelorn assistant, a suicidal writer and his dog, and a bitter cop and his partner.",
+  "release_date": "1996-09-11",
+  "runtime": 104,
+  "budget": 0,
+  "revenue": 11132156,
+  "tmdb_vote_average": 6.2,
+  "tmdb_vote_count": 292,
+  "tmdb_popularity": 1.3395,
+  "original_language": "en",
+  "poster_path": "/dKmOINYPpg2W8SMRicnFdusqk1x.jpg",
+  "backdrop_path": "/7JmTlybgcuEH6uuOIOk96Bupj4Z.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Crime",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 19529,
+      "name": "Redemption Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 11661,
+      "name": "Rysher Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1004,
+      "name": "Danny Aiello",
+      "character": "Dosmo Pizzo",
+      "order": 0,
+      "cast_id": 8,
+      "popularity": 1.5977,
+      "profile_path": "/2WiZ8SkiFU355GUT2QuSPlenrfM.jpg"
+    },
+    {
+      "personId": 8447,
+      "name": "Jeff Daniels",
+      "character": "Alvin Strayer",
+      "order": 1,
+      "cast_id": 10,
+      "popularity": 2.465,
+      "profile_path": "/r0mkZJZnTSJO3HJRsMW5HtszxE8.jpg"
+    },
+    {
+      "personId": 10742,
+      "name": "Teri Hatcher",
+      "character": "Becky Foxx",
+      "order": 2,
+      "cast_id": 11,
+      "popularity": 3.6604,
+      "profile_path": "/3VWdF8ujA3V0WI41YpKdqRv6PNW.jpg"
+    },
+    {
+      "personId": 6885,
+      "name": "Charlize Theron",
+      "character": "Helga Svelgen",
+      "order": 3,
+      "cast_id": 12,
+      "popularity": 7.0858,
+      "profile_path": "/ie1KbeYFG5E0GVr1QP7tDNuXvga.jpg"
+    },
+    {
+      "personId": 13548,
+      "name": "James Spader",
+      "character": "Lee Woods",
+      "order": 4,
+      "cast_id": 13,
+      "popularity": 7.0813,
+      "profile_path": "/uET0mbf2bMkUXbRb1Oxi8Qjqcw3.jpg"
+    },
+    {
+      "personId": 7036,
+      "name": "Eric Stoltz",
+      "character": "Wes Taylor",
+      "order": 5,
+      "cast_id": 14,
+      "popularity": 3.8362,
+      "profile_path": "/idFuM00MeVmwGAiqvDaJcBiLAmD.jpg"
+    },
+    {
+      "personId": 21104,
+      "name": "Glenne Headly",
+      "character": "Susan Parish",
+      "order": 6,
+      "cast_id": 16,
+      "popularity": 2.035,
+      "profile_path": "/4z9baWyXNdW8rFSVgPJK7wrGzVF.jpg"
+    },
+    {
+      "personId": 44990,
+      "name": "Peter Horton",
+      "character": "Roy Foxx",
+      "order": 7,
+      "cast_id": 22,
+      "popularity": 1.5225,
+      "profile_path": "/7t4np3Y3QRtGG4CrosjcfVcDlIQ.jpg"
+    },
+    {
+      "personId": 58090,
+      "name": "Greg Cruttwell",
+      "character": "Allan Hopper",
+      "order": 8,
+      "cast_id": 9,
+      "popularity": 2.0575,
+      "profile_path": "/qgoBvIrI0QdUa8fmC1LPNHUBkSh.jpg"
+    },
+    {
+      "personId": 19131,
+      "name": "Marsha Mason",
+      "character": "Audrey Hopper",
+      "order": 9,
+      "cast_id": 18,
+      "popularity": 1.127,
+      "profile_path": "/2IkzpW9eYT0m1jhssQryvmN4gS6.jpg"
+    },
+    {
+      "personId": 47773,
+      "name": "Paul Mazursky",
+      "character": "Teddy Peppers",
+      "order": 10,
+      "cast_id": 19,
+      "popularity": 0.9828,
+      "profile_path": "/buV8R7bHO4DATuC9FquUrZjn88I.jpg"
+    },
+    {
+      "personId": 30613,
+      "name": "Keith Carradine",
+      "character": "Detective Creighton",
+      "order": 11,
+      "cast_id": 15,
+      "popularity": 3.85,
+      "profile_path": "/5gayZWGqjTAVJXr1bXovk3oqOxW.jpg"
+    },
+    {
+      "personId": 7071,
+      "name": "Louise Fletcher",
+      "character": "Evelyn",
+      "order": 12,
+      "cast_id": 20,
+      "popularity": 1.5381,
+      "profile_path": "/hN15em5LqXqDe1QgDa6lXK9fx3z.jpg"
+    },
+    {
+      "personId": 6168,
+      "name": "Austin Pendleton",
+      "character": "Ralph Crupi",
+      "order": 13,
+      "cast_id": 21,
+      "popularity": 1.7458,
+      "profile_path": "/nrXfqtXDDYzSFNLPQnfLkus4I7s.jpg"
+    },
+    {
+      "personId": 158112,
+      "name": "Kathleen Luong",
+      "character": "Midori",
+      "order": 14,
+      "cast_id": 24,
+      "popularity": 0.86,
+      "profile_path": "/4Sfi7Xe9PVgcTFBnDBLIDnWKWvc.jpg"
+    },
+    {
+      "personId": 64856,
+      "name": "Michael Jai White",
+      "character": "Buck",
+      "order": 15,
+      "cast_id": 26,
+      "popularity": 5.4478,
+      "profile_path": "/YPoHYuzR37wFpPpwEXZYQlhLln.jpg"
+    },
+    {
+      "personId": 157847,
+      "name": "Cress Williams",
+      "character": "Golfer",
+      "order": 16,
+      "cast_id": 27,
+      "popularity": 1.7123,
+      "profile_path": "/pIOyAg9U0eAUvs8N2Xca7uRKlOe.jpg"
+    },
+    {
+      "personId": 6937,
+      "name": "Lawrence Tierney",
+      "character": "Old Man",
+      "order": 17,
+      "cast_id": 23,
+      "popularity": 1.6637,
+      "profile_path": "/crtpxUAnPrZFSrLjbsTUTdGn72W.jpg"
+    },
+    {
+      "personId": 21202,
+      "name": "Micole Mercurio",
+      "character": "Older Woman",
+      "order": 18,
+      "cast_id": 28,
+      "popularity": 0.9542,
+      "profile_path": "/7G82RardxpLmZU6TZqJkAfTXxZE.jpg"
+    },
+    {
+      "personId": 1647700,
+      "name": "William Stanton",
+      "character": "Man at Bar",
+      "order": 19,
+      "cast_id": 30,
+      "popularity": 0.2636,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 27846,
+      "name": "John Herzfeld",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.0469,
+      "profile_path": "/opDaQuBZwM0p8K6HFw8mRbspT8S.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 782,
+      "name": "assassin"
+    },
+    {
+      "id": 931,
+      "name": "jealousy"
+    },
+    {
+      "id": 2708,
+      "name": "hitman"
+    },
+    {
+      "id": 1419,
+      "name": "gun"
+    },
+    {
+      "id": 1562,
+      "name": "hostage"
+    },
+    {
+      "id": 703,
+      "name": "detective"
+    },
+    {
+      "id": 2150,
+      "name": "cocaine"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 11454,
+      "name": "scam"
+    },
+    {
+      "id": 11258,
+      "name": "suicidal"
+    },
+    {
+      "id": 12670,
+      "name": "los angeles, california"
+    },
+    {
+      "id": 14601,
+      "name": "explosion"
+    },
+    {
+      "id": 41379,
+      "name": "argument"
+    }
+  ]
+}

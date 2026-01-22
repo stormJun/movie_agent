@@ -1,0 +1,266 @@
+{
+  "overview": "A stern Russian woman sent to Paris on official business finds herself attracted to a man who represents everything she is supposed to detest.",
+  "release_date": "1939-11-16",
+  "runtime": 110,
+  "budget": 1365000,
+  "revenue": 2279000,
+  "tmdb_vote_average": 7.495,
+  "tmdb_vote_count": 416,
+  "tmdb_popularity": 3.7079,
+  "original_language": "en",
+  "poster_path": "/v4MkgNqZyodYwBDNbZ64MF9tVEL.jpg",
+  "backdrop_path": "/AjYX2r2dn1s31A8fDaPPiYRrZ6L.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "ru",
+      "name": "Pусский"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 19549,
+      "name": "Greta Garbo",
+      "character": "Nina \"Ninotchka\" Ivanovna Yakushova",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 0.995,
+      "profile_path": "/hiajoqd8tB46L059zHk6p7q5Y5Q.jpg"
+    },
+    {
+      "personId": 19550,
+      "name": "Melvyn Douglas",
+      "character": "Count Leon d'Algout",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.4326,
+      "profile_path": "/4WuaoFCSdffenrKeCJAIX0MmyJt.jpg"
+    },
+    {
+      "personId": 116185,
+      "name": "Ina Claire",
+      "character": "Grand Duchess Swana",
+      "order": 2,
+      "cast_id": 24,
+      "popularity": 2.2049,
+      "profile_path": "/uQXZ0Blms7JDX1HqGlqsGEXxi0d.jpg"
+    },
+    {
+      "personId": 1547,
+      "name": "Bela Lugosi",
+      "character": "Commissar Razinin",
+      "order": 3,
+      "cast_id": 3,
+      "popularity": 1.5611,
+      "profile_path": "/fwimu7WKcaJXIjaDwYQg42GxUxa.jpg"
+    },
+    {
+      "personId": 2497,
+      "name": "Sig Ruman",
+      "character": "Comrade Iranoff",
+      "order": 4,
+      "cast_id": 4,
+      "popularity": 0.9004,
+      "profile_path": "/r2iCgnjgF4dEyeRBWrqGL8qOQpd.jpg"
+    },
+    {
+      "personId": 2494,
+      "name": "Felix Bressart",
+      "character": "Comrade Buljanoff",
+      "order": 5,
+      "cast_id": 5,
+      "popularity": 0.6356,
+      "profile_path": "/h8Ac7m2toKeDCt2VjNV7s9ytgo7.jpg"
+    },
+    {
+      "personId": 9842,
+      "name": "Alexander Granach",
+      "character": "Comrade Kopalski",
+      "order": 6,
+      "cast_id": 6,
+      "popularity": 0.9721,
+      "profile_path": "/6oeYojEL9uLSJezeChUNFiRJohs.jpg"
+    },
+    {
+      "personId": 19551,
+      "name": "Gregory Gaye",
+      "character": "Count Alexis Rakonin",
+      "order": 7,
+      "cast_id": 7,
+      "popularity": 0.6116,
+      "profile_path": "/wJ6IzGvnmahSKDcT1TcMC1WhgL7.jpg"
+    },
+    {
+      "personId": 19552,
+      "name": "Rolfe Sedan",
+      "character": "Hotel Manager",
+      "order": 8,
+      "cast_id": 8,
+      "popularity": 0.6193,
+      "profile_path": "/zB7AdnKPBpadzUuQUYQ877JyyXm.jpg"
+    },
+    {
+      "personId": 13361,
+      "name": "Edwin Maxwell",
+      "character": "Mercier",
+      "order": 9,
+      "cast_id": 9,
+      "popularity": 1.3251,
+      "profile_path": "/k31nSbkIkSqWelDQyWvn5zF1g9q.jpg"
+    },
+    {
+      "personId": 19553,
+      "name": "Richard Carle",
+      "character": "Gaston",
+      "order": 10,
+      "cast_id": 10,
+      "popularity": 0.3826,
+      "profile_path": "/y7TVekUSJtf8y8V1UrRlPG71xjq.jpg"
+    },
+    {
+      "personId": 120701,
+      "name": "George Davis",
+      "character": "Porter at Railroad Station (uncredited)",
+      "order": 11,
+      "cast_id": 28,
+      "popularity": 1.0666,
+      "profile_path": "/jZX35AsIZnuQX7crHu6QqOAH182.jpg"
+    },
+    {
+      "personId": 3346,
+      "name": "Dorothy Adams",
+      "character": "Swana's Maid Jacqueline (uncredited)",
+      "order": 12,
+      "cast_id": 29,
+      "popularity": 0.7383,
+      "profile_path": "/tW5VJvit37Z5JTl7siUwvZ5SIgX.jpg"
+    },
+    {
+      "personId": 1420615,
+      "name": "Monya Andre",
+      "character": "Gossip (uncredited)",
+      "order": 13,
+      "cast_id": 30,
+      "popularity": 0.3303,
+      "profile_path": null
+    },
+    {
+      "personId": 1331754,
+      "name": "Nino Bellini",
+      "character": "Swana's Restaurant Guest (uncredited)",
+      "order": 14,
+      "cast_id": 31,
+      "popularity": 0.1851,
+      "profile_path": null
+    },
+    {
+      "personId": 1144689,
+      "name": "Wilda Bennett",
+      "character": "Swana's Restaurant Guest (uncredited)",
+      "order": 15,
+      "cast_id": 32,
+      "popularity": 0.1018,
+      "profile_path": null
+    },
+    {
+      "personId": 1062837,
+      "name": "Symona Boniface",
+      "character": "Gossip (uncredited)",
+      "order": 16,
+      "cast_id": 33,
+      "popularity": 0.3355,
+      "profile_path": "/bVIq7eoMtk3gacWqFneoaUPZNPp.jpg"
+    },
+    {
+      "personId": 1468209,
+      "name": "Frederika Brown",
+      "character": "Swana's Restaurant Patron (uncredited)",
+      "order": 17,
+      "cast_id": 34,
+      "popularity": 0.0379,
+      "profile_path": null
+    },
+    {
+      "personId": 1471655,
+      "name": "Emilie Cabanne",
+      "character": "Gossip (uncredited)",
+      "order": 18,
+      "cast_id": 35,
+      "popularity": 0.1964,
+      "profile_path": null
+    },
+    {
+      "personId": 236567,
+      "name": "Paul Ellis",
+      "character": "Minor Role (uncredited)",
+      "order": 19,
+      "cast_id": 36,
+      "popularity": 0.412,
+      "profile_path": "/iQyvFolA1RTOSbyfvhgOnHcrSVA.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2428,
+      "name": "Ernst Lubitsch",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5832,
+      "profile_path": "/tAsEhwiu3oqDgzCZSYN2xu0dEdD.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2110,
+      "name": "capitalist"
+    },
+    {
+      "id": 90,
+      "name": "paris, france"
+    },
+    {
+      "id": 592,
+      "name": "capitalism"
+    },
+    {
+      "id": 418,
+      "name": "white russian"
+    },
+    {
+      "id": 6099,
+      "name": "jewelry"
+    },
+    {
+      "id": 8201,
+      "name": "satire"
+    },
+    {
+      "id": 5154,
+      "name": "fur"
+    },
+    {
+      "id": 325765,
+      "name": "amused"
+    }
+  ]
+}

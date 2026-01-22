@@ -1,0 +1,247 @@
+{
+  "overview": "When the owner of the Minnesota Twins passes away, he bequeaths the team to his preteen grandson. The newly minted head honcho quickly appoints himself manager, causing unrest in an organization that struggles to take orders from a 12-year-old.",
+  "release_date": "1994-06-29",
+  "runtime": 119,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.914,
+  "tmdb_vote_count": 110,
+  "tmdb_popularity": 2.0529,
+  "original_language": "en",
+  "poster_path": "/ps0GapKs4vuV38XX6VUbTZm8QS6.jpg",
+  "backdrop_path": "/lLk9msIWEHRJR7Die5Q2Jgyep7f.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 97,
+      "name": "Castle Rock Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 10513,
+      "name": "Lobell/Bergman Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "pt",
+      "name": "Português"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 33052,
+      "name": "Luke Edwards",
+      "character": "Billy Heywood",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 0.6216,
+      "profile_path": "/cZcUHl6jojQJiviybrDV5iX8K9Z.jpg"
+    },
+    {
+      "personId": 23881,
+      "name": "Timothy Busfield",
+      "character": "Lou Collins",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.9623,
+      "profile_path": "/r2VQ4Ar1WCISJoTqOOcO3HEgN4p.jpg"
+    },
+    {
+      "personId": 778,
+      "name": "John Ashton",
+      "character": "Mac MacNally",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.2945,
+      "profile_path": "/8TzYptb6pPxZJXfrJIu0UoZTNkX.jpg"
+    },
+    {
+      "personId": 155492,
+      "name": "Ashley Crow",
+      "character": "Jenny Heywood",
+      "order": 3,
+      "cast_id": 16,
+      "popularity": 0.9232,
+      "profile_path": "/eWuoTl1WRyF45g2UPqDLPZxQsOt.jpg"
+    },
+    {
+      "personId": 14721,
+      "name": "Kevin Dunn",
+      "character": "Arthur Goslin",
+      "order": 4,
+      "cast_id": 14,
+      "popularity": 2.9303,
+      "profile_path": "/7dqLQjMNCQnuxQJQwQ5Ozz16LBq.jpg"
+    },
+    {
+      "personId": 21735,
+      "name": "Billy L. Sullivan",
+      "character": "Chuck",
+      "order": 5,
+      "cast_id": 17,
+      "popularity": 0.7882,
+      "profile_path": "/1SB7xuFNP3DMeelVRuN6i1pO0mr.jpg"
+    },
+    {
+      "personId": 180610,
+      "name": "Miles Feulner",
+      "character": "Joey",
+      "order": 6,
+      "cast_id": 18,
+      "popularity": 1.0301,
+      "profile_path": "/2Cm16HS2xkfHmxsuGspCkNErMaL.jpg"
+    },
+    {
+      "personId": 55265,
+      "name": "Jonathan Silverman",
+      "character": "Jim Bowers",
+      "order": 7,
+      "cast_id": 6,
+      "popularity": 1.7092,
+      "profile_path": "/tzGuPePIxTjV84qizCMDcqTEQgh.jpg"
+    },
+    {
+      "personId": 1117,
+      "name": "Dennis Farina",
+      "character": "George O'Farrell",
+      "order": 8,
+      "cast_id": 5,
+      "popularity": 1.7138,
+      "profile_path": "/4hEWe0ZcDpGlB3nRizLkVMcG13B.jpg"
+    },
+    {
+      "personId": 4765,
+      "name": "Jason Robards",
+      "character": "Thomas Heywood",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 1.7911,
+      "profile_path": "/9y0HAtWWBkB02gVzh8QDdz6UYZH.jpg"
+    },
+    {
+      "personId": 68672,
+      "name": "Wolfgang Bodison",
+      "character": "Spencer Hamilton",
+      "order": 10,
+      "cast_id": 19,
+      "popularity": 0.8175,
+      "profile_path": "/fA2K4CE8KV53UOTCvhvtfR2aQ1J.jpg"
+    },
+    {
+      "personId": 62032,
+      "name": "Duane Davis",
+      "character": "Jerry Johnson",
+      "order": 11,
+      "cast_id": 20,
+      "popularity": 1.9202,
+      "profile_path": null
+    },
+    {
+      "personId": 2392755,
+      "name": "Leon Durham",
+      "character": "Leon Alexander",
+      "order": 12,
+      "cast_id": 21,
+      "popularity": 0.0538,
+      "profile_path": null
+    },
+    {
+      "personId": 2392756,
+      "name": "Kevin Elster",
+      "character": "Pat Corning",
+      "order": 13,
+      "cast_id": 22,
+      "popularity": 0.0747,
+      "profile_path": null
+    },
+    {
+      "personId": 56440,
+      "name": "Joseph Latimore",
+      "character": "Lonnie Ritter",
+      "order": 14,
+      "cast_id": 23,
+      "popularity": 0.6254,
+      "profile_path": "/xhHgv4btqWwjDgqNIrHjiYJBhmq.jpg"
+    },
+    {
+      "personId": 553452,
+      "name": "Bradley Jay Lesley",
+      "character": "John \"Blackout\" Gatling",
+      "order": 15,
+      "cast_id": 24,
+      "popularity": 0.4447,
+      "profile_path": null
+    },
+    {
+      "personId": 1264612,
+      "name": "John Minch",
+      "character": "Mark Hodges",
+      "order": 16,
+      "cast_id": 25,
+      "popularity": 0.6332,
+      "profile_path": "/dYatkrWuNwutufZkI8aVRS6HJGm.jpg"
+    },
+    {
+      "personId": 20582,
+      "name": "Michael Papajohn",
+      "character": "Tucker Kain",
+      "order": 17,
+      "cast_id": 26,
+      "popularity": 1.8553,
+      "profile_path": "/hdTJBfIXfvRdlD1p8y6rra207UP.jpg"
+    },
+    {
+      "personId": 50020,
+      "name": "Scott Patterson",
+      "character": "Mike McGrevey",
+      "order": 18,
+      "cast_id": 27,
+      "popularity": 2.5614,
+      "profile_path": "/qTm0LFuV8DktunzKa5T3UZoq1tC.jpg"
+    },
+    {
+      "personId": 1748034,
+      "name": "Troy Startoni",
+      "character": "Larry Hilbert",
+      "order": 19,
+      "cast_id": 28,
+      "popularity": 0.3059,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 3030,
+      "name": "Andrew Scheinman",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5923,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6075,
+      "name": "sports"
+    },
+    {
+      "id": 1480,
+      "name": "baseball"
+    }
+  ]
+}

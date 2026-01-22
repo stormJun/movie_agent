@@ -1,0 +1,192 @@
+{
+  "overview": "Carl Panzram is sent to Leavenworth Prison for burglary. While there, he is brutally beaten by a guard. Neophyte guard Henry Lesser feels sympathy for Panzram, befriends him, and gets him to write his life story. Lesser learns that Panzram's past is much more violent than he thought, but also that he's capable of being a much better person than the rest of the prison staff believes - or so Lesser thinks.",
+  "release_date": "1996-09-06",
+  "runtime": 91,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.781,
+  "tmdb_vote_count": 48,
+  "tmdb_popularity": 0.3786,
+  "original_language": "en",
+  "poster_path": "/bGhq64TzH7i1jSmK0tYHbDmgzVQ.jpg",
+  "backdrop_path": "/1C4y0daUxufkdpox7iZcL2ssy7E.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 15123,
+      "name": "Breakheart Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 525,
+      "name": "Ixtlan Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4512,
+      "name": "James Woods",
+      "character": "Carl Panzram",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 3.7643,
+      "profile_path": "/UAvunLhXXFMD83wXOUvRWhNBmO.jpg"
+    },
+    {
+      "personId": 2692,
+      "name": "Robert Sean Leonard",
+      "character": "Henry Lesser",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 3.6707,
+      "profile_path": "/nlDEfUE4GH6UVEQS5v7NG9sXY8X.jpg"
+    },
+    {
+      "personId": 20047,
+      "name": "Cara Buono",
+      "character": "Esther Lesser",
+      "order": 2,
+      "cast_id": 10,
+      "popularity": 22.3403,
+      "profile_path": "/QQv5pitEXvrGR4sgECvNDLwhTG.jpg"
+    },
+    {
+      "personId": 13420,
+      "name": "Ellen Greene",
+      "character": "Elizabeth Wyatt",
+      "order": 3,
+      "cast_id": 3,
+      "popularity": 1.6253,
+      "profile_path": "/5OxY1mPqGPELD6UJ2BaP2GO25aP.jpg"
+    },
+    {
+      "personId": 31512,
+      "name": "Robert John Burke",
+      "character": "R.G. Greiser",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 2.2997,
+      "profile_path": "/4uCjxK6QmPW98W56aCldwINSOcX.jpg"
+    },
+    {
+      "personId": 3127,
+      "name": "Lili Taylor",
+      "character": "Woman in Speakeasy",
+      "order": 5,
+      "cast_id": 4,
+      "popularity": 2.3923,
+      "profile_path": "/vWcMUi3QyvCr3QuFbjtwyPx7WtU.jpg"
+    },
+    {
+      "personId": 1491922,
+      "name": "Seth Romatelli",
+      "character": "Teenaged Carl Panzram",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 0.4719,
+      "profile_path": null
+    },
+    {
+      "personId": 18262,
+      "name": "Richard Riehle",
+      "character": "Warden Quince",
+      "order": 7,
+      "cast_id": 13,
+      "popularity": 2.4116,
+      "profile_path": "/wgjBsgpzRvardVXZhNGixSw63g2.jpg"
+    },
+    {
+      "personId": 14833,
+      "name": "Harold Gould",
+      "character": "Old Henry Lesser",
+      "order": 8,
+      "cast_id": 14,
+      "popularity": 1.8116,
+      "profile_path": "/34OhfMWScEyQpy0bdnhta9mUvqV.jpg"
+    },
+    {
+      "personId": 60118,
+      "name": "John Bedford Lloyd",
+      "character": "Dr. Karl Menninger",
+      "order": 9,
+      "cast_id": 15,
+      "popularity": 0.9817,
+      "profile_path": "/tyNDFeQgf2dyjBZtRAskz1lZG1I.jpg"
+    },
+    {
+      "personId": 12645,
+      "name": "Jeffrey DeMunn",
+      "character": "Sam Lesser",
+      "order": 10,
+      "cast_id": 16,
+      "popularity": 2.9346,
+      "profile_path": "/70bkLdlkBB7x2NztuJAh4pjdyxy.jpg"
+    },
+    {
+      "personId": 44998,
+      "name": "Steve Forrest",
+      "character": "Warden Charles Casey",
+      "order": 11,
+      "cast_id": 17,
+      "popularity": 1.6778,
+      "profile_path": "/gIAQMiYS5n9ULS7D363kJvStqlR.jpg"
+    },
+    {
+      "personId": 1495762,
+      "name": "Conrad McLaren",
+      "character": "Judge John W. Kingman",
+      "order": 12,
+      "cast_id": 18,
+      "popularity": 0.2051,
+      "profile_path": null
+    },
+    {
+      "personId": 92788,
+      "name": "Richard Council",
+      "character": "Cop",
+      "order": 13,
+      "cast_id": 22,
+      "popularity": 0.7831,
+      "profile_path": "/zihavy80dg9VXb0iQjIHGXccjVA.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 69042,
+      "name": "Tim Metcalfe",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4267,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 378,
+      "name": "prison"
+    },
+    {
+      "id": 10714,
+      "name": "serial killer"
+    },
+    {
+      "id": 155393,
+      "name": "sympathy"
+    }
+  ]
+}

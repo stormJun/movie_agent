@@ -1,0 +1,270 @@
+{
+  "overview": "Nikolai (played by Sergei Dontsov) has been fired from his job as a music teacher and has to live in the gym until he finds a place to stay. Finally, he gets a communal room in the apartment of Gorokhov (Victor Mikhalkov). The room's previous inhabitant, an old lady, has died a year ago, and yet her cat, Maxi, is still in the locked room, healthy and fat. Soon, Nikolai and his neighbours discover the mystery: there is a window to Paris in the room. That's when the comedy begins - will the Russians be able to cope with the temptation to profit from the discovery?",
+  "release_date": "1993-10-01",
+  "runtime": 112,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.121,
+  "tmdb_vote_count": 29,
+  "tmdb_popularity": 0.3881,
+  "original_language": "ru",
+  "poster_path": "/pV9ziTxVGDFRgVqiWkxJnKjzaxM.jpg",
+  "backdrop_path": "/4pfl8PtnNDisipYagVT13hQ1VDt.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+  ],
+  "production_companies": [
+    {
+      "id": 38963,
+      "name": "Fontaine Sarl",
+      "origin_country": ""
+    },
+    {
+      "id": 7399,
+      "name": "Sodaperaga Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 16366,
+      "name": "La Sept Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 105299,
+      "name": "Trinity Bridge Studio",
+      "origin_country": "RU"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "RU",
+      "name": "Russia"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 34637,
+      "name": "Agnès Soral",
+      "character": "Nicole",
+      "order": 0,
+      "cast_id": 5,
+      "popularity": 0.8317,
+      "profile_path": "/a1OXVANx9JpSiMGopdMHadxPGbv.jpg"
+    },
+    {
+      "personId": 107761,
+      "name": "Sergey Dreyden",
+      "character": "Nikolay Chizhov",
+      "order": 1,
+      "cast_id": 9,
+      "popularity": 0.4381,
+      "profile_path": "/2pGZRqmyPMAdt8pKVyXAy66TwKb.jpg"
+    },
+    {
+      "personId": 125341,
+      "name": "Viktor Mikhaylov",
+      "character": "Gorokhov",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.2351,
+      "profile_path": null
+    },
+    {
+      "personId": 93548,
+      "name": "Nina Usatova",
+      "character": "Vera",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.2537,
+      "profile_path": "/qVhhXyJQYImVMnHkWHJTv9pf0X.jpg"
+    },
+    {
+      "personId": 582991,
+      "name": "Kira Krejlis-Petrova",
+      "character": "Mother-in-law Gorokhov",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 1.0625,
+      "profile_path": "/etlvLcNOyE8VchaBr2gLpkvKTDq.jpg"
+    },
+    {
+      "personId": 935426,
+      "name": "Natalya Ipatova",
+      "character": "daughter Gorokhov",
+      "order": 5,
+      "cast_id": 12,
+      "popularity": 1.0069,
+      "profile_path": "/coLizpTa8C0KuuwF8BmdNJEluuj.jpg"
+    },
+    {
+      "personId": 628267,
+      "name": "Viktor Gogolev",
+      "character": "Ivan Kouzmitch",
+      "order": 6,
+      "cast_id": 13,
+      "popularity": 1.1648,
+      "profile_path": "/jXCnHK7hdMqGEOR6Y5kznRhvHaL.jpg"
+    },
+    {
+      "personId": 935427,
+      "name": "Tamara Timofeeva",
+      "character": "Mariya Olegovna",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 1.2148,
+      "profile_path": "/uNV8HHsTLgQPL63LwjcH23qkbFl.jpg"
+    },
+    {
+      "personId": 240471,
+      "name": "Andrey Urgant",
+      "character": "Gulyaev",
+      "order": 8,
+      "cast_id": 22,
+      "popularity": 1.0089,
+      "profile_path": "/mtqJ1ZzdzdO3jzEy98DlQCYEpWq.jpg"
+    },
+    {
+      "personId": 935429,
+      "name": "Jean Rupert",
+      "character": "Monsieur Prevost",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 0.3388,
+      "profile_path": "/7SEGsQHbi6KRoN6DeghqaAdfhV6.jpg"
+    },
+    {
+      "personId": 38890,
+      "name": "Malka Ribowska",
+      "character": "Lady in black",
+      "order": 10,
+      "cast_id": 17,
+      "popularity": 0.6109,
+      "profile_path": "/l4A2KYe8rz9bERsvjcQeaeRGLy0.jpg"
+    },
+    {
+      "personId": 935430,
+      "name": "Bernard Cassus-Soulanis",
+      "character": "Construction company agent",
+      "order": 11,
+      "cast_id": 18,
+      "popularity": 0.18,
+      "profile_path": null
+    },
+    {
+      "personId": 935432,
+      "name": "Aleksei Kozodayev",
+      "character": "Sidorov",
+      "order": 12,
+      "cast_id": 21,
+      "popularity": 0.1818,
+      "profile_path": null
+    },
+    {
+      "personId": 1004788,
+      "name": "Elena Drapeko",
+      "character": "Deputy Director of 'Business Lyceum'",
+      "order": 13,
+      "cast_id": 23,
+      "popularity": 1.1883,
+      "profile_path": "/oEM81jVCqnrPjhzYu9O5PfGuZCq.jpg"
+    },
+    {
+      "personId": 1774334,
+      "name": "Vladimir Kalish",
+      "character": "Petya Ivanov",
+      "order": 14,
+      "cast_id": 84,
+      "popularity": 0.7782,
+      "profile_path": "/xIi96lURdK3RUSDQxDDSf1KX0di.jpg"
+    },
+    {
+      "personId": 545613,
+      "name": "Aleksei Zalivalov",
+      "character": "Petrov - trumpeter",
+      "order": 15,
+      "cast_id": 80,
+      "popularity": 0.9704,
+      "profile_path": "/sChMkMIddX08pICGyQ8VG0J19F1.jpg"
+    },
+    {
+      "personId": 1478765,
+      "name": "Anatoly Slivnikov",
+      "character": "Major militsii",
+      "order": 16,
+      "cast_id": 41,
+      "popularity": 1.0072,
+      "profile_path": "/82oC8Csd0LR9n6pw2meJxua9ago.jpg"
+    },
+    {
+      "personId": 1090482,
+      "name": "Oleg Belov",
+      "character": "Police chief",
+      "order": 17,
+      "cast_id": 42,
+      "popularity": 1.4121,
+      "profile_path": "/uURISKKMojEDOwOKesi3DEa2bpD.jpg"
+    },
+    {
+      "personId": 3098811,
+      "name": "Tatyana Komarova",
+      "character": "Woman activist",
+      "order": 18,
+      "cast_id": 43,
+      "popularity": 1.2146,
+      "profile_path": "/3YNJJOlhcQIveVjFdmwIQqtDDob.jpg"
+    },
+    {
+      "personId": 1090374,
+      "name": "Valery Kravchenko",
+      "character": "Physical education teacher",
+      "order": 19,
+      "cast_id": 44,
+      "popularity": 0.9985,
+      "profile_path": "/tkdZ581x4c1SQgKJCNUZnG1UnIl.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 125340,
+      "name": "Yuri Mamin",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.2886,
+      "profile_path": "/r5mrQWlzdSqf38UoopiZuP5tzql.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 90,
+      "name": "paris, france"
+    },
+    {
+      "id": 977,
+      "name": "cat"
+    },
+    {
+      "id": 2176,
+      "name": "music teacher"
+    },
+    {
+      "id": 10508,
+      "name": "teacher"
+    }
+  ]
+}

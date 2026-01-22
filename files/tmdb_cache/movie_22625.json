@@ -1,0 +1,269 @@
+{
+  "overview": "Three girlhood friends now at college share first loves, first kisses and first betrayals. At the center of it all is the best-looking boy on campus. Can a self-conscious dreamer hook the biggest fish in the pond?",
+  "release_date": "1995-04-07",
+  "runtime": 103,
+  "budget": 15000000,
+  "revenue": 45000000,
+  "tmdb_vote_average": 6.247,
+  "tmdb_vote_count": 95,
+  "tmdb_popularity": 2.9964,
+  "original_language": "en",
+  "poster_path": "/bnSBsGCIfGGiN68MSBIoviaoh9a.jpg",
+  "backdrop_path": "/8SHUNL0AlfzYC4TZIQzseU63BSp.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 364,
+      "name": "The Rank Organisation",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1898,
+      "name": "Fís Éireann/Screen Ireland",
+      "origin_country": "IE"
+    },
+    {
+      "id": 4127,
+      "name": "Lantana Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 23808,
+      "name": "Price Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "IE",
+      "name": "Ireland"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5577,
+      "name": "Chris O'Donnell",
+      "character": "Jack Foley",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.6986,
+      "profile_path": "/KvWBFg1aMBdu4X2PihXYL8xcFD.jpg"
+    },
+    {
+      "personId": 6613,
+      "name": "Minnie Driver",
+      "character": "Bernadette 'Benny' Hogan",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 7.6427,
+      "profile_path": "/OskQBuriLtKWNiCnLTHjMqV1ga.jpg"
+    },
+    {
+      "personId": 89021,
+      "name": "Geraldine O'Rawe",
+      "character": "Eve Malone",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 0.684,
+      "profile_path": "/77QWUiFhXFhgwJ3gC5pXrXxg7Xk.jpg"
+    },
+    {
+      "personId": 9825,
+      "name": "Saffron Burrows",
+      "character": "Nan Mahon",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.0755,
+      "profile_path": "/2qMLZh9XWquBt7TZF9wmDiOtJdm.jpg"
+    },
+    {
+      "personId": 10697,
+      "name": "Alan Cumming",
+      "character": "Sean Walsh",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 3.7143,
+      "profile_path": "/cXbcMoCtS8947or9K5cOQev1Mmj.jpg"
+    },
+    {
+      "personId": 5472,
+      "name": "Colin Firth",
+      "character": "Simon Westward",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 5.0504,
+      "profile_path": "/4VBeYEUQbfhnivdkqInM36u5fda.jpg"
+    },
+    {
+      "personId": 49735,
+      "name": "Aidan Gillen",
+      "character": "Aidan Lynch",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 6.8575,
+      "profile_path": "/fWWRgyJEGjOPcx43CaFiUCWMBLo.jpg"
+    },
+    {
+      "personId": 96671,
+      "name": "Mick Lally",
+      "character": "Dan Hogan",
+      "order": 7,
+      "cast_id": 45,
+      "popularity": 2.2635,
+      "profile_path": "/qfXzSVybrDG12H1mqR1FCbiaR3l.jpg"
+    },
+    {
+      "personId": 1053297,
+      "name": "Britta Smith",
+      "character": "Mrs Hogan",
+      "order": 8,
+      "cast_id": 46,
+      "popularity": 0.4467,
+      "profile_path": null
+    },
+    {
+      "personId": 20282,
+      "name": "John Kavanagh",
+      "character": "Brian Mahon",
+      "order": 9,
+      "cast_id": 11,
+      "popularity": 2.7036,
+      "profile_path": "/wG5dUlNS4b7eUof6m32MaVFWdla.jpg"
+    },
+    {
+      "personId": 17026,
+      "name": "Ruth McCabe",
+      "character": "Emily Mahon",
+      "order": 10,
+      "cast_id": 44,
+      "popularity": 0.7397,
+      "profile_path": "/wlNCRQ8odruOPyY2WKG80znHlKr.jpg"
+    },
+    {
+      "personId": 8785,
+      "name": "Ciarán Hinds",
+      "character": "Professor Flynn",
+      "order": 11,
+      "cast_id": 12,
+      "popularity": 4.2229,
+      "profile_path": "/d8wLIX9VYgwXRGSp1gmUdUxmApv.jpg"
+    },
+    {
+      "personId": 73284,
+      "name": "Tony Doyle",
+      "character": "Dr. Foley",
+      "order": 12,
+      "cast_id": 13,
+      "popularity": 0.7373,
+      "profile_path": "/zyNKcvgfIcCvMM7BVIP8e4Vx2Ks.jpg"
+    },
+    {
+      "personId": 42836,
+      "name": "Marie Mullen",
+      "character": "Mrs Foley",
+      "order": 13,
+      "cast_id": 48,
+      "popularity": 2.1186,
+      "profile_path": "/jDkW4AHjBiwEiQY8I3mdEmlLcoF.jpg"
+    },
+    {
+      "personId": 64042,
+      "name": "Marie Conmee",
+      "character": "Mrs Healey",
+      "order": 14,
+      "cast_id": 47,
+      "popularity": 0.3261,
+      "profile_path": null
+    },
+    {
+      "personId": 2123474,
+      "name": "Gerry Walsh",
+      "character": "Mr Flood",
+      "order": 15,
+      "cast_id": 49,
+      "popularity": 0.5114,
+      "profile_path": null
+    },
+    {
+      "personId": 2468,
+      "name": "Sean McGinley",
+      "character": "Mr Duggan",
+      "order": 16,
+      "cast_id": 50,
+      "popularity": 1.837,
+      "profile_path": "/6dNAreBr5Egv3vVLEtCqJuyjDG9.jpg"
+    },
+    {
+      "personId": 107729,
+      "name": "Tom Hickey",
+      "character": "Professor Maclure",
+      "order": 17,
+      "cast_id": 65,
+      "popularity": 1.6645,
+      "profile_path": "/sptnav0GF7XFcfLHCneNY3ZtkVk.jpg"
+    },
+    {
+      "personId": 2245187,
+      "name": "Seamus Forde",
+      "character": "Parish Priest",
+      "order": 18,
+      "cast_id": 66,
+      "popularity": 0.4579,
+      "profile_path": null
+    },
+    {
+      "personId": 150230,
+      "name": "Ingrid Craigie",
+      "character": "Celia Westward",
+      "order": 19,
+      "cast_id": 51,
+      "popularity": 0.7144,
+      "profile_path": "/3VuMQEscERIw6YrlB3dvGWcmwzA.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 19969,
+      "name": "Pat O'Connor",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.3153,
+      "profile_path": "/zGk61362umO8TtEOuBbU2trwANs.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3616,
+      "name": "college"
+    },
+    {
+      "id": 3691,
+      "name": "forbidden love"
+    },
+    {
+      "id": 4690,
+      "name": "moral conflict"
+    },
+    {
+      "id": 160246,
+      "name": "childhood friends"
+    },
+    {
+      "id": 208611,
+      "name": "1950s"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "overview": "Art Kane, now deceased, coordinated a group photograph of all the top jazz musicians in NYC in the year 1958, for a piece in Esquire magazine. Just about every jazz musician at the time showed up for the photo shoot which took place in front of a brownstone near the 125th street station. The documentary compiles interviews of many of the musicians in the photograph to talk about the day of the photograph, and it shows film footage taken that day by Milt Hinton and his wife.",
+  "release_date": "1994-09-27",
+  "runtime": 60,
+  "budget": 0,
+  "revenue": 527034,
+  "tmdb_vote_average": 6.2,
+  "tmdb_vote_count": 9,
+  "tmdb_popularity": 0.2651,
+  "original_language": "en",
+  "poster_path": "/606IorDjRMQZYaEdPBvjM8uI6qm.jpg",
+  "backdrop_path": "/jvHh813Lv8RuZCF5cI4b4HDxoaR.jpg",
+  "tmdb_genres_raw": [
+    "Documentary",
+    "Music",
+    "History"
+  ],
+  "production_companies": [
+    {
+      "id": 151499,
+      "name": "Castle Hill Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 151500,
+      "name": "Flo-Bert Ltd.",
+      "origin_country": "US"
+    },
+    {
+      "id": 151501,
+      "name": "New York Foundation for the Arts",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13301,
+      "name": "Quincy Jones",
+      "character": "Self - Narrator",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 0.8835,
+      "profile_path": "/5gLBCGdhwCXmA0ns5E3pMmIHvpv.jpg"
+    },
+    {
+      "personId": 129781,
+      "name": "Dizzy Gillespie",
+      "character": "Self",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 0.5543,
+      "profile_path": "/qc9mu8xBcPg32W3Rz09vdSJLBDE.jpg"
+    },
+    {
+      "personId": 1077068,
+      "name": "Sonny Rollins",
+      "character": "Self",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 0.2427,
+      "profile_path": "/eha67gl1CAVfQeRmvAigg9aOmvG.jpg"
+    },
+    {
+      "personId": 2677253,
+      "name": "Buck Clayton",
+      "character": "Self",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 0.1332,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1080040,
+      "name": "Jean Bach",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.1903,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1003,
+      "name": "photographer"
+    },
+    {
+      "id": 6025,
+      "name": "photography"
+    },
+    {
+      "id": 3017,
+      "name": "jazz singer or musician"
+    },
+    {
+      "id": 4045,
+      "name": "music journalist"
+    },
+    {
+      "id": 156137,
+      "name": "music history"
+    },
+    {
+      "id": 173989,
+      "name": "old photograph"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    },
+    {
+      "id": 189920,
+      "name": "harlem, new york city"
+    },
+    {
+      "id": 190675,
+      "name": "black history"
+    },
+    {
+      "id": 197702,
+      "name": "day in a life"
+    },
+    {
+      "id": 253351,
+      "name": "jazz history"
+    },
+    {
+      "id": 255151,
+      "name": "hidden history"
+    },
+    {
+      "id": 257291,
+      "name": "memorable day"
+    },
+    {
+      "id": 264453,
+      "name": "one time event"
+    },
+    {
+      "id": 312502,
+      "name": "photo journalist"
+    }
+  ]
+}

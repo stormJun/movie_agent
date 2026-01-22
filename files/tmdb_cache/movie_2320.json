@@ -1,0 +1,329 @@
+{
+  "overview": "Terrorists hijack a 747 inbound to Washington D.C., demanding the release of their imprisoned leader. Intelligence expert David Grant (Kurt Russell) suspects another reason and he is soon the reluctant member of a special assault team that is assigned to intercept the plane and hijackers.",
+  "release_date": "1996-03-15",
+  "runtime": 132,
+  "budget": 55000000,
+  "revenue": 121969216,
+  "tmdb_vote_average": 6.33,
+  "tmdb_vote_count": 996,
+  "tmdb_popularity": 2.3385,
+  "original_language": "en",
+  "poster_path": "/hLjXkFr9fHlWzRVwu1T31QSVHRq.jpg",
+  "backdrop_path": "/ct9dN0QUh5SMAexvyQ9IaA7HpOP.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 1885,
+      "name": "Silver Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6856,
+      "name": "Kurt Russell",
+      "character": "David Grant",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 5.5634,
+      "profile_path": "/6g1d98oH4miG4k0ZiZWmF3Dt0bO.jpg"
+    },
+    {
+      "personId": 23880,
+      "name": "Steven Seagal",
+      "character": "Lt. Colonel Austin Travis",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 4.2966,
+      "profile_path": "/fGNIEpn3JqOckY3ahnJX9x3qA94.jpg"
+    },
+    {
+      "personId": 4587,
+      "name": "Halle Berry",
+      "character": "Jean",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 6.9407,
+      "profile_path": "/yfAJMERSlDIZD1iy6Aab8bArcCK.jpg"
+    },
+    {
+      "personId": 5723,
+      "name": "John Leguizamo",
+      "character": "Rat",
+      "order": 3,
+      "cast_id": 17,
+      "popularity": 5.3337,
+      "profile_path": "/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+    },
+    {
+      "personId": 17485,
+      "name": "Oliver Platt",
+      "character": "Cahill",
+      "order": 4,
+      "cast_id": 23,
+      "popularity": 3.6846,
+      "profile_path": "/ipBzOzgWRdxxYoM5xNN1cfenFaC.jpg"
+    },
+    {
+      "personId": 3977,
+      "name": "Joe Morton",
+      "character": "Cappy",
+      "order": 5,
+      "cast_id": 18,
+      "popularity": 2.7427,
+      "profile_path": "/w7rGWWSGKWWukojLbZOQJ5yh9jv.jpg"
+    },
+    {
+      "personId": 20277,
+      "name": "David Suchet",
+      "character": "Nagi Hassan",
+      "order": 6,
+      "cast_id": 30,
+      "popularity": 2.6164,
+      "profile_path": "/4X4TT8Uf8mAmRIYgYh4EeR4mWva.jpg"
+    },
+    {
+      "personId": 14592,
+      "name": "BD Wong",
+      "character": "Louie",
+      "order": 7,
+      "cast_id": 19,
+      "popularity": 3.4575,
+      "profile_path": "/w7Hs9m6ocS2qlibvrLOvmyCKbAN.jpg"
+    },
+    {
+      "personId": 41247,
+      "name": "Len Cariou",
+      "character": "Secretary of Defense Charles White",
+      "order": 8,
+      "cast_id": 24,
+      "popularity": 1.9614,
+      "profile_path": "/9VJeCcxHkPkN4xH4izmwYHXRMy2.jpg"
+    },
+    {
+      "personId": 11089,
+      "name": "Whip Hubley",
+      "character": "Baker",
+      "order": 9,
+      "cast_id": 21,
+      "popularity": 1.3358,
+      "profile_path": "/lqwleuUWQhLWMJ4ZvAdRGrXgvjT.jpg"
+    },
+    {
+      "personId": 43773,
+      "name": "Andreas Katsulas",
+      "character": "Jaffa",
+      "order": 10,
+      "cast_id": 25,
+      "popularity": 1.0247,
+      "profile_path": "/nUWW0rW02JEVxIvu8y0Y4W0oK41.jpg"
+    },
+    {
+      "personId": 23967,
+      "name": "Mary Ellen Trainor",
+      "character": "Allison",
+      "order": 11,
+      "cast_id": 22,
+      "popularity": 1.6907,
+      "profile_path": "/Y926jxSOXikBiqQIptho1VzU9o.jpg"
+    },
+    {
+      "personId": 153884,
+      "name": "Marla Maples",
+      "character": "Nancy",
+      "order": 12,
+      "cast_id": 26,
+      "popularity": 1.1152,
+      "profile_path": "/oIdiJ6PHwvuubj40F7qn3Mr9UP.jpg"
+    },
+    {
+      "personId": 22131,
+      "name": "J. T. Walsh",
+      "character": "Senator Mavros",
+      "order": 13,
+      "cast_id": 27,
+      "popularity": 2.5029,
+      "profile_path": "/4yQXzRXMqQxKgYaUteluNmAKBX4.jpg"
+    },
+    {
+      "personId": 149471,
+      "name": "Ingo Neuhaus",
+      "character": "Doc",
+      "order": 14,
+      "cast_id": 28,
+      "popularity": 1.5264,
+      "profile_path": "/suBdPRrIqLgewixis6GlkMfGxXj.jpg"
+    },
+    {
+      "personId": 974432,
+      "name": "William James Jones",
+      "character": "Catman",
+      "order": 15,
+      "cast_id": 29,
+      "popularity": 0.8399,
+      "profile_path": "/3cpMigdWQFRH2HSiw95NzyxnYpt.jpg"
+    },
+    {
+      "personId": 13028,
+      "name": "Nicholas Pryor",
+      "character": "Secretary of State Jack Douglas",
+      "order": 16,
+      "cast_id": 42,
+      "popularity": 1.9473,
+      "profile_path": "/cDyRbrvg217ozhClJLy6FTXKn1P.jpg"
+    },
+    {
+      "personId": 129458,
+      "name": "Stanley Grover",
+      "character": "General Price",
+      "order": 17,
+      "cast_id": 153,
+      "popularity": 0.6242,
+      "profile_path": "/vJQPUaw3OdKsOLG8JMYrQdaqCGa.jpg"
+    },
+    {
+      "personId": 35370,
+      "name": "Eugene Roche",
+      "character": "Admiral Lewis",
+      "order": 18,
+      "cast_id": 154,
+      "popularity": 1.0945,
+      "profile_path": "/cY9u3TxO4UlSkxrhqS8TPhpdzzT.jpg"
+    },
+    {
+      "personId": 38570,
+      "name": "Ken Jenkins",
+      "character": "General Wood",
+      "order": 19,
+      "cast_id": 111,
+      "popularity": 1.603,
+      "profile_path": "/basRrWk50y03ydjm0DW8A6AxH1o.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2523,
+      "name": "Stuart Baird",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.9498,
+      "profile_path": "/rSKMlgfJ1m2xZcsxHUV0hvYc9Eh.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 10084,
+      "name": "rescue"
+    },
+    {
+      "id": 3800,
+      "name": "airplane"
+    },
+    {
+      "id": 4210,
+      "name": "panic"
+    },
+    {
+      "id": 258,
+      "name": "bomb"
+    },
+    {
+      "id": 1336,
+      "name": "ransom"
+    },
+    {
+      "id": 1562,
+      "name": "hostage"
+    },
+    {
+      "id": 4245,
+      "name": "hijacking"
+    },
+    {
+      "id": 4460,
+      "name": "terror cell"
+    },
+    {
+      "id": 5422,
+      "name": "special unit"
+    },
+    {
+      "id": 9758,
+      "name": "deception"
+    },
+    {
+      "id": 9856,
+      "name": "flashback"
+    },
+    {
+      "id": 10349,
+      "name": "survival"
+    },
+    {
+      "id": 10185,
+      "name": "covert operation"
+    },
+    {
+      "id": 10617,
+      "name": "disaster"
+    },
+    {
+      "id": 10950,
+      "name": "shootout"
+    },
+    {
+      "id": 13015,
+      "name": "terrorism"
+    },
+    {
+      "id": 14601,
+      "name": "explosion"
+    },
+    {
+      "id": 18420,
+      "name": "surveillance"
+    },
+    {
+      "id": 161998,
+      "name": "night vision goggles"
+    },
+    {
+      "id": 185266,
+      "name": "flight attendant"
+    },
+    {
+      "id": 185692,
+      "name": "intelligence agent"
+    },
+    {
+      "id": 188955,
+      "name": "hand to hand combat"
+    },
+    {
+      "id": 220935,
+      "name": "nerve gas"
+    }
+  ]
+}

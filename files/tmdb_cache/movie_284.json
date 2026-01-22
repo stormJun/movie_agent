@@ -1,0 +1,312 @@
+{
+  "overview": "Bud Baxter is a minor clerk in a huge New York insurance company, until he discovers a quick way to climb the corporate ladder. He lends out his apartment to the executives as a place to take their mistresses. Although he often has to deal with the aftermath of their visits, one night he's left with a major problem to solve.",
+  "release_date": "1960-06-21",
+  "runtime": 125,
+  "budget": 3000000,
+  "revenue": 25000000,
+  "tmdb_vote_average": 8.196,
+  "tmdb_vote_count": 2536,
+  "tmdb_popularity": 5.7599,
+  "original_language": "en",
+  "poster_path": "/hhSRt1KKfRT0yEhEtRW3qp31JFU.jpg",
+  "backdrop_path": "/2L8U8rUyWeFTb6n1egTNeJsEsvj.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 219,
+      "name": "The Mirisch Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 60,
+      "name": "United Artists",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3151,
+      "name": "Jack Lemmon",
+      "character": "C.C. Baxter",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.2969,
+      "profile_path": "/7jWVWLr1VJqQrN3d4YJaATCIHRw.jpg"
+    },
+    {
+      "personId": 4090,
+      "name": "Shirley MacLaine",
+      "character": "Fran Kubelik",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 4.8625,
+      "profile_path": "/mpW9c34IAFPW0ODuKR8J0FAqN5i.jpg"
+    },
+    {
+      "personId": 4091,
+      "name": "Fred MacMurray",
+      "character": "Jeff D. Sheldrake",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.1576,
+      "profile_path": "/lxxixlFMNH0JuA9K0K3mJmigYcc.jpg"
+    },
+    {
+      "personId": 4093,
+      "name": "Ray Walston",
+      "character": "Joe Dobisch",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.6145,
+      "profile_path": "/pRVUmhdc9nxflBI5GJvokz0nPPb.jpg"
+    },
+    {
+      "personId": 4094,
+      "name": "Jack Kruschen",
+      "character": "Dr. Dreyfuss",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.0421,
+      "profile_path": "/3QOPlFyLfFR8cLe0pseRjrm3lra.jpg"
+    },
+    {
+      "personId": 571911,
+      "name": "David Lewis",
+      "character": "Al Kirkeby",
+      "order": 5,
+      "cast_id": 28,
+      "popularity": 0.7925,
+      "profile_path": "/nwEuF8nyeN7tlHL7GsJuVCOsmI7.jpg"
+    },
+    {
+      "personId": 4097,
+      "name": "Hope Holiday",
+      "character": "Mrs. Margie MacDougall",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 1.6348,
+      "profile_path": null
+    },
+    {
+      "personId": 3161,
+      "name": "Joan Shawlee",
+      "character": "Sylvia",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 0.9704,
+      "profile_path": "/oUmK5YF1jcGs5eEGStI1I3iF5vd.jpg"
+    },
+    {
+      "personId": 4096,
+      "name": "Naomi Stevens",
+      "character": "Mrs. Mildred Dreyfuss",
+      "order": 8,
+      "cast_id": 6,
+      "popularity": 1.2592,
+      "profile_path": "/3s8sSpWsA2iZr20Db47nEbTcAYo.jpg"
+    },
+    {
+      "personId": 4099,
+      "name": "Johnny Seven",
+      "character": "Karl Matuschka",
+      "order": 9,
+      "cast_id": 10,
+      "popularity": 0.9506,
+      "profile_path": "/kn6k8OPk4OnAGl2aKp9zOBXfMyw.jpg"
+    },
+    {
+      "personId": 40381,
+      "name": "Joyce Jameson",
+      "character": "The Blonde",
+      "order": 10,
+      "cast_id": 29,
+      "popularity": 1.6307,
+      "profile_path": "/wSkhDflX3GiIMx8AQx0gKKwxE9m.jpg"
+    },
+    {
+      "personId": 87517,
+      "name": "Willard Waterman",
+      "character": "Mr. Vanderhoff",
+      "order": 11,
+      "cast_id": 30,
+      "popularity": 0.4481,
+      "profile_path": "/t0QsePvJiJgTvusWlS8exxXFwsj.jpg"
+    },
+    {
+      "personId": 141694,
+      "name": "David White",
+      "character": "Mr. Eichelberger",
+      "order": 12,
+      "cast_id": 31,
+      "popularity": 1.5917,
+      "profile_path": "/h6jZkxOg7Z6I8SxkicURKqIHEn9.jpg"
+    },
+    {
+      "personId": 4098,
+      "name": "Edie Adams",
+      "character": "Miss Olsen",
+      "order": 13,
+      "cast_id": 8,
+      "popularity": 1.1615,
+      "profile_path": "/wA8UQVoIG2OFZe6goZWmNGPuaBR.jpg"
+    },
+    {
+      "personId": 1234545,
+      "name": "Dorothy Abbott",
+      "character": "Office Worker (uncredited)",
+      "order": 14,
+      "cast_id": 32,
+      "popularity": 0.44,
+      "profile_path": "/bheDciblNfOsKTvRNRyWJ5BNUJS.jpg"
+    },
+    {
+      "personId": 1551605,
+      "name": "Ralph Moratz",
+      "character": "Office Worker (uncredited)",
+      "order": 15,
+      "cast_id": 33,
+      "popularity": 0.513,
+      "profile_path": "/ax2d7RI6kcHIzV6PBnoE7hafNbs.jpg"
+    },
+    {
+      "personId": 1250242,
+      "name": "Joe Palma",
+      "character": "Office Maintenance Man (uncredited)",
+      "order": 16,
+      "cast_id": 34,
+      "popularity": 0.7911,
+      "profile_path": null
+    },
+    {
+      "personId": 16527,
+      "name": "Bill Baldwin",
+      "character": "TV Movie Host (uncredited)",
+      "order": 17,
+      "cast_id": 35,
+      "popularity": 0.8763,
+      "profile_path": "/lxPg2ucKAdQJ2L3jT0Ob3E6kvS0.jpg"
+    },
+    {
+      "personId": 120555,
+      "name": "Benny Burt",
+      "character": "Charlie - Bartender (uncredited)",
+      "order": 18,
+      "cast_id": 36,
+      "popularity": 0.3177,
+      "profile_path": null
+    },
+    {
+      "personId": 98166,
+      "name": "Lynn Cartwright",
+      "character": "Elevator Supervisor with Clicker (uncredited)",
+      "order": 19,
+      "cast_id": 37,
+      "popularity": 1.9525,
+      "profile_path": "/p6gqVvZUKKR9IS4anwJFwMJmwxn.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 3146,
+      "name": "Billy Wilder",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.3435,
+      "profile_path": "/nWV9BDDCbRegP7etiPjl3vYnJEq.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 613,
+      "name": "new year's eve"
+    },
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 725,
+      "name": "lovesickness"
+    },
+    {
+      "id": 1443,
+      "name": "clerk"
+    },
+    {
+      "id": 1442,
+      "name": "winter"
+    },
+    {
+      "id": 965,
+      "name": "age difference"
+    },
+    {
+      "id": 1252,
+      "name": "suicide attempt"
+    },
+    {
+      "id": 1438,
+      "name": "office"
+    },
+    {
+      "id": 1439,
+      "name": "flat"
+    },
+    {
+      "id": 1440,
+      "name": "spaghetti"
+    },
+    {
+      "id": 1487,
+      "name": "tennis racket"
+    },
+    {
+      "id": 9799,
+      "name": "romcom"
+    },
+    {
+      "id": 12999,
+      "name": "black and white"
+    },
+    {
+      "id": 14720,
+      "name": "love affair"
+    },
+    {
+      "id": 34094,
+      "name": "extramarital affair"
+    },
+    {
+      "id": 179173,
+      "name": "quitting a job"
+    },
+    {
+      "id": 207317,
+      "name": "christmas"
+    },
+    {
+      "id": 286239,
+      "name": "apartment"
+    },
+    {
+      "id": 325782,
+      "name": "cheerful"
+    }
+  ]
+}

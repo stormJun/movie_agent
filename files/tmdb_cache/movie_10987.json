@@ -1,0 +1,317 @@
+{
+  "overview": "Six years after being presumed dead in a fire, and just as the town prepares to finally celebrate Halloween again, Michael Myers returns to Haddonfield to continue his reign of terror.",
+  "release_date": "1995-09-29",
+  "runtime": 88,
+  "budget": 5000000,
+  "revenue": 15116634,
+  "tmdb_vote_average": 5.15,
+  "tmdb_vote_count": 1203,
+  "tmdb_popularity": 2.3424,
+  "original_language": "en",
+  "poster_path": "/noCnM8nEI2bEDSdKHh0RKbwBwbC.jpg",
+  "backdrop_path": "/cFFCNDLLJqPIsQDMH9dlniYDiIT.jpg",
+  "tmdb_genres_raw": [
+    "Horror",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 143049,
+      "name": "Halloween VI Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 21438,
+      "name": "Nightfall Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 15822,
+      "name": "Trancas International Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 7405,
+      "name": "Dimension Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 9221,
+      "name": "Donald Pleasence",
+      "character": "Dr. Sam Loomis",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.1641,
+      "profile_path": "/eVJGFCd8ikP6w0XjkuiTbsm65eD.jpg"
+    },
+    {
+      "personId": 22226,
+      "name": "Paul Rudd",
+      "character": "Tommy Doyle",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 5.8336,
+      "profile_path": "/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+    },
+    {
+      "personId": 67838,
+      "name": "Marianne Hagan",
+      "character": "Kara Strode",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 0.9352,
+      "profile_path": "/14zTRzvemLUYpAmNWxqSmOQlcc0.jpg"
+    },
+    {
+      "personId": 14312,
+      "name": "Mitchell Ryan",
+      "character": "Dr. Terence Wynn",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.5542,
+      "profile_path": "/9XrbQfOjDeqjXJUHeSIA6OxJAJa.jpg"
+    },
+    {
+      "personId": 15655,
+      "name": "Kim Darby",
+      "character": "Debra Strode",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 1.5682,
+      "profile_path": "/w1dwAymNXsi16SAuZZsl2JTEWFd.jpg"
+    },
+    {
+      "personId": 1234009,
+      "name": "Bradford English",
+      "character": "John Strode",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 0.8307,
+      "profile_path": "/ywejaA8zuZ3MbkIm7VQdp0G2i7R.jpg"
+    },
+    {
+      "personId": 139343,
+      "name": "Keith Bogart",
+      "character": "Tim Strode",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 0.9774,
+      "profile_path": "/5U0lKh22mUDKqjswRlaiGOwMlrc.jpg"
+    },
+    {
+      "personId": 133456,
+      "name": "Mariah O'Brien",
+      "character": "Beth",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 0.491,
+      "profile_path": "/caScJZPCb9yoxiRY9sQiNzZynI0.jpg"
+    },
+    {
+      "personId": 97719,
+      "name": "Leo Geter",
+      "character": "Barry Simms",
+      "order": 8,
+      "cast_id": 19,
+      "popularity": 1.4492,
+      "profile_path": "/7vBLH6fUHVlwLzuJLYTOS1062oc.jpg"
+    },
+    {
+      "personId": 1219397,
+      "name": "J.C. Brandy",
+      "character": "Jamie Lloyd",
+      "order": 9,
+      "cast_id": 50,
+      "popularity": 1.0055,
+      "profile_path": "/7dEd4s8vHkJqoFZ8ZUqTUqpmrvs.jpg"
+    },
+    {
+      "personId": 1109673,
+      "name": "Devin Gardner",
+      "character": "Danny Strode",
+      "order": 10,
+      "cast_id": 21,
+      "popularity": 0.2225,
+      "profile_path": null
+    },
+    {
+      "personId": 182515,
+      "name": "Susan Swift",
+      "character": "Mary",
+      "order": 11,
+      "cast_id": 22,
+      "popularity": 1.1842,
+      "profile_path": "/1CZQRWsOrGVWzWsd3DOfTD9i3gf.jpg"
+    },
+    {
+      "personId": 69129,
+      "name": "George P. Wilbur",
+      "character": "The Shape",
+      "order": 12,
+      "cast_id": 23,
+      "popularity": 0.9976,
+      "profile_path": "/fOuVakMHvCwlPYMcLAm9oEucQUz.jpg"
+    },
+    {
+      "personId": 1762900,
+      "name": "Janice Knickrehm",
+      "character": "Mrs. Blankenship",
+      "order": 13,
+      "cast_id": 24,
+      "popularity": 0.7829,
+      "profile_path": null
+    },
+    {
+      "personId": 1805173,
+      "name": "Alan Echeverria",
+      "character": "Dr. Bonham",
+      "order": 14,
+      "cast_id": 40,
+      "popularity": 0.1346,
+      "profile_path": null
+    },
+    {
+      "personId": 3214432,
+      "name": "Hildur Ruriks",
+      "character": "Dawn",
+      "order": 15,
+      "cast_id": 41,
+      "popularity": 0.0507,
+      "profile_path": null
+    },
+    {
+      "personId": 3691326,
+      "name": "Sheri Hicks",
+      "character": "Paramedic",
+      "order": 16,
+      "cast_id": 42,
+      "popularity": 0.3212,
+      "profile_path": null
+    },
+    {
+      "personId": 95051,
+      "name": "Tom Proctor",
+      "character": "Motorist",
+      "order": 17,
+      "cast_id": 25,
+      "popularity": 1.3677,
+      "profile_path": "/8ClnmTQE2OhUrpObFipRSXhByFR.jpg"
+    },
+    {
+      "personId": 4068194,
+      "name": "Bryan Morris",
+      "character": "Attendant",
+      "order": 18,
+      "cast_id": 43,
+      "popularity": 0.0805,
+      "profile_path": null
+    },
+    {
+      "personId": 1762904,
+      "name": "Lee Ju Chew",
+      "character": "Nurse",
+      "order": 19,
+      "cast_id": 27,
+      "popularity": 0.2072,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 55116,
+      "name": "Joe Chappelle",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.7619,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 10685,
+      "name": "escape"
+    },
+    {
+      "id": 6259,
+      "name": "psychopath"
+    },
+    {
+      "id": 1583,
+      "name": "mass murder"
+    },
+    {
+      "id": 3335,
+      "name": "halloween"
+    },
+    {
+      "id": 5034,
+      "name": "attempt to escape"
+    },
+    {
+      "id": 6406,
+      "name": "escape agent"
+    },
+    {
+      "id": 9663,
+      "name": "sequel"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 10714,
+      "name": "serial killer"
+    },
+    {
+      "id": 12339,
+      "name": "slasher"
+    },
+    {
+      "id": 13005,
+      "name": "doctor"
+    },
+    {
+      "id": 13140,
+      "name": "niece"
+    },
+    {
+      "id": 34079,
+      "name": "death"
+    },
+    {
+      "id": 156075,
+      "name": "evil"
+    },
+    {
+      "id": 156851,
+      "name": "psychiatric ward"
+    },
+    {
+      "id": 217324,
+      "name": "murder hunt"
+    },
+    {
+      "id": 232795,
+      "name": "halloween night"
+    },
+    {
+      "id": 323756,
+      "name": "holiday horror"
+    }
+  ]
+}

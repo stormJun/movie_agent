@@ -1,0 +1,289 @@
+{
+  "overview": "When recently single Steven moves into his new apartment, cable guy Chip comes to hook him up—and doesn't let go. Initially, Chip is just overzealous in his desire to be Steven's pal, but when Steven tries to end the 'friendship', Chip shows his dark side. He begins stalking Steven, who's left to fend for himself because no one else can believe Chip's capable of such behaviour.",
+  "release_date": "1996-06-10",
+  "runtime": 96,
+  "budget": 47000000,
+  "revenue": 102825796,
+  "tmdb_vote_average": 5.992,
+  "tmdb_vote_count": 2577,
+  "tmdb_popularity": 3.2451,
+  "original_language": "en",
+  "poster_path": "/YJt9l3RdrRohI95btQKPXwpdii.jpg",
+  "backdrop_path": "/nj0rIFyjZ0GUOQYnGM8YyGR3CmS.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1606,
+      "name": "Brillstein-Grey Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 6092,
+      "name": "Licht/Mueller Film Corporation",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 206,
+      "name": "Jim Carrey",
+      "character": "Cable Guy",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 11.1914,
+      "profile_path": "/u0AqTz6Y7GHPCHINS01P7gPvDSb.jpg"
+    },
+    {
+      "personId": 4756,
+      "name": "Matthew Broderick",
+      "character": "Steven",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 3.1808,
+      "profile_path": "/2Pq8pwOX5ZFfT2p5pNLGfvUi9Pp.jpg"
+    },
+    {
+      "personId": 41087,
+      "name": "Leslie Mann",
+      "character": "Robin",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 4.9305,
+      "profile_path": "/x3OS9RL3qsv50kzRtpR2OhbuTkr.jpg"
+    },
+    {
+      "personId": 70851,
+      "name": "Jack Black",
+      "character": "Rick",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 11.7364,
+      "profile_path": "/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg"
+    },
+    {
+      "personId": 18364,
+      "name": "George Segal",
+      "character": "Steven's Father",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.6549,
+      "profile_path": "/nkAMWhWNdCaRp1wPOOsaXuWnwoB.jpg"
+    },
+    {
+      "personId": 6930,
+      "name": "Diane Baker",
+      "character": "Steven's Mother",
+      "order": 5,
+      "cast_id": 19,
+      "popularity": 2.0683,
+      "profile_path": "/doyBqSMhFzf4XJgOQJxJCYe5n54.jpg"
+    },
+    {
+      "personId": 7399,
+      "name": "Ben Stiller",
+      "character": "Sam Sweet",
+      "order": 6,
+      "cast_id": 20,
+      "popularity": 5.5893,
+      "profile_path": "/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg"
+    },
+    {
+      "personId": 21315,
+      "name": "Eric Roberts",
+      "character": "Eric Roberts",
+      "order": 7,
+      "cast_id": 21,
+      "popularity": 6.3543,
+      "profile_path": "/NiWg1TaUcal7xn1ZQeyA2dLd5F.jpg"
+    },
+    {
+      "personId": 21197,
+      "name": "Janeane Garofalo",
+      "character": "Medieval Waitress",
+      "order": 8,
+      "cast_id": 22,
+      "popularity": 2.2426,
+      "profile_path": "/cdNooT0otUf5QVHDPm9bkGN7gNu.jpg"
+    },
+    {
+      "personId": 43120,
+      "name": "Andy Dick",
+      "character": "Medieval Host",
+      "order": 9,
+      "cast_id": 23,
+      "popularity": 2.6976,
+      "profile_path": "/n4WT4oYoYrzSGAanlWPsneCzBPk.jpg"
+    },
+    {
+      "personId": 28101,
+      "name": "Harry O'Reilly",
+      "character": "Steven's Boss",
+      "order": 10,
+      "cast_id": 24,
+      "popularity": 0.733,
+      "profile_path": "/sVUIeCbD6ct3vkzlOAElY8d6tVe.jpg"
+    },
+    {
+      "personId": 212,
+      "name": "David Cross",
+      "character": "Sales Manager",
+      "order": 11,
+      "cast_id": 25,
+      "popularity": 3.315,
+      "profile_path": "/dZyQ61KLra7JpkkoSeWIUvgEA1K.jpg"
+    },
+    {
+      "personId": 26046,
+      "name": "Amy Stiller",
+      "character": "Steven's Secretary",
+      "order": 12,
+      "cast_id": 26,
+      "popularity": 2.3541,
+      "profile_path": "/hBOWh6dNPr1Mc5UdKJD2fq0eQx4.jpg"
+    },
+    {
+      "personId": 887,
+      "name": "Owen Wilson",
+      "character": "Robin's Date",
+      "order": 13,
+      "cast_id": 27,
+      "popularity": 5.6895,
+      "profile_path": "/lFxHIlcywMlYpe6wkW39sfBrqag.jpg"
+    },
+    {
+      "personId": 134772,
+      "name": "Keith Gibbs",
+      "character": "Basketball Player",
+      "order": 14,
+      "cast_id": 28,
+      "popularity": 0.1629,
+      "profile_path": null
+    },
+    {
+      "personId": 93925,
+      "name": "Tommy Hinkley",
+      "character": "Basketball Player",
+      "order": 15,
+      "cast_id": 126,
+      "popularity": 1.5893,
+      "profile_path": "/lNN8KIup3A4y06sl5gJKApYHmQZ.jpg"
+    },
+    {
+      "personId": 101257,
+      "name": "Shawn Michael Howard",
+      "character": "Basketball Player",
+      "order": 16,
+      "cast_id": 127,
+      "popularity": 0.9116,
+      "profile_path": "/7VZ0s8YnQa3cTuhrT8DslkhoHfD.jpg"
+    },
+    {
+      "personId": 1219899,
+      "name": "Jeff Kahn",
+      "character": "Basketball Player",
+      "order": 17,
+      "cast_id": 128,
+      "popularity": 1.3963,
+      "profile_path": "/o876keswb6pAaxMJYcUORFqG3Ce.jpg"
+    },
+    {
+      "personId": 1214127,
+      "name": "Suli McCullough",
+      "character": "Basketball Player",
+      "order": 18,
+      "cast_id": 129,
+      "popularity": 0.5997,
+      "profile_path": "/9kPnQhplaDi7xdDRteUGEvFkBLL.jpg"
+    },
+    {
+      "personId": 1708688,
+      "name": "Jeff Michalski",
+      "character": "Basketball Player",
+      "order": 19,
+      "cast_id": 130,
+      "popularity": 0.6609,
+      "profile_path": "/3PkPMrxFMQDnlJt2Zqjr543JXlt.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 7399,
+      "name": "Ben Stiller",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 5.5893,
+      "profile_path": "/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 378,
+      "name": "prison"
+    },
+    {
+      "id": 549,
+      "name": "prostitute"
+    },
+    {
+      "id": 1005,
+      "name": "karaoke"
+    },
+    {
+      "id": 1523,
+      "name": "obsession"
+    },
+    {
+      "id": 10123,
+      "name": "dark comedy"
+    },
+    {
+      "id": 161257,
+      "name": "medieval"
+    },
+    {
+      "id": 208575,
+      "name": "cable guy"
+    },
+    {
+      "id": 211775,
+      "name": "frenemies"
+    },
+    {
+      "id": 225012,
+      "name": "satirical"
+    },
+    {
+      "id": 325778,
+      "name": "bold"
+    },
+    {
+      "id": 325815,
+      "name": "farcical"
+    },
+    {
+      "id": 325846,
+      "name": "sardonic"
+    }
+  ]
+}

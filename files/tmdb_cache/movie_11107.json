@@ -1,0 +1,269 @@
+{
+  "overview": "Eddie is a New York limo driver and a fanatical follower of the New York Knicks professional basketball team. The team is struggling with a mediocre record when, in mid-season, \"Wild Bill\" Burgess, the new owner, as a public relations gimmick, stages an 'honorary coach' contest, which Eddie wins. The fans love it, so \"Wild Bill\" fires the coach and hires her. She takes the bunch of overpaid prima",
+  "release_date": "1996-05-31",
+  "runtime": 100,
+  "budget": 30000000,
+  "revenue": 31387164,
+  "tmdb_vote_average": 5.468,
+  "tmdb_vote_count": 170,
+  "tmdb_popularity": 3.6359,
+  "original_language": "en",
+  "poster_path": "/qIJ4PU6WifgRs8RpiN3LkNYjzlS.jpg",
+  "backdrop_path": "/hpP2NfkfXN9K6WGOWKt8zRq87Xx.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 1382,
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 3492,
+      "name": "Island Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 915,
+      "name": "Hollywood Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2395,
+      "name": "Whoopi Goldberg",
+      "character": "Eddie Franklin",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.2878,
+      "profile_path": "/wZKI7qcEIVgiHxeFtk3NuKt8URQ.jpg"
+    },
+    {
+      "personId": 8924,
+      "name": "Frank Langella",
+      "character": "Wild Bill Burgess",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.9835,
+      "profile_path": "/86DEo3sBguyc1l46606yVKD28T4.jpg"
+    },
+    {
+      "personId": 1117,
+      "name": "Dennis Farina",
+      "character": "John Bailey",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.7138,
+      "profile_path": "/4hEWe0ZcDpGlB3nRizLkVMcG13B.jpg"
+    },
+    {
+      "personId": 28633,
+      "name": "Richard Jenkins",
+      "character": "Carl Zimmer",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.3489,
+      "profile_path": "/muT3RZG9hiKaKojD751RcQ5tGEy.jpg"
+    },
+    {
+      "personId": 4494,
+      "name": "Lisa Ann Walter",
+      "character": "Claudine",
+      "order": 4,
+      "cast_id": 20,
+      "popularity": 3.172,
+      "profile_path": "/56vu6e7zmXLVwDG7eVa9phEe4gA.jpg"
+    },
+    {
+      "personId": 21179,
+      "name": "John Benjamin Hickey",
+      "character": "Joe Nader",
+      "order": 5,
+      "cast_id": 21,
+      "popularity": 1.7828,
+      "profile_path": "/4sUI0QhpeATA3Ah1R5FQzPLrndC.jpg"
+    },
+    {
+      "personId": 42974,
+      "name": "Troy Byer",
+      "character": "Beth Hastings",
+      "order": 6,
+      "cast_id": 22,
+      "popularity": 1.3209,
+      "profile_path": "/jf4fviwKUPBqs3cDyBKPR6m6URB.jpg"
+    },
+    {
+      "personId": 119869,
+      "name": "John Salley",
+      "character": "Nate Wilson",
+      "order": 7,
+      "cast_id": 23,
+      "popularity": 0.9208,
+      "profile_path": "/efN5d1FEOVsnvxospYfvn9ebwsk.jpg"
+    },
+    {
+      "personId": 119870,
+      "name": "Rick Fox",
+      "character": "Terry Hastings",
+      "order": 8,
+      "cast_id": 24,
+      "popularity": 1.7465,
+      "profile_path": "/dQFVNXprDTpX2VRWiVVuJFJTXne.jpg"
+    },
+    {
+      "personId": 119871,
+      "name": "Malik Sealy",
+      "character": "Stacy Patton",
+      "order": 9,
+      "cast_id": 25,
+      "popularity": 0.1121,
+      "profile_path": null
+    },
+    {
+      "personId": 1214271,
+      "name": "John Starks",
+      "character": "Pickup Player",
+      "order": 10,
+      "cast_id": 27,
+      "popularity": 1.2612,
+      "profile_path": "/l6mTkb1gHX2telMZCj1G4ZnMCQB.jpg"
+    },
+    {
+      "personId": 1221738,
+      "name": "Mark Jackson",
+      "character": "Darren \"Preacher\" Taylor",
+      "order": 11,
+      "cast_id": 28,
+      "popularity": 0.5026,
+      "profile_path": null
+    },
+    {
+      "personId": 1315452,
+      "name": "Greg Ostertag",
+      "character": "Joe Sparks",
+      "order": 12,
+      "cast_id": 29,
+      "popularity": 0.1998,
+      "profile_path": null
+    },
+    {
+      "personId": 179512,
+      "name": "Marv Albert",
+      "character": "Marv Albert",
+      "order": 13,
+      "cast_id": 30,
+      "popularity": 0.4054,
+      "profile_path": "/5WosB7OSK7xuxNMnW5vyXxHnZRm.jpg"
+    },
+    {
+      "personId": 145881,
+      "name": "Chris Berman",
+      "character": "Chris Berman",
+      "order": 14,
+      "cast_id": 31,
+      "popularity": 0.6242,
+      "profile_path": "/78fG1kUNOqWWfVGrF1pavAAsL1v.jpg"
+    },
+    {
+      "personId": 20644,
+      "name": "Aasif Mandvi",
+      "character": "Mohammed",
+      "order": 15,
+      "cast_id": 32,
+      "popularity": 1.7058,
+      "profile_path": "/hoBCqgxK2JqV3MOQYncHRMfwu8V.jpg"
+    },
+    {
+      "personId": 17490,
+      "name": "Isiah Whitlock, Jr.",
+      "character": "Rick",
+      "order": 16,
+      "cast_id": 33,
+      "popularity": 12.191,
+      "profile_path": "/8OIhQb53rMX7VcTLZbAMeVd7tHc.jpg"
+    },
+    {
+      "personId": 1315454,
+      "name": "Walt Frazier",
+      "character": "Walt Frazier",
+      "order": 17,
+      "cast_id": 34,
+      "popularity": 0.1676,
+      "profile_path": "/bhb8JPx8rcF96TKJCIpUVEM4Uck.jpg"
+    },
+    {
+      "personId": 931021,
+      "name": "Rudolph Giuliani",
+      "character": "Rudolph Giuliani",
+      "order": 18,
+      "cast_id": 35,
+      "popularity": 0.6028,
+      "profile_path": "/jcDZkl6E5nhpNCqdi7PwqWiCiBy.jpg"
+    },
+    {
+      "personId": 1145892,
+      "name": "Ed Koch",
+      "character": "Ed Koch",
+      "order": 19,
+      "cast_id": 36,
+      "popularity": 0.697,
+      "profile_path": "/xiYbexdeDIUJnhCmh8gFKo6tAVF.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 54590,
+      "name": "Steve Rash",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7627,
+      "profile_path": "/t7sZbMXWCHp80p5tPFTnsPY037h.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 2072,
+      "name": "chauffeur"
+    },
+    {
+      "id": 6075,
+      "name": "sports"
+    },
+    {
+      "id": 1482,
+      "name": "trainer"
+    },
+    {
+      "id": 6496,
+      "name": "basketball"
+    },
+    {
+      "id": 169055,
+      "name": "national basketball association (nba)"
+    }
+  ]
+}

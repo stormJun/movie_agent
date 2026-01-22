@@ -1,0 +1,309 @@
+{
+  "overview": "When a promised job for Texan Michael fails to materialize in Wyoming, Mike is mistaken by Wayne to be the hitman he hired to kill his unfaithful wife, Suzanne. Mike takes full advantage of the situation, collects the money, and runs. During his getaway, things go wrong, and soon get worse when he runs into the real hitman, Lyle.",
+  "release_date": "1993-05-14",
+  "runtime": 98,
+  "budget": 8000000,
+  "revenue": 2500000,
+  "tmdb_vote_average": 6.742,
+  "tmdb_vote_count": 378,
+  "tmdb_popularity": 1.946,
+  "original_language": "en",
+  "poster_path": "/ewofUEqU3Gpr7WSgSz3TEVPIfBg.jpg",
+  "backdrop_path": "/3JbHPpUJ53I52w66jydAhIp8Ibe.jpg",
+  "tmdb_genres_raw": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 278,
+      "name": "Propaganda Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 1382,
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2963,
+      "name": "Nicolas Cage",
+      "character": "Michael Williams",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 8.4149,
+      "profile_path": "/y1RtezurZYveYkVNRht7CwEgSYY.jpg"
+    },
+    {
+      "personId": 2778,
+      "name": "Dennis Hopper",
+      "character": "Lyle from Dallas",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 3.2218,
+      "profile_path": "/kqyNvLHi5RZGZcZMxl7e6XvoB5U.jpg"
+    },
+    {
+      "personId": 6684,
+      "name": "Lara Flynn Boyle",
+      "character": "Suzanne Brown",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.8827,
+      "profile_path": "/1VL97IlddM29sypHuI36XY2h5Z2.jpg"
+    },
+    {
+      "personId": 22131,
+      "name": "J. T. Walsh",
+      "character": "Wayne Brown",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 2.5029,
+      "profile_path": "/4yQXzRXMqQxKgYaUteluNmAKBX4.jpg"
+    },
+    {
+      "personId": 17396,
+      "name": "Timothy Carhart",
+      "character": "Deputy Matt Greytack",
+      "order": 4,
+      "cast_id": 18,
+      "popularity": 1.5226,
+      "profile_path": "/jfEzqYXfX7sH0BFmmiXty6kB1Lq.jpg"
+    },
+    {
+      "personId": 2550,
+      "name": "Dan Shor",
+      "character": "Deputy Russ Bowman",
+      "order": 5,
+      "cast_id": 19,
+      "popularity": 1.7846,
+      "profile_path": "/xsdNaTwcqogHFKBipxtiAZJFAlX.jpg"
+    },
+    {
+      "personId": 20309,
+      "name": "Dwight Yoakam",
+      "character": "Truck Driver",
+      "order": 6,
+      "cast_id": 20,
+      "popularity": 1.4482,
+      "profile_path": "/lMqcRiQs2OELf0xvFbLbX4nnXi8.jpg"
+    },
+    {
+      "personId": 65253,
+      "name": "Craig Reay",
+      "character": "Jim",
+      "order": 7,
+      "cast_id": 2,
+      "popularity": 0.4168,
+      "profile_path": "/n7Qj9Xei1T2SYbtthxJHzwkRgVD.jpg"
+    },
+    {
+      "personId": 1641242,
+      "name": "Vance Johnson",
+      "character": "Mr. Johnson",
+      "order": 8,
+      "cast_id": 21,
+      "popularity": 0.2035,
+      "profile_path": null
+    },
+    {
+      "personId": 1641243,
+      "name": "Robert Apel",
+      "character": "Howard",
+      "order": 9,
+      "cast_id": 22,
+      "popularity": 0.179,
+      "profile_path": null
+    },
+    {
+      "personId": 1641244,
+      "name": "Bobby Joe McFadden",
+      "character": "Old Man",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 0.8256,
+      "profile_path": null
+    },
+    {
+      "personId": 177645,
+      "name": "Dale Gibson",
+      "character": "Kurt",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 0.604,
+      "profile_path": "/tSO5Qx3X3HS93odAi9jdQ5YlmWz.jpg"
+    },
+    {
+      "personId": 1641245,
+      "name": "Ted Parks",
+      "character": "Cashier",
+      "order": 12,
+      "cast_id": 25,
+      "popularity": 0.1332,
+      "profile_path": null
+    },
+    {
+      "personId": 1641247,
+      "name": "Babs Bram",
+      "character": "Receptionist",
+      "order": 13,
+      "cast_id": 26,
+      "popularity": 0.052,
+      "profile_path": null
+    },
+    {
+      "personId": 1641248,
+      "name": "Robert Guajardo",
+      "character": "Doctor",
+      "order": 14,
+      "cast_id": 27,
+      "popularity": 0.1161,
+      "profile_path": null
+    },
+    {
+      "personId": 1538294,
+      "name": "Sarah Sullivan",
+      "character": "Nurse",
+      "order": 15,
+      "cast_id": 37,
+      "popularity": 0.2703,
+      "profile_path": null
+    },
+    {
+      "personId": 1195003,
+      "name": "Michael Ruud",
+      "character": "Red Rock Bartender",
+      "order": 16,
+      "cast_id": 38,
+      "popularity": 0.7795,
+      "profile_path": null
+    },
+    {
+      "personId": 2005291,
+      "name": "Peter Kevin Quinn",
+      "character": "Truck Driver's Buddy",
+      "order": 17,
+      "cast_id": 39,
+      "popularity": 0.1365,
+      "profile_path": null
+    },
+    {
+      "personId": 11408,
+      "name": "Jeff Levine",
+      "character": "Country Girl Bartender",
+      "order": 18,
+      "cast_id": 40,
+      "popularity": 2.5074,
+      "profile_path": null
+    },
+    {
+      "personId": 2005292,
+      "name": "Shawn Michael Ryan",
+      "character": "Ted",
+      "order": 19,
+      "cast_id": 41,
+      "popularity": 0.5384,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 21053,
+      "name": "John Dahl",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.3994,
+      "profile_path": "/8WDCi9LJ9Lc7z6BSwGiQqfkSx61.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 422,
+      "name": "vietnam veteran"
+    },
+    {
+      "id": 798,
+      "name": "sheriff"
+    },
+    {
+      "id": 1016,
+      "name": "wyoming, usa"
+    },
+    {
+      "id": 2708,
+      "name": "hitman"
+    },
+    {
+      "id": 1419,
+      "name": "gun"
+    },
+    {
+      "id": 1420,
+      "name": "gas station"
+    },
+    {
+      "id": 1227,
+      "name": "cemetery"
+    },
+    {
+      "id": 2669,
+      "name": "motel"
+    },
+    {
+      "id": 10594,
+      "name": "money"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 10856,
+      "name": "bag of money"
+    },
+    {
+      "id": 15009,
+      "name": "criminal"
+    },
+    {
+      "id": 156052,
+      "name": "unemployment"
+    },
+    {
+      "id": 163853,
+      "name": "war injury"
+    },
+    {
+      "id": 176253,
+      "name": "oil rig "
+    },
+    {
+      "id": 199073,
+      "name": "wife murder"
+    },
+    {
+      "id": 207268,
+      "name": "neo-noir"
+    }
+  ]
+}

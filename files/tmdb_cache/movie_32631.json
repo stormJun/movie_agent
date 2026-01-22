@@ -1,0 +1,265 @@
+{
+  "overview": "Paul Racine, a high-powered American business executive in Japan, is catapulted into a maze of danger and intrigue after he and his sexy companion are the targets of assassins hired by the ruthless Kinjo.  To survive, Racine must join forces with a powerful samurai and together they will fight the force of evil in an awesome battle rooted in centuries of brutal conflict.",
+  "release_date": "1995-02-24",
+  "runtime": 110,
+  "budget": 15000000,
+  "revenue": 6600000,
+  "tmdb_vote_average": 5.7,
+  "tmdb_vote_count": 119,
+  "tmdb_popularity": 0.9376,
+  "original_language": "en",
+  "poster_path": "/luCVuKiRBcQjr9MuY9mRCTehjpY.jpg",
+  "backdrop_path": "/hys4aPB77G2pboLRUCWNkl9djbl.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 11393,
+      "name": "Bregman/Baer Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "ja",
+      "name": "日本語"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "pt",
+      "name": "Português"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 38559,
+      "name": "Christopher Lambert",
+      "character": "Paul Racine",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 3.351,
+      "profile_path": "/qKmxieTgzvsA5hSA7w1VoHizmmE.jpg"
+    },
+    {
+      "personId": 11389,
+      "name": "John Lone",
+      "character": "Kinjo",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 2.2288,
+      "profile_path": "/cO62O0mZGCvR0y5zM5oI2rUDhto.jpg"
+    },
+    {
+      "personId": 6720,
+      "name": "Joan Chen",
+      "character": "Kirina",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 2.6079,
+      "profile_path": "/yV8glhrxb5m9Uwz4n63JPdVjWvj.jpg"
+    },
+    {
+      "personId": 81108,
+      "name": "Yoshio Harada",
+      "character": "Takeda",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 1.4028,
+      "profile_path": "/e79l2T91aR0FtJX6LN0g33rBLBr.jpg"
+    },
+    {
+      "personId": 80607,
+      "name": "Yoko Shimada",
+      "character": "Mieko",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 1.063,
+      "profile_path": "/h1A2KrfN8rdm1o1x8kjiXezlQwk.jpg"
+    },
+    {
+      "personId": 19589,
+      "name": "Mari Natsuki",
+      "character": "Junko",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 2.4052,
+      "profile_path": "/MIFzUc77Sx57FQOZsoiGWEbpH2.jpg"
+    },
+    {
+      "personId": 84656,
+      "name": "Tak Kubota",
+      "character": "Oshima",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 0.6196,
+      "profile_path": "/vZQWEKgl7P5phfQ3r33MUnmRc7n.jpg"
+    },
+    {
+      "personId": 305332,
+      "name": "Masumi Okada",
+      "character": "Lt. Wadakura",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 1.5796,
+      "profile_path": "/9BEjh34GZpRGwaLSGJGLqYEd6zS.jpg"
+    },
+    {
+      "personId": 953728,
+      "name": "Toshishiro Obata",
+      "character": "Ryuma",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 0.9788,
+      "profile_path": "/ueIjJW9Nu0Pewaa8nWB9dKusn6u.jpg"
+    },
+    {
+      "personId": 2165609,
+      "name": "Tatsuya Irie",
+      "character": "Hiryu",
+      "order": 9,
+      "cast_id": 24,
+      "popularity": 0.0602,
+      "profile_path": null
+    },
+    {
+      "personId": 99583,
+      "name": "Michael Warren",
+      "character": "Chase",
+      "order": 10,
+      "cast_id": 25,
+      "popularity": 1.291,
+      "profile_path": "/vEieZTdPgOKIddmvScA1pzQUN0D.jpg"
+    },
+    {
+      "personId": 158498,
+      "name": "Bart Anderson",
+      "character": "John",
+      "order": 11,
+      "cast_id": 26,
+      "popularity": 1.2496,
+      "profile_path": "/l3bIAvfxqpRnccMjuPuKiZM8d2H.jpg"
+    },
+    {
+      "personId": 77155,
+      "name": "James Saito",
+      "character": "Nemura",
+      "order": 12,
+      "cast_id": 27,
+      "popularity": 1.8365,
+      "profile_path": "/2XiFPyvmJWUtaWHAJOhrMa6JJhQ.jpg"
+    },
+    {
+      "personId": 1382045,
+      "name": "Seth Sakai",
+      "character": "Dr. Otozo Yamura",
+      "order": 13,
+      "cast_id": 28,
+      "popularity": 2.6191,
+      "profile_path": "/6XMxKPcgj9oGns2LFuyYSY97COj.jpg"
+    },
+    {
+      "personId": 1237536,
+      "name": "Ken Kensei",
+      "character": "Sujin",
+      "order": 14,
+      "cast_id": 29,
+      "popularity": 0.7208,
+      "profile_path": "/klYQU1A5jJ3crzw0wdvhh30CFmz.jpg"
+    },
+    {
+      "personId": 12191,
+      "name": "Sumi Mutoh",
+      "character": "Sumi",
+      "order": 15,
+      "cast_id": 30,
+      "popularity": 1.5387,
+      "profile_path": "/ehU6qAHket9NoKR9FW61uAdJpzV.jpg"
+    },
+    {
+      "personId": 5376338,
+      "name": "Kenji Shimizu",
+      "character": "Rookie",
+      "order": 16,
+      "cast_id": 143,
+      "popularity": 0.3695,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1203,
+      "name": "J.F. Lawton",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.9046,
+      "profile_path": "/tb0SgiSuBNfrtU6BZ6CEUHs0GJT.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 779,
+      "name": "martial arts"
+    },
+    {
+      "id": 782,
+      "name": "assassin"
+    },
+    {
+      "id": 1462,
+      "name": "samurai"
+    },
+    {
+      "id": 1430,
+      "name": "self sacrifice"
+    },
+    {
+      "id": 9990,
+      "name": "villainess"
+    },
+    {
+      "id": 2908,
+      "name": "secret society"
+    },
+    {
+      "id": 5572,
+      "name": "fistfight"
+    },
+    {
+      "id": 10278,
+      "name": "ninja"
+    },
+    {
+      "id": 13116,
+      "name": "one man army"
+    },
+    {
+      "id": 18522,
+      "name": "one against many"
+    },
+    {
+      "id": 175245,
+      "name": "sword duel"
+    },
+    {
+      "id": 269233,
+      "name": "good versus evil"
+    }
+  ]
+}

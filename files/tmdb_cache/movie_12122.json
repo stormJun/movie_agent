@@ -1,0 +1,255 @@
+{
+  "overview": "An American village is visited by some unknown life form which leaves the women of the village pregnant. Nine months later, the babies are born, and they all look normal, but it doesn't take the \"parents\" long to realize that the kids are not human or humane.",
+  "release_date": "1995-04-28",
+  "runtime": 99,
+  "budget": 22000000,
+  "revenue": 9418365,
+  "tmdb_vote_average": 6.1,
+  "tmdb_vote_count": 884,
+  "tmdb_popularity": 1.5651,
+  "original_language": "en",
+  "poster_path": "/pXXNmSVqkvSMoMitsdjK0V8Dkna.jpg",
+  "backdrop_path": "/udqpyMs0zvaP9MjETzhWg04zVKe.jpg",
+  "tmdb_genres_raw": [
+    "Thriller",
+    "Horror",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 20006,
+      "name": "Christopher Reeve",
+      "character": "Alan Chaffee",
+      "order": 0,
+      "cast_id": 13,
+      "popularity": 2.4554,
+      "profile_path": "/vAGrPf3ajy6OVE3FhgABynZfybP.jpg"
+    },
+    {
+      "personId": 1796,
+      "name": "Kirstie Alley",
+      "character": "Susan Verner",
+      "order": 1,
+      "cast_id": 14,
+      "popularity": 2.8469,
+      "profile_path": "/9XZOeQtmvHdBkuMrlxO5PHPZwJo.jpg"
+    },
+    {
+      "personId": 57166,
+      "name": "Linda Kozlowski",
+      "character": "Jill McGowan",
+      "order": 2,
+      "cast_id": 15,
+      "popularity": 2.2594,
+      "profile_path": "/38jMpI4xsicdENV8a3K89NnXmTo.jpg"
+    },
+    {
+      "personId": 60650,
+      "name": "Michael Paré",
+      "character": "Frank McGowan",
+      "order": 3,
+      "cast_id": 16,
+      "popularity": 2.4131,
+      "profile_path": "/jxrXW8OL6hwJgtJgePdMO5yHuAM.jpg"
+    },
+    {
+      "personId": 18706,
+      "name": "Meredith Salenger",
+      "character": "Melanie Roberts",
+      "order": 4,
+      "cast_id": 17,
+      "popularity": 3.0993,
+      "profile_path": "/8lOt7vQQkrZWmjg0STb4D7umIta.jpg"
+    },
+    {
+      "personId": 2,
+      "name": "Mark Hamill",
+      "character": "Reverend George",
+      "order": 5,
+      "cast_id": 18,
+      "popularity": 6.309,
+      "profile_path": "/zMQ93JTLW8KxusKhOlHFZhih3YQ.jpg"
+    },
+    {
+      "personId": 169077,
+      "name": "Pippa Pearthree",
+      "character": "Sarah",
+      "order": 6,
+      "cast_id": 19,
+      "popularity": 0.3576,
+      "profile_path": "/AikMwGDCqZ9ERlaueqo2IDST0N6.jpg"
+    },
+    {
+      "personId": 6916,
+      "name": "Peter Jason",
+      "character": "Ben Blum",
+      "order": 7,
+      "cast_id": 20,
+      "popularity": 2.0627,
+      "profile_path": "/xoqIuVvEH6BG6sOg4NnZzUKFnaf.jpg"
+    },
+    {
+      "personId": 61149,
+      "name": "Constance Forslund",
+      "character": "Callie Blum",
+      "order": 8,
+      "cast_id": 21,
+      "popularity": 0.5389,
+      "profile_path": "/aStXVfxsESi8u8DVGG4KG2ASler.jpg"
+    },
+    {
+      "personId": 1006368,
+      "name": "Karen Kahn",
+      "character": "Barbara Chaffee",
+      "order": 9,
+      "cast_id": 22,
+      "popularity": 1.6088,
+      "profile_path": "/fGwSxZcxWK4cMZP7rfalD6y2168.jpg"
+    },
+    {
+      "personId": 34199,
+      "name": "Thomas Dekker",
+      "character": "David",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 1.6693,
+      "profile_path": "/vO72HH4PfesrCwEioBJn2gR6ebC.jpg"
+    },
+    {
+      "personId": 78229,
+      "name": "Lindsey Haun",
+      "character": "Mara",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 1.208,
+      "profile_path": "/9okzhMg5PMtmJtZWDyfkOKLyOuD.jpg"
+    },
+    {
+      "personId": 186614,
+      "name": "Cody Dorkin",
+      "character": "Robert",
+      "order": 12,
+      "cast_id": 25,
+      "popularity": 1.5388,
+      "profile_path": null
+    },
+    {
+      "personId": 553983,
+      "name": "Trishalee Hardy",
+      "character": "Julie",
+      "order": 13,
+      "cast_id": 33,
+      "popularity": 0.2877,
+      "profile_path": null
+    },
+    {
+      "personId": 3401536,
+      "name": "Jessye Quarry",
+      "character": "Dorothy",
+      "order": 14,
+      "cast_id": 34,
+      "popularity": 0.1354,
+      "profile_path": null
+    },
+    {
+      "personId": 3401539,
+      "name": "Adam Robbins",
+      "character": "Issac",
+      "order": 15,
+      "cast_id": 35,
+      "popularity": 0.1462,
+      "profile_path": null
+    },
+    {
+      "personId": 3401540,
+      "name": "Chelsea DeRidder Simms",
+      "character": "Matt",
+      "order": 16,
+      "cast_id": 36,
+      "popularity": 0.4879,
+      "profile_path": null
+    },
+    {
+      "personId": 3401541,
+      "name": "Renee Rene Simms",
+      "character": "Casey",
+      "order": 17,
+      "cast_id": 37,
+      "popularity": 0.1742,
+      "profile_path": null
+    },
+    {
+      "personId": 94554,
+      "name": "Danielle Keaton",
+      "character": "Lily",
+      "order": 18,
+      "cast_id": 38,
+      "popularity": 1.6942,
+      "profile_path": "/ygzYXNOOVmsgiDSeO42wl7KvnT2.jpg"
+    },
+    {
+      "personId": 5779206,
+      "name": "Hillary Harvey",
+      "character": "Mara at One Year",
+      "order": 19,
+      "cast_id": 91,
+      "popularity": 0.0584,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 11770,
+      "name": "John Carpenter",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 3.1159,
+      "profile_path": "/3Qp0mg61u1qSZNJh30BFEUZrIMG.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3725,
+      "name": "pregnancy"
+    },
+    {
+      "id": 5331,
+      "name": "village"
+    },
+    {
+      "id": 4862,
+      "name": "alien life-form"
+    },
+    {
+      "id": 9951,
+      "name": "alien"
+    },
+    {
+      "id": 9535,
+      "name": "bewusstlosigkeit"
+    },
+    {
+      "id": 161891,
+      "name": "doppelgänger"
+    }
+  ]
+}

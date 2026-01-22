@@ -1,0 +1,247 @@
+{
+  "overview": "Two unlucky thieves break into a just murdered man's hotel room and steal his passport, with a hidden microfilm, wanted by a triad boss. Two ass-kicking women cops—one Chinese, one British—are on the case.",
+  "release_date": "1985-11-30",
+  "runtime": 93,
+  "budget": 0,
+  "revenue": 1276496,
+  "tmdb_vote_average": 7.106,
+  "tmdb_vote_count": 108,
+  "tmdb_popularity": 2.7013,
+  "original_language": "cn",
+  "poster_path": "/4KcufMSckdPInz4VAxg3VTpQtDo.jpg",
+  "backdrop_path": "/gx5POm4v5uwres9jSM10Aq9BHyt.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 22060,
+      "name": "D & B Films",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "cn",
+      "name": "广州话 / 廣州話"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1620,
+      "name": "Michelle Yeoh",
+      "character": "Senior Inspector Ng",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 4.6091,
+      "profile_path": "/nrbHNzSMydpWK9um5VqWIFJihB5.jpg"
+    },
+    {
+      "personId": 74375,
+      "name": "Cynthia Rothrock",
+      "character": "Senior Inspector Carrie Morris",
+      "order": 1,
+      "cast_id": 6,
+      "popularity": 1.9432,
+      "profile_path": "/beYPJbNlN3zHC54Ii6WWS5U4B4R.jpg"
+    },
+    {
+      "personId": 116906,
+      "name": "John Shum Kin-Fun",
+      "character": "Strepsil",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 2.0239,
+      "profile_path": "/m07HdRGg2tXS0onuFDYiuZjaa38.jpg"
+    },
+    {
+      "personId": 83556,
+      "name": "Mang Hoi",
+      "character": "Aspirin",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 1.6165,
+      "profile_path": null
+    },
+    {
+      "personId": 26760,
+      "name": "Tsui Hark",
+      "character": "Panadol",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 2.2182,
+      "profile_path": "/9WTG1Feva6S7n09dxON40KHBsuk.jpg"
+    },
+    {
+      "personId": 62427,
+      "name": "James Tien Chun",
+      "character": "Henry Tin Wai Keung",
+      "order": 5,
+      "cast_id": 23,
+      "popularity": 2.125,
+      "profile_path": "/wSlkjKKcJWX1YpXPFbAikUjIMwo.jpg"
+    },
+    {
+      "personId": 62424,
+      "name": "Dick Wei",
+      "character": "Dick / Willie",
+      "order": 6,
+      "cast_id": 12,
+      "popularity": 2.442,
+      "profile_path": "/pkllOdDN2CGukmyOv2XlzoMAQfC.jpg"
+    },
+    {
+      "personId": 119460,
+      "name": "Paul Chung Fat",
+      "character": "Big Moustache / Mad Dog",
+      "order": 7,
+      "cast_id": 20,
+      "popularity": 1.8908,
+      "profile_path": "/7Y9GWoTvoEwAkKVCrli4CXrvfWw.jpg"
+    },
+    {
+      "personId": 26786,
+      "name": "Melvin Wong Gam-Sam",
+      "character": "Officer Wong",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 1.8621,
+      "profile_path": "/miusigvb9jQtHxsony2jlfzw1NT.jpg"
+    },
+    {
+      "personId": 83629,
+      "name": "Tai Bo",
+      "character": "Bo",
+      "order": 9,
+      "cast_id": 22,
+      "popularity": 2.2087,
+      "profile_path": "/4AtGJBlRvgzRHzYUZxkZk9kUE61.jpg"
+    },
+    {
+      "personId": 1157021,
+      "name": "Ka Lee",
+      "character": "Curry",
+      "order": 10,
+      "cast_id": 48,
+      "popularity": 1.2446,
+      "profile_path": "/sV7WFsQpHvljqdqFcGXZ51mqgna.jpg"
+    },
+    {
+      "personId": 134704,
+      "name": "Wu Ma",
+      "character": "Policeman",
+      "order": 11,
+      "cast_id": 14,
+      "popularity": 2.1061,
+      "profile_path": "/fIwXNGnXsK881iLEI9R8XUbBnKg.jpg"
+    },
+    {
+      "personId": 239010,
+      "name": "Billy Lau Nam-Kwong",
+      "character": "Parking Inspector",
+      "order": 12,
+      "cast_id": 59,
+      "popularity": 1.4794,
+      "profile_path": "/upXNfzzn7Qm1YXYZgIdHdFEpwKt.jpg"
+    },
+    {
+      "personId": 230781,
+      "name": "Eddie Maher",
+      "character": "Thug with Fake Passport",
+      "order": 13,
+      "cast_id": 54,
+      "popularity": 0.805,
+      "profile_path": "/3KoA1dDkGJbZpByiYOSpGTouiS6.jpg"
+    },
+    {
+      "personId": 83630,
+      "name": "David Lam Wai",
+      "character": "Ah Tung (Armoured Car Thief)",
+      "order": 14,
+      "cast_id": 27,
+      "popularity": 2.2605,
+      "profile_path": "/oZBSfYQPPPKRvw4Y8hrz24fndI9.jpg"
+    },
+    {
+      "personId": 548370,
+      "name": "Shum Wai",
+      "character": "Henry Tin's Lawyer",
+      "order": 15,
+      "cast_id": 60,
+      "popularity": 1.4225,
+      "profile_path": "/ycggDHsRARScXQR0PwBUJyEoayr.jpg"
+    },
+    {
+      "personId": 1134736,
+      "name": "Billy Ching Sau-Yat",
+      "character": "One of Henry Tin's Men",
+      "order": 16,
+      "cast_id": 44,
+      "popularity": 0.6648,
+      "profile_path": "/xV7JFoJRcnk6MumM1o4dHb1UkJm.jpg"
+    },
+    {
+      "personId": 1625569,
+      "name": "Kwok Kwan-Shing",
+      "character": "Famous Snooker Player",
+      "order": 17,
+      "cast_id": 56,
+      "popularity": 0.4301,
+      "profile_path": null
+    },
+    {
+      "personId": 64662,
+      "name": "Dennis Chan Kwok-San",
+      "character": "Bartender Questioned at Night Club",
+      "order": 18,
+      "cast_id": 8,
+      "popularity": 2.165,
+      "profile_path": "/wW90J7wyACpndFPgwq5TFtyKHaO.jpg"
+    },
+    {
+      "personId": 1265959,
+      "name": "Chan Ging",
+      "character": "Armoured Car Thief",
+      "order": 19,
+      "cast_id": 46,
+      "popularity": 1.4218,
+      "profile_path": "/hZLA3Bmr45omoDM91civjZC0sWl.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 35452,
+      "name": "Corey Yuen",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.7285,
+      "profile_path": "/d4doL1fc0TCcQqgFvkB8fRRpa1F.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 779,
+      "name": "martial arts"
+    },
+    {
+      "id": 12354,
+      "name": "hong kong"
+    },
+    {
+      "id": 247799,
+      "name": "action comedy"
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "overview": "A snobbish phonetics professor agrees to a wager that he can take a flower girl and make her presentable in high society.",
+  "release_date": "1964-12-01",
+  "runtime": 170,
+  "budget": 17000000,
+  "revenue": 72661442,
+  "tmdb_vote_average": 7.504,
+  "tmdb_vote_count": 1390,
+  "tmdb_popularity": 3.233,
+  "original_language": "en",
+  "poster_path": "/bTXVc29lGSNclf94VIZ49W4gGKl.jpg",
+  "backdrop_path": "/d1mciHTH1Pcb3KDYNoaNKuOSDOC.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1932,
+      "name": "Audrey Hepburn",
+      "character": "Eliza Doolittle",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.0383,
+      "profile_path": "/hwPHPRz7YqmcRAlvhag5VPeoaoC.jpg"
+    },
+    {
+      "personId": 35321,
+      "name": "Rex Harrison",
+      "character": "Professor Henry Higgins",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.0468,
+      "profile_path": "/hy8cyCpmV0iRSl4Thby01anz4FY.jpg"
+    },
+    {
+      "personId": 12727,
+      "name": "Stanley Holloway",
+      "character": "Alfred P. Doolittle",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 0.7268,
+      "profile_path": "/3FLfK05mtqhF0mtuWVVWQCYwbA9.jpg"
+    },
+    {
+      "personId": 15387,
+      "name": "Wilfrid Hyde-White",
+      "character": "Colonel Hugh Pickering",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.4713,
+      "profile_path": "/dqdw6iQgMxHp7v5wdI5a2VI6Rwp.jpg"
+    },
+    {
+      "personId": 3366,
+      "name": "Gladys Cooper",
+      "character": "Mrs. Higgins",
+      "order": 4,
+      "cast_id": 14,
+      "popularity": 0.8497,
+      "profile_path": "/eREC6ZGIxWcoeZC8b94O7gsFMs4.jpg"
+    },
+    {
+      "personId": 140914,
+      "name": "Jeremy Brett",
+      "character": "Freddy Eynsford-Hill",
+      "order": 5,
+      "cast_id": 15,
+      "popularity": 2.2147,
+      "profile_path": "/g6HJeezMyQWcRQvuxF4Ow1NZWqr.jpg"
+    },
+    {
+      "personId": 6609,
+      "name": "Theodore Bikel",
+      "character": "Zoltan Karpathy",
+      "order": 6,
+      "cast_id": 16,
+      "popularity": 1.1215,
+      "profile_path": "/mYiM4fRl9xpGRBf6gSAPekvcaj8.jpg"
+    },
+    {
+      "personId": 89895,
+      "name": "Mona Washbourne",
+      "character": "Mrs. Pearce",
+      "order": 7,
+      "cast_id": 17,
+      "popularity": 1.0918,
+      "profile_path": "/3verXd1ywWcpiOIPxqApEV3TvTT.jpg"
+    },
+    {
+      "personId": 95263,
+      "name": "Isobel Elsom",
+      "character": "Mrs. Eynsford-Hill",
+      "order": 8,
+      "cast_id": 18,
+      "popularity": 0.9571,
+      "profile_path": "/2HoBes20CcuNFoUeyBbAIShbEQM.jpg"
+    },
+    {
+      "personId": 126656,
+      "name": "John Holland",
+      "character": "Butler",
+      "order": 9,
+      "cast_id": 19,
+      "popularity": 0.4577,
+      "profile_path": "/1ctCrOanIch8iCkoVu6jxOw08dh.jpg"
+    },
+    {
+      "personId": 187678,
+      "name": "Marni Nixon",
+      "character": "Eliza Doolittle (singing voice) (uncredited)",
+      "order": 10,
+      "cast_id": 30,
+      "popularity": 0.3977,
+      "profile_path": "/76mZuCSred16BMfneYmmlXlbXeB.jpg"
+    },
+    {
+      "personId": 120445,
+      "name": "Colin Kenny",
+      "character": "Ad Lib at Church (uncredited)",
+      "order": 11,
+      "cast_id": 20,
+      "popularity": 1.2064,
+      "profile_path": "/8zW8KNpOtiQxx9lTugciQbsl4gV.jpg"
+    },
+    {
+      "personId": 1208035,
+      "name": "Bert Stevens",
+      "character": "Gentleman (uncredited)",
+      "order": 12,
+      "cast_id": 23,
+      "popularity": 1.2683,
+      "profile_path": "/nEIxsXjWCtGDKcECuKL8qsqwGcb.jpg"
+    },
+    {
+      "personId": 27164,
+      "name": "Frank Baker",
+      "character": "Gentleman (uncredited)",
+      "order": 13,
+      "cast_id": 24,
+      "popularity": 0.9913,
+      "profile_path": "/i7TbpKA5ct94Q0Eddet3i51NZXC.jpg"
+    },
+    {
+      "personId": 97257,
+      "name": "Marjorie Bennett",
+      "character": "Cockney with Pipe (uncredited)",
+      "order": 14,
+      "cast_id": 25,
+      "popularity": 1.3332,
+      "profile_path": "/1lnpsdUkhE72p8ydn8PLbYv6cU8.jpg"
+    },
+    {
+      "personId": 120740,
+      "name": "Betty Blythe",
+      "character": "Lady at Ball (uncredited)",
+      "order": 15,
+      "cast_id": 26,
+      "popularity": 0.387,
+      "profile_path": "/wBsngkobaiajyWu7k94ahOdzkNc.jpg"
+    },
+    {
+      "personId": 1208039,
+      "name": "Arthur Tovey",
+      "character": "Singer (uncredited)",
+      "order": 16,
+      "cast_id": 27,
+      "popularity": 0.8992,
+      "profile_path": "/hQ0KGwlXZnmkMncVjrii9LTLcdV.jpg"
+    },
+    {
+      "personId": 1624216,
+      "name": "Al Bain",
+      "character": "Cockney (uncredited)",
+      "order": 17,
+      "cast_id": 50,
+      "popularity": 1.0769,
+      "profile_path": "/b1NEZYDDbGgNjhm9SrrLkRrAKLO.jpg"
+    },
+    {
+      "personId": 1233882,
+      "name": "William Beckley",
+      "character": "Footman (uncredited)",
+      "order": 18,
+      "cast_id": 51,
+      "popularity": 0.4403,
+      "profile_path": "/iB7dDjufrylnHI906h5yL9Zrw4I.jpg"
+    },
+    {
+      "personId": 124854,
+      "name": "Lillian Kemble-Cooper",
+      "character": "Lady Ambassador (uncredited)",
+      "order": 19,
+      "cast_id": 52,
+      "popularity": 0.3354,
+      "profile_path": "/18luWF87u8rikv3dJIJL1kQIidC.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 14674,
+      "name": "George Cukor",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8159,
+      "profile_path": "/w7I9Af9fpL7nywdZiOogH0gBoZ2.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 4375,
+      "name": "transformation"
+    },
+    {
+      "id": 4344,
+      "name": "musical"
+    },
+    {
+      "id": 4485,
+      "name": "flower girl"
+    },
+    {
+      "id": 10786,
+      "name": "colonel"
+    },
+    {
+      "id": 11707,
+      "name": "suitor"
+    },
+    {
+      "id": 11411,
+      "name": "wager"
+    },
+    {
+      "id": 14514,
+      "name": "class differences"
+    },
+    {
+      "id": 18015,
+      "name": "tutor"
+    },
+    {
+      "id": 155697,
+      "name": "aristocrat"
+    },
+    {
+      "id": 165278,
+      "name": "linguist"
+    },
+    {
+      "id": 165282,
+      "name": "high society"
+    },
+    {
+      "id": 165288,
+      "name": "misogynist"
+    },
+    {
+      "id": 165290,
+      "name": "guttersnipe"
+    },
+    {
+      "id": 165299,
+      "name": "class prejudice"
+    },
+    {
+      "id": 165301,
+      "name": "opposites attract"
+    },
+    {
+      "id": 166233,
+      "name": "pygmalion"
+    },
+    {
+      "id": 362499,
+      "name": "super panavision 70"
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "overview": "Wealthy rancher Bick Benedict and dirt-poor cowboy Jett Rink both woo Leslie Lynnton, a beautiful young woman from Maryland who is new to Texas. She marries Benedict, but she is shocked by the racial bigotry of the White Texans against the local people of Mexican descent. Rink discovers oil on a small plot of land, and while he uses his vast, new wealth to buy all the land surrounding the Benedict ranch, the Benedict's disagreement over prejudice fuels conflict that runs across generations.",
+  "release_date": "1956-11-08",
+  "runtime": 201,
+  "budget": 5400000,
+  "revenue": 32855818,
+  "tmdb_vote_average": 7.6,
+  "tmdb_vote_count": 729,
+  "tmdb_popularity": 4.9666,
+  "original_language": "en",
+  "poster_path": "/oQ1Arue52pFLSvvwfcNTy16hTCG.jpg",
+  "backdrop_path": "/sm3ErHMXQLaNdo74vbIa1JRXIXS.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Western"
+  ],
+  "production_companies": [
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 13579,
+      "name": "George Stevens Jr. Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3635,
+      "name": "Elizabeth Taylor",
+      "character": "Leslie Lynnton Benedict",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.2547,
+      "profile_path": "/nKF00U432UIe9AokJsN6IIft3CC.jpg"
+    },
+    {
+      "personId": 18735,
+      "name": "Rock Hudson",
+      "character": "Jordan \"Bick\" Benedict Jr.",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.4734,
+      "profile_path": "/6DQsctwdw7vC3asZMTCpH88OE1S.jpg"
+    },
+    {
+      "personId": 2749,
+      "name": "James Dean",
+      "character": "Jett Rink",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.1009,
+      "profile_path": "/5oaDvEoQssXlDt1KSQVl0M4rgBn.jpg"
+    },
+    {
+      "personId": 14701,
+      "name": "Carroll Baker",
+      "character": "Luz Benedict II",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.1096,
+      "profile_path": "/ui9gwewS5Ofb2sop0ZWN9G8Yako.jpg"
+    },
+    {
+      "personId": 18736,
+      "name": "Jane Withers",
+      "character": "Vashti Synthe",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 0.804,
+      "profile_path": "/szNfkG7ChyGBCh7pef9lHKHqRtl.jpg"
+    },
+    {
+      "personId": 14001,
+      "name": "Chill Wills",
+      "character": "Uncle Bawley",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 1.7104,
+      "profile_path": "/uk1BljEiYkzSd7ihp7SJIpBVI3u.jpg"
+    },
+    {
+      "personId": 18737,
+      "name": "Mercedes McCambridge",
+      "character": "Luz Benedict",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 1.1985,
+      "profile_path": "/tAc5xZvGieKhKuc2AEMoXNAtGFc.jpg"
+    },
+    {
+      "personId": 2778,
+      "name": "Dennis Hopper",
+      "character": "Jordan \"Jordy\" Benedict III",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 3.2218,
+      "profile_path": "/kqyNvLHi5RZGZcZMxl7e6XvoB5U.jpg"
+    },
+    {
+      "personId": 2770,
+      "name": "Sal Mineo",
+      "character": "Angel Obregón II",
+      "order": 8,
+      "cast_id": 9,
+      "popularity": 2.2428,
+      "profile_path": "/glfs6BXlFIMprrJSuiT74VzJIOJ.jpg"
+    },
+    {
+      "personId": 8229,
+      "name": "Rod Taylor",
+      "character": "Sir David Karfrey",
+      "order": 9,
+      "cast_id": 25,
+      "popularity": 2.8197,
+      "profile_path": "/nSpfs8lXHxWcksZW3qC9ArMLAqZ.jpg"
+    },
+    {
+      "personId": 7686,
+      "name": "Judith Evelyn",
+      "character": "Mrs. Nancy Lynnton",
+      "order": 10,
+      "cast_id": 26,
+      "popularity": 0.6251,
+      "profile_path": "/phjRLtciYD63yjSCcFCX4AlgDTc.jpg"
+    },
+    {
+      "personId": 12313,
+      "name": "Earl Holliman",
+      "character": "'Bob' Dace",
+      "order": 11,
+      "cast_id": 27,
+      "popularity": 1.2989,
+      "profile_path": "/2ks1x3zLi0a1DHyzl6KriGrbz74.jpg"
+    },
+    {
+      "personId": 12357,
+      "name": "Robert Nichols",
+      "character": "Mort 'Pinky' Snythe",
+      "order": 12,
+      "cast_id": 28,
+      "popularity": 0.5611,
+      "profile_path": "/fPo6w0ynvaQB7kbgNWNMdP9A1ph.jpg"
+    },
+    {
+      "personId": 8496,
+      "name": "Paul Fix",
+      "character": "Dr. Horace Lynnton",
+      "order": 13,
+      "cast_id": 29,
+      "popularity": 2.0954,
+      "profile_path": "/1CTVXkgurzEYeFaJDuuIODaZvFu.jpg"
+    },
+    {
+      "personId": 96284,
+      "name": "Alexander Scourby",
+      "character": "Old Polo",
+      "order": 14,
+      "cast_id": 30,
+      "popularity": 1.3412,
+      "profile_path": "/uPpBJ11bObJc7piXl2e2Lbt4OuU.jpg"
+    },
+    {
+      "personId": 54683,
+      "name": "Charles Watts",
+      "character": "Judge Oliver Whiteside",
+      "order": 15,
+      "cast_id": 32,
+      "popularity": 1.2905,
+      "profile_path": "/A9SdpXRPy7o4JuQ2w4YxTajC4bx.jpg"
+    },
+    {
+      "personId": 233128,
+      "name": "Elsa Cárdenas",
+      "character": "Juana Guerra Benedict",
+      "order": 16,
+      "cast_id": 33,
+      "popularity": 1.3689,
+      "profile_path": "/pFk4bGqaHtyjDIzr3c4RtWl3ic0.jpg"
+    },
+    {
+      "personId": 78851,
+      "name": "Carolyn Craig",
+      "character": "Lacey Lynnton",
+      "order": 17,
+      "cast_id": 34,
+      "popularity": 1.0922,
+      "profile_path": "/qRX9gZQrcdkTLZiVhuWSjy9nfAz.jpg"
+    },
+    {
+      "personId": 179130,
+      "name": "Monte Hale",
+      "character": "Bale Clinch",
+      "order": 18,
+      "cast_id": 35,
+      "popularity": 0.4794,
+      "profile_path": "/lnWpg7Ds1WsHhzt7QLpvBJXaUo4.jpg"
+    },
+    {
+      "personId": 4080,
+      "name": "Sheb Wooley",
+      "character": "Gabe Target",
+      "order": 19,
+      "cast_id": 36,
+      "popularity": 1.2034,
+      "profile_path": "/3rBS9OS4oc00QMjVXg4kCW8J0jc.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 18738,
+      "name": "George Stevens",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.3432,
+      "profile_path": "/mblM3Kg4YbD4Jxil1aCs9qBNt7s.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 612,
+      "name": "hotel"
+    },
+    {
+      "id": 5175,
+      "name": "petrol"
+    },
+    {
+      "id": 931,
+      "name": "jealousy"
+    },
+    {
+      "id": 934,
+      "name": "judge"
+    },
+    {
+      "id": 3739,
+      "name": "funeral"
+    },
+    {
+      "id": 1556,
+      "name": "texas"
+    },
+    {
+      "id": 1811,
+      "name": "wine cellar"
+    },
+    {
+      "id": 2752,
+      "name": "ranch"
+    },
+    {
+      "id": 2944,
+      "name": "senator"
+    },
+    {
+      "id": 1946,
+      "name": "restaurant"
+    },
+    {
+      "id": 4411,
+      "name": "sexism"
+    },
+    {
+      "id": 5626,
+      "name": "rags to riches"
+    },
+    {
+      "id": 5701,
+      "name": "beef"
+    },
+    {
+      "id": 5728,
+      "name": "tycoon"
+    },
+    {
+      "id": 5729,
+      "name": "maryland"
+    },
+    {
+      "id": 5731,
+      "name": "barbecue (bbq)"
+    },
+    {
+      "id": 5732,
+      "name": "birthday party"
+    },
+    {
+      "id": 5733,
+      "name": "turkey"
+    },
+    {
+      "id": 5734,
+      "name": "pony"
+    },
+    {
+      "id": 5735,
+      "name": "riding class"
+    },
+    {
+      "id": 33688,
+      "name": "hunting"
+    },
+    {
+      "id": 361850,
+      "name": "warnercolor"
+    }
+  ]
+}

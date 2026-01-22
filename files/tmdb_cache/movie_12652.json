@@ -1,0 +1,261 @@
+{
+  "overview": "Nelly leaves her lazy, unemployed husband to work for retired judge Mr Arnaud, forty years her senior, after he offers to clear her bills for her. While she types his memoirs the two develop a close friendship, but Arnaud becomes jealous when Nelly begins dating his good-looking young publisher.",
+  "release_date": "1995-10-18",
+  "runtime": 106,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.9,
+  "tmdb_vote_count": 138,
+  "tmdb_popularity": 0.9181,
+  "original_language": "fr",
+  "poster_path": "/87kKTPi9r7YIVrlo9Z42NwTXBVi.jpg",
+  "backdrop_path": "/evGlZtheDf2sDZZA5Vg8RzgES02.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 635,
+      "name": "Les Films Alain Sarde",
+      "origin_country": "FR"
+    },
+    {
+      "id": 439,
+      "name": "Prokino Filmproduktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 356,
+      "name": "TF1 Films Production",
+      "origin_country": "FR"
+    },
+    {
+      "id": 371,
+      "name": "Cecchi Gori Group Tiger Cinematografica",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4885,
+      "name": "Emmanuelle Béart",
+      "character": "Nelly",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 2.6362,
+      "profile_path": "/imQFccO9AZtzjeyqkHh9YMtGKOC.jpg"
+    },
+    {
+      "personId": 12270,
+      "name": "Michel Serrault",
+      "character": "Mr. Pierre Arnaud",
+      "order": 1,
+      "cast_id": 1,
+      "popularity": 0.5901,
+      "profile_path": "/quttZiihxZ9Cpxw4WhbYFfcmitE.jpg"
+    },
+    {
+      "personId": 73264,
+      "name": "Claire Nadeau",
+      "character": "Jacqueline",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 0.6804,
+      "profile_path": "/qcXQDIlTn2gsosaSRaj6JJvJuEe.jpg"
+    },
+    {
+      "personId": 20118,
+      "name": "Françoise Brion",
+      "character": "Lucie",
+      "order": 3,
+      "cast_id": 16,
+      "popularity": 0.8049,
+      "profile_path": "/7uFWQDKNi73vK6h0WnrDUnpnKQE.jpg"
+    },
+    {
+      "personId": 2369,
+      "name": "Michael Lonsdale",
+      "character": "Dollabella",
+      "order": 4,
+      "cast_id": 15,
+      "popularity": 1.286,
+      "profile_path": "/lQZktsBj1CFbIEIpXOZp55kCiB5.jpg"
+    },
+    {
+      "personId": 48576,
+      "name": "Charles Berling",
+      "character": "Jérôme",
+      "order": 5,
+      "cast_id": 25,
+      "popularity": 0.637,
+      "profile_path": "/2xPeQoFms6hn8fi5wQx3CEjL70Z.jpg"
+    },
+    {
+      "personId": 7037,
+      "name": "Jean-Hugues Anglade",
+      "character": "Vincent Granec",
+      "order": 6,
+      "cast_id": 2,
+      "popularity": 1.3667,
+      "profile_path": "/cpSxpZLgtzuizHyEmdkh9rgKkRs.jpg"
+    },
+    {
+      "personId": 35962,
+      "name": "Michèle Laroque",
+      "character": "Isabelle",
+      "order": 7,
+      "cast_id": 26,
+      "popularity": 0.7983,
+      "profile_path": "/v4BquPOwY3z9tD3g8QW3yX288ou.jpg"
+    },
+    {
+      "personId": 1356,
+      "name": "Jean-Pierre Lorit",
+      "character": "Christophe",
+      "order": 8,
+      "cast_id": 19,
+      "popularity": 0.5692,
+      "profile_path": "/xP0IO3ZEAUmriWN36pAqeExloDK.jpg"
+    },
+    {
+      "personId": 38891,
+      "name": "Michel Albertini",
+      "character": "Taieb",
+      "order": 9,
+      "cast_id": 20,
+      "popularity": 0.3882,
+      "profile_path": "/nHnPu8rLX5jv3h1hJtRryskPdYS.jpg"
+    },
+    {
+      "personId": 268997,
+      "name": "Coraly Zahonero",
+      "character": "Marianne",
+      "order": 10,
+      "cast_id": 21,
+      "popularity": 1.1317,
+      "profile_path": "/cGKc2yGZW3SrqJOlYumKQodVjpt.jpg"
+    },
+    {
+      "personId": 66031,
+      "name": "Graziella Delerm",
+      "character": "Laurence",
+      "order": 11,
+      "cast_id": 22,
+      "popularity": 0.4176,
+      "profile_path": "/gU3LSbm68R0WEICji9eRqqjIN9u.jpg"
+    },
+    {
+      "personId": 267603,
+      "name": "Olivier Pajot",
+      "character": "Jean-Marc",
+      "order": 12,
+      "cast_id": 23,
+      "popularity": 0.4927,
+      "profile_path": "/uCJUq5nRy5g4XynjtDYXqPnX0xJ.jpg"
+    },
+    {
+      "personId": 578100,
+      "name": "Alexandre Chappuis",
+      "character": "Luc",
+      "order": 13,
+      "cast_id": 24,
+      "popularity": 0.0071,
+      "profile_path": null
+    },
+    {
+      "personId": 13842,
+      "name": "Judith Vittet",
+      "character": "Bénédicte",
+      "order": 14,
+      "cast_id": 27,
+      "popularity": 0.3307,
+      "profile_path": "/r6AfpAMcnMqCvTROmXlSQIGWx2H.jpg"
+    },
+    {
+      "personId": 3561943,
+      "name": "Karine Foviau",
+      "character": "Sandrine",
+      "order": 15,
+      "cast_id": 28,
+      "popularity": 0.2022,
+      "profile_path": "/hB6PehFQDbUFHB4RjL4qDLRWsDL.jpg"
+    },
+    {
+      "personId": 5710075,
+      "name": "Laure Chamay",
+      "character": "Girl in the Bistro",
+      "order": 16,
+      "cast_id": 35,
+      "popularity": 0.0867,
+      "profile_path": null
+    },
+    {
+      "personId": 1536626,
+      "name": "Sylvie Jobert",
+      "character": "Valérie",
+      "order": 17,
+      "cast_id": 36,
+      "popularity": 0.0768,
+      "profile_path": "/s5MBU3Ivm4l4Wc3l11zlHSNJ2et.jpg"
+    },
+    {
+      "personId": 1481648,
+      "name": "Janine Souchon",
+      "character": "Maria",
+      "order": 18,
+      "cast_id": 37,
+      "popularity": 0.3496,
+      "profile_path": "/rqz89Mu2qIKvatDf4KpPzGviSJy.jpg"
+    },
+    {
+      "personId": 961888,
+      "name": "Mathilde Vitry",
+      "character": "The Judge",
+      "order": 19,
+      "cast_id": 38,
+      "popularity": 0.2356,
+      "profile_path": "/gRIu92RCdaL3LB3MOSqjKo5x7wL.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 20789,
+      "name": "Claude Sautet",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.3718,
+      "profile_path": "/b2VSAnImNkRUKedO4X7VX93TNoZ.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 965,
+      "name": "age difference"
+    },
+    {
+      "id": 4193,
+      "name": "retiree"
+    }
+  ]
+}

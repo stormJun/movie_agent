@@ -1,0 +1,172 @@
+{
+  "overview": "This movie is all about a normal guy called Billy Apples. He is a social drinker and sometimes lead singer of a band. While he is doing all of this, he still manages to bring up his teenage daughter. One night while sitting at home Billy finds that he has a talent! He finds that he is able to sing like his idol, 50's singer Billie Holiday. From there he is going places, from huge live performances to even cutting a hit record, but in the end he must make a choice between the life he has, and the life he once knew. Written by Graham Wilson Jr",
+  "release_date": "1995-07-26",
+  "runtime": 92,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 0.0,
+  "tmdb_vote_count": 0,
+  "tmdb_popularity": 0.2021,
+  "original_language": "en",
+  "poster_path": "/xe08JcSJuUzOijAsbl8HmlbspnU.jpg",
+  "backdrop_path": null,
+  "tmdb_genres_raw": [
+    "Music"
+  ],
+  "production_companies": [],
+  "production_countries": [
+    {
+      "code": "AU",
+      "name": "Australia"
+    }
+  ],
+  "spoken_languages": [],
+  "cast": [
+    {
+      "personId": 38665,
+      "name": "Max Cullen",
+      "character": "Billy Apples",
+      "order": 0,
+      "cast_id": 1002,
+      "popularity": 1.243,
+      "profile_path": "/zgPo7APhlEHoz12YCUBJUSfb1JL.jpg"
+    },
+    {
+      "personId": 110008,
+      "name": "Kris McQuade",
+      "character": "Kate Hammond",
+      "order": 1,
+      "cast_id": 1003,
+      "popularity": 1.3361,
+      "profile_path": "/567UnLF08FeK07HYW90wabC36M0.jpg"
+    },
+    {
+      "personId": 152485,
+      "name": "Tina Bursill",
+      "character": "Louise",
+      "order": 2,
+      "cast_id": 1004,
+      "popularity": 0.7997,
+      "profile_path": "/ujQARg5zH78GbDyx3BwcNzxLqRF.jpg"
+    },
+    {
+      "personId": 559922,
+      "name": "Drew Forsythe",
+      "character": "Sid Banks",
+      "order": 3,
+      "cast_id": 1005,
+      "popularity": 0.6724,
+      "profile_path": "/z8295bQqwwOwA6fI3uf8PWYSlCy.jpg"
+    },
+    {
+      "personId": 10760,
+      "name": "Geneviève Lemon",
+      "character": "Julie",
+      "order": 4,
+      "cast_id": 1006,
+      "popularity": 0.7811,
+      "profile_path": "/k93Xs9K7eX06FKIePWD05eDuqBD.jpg"
+    },
+    {
+      "personId": 12206,
+      "name": "Richard Roxburgh",
+      "character": "Rob McSpedden",
+      "order": 5,
+      "cast_id": 1007,
+      "popularity": 2.1626,
+      "profile_path": "/de1XpxnOuW4v4fFWFEjmBqmHaRf.jpg"
+    },
+    {
+      "personId": 559923,
+      "name": "Rachael Coopes",
+      "character": "Casey Appleby",
+      "order": 6,
+      "cast_id": 1008,
+      "popularity": 1.2955,
+      "profile_path": "/vqv1HyvMl0mIzp8LhAGgt1ghzBF.jpg"
+    },
+    {
+      "personId": 559924,
+      "name": "Arianthe Galani",
+      "character": "Anna",
+      "order": 7,
+      "cast_id": 1009,
+      "popularity": 0.8859,
+      "profile_path": null
+    },
+    {
+      "personId": 559925,
+      "name": "Garry Scale",
+      "character": "Reg Conroy",
+      "order": 8,
+      "cast_id": 1010,
+      "popularity": 0.291,
+      "profile_path": null
+    },
+    {
+      "personId": 559926,
+      "name": "Dylan Walters",
+      "character": "Mack",
+      "order": 9,
+      "cast_id": 1011,
+      "popularity": 0.1216,
+      "profile_path": null
+    },
+    {
+      "personId": 559927,
+      "name": "Laurence Clifford",
+      "character": "Jack",
+      "order": 10,
+      "cast_id": 1012,
+      "popularity": 0.1575,
+      "profile_path": null
+    },
+    {
+      "personId": 94289,
+      "name": "Maggie Kirkpatrick",
+      "character": "Maureen O'Hara",
+      "order": 11,
+      "cast_id": 1013,
+      "popularity": 0.8598,
+      "profile_path": "/krmJtbvppjx5m6KplHpUrmZQo4Z.jpg"
+    },
+    {
+      "personId": 79713,
+      "name": "Sacha Horler",
+      "character": "Kristin",
+      "order": 12,
+      "cast_id": 1014,
+      "popularity": 1.6857,
+      "profile_path": "/c9iKG0vquzmZWNzUBeGVARvhBcZ.jpg"
+    },
+    {
+      "personId": 559928,
+      "name": "Jade Gatt",
+      "character": "Alex",
+      "order": 13,
+      "cast_id": 1015,
+      "popularity": 0.3677,
+      "profile_path": "/xLXWHxaEd3ATZCHnbCrZ9XR0OdX.jpg"
+    },
+    {
+      "personId": 559929,
+      "name": "Maryanne Puntoriero",
+      "character": "Melody",
+      "order": 14,
+      "cast_id": 1016,
+      "popularity": 0.0379,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 559920,
+      "name": "Richard Wherrett",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.2646,
+      "profile_path": null
+    }
+  ],
+  "keywords": []
+}

@@ -1,0 +1,245 @@
+{
+  "overview": "Low-budget independent filmmaker Nick Reve tries to keep everything together as his production is plagued with an insecure actress, a megalomaniac star, a pretentious beret-wearing director of photography, and lousy catering.",
+  "release_date": "1995-07-21",
+  "runtime": 90,
+  "budget": 500000,
+  "revenue": 1148752,
+  "tmdb_vote_average": 7.173,
+  "tmdb_vote_count": 309,
+  "tmdb_popularity": 1.0818,
+  "original_language": "en",
+  "poster_path": "/b54xDk98oWtEtAso9sj1wjaZDDH.jpg",
+  "backdrop_path": "/6CwIvZzTtsHX9LQAySH03Vby5UV.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 13187,
+      "name": "JDI productions",
+      "origin_country": ""
+    },
+    {
+      "id": 13190,
+      "name": "Lemon Sky Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 884,
+      "name": "Steve Buscemi",
+      "character": "Nick Reve",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 5.9344,
+      "profile_path": "/kFzw4U5pExnLKZWhR48VSzL8Fre.jpg"
+    },
+    {
+      "personId": 2229,
+      "name": "Catherine Keener",
+      "character": "Nicole Springer",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 3.361,
+      "profile_path": "/n4CTwGszs6cwS1wJRlDQ5Mlh7Ex.jpg"
+    },
+    {
+      "personId": 20212,
+      "name": "Dermot Mulroney",
+      "character": "Wolf",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 5.4409,
+      "profile_path": "/zemTC606JcuMgIGbJMYAocrS5Gm.jpg"
+    },
+    {
+      "personId": 82220,
+      "name": "Danielle von Zerneck",
+      "character": "Wanda",
+      "order": 3,
+      "cast_id": 12,
+      "popularity": 1.6695,
+      "profile_path": "/yRokAUnPSiOuzHiwO1zcC1T4qj.jpg"
+    },
+    {
+      "personId": 6474,
+      "name": "James LeGros",
+      "character": "Chad Palomino",
+      "order": 4,
+      "cast_id": 4,
+      "popularity": 2.2553,
+      "profile_path": "/q7AgI7xjFDSQPlilkT17YddAc93.jpg"
+    },
+    {
+      "personId": 22970,
+      "name": "Peter Dinklage",
+      "character": "Tito",
+      "order": 5,
+      "cast_id": 5,
+      "popularity": 6.3377,
+      "profile_path": "/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
+    },
+    {
+      "personId": 171672,
+      "name": "Rica Martens",
+      "character": "Cora",
+      "order": 6,
+      "cast_id": 14,
+      "popularity": 0.6055,
+      "profile_path": "/xMFDzkp92lIl4pZt9Hcbnqbkhag.jpg"
+    },
+    {
+      "personId": 18472,
+      "name": "Kevin Corrigan",
+      "character": "Assistant Camera",
+      "order": 7,
+      "cast_id": 15,
+      "popularity": 1.9296,
+      "profile_path": "/obSUGc68mQDvFONalMg25Xw5GZM.jpg"
+    },
+    {
+      "personId": 105309,
+      "name": "Robert Wightman",
+      "character": "Gaffer",
+      "order": 8,
+      "cast_id": 16,
+      "popularity": 0.7386,
+      "profile_path": null
+    },
+    {
+      "personId": 2934426,
+      "name": "Michael Griffiths",
+      "character": "Sound Mixer / 'Speedo'",
+      "order": 9,
+      "cast_id": 44,
+      "popularity": 0.0609,
+      "profile_path": null
+    },
+    {
+      "personId": 1744448,
+      "name": "Matthew Grace",
+      "character": "Boom Op",
+      "order": 10,
+      "cast_id": 37,
+      "popularity": 0.413,
+      "profile_path": null
+    },
+    {
+      "personId": 56904,
+      "name": "Hilary Gilford",
+      "character": "Scripty",
+      "order": 11,
+      "cast_id": 34,
+      "popularity": 0.075,
+      "profile_path": null
+    },
+    {
+      "personId": 171743,
+      "name": "Lori Tan Chinn",
+      "character": "Costume Designer",
+      "order": 12,
+      "cast_id": 41,
+      "popularity": 1.1241,
+      "profile_path": "/i0pvjYbtcGZzVKfqknkA2eBLy1S.jpg"
+    },
+    {
+      "personId": 104573,
+      "name": "Norman Fields",
+      "character": "Hair / Make-up Artist",
+      "order": 13,
+      "cast_id": 40,
+      "popularity": 1.132,
+      "profile_path": "/dRFe2unG5A9znR7boUCdkqDYEbT.jpg"
+    },
+    {
+      "personId": 2830126,
+      "name": "Ryan Bowker",
+      "character": "Food Service / Clapper",
+      "order": 14,
+      "cast_id": 38,
+      "popularity": 0.1232,
+      "profile_path": null
+    },
+    {
+      "personId": 2830128,
+      "name": "Vincenzo Amelia",
+      "character": "Cook",
+      "order": 15,
+      "cast_id": 42,
+      "popularity": 0.1126,
+      "profile_path": null
+    },
+    {
+      "personId": 2830127,
+      "name": "Francesca DiMauro",
+      "character": "Production Assistant",
+      "order": 16,
+      "cast_id": 39,
+      "popularity": 0.2733,
+      "profile_path": null
+    },
+    {
+      "personId": 1115834,
+      "name": "Tom Jarmusch",
+      "character": "Driver / Intern",
+      "order": 17,
+      "cast_id": 35,
+      "popularity": 2.6006,
+      "profile_path": null
+    },
+    {
+      "personId": 2830129,
+      "name": "Laurel Thornby",
+      "character": "Nicole's Mother",
+      "order": 18,
+      "cast_id": 43,
+      "popularity": 0.0946,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 6400,
+      "name": "Tom DiCillo",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5793,
+      "profile_path": "/z8XD6BdliptWiaGP49yYNR2OTTR.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 9732,
+      "name": "film in film"
+    },
+    {
+      "id": 163699,
+      "name": "vomiting"
+    },
+    {
+      "id": 210608,
+      "name": "1990s"
+    },
+    {
+      "id": 238618,
+      "name": "crying man"
+    },
+    {
+      "id": 346087,
+      "name": "low-budget filmmaking"
+    }
+  ]
+}

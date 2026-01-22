@@ -1,0 +1,162 @@
+{
+  "overview": "For 16 years Miss Bentley has been spending April at an elegant hillside villa on Lake Como. This year, 1937, her London society artist father has recently died and the only other English-speaking guests are brash Americans. Then Major Wilshaw arrives. He suggests they meet for cocktails and Miss Bentley stands him up -- not even thinking about it -- as she helps the new nanny of an Italian family settle in. Miss Beaumont, a tall, young American who has dropped out of finishing school in Switzerland, is bored and finds some amusement in flirting with the major, whose libido is awakened for the first time since before the great war. And Miss Bentley now finds more about the major to admire than his ears.",
+  "release_date": "1995-09-11",
+  "runtime": 92,
+  "budget": 0,
+  "revenue": 2101087,
+  "tmdb_vote_average": 5.634,
+  "tmdb_vote_count": 41,
+  "tmdb_popularity": 0.4347,
+  "original_language": "en",
+  "poster_path": "/cgoiGvNffe4tZC33x6RIQQiKIp9.jpg",
+  "backdrop_path": "/8KPKBnQV6fjLlH3BoMceoUNBvUb.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 14,
+      "name": "Miramax",
+      "origin_country": "US"
+    },
+    {
+      "id": 36995,
+      "name": "Anuline",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13333,
+      "name": "Vanessa Redgrave",
+      "character": "Miss Bentley",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 3.4678,
+      "profile_path": "/ngBS6mLHn1in3kLJlTMR7w0J68r.jpg"
+    },
+    {
+      "personId": 9126,
+      "name": "Edward Fox",
+      "character": "Major Wilshaw",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 2.3145,
+      "profile_path": "/pEDs4mSeYRaZ1ky57I06Ek4b3k6.jpg"
+    },
+    {
+      "personId": 139,
+      "name": "Uma Thurman",
+      "character": "Miss Beaumont",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 11.2187,
+      "profile_path": "/xuxgPXyv6KjUHIM8cZaxx4ry25L.jpg"
+    },
+    {
+      "personId": 15385,
+      "name": "Alida Valli",
+      "character": "Signora Fascioli",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 1.8517,
+      "profile_path": "/11s7AosF2LHIGgdACpyPyoPlAyI.jpg"
+    },
+    {
+      "personId": 147165,
+      "name": "Carlo Cartier",
+      "character": "Mr. Bonizzoni",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 0.7456,
+      "profile_path": "/jSc4rVVGmeSdRavSwAbayI4dxie.jpg"
+    },
+    {
+      "personId": 57345,
+      "name": "Alessandro Gassmann",
+      "character": "Vittorio Balsari",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 1.2675,
+      "profile_path": "/1RgJdkPXpwfQWumzZ4h3KKxVv4V.jpg"
+    },
+    {
+      "personId": 1192314,
+      "name": "Natalia Bizzi",
+      "character": "Signora Bonizzoni",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 0.2061,
+      "profile_path": "/7qEMcldgfRkYh7Hqz1nhU8sSO5P.jpg"
+    },
+    {
+      "personId": 1403306,
+      "name": "Paolo Lombardi",
+      "character": "Enrico",
+      "order": 7,
+      "cast_id": 39,
+      "popularity": 1.4669,
+      "profile_path": null
+    },
+    {
+      "personId": 122024,
+      "name": "Riccardo Rossi",
+      "character": "Guido",
+      "order": 8,
+      "cast_id": 40,
+      "popularity": 0.9281,
+      "profile_path": "/7pSzh0fcLwM93BWMDszwHnb7xzT.jpg"
+    },
+    {
+      "personId": 1896790,
+      "name": "Sonia Martinelli",
+      "character": "Maria",
+      "order": 9,
+      "cast_id": 41,
+      "popularity": 0.2582,
+      "profile_path": "/wPijnxUq8JjaRdUh4LZb6BP1TWG.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 17784,
+      "name": "John Irvin",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1745,
+      "profile_path": "/gF3FWhmbiwD96E1DP68F07LkX1m.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 131,
+      "name": "italy"
+    },
+    {
+      "id": 214548,
+      "name": "1930s"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "overview": "This documentary recounts the life and work of one of most famous, and yet reviled, German film directors in history, Leni Riefenstahl. The film recounts the rise of her career from a dancer, to a movie actor to the most important film director in Nazi Germany who directed such famous propaganda films as Triumph of the Will and Olympiad. The film also explores her later activities after Nazi Germany's defeat in 1945 and her disgrace for being so associated with it which includes her amazingly active life over the age of 90.",
+  "release_date": "1993-09-11",
+  "runtime": 188,
+  "budget": 0,
+  "revenue": 449707,
+  "tmdb_vote_average": 7.129,
+  "tmdb_vote_count": 30,
+  "tmdb_popularity": 0.4053,
+  "original_language": "de",
+  "poster_path": "/pZnBH4ZJnHcVFgeuK81w2tcHvRD.jpg",
+  "backdrop_path": "/aIDwNw6aGjwAkqNlUlUirCftaNx.jpg",
+  "tmdb_genres_raw": [
+    "Documentary"
+  ],
+  "production_companies": [
+    {
+      "id": 201,
+      "name": "ARTE",
+      "origin_country": "FR"
+    },
+    {
+      "id": 12914,
+      "name": "Nomad Films",
+      "origin_country": ""
+    },
+    {
+      "id": 12915,
+      "name": "Omega Film GmbH",
+      "origin_country": ""
+    },
+    {
+      "id": 12916,
+      "name": "Without Walls",
+      "origin_country": ""
+    },
+    {
+      "id": 4606,
+      "name": "ZDF",
+      "origin_country": "DE"
+    },
+    {
+      "id": 5778,
+      "name": "Channel 4 Television",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "de",
+      "name": "Deutsch"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10139,
+      "name": "Leni Riefenstahl",
+      "character": "Herself",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 0.3983,
+      "profile_path": "/6qBz8IVXankocpDP6pLQJFAIYYp.jpg"
+    },
+    {
+      "personId": 10141,
+      "name": "Walter Frentz",
+      "character": "Himself",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 0.0578,
+      "profile_path": null
+    },
+    {
+      "personId": 1144713,
+      "name": "Horst Kettner",
+      "character": "Himself",
+      "order": 2,
+      "cast_id": 13,
+      "popularity": 0.6374,
+      "profile_path": null
+    },
+    {
+      "personId": 226963,
+      "name": "Ray Müller",
+      "character": "Himself",
+      "order": 3,
+      "cast_id": 14,
+      "popularity": 0.245,
+      "profile_path": null
+    },
+    {
+      "personId": 1050751,
+      "name": "Luis Trenker",
+      "character": "Himself",
+      "order": 4,
+      "cast_id": 15,
+      "popularity": 1.2246,
+      "profile_path": "/yAYclg4lnpWLO9iQVdXd2ectAtx.jpg"
+    },
+    {
+      "personId": 10142,
+      "name": "Guzzi Lantschner",
+      "character": "Himself",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 0.1847,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 226963,
+      "name": "Ray Müller",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.245,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2652,
+      "name": "nazi"
+    },
+    {
+      "id": 2903,
+      "name": "propaganda"
+    },
+    {
+      "id": 2936,
+      "name": "artists' life"
+    }
+  ]
+}

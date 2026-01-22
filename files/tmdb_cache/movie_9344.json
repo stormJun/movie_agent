@@ -1,0 +1,303 @@
+{
+  "overview": "A day in the life of a group of teens as they travel around New York City skating, drinking, smoking and deflowering virgins.",
+  "release_date": "1995-07-28",
+  "runtime": 91,
+  "budget": 1500000,
+  "revenue": 20412216,
+  "tmdb_vote_average": 6.893,
+  "tmdb_vote_count": 1229,
+  "tmdb_popularity": 6.4513,
+  "original_language": "en",
+  "poster_path": "/8qV8hUVCUnFIQKewzlhaFWhdszK.jpg",
+  "backdrop_path": "/c6TjV0i5NzUV4MF8N5wxBW7NcrW.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 116181,
+      "name": "The Guys Upstairs",
+      "origin_country": "US"
+    },
+    {
+      "id": 2833,
+      "name": "Independent Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 57387,
+      "name": "Leo Fitzpatrick",
+      "character": "Telly",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.47,
+      "profile_path": "/iZG9G5DstChbwlL9mAQ727heZX.jpg"
+    },
+    {
+      "personId": 57389,
+      "name": "Justin Pierce",
+      "character": "Casper",
+      "order": 1,
+      "cast_id": 37,
+      "popularity": 1.4558,
+      "profile_path": "/tBOf7ySDq5ETGxLcsXfoYM853Gg.jpg"
+    },
+    {
+      "personId": 2838,
+      "name": "Chloë Sevigny",
+      "character": "Jennie",
+      "order": 2,
+      "cast_id": 48,
+      "popularity": 3.8623,
+      "profile_path": "/eM7KGAMCmZCzYDFV8gaSfknN675.jpg"
+    },
+    {
+      "personId": 5916,
+      "name": "Rosario Dawson",
+      "character": "Ruby",
+      "order": 3,
+      "cast_id": 49,
+      "popularity": 3.9334,
+      "profile_path": "/1mm7JGHIUX3GRRGXEV9QCzsI0ao.jpg"
+    },
+    {
+      "personId": 2102585,
+      "name": "Yakira Peguero",
+      "character": "Darcy",
+      "order": 4,
+      "cast_id": 96,
+      "popularity": 0.9508,
+      "profile_path": "/mgixR0C4ZOdrlFRY68H3iesqVkW.jpg"
+    },
+    {
+      "personId": 2490488,
+      "name": "Atabey Rodriguez",
+      "character": "Misha",
+      "order": 5,
+      "cast_id": 66,
+      "popularity": 0.366,
+      "profile_path": "/kUtEiJ2J8DJo7RFS6ejsOL6ArOR.jpg"
+    },
+    {
+      "personId": 1658247,
+      "name": "Harold Hunter",
+      "character": "Harold",
+      "order": 6,
+      "cast_id": 62,
+      "popularity": 0.7419,
+      "profile_path": "/90ssBTeP1II6whR1IoyXiJepO1F.jpg"
+    },
+    {
+      "personId": 17866,
+      "name": "Jon Abrahams",
+      "character": "Steven",
+      "order": 7,
+      "cast_id": 63,
+      "popularity": 2.5329,
+      "profile_path": "/1gQkeDCmoJ3gjq7VbwvlYKKTKTz.jpg"
+    },
+    {
+      "personId": 1187713,
+      "name": "Sajan Bhagat",
+      "character": "Paul",
+      "order": 8,
+      "cast_id": 41,
+      "popularity": 0.358,
+      "profile_path": null
+    },
+    {
+      "personId": 57388,
+      "name": "Sarah Henderson",
+      "character": "Girl #1",
+      "order": 9,
+      "cast_id": 31,
+      "popularity": 0.3652,
+      "profile_path": null
+    },
+    {
+      "personId": 131299,
+      "name": "Joseph Chan",
+      "character": "Deli Owner",
+      "order": 10,
+      "cast_id": 38,
+      "popularity": 0.1016,
+      "profile_path": null
+    },
+    {
+      "personId": 1187720,
+      "name": "Johnathan Staci Kim",
+      "character": "Korean Guy",
+      "order": 11,
+      "cast_id": 39,
+      "popularity": 0.3902,
+      "profile_path": "/uQABg9FsyPX9fpHJ9WBFuKtoBrE.jpg"
+    },
+    {
+      "personId": 1187721,
+      "name": "Adriane Brown",
+      "character": "Little Girl",
+      "order": 12,
+      "cast_id": 40,
+      "popularity": 0.1471,
+      "profile_path": null
+    },
+    {
+      "personId": 1187714,
+      "name": "Billy Valdes",
+      "character": "Stanly",
+      "order": 13,
+      "cast_id": 42,
+      "popularity": 0.3809,
+      "profile_path": null
+    },
+    {
+      "personId": 1187715,
+      "name": "Billy Waldeman",
+      "character": "Zack",
+      "order": 14,
+      "cast_id": 43,
+      "popularity": 0.1748,
+      "profile_path": "/sbRFvisk1qlDOuKZDe2Pck2hrWs.jpg"
+    },
+    {
+      "personId": 1187716,
+      "name": "Javier Nunez",
+      "character": "Javier",
+      "order": 15,
+      "cast_id": 44,
+      "popularity": 1.2633,
+      "profile_path": "/pZNUcbfFAkUMADHDeAJZmpydKPY.jpg"
+    },
+    {
+      "personId": 2490440,
+      "name": "Luis Nunez",
+      "character": "Luis",
+      "order": 16,
+      "cast_id": 45,
+      "popularity": 0.3591,
+      "profile_path": null
+    },
+    {
+      "personId": 1187718,
+      "name": "Christian Bruna",
+      "character": "Christian",
+      "order": 17,
+      "cast_id": 46,
+      "popularity": 0.1895,
+      "profile_path": null
+    },
+    {
+      "personId": 1187719,
+      "name": "Alex Glen",
+      "character": "Alex",
+      "order": 18,
+      "cast_id": 47,
+      "popularity": 0.0756,
+      "profile_path": null
+    },
+    {
+      "personId": 2489242,
+      "name": "Julia Mendoza",
+      "character": "Susan",
+      "order": 19,
+      "cast_id": 50,
+      "popularity": 0.3336,
+      "profile_path": "/uj3tlXJ65rv6QjfV7O6l49sIjCz.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 51917,
+      "name": "Larry Clark",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8221,
+      "profile_path": "/jFzm8E5Wgtnbtodh45GCW3cDv6c.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1525,
+      "name": "puberty"
+    },
+    {
+      "id": 2201,
+      "name": "first time"
+    },
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 726,
+      "name": "drug abuse"
+    },
+    {
+      "id": 10683,
+      "name": "coming of age"
+    },
+    {
+      "id": 9766,
+      "name": "hiv"
+    },
+    {
+      "id": 14857,
+      "name": "juvenile delinquent"
+    },
+    {
+      "id": 155419,
+      "name": "shoplifting"
+    },
+    {
+      "id": 171341,
+      "name": "underage sex"
+    },
+    {
+      "id": 197314,
+      "name": "sexually transmitted disease"
+    },
+    {
+      "id": 233318,
+      "name": "sleeping around"
+    },
+    {
+      "id": 239797,
+      "name": "complex"
+    },
+    {
+      "id": 247968,
+      "name": "juvenile delinquency"
+    },
+    {
+      "id": 281237,
+      "name": "independent film"
+    },
+    {
+      "id": 310003,
+      "name": "banned film"
+    },
+    {
+      "id": 315053,
+      "name": "critical"
+    },
+    {
+      "id": 325798,
+      "name": "disgusted"
+    }
+  ]
+}

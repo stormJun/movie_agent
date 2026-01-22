@@ -1,0 +1,166 @@
+{
+  "overview": "A battle-scarred, has-been Hungarian cop, tormented by his memories of nearly killing an innocent woman in his custody, enters into a Faustian pact in which he trades his soul for a handful of \"magic\" bullets that always hit the mark. A mysterious and mythical story.",
+  "release_date": "1994-10-23",
+  "runtime": 106,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 4.333,
+  "tmdb_vote_count": 9,
+  "tmdb_popularity": 0.144,
+  "original_language": "hu",
+  "poster_path": "/wTQ77lqIwlJBz98IeCO4srTmT0B.jpg",
+  "backdrop_path": null,
+  "tmdb_genres_raw": [
+    "Drama",
+    "Fantasy"
+  ],
+  "production_companies": [
+    {
+      "id": 1655,
+      "name": "Új Budapest Filmstudió",
+      "origin_country": "HU"
+    },
+    {
+      "id": 7248,
+      "name": "UGC Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 8138,
+      "name": "Vega Film",
+      "origin_country": "CH"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "HU",
+      "name": "Hungary"
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "hu",
+      "name": "Magyar"
+    },
+    {
+      "code": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 7042,
+      "name": "Gary Kemp",
+      "character": "Max",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 1.925,
+      "profile_path": "/jOxSHoR0GEbPvZ9gNGukyK2IKFG.jpg"
+    },
+    {
+      "personId": 41381,
+      "name": "Sadie Frost",
+      "character": "Eva",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 1.0711,
+      "profile_path": "/ux1Ki77DMc9k2exzxUVAXM6y4pA.jpg"
+    },
+    {
+      "personId": 28078,
+      "name": "Aleksandr Kaydanovskiy",
+      "character": "Maxim",
+      "order": 2,
+      "cast_id": 7,
+      "popularity": 1.3502,
+      "profile_path": "/yHYfkxQu3GVKxx5ibFmEom8qAS6.jpg"
+    },
+    {
+      "personId": 1197977,
+      "name": "Péter Vallai",
+      "character": "Kaspar",
+      "order": 3,
+      "cast_id": 8,
+      "popularity": 0.1303,
+      "profile_path": "/uCSqnmRv2SHLqeDBzzSSfec3fP0.jpg"
+    },
+    {
+      "personId": 1073078,
+      "name": "Andor Lukáts",
+      "character": "A szerzetes",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 0.349,
+      "profile_path": "/9AyRdF1EYVEARbCslYCxS3yPXW1.jpg"
+    },
+    {
+      "personId": 131219,
+      "name": "Mathias Gnädinger",
+      "character": "Police Chief",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 0.4791,
+      "profile_path": "/vzVOW50tA1yRRR1K9Y2nmkZTmnn.jpg"
+    },
+    {
+      "personId": 2221015,
+      "name": "Alexandra Wasscher",
+      "character": "Lili",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 0.1451,
+      "profile_path": null
+    },
+    {
+      "personId": 125259,
+      "name": "Ildikó Tóth",
+      "character": "Lina",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 0.2398,
+      "profile_path": "/xCB2qxR2keAGMG5qYMcHqJ027Tn.jpg"
+    },
+    {
+      "personId": 2221016,
+      "name": "Natalie Conde",
+      "character": "Virgin Mary",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 0.1233,
+      "profile_path": null
+    },
+    {
+      "personId": 183154,
+      "name": "Zoltán Gera",
+      "character": "Shoemaker",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 0.4627,
+      "profile_path": "/9nK8815HO7eVkKXXPO0afh79DDd.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1059880,
+      "name": "Ildikó Enyedi",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5469,
+      "profile_path": "/1kU6MLhnizfBJuTj4gfz03euz2k.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 187056,
+      "name": "woman director"
+    }
+  ]
+}

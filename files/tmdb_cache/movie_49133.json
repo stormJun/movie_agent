@@ -1,0 +1,252 @@
+{
+  "overview": "Fiore, an Italian conman, arrives in post Communist Albania with Gino, his young apprentice, to set up a shoe factory that will never open. The con requires a native Albanian, so they designate Spiro, an impoverished and confused former political prisoner as chairman of the board. When Fiore returns to Italy to get government funds for the project, Spiro unexpectedly disappears and Gino sets out on a journey to find him. The search leads him to discover Spiro's tragic personal history and witness Albanian poverty firsthand.",
+  "release_date": "1994-09-09",
+  "runtime": 112,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 7.1,
+  "tmdb_vote_count": 62,
+  "tmdb_popularity": 1.4586,
+  "original_language": "it",
+  "poster_path": "/nnLpA4mqb3gvhNJQZ00cOyBmeq3.jpg",
+  "backdrop_path": "/1udmBSCUyP6FDrnUNQ9CjSlp0iz.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 83998,
+      "name": "Alia Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 371,
+      "name": "Cecchi Gori Group Tiger Cinematografica",
+      "origin_country": "IT"
+    },
+    {
+      "id": 38736,
+      "name": "Arena Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1583,
+      "name": "RAI",
+      "origin_country": "IT"
+    },
+    {
+      "id": 8138,
+      "name": "Vega Film",
+      "origin_country": "CH"
+    },
+    {
+      "id": 104,
+      "name": "Canal+",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "it",
+      "name": "Italiano"
+    },
+    {
+      "code": "sq",
+      "name": "shqip"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 27392,
+      "name": "Enrico Lo Verso",
+      "character": "Gino",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 2.186,
+      "profile_path": "/riYINKQIv8mxYwtfj0L899K0iPu.jpg"
+    },
+    {
+      "personId": 25819,
+      "name": "Michele Placido",
+      "character": "Fiore",
+      "order": 1,
+      "cast_id": 6,
+      "popularity": 0.9551,
+      "profile_path": "/vXDSKdLcTcXFebUEgR61djSzXBQ.jpg"
+    },
+    {
+      "personId": 1149435,
+      "name": "Piro Milkani",
+      "character": "Selimi",
+      "order": 2,
+      "cast_id": 7,
+      "popularity": 0.6969,
+      "profile_path": "/rf8oaVl2IkxBBGIuD9fl03srqmF.jpg"
+    },
+    {
+      "personId": 1180060,
+      "name": "Carmelo Di Mazzarelli",
+      "character": "Spiro",
+      "order": 3,
+      "cast_id": 8,
+      "popularity": 0.7692,
+      "profile_path": "/5P4PcpBTNGAZje1cm8499igk1ps.jpg"
+    },
+    {
+      "personId": 1306493,
+      "name": "Elida Janushi",
+      "character": "Selimi's Cousin",
+      "order": 4,
+      "cast_id": 10,
+      "popularity": 0.2562,
+      "profile_path": "/mUSATOyL5QZxUDmLNO1y1sujbYj.jpg"
+    },
+    {
+      "personId": 3910057,
+      "name": "Sefer Pema",
+      "character": "Labor Camp Warden",
+      "order": 5,
+      "cast_id": 66,
+      "popularity": 0.1609,
+      "profile_path": null
+    },
+    {
+      "personId": 3910059,
+      "name": "Idajet Sejdia",
+      "character": "Dr. Kruja",
+      "order": 6,
+      "cast_id": 67,
+      "popularity": 0.572,
+      "profile_path": null
+    },
+    {
+      "personId": 1837056,
+      "name": "Marjeta Ljarja",
+      "character": "Factory Manager",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 1.0101,
+      "profile_path": "/47TTPYmxy5aFeLorzjm3IU4NlrE.jpg"
+    },
+    {
+      "personId": 3910060,
+      "name": "Elida Ndreu",
+      "character": "Nightclub Singer",
+      "order": 8,
+      "cast_id": 68,
+      "popularity": 0.1688,
+      "profile_path": null
+    },
+    {
+      "personId": 3910063,
+      "name": "Ilir Ara",
+      "character": "Orphanage Guardian",
+      "order": 9,
+      "cast_id": 69,
+      "popularity": 0.1026,
+      "profile_path": null
+    },
+    {
+      "personId": 3910069,
+      "name": "Liliana Subashi",
+      "character": "Hospital Doctor",
+      "order": 10,
+      "cast_id": 70,
+      "popularity": 0.1255,
+      "profile_path": null
+    },
+    {
+      "personId": 3910072,
+      "name": "Artan Marina",
+      "character": "Ismail",
+      "order": 11,
+      "cast_id": 71,
+      "popularity": 0.1094,
+      "profile_path": null
+    },
+    {
+      "personId": 1982033,
+      "name": "Vasjan Lami",
+      "character": "Roadblock Cop",
+      "order": 12,
+      "cast_id": 72,
+      "popularity": 0.193,
+      "profile_path": "/6AFIXcRlR5pZRd9tjAoj93TPbX2.jpg"
+    },
+    {
+      "personId": 3910075,
+      "name": "Nikolin Elezi",
+      "character": "Dying Boy",
+      "order": 13,
+      "cast_id": 73,
+      "popularity": 0.056,
+      "profile_path": null
+    },
+    {
+      "personId": 3910076,
+      "name": "Fatmir Gjyla",
+      "character": "Hotel Manager",
+      "order": 14,
+      "cast_id": 74,
+      "popularity": 0.3546,
+      "profile_path": null
+    },
+    {
+      "personId": 3910077,
+      "name": "Elona Hoti",
+      "character": "Dancing Kid",
+      "order": 15,
+      "cast_id": 75,
+      "popularity": 0.0607,
+      "profile_path": null
+    },
+    {
+      "personId": 1209552,
+      "name": "Besim Kurti",
+      "character": "Prison Officer",
+      "order": 16,
+      "cast_id": 11,
+      "popularity": 0.2691,
+      "profile_path": null
+    },
+    {
+      "personId": 3910078,
+      "name": "Esmeralda Ara",
+      "character": "Girl teaching Italian",
+      "order": 17,
+      "cast_id": 76,
+      "popularity": 0.0551,
+      "profile_path": null
+    },
+    {
+      "personId": 1296968,
+      "name": "Luan Amelio Ujkaj",
+      "character": "Kid",
+      "order": 18,
+      "cast_id": 77,
+      "popularity": 0.6769,
+      "profile_path": "/lQ2D3NL03co8utARv0hDV5r6tCW.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 128107,
+      "name": "Gianni Amelio",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5102,
+      "profile_path": "/4kw9Uc1SJyQkNHrq3umpP3H8ClZ.jpg"
+    }
+  ],
+  "keywords": []
+}

@@ -1,0 +1,272 @@
+{
+  "overview": "Marcus is a successful advertising executive who woos and beds women almost at will. After a company merger he finds that his new boss, the ravishing Jacqueline, is treating him in exactly the same way. Completely traumatised by this, his work goes badly downhill.",
+  "release_date": "1992-06-30",
+  "runtime": 117,
+  "budget": 40000000,
+  "revenue": 131052444,
+  "tmdb_vote_average": 5.7,
+  "tmdb_vote_count": 607,
+  "tmdb_popularity": 4.3228,
+  "original_language": "en",
+  "poster_path": "/apwkBVaJqLuK6mxe6sOABCeNjRw.jpg",
+  "backdrop_path": "/aWYWi34IKwcXt6yQA9fnRGQmZpq.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 30,
+      "name": "Eddie Murphy Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 23,
+      "name": "Imagine Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 776,
+      "name": "Eddie Murphy",
+      "character": "Marcus Graham",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 5.6305,
+      "profile_path": "/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg"
+    },
+    {
+      "personId": 59153,
+      "name": "Robin Givens",
+      "character": "Jacqueline 'Jackie / Jack' Broyer",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 4.4909,
+      "profile_path": "/nDDfpWNsIciwWWQ3R32QbPnfdjO.jpg"
+    },
+    {
+      "personId": 4587,
+      "name": "Halle Berry",
+      "character": "Angela Lewis",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 6.9407,
+      "profile_path": "/yfAJMERSlDIZD1iy6Aab8bArcCK.jpg"
+    },
+    {
+      "personId": 58563,
+      "name": "David Alan Grier",
+      "character": "Gerard Jackson",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.8372,
+      "profile_path": "/2BJ2sueZu98fOMZ9Z1tbUzUTxw9.jpg"
+    },
+    {
+      "personId": 78029,
+      "name": "Martin Lawrence",
+      "character": "Tyler",
+      "order": 4,
+      "cast_id": 13,
+      "popularity": 5.6723,
+      "profile_path": "/y3SQzIPUPJpdueb1DkbTYph68nk.jpg"
+    },
+    {
+      "personId": 10661,
+      "name": "Grace Jones",
+      "character": "Strangé",
+      "order": 5,
+      "cast_id": 14,
+      "popularity": 1.4753,
+      "profile_path": "/ub2ussNd7qNwaPiKczbD0Hc0XJi.jpg"
+    },
+    {
+      "personId": 10225,
+      "name": "Geoffrey Holder",
+      "character": "Nelson",
+      "order": 6,
+      "cast_id": 20,
+      "popularity": 1.1696,
+      "profile_path": "/ncS1CTgCKEChpu73VCNWrtYp7Xx.jpg"
+    },
+    {
+      "personId": 70243,
+      "name": "Eartha Kitt",
+      "character": "Lady Eloise",
+      "order": 7,
+      "cast_id": 15,
+      "popularity": 1.6645,
+      "profile_path": "/e1Lc2KU1ejimRNOMAL3mHegQFvc.jpg"
+    },
+    {
+      "personId": 2632,
+      "name": "Chris Rock",
+      "character": "Bony T",
+      "order": 8,
+      "cast_id": 17,
+      "popularity": 3.5031,
+      "profile_path": "/cqI8yQ00GNDV3PAAz5UeLj7vOX0.jpg"
+    },
+    {
+      "personId": 141823,
+      "name": "Tisha Campbell",
+      "character": "Yvonne",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 2.2444,
+      "profile_path": "/keuc8jAfEM2fRce0P8FvLclwlYg.jpg"
+    },
+    {
+      "personId": 51359,
+      "name": "Lela Rochon",
+      "character": "Christie",
+      "order": 10,
+      "cast_id": 11,
+      "popularity": 1.4341,
+      "profile_path": "/9DBu3r5O4fBosSS4FnSzFCVpm0O.jpg"
+    },
+    {
+      "personId": 56902,
+      "name": "John Witherspoon",
+      "character": "Mr. Jackson",
+      "order": 11,
+      "cast_id": 18,
+      "popularity": 2.2155,
+      "profile_path": "/5clP720NIBWMKT0pwVCzIPjVkxG.jpg"
+    },
+    {
+      "personId": 98902,
+      "name": "Bebe Drake",
+      "character": "Mrs. Jackson",
+      "order": 12,
+      "cast_id": 23,
+      "popularity": 1.6064,
+      "profile_path": "/pSIS3aBdOlxlTzw6MKinGqK3OC9.jpg"
+    },
+    {
+      "personId": 99360,
+      "name": "John Canada Terrell",
+      "character": "Todd",
+      "order": 13,
+      "cast_id": 19,
+      "popularity": 4.61,
+      "profile_path": "/mHxeuXRSOsrZO2rlDPgAp4UMLDC.jpg"
+    },
+    {
+      "personId": 13315,
+      "name": "Leonard Jackson",
+      "character": "Lloyd",
+      "order": 14,
+      "cast_id": 25,
+      "popularity": 0.3396,
+      "profile_path": "/cmZkWmjxpCJiAa4ciJrhS7DERH3.jpg"
+    },
+    {
+      "personId": 2971839,
+      "name": "Jonathan P. Hicks",
+      "character": "Lady Eloise's Butler",
+      "order": 15,
+      "cast_id": 39,
+      "popularity": 0.1622,
+      "profile_path": null
+    },
+    {
+      "personId": 118754,
+      "name": "Tom Mardirosian",
+      "character": "Salesman",
+      "order": 16,
+      "cast_id": 40,
+      "popularity": 1.4865,
+      "profile_path": "/d7HTdYQ4GtRoeFKzpVtP0sjx7xx.jpg"
+    },
+    {
+      "personId": 2971858,
+      "name": "Irv Dotten",
+      "character": "Box Office Clerk",
+      "order": 17,
+      "cast_id": 41,
+      "popularity": 0.4151,
+      "profile_path": null
+    },
+    {
+      "personId": 135650,
+      "name": "Melvin Van Peebles",
+      "character": "Editor",
+      "order": 18,
+      "cast_id": 24,
+      "popularity": 0.5611,
+      "profile_path": "/oiOxqF64Ik6u9gWWA8WQrA5cW4I.jpg"
+    },
+    {
+      "personId": 1782153,
+      "name": "Rhonda Jensen",
+      "character": "Waitress",
+      "order": 19,
+      "cast_id": 42,
+      "popularity": 0.1023,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 68215,
+      "name": "Reginald Hudlin",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6425,
+      "profile_path": "/z2O30pOwkKpZBCyZpwZ80ouKcQA.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2336,
+      "name": "ladykiller"
+    },
+    {
+      "id": 3836,
+      "name": "success"
+    },
+    {
+      "id": 6779,
+      "name": "ladies' man"
+    },
+    {
+      "id": 8642,
+      "name": "casanova"
+    },
+    {
+      "id": 9094,
+      "name": "womanizer"
+    },
+    {
+      "id": 337167,
+      "name": "african american business"
+    },
+    {
+      "id": 338528,
+      "name": "african american romance"
+    }
+  ]
+}

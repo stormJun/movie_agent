@@ -1,0 +1,268 @@
+{
+  "overview": "After losing her job, making out with her soon-to-be former boss, and finding out that her daughter plans to spend Thanksgiving with her boyfriend, Claudia Larson faces spending the holiday with her unhinged family.",
+  "release_date": "1995-11-02",
+  "runtime": 103,
+  "budget": 20000000,
+  "revenue": 22119269,
+  "tmdb_vote_average": 6.2,
+  "tmdb_vote_count": 187,
+  "tmdb_popularity": 1.3902,
+  "original_language": "en",
+  "poster_path": "/3zqlKdOttWyExzopVxglz50Vjxq.jpg",
+  "backdrop_path": "/lCugQmmEoUc5Z3U7IlBXNYjrtJi.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 802,
+      "name": "Egg Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1382,
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 18686,
+      "name": "Holly Hunter",
+      "character": "Claudia Larson",
+      "order": 0,
+      "cast_id": 10,
+      "popularity": 3.6139,
+      "profile_path": "/kC7KX03VAWvogOCuwKbMo4V6TuU.jpg"
+    },
+    {
+      "personId": 3223,
+      "name": "Robert Downey Jr.",
+      "character": "Tommy Larson",
+      "order": 1,
+      "cast_id": 11,
+      "popularity": 10.4404,
+      "profile_path": "/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+    },
+    {
+      "personId": 10774,
+      "name": "Anne Bancroft",
+      "character": "Adele Larson",
+      "order": 2,
+      "cast_id": 12,
+      "popularity": 2.6376,
+      "profile_path": "/ydabiabIsMBe2HsNmx43gBpqzxx.jpg"
+    },
+    {
+      "personId": 1466,
+      "name": "Charles Durning",
+      "character": "Henry Larson",
+      "order": 3,
+      "cast_id": 13,
+      "popularity": 1.7981,
+      "profile_path": "/bozKytaYVKoIbptxkMFWepK09U5.jpg"
+    },
+    {
+      "personId": 32597,
+      "name": "Dylan McDermott",
+      "character": "Leo Fish",
+      "order": 4,
+      "cast_id": 15,
+      "popularity": 4.2479,
+      "profile_path": "/3i69RNLuL7KOD9pCmHQYruhcOdn.jpg"
+    },
+    {
+      "personId": 400,
+      "name": "Geraldine Chaplin",
+      "character": "Aunt Glady",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 4.7251,
+      "profile_path": "/hu9GC4GaJhgsjz99IrmO5YnzHiC.jpg"
+    },
+    {
+      "personId": 26472,
+      "name": "Steve Guttenberg",
+      "character": "Walter Wedman",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 2.1322,
+      "profile_path": "/ghTMepliFNcRQHNELs8pgNDsZyW.jpg"
+    },
+    {
+      "personId": 65528,
+      "name": "Cynthia Stevenson",
+      "character": "Joanne Larson Wedman",
+      "order": 7,
+      "cast_id": 19,
+      "popularity": 2.0987,
+      "profile_path": "/zdrsUVw9F0U4onvh1rS1AQor4wp.jpg"
+    },
+    {
+      "personId": 6194,
+      "name": "Claire Danes",
+      "character": "Kitt Larson",
+      "order": 8,
+      "cast_id": 14,
+      "popularity": 10.5732,
+      "profile_path": "/6YvMc6RViFSornxmZjRgEKWQMzI.jpg"
+    },
+    {
+      "personId": 8185,
+      "name": "Emily Ann Lloyd",
+      "character": "Brittany Lace",
+      "order": 9,
+      "cast_id": 36,
+      "popularity": 1.5088,
+      "profile_path": "/5ye8XuGxdHNiMQNw4Rt9xpUH4OR.jpg"
+    },
+    {
+      "personId": 186573,
+      "name": "Zack Duhame",
+      "character": "Walter Wedman Jr.",
+      "order": 10,
+      "cast_id": 37,
+      "popularity": 0.8684,
+      "profile_path": "/mI6sdZQaeHDi3jXinS4g1jizywk.jpg"
+    },
+    {
+      "personId": 6168,
+      "name": "Austin Pendleton",
+      "character": "Peter Arnold",
+      "order": 11,
+      "cast_id": 29,
+      "popularity": 1.775,
+      "profile_path": "/nrXfqtXDDYzSFNLPQnfLkus4I7s.jpg"
+    },
+    {
+      "personId": 11064,
+      "name": "David Strathairn",
+      "character": "Russell Terziak",
+      "order": 12,
+      "cast_id": 18,
+      "popularity": 3.5317,
+      "profile_path": "/6MRnh27jFz0347S6uU11LZG6aaz.jpg"
+    },
+    {
+      "personId": 1219,
+      "name": "Amy Yasbeck",
+      "character": "Ginny Johnson Drewer",
+      "order": 13,
+      "cast_id": 32,
+      "popularity": 2.3002,
+      "profile_path": "/5BbyiBjp5T8pKUcauVTweRcvLJJ.jpg"
+    },
+    {
+      "personId": 88758,
+      "name": "Celeste Lecesne",
+      "character": "Ron Drewer",
+      "order": 14,
+      "cast_id": 38,
+      "popularity": 0.7477,
+      "profile_path": "/mDtiYoUc6mFgzoKnODyO3iCPvsi.jpg"
+    },
+    {
+      "personId": 1537,
+      "name": "Angela Paton",
+      "character": "Woman on Airplane",
+      "order": 15,
+      "cast_id": 39,
+      "popularity": 1.7812,
+      "profile_path": "/zt2VvSVntPwmmR3ZVxDYVvGEJ5L.jpg"
+    },
+    {
+      "personId": 21069,
+      "name": "Randy Stone",
+      "character": "Man in Car",
+      "order": 16,
+      "cast_id": 40,
+      "popularity": 0.641,
+      "profile_path": "/n2pLehPKyJaYBN0aayajnBariAj.jpg"
+    },
+    {
+      "personId": 1514914,
+      "name": "Sam Slovick",
+      "character": "Jack",
+      "order": 17,
+      "cast_id": 30,
+      "popularity": 0.9726,
+      "profile_path": "/kCyc45bUTCDR9BdMNDp30RI7qTF.jpg"
+    },
+    {
+      "personId": 20172,
+      "name": "Susan Lyall",
+      "character": "Woman at Party",
+      "order": 18,
+      "cast_id": 41,
+      "popularity": 0.4938,
+      "profile_path": null
+    },
+    {
+      "personId": 52647,
+      "name": "Shawn Hatosy",
+      "character": "Counter Boy",
+      "order": 19,
+      "cast_id": 31,
+      "popularity": 3.3679,
+      "profile_path": "/1JVvL4i3lrSYRXrKK2dAucebNh5.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1038,
+      "name": "Jodie Foster",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 6.7065,
+      "profile_path": "/8DAd9knKivHR4CCStxlNEQXzjIh.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 65,
+      "name": "holiday"
+    },
+    {
+      "id": 2200,
+      "name": "generations conflict"
+    },
+    {
+      "id": 2672,
+      "name": "baltimore, usa"
+    },
+    {
+      "id": 4543,
+      "name": "thanksgiving"
+    },
+    {
+      "id": 7629,
+      "name": "family clan"
+    },
+    {
+      "id": 155294,
+      "name": "family conflict"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    },
+    {
+      "id": 207317,
+      "name": "christmas"
+    }
+  ]
+}

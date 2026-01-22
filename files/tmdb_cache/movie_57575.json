@@ -1,0 +1,219 @@
+{
+  "overview": "Reporter Charles Wills, in Paris to cover the end of World War II, falls for the beautiful Helen Ellswirth following a brief flirtation with her sister, Marion. After he and Helen marry, Charles pursues his novelistic ambition while supporting his new bride with a deadening job at a newspaper wire service. But when an old investment suddenly makes the family wealthy, their marriage begins to unravel — until a sudden tragedy changes everything.",
+  "release_date": "1954-11-18",
+  "runtime": 116,
+  "budget": 1960000,
+  "revenue": 4940000,
+  "tmdb_vote_average": 6.2,
+  "tmdb_vote_count": 59,
+  "tmdb_popularity": 0.8689,
+  "original_language": "en",
+  "poster_path": "/rerbqTR085seifQjy7bpnEJJ9qI.jpg",
+  "backdrop_path": "/5f5Qh9tpxIaQK9EkHzZ4oYZmy4.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3635,
+      "name": "Elizabeth Taylor",
+      "character": "Helen Ellswirth",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.2547,
+      "profile_path": "/nKF00U432UIe9AokJsN6IIft3CC.jpg"
+    },
+    {
+      "personId": 37446,
+      "name": "Van Johnson",
+      "character": "Charles Wills",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.1343,
+      "profile_path": "/A6vw5kbdmyXDz1ddQOocJmg9TSc.jpg"
+    },
+    {
+      "personId": 12308,
+      "name": "Walter Pidgeon",
+      "character": "James Ellswirth",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 0.9261,
+      "profile_path": "/bzSDciaTy9vshH4Rguyu5elcSR7.jpg"
+    },
+    {
+      "personId": 17752,
+      "name": "Donna Reed",
+      "character": "Marion Ellswirth",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.7621,
+      "profile_path": "/aCRMYYMs3zxLvmUgxBytuCgTElQ.jpg"
+    },
+    {
+      "personId": 44714,
+      "name": "Eva Gabor",
+      "character": "Lorraine Quarl",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 2.1015,
+      "profile_path": "/gApDSJixCnXin3LYmAbMx7Ly4VV.jpg"
+    },
+    {
+      "personId": 40620,
+      "name": "Kurt Kasznar",
+      "character": "Maurice",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 0.9991,
+      "profile_path": "/ewpi0jZ6aPM5aQ0mIISXLQGZ04u.jpg"
+    },
+    {
+      "personId": 97279,
+      "name": "George Dolenz",
+      "character": "Claude Matine",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 0.4068,
+      "profile_path": "/9kWuPK1A3vVEs474xPmQWmazmk5.jpg"
+    },
+    {
+      "personId": 10222,
+      "name": "Roger Moore",
+      "character": "Paul",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 3.6205,
+      "profile_path": "/6sZGGtq7RHt8Pg6ynUMrPJPuTlj.jpg"
+    },
+    {
+      "personId": 153493,
+      "name": "Sandy Descher",
+      "character": "Vicki",
+      "order": 8,
+      "cast_id": 9,
+      "popularity": 2.0016,
+      "profile_path": "/9TCszGJRKvx1OSMz05xv5oDw3H5.jpg"
+    },
+    {
+      "personId": 15942,
+      "name": "Celia Lovsky",
+      "character": "Mama",
+      "order": 9,
+      "cast_id": 10,
+      "popularity": 0.728,
+      "profile_path": "/kyxxWyoKXmlNxptefqnjCtY6Sz0.jpg"
+    },
+    {
+      "personId": 115330,
+      "name": "Peter Leeds",
+      "character": "Barney",
+      "order": 10,
+      "cast_id": 11,
+      "popularity": 1.0107,
+      "profile_path": "/lxKP01Y2qRdcDgvKX58Mm6XPPJp.jpg"
+    },
+    {
+      "personId": 34130,
+      "name": "John Doucette",
+      "character": "Campbell",
+      "order": 11,
+      "cast_id": 12,
+      "popularity": 1.8087,
+      "profile_path": "/xwSggqoVJTnipwaMsbIGz1J37sp.jpg"
+    },
+    {
+      "personId": 30281,
+      "name": "Odette Myrtil",
+      "character": "Singer",
+      "order": 12,
+      "cast_id": 13,
+      "popularity": 0.3712,
+      "profile_path": "/4hTAcyHD4R5yABsC8UoFE3WZyk4.jpg"
+    },
+    {
+      "personId": 1563482,
+      "name": "Maurice Marks",
+      "character": "Doctor",
+      "order": 13,
+      "cast_id": 20,
+      "popularity": 0.7256,
+      "profile_path": null
+    },
+    {
+      "personId": 153318,
+      "name": "Paul McGuire",
+      "character": "Reporter",
+      "order": 14,
+      "cast_id": 45,
+      "popularity": 1.4241,
+      "profile_path": null
+    },
+    {
+      "personId": 1212974,
+      "name": "Lomax Study",
+      "character": "Photographer (uncredited)",
+      "order": 15,
+      "cast_id": 46,
+      "popularity": 0.6775,
+      "profile_path": "/dApvRPfHl3Qo3MKy5eUPQ2AIVEJ.jpg"
+    },
+    {
+      "personId": 2559272,
+      "name": "Josette Deegan",
+      "character": "Fighting Girl (uncredited)",
+      "order": 16,
+      "cast_id": 47,
+      "popularity": 0.1307,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 3632,
+      "name": "Richard Brooks",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6085,
+      "profile_path": "/2ugZnGBTTK6CA9GEiScX4QHuFkl.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 90,
+      "name": "paris, france"
+    },
+    {
+      "id": 9673,
+      "name": "love"
+    },
+    {
+      "id": 13028,
+      "name": "writer"
+    }
+  ]
+}

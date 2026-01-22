@@ -1,0 +1,273 @@
+{
+  "overview": "In a Canadian metropolis, failed actor David shares a place with the bookish Candy, whom he dated before coming out as gay. While David, who now waits tables, pursues an aimless romance with a younger coworker, Candy dabbles in both same-sex and heterosexual affairs. As David and Candy's odd assortment of friends — including a telepathic sex worker and an ill-tempered yuppie — pass in and out of their beds, a serial murder stalks the city's women.",
+  "release_date": "1994-07-22",
+  "runtime": 100,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.7,
+  "tmdb_vote_count": 45,
+  "tmdb_popularity": 0.3565,
+  "original_language": "en",
+  "poster_path": "/9QVw6cPXfsjr4PncE1TeWudeLmh.jpg",
+  "backdrop_path": "/7J04tcVkPXNWuedOKxiu4guos7H.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 4350,
+      "name": "Atlantis Films",
+      "origin_country": "CA"
+    },
+    {
+      "id": 2267,
+      "name": "First Choice Films",
+      "origin_country": "CA"
+    },
+    {
+      "id": 1203,
+      "name": "The Ontario Film Development Corporation",
+      "origin_country": ""
+    },
+    {
+      "id": 35859,
+      "name": "Société Générale des Industries Culturelles du Québec (SOGIC)",
+      "origin_country": ""
+    },
+    {
+      "id": 11578,
+      "name": "Super Écran",
+      "origin_country": "CA"
+    },
+    {
+      "id": 806,
+      "name": "Téléfilm Canada",
+      "origin_country": "CA"
+    },
+    {
+      "id": 8117,
+      "name": "Max Films",
+      "origin_country": "CA"
+    },
+    {
+      "id": 58,
+      "name": "Sony Pictures Classics",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13638,
+      "name": "Thomas Gibson",
+      "character": "David",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 2.0804,
+      "profile_path": "/cnTJvFNtQW3HqlBSwkXAgvjXDi2.jpg"
+    },
+    {
+      "personId": 73296,
+      "name": "Ruth Marshall",
+      "character": "Candy",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 0.4884,
+      "profile_path": "/vxTNCsyUaW8pTPiaDJ4PQxoTDo5.jpg"
+    },
+    {
+      "personId": 78685,
+      "name": "Cameron Bancroft",
+      "character": "Bernie",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 1.3011,
+      "profile_path": "/6NB6mTfuFRmebqyI6srbEIB0iOV.jpg"
+    },
+    {
+      "personId": 18658,
+      "name": "Mia Kirshner",
+      "character": "Benita",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 4.3419,
+      "profile_path": "/7fSYUVxf84JdZ2aRJ9Lm28Ls6IK.jpg"
+    },
+    {
+      "personId": 78686,
+      "name": "Joanne Vannicola",
+      "character": "Jerri",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 1.2038,
+      "profile_path": null
+    },
+    {
+      "personId": 5940,
+      "name": "Matthew Ferguson",
+      "character": "Kane",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 1.6425,
+      "profile_path": "/yqV6VmQYimyhoDzpY0dDShxYE6O.jpg"
+    },
+    {
+      "personId": 3720,
+      "name": "Rick Roberts",
+      "character": "Robert",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 1.6764,
+      "profile_path": "/1PD5YPyMr0E9yhfawV2bMYB3yzF.jpg"
+    },
+    {
+      "personId": 237,
+      "name": "Aidan Devine",
+      "character": "Sal",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 0.98,
+      "profile_path": "/3qrUCw73cAN0923x5jCxAiiSaJE.jpg"
+    },
+    {
+      "personId": 78687,
+      "name": "Robert Higden",
+      "character": "The Editor",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 0.3712,
+      "profile_path": "/42r4Ci5Og3PBQevpLKMqe2CNyvF.jpg"
+    },
+    {
+      "personId": 78688,
+      "name": "Sylvain Morin",
+      "character": "The Drag Queen",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 0.3174,
+      "profile_path": null
+    },
+    {
+      "personId": 78689,
+      "name": "Ben Watt",
+      "character": "The Native Boy",
+      "order": 10,
+      "cast_id": 13,
+      "popularity": 0.2579,
+      "profile_path": null
+    },
+    {
+      "personId": 16215,
+      "name": "Karen Young",
+      "character": "The Singer",
+      "order": 11,
+      "cast_id": 14,
+      "popularity": 1.4867,
+      "profile_path": "/yriHai0AZfT39CYO4v0rFxEX3rY.jpg"
+    },
+    {
+      "personId": 41746,
+      "name": "Serge Houde",
+      "character": "The Cowboy",
+      "order": 12,
+      "cast_id": 15,
+      "popularity": 1.1535,
+      "profile_path": "/40T7A9D9ts3tBP7aKjyJImY5tMZ.jpg"
+    },
+    {
+      "personId": 30609,
+      "name": "Polly Shannon",
+      "character": "The Second Victim",
+      "order": 13,
+      "cast_id": 16,
+      "popularity": 1.8089,
+      "profile_path": "/6IVyMoAfjlNrXBR1gvGJ8nKSnuO.jpg"
+    },
+    {
+      "personId": 3595175,
+      "name": "Annie Juneau",
+      "character": "The Third Victim",
+      "order": 14,
+      "cast_id": 17,
+      "popularity": 0.1119,
+      "profile_path": "/o4BEekPqdRDuxYpYEPsaW1KVCVE.jpg"
+    },
+    {
+      "personId": 3597156,
+      "name": "Alex Wylding",
+      "character": "The First Victim",
+      "order": 15,
+      "cast_id": 18,
+      "popularity": 0.0466,
+      "profile_path": null
+    },
+    {
+      "personId": 1474736,
+      "name": "Maurice Podbrey",
+      "character": "The Theater Director",
+      "order": 16,
+      "cast_id": 19,
+      "popularity": 0.8461,
+      "profile_path": "/ldINF7YpWL6XErep7W83JEgGuFv.jpg"
+    },
+    {
+      "personId": 2806251,
+      "name": "Geneviève Angers",
+      "character": "",
+      "order": 17,
+      "cast_id": 20,
+      "popularity": 0.1327,
+      "profile_path": null
+    },
+    {
+      "personId": 2074875,
+      "name": "Josée Boisvert",
+      "character": "",
+      "order": 18,
+      "cast_id": 21,
+      "popularity": 0.1033,
+      "profile_path": null
+    },
+    {
+      "personId": 216217,
+      "name": "Aimée Castle",
+      "character": "Bernie's Drug Dealer",
+      "order": 19,
+      "cast_id": 22,
+      "popularity": 0.3415,
+      "profile_path": "/3mwXlt3guQkB1rH8DH6V2Acfbge.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 38516,
+      "name": "Denys Arcand",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5694,
+      "profile_path": "/jYqHVVAHbhNvFCMmi2wUm8IanRp.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 258533,
+      "name": "gay theme"
+    },
+    {
+      "id": 264386,
+      "name": "lesbian"
+    }
+  ]
+}

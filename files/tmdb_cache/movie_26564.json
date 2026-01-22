@@ -1,0 +1,264 @@
+{
+  "overview": "This movie chronicles the life and times of R. Crumb. Robert Crumb is the cartoonist/artist who drew Keep On Truckin', Fritz the Cat, and played a major pioneering role in the genesis of underground comix. Through interviews with his mother, two brothers, wife, ex-wife and ex-girlfriends, as well as selections from his vast quantity of graphic art, we are treated to a darkly comic ride through one man's subconscious mind.",
+  "release_date": "1994-09-10",
+  "runtime": 120,
+  "budget": 0,
+  "revenue": 3041083,
+  "tmdb_vote_average": 7.5,
+  "tmdb_vote_count": 273,
+  "tmdb_popularity": 2.2334,
+  "original_language": "en",
+  "poster_path": "/9ocTHdBCJdwJ65Tubg3lYlfMxEY.jpg",
+  "backdrop_path": "/1mlfORlfu2PtZnlEB3gMKqJy7Qp.jpg",
+  "tmdb_genres_raw": [
+    "Documentary"
+  ],
+  "production_companies": [
+    {
+      "id": 4532,
+      "name": "Superior Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 58,
+      "name": "Sony Pictures Classics",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 73033,
+      "name": "Robert Crumb",
+      "character": "Self",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 1.4516,
+      "profile_path": "/5KI5OZKVEa6TLkGeN0xITOLhWN3.jpg"
+    },
+    {
+      "personId": 95663,
+      "name": "Aline Kominsky",
+      "character": "Self",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 1.1649,
+      "profile_path": "/1LBMQ4SdekuIO6u38u2wW7rkqxz.jpg"
+    },
+    {
+      "personId": 1369235,
+      "name": "Charles Crumb",
+      "character": "Self",
+      "order": 2,
+      "cast_id": 10,
+      "popularity": 0.4266,
+      "profile_path": null
+    },
+    {
+      "personId": 1369236,
+      "name": "Maxon Crumb",
+      "character": "Self",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 0.4322,
+      "profile_path": null
+    },
+    {
+      "personId": 1250528,
+      "name": "Robert Hughes",
+      "character": "Self",
+      "order": 4,
+      "cast_id": 16,
+      "popularity": 1.0083,
+      "profile_path": "/aQgqMJUsSS2iYXZihrWnYDHCori.jpg"
+    },
+    {
+      "personId": 1885865,
+      "name": "Martin Müller",
+      "character": "Self",
+      "order": 5,
+      "cast_id": 18,
+      "popularity": 0.3344,
+      "profile_path": "/zgQPv1YORasIkibJA8ZCcnOpPqE.jpg"
+    },
+    {
+      "personId": 4223940,
+      "name": "Spain Rodriguez",
+      "character": "Self",
+      "order": 6,
+      "cast_id": 19,
+      "popularity": 1.2255,
+      "profile_path": "/zlTLV2s1fPP3AdC6rQ3FpFG4mYc.jpg"
+    },
+    {
+      "personId": 5347613,
+      "name": "Don Donahue",
+      "character": "Self",
+      "order": 7,
+      "cast_id": 20,
+      "popularity": 0.3763,
+      "profile_path": null
+    },
+    {
+      "personId": 2154884,
+      "name": "Dana Morgan",
+      "character": "Self",
+      "order": 8,
+      "cast_id": 21,
+      "popularity": 0.8492,
+      "profile_path": null
+    },
+    {
+      "personId": 1836903,
+      "name": "Trina Robbins",
+      "character": "Self",
+      "order": 9,
+      "cast_id": 22,
+      "popularity": 1.2479,
+      "profile_path": null
+    },
+    {
+      "personId": 1097545,
+      "name": "Bill Griffith",
+      "character": "Self",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 0.2801,
+      "profile_path": "/brhpkXHUelgZ7dCiFvWoRfSWU26.jpg"
+    },
+    {
+      "personId": 5347615,
+      "name": "Deirdre English",
+      "character": "Self",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 0.1566,
+      "profile_path": null
+    },
+    {
+      "personId": 4254518,
+      "name": "Peggy Orenstein",
+      "character": "Self",
+      "order": 12,
+      "cast_id": 25,
+      "popularity": 0.2258,
+      "profile_path": null
+    },
+    {
+      "personId": 5347616,
+      "name": "Beatrice Crumb",
+      "character": "Self",
+      "order": 13,
+      "cast_id": 26,
+      "popularity": 0.1432,
+      "profile_path": null
+    },
+    {
+      "personId": 5347618,
+      "name": "Kathy Goodell",
+      "character": "Self",
+      "order": 14,
+      "cast_id": 27,
+      "popularity": 0.0982,
+      "profile_path": null
+    },
+    {
+      "personId": 1939118,
+      "name": "Dian Hanson",
+      "character": "Self",
+      "order": 15,
+      "cast_id": 28,
+      "popularity": 0.4899,
+      "profile_path": null
+    },
+    {
+      "personId": 3214160,
+      "name": "Sophie Crumb",
+      "character": "Self",
+      "order": 16,
+      "cast_id": 29,
+      "popularity": 0.1222,
+      "profile_path": null
+    },
+    {
+      "personId": 5347620,
+      "name": "Jesse Crumb",
+      "character": "Self",
+      "order": 17,
+      "cast_id": 30,
+      "popularity": 0.094,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 17447,
+      "name": "Terry Zwigoff",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4668,
+      "profile_path": "/g71UdeCOUCQylL7TFCULkbxKsDT.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1353,
+      "name": "underground"
+    },
+    {
+      "id": 582,
+      "name": "san francisco, california"
+    },
+    {
+      "id": 2699,
+      "name": "fetish"
+    },
+    {
+      "id": 2679,
+      "name": "artist"
+    },
+    {
+      "id": 5801,
+      "name": "nerd"
+    },
+    {
+      "id": 5565,
+      "name": "biography"
+    },
+    {
+      "id": 12192,
+      "name": "counter-culture"
+    },
+    {
+      "id": 13151,
+      "name": "drawing"
+    },
+    {
+      "id": 14893,
+      "name": "art"
+    },
+    {
+      "id": 155762,
+      "name": "swinging 60s"
+    },
+    {
+      "id": 192051,
+      "name": "ec comics"
+    },
+    {
+      "id": 262325,
+      "name": "brothers"
+    }
+  ]
+}

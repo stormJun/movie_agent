@@ -1,0 +1,243 @@
+{
+  "overview": "An ordinary man is suddenly forced into a plot to kill a politician in exchange for his kidnapped daughter's freedom.",
+  "release_date": "1995-11-22",
+  "runtime": 89,
+  "budget": 33000000,
+  "revenue": 8175346,
+  "tmdb_vote_average": 6.234,
+  "tmdb_vote_count": 774,
+  "tmdb_popularity": 1.6569,
+  "original_language": "en",
+  "poster_path": "/A1FJwUVg84sQSjHVz5jVMXQvifJ.jpg",
+  "backdrop_path": "/u1JzntSiNw9vUCqYIOcNDajWwdZ.jpg",
+  "tmdb_genres_raw": [
+    "Thriller",
+    "Crime",
+    "Action"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 85,
+      "name": "Johnny Depp",
+      "character": "Gene Watson",
+      "order": 0,
+      "cast_id": 11,
+      "popularity": 8.8051,
+      "profile_path": "/drl9qDZoxPHhUbDamYcOQEhlHzW.jpg"
+    },
+    {
+      "personId": 21365,
+      "name": "Courtney Chase",
+      "character": "Lynn Watson",
+      "order": 1,
+      "cast_id": 12,
+      "popularity": 1.023,
+      "profile_path": "/cMURonBRZhacBWr9xD188bhtX9c.jpg"
+    },
+    {
+      "personId": 17764,
+      "name": "Charles S. Dutton",
+      "character": "Hucy",
+      "order": 2,
+      "cast_id": 13,
+      "popularity": 1.8618,
+      "profile_path": "/eNLs4JLILqSY50Tq5QMkrlBxD0H.jpg"
+    },
+    {
+      "personId": 4690,
+      "name": "Christopher Walken",
+      "character": "Mr. Smith",
+      "order": 3,
+      "cast_id": 14,
+      "popularity": 4.8405,
+      "profile_path": "/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+    },
+    {
+      "personId": 21366,
+      "name": "Roma Maffia",
+      "character": "Ms. Jones",
+      "order": 4,
+      "cast_id": 15,
+      "popularity": 1.6775,
+      "profile_path": "/oEfa2NUJJNo4zg74eB5oY86tyip.jpg"
+    },
+    {
+      "personId": 21368,
+      "name": "Peter Strauss",
+      "character": "Brendan Grant",
+      "order": 5,
+      "cast_id": 17,
+      "popularity": 1.6215,
+      "profile_path": "/nu2QWP09Ju0eMabE0hEmYjm1c6V.jpg"
+    },
+    {
+      "personId": 21369,
+      "name": "Gloria Reuben",
+      "character": "Krista Brooks",
+      "order": 6,
+      "cast_id": 18,
+      "popularity": 2.2502,
+      "profile_path": "/7Ttd3nj1M9P8YE9LzCvGZcvPUQR.jpg"
+    },
+    {
+      "personId": 19131,
+      "name": "Marsha Mason",
+      "character": "Gov. Eleanor Grant",
+      "order": 7,
+      "cast_id": 19,
+      "popularity": 1.0449,
+      "profile_path": "/2IkzpW9eYT0m1jhssQryvmN4gS6.jpg"
+    },
+    {
+      "personId": 203762,
+      "name": "Miguel Nájera",
+      "character": "Franco (Governor's Bodyguard)",
+      "order": 8,
+      "cast_id": 21,
+      "popularity": 1.3859,
+      "profile_path": "/iyzgMgk540UJjHx9d4fsuVTqC8F.jpg"
+    },
+    {
+      "personId": 17200,
+      "name": "Bill Smitrovich",
+      "character": "Officer Trust",
+      "order": 9,
+      "cast_id": 22,
+      "popularity": 2.0011,
+      "profile_path": "/yzZUYnAdX0MMA8eZMTVsXufRCfU.jpg"
+    },
+    {
+      "personId": 3173,
+      "name": "G. D. Spradlin",
+      "character": "Mystery Man",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 0.8796,
+      "profile_path": "/pWNa9H3ABB3Ug9CwTfVNtHsCFjV.jpg"
+    },
+    {
+      "personId": 60287,
+      "name": "Charles Carroll",
+      "character": "Sanitation Engineer",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 1.295,
+      "profile_path": "/9PSYeWjhcYF7VNtPzWIoA8669DD.jpg"
+    },
+    {
+      "personId": 75604,
+      "name": "Yul Vazquez",
+      "character": "Gustino (Guest Services)",
+      "order": 12,
+      "cast_id": 26,
+      "popularity": 1.5655,
+      "profile_path": "/chAxqgeJVoRoQukw7zRYgtlo4KI.jpg"
+    },
+    {
+      "personId": 132300,
+      "name": "Edith Diaz",
+      "character": "Irene (Domestic Maintenance)",
+      "order": 13,
+      "cast_id": 27,
+      "popularity": 0.7034,
+      "profile_path": "/8ZPoNnXBIir5Etjdwr8oWkuDn6b.jpg"
+    },
+    {
+      "personId": 2120431,
+      "name": "Armando Ortega",
+      "character": "Hector (Guest Services)",
+      "order": 14,
+      "cast_id": 28,
+      "popularity": 1.2561,
+      "profile_path": null
+    },
+    {
+      "personId": 2120432,
+      "name": "C.J. Bau",
+      "character": "Mixologist",
+      "order": 15,
+      "cast_id": 29,
+      "popularity": 0.6737,
+      "profile_path": null
+    },
+    {
+      "personId": 1228788,
+      "name": "Cynthena Sanders",
+      "character": "Beverage Server",
+      "order": 16,
+      "cast_id": 30,
+      "popularity": 1.0423,
+      "profile_path": null
+    },
+    {
+      "personId": 2120433,
+      "name": "Dana Mackey",
+      "character": "Transport Reception Manager",
+      "order": 17,
+      "cast_id": 31,
+      "popularity": 0.2218,
+      "profile_path": null
+    },
+    {
+      "personId": 71858,
+      "name": "Jerry Tondo",
+      "character": "Chief Aide",
+      "order": 18,
+      "cast_id": 32,
+      "popularity": 0.5124,
+      "profile_path": null
+    },
+    {
+      "personId": 2120434,
+      "name": "Lance Hunter Voorhees",
+      "character": "Weapons Security",
+      "order": 19,
+      "cast_id": 33,
+      "popularity": 0.3428,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 12840,
+      "name": "John Badham",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.4721,
+      "profile_path": "/hh0EssedcgUOICkZywbVuwVOJO4.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 441,
+      "name": "assassination"
+    },
+    {
+      "id": 6078,
+      "name": "politics"
+    },
+    {
+      "id": 12670,
+      "name": "los angeles, california"
+    }
+  ]
+}

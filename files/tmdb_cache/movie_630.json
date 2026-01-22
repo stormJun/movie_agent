@@ -1,0 +1,343 @@
+{
+  "overview": "Young Dorothy finds herself in a magical world where she makes friends with a lion, a scarecrow and a tin man as they make their way along the yellow brick road to talk with the Wizard and ask for the things they miss most in their lives. The Wicked Witch of the West is the only thing that could stop them.",
+  "release_date": "1939-08-15",
+  "runtime": 102,
+  "budget": 2777000,
+  "revenue": 33754967,
+  "tmdb_vote_average": 7.59,
+  "tmdb_vote_count": 5954,
+  "tmdb_popularity": 13.3052,
+  "original_language": "en",
+  "poster_path": "/lbezZTzzOcomu2ezKJBUsIPtqA6.jpg",
+  "backdrop_path": "/g1OvTd1eF346vmx8qsJnjaiooZ6.jpg",
+  "tmdb_genres_raw": [
+    "Adventure",
+    "Fantasy",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 9066,
+      "name": "Judy Garland",
+      "character": "Dorothy Gale",
+      "order": 0,
+      "cast_id": 19,
+      "popularity": 2.6741,
+      "profile_path": "/vUsMDyRhHYUdayQosHhBF6knWGh.jpg"
+    },
+    {
+      "personId": 9068,
+      "name": "Ray Bolger",
+      "character": "\"Hunk\" / Scarecrow",
+      "order": 1,
+      "cast_id": 21,
+      "popularity": 1.5215,
+      "profile_path": "/43GZ1i6m905Q0r0qe99lgUUPX5O.jpg"
+    },
+    {
+      "personId": 9070,
+      "name": "Jack Haley",
+      "character": "\"Hickory\" / Tin Man",
+      "order": 2,
+      "cast_id": 23,
+      "popularity": 1.2152,
+      "profile_path": "/bvZMv9OeLQT67zpprx5Og3QIDEA.jpg"
+    },
+    {
+      "personId": 9069,
+      "name": "Bert Lahr",
+      "character": "\"Zeke\" / Cowardly Lion",
+      "order": 3,
+      "cast_id": 22,
+      "popularity": 1.7695,
+      "profile_path": "/ArYiG2D7IWRrTZorgUQZyrhkdjj.jpg"
+    },
+    {
+      "personId": 9067,
+      "name": "Frank Morgan",
+      "character": "Professor Marvel / The Wizard of Oz",
+      "order": 4,
+      "cast_id": 20,
+      "popularity": 1.1705,
+      "profile_path": "/gwbmaZ6EGYbsBbe8pWW3Gded02k.jpg"
+    },
+    {
+      "personId": 9072,
+      "name": "Margaret Hamilton",
+      "character": "Miss Gulch / Wicked Witch of the West",
+      "order": 5,
+      "cast_id": 25,
+      "popularity": 1.0277,
+      "profile_path": "/e2tJi7ziy5HCNO6pnpAXoxhnlfg.jpg"
+    },
+    {
+      "personId": 9071,
+      "name": "Billie Burke",
+      "character": "Glinda",
+      "order": 6,
+      "cast_id": 24,
+      "popularity": 0.8016,
+      "profile_path": "/gciSUzrGMI1BHDxiElw8KEcIOVW.jpg"
+    },
+    {
+      "personId": 8517,
+      "name": "Charley Grapewin",
+      "character": "Uncle Henry",
+      "order": 7,
+      "cast_id": 26,
+      "popularity": 0.9088,
+      "profile_path": "/xROPwMkTUgweYQFhbTsvklIMhlw.jpg"
+    },
+    {
+      "personId": 1318970,
+      "name": "Pat Walshe",
+      "character": "Nikko",
+      "order": 8,
+      "cast_id": 42,
+      "popularity": 2.0489,
+      "profile_path": null
+    },
+    {
+      "personId": 9073,
+      "name": "Clara Blandick",
+      "character": "Auntie Em",
+      "order": 9,
+      "cast_id": 27,
+      "popularity": 1.1407,
+      "profile_path": "/1V1QarPPNpJak9WKuF4RzmtiasW.jpg"
+    },
+    {
+      "personId": 1179846,
+      "name": "Terry",
+      "character": "Toto",
+      "order": 10,
+      "cast_id": 43,
+      "popularity": 0.4917,
+      "profile_path": "/zwc87wu62LGTiWkt3XB7jeBBYJn.jpg"
+    },
+    {
+      "personId": 5460,
+      "name": "Adriana Caselotti",
+      "character": "Juliet (voice) (uncredited)",
+      "order": 11,
+      "cast_id": 122,
+      "popularity": 0.6597,
+      "profile_path": "/7nOCtRQnfH6RQ39IZBDffIadgR7.jpg"
+    },
+    {
+      "personId": 1511,
+      "name": "Harry Earles",
+      "character": "Lollipop Guild Member (uncredited)",
+      "order": 12,
+      "cast_id": 123,
+      "popularity": 0.7177,
+      "profile_path": "/yQtJnvqYQ3tH3U6o4xqS4weZ14b.jpg"
+    },
+    {
+      "personId": 127193,
+      "name": "Jerry Maren",
+      "character": "Lollipop Guild Member (uncredited)",
+      "order": 13,
+      "cast_id": 116,
+      "popularity": 0.7996,
+      "profile_path": "/rgqSqrVkCsUpKccZ9gemgZIEiXZ.jpg"
+    },
+    {
+      "personId": 1935,
+      "name": "Buddy Ebsen",
+      "character": "Tin Man (singing voice) (uncredited)",
+      "order": 14,
+      "cast_id": 196,
+      "popularity": 2.128,
+      "profile_path": "/iY3zvIzWDhsrcYoL6jjGONp4Wjv.jpg"
+    },
+    {
+      "personId": 1468767,
+      "name": "Parnell St. Aubin",
+      "character": "Munchkin (uncredited)",
+      "order": 15,
+      "cast_id": 117,
+      "popularity": 0.0549,
+      "profile_path": null
+    },
+    {
+      "personId": 31771,
+      "name": "Billy Bletcher",
+      "character": "Mayor / Lollipop Guild Member (voice) (uncredited)",
+      "order": 16,
+      "cast_id": 124,
+      "popularity": 0.5283,
+      "profile_path": "/ncapDtCeDsMJxEKFXocJTFfnpau.jpg"
+    },
+    {
+      "personId": 5462,
+      "name": "Pinto Colvig",
+      "character": "Munchkins (voice) (uncredited)",
+      "order": 17,
+      "cast_id": 125,
+      "popularity": 1.2689,
+      "profile_path": "/jslBLHuV1cOKsyx763CA1RqsrQU.jpg"
+    },
+    {
+      "personId": 9074,
+      "name": "Charles Becker",
+      "character": "Munchkin Mayor (uncredited)",
+      "order": 18,
+      "cast_id": 126,
+      "popularity": 0.3444,
+      "profile_path": null
+    },
+    {
+      "personId": 13558,
+      "name": "Mitchell Lewis",
+      "character": "Captain of the Winkie Guard (uncredited)",
+      "order": 19,
+      "cast_id": 159,
+      "popularity": 0.8702,
+      "profile_path": "/u8t8u4huDqvZKvcBwQKxOFIJiT5.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 9049,
+      "name": "Victor Fleming",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.3934,
+      "profile_path": "/kwMaOpQnirmXFEuvP0t7Zc94sqj.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 616,
+      "name": "witch"
+    },
+    {
+      "id": 704,
+      "name": "adolescence"
+    },
+    {
+      "id": 1566,
+      "name": "dreams"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 1308,
+      "name": "secret identity"
+    },
+    {
+      "id": 2043,
+      "name": "lion"
+    },
+    {
+      "id": 2213,
+      "name": "tornado"
+    },
+    {
+      "id": 2214,
+      "name": "twister"
+    },
+    {
+      "id": 3151,
+      "name": "scarecrow"
+    },
+    {
+      "id": 3289,
+      "name": "villain"
+    },
+    {
+      "id": 4344,
+      "name": "musical"
+    },
+    {
+      "id": 7658,
+      "name": "kansas, usa"
+    },
+    {
+      "id": 11409,
+      "name": "imaginary land"
+    },
+    {
+      "id": 13001,
+      "name": "cowardliness"
+    },
+    {
+      "id": 15149,
+      "name": "monkey"
+    },
+    {
+      "id": 166726,
+      "name": "female villain"
+    },
+    {
+      "id": 170362,
+      "name": "fantasy world"
+    },
+    {
+      "id": 177912,
+      "name": "wizard"
+    },
+    {
+      "id": 190531,
+      "name": "speculative"
+    },
+    {
+      "id": 206008,
+      "name": "hourglass"
+    },
+    {
+      "id": 207317,
+      "name": "christmas"
+    },
+    {
+      "id": 238526,
+      "name": "red shoes"
+    },
+    {
+      "id": 246466,
+      "name": "based on young adult novel"
+    },
+    {
+      "id": 249813,
+      "name": "tin man"
+    },
+    {
+      "id": 269808,
+      "name": "introspective"
+    },
+    {
+      "id": 281585,
+      "name": "inspirational"
+    },
+    {
+      "id": 325765,
+      "name": "amused"
+    },
+    {
+      "id": 364135,
+      "name": "trying to get home"
+    }
+  ]
+}

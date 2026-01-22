@@ -1,0 +1,203 @@
+{
+  "overview": "Teenager Angus adopts a stray dog and names him Yellow. Several days later, while travelling along the coast of British Columbia with Angus's father, John, the boy and dog become stranded when turbulent waters capsize their boat. Angus's parents relentlessly badger rescue teams. Angus, schooled by his father in wilderness survival skills, and assisted by the intelligent Yellow Dog, tries to attract rescuers.",
+  "release_date": "1995-01-13",
+  "runtime": 81,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.181,
+  "tmdb_vote_count": 94,
+  "tmdb_popularity": 0.9446,
+  "original_language": "en",
+  "poster_path": "/bHtNHOiSmfX1KlJwc9Jvc8sYcjB.jpg",
+  "backdrop_path": "/bDuosrdJBpHvNMD9pzWQcD4ldBv.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 25,
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13920,
+      "name": "Mimi Rogers",
+      "character": "Katherine McCormick",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 3.833,
+      "profile_path": "/o5G9610OuMuVyubfvXwR7rUPfHg.jpg"
+    },
+    {
+      "personId": 17772,
+      "name": "Jesse Bradford",
+      "character": "Angus McCormick",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 2.0767,
+      "profile_path": "/aT3eZzGDMKrwlYgHtwBH4KHKa64.jpg"
+    },
+    {
+      "personId": 52374,
+      "name": "Bruce Davison",
+      "character": "John McCormick",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 2.5524,
+      "profile_path": "/41JtouCUhnnBwWmdsemPydtk3FB.jpg"
+    },
+    {
+      "personId": 19453,
+      "name": "Tom Bower",
+      "character": "John Gale",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 1.8679,
+      "profile_path": "/q26z6T3QZfpirZV3Ex885zUgUR4.jpg"
+    },
+    {
+      "personId": 48464,
+      "name": "Joel Palmer",
+      "character": "Silas McCormick",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 1.5299,
+      "profile_path": "/7nEWGZzUnkVYZqTMsVBNgrBLfZ6.jpg"
+    },
+    {
+      "personId": 1075022,
+      "name": "Dakotah",
+      "character": "Yellow Dog",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 0.0453,
+      "profile_path": null
+    },
+    {
+      "personId": 975639,
+      "name": "Josh Wannamaker",
+      "character": "David Finlay",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 0.0591,
+      "profile_path": null
+    },
+    {
+      "personId": 179441,
+      "name": "Margot Finley",
+      "character": "Sara",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 1.4189,
+      "profile_path": "/gSTqyPHK58MQzyfqfumpG1t8tJ8.jpg"
+    },
+    {
+      "personId": 77210,
+      "name": "Matthew Bennett",
+      "character": "Ron Willick",
+      "order": 8,
+      "cast_id": 18,
+      "popularity": 0.7146,
+      "profile_path": "/32bw21SoRJNddrhWPOZ149irOgi.jpg"
+    },
+    {
+      "personId": 1075023,
+      "name": "St. Clair McColl",
+      "character": "St. Clair McColl",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 0.1024,
+      "profile_path": null
+    },
+    {
+      "personId": 1075024,
+      "name": "Jennifer Weissenborn",
+      "character": "Labrador Helicopter Pilot",
+      "order": 10,
+      "cast_id": 13,
+      "popularity": 0.229,
+      "profile_path": null
+    },
+    {
+      "personId": 1075025,
+      "name": "Gordon Neave",
+      "character": "Flight Engineer",
+      "order": 11,
+      "cast_id": 14,
+      "popularity": 0.1473,
+      "profile_path": null
+    },
+    {
+      "personId": 35704,
+      "name": "Karen Kruper",
+      "character": "Nurse",
+      "order": 12,
+      "cast_id": 15,
+      "popularity": 1.4028,
+      "profile_path": "/GrlrdWJPTbX3h9efs9131Y7m4i.jpg"
+    },
+    {
+      "personId": 1075026,
+      "name": "Dean Lockwood",
+      "character": "Sartech",
+      "order": 13,
+      "cast_id": 16,
+      "popularity": 0.3215,
+      "profile_path": null
+    },
+    {
+      "personId": 1075027,
+      "name": "John LeClair",
+      "character": "Sartech",
+      "order": 14,
+      "cast_id": 17,
+      "popularity": 0.1134,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 148119,
+      "name": "Phillip Borsos",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.6401,
+      "profile_path": "/nhILe7p2AU0c4ShqyeAmb8OpZfM.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3593,
+      "name": "wilderness"
+    },
+    {
+      "id": 158416,
+      "name": "boy and dog"
+    },
+    {
+      "id": 208152,
+      "name": "pets"
+    }
+  ]
+}

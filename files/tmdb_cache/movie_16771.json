@@ -1,0 +1,264 @@
+{
+  "overview": "During the 1980s, uptight Ted Boynton is a salesman working in the Barcelona office of a Chicago-based company. He receives an unexpected visit from his cousin Fred, a naval officer who has come to Spain on a public relations mission for a U.S. fleet. Not exactly friends in the past, Ted and Fred strike up relationships with women in the Spanish city and experience conflicts -- Ted with his employer, and Fred with the Barcelona community.",
+  "release_date": "1994-07-29",
+  "runtime": 100,
+  "budget": 3200000,
+  "revenue": 0,
+  "tmdb_vote_average": 6.2,
+  "tmdb_vote_count": 86,
+  "tmdb_popularity": 3.1149,
+  "original_language": "en",
+  "poster_path": "/7dgX3naR9EsFMvQhwHY8My6r5FR.jpg",
+  "backdrop_path": "/gyP4rLbexXLpXIBigzxGPJfZ3G9.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 97,
+      "name": "Castle Rock Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 37812,
+      "name": "Westerly Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "es",
+      "name": "Español"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4944,
+      "name": "Taylor Nichols",
+      "character": "Ted Boynton",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 1.552,
+      "profile_path": "/2VnYWsBXx19tNvBX1diwfjdLkjU.jpg"
+    },
+    {
+      "personId": 78190,
+      "name": "Chris Eigeman",
+      "character": "Fred Boynton",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 0.8686,
+      "profile_path": "/tXzouEBdfTQE3tUYZhfG5NDlJG3.jpg"
+    },
+    {
+      "personId": 65058,
+      "name": "Tushka Bergen",
+      "character": "Montserrat Raventos",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 0.997,
+      "profile_path": "/fXrX8m7fdb1gJq5KpKNBziOxLUF.jpg"
+    },
+    {
+      "personId": 23931,
+      "name": "Mira Sorvino",
+      "character": "Marta Ferrer",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 4.7289,
+      "profile_path": "/3CPM8yvppihiKsA1pf4x8PJe4x6.jpg"
+    },
+    {
+      "personId": 16950,
+      "name": "Pep Munné",
+      "character": "Ramone",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 1.6046,
+      "profile_path": "/t6MJozPb86TkMeUmacWCyborQkW.jpg"
+    },
+    {
+      "personId": 1557398,
+      "name": "Hellena Taylor",
+      "character": "Greta",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 0.3884,
+      "profile_path": "/fXiMd0xsRtuzw05E6pePAAeE7F7.jpg"
+    },
+    {
+      "personId": 45555,
+      "name": "Núria Badia",
+      "character": "Aurora Boval",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 0.2733,
+      "profile_path": null
+    },
+    {
+      "personId": 77023,
+      "name": "Jack Gilpin",
+      "character": "The Consul",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 1.4017,
+      "profile_path": "/xVUmXH9co9P836ZNiRIM1jpsNz2.jpg"
+    },
+    {
+      "personId": 13638,
+      "name": "Thomas Gibson",
+      "character": "Dickie Taylor",
+      "order": 8,
+      "cast_id": 10,
+      "popularity": 2.0804,
+      "profile_path": "/cnTJvFNtQW3HqlBSwkXAgvjXDi2.jpg"
+    },
+    {
+      "personId": 1076591,
+      "name": "Pere Ponce",
+      "character": "Young Doctor",
+      "order": 9,
+      "cast_id": 37,
+      "popularity": 0.8768,
+      "profile_path": "/hofmauvfJIn1aYjp8L2sgUUqnrP.jpg"
+    },
+    {
+      "personId": 2820025,
+      "name": "Laura López",
+      "character": "Ted's Assistant",
+      "order": 10,
+      "cast_id": 38,
+      "popularity": 0.0998,
+      "profile_path": null
+    },
+    {
+      "personId": 100498,
+      "name": "Francis Creighton",
+      "character": "Frank",
+      "order": 11,
+      "cast_id": 39,
+      "popularity": 0.4752,
+      "profile_path": null
+    },
+    {
+      "personId": 31409,
+      "name": "Edmon Roch",
+      "character": "Javier",
+      "order": 12,
+      "cast_id": 40,
+      "popularity": 2.7805,
+      "profile_path": "/oS8SyQwYReGzNVtP3KPdtB6qzva.jpg"
+    },
+    {
+      "personId": 1065243,
+      "name": "Diana Sassen",
+      "character": "\"Shootings in America\" Woman",
+      "order": 13,
+      "cast_id": 41,
+      "popularity": 0.4548,
+      "profile_path": null
+    },
+    {
+      "personId": 588890,
+      "name": "Àngels Bassas",
+      "character": "\"Jazz\" Woman",
+      "order": 14,
+      "cast_id": 42,
+      "popularity": 0.7873,
+      "profile_path": "/hWsoR2noZUYacZ1RumU8BuXyr24.jpg"
+    },
+    {
+      "personId": 2820027,
+      "name": "Elisenda Bautesta",
+      "character": "\"USO Bombing\" Woman",
+      "order": 15,
+      "cast_id": 43,
+      "popularity": 0.1143,
+      "profile_path": null
+    },
+    {
+      "personId": 1811911,
+      "name": "Andrea Montero",
+      "character": "1st Trade Fair Girl",
+      "order": 16,
+      "cast_id": 44,
+      "popularity": 0.0564,
+      "profile_path": null
+    },
+    {
+      "personId": 2820030,
+      "name": "Paul Degen",
+      "character": "Jurgen: \"People not ants\"",
+      "order": 17,
+      "cast_id": 45,
+      "popularity": 0.0831,
+      "profile_path": null
+    },
+    {
+      "personId": 1174814,
+      "name": "Paca Barrera",
+      "character": "Plain Princess",
+      "order": 18,
+      "cast_id": 46,
+      "popularity": 0.2631,
+      "profile_path": null
+    },
+    {
+      "personId": 1011347,
+      "name": "Nico Baixas",
+      "character": "Hangar Trumpeter",
+      "order": 19,
+      "cast_id": 47,
+      "popularity": 0.2607,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 78188,
+      "name": "Whit Stillman",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4547,
+      "profile_path": "/95CNDCxxPPwG12eTe4wtGPz7rbl.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3588,
+      "name": "navy"
+    },
+    {
+      "id": 514,
+      "name": "spain"
+    },
+    {
+      "id": 107,
+      "name": "barcelona, spain"
+    },
+    {
+      "id": 156063,
+      "name": "expatriate"
+    },
+    {
+      "id": 164829,
+      "name": "cousin relationship"
+    },
+    {
+      "id": 208289,
+      "name": "1980s"
+    }
+  ]
+}

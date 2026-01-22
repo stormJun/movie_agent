@@ -1,0 +1,305 @@
+{
+  "overview": "A rule-bound head butler's world of manners and decorum in the household he maintains is tested by the arrival of a housekeeper who falls in love with him in post-WWI Britain. The possibility of romance and his master's cultivation of ties with the Nazi cause challenge his carefully maintained veneer of servitude.",
+  "release_date": "1993-11-05",
+  "runtime": 134,
+  "budget": 11500000,
+  "revenue": 23240144,
+  "tmdb_vote_average": 7.364,
+  "tmdb_vote_count": 1430,
+  "tmdb_popularity": 3.149,
+  "original_language": "en",
+  "poster_path": "/uDGDtqSvuch324WnM7Ukdp1bCAQ.jpg",
+  "backdrop_path": "/vFhxd3Z1zaV3Yu5XLpvWzSxJCe8.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 214248,
+      "name": "Mike Nichols Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 59963,
+      "name": "John Calley Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 2370,
+      "name": "Merchant Ivory Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "de",
+      "name": "Deutsch"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4173,
+      "name": "Anthony Hopkins",
+      "character": "James Stevens",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 6.8156,
+      "profile_path": "/cbFWUHhk6pZKTEm48OKVM5awNNn.jpg"
+    },
+    {
+      "personId": 7056,
+      "name": "Emma Thompson",
+      "character": "Miss Kenton",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 8.3808,
+      "profile_path": "/bLGNyyVAGSDfRpLoC3gKD6S6j4P.jpg"
+    },
+    {
+      "personId": 1292,
+      "name": "James Fox",
+      "character": "Lord Darlington",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.6961,
+      "profile_path": "/fO11c8zUNNgNhYu4aLxgYiBoo6R.jpg"
+    },
+    {
+      "personId": 20006,
+      "name": "Christopher Reeve",
+      "character": "Jack Lewis",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.4554,
+      "profile_path": "/vAGrPf3ajy6OVE3FhgABynZfybP.jpg"
+    },
+    {
+      "personId": 3291,
+      "name": "Hugh Grant",
+      "character": "Reginald Cardinal",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 4.6383,
+      "profile_path": "/dvV843fOuzsEPXHtFvdzsHpy1rC.jpg"
+    },
+    {
+      "personId": 386,
+      "name": "Peter Vaughan",
+      "character": "William Stevens",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 1.4641,
+      "profile_path": "/pqblKGyukQmyTbMTAhFG1B2mgFq.jpg"
+    },
+    {
+      "personId": 21343,
+      "name": "Ben Chaplin",
+      "character": "Charlie, Head Footman",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 1.5296,
+      "profile_path": "/oJc9gA7cRvRg1v4tgeAmpkaqFxO.jpg"
+    },
+    {
+      "personId": 1220068,
+      "name": "Paula Jacobs",
+      "character": "Mrs. Mortimer, the cook",
+      "order": 7,
+      "cast_id": 16,
+      "popularity": 0.8279,
+      "profile_path": "/AeUgQsYY4hlhM9gwiRTMJnzVkdD.jpg"
+    },
+    {
+      "personId": 3568,
+      "name": "Patrick Godfrey",
+      "character": "Spencer",
+      "order": 8,
+      "cast_id": 19,
+      "popularity": 0.8899,
+      "profile_path": "/fGZMxe4VpV0rYDYbgXmyJlDO3f7.jpg"
+    },
+    {
+      "personId": 2369,
+      "name": "Michael Lonsdale",
+      "character": "Dupont D'Ivry",
+      "order": 9,
+      "cast_id": 21,
+      "popularity": 1.3235,
+      "profile_path": "/lQZktsBj1CFbIEIpXOZp55kCiB5.jpg"
+    },
+    {
+      "personId": 2479,
+      "name": "Rupert Vansittart",
+      "character": "Sir Geoffrey Wren",
+      "order": 10,
+      "cast_id": 22,
+      "popularity": 2.3706,
+      "profile_path": "/lNrqLH0ombV0PoF3KilDzX1ujI9.jpg"
+    },
+    {
+      "personId": 11276,
+      "name": "Tim Pigott-Smith",
+      "character": "Thomas Benn",
+      "order": 11,
+      "cast_id": 23,
+      "popularity": 1.2464,
+      "profile_path": "/37OZUY7cq8eoWxhKR2VD1ppusJM.jpg"
+    },
+    {
+      "personId": 17286,
+      "name": "Lena Headey",
+      "character": "Lizzie",
+      "order": 12,
+      "cast_id": 24,
+      "popularity": 5.5159,
+      "profile_path": "/xR2IBnBlUdyBe5hecaVdtRuQqUE.jpg"
+    },
+    {
+      "personId": 116975,
+      "name": "Paul Copley",
+      "character": "Harry Smith",
+      "order": 13,
+      "cast_id": 25,
+      "popularity": 1.5058,
+      "profile_path": "/6iKI03PIqdooId5Hal6Nn0ccVTU.jpg"
+    },
+    {
+      "personId": 44419,
+      "name": "Peter Cellier",
+      "character": "Sir Leonard Bax",
+      "order": 14,
+      "cast_id": 40,
+      "popularity": 1.106,
+      "profile_path": "/nMGTMkNPtM3Qc1uZakKsdoMIl7x.jpg"
+    },
+    {
+      "personId": 1430048,
+      "name": "Brigitte Kahn",
+      "character": "Baroness",
+      "order": 15,
+      "cast_id": 43,
+      "popularity": 0.5969,
+      "profile_path": null
+    },
+    {
+      "personId": 184881,
+      "name": "John Savident",
+      "character": "Doctor Meredith",
+      "order": 16,
+      "cast_id": 44,
+      "popularity": 1.7154,
+      "profile_path": "/fAbTwsOLn0W6Cagb8mFasTzWW7V.jpg"
+    },
+    {
+      "personId": 36666,
+      "name": "Pip Torrens",
+      "character": "Doctor Richard Carlisle",
+      "order": 17,
+      "cast_id": 50,
+      "popularity": 3.3628,
+      "profile_path": "/1n7pzFfT6jDHe8kc6I0AEfRryhz.jpg"
+    },
+    {
+      "personId": 12691,
+      "name": "Peter Eyre",
+      "character": "Lord Halifax",
+      "order": 18,
+      "cast_id": 51,
+      "popularity": 1.0477,
+      "profile_path": "/lqLx9IBYtkdfHTrWcAKooOkCUz5.jpg"
+    },
+    {
+      "personId": 659,
+      "name": "Wolf Kahler",
+      "character": "German ambassador",
+      "order": 19,
+      "cast_id": 52,
+      "popularity": 1.3141,
+      "profile_path": "/qj8kHiwkluEAH7kwfsBgmDyjGH1.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 54441,
+      "name": "James Ivory",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.0457,
+      "profile_path": "/k8rLCfPmRXT77nXQcYssrX5Dn0s.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 918,
+      "name": "newspaper"
+    },
+    {
+      "id": 212,
+      "name": "london, england"
+    },
+    {
+      "id": 2652,
+      "name": "nazi"
+    },
+    {
+      "id": 392,
+      "name": "england"
+    },
+    {
+      "id": 1307,
+      "name": "butler"
+    },
+    {
+      "id": 1655,
+      "name": "country house"
+    },
+    {
+      "id": 1797,
+      "name": "loyalty"
+    },
+    {
+      "id": 14905,
+      "name": "britain"
+    },
+    {
+      "id": 17997,
+      "name": "housekeeper"
+    },
+    {
+      "id": 33360,
+      "name": "employer"
+    },
+    {
+      "id": 171826,
+      "name": "told in flashback"
+    },
+    {
+      "id": 208611,
+      "name": "1950s"
+    },
+    {
+      "id": 214548,
+      "name": "1930s"
+    }
+  ]
+}

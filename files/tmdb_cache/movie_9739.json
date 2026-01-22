@@ -1,0 +1,340 @@
+{
+  "overview": "In 1996, brash L.A. detective John Spartan and maniac killer Simon Phoenix are both sentenced to decades in a cryogenic prison as punishment for a rescue mission gone wrong. When Phoenix escapes 36 years later to wreak havoc on the future, Spartan is awakened to capture his nemesis the old-fashioned way.",
+  "release_date": "1993-10-08",
+  "runtime": 115,
+  "budget": 57000000,
+  "revenue": 159055768,
+  "tmdb_vote_average": 6.752,
+  "tmdb_vote_count": 3965,
+  "tmdb_popularity": 6.7264,
+  "original_language": "en",
+  "poster_path": "/dq6AmlVFo92PRuoLCcIyFdoRuxf.jpg",
+  "backdrop_path": "/4pl165EUdvveHCr4J4YcHVA1MnD.jpg",
+  "tmdb_genres_raw": [
+    "Crime",
+    "Action",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    {
+      "id": 1885,
+      "name": "Silver Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16483,
+      "name": "Sylvester Stallone",
+      "character": "John Spartan",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 11.3583,
+      "profile_path": "/gn3pDWthJqR0VDYGViGD3048og7.jpg"
+    },
+    {
+      "personId": 10814,
+      "name": "Wesley Snipes",
+      "character": "Simon Phoenix",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 4.1852,
+      "profile_path": "/232tIFkJYkmtQIM31Pi5dmLRR8p.jpg"
+    },
+    {
+      "personId": 18277,
+      "name": "Sandra Bullock",
+      "character": "Lt. Lenina Huxley",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 11.8474,
+      "profile_path": "/hPHGKPAWZ8gArYXMk225rrYPoyJ.jpg"
+    },
+    {
+      "personId": 15788,
+      "name": "Nigel Hawthorne",
+      "character": "Dr. Raymond Cocteau",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 0.9685,
+      "profile_path": "/v8bin2HUa9gayqxmCnlRlh0taxq.jpg"
+    },
+    {
+      "personId": 4589,
+      "name": "Benjamin Bratt",
+      "character": "Alfredo Garcia",
+      "order": 4,
+      "cast_id": 22,
+      "popularity": 3.0389,
+      "profile_path": "/hBenHPT4iJEG2kt5z2TOGnkRZwh.jpg"
+    },
+    {
+      "personId": 60949,
+      "name": "Rob Schneider",
+      "character": "Erwin",
+      "order": 5,
+      "cast_id": 27,
+      "popularity": 3.9571,
+      "profile_path": "/kVHNFDOGDrC3LjDyYf5RaCd6auK.jpg"
+    },
+    {
+      "personId": 4029,
+      "name": "Bob Gunton",
+      "character": "Chief George Earle",
+      "order": 6,
+      "cast_id": 23,
+      "popularity": 3.1979,
+      "profile_path": "/ulbVvuBToBN3aCGcV028hwO0MOP.jpg"
+    },
+    {
+      "personId": 13243,
+      "name": "Glenn Shadix",
+      "character": "Associate Bob",
+      "order": 7,
+      "cast_id": 96,
+      "popularity": 0.9968,
+      "profile_path": "/zTu0Fh0ohLIvFnEXiRvhe91T3Wg.jpg"
+    },
+    {
+      "personId": 5724,
+      "name": "Denis Leary",
+      "character": "Edgar Friendly",
+      "order": 8,
+      "cast_id": 21,
+      "popularity": 2.6305,
+      "profile_path": "/tAOziVWQBnrW9eR442M6g9SQkmA.jpg"
+    },
+    {
+      "personId": 8854,
+      "name": "Bill Cobbs",
+      "character": "Zachary Lamb - Aged",
+      "order": 9,
+      "cast_id": 24,
+      "popularity": 2.9606,
+      "profile_path": "/xRBrI4rPkZuMBMDh8GPke20ZgUv.jpg"
+    },
+    {
+      "personId": 14333,
+      "name": "Grand L. Bush",
+      "character": "Zachary Lamb - Young",
+      "order": 10,
+      "cast_id": 97,
+      "popularity": 1.5667,
+      "profile_path": "/s0Ld1HdCrCTpgYuw8D5LTfNuYwC.jpg"
+    },
+    {
+      "personId": 6326,
+      "name": "Pat Skipper",
+      "character": "Helicopter Pilot",
+      "order": 11,
+      "cast_id": 98,
+      "popularity": 1.3319,
+      "profile_path": "/83kKXFGLe1GDXc1lau63gD5W9uF.jpg"
+    },
+    {
+      "personId": 14328,
+      "name": "Steve Kahan",
+      "character": "Captain Healy",
+      "order": 12,
+      "cast_id": 99,
+      "popularity": 1.4592,
+      "profile_path": "/qnarH2PdHTWsG7Hv2DlHSr7rj5h.jpg"
+    },
+    {
+      "personId": 1640613,
+      "name": "Paul Bollen",
+      "character": "T.F.R. Officer",
+      "order": 13,
+      "cast_id": 100,
+      "popularity": 0.1742,
+      "profile_path": null
+    },
+    {
+      "personId": 1464789,
+      "name": "Mark Colson",
+      "character": "Warden William Smithers - Young",
+      "order": 14,
+      "cast_id": 101,
+      "popularity": 0.4181,
+      "profile_path": "/oQqK6IjqduHWWn8sUvFh2CtQONo.jpg"
+    },
+    {
+      "personId": 109470,
+      "name": "Andre Gregory",
+      "character": "Warden William Smithers - Aged",
+      "order": 15,
+      "cast_id": 102,
+      "popularity": 0.4218,
+      "profile_path": "/jc9sMA0kkoDViSUSc8QEi9uvi4Y.jpg"
+    },
+    {
+      "personId": 42557,
+      "name": "John Enos III",
+      "character": "Prisoner",
+      "order": 16,
+      "cast_id": 103,
+      "popularity": 1.3153,
+      "profile_path": "/4OtSbi1QxeuOgOVskiduUycj88V.jpg"
+    },
+    {
+      "personId": 31006,
+      "name": "Troy Evans",
+      "character": "Tough Cop",
+      "order": 17,
+      "cast_id": 94,
+      "popularity": 2.1307,
+      "profile_path": "/hRdsLKr430COdIIyeHY3QAdg45e.jpg"
+    },
+    {
+      "personId": 77487,
+      "name": "Don C. McGovern",
+      "character": "Hopper - Prison Guard",
+      "order": 18,
+      "cast_id": 186,
+      "popularity": 0.322,
+      "profile_path": null
+    },
+    {
+      "personId": 1046011,
+      "name": "Patricia Rive",
+      "character": "Police Officer",
+      "order": 19,
+      "cast_id": 187,
+      "popularity": 0.5577,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 58838,
+      "name": "Marco Brambilla",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5947,
+      "profile_path": "/uTmYDkzNUT4bYhGtcWYCEEtVFFY.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2964,
+      "name": "future"
+    },
+    {
+      "id": 779,
+      "name": "martial arts"
+    },
+    {
+      "id": 720,
+      "name": "helicopter"
+    },
+    {
+      "id": 6149,
+      "name": "police"
+    },
+    {
+      "id": 6259,
+      "name": "psychopath"
+    },
+    {
+      "id": 853,
+      "name": "crime fighter"
+    },
+    {
+      "id": 4565,
+      "name": "dystopia"
+    },
+    {
+      "id": 2598,
+      "name": "museum"
+    },
+    {
+      "id": 2421,
+      "name": "social control"
+    },
+    {
+      "id": 3385,
+      "name": "cryogenics"
+    },
+    {
+      "id": 3469,
+      "name": "utopia"
+    },
+    {
+      "id": 5572,
+      "name": "fistfight"
+    },
+    {
+      "id": 9777,
+      "name": "prison escape"
+    },
+    {
+      "id": 3977,
+      "name": "product placement"
+    },
+    {
+      "id": 10085,
+      "name": "betrayal"
+    },
+    {
+      "id": 10950,
+      "name": "shootout"
+    },
+    {
+      "id": 12190,
+      "name": "cyberpunk"
+    },
+    {
+      "id": 14601,
+      "name": "explosion"
+    },
+    {
+      "id": 14967,
+      "name": "foot chase"
+    },
+    {
+      "id": 33808,
+      "name": "warden"
+    },
+    {
+      "id": 162801,
+      "name": "subterranean"
+    },
+    {
+      "id": 178712,
+      "name": "totalitarianism"
+    },
+    {
+      "id": 179428,
+      "name": "censorship"
+    },
+    {
+      "id": 226776,
+      "name": "culture shock"
+    },
+    {
+      "id": 226777,
+      "name": "knitting"
+    },
+    {
+      "id": 256328,
+      "name": "2030s"
+    }
+  ]
+}

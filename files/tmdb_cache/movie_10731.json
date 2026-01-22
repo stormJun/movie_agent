@@ -1,0 +1,306 @@
+{
+  "overview": "A street-wise kid, Mark Sway, sees the suicide of Jerome Clifford, a prominent Louisiana lawyer, whose current client is Barry 'The Blade' Muldano, a Mafia hit-man. Before Jerome shoots himself, he tells Mark where the body of a Senator is buried. Clifford shoots himself and Mark is found at the scene, and both the FBI and the Mafia quickly realize that Mark probably knows more than he says.",
+  "release_date": "1994-07-20",
+  "runtime": 119,
+  "budget": 45000000,
+  "revenue": 117615211,
+  "tmdb_vote_average": 6.696,
+  "tmdb_vote_count": 1304,
+  "tmdb_popularity": 3.7967,
+  "original_language": "en",
+  "poster_path": "/oLdkJ4ZjxPtFSUChdjDQvHM9l75.jpg",
+  "backdrop_path": "/w4xGQosfHkJxftUyusX6R7GYciS.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Thriller",
+    "Crime",
+    "Mystery"
+  ],
+  "production_companies": [
+    {
+      "id": 644,
+      "name": "Alcor Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 508,
+      "name": "Regency Enterprises",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 51214,
+      "name": "Brad Renfro",
+      "character": "Mark Sway",
+      "order": 0,
+      "cast_id": 18,
+      "popularity": 1.3534,
+      "profile_path": "/oOtzyE9wkbBV58ZxyYsGzyPxoSw.jpg"
+    },
+    {
+      "personId": 4038,
+      "name": "Susan Sarandon",
+      "character": "Reggie Love",
+      "order": 1,
+      "cast_id": 11,
+      "popularity": 5.2497,
+      "profile_path": "/jR6l2EfvvGA8qCzZ7MB5FT9ZLkq.jpg"
+    },
+    {
+      "personId": 2176,
+      "name": "Tommy Lee Jones",
+      "character": "Roy Foltrigg",
+      "order": 2,
+      "cast_id": 12,
+      "popularity": 13.6129,
+      "profile_path": "/mCiZNRAzbnPojJEZwVZWLw9kzxR.jpg"
+    },
+    {
+      "personId": 18248,
+      "name": "Mary-Louise Parker",
+      "character": "Dianne Sway",
+      "order": 3,
+      "cast_id": 13,
+      "popularity": 4.8508,
+      "profile_path": "/1ohhrIZ4OMlLx9DvHjPhQJAIP0F.jpg"
+    },
+    {
+      "personId": 57829,
+      "name": "Anthony LaPaglia",
+      "character": "Barry Muldano",
+      "order": 4,
+      "cast_id": 14,
+      "popularity": 3.3943,
+      "profile_path": "/31fRY01Dq2ebkx09FjuG5g3QW9G.jpg"
+    },
+    {
+      "personId": 11367,
+      "name": "Bradley Whitford",
+      "character": "Thomas Fink",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 4.2732,
+      "profile_path": "/hy3jwrcpmEpM7jLkrhlqQb1TfGN.jpg"
+    },
+    {
+      "personId": 883,
+      "name": "Will Patton",
+      "character": "Sergeant Hardy",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 4.0293,
+      "profile_path": "/1V4DbU1mfEim4oaA5bvJywDAKwB.jpg"
+    },
+    {
+      "personId": 11085,
+      "name": "Anthony Edwards",
+      "character": "Clint Von Hooser",
+      "order": 7,
+      "cast_id": 19,
+      "popularity": 2.6,
+      "profile_path": "/rP88gP87pa3je6Viem3081tESIV.jpg"
+    },
+    {
+      "personId": 22131,
+      "name": "J. T. Walsh",
+      "character": "Jason McThune",
+      "order": 8,
+      "cast_id": 20,
+      "popularity": 2.5029,
+      "profile_path": "/4yQXzRXMqQxKgYaUteluNmAKBX4.jpg"
+    },
+    {
+      "personId": 16293,
+      "name": "Anthony Heald",
+      "character": "Larry Trumann",
+      "order": 9,
+      "cast_id": 21,
+      "popularity": 2.264,
+      "profile_path": "/e0E6Z1Y0debr4mAHgj0HO7MYyXG.jpg"
+    },
+    {
+      "personId": 8335,
+      "name": "Kim Coates",
+      "character": "Paul Gronke",
+      "order": 10,
+      "cast_id": 22,
+      "popularity": 3.5102,
+      "profile_path": "/brhVd2vTTBJNpM2ZrOFc6SnXCAd.jpg"
+    },
+    {
+      "personId": 1984,
+      "name": "Kimberly Scott",
+      "character": "Doreen",
+      "order": 11,
+      "cast_id": 23,
+      "popularity": 1.2126,
+      "profile_path": "/nt6Pu18aULdQ0CNzdvNtBa2FIxX.jpg"
+    },
+    {
+      "personId": 15531,
+      "name": "Ossie Davis",
+      "character": "Harry Roosevelt",
+      "order": 12,
+      "cast_id": 37,
+      "popularity": 1.6643,
+      "profile_path": "/ubOu0TvauzO1gdPe7eVSJuCx8Rz.jpg"
+    },
+    {
+      "personId": 3905,
+      "name": "William H. Macy",
+      "character": "Dr. Greenway",
+      "order": 13,
+      "cast_id": 25,
+      "popularity": 5.7242,
+      "profile_path": "/hdVEGSrP8qWlJnt0v5vSVcGOjy7.jpg"
+    },
+    {
+      "personId": 268179,
+      "name": "David Speck",
+      "character": "Ricky Sway",
+      "order": 14,
+      "cast_id": 24,
+      "popularity": 0.7553,
+      "profile_path": null
+    },
+    {
+      "personId": 1158447,
+      "name": "Rebecca Jernigan",
+      "character": "Emergency Room Nurse",
+      "order": 15,
+      "cast_id": 26,
+      "popularity": 0.6016,
+      "profile_path": null
+    },
+    {
+      "personId": 590,
+      "name": "William Sanderson",
+      "character": "Wally Boxx",
+      "order": 16,
+      "cast_id": 38,
+      "popularity": 2.2925,
+      "profile_path": "/i3JfaavAFq9ayeJ4doUaOGjHMMW.jpg"
+    },
+    {
+      "personId": 21202,
+      "name": "Micole Mercurio",
+      "character": "Momma Love",
+      "order": 17,
+      "cast_id": 39,
+      "popularity": 1.076,
+      "profile_path": "/7G82RardxpLmZU6TZqJkAfTXxZE.jpg"
+    },
+    {
+      "personId": 45612,
+      "name": "Walter Olkewicz",
+      "character": "Jerome 'Romey' Clifford",
+      "order": 18,
+      "cast_id": 40,
+      "popularity": 1.1884,
+      "profile_path": "/jQ5ThWoHmMsbaNMKAR3IyCScYqp.jpg"
+    },
+    {
+      "personId": 181851,
+      "name": "Amy Hathaway",
+      "character": "Karen",
+      "order": 19,
+      "cast_id": 41,
+      "popularity": 0.7242,
+      "profile_path": "/oYSmd7REmzYVRZjU0sICEQrcRfZ.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 5572,
+      "name": "Joel Schumacher",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.0752,
+      "profile_path": "/fTQwIwVFrL9bFe0LdToQaIkT737.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 236,
+      "name": "suicide"
+    },
+    {
+      "id": 380,
+      "name": "sibling relationship"
+    },
+    {
+      "id": 5301,
+      "name": "brother"
+    },
+    {
+      "id": 3149,
+      "name": "gangster"
+    },
+    {
+      "id": 5340,
+      "name": "investigation"
+    },
+    {
+      "id": 4009,
+      "name": "witness protection"
+    },
+    {
+      "id": 4508,
+      "name": "principal witness "
+    },
+    {
+      "id": 7255,
+      "name": "search for witnesses"
+    },
+    {
+      "id": 10909,
+      "name": "lawyer"
+    },
+    {
+      "id": 251667,
+      "name": "anxious"
+    },
+    {
+      "id": 254459,
+      "name": "legal thriller"
+    },
+    {
+      "id": 321464,
+      "name": "intense"
+    },
+    {
+      "id": 325761,
+      "name": "admiring"
+    },
+    {
+      "id": 325769,
+      "name": "appreciative"
+    },
+    {
+      "id": 325848,
+      "name": "sceptical"
+    },
+    {
+      "id": 325853,
+      "name": "sympathetic"
+    }
+  ]
+}

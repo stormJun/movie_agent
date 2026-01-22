@@ -1,0 +1,279 @@
+{
+  "overview": "When a rich man's son is kidnapped, he cooperates with the police at first but then tries a unique tactic against the criminals.",
+  "release_date": "1996-11-08",
+  "runtime": 121,
+  "budget": 80000000,
+  "revenue": 309492681,
+  "tmdb_vote_average": 6.669,
+  "tmdb_vote_count": 1990,
+  "tmdb_popularity": 5.3136,
+  "original_language": "en",
+  "poster_path": "/4nmOA5ZOY2VlHzwSlKY03sF2JUz.jpg",
+  "backdrop_path": "/vb6JwkHIcKiVvYrUFzuZbN7nUqN.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 9195,
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 23,
+      "name": "Imagine Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2461,
+      "name": "Mel Gibson",
+      "character": "Tom Mullen",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 9.7865,
+      "profile_path": "/4wEWS5NgioKBGTi5fdv2BP3b4ZY.jpg"
+    },
+    {
+      "personId": 14343,
+      "name": "Rene Russo",
+      "character": "Katherine Mullen",
+      "order": 1,
+      "cast_id": 19,
+      "popularity": 4.0095,
+      "profile_path": "/iqnQqYacK3xtxxyu7JTgBP4HFEg.jpg"
+    },
+    {
+      "personId": 33,
+      "name": "Gary Sinise",
+      "character": "Det. Jimmy Shaker",
+      "order": 2,
+      "cast_id": 17,
+      "popularity": 2.5584,
+      "profile_path": "/olRjiV8ZhBixQiTvrGwXhpVXxsV.jpg"
+    },
+    {
+      "personId": 18792,
+      "name": "Delroy Lindo",
+      "character": "Agent Lonnie Hawkins",
+      "order": 3,
+      "cast_id": 18,
+      "popularity": 2.6845,
+      "profile_path": "/kLwUBBmEIdchrLqwsYzgLB2B6q5.jpg"
+    },
+    {
+      "personId": 3127,
+      "name": "Lili Taylor",
+      "character": "Maris",
+      "order": 4,
+      "cast_id": 20,
+      "popularity": 2.5342,
+      "profile_path": "/vWcMUi3QyvCr3QuFbjtwyPx7WtU.jpg"
+    },
+    {
+      "personId": 33239,
+      "name": "Brawley Nolte",
+      "character": "Sean Mullen",
+      "order": 5,
+      "cast_id": 21,
+      "popularity": 0.861,
+      "profile_path": "/uiBmcOVwUxXdggosz5ptv3GJK7N.jpg"
+    },
+    {
+      "personId": 23626,
+      "name": "Liev Schreiber",
+      "character": "Clark Barnes",
+      "order": 6,
+      "cast_id": 22,
+      "popularity": 3.8333,
+      "profile_path": "/26G7QjSb5ZazgWb9XB2X6SwcILQ.jpg"
+    },
+    {
+      "personId": 2680,
+      "name": "Donnie Wahlberg",
+      "character": "Cubby Barnes",
+      "order": 7,
+      "cast_id": 23,
+      "popularity": 3.9421,
+      "profile_path": "/8OQTlgl7eGAFlKTF2o8rZZT0MoF.jpg"
+    },
+    {
+      "personId": 3212,
+      "name": "Evan Handler",
+      "character": "Miles Roberts",
+      "order": 8,
+      "cast_id": 24,
+      "popularity": 2.9772,
+      "profile_path": "/yU0OXeZ0K1ppe1o9SpHiAMHy1rc.jpg"
+    },
+    {
+      "personId": 33240,
+      "name": "Nancy Ticotin",
+      "character": "Agent Kimba Welch",
+      "order": 9,
+      "cast_id": 25,
+      "popularity": 0.5275,
+      "profile_path": "/snZvOHVecpIVcZ3rEFozxVOQf8c.jpg"
+    },
+    {
+      "personId": 33241,
+      "name": "Michael Gaston",
+      "character": "Agent Jack Sickler",
+      "order": 10,
+      "cast_id": 26,
+      "popularity": 3.4448,
+      "profile_path": "/lXhqiW4J1n9bnbfwz0Kdf2sjGLU.jpg"
+    },
+    {
+      "personId": 33242,
+      "name": "Kevin Neil McCready",
+      "character": "Agent Paul Rhodes",
+      "order": 11,
+      "cast_id": 27,
+      "popularity": 0.1753,
+      "profile_path": "/9psLA9U3pFEbxUbmuKseTwYiQ2s.jpg"
+    },
+    {
+      "personId": 10963,
+      "name": "José Zúñiga",
+      "character": "David Torres",
+      "order": 12,
+      "cast_id": 28,
+      "popularity": 2.4138,
+      "profile_path": "/r6nFkJkMHP9tFDohwfav9Bf2rCR.jpg"
+    },
+    {
+      "personId": 6486,
+      "name": "Dan Hedaya",
+      "character": "Jackie Brown",
+      "order": 13,
+      "cast_id": 29,
+      "popularity": 3.3541,
+      "profile_path": "/evL3mV8hNIjZOb1XG3qtgmiTgS5.jpg"
+    },
+    {
+      "personId": 33243,
+      "name": "Allen Bernstein",
+      "character": "Bob Stone",
+      "order": 14,
+      "cast_id": 30,
+      "popularity": 0.1409,
+      "profile_path": null
+    },
+    {
+      "personId": 925,
+      "name": "Paul Guilfoyle",
+      "character": "Wallace",
+      "order": 15,
+      "cast_id": 31,
+      "popularity": 1.968,
+      "profile_path": "/c7unxeM13lF9pMhZhYwlNsSFjFe.jpg"
+    },
+    {
+      "personId": 26721,
+      "name": "Iraida Polanco",
+      "character": "Fatima",
+      "order": 16,
+      "cast_id": 32,
+      "popularity": 1.2305,
+      "profile_path": null
+    },
+    {
+      "personId": 40543,
+      "name": "John Ortiz",
+      "character": "Roberto",
+      "order": 17,
+      "cast_id": 35,
+      "popularity": 2.3193,
+      "profile_path": "/tMDPYhpc9nqIJAK3vtMroEH9qho.jpg"
+    },
+    {
+      "personId": 16505,
+      "name": "A.J. Benza",
+      "character": "Reporter Guest",
+      "order": 18,
+      "cast_id": 211,
+      "popularity": 0.6118,
+      "profile_path": null
+    },
+    {
+      "personId": 52861,
+      "name": "Peter Anthony Tambakis",
+      "character": "Nelson",
+      "order": 19,
+      "cast_id": 37,
+      "popularity": 0.8911,
+      "profile_path": "/5JziimEhri8pseRYO06XPLmTON1.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 6159,
+      "name": "Ron Howard",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 4.8279,
+      "profile_path": "/g3n8qduLaPO2l4kJZsV6xNMXozn.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1336,
+      "name": "ransom"
+    },
+    {
+      "id": 697,
+      "name": "loss of loved one"
+    },
+    {
+      "id": 1562,
+      "name": "hostage"
+    },
+    {
+      "id": 1584,
+      "name": "yellow press"
+    },
+    {
+      "id": 1812,
+      "name": "fbi"
+    },
+    {
+      "id": 4725,
+      "name": "baby-snatching"
+    },
+    {
+      "id": 11734,
+      "name": "police corruption"
+    },
+    {
+      "id": 13015,
+      "name": "terrorism"
+    },
+    {
+      "id": 33626,
+      "name": "millionaire"
+    },
+    {
+      "id": 170865,
+      "name": "child kidnapping"
+    },
+    {
+      "id": 209140,
+      "name": "negotiator"
+    }
+  ]
+}

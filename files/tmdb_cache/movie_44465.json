@@ -1,0 +1,258 @@
+{
+  "overview": "A rich man's wife finds she has a bad prenuptial agreement with an even worse husband. Over drinks with a stranger, she fantasizes about doing her husband in to void the prenup — but much to her surprise, the stranger decides to turn her imagination into reality.",
+  "release_date": "1996-09-13",
+  "runtime": 94,
+  "budget": 0,
+  "revenue": 8538318,
+  "tmdb_vote_average": 5.345,
+  "tmdb_vote_count": 55,
+  "tmdb_popularity": 0.8091,
+  "original_language": "en",
+  "poster_path": "/uE7BXhR6QkSGCIK6gTPGfFRAggY.jpg",
+  "backdrop_path": "/xScMrgLKcS3Uk0Sm21E38s6XuYF.jpg",
+  "tmdb_genres_raw": [
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 175,
+      "name": "Caravan Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 915,
+      "name": "Hollywood Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4587,
+      "name": "Halle Berry",
+      "character": "Josie Potenza",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 6.9392,
+      "profile_path": "/yfAJMERSlDIZD1iy6Aab8bArcCK.jpg"
+    },
+    {
+      "personId": 11803,
+      "name": "Peter Greene",
+      "character": "Cole Wilson",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 4.2801,
+      "profile_path": "/kPnF9rK6ULrIycK7n0ewYjInMZG.jpg"
+    },
+    {
+      "personId": 2296,
+      "name": "Clive Owen",
+      "character": "Jake Golden",
+      "order": 2,
+      "cast_id": 2,
+      "popularity": 3.9329,
+      "profile_path": "/xlWpuLgwxMnZEVgV9OID1TkUNtP.jpg"
+    },
+    {
+      "personId": 13936,
+      "name": "Frankie Faison",
+      "character": "Detective Ron Lewis",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 2.9337,
+      "profile_path": "/3717JOXK2Z8qelfyvScDGimfFBf.jpg"
+    },
+    {
+      "personId": 15414,
+      "name": "Charles Hallahan",
+      "character": "Detective Dan Fredricks",
+      "order": 4,
+      "cast_id": 10,
+      "popularity": 1.3986,
+      "profile_path": "/zQr2ytNB23Dy3uzbGkxfIsANw3y.jpg"
+    },
+    {
+      "personId": 568531,
+      "name": "Allan Rich",
+      "character": "Bill Adolphe",
+      "order": 5,
+      "cast_id": 11,
+      "popularity": 1.0476,
+      "profile_path": "/3dfwxm2AcwgGBlTxwl3OtQft2dS.jpg"
+    },
+    {
+      "personId": 1215072,
+      "name": "Clea Lewis",
+      "character": "Nora Golden",
+      "order": 6,
+      "cast_id": 15,
+      "popularity": 0.7906,
+      "profile_path": "/jcoKrmFIqKmdobBAjWOg7PJdW9y.jpg"
+    },
+    {
+      "personId": 4443,
+      "name": "Christopher McDonald",
+      "character": "Tony Potenza",
+      "order": 7,
+      "cast_id": 13,
+      "popularity": 3.0236,
+      "profile_path": "/gK1XhbfD9Xd8s3VXRPpgDCluyZp.jpg"
+    },
+    {
+      "personId": 167069,
+      "name": "Loyda Ramos",
+      "character": "Grace",
+      "order": 8,
+      "cast_id": 24,
+      "popularity": 0.8145,
+      "profile_path": "/3ivZmDS6ESNv2grJuj39ZJzrPKx.jpg"
+    },
+    {
+      "personId": 3349816,
+      "name": "William Crossett",
+      "character": "Cab Driver",
+      "order": 9,
+      "cast_id": 25,
+      "popularity": 0.2223,
+      "profile_path": null
+    },
+    {
+      "personId": 3349817,
+      "name": "Eddie Francis",
+      "character": "Bartender",
+      "order": 10,
+      "cast_id": 26,
+      "popularity": 0.1224,
+      "profile_path": null
+    },
+    {
+      "personId": 163488,
+      "name": "Lou DiMaggio",
+      "character": "Party Guest",
+      "order": 11,
+      "cast_id": 27,
+      "popularity": 1.2832,
+      "profile_path": "/r4iH5ScQDIzQNKbLo78LuQfXTgF.jpg"
+    },
+    {
+      "personId": 146310,
+      "name": "Alexandra Hedison",
+      "character": "Party Guest",
+      "order": 12,
+      "cast_id": 28,
+      "popularity": 0.4889,
+      "profile_path": null
+    },
+    {
+      "personId": 44809,
+      "name": "John Paragon",
+      "character": "Maitre D'",
+      "order": 13,
+      "cast_id": 29,
+      "popularity": 0.6908,
+      "profile_path": "/fqbk4jdMnoR1CSB1pNFC2r2lhqv.jpg"
+    },
+    {
+      "personId": 1505136,
+      "name": "Marc Shelton",
+      "character": "Instateller Man",
+      "order": 14,
+      "cast_id": 30,
+      "popularity": 0.5614,
+      "profile_path": "/uUyHZTgetFwCPhulhuS5mtOfBJb.jpg"
+    },
+    {
+      "personId": 63046,
+      "name": "Kelly Jo Minter",
+      "character": "Cursing Hooker",
+      "order": 15,
+      "cast_id": 16,
+      "popularity": 1.4093,
+      "profile_path": "/zVRys4W5kzkWefva3LvkF2bHMV3.jpg"
+    },
+    {
+      "personId": 63662,
+      "name": "Marc Lynn",
+      "character": "Police Photographer",
+      "order": 16,
+      "cast_id": 36,
+      "popularity": 1.5555,
+      "profile_path": null
+    },
+    {
+      "personId": 27508,
+      "name": "Zoaunne LeRoy",
+      "character": "Gray-Haired Waitress",
+      "order": 17,
+      "cast_id": 37,
+      "popularity": 0.4164,
+      "profile_path": "/apInV1y8CS1G6LBHcSyKJxJd7hl.jpg"
+    },
+    {
+      "personId": 96553,
+      "name": "Greg Serano",
+      "character": "Gangbanger",
+      "order": 18,
+      "cast_id": 38,
+      "popularity": 2.267,
+      "profile_path": "/bqKA6wmh7j4HVTm0FfsYCOBGTKo.jpg"
+    },
+    {
+      "personId": 61285,
+      "name": "Michelle Bonilla",
+      "character": "Gangbanger",
+      "order": 19,
+      "cast_id": 39,
+      "popularity": 0.8553,
+      "profile_path": "/4XOtQ6YTL3Hiy1D1aV9CamdqoRO.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 21371,
+      "name": "Amy Holden Jones",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5639,
+      "profile_path": "/rPP8TdPAkhcEb5l4YGC7JNm6nbW.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6038,
+      "name": "marriage"
+    },
+    {
+      "id": 4902,
+      "name": "surprise"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 34143,
+      "name": "rich"
+    },
+    {
+      "id": 156104,
+      "name": "stranger"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    }
+  ]
+}

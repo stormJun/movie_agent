@@ -1,0 +1,300 @@
+{
+  "overview": "Siblings Wednesday and Pugsley Addams will stop at nothing to get rid of Pubert, the new baby boy adored by parents Gomez and Morticia. Things go from bad to worse when the new \"black widow\" nanny, Debbie Jellinsky, launches her plan to add Fester to her collection of dead husbands.",
+  "release_date": "1993-11-19",
+  "runtime": 94,
+  "budget": 47000000,
+  "revenue": 48919043,
+  "tmdb_vote_average": 6.969,
+  "tmdb_vote_count": 3231,
+  "tmdb_popularity": 7.5034,
+  "original_language": "en",
+  "poster_path": "/sdxT2VjVSx9DRicwnuECUdBHeE7.jpg",
+  "backdrop_path": "/sZhTfYouKM1iV3rVbgIVEQFQogA.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "production_companies": [
+    {
+      "id": 258,
+      "name": "Scott Rudin Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5657,
+      "name": "Anjelica Huston",
+      "character": "Morticia Addams",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 2.8477,
+      "profile_path": "/6hnYeHa7Rc1w1MmQ3JsLSIb7yCX.jpg"
+    },
+    {
+      "personId": 27888,
+      "name": "Raúl Juliá",
+      "character": "Gomez Addams",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 1.7563,
+      "profile_path": "/zRvv5vdqCxdio38gx0WWmof4cO5.jpg"
+    },
+    {
+      "personId": 1062,
+      "name": "Christopher Lloyd",
+      "character": "Uncle Fester",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 4.1347,
+      "profile_path": "/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg"
+    },
+    {
+      "personId": 3234,
+      "name": "Joan Cusack",
+      "character": "Debbie Jellinsky",
+      "order": 3,
+      "cast_id": 1,
+      "popularity": 3.6922,
+      "profile_path": "/ytjiXEqnaEYtS7XkYmoUXPrZCm5.jpg"
+    },
+    {
+      "personId": 6886,
+      "name": "Christina Ricci",
+      "character": "Wednesday Addams",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 4.0619,
+      "profile_path": "/dzB58d6fNrTEi7nBAU1tySJc2at.jpg"
+    },
+    {
+      "personId": 10556,
+      "name": "Carol Kane",
+      "character": "Granny",
+      "order": 5,
+      "cast_id": 26,
+      "popularity": 3.2,
+      "profile_path": "/3EOZ7B148lRwJcl3CmQhfpgubYQ.jpg"
+    },
+    {
+      "personId": 119866,
+      "name": "Jimmy Workman",
+      "character": "Pugsley Addams",
+      "order": 6,
+      "cast_id": 22,
+      "popularity": 0.7837,
+      "profile_path": "/nQFiKAEYZbb9K4TCSNDER41w8CX.jpg"
+    },
+    {
+      "personId": 38582,
+      "name": "David Krumholtz",
+      "character": "Joel Glicker",
+      "order": 7,
+      "cast_id": 36,
+      "popularity": 2.6916,
+      "profile_path": "/2vaimzfyPQVxZGHbQS5M3z3tZw0.jpg"
+    },
+    {
+      "personId": 12688,
+      "name": "Peter MacNicol",
+      "character": "Gary Granger",
+      "order": 8,
+      "cast_id": 25,
+      "popularity": 3.7881,
+      "profile_path": "/8gizugTP8hykdfBkOY0Qg0aqpiP.jpg"
+    },
+    {
+      "personId": 11870,
+      "name": "Christine Baranski",
+      "character": "Becky Martin-Granger",
+      "order": 9,
+      "cast_id": 27,
+      "popularity": 3.558,
+      "profile_path": "/q6Zi3BYlmoim1JXXMGgRVS5C87x.jpg"
+    },
+    {
+      "personId": 9631,
+      "name": "Carel Struycken",
+      "character": "Lurch",
+      "order": 10,
+      "cast_id": 6,
+      "popularity": 1.549,
+      "profile_path": "/lmVuJQVeNVQo9x05WKLYmFBCpwA.jpg"
+    },
+    {
+      "personId": 50400,
+      "name": "Christopher Hart",
+      "character": "Thing",
+      "order": 11,
+      "cast_id": 70,
+      "popularity": 0.9123,
+      "profile_path": "/nnabESYRFPdM40HE34z9lXsosKr.jpg"
+    },
+    {
+      "personId": 13314,
+      "name": "Dana Ivey",
+      "character": "Margaret Addams",
+      "order": 12,
+      "cast_id": 71,
+      "popularity": 1.8298,
+      "profile_path": "/oQEeRwEb9w4TuSVp334OP9z6Ljm.jpg"
+    },
+    {
+      "personId": 2436216,
+      "name": "Kaitlyn Hooper",
+      "character": "Pubert Addams",
+      "order": 13,
+      "cast_id": 68,
+      "popularity": 0.745,
+      "profile_path": "/AdH8zt8gKb9hXVAJvbCWfQKgbc7.jpg"
+    },
+    {
+      "personId": 2436217,
+      "name": "Kristen Hooper",
+      "character": "Pubert Addams",
+      "order": 14,
+      "cast_id": 69,
+      "popularity": 1.0501,
+      "profile_path": "/81sFhES5XPtPF4vRbNAM0US0ywm.jpg"
+    },
+    {
+      "personId": 123149,
+      "name": "Mercedes McNab",
+      "character": "Amanda Buckman",
+      "order": 15,
+      "cast_id": 28,
+      "popularity": 1.3498,
+      "profile_path": "/uPlQzMK3940OmdXUQozFIs4Y9U4.jpg"
+    },
+    {
+      "personId": 5176,
+      "name": "Sam McMurray",
+      "character": "Don Buckman",
+      "order": 16,
+      "cast_id": 29,
+      "popularity": 2.1481,
+      "profile_path": "/pbZSG0hprUcRkUF3q4NUUzvQX3E.jpg"
+    },
+    {
+      "personId": 538,
+      "name": "Harriet Sansom Harris",
+      "character": "Ellen Buckman",
+      "order": 17,
+      "cast_id": 19,
+      "popularity": 1.6704,
+      "profile_path": "/1ShvYCWkZycAGb27ZivGrLx1PhS.jpg"
+    },
+    {
+      "personId": 57552,
+      "name": "Julie Halston",
+      "character": "Mrs. Glicker",
+      "order": 18,
+      "cast_id": 20,
+      "popularity": 1.5434,
+      "profile_path": "/p4UcHk02y5eZX6oQ2OV6wONGTbx.jpg"
+    },
+    {
+      "personId": 5174,
+      "name": "Barry Sonnenfeld",
+      "character": "Mr. Glicker",
+      "order": 19,
+      "cast_id": 21,
+      "popularity": 0.924,
+      "profile_path": "/n6y6vaAFfSqsJodgkwTxAey4NoG.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 5174,
+      "name": "Barry Sonnenfeld",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.924,
+      "profile_path": "/n6y6vaAFfSqsJodgkwTxAey4NoG.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 246,
+      "name": "dancing"
+    },
+    {
+      "id": 931,
+      "name": "jealousy"
+    },
+    {
+      "id": 1009,
+      "name": "baby"
+    },
+    {
+      "id": 380,
+      "name": "sibling relationship"
+    },
+    {
+      "id": 5767,
+      "name": "summer camp"
+    },
+    {
+      "id": 1873,
+      "name": "yuppie"
+    },
+    {
+      "id": 1307,
+      "name": "butler"
+    },
+    {
+      "id": 2341,
+      "name": "nanny"
+    },
+    {
+      "id": 4543,
+      "name": "thanksgiving"
+    },
+    {
+      "id": 6317,
+      "name": "guillotine"
+    },
+    {
+      "id": 6464,
+      "name": "uncle"
+    },
+    {
+      "id": 12545,
+      "name": "mansion"
+    },
+    {
+      "id": 13027,
+      "name": "wedding"
+    },
+    {
+      "id": 162810,
+      "name": "macabre"
+    },
+    {
+      "id": 214418,
+      "name": "disembodied hand"
+    },
+    {
+      "id": 251667,
+      "name": "anxious"
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "overview": "When the champ's promoter, Rev. Sultan, decides something new is needed to boost the marketability of the boxing matches, he searches and finds the only man to ever beat the champ. The problem is that he isn't a boxer anymore and he's white. However, once Rev. Sultan convinces him to fight, he goes into heavy training while the confident champ takes it easy and falls out of shape.",
+  "release_date": "1996-05-03",
+  "runtime": 91,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.255,
+  "tmdb_vote_count": 102,
+  "tmdb_popularity": 0.5399,
+  "original_language": "en",
+  "poster_path": "/yEPiu0mC4NqMHOoFLsC6CxQW34d.jpg",
+  "backdrop_path": "/sCo0Y61v00gqNMTJjPTkxLXwMLv.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 54051,
+      "name": "Atman Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 89312,
+      "name": "Fred Berner Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 25,
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2231,
+      "name": "Samuel L. Jackson",
+      "character": "Rev. Fred Sultan",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 9.5835,
+      "profile_path": "/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+    },
+    {
+      "personId": 4785,
+      "name": "Jeff Goldblum",
+      "character": "Mitchell Kane",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 5.6565,
+      "profile_path": "/ceSmXnD0FUSTaq2WIrnZu9caL0t.jpg"
+    },
+    {
+      "personId": 36602,
+      "name": "Peter Berg",
+      "character": "Terry Conklin",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.514,
+      "profile_path": "/1pR16H0zqRG49ns8cYykYpodgGF.jpg"
+    },
+    {
+      "personId": 21246,
+      "name": "Corbin Bernsen",
+      "character": "Peter Prince",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.7045,
+      "profile_path": "/zkftLlEO5fmKmcKienRKw9Gx0U9.jpg"
+    },
+    {
+      "personId": 16165,
+      "name": "Jon Lovitz",
+      "character": "Sol",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 3.1835,
+      "profile_path": "/jBXSLoDEVwYkNqSVWHV9yDo8whA.jpg"
+    },
+    {
+      "personId": 11159,
+      "name": "Cheech Marin",
+      "character": "Julio Escobar",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 2.6465,
+      "profile_path": "/eecHDNRn9K80ZcuSocsMhQb2G1i.jpg"
+    },
+    {
+      "personId": 655,
+      "name": "John Rhys-Davies",
+      "character": "Johnny Windsor",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 3.21,
+      "profile_path": "/qpXl1YnqQsUKYEDm3BB2zK5wbhe.jpg"
+    },
+    {
+      "personId": 53918,
+      "name": "Salli Richardson-Whitfield",
+      "character": "Bambi",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 2.1754,
+      "profile_path": "/wMQaIzY5kyRQd8UwF1lphKK6oQm.jpg"
+    },
+    {
+      "personId": 134,
+      "name": "Jamie Foxx",
+      "character": "Hassan El Ruk'n",
+      "order": 8,
+      "cast_id": 33,
+      "popularity": 4.9528,
+      "profile_path": "/25zzvFA6yx2Q9BYnugsbd4JWDfu.jpg"
+    },
+    {
+      "personId": 22675,
+      "name": "Damon Wayans",
+      "character": "James \"The Grim Reaper\" Roper",
+      "order": 9,
+      "cast_id": 9,
+      "popularity": 2.13,
+      "profile_path": "/10gs0DB8ulakUN47hZwFRr5UdT0.jpg"
+    },
+    {
+      "personId": 27448,
+      "name": "Rocky Carroll",
+      "character": "Artemus St. John Saint",
+      "order": 10,
+      "cast_id": 16,
+      "popularity": 1.4798,
+      "profile_path": "/pqjqmRChGqhDXXY7Etka3bmOatN.jpg"
+    },
+    {
+      "personId": 8354,
+      "name": "Albert Hall",
+      "character": "Roper's Manager",
+      "order": 11,
+      "cast_id": 17,
+      "popularity": 2.096,
+      "profile_path": "/jvcOpEO0vSNy3KaDkhIldI1CoaU.jpg"
+    },
+    {
+      "personId": 46921,
+      "name": "Michael Jace",
+      "character": "Marvin Shabazz",
+      "order": 12,
+      "cast_id": 18,
+      "popularity": 1.0472,
+      "profile_path": "/dTHdnj0qfBx6sXr9cT4Xxu0AcIG.jpg"
+    },
+    {
+      "personId": 106290,
+      "name": "Brian Setzer",
+      "character": "Self",
+      "order": 13,
+      "cast_id": 19,
+      "popularity": 0.5556,
+      "profile_path": "/dTVXp7T4umdpBVqFrykWwHKMwou.jpg"
+    },
+    {
+      "personId": 5384,
+      "name": "Method Man",
+      "character": "Self",
+      "order": 14,
+      "cast_id": 20,
+      "popularity": 1.8415,
+      "profile_path": "/mYJFxOcrda410rS5JHPf0nPuimZ.jpg"
+    },
+    {
+      "personId": 56183,
+      "name": "Art Evans",
+      "character": "Minister",
+      "order": 15,
+      "cast_id": 22,
+      "popularity": 1.594,
+      "profile_path": "/buSAuxtomWV06xdfzZYd7kLbTVc.jpg"
+    },
+    {
+      "personId": 62032,
+      "name": "Duane Davis",
+      "character": "Palace Guard #1",
+      "order": 16,
+      "cast_id": 24,
+      "popularity": 1.9202,
+      "profile_path": null
+    },
+    {
+      "personId": 1276777,
+      "name": "Lamont Johnson",
+      "character": "Palace Guard #2",
+      "order": 17,
+      "cast_id": 23,
+      "popularity": 1.4739,
+      "profile_path": "/49CrcbKnC3hgNwlJfEjtwR4X9rd.jpg"
+    },
+    {
+      "personId": 559485,
+      "name": "Lydell M. Cheshier",
+      "character": "Palace Guard #3",
+      "order": 18,
+      "cast_id": 40,
+      "popularity": 0.5526,
+      "profile_path": null
+    },
+    {
+      "personId": 2971860,
+      "name": "Randy Harris",
+      "character": "Palace Guard #4",
+      "order": 19,
+      "cast_id": 62,
+      "popularity": 0.1733,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 68215,
+      "name": "Reginald Hudlin",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6425,
+      "profile_path": "/z2O30pOwkKpZBCyZpwZ80ouKcQA.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6075,
+      "name": "sports"
+    },
+    {
+      "id": 2792,
+      "name": "boxer"
+    },
+    {
+      "id": 14570,
+      "name": "las vegas"
+    },
+    {
+      "id": 155840,
+      "name": "boxing promoter"
+    },
+    {
+      "id": 193208,
+      "name": "promoter"
+    },
+    {
+      "id": 199717,
+      "name": "heavyweight champion"
+    },
+    {
+      "id": 209476,
+      "name": "boxing"
+    }
+  ]
+}

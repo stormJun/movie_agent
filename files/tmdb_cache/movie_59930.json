@@ -1,0 +1,167 @@
+{
+  "overview": "The Inkwell is about a 16-year-old boy coming of age on Martha's Vineyard in the summer of 1976.",
+  "release_date": "1994-04-22",
+  "runtime": 110,
+  "budget": 0,
+  "revenue": 8880705,
+  "tmdb_vote_average": 5.265,
+  "tmdb_vote_count": 17,
+  "tmdb_popularity": 0.4079,
+  "original_language": "en",
+  "poster_path": "/b5qUq9l6ci9KzzAqYhpdxzjY7qi.jpg",
+  "backdrop_path": "/3neYS5s3FcF8efaaycRSVkjJ4af.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 9195,
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 18291,
+      "name": "Larenz Tate",
+      "character": "Drew Tate",
+      "order": 0,
+      "cast_id": 1001,
+      "popularity": 2.2633,
+      "profile_path": "/6BWajF1sbuwsvXHmdQDxP5MfZ5R.jpg"
+    },
+    {
+      "personId": 3977,
+      "name": "Joe Morton",
+      "character": "Kenny Tate",
+      "order": 1,
+      "cast_id": 1002,
+      "popularity": 2.5903,
+      "profile_path": "/w7rGWWSGKWWukojLbZOQJ5yh9jv.jpg"
+    },
+    {
+      "personId": 80622,
+      "name": "Suzzanne Douglas",
+      "character": "Brenda Tate",
+      "order": 2,
+      "cast_id": 1003,
+      "popularity": 0.6085,
+      "profile_path": "/ldfCErLjjST3HBZSK8G4KBMDZhR.jpg"
+    },
+    {
+      "personId": 114674,
+      "name": "Glynn Turman",
+      "character": "Spencer Phillips",
+      "order": 3,
+      "cast_id": 1004,
+      "popularity": 2.3539,
+      "profile_path": "/ac5gjylih4RTCGf2HWuSnoZWDus.jpg"
+    },
+    {
+      "personId": 100653,
+      "name": "Vanessa Bell Calloway",
+      "character": "Francis Phillips",
+      "order": 4,
+      "cast_id": 1005,
+      "popularity": 2.6544,
+      "profile_path": "/6gJua6IKvhGrCTU1UzgRhOM9oyl.jpg"
+    },
+    {
+      "personId": 88186,
+      "name": "A.J. Johnson",
+      "character": "Heather Lee",
+      "order": 5,
+      "cast_id": 1006,
+      "popularity": 2.2889,
+      "profile_path": "/y8c4fHbscVdGFWgr92fS71InB3Z.jpg"
+    },
+    {
+      "personId": 9779,
+      "name": "Morris Chestnut",
+      "character": "Harold Lee",
+      "order": 6,
+      "cast_id": 1007,
+      "popularity": 3.5222,
+      "profile_path": "/lbWJ1mIgAamsREnbKLoj1GdH0sr.jpg"
+    },
+    {
+      "personId": 9575,
+      "name": "Jada Pinkett Smith",
+      "character": "Lauren Kelly",
+      "order": 7,
+      "cast_id": 1008,
+      "popularity": 3.6352,
+      "profile_path": "/vt1Z1Fsu7gjp4L0OHey9Aa79lWj.jpg"
+    },
+    {
+      "personId": 84077,
+      "name": "Duane Martin",
+      "character": "Jr. Phillips",
+      "order": 8,
+      "cast_id": 1009,
+      "popularity": 1.241,
+      "profile_path": "/ekxetmMR5neEQ1LwfXaQgpS7zfC.jpg"
+    },
+    {
+      "personId": 171167,
+      "name": "Phyllis Yvonne Stickney",
+      "character": "Dr. Wade",
+      "order": 9,
+      "cast_id": 1011,
+      "popularity": 1.0068,
+      "profile_path": "/dN1s9eHgBnZNgS3nkUawTjSPzUV.jpg"
+    },
+    {
+      "personId": 1226835,
+      "name": "Markus Redmond",
+      "character": "Darryl",
+      "order": 10,
+      "cast_id": 1014,
+      "popularity": 2.0862,
+      "profile_path": "/1nbshlVnSpr72aPq1Ntx7jwbLbw.jpg"
+    },
+    {
+      "personId": 9572,
+      "name": "Mary Alice",
+      "character": "Evelyn",
+      "order": 11,
+      "cast_id": 1015,
+      "popularity": 0.8676,
+      "profile_path": "/jniFVDRjYyIxx5EFTR2kzpFAB02.jpg"
+    },
+    {
+      "personId": 1214129,
+      "name": "Reggie McFadden",
+      "character": "MC Madman",
+      "order": 12,
+      "cast_id": 1016,
+      "popularity": 0.7617,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 230059,
+      "name": "Matty Rich",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4627,
+      "profile_path": "/4crc12lxhKBWI17At4ftxFNoGLq.jpg"
+    }
+  ],
+  "keywords": []
+}

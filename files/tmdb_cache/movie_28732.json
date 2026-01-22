@@ -1,0 +1,233 @@
+{
+  "overview": "Three young men decide to plan a mock kidnapping, but everything goes wrong because a real bank robbery was already planned by two other guys.",
+  "release_date": "1995-05-13",
+  "runtime": 88,
+  "budget": 4000000,
+  "revenue": 0,
+  "tmdb_vote_average": 4.667,
+  "tmdb_vote_count": 28,
+  "tmdb_popularity": 3.6518,
+  "original_language": "en",
+  "poster_path": "/rYFexSIWUXNhuIdTIVcvZSEGe5G.jpg",
+  "backdrop_path": "/9D2SaKXE5tnYMASY8XhS4Y3z6Vl.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 16835,
+      "name": "Bates Entertainmant",
+      "origin_country": ""
+    },
+    {
+      "id": 826,
+      "name": "Capitol Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 285,
+      "name": "Live Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 9045,
+      "name": "Stephen Baldwin",
+      "character": "Leon",
+      "order": 0,
+      "cast_id": 1002,
+      "popularity": 3.2661,
+      "profile_path": "/w2nZjBsEsjboQDZJXEkysuGgue4.jpg"
+    },
+    {
+      "personId": 6726,
+      "name": "Sheryl Lee",
+      "character": "Patty / Carol",
+      "order": 1,
+      "cast_id": 1004,
+      "popularity": 3.0969,
+      "profile_path": "/7llsjKMExjQylGgmqKCpiSSapUG.jpg"
+    },
+    {
+      "personId": 52474,
+      "name": "Jason London",
+      "character": "Tim",
+      "order": 2,
+      "cast_id": 1012,
+      "popularity": 1.7923,
+      "profile_path": "/bFkC2ZRcurTQzbjBuuMljFCKfEv.jpg"
+    },
+    {
+      "personId": 15234,
+      "name": "David Arquette",
+      "character": "David",
+      "order": 3,
+      "cast_id": 1001,
+      "popularity": 1.9442,
+      "profile_path": "/1C5sLNLNVZ3P8sMy7HUQ32IKdqX.jpg"
+    },
+    {
+      "personId": 53814,
+      "name": "Jonah Blechman",
+      "character": "Joe",
+      "order": 4,
+      "cast_id": 1011,
+      "popularity": 0.7124,
+      "profile_path": "/ngp1PfWI3cqwhEALZDDJVFxhdbH.jpg"
+    },
+    {
+      "personId": 11797,
+      "name": "J. Michael Hunter",
+      "character": "Big John",
+      "order": 5,
+      "cast_id": 1037,
+      "popularity": 0.4937,
+      "profile_path": "/mjR1BiWsxHmmC3L0xLbevw8KLxm.jpg"
+    },
+    {
+      "personId": 37425,
+      "name": "Richard K. Olsen",
+      "character": "Officer Duane",
+      "order": 6,
+      "cast_id": 1017,
+      "popularity": 1.6339,
+      "profile_path": "/hdzyzFfDgtiPE1NZP7Z1mfGgGC9.jpg"
+    },
+    {
+      "personId": 2000055,
+      "name": "Sammy Kershaw",
+      "character": "Officer Donny",
+      "order": 7,
+      "cast_id": 1016,
+      "popularity": 0.2048,
+      "profile_path": "/g56KMCB4Pd2ic45kavadVnZEFkT.jpg"
+    },
+    {
+      "personId": 2295,
+      "name": "Mickey Rourke",
+      "character": "Florence",
+      "order": 8,
+      "cast_id": 1003,
+      "popularity": 20.0504,
+      "profile_path": "/oQSYaynROmkTBNBFHCbZZE00NzX.jpg"
+    },
+    {
+      "personId": 240086,
+      "name": "Steve Alden",
+      "character": "Officer Lyle",
+      "order": 9,
+      "cast_id": 1000,
+      "popularity": 0.2867,
+      "profile_path": null
+    },
+    {
+      "personId": 1698297,
+      "name": "Michael Edelstein",
+      "character": "Bank Manager",
+      "order": 10,
+      "cast_id": 1013,
+      "popularity": 0.2578,
+      "profile_path": "/jCrgCVr7yEm4U5WyJbflzijOCxB.jpg"
+    },
+    {
+      "personId": 2654424,
+      "name": "Jeff Gardner",
+      "character": "Ken",
+      "order": 11,
+      "cast_id": 1014,
+      "popularity": 0.1903,
+      "profile_path": null
+    },
+    {
+      "personId": 2574177,
+      "name": "Tom Hull",
+      "character": "Gas Station Attendant",
+      "order": 12,
+      "cast_id": 1015,
+      "popularity": 0.2003,
+      "profile_path": null
+    },
+    {
+      "personId": 155965,
+      "name": "Amy Parrish",
+      "character": "Sheila",
+      "order": 13,
+      "cast_id": 1018,
+      "popularity": 1.004,
+      "profile_path": "/ueQFClINI5RNrnKQkM3sv8MQkzg.jpg"
+    },
+    {
+      "personId": 1392381,
+      "name": "John Henry Scott",
+      "character": "Older Farmer",
+      "order": 14,
+      "cast_id": 1019,
+      "popularity": 0.6078,
+      "profile_path": "/dhC7O9WyXVW1WO82bjnKt4TlrG.jpg"
+    },
+    {
+      "personId": 1207062,
+      "name": "Paul Skemp",
+      "character": "Younger Farmer",
+      "order": 15,
+      "cast_id": 1020,
+      "popularity": 0.2956,
+      "profile_path": null
+    },
+    {
+      "personId": 1198730,
+      "name": "Emily Wachtel",
+      "character": "Hairdresser",
+      "order": 16,
+      "cast_id": 1021,
+      "popularity": 1.3459,
+      "profile_path": null
+    },
+    {
+      "personId": 1229206,
+      "name": "Suellen Yates",
+      "character": "David's Mom",
+      "order": 17,
+      "cast_id": 1022,
+      "popularity": 0.5537,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1142481,
+      "name": "Paul Warner",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.3488,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 9864,
+      "name": "prank"
+    },
+    {
+      "id": 15363,
+      "name": "bank robbery"
+    }
+  ]
+}

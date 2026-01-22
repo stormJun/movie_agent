@@ -1,0 +1,279 @@
+{
+  "overview": "After her return from school in Paris, a playboy finally takes notice of his family's chauffeur's daughter Sabrina, who's long had a crush on him, but he questions his more serious brother's motives when he warns against getting involved with her.",
+  "release_date": "1954-09-01",
+  "runtime": 113,
+  "budget": 2239000,
+  "revenue": 10000000,
+  "tmdb_vote_average": 7.512,
+  "tmdb_vote_count": 1322,
+  "tmdb_popularity": 7.6656,
+  "original_language": "en",
+  "poster_path": "/e1Po9NDrH7IJZhv89467gJH5FS0.jpg",
+  "backdrop_path": "/oXTzokKufEGDcX7q5Cwoxlhmqxx.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Romance",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4110,
+      "name": "Humphrey Bogart",
+      "character": "Linus Larrabee",
+      "order": 0,
+      "cast_id": 5,
+      "popularity": 1.9628,
+      "profile_path": "/4pk2VbOb2td7iBZyir6Ji46HH4N.jpg"
+    },
+    {
+      "personId": 1932,
+      "name": "Audrey Hepburn",
+      "character": "Sabrina Fairchild",
+      "order": 1,
+      "cast_id": 6,
+      "popularity": 4.0383,
+      "profile_path": "/hwPHPRz7YqmcRAlvhag5VPeoaoC.jpg"
+    },
+    {
+      "personId": 8252,
+      "name": "William Holden",
+      "character": "David Larrabee",
+      "order": 2,
+      "cast_id": 7,
+      "popularity": 1.6033,
+      "profile_path": "/qEuJZiPXKFm1LdtbnHKGj2hQm8a.jpg"
+    },
+    {
+      "personId": 50833,
+      "name": "Walter Hampden",
+      "character": "Oliver Larrabee",
+      "order": 3,
+      "cast_id": 8,
+      "popularity": 0.3142,
+      "profile_path": "/wgkxdLPLCcqfSvjGCaFTqVeE7c4.jpg"
+    },
+    {
+      "personId": 5182,
+      "name": "John Williams",
+      "character": "Thomas Fairchild",
+      "order": 4,
+      "cast_id": 20,
+      "popularity": 1.3694,
+      "profile_path": "/gsg1KjcGnZK76LGIYm8lMpSM1Oq.jpg"
+    },
+    {
+      "personId": 16759,
+      "name": "Martha Hyer",
+      "character": "Elizabeth Tyson",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 1.1963,
+      "profile_path": "/rynlhUJmF3L1d0qxBcPY1GkdwwY.jpg"
+    },
+    {
+      "personId": 50834,
+      "name": "Joan Vohs",
+      "character": "Gretchen Van Horn",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 0.9492,
+      "profile_path": "/e0NwmZOYFsSqOm0qYGn2CGsgf4Q.jpg"
+    },
+    {
+      "personId": 4121,
+      "name": "Marcel Dalio",
+      "character": "Baron St. Foritanel",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 0.8457,
+      "profile_path": "/yYZMbAl56e5S7uFbiFbj0YziIDB.jpg"
+    },
+    {
+      "personId": 50835,
+      "name": "Marcel Hillaire",
+      "character": "Professor",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 1.1616,
+      "profile_path": "/uwucIItRARcNhyclZsvfMHVt4jG.jpg"
+    },
+    {
+      "personId": 50836,
+      "name": "Nella Walker",
+      "character": "Maude Larrabee",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 0.7569,
+      "profile_path": "/3ETSoodq1ooscaeO6Dkq4CgXo4Q.jpg"
+    },
+    {
+      "personId": 50837,
+      "name": "Francis X. Bushman",
+      "character": "Mr. Tyson",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 0.5444,
+      "profile_path": "/odBlJ8CeRHqSd3qvhJXN2asevm0.jpg"
+    },
+    {
+      "personId": 5738,
+      "name": "Ellen Corby",
+      "character": "Miss McCardie",
+      "order": 11,
+      "cast_id": 15,
+      "popularity": 1.7413,
+      "profile_path": "/sf45aqBW2iYSnWU1aTGozEemMby.jpg"
+    },
+    {
+      "personId": 97257,
+      "name": "Marjorie Bennett",
+      "character": "Margaret (uncredited)",
+      "order": 12,
+      "cast_id": 24,
+      "popularity": 1.3332,
+      "profile_path": "/1lnpsdUkhE72p8ydn8PLbYv6cU8.jpg"
+    },
+    {
+      "personId": 124875,
+      "name": "Emory Parnell",
+      "character": "Charles (uncredited)",
+      "order": 13,
+      "cast_id": 25,
+      "popularity": 0.7663,
+      "profile_path": "/eI6HoBY4IK8NP1k9gJKicLhIekv.jpg"
+    },
+    {
+      "personId": 30519,
+      "name": "Nancy Kulp",
+      "character": "Jenny (uncredited)",
+      "order": 14,
+      "cast_id": 26,
+      "popularity": 1.7785,
+      "profile_path": "/tV81XoljXJzbfvgdu6cRIILosyP.jpg"
+    },
+    {
+      "personId": 34320,
+      "name": "Paul Harvey",
+      "character": "Dr. Calaway (uncredited)",
+      "order": 15,
+      "cast_id": 27,
+      "popularity": 1.2989,
+      "profile_path": "/vJdEr0liyuAlDT2TlpFCzHIwDYR.jpg"
+    },
+    {
+      "personId": 119506,
+      "name": "Kay Riehl",
+      "character": "Mrs. Tyson (uncredited)",
+      "order": 16,
+      "cast_id": 28,
+      "popularity": 0.2799,
+      "profile_path": null
+    },
+    {
+      "personId": 5737,
+      "name": "Raymond Bailey",
+      "character": "Board Member (uncredited)",
+      "order": 17,
+      "cast_id": 35,
+      "popularity": 1.7653,
+      "profile_path": "/wM6u14GHDOvWfT4XAP8PARA60qj.jpg"
+    },
+    {
+      "personId": 164809,
+      "name": "Ralph Brooks",
+      "character": "Party / Dance Guest (uncredited)",
+      "order": 18,
+      "cast_id": 36,
+      "popularity": 0.7528,
+      "profile_path": null
+    },
+    {
+      "personId": 207983,
+      "name": "Colin Campbell",
+      "character": "Board Member (uncredited)",
+      "order": 19,
+      "cast_id": 37,
+      "popularity": 1.2613,
+      "profile_path": "/8Gni27ZFmIpb6uHwpaoBRvvprW0.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 3146,
+      "name": "Billy Wilder",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.2854,
+      "profile_path": "/nWV9BDDCbRegP7etiPjl3vYnJEq.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2072,
+      "name": "chauffeur"
+    },
+    {
+      "id": 380,
+      "name": "sibling relationship"
+    },
+    {
+      "id": 5165,
+      "name": "champagne"
+    },
+    {
+      "id": 9639,
+      "name": "playboy"
+    },
+    {
+      "id": 9673,
+      "name": "love"
+    },
+    {
+      "id": 10791,
+      "name": "teenage crush"
+    },
+    {
+      "id": 33626,
+      "name": "millionaire"
+    },
+    {
+      "id": 165282,
+      "name": "high society"
+    },
+    {
+      "id": 168346,
+      "name": "manhattan, new york city"
+    },
+    {
+      "id": 179367,
+      "name": "impossible love"
+    },
+    {
+      "id": 199764,
+      "name": "family disapproval"
+    }
+  ]
+}

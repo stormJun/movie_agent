@@ -1,0 +1,355 @@
+{
+  "overview": "A demonic force has chosen Freddy Krueger as its portal to the real world. Can Heather Langenkamp play the part of Nancy one last time and trap the evil trying to enter our world?",
+  "release_date": "1994-10-13",
+  "runtime": 112,
+  "budget": 8000000,
+  "revenue": 19721741,
+  "tmdb_vote_average": 6.458,
+  "tmdb_vote_count": 1530,
+  "tmdb_popularity": 3.7535,
+  "original_language": "en",
+  "poster_path": "/eN3UZUYapJ2CJCD9dN0LUZLouKa.jpg",
+  "backdrop_path": "/qKF9GwtJbi2rob8kZBmGcQGAaMo.jpg",
+  "tmdb_genres_raw": [
+    "Horror",
+    "Mystery",
+    "Fantasy"
+  ],
+  "production_companies": [
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5141,
+      "name": "Heather Langenkamp",
+      "character": "Self",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.9127,
+      "profile_path": "/xI20Uddk9COIfgifaA4NRsXyZMD.jpg"
+    },
+    {
+      "personId": 5139,
+      "name": "Robert Englund",
+      "character": "Self / Freddy Krueger",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.6493,
+      "profile_path": "/cjGEkiavinHa1dnetDvnEhlD2Wm.jpg"
+    },
+    {
+      "personId": 8186,
+      "name": "Miko Hughes",
+      "character": "Dylan Porter",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.2263,
+      "profile_path": "/6oBM2RVDryymOi966ZkCNEDEsws.jpg"
+    },
+    {
+      "personId": 5140,
+      "name": "Wes Craven",
+      "character": "Self",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.5214,
+      "profile_path": "/eqwl6owrYykeTGTpKxwcAkbEJmg.jpg"
+    },
+    {
+      "personId": 166594,
+      "name": "David Newsom",
+      "character": "Chase Porter",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 1.1457,
+      "profile_path": "/mI2K8fYOgpPSO61idEN6aWS4nrc.jpg"
+    },
+    {
+      "personId": 12547,
+      "name": "Tracy Middendorf",
+      "character": "Julie",
+      "order": 5,
+      "cast_id": 12,
+      "popularity": 1.4331,
+      "profile_path": "/afoRivgnNmoKhfM6zaBIVCdSxB7.jpg"
+    },
+    {
+      "personId": 1212018,
+      "name": "Fran Bennett",
+      "character": "Dr. Christine Heffner",
+      "order": 6,
+      "cast_id": 49,
+      "popularity": 1.6295,
+      "profile_path": "/hMEnWBn8SctR3njFsagqSMPrc9U.jpg"
+    },
+    {
+      "personId": 11163,
+      "name": "John Saxon",
+      "character": "Self",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 2.3363,
+      "profile_path": "/rQh2ddJYtP3x2g1mnlFBQz547FO.jpg"
+    },
+    {
+      "personId": 161731,
+      "name": "JF Davis",
+      "character": "Freddy's Hand Double",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 0.9178,
+      "profile_path": "/db9R8njAmEWHbHLQAs4DcquPmoT.jpg"
+    },
+    {
+      "personId": 35521,
+      "name": "Matt Winston",
+      "character": "Chuck Wilson",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 2.2295,
+      "profile_path": "/et38vhCb9y8yGleMRNY2j4nDDyr.jpg"
+    },
+    {
+      "personId": 42708,
+      "name": "Rob LaBelle",
+      "character": "Terry Feinstein",
+      "order": 10,
+      "cast_id": 17,
+      "popularity": 1.2415,
+      "profile_path": "/3X25PHOci840zpSRH0ecgA8hala.jpg"
+    },
+    {
+      "personId": 35581,
+      "name": "Marianne Maddalena",
+      "character": "Self",
+      "order": 11,
+      "cast_id": 18,
+      "popularity": 1.6574,
+      "profile_path": "/gMyJNJHIo8ltMCZh95mBt7I9VM6.jpg"
+    },
+    {
+      "personId": 553772,
+      "name": "Gretchen Oehler",
+      "character": "Script Supervisor",
+      "order": 12,
+      "cast_id": 19,
+      "popularity": 0.3718,
+      "profile_path": null
+    },
+    {
+      "personId": 553773,
+      "name": "Cully Fredricksen",
+      "character": "Limo Driver",
+      "order": 13,
+      "cast_id": 20,
+      "popularity": 0.9432,
+      "profile_path": "/vLeMMPs818Cryi02RucCTg4Xfrk.jpg"
+    },
+    {
+      "personId": 154883,
+      "name": "Bodhi Elfman",
+      "character": "TV Studio P.A.",
+      "order": 14,
+      "cast_id": 21,
+      "popularity": 1.0451,
+      "profile_path": "/jQSJxARZYfznOKIDvBdYhXeFMvP.jpg"
+    },
+    {
+      "personId": 92568,
+      "name": "Sam Rubin",
+      "character": "Self",
+      "order": 15,
+      "cast_id": 22,
+      "popularity": 1.1515,
+      "profile_path": "/plAiS8zQrOJVjkxqaSvnRAk5j95.jpg"
+    },
+    {
+      "personId": 553774,
+      "name": "Claudia Haro",
+      "character": "New Line Receptionist",
+      "order": 16,
+      "cast_id": 23,
+      "popularity": 0.5418,
+      "profile_path": null
+    },
+    {
+      "personId": 13668,
+      "name": "Sara Risher",
+      "character": "Self",
+      "order": 17,
+      "cast_id": 24,
+      "popularity": 0.5796,
+      "profile_path": null
+    },
+    {
+      "personId": 13663,
+      "name": "Robert Shaye",
+      "character": "Self",
+      "order": 18,
+      "cast_id": 25,
+      "popularity": 0.8388,
+      "profile_path": "/d36a4pYeoEpIkcjcDUxWupUYD7r.jpg"
+    },
+    {
+      "personId": 553775,
+      "name": "Cindy Guidry",
+      "character": "Kim at New Line",
+      "order": 19,
+      "cast_id": 26,
+      "popularity": 0.0389,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 5140,
+      "name": "Wes Craven",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.5214,
+      "profile_path": "/eqwl6owrYykeTGTpKxwcAkbEJmg.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 657,
+      "name": "fire"
+    },
+    {
+      "id": 1566,
+      "name": "dreams"
+    },
+    {
+      "id": 3030,
+      "name": "nightmare"
+    },
+    {
+      "id": 4426,
+      "name": "sadism"
+    },
+    {
+      "id": 1930,
+      "name": "kidnapping"
+    },
+    {
+      "id": 6259,
+      "name": "psychopath"
+    },
+    {
+      "id": 886,
+      "name": "movie business"
+    },
+    {
+      "id": 6152,
+      "name": "supernatural"
+    },
+    {
+      "id": 3521,
+      "name": "earthquake"
+    },
+    {
+      "id": 4142,
+      "name": "insomnia"
+    },
+    {
+      "id": 6732,
+      "name": "mascot"
+    },
+    {
+      "id": 2494,
+      "name": "ohio"
+    },
+    {
+      "id": 6562,
+      "name": "celebrity"
+    },
+    {
+      "id": 9820,
+      "name": "alternate dimension"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 10232,
+      "name": "fame"
+    },
+    {
+      "id": 11612,
+      "name": "hospital"
+    },
+    {
+      "id": 12339,
+      "name": "slasher"
+    },
+    {
+      "id": 12396,
+      "name": "hollywood"
+    },
+    {
+      "id": 47020,
+      "name": "storytelling"
+    },
+    {
+      "id": 160612,
+      "name": "self-referential"
+    },
+    {
+      "id": 161184,
+      "name": "reboot"
+    },
+    {
+      "id": 170383,
+      "name": "disfigurement"
+    },
+    {
+      "id": 175629,
+      "name": "alternative reality"
+    },
+    {
+      "id": 179878,
+      "name": "sleepwalking"
+    },
+    {
+      "id": 190157,
+      "name": "nightmare becomes reality"
+    },
+    {
+      "id": 225012,
+      "name": "satirical"
+    },
+    {
+      "id": 239797,
+      "name": "complex"
+    },
+    {
+      "id": 256183,
+      "name": "supernatural horror"
+    },
+    {
+      "id": 321464,
+      "name": "intense"
+    },
+    {
+      "id": 325772,
+      "name": "assertive"
+    }
+  ]
+}

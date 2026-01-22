@@ -1,0 +1,235 @@
+{
+  "overview": "Victor is a cook who works in a greasy roadside restaurant owned by his mother, Dolly. It's just the two of them, a waitress named Delores, and a heavy drinking regular, Leo. But things change when Callie, a beautiful college dropout, shows up as a new waitress and steals Victor's heart. But Victor is too shy to do anything about it, and too self-consciously overweight to dream of winning Callie away.",
+  "release_date": "1995-12-29",
+  "runtime": 105,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.6,
+  "tmdb_vote_count": 86,
+  "tmdb_popularity": 2.8438,
+  "original_language": "en",
+  "poster_path": "/xo2KsY7hOHDqpgYlDStL56zmgaq.jpg",
+  "backdrop_path": "/vUE36DmWSGVScjpDl0sl5eeDDKT.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 4125,
+      "name": "Available Light",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3201,
+      "name": "Pruitt Taylor Vince",
+      "character": "Victor Modino",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.0805,
+      "profile_path": "/jqC1v8tF92QcmkQycnaLSuJiQfl.jpg"
+    },
+    {
+      "personId": 7632,
+      "name": "Shelley Winters",
+      "character": "Dolly Modino",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.9778,
+      "profile_path": "/nCWHQ21r83JmcEVEvOAIzUyiuBh.jpg"
+    },
+    {
+      "personId": 882,
+      "name": "Liv Tyler",
+      "character": "Callie",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 4.3379,
+      "profile_path": "/jrOj6t9pH8TqO65pnsRuvRNhwqx.jpg"
+    },
+    {
+      "personId": 102,
+      "name": "Debbie Harry",
+      "character": "Delores",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.4928,
+      "profile_path": "/w496cQvkU7KvUcSVV8DMDDowVYv.jpg"
+    },
+    {
+      "personId": 4887,
+      "name": "Joe Grifasi",
+      "character": "Leo",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 1.4368,
+      "profile_path": "/30c0szBZvqsk3nuOgg2A9PeSQFt.jpg"
+    },
+    {
+      "personId": 1386006,
+      "name": "Evan Dando",
+      "character": "Jeff",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 0.2836,
+      "profile_path": null
+    },
+    {
+      "personId": 1737,
+      "name": "David Patrick Kelly",
+      "character": "Grey Man in Hospital",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 2.1224,
+      "profile_path": "/bOPih90JJ2lCg3VXbNwpANHz8tm.jpg"
+    },
+    {
+      "personId": 171374,
+      "name": "Marian Quinn",
+      "character": "Darlene",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 0.3756,
+      "profile_path": "/v1KRG4o7H50ZEsAWfgy4p5JRLwe.jpg"
+    },
+    {
+      "personId": 1443860,
+      "name": "Meg Hartig",
+      "character": "Donna",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 0.1909,
+      "profile_path": null
+    },
+    {
+      "personId": 1475102,
+      "name": "Zandy Hartig",
+      "character": "Jean",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 1.0619,
+      "profile_path": "/famJMe0BPufHc0lf1pp9p0wdRp2.jpg"
+    },
+    {
+      "personId": 1771098,
+      "name": "Peter Ortel",
+      "character": "Tony",
+      "order": 10,
+      "cast_id": 13,
+      "popularity": 0.7122,
+      "profile_path": null
+    },
+    {
+      "personId": 2372042,
+      "name": "George Alvarez",
+      "character": "Orderly",
+      "order": 11,
+      "cast_id": 32,
+      "popularity": 0.0583,
+      "profile_path": null
+    },
+    {
+      "personId": 90531,
+      "name": "Cordis Heard",
+      "character": "Nurse",
+      "order": 12,
+      "cast_id": 15,
+      "popularity": 1.383,
+      "profile_path": "/7tBv9el2HlIdifeRTpkxwrgwqLf.jpg"
+    },
+    {
+      "personId": 63296,
+      "name": "J.C. MacKenzie",
+      "character": "Gas Man",
+      "order": 13,
+      "cast_id": 16,
+      "popularity": 1.2405,
+      "profile_path": "/jSd52pywztAKnC16eTJrOvEKabU.jpg"
+    },
+    {
+      "personId": 4367166,
+      "name": "Allan D'Arcangelo",
+      "character": "Sonny",
+      "order": 14,
+      "cast_id": 34,
+      "popularity": 0.3262,
+      "profile_path": null
+    },
+    {
+      "personId": 57511,
+      "name": "Scott Ambrozy",
+      "character": "Trucker (uncredited)",
+      "order": 15,
+      "cast_id": 35,
+      "popularity": 0.1064,
+      "profile_path": null
+    },
+    {
+      "personId": 1546626,
+      "name": "Vince Parenti",
+      "character": "Trucker (uncredited)",
+      "order": 16,
+      "cast_id": 36,
+      "popularity": 0.1486,
+      "profile_path": "/sagzTEnXfSBKCfXdmiifQTOdhlu.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 366,
+      "name": "James Mangold",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.8272,
+      "profile_path": "/pk0GDjn99crNwR4qgCCEokDYd71.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 931,
+      "name": "jealousy"
+    },
+    {
+      "id": 828,
+      "name": "waitress"
+    },
+    {
+      "id": 3015,
+      "name": "fast food restaurant"
+    },
+    {
+      "id": 3182,
+      "name": "seduction"
+    },
+    {
+      "id": 4735,
+      "name": "pizza"
+    },
+    {
+      "id": 4951,
+      "name": "rejection"
+    },
+    {
+      "id": 9835,
+      "name": "sexual fantasy"
+    },
+    {
+      "id": 9974,
+      "name": "obesity"
+    }
+  ]
+}

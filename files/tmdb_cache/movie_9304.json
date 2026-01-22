@@ -1,0 +1,248 @@
+{
+  "overview": "Construction worker Doug Kinney finds that the pressures of his working life, combined with his duties to his wife Laura and daughter Jennifer leaves him with little time for himself. However, he is approached by geneticist Dr. Owen Leeds, who offers Doug a rather unusual solution to his problems: cloning.",
+  "release_date": "1996-07-19",
+  "runtime": 117,
+  "budget": 45000000,
+  "revenue": 21075014,
+  "tmdb_vote_average": 5.792,
+  "tmdb_vote_count": 577,
+  "tmdb_popularity": 2.5371,
+  "original_language": "en",
+  "poster_path": "/t3CUIrzJwxIS7uS1YDJdfSJuPAo.jpg",
+  "backdrop_path": "/pfgUk6IgobtEhisyJBBrjSVkfZR.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Fantasy",
+    "Science Fiction",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2232,
+      "name": "Michael Keaton",
+      "character": "Doug Kinney",
+      "order": 0,
+      "cast_id": 11,
+      "popularity": 4.3313,
+      "profile_path": "/w6fwAQ7IwEFqtzByA1Wyz2Dwp7R.jpg"
+    },
+    {
+      "personId": 1533,
+      "name": "Andie MacDowell",
+      "character": "Laura Kinney",
+      "order": 1,
+      "cast_id": 12,
+      "popularity": 4.5134,
+      "profile_path": "/akeheO4i3cR1HpSU8yu9HrLcsKm.jpg"
+    },
+    {
+      "personId": 1166,
+      "name": "Harris Yulin",
+      "character": "Leeds",
+      "order": 2,
+      "cast_id": 13,
+      "popularity": 1.9239,
+      "profile_path": "/3W758yxhdphzblpgDz4wKgLCriB.jpg"
+    },
+    {
+      "personId": 26510,
+      "name": "Eugene Levy",
+      "character": "Vic",
+      "order": 3,
+      "cast_id": 14,
+      "popularity": 3.7089,
+      "profile_path": "/y4CexxKSI6qR5A6PDaD8mSrEhYC.jpg"
+    },
+    {
+      "personId": 186573,
+      "name": "Zack Duhame",
+      "character": "Zack Kinney",
+      "order": 4,
+      "cast_id": 17,
+      "popularity": 0.8684,
+      "profile_path": "/mI6sdZQaeHDi3jXinS4g1jizywk.jpg"
+    },
+    {
+      "personId": 553473,
+      "name": "Katie Schlossberg",
+      "character": "Jennifer Kinney",
+      "order": 5,
+      "cast_id": 18,
+      "popularity": 0.3209,
+      "profile_path": null
+    },
+    {
+      "personId": 15416,
+      "name": "Richard Masur",
+      "character": "Del King",
+      "order": 6,
+      "cast_id": 19,
+      "popularity": 2.9447,
+      "profile_path": "/yRJCKYoW16HaDEXy37ORnBFBOg7.jpg"
+    },
+    {
+      "personId": 59260,
+      "name": "Ann Cusack",
+      "character": "Noreen",
+      "order": 7,
+      "cast_id": 20,
+      "popularity": 2.6378,
+      "profile_path": "/vM2ZwKY3C1NZARrzQB7ch7n638T.jpg"
+    },
+    {
+      "personId": 11077,
+      "name": "John de Lancie",
+      "character": "Ted",
+      "order": 8,
+      "cast_id": 21,
+      "popularity": 1.9711,
+      "profile_path": "/e9GsjWaW9fabT22ceLzesJhUgzd.jpg"
+    },
+    {
+      "personId": 116109,
+      "name": "Judith Kahan",
+      "character": "Franny",
+      "order": 9,
+      "cast_id": 22,
+      "popularity": 0.5683,
+      "profile_path": null
+    },
+    {
+      "personId": 1535,
+      "name": "Brian Doyle-Murray",
+      "character": "Walt",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 2.5426,
+      "profile_path": "/3RFH00449ppcwA0tkD1uqDvP865.jpg"
+    },
+    {
+      "personId": 52057,
+      "name": "Obba Babatundé",
+      "character": "Paul",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 2.0099,
+      "profile_path": "/jkvxfhETmwR877VluO5kfbxxNER.jpg"
+    },
+    {
+      "personId": 31171,
+      "name": "Julie Bowen",
+      "character": "Robin",
+      "order": 12,
+      "cast_id": 25,
+      "popularity": 5.0145,
+      "profile_path": "/5ewqnbPAY0EzZObGHIKU4VsCanD.jpg"
+    },
+    {
+      "personId": 166935,
+      "name": "Dawn Maxey",
+      "character": "Beth",
+      "order": 13,
+      "cast_id": 26,
+      "popularity": 0.9313,
+      "profile_path": "/SsWUwI691BclVXqTCSXRoMOnHH.jpg"
+    },
+    {
+      "personId": 156989,
+      "name": "Kari Coleman",
+      "character": "Patti",
+      "order": 14,
+      "cast_id": 27,
+      "popularity": 1.115,
+      "profile_path": "/lXUwo3DFAOPPiDbFLSINjqfDVRe.jpg"
+    },
+    {
+      "personId": 95653,
+      "name": "Steven Kampmann",
+      "character": "Coach Jack",
+      "order": 15,
+      "cast_id": 28,
+      "popularity": 0.9422,
+      "profile_path": "/lZrOn5q11e9mSe7QpLdGX7PwC4a.jpg"
+    },
+    {
+      "personId": 154295,
+      "name": "Michael Milhoan",
+      "character": "Irate Football Parent",
+      "order": 16,
+      "cast_id": 29,
+      "popularity": 1.2693,
+      "profile_path": "/oTXRBzb8KUGC2TXtXEIheGjBANG.jpg"
+    },
+    {
+      "personId": 1219322,
+      "name": "Skip Stellrecht",
+      "character": "Irate Football Parent",
+      "order": 17,
+      "cast_id": 30,
+      "popularity": 0.6316,
+      "profile_path": "/qORHF09GsJi152xw7GIUFxNnE6j.jpg"
+    },
+    {
+      "personId": 120560,
+      "name": "Jim Piddock",
+      "character": "Maitre d'",
+      "order": 18,
+      "cast_id": 31,
+      "popularity": 1.1917,
+      "profile_path": "/kcEcWZVNkF1h9LQr5N60vViVZxu.jpg"
+    },
+    {
+      "personId": 1540,
+      "name": "Robin Duke",
+      "character": "Ballet School Receptionist",
+      "order": 19,
+      "cast_id": 32,
+      "popularity": 0.9117,
+      "profile_path": "/6hMJWr2jlYrZ0ltj7fWgYtw4dfY.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1524,
+      "name": "Harold Ramis",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.2815,
+      "profile_path": "/kmTMTxthkDAsygk3Am4IUSVYYRi.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2281,
+      "name": "mistake in person"
+    },
+    {
+      "id": 402,
+      "name": "clone"
+    },
+    {
+      "id": 11628,
+      "name": "cloning"
+    },
+    {
+      "id": 33496,
+      "name": "construction"
+    }
+  ]
+}

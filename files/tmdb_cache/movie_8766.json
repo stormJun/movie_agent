@@ -1,0 +1,281 @@
+{
+  "overview": "Three generations of the same family deal with the consequences of unleashing the forces of hell.",
+  "release_date": "1996-03-08",
+  "runtime": 86,
+  "budget": 4000000,
+  "revenue": 16675000,
+  "tmdb_vote_average": 5.295,
+  "tmdb_vote_count": 590,
+  "tmdb_popularity": 3.536,
+  "original_language": "en",
+  "poster_path": "/tCQsVackQil2fl5TzOYrCAI6All.jpg",
+  "backdrop_path": "/8HFwBR7roggdQoFNbcVzR7tMfOY.jpg",
+  "tmdb_genres_raw": [
+    "Horror",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 7405,
+      "name": "Dimension Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 14,
+      "name": "Miramax",
+      "origin_country": "US"
+    },
+    {
+      "id": 15343,
+      "name": "Trans Atlantic Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 7039,
+      "name": "Bruce Ramsay",
+      "character": "Phillip L'Merchant / John Merchant / Dr. Paul Merchant",
+      "order": 0,
+      "cast_id": 12,
+      "popularity": 0.932,
+      "profile_path": "/xvVbXMzHqZ0kMs77EScQ76S4gWH.jpg"
+    },
+    {
+      "personId": 2173,
+      "name": "Valentina Vargas",
+      "character": "Angelique",
+      "order": 1,
+      "cast_id": 13,
+      "popularity": 2.5536,
+      "profile_path": "/kS45i62uoGlnd9HmxTaA0DjiLk2.jpg"
+    },
+    {
+      "personId": 73040,
+      "name": "Doug Bradley",
+      "character": "Pinhead",
+      "order": 2,
+      "cast_id": 30,
+      "popularity": 0.7958,
+      "profile_path": "/7RRelx5RlEbWhGRSUQMqo7KPTzg.jpg"
+    },
+    {
+      "personId": 55957,
+      "name": "Charlotte Chatton",
+      "character": "Genevieve L'Merchant",
+      "order": 3,
+      "cast_id": 14,
+      "popularity": 0.8584,
+      "profile_path": "/vhV0qc6leXokgUo0DnkpKYJIeCR.jpg"
+    },
+    {
+      "personId": 36801,
+      "name": "Adam Scott",
+      "character": "Jacques",
+      "order": 4,
+      "cast_id": 15,
+      "popularity": 3.146,
+      "profile_path": "/b82C29R6fGiPoqIglQ4lzS6q2YX.jpg"
+    },
+    {
+      "personId": 55958,
+      "name": "Kim Myers",
+      "character": "Bobbi Merchant",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 1.9088,
+      "profile_path": "/2OG4T9eycO57rZn7tLDWcTOW3Nw.jpg"
+    },
+    {
+      "personId": 55959,
+      "name": "Mickey Cottrell",
+      "character": "Duc de L'Isle",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 0.8108,
+      "profile_path": "/p9qp6XcXXCgidPxI5tr7T3wANEH.jpg"
+    },
+    {
+      "personId": 55960,
+      "name": "Louis Turenne",
+      "character": "Auguste",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 0.9499,
+      "profile_path": "/7Z0QkPQXv1j7AchZgakXlUi62oH.jpg"
+    },
+    {
+      "personId": 55961,
+      "name": "Courtland Mead",
+      "character": "Jack Merchant",
+      "order": 8,
+      "cast_id": 19,
+      "popularity": 2.1612,
+      "profile_path": "/71Npi8B3YfSbOOXo5uvT5Nhn3Ah.jpg"
+    },
+    {
+      "personId": 55962,
+      "name": "Louis Mustillo",
+      "character": "Sharpe",
+      "order": 9,
+      "cast_id": 20,
+      "popularity": 0.7891,
+      "profile_path": "/gfp2kJUrOojQCmRltRrFFTv8Vr2.jpg"
+    },
+    {
+      "personId": 55963,
+      "name": "Jody St. Michael",
+      "character": "Die Bestie",
+      "order": 10,
+      "cast_id": 21,
+      "popularity": 0.2331,
+      "profile_path": null
+    },
+    {
+      "personId": 17933,
+      "name": "Paul Perri",
+      "character": "Edwards",
+      "order": 11,
+      "cast_id": 22,
+      "popularity": 1.2484,
+      "profile_path": "/s5WRLmXrHLOvpxjQjSMYvkMGHDc.jpg"
+    },
+    {
+      "personId": 6326,
+      "name": "Pat Skipper",
+      "character": "Carducci",
+      "order": 12,
+      "cast_id": 23,
+      "popularity": 1.2006,
+      "profile_path": "/83kKXFGLe1GDXc1lau63gD5W9uF.jpg"
+    },
+    {
+      "personId": 55964,
+      "name": "Christine Harnos",
+      "character": "Rimmer",
+      "order": 13,
+      "cast_id": 24,
+      "popularity": 0.6486,
+      "profile_path": "/k3Y82zOyU2Tb5U2KEfz9FW1b17s.jpg"
+    },
+    {
+      "personId": 55965,
+      "name": "Wren T. Brown",
+      "character": "Parker",
+      "order": 14,
+      "cast_id": 25,
+      "popularity": 1.8195,
+      "profile_path": "/vbTHkOhDGbcdB4L7HQF5syxfUJn.jpg"
+    },
+    {
+      "personId": 41887,
+      "name": "Michael Polish",
+      "character": "Twin Cenobite #1",
+      "order": 15,
+      "cast_id": 27,
+      "popularity": 0.6589,
+      "profile_path": "/gcwCq1ap4gbSf4Ip3qaTLR7PLFS.jpg"
+    },
+    {
+      "personId": 41886,
+      "name": "Mark Polish",
+      "character": "Twin Cenobite #2",
+      "order": 16,
+      "cast_id": 31,
+      "popularity": 1.3372,
+      "profile_path": "/5HmEhRjyZa1xIiXQeZALsOmm01E.jpg"
+    },
+    {
+      "personId": 1144361,
+      "name": "Tom Dugan",
+      "character": "Chamberlain",
+      "order": 17,
+      "cast_id": 33,
+      "popularity": 0.6195,
+      "profile_path": "/n26BNkoiZt9dYgjkAYKNFOMJvlF.jpg"
+    },
+    {
+      "personId": 13443,
+      "name": "Laura Albert",
+      "character": "Valerie Dyson (uncredited)",
+      "order": 18,
+      "cast_id": 48,
+      "popularity": 0.8017,
+      "profile_path": "/fl1wqLSHYXtj7DR8yVwvhpmdPxf.jpg"
+    },
+    {
+      "personId": 12662,
+      "name": "Phil Fondacaro",
+      "character": "Surgeon - The Jester (uncredited)",
+      "order": 19,
+      "cast_id": 49,
+      "popularity": 1.1433,
+      "profile_path": "/vJbPx90IzOdE6L1maYu1HIJayjG.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 55948,
+      "name": "Alan Smithee",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1489,
+      "profile_path": null
+    },
+    {
+      "personId": 176246,
+      "name": "Kevin Yagher",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5428,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 310,
+      "name": "artificial intelligence (a.i.)"
+    },
+    {
+      "id": 6154,
+      "name": "hell"
+    },
+    {
+      "id": 5721,
+      "name": "engineer"
+    },
+    {
+      "id": 8377,
+      "name": "pinhead"
+    },
+    {
+      "id": 15001,
+      "name": "demon"
+    },
+    {
+      "id": 17996,
+      "name": "puzzle box"
+    },
+    {
+      "id": 161208,
+      "name": "cenobite"
+    },
+    {
+      "id": 209027,
+      "name": "artificial"
+    }
+  ]
+}

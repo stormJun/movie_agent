@@ -1,0 +1,162 @@
+{
+  "overview": "A trio of thrill-seeking go-go dancers kidnap a young girl and attempt to seduce an old rancher and his two sons out of their small fortune, but their scheme doesn't play out as intended.",
+  "release_date": "1965-08-06",
+  "runtime": 83,
+  "budget": 45000,
+  "revenue": 36122,
+  "tmdb_vote_average": 6.347,
+  "tmdb_vote_count": 352,
+  "tmdb_popularity": 0.9723,
+  "original_language": "en",
+  "poster_path": "/2hIHFk52SZ9XsZB4U85RUq36BT4.jpg",
+  "backdrop_path": "/j7UOjPzoYRDQlayNLswiNRzmtK9.jpg",
+  "tmdb_genres_raw": [
+    "Crime",
+    "Action",
+    "Thriller",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 170,
+      "name": "Eve Productions Inc.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4592,
+      "name": "Tura Satana",
+      "character": "Varla",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 2.2688,
+      "profile_path": "/v4VaAaPeByyrj9cNoeAUjuZ4552.jpg"
+    },
+    {
+      "personId": 4593,
+      "name": "Haji",
+      "character": "Rosie",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 2.3267,
+      "profile_path": "/5OS3gqDqZD3NT4KhTzwJK9Xpzuw.jpg"
+    },
+    {
+      "personId": 4594,
+      "name": "Lori Williams",
+      "character": "Billie",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 1.9578,
+      "profile_path": "/g2FuR39dxdrTg1JDbMCi0G2cU51.jpg"
+    },
+    {
+      "personId": 4595,
+      "name": "Sue Bernard",
+      "character": "Linda",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 2.035,
+      "profile_path": "/8mEBHpM3Ls1KzGMesfOMwoAcvPC.jpg"
+    },
+    {
+      "personId": 4596,
+      "name": "Stuart Lancaster",
+      "character": "The Old Man",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 1.0023,
+      "profile_path": "/zdRgmGQfpCIhLRFqeM4izsQV5eW.jpg"
+    },
+    {
+      "personId": 4597,
+      "name": "Paul Trinka",
+      "character": "Kirk",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 1.0414,
+      "profile_path": "/Q941trEzeaC7CwZD1KMe34Ggc2.jpg"
+    },
+    {
+      "personId": 4598,
+      "name": "Dennis Busch",
+      "character": "The Vegetable",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 0.252,
+      "profile_path": null
+    },
+    {
+      "personId": 4599,
+      "name": "Ray Barlow",
+      "character": "Tommy",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 0.0769,
+      "profile_path": null
+    },
+    {
+      "personId": 4679,
+      "name": "John Furlong",
+      "character": "Narrator (voice)",
+      "order": 8,
+      "cast_id": 10,
+      "popularity": 1.6994,
+      "profile_path": "/gPfvY1lZNHeGW16TXmGvFpSkLLw.jpg"
+    },
+    {
+      "personId": 4685,
+      "name": "Michael Finn",
+      "character": "Gas Station Attendant",
+      "order": 9,
+      "cast_id": 19,
+      "popularity": 0.2389,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 4590,
+      "name": "Russ Meyer",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.9561,
+      "profile_path": "/zNVAAdgIk9q3SQadZuQKr6wHlXM.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 999,
+      "name": "sports car"
+    },
+    {
+      "id": 1930,
+      "name": "kidnapping"
+    },
+    {
+      "id": 1663,
+      "name": "go-go dancer"
+    },
+    {
+      "id": 627,
+      "name": "killing"
+    },
+    {
+      "id": 1664,
+      "name": "eroticism"
+    }
+  ]
+}

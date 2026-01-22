@@ -1,0 +1,275 @@
+{
+  "overview": "The heterosexual man Axel is thrown out of his girlfriends home for cheating and ends up moving in with a gay man. Axel learns the advantages of living with gay men even though they are attracted to him and when his girlfriend wants him back he must make a tough decision.",
+  "release_date": "1994-10-05",
+  "runtime": 94,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.2,
+  "tmdb_vote_count": 116,
+  "tmdb_popularity": 1.336,
+  "original_language": "de",
+  "poster_path": "/2TcZBHcseRXLxNq2RXnKIsbKZwi.jpg",
+  "backdrop_path": "/cLOyix71NJwkfwt77bnmmy9ibJO.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 47,
+      "name": "Constantin Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 99,
+      "name": "OLGA FILM",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1844,
+      "name": "Til Schweiger",
+      "character": "Axel Feldheim",
+      "order": 0,
+      "cast_id": 8,
+      "popularity": 2.9211,
+      "profile_path": "/3Jk7y4sKgckrN9RzAAt0drlR0QG.jpg"
+    },
+    {
+      "personId": 1874,
+      "name": "Katja Riemann",
+      "character": "Doro Feldheim",
+      "order": 1,
+      "cast_id": 9,
+      "popularity": 1.6329,
+      "profile_path": "/waayy0jpNbxLDQ8JO1uRDng8SLF.jpg"
+    },
+    {
+      "personId": 1084,
+      "name": "Joachim Król",
+      "character": "Norbert Brommer",
+      "order": 2,
+      "cast_id": 10,
+      "popularity": 0.8258,
+      "profile_path": "/jF4Mmer6sL54SLj29XKJHR1mrKM.jpg"
+    },
+    {
+      "personId": 1875,
+      "name": "Rufus Beck",
+      "character": "Walter",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 0.9776,
+      "profile_path": "/87OQtE9OmAbstYfLGuJ6u608rig.jpg"
+    },
+    {
+      "personId": 1083,
+      "name": "Armin Rohde",
+      "character": "Butcher",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 0.9077,
+      "profile_path": "/h1CuhGgADJFD9vw1IYFskJK9q9V.jpg"
+    },
+    {
+      "personId": 678,
+      "name": "Martina Gedeck",
+      "character": "Jutta",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 0.8307,
+      "profile_path": "/ju7H4RLIzfrcMg2e3SUAaA9fEc6.jpg"
+    },
+    {
+      "personId": 1876,
+      "name": "Kai Wiesinger",
+      "character": "Gunnar",
+      "order": 6,
+      "cast_id": 14,
+      "popularity": 1.5659,
+      "profile_path": "/bgLlyH4q0yMgutWN2LvLTlB9Ur4.jpg"
+    },
+    {
+      "personId": 1877,
+      "name": "Monty Arnold",
+      "character": "Monty",
+      "order": 7,
+      "cast_id": 15,
+      "popularity": 1.8498,
+      "profile_path": "/64RCzQDNTOYfFv8HXcXtWlR0CzK.jpg"
+    },
+    {
+      "personId": 1878,
+      "name": "Nico van der Knaap",
+      "character": "Fränzchen",
+      "order": 8,
+      "cast_id": 16,
+      "popularity": 0.8843,
+      "profile_path": "/4LiijNZGkErpUOJ0BEt2aswweww.jpg"
+    },
+    {
+      "personId": 1879,
+      "name": "Antonia Lang",
+      "character": "Elke Schmitt",
+      "order": 9,
+      "cast_id": 17,
+      "popularity": 0.1225,
+      "profile_path": null
+    },
+    {
+      "personId": 1880,
+      "name": "Judith Reinartz",
+      "character": "Claudia",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 0.0925,
+      "profile_path": null
+    },
+    {
+      "personId": 1881,
+      "name": "Christof Wackernagel",
+      "character": "Rüdiger",
+      "order": 11,
+      "cast_id": 19,
+      "popularity": 0.6037,
+      "profile_path": "/2xZeeRG7hhXYKGrxrHdIKxQaUWJ.jpg"
+    },
+    {
+      "personId": 1882,
+      "name": "Martin Armknecht",
+      "character": "Lutz",
+      "order": 12,
+      "cast_id": 20,
+      "popularity": 1.5971,
+      "profile_path": "/ajBwUYg1xIMSCoh4nlCAS6KgtBE.jpg"
+    },
+    {
+      "personId": 33550,
+      "name": "Horst Scheel",
+      "character": "Gunter",
+      "order": 13,
+      "cast_id": 37,
+      "popularity": 1.0188,
+      "profile_path": "/kkWUqpcfQyvCkJIUQ9Sij35Nd5g.jpg"
+    },
+    {
+      "personId": 3742,
+      "name": "Heinrich Schafmeister",
+      "character": "Klaus Dieter",
+      "order": 14,
+      "cast_id": 24,
+      "popularity": 0.453,
+      "profile_path": "/m80a3kpf4diz2JXFOiEARUO840J.jpg"
+    },
+    {
+      "personId": 3743,
+      "name": "Helmut Buchel",
+      "character": "Dirk",
+      "order": 15,
+      "cast_id": 25,
+      "popularity": 0.0597,
+      "profile_path": null
+    },
+    {
+      "personId": 3744,
+      "name": "Hans Peter Reutter",
+      "character": "Dr. Bertie",
+      "order": 16,
+      "cast_id": 26,
+      "popularity": 0.0563,
+      "profile_path": null
+    },
+    {
+      "personId": 1855,
+      "name": "Leonard Lansink",
+      "character": "Jeannie",
+      "order": 17,
+      "cast_id": 38,
+      "popularity": 1.0251,
+      "profile_path": "/coNhXk0GKODmDDj9LI1XihC2M7Q.jpg"
+    },
+    {
+      "personId": 3751,
+      "name": "Ralf König",
+      "character": "Drag Queen",
+      "order": 18,
+      "cast_id": 34,
+      "popularity": 1.3063,
+      "profile_path": "/59mXe8PoblbaDbrLwmIk0jCIRbD.jpg"
+    },
+    {
+      "personId": 1120269,
+      "name": "Willi Herren",
+      "character": "Stallone Fan",
+      "order": 19,
+      "cast_id": 39,
+      "popularity": 1.2262,
+      "profile_path": "/kp0WUfjEoihw6vGTBT8SDavTLdF.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1869,
+      "name": "Sönke Wortmann",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6848,
+      "profile_path": "/hFQeziBgFDu5YsLb5ofqTErq0J9.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 566,
+      "name": "sexual identity"
+    },
+    {
+      "id": 1326,
+      "name": "infidelity"
+    },
+    {
+      "id": 6054,
+      "name": "friendship"
+    },
+    {
+      "id": 828,
+      "name": "waitress"
+    },
+    {
+      "id": 108,
+      "name": "transvestism"
+    },
+    {
+      "id": 823,
+      "name": "cologne, germany"
+    },
+    {
+      "id": 824,
+      "name": "drag queen"
+    },
+    {
+      "id": 825,
+      "name": "support group"
+    },
+    {
+      "id": 827,
+      "name": "diashow"
+    },
+    {
+      "id": 158718,
+      "name": "lgbt"
+    }
+  ]
+}

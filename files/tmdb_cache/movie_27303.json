@@ -1,0 +1,194 @@
+{
+  "overview": "Hatch Harrison, his wife, Lindsey, and their daughter, Regina, are enjoying a pleasant drive when a car crash leaves wife and daughter unharmed but kills Hatch. However, an ingenious doctor, Jonas Nyebern, manages to revive Hatch after two lifeless hours. But Hatch does not come back unchanged. He begins to suffer horrible visions of murder -- only to find out the visions are the sights of a serial killer.",
+  "release_date": "1995-03-03",
+  "runtime": 103,
+  "budget": 15000000,
+  "revenue": 12201255,
+  "tmdb_vote_average": 5.223,
+  "tmdb_vote_count": 168,
+  "tmdb_popularity": 1.325,
+  "original_language": "en",
+  "poster_path": "/cYWjgxgIJrak0BTemkij3gOCbMa.jpg",
+  "backdrop_path": "/wDjVua7LmH2yR3fhV2d2oNtrb9G.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Thriller",
+    "Horror"
+  ],
+  "production_companies": [
+    {
+      "id": 559,
+      "name": "TriStar Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4785,
+      "name": "Jeff Goldblum",
+      "character": "Hatch Harrison",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 5.6565,
+      "profile_path": "/ceSmXnD0FUSTaq2WIrnZu9caL0t.jpg"
+    },
+    {
+      "personId": 77133,
+      "name": "Christine Lahti",
+      "character": "Lindsey",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.8183,
+      "profile_path": "/qD52Z8GfBqm08QjvJnYESzYFPzf.jpg"
+    },
+    {
+      "personId": 5588,
+      "name": "Alicia Silverstone",
+      "character": "Regina",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 5.3051,
+      "profile_path": "/pyxqkP4i0ubVdoRe5hoiiiwkHkb.jpg"
+    },
+    {
+      "personId": 23958,
+      "name": "Jeremy Sisto",
+      "character": "Vassago",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.5312,
+      "profile_path": "/1XfuASLjBhGOhJ4os7juRJot2we.jpg"
+    },
+    {
+      "personId": 658,
+      "name": "Alfred Molina",
+      "character": "Jonas",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 4.6321,
+      "profile_path": "/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+    },
+    {
+      "personId": 13312,
+      "name": "Rae Dawn Chong",
+      "character": "Rose Orwetto",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 1.6173,
+      "profile_path": "/aj9fFFKH3QZX2FSJsj81I4y12M7.jpg"
+    },
+    {
+      "personId": 6074,
+      "name": "Kenneth Welsh",
+      "character": "Detective Breech",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 1.8135,
+      "profile_path": "/hsmY2HaIdOEoTBtwFPxQLyLymYw.jpg"
+    },
+    {
+      "personId": 178926,
+      "name": "Michael McDonald",
+      "character": "Young Cop",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 1.727,
+      "profile_path": "/mIsG6qOHvvID2mQL2GOY1ONPHHV.jpg"
+    },
+    {
+      "personId": 15863,
+      "name": "Don S. Davis",
+      "character": "Dr. Martin",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 1.9126,
+      "profile_path": "/gxUvCXIFxAMqcWgosErBP5rHKDw.jpg"
+    },
+    {
+      "personId": 75529,
+      "name": "Suzy Joachim",
+      "character": "Dr. Kari Dovell",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 0.787,
+      "profile_path": "/jskeqLKa3diJFvOhyotzSgwU88g.jpg"
+    },
+    {
+      "personId": 158575,
+      "name": "Tom McBeath",
+      "character": "Morton Redlow",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 1.6771,
+      "profile_path": "/vKeYC2KlMiq4S48ZafMll7jl9CJ.jpg"
+    },
+    {
+      "personId": 173362,
+      "name": "Joely Collins",
+      "character": "Linda",
+      "order": 11,
+      "cast_id": 16,
+      "popularity": 0.9193,
+      "profile_path": null
+    },
+    {
+      "personId": 25877,
+      "name": "Roger Cross",
+      "character": "Harry",
+      "order": 12,
+      "cast_id": 17,
+      "popularity": 3.1786,
+      "profile_path": "/gLbHM7JH2nWCeEzSjzAYBUOSkT8.jpg"
+    },
+    {
+      "personId": 1178114,
+      "name": "Rebecca Toolan",
+      "character": "Female Doctor",
+      "order": 13,
+      "cast_id": 18,
+      "popularity": 0.7815,
+      "profile_path": "/21qQi0CvDnX2tYJEyyYxXRx1hoy.jpg"
+    },
+    {
+      "personId": 60719,
+      "name": "Hiro Kanagawa",
+      "character": "Nurse Nakamura",
+      "order": 14,
+      "cast_id": 19,
+      "popularity": 2.0552,
+      "profile_path": "/dyWOPJmZTfy3r3R5eDY2d7yf8Ze.jpg"
+    },
+    {
+      "personId": 1486846,
+      "name": "Gaetana Korbin",
+      "character": "Victim",
+      "order": 15,
+      "cast_id": 39,
+      "popularity": 1.4072,
+      "profile_path": "/hcY6tZddNjhIIe29kbdpHLqC9lk.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 57090,
+      "name": "Brett Leonard",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5746,
+      "profile_path": "/vumJ0PLhcmbd34qKscrQGAjUg8v.jpg"
+    }
+  ],
+  "keywords": []
+}

@@ -1,0 +1,190 @@
+{
+  "overview": "Story of a promising high school basketball star and his relationships with two brothers, one a drug dealer and the other a former basketball star fallen on hard times and now employed as a security guard.",
+  "release_date": "1994-03-23",
+  "runtime": 96,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.967,
+  "tmdb_vote_count": 211,
+  "tmdb_popularity": 2.4106,
+  "original_language": "en",
+  "poster_path": "/q7CCx8aj8uME1fBa4KzTMdeWxXu.jpg",
+  "backdrop_path": "/vEBGkO0D8Feh7jpwZGZ4UqEZZxQ.jpg",
+  "tmdb_genres_raw": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 84077,
+      "name": "Duane Martin",
+      "character": "Kyle Lee Watson",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.3227,
+      "profile_path": "/ekxetmMR5neEQ1LwfXaQgpS7zfC.jpg"
+    },
+    {
+      "personId": 54422,
+      "name": "Tupac Shakur",
+      "character": "Birdie",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.333,
+      "profile_path": "/wZUpIy4ttbKbFTef0pfd1Yk0pAW.jpg"
+    },
+    {
+      "personId": 1897,
+      "name": "Bernie Mac",
+      "character": "Flip",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.2873,
+      "profile_path": "/o1LQ83S4ZYvj84HYeWAzEV7Cg95.jpg"
+    },
+    {
+      "personId": 9562,
+      "name": "Marlon Wayans",
+      "character": "Bugaloo",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 4.6185,
+      "profile_path": "/7LYnX3vluHFBs1WCRKUjSIEDEkn.jpg"
+    },
+    {
+      "personId": 12974,
+      "name": "Leon",
+      "character": "Shep",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 1.3399,
+      "profile_path": "/uhLVZV2rH0nnXwQKtsIT0qGsTyg.jpg"
+    },
+    {
+      "personId": 65829,
+      "name": "Wood Harris",
+      "character": "Motaw",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 2.3657,
+      "profile_path": "/v3puIl2KncqUd6amDyD1Y0crzkF.jpg"
+    },
+    {
+      "personId": 18313,
+      "name": "Michael Rispoli",
+      "character": "Richie",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 1.7315,
+      "profile_path": "/4rtCKJTtPq9cSHFQqZSbyCLLWCO.jpg"
+    },
+    {
+      "personId": 155236,
+      "name": "David Bailey",
+      "character": "Rollins",
+      "order": 7,
+      "cast_id": 13,
+      "popularity": 0.745,
+      "profile_path": "/GdSDJJmkIcaFgS1XnCIRVcHyMn.jpg"
+    },
+    {
+      "personId": 170906,
+      "name": "Tonya Pinkins",
+      "character": "Mailika",
+      "order": 8,
+      "cast_id": 14,
+      "popularity": 1.5453,
+      "profile_path": "/1yXuqUKWqiEo4NO96TbDfZ5fAPf.jpg"
+    },
+    {
+      "personId": 92658,
+      "name": "Byron Minns",
+      "character": "Monroe",
+      "order": 9,
+      "cast_id": 15,
+      "popularity": 0.7519,
+      "profile_path": "/9El2mo2CDgtAjF64TmEWTqY2pNS.jpg"
+    },
+    {
+      "personId": 101257,
+      "name": "Shawn Michael Howard",
+      "character": "Bobby",
+      "order": 10,
+      "cast_id": 16,
+      "popularity": 0.9116,
+      "profile_path": "/7VZ0s8YnQa3cTuhrT8DslkhoHfD.jpg"
+    },
+    {
+      "personId": 67913,
+      "name": "Henry Simmons",
+      "character": "Starnes",
+      "order": 11,
+      "cast_id": 17,
+      "popularity": 0.9585,
+      "profile_path": "/mnjj5br0CGvYVdHrERhRHulLUfU.jpg"
+    },
+    {
+      "personId": 265606,
+      "name": "Eric Nies",
+      "character": "Montrose",
+      "order": 12,
+      "cast_id": 20,
+      "popularity": 0.4566,
+      "profile_path": "/oYp8IEKYdAF2FRflr1IahSdmRsW.jpg"
+    },
+    {
+      "personId": 2353349,
+      "name": "Iris Little Thomas",
+      "character": "Waitress",
+      "order": 13,
+      "cast_id": 18,
+      "popularity": 0.8817,
+      "profile_path": "/z21y6NIUgcH5kFuEwiT85BfIIwr.jpg"
+    },
+    {
+      "personId": 1300651,
+      "name": "Debra Rubinstein",
+      "character": "Hostess",
+      "order": 14,
+      "cast_id": 19,
+      "popularity": 0.9009,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 88060,
+      "name": "Jeff Pollack",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.3426,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6075,
+      "name": "sports"
+    }
+  ]
+}

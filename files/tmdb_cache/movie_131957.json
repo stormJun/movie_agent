@@ -1,0 +1,154 @@
+{
+  "overview": "Laura San Giacomo stars in this sexy comedy about adultery. When Nina's (San Giacomo) husband goes out of town for several weeks on a business trip, Nina hooks up with a photographer. Told from a reporter's point of view, his interviews with Nina and the photographer provide comic insights. Stars Laura San Giacomo, Paul Rhys, Michael O'Keefe, Fisher Stevens and more.",
+  "release_date": "1995-03-03",
+  "runtime": 100,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.4,
+  "tmdb_vote_count": 14,
+  "tmdb_popularity": 0.399,
+  "original_language": "en",
+  "poster_path": "/ouiE82bOuBl4IeEnY2gJe8teQFT.jpg",
+  "backdrop_path": "/41Rk3iN7wEArn7Dik9z3qu9sXFd.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 23098,
+      "name": "Triumph Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 283987,
+      "name": "Alan Jacobs Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 140032,
+      "name": "Archer Entertainment Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 283988,
+      "name": "Sharona Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1212,
+      "name": "Laura San Giacomo",
+      "character": "Nina",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.2604,
+      "profile_path": "/xOPY9e0HN6zYmI5HrmRSbwygEzy.jpg"
+    },
+    {
+      "personId": 80365,
+      "name": "Paul Rhys",
+      "character": "Photographer",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.5621,
+      "profile_path": "/l7uc38oZGMQbbq7WqE8rKn9xZJr.jpg"
+    },
+    {
+      "personId": 38085,
+      "name": "Michael O'Keefe",
+      "character": "Journalist",
+      "order": 2,
+      "cast_id": 8,
+      "popularity": 3.0782,
+      "profile_path": "/wQsTL887RWvAJljzLhiPP52kjec.jpg"
+    },
+    {
+      "personId": 5130,
+      "name": "Cristi Conaway",
+      "character": "Friend",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.8883,
+      "profile_path": "/wxBtTzVzrzm1ybkNMF9OWWXs6KO.jpg"
+    },
+    {
+      "personId": 26473,
+      "name": "Fisher Stevens",
+      "character": "Paulie",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 3.8092,
+      "profile_path": "/wWC6wbLV56RJGtyytMmmGvi054t.jpg"
+    },
+    {
+      "personId": 4870745,
+      "name": "Alan Lightner",
+      "character": "Caribbean Musician",
+      "order": 5,
+      "cast_id": 21,
+      "popularity": 0.044,
+      "profile_path": null
+    },
+    {
+      "personId": 3753685,
+      "name": "Vincent Lars",
+      "character": "Caribbean Musician",
+      "order": 6,
+      "cast_id": 22,
+      "popularity": 0.1205,
+      "profile_path": null
+    },
+    {
+      "personId": 4687198,
+      "name": "Carter Collins",
+      "character": "Caribbean Musician",
+      "order": 7,
+      "cast_id": 23,
+      "popularity": 0.1518,
+      "profile_path": null
+    },
+    {
+      "personId": 4870747,
+      "name": "Michelle Koeppe",
+      "character": "Shoestore Assistant",
+      "order": 8,
+      "cast_id": 24,
+      "popularity": 0.154,
+      "profile_path": null
+    },
+    {
+      "personId": 1453694,
+      "name": "Marianna Åström-De Fina",
+      "character": "Customer",
+      "order": 9,
+      "cast_id": 25,
+      "popularity": 0.3599,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 131792,
+      "name": "Alan Jacobs",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.1996,
+      "profile_path": null
+    }
+  ],
+  "keywords": []
+}

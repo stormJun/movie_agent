@@ -1,0 +1,277 @@
+{
+  "overview": "Hank Marshall is a tough, square-jawed, straitlaced Army engineer and nuclear science expert, assigned to help conduct weapons testing in 1950s America. Hank has become a thorn in the side of the Army, though, for a couple of very different reasons. He is an outspoken opponent of atmospheric testing, though his superiors hold contrary views and want to squelch his concerns...and his reports. The other problem is his wife, Carly. She is voluptuous and volatile, wreaking havoc in his personal life and stirring up intrigue at each new Army base.",
+  "release_date": "1994-09-16",
+  "runtime": 101,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.068,
+  "tmdb_vote_count": 147,
+  "tmdb_popularity": 3.5302,
+  "original_language": "en",
+  "poster_path": "/zG40OnO4Y98lo1iDHyFo5TaZyP1.jpg",
+  "backdrop_path": "/mcFAhNqy9N2EkHAHcPOUfEEvomJ.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 18070,
+      "name": "Heathrow Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 41,
+      "name": "Orion Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4431,
+      "name": "Jessica Lange",
+      "character": "Carly Marshall",
+      "order": 0,
+      "cast_id": 6,
+      "popularity": 2.9511,
+      "profile_path": "/8pJ1eCqVwGJQjt5HYkzR0ZJpxEb.jpg"
+    },
+    {
+      "personId": 2176,
+      "name": "Tommy Lee Jones",
+      "character": "Hank Marshall",
+      "order": 1,
+      "cast_id": 7,
+      "popularity": 13.6129,
+      "profile_path": "/mCiZNRAzbnPojJEZwVZWLw9kzxR.jpg"
+    },
+    {
+      "personId": 6280,
+      "name": "Powers Boothe",
+      "character": "Vince Johnson",
+      "order": 2,
+      "cast_id": 8,
+      "popularity": 1.614,
+      "profile_path": "/xj3DBMqnEnyYfHEBcRHOxlpbQS4.jpg"
+    },
+    {
+      "personId": 44831,
+      "name": "Carrie Snodgress",
+      "character": "Vera Johnson",
+      "order": 3,
+      "cast_id": 9,
+      "popularity": 1.1765,
+      "profile_path": "/5Bygw37FqX7qeuNTRycGIKFcaCj.jpg"
+    },
+    {
+      "personId": 21412,
+      "name": "Amy Locane",
+      "character": "Alex Marshall",
+      "order": 4,
+      "cast_id": 10,
+      "popularity": 0.9452,
+      "profile_path": "/kzbLeGmII0LIiJ1efSwFr7D9zwh.jpg"
+    },
+    {
+      "personId": 5577,
+      "name": "Chris O'Donnell",
+      "character": "Glenn Johnson",
+      "order": 5,
+      "cast_id": 11,
+      "popularity": 4.9178,
+      "profile_path": "/KvWBFg1aMBdu4X2PihXYL8xcFD.jpg"
+    },
+    {
+      "personId": 14312,
+      "name": "Mitchell Ryan",
+      "character": "Ray Stevens",
+      "order": 6,
+      "cast_id": 46,
+      "popularity": 1.4805,
+      "profile_path": "/9XrbQfOjDeqjXJUHeSIA6OxJAJa.jpg"
+    },
+    {
+      "personId": 3211,
+      "name": "Dale Dye",
+      "character": "Col. Mike Anwalt",
+      "order": 7,
+      "cast_id": 47,
+      "popularity": 1.629,
+      "profile_path": "/bkMcK2hvB1wRJT1YFgNTl7ivlF2.jpg"
+    },
+    {
+      "personId": 83411,
+      "name": "Timothy Scott",
+      "character": "Ned Owens",
+      "order": 8,
+      "cast_id": 48,
+      "popularity": 2.5664,
+      "profile_path": "/1KXqxseXqcbkQTHvybJArdLtdbs.jpg"
+    },
+    {
+      "personId": 37368,
+      "name": "Annie Ross",
+      "character": "Lydia",
+      "order": 9,
+      "cast_id": 49,
+      "popularity": 0.7553,
+      "profile_path": "/y2rMACd935o8jieNxoOqxpDxhb1.jpg"
+    },
+    {
+      "personId": 1527853,
+      "name": "Anna Klemp",
+      "character": "Becky Marshall",
+      "order": 10,
+      "cast_id": 50,
+      "popularity": 0.4688,
+      "profile_path": null
+    },
+    {
+      "personId": 2442480,
+      "name": "Anthony Rene Jones",
+      "character": "Helicopter Pilot",
+      "order": 11,
+      "cast_id": 60,
+      "popularity": 0.4122,
+      "profile_path": null
+    },
+    {
+      "personId": 1407961,
+      "name": "Michael McClendon",
+      "character": "Lt. Col. Robert Jennings",
+      "order": 12,
+      "cast_id": 53,
+      "popularity": 0.3454,
+      "profile_path": "/tDMDzkTzny97KDmZXACJa62zpvY.jpg"
+    },
+    {
+      "personId": 2826830,
+      "name": "Merlin Marston",
+      "character": "Lt. Col. George Land",
+      "order": 13,
+      "cast_id": 56,
+      "popularity": 0.0966,
+      "profile_path": null
+    },
+    {
+      "personId": 91420,
+      "name": "Dion Anderson",
+      "character": "Gen. Derrick",
+      "order": 14,
+      "cast_id": 58,
+      "popularity": 0.84,
+      "profile_path": "/d59y9z1vIkLAqtK0Ykx3StHim18.jpg"
+    },
+    {
+      "personId": 71566,
+      "name": "Richard Andrew Jones",
+      "character": "Jimmy",
+      "order": 15,
+      "cast_id": 59,
+      "popularity": 0.762,
+      "profile_path": "/lxGCZQxbmwmAzvUnXgs2Fc4a819.jpg"
+    },
+    {
+      "personId": 56848,
+      "name": "Gary Bullock",
+      "character": "Doctor Vankay",
+      "order": 16,
+      "cast_id": 51,
+      "popularity": 1.4153,
+      "profile_path": "/eoS0PRHcIIdPqiPWF0bdbtZ0omh.jpg"
+    },
+    {
+      "personId": 1537,
+      "name": "Angela Paton",
+      "character": "Dottie Owens",
+      "order": 17,
+      "cast_id": 57,
+      "popularity": 1.7812,
+      "profile_path": "/zt2VvSVntPwmmR3ZVxDYVvGEJ5L.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 32765,
+      "name": "Tony Richardson",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.9282,
+      "profile_path": "/3skJ0HApYH6AgVPqMtexMbTCZMr.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1157,
+      "name": "husband wife relationship"
+    },
+    {
+      "id": 2075,
+      "name": "alabama"
+    },
+    {
+      "id": 3312,
+      "name": "nuclear missile"
+    },
+    {
+      "id": 4709,
+      "name": "hand grenade"
+    },
+    {
+      "id": 4409,
+      "name": "military base"
+    },
+    {
+      "id": 4593,
+      "name": "atomic bomb test"
+    },
+    {
+      "id": 9838,
+      "name": "nymphomaniac"
+    },
+    {
+      "id": 10061,
+      "name": "dysfunctional marriage"
+    },
+    {
+      "id": 41329,
+      "name": "mental illness"
+    },
+    {
+      "id": 208611,
+      "name": "1950s"
+    },
+    {
+      "id": 226391,
+      "name": "flirtatious woman"
+    },
+    {
+      "id": 227476,
+      "name": "mentally unstable"
+    },
+    {
+      "id": 331167,
+      "name": "wife cheating on husband"
+    },
+    {
+      "id": 336556,
+      "name": "openly flirtatious wife"
+    }
+  ]
+}

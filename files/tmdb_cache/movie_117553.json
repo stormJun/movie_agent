@@ -1,0 +1,223 @@
+{
+  "overview": "Three young men go on an end of the summer trip to Hollywood, California. Their quest: to fulfill the fantasy of meeting Marilyn Monroe.",
+  "release_date": "1993-09-03",
+  "runtime": 90,
+  "budget": 13000000,
+  "revenue": 2600000,
+  "tmdb_vote_average": 5.136,
+  "tmdb_vote_count": 66,
+  "tmdb_popularity": 1.2484,
+  "original_language": "en",
+  "poster_path": "/ljSqZTl5oophHsH1Qtyv7AF2BW6.jpg",
+  "backdrop_path": "/55sNqPoGPyVCkNNA2W8KquRL9uD.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1350,
+      "name": "Parkway Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 106435,
+      "name": "Gabriel Olds",
+      "character": "Ned Bleuer",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 0.7642,
+      "profile_path": "/mP1HrNHUjd5DIej8NdRhCPlSoWS.jpg"
+    },
+    {
+      "personId": 19143,
+      "name": "Jason Priestley",
+      "character": "Roy Darpinian",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 2.2688,
+      "profile_path": "/lQvkOOhf59FTD86G96fTRp17VJt.jpg"
+    },
+    {
+      "personId": 3035,
+      "name": "Jerry O'Connell",
+      "character": "Scott Foreman",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 2.5239,
+      "profile_path": "/p2zcFeDIKUrPrbT5ODqoLifdN3Q.jpg"
+    },
+    {
+      "personId": 532,
+      "name": "Joe Pantoliano",
+      "character": "Harvey Darpinian",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 4.2493,
+      "profile_path": "/3OHUI3nX4SYGGItDk3xqeIvWtIf.jpg"
+    },
+    {
+      "personId": 52023,
+      "name": "Steve Railsback",
+      "character": "Eddie  Darpinian",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 1.7535,
+      "profile_path": "/wztkAOAQZNGLlbrUrGIhV5cr1S0.jpg"
+    },
+    {
+      "personId": 537,
+      "name": "Stephen Tobolowsky",
+      "character": "Antonio",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 3.8913,
+      "profile_path": "/uL8yfcm0dCFYFQt052kczVQVvac.jpg"
+    },
+    {
+      "personId": 1864377,
+      "name": "Stéphanie Anderson",
+      "character": "Marilyn Monroe",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 1.4503,
+      "profile_path": "/mxv5RB893nCsf8afLXQE8ngJl2t.jpg"
+    },
+    {
+      "personId": 1224860,
+      "name": "Chubby Checker",
+      "character": "Himself",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 0.2697,
+      "profile_path": "/duvzX47Bj25h1YQCP1OE8tfOHYP.jpg"
+    },
+    {
+      "personId": 15286,
+      "name": "Christine Taylor",
+      "character": "Melissa Smock",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 2.6832,
+      "profile_path": "/81jveproLhJzWHpCuJh7hN65zRl.jpg"
+    },
+    {
+      "personId": 29685,
+      "name": "Kurt Fuller",
+      "character": "Arturo Gallo",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 2.1756,
+      "profile_path": "/kV02XLACLFd1YYQdSOgqy6lFmQ3.jpg"
+    },
+    {
+      "personId": 101908,
+      "name": "Maxwell Caulfield",
+      "character": "Man in Bathrobe",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 3.6104,
+      "profile_path": "/txVAiqLG56J0BlDaaCfFgzPfvU.jpg"
+    },
+    {
+      "personId": 63914,
+      "name": "Tuesday Knight",
+      "character": "Nude Woman / Marilyn Monroe",
+      "order": 11,
+      "cast_id": 15,
+      "popularity": 0.7477,
+      "profile_path": "/9dWhs1E4emCHrfNRANupI18y39t.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 61175,
+      "name": "John Whitesell",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.385,
+      "profile_path": "/nChx29Nt5nXabJU0zYHsSwRL7XK.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 387,
+      "name": "california"
+    },
+    {
+      "id": 966,
+      "name": "beach"
+    },
+    {
+      "id": 331,
+      "name": "tattoo"
+    },
+    {
+      "id": 2398,
+      "name": "narration"
+    },
+    {
+      "id": 10738,
+      "name": "diner"
+    },
+    {
+      "id": 2135,
+      "name": "radio"
+    },
+    {
+      "id": 5609,
+      "name": "nostalgia"
+    },
+    {
+      "id": 8098,
+      "name": "calendar"
+    },
+    {
+      "id": 10683,
+      "name": "coming of age"
+    },
+    {
+      "id": 10776,
+      "name": "marijuana"
+    },
+    {
+      "id": 10333,
+      "name": "stalking"
+    },
+    {
+      "id": 12396,
+      "name": "hollywood"
+    },
+    {
+      "id": 13088,
+      "name": "summer"
+    },
+    {
+      "id": 162262,
+      "name": "movie star"
+    },
+    {
+      "id": 208611,
+      "name": "1950s"
+    }
+  ]
+}

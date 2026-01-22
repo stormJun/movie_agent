@@ -1,0 +1,264 @@
+{
+  "overview": "Alfie Byrne is a middle-aged bus conductor in Dublin in 1963. He would appear to live a life of quiet desperation: he's gay, but firmly closeted, and his sister is always trying to find him \"the right girl\". His passion is Oscar Wilde, his hobby is putting on amateur theatre productions in the local church hall. We follow him as he struggles with temptation, friendship, disapproval, and the conservative yet oddly lyrical world of Ireland in the early 1960s.",
+  "release_date": "1994-12-24",
+  "runtime": 99,
+  "budget": 0,
+  "revenue": 934550,
+  "tmdb_vote_average": 6.0,
+  "tmdb_vote_count": 19,
+  "tmdb_popularity": 0.2714,
+  "original_language": "en",
+  "poster_path": "/zKHmxia0cdXMmNu5LUEwiJQJQoa.jpg",
+  "backdrop_path": "/xfK1dvRMcxkUx6UtAqywsUqSIOQ.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 2630,
+      "name": "Majestic Films International",
+      "origin_country": "GB"
+    },
+    {
+      "id": 288,
+      "name": "BBC Film",
+      "origin_country": "GB"
+    },
+    {
+      "id": 550,
+      "name": "Little Bird",
+      "origin_country": "IE"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "IE",
+      "name": "Ireland"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3926,
+      "name": "Albert Finney",
+      "character": "Alfred Byrne",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.9167,
+      "profile_path": "/8WCFO9lMHel1bHVYl5lj8pYEw2s.jpg"
+    },
+    {
+      "personId": 18345,
+      "name": "Brenda Fricker",
+      "character": "Lily Byrne",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 2.1268,
+      "profile_path": "/osvE1ZFs7SsqCzTpoTia8pUwamX.jpg"
+    },
+    {
+      "personId": 5658,
+      "name": "Michael Gambon",
+      "character": "Ivor J. Carney",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 2.7114,
+      "profile_path": "/3jdWkDKf4IODbG4JKTeaC7AzxZH.jpg"
+    },
+    {
+      "personId": 47615,
+      "name": "Tara Fitzgerald",
+      "character": "Adele Rice",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 2.2805,
+      "profile_path": "/tMnBeLckuioclUR5KmlqUm49nCz.jpg"
+    },
+    {
+      "personId": 17328,
+      "name": "Rufus Sewell",
+      "character": "Robbie Fay",
+      "order": 4,
+      "cast_id": 2,
+      "popularity": 4.9021,
+      "profile_path": "/fVQ04mfnOZj9rB73VT3B7spRdeD.jpg"
+    },
+    {
+      "personId": 8979,
+      "name": "Patrick Malahide",
+      "character": "Inspector Carson",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 1.6288,
+      "profile_path": "/ae0AJ8FbJireYPQyglIxNucjqIy.jpg"
+    },
+    {
+      "personId": 1282,
+      "name": "David Kelly",
+      "character": "Christy Ward",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 1.2029,
+      "profile_path": "/6nk5gVXHpOV9gqWrjR4lis1BCP7.jpg"
+    },
+    {
+      "personId": 96671,
+      "name": "Mick Lally",
+      "character": "Father Ignatius Kenny",
+      "order": 7,
+      "cast_id": 29,
+      "popularity": 2.4,
+      "profile_path": "/qfXzSVybrDG12H1mqR1FCbiaR3l.jpg"
+    },
+    {
+      "personId": 975564,
+      "name": "Anna Manahan",
+      "character": "Mrs Grace",
+      "order": 8,
+      "cast_id": 30,
+      "popularity": 2.0235,
+      "profile_path": null
+    },
+    {
+      "personId": 1236747,
+      "name": "Joe Pilkington",
+      "character": "Ernie Lally",
+      "order": 9,
+      "cast_id": 31,
+      "popularity": 0.1142,
+      "profile_path": null
+    },
+    {
+      "personId": 26865,
+      "name": "Brendan Conroy",
+      "character": "Rasher Flynn",
+      "order": 10,
+      "cast_id": 32,
+      "popularity": 0.4954,
+      "profile_path": "/pUyjqFWqBERIW0wIJkxwgvfq1VY.jpg"
+    },
+    {
+      "personId": 560121,
+      "name": "Joan O'Hara",
+      "character": "Mrs Crowe",
+      "order": 11,
+      "cast_id": 33,
+      "popularity": 0.6524,
+      "profile_path": null
+    },
+    {
+      "personId": 2237875,
+      "name": "Eileen Reid",
+      "character": "Mrs Rock",
+      "order": 12,
+      "cast_id": 34,
+      "popularity": 0.2688,
+      "profile_path": null
+    },
+    {
+      "personId": 2237876,
+      "name": "Eileen Conroy",
+      "character": "Mrs Curtin",
+      "order": 13,
+      "cast_id": 35,
+      "popularity": 0.1592,
+      "profile_path": null
+    },
+    {
+      "personId": 2237877,
+      "name": "Maureen Egan",
+      "character": "Mrs Dunne",
+      "order": 14,
+      "cast_id": 36,
+      "popularity": 0.0459,
+      "profile_path": null
+    },
+    {
+      "personId": 2237878,
+      "name": "Paddy Ashe",
+      "character": "Mr Ryan",
+      "order": 15,
+      "cast_id": 37,
+      "popularity": 0.0807,
+      "profile_path": null
+    },
+    {
+      "personId": 2237879,
+      "name": "Pat Killalea",
+      "character": "Phil Curran",
+      "order": 16,
+      "cast_id": 38,
+      "popularity": 0.1023,
+      "profile_path": null
+    },
+    {
+      "personId": 2237880,
+      "name": "John Killalea",
+      "character": "Jack Curran",
+      "order": 17,
+      "cast_id": 39,
+      "popularity": 0.2221,
+      "profile_path": null
+    },
+    {
+      "personId": 121252,
+      "name": "Pascale Perry",
+      "character": "Mr Gorman",
+      "order": 18,
+      "cast_id": 40,
+      "popularity": 0.2706,
+      "profile_path": null
+    },
+    {
+      "personId": 1234613,
+      "name": "Joe Savino",
+      "character": "Breton-Beret",
+      "order": 19,
+      "cast_id": 41,
+      "popularity": 0.6035,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 158634,
+      "name": "Suri Krishnamma",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5239,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6054,
+      "name": "friendship"
+    },
+    {
+      "id": 4729,
+      "name": "dublin, ireland"
+    },
+    {
+      "id": 14985,
+      "name": "ireland"
+    },
+    {
+      "id": 41406,
+      "name": "middle ages (476-1453)"
+    },
+    {
+      "id": 258533,
+      "name": "gay theme"
+    }
+  ]
+}

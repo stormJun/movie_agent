@@ -1,0 +1,300 @@
+{
+  "overview": "Bounced from her job, Erin Grant needs money if she's to have any chance of winning back custody of her child. But, eventually, she must confront the naked truth: to take on the system, she'll have to take it all off. Erin strips to conquer, but she faces unintended circumstances when a hound dog of a Congressman zeroes in on her and sharpens the shady tools at his fingertips, including blackmail and murder.",
+  "release_date": "1996-06-28",
+  "runtime": 115,
+  "budget": 50000000,
+  "revenue": 113309743,
+  "tmdb_vote_average": 5.552,
+  "tmdb_vote_count": 1142,
+  "tmdb_popularity": 7.208,
+  "original_language": "en",
+  "poster_path": "/4zMy6R7acotCmGoDk4sjzRtDwKn.jpg",
+  "backdrop_path": "/2T6zTAacQMCQo3T4AsuZmB1htlM.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 97,
+      "name": "Castle Rock Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 10513,
+      "name": "Lobell/Bergman Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3416,
+      "name": "Demi Moore",
+      "character": "Erin Grant",
+      "order": 0,
+      "cast_id": 9,
+      "popularity": 10.0524,
+      "profile_path": "/wApParZYBDi4yxekjfxjKEifJYh.jpg"
+    },
+    {
+      "personId": 16475,
+      "name": "Burt Reynolds",
+      "character": "David Dilbeck",
+      "order": 1,
+      "cast_id": 10,
+      "popularity": 3.507,
+      "profile_path": "/iBtcPHUOhA3xH3LMPLRJrQRKI3W.jpg"
+    },
+    {
+      "personId": 23346,
+      "name": "Armand Assante",
+      "character": "Lt. Al Garcia",
+      "order": 2,
+      "cast_id": 11,
+      "popularity": 1.9588,
+      "profile_path": "/9HbbWAJacTHguO2InDVHKGnaasm.jpg"
+    },
+    {
+      "personId": 10182,
+      "name": "Ving Rhames",
+      "character": "Shad",
+      "order": 3,
+      "cast_id": 12,
+      "popularity": 4.5568,
+      "profile_path": "/rqPdVVIdt45wNDsXuREu2M6PApU.jpg"
+    },
+    {
+      "personId": 418,
+      "name": "Robert Patrick",
+      "character": "Darrell Grant",
+      "order": 4,
+      "cast_id": 13,
+      "popularity": 5.716,
+      "profile_path": "/qRv2Es9rZoloullTbzss3I5j1Mp.jpg"
+    },
+    {
+      "personId": 925,
+      "name": "Paul Guilfoyle",
+      "character": "Malcolm Moldovsky",
+      "order": 5,
+      "cast_id": 14,
+      "popularity": 1.968,
+      "profile_path": "/c7unxeM13lF9pMhZhYwlNsSFjFe.jpg"
+    },
+    {
+      "personId": 20848,
+      "name": "Rumer Willis",
+      "character": "Angela Grant",
+      "order": 6,
+      "cast_id": 15,
+      "popularity": 1.9451,
+      "profile_path": "/gWleoY30Cj3fFuF5NT12O6mnov7.jpg"
+    },
+    {
+      "personId": 60796,
+      "name": "Jerry Grayson",
+      "character": "Orly",
+      "order": 7,
+      "cast_id": 16,
+      "popularity": 1.129,
+      "profile_path": "/5hXGb48uOrgw5I4pxQthiBnurct.jpg"
+    },
+    {
+      "personId": 53963,
+      "name": "Robert Stanton",
+      "character": "Erb Crandal",
+      "order": 8,
+      "cast_id": 17,
+      "popularity": 1.3651,
+      "profile_path": "/9MGtabbO2H3kVeehCzRlhQjFe4T.jpg"
+    },
+    {
+      "personId": 52043,
+      "name": "Stuart Pankin",
+      "character": "Alan Mordecai",
+      "order": 9,
+      "cast_id": 18,
+      "popularity": 2.2103,
+      "profile_path": "/9Zjv5YDfjrBKwCCEslb4Rkrx87V.jpg"
+    },
+    {
+      "personId": 44757,
+      "name": "Pandora Peaks",
+      "character": "Urbanna Sprawl",
+      "order": 10,
+      "cast_id": 19,
+      "popularity": 7.556,
+      "profile_path": "/tJlrApMciqYZV85XEs3hy8uh7Q5.jpg"
+    },
+    {
+      "personId": 44033,
+      "name": "Barbara Alyn Woods",
+      "character": "Lorelei",
+      "order": 11,
+      "cast_id": 20,
+      "popularity": 1.2697,
+      "profile_path": "/9mEaXMGP03gsCkqW3svWxTk2lXi.jpg"
+    },
+    {
+      "personId": 106714,
+      "name": "Kimberly Flynn",
+      "character": "Ariel Sharon",
+      "order": 12,
+      "cast_id": 21,
+      "popularity": 0.4128,
+      "profile_path": "/keMGmT6xr0UypDMCxnVgNK5a5YQ.jpg"
+    },
+    {
+      "personId": 6751,
+      "name": "Siobhan Fallon Hogan",
+      "character": "Rita Grant",
+      "order": 13,
+      "cast_id": 23,
+      "popularity": 1.64,
+      "profile_path": "/5OExagnRsUcOYLMPTSrv4x2G95R.jpg"
+    },
+    {
+      "personId": 3713,
+      "name": "Frances Fisher",
+      "character": "Donna Garcia",
+      "order": 14,
+      "cast_id": 24,
+      "popularity": 4.8509,
+      "profile_path": "/3iNDgd54IIj8g8hGqhhUjM6TeWd.jpg"
+    },
+    {
+      "personId": 66877,
+      "name": "Rena Riffel",
+      "character": "Tiffany",
+      "order": 15,
+      "cast_id": 25,
+      "popularity": 1.3497,
+      "profile_path": "/qqqKiHKztOWulPnqvbapDRvtMEE.jpg"
+    },
+    {
+      "personId": 56567,
+      "name": "Dina Spybey-Waters",
+      "character": "Monique, Jr.",
+      "order": 16,
+      "cast_id": 26,
+      "popularity": 0.907,
+      "profile_path": "/aBW0vvA5nms1X3LQJYGWAGsxc2s.jpg"
+    },
+    {
+      "personId": 9211,
+      "name": "Eduardo Yáñez",
+      "character": "Chico",
+      "order": 17,
+      "cast_id": 27,
+      "popularity": 1.435,
+      "profile_path": null
+    },
+    {
+      "personId": 96228,
+      "name": "Gary Basaraba",
+      "character": "Alberto",
+      "order": 18,
+      "cast_id": 61,
+      "popularity": 1.0971,
+      "profile_path": "/dH6zocqD5heDerhCANUtfy00gHm.jpg"
+    },
+    {
+      "personId": 3095,
+      "name": "Gianni Russo",
+      "character": "Willy Rojo",
+      "order": 19,
+      "cast_id": 62,
+      "popularity": 1.0551,
+      "profile_path": "/jfeGnQfXMzKXsuSPm9oTxm6FOuz.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 41550,
+      "name": "Andrew Bergman",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6299,
+      "profile_path": "/ngMENuNy0YVAmKaSVWbjZCjPe93.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1691,
+      "name": "dance"
+    },
+    {
+      "id": 6149,
+      "name": "police"
+    },
+    {
+      "id": 1936,
+      "name": "blackmail"
+    },
+    {
+      "id": 4378,
+      "name": "striptease"
+    },
+    {
+      "id": 8201,
+      "name": "satire"
+    },
+    {
+      "id": 3688,
+      "name": "strip club"
+    },
+    {
+      "id": 11038,
+      "name": "trial"
+    },
+    {
+      "id": 18035,
+      "name": "family"
+    },
+    {
+      "id": 33483,
+      "name": "u.s. congress"
+    },
+    {
+      "id": 155477,
+      "name": "softcore"
+    },
+    {
+      "id": 156024,
+      "name": "corrupt politician"
+    },
+    {
+      "id": 181655,
+      "name": "congressman"
+    },
+    {
+      "id": 240315,
+      "name": "mother daughter relationship"
+    },
+    {
+      "id": 277050,
+      "name": "bar"
+    },
+    {
+      "id": 314019,
+      "name": "dancing girls"
+    }
+  ]
+}

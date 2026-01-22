@@ -1,0 +1,278 @@
+{
+  "overview": "Frank Drebin is persuaded out of retirement to go undercover in a state prison. There he has to find out what top terrorist, Rocco, has planned for when he escapes. Adding to his problems, Frank's wife, Jane, is desperate for a baby.",
+  "release_date": "1994-03-18",
+  "runtime": 83,
+  "budget": 30000000,
+  "revenue": 132032598,
+  "tmdb_vote_average": 6.482,
+  "tmdb_vote_count": 2398,
+  "tmdb_popularity": 7.9866,
+  "original_language": "en",
+  "poster_path": "/p0AYsdgkudR9P5fNV5AjzbwQt8W.jpg",
+  "backdrop_path": "/rZBc0S32bVNYOGJ5sKYsHhOwIT5.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 7633,
+      "name": "Leslie Nielsen",
+      "character": "Lt. Frank Drebin",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 5.435,
+      "profile_path": "/u5vWl5dw69Nf89f905Qb5JqEVL3.jpg"
+    },
+    {
+      "personId": 12949,
+      "name": "Priscilla Presley",
+      "character": "Jane Spencer",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 2.6652,
+      "profile_path": "/1dkbB73Zf51rmFgmtP4cK3oL54y.jpg"
+    },
+    {
+      "personId": 12950,
+      "name": "George Kennedy",
+      "character": "Ed Hocken",
+      "order": 2,
+      "cast_id": 10,
+      "popularity": 2.0205,
+      "profile_path": "/fIVmcPEcPmh0Rbx4mYf9aneCmDe.jpg"
+    },
+    {
+      "personId": 12951,
+      "name": "O. J. Simpson",
+      "character": "Nordberg",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 0.8758,
+      "profile_path": "/3q6XMf1L5zCApoUsiAMoFS9ADXY.jpg"
+    },
+    {
+      "personId": 10430,
+      "name": "Fred Ward",
+      "character": "Rocco",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 3.3104,
+      "profile_path": "/t3tZduAwP1LMR8Vc13HZ39wKJ1q.jpg"
+    },
+    {
+      "personId": 7210,
+      "name": "Kathleen Freeman",
+      "character": "Muriel",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 1.8358,
+      "profile_path": "/pAlKHL8sshImJPCN45iQ5PGuURZ.jpg"
+    },
+    {
+      "personId": 115654,
+      "name": "Anna Nicole Smith",
+      "character": "Tanya",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 2.5184,
+      "profile_path": "/f6NmuNGNhKx0QjZfldcpmp0mDtv.jpg"
+    },
+    {
+      "personId": 13420,
+      "name": "Ellen Greene",
+      "character": "Louise",
+      "order": 7,
+      "cast_id": 23,
+      "popularity": 1.6253,
+      "profile_path": "/5OxY1mPqGPELD6UJ2BaP2GO25aP.jpg"
+    },
+    {
+      "personId": 122592,
+      "name": "Ed Williams",
+      "character": "Ted",
+      "order": 8,
+      "cast_id": 165,
+      "popularity": 1.8032,
+      "profile_path": "/5HZgMFC5g5u9Hg3FnKiLqN3O9Sv.jpg"
+    },
+    {
+      "personId": 13422,
+      "name": "Raye Birk",
+      "character": "Papshmir",
+      "order": 9,
+      "cast_id": 24,
+      "popularity": 1.0507,
+      "profile_path": "/tirG60WMTFflgfBDn8DNSBTJfqD.jpg"
+    },
+    {
+      "personId": 13423,
+      "name": "Matt Roe",
+      "character": "Clayton",
+      "order": 10,
+      "cast_id": 170,
+      "popularity": 1.6197,
+      "profile_path": null
+    },
+    {
+      "personId": 1319670,
+      "name": "Wylie Small",
+      "character": "Defense Attorney",
+      "order": 11,
+      "cast_id": 25,
+      "popularity": 1.5442,
+      "profile_path": "/rDZLnYA3qJXzDINQFsBoINdDbt9.jpg"
+    },
+    {
+      "personId": 1829397,
+      "name": "Sharon Cornell",
+      "character": "Stenographer",
+      "order": 12,
+      "cast_id": 171,
+      "popularity": 0.1747,
+      "profile_path": null
+    },
+    {
+      "personId": 2716,
+      "name": "Earl Boen",
+      "character": "Dr. Eisendrath",
+      "order": 13,
+      "cast_id": 158,
+      "popularity": 1.9198,
+      "profile_path": "/nRAlyqkAA84gCTDwjFR77avdfHK.jpg"
+    },
+    {
+      "personId": 932024,
+      "name": "Jeff Wright",
+      "character": "Store Manager",
+      "order": 14,
+      "cast_id": 172,
+      "popularity": 0.3653,
+      "profile_path": "/pIUsvg4ktNH3ib1IqELz5qtUmLe.jpg"
+    },
+    {
+      "personId": 3126366,
+      "name": "Lorali Hart",
+      "character": "Melon Lady",
+      "order": 15,
+      "cast_id": 156,
+      "popularity": 0.8229,
+      "profile_path": "/pOyVzJD7NCcDXywpfA6GRHrZNCL.jpg"
+    },
+    {
+      "personId": 2792835,
+      "name": "Mallory Sandler",
+      "character": "Grocery Mother",
+      "order": 16,
+      "cast_id": 173,
+      "popularity": 0.9601,
+      "profile_path": "/1hAFb9aBzfv8qkEwy5TLbUNuhUi.jpg"
+    },
+    {
+      "personId": 4249767,
+      "name": "K.L. Segal",
+      "character": "Purse Woman",
+      "order": 17,
+      "cast_id": 174,
+      "popularity": 0.0648,
+      "profile_path": null
+    },
+    {
+      "personId": 1074689,
+      "name": "Brad Lockerman",
+      "character": "Jason",
+      "order": 18,
+      "cast_id": 175,
+      "popularity": 0.2817,
+      "profile_path": "/gJE2CCx80gsRurtApjJDAxDykBn.jpg"
+    },
+    {
+      "personId": 102718,
+      "name": "Rosalind Allen",
+      "character": "Bobbi",
+      "order": 19,
+      "cast_id": 176,
+      "popularity": 0.8892,
+      "profile_path": "/e3P9SEJl1hsI1EGurdS0InKdagy.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 13426,
+      "name": "Peter Segal",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.8193,
+      "profile_path": "/x0nAuktiPai0OovveeegPAi0dRF.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6149,
+      "name": "police"
+    },
+    {
+      "id": 1568,
+      "name": "undercover"
+    },
+    {
+      "id": 9755,
+      "name": "parody"
+    },
+    {
+      "id": 11316,
+      "name": "sexual humor"
+    },
+    {
+      "id": 9253,
+      "name": "slapstick comedy"
+    },
+    {
+      "id": 11931,
+      "name": "spoof"
+    },
+    {
+      "id": 12670,
+      "name": "los angeles, california"
+    },
+    {
+      "id": 13015,
+      "name": "terrorism"
+    },
+    {
+      "id": 208208,
+      "name": "state prison"
+    },
+    {
+      "id": 269233,
+      "name": "good versus evil"
+    },
+    {
+      "id": 269769,
+      "name": "based on tv series"
+    },
+    {
+      "id": 320420,
+      "name": "hilarious"
+    }
+  ]
+}

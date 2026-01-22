@@ -1,0 +1,266 @@
+{
+  "overview": "An aspiring young physician, Robert Merivel found himself in the service of King Charles II and saves the life of someone close to the King. Merivel joins the King's court and lives the high life provided to someone of his position. Merivel is ordered to marry his King's mistress in order to divert the queens suspicions. He is given one order by the king and that is not to fall in love. The situation worsens when Merivel finds himself in love with his new wife. Eventually, the King finds out and relieves Merivel of his position and wealth. His fall from grace leaves Merivel where he first started. And through his travels and reunions with an old friend, he rediscovers his love for true medicine and what it really means to be a physician.",
+  "release_date": "1995-12-29",
+  "runtime": 117,
+  "budget": 19000000,
+  "revenue": 4005941,
+  "tmdb_vote_average": 6.051,
+  "tmdb_vote_count": 128,
+  "tmdb_popularity": 1.0589,
+  "original_language": "en",
+  "poster_path": "/z1YM3WFZnF2NwHT5IRGYUcvZBSl.jpg",
+  "backdrop_path": "/nrd3UFXhaqV6odGd9cOVJfdqqGT.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 14,
+      "name": "Miramax",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3223,
+      "name": "Robert Downey Jr.",
+      "character": "Robert Merivel",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 10.4404,
+      "profile_path": "/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+    },
+    {
+      "personId": 5344,
+      "name": "Meg Ryan",
+      "character": "Katharine",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 4.1222,
+      "profile_path": "/iP1I2fpIIQtB3A8KJiWMbZcwFLr.jpg"
+    },
+    {
+      "personId": 4783,
+      "name": "Sam Neill",
+      "character": "King Charles II",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 4.8638,
+      "profile_path": "/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
+    },
+    {
+      "personId": 11207,
+      "name": "David Thewlis",
+      "character": "John Pearce",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 8.0343,
+      "profile_path": "/sNuYyT8ocLlQr3TdAW9CoKVbCU8.jpg"
+    },
+    {
+      "personId": 3291,
+      "name": "Hugh Grant",
+      "character": "Elias Finn",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 4.6383,
+      "profile_path": "/dvV843fOuzsEPXHtFvdzsHpy1rC.jpg"
+    },
+    {
+      "personId": 6416,
+      "name": "Polly Walker",
+      "character": "Celia Clemence",
+      "order": 5,
+      "cast_id": 11,
+      "popularity": 4.9019,
+      "profile_path": "/eE8dtdlAwnMeramd1pA6eOQzhky.jpg"
+    },
+    {
+      "personId": 1327,
+      "name": "Ian McKellen",
+      "character": "Will Gates",
+      "order": 6,
+      "cast_id": 12,
+      "popularity": 5.9185,
+      "profile_path": "/coWjgMEYJjk2OrNddlXCBm8EIr3.jpg"
+    },
+    {
+      "personId": 27762,
+      "name": "Ian McDiarmid",
+      "character": "Ambrose",
+      "order": 7,
+      "cast_id": 13,
+      "popularity": 1.6212,
+      "profile_path": "/cqEAblt0KJRIGyMXhj5OM5WJ9SN.jpg"
+    },
+    {
+      "personId": 97170,
+      "name": "Mary MacLeod",
+      "character": "Midwife",
+      "order": 8,
+      "cast_id": 14,
+      "popularity": 2.0324,
+      "profile_path": null
+    },
+    {
+      "personId": 1229022,
+      "name": "Willie Ross",
+      "character": "Man with Visible Heart",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 0.9127,
+      "profile_path": "/3sNdZoF1rjKPKuzzT8l7Ia4qnsp.jpg"
+    },
+    {
+      "personId": 84927,
+      "name": "Benjamin Whitrow",
+      "character": "Merivel's Father",
+      "order": 10,
+      "cast_id": 17,
+      "popularity": 1.3279,
+      "profile_path": "/etHniAfcrMBSlLW7s8xWxcCFtuY.jpg"
+    },
+    {
+      "personId": 20243,
+      "name": "Roger Ashton-Griffiths",
+      "character": "Mr. Bung",
+      "order": 11,
+      "cast_id": 18,
+      "popularity": 1.0401,
+      "profile_path": "/dl5Otj3C7tQVrPJvTWh9Iei1Ofy.jpg"
+    },
+    {
+      "personId": 176191,
+      "name": "Andrew Havill",
+      "character": "Gallant",
+      "order": 12,
+      "cast_id": 19,
+      "popularity": 1.4346,
+      "profile_path": "/135ru0B7vX7PXGQ7IjbDnBshk1C.jpg"
+    },
+    {
+      "personId": 195331,
+      "name": "Tony Gardner",
+      "character": "Gallant",
+      "order": 13,
+      "cast_id": 20,
+      "popularity": 0.7205,
+      "profile_path": "/vHrm0WK12fcrDzav8u7CxIMGyj2.jpg"
+    },
+    {
+      "personId": 27822,
+      "name": "David Ryall",
+      "character": "Lord Bathurst",
+      "order": 14,
+      "cast_id": 21,
+      "popularity": 2.2975,
+      "profile_path": "/plcamLqqwUVggpddwnG3ji3sYpY.jpg"
+    },
+    {
+      "personId": 94677,
+      "name": "Mark Letheren",
+      "character": "Daniel",
+      "order": 15,
+      "cast_id": 39,
+      "popularity": 0.7095,
+      "profile_path": "/bw34wGpH9GMe2zA0XQSzWX1sL0s.jpg"
+    },
+    {
+      "personId": 195383,
+      "name": "Sandy McDade",
+      "character": "Hannah",
+      "order": 16,
+      "cast_id": 40,
+      "popularity": 0.5791,
+      "profile_path": "/fSWLKwfwnWxM4hXaF5Hvxztei3s.jpg"
+    },
+    {
+      "personId": 156355,
+      "name": "Rosalind Bennett",
+      "character": "Eleanor",
+      "order": 17,
+      "cast_id": 41,
+      "popularity": 0.4996,
+      "profile_path": null
+    },
+    {
+      "personId": 21431,
+      "name": "David Gant",
+      "character": "Chaffinch",
+      "order": 18,
+      "cast_id": 42,
+      "popularity": 0.9685,
+      "profile_path": "/s5XZhuzETEbEIv4YanpR2Ng2URq.jpg"
+    },
+    {
+      "personId": 2732138,
+      "name": "Neville Watchurst",
+      "character": "Latin Doctor",
+      "order": 19,
+      "cast_id": 43,
+      "popularity": 1.189,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 52405,
+      "name": "Michael Hoffman",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7946,
+      "profile_path": "/vi8H1gOWrpT1EtqPOnJ8QeEsSLU.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 931,
+      "name": "jealousy"
+    },
+    {
+      "id": 6148,
+      "name": "court"
+    },
+    {
+      "id": 2098,
+      "name": "fountain"
+    },
+    {
+      "id": 1279,
+      "name": "medicine"
+    },
+    {
+      "id": 10329,
+      "name": "wealth"
+    },
+    {
+      "id": 44448,
+      "name": "spaniel"
+    },
+    {
+      "id": 44449,
+      "name": "gloves"
+    },
+    {
+      "id": 207941,
+      "name": "17th century"
+    },
+    {
+      "id": 220649,
+      "name": "british monarchy"
+    }
+  ]
+}

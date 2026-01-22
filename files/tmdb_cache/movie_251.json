@@ -1,0 +1,314 @@
+{
+  "overview": "After a young man is murdered, his spirit stays behind to warn his lover of impending danger, with the help of a reluctant psychic.",
+  "release_date": "1990-07-13",
+  "runtime": 127,
+  "budget": 22000000,
+  "revenue": 505000000,
+  "tmdb_vote_average": 7.227,
+  "tmdb_vote_count": 5856,
+  "tmdb_popularity": 9.296,
+  "original_language": "en",
+  "poster_path": "/w9RaPHov8oM5cnzeE27isnFMsvS.jpg",
+  "backdrop_path": "/6nLdSON3ErniBZTXWG7WRqs5jGz.jpg",
+  "tmdb_genres_raw": [
+    "Fantasy",
+    "Drama",
+    "Thriller",
+    "Mystery",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 72275,
+      "name": "Howard W. Koch Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 723,
+      "name": "Patrick Swayze",
+      "character": "Sam Wheat",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 2.9005,
+      "profile_path": "/ys8dRhQRsS0nLPTXXEHyuFhXCYO.jpg"
+    },
+    {
+      "personId": 3416,
+      "name": "Demi Moore",
+      "character": "Molly Jensen",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 10.0524,
+      "profile_path": "/wApParZYBDi4yxekjfxjKEifJYh.jpg"
+    },
+    {
+      "personId": 2395,
+      "name": "Whoopi Goldberg",
+      "character": "Oda Mae Brown",
+      "order": 2,
+      "cast_id": 26,
+      "popularity": 4.2878,
+      "profile_path": "/wZKI7qcEIVgiHxeFtk3NuKt8URQ.jpg"
+    },
+    {
+      "personId": 3417,
+      "name": "Tony Goldwyn",
+      "character": "Carl Bruner",
+      "order": 3,
+      "cast_id": 25,
+      "popularity": 4.7722,
+      "profile_path": "/ptm8SG4MYIMn0hnDl2YJ70Dwal5.jpg"
+    },
+    {
+      "personId": 3418,
+      "name": "Vincent Schiavelli",
+      "character": "Subway Ghost",
+      "order": 4,
+      "cast_id": 4,
+      "popularity": 2.4604,
+      "profile_path": "/8wq2WF9ohUUZZjfVxEEiUGxLHzp.jpg"
+    },
+    {
+      "personId": 3432,
+      "name": "Rick Aviles",
+      "character": "Willie Lopez",
+      "order": 5,
+      "cast_id": 22,
+      "popularity": 1.8825,
+      "profile_path": "/5gSlvykK09Y2t5gmIGn7440Na9A.jpg"
+    },
+    {
+      "personId": 943665,
+      "name": "Martina Deignan",
+      "character": "Rose",
+      "order": 6,
+      "cast_id": 94,
+      "popularity": 0.5442,
+      "profile_path": "/bba2HFE7BEMjPJlj8Tbm8hXGmn6.jpg"
+    },
+    {
+      "personId": 2507349,
+      "name": "Rick Kleber",
+      "character": "Mover",
+      "order": 7,
+      "cast_id": 111,
+      "popularity": 0.4278,
+      "profile_path": "/amqvl38i7c8ZXlY5OmEhpb9vNKM.jpg"
+    },
+    {
+      "personId": 3433,
+      "name": "Phil Leeds",
+      "character": "Emergency Room Ghost",
+      "order": 8,
+      "cast_id": 23,
+      "popularity": 3.1656,
+      "profile_path": "/hcPPhwWl12wKYWHCwrKVURWugjn.jpg"
+    },
+    {
+      "personId": 3420,
+      "name": "Armelia McQueen",
+      "character": "Oda Mae's Sister",
+      "order": 9,
+      "cast_id": 6,
+      "popularity": 1.0091,
+      "profile_path": "/Yu8n7teVyVZ72Q9KlgJUrpptOP.jpg"
+    },
+    {
+      "personId": 3422,
+      "name": "Gail Boggs",
+      "character": "Oda Mae's Sister",
+      "order": 10,
+      "cast_id": 7,
+      "popularity": 0.7977,
+      "profile_path": "/ic3pkpmYKi1aZo4CjiQ72zx2Rmp.jpg"
+    },
+    {
+      "personId": 17401,
+      "name": "Stephen Root",
+      "character": "Police Sgt.",
+      "order": 11,
+      "cast_id": 8,
+      "popularity": 4.4856,
+      "profile_path": "/2Zwi6AydqQQ9InVdhjYcfJXNzkp.jpg"
+    },
+    {
+      "personId": 3434,
+      "name": "Alma Beltran",
+      "character": "Woman Ghost",
+      "order": 12,
+      "cast_id": 24,
+      "popularity": 1.5881,
+      "profile_path": null
+    },
+    {
+      "personId": 3419,
+      "name": "Vivian Bonnell",
+      "character": "Ortisha",
+      "order": 13,
+      "cast_id": 5,
+      "popularity": 2.0313,
+      "profile_path": "/a68C9LFVzgsOi9XAbHQ5waAjFm2.jpg"
+    },
+    {
+      "personId": 1737569,
+      "name": "Derek Thompson",
+      "character": "Ortisha's Friend",
+      "order": 14,
+      "cast_id": 95,
+      "popularity": 1.5703,
+      "profile_path": "/e2vSkEUetgjYrGGqZZ5UOWFKiLI.jpg"
+    },
+    {
+      "personId": 154713,
+      "name": "Tom Finnegan",
+      "character": "Bank Guard",
+      "order": 15,
+      "cast_id": 120,
+      "popularity": 1.4619,
+      "profile_path": "/uYbXwLibA17bmDq9aepXycBDNMW.jpg"
+    },
+    {
+      "personId": 53005,
+      "name": "Bruce Jarchow",
+      "character": "Lyle Furgeson",
+      "order": 16,
+      "cast_id": 121,
+      "popularity": 1.1267,
+      "profile_path": "/3RwlMOHVfgje8I8U0dKprNj3wUe.jpg"
+    },
+    {
+      "personId": 109670,
+      "name": "Said Faraj",
+      "character": "Cab Driver",
+      "order": 17,
+      "cast_id": 127,
+      "popularity": 1.7872,
+      "profile_path": "/svC8PC5NRXeBcKogGiKXsUCvrd8.jpg"
+    },
+    {
+      "personId": 1920842,
+      "name": "Dorothy Love Coates",
+      "character": "Performer",
+      "order": 18,
+      "cast_id": 92,
+      "popularity": 0.7405,
+      "profile_path": "/n0Dg0Gl7RRApv2ShmtAVoJEgrQz.jpg"
+    },
+    {
+      "personId": 1802974,
+      "name": "Christopher J. Keene",
+      "character": "Elevator Man",
+      "order": 19,
+      "cast_id": 110,
+      "popularity": 0.56,
+      "profile_path": "/xCCGdrfFOO7zP4bycq0wqh2aY5d.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 3415,
+      "name": "Jerry Zucker",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8507,
+      "profile_path": "/iSzdnge16GBKLkBoTM4mqUIWIxi.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 663,
+      "name": "fortune teller"
+    },
+    {
+      "id": 417,
+      "name": "corruption"
+    },
+    {
+      "id": 815,
+      "name": "soulmates"
+    },
+    {
+      "id": 6155,
+      "name": "afterlife"
+    },
+    {
+      "id": 881,
+      "name": "money transfer"
+    },
+    {
+      "id": 975,
+      "name": "money laundering"
+    },
+    {
+      "id": 1553,
+      "name": "pottery"
+    },
+    {
+      "id": 6154,
+      "name": "hell"
+    },
+    {
+      "id": 4116,
+      "name": "heaven"
+    },
+    {
+      "id": 9673,
+      "name": "love"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 34079,
+      "name": "death"
+    },
+    {
+      "id": 162846,
+      "name": "ghost"
+    },
+    {
+      "id": 163070,
+      "name": "burlesque"
+    },
+    {
+      "id": 196017,
+      "name": "power of love"
+    },
+    {
+      "id": 210530,
+      "name": "spiritism"
+    },
+    {
+      "id": 325795,
+      "name": "dignified"
+    },
+    {
+      "id": 325832,
+      "name": "joyful"
+    },
+    {
+      "id": 346897,
+      "name": "everlasting love"
+    }
+  ]
+}

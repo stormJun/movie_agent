@@ -1,0 +1,362 @@
+{
+  "overview": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
+  "release_date": "1991-07-03",
+  "runtime": 137,
+  "budget": 102000000,
+  "revenue": 517778573,
+  "tmdb_vote_average": 8.137,
+  "tmdb_vote_count": 13834,
+  "tmdb_popularity": 15.6384,
+  "original_language": "en",
+  "poster_path": "/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+  "backdrop_path": "/ztBeLd2UCbUATJ1cXwwHev3G3xX.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Thriller",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    {
+      "id": 275,
+      "name": "Carolco Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1280,
+      "name": "Pacific Western",
+      "origin_country": "US"
+    },
+    {
+      "id": 574,
+      "name": "Lightstorm Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 183,
+      "name": "Le Studio Canal+",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1100,
+      "name": "Arnold Schwarzenegger",
+      "character": "The Terminator",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 5.147,
+      "profile_path": "/2marNcjIfCUE5Z2HyrcEiJHPbsA.jpg"
+    },
+    {
+      "personId": 2713,
+      "name": "Linda Hamilton",
+      "character": "Sarah Connor",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 28.9664,
+      "profile_path": "/7FNn9Z5xkRS9EFbGL2tpmpph9xV.jpg"
+    },
+    {
+      "personId": 820,
+      "name": "Edward Furlong",
+      "character": "John Connor",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 3.1005,
+      "profile_path": "/gzMDzH0UDXE4vS0xPhD1M8oTymo.jpg"
+    },
+    {
+      "personId": 418,
+      "name": "Robert Patrick",
+      "character": "T-1000",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 5.1401,
+      "profile_path": "/qRv2Es9rZoloullTbzss3I5j1Mp.jpg"
+    },
+    {
+      "personId": 2716,
+      "name": "Earl Boen",
+      "character": "Dr. Silberman",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 1.4559,
+      "profile_path": "/nRAlyqkAA84gCTDwjFR77avdfHK.jpg"
+    },
+    {
+      "personId": 3977,
+      "name": "Joe Morton",
+      "character": "Miles Dyson",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 2.5903,
+      "profile_path": "/w7rGWWSGKWWukojLbZOQJ5yh9jv.jpg"
+    },
+    {
+      "personId": 3978,
+      "name": "S. Epatha Merkerson",
+      "character": "Tarissa Dyson",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 1.6174,
+      "profile_path": "/pXCmHxrWzlv1kPZSxJXFM45QgOP.jpg"
+    },
+    {
+      "personId": 3979,
+      "name": "Castulo Guerra",
+      "character": "Enrique Salceda",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 1.4513,
+      "profile_path": "/nYZihE7w1baKehLmDQb0eKEqYqF.jpg"
+    },
+    {
+      "personId": 3980,
+      "name": "Danny Cooksey",
+      "character": "Tim",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 1.2135,
+      "profile_path": "/1diDYWnss7hsYzRru9nfPCyg6Yb.jpg"
+    },
+    {
+      "personId": 3981,
+      "name": "Jenette Goldstein",
+      "character": "Janelle Voight",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 1.4819,
+      "profile_path": "/4YZVLLWEFtxPLaOAlndfzxH1WG1.jpg"
+    },
+    {
+      "personId": 3982,
+      "name": "Xander Berkeley",
+      "character": "Todd Voight",
+      "order": 10,
+      "cast_id": 13,
+      "popularity": 2.9222,
+      "profile_path": "/oBoKGfngGGZmSVGFslphYjc23WO.jpg"
+    },
+    {
+      "personId": 2573580,
+      "name": "Leslie Hamilton Gearren",
+      "character": "Twin Sarah",
+      "order": 11,
+      "cast_id": 243,
+      "popularity": 0.5091,
+      "profile_path": "/zByeB0zD9Hi2FHCwPPg9x3qu5t2.jpg"
+    },
+    {
+      "personId": 101660,
+      "name": "Ken Gibbel",
+      "character": "Douglas",
+      "order": 12,
+      "cast_id": 47,
+      "popularity": 1.4452,
+      "profile_path": null
+    },
+    {
+      "personId": 87404,
+      "name": "Robert Winley",
+      "character": "Cigar Biker",
+      "order": 13,
+      "cast_id": 48,
+      "popularity": 0.7147,
+      "profile_path": null
+    },
+    {
+      "personId": 157633,
+      "name": "Pete Schrum",
+      "character": "Lloyd",
+      "order": 14,
+      "cast_id": 49,
+      "popularity": 0.9054,
+      "profile_path": "/6m8NSMAuS0UoNpeW1beA73IBc4w.jpg"
+    },
+    {
+      "personId": 2573581,
+      "name": "Shane Wilder",
+      "character": "Trucker",
+      "order": 15,
+      "cast_id": 244,
+      "popularity": 0.082,
+      "profile_path": null
+    },
+    {
+      "personId": 75027,
+      "name": "Michael Edwards",
+      "character": "Old John Connor",
+      "order": 16,
+      "cast_id": 46,
+      "popularity": 0.9898,
+      "profile_path": "/B8HtKwNGk8bdHGFQAhV5vtef3q.jpg"
+    },
+    {
+      "personId": 2573583,
+      "name": "Jared Lounsbery",
+      "character": "Kid",
+      "order": 17,
+      "cast_id": 245,
+      "popularity": 0.0705,
+      "profile_path": null
+    },
+    {
+      "personId": 2573584,
+      "name": "Casey Chavez",
+      "character": "Kid",
+      "order": 18,
+      "cast_id": 246,
+      "popularity": 0.0544,
+      "profile_path": null
+    },
+    {
+      "personId": 2573586,
+      "name": "Ennalls Berl",
+      "character": "Bryant",
+      "order": 19,
+      "cast_id": 247,
+      "popularity": 0.1588,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2710,
+      "name": "James Cameron",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 6.869,
+      "profile_path": "/9NAZnTjBQ9WcXAQEzZpKy4vdQto.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 312,
+      "name": "man vs machine"
+    },
+    {
+      "id": 679,
+      "name": "cyborg"
+    },
+    {
+      "id": 1366,
+      "name": "shotgun"
+    },
+    {
+      "id": 4565,
+      "name": "dystopia"
+    },
+    {
+      "id": 11426,
+      "name": "moral ambiguity"
+    },
+    {
+      "id": 4458,
+      "name": "post-apocalyptic future"
+    },
+    {
+      "id": 3289,
+      "name": "villain"
+    },
+    {
+      "id": 4379,
+      "name": "time travel"
+    },
+    {
+      "id": 11857,
+      "name": "mental institution"
+    },
+    {
+      "id": 14857,
+      "name": "juvenile delinquent"
+    },
+    {
+      "id": 14946,
+      "name": "fictional war"
+    },
+    {
+      "id": 33556,
+      "name": "urban setting"
+    },
+    {
+      "id": 156316,
+      "name": "troubled teen"
+    },
+    {
+      "id": 160131,
+      "name": "morphing"
+    },
+    {
+      "id": 160381,
+      "name": "nuclear weapons"
+    },
+    {
+      "id": 162532,
+      "name": "shape shifter"
+    },
+    {
+      "id": 175468,
+      "name": "savior"
+    },
+    {
+      "id": 175472,
+      "name": "catch phrase"
+    },
+    {
+      "id": 202371,
+      "name": "aggressive"
+    },
+    {
+      "id": 219404,
+      "name": "action hero"
+    },
+    {
+      "id": 239797,
+      "name": "complex"
+    },
+    {
+      "id": 269233,
+      "name": "good versus evil"
+    },
+    {
+      "id": 322255,
+      "name": "sinister"
+    },
+    {
+      "id": 323809,
+      "name": "depressing"
+    },
+    {
+      "id": 325785,
+      "name": "commanding"
+    },
+    {
+      "id": 325786,
+      "name": "compassionate"
+    },
+    {
+      "id": 325812,
+      "name": "exhilarated"
+    }
+  ]
+}

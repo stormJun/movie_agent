@@ -1,0 +1,168 @@
+{
+  "overview": "A French football playing exchange student falls in love.",
+  "release_date": "1994-04-20",
+  "runtime": 90,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 3.8,
+  "tmdb_vote_count": 5,
+  "tmdb_popularity": 0.2551,
+  "original_language": "en",
+  "poster_path": "/4LexKl8qiKEneVN7uSVN3zDvVDZ.jpg",
+  "backdrop_path": "/zRh86Cf8kW9zp7fbHBdAFeWGGVL.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 8694,
+      "name": "Silvio Berlusconi Communications",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "IT",
+      "name": "Italy"
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 59153,
+      "name": "Robin Givens",
+      "character": "April",
+      "order": 0,
+      "cast_id": 1010,
+      "popularity": 4.4909,
+      "profile_path": "/nDDfpWNsIciwWWQ3R32QbPnfdjO.jpg"
+    },
+    {
+      "personId": 23797,
+      "name": "Marco Hofschneider",
+      "character": "Philippe Leclerc",
+      "order": 1,
+      "cast_id": 1011,
+      "popularity": 0.8034,
+      "profile_path": "/8lsRPmvqkM1Qy5gf6713EYvC7GO.jpg"
+    },
+    {
+      "personId": 82622,
+      "name": "Charlotte Ross",
+      "character": "Elizabeth 'Sue Ann' Baldridge",
+      "order": 2,
+      "cast_id": 1013,
+      "popularity": 0.961,
+      "profile_path": "/aVPRnnTPWRhuylqQcivFBhNvXSv.jpg"
+    },
+    {
+      "personId": 52995,
+      "name": "Edward Herrmann",
+      "character": "Zachary 'Zach' Gilmore",
+      "order": 3,
+      "cast_id": 1014,
+      "popularity": 2.1917,
+      "profile_path": "/ov33sPPuTzw21KYwAkkAB8AmjIV.jpg"
+    },
+    {
+      "personId": 113927,
+      "name": "Jack Coleman",
+      "character": "Rex Jennings",
+      "order": 4,
+      "cast_id": 1015,
+      "popularity": 0.9719,
+      "profile_path": "/qh76GEfTS4TR2BsJQAYYkEc3WTa.jpg"
+    },
+    {
+      "personId": 17764,
+      "name": "Charles S. Dutton",
+      "character": "Howlin' Wolf",
+      "order": 5,
+      "cast_id": 1016,
+      "popularity": 1.8618,
+      "profile_path": "/eNLs4JLILqSY50Tq5QMkrlBxD0H.jpg"
+    },
+    {
+      "personId": 15567,
+      "name": "Hinton Battle",
+      "character": "Sonny Boy Williamson",
+      "order": 6,
+      "cast_id": 1017,
+      "popularity": 0.2686,
+      "profile_path": "/zdAzNmXQUXhc9cDTjGBQ0HEJK2V.jpg"
+    },
+    {
+      "personId": 168797,
+      "name": "Ruth Williamson",
+      "character": "Mrs. Baldridge",
+      "order": 7,
+      "cast_id": 1018,
+      "popularity": 0.6161,
+      "profile_path": "/1Lv2du4rsqTrGuiXXwk6g0mFUIX.jpg"
+    },
+    {
+      "personId": 108774,
+      "name": "Michael Reilly Burke",
+      "character": "Harrison",
+      "order": 8,
+      "cast_id": 1019,
+      "popularity": 1.4924,
+      "profile_path": "/zcvCPaOXtcNbp3yYPA9nU5sNyJq.jpg"
+    },
+    {
+      "personId": 1672749,
+      "name": "Rick Johnson",
+      "character": "Cal Cate",
+      "order": 9,
+      "cast_id": 1020,
+      "popularity": 0.6318,
+      "profile_path": "/8y1B5tsZilpa4y6QB26e1EOouoL.jpg"
+    },
+    {
+      "personId": 1211290,
+      "name": "John Habberton",
+      "character": "William Faulkner",
+      "order": 10,
+      "cast_id": 1023,
+      "popularity": 0.3535,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1006705,
+      "name": "Eva Sereny",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8261,
+      "profile_path": null
+    }
+  ],
+  "keywords": []
+}

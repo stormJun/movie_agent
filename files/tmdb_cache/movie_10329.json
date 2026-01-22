@@ -1,0 +1,272 @@
+{
+  "overview": "Eight people embark on an expedition into the Congo, a mysterious expanse of unexplored Africa, where human greed and the laws of nature have gone berserk.",
+  "release_date": "1995-06-09",
+  "runtime": 109,
+  "budget": 50000000,
+  "revenue": 152022101,
+  "tmdb_vote_average": 5.58,
+  "tmdb_vote_count": 946,
+  "tmdb_popularity": 3.5589,
+  "original_language": "en",
+  "poster_path": "/hPNSToNIIpRO6y5Rh973leqQqNr.jpg",
+  "backdrop_path": "/dT8Fhrh3eVazbuSSIarFPXniQh4.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 862,
+      "name": "The Kennedy/Marshall Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 350,
+      "name": "Laura Linney",
+      "character": "Dr. Karen Ross",
+      "order": 0,
+      "cast_id": 7,
+      "popularity": 4.3471,
+      "profile_path": "/yIopIq7l7eIvjoQqnZJkpdQEvds.jpg"
+    },
+    {
+      "personId": 21043,
+      "name": "Dylan Walsh",
+      "character": "Dr. Peter Elliot",
+      "order": 1,
+      "cast_id": 8,
+      "popularity": 2.2119,
+      "profile_path": "/A0XK6UEOuMKf66XpsZ1DBa9kXAR.jpg"
+    },
+    {
+      "personId": 8874,
+      "name": "Ernie Hudson",
+      "character": "Captain Monroe Kelly",
+      "order": 2,
+      "cast_id": 9,
+      "popularity": 3.137,
+      "profile_path": "/kgAdQA2ItCDVvKXufeDHc6Omiso.jpg"
+    },
+    {
+      "personId": 13472,
+      "name": "Tim Curry",
+      "character": "Herkermer Homolka",
+      "order": 3,
+      "cast_id": 10,
+      "popularity": 7.2023,
+      "profile_path": "/8ZsGg3N3OZgxshqLOtA2kl5ckOP.jpg"
+    },
+    {
+      "personId": 31511,
+      "name": "Grant Heslov",
+      "character": "Richard",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 1.2415,
+      "profile_path": "/xNkGkkRN2I2Ly57PqDNk9QgAPJs.jpg"
+    },
+    {
+      "personId": 10671,
+      "name": "Joe Don Baker",
+      "character": "R.B. Travis",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 1.7912,
+      "profile_path": "/7AEqsKLyAO3tt9bUufdirU1xXo8.jpg"
+    },
+    {
+      "personId": 95747,
+      "name": "Misty Rosas",
+      "character": "Amy",
+      "order": 6,
+      "cast_id": 16,
+      "popularity": 1.1026,
+      "profile_path": "/aCa0ukemG7x3wAxtR1BM5v0BvrL.jpg"
+    },
+    {
+      "personId": 23967,
+      "name": "Mary Ellen Trainor",
+      "character": "Moira",
+      "order": 7,
+      "cast_id": 15,
+      "popularity": 1.6907,
+      "profile_path": "/Y926jxSOXikBiqQIptho1VzU9o.jpg"
+    },
+    {
+      "personId": 52043,
+      "name": "Stuart Pankin",
+      "character": "Boyd",
+      "order": 8,
+      "cast_id": 17,
+      "popularity": 2.2103,
+      "profile_path": "/9Zjv5YDfjrBKwCCEslb4Rkrx87V.jpg"
+    },
+    {
+      "personId": 42970,
+      "name": "Carolyn Seymour",
+      "character": "Eleanor Romy",
+      "order": 9,
+      "cast_id": 18,
+      "popularity": 1.5419,
+      "profile_path": "/6Q88aLK6c9zNmUU3OEsrFx5b21M.jpg"
+    },
+    {
+      "personId": 156342,
+      "name": "Romy Rosemont",
+      "character": "Assistant",
+      "order": 10,
+      "cast_id": 19,
+      "popularity": 1.4652,
+      "profile_path": "/dzhrqpUa7W6lVjuigj0G28WrHQz.jpg"
+    },
+    {
+      "personId": 982276,
+      "name": "Lorene Noh",
+      "character": "Amy",
+      "order": 11,
+      "cast_id": 14,
+      "popularity": 0.3104,
+      "profile_path": "/g36wDMQSWdNifHm2gmLKvszDEc4.jpg"
+    },
+    {
+      "personId": 14852,
+      "name": "James Karen",
+      "character": "College President / Elliot's Boss",
+      "order": 12,
+      "cast_id": 20,
+      "popularity": 1.8441,
+      "profile_path": "/kW947hrR36DTHcm9mxes5nWkgVX.jpg"
+    },
+    {
+      "personId": 167075,
+      "name": "Bill Pugin",
+      "character": "William",
+      "order": 13,
+      "cast_id": 21,
+      "popularity": 0.4342,
+      "profile_path": "/rgd2orl6XbXEdaqqdzjeKaPKhrK.jpg"
+    },
+    {
+      "personId": 192268,
+      "name": "Lawrence T. Wrentz",
+      "character": "Prof. Arliss Wender",
+      "order": 14,
+      "cast_id": 22,
+      "popularity": 0.4022,
+      "profile_path": "/sDi4IxpyGQnId2PETXMep4TuCmL.jpg"
+    },
+    {
+      "personId": 1531020,
+      "name": "Robert Almodovar",
+      "character": "Rudy, TraviCom Security",
+      "order": 15,
+      "cast_id": 118,
+      "popularity": 0.6954,
+      "profile_path": "/3a08xDNPjCmsB8Ly5tptEWiJoNt.jpg"
+    },
+    {
+      "personId": 2301807,
+      "name": "Kathleen Connors",
+      "character": "Sally",
+      "order": 16,
+      "cast_id": 120,
+      "popularity": 0.0798,
+      "profile_path": null
+    },
+    {
+      "personId": 188165,
+      "name": "Joel Weiss",
+      "character": "TraviCom Operator",
+      "order": 17,
+      "cast_id": 116,
+      "popularity": 0.7186,
+      "profile_path": "/hyLuY5e84MzpwagzG52vbQNTDXc.jpg"
+    },
+    {
+      "personId": 16861,
+      "name": "John Hawkes",
+      "character": "Bob Driscoll",
+      "order": 18,
+      "cast_id": 23,
+      "popularity": 2.891,
+      "profile_path": "/c0mDB6TApVcJ3LLM1gicjyUeD5A.jpg"
+    },
+    {
+      "personId": 6916,
+      "name": "Peter Jason",
+      "character": "Mr. Janus",
+      "order": 19,
+      "cast_id": 117,
+      "popularity": 2.0627,
+      "profile_path": "/xoqIuVvEH6BG6sOg4NnZzUKFnaf.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 664,
+      "name": "Frank Marshall",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.2174,
+      "profile_path": "/fgEuoFGqnIWWH8RSb3PJJmPQvnu.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 1384,
+      "name": "diamond"
+    },
+    {
+      "id": 690,
+      "name": "gorilla"
+    },
+    {
+      "id": 2521,
+      "name": "congo"
+    },
+    {
+      "id": 3379,
+      "name": "diamond mine"
+    },
+    {
+      "id": 10148,
+      "name": "tribe"
+    },
+    {
+      "id": 10349,
+      "name": "survival"
+    },
+    {
+      "id": 179300,
+      "name": "ancient civilization"
+    },
+    {
+      "id": 237523,
+      "name": "zoologist"
+    }
+  ]
+}

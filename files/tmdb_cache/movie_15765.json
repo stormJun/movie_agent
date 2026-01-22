@@ -1,0 +1,347 @@
+{
+  "overview": "Singer Tina Turner rises to stardom while mustering the courage to break free from her abusive husband Ike.",
+  "release_date": "1993-06-09",
+  "runtime": 118,
+  "budget": 15000000,
+  "revenue": 39100000,
+  "tmdb_vote_average": 7.1,
+  "tmdb_vote_count": 345,
+  "tmdb_popularity": 1.4954,
+  "original_language": "en",
+  "poster_path": "/vNAYuA26Wtf7VfzZEaxZQmJTE4Z.jpg",
+  "backdrop_path": "/ow5u27LapD6xMe24o2ITnZDoz7z.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Music",
+    "History"
+  ],
+  "production_companies": [
+    {
+      "id": 9195,
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 9780,
+      "name": "Angela Bassett",
+      "character": "Anna Mae Bullock / Tina Turner",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.7132,
+      "profile_path": "/tKnuviliyeKNGlo26IU5gIrJAtd.jpg"
+    },
+    {
+      "personId": 2975,
+      "name": "Laurence Fishburne",
+      "character": "Ike Turner",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 4.6026,
+      "profile_path": "/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
+    },
+    {
+      "personId": 100653,
+      "name": "Vanessa Bell Calloway",
+      "character": "Jackie",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 2.686,
+      "profile_path": "/6gJua6IKvhGrCTU1UzgRhOM9oyl.jpg"
+    },
+    {
+      "personId": 15899,
+      "name": "Jenifer Lewis",
+      "character": "Zelma Bullock",
+      "order": 3,
+      "cast_id": 10,
+      "popularity": 3.5459,
+      "profile_path": "/bdeUHXY4cXvhOW2nCblNachBYsM.jpg"
+    },
+    {
+      "personId": 19265,
+      "name": "Khandi Alexander",
+      "character": "Darlene",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 2.0975,
+      "profile_path": "/53IjZhkaywgsM0ZkDt3GJQtY5ls.jpg"
+    },
+    {
+      "personId": 55755,
+      "name": "Richard T. Jones",
+      "character": "Ike Turner Jr.",
+      "order": 5,
+      "cast_id": 23,
+      "popularity": 3.4828,
+      "profile_path": "/hdko2C45Wr5G03Z8JwGjWMynP84.jpg"
+    },
+    {
+      "personId": 18346,
+      "name": "Rae'Ven Larrymore Kelly",
+      "character": "Young Anna Mae Bullock",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 1.5223,
+      "profile_path": "/bJGMNfhDyzAVh1cy9Yoi6dGvlES.jpg"
+    },
+    {
+      "personId": 8687,
+      "name": "Chi McBride",
+      "character": "Fross",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 2.2335,
+      "profile_path": "/cesCeJZ5gSywA9lTYReB5uhkfek.jpg"
+    },
+    {
+      "personId": 1218219,
+      "name": "Penny Johnson Jerald",
+      "character": "Lorraine Taylor",
+      "order": 8,
+      "cast_id": 14,
+      "popularity": 2.0982,
+      "profile_path": "/lWB66icA4Cwyg8WfAdDmZDG1uS7.jpg"
+    },
+    {
+      "personId": 171167,
+      "name": "Phyllis Yvonne Stickney",
+      "character": "Alline Bullock",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 0.8558,
+      "profile_path": "/dN1s9eHgBnZNgS3nkUawTjSPzUV.jpg"
+    },
+    {
+      "personId": 92309,
+      "name": "Sherman Augustus",
+      "character": "Reggie",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 1.7075,
+      "profile_path": "/iLJyjsRdsip0djQ2wLJL0x7Xtjt.jpg"
+    },
+    {
+      "personId": 551900,
+      "name": "Cora Lee Day",
+      "character": "Grandma Georgiana",
+      "order": 11,
+      "cast_id": 17,
+      "popularity": 1.3669,
+      "profile_path": "/e1oWNRoNg3eMt0EcPMwFZyDcUbh.jpg"
+    },
+    {
+      "personId": 80990,
+      "name": "Virginia Capers",
+      "character": "Choir Mistress",
+      "order": 12,
+      "cast_id": 8,
+      "popularity": 0.8745,
+      "profile_path": "/hX4gKz8BQVgYI7I47PnyMxjUmJs.jpg"
+    },
+    {
+      "personId": 8689,
+      "name": "Barry Shabaka Henley",
+      "character": "El Paso Doctor",
+      "order": 13,
+      "cast_id": 13,
+      "popularity": 1.8155,
+      "profile_path": "/q0hI6T9OlmdUYdjYRX8K3pdRnYH.jpg"
+    },
+    {
+      "personId": 60676,
+      "name": "Bo Kane",
+      "character": "Dance Show Host",
+      "order": 14,
+      "cast_id": 15,
+      "popularity": 0.6119,
+      "profile_path": "/j4tF3DC3Cuo4ZsdlnapsilHyNuZ.jpg"
+    },
+    {
+      "personId": 976509,
+      "name": "Jackie O'Brien",
+      "character": "Boutique Clerk",
+      "order": 15,
+      "cast_id": 19,
+      "popularity": 1.2822,
+      "profile_path": "/kaeESQC58WBEKcbCf55bAEEzvvB.jpg"
+    },
+    {
+      "personId": 54430,
+      "name": "Michael Colyar",
+      "character": "Apollo Announcer",
+      "order": 16,
+      "cast_id": 20,
+      "popularity": 0.4116,
+      "profile_path": "/eG4ojLYkXY84hRQnfqysnZzl2H4.jpg"
+    },
+    {
+      "personId": 42708,
+      "name": "Rob LaBelle",
+      "character": "Phil Spector",
+      "order": 17,
+      "cast_id": 21,
+      "popularity": 1.2415,
+      "profile_path": "/3X25PHOci840zpSRH0ecgA8hala.jpg"
+    },
+    {
+      "personId": 1906081,
+      "name": "Patricia Sill",
+      "character": "Spector's Assistant",
+      "order": 18,
+      "cast_id": 22,
+      "popularity": 0.942,
+      "profile_path": null
+    },
+    {
+      "personId": 1212555,
+      "name": "Shavar Ross",
+      "character": "Michael Turner",
+      "order": 19,
+      "cast_id": 24,
+      "popularity": 1.6932,
+      "profile_path": "/nWReFunHu70dHOYQRN8MrsZukB2.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 18069,
+      "name": "Brian Gibson",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5255,
+      "profile_path": "/fJQ5EDCU3oNiQzaqCgCOp719XfX.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1228,
+      "name": "1970s"
+    },
+    {
+      "id": 2803,
+      "name": "affectation"
+    },
+    {
+      "id": 4746,
+      "name": "record producer"
+    },
+    {
+      "id": 5565,
+      "name": "biography"
+    },
+    {
+      "id": 5718,
+      "name": "recording studio"
+    },
+    {
+      "id": 6562,
+      "name": "celebrity"
+    },
+    {
+      "id": 10229,
+      "name": "singer"
+    },
+    {
+      "id": 10232,
+      "name": "fame"
+    },
+    {
+      "id": 11925,
+      "name": "domestic violence"
+    },
+    {
+      "id": 15208,
+      "name": "biting"
+    },
+    {
+      "id": 155794,
+      "name": "physical abuse"
+    },
+    {
+      "id": 156306,
+      "name": "price of fame"
+    },
+    {
+      "id": 200234,
+      "name": "shocking"
+    },
+    {
+      "id": 200918,
+      "name": "angry"
+    },
+    {
+      "id": 202371,
+      "name": "aggressive"
+    },
+    {
+      "id": 208992,
+      "name": "1960s"
+    },
+    {
+      "id": 212643,
+      "name": "abusive husband"
+    },
+    {
+      "id": 236650,
+      "name": "music industry"
+    },
+    {
+      "id": 266753,
+      "name": "cautionary"
+    },
+    {
+      "id": 269808,
+      "name": "introspective"
+    },
+    {
+      "id": 281585,
+      "name": "inspirational"
+    },
+    {
+      "id": 309974,
+      "name": "absurd"
+    },
+    {
+      "id": 325761,
+      "name": "admiring"
+    },
+    {
+      "id": 325762,
+      "name": "adoring"
+    },
+    {
+      "id": 325766,
+      "name": "antagonistic"
+    },
+    {
+      "id": 325780,
+      "name": "callous"
+    },
+    {
+      "id": 325792,
+      "name": "demeaning"
+    },
+    {
+      "id": 325794,
+      "name": "derogatory"
+    },
+    {
+      "id": 325824,
+      "name": "hopeful"
+    }
+  ]
+}

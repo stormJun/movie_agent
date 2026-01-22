@@ -1,0 +1,250 @@
+{
+  "overview": "Workaholic Thomas Johnson dies in an auto accident and reincarnates as a dog. Remembering some of his previous being, he returns to his wife and son to protect them from the man who caused his accident. But, as time goes by, his memories return, and Thomas realizes he wasn't such a good husband and father.",
+  "release_date": "1995-06-02",
+  "runtime": 96,
+  "budget": 15000000,
+  "revenue": 4000000,
+  "tmdb_vote_average": 7.095,
+  "tmdb_vote_count": 275,
+  "tmdb_popularity": 1.4727,
+  "original_language": "en",
+  "poster_path": "/k7BHqoTWJPpoSpfCzzUjAduuIbX.jpg",
+  "backdrop_path": "/lwnM9P0rtXdNdV2uZ9r84ALQTyt.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Adventure",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 28320,
+      "name": "Rocket Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8654,
+      "name": "Matthew Modine",
+      "character": "Thomas P. Johnson / Voice of Fluke",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 5.9191,
+      "profile_path": "/z974QEHL12qUvLyk6hlWGAmDgom.jpg"
+    },
+    {
+      "personId": 18331,
+      "name": "Nancy Travis",
+      "character": "Carol Johnson",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 3.2143,
+      "profile_path": "/8NVTIgCYB6H0GrAwNPLwdU92pdt.jpg"
+    },
+    {
+      "personId": 7036,
+      "name": "Eric Stoltz",
+      "character": "Jeff Newman",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 3.934,
+      "profile_path": "/idFuM00MeVmwGAiqvDaJcBiLAmD.jpg"
+    },
+    {
+      "personId": 85313,
+      "name": "Max Pomeranc",
+      "character": "Brian Johnson",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 0.7149,
+      "profile_path": "/s3BWkf1sJCxhiJiC0BzBW2v0Knf.jpg"
+    },
+    {
+      "personId": 2372,
+      "name": "Ron Perlman",
+      "character": "Sylvester",
+      "order": 4,
+      "cast_id": 4,
+      "popularity": 6.2703,
+      "profile_path": "/pOgMRdJhbBsvwGLRFXPRASTfcay.jpg"
+    },
+    {
+      "personId": 4253,
+      "name": "Jon Polito",
+      "character": "Boss",
+      "order": 5,
+      "cast_id": 11,
+      "popularity": 3.0706,
+      "profile_path": "/4HjxMy4Ir2dWz7ycX5l3sgxOY4g.jpg"
+    },
+    {
+      "personId": 8854,
+      "name": "Bill Cobbs",
+      "character": "Bert",
+      "order": 6,
+      "cast_id": 12,
+      "popularity": 2.9606,
+      "profile_path": "/xRBrI4rPkZuMBMDh8GPke20ZgUv.jpg"
+    },
+    {
+      "personId": 27395,
+      "name": "Federico Pacifici",
+      "character": "Prof. Santini",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 1.2454,
+      "profile_path": "/uploG1tffA4jdbbQxAL9XKLeJOO.jpg"
+    },
+    {
+      "personId": 1492913,
+      "name": "Clarinda Ross",
+      "character": "Jane, Tom's Secretary",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 0.4328,
+      "profile_path": null
+    },
+    {
+      "personId": 60765,
+      "name": "Adrian Roberts",
+      "character": "Night Guard",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 0.4956,
+      "profile_path": null
+    },
+    {
+      "personId": 1181559,
+      "name": "Bart Hansard",
+      "character": "Day Guard",
+      "order": 10,
+      "cast_id": 17,
+      "popularity": 1.9384,
+      "profile_path": "/aqdvJ23MXdWLgAzJlPKfrDMidd2.jpg"
+    },
+    {
+      "personId": 174125,
+      "name": "Deborah Hobart",
+      "character": "Dogpound Vet",
+      "order": 11,
+      "cast_id": 18,
+      "popularity": 2.4163,
+      "profile_path": "/iQEmuqTVO4StL1ePjfW9rZ7vYoT.jpg"
+    },
+    {
+      "personId": 226537,
+      "name": "Libby Whittemore",
+      "character": "Libby, the Housekeeper",
+      "order": 12,
+      "cast_id": 19,
+      "popularity": 2.236,
+      "profile_path": "/9F5il9fWRiDN6TPmOthU5QMsAiE.jpg"
+    },
+    {
+      "personId": 8497,
+      "name": "Collin Wilcox Paxton",
+      "character": "Bella",
+      "order": 13,
+      "cast_id": 33,
+      "popularity": 0.9169,
+      "profile_path": "/cE7wfAMJzbgquuoNOxhUkmoHODA.jpg"
+    },
+    {
+      "personId": 2231,
+      "name": "Samuel L. Jackson",
+      "character": "Rumbo (voice)",
+      "order": 14,
+      "cast_id": 36,
+      "popularity": 9.5835,
+      "profile_path": "/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+    },
+    {
+      "personId": 165453,
+      "name": "Sam Gifaldi",
+      "character": "Young Fluke (voice)",
+      "order": 15,
+      "cast_id": 37,
+      "popularity": 1.6803,
+      "profile_path": null
+    },
+    {
+      "personId": 5814999,
+      "name": "Comet",
+      "character": "Fluke",
+      "order": 16,
+      "cast_id": 40,
+      "popularity": 0.0632,
+      "profile_path": "/sph9BG1bMiepUsGvS6kUVIvbCWL.jpg"
+    },
+    {
+      "personId": 5815000,
+      "name": "Barney",
+      "character": "Rumbo",
+      "order": 17,
+      "cast_id": 41,
+      "popularity": 0.0911,
+      "profile_path": "/ggjlN0g5GEGFGYgOpAjlZ2BXO5y.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 87695,
+      "name": "Carlo Carlei",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4349,
+      "profile_path": "/AnGWfGNQDq3guQX6fGZWCWDHmop.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 970,
+      "name": "parent child relationship"
+    },
+    {
+      "id": 5484,
+      "name": "reincarnation"
+    },
+    {
+      "id": 9856,
+      "name": "flashback"
+    },
+    {
+      "id": 11478,
+      "name": "talking dog"
+    },
+    {
+      "id": 13063,
+      "name": "car accident"
+    },
+    {
+      "id": 15162,
+      "name": "dog"
+    },
+    {
+      "id": 208152,
+      "name": "pets"
+    }
+  ]
+}

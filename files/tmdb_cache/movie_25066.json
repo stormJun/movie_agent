@@ -1,0 +1,310 @@
+{
+  "overview": "A strange mortician tells four horrific tales to three drug dealers that he traps in their local funeral parlor.",
+  "release_date": "1995-05-24",
+  "runtime": 98,
+  "budget": 6000000,
+  "revenue": 12000000,
+  "tmdb_vote_average": 6.3,
+  "tmdb_vote_count": 180,
+  "tmdb_popularity": 0.7293,
+  "original_language": "en",
+  "poster_path": "/glPNCcI7V8zTTI3BG0iIUJJcwXN.jpg",
+  "backdrop_path": "/bfoOP1RN7N6FzF0MQYx3v5yi3WU.jpg",
+  "tmdb_genres_raw": [
+    "Horror",
+    "Crime",
+    "Thriller",
+    "Drama",
+    "Fantasy"
+  ],
+  "production_companies": [
+    {
+      "id": 4319,
+      "name": "40 Acres and a Mule Filmworks",
+      "origin_country": "US"
+    },
+    {
+      "id": 11308,
+      "name": "Savoy Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 15864,
+      "name": "Clarence Williams III",
+      "character": "Mr. Simms (segment \"Welcome to My Mortuary\")",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 0.8825,
+      "profile_path": "/6tzuvVTlBxx0oWjoT3hFTfbVqUp.jpg"
+    },
+    {
+      "personId": 54423,
+      "name": "Joe Torry",
+      "character": "Stack (segment \"Welcome to My Mortuary\")",
+      "order": 1,
+      "cast_id": 13,
+      "popularity": 0.7474,
+      "profile_path": "/4by7vUKB5hUpIKQkPCnIhtFcJjz.jpg"
+    },
+    {
+      "personId": 93538,
+      "name": "De'Aundre Bonds",
+      "character": "Ball (segment \"Welcome to My Mortuary\")",
+      "order": 2,
+      "cast_id": 14,
+      "popularity": 1.0137,
+      "profile_path": "/xLYdv9VCVQyip0zB2FT0fko4hZe.jpg"
+    },
+    {
+      "personId": 1424350,
+      "name": "Samuel Monroe Jr.",
+      "character": "Bulldog (segment \"Welcome to My Mortuary\")",
+      "order": 3,
+      "cast_id": 15,
+      "popularity": 1.3962,
+      "profile_path": "/1lrbUeVhix0WAuUFZ7tuBuCVVdF.jpg"
+    },
+    {
+      "personId": 61153,
+      "name": "Wings Hauser",
+      "character": "Strom (segment \"Rogue Cop Revelation\")",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 1.3768,
+      "profile_path": "/yYGJCFjsWNVVOPqq2Rl1JWRrYt3.jpg"
+    },
+    {
+      "personId": 55270,
+      "name": "Tom Wright",
+      "character": "Martin Moorehouse (segment \"Rogue Cop Revelation\")",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 1.6197,
+      "profile_path": "/lJ4L5fdXBeNr528gBB4eMTdvfd4.jpg"
+    },
+    {
+      "personId": 131118,
+      "name": "Anthony Griffith",
+      "character": "Clarence (segment \"Rogue Cop Revelation\")",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 0.4073,
+      "profile_path": "/i5MhV8kPl8jI3eNKUVMljtYLqQy.jpg"
+    },
+    {
+      "personId": 9289,
+      "name": "Michael Massee",
+      "character": "Newton (segment \"Rogue Cop Revelation\")",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 1.5761,
+      "profile_path": "/jJntkRaa55HD3rrXLmpAVQYvWi9.jpg"
+    },
+    {
+      "personId": 11804,
+      "name": "Duane Whitaker",
+      "character": "Billy (segment \"Rogue Cop Revelation\")",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 0.9283,
+      "profile_path": "/83nCcAaMYim24qWRwJcC1ZvfgK5.jpg"
+    },
+    {
+      "personId": 58563,
+      "name": "David Alan Grier",
+      "character": "Carl Johnson (segment \"Boys Do Get Bruised\")",
+      "order": 9,
+      "cast_id": 3,
+      "popularity": 1.6741,
+      "profile_path": "/2BJ2sueZu98fOMZ9Z1tbUzUTxw9.jpg"
+    },
+    {
+      "personId": 23681,
+      "name": "Brandon Hammond",
+      "character": "Walter Johnson (segment \"Boys Do Get Bruised\")",
+      "order": 10,
+      "cast_id": 27,
+      "popularity": 1.2518,
+      "profile_path": "/qni4SWV6QLQ302Y8CURsRJ5OP00.jpg"
+    },
+    {
+      "personId": 141825,
+      "name": "Rusty Cundieff",
+      "character": "Richard (segment \"Boys Do Get Bruised\")",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 0.7274,
+      "profile_path": "/14re77GRWUNrI3gEGIiCSRGqtVL.jpg"
+    },
+    {
+      "personId": 45245,
+      "name": "Paula Jai Parker",
+      "character": "Sissy Johnson (segment \"Boys Do Get Bruised\")",
+      "order": 12,
+      "cast_id": 23,
+      "popularity": 1.0312,
+      "profile_path": "/rhVirscmHtZvI3v7ZMD1TdJfDcE.jpg"
+    },
+    {
+      "personId": 21246,
+      "name": "Corbin Bernsen",
+      "character": "Duke Metger (segment \"KKK Comeuppance\")",
+      "order": 13,
+      "cast_id": 2,
+      "popularity": 2.4466,
+      "profile_path": "/zkftLlEO5fmKmcKienRKw9Gx0U9.jpg"
+    },
+    {
+      "personId": 40377,
+      "name": "Roger Guenveur Smith",
+      "character": "Rhodie (segment \"KKK Comeuppance\")",
+      "order": 14,
+      "cast_id": 19,
+      "popularity": 1.0171,
+      "profile_path": "/HN7w27Tss9HAHnqebnw6qWKk7z.jpg"
+    },
+    {
+      "personId": 56183,
+      "name": "Art Evans",
+      "character": "Eli (segment \"KKK Comeuppance\")",
+      "order": 15,
+      "cast_id": 20,
+      "popularity": 1.1542,
+      "profile_path": "/buSAuxtomWV06xdfzZYd7kLbTVc.jpg"
+    },
+    {
+      "personId": 43976,
+      "name": "Rosalind Cash",
+      "character": "Dr. Cushing (segment \"Hard Core Convert\")",
+      "order": 16,
+      "cast_id": 25,
+      "popularity": 1.4748,
+      "profile_path": "/W2KSFKmajoGQTVNmhQYm2jeQw0.jpg"
+    },
+    {
+      "personId": 153952,
+      "name": "Lamont Bentley",
+      "character": "Crazy K (segment \"Hard Core Convert\")",
+      "order": 17,
+      "cast_id": 41,
+      "popularity": 0.9781,
+      "profile_path": "/bUOyUOzp4RduSSx5ETU7QGIDybW.jpg"
+    },
+    {
+      "personId": 99090,
+      "name": "Don Dowe",
+      "character": "Cell Orderly #1",
+      "order": 18,
+      "cast_id": 28,
+      "popularity": 1.7731,
+      "profile_path": "/aa1T6wGevgogcEqfOR75Xt4oOEL.jpg"
+    },
+    {
+      "personId": 1113754,
+      "name": "Moon Jones",
+      "character": "Cell Orderly #2",
+      "order": 19,
+      "cast_id": 29,
+      "popularity": 0.7512,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 141825,
+      "name": "Rusty Cundieff",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7274,
+      "profile_path": "/14re77GRWUNrI3gEGIiCSRGqtVL.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 378,
+      "name": "prison"
+    },
+    {
+      "id": 516,
+      "name": "child abuse"
+    },
+    {
+      "id": 796,
+      "name": "police brutality"
+    },
+    {
+      "id": 529,
+      "name": "ku klux klan"
+    },
+    {
+      "id": 2394,
+      "name": "ghetto"
+    },
+    {
+      "id": 6154,
+      "name": "hell"
+    },
+    {
+      "id": 3136,
+      "name": "plantation"
+    },
+    {
+      "id": 9706,
+      "name": "anthology"
+    },
+    {
+      "id": 9707,
+      "name": "evil doll"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 10700,
+      "name": "hood"
+    },
+    {
+      "id": 11719,
+      "name": "dirty cop"
+    },
+    {
+      "id": 14999,
+      "name": "devil"
+    },
+    {
+      "id": 160321,
+      "name": "funeral director"
+    },
+    {
+      "id": 160322,
+      "name": "funeral home"
+    },
+    {
+      "id": 165636,
+      "name": "mortician"
+    },
+    {
+      "id": 240764,
+      "name": "possessed doll"
+    },
+    {
+      "id": 245799,
+      "name": "former slave"
+    }
+  ]
+}

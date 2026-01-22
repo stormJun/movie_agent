@@ -1,0 +1,313 @@
+{
+  "overview": "A group of con artists stake their claim on a bogus uranium mine.",
+  "release_date": "1953-11-24",
+  "runtime": 95,
+  "budget": 1000000,
+  "revenue": 0,
+  "tmdb_vote_average": 6.111,
+  "tmdb_vote_count": 162,
+  "tmdb_popularity": 1.3533,
+  "original_language": "en",
+  "poster_path": "/eDROzlsoKHbrRXh8FyBK8Csd6k7.jpg",
+  "backdrop_path": "/A2vXW38mNy4C0751EO5mWeOIo1A.jpg",
+  "tmdb_genres_raw": [
+    "Adventure",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 15931,
+      "name": "Rizzoli-Haggiag",
+      "origin_country": ""
+    },
+    {
+      "id": 3632,
+      "name": "Romulus Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 3248,
+      "name": "Santana Pictures Corporation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "it",
+      "name": "Italiano"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ar",
+      "name": "العربية"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4110,
+      "name": "Humphrey Bogart",
+      "character": "Billy Dannreuther",
+      "order": 0,
+      "cast_id": 8,
+      "popularity": 1.7595,
+      "profile_path": "/4pk2VbOb2td7iBZyir6Ji46HH4N.jpg"
+    },
+    {
+      "personId": 39554,
+      "name": "Jennifer Jones",
+      "character": "Gwendolen Chelm",
+      "order": 1,
+      "cast_id": 9,
+      "popularity": 0.881,
+      "profile_path": "/kPWuP9WGAkVnwdmT1KCif4KOMwz.jpg"
+    },
+    {
+      "personId": 19534,
+      "name": "Gina Lollobrigida",
+      "character": "Maria Dannreuther",
+      "order": 2,
+      "cast_id": 10,
+      "popularity": 2.5744,
+      "profile_path": "/pdvbAneNNd17OjUXk9w99t44pe1.jpg"
+    },
+    {
+      "personId": 6599,
+      "name": "Robert Morley",
+      "character": "Peterson",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 1.0119,
+      "profile_path": "/xt6OIigtHMcW1tdnHGM9tJisW75.jpg"
+    },
+    {
+      "personId": 2094,
+      "name": "Peter Lorre",
+      "character": "Julius O'Hara",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 1.8094,
+      "profile_path": "/hgum7XGkYgiJ8jkFr4MC03PCnD4.jpg"
+    },
+    {
+      "personId": 89208,
+      "name": "Edward Underdown",
+      "character": "Harry Chelm",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 1.816,
+      "profile_path": "/b6UXqWOmPXvhG98cxwE32uMaOWX.jpg"
+    },
+    {
+      "personId": 89209,
+      "name": "Ivor Barnard",
+      "character": "Maj. Jack Ross",
+      "order": 6,
+      "cast_id": 14,
+      "popularity": 0.5147,
+      "profile_path": "/cgkH1MwlmCIzcLg5K2CVRYT13GY.jpg"
+    },
+    {
+      "personId": 89210,
+      "name": "Marco Tulli",
+      "character": "Ravello",
+      "order": 7,
+      "cast_id": 15,
+      "popularity": 0.3801,
+      "profile_path": "/9BqqClzYeJlVFPCpNgKua5UjmrL.jpg"
+    },
+    {
+      "personId": 9874,
+      "name": "Bernard Lee",
+      "character": "Insp. Jack Clayton",
+      "order": 8,
+      "cast_id": 17,
+      "popularity": 1.5185,
+      "profile_path": "/sOSY7nVivP73ucBk0CBDMvyYDw1.jpg"
+    },
+    {
+      "personId": 997060,
+      "name": "Mario Perrone",
+      "character": "Purser on SS Nyanga",
+      "order": 9,
+      "cast_id": 26,
+      "popularity": 0.2249,
+      "profile_path": null
+    },
+    {
+      "personId": 99790,
+      "name": "Giulio Donnini",
+      "character": "Administrator",
+      "order": 10,
+      "cast_id": 27,
+      "popularity": 0.3004,
+      "profile_path": "/23ynQfrGYKWEIAjTPpsJOjul32B.jpg"
+    },
+    {
+      "personId": 119431,
+      "name": "Saro Urzì",
+      "character": "Captain of SS Nyanga",
+      "order": 11,
+      "cast_id": 28,
+      "popularity": 0.6558,
+      "profile_path": "/wp88yz8T1TJcw5egiDu1m5a302D.jpg"
+    },
+    {
+      "personId": 42411,
+      "name": "Juan de Landa",
+      "character": "Hispano-Suiza Driver",
+      "order": 12,
+      "cast_id": 29,
+      "popularity": 0.2332,
+      "profile_path": "/hJ12HZOdSLqsKH6a3ky70R9GiBS.jpg"
+    },
+    {
+      "personId": 5404,
+      "name": "Aldo Silvani",
+      "character": "Charles",
+      "order": 13,
+      "cast_id": 30,
+      "popularity": 0.5082,
+      "profile_path": "/8nrYSS8C5sYMhSmzSvRZR7tmiGo.jpg"
+    },
+    {
+      "personId": 225190,
+      "name": "Mimmo Poli",
+      "character": "Barman (uncredited)",
+      "order": 14,
+      "cast_id": 33,
+      "popularity": 1.5739,
+      "profile_path": "/ogRb16e5BplvdpngH3Txhp3Y0pb.jpg"
+    },
+    {
+      "personId": 12446,
+      "name": "Peter Sellers",
+      "character": "Billy Dannreuther (voice) (uncredited)",
+      "order": 15,
+      "cast_id": 34,
+      "popularity": 2.097,
+      "profile_path": "/sCVIv2DGoC9U16anTjLwMxKBPZ.jpg"
+    },
+    {
+      "personId": 570219,
+      "name": "Manuel Serrano",
+      "character": "Ahmed (uncredited)",
+      "order": 16,
+      "cast_id": 56,
+      "popularity": 0.1751,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 6593,
+      "name": "John Huston",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.1157,
+      "profile_path": "/rAqKERlZvXBiKV0tONGg5huwuJl.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 966,
+      "name": "beach"
+    },
+    {
+      "id": 1157,
+      "name": "husband wife relationship"
+    },
+    {
+      "id": 131,
+      "name": "italy"
+    },
+    {
+      "id": 2398,
+      "name": "narration"
+    },
+    {
+      "id": 2251,
+      "name": "lie"
+    },
+    {
+      "id": 10123,
+      "name": "dark comedy"
+    },
+    {
+      "id": 8201,
+      "name": "satire"
+    },
+    {
+      "id": 9468,
+      "name": "liar"
+    },
+    {
+      "id": 9727,
+      "name": "thief"
+    },
+    {
+      "id": 9807,
+      "name": "film noir"
+    },
+    {
+      "id": 12999,
+      "name": "black and white"
+    },
+    {
+      "id": 163221,
+      "name": "failing marriage"
+    },
+    {
+      "id": 191026,
+      "name": "port"
+    },
+    {
+      "id": 193154,
+      "name": "uranium"
+    },
+    {
+      "id": 206718,
+      "name": "cons and scams"
+    },
+    {
+      "id": 206838,
+      "name": "mine claim"
+    },
+    {
+      "id": 236406,
+      "name": "ship passengers"
+    },
+    {
+      "id": 244648,
+      "name": "wife swapping"
+    },
+    {
+      "id": 283467,
+      "name": "motley crew"
+    },
+    {
+      "id": 294008,
+      "name": "con artists"
+    },
+    {
+      "id": 333316,
+      "name": "boat travel"
+    }
+  ]
+}

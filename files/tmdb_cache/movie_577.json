@@ -1,0 +1,277 @@
+{
+  "overview": "Suzanne Stone wants to be a world-famous news anchor and she is willing to do anything to get what she wants. What she lacks in intelligence, she makes up for in cold determination and diabolical wiles. As she pursues her goal with relentless focus, she is forced to destroy anything and anyone that may stand in her way, regardless of the ultimate cost or means necessary.",
+  "release_date": "1995-09-22",
+  "runtime": 106,
+  "budget": 20000000,
+  "revenue": 21300000,
+  "tmdb_vote_average": 6.6,
+  "tmdb_vote_count": 849,
+  "tmdb_popularity": 2.4682,
+  "original_language": "en",
+  "poster_path": "/whz4bwvqE1OmQHIyqHdZD8jU9CO.jpg",
+  "backdrop_path": "/2g58NnfO9ecZc0VcP0i0EVyKV7m.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Comedy",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 364,
+      "name": "The Rank Organisation",
+      "origin_country": "GB"
+    },
+    {
+      "id": 326,
+      "name": "Laura Ziskin Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2227,
+      "name": "Nicole Kidman",
+      "character": "Suzanne Stone",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 10.2823,
+      "profile_path": "/lfW2cDigTcvuoe4k6UfCdGVE1R6.jpg"
+    },
+    {
+      "personId": 2876,
+      "name": "Matt Dillon",
+      "character": "Larry Maretto",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 4.4328,
+      "profile_path": "/wVoSUexYH79igPgxIXKWRlV2uBk.jpg"
+    },
+    {
+      "personId": 73421,
+      "name": "Joaquin Phoenix",
+      "character": "Jimmy Emmett",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 5.5473,
+      "profile_path": "/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg"
+    },
+    {
+      "personId": 1893,
+      "name": "Casey Affleck",
+      "character": "Russel Hines",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 3.4435,
+      "profile_path": "/304ilSygaCRWykoBWAL67TOw8g9.jpg"
+    },
+    {
+      "personId": 7796,
+      "name": "Illeana Douglas",
+      "character": "Janice Maretto",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 2.1906,
+      "profile_path": "/tICmPFccAUAOmMXmqcpK8q03kYG.jpg"
+    },
+    {
+      "personId": 2841,
+      "name": "Alison Folland",
+      "character": "Lydia Mertz",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 1.1981,
+      "profile_path": "/yLmmUn8Ylql4w17eHKz1bCUO93l.jpg"
+    },
+    {
+      "personId": 6486,
+      "name": "Dan Hedaya",
+      "character": "Joe Maretto",
+      "order": 6,
+      "cast_id": 21,
+      "popularity": 3.3541,
+      "profile_path": "/evL3mV8hNIjZOb1XG3qtgmiTgS5.jpg"
+    },
+    {
+      "personId": 4201,
+      "name": "Wayne Knight",
+      "character": "Ed Grant",
+      "order": 7,
+      "cast_id": 22,
+      "popularity": 2.9302,
+      "profile_path": "/ecc2Detpzqu6XyCUPh0BqOBwZyO.jpg"
+    },
+    {
+      "personId": 2115,
+      "name": "Kurtwood Smith",
+      "character": "Earl Stone",
+      "order": 8,
+      "cast_id": 26,
+      "popularity": 2.6059,
+      "profile_path": "/7dqsk4NYbNZNnmppv2zPuf1hKBn.jpg"
+    },
+    {
+      "personId": 11318,
+      "name": "Holland Taylor",
+      "character": "Carol Stone",
+      "order": 9,
+      "cast_id": 27,
+      "popularity": 5.9315,
+      "profile_path": "/jt9yFB3nLfZQ0c1DcnvvcfA11gB.jpg"
+    },
+    {
+      "personId": 4158,
+      "name": "Susan Traylor",
+      "character": "Faye Stone",
+      "order": 10,
+      "cast_id": 28,
+      "popularity": 1.0143,
+      "profile_path": "/mAQwOoUrf4Su4MOBPPn68q9JLPx.jpg"
+    },
+    {
+      "personId": 1185405,
+      "name": "Maria Tucci",
+      "character": "Angela Maretto",
+      "order": 11,
+      "cast_id": 29,
+      "popularity": 0.3817,
+      "profile_path": null
+    },
+    {
+      "personId": 33835,
+      "name": "Tim Hopper",
+      "character": "Mike Warden",
+      "order": 12,
+      "cast_id": 30,
+      "popularity": 1.3673,
+      "profile_path": "/7QlEV2Bl4mEw5JS14cJGwRjNJBV.jpg"
+    },
+    {
+      "personId": 18313,
+      "name": "Michael Rispoli",
+      "character": "Ben DeLuca",
+      "order": 13,
+      "cast_id": 31,
+      "popularity": 1.7315,
+      "profile_path": "/4rtCKJTtPq9cSHFQqZSbyCLLWCO.jpg"
+    },
+    {
+      "personId": 7795,
+      "name": "Buck Henry",
+      "character": "Mr. H. Finlaysson",
+      "order": 14,
+      "cast_id": 32,
+      "popularity": 1.8931,
+      "profile_path": "/iAOjaj5OHMMXno65MwmDtkqHeb6.jpg"
+    },
+    {
+      "personId": 234,
+      "name": "Gerry Quigley",
+      "character": "George",
+      "order": 15,
+      "cast_id": 33,
+      "popularity": 0.8897,
+      "profile_path": "/nfnrdHOtFYhggXrpZvHF4CDAVdH.jpg"
+    },
+    {
+      "personId": 2022959,
+      "name": "Tom Forrester",
+      "character": "Fisherman",
+      "order": 16,
+      "cast_id": 34,
+      "popularity": 0.1304,
+      "profile_path": null
+    },
+    {
+      "personId": 2022960,
+      "name": "Alan Edward Lewis",
+      "character": "Fisherman",
+      "order": 17,
+      "cast_id": 35,
+      "popularity": 0.1204,
+      "profile_path": null
+    },
+    {
+      "personId": 2022961,
+      "name": "Nadine MacKinnon",
+      "character": "Sexy Woman",
+      "order": 18,
+      "cast_id": 36,
+      "popularity": 0.0857,
+      "profile_path": null
+    },
+    {
+      "personId": 43263,
+      "name": "Conrad Coates",
+      "character": "Weaselly Guy",
+      "order": 19,
+      "cast_id": 37,
+      "popularity": 2.5629,
+      "profile_path": "/synctEI6SoicViRJxHupyQgs6zv.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 5216,
+      "name": "Gus Van Sant",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.1992,
+      "profile_path": "/kICHgrSh4eiICjz8piy9fTXIgph.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 596,
+      "name": "adultery"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 1442,
+      "name": "winter"
+    },
+    {
+      "id": 1523,
+      "name": "obsession"
+    },
+    {
+      "id": 6018,
+      "name": "new hampshire"
+    },
+    {
+      "id": 11800,
+      "name": "mockumentary"
+    },
+    {
+      "id": 208477,
+      "name": "narcissistic personality disorder"
+    },
+    {
+      "id": 225012,
+      "name": "satirical"
+    }
+  ]
+}

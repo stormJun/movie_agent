@@ -1,0 +1,218 @@
+{
+  "overview": "After the death of Lama Dorje, Tibetan Buddhist monks find three children — one American and two Nepalese — who may be the rebirth of their great teacher.",
+  "release_date": "1993-12-01",
+  "runtime": 123,
+  "budget": 35000000,
+  "revenue": 4900000,
+  "tmdb_vote_average": 6.268,
+  "tmdb_vote_count": 435,
+  "tmdb_popularity": 1.8499,
+  "original_language": "en",
+  "poster_path": "/xy70xtdoKZ3PxlKkakwdhL3UFDQ.jpg",
+  "backdrop_path": "/roWqJp8dXekp1DShC1RNpG9Yr3y.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    {
+      "id": 11561,
+      "name": "Recorded Picture Company",
+      "origin_country": "GB"
+    },
+    {
+      "id": 105,
+      "name": "CiBy 2000",
+      "origin_country": "FR"
+    },
+    {
+      "id": 252343,
+      "name": "Serprocor Anstalt",
+      "origin_country": "LI"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "IT",
+      "name": "Italy"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6384,
+      "name": "Keanu Reeves",
+      "character": "Siddhartha",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 11.6793,
+      "profile_path": "/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+    },
+    {
+      "personId": 2233,
+      "name": "Bridget Fonda",
+      "character": "Lisa Conrad",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 4.2338,
+      "profile_path": "/ylGktmhDCLnaaV8owSPL8cVlsbn.jpg"
+    },
+    {
+      "personId": 6591,
+      "name": "Chris Isaak",
+      "character": "Dean Conrad",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 1.6234,
+      "profile_path": "/aOajdDbGFem2M3umBGFKZXyiKfJ.jpg"
+    },
+    {
+      "personId": 11394,
+      "name": "Ruocheng Ying",
+      "character": "Lama Norbu",
+      "order": 3,
+      "cast_id": 10,
+      "popularity": 0.9726,
+      "profile_path": "/mm7Cnlu5GKvNljPFSPRSXDTY0rl.jpg"
+    },
+    {
+      "personId": 540487,
+      "name": "Alex Wiesendanger",
+      "character": "Jesse Conrad",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 1.0489,
+      "profile_path": "/nQJ6a4m7i4ITZdmMvIb9inFfOBj.jpg"
+    },
+    {
+      "personId": 357312,
+      "name": "Raju Lal",
+      "character": "Raju",
+      "order": 5,
+      "cast_id": 12,
+      "popularity": 0.284,
+      "profile_path": null
+    },
+    {
+      "personId": 582125,
+      "name": "Greishma Makar Sing",
+      "character": "Gita",
+      "order": 6,
+      "cast_id": 13,
+      "popularity": 0.4039,
+      "profile_path": null
+    },
+    {
+      "personId": 379723,
+      "name": "Sogyal Rinpoche",
+      "character": "Kenpo Tenzin",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 0.1582,
+      "profile_path": "/8B2s0DVmgC2PhKVqptXAnIQPS60.jpg"
+    },
+    {
+      "personId": 379722,
+      "name": "Khyongla Rato Rinpoche",
+      "character": "Abbot",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 0.3189,
+      "profile_path": null
+    },
+    {
+      "personId": 582126,
+      "name": "Geshe Tsultim Gyelsen",
+      "character": "Lama Dorje",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 0.1474,
+      "profile_path": null
+    },
+    {
+      "personId": 25215,
+      "name": "Jo Champa",
+      "character": "Maria",
+      "order": 10,
+      "cast_id": 17,
+      "popularity": 1.0153,
+      "profile_path": "/rM1nctMAsmyyKbffIYM8elMss9F.jpg"
+    },
+    {
+      "personId": 261320,
+      "name": "Jigme Kunsang",
+      "character": "Champa",
+      "order": 11,
+      "cast_id": 18,
+      "popularity": 0.0256,
+      "profile_path": null
+    },
+    {
+      "personId": 1085431,
+      "name": "Sadiya Siddiqui",
+      "character": "Temptation Girl",
+      "order": 12,
+      "cast_id": 46,
+      "popularity": 2.2377,
+      "profile_path": "/m057YR5pZ4zI8XWAlQZ8RoBXZKQ.jpg"
+    },
+    {
+      "personId": 1661236,
+      "name": "Rudraprasad Sengupta",
+      "character": "",
+      "order": 13,
+      "cast_id": 53,
+      "popularity": 0.267,
+      "profile_path": "/cGzTsokvBBfpYdPdSlYfFrNFtfX.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 4956,
+      "name": "Bernardo Bertolucci",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1016,
+      "profile_path": "/b0W7CtXxbo24sX8TPnDlLTYfc2E.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 4476,
+      "name": "buddhist"
+    },
+    {
+      "id": 4558,
+      "name": "tibet"
+    },
+    {
+      "id": 5484,
+      "name": "reincarnation"
+    },
+    {
+      "id": 5722,
+      "name": "buddha"
+    },
+    {
+      "id": 5723,
+      "name": "siddhartha"
+    },
+    {
+      "id": 10419,
+      "name": "enlightenment"
+    }
+  ]
+}

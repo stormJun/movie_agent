@@ -1,0 +1,223 @@
+{
+  "overview": "Mickey, a free-spirited New York cabbie, and Francis, a materialistic Wall Street stockbroker, are extremely competitive and confused about women as a result of their father's influence. Though they disagree about everything, they have one thing in common: Mickey's ex-fiance Heather is Francis's secret love. Though both brothers have beautiful wives, Heather triggers their longtime sibling rivalry",
+  "release_date": "1996-08-26",
+  "runtime": 96,
+  "budget": 3500000,
+  "revenue": 9500000,
+  "tmdb_vote_average": 5.4,
+  "tmdb_vote_count": 262,
+  "tmdb_popularity": 1.604,
+  "original_language": "en",
+  "poster_path": "/wNd6qM8Qa8tLFOiUOiEivh0qBkH.jpg",
+  "backdrop_path": "/4zXhWqspo9EqAMxIkMWrENfIDQe.jpg",
+  "tmdb_genres_raw": [
+    "Romance",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 43,
+      "name": "Fox Searchlight Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 10565,
+      "name": "Good Machine",
+      "origin_country": "US"
+    },
+    {
+      "id": 60919,
+      "name": "Marlboro Road Gang Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 169588,
+      "name": "South Fork Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4491,
+      "name": "Jennifer Aniston",
+      "character": "Renee Donati Fitzpatrick",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 8.2832,
+      "profile_path": "/vq7KKJE4gsb8WQEUkvMB2zUcsOO.jpg"
+    },
+    {
+      "personId": 21398,
+      "name": "Maxine Bahns",
+      "character": "Hope",
+      "order": 1,
+      "cast_id": 15,
+      "popularity": 0.818,
+      "profile_path": "/6kcAbxss0gXt50J1KVGmobbLMHD.jpg"
+    },
+    {
+      "personId": 12833,
+      "name": "Edward Burns",
+      "character": "Mickey Fitzpatrick",
+      "order": 2,
+      "cast_id": 1,
+      "popularity": 2.6601,
+      "profile_path": "/pTLdPUSxDUcdmvy91LGCF3pk0AM.jpg"
+    },
+    {
+      "personId": 6941,
+      "name": "Cameron Diaz",
+      "character": "Heather Davis",
+      "order": 3,
+      "cast_id": 3,
+      "popularity": 7.2,
+      "profile_path": "/d4f4cQ9EiYuvNMjT1IB2h06KoRx.jpg"
+    },
+    {
+      "personId": 4251,
+      "name": "John Mahoney",
+      "character": "Mr. Fitzpatrick",
+      "order": 4,
+      "cast_id": 14,
+      "popularity": 1.8003,
+      "profile_path": "/paVSw7Brdp6MKa2j4UPukA0KHs3.jpg"
+    },
+    {
+      "personId": 69298,
+      "name": "Michael McGlone",
+      "character": "Francis Fitzpatrick",
+      "order": 5,
+      "cast_id": 2,
+      "popularity": 0.9807,
+      "profile_path": "/bA4VNmTIFPBMxnf7NWai525PB6v.jpg"
+    },
+    {
+      "personId": 41087,
+      "name": "Leslie Mann",
+      "character": "Connie",
+      "order": 6,
+      "cast_id": 16,
+      "popularity": 4.9305,
+      "profile_path": "/x3OS9RL3qsv50kzRtpR2OhbuTkr.jpg"
+    },
+    {
+      "personId": 2956,
+      "name": "Amanda Peet",
+      "character": "Molly",
+      "order": 7,
+      "cast_id": 17,
+      "popularity": 4.4812,
+      "profile_path": "/5TfyCj0X9ftKO11FN057P05s78C.jpg"
+    },
+    {
+      "personId": 20974,
+      "name": "Anita Gillette",
+      "character": "Carol",
+      "order": 8,
+      "cast_id": 19,
+      "popularity": 0.9483,
+      "profile_path": "/l3L12TDB1napZ9NeUgJbKIG4V4E.jpg"
+    },
+    {
+      "personId": 7164,
+      "name": "Frank Vincent",
+      "character": "Ron",
+      "order": 9,
+      "cast_id": 20,
+      "popularity": 1.882,
+      "profile_path": "/fa1gikNsPKvX1roWUo2bBmixnvp.jpg"
+    },
+    {
+      "personId": 155607,
+      "name": "Malachy McCourt",
+      "character": "Tom",
+      "order": 10,
+      "cast_id": 26,
+      "popularity": 0.8207,
+      "profile_path": "/bSY1XDYUacqqxIP0pYg7pFvmnir.jpg"
+    },
+    {
+      "personId": 168638,
+      "name": "Beatrice Winde",
+      "character": "Older Woman",
+      "order": 11,
+      "cast_id": 27,
+      "popularity": 0.6909,
+      "profile_path": "/m3mC8clIuki4s11cTDqcvKiLX59.jpg"
+    },
+    {
+      "personId": 1191737,
+      "name": "Robert Weil",
+      "character": "Mr. Deluca",
+      "order": 12,
+      "cast_id": 28,
+      "popularity": 1.9888,
+      "profile_path": "/icVsPaCdcX09Z2XU2jUrsfTfzxm.jpg"
+    },
+    {
+      "personId": 75201,
+      "name": "Tom Tammi",
+      "character": "Father John",
+      "order": 13,
+      "cast_id": 29,
+      "popularity": 1.4619,
+      "profile_path": "/7dt0iqJq6avgUKoMxM3ON4bDZoa.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 12833,
+      "name": "Edward Burns",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.6601,
+      "profile_path": "/pTLdPUSxDUcdmvy91LGCF3pk0AM.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 444,
+      "name": "taxi"
+    },
+    {
+      "id": 380,
+      "name": "sibling relationship"
+    },
+    {
+      "id": 2038,
+      "name": "love of one's life"
+    },
+    {
+      "id": 1595,
+      "name": "ex-girlfriend"
+    },
+    {
+      "id": 3582,
+      "name": "bride"
+    },
+    {
+      "id": 5628,
+      "name": "broker"
+    },
+    {
+      "id": 13027,
+      "name": "wedding"
+    }
+  ]
+}

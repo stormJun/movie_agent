@@ -1,0 +1,264 @@
+{
+  "overview": "A housemaid falls in love with Dr. Jekyll and his darkly mysterious counterpart, Mr. Hyde.",
+  "release_date": "1996-02-23",
+  "runtime": 108,
+  "budget": 47000000,
+  "revenue": 12379402,
+  "tmdb_vote_average": 5.755,
+  "tmdb_vote_count": 333,
+  "tmdb_popularity": 1.1333,
+  "original_language": "en",
+  "poster_path": "/cW5wTiv5fdtBOd22utmAIZBCMS3.jpg",
+  "backdrop_path": "/mErnrp6gxgSw7eYVnuos3k8EkWf.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 18737,
+      "name": "NFH Films",
+      "origin_country": ""
+    },
+    {
+      "id": 559,
+      "name": "TriStar Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1204,
+      "name": "Julia Roberts",
+      "character": "Mary Reilly",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 7.8361,
+      "profile_path": "/h13yvG0tRNMTAwciQXxYmQWdYW8.jpg"
+    },
+    {
+      "personId": 6949,
+      "name": "John Malkovich",
+      "character": "Dr. Henry Jekyll / Edward Hyde",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 5.1002,
+      "profile_path": "/8YfVmWi9Z1iyX9Oc90yd9dbhSfL.jpg"
+    },
+    {
+      "personId": 47722,
+      "name": "George Cole",
+      "character": "Mr. Poole",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.2582,
+      "profile_path": "/cPgVhIM4NK4dvuLkzRK8zBZyoJk.jpg"
+    },
+    {
+      "personId": 5658,
+      "name": "Michael Gambon",
+      "character": "Mary’s Father",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.7114,
+      "profile_path": "/3jdWkDKf4IODbG4JKTeaC7AzxZH.jpg"
+    },
+    {
+      "personId": 515,
+      "name": "Glenn Close",
+      "character": "Mrs. Farraday",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 4.5394,
+      "profile_path": "/4VHZ1GfLwN7MUgApy0LCBzdDF9L.jpg"
+    },
+    {
+      "personId": 1229735,
+      "name": "Kathy Staff",
+      "character": "Mrs. Kent",
+      "order": 5,
+      "cast_id": 12,
+      "popularity": 0.65,
+      "profile_path": "/dZFLD11cLDPZK6eLQ9KiNYu6mfs.jpg"
+    },
+    {
+      "personId": 3968,
+      "name": "Michael Sheen",
+      "character": "Bradshaw",
+      "order": 6,
+      "cast_id": 13,
+      "popularity": 2.9964,
+      "profile_path": "/nGxIcIcfJjdPN3k8zFabtA1gRqL.jpg"
+    },
+    {
+      "personId": 33399,
+      "name": "Bronagh Gallagher",
+      "character": "Annie",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 1.2004,
+      "profile_path": "/4GQfAVOeQxkxvvByUxfoCdf4xLY.jpg"
+    },
+    {
+      "personId": 8443,
+      "name": "Linda Bassett",
+      "character": "Mary's Mother",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 2.1574,
+      "profile_path": "/pE6Zoig9kbEn1te1MRtfjchDMeC.jpg"
+    },
+    {
+      "personId": 8785,
+      "name": "Ciarán Hinds",
+      "character": "Sir Danvers Carew",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 4.5856,
+      "profile_path": "/d8wLIX9VYgwXRGSp1gmUdUxmApv.jpg"
+    },
+    {
+      "personId": 7030,
+      "name": "Henry Goodman",
+      "character": "Haffinger",
+      "order": 10,
+      "cast_id": 17,
+      "popularity": 1.5145,
+      "profile_path": "/5GTCMmzXa68PmitzuEyEpvjUUxO.jpg"
+    },
+    {
+      "personId": 37052,
+      "name": "Wendy Nottingham",
+      "character": "Screaming Girl's Mother",
+      "order": 11,
+      "cast_id": 28,
+      "popularity": 2.5106,
+      "profile_path": "/faYVKkTx8aVtPktWVf2MloDwhJ2.jpg"
+    },
+    {
+      "personId": 189921,
+      "name": "Moya Brady",
+      "character": "Young Woman",
+      "order": 12,
+      "cast_id": 29,
+      "popularity": 1.5267,
+      "profile_path": "/a14HZmsadaqndMu98l77cLHK6Dk.jpg"
+    },
+    {
+      "personId": 127527,
+      "name": "Emma Griffiths Malin",
+      "character": "Young Whore",
+      "order": 13,
+      "cast_id": 30,
+      "popularity": 1.4291,
+      "profile_path": "/4kQM09dsYnpPhU0FjC3axQdNU9g.jpg"
+    },
+    {
+      "personId": 2232470,
+      "name": "Sasha Hanau",
+      "character": "Young Mary",
+      "order": 14,
+      "cast_id": 31,
+      "popularity": 0.3516,
+      "profile_path": null
+    },
+    {
+      "personId": 2625310,
+      "name": "Isabella Marshall",
+      "character": "Screaming Girl",
+      "order": 15,
+      "cast_id": 32,
+      "popularity": 0.2847,
+      "profile_path": "/wZA4pp72Aksrh59MyjcAjQa8WuA.jpg"
+    },
+    {
+      "personId": 16792,
+      "name": "Richard Leaf",
+      "character": "Screaming Girl's Father",
+      "order": 16,
+      "cast_id": 33,
+      "popularity": 0.8818,
+      "profile_path": "/afvUxmjM76JjbVOVysuoEQfwsTa.jpg"
+    },
+    {
+      "personId": 47943,
+      "name": "Stephen Boxer",
+      "character": "Inspector",
+      "order": 17,
+      "cast_id": 34,
+      "popularity": 0.9822,
+      "profile_path": "/urPOwT7ibO58AsjWgR03JDK9PU1.jpg"
+    },
+    {
+      "personId": 79875,
+      "name": "Tim Barlow",
+      "character": "Vicar",
+      "order": 18,
+      "cast_id": 36,
+      "popularity": 1.003,
+      "profile_path": "/oQZMM2wFla74pAimMgLIDCt9QV0.jpg"
+    },
+    {
+      "personId": 202402,
+      "name": "Harry Fielder",
+      "character": "Man with Beard (uncredited)",
+      "order": 19,
+      "cast_id": 37,
+      "popularity": 1.4799,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 3224,
+      "name": "Stephen Frears",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.8798,
+      "profile_path": "/6VPZp1rJKU4Jq6yx4Xo224BWr0I.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1299,
+      "name": "monster"
+    },
+    {
+      "id": 964,
+      "name": "servant"
+    },
+    {
+      "id": 10124,
+      "name": "laboratory"
+    },
+    {
+      "id": 156033,
+      "name": "jekyll and hyde"
+    },
+    {
+      "id": 191009,
+      "name": "housemaid"
+    },
+    {
+      "id": 207928,
+      "name": "19th century"
+    }
+  ]
+}

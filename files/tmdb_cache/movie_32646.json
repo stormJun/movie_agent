@@ -1,0 +1,346 @@
+{
+  "overview": "Carol White, a Los Angeles housewife in the late 1980s, comes down with a debilitating illness with no clear diagnosis.",
+  "release_date": "1995-06-23",
+  "runtime": 119,
+  "budget": 1000000,
+  "revenue": 512558,
+  "tmdb_vote_average": 6.956,
+  "tmdb_vote_count": 328,
+  "tmdb_popularity": 5.3725,
+  "original_language": "en",
+  "poster_path": "/2O71QsBkbqdLqQdx2yuNpJ4pFPq.jpg",
+  "backdrop_path": "/p8O3WhMWumLrLp21BRW80kBND4d.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 3906,
+      "name": "American Playhouse",
+      "origin_country": "US"
+    },
+    {
+      "id": 39861,
+      "name": "Chemical Films",
+      "origin_country": ""
+    },
+    {
+      "id": 10565,
+      "name": "Good Machine",
+      "origin_country": "US"
+    },
+    {
+      "id": 38692,
+      "name": "Kardana Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 157011,
+      "name": "Arnold Semler Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 181,
+      "name": "Channel Four Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1231,
+      "name": "Julianne Moore",
+      "character": "Carol",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 7.2396,
+      "profile_path": "/3YF19rWusxWfEI59ZM33dFhasRq.jpg"
+    },
+    {
+      "personId": 3982,
+      "name": "Xander Berkeley",
+      "character": "Greg",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 2.9222,
+      "profile_path": "/oBoKGfngGGZmSVGFslphYjc23WO.jpg"
+    },
+    {
+      "personId": 54246,
+      "name": "Peter Friedman",
+      "character": "Peter Dunning",
+      "order": 2,
+      "cast_id": 2,
+      "popularity": 1.0525,
+      "profile_path": "/3pyU0yQsRIqSZw1fYapFRXJ3EHp.jpg"
+    },
+    {
+      "personId": 6474,
+      "name": "James LeGros",
+      "character": "Chris",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 2.5826,
+      "profile_path": "/q7AgI7xjFDSQPlilkT17YddAc93.jpg"
+    },
+    {
+      "personId": 14329,
+      "name": "Dean Norris",
+      "character": "Mover",
+      "order": 4,
+      "cast_id": 17,
+      "popularity": 4.9046,
+      "profile_path": "/mKRrEbsxAX3ro700HsViFArRM7l.jpg"
+    },
+    {
+      "personId": 1397377,
+      "name": "Julie Burgess",
+      "character": "Aerobics Instructor",
+      "order": 5,
+      "cast_id": 18,
+      "popularity": 0.3572,
+      "profile_path": null
+    },
+    {
+      "personId": 1397378,
+      "name": "Ronnie Farer",
+      "character": "Barbara",
+      "order": 6,
+      "cast_id": 19,
+      "popularity": 1.47,
+      "profile_path": "/7kCq14PdMitivVZH10yjF9Ipy5M.jpg"
+    },
+    {
+      "personId": 100771,
+      "name": "Jodie Markell",
+      "character": "Anita",
+      "order": 7,
+      "cast_id": 20,
+      "popularity": 1.5613,
+      "profile_path": "/dY2wPQTp6w2uJi0gMbBtGUO5TAA.jpg"
+    },
+    {
+      "personId": 67671,
+      "name": "Susan Norman",
+      "character": "Linda",
+      "order": 8,
+      "cast_id": 21,
+      "popularity": 0.5534,
+      "profile_path": "/fVMUdfpvSyCBbI0i70ThoXkrYj2.jpg"
+    },
+    {
+      "personId": 69055,
+      "name": "Jessica Harper",
+      "character": "Joyce",
+      "order": 9,
+      "cast_id": 7,
+      "popularity": 1.2816,
+      "profile_path": "/sSTbKuf4bY83cSRx9lmVdGobcsg.jpg"
+    },
+    {
+      "personId": 194698,
+      "name": "Martha Velez",
+      "character": "Fulvia",
+      "order": 10,
+      "cast_id": 48,
+      "popularity": 1.8726,
+      "profile_path": null
+    },
+    {
+      "personId": 88599,
+      "name": "Chauncey Leopardi",
+      "character": "Rory",
+      "order": 11,
+      "cast_id": 47,
+      "popularity": 1.0909,
+      "profile_path": "/RgVx7mU1Kl8xl5TttQRC9E9Oui.jpg"
+    },
+    {
+      "personId": 1504737,
+      "name": "Saachiko",
+      "character": "Dry Cleaners Manager",
+      "order": 12,
+      "cast_id": 51,
+      "popularity": 1.6026,
+      "profile_path": null
+    },
+    {
+      "personId": 3751604,
+      "name": "Tim Gardner",
+      "character": "Department Store Dispatcher",
+      "order": 13,
+      "cast_id": 53,
+      "popularity": 0.097,
+      "profile_path": null
+    },
+    {
+      "personId": 3751605,
+      "name": "Wendy Haynes",
+      "character": "Waitress",
+      "order": 14,
+      "cast_id": 54,
+      "popularity": 0.1777,
+      "profile_path": null
+    },
+    {
+      "personId": 123728,
+      "name": "Allan Wasserman",
+      "character": "Client",
+      "order": 15,
+      "cast_id": 55,
+      "popularity": 1.0832,
+      "profile_path": "/fBSYfhUHNBA82GQICMj9iYwqdQ9.jpg"
+    },
+    {
+      "personId": 154395,
+      "name": "Jean St. James",
+      "character": "Client's Wife",
+      "order": 16,
+      "cast_id": 56,
+      "popularity": 1.2431,
+      "profile_path": "/8af0uTJHkkVVC4oFC6bNZsxLgfO.jpg"
+    },
+    {
+      "personId": 31032,
+      "name": "Steven Gilborn",
+      "character": "Dr. Hubbard",
+      "order": 17,
+      "cast_id": 45,
+      "popularity": 1.1488,
+      "profile_path": "/k7Ow6qOO9rcQkFmJmyUpro4heVk.jpg"
+    },
+    {
+      "personId": 80966,
+      "name": "Janel Moloney",
+      "character": "Hairdresser",
+      "order": 18,
+      "cast_id": 57,
+      "popularity": 1.1181,
+      "profile_path": "/buqdVJTYlomwaVxkTFev53DeV3D.jpg"
+    },
+    {
+      "personId": 2889150,
+      "name": "Brendan Dolan",
+      "character": "Patrolman",
+      "order": 19,
+      "cast_id": 58,
+      "popularity": 0.1575,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 16863,
+      "name": "Todd Haynes",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.113,
+      "profile_path": "/wBDazO2j49uoquoHTEDxcniyGGC.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6305,
+      "name": "pollution"
+    },
+    {
+      "id": 6898,
+      "name": "quarantine"
+    },
+    {
+      "id": 852,
+      "name": "chemical"
+    },
+    {
+      "id": 1501,
+      "name": "allegory"
+    },
+    {
+      "id": 3451,
+      "name": "housewife"
+    },
+    {
+      "id": 1279,
+      "name": "medicine"
+    },
+    {
+      "id": 10532,
+      "name": "suburbia"
+    },
+    {
+      "id": 11322,
+      "name": "female protagonist"
+    },
+    {
+      "id": 12097,
+      "name": "allergy"
+    },
+    {
+      "id": 14673,
+      "name": "disease"
+    },
+    {
+      "id": 15106,
+      "name": "psychiatrist"
+    },
+    {
+      "id": 40895,
+      "name": "illness"
+    },
+    {
+      "id": 166947,
+      "name": "san fernando valley"
+    },
+    {
+      "id": 189449,
+      "name": "disorder"
+    },
+    {
+      "id": 202579,
+      "name": "retreat"
+    },
+    {
+      "id": 208289,
+      "name": "1980s"
+    },
+    {
+      "id": 231287,
+      "name": "enviromentalism"
+    },
+    {
+      "id": 235410,
+      "name": "multiple chemical sensitivity (mcs)"
+    },
+    {
+      "id": 235411,
+      "name": "environmental illness"
+    },
+    {
+      "id": 291068,
+      "name": "chronic illness"
+    },
+    {
+      "id": 364688,
+      "name": "psiquiatra"
+    }
+  ]
+}

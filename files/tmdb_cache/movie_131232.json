@@ -1,0 +1,167 @@
+{
+  "overview": "Two Sicilian friends, Nunzio and Pino, share the same apartment in Turin. Nunzio works in a factory but is laid off because of his illness. Pino, on the other hand, is a mysterious man and he is always traveling because of his work. Nunzio would very much like to know what his friend is doing for a living but Pino will not tell him. Nunzio spends his free time the best he can in his friend's absences. He ends up falling in love with Maria, a commercial employee, whereas his health condition deteriorates...",
+  "release_date": "2002-03-20",
+  "runtime": 86,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 4.833,
+  "tmdb_vote_count": 6,
+  "tmdb_popularity": 0.1418,
+  "original_language": "it",
+  "poster_path": null,
+  "backdrop_path": "/r1boovecPQAZo6vQBLZ4NVeRT2g.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [],
+  "production_countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "it",
+      "name": "Italiano"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1093108,
+      "name": "Francesco Sframeli",
+      "character": "Nunzio",
+      "order": 0,
+      "cast_id": 5,
+      "popularity": 0.0445,
+      "profile_path": null
+    },
+    {
+      "personId": 1093110,
+      "name": "Spiro Scimone",
+      "character": "Pino",
+      "order": 1,
+      "cast_id": 6,
+      "popularity": 0.0857,
+      "profile_path": null
+    },
+    {
+      "personId": 116532,
+      "name": "Teresa Saponangelo",
+      "character": "Maria",
+      "order": 2,
+      "cast_id": 7,
+      "popularity": 1.2344,
+      "profile_path": "/bX7qS1ighwuT7GuUxig4c9vcuFy.jpg"
+    },
+    {
+      "personId": 120155,
+      "name": "Sara Bertelà",
+      "character": "Angela",
+      "order": 3,
+      "cast_id": 8,
+      "popularity": 1.3354,
+      "profile_path": "/89GhpCRSxNTTWPnOEA95vLCbJI5.jpg"
+    },
+    {
+      "personId": 39618,
+      "name": "Nicola Di Pinto",
+      "character": "Pensionato",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 1.426,
+      "profile_path": "/1TCh4CylEp4uLIaM2o2N6YSyyZg.jpg"
+    },
+    {
+      "personId": 7544,
+      "name": "Felice Andreasi",
+      "character": "",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 0.9875,
+      "profile_path": "/pGMF7CTvctKYsLIgLTGJHS1Ehuj.jpg"
+    },
+    {
+      "personId": 1124879,
+      "name": "Simona Nasi",
+      "character": "",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 0.3458,
+      "profile_path": "/iPUIBJ6psPqZ9bOP5O6cWqxHcsC.jpg"
+    },
+    {
+      "personId": 103627,
+      "name": "Tano Cimarosa",
+      "character": "",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 1.1127,
+      "profile_path": "/npEuqZSuc9oq1nfBj1l93hY7Ygc.jpg"
+    },
+    {
+      "personId": 72779,
+      "name": "Gianfelice Imparato",
+      "character": "",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 0.4342,
+      "profile_path": "/pUacKAYqx1zImabM69RhY9DUqLj.jpg"
+    },
+    {
+      "personId": 129875,
+      "name": "Valerio Binasco",
+      "character": "Andrea",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 0.4206,
+      "profile_path": "/sr7uCTzM3uvkEwgr29GGZ0VuOv0.jpg"
+    },
+    {
+      "personId": 32562,
+      "name": "Roberto Citran",
+      "character": "",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 1.7601,
+      "profile_path": "/9Bf1XQYY30nA7WzwX2N9pULk7mK.jpg"
+    },
+    {
+      "personId": 1389992,
+      "name": "Franco Ravera",
+      "character": "",
+      "order": 11,
+      "cast_id": 16,
+      "popularity": 0.3375,
+      "profile_path": "/lEPf5KkzFofnIYcbXeo50CtMOtx.jpg"
+    },
+    {
+      "personId": 1026959,
+      "name": "Nicola Rignanese",
+      "character": "Portiere",
+      "order": 12,
+      "cast_id": 17,
+      "popularity": 1.5745,
+      "profile_path": "/1iBBkL2TBh2gRzTmVsUmAIJDnNT.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1093108,
+      "name": "Francesco Sframeli",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.0445,
+      "profile_path": null
+    },
+    {
+      "personId": 1093110,
+      "name": "Spiro Scimone",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.0857,
+      "profile_path": null
+    }
+  ],
+  "keywords": []
+}

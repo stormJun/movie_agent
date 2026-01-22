@@ -1,0 +1,237 @@
+{
+  "overview": "It is 1977, Dublin rocks to the music of Thin Lizzy and the world is stunned by the death of Elvis Presley. Frankie, caught between acne and adulthood, has just completed his final exams in school. Convinced he will fail, he survives the summer organising a beach party, having lustful thoughts about two girls he believes are unobtainable and fending off the advances from a visiting American family friend, all whilst coping with his oddball family.",
+  "release_date": "1996-12-06",
+  "runtime": 102,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.6,
+  "tmdb_vote_count": 44,
+  "tmdb_popularity": 0.4324,
+  "original_language": "en",
+  "poster_path": "/pSdzsYKg1wpmYpflD1ZEq5Cf9rd.jpg",
+  "backdrop_path": "/hc6YEXvbeJjWeO8AhM2ToYUfVDb.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 128279,
+      "name": "Parallel Film Productions",
+      "origin_country": "IE"
+    },
+    {
+      "id": 255728,
+      "name": "Northolme",
+      "origin_country": "GB"
+    },
+    {
+      "id": 235,
+      "name": "Nordisk Film Denmark",
+      "origin_country": "DK"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "DK",
+      "name": "Denmark"
+    },
+    {
+      "code": "IE",
+      "name": "Ireland"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 7499,
+      "name": "Jared Leto",
+      "character": "Frankie Griffin",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 4.7018,
+      "profile_path": "/lZaE3x8yxofNZ96xpthxuVXQxTM.jpg"
+    },
+    {
+      "personId": 11514,
+      "name": "Catherine O'Hara",
+      "character": "Cathleen",
+      "order": 1,
+      "cast_id": 1,
+      "popularity": 5.722,
+      "profile_path": "/xjthrsXA31PVX91ByIQzORKSD0E.jpg"
+    },
+    {
+      "personId": 6886,
+      "name": "Christina Ricci",
+      "character": "Erin",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 4.2915,
+      "profile_path": "/dzB58d6fNrTEi7nBAU1tySJc2at.jpg"
+    },
+    {
+      "personId": 5168,
+      "name": "Gabriel Byrne",
+      "character": "Jack Griffin",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 3.0224,
+      "profile_path": "/9r9oDGENg92VYYFMkV4C09IUlrb.jpg"
+    },
+    {
+      "personId": 9029,
+      "name": "Stephen Rea",
+      "character": "Cab Driver",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 2.1574,
+      "profile_path": "/n52WDwObYghPTfV1TZ1EOVIWUGS.jpg"
+    },
+    {
+      "personId": 17782,
+      "name": "Colm Meaney",
+      "character": "Jim Davern",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 2.6709,
+      "profile_path": "/guL6RJdlRMtOJN3LoaY3G8hG4Rd.jpg"
+    },
+    {
+      "personId": 68284,
+      "name": "Lorraine Pilkington",
+      "character": "Jayne Wayne",
+      "order": 6,
+      "cast_id": 35,
+      "popularity": 0.7322,
+      "profile_path": "/rZBv6Nz7QCy94VJeSVDqRuYdp86.jpg"
+    },
+    {
+      "personId": 8541,
+      "name": "Jason Barry",
+      "character": "Nelson Fitzgerald",
+      "order": 7,
+      "cast_id": 7,
+      "popularity": 1.6447,
+      "profile_path": "/iWDjll5GSVWCRSSe3XLDAtKq0ag.jpg"
+    },
+    {
+      "personId": 1246,
+      "name": "Emily Mortimer",
+      "character": "Romy Thomas",
+      "order": 8,
+      "cast_id": 8,
+      "popularity": 3.2207,
+      "profile_path": "/oZ4CZW2eW8lL2alD1mwZrFkfACI.jpg"
+    },
+    {
+      "personId": 2122508,
+      "name": "Karl Hayden",
+      "character": "Hopper Delaney",
+      "order": 9,
+      "cast_id": 36,
+      "popularity": 0.2596,
+      "profile_path": null
+    },
+    {
+      "personId": 110333,
+      "name": "Ciarán Fitzgerald",
+      "character": "Noelie Griffin",
+      "order": 10,
+      "cast_id": 37,
+      "popularity": 0.388,
+      "profile_path": "/1SllkRHHs0yT3VqVwKjUoV5lJAz.jpg"
+    },
+    {
+      "personId": 2666262,
+      "name": "Renee Weldon",
+      "character": "Maggie Griffin",
+      "order": 11,
+      "cast_id": 44,
+      "popularity": 1.0448,
+      "profile_path": "/bSAL57rdaaUB4Pk14XV76RoDJgh.jpg"
+    },
+    {
+      "personId": 946148,
+      "name": "Des Braiden",
+      "character": "Teacher",
+      "order": 12,
+      "cast_id": 39,
+      "popularity": 0.7453,
+      "profile_path": "/mIBvhUeXlSxQuLPXhrNKQYrcV33.jpg"
+    },
+    {
+      "personId": 3547592,
+      "name": "Darren Monks",
+      "character": "Davy Dudley",
+      "order": 13,
+      "cast_id": 40,
+      "popularity": 0.0656,
+      "profile_path": null
+    },
+    {
+      "personId": 3547593,
+      "name": "Peter Keating",
+      "character": "Ray Griffin",
+      "order": 14,
+      "cast_id": 41,
+      "popularity": 0.0881,
+      "profile_path": null
+    },
+    {
+      "personId": 3547594,
+      "name": "Alexandra Haughey",
+      "character": "Dawn Griffin",
+      "order": 15,
+      "cast_id": 42,
+      "popularity": 0.1396,
+      "profile_path": null
+    },
+    {
+      "personId": 190908,
+      "name": "Vincent Walsh",
+      "character": "Bobby Gallo",
+      "order": 16,
+      "cast_id": 43,
+      "popularity": 0.5177,
+      "profile_path": "/eIyoJGq9YybiNkYHnVOOJGEekXD.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 229695,
+      "name": "David Keating",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.0698,
+      "profile_path": "/jITZul4His1v5lIROSiIP9efRwQ.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 1228,
+      "name": "1970s"
+    },
+    {
+      "id": 4729,
+      "name": "dublin, ireland"
+    },
+    {
+      "id": 242689,
+      "name": "teenage protagonist"
+    }
+  ]
+}

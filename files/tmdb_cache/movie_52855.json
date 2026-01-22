@@ -1,0 +1,251 @@
+{
+  "overview": "Vusi Madlazi returns to the South African village he left as a young boy to bury his father. He meets up with his brother Ernest, who tells him their other brother Stephen couldn't be contacted. Vusi goes to Johannesburg to find him, but at first can only find his neighbor/girlfriend, Karin, a stripper. Vusi proceeds to learn how conditions have changed since the end of apartheid, not always for the better for black men.",
+  "release_date": "1997-02-12",
+  "runtime": 95,
+  "budget": 0,
+  "revenue": 3028094,
+  "tmdb_vote_average": 4.3,
+  "tmdb_vote_count": 29,
+  "tmdb_popularity": 3.4603,
+  "original_language": "en",
+  "poster_path": "/3oFap1KH6zTTP1w0iQ6uQZrzKU4.jpg",
+  "backdrop_path": "/prcMFvfxdoylA5JNomd5ie9kEpA.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 21154,
+      "name": "Jacaranda Films",
+      "origin_country": ""
+    },
+    {
+      "id": 21155,
+      "name": "Investec Merchant Bank",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "ZA",
+      "name": "South Africa"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "pl",
+      "name": "Polski"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 9778,
+      "name": "Ice Cube",
+      "character": "Vusi Madlazi",
+      "order": 0,
+      "cast_id": 1003,
+      "popularity": 3.8421,
+      "profile_path": "/2w7Pekf8QJ0WVN76cmhcEfTuEDc.jpg"
+    },
+    {
+      "personId": 13918,
+      "name": "Elizabeth Hurley",
+      "character": "Karen",
+      "order": 1,
+      "cast_id": 1006,
+      "popularity": 3.9313,
+      "profile_path": "/m18Mx9Fj9XKA9CTDGBDUhluSuGt.jpg"
+    },
+    {
+      "personId": 10182,
+      "name": "Ving Rhames",
+      "character": "Muki",
+      "order": 2,
+      "cast_id": 1007,
+      "popularity": 4.5568,
+      "profile_path": "/rqPdVVIdt45wNDsXuREu2M6PApU.jpg"
+    },
+    {
+      "personId": 147822,
+      "name": "Thokozani Nkosi",
+      "character": "Young Vusi",
+      "order": 3,
+      "cast_id": 1000,
+      "popularity": 0.146,
+      "profile_path": "/tm5PjDdwoegXFhzMJSOmCWTSEox.jpg"
+    },
+    {
+      "personId": 55708,
+      "name": "Ron Smerczak",
+      "character": "Interrogation Policeman",
+      "order": 4,
+      "cast_id": 1001,
+      "popularity": 1.4096,
+      "profile_path": "/bLdgFZi6DRChTpfgm2BUOnAiqMb.jpg"
+    },
+    {
+      "personId": 147823,
+      "name": "Wilson Dunster",
+      "character": "Heavy Policeman",
+      "order": 5,
+      "cast_id": 1002,
+      "popularity": 2.5201,
+      "profile_path": "/ujF9SPT121YOXBu7YTmPPIJrKIe.jpg"
+    },
+    {
+      "personId": 147824,
+      "name": "Sechaba Morojele",
+      "character": "Ernest Madlazi",
+      "order": 6,
+      "cast_id": 1004,
+      "popularity": 1.383,
+      "profile_path": "/v4JQkPgpvCxL8KtSjBRpG9Jop3B.jpg"
+    },
+    {
+      "personId": 65888,
+      "name": "Peter Khubeke",
+      "character": "Igqira",
+      "order": 7,
+      "cast_id": 1005,
+      "popularity": 0.4574,
+      "profile_path": null
+    },
+    {
+      "personId": 5104167,
+      "name": "Roslyn Morapedi",
+      "character": "Vusi's Mother",
+      "order": 8,
+      "cast_id": 1011,
+      "popularity": 0.155,
+      "profile_path": null
+    },
+    {
+      "personId": 4233503,
+      "name": "Mabel Mafuya",
+      "character": "Woman",
+      "order": 9,
+      "cast_id": 1012,
+      "popularity": 0.3946,
+      "profile_path": null
+    },
+    {
+      "personId": 2607,
+      "name": "Fana Mokoena",
+      "character": "Youth",
+      "order": 10,
+      "cast_id": 1013,
+      "popularity": 0.7381,
+      "profile_path": "/4D3VeFLmTWoBilKDeNotchnrYqk.jpg"
+    },
+    {
+      "personId": 5104168,
+      "name": "Maimela Motubatse",
+      "character": "Youth",
+      "order": 11,
+      "cast_id": 1014,
+      "popularity": 0.0621,
+      "profile_path": null
+    },
+    {
+      "personId": 5104169,
+      "name": "Nkululeko Mabandla",
+      "character": "Youth",
+      "order": 12,
+      "cast_id": 1015,
+      "popularity": 0.0071,
+      "profile_path": null
+    },
+    {
+      "personId": 83140,
+      "name": "Robert Whitehead",
+      "character": "Sandton Hotel Receptionist",
+      "order": 13,
+      "cast_id": 1016,
+      "popularity": 0.4331,
+      "profile_path": "/oOFWMVKnlANGd8CpwRRFSank5hz.jpg"
+    },
+    {
+      "personId": 5104170,
+      "name": "Gresham Phetjaulima",
+      "character": "Bellboy",
+      "order": 14,
+      "cast_id": 1017,
+      "popularity": 0.0214,
+      "profile_path": null
+    },
+    {
+      "personId": 120084,
+      "name": "Tony Caprari",
+      "character": "Bar Owner",
+      "order": 15,
+      "cast_id": 1018,
+      "popularity": 0.4865,
+      "profile_path": "/xw4AtIl36pz7ds6AMXrLFfEVLV5.jpg"
+    },
+    {
+      "personId": 1246688,
+      "name": "Themsie Times",
+      "character": "Black Hooker (as Temsie Times)",
+      "order": 16,
+      "cast_id": 1019,
+      "popularity": 0.3989,
+      "profile_path": "/3AHpSDFP1BnVDUhQbrLxdMteNlb.jpg"
+    },
+    {
+      "personId": 5104171,
+      "name": "Helge Janssen",
+      "character": "Crack Dealer",
+      "order": 17,
+      "cast_id": 1020,
+      "popularity": 0.1206,
+      "profile_path": null
+    },
+    {
+      "personId": 203421,
+      "name": "Anthony Bishop",
+      "character": "White Thug",
+      "order": 18,
+      "cast_id": 1021,
+      "popularity": 0.7203,
+      "profile_path": null
+    },
+    {
+      "personId": 1856040,
+      "name": "Ross Preller",
+      "character": "White Thug",
+      "order": 19,
+      "cast_id": 1022,
+      "popularity": 0.6798,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 16730,
+      "name": "Darrell James Roodt",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5526,
+      "profile_path": "/iJ0oqs5Il1B6hEV2A1FLmTYeMXz.jpg"
+    }
+  ],
+  "keywords": []
+}

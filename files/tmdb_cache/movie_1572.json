@@ -1,0 +1,356 @@
+{
+  "overview": "New York detective John McClane is back and kicking bad-guy butt in the third installment of this action-packed series, which finds him teaming with civilian Zeus Carver to prevent the loss of innocent lives. McClane thought he'd seen it all, until a genius named Simon engages McClane, his new \"partner\" -- and his beloved city -- in a deadly game that demands their concentration.",
+  "release_date": "1995-05-19",
+  "runtime": 128,
+  "budget": 90000000,
+  "revenue": 366101666,
+  "tmdb_vote_average": 7.277,
+  "tmdb_vote_count": 6472,
+  "tmdb_popularity": 8.3197,
+  "original_language": "en",
+  "poster_path": "/buqmCdFQEWwEpL3agGgg2GVjN2d.jpg",
+  "backdrop_path": "/fBvSfLetWlAMevQVHa0nBDV1Fon.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 25,
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    },
+    {
+      "id": 1504,
+      "name": "Cinergi Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 248797,
+      "name": "Andrew G. Vajna Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "de",
+      "name": "Deutsch"
+    },
+    {
+      "code": "ro",
+      "name": "Română"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 62,
+      "name": "Bruce Willis",
+      "character": "John McClane",
+      "order": 0,
+      "cast_id": 8,
+      "popularity": 8.2539,
+      "profile_path": "/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+    },
+    {
+      "personId": 2231,
+      "name": "Samuel L. Jackson",
+      "character": "Zeus Carver",
+      "order": 1,
+      "cast_id": 9,
+      "popularity": 9.5835,
+      "profile_path": "/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+    },
+    {
+      "personId": 16940,
+      "name": "Jeremy Irons",
+      "character": "Simon",
+      "order": 2,
+      "cast_id": 7,
+      "popularity": 5.0112,
+      "profile_path": "/w8Ct1q02Ht3sWdOSqfp3B85TzT.jpg"
+    },
+    {
+      "personId": 17351,
+      "name": "Larry Bryggman",
+      "character": "Chief Walter Cobb",
+      "order": 3,
+      "cast_id": 14,
+      "popularity": 1.182,
+      "profile_path": "/8G6HW1X6IT06Kwl9ldmGQuaW9nL.jpg"
+    },
+    {
+      "personId": 6804,
+      "name": "Graham Greene",
+      "character": "Joe Lambert",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 4.602,
+      "profile_path": "/ubX9pwrzQqnR41gAGyY1GoSZr1G.jpg"
+    },
+    {
+      "personId": 141747,
+      "name": "Anthony Peck",
+      "character": "Ricky Walsh",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 1.5671,
+      "profile_path": "/o6LBVRuT1xgDIFTRJ52DqWmlohl.jpg"
+    },
+    {
+      "personId": 91421,
+      "name": "Nicholas Wyman",
+      "character": "Mathias Targo",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 0.9497,
+      "profile_path": "/xbStwYe7106WG0egxC2ZZ3lCd66.jpg"
+    },
+    {
+      "personId": 34395,
+      "name": "Kevin Chamberlin",
+      "character": "Charles Weiss",
+      "order": 7,
+      "cast_id": 19,
+      "popularity": 1.5356,
+      "profile_path": "/cHwugr3nbptbgzzqP0Ib5xXjFWF.jpg"
+    },
+    {
+      "personId": 13023,
+      "name": "Colleen Camp",
+      "character": "Connie Kowalski",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 3.0729,
+      "profile_path": "/hNAIkUVtsQfpC95BDkXr1lmoI2F.jpg"
+    },
+    {
+      "personId": 45337,
+      "name": "Sam Phillips",
+      "character": "Katya",
+      "order": 9,
+      "cast_id": 18,
+      "popularity": 0.391,
+      "profile_path": "/2oqcONjUnpUHhA5e191Q39TNt2Z.jpg"
+    },
+    {
+      "personId": 141749,
+      "name": "Michael Alexander Jackson",
+      "character": "Dexter",
+      "order": 10,
+      "cast_id": 22,
+      "popularity": 0.3307,
+      "profile_path": null
+    },
+    {
+      "personId": 83860,
+      "name": "Aldis Hodge",
+      "character": "Raymond",
+      "order": 11,
+      "cast_id": 23,
+      "popularity": 3.3168,
+      "profile_path": "/enDU0pemco1mFxxdLKUzWakC6sk.jpg"
+    },
+    {
+      "personId": 141748,
+      "name": "Sharon Washington",
+      "character": "Officer Jane",
+      "order": 12,
+      "cast_id": 20,
+      "popularity": 0.7998,
+      "profile_path": "/kZktXVoRLaETbNkiMoDBzFpdWVB.jpg"
+    },
+    {
+      "personId": 6438,
+      "name": "Stephen Pearlman",
+      "character": "Dr. Fred Schiller",
+      "order": 13,
+      "cast_id": 21,
+      "popularity": 0.5944,
+      "profile_path": "/ij2xrHgkbsYEjqs4rWq2QB2ENAe.jpg"
+    },
+    {
+      "personId": 19902,
+      "name": "Mischa Hausserman",
+      "character": "Mischa",
+      "order": 14,
+      "cast_id": 24,
+      "popularity": 2.7692,
+      "profile_path": null
+    },
+    {
+      "personId": 56679,
+      "name": "Edwin Hodge",
+      "character": "Dexter's Friend",
+      "order": 15,
+      "cast_id": 71,
+      "popularity": 1.7487,
+      "profile_path": "/lkouUtGzfgUPUj1LP8cEk8yvKXo.jpg"
+    },
+    {
+      "personId": 1218024,
+      "name": "Robert Sedgwick",
+      "character": "Rolf",
+      "order": 16,
+      "cast_id": 72,
+      "popularity": 0.9898,
+      "profile_path": "/50rHkrr6yBCcEjdGzI3OZsDJ2my.jpg"
+    },
+    {
+      "personId": 89485,
+      "name": "Tony Halme",
+      "character": "Roman",
+      "order": 17,
+      "cast_id": 66,
+      "popularity": 0.7813,
+      "profile_path": "/scEsDqEybz2DpOeEQEOBxEROHwp.jpg"
+    },
+    {
+      "personId": 2887284,
+      "name": "Bill Christ",
+      "character": "Ivan",
+      "order": 18,
+      "cast_id": 73,
+      "popularity": 0.4419,
+      "profile_path": null
+    },
+    {
+      "personId": 75606,
+      "name": "Anthony Thomas",
+      "character": "Gang Member #1",
+      "order": 19,
+      "cast_id": 74,
+      "popularity": 0.4485,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1090,
+      "name": "John McTiernan",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.5221,
+      "profile_path": "/yVfDkVbgQHD1A7JSV8Z47EjB1mU.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 444,
+      "name": "taxi"
+    },
+    {
+      "id": 1321,
+      "name": "gold"
+    },
+    {
+      "id": 720,
+      "name": "helicopter"
+    },
+    {
+      "id": 642,
+      "name": "robbery"
+    },
+    {
+      "id": 6149,
+      "name": "police"
+    },
+    {
+      "id": 258,
+      "name": "bomb"
+    },
+    {
+      "id": 483,
+      "name": "riddle"
+    },
+    {
+      "id": 703,
+      "name": "detective"
+    },
+    {
+      "id": 1812,
+      "name": "fbi"
+    },
+    {
+      "id": 9663,
+      "name": "sequel"
+    },
+    {
+      "id": 9856,
+      "name": "flashback"
+    },
+    {
+      "id": 9748,
+      "name": "revenge"
+    },
+    {
+      "id": 10950,
+      "name": "shootout"
+    },
+    {
+      "id": 14601,
+      "name": "explosion"
+    },
+    {
+      "id": 156022,
+      "name": "nypd"
+    },
+    {
+      "id": 158022,
+      "name": "cargo ship"
+    },
+    {
+      "id": 166519,
+      "name": "wild goose chase"
+    },
+    {
+      "id": 177309,
+      "name": "simon says"
+    },
+    {
+      "id": 188329,
+      "name": "dump truck"
+    },
+    {
+      "id": 189920,
+      "name": "harlem, new york city"
+    },
+    {
+      "id": 192707,
+      "name": "aqueduct"
+    },
+    {
+      "id": 205710,
+      "name": "bomb threat"
+    },
+    {
+      "id": 219404,
+      "name": "action hero"
+    },
+    {
+      "id": 220572,
+      "name": "deadly game"
+    },
+    {
+      "id": 226838,
+      "name": "federal reserve bank"
+    },
+    {
+      "id": 307495,
+      "name": "nyc subway"
+    }
+  ]
+}

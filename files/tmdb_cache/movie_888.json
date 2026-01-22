@@ -1,0 +1,289 @@
+{
+  "overview": "Modern Stone Age family the Flintstones hit the big screen in this live-action version of the classic cartoon. Fred helps Barney adopt a child. Barney sees an opportunity to repay him when Slate Mining tests its employees to find a new executive. But no good deed goes unpunished.",
+  "release_date": "1994-05-27",
+  "runtime": 91,
+  "budget": 46000000,
+  "revenue": 341631208,
+  "tmdb_vote_average": 5.4,
+  "tmdb_vote_count": 2554,
+  "tmdb_popularity": 3.6142,
+  "original_language": "en",
+  "poster_path": "/k7gkf5Wa8YZ9iyEOylBMfw9pnkp.jpg",
+  "backdrop_path": "/4byUSbNrjqCSjqVYrJU6AxqyZYr.jpg",
+  "tmdb_genres_raw": [
+    "Fantasy",
+    "Comedy",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 1353,
+      "name": "Hanna-Barbera Cartoons",
+      "origin_country": "US"
+    },
+    {
+      "id": 56,
+      "name": "Amblin Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1230,
+      "name": "John Goodman",
+      "character": "Fred Flintstone",
+      "order": 0,
+      "cast_id": 16,
+      "popularity": 5.5264,
+      "profile_path": "/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg"
+    },
+    {
+      "personId": 20,
+      "name": "Elizabeth Perkins",
+      "character": "Wilma Flintstone",
+      "order": 1,
+      "cast_id": 17,
+      "popularity": 4.424,
+      "profile_path": "/vTWYllD9V76rgv9XAbtkkjjeunG.jpg"
+    },
+    {
+      "personId": 8872,
+      "name": "Rick Moranis",
+      "character": "Barney Rubble",
+      "order": 2,
+      "cast_id": 18,
+      "popularity": 3.278,
+      "profile_path": "/rVZbTJjM4g0Um6trlLHRiBzBO7t.jpg"
+    },
+    {
+      "personId": 12929,
+      "name": "Rosie O'Donnell",
+      "character": "Betty Rubble",
+      "order": 3,
+      "cast_id": 19,
+      "popularity": 1.8,
+      "profile_path": "/bfeIiPngsbLU7zK8sS18l3Pz3KR.jpg"
+    },
+    {
+      "personId": 6677,
+      "name": "Kyle MacLachlan",
+      "character": "Cliff Vandercave",
+      "order": 4,
+      "cast_id": 20,
+      "popularity": 4.0968,
+      "profile_path": "/7gNyx8fYAUdOp2jpCEH3dyFbeV.jpg"
+    },
+    {
+      "personId": 4587,
+      "name": "Halle Berry",
+      "character": "Sharon Stone",
+      "order": 5,
+      "cast_id": 21,
+      "popularity": 6.9392,
+      "profile_path": "/yfAJMERSlDIZD1iy6Aab8bArcCK.jpg"
+    },
+    {
+      "personId": 3635,
+      "name": "Elizabeth Taylor",
+      "character": "Pearl Slaghoople",
+      "order": 6,
+      "cast_id": 22,
+      "popularity": 4.1289,
+      "profile_path": "/nKF00U432UIe9AokJsN6IIft3CC.jpg"
+    },
+    {
+      "personId": 9175,
+      "name": "Dann Florek",
+      "character": "Mr. Slate",
+      "order": 7,
+      "cast_id": 23,
+      "popularity": 1.8361,
+      "profile_path": "/qVi8ah5m5OP2Jc3DwqGePa5YxDE.jpg"
+    },
+    {
+      "personId": 13591,
+      "name": "Richard Moll",
+      "character": "Hoagie",
+      "order": 8,
+      "cast_id": 24,
+      "popularity": 1.3506,
+      "profile_path": "/p51OMBLWgsmf3qeprxszXHLmxKt.jpg"
+    },
+    {
+      "personId": 13592,
+      "name": "Irwin Keyes",
+      "character": "Joe Rockhead",
+      "order": 9,
+      "cast_id": 25,
+      "popularity": 0.8734,
+      "profile_path": "/bfNqPAk536o4AYxunTmZmsVGBJE.jpg"
+    },
+    {
+      "personId": 13593,
+      "name": "Jonathan Winters",
+      "character": "Gobo The Grizzled Man",
+      "order": 10,
+      "cast_id": 26,
+      "popularity": 1.0791,
+      "profile_path": "/c2pp7XSUBTbUyptlDjaEhoyz9QX.jpg"
+    },
+    {
+      "personId": 13640,
+      "name": "Harvey Korman",
+      "character": "Ali / Dicabird / Blossom's Adopted Doll Son Ali",
+      "order": 11,
+      "cast_id": 35,
+      "popularity": 2.8504,
+      "profile_path": "/cE5X1OAa6iDOo3JKj9uM8kHwQQI.jpg"
+    },
+    {
+      "personId": 2581975,
+      "name": "Lainey Silver",
+      "character": "Pebbles",
+      "order": 12,
+      "cast_id": 74,
+      "popularity": 0.3071,
+      "profile_path": "/hKchM2iIarhJPpWh9luCJ8NyVJz.jpg"
+    },
+    {
+      "personId": 2694714,
+      "name": "Melanie Silver",
+      "character": "Pebbles",
+      "order": 13,
+      "cast_id": 101,
+      "popularity": 0.4528,
+      "profile_path": "/6578YfaI05J3yOBzRgkrRAmd47o.jpg"
+    },
+    {
+      "personId": 2581976,
+      "name": "Hlynur Sigurðsson",
+      "character": "Bamm-Bamm",
+      "order": 14,
+      "cast_id": 76,
+      "popularity": 0.2217,
+      "profile_path": "/iw9f6IARJ7iEBuPZafMfqZrCNhX.jpg"
+    },
+    {
+      "personId": 2581977,
+      "name": "Marinó Sigurðsson",
+      "character": "Bamm-Bamm",
+      "order": 15,
+      "cast_id": 77,
+      "popularity": 0.172,
+      "profile_path": null
+    },
+    {
+      "personId": 33613,
+      "name": "Sheryl Lee Ralph",
+      "character": "Mrs. Pyrite",
+      "order": 16,
+      "cast_id": 78,
+      "popularity": 2.0309,
+      "profile_path": "/8S9CilET8kJKkxOQPEsA3OYSZGg.jpg"
+    },
+    {
+      "personId": 145257,
+      "name": "Jean Vander Pyl",
+      "character": "Mrs. Feldspar",
+      "order": 17,
+      "cast_id": 52,
+      "popularity": 0.4691,
+      "profile_path": "/pHJjddmRyn3f2TP2HmgcGhY0HMT.jpg"
+    },
+    {
+      "personId": 1330740,
+      "name": "Janice Kent",
+      "character": "Stewardess",
+      "order": 18,
+      "cast_id": 79,
+      "popularity": 1.0812,
+      "profile_path": "/dyDlJXnpxX3hu4BDAye8sPhv6BO.jpg"
+    },
+    {
+      "personId": 41224,
+      "name": "Jack O'Halloran",
+      "character": "Yeti",
+      "order": 19,
+      "cast_id": 80,
+      "popularity": 0.6661,
+      "profile_path": "/3ke5FqVyLEGtYZu5lns9qRvi5K0.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 13581,
+      "name": "Brian Levant",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.2345,
+      "profile_path": "/w5i30CI5PekRZry3AgME1ntEQSP.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6054,
+      "name": "friendship"
+    },
+    {
+      "id": 4812,
+      "name": "plan"
+    },
+    {
+      "id": 931,
+      "name": "jealousy"
+    },
+    {
+      "id": 554,
+      "name": "manager"
+    },
+    {
+      "id": 2393,
+      "name": "adoption"
+    },
+    {
+      "id": 2374,
+      "name": "bad mother-in-law"
+    },
+    {
+      "id": 2783,
+      "name": "family's daily life"
+    },
+    {
+      "id": 4428,
+      "name": "stone age"
+    },
+    {
+      "id": 10244,
+      "name": "based on cartoon"
+    },
+    {
+      "id": 12392,
+      "name": "best friend"
+    },
+    {
+      "id": 12616,
+      "name": "dinosaur"
+    },
+    {
+      "id": 159955,
+      "name": "cavemen"
+    }
+  ]
+}

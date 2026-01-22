@@ -1,0 +1,321 @@
+{
+  "overview": "Nanni Moretti recalls in his diary three slice of life stories characterized by a sharply ironic look: in the first one he wanders through a deserted Rome, in the second he visits a reclusive friend on an island, and in the last he has to grapple with an unknown illness.",
+  "release_date": "1993-11-12",
+  "runtime": 101,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 7.3,
+  "tmdb_vote_count": 502,
+  "tmdb_popularity": 0.7644,
+  "original_language": "it",
+  "poster_path": "/rAjbgSUvZDoy5jPbC5jD6pWvlyZ.jpg",
+  "backdrop_path": "/dsMqUvdYGeXSky9cQO26JJOhFZa.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 9364,
+      "name": "Sacher Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 20769,
+      "name": "Banfilm",
+      "origin_country": "FR"
+    },
+    {
+      "id": 16366,
+      "name": "La Sept Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 183,
+      "name": "Le Studio Canal+",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "it",
+      "name": "Italiano"
+    },
+    {
+      "code": "zh",
+      "name": "普通话"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 69488,
+      "name": "Nanni Moretti",
+      "character": "Nanni Moretti",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.01,
+      "profile_path": "/zbZr2fbJp1xCX0xG77yUOPpWtHJ.jpg"
+    },
+    {
+      "personId": 35104,
+      "name": "Renato Carpentieri",
+      "character": "Gerardo",
+      "order": 1,
+      "cast_id": 10,
+      "popularity": 1.0906,
+      "profile_path": "/i0BRmXfeJCgGAzg58nzfLgGWLUi.jpg"
+    },
+    {
+      "personId": 93730,
+      "name": "Antonio Neiwiller",
+      "character": "Mayor of Stromboli",
+      "order": 2,
+      "cast_id": 15,
+      "popularity": 0.6169,
+      "profile_path": "/haVeszgmvUbRrSQWDToM6q6LxuQ.jpg"
+    },
+    {
+      "personId": 93728,
+      "name": "Claudia Della Seta",
+      "character": "Second couple #1",
+      "order": 3,
+      "cast_id": 13,
+      "popularity": 1.6834,
+      "profile_path": "/xIwuSCTFxJIoBn7EDpESdL8CjkO.jpg"
+    },
+    {
+      "personId": 93729,
+      "name": "Lorenzo Alessandri",
+      "character": "Second couple #2",
+      "order": 4,
+      "cast_id": 14,
+      "popularity": 0.2104,
+      "profile_path": "/j2OvRD2QMdGr1xSYz2dmgn9DaCc.jpg"
+    },
+    {
+      "personId": 93726,
+      "name": "Raffaella Lebboroni",
+      "character": "First couple #1",
+      "order": 5,
+      "cast_id": 11,
+      "popularity": 1.7745,
+      "profile_path": "/4ExMBh5s6eonU4yyZp3Gq20fgBW.jpg"
+    },
+    {
+      "personId": 93727,
+      "name": "Marco Paolini",
+      "character": "First couple #2",
+      "order": 6,
+      "cast_id": 12,
+      "popularity": 2.3622,
+      "profile_path": "/xOpNRILKaC5LTEJKrCxpuHt1AW3.jpg"
+    },
+    {
+      "personId": 936480,
+      "name": "Moni Ovadia",
+      "character": "Lucio",
+      "order": 7,
+      "cast_id": 19,
+      "popularity": 0.7248,
+      "profile_path": "/oCWqzvHsHvv3o9bWVlziEFnXDjT.jpg"
+    },
+    {
+      "personId": 68162,
+      "name": "Riccardo Zinna",
+      "character": "Resident of Alicudi",
+      "order": 8,
+      "cast_id": 20,
+      "popularity": 0.5566,
+      "profile_path": "/nYGqnrKE1U4bKdiABTcJ3mIvjXt.jpg"
+    },
+    {
+      "personId": 3130,
+      "name": "Jennifer Beals",
+      "character": "Self",
+      "order": 9,
+      "cast_id": 8,
+      "popularity": 3.2391,
+      "profile_path": "/tu1CjyjoUoV7rGPyvwvH9b0MlbW.jpg"
+    },
+    {
+      "personId": 3111,
+      "name": "Alexandre Rockwell",
+      "character": "Self",
+      "order": 10,
+      "cast_id": 9,
+      "popularity": 0.5638,
+      "profile_path": "/hYaedJhO8IFAXfkkV9diJWEUquG.jpg"
+    },
+    {
+      "personId": 7700,
+      "name": "Conchita Airoldi",
+      "character": "Resident of Panarea",
+      "order": 11,
+      "cast_id": 21,
+      "popularity": 1.9261,
+      "profile_path": "/uRO3HN100iYUNTVjGjEgMwNewMQ.jpg"
+    },
+    {
+      "personId": 93723,
+      "name": "Giulio Base",
+      "character": "Car driver",
+      "order": 12,
+      "cast_id": 5,
+      "popularity": 1.4294,
+      "profile_path": "/7LEgHfuFvNyT9rexE1caRqLGFbt.jpg"
+    },
+    {
+      "personId": 93720,
+      "name": "Giovanna Bozzolo",
+      "character": "Actor in the Italian film",
+      "order": 13,
+      "cast_id": 2,
+      "popularity": 0.2794,
+      "profile_path": "/ar3tn7dzdAc3kAwOHVRaHb0AcFt.jpg"
+    },
+    {
+      "personId": 93721,
+      "name": "Sebastiano Nardone",
+      "character": "Actor in the Italian film",
+      "order": 14,
+      "cast_id": 3,
+      "popularity": 0.4543,
+      "profile_path": "/wGthetFZqWO6Kio7zOFx63Bbsb8.jpg"
+    },
+    {
+      "personId": 115609,
+      "name": "Roberto Nobile",
+      "character": "Last dermatologist",
+      "order": 15,
+      "cast_id": 22,
+      "popularity": 1.7259,
+      "profile_path": "/9Y5xZqeFbZ6qshJ0WS6e6U6VBxP.jpg"
+    },
+    {
+      "personId": 93722,
+      "name": "Antonio Petrocelli",
+      "character": "Actor in the Italian film",
+      "order": 16,
+      "cast_id": 4,
+      "popularity": 0.9726,
+      "profile_path": "/iqYdxG48zrWbVJO05H1yb43467u.jpg"
+    },
+    {
+      "personId": 1591929,
+      "name": "Cristina Aubry",
+      "character": "",
+      "order": 17,
+      "cast_id": 42,
+      "popularity": 0.283,
+      "profile_path": "/3uDSwUDOEV6jLsDcX2CGtWpe4a5.jpg"
+    },
+    {
+      "personId": 67166,
+      "name": "Donatella Botti",
+      "character": "",
+      "order": 18,
+      "cast_id": 43,
+      "popularity": 0.3859,
+      "profile_path": null
+    },
+    {
+      "personId": 126970,
+      "name": "Umberto Contarello",
+      "character": "Chinese doctors' assistant",
+      "order": 19,
+      "cast_id": 44,
+      "popularity": 0.6411,
+      "profile_path": "/bM0JA7grV7woxmDRp9GZSNSHiER.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 69488,
+      "name": "Nanni Moretti",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.01,
+      "profile_path": "/zbZr2fbJp1xCX0xG77yUOPpWtHJ.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 588,
+      "name": "rome, italy"
+    },
+    {
+      "id": 4610,
+      "name": "comeback"
+    },
+    {
+      "id": 9706,
+      "name": "anthology"
+    },
+    {
+      "id": 10163,
+      "name": "cancer"
+    },
+    {
+      "id": 14735,
+      "name": "motorcycle"
+    },
+    {
+      "id": 155480,
+      "name": "vespa"
+    },
+    {
+      "id": 156630,
+      "name": "remote island"
+    },
+    {
+      "id": 160612,
+      "name": "self-referential"
+    },
+    {
+      "id": 165402,
+      "name": "semi autobiographical"
+    },
+    {
+      "id": 185018,
+      "name": "autobiographical"
+    },
+    {
+      "id": 210052,
+      "name": "urbanism"
+    },
+    {
+      "id": 210608,
+      "name": "1990s"
+    },
+    {
+      "id": 212755,
+      "name": "personal diary"
+    },
+    {
+      "id": 221021,
+      "name": "diary film"
+    },
+    {
+      "id": 230967,
+      "name": "self-reflexive"
+    },
+    {
+      "id": 233488,
+      "name": "deadpan comedy"
+    }
+  ]
+}

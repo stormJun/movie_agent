@@ -1,0 +1,254 @@
+{
+  "overview": "The story about the relationship between a manic depressive man, Mr. Jones, and the female doctor who takes more than a professional interest in his treatment.",
+  "release_date": "1993-10-08",
+  "runtime": 114,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.736,
+  "tmdb_vote_count": 165,
+  "tmdb_popularity": 3.4159,
+  "original_language": "en",
+  "poster_path": "/rmAnfar51B0qSQ1Wkix0iKtUUnx.jpg",
+  "backdrop_path": "/cvtHD8gxuHyLtF6M8ZN2QPWxOYr.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 559,
+      "name": "TriStar Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1205,
+      "name": "Richard Gere",
+      "character": "Mr. Jones",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 5.9547,
+      "profile_path": "/lWjnKsszeYaY7McFPyyQxK2gONV.jpg"
+    },
+    {
+      "personId": 5313,
+      "name": "Lena Olin",
+      "character": "Dr. Elizabeth 'Libbie' Bowen",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 3.5055,
+      "profile_path": "/tUg7cH4qLqs5WdOIH0WMQby9kWH.jpg"
+    },
+    {
+      "personId": 10774,
+      "name": "Anne Bancroft",
+      "character": "Dr. Catherine Holland",
+      "order": 2,
+      "cast_id": 21,
+      "popularity": 2.6376,
+      "profile_path": "/ydabiabIsMBe2HsNmx43gBpqzxx.jpg"
+    },
+    {
+      "personId": 27544,
+      "name": "Tom Irwin",
+      "character": "Dr. Patrick Shaye",
+      "order": 3,
+      "cast_id": 14,
+      "popularity": 1.287,
+      "profile_path": "/8b7rYs71tWWWFiObyqxoIzJwbRJ.jpg"
+    },
+    {
+      "personId": 18792,
+      "name": "Delroy Lindo",
+      "character": "Howard",
+      "order": 4,
+      "cast_id": 15,
+      "popularity": 2.6845,
+      "profile_path": "/kLwUBBmEIdchrLqwsYzgLB2B6q5.jpg"
+    },
+    {
+      "personId": 27545,
+      "name": "Bruce Altman",
+      "character": "David",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 1.3483,
+      "profile_path": "/n5y8Mg572LGT3eHyeZaa9NMMlAN.jpg"
+    },
+    {
+      "personId": 15100,
+      "name": "Lauren Tom",
+      "character": "Amanda Chang",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 3.0736,
+      "profile_path": "/fTKFspRRQ275AkzvtPERLZnXe0n.jpg"
+    },
+    {
+      "personId": 27546,
+      "name": "Lisa Malkiewicz",
+      "character": "Susan",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 1.2471,
+      "profile_path": "/fglz4JTbmWAfOkNPhngQffOZRNL.jpg"
+    },
+    {
+      "personId": 9284,
+      "name": "Thomas Kopache",
+      "character": "Mr. Wilson",
+      "order": 8,
+      "cast_id": 19,
+      "popularity": 1.4831,
+      "profile_path": "/kQOH3XyoGJqtQlBDCYh5o0R70Aa.jpg"
+    },
+    {
+      "personId": 12876,
+      "name": "Peter Jurasik",
+      "character": "Dr. Rosen",
+      "order": 9,
+      "cast_id": 20,
+      "popularity": 1.0121,
+      "profile_path": "/7zqyg8kDaYHyXZfabxQ5M6tq5Fp.jpg"
+    },
+    {
+      "personId": 54800,
+      "name": "Anna Maria Horsford",
+      "character": "Judge Harris",
+      "order": 10,
+      "cast_id": 22,
+      "popularity": 1.5862,
+      "profile_path": "/fVA25hLtwmrVsIVrcWOojaPoYEq.jpg"
+    },
+    {
+      "personId": 95468,
+      "name": "Kelli Williams",
+      "character": "Kelli",
+      "order": 11,
+      "cast_id": 23,
+      "popularity": 2.5214,
+      "profile_path": "/6P8MzCm2rgBJFVciaka2r6E6TIt.jpg"
+    },
+    {
+      "personId": 6726,
+      "name": "Sheryl Lee",
+      "character": "June (uncredited)",
+      "order": 12,
+      "cast_id": 37,
+      "popularity": 3.0969,
+      "profile_path": "/7llsjKMExjQylGgmqKCpiSSapUG.jpg"
+    },
+    {
+      "personId": 8984,
+      "name": "Bill Pullman",
+      "character": "Construction Site Foreman (uncredited)",
+      "order": 13,
+      "cast_id": 30,
+      "popularity": 3.8015,
+      "profile_path": "/AlLhgmcX5zh3frPT82OSPY9gqXO.jpg"
+    },
+    {
+      "personId": 27737,
+      "name": "Bill Moseley",
+      "character": "Worker",
+      "order": 14,
+      "cast_id": 24,
+      "popularity": 1.6219,
+      "profile_path": "/l2ksJH5uUCIaeTuier6wXrURrnv.jpg"
+    },
+    {
+      "personId": 83788,
+      "name": "Irene Tsu",
+      "character": "Mrs. Chang",
+      "order": 15,
+      "cast_id": 25,
+      "popularity": 1.7369,
+      "profile_path": "/4uoLvzREqRMvVAIfVNH6bgakNqE.jpg"
+    },
+    {
+      "personId": 16584,
+      "name": "Dana Lee",
+      "character": "Mr. Chang",
+      "order": 16,
+      "cast_id": 26,
+      "popularity": 2.0261,
+      "profile_path": "/k9fWzIKYt2Cf3MNC1j1r7TUC2CR.jpg"
+    },
+    {
+      "personId": 162605,
+      "name": "Kathy Kinney",
+      "character": "Homeless Lady",
+      "order": 17,
+      "cast_id": 27,
+      "popularity": 0.8646,
+      "profile_path": "/3UDuBZVbTjial2JrmLhJnNItLl4.jpg"
+    },
+    {
+      "personId": 34535,
+      "name": "Annie McEnroe",
+      "character": "Crying Woman",
+      "order": 18,
+      "cast_id": 28,
+      "popularity": 2.0468,
+      "profile_path": "/elB4sLQupC4880XZWDzR33ndkJH.jpg"
+    },
+    {
+      "personId": 5148,
+      "name": "Lucinda Jenney",
+      "character": "Christine",
+      "order": 19,
+      "cast_id": 29,
+      "popularity": 1.6681,
+      "profile_path": "/ahR0bNUJRi9Phpd7RZWx4ILiMEb.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 6111,
+      "name": "Mike Figgis",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.3537,
+      "profile_path": "/8qTZVgAlkb0N03CW66q1j2VTdQw.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 894,
+      "name": "depression"
+    },
+    {
+      "id": 2726,
+      "name": "therapist"
+    },
+    {
+      "id": 161698,
+      "name": "doctor patient relationship"
+    },
+    {
+      "id": 166927,
+      "name": "symphony"
+    },
+    {
+      "id": 207592,
+      "name": "piano"
+    },
+    {
+      "id": 220448,
+      "name": "bipolar disorder"
+    }
+  ]
+}

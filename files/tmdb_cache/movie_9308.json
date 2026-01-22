@@ -1,0 +1,219 @@
+{
+  "overview": "Richard Clark has just left the well-known Wellington Academy to teach at Marion Barry High School. Now, he will try to inspire the D-average students into making good grades and try to woo a fellow teacher.",
+  "release_date": "1996-10-25",
+  "runtime": 86,
+  "budget": 0,
+  "revenue": 21302121,
+  "tmdb_vote_average": 5.4,
+  "tmdb_vote_count": 214,
+  "tmdb_popularity": 1.5665,
+  "original_language": "en",
+  "poster_path": "/rVaKt2stFzTfae2VEuTz3hlF3yC.jpg",
+  "backdrop_path": "/aXMQIcZ7RFYnE2PC50952msVq2E.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Crime",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 559,
+      "name": "TriStar Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 2851,
+      "name": "Zucker Brothers Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16165,
+      "name": "Jon Lovitz",
+      "character": "Richard Clark",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.1835,
+      "profile_path": "/jBXSLoDEVwYkNqSVWHV9yDo8whA.jpg"
+    },
+    {
+      "personId": 13445,
+      "name": "Tia Carrere",
+      "character": "Victoria Chapell",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 6.7751,
+      "profile_path": "/oAIyl8U6bMvID8gJKskeKmLB1cA.jpg"
+    },
+    {
+      "personId": 7071,
+      "name": "Louise Fletcher",
+      "character": "Schuldirektorin Evelyn Doyle",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.6078,
+      "profile_path": "/hN15em5LqXqDe1QgDa6lXK9fx3z.jpg"
+    },
+    {
+      "personId": 327,
+      "name": "Mekhi Phifer",
+      "character": "Griff McReynolds",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 3.5966,
+      "profile_path": "/jCvF0bpi9emIWBnu20MCMU0bwrf.jpg"
+    },
+    {
+      "personId": 3270,
+      "name": "Natasha Gregson Wagner",
+      "character": "Julie Rubels",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 2.6327,
+      "profile_path": "/4Nq7uccj8RR3Elr1OzLhckRiEJv.jpg"
+    },
+    {
+      "personId": 12642,
+      "name": "John Neville",
+      "character": "Thaddeus Clark",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 1.1257,
+      "profile_path": "/q9dqdcETh7fejWKYpIRz1tWnkN3.jpg"
+    },
+    {
+      "personId": 74612,
+      "name": "Malinda Williams",
+      "character": "Natalie Thompson",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 1.0684,
+      "profile_path": "/4e4uPY2NinRB2MDCgakYIOubZPL.jpg"
+    },
+    {
+      "personId": 8695,
+      "name": "Guillermo Díaz",
+      "character": "Paco Rodriguez",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 3.8126,
+      "profile_path": "/oso3tpCcf6wbjeHk2bpeKMV52zP.jpg"
+    },
+    {
+      "personId": 73132,
+      "name": "Marco Rodríguez",
+      "character": "Mr. DeMarco",
+      "order": 8,
+      "cast_id": 19,
+      "popularity": 1.8885,
+      "profile_path": "/p0Sf93CgRmysHEBRapRpqlFH1SJ.jpg"
+    },
+    {
+      "personId": 41125,
+      "name": "Eric Allan Kramer",
+      "character": "Hulk",
+      "order": 9,
+      "cast_id": 20,
+      "popularity": 2.7191,
+      "profile_path": "/nqa9idbLT0AdhrIIu0o8bbxvoBk.jpg"
+    },
+    {
+      "personId": 100461,
+      "name": "Nicholas Worth",
+      "character": "Rhino",
+      "order": 10,
+      "cast_id": 21,
+      "popularity": 1.1219,
+      "profile_path": "/ws74axGppblp2tBg21wjK8faPq6.jpg"
+    },
+    {
+      "personId": 1433893,
+      "name": "Lu Elrod",
+      "character": "Miss Bernie Wells",
+      "order": 11,
+      "cast_id": 22,
+      "popularity": 0.5175,
+      "profile_path": "/3mt6ImqOlLnIk9pcietnM1mWOS3.jpg"
+    },
+    {
+      "personId": 55637,
+      "name": "Brian Hooks",
+      "character": "Anferny Jefferson",
+      "order": 12,
+      "cast_id": 24,
+      "popularity": 1.3163,
+      "profile_path": "/2E7apZ2BTqHClmlFZesLRwvlhNx.jpg"
+    },
+    {
+      "personId": 4273271,
+      "name": "Colleen Fitzpatrick",
+      "character": "Singer",
+      "order": 13,
+      "cast_id": 29,
+      "popularity": 1.165,
+      "profile_path": "/aiyBx6dg9OxIlgs1VOBKz5kEj3X.jpg"
+    },
+    {
+      "personId": 2564660,
+      "name": "Kotoko Kawamura",
+      "character": "Asian Woman",
+      "order": 14,
+      "cast_id": 36,
+      "popularity": 1.0905,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 7678,
+      "name": "Hart Bochner",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.3872,
+      "profile_path": "/nfC2ByTNS3xoygwYVbUYsx2Zae6.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6270,
+      "name": "high school"
+    },
+    {
+      "id": 11931,
+      "name": "spoof"
+    },
+    {
+      "id": 10873,
+      "name": "school"
+    },
+    {
+      "id": 12670,
+      "name": "los angeles, california"
+    },
+    {
+      "id": 154842,
+      "name": "school teacher"
+    },
+    {
+      "id": 346378,
+      "name": "inspiring teacher"
+    },
+    {
+      "id": 349088,
+      "name": "surviving in school"
+    }
+  ]
+}

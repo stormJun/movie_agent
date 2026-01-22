@@ -1,0 +1,288 @@
+{
+  "overview": "This simple romantic tragedy begins in 1957. Guy Foucher, a 20-year-old French auto mechanic, has fallen in love with 17-year-old Geneviève Emery, an employee in her widowed mother's chic but financially embattled umbrella shop. On the evening before Guy is to leave for a two-year tour of combat in Algeria, he and Geneviève make love. She becomes pregnant and must choose between waiting for Guy's return or accepting an offer of marriage from a wealthy diamond merchant.",
+  "release_date": "1964-02-19",
+  "runtime": 92,
+  "budget": 200000,
+  "revenue": 7600000,
+  "tmdb_vote_average": 7.4,
+  "tmdb_vote_count": 856,
+  "tmdb_popularity": 2.293,
+  "original_language": "fr",
+  "poster_path": "/tAgTf64XKK5ir7w5C7dnB53jWWG.jpg",
+  "backdrop_path": "/giScYWIfx3xJFFWGFR8vJsWg2ho.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 14680,
+      "name": "Parc Film",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1147,
+      "name": "Madeleine Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1080,
+      "name": "Beta Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 50,
+      "name": "Catherine Deneuve",
+      "character": "Geneviève Emery",
+      "order": 0,
+      "cast_id": 8,
+      "popularity": 3.9432,
+      "profile_path": "/5IThAorp3R4bPmkIhe7snFFo2YU.jpg"
+    },
+    {
+      "personId": 5476,
+      "name": "Nino Castelnuovo",
+      "character": "Guy Foucher",
+      "order": 1,
+      "cast_id": 9,
+      "popularity": 0.6845,
+      "profile_path": "/mzrMYNEbME4tksVEAgYEQoIDHAB.jpg"
+    },
+    {
+      "personId": 28608,
+      "name": "Anne Vernon",
+      "character": "Madame Emery",
+      "order": 2,
+      "cast_id": 10,
+      "popularity": 1.5987,
+      "profile_path": "/AdcPTUEEf6x8fcFMEvWC5RYn9Oy.jpg"
+    },
+    {
+      "personId": 46935,
+      "name": "Mireille Perrey",
+      "character": "Tante Élise",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 0.6659,
+      "profile_path": "/jCjTgU453ibMNhxItcmjvv81gtA.jpg"
+    },
+    {
+      "personId": 46936,
+      "name": "Marc Michel",
+      "character": "Roland Cassard",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 0.6097,
+      "profile_path": "/b7QbG4DDom3uPv6FMaVgV9HlAAc.jpg"
+    },
+    {
+      "personId": 46937,
+      "name": "Ellen Farner",
+      "character": "Madeleine",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 0.5234,
+      "profile_path": "/dMoLUl6EXwkU2BpMsQtp4ZKOnBf.jpg"
+    },
+    {
+      "personId": 18767,
+      "name": "Jean Champion",
+      "character": "Aubin",
+      "order": 6,
+      "cast_id": 14,
+      "popularity": 0.9478,
+      "profile_path": "/kXsJHwaiamlpvsfVFYLUvYGjijd.jpg"
+    },
+    {
+      "personId": 46939,
+      "name": "Jean-Pierre Dorat",
+      "character": "Jean",
+      "order": 7,
+      "cast_id": 16,
+      "popularity": 0.1069,
+      "profile_path": "/s0Li0jJbDrLHtOs9wMjUnsqO2mY.jpg"
+    },
+    {
+      "personId": 582145,
+      "name": "Harald Wolff",
+      "character": "Monsieur Dubourg",
+      "order": 8,
+      "cast_id": 27,
+      "popularity": 1.4107,
+      "profile_path": "/sHW9umdXfMxhCu91Xqbbgb8vwKt.jpg"
+    },
+    {
+      "personId": 46938,
+      "name": "Pierre Caden",
+      "character": "Bernard",
+      "order": 9,
+      "cast_id": 15,
+      "popularity": 0.0989,
+      "profile_path": null
+    },
+    {
+      "personId": 2496411,
+      "name": "Bernard Fradet",
+      "character": "Gas Station Apprentice",
+      "order": 10,
+      "cast_id": 22,
+      "popularity": 0.1491,
+      "profile_path": null
+    },
+    {
+      "personId": 2232450,
+      "name": "Michel Benoist",
+      "character": "Umbrella Buyer",
+      "order": 11,
+      "cast_id": 23,
+      "popularity": 0.3357,
+      "profile_path": null
+    },
+    {
+      "personId": 18812,
+      "name": "Philippe Dumat",
+      "character": "Garage Customer in 1957",
+      "order": 12,
+      "cast_id": 24,
+      "popularity": 1.3492,
+      "profile_path": "/ypj6hYkv5bbL4rENybsQDS0wBZR.jpg"
+    },
+    {
+      "personId": 1151713,
+      "name": "Dorothée Blanck",
+      "character": "Girl in Cafe",
+      "order": 13,
+      "cast_id": 25,
+      "popularity": 1.306,
+      "profile_path": "/kCJmGWnplulFBEGXB5ZQvu8A1Q.jpg"
+    },
+    {
+      "personId": 2496413,
+      "name": "Jane Carat",
+      "character": "Ginny",
+      "order": 14,
+      "cast_id": 26,
+      "popularity": 0.1008,
+      "profile_path": null
+    },
+    {
+      "personId": 2496414,
+      "name": "Danielle Licari",
+      "character": "Geneviève Emery (singing voice)",
+      "order": 15,
+      "cast_id": 28,
+      "popularity": 0.214,
+      "profile_path": "/o73RY0qda2zBbxeo6PjV35jLONf.jpg"
+    },
+    {
+      "personId": 1446351,
+      "name": "José Bartel",
+      "character": "Guy Foucher (singing voice)",
+      "order": 16,
+      "cast_id": 29,
+      "popularity": 0.1179,
+      "profile_path": null
+    },
+    {
+      "personId": 2358597,
+      "name": "Christiane Legrand",
+      "character": "Madame Emery (singing voice)",
+      "order": 17,
+      "cast_id": 30,
+      "popularity": 0.1957,
+      "profile_path": "/hDHwMV66SqDlNcLxkddUvgAUsYp.jpg"
+    },
+    {
+      "personId": 1366656,
+      "name": "Georges Blaness",
+      "character": "Roland Cassard (singing voice)",
+      "order": 18,
+      "cast_id": 31,
+      "popularity": 0.1538,
+      "profile_path": "/8oyokblF3rkghzHVQ2dloDeCogj.jpg"
+    },
+    {
+      "personId": 2496415,
+      "name": "Claudine Meunier",
+      "character": "Madeleine (singing voice, as C. Meunier)",
+      "order": 19,
+      "cast_id": 32,
+      "popularity": 0.1046,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 24882,
+      "name": "Jacques Demy",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6316,
+      "profile_path": "/bx21xUkP7meIoK0Y5LtZ7VaJFLd.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3296,
+      "name": "car mechanic"
+    },
+    {
+      "id": 3344,
+      "name": "letter"
+    },
+    {
+      "id": 4299,
+      "name": "normandy, france"
+    },
+    {
+      "id": 4344,
+      "name": "musical"
+    },
+    {
+      "id": 9457,
+      "name": "single"
+    },
+    {
+      "id": 41277,
+      "name": "umbrella"
+    },
+    {
+      "id": 208611,
+      "name": "1950s"
+    },
+    {
+      "id": 208992,
+      "name": "1960s"
+    },
+    {
+      "id": 211659,
+      "name": "somber"
+    },
+    {
+      "id": 291823,
+      "name": "cherbourg, france"
+    },
+    {
+      "id": 325804,
+      "name": "earnest"
+    }
+  ]
+}

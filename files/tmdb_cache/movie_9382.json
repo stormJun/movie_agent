@@ -1,0 +1,314 @@
+{
+  "overview": "After breaking up with her girlfriend, a nightclub singer, Jane, answers a personal ad from Robin, a real estate agent with AIDS, seeking a cross-country travel partner. On their journey from New York City to Los Angeles, the two stop by Pittsburgh to pick up Jane's friend Holly, who is trying to escape an abusive relationship. With three distinct personalities, the women must overcome their differences to help one another.",
+  "release_date": "1995-02-03",
+  "runtime": 115,
+  "budget": 21000000,
+  "revenue": 23450000,
+  "tmdb_vote_average": 6.374,
+  "tmdb_vote_count": 247,
+  "tmdb_popularity": 1.9192,
+  "original_language": "en",
+  "poster_path": "/2dhZnfBjiza5TupvOupRU4hFAcJ.jpg",
+  "backdrop_path": "/gja1HJCm1byNL6AsM8BSv6LveNk.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 508,
+      "name": "Regency Enterprises",
+      "origin_country": "US"
+    },
+    {
+      "id": 644,
+      "name": "Alcor Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 16192,
+      "name": "Hera Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 10104,
+      "name": "New Regency Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 183,
+      "name": "Le Studio Canal+",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2395,
+      "name": "Whoopi Goldberg",
+      "character": "Jane Deluca",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.2878,
+      "profile_path": "/wZKI7qcEIVgiHxeFtk3NuKt8URQ.jpg"
+    },
+    {
+      "personId": 18248,
+      "name": "Mary-Louise Parker",
+      "character": "Robin",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 4.8508,
+      "profile_path": "/1ohhrIZ4OMlLx9DvHjPhQJAIP0F.jpg"
+    },
+    {
+      "personId": 69597,
+      "name": "Drew Barrymore",
+      "character": "Holly Pulchik-Lincoln",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 5.264,
+      "profile_path": "/9xMu2GLC5otUcC11sEWC5aEAERQ.jpg"
+    },
+    {
+      "personId": 10297,
+      "name": "Matthew McConaughey",
+      "character": "Abe Lincoln",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 7.6078,
+      "profile_path": "/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
+    },
+    {
+      "personId": 1736,
+      "name": "James Remar",
+      "character": "Alex",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 5.9465,
+      "profile_path": "/56LwfMaMge2LmWYI46O6R2Wm0YX.jpg"
+    },
+    {
+      "personId": 39112,
+      "name": "Billy Wirth",
+      "character": "Nick",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 1.2109,
+      "profile_path": "/4I451aSKzDLTv2y1kyTIxYlVp9o.jpg"
+    },
+    {
+      "personId": 20974,
+      "name": "Anita Gillette",
+      "character": "Elaine",
+      "order": 6,
+      "cast_id": 22,
+      "popularity": 0.9483,
+      "profile_path": "/l3L12TDB1napZ9NeUgJbKIG4V4E.jpg"
+    },
+    {
+      "personId": 118937,
+      "name": "Dennis Boutsikaris",
+      "character": "Massarelli",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 2.3641,
+      "profile_path": "/eholEaSnVKzse1l7ph6hDsfTTi7.jpg"
+    },
+    {
+      "personId": 6461,
+      "name": "Estelle Parsons",
+      "character": "Louise",
+      "order": 8,
+      "cast_id": 19,
+      "popularity": 1.1213,
+      "profile_path": "/e2MNDJy2GqrUiden7DcqZUrCvq.jpg"
+    },
+    {
+      "personId": 33457,
+      "name": "Amy Aquino",
+      "character": "Anna",
+      "order": 9,
+      "cast_id": 20,
+      "popularity": 2.3112,
+      "profile_path": "/59E061EJyEl2CLcBd12p9Vi7q0B.jpg"
+    },
+    {
+      "personId": 51806,
+      "name": "Stan Egi",
+      "character": "Henry",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 0.621,
+      "profile_path": "/BpuVjBfeEm3Q2y6EbtThJTUxIU.jpg"
+    },
+    {
+      "personId": 46395,
+      "name": "Stephen Gevedon",
+      "character": "Johnny Figgis/Jane's Band",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 0.7818,
+      "profile_path": "/6VM3pEpwebjUKJvIlxzRu4LnBoP.jpg"
+    },
+    {
+      "personId": 1099284,
+      "name": "Amy Ray",
+      "character": "Indigo Girl",
+      "order": 12,
+      "cast_id": 69,
+      "popularity": 1.0676,
+      "profile_path": "/qcBJp2A4eYTmmZRl8RebjxXqdHt.jpg"
+    },
+    {
+      "personId": 974491,
+      "name": "Emily Saliers",
+      "character": "Indigo Girl",
+      "order": 13,
+      "cast_id": 26,
+      "popularity": 0.2883,
+      "profile_path": "/iiXowYIHKPbvjnYbWvZqKgWoZk.jpg"
+    },
+    {
+      "personId": 8693,
+      "name": "Jude Ciccolella",
+      "character": "Jerry",
+      "order": 14,
+      "cast_id": 17,
+      "popularity": 1.4283,
+      "profile_path": "/sS506N50Brzyu0wgq18mk3pj4dH.jpg"
+    },
+    {
+      "personId": 16183,
+      "name": "Gedde Watanabe",
+      "character": "Steve",
+      "order": 15,
+      "cast_id": 27,
+      "popularity": 1.3603,
+      "profile_path": "/4uI6QEicUA0cR5suA0B2bEM7JBt.jpg"
+    },
+    {
+      "personId": 288,
+      "name": "Jon Seda",
+      "character": "Pete",
+      "order": 16,
+      "cast_id": 28,
+      "popularity": 2.0099,
+      "profile_path": "/4Wwgtvieu2j4f6AHqUMgnDFufa5.jpg"
+    },
+    {
+      "personId": 2963137,
+      "name": "Mimi Toro",
+      "character": "Carrie",
+      "order": 17,
+      "cast_id": 29,
+      "popularity": 0.1017,
+      "profile_path": null
+    },
+    {
+      "personId": 24358,
+      "name": "Lori Alan",
+      "character": "Girl with Attitude",
+      "order": 18,
+      "cast_id": 21,
+      "popularity": 1.969,
+      "profile_path": "/cavATg4fX0zAl2MHwlt1IZei7EI.jpg"
+    },
+    {
+      "personId": 167115,
+      "name": "Mary Anne McGarry",
+      "character": "Dr. Newbauer",
+      "order": 19,
+      "cast_id": 30,
+      "popularity": 1.6102,
+      "profile_path": "/fsnGTJIFr5vaNFR1Kl4RKsuq7Wz.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 18378,
+      "name": "Herbert Ross",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.7808,
+      "profile_path": "/mnPjBUHjwFEVpVk1KjGLxwgcgaR.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6054,
+      "name": "friendship"
+    },
+    {
+      "id": 10685,
+      "name": "escape"
+    },
+    {
+      "id": 740,
+      "name": "aids"
+    },
+    {
+      "id": 1013,
+      "name": "homophobia"
+    },
+    {
+      "id": 1849,
+      "name": "homicide"
+    },
+    {
+      "id": 1253,
+      "name": "roommates"
+    },
+    {
+      "id": 1926,
+      "name": "car journey"
+    },
+    {
+      "id": 5248,
+      "name": "female friendship"
+    },
+    {
+      "id": 7312,
+      "name": "road trip"
+    },
+    {
+      "id": 9713,
+      "name": "friends"
+    },
+    {
+      "id": 11925,
+      "name": "domestic violence"
+    },
+    {
+      "id": 230574,
+      "name": "fresh start"
+    },
+    {
+      "id": 233361,
+      "name": "abusive boyfriend"
+    },
+    {
+      "id": 264386,
+      "name": "lesbian"
+    },
+    {
+      "id": 267488,
+      "name": "chosen family"
+    }
+  ]
+}

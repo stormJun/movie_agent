@@ -1,0 +1,173 @@
+{
+  "overview": "Jason and Midget are two young, black teenagers living in Newark, New Jersey, the unofficial car theft capital of the world. Their favourite pastime is that of everybody in their neighbourhood: stealing cars and joyriding. The trouble starts when they steal a police car and the cops launch a violent offensive that involves beating and even shooting suspects.",
+  "release_date": "1995-04-19",
+  "runtime": 98,
+  "budget": 5000000,
+  "revenue": 0,
+  "tmdb_vote_average": 6.244,
+  "tmdb_vote_count": 45,
+  "tmdb_popularity": 0.5815,
+  "original_language": "en",
+  "poster_path": "/lXJWJT6lfAg2NEqEueJcI4ESWSG.jpg",
+  "backdrop_path": "/ds835eZ1BQa6MP0GuaGuu8Bb9RD.jpg",
+  "tmdb_genres_raw": [
+    "Crime",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 4319,
+      "name": "40 Acres and a Mule Filmworks",
+      "origin_country": "US"
+    },
+    {
+      "id": 37,
+      "name": "Gramercy Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 122712,
+      "name": "Sharron Corley",
+      "character": "Jason Petty",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 0.2638,
+      "profile_path": "/qa4C3TymBCqU41sp2P6tSFaScJ3.jpg"
+    },
+    {
+      "personId": 18272,
+      "name": "Gabriel Casseus",
+      "character": "Midget",
+      "order": 1,
+      "cast_id": 15,
+      "popularity": 2.3508,
+      "profile_path": "/sQ8IhQEVT7TFtfPucg47UCI7RqS.jpg"
+    },
+    {
+      "personId": 1187,
+      "name": "Saul Stein",
+      "character": "Emil Roscoe",
+      "order": 2,
+      "cast_id": 22,
+      "popularity": 1.3346,
+      "profile_path": "/bDRdpx2tzNfDrYpgbJzmjKz7kCF.jpg"
+    },
+    {
+      "personId": 49002,
+      "name": "Donald Faison",
+      "character": "Tiny",
+      "order": 3,
+      "cast_id": 13,
+      "popularity": 1.6422,
+      "profile_path": "/gNwWP1CHob9Y8fjY69w7EwGxMoz.jpg"
+    },
+    {
+      "personId": 42296,
+      "name": "Gwen McGee",
+      "character": "Rene Petty",
+      "order": 4,
+      "cast_id": 29,
+      "popularity": 1.2176,
+      "profile_path": "/2wj44JWYHtbQhNWd5UIk5XYVm7o.jpg"
+    },
+    {
+      "personId": 18795,
+      "name": "Heavy D",
+      "character": "Bo-Kane",
+      "order": 5,
+      "cast_id": 19,
+      "popularity": 1.4946,
+      "profile_path": "/oSNehsmEedRsSfAcZG0NqY5XjIe.jpg"
+    },
+    {
+      "personId": 90776,
+      "name": "Roscoe Orman",
+      "character": "Judge",
+      "order": 6,
+      "cast_id": 21,
+      "popularity": 0.7887,
+      "profile_path": "/xslKXOC0xrhq04il4VqAfzVbiR1.jpg"
+    },
+    {
+      "personId": 11870,
+      "name": "Christine Baranski",
+      "character": "Prosecutor",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 3.5073,
+      "profile_path": "/q6Zi3BYlmoim1JXXMGgRVS5C87x.jpg"
+    },
+    {
+      "personId": 927666,
+      "name": "Michele Morgan",
+      "character": "Coreen",
+      "order": 8,
+      "cast_id": 23,
+      "popularity": 0.3398,
+      "profile_path": "/pXIOSCjGzuoG87TUz97tZGddtSk.jpg"
+    },
+    {
+      "personId": 2489246,
+      "name": "Ellsworth Davis",
+      "character": "Cisco",
+      "order": 9,
+      "cast_id": 24,
+      "popularity": 0.2638,
+      "profile_path": "/50arHiCL6sfCGKOfDtVzWqyHd4u.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 17278,
+      "name": "Nick Gomez",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.2469,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 898,
+      "name": "hip-hop"
+    },
+    {
+      "id": 586,
+      "name": "new jersey"
+    },
+    {
+      "id": 6149,
+      "name": "police"
+    },
+    {
+      "id": 14707,
+      "name": "brutality"
+    },
+    {
+      "id": 156316,
+      "name": "troubled teen"
+    },
+    {
+      "id": 208384,
+      "name": "black youths"
+    }
+  ]
+}

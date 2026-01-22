@@ -1,0 +1,111 @@
+{
+  "overview": "After her groom is killed in a bandit ambush, a young peasant bride must move into the home of her wealthy mother-in-law, Madame Liu. In a perverse tribute to her fallen son, Madame Liu imposes on her new daughter-in-law a life of domestic servitude. In the midst of her misery, the young widow finds new romance with another peasant, the gentle and brave Kui. But when Madame Liu discovers her infidelity, she vows to keep the lovers apart.",
+  "release_date": "1994-02-05",
+  "runtime": 113,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.9,
+  "tmdb_vote_count": 6,
+  "tmdb_popularity": 0.2451,
+  "original_language": "zh",
+  "poster_path": "/6qX1sUq4daMpHWMhtWScYMKGGCn.jpg",
+  "backdrop_path": "/gqwd5cPEDkWddVSIvm0KebfvyDA.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 5551,
+      "name": "Long Shong Pictures",
+      "origin_country": "TW"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "TW",
+      "name": "Taiwan"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "zh",
+      "name": "普通话"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 228915,
+      "name": "Ku Pao-Ming",
+      "character": "Brother",
+      "order": 0,
+      "cast_id": 1000,
+      "popularity": 1.3042,
+      "profile_path": "/oN7HDmKzUid5KbEfAwtsz3w1pNc.jpg"
+    },
+    {
+      "personId": 228916,
+      "name": "Mingjun Kao",
+      "character": "Chief Tang",
+      "order": 1,
+      "cast_id": 1001,
+      "popularity": 0.3604,
+      "profile_path": null
+    },
+    {
+      "personId": 43918,
+      "name": "Lan Wang",
+      "character": "Young Mistress",
+      "order": 2,
+      "cast_id": 1003,
+      "popularity": 1.0123,
+      "profile_path": "/lHQ8thKfDrM5mWNiPj5pzzNDCl9.jpg"
+    },
+    {
+      "personId": 228918,
+      "name": "Wang Yumei",
+      "character": "Madame Liu",
+      "order": 3,
+      "cast_id": 1004,
+      "popularity": 0.4741,
+      "profile_path": "/3bxOC65EIhdi8zu9EpY5xKB0tjL.jpg"
+    },
+    {
+      "personId": 1163179,
+      "name": "Wang Fuli",
+      "character": "Sister Ma",
+      "order": 4,
+      "cast_id": 1010,
+      "popularity": 0.9057,
+      "profile_path": "/2XMmBhMq8DtzNk0rTuod552NAVV.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 134026,
+      "name": "Huang Jianxin",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.2479,
+      "profile_path": "/enSVmPi7UMS3YmiMhD7PWzoeguT.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3582,
+      "name": "bride"
+    },
+    {
+      "id": 13159,
+      "name": "chinese"
+    },
+    {
+      "id": 171817,
+      "name": "groom"
+    },
+    {
+      "id": 208544,
+      "name": "tofu"
+    }
+  ]
+}

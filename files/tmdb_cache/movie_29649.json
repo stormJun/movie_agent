@@ -1,0 +1,250 @@
+{
+  "overview": "A school teacher takes over a talented, but undisciplined high school basketball team and turns them into a winning team.",
+  "release_date": "1996-04-26",
+  "runtime": 99,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.1,
+  "tmdb_vote_count": 18,
+  "tmdb_popularity": 4.3752,
+  "original_language": "en",
+  "poster_path": "/rkt8cYfOV6vcqlDbut7jak9qaPh.jpg",
+  "backdrop_path": "/2s4PRABzR5INckMIVurdRrNCzF6.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 216,
+      "name": "Jersey Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 559,
+      "name": "TriStar Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 24203,
+      "name": "Rhea Perlman",
+      "character": "Phyllis Saroka",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.9854,
+      "profile_path": "/3kUrd75OesnsmicI15dWdswHy7T.jpg"
+    },
+    {
+      "personId": 59568,
+      "name": "Fredro Starr",
+      "character": "Shorty",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.2442,
+      "profile_path": "/2N2JWF1S353JFcbpkEHkg06b1o.jpg"
+    },
+    {
+      "personId": 10556,
+      "name": "Carol Kane",
+      "character": "Mona",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.4101,
+      "profile_path": "/3EOZ7B148lRwJcl3CmQhfpgubYQ.jpg"
+    },
+    {
+      "personId": 18288,
+      "name": "Terrence Howard",
+      "character": "Spaceman",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 3.3643,
+      "profile_path": "/eZ6uRZOYWZAyjNmWpDKGdLL6WUC.jpg"
+    },
+    {
+      "personId": 74077,
+      "name": "Camille Saviola",
+      "character": "Barbara",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.3011,
+      "profile_path": "/1eoZ00hGzik9a22XfrsNbo6N0gS.jpg"
+    },
+    {
+      "personId": 93538,
+      "name": "De'Aundre Bonds",
+      "character": "Busy-Bee",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 0.8932,
+      "profile_path": "/xLYdv9VCVQyip0zB2FT0fko4hZe.jpg"
+    },
+    {
+      "personId": 104501,
+      "name": "Talent Harris",
+      "character": "Butter",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 0.5367,
+      "profile_path": "/kd9T2Hbv7OBJamtTEGvAh1C51eh.jpg"
+    },
+    {
+      "personId": 104502,
+      "name": "Anthony C. Hall",
+      "character": "Andre",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 0.4469,
+      "profile_path": "/yZ24xg4HN2U2fDeR61qNs7q7WUD.jpg"
+    },
+    {
+      "personId": 93602,
+      "name": "Antwon Tanner",
+      "character": "Drano",
+      "order": 8,
+      "cast_id": 8,
+      "popularity": 1.3293,
+      "profile_path": "/A4NzQtW7hCmPUCKBvvUlMJzu9i.jpg"
+    },
+    {
+      "personId": 101257,
+      "name": "Shawn Michael Howard",
+      "character": "Kurt",
+      "order": 9,
+      "cast_id": 10,
+      "popularity": 0.9116,
+      "profile_path": "/7VZ0s8YnQa3cTuhrT8DslkhoHfD.jpg"
+    },
+    {
+      "personId": 828,
+      "name": "Guy Torry",
+      "character": "Boo Man",
+      "order": 10,
+      "cast_id": 11,
+      "popularity": 1.3009,
+      "profile_path": "/GDuwKO86VGWWeWOHJK3SPYQzXE.jpg"
+    },
+    {
+      "personId": 104503,
+      "name": "Scott Burkholder",
+      "character": "Morris Bernstein",
+      "order": 11,
+      "cast_id": 12,
+      "popularity": 1.2355,
+      "profile_path": "/7cfSbcHsi6T5dI29B22fImWcND7.jpg"
+    },
+    {
+      "personId": 104504,
+      "name": "John Aprea",
+      "character": "Dominic",
+      "order": 12,
+      "cast_id": 13,
+      "popularity": 1.1383,
+      "profile_path": "/hZ8Wlv3WaRMqNrRtWZBkw4lcjJj.jpg"
+    },
+    {
+      "personId": 104505,
+      "name": "John Vargas",
+      "character": "Mr. Santiago",
+      "order": 13,
+      "cast_id": 14,
+      "popularity": 0.6881,
+      "profile_path": "/v2fud5zA5BquUHBO8tJoHTMqV59.jpg"
+    },
+    {
+      "personId": 104506,
+      "name": "Rhonda Stubbins White",
+      "character": "Carla",
+      "order": 14,
+      "cast_id": 15,
+      "popularity": 1.5083,
+      "profile_path": "/7UYh9Q4zKG5ZRnG36Ez7bUA8gDK.jpg"
+    },
+    {
+      "personId": 2494187,
+      "name": "Steffen Foster",
+      "character": "Washington Heights Coach",
+      "order": 15,
+      "cast_id": 38,
+      "popularity": 0.2438,
+      "profile_path": null
+    },
+    {
+      "personId": 1212688,
+      "name": "Hattie Winston",
+      "character": "Judge Meyer",
+      "order": 16,
+      "cast_id": 39,
+      "popularity": 0.9381,
+      "profile_path": "/9YzeJ3enfznE9rOfXbwxUwWUYPq.jpg"
+    },
+    {
+      "personId": 5504002,
+      "name": "Curtis McGee",
+      "character": "Referee",
+      "order": 17,
+      "cast_id": 40,
+      "popularity": 0.6999,
+      "profile_path": null
+    },
+    {
+      "personId": 3662075,
+      "name": "Tim Hutchinson",
+      "character": "Referee",
+      "order": 18,
+      "cast_id": 41,
+      "popularity": 0.1261,
+      "profile_path": null
+    },
+    {
+      "personId": 5504003,
+      "name": "Charles E. Thompson",
+      "character": "Referee",
+      "order": 19,
+      "cast_id": 42,
+      "popularity": 0.2932,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 104507,
+      "name": "Steve Gomer",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4219,
+      "profile_path": "/qFhzxgkp9WT5x0YZ8m3Hev2wt7V.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6075,
+      "name": "sports"
+    },
+    {
+      "id": 6496,
+      "name": "basketball"
+    },
+    {
+      "id": 8635,
+      "name": "high school sports"
+    }
+  ]
+}

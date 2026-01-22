@@ -1,0 +1,196 @@
+{
+  "overview": "Guy is a young film executive who's willing to do whatever it takes to make it in Hollywood. He begins working for famed producer Buddy Ackerman, a domineering, manipulative, coldhearted boss. When Guy also finds out that his cynical girlfriend, Dawn, has been using sex as a career move, he reaches his limit. Guy decides to exact revenge on Buddy by kidnapping him and subjecting him to cruel and unusual punishment.",
+  "release_date": "1994-09-10",
+  "runtime": 93,
+  "budget": 700000,
+  "revenue": 382928,
+  "tmdb_vote_average": 6.6,
+  "tmdb_vote_count": 328,
+  "tmdb_popularity": 0.8547,
+  "original_language": "en",
+  "poster_path": "/eMRiIJIEyMLjWjktIqjNfzs9jGX.jpg",
+  "backdrop_path": "/9g9PAn7kciQhzdbjfPmDeXjaWix.jpg",
+  "tmdb_genres_raw": [
+    "Crime",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 4063,
+      "name": "Trimark Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 2832,
+      "name": "Cineville",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1979,
+      "name": "Kevin Spacey",
+      "character": "Buddy Ackerman",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.1115,
+      "profile_path": "/nPrUZDEbGQe6jwpVbHKJCXsMd7r.jpg"
+    },
+    {
+      "personId": 11805,
+      "name": "Frank Whaley",
+      "character": "Guy",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 3.5716,
+      "profile_path": "/vxxV3rPGUvsiXuu8A5g61lz27yS.jpg"
+    },
+    {
+      "personId": 41820,
+      "name": "Michelle Forbes",
+      "character": "Dawn Lockard",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.7352,
+      "profile_path": "/xIBkKMV6DumvheliQvWQEYQWO4W.jpg"
+    },
+    {
+      "personId": 1121,
+      "name": "Benicio del Toro",
+      "character": "Rex",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 5.6972,
+      "profile_path": "/cVh4UgCMu6aAkZ2BqymTLV86FzZ.jpg"
+    },
+    {
+      "personId": 521717,
+      "name": "T.E. Russell",
+      "character": "Foster Kane",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 0.8651,
+      "profile_path": "/dOJb6luGZK3AQJxFXLXcWo97Evy.jpg"
+    },
+    {
+      "personId": 4002,
+      "name": "Roy Dotrice",
+      "character": "Cyrus Miles",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 1.3923,
+      "profile_path": "/etXS22XFmYmHiQ7RDYf72pPO4fp.jpg"
+    },
+    {
+      "personId": 58491,
+      "name": "Matthew Flint",
+      "character": "Manny",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 0.501,
+      "profile_path": "/yL4uUpwtLHf5iDbkth4O5Z23Xwr.jpg"
+    },
+    {
+      "personId": 52801,
+      "name": "Patrick Fischler",
+      "character": "Moe",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 3.3105,
+      "profile_path": "/vVj7GjHL9hOilbKwViXZpnUlbcQ.jpg"
+    },
+    {
+      "personId": 26470,
+      "name": "Jerry Levine",
+      "character": "Jack",
+      "order": 8,
+      "cast_id": 10,
+      "popularity": 1.6902,
+      "profile_path": "/xbaUQojYKZGlD7kejb4sQXGrRq0.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 57028,
+      "name": "George Huang",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8617,
+      "profile_path": "/22CKxLjJ35WrsoIQAeNr4zZVXft.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3658,
+      "name": "career"
+    },
+    {
+      "id": 1930,
+      "name": "kidnapping"
+    },
+    {
+      "id": 2887,
+      "name": "manipulation"
+    },
+    {
+      "id": 10123,
+      "name": "dark comedy"
+    },
+    {
+      "id": 8201,
+      "name": "satire"
+    },
+    {
+      "id": 10886,
+      "name": "punishment"
+    },
+    {
+      "id": 9748,
+      "name": "revenge"
+    },
+    {
+      "id": 12396,
+      "name": "hollywood"
+    },
+    {
+      "id": 12670,
+      "name": "los angeles, california"
+    },
+    {
+      "id": 33740,
+      "name": "humiliation"
+    },
+    {
+      "id": 169311,
+      "name": "disgruntled worker"
+    },
+    {
+      "id": 212404,
+      "name": "verbal abuse"
+    },
+    {
+      "id": 254568,
+      "name": "studio executive"
+    },
+    {
+      "id": 266245,
+      "name": "movie producer"
+    },
+    {
+      "id": 274087,
+      "name": "evil boss"
+    }
+  ]
+}

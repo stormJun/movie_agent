@@ -1,0 +1,308 @@
+{
+  "overview": "Herbert Stempel's transformation into an unexpected television personality unfolds as he secures victory on the cherished American game show, 'Twenty-One.' However, when the show introduces the highly skilled contestant Charles Van Doren to replace Stempel, it compels Stempel to let out his frustrations and call out the show as rigged. Lawyer Richard Goodwin steps in and attempts to uncover the orchestrated deception behind the scenes.",
+  "release_date": "1994-08-25",
+  "runtime": 133,
+  "budget": 31000000,
+  "revenue": 24822619,
+  "tmdb_vote_average": 7.258,
+  "tmdb_vote_count": 957,
+  "tmdb_popularity": 2.0212,
+  "original_language": "en",
+  "poster_path": "/yoGJo1h3Hl2exXPVcG9UXWDENtX.jpg",
+  "backdrop_path": "/zfKV7ePKCw1n4VOZ2R6glMQRNKe.jpg",
+  "tmdb_genres_raw": [
+    "History",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 11407,
+      "name": "Baltimore Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 316,
+      "name": "Wildwood Enterprises",
+      "origin_country": "US"
+    },
+    {
+      "id": 915,
+      "name": "Hollywood Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1241,
+      "name": "John Turturro",
+      "character": "Herb Stempel",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.5084,
+      "profile_path": "/6O9W9cJW0kCqMzYeLupV9oH0ftn.jpg"
+    },
+    {
+      "personId": 52602,
+      "name": "Rob Morrow",
+      "character": "Dick Goodwin",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.9529,
+      "profile_path": "/nxF4xVyEtQLMxDXlhJHnCoKM4MI.jpg"
+    },
+    {
+      "personId": 5469,
+      "name": "Ralph Fiennes",
+      "character": "Charles Van Doren",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 6.4519,
+      "profile_path": "/u29BOqiV5GCQ8k8WUJM50i9xlBf.jpg"
+    },
+    {
+      "personId": 13324,
+      "name": "Paul Scofield",
+      "character": "Mark Van Doren",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 0.785,
+      "profile_path": "/c9GUKYC5Ew14jUBL70i2gdGRuMp.jpg"
+    },
+    {
+      "personId": 19839,
+      "name": "David Paymer",
+      "character": "Dan Enright",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 2.6305,
+      "profile_path": "/owoOdDFgXpls1OFKwmQ104Nkl5.jpg"
+    },
+    {
+      "personId": 5587,
+      "name": "Hank Azaria",
+      "character": "Albert Freedman",
+      "order": 5,
+      "cast_id": 19,
+      "popularity": 3.8011,
+      "profile_path": "/yFDw4b0jucuFWNnGcBPfpYUtn16.jpg"
+    },
+    {
+      "personId": 4443,
+      "name": "Christopher McDonald",
+      "character": "Jack Barry",
+      "order": 6,
+      "cast_id": 20,
+      "popularity": 3.2756,
+      "profile_path": "/gK1XhbfD9Xd8s3VXRPpgDCluyZp.jpg"
+    },
+    {
+      "personId": 170954,
+      "name": "Johann Carlo",
+      "character": "Toby Stempel",
+      "order": 7,
+      "cast_id": 21,
+      "popularity": 0.6359,
+      "profile_path": "/tRLGyqgJW8PdDjT7oo9kh2dpZo4.jpg"
+    },
+    {
+      "personId": 10776,
+      "name": "Elizabeth Wilson",
+      "character": "Dorothy Van Doren",
+      "order": 8,
+      "cast_id": 22,
+      "popularity": 1.1349,
+      "profile_path": "/8jiCTMxqiL1YwPVBqo0Pe2ZOixk.jpg"
+    },
+    {
+      "personId": 568531,
+      "name": "Allan Rich",
+      "character": "Robert Kintner",
+      "order": 9,
+      "cast_id": 23,
+      "popularity": 1.0465,
+      "profile_path": "/3dfwxm2AcwgGBlTxwl3OtQft2dS.jpg"
+    },
+    {
+      "personId": 23931,
+      "name": "Mira Sorvino",
+      "character": "Sandra Goodwin",
+      "order": 10,
+      "cast_id": 24,
+      "popularity": 4.7289,
+      "profile_path": "/3CPM8yvppihiKsA1pf4x8PJe4x6.jpg"
+    },
+    {
+      "personId": 2701,
+      "name": "George Martin",
+      "character": "Chairman",
+      "order": 11,
+      "cast_id": 25,
+      "popularity": 0.7974,
+      "profile_path": "/nIgCta2DazdhpJLQKqyxHpKbqpl.jpg"
+    },
+    {
+      "personId": 925,
+      "name": "Paul Guilfoyle",
+      "character": "Lishman",
+      "order": 12,
+      "cast_id": 26,
+      "popularity": 1.968,
+      "profile_path": "/c7unxeM13lF9pMhZhYwlNsSFjFe.jpg"
+    },
+    {
+      "personId": 2171,
+      "name": "Griffin Dunne",
+      "character": "Account Guy",
+      "order": 13,
+      "cast_id": 27,
+      "popularity": 2.4959,
+      "profile_path": "/oZeAznfOHgK1Kvy9TknkQhag1Um.jpg"
+    },
+    {
+      "personId": 91030,
+      "name": "Michael Mantell",
+      "character": "Pennebaker",
+      "order": 14,
+      "cast_id": 28,
+      "popularity": 1.039,
+      "profile_path": "/wZ8XkAkpok05jQthvy0H8iGoXrz.jpg"
+    },
+    {
+      "personId": 941524,
+      "name": "Byron Jennings",
+      "character": "Moomaw",
+      "order": 15,
+      "cast_id": 42,
+      "popularity": 0.8669,
+      "profile_path": "/2I51lhM3Ya5Cp5aMIp6OxBDUgkv.jpg"
+    },
+    {
+      "personId": 6437,
+      "name": "Ben Shenkman",
+      "character": "Childress",
+      "order": 16,
+      "cast_id": 30,
+      "popularity": 1.3321,
+      "profile_path": "/AcIhNToOtxVc44GOP8IhcuOPqb3.jpg"
+    },
+    {
+      "personId": 23881,
+      "name": "Timothy Busfield",
+      "character": "Fred",
+      "order": 17,
+      "cast_id": 31,
+      "popularity": 1.9623,
+      "profile_path": "/r2VQ4Ar1WCISJoTqOOcO3HEgN4p.jpg"
+    },
+    {
+      "personId": 77023,
+      "name": "Jack Gilpin",
+      "character": "Jack",
+      "order": 18,
+      "cast_id": 32,
+      "popularity": 1.4017,
+      "profile_path": "/xVUmXH9co9P836ZNiRIM1jpsNz2.jpg"
+    },
+    {
+      "personId": 27545,
+      "name": "Bruce Altman",
+      "character": "Gene",
+      "order": 19,
+      "cast_id": 33,
+      "popularity": 1.3483,
+      "profile_path": "/n5y8Mg572LGT3eHyeZaa9NMMlAN.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 4135,
+      "name": "Robert Redford",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 4.521,
+      "profile_path": "/tCcg8rXzYIM4ota9grCCHc881bo.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 5340,
+      "name": "investigation"
+    },
+    {
+      "id": 2887,
+      "name": "manipulation"
+    },
+    {
+      "id": 2954,
+      "name": "manipulation of the media"
+    },
+    {
+      "id": 4325,
+      "name": "game show"
+    },
+    {
+      "id": 6987,
+      "name": "idealism"
+    },
+    {
+      "id": 7271,
+      "name": "tv ratings"
+    },
+    {
+      "id": 9672,
+      "name": "based on true story"
+    },
+    {
+      "id": 6784,
+      "name": "quiz"
+    },
+    {
+      "id": 9031,
+      "name": "idealist"
+    },
+    {
+      "id": 3977,
+      "name": "product placement"
+    },
+    {
+      "id": 10909,
+      "name": "lawyer"
+    },
+    {
+      "id": 208611,
+      "name": "1950s"
+    },
+    {
+      "id": 288302,
+      "name": "fighting the system"
+    },
+    {
+      "id": 325773,
+      "name": "audacious"
+    },
+    {
+      "id": 325775,
+      "name": "awestruck"
+    },
+    {
+      "id": 325790,
+      "name": "cruel"
+    },
+    {
+      "id": 325819,
+      "name": "frustrated"
+    }
+  ]
+}

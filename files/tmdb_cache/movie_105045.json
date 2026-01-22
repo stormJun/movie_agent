@@ -1,0 +1,283 @@
+{
+  "overview": "East-Berlin, 1961, shortly after the erection of the Wall. Konrad, Sophie and three of their friends plan a daring escape to Western Germany. The attempt is successful, except for Konrad, who remains behind. From then on, and for the next 28 years, Konrad and Sophie will attempt to meet again, in spite of the Iron Curtain. Konrad, who has become a reputed Astrophysicist, tries to take advantage of scientific congresses outside Eastern Germany to arrange encounters with Sophie. But in a country where the political police, the Stasi, monitors the moves of all suspicious people (such as Konrad's sister Barbara and her husband Harald), preserving one's privacy, ideals and self-respect becomes an exhausting fight, even as the Eastern block begins its long process of disintegration.",
+  "release_date": "1995-02-16",
+  "runtime": 115,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.313,
+  "tmdb_vote_count": 16,
+  "tmdb_popularity": 0.3365,
+  "original_language": "de",
+  "poster_path": "/pa0g9SFf6LglgrIJ2niDL9v7r6O.jpg",
+  "backdrop_path": "/4hbJneKWTvCBi69dyaRBxJL0GQN.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 310,
+      "name": "CNC",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1712,
+      "name": "Odessa Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 264,
+      "name": "Studio Babelsberg",
+      "origin_country": "DE"
+    },
+    {
+      "id": 104,
+      "name": "Canal+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 46,
+      "name": "WDR",
+      "origin_country": "DE"
+    },
+    {
+      "id": 403,
+      "name": "Neue Bioskop Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "de",
+      "name": "Deutsch"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "cs",
+      "name": "Český"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8790,
+      "name": "Meret Becker",
+      "character": "Sophie I",
+      "order": 0,
+      "cast_id": 6,
+      "popularity": 1.6191,
+      "profile_path": "/yPi5MesrPi9z1AQIiCVXNTV9c5U.jpg"
+    },
+    {
+      "personId": 680,
+      "name": "Corinna Harfouch",
+      "character": "Sophie II",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 1.5033,
+      "profile_path": "/vPs5o94S0as2VSnj4JSATnNTmZa.jpg"
+    },
+    {
+      "personId": 44637,
+      "name": "Anian Zollner",
+      "character": "Konrad I",
+      "order": 2,
+      "cast_id": 25,
+      "popularity": 0.5925,
+      "profile_path": "/61AiBFF3y46XCY0ZChBoiCKybsC.jpg"
+    },
+    {
+      "personId": 11951,
+      "name": "August Zirner",
+      "character": "Konrad II",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 0.5551,
+      "profile_path": "/nKjYT4C9KFLFAt45db9FTw6shLm.jpg"
+    },
+    {
+      "personId": 10627,
+      "name": "Eva Mattes",
+      "character": "Barbara II",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 1.9491,
+      "profile_path": "/63ET2xZ3ezbDGKwXxz2eqwX0pxB.jpg"
+    },
+    {
+      "personId": 1865,
+      "name": "Hark Bohm",
+      "character": "Müller II",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 1.789,
+      "profile_path": "/Avq5ZdFpPiFypULhFKeDKUofI1q.jpg"
+    },
+    {
+      "personId": 2311,
+      "name": "Otto Sander",
+      "character": "Professor Lorenz",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 0.8953,
+      "profile_path": "/bUkS0RolDURiBd2u9OptIHzDK45.jpg"
+    },
+    {
+      "personId": 39908,
+      "name": "Ulrike Krumbiegel",
+      "character": "Elisabeth",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 1.4334,
+      "profile_path": "/3BNQuzi0q4X8YsIVIKeEoQHL3fR.jpg"
+    },
+    {
+      "personId": 48370,
+      "name": "Pierre Besson",
+      "character": "Harald I",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 0.5028,
+      "profile_path": "/v2YP5vb6LAn72udlN4pP6x6bs0.jpg"
+    },
+    {
+      "personId": 10258,
+      "name": "Tina Engel",
+      "character": "Sophies Tante",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 0.8174,
+      "profile_path": "/mOrL4pigcw8el3vhMTngi2FH2mD.jpg"
+    },
+    {
+      "personId": 22379,
+      "name": "Dieter Mann",
+      "character": "Konrad's Vater",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 0.5453,
+      "profile_path": "/cvVNmGTgbq9xhMHCYH1XHwxkULt.jpg"
+    },
+    {
+      "personId": 22953,
+      "name": "Simone von Zglinicki",
+      "character": "Konrad's Mutter",
+      "order": 11,
+      "cast_id": 15,
+      "popularity": 0.5359,
+      "profile_path": null
+    },
+    {
+      "personId": 582456,
+      "name": "Wolfgang Winkler",
+      "character": "Stasi",
+      "order": 12,
+      "cast_id": 16,
+      "popularity": 0.6016,
+      "profile_path": "/undOoiXXuEwVsIifJTmMxBbCiLj.jpg"
+    },
+    {
+      "personId": 45734,
+      "name": "Christina Große",
+      "character": "",
+      "order": 13,
+      "cast_id": 17,
+      "popularity": 1.2553,
+      "profile_path": "/fG4JnnB6z9S1KGVugJQpClionkm.jpg"
+    },
+    {
+      "personId": 2097177,
+      "name": "Susanne Ugé",
+      "character": "Barbara I",
+      "order": 14,
+      "cast_id": 26,
+      "popularity": 0.1791,
+      "profile_path": null
+    },
+    {
+      "personId": 49057,
+      "name": "Hans Kremer",
+      "character": "Harald II",
+      "order": 15,
+      "cast_id": 27,
+      "popularity": 0.4053,
+      "profile_path": null
+    },
+    {
+      "personId": 48898,
+      "name": "Ruth Glöss",
+      "character": "Konrad's grandmother",
+      "order": 16,
+      "cast_id": 28,
+      "popularity": 0.2658,
+      "profile_path": null
+    },
+    {
+      "personId": 20918,
+      "name": "Jean-Yves Gautier",
+      "character": "Gérard",
+      "order": 17,
+      "cast_id": 29,
+      "popularity": 0.3124,
+      "profile_path": "/i3bM6HOu75ZAuxgCQzYUrFqBLIq.jpg"
+    },
+    {
+      "personId": 17374,
+      "name": "Monika Hansen",
+      "character": "Sophie's Mother",
+      "order": 18,
+      "cast_id": 30,
+      "popularity": 0.3421,
+      "profile_path": "/o1lkH5xEK4J88bdwvxBmPtZgalv.jpg"
+    },
+    {
+      "personId": 77427,
+      "name": "Klaus Piontek",
+      "character": "Sophie's Stepfather",
+      "order": 19,
+      "cast_id": 31,
+      "popularity": 0.2197,
+      "profile_path": "/mtSTB1OHCxiDYbw8vFZTjdSt0KN.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 39298,
+      "name": "Margarethe von Trotta",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4845,
+      "profile_path": "/rxFG8ZBtXRt0iRzMKiFOq579GD.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6078,
+      "name": "politics"
+    },
+    {
+      "id": 7059,
+      "name": "anti-communism"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    }
+  ]
+}

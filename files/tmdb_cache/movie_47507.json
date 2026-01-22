@@ -1,0 +1,209 @@
+{
+  "overview": "Lola is pregnant, and she isn’t sure who the father is: Félix, a Jewish delivery boy, or Jamal, a black law student.",
+  "release_date": "1993-08-18",
+  "runtime": 94,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.936,
+  "tmdb_vote_count": 39,
+  "tmdb_popularity": 2.617,
+  "original_language": "fr",
+  "poster_path": "/ojNzabwK0IaAVIjQwcNhxBNYRmr.jpg",
+  "backdrop_path": "/fjFsPT76Mxpe74hSErVamagHVWd.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 35075,
+      "name": "Julie Mauduech",
+      "character": "Lola",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 0.2403,
+      "profile_path": "/ahX2WtMJNaj4Dk1tuCyIKVzZfbS.jpg"
+    },
+    {
+      "personId": 5418,
+      "name": "Hubert Koundé",
+      "character": "Jamal",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 0.8665,
+      "profile_path": "/nii46CtpR2AYPkl8fBKtbrffqQg.jpg"
+    },
+    {
+      "personId": 2406,
+      "name": "Mathieu Kassovitz",
+      "character": "Felix",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 1.287,
+      "profile_path": "/3FRBEdKKlxhvPWPt0jzgmSjeHwn.jpg"
+    },
+    {
+      "personId": 1925,
+      "name": "Vincent Cassel",
+      "character": "Max",
+      "order": 3,
+      "cast_id": 2,
+      "popularity": 4.6408,
+      "profile_path": "/KxzpJXyzVnqfouInWLypAND0gL.jpg"
+    },
+    {
+      "personId": 2133980,
+      "name": "Tadek Lokcinski",
+      "character": "Felix's grandfather",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 0.1784,
+      "profile_path": null
+    },
+    {
+      "personId": 146566,
+      "name": "Jany Holt",
+      "character": "Felix's grandmother",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 0.5649,
+      "profile_path": "/jNqItAweBOwtmLmKsRV4OAGdhGC.jpg"
+    },
+    {
+      "personId": 1347614,
+      "name": "Rywka Wajsbrot",
+      "character": "Felix's Aunt",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 1.1541,
+      "profile_path": null
+    },
+    {
+      "personId": 5424,
+      "name": "Héloïse Rauth",
+      "character": "Sarah",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 0.4728,
+      "profile_path": "/vXfAbfJTvH92srHQR4lAJIYZKTB.jpg"
+    },
+    {
+      "personId": 71363,
+      "name": "Marc Berman",
+      "character": "Maurice",
+      "order": 8,
+      "cast_id": 10,
+      "popularity": 1.4982,
+      "profile_path": "/cu07ykzbZnKNDU3GiW6uJfWLrAB.jpg"
+    },
+    {
+      "personId": 231607,
+      "name": "Andrée Damant",
+      "character": "Maurice's mother",
+      "order": 9,
+      "cast_id": 11,
+      "popularity": 0.3814,
+      "profile_path": "/595T51UgSlLAsIfSpusTFtRGnD9.jpg"
+    },
+    {
+      "personId": 3400501,
+      "name": "Berthe Bagoe",
+      "character": "Lola's grandmother",
+      "order": 10,
+      "cast_id": 12,
+      "popularity": 0.0769,
+      "profile_path": null
+    },
+    {
+      "personId": 19162,
+      "name": "Jean-Pierre Cassel",
+      "character": "Gynecologist",
+      "order": 11,
+      "cast_id": 13,
+      "popularity": 1.1945,
+      "profile_path": "/iCZ9CFw55lwdERGuIEFrkpOdaBi.jpg"
+    },
+    {
+      "personId": 73387,
+      "name": "Félicité Wouassi",
+      "character": "Nurse",
+      "order": 12,
+      "cast_id": 14,
+      "popularity": 0.5033,
+      "profile_path": "/cxY2GnvndULyOE1TdIBavEWVv4N.jpg"
+    },
+    {
+      "personId": 81124,
+      "name": "Brigitte Bémol",
+      "character": "Jamal's Girlfriend",
+      "order": 13,
+      "cast_id": 15,
+      "popularity": 0.3782,
+      "profile_path": "/zxCf3RapteDwjsiMt02UrpKJ4kU.jpg"
+    },
+    {
+      "personId": 1370569,
+      "name": "Lydia Ewandé",
+      "character": "Marilyne",
+      "order": 14,
+      "cast_id": 16,
+      "popularity": 0.1479,
+      "profile_path": "/xoflefnKFj4GnX5nJcnvOdNAXfe.jpg"
+    },
+    {
+      "personId": 1715248,
+      "name": "Béatrice Zeitoun",
+      "character": "Lola's Friend",
+      "order": 15,
+      "cast_id": 17,
+      "popularity": 0.1702,
+      "profile_path": null
+    },
+    {
+      "personId": 35893,
+      "name": "Camille Japy",
+      "character": "Felix's friend at nightclub",
+      "order": 16,
+      "cast_id": 18,
+      "popularity": 0.6794,
+      "profile_path": "/lfdIIkhlh2nQ94iRq4pC3UYxJX6.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2406,
+      "name": "Mathieu Kassovitz",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.287,
+      "profile_path": "/3FRBEdKKlxhvPWPt0jzgmSjeHwn.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3725,
+      "name": "pregnancy"
+    },
+    {
+      "id": 155870,
+      "name": "polyamory"
+    }
+  ]
+}

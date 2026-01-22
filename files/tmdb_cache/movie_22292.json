@@ -1,0 +1,274 @@
+{
+  "overview": "In 1900, young widow Lucy Muir learns that her seaside cottage is haunted and forms a unique relationship with the ghost.",
+  "release_date": "1947-05-25",
+  "runtime": 105,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 7.5,
+  "tmdb_vote_count": 338,
+  "tmdb_popularity": 0.9923,
+  "original_language": "en",
+  "poster_path": "/idoD3cwfwj86BPvVoWVgWhnT2xq.jpg",
+  "backdrop_path": "/m1QTfbKD90j63Gh9bOJt0g67LvA.jpg",
+  "tmdb_genres_raw": [
+    "Romance",
+    "Fantasy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 25,
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 20124,
+      "name": "Gene Tierney",
+      "character": "Lucy Muir",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.3909,
+      "profile_path": "/sexaQ4TPHEnwaiEAGpJDGlmEjF3.jpg"
+    },
+    {
+      "personId": 35321,
+      "name": "Rex Harrison",
+      "character": "Capt. Daniel Gregg",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.0468,
+      "profile_path": "/hy8cyCpmV0iRSl4Thby01anz4FY.jpg"
+    },
+    {
+      "personId": 3361,
+      "name": "George Sanders",
+      "character": "Miles Fairley",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.8071,
+      "profile_path": "/5tzdY4lCnfbLZU8Wblp5xfjn10B.jpg"
+    },
+    {
+      "personId": 88569,
+      "name": "Edna Best",
+      "character": "Martha Huggins",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 0.8312,
+      "profile_path": "/aYeebEzS2t7ORKduC4Lp5QNiEXy.jpg"
+    },
+    {
+      "personId": 88570,
+      "name": "Vanessa Brown",
+      "character": "Anna Muir as an Adult",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 0.7169,
+      "profile_path": "/5wnamONbUinJSfGwZ6ycxwzSxWv.jpg"
+    },
+    {
+      "personId": 88460,
+      "name": "Anna Lee",
+      "character": "Mrs. Fairley",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 1.3134,
+      "profile_path": "/xAwrTwcbxTpOcZhcrdCtdfRzDys.jpg"
+    },
+    {
+      "personId": 92908,
+      "name": "Robert Coote",
+      "character": "Mr. Coombe",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 0.6456,
+      "profile_path": "/sBzxbysXMqlLr82n5rV61SAkett.jpg"
+    },
+    {
+      "personId": 2769,
+      "name": "Natalie Wood",
+      "character": "Anna Muir as a Child",
+      "order": 7,
+      "cast_id": 7,
+      "popularity": 2.6994,
+      "profile_path": "/6me9oS7GV1VjejWV61XD6y7fVA1.jpg"
+    },
+    {
+      "personId": 95263,
+      "name": "Isobel Elsom",
+      "character": "Angelica Muir",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 0.902,
+      "profile_path": "/2HoBes20CcuNFoUeyBbAIShbEQM.jpg"
+    },
+    {
+      "personId": 130063,
+      "name": "Victoria Horne",
+      "character": "Eva Muir",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 0.3029,
+      "profile_path": "/e9V0kYe8Ua2bWY2VhGlOcAzOUIY.jpg"
+    },
+    {
+      "personId": 119542,
+      "name": "Stuart Holmes",
+      "character": "Man Ordered Out of Train Compartment by Captain (uncredited)",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 0.5325,
+      "profile_path": "/6xdFxJI4qkaxYg2vq3LYr1t68tq.jpg"
+    },
+    {
+      "personId": 99217,
+      "name": "Houseley Stevenson",
+      "character": "Gardener (uncredited)",
+      "order": 11,
+      "cast_id": 15,
+      "popularity": 0.8243,
+      "profile_path": "/ueM2fYfeRacDGFMplamJXp4mLAt.jpg"
+    },
+    {
+      "personId": 120440,
+      "name": "Helen Freeman",
+      "character": "Author Displaced by Lucy (uncredited)",
+      "order": 12,
+      "cast_id": 20,
+      "popularity": 0.3782,
+      "profile_path": "/b97tFhZ5EiynBrWMZ6bpC48ZPow.jpg"
+    },
+    {
+      "personId": 239022,
+      "name": "Whitford Kane",
+      "character": "Sproule - London Publisher (uncredited)",
+      "order": 13,
+      "cast_id": 21,
+      "popularity": 0.6312,
+      "profile_path": "/lBXVqAzOlnRghvZVOuceyLmqrVj.jpg"
+    },
+    {
+      "personId": 1422446,
+      "name": "Buster Slaven",
+      "character": "Enquiries at Sproule's (uncredited)",
+      "order": 14,
+      "cast_id": 22,
+      "popularity": 1.5483,
+      "profile_path": "/lrmAXablYi5KsDszBx3mJPjk7Zm.jpg"
+    },
+    {
+      "personId": 148868,
+      "name": "Will Stanton",
+      "character": "Porter (uncredited)",
+      "order": 15,
+      "cast_id": 23,
+      "popularity": 0.9233,
+      "profile_path": "/1BbhkRE5sGBnKF8KB1d4UWYNkaf.jpg"
+    },
+    {
+      "personId": 124091,
+      "name": "William Stelling",
+      "character": "Bill - Anna's Fiance (uncredited)",
+      "order": 16,
+      "cast_id": 24,
+      "popularity": 0.7882,
+      "profile_path": "/n1cDG9shtF7yDKuwPQpVxR0vZra.jpg"
+    },
+    {
+      "personId": 132701,
+      "name": "David Thursby",
+      "character": "Mr. Scroggins (uncredited)",
+      "order": 17,
+      "cast_id": 25,
+      "popularity": 1.5592,
+      "profile_path": null
+    },
+    {
+      "personId": 149081,
+      "name": "Heather Wilde",
+      "character": "Fairley Maid (uncredited)",
+      "order": 18,
+      "cast_id": 26,
+      "popularity": 0.2031,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 10601,
+      "name": "Joseph L. Mankiewicz",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.712,
+      "profile_path": "/qfs773ZGMwojZTl0WKM7b7qh8Mu.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 658,
+      "name": "sea"
+    },
+    {
+      "id": 4129,
+      "name": "widow"
+    },
+    {
+      "id": 3303,
+      "name": "bedroom"
+    },
+    {
+      "id": 11826,
+      "name": "cottage"
+    },
+    {
+      "id": 15162,
+      "name": "dog"
+    },
+    {
+      "id": 39737,
+      "name": "seaside"
+    },
+    {
+      "id": 162846,
+      "name": "ghost"
+    },
+    {
+      "id": 170173,
+      "name": "children's book"
+    },
+    {
+      "id": 187224,
+      "name": "seaside town"
+    },
+    {
+      "id": 190742,
+      "name": "solitude"
+    },
+    {
+      "id": 191482,
+      "name": "cad"
+    },
+    {
+      "id": 226974,
+      "name": "dorset"
+    },
+    {
+      "id": 236170,
+      "name": "1900s"
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "overview": "A behind-the-scenes documentary about the Clinton for President campaign, focusing on the adventures of spin doctors James Carville and George Stephanopoulos.",
+  "release_date": "1993-11-03",
+  "runtime": 96,
+  "budget": 0,
+  "revenue": 901668,
+  "tmdb_vote_average": 6.9,
+  "tmdb_vote_count": 66,
+  "tmdb_popularity": 1.1097,
+  "original_language": "en",
+  "poster_path": "/prfxsyG4SnlnqqulavCJ4RksFUA.jpg",
+  "backdrop_path": "/xPaGpRcklIZaFuFjhIdjZeCl5om.jpg",
+  "tmdb_genres_raw": [
+    "Documentary",
+    "History"
+  ],
+  "production_companies": [
+    {
+      "id": 79233,
+      "name": "Pennebaker Associates Inc.",
+      "origin_country": ""
+    },
+    {
+      "id": 126266,
+      "name": "McEttinger Films",
+      "origin_country": ""
+    },
+    {
+      "id": 126267,
+      "name": "Cyclone Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 60093,
+      "name": "James Carville",
+      "character": "Self",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.4295,
+      "profile_path": "/9nqZlgTmykti5veQEFljHAr6NaL.jpg"
+    },
+    {
+      "personId": 117817,
+      "name": "George Stephanopoulos",
+      "character": "Self",
+      "order": 1,
+      "cast_id": 9,
+      "popularity": 0.2914,
+      "profile_path": "/nHJDkouNjaQNo7eHyuxU6tF6hiC.jpg"
+    },
+    {
+      "personId": 1051946,
+      "name": "Heather Beckel",
+      "character": "Self",
+      "order": 2,
+      "cast_id": 10,
+      "popularity": 0.3027,
+      "profile_path": null
+    },
+    {
+      "personId": 175194,
+      "name": "Paul Begala",
+      "character": "Self",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 0.4396,
+      "profile_path": "/wVBvYJvcJcjARpArthnoCeWPCqv.jpg"
+    },
+    {
+      "personId": 1051947,
+      "name": "Bob Boorstin",
+      "character": "Self",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 0.114,
+      "profile_path": null
+    },
+    {
+      "personId": 116341,
+      "name": "Bill Clinton",
+      "character": "Self",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 0.8369,
+      "profile_path": "/aOSAwUHkTYdcVrl5MdOzuGRluTm.jpg"
+    },
+    {
+      "personId": 216674,
+      "name": "Hillary Clinton",
+      "character": "Self",
+      "order": 6,
+      "cast_id": 14,
+      "popularity": 1.1922,
+      "profile_path": "/67D6LJgwfbF0baKknUx6OPIoVlu.jpg"
+    },
+    {
+      "personId": 1361198,
+      "name": "Chelsea Clinton",
+      "character": "Self",
+      "order": 7,
+      "cast_id": 15,
+      "popularity": 1.3245,
+      "profile_path": "/msG37pujIiANPUQYuD0SRbXVBPa.jpg"
+    },
+    {
+      "personId": 19013,
+      "name": "Al Gore",
+      "character": "Self",
+      "order": 8,
+      "cast_id": 16,
+      "popularity": 0.6673,
+      "profile_path": "/d94rd5msc0XppeMvhwtONIadYc1.jpg"
+    },
+    {
+      "personId": 1217282,
+      "name": "Mary Matalin",
+      "character": "Self",
+      "order": 9,
+      "cast_id": 21,
+      "popularity": 0.4189,
+      "profile_path": null
+    },
+    {
+      "personId": 1523611,
+      "name": "Jerry Brown",
+      "character": "Self",
+      "order": 10,
+      "cast_id": 22,
+      "popularity": 0.4539,
+      "profile_path": "/sUKx5FbiVEUqpxQ2hHmRxlyvhCY.jpg"
+    },
+    {
+      "personId": 3963163,
+      "name": "Paul Tsongas",
+      "character": "Self",
+      "order": 11,
+      "cast_id": 23,
+      "popularity": 0.0896,
+      "profile_path": "/vSqBzbqyR5iGi3BNoD679WvyiOu.jpg"
+    },
+    {
+      "personId": 1600260,
+      "name": "Ross Perot",
+      "character": "Self",
+      "order": 12,
+      "cast_id": 24,
+      "popularity": 1.4828,
+      "profile_path": "/zx4GX5uWoEKc4jX4cap6y2N2DEl.jpg"
+    },
+    {
+      "personId": 1229987,
+      "name": "Tipper Gore",
+      "character": "Self",
+      "order": 13,
+      "cast_id": 25,
+      "popularity": 0.8728,
+      "profile_path": "/tzN9Fv6x5bMWnpo4J2SRPZPTMfm.jpg"
+    },
+    {
+      "personId": 106793,
+      "name": "Gennifer Flowers",
+      "character": "Self",
+      "order": 14,
+      "cast_id": 26,
+      "popularity": 0.8224,
+      "profile_path": "/4RqAzPtttPXeGWJwr8RLw75nXJI.jpg"
+    },
+    {
+      "personId": 46432,
+      "name": "George H. W. Bush",
+      "character": "Self",
+      "order": 15,
+      "cast_id": 27,
+      "popularity": 0.4692,
+      "profile_path": "/skB35M0jMrXfnY8mshwSh8ShCf0.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 115891,
+      "name": "Chris Hegedus",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.3524,
+      "profile_path": "/qaI1Q9uD49zH2b0If3VYqvuLkyh.jpg"
+    },
+    {
+      "personId": 21113,
+      "name": "D. A. Pennebaker",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6548,
+      "profile_path": "/bLonM1nzO87XvyrPYyS6L2q9yV.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6085,
+      "name": "election campaign"
+    },
+    {
+      "id": 6078,
+      "name": "politics"
+    },
+    {
+      "id": 15134,
+      "name": "election"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    },
+    {
+      "id": 190756,
+      "name": "cinéma vérité"
+    },
+    {
+      "id": 200276,
+      "name": "direct cinema"
+    }
+  ]
+}

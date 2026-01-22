@@ -1,0 +1,283 @@
+{
+  "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+  "release_date": "1993-06-11",
+  "runtime": 127,
+  "budget": 63000000,
+  "revenue": 920100000,
+  "tmdb_vote_average": 7.965,
+  "tmdb_vote_count": 17384,
+  "tmdb_popularity": 9.1446,
+  "original_language": "en",
+  "poster_path": "/bRKmwU9eXZI5dKT11Zx1KsayiLW.jpg",
+  "backdrop_path": "/jzt9HuhIAdH9qp0K2MA1m5V8sgq.jpg",
+  "tmdb_genres_raw": [
+    "Adventure",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 56,
+      "name": "Amblin Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4783,
+      "name": "Sam Neill",
+      "character": "Grant",
+      "order": 0,
+      "cast_id": 237,
+      "popularity": 4.8638,
+      "profile_path": "/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
+    },
+    {
+      "personId": 4784,
+      "name": "Laura Dern",
+      "character": "Ellie",
+      "order": 1,
+      "cast_id": 238,
+      "popularity": 5.6945,
+      "profile_path": "/gB9PnGEvxKg33OSlcqptQwTBwPE.jpg"
+    },
+    {
+      "personId": 4785,
+      "name": "Jeff Goldblum",
+      "character": "Malcolm",
+      "order": 2,
+      "cast_id": 239,
+      "popularity": 5.6565,
+      "profile_path": "/ceSmXnD0FUSTaq2WIrnZu9caL0t.jpg"
+    },
+    {
+      "personId": 4786,
+      "name": "Richard Attenborough",
+      "character": "Hammond",
+      "order": 3,
+      "cast_id": 240,
+      "popularity": 2.1016,
+      "profile_path": "/sWO9wnFdpX3gbJFj6lIM0d4mwTl.jpg"
+    },
+    {
+      "personId": 4789,
+      "name": "Bob Peck",
+      "character": "Muldoon",
+      "order": 4,
+      "cast_id": 241,
+      "popularity": 1.3922,
+      "profile_path": "/lu4NA4mIEutkoPJ4AcKTg9vWVZe.jpg"
+    },
+    {
+      "personId": 4790,
+      "name": "Martin Ferrero",
+      "character": "Gennaro",
+      "order": 5,
+      "cast_id": 242,
+      "popularity": 1.305,
+      "profile_path": "/exNDaap66dmsfBQkCf7vHGj3TBK.jpg"
+    },
+    {
+      "personId": 14592,
+      "name": "BD Wong",
+      "character": "Wu",
+      "order": 6,
+      "cast_id": 243,
+      "popularity": 3.4575,
+      "profile_path": "/w7Hs9m6ocS2qlibvrLOvmyCKbAN.jpg"
+    },
+    {
+      "personId": 4787,
+      "name": "Joseph Mazzello",
+      "character": "Tim",
+      "order": 7,
+      "cast_id": 246,
+      "popularity": 1.9612,
+      "profile_path": "/44gsv7TlXOOKDGg5aRtqxZjM9ae.jpg"
+    },
+    {
+      "personId": 4788,
+      "name": "Ariana Richards",
+      "character": "Lex",
+      "order": 8,
+      "cast_id": 247,
+      "popularity": 1.5753,
+      "profile_path": "/vExv1HJqOjM1ui0rRiOxD3XNapf.jpg"
+    },
+    {
+      "personId": 2231,
+      "name": "Samuel L. Jackson",
+      "character": "Arnold",
+      "order": 9,
+      "cast_id": 244,
+      "popularity": 9.5835,
+      "profile_path": "/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+    },
+    {
+      "personId": 4201,
+      "name": "Wayne Knight",
+      "character": "Nedry",
+      "order": 10,
+      "cast_id": 245,
+      "popularity": 2.9302,
+      "profile_path": "/ecc2Detpzqu6XyCUPh0BqOBwZyO.jpg"
+    },
+    {
+      "personId": 2211,
+      "name": "Gerald R. Molen",
+      "character": "Harding",
+      "order": 11,
+      "cast_id": 248,
+      "popularity": 0.7922,
+      "profile_path": "/m1C2E9MWClm3ITzxQzUxmE1qphL.jpg"
+    },
+    {
+      "personId": 30488,
+      "name": "Miguel Sandoval",
+      "character": "Rostagno",
+      "order": 12,
+      "cast_id": 249,
+      "popularity": 1.8718,
+      "profile_path": "/v5tHxTkgOqcdWgjoEhUj0a50NIK.jpg"
+    },
+    {
+      "personId": 176312,
+      "name": "Cameron Thor",
+      "character": "Dodgson",
+      "order": 13,
+      "cast_id": 250,
+      "popularity": 1.9981,
+      "profile_path": "/wQgevaL2Ui7h72enUpFceRaJX.jpg"
+    },
+    {
+      "personId": 145531,
+      "name": "Christopher John Fields",
+      "character": "Volunteer #1",
+      "order": 14,
+      "cast_id": 251,
+      "popularity": 0.5814,
+      "profile_path": "/3ASDmbBZQnk526pPeNtb8LOJXBX.jpg"
+    },
+    {
+      "personId": 166298,
+      "name": "Whit Hertford",
+      "character": "Volunteer Boy",
+      "order": 15,
+      "cast_id": 252,
+      "popularity": 1.9742,
+      "profile_path": "/9wSo1hShKBG2xagMVg5yGiS1XFQ.jpg"
+    },
+    {
+      "personId": 1060,
+      "name": "Dean Cundey",
+      "character": "Mate",
+      "order": 16,
+      "cast_id": 253,
+      "popularity": 1.1613,
+      "profile_path": "/5f95wKLwh4OTjGEzNkDhOdixDxU.jpg"
+    },
+    {
+      "personId": 9559,
+      "name": "Jophery C. Brown",
+      "character": "Worker in Raptor Pen",
+      "order": 17,
+      "cast_id": 254,
+      "popularity": 0.6203,
+      "profile_path": "/Uf6SfhpfFvSUCNGQylUFdHn2pV.jpg"
+    },
+    {
+      "personId": 1278538,
+      "name": "Tom Mishler",
+      "character": "Helicopter Pilot",
+      "order": 18,
+      "cast_id": 255,
+      "popularity": 0.0828,
+      "profile_path": null
+    },
+    {
+      "personId": 4791,
+      "name": "Greg Burson",
+      "character": "Mr. D.N.A. (voice)",
+      "order": 19,
+      "cast_id": 256,
+      "popularity": 1.2698,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 488,
+      "name": "Steven Spielberg",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 6.2717,
+      "profile_path": "/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 911,
+      "name": "exotic island"
+    },
+    {
+      "id": 2041,
+      "name": "island"
+    },
+    {
+      "id": 1764,
+      "name": "triceratops"
+    },
+    {
+      "id": 1765,
+      "name": "brontosaurus"
+    },
+    {
+      "id": 1767,
+      "name": "electric fence"
+    },
+    {
+      "id": 1718,
+      "name": "dna"
+    },
+    {
+      "id": 1720,
+      "name": "tyrannosaurus rex"
+    },
+    {
+      "id": 1719,
+      "name": "paleontology"
+    },
+    {
+      "id": 12616,
+      "name": "dinosaur"
+    },
+    {
+      "id": 155582,
+      "name": "amusement park"
+    },
+    {
+      "id": 158340,
+      "name": "theme park"
+    }
+  ]
+}

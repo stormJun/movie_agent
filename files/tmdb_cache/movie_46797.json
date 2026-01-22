@@ -1,0 +1,243 @@
+{
+  "overview": "The story of the marriage of the poet T. S. Eliot to socialite Vivienne Haigh-Wood, which had to cope with her gynaecological and emotional problems and his growing fame.",
+  "release_date": "1994-04-15",
+  "runtime": 115,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.091,
+  "tmdb_vote_count": 33,
+  "tmdb_popularity": 3.0004,
+  "original_language": "en",
+  "poster_path": "/iw4ofGbX2AbJ4p17CixwnMjuoJ0.jpg",
+  "backdrop_path": "/cJL4i2NrR85l8UyJ1BB2UDDC9y6.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 12745,
+      "name": "British Screen Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1930,
+      "name": "IRS Media",
+      "origin_country": ""
+    },
+    {
+      "id": 14,
+      "name": "Miramax",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5293,
+      "name": "Willem Dafoe",
+      "character": "Tom Eliot",
+      "order": 0,
+      "cast_id": 7,
+      "popularity": 6.0192,
+      "profile_path": "/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+    },
+    {
+      "personId": 8436,
+      "name": "Miranda Richardson",
+      "character": "Vivienne Haigh-Wood",
+      "order": 1,
+      "cast_id": 8,
+      "popularity": 2.4317,
+      "profile_path": "/2IEW3fxqHb4AHBl5xU8JuipJbNK.jpg"
+    },
+    {
+      "personId": 18998,
+      "name": "Rosemary Harris",
+      "character": "Rose Haigh-Wood",
+      "order": 2,
+      "cast_id": 9,
+      "popularity": 2.3901,
+      "profile_path": "/naoQk2SXT4nAAI7bP3C2mtDcVZh.jpg"
+    },
+    {
+      "personId": 49965,
+      "name": "Tim Dutton",
+      "character": "Maurice Haigh-Wood",
+      "order": 3,
+      "cast_id": 10,
+      "popularity": 1.2884,
+      "profile_path": "/xOUvw3ULpTeAXh4g1QR2gPwIsbT.jpg"
+    },
+    {
+      "personId": 63611,
+      "name": "Nickolas Grace",
+      "character": "Bertrand Russell",
+      "order": 4,
+      "cast_id": 38,
+      "popularity": 0.7234,
+      "profile_path": "/gmPM47lFXdK5Gry52Pvs0v45YYf.jpg"
+    },
+    {
+      "personId": 123209,
+      "name": "Geoffrey Bayldon",
+      "character": "Harwent",
+      "order": 5,
+      "cast_id": 11,
+      "popularity": 1.4661,
+      "profile_path": "/11XZ9KrxGBzDzWarlEPv1sBLIGE.jpg"
+    },
+    {
+      "personId": 47742,
+      "name": "Clare Holman",
+      "character": "Louise Purdon",
+      "order": 6,
+      "cast_id": 12,
+      "popularity": 2.204,
+      "profile_path": "/al2ylwIUqZqFh6D00s5nhcEebMF.jpg"
+    },
+    {
+      "personId": 27321,
+      "name": "Philip Locke",
+      "character": "Charles Haigh-Wood",
+      "order": 7,
+      "cast_id": 39,
+      "popularity": 1.5502,
+      "profile_path": "/uf5RAXXyFoDmD5vwjA25uhQF4ie.jpg"
+    },
+    {
+      "personId": 1240412,
+      "name": "Joanna McCallum",
+      "character": "Virginia Woolf",
+      "order": 8,
+      "cast_id": 40,
+      "popularity": 0.5548,
+      "profile_path": null
+    },
+    {
+      "personId": 88894,
+      "name": "Joseph O'Conor",
+      "character": "Bishop of Oxford",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 1.1719,
+      "profile_path": "/7b066eGR5KU3BsePlAl0T49luqm.jpg"
+    },
+    {
+      "personId": 184881,
+      "name": "John Savident",
+      "character": "Sir Frederick Lamb",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 1.7154,
+      "profile_path": "/fAbTwsOLn0W6Cagb8mFasTzWW7V.jpg"
+    },
+    {
+      "personId": 24598,
+      "name": "Michael Attwell",
+      "character": "W.I. Janes",
+      "order": 11,
+      "cast_id": 15,
+      "popularity": 0.7482,
+      "profile_path": "/9KlwJ9vA1Qq0zTL8bsbGN10J4xs.jpg"
+    },
+    {
+      "personId": 26869,
+      "name": "Sharon Bower",
+      "character": "Secretary",
+      "order": 12,
+      "cast_id": 41,
+      "popularity": 0.6429,
+      "profile_path": null
+    },
+    {
+      "personId": 1220092,
+      "name": "Linda Spurrier",
+      "character": "Edith Sitwell",
+      "order": 13,
+      "cast_id": 42,
+      "popularity": 0.5097,
+      "profile_path": "/xXdf0hIvOwrvdF0p6n6XrkgMsSG.jpg"
+    },
+    {
+      "personId": 1252726,
+      "name": "Roberta Taylor",
+      "character": "Ottoline Morrell",
+      "order": 14,
+      "cast_id": 16,
+      "popularity": 1.5526,
+      "profile_path": "/89SuF1eOL3FbLEmJzJvQvY2pXjR.jpg"
+    },
+    {
+      "personId": 1177383,
+      "name": "Christopher Baines",
+      "character": "Verger",
+      "order": 15,
+      "cast_id": 43,
+      "popularity": 0.2318,
+      "profile_path": null
+    },
+    {
+      "personId": 10731,
+      "name": "Anna Chancellor",
+      "character": "Woman",
+      "order": 16,
+      "cast_id": 17,
+      "popularity": 2.8165,
+      "profile_path": "/gKU8hHdC45q9WpYy4SeNLEhPwtK.jpg"
+    },
+    {
+      "personId": 1214091,
+      "name": "John Clegg",
+      "character": "Second Man",
+      "order": 17,
+      "cast_id": 18,
+      "popularity": 0.7071,
+      "profile_path": "/xeYZbCx2Qe9HlrBOSCBU68v91Kz.jpg"
+    },
+    {
+      "personId": 1266585,
+      "name": "James Greene",
+      "character": "Dr. Cyriax",
+      "order": 18,
+      "cast_id": 19,
+      "popularity": 0.6316,
+      "profile_path": "/iBwucAzOlYaI7yncN3TTEQQb4vE.jpg"
+    },
+    {
+      "personId": 12830,
+      "name": "Lou Hirsch",
+      "character": "Captain Todd",
+      "order": 19,
+      "cast_id": 44,
+      "popularity": 0.89,
+      "profile_path": "/dxRykRWGwgODBcpzNKVMBJVnFk9.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 58080,
+      "name": "Brian Gilbert",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5899,
+      "profile_path": "/3Jc2jNngHuBXPprl7dJqnyojv1b.jpg"
+    }
+  ],
+  "keywords": []
+}

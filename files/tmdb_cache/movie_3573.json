@@ -1,0 +1,289 @@
+{
+  "overview": "Emma Woodhouse is a congenial young lady who delights in meddling in other people’s affairs. She is perpetually trying to unite men and women who are utterly wrong for each other. Despite her interest in romance, Emma is clueless about her own feelings, and her relationship with gentle Mr. Knightley.",
+  "release_date": "1996-08-02",
+  "runtime": 121,
+  "budget": 6000000,
+  "revenue": 22231658,
+  "tmdb_vote_average": 6.62,
+  "tmdb_vote_count": 650,
+  "tmdb_popularity": 2.2585,
+  "original_language": "en",
+  "poster_path": "/fM5goQ6c3uq3hzNJj3ZAFfTFkX9.jpg",
+  "backdrop_path": "/eBQc24VRzNXz3gFMrvdSvwd6Ire.jpg",
+  "tmdb_genres_raw": [
+    "Romance",
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 14,
+      "name": "Miramax",
+      "origin_country": "US"
+    },
+    {
+      "id": 1363,
+      "name": "Haft Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 1443,
+      "name": "Matchmaker Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 12052,
+      "name": "Gwyneth Paltrow",
+      "character": "Emma Woodhouse",
+      "order": 0,
+      "cast_id": 6,
+      "popularity": 5.8258,
+      "profile_path": "/mLarlXA8G02AdIMKptZmUzQluqF.jpg"
+    },
+    {
+      "personId": 18325,
+      "name": "Jeremy Northam",
+      "character": "Mr. Knightley",
+      "order": 1,
+      "cast_id": 27,
+      "popularity": 1.4647,
+      "profile_path": "/lnvV2sEAl1oUkUuUEr51UjxIuRr.jpg"
+    },
+    {
+      "personId": 3051,
+      "name": "Toni Collette",
+      "character": "Harriet Smith",
+      "order": 2,
+      "cast_id": 21,
+      "popularity": 4.2481,
+      "profile_path": "/lzXRh16qe4HHeBN6tMyw0DHvaMn.jpg"
+    },
+    {
+      "personId": 10697,
+      "name": "Alan Cumming",
+      "character": "Mr. Elton",
+      "order": 3,
+      "cast_id": 24,
+      "popularity": 3.6295,
+      "profile_path": "/cXbcMoCtS8947or9K5cOQev1Mmj.jpg"
+    },
+    {
+      "personId": 3061,
+      "name": "Ewan McGregor",
+      "character": "Frank Churchill",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 6.9352,
+      "profile_path": "/q2UDxfwWnmXTB7khOUF3J9puBVP.jpg"
+    },
+    {
+      "personId": 21245,
+      "name": "Greta Scacchi",
+      "character": "Mrs. Weston",
+      "order": 5,
+      "cast_id": 25,
+      "popularity": 2.5628,
+      "profile_path": "/kgWjsnt0SWrypL6vkGQijJNkgS0.jpg"
+    },
+    {
+      "personId": 32990,
+      "name": "Sophie Thompson",
+      "character": "Miss Bates",
+      "order": 6,
+      "cast_id": 26,
+      "popularity": 1.9422,
+      "profile_path": "/tRPHovRBLwZTeWodLBqUD2arrlH.jpg"
+    },
+    {
+      "personId": 6238,
+      "name": "Juliet Stevenson",
+      "character": "Mrs. Elton",
+      "order": 7,
+      "cast_id": 31,
+      "popularity": 1.3313,
+      "profile_path": "/qiS6E7t5EbqRpWToggQwC3xIdDF.jpg"
+    },
+    {
+      "personId": 32989,
+      "name": "Denys Hawthorne",
+      "character": "Mr. Woodhouse",
+      "order": 8,
+      "cast_id": 22,
+      "popularity": 0.5705,
+      "profile_path": "/bPEg1c2ES7fjayziMGD7NuU6ZBG.jpg"
+    },
+    {
+      "personId": 6416,
+      "name": "Polly Walker",
+      "character": "Jane Fairfax",
+      "order": 9,
+      "cast_id": 28,
+      "popularity": 4.9019,
+      "profile_path": "/eE8dtdlAwnMeramd1pA6eOQzhky.jpg"
+    },
+    {
+      "personId": 2467,
+      "name": "James Cosmo",
+      "character": "Mr. Weston",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 3.722,
+      "profile_path": "/4QZnZ3wyGALVuwZ70HdXZk4O14W.jpg"
+    },
+    {
+      "personId": 99905,
+      "name": "Kathleen Byron",
+      "character": "Mrs. Goddard",
+      "order": 11,
+      "cast_id": 29,
+      "popularity": 0.9511,
+      "profile_path": "/AftFBxZ30sYwhg7Eh7Sv5DfckYm.jpg"
+    },
+    {
+      "personId": 17787,
+      "name": "Phyllida Law",
+      "character": "Mrs. Bates",
+      "order": 12,
+      "cast_id": 32,
+      "popularity": 1.9319,
+      "profile_path": "/iL3UchWZqdk6RabqDZW9HBcJDwQ.jpg"
+    },
+    {
+      "personId": 219496,
+      "name": "Edward Woodall",
+      "character": "Mr. Robert Martin",
+      "order": 13,
+      "cast_id": 34,
+      "popularity": 0.3315,
+      "profile_path": "/1PyuKWM2280EvYs5m8XNIrsG66B.jpg"
+    },
+    {
+      "personId": 1215232,
+      "name": "Brian Capron",
+      "character": "John Knightley",
+      "order": 14,
+      "cast_id": 35,
+      "popularity": 0.5308,
+      "profile_path": "/7I728sayEJ1DLT0sQHGxfm2t5Nr.jpg"
+    },
+    {
+      "personId": 1229905,
+      "name": "Karen Westwood",
+      "character": "Isabella",
+      "order": 15,
+      "cast_id": 36,
+      "popularity": 0.6698,
+      "profile_path": null
+    },
+    {
+      "personId": 49349,
+      "name": "Rebecca Craig",
+      "character": "Miss Martin",
+      "order": 16,
+      "cast_id": 37,
+      "popularity": 0.1159,
+      "profile_path": null
+    },
+    {
+      "personId": 192866,
+      "name": "Angela Down",
+      "character": "Mrs. Cole",
+      "order": 17,
+      "cast_id": 38,
+      "popularity": 0.842,
+      "profile_path": "/iWRCWuzqlngzL272xWkdsWjV5jG.jpg"
+    },
+    {
+      "personId": 16697,
+      "name": "John Franklyn-Robbins",
+      "character": "Mr. Cole",
+      "order": 18,
+      "cast_id": 39,
+      "popularity": 0.4067,
+      "profile_path": "/hpKBMsvLCmXk7BK2UzMBaZGTWHU.jpg"
+    },
+    {
+      "personId": 192927,
+      "name": "Ruth Jones",
+      "character": "Bates' Maid",
+      "order": 19,
+      "cast_id": 63,
+      "popularity": 3.7043,
+      "profile_path": "/agBI9yM61lF8e70gkc27eu47b5R.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 32983,
+      "name": "Douglas McGrath",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 3.0054,
+      "profile_path": "/7M4Ml67mWhu7nxZ5AVaOouw01ZN.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 212,
+      "name": "london, england"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 392,
+      "name": "england"
+    },
+    {
+      "id": 4834,
+      "name": "etiquette"
+    },
+    {
+      "id": 8250,
+      "name": "victorian england"
+    },
+    {
+      "id": 12392,
+      "name": "best friend"
+    },
+    {
+      "id": 14712,
+      "name": "young woman"
+    },
+    {
+      "id": 187360,
+      "name": "courting"
+    },
+    {
+      "id": 207928,
+      "name": "19th century"
+    },
+    {
+      "id": 220314,
+      "name": "wealth differences"
+    },
+    {
+      "id": 248025,
+      "name": "matchmaker"
+    },
+    {
+      "id": 342327,
+      "name": "meddling friend"
+    }
+  ]
+}

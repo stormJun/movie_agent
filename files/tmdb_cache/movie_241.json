@@ -1,0 +1,332 @@
+{
+  "overview": "Two victims of traumatized childhoods become lovers and serial murderers irresponsibly glorified by the mass media.",
+  "release_date": "1994-08-26",
+  "runtime": 118,
+  "budget": 34000000,
+  "revenue": 50283563,
+  "tmdb_vote_average": 7.054,
+  "tmdb_vote_count": 3655,
+  "tmdb_popularity": 5.3094,
+  "original_language": "en",
+  "poster_path": "/fEKZwT91gxvkAoyPgpNXo8W5fu0.jpg",
+  "backdrop_path": "/k3TOt50cHvTLXWYPnXP0szhiXB8.jpg",
+  "tmdb_genres_raw": [
+    "Crime",
+    "Thriller",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 508,
+      "name": "Regency Enterprises",
+      "origin_country": "US"
+    },
+    {
+      "id": 644,
+      "name": "Alcor Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 525,
+      "name": "Ixtlan Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 10104,
+      "name": "New Regency Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 68551,
+      "name": "JD Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "nv",
+      "name": ""
+    },
+    {
+      "code": "ja",
+      "name": "日本語"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 57755,
+      "name": "Woody Harrelson",
+      "character": "Mickey Knox",
+      "order": 0,
+      "cast_id": 49,
+      "popularity": 7.3214,
+      "profile_path": "/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+    },
+    {
+      "personId": 3196,
+      "name": "Juliette Lewis",
+      "character": "Mallory Knox",
+      "order": 1,
+      "cast_id": 50,
+      "popularity": 4.6144,
+      "profile_path": "/vvitS2sZSM9RupCf5B0sZYNS6wT.jpg"
+    },
+    {
+      "personId": 3223,
+      "name": "Robert Downey Jr.",
+      "character": "Wayne Gale",
+      "order": 2,
+      "cast_id": 51,
+      "popularity": 10.4404,
+      "profile_path": "/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+    },
+    {
+      "personId": 2176,
+      "name": "Tommy Lee Jones",
+      "character": "Warden Dwight McClusky",
+      "order": 3,
+      "cast_id": 52,
+      "popularity": 13.6129,
+      "profile_path": "/mCiZNRAzbnPojJEZwVZWLw9kzxR.jpg"
+    },
+    {
+      "personId": 3197,
+      "name": "Tom Sizemore",
+      "character": "Det. Jack Scagnetti",
+      "order": 4,
+      "cast_id": 53,
+      "popularity": 2.2998,
+      "profile_path": "/soINOuacuiThRb2LyPD4tTWve7C.jpg"
+    },
+    {
+      "personId": 3198,
+      "name": "Rodney Dangerfield",
+      "character": "Mallory's Dad",
+      "order": 5,
+      "cast_id": 54,
+      "popularity": 2.3097,
+      "profile_path": "/7ovx3TFiIlMbNfIxaYUtTOBydEr.jpg"
+    },
+    {
+      "personId": 3202,
+      "name": "Edie McClurg",
+      "character": "Mallory's Mom",
+      "order": 6,
+      "cast_id": 55,
+      "popularity": 1.9161,
+      "profile_path": "/vU5y4hZe1WhqDAPP5jEfrWv4Iaq.jpg"
+    },
+    {
+      "personId": 15440,
+      "name": "Jared Harris",
+      "character": "London Boy",
+      "order": 7,
+      "cast_id": 61,
+      "popularity": 3.8094,
+      "profile_path": "/jAyPWkmge3BqXtgxIG9MfXBzOGj.jpg"
+    },
+    {
+      "personId": 3203,
+      "name": "Russell Means",
+      "character": "Old Indian",
+      "order": 8,
+      "cast_id": 56,
+      "popularity": 1.117,
+      "profile_path": "/5qBgrr6eror0bEene4LthnjUFnT.jpg"
+    },
+    {
+      "personId": 3208,
+      "name": "Maria Pitillo",
+      "character": "Deborah",
+      "order": 9,
+      "cast_id": 57,
+      "popularity": 1.5316,
+      "profile_path": "/e2RqURksoCGa9fBqqMtOuY7pDk5.jpg"
+    },
+    {
+      "personId": 3210,
+      "name": "Sean Stone",
+      "character": "Kevin",
+      "order": 10,
+      "cast_id": 58,
+      "popularity": 2.106,
+      "profile_path": "/rGfjHtomnP15MLSNEsA2T601qK3.jpg"
+    },
+    {
+      "personId": 3199,
+      "name": "Everett Quinton",
+      "character": "Deputy Warden Wurlitzer",
+      "order": 11,
+      "cast_id": 59,
+      "popularity": 1.4561,
+      "profile_path": "/k1xeDSC5X711qssqDHF65bR2akQ.jpg"
+    },
+    {
+      "personId": 1912,
+      "name": "O-Lan Jones",
+      "character": "Mabel",
+      "order": 12,
+      "cast_id": 62,
+      "popularity": 1.943,
+      "profile_path": "/wtedyve8ATBen9YSuEe2Q2ytt1P.jpg"
+    },
+    {
+      "personId": 3201,
+      "name": "Pruitt Taylor Vince",
+      "character": "Deputy Warden Kavanaugh",
+      "order": 13,
+      "cast_id": 63,
+      "popularity": 3.9495,
+      "profile_path": "/jqC1v8tF92QcmkQycnaLSuJiQfl.jpg"
+    },
+    {
+      "personId": 3214,
+      "name": "Steven Wright",
+      "character": "Dr. Emil Reingold",
+      "order": 14,
+      "cast_id": 64,
+      "popularity": 1.1401,
+      "profile_path": "/9Q9buDjfm6uq0VE86MZ01o96lyG.jpg"
+    },
+    {
+      "personId": 3204,
+      "name": "Lanny Flaherty",
+      "character": "Earl",
+      "order": 15,
+      "cast_id": 65,
+      "popularity": 1.0063,
+      "profile_path": "/jZV9UdctUwZOsdZ4OH3wxj4Bvop.jpg"
+    },
+    {
+      "personId": 3205,
+      "name": "Richard Lineback",
+      "character": "Sonny",
+      "order": 16,
+      "cast_id": 66,
+      "popularity": 1.1057,
+      "profile_path": "/3Tfczd6FkLkAoIZvklGGEVFkhUq.jpg"
+    },
+    {
+      "personId": 3206,
+      "name": "Kirk Baltz",
+      "character": "Roger",
+      "order": 17,
+      "cast_id": 67,
+      "popularity": 1.1357,
+      "profile_path": "/8PkKnqLOjfWm33GFk2Azt7MvY2Q.jpg"
+    },
+    {
+      "personId": 1677045,
+      "name": "Ed White",
+      "character": "Pinball Cowboy",
+      "order": 18,
+      "cast_id": 68,
+      "popularity": 0.1798,
+      "profile_path": null
+    },
+    {
+      "personId": 3207,
+      "name": "Terrylene",
+      "character": "Julie",
+      "order": 19,
+      "cast_id": 69,
+      "popularity": 0.4039,
+      "profile_path": "/oQCA4n1U2Awo00RV6XzcjLsDYu2.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1152,
+      "name": "Oliver Stone",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.006,
+      "profile_path": "/zn4XrQMUg32poFHJd2kwlXBPmGg.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 5600,
+      "name": "daughter"
+    },
+    {
+      "id": 736,
+      "name": "journalist"
+    },
+    {
+      "id": 625,
+      "name": "sadistic"
+    },
+    {
+      "id": 1583,
+      "name": "mass murder"
+    },
+    {
+      "id": 1584,
+      "name": "yellow press"
+    },
+    {
+      "id": 1740,
+      "name": "pop culture"
+    },
+    {
+      "id": 2754,
+      "name": "trauma"
+    },
+    {
+      "id": 9701,
+      "name": "controversy"
+    },
+    {
+      "id": 8201,
+      "name": "satire"
+    },
+    {
+      "id": 206545,
+      "name": "young couple"
+    },
+    {
+      "id": 207691,
+      "name": "abuse"
+    },
+    {
+      "id": 251667,
+      "name": "anxious"
+    },
+    {
+      "id": 289985,
+      "name": "killer couple"
+    },
+    {
+      "id": 294933,
+      "name": "love on the run"
+    },
+    {
+      "id": 320537,
+      "name": "fugitive lovers"
+    },
+    {
+      "id": 325763,
+      "name": "ambiguous"
+    },
+    {
+      "id": 325766,
+      "name": "antagonistic"
+    }
+  ]
+}

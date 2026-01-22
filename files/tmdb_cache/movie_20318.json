@@ -1,0 +1,260 @@
+{
+  "overview": "An American spy behind the lines during WWII serves as a Nazi propagandist, a role he cannot escape in his future life as he can never reveal his real role in the war.",
+  "release_date": "1996-11-01",
+  "runtime": 114,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.62,
+  "tmdb_vote_count": 55,
+  "tmdb_popularity": 0.5363,
+  "original_language": "en",
+  "poster_path": "/cJtOHLb96rcLjgLS4FM9fqEKcd6.jpg",
+  "backdrop_path": "/xyL8QHwMdWPdFYqe7Edu8N0F4Vx.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    {
+      "id": 8,
+      "name": "Fine Line Features",
+      "origin_country": "US"
+    },
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 62702,
+      "name": "Whyaduck Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "yi",
+      "name": ""
+    },
+    {
+      "code": "de",
+      "name": "Deutsch"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1733,
+      "name": "Nick Nolte",
+      "character": "Howard Campbell",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 5.9989,
+      "profile_path": "/jpYzFBi6zfn8CHVaXmqgiOTas4V.jpg"
+    },
+    {
+      "personId": 6726,
+      "name": "Sheryl Lee",
+      "character": "Helga Noth / Resi Noth",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 3.0969,
+      "profile_path": "/7llsjKMExjQylGgmqKCpiSSapUG.jpg"
+    },
+    {
+      "personId": 1903,
+      "name": "Alan Arkin",
+      "character": "George Kraft",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 2.554,
+      "profile_path": "/lTMMpkqL0G3WeFNfbtdP5COZEiX.jpg"
+    },
+    {
+      "personId": 55155,
+      "name": "Bernard Behrens",
+      "character": "Reverend Dr. Lionel Jones",
+      "order": 3,
+      "cast_id": 8,
+      "popularity": 0.6214,
+      "profile_path": "/6ibwaHJ45ZExo1eyUIJrATKdio7.jpg"
+    },
+    {
+      "personId": 139943,
+      "name": "Anna Berger",
+      "character": "Epstein's Mother",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 1.2699,
+      "profile_path": "/r9hukamoCTkuosl83xwBCnFYaEz.jpg"
+    },
+    {
+      "personId": 72028,
+      "name": "Arye Gross",
+      "character": "Dr. Abraham Epstein",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 1.9306,
+      "profile_path": "/7pNNrW5JGpHt2tJeXPOSB3BLzeX.jpg"
+    },
+    {
+      "personId": 14818,
+      "name": "Norman Rodway",
+      "character": "Werner Noth",
+      "order": 6,
+      "cast_id": 16,
+      "popularity": 0.5805,
+      "profile_path": "/91ICCwFg4Q8kF4ALdWkUz3FY8AV.jpg"
+    },
+    {
+      "personId": 13936,
+      "name": "Frankie Faison",
+      "character": "Robert Sterling Wilson",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 3.2017,
+      "profile_path": "/3717JOXK2Z8qelfyvScDGimfFBf.jpg"
+    },
+    {
+      "personId": 105777,
+      "name": "Gerard Parkes",
+      "character": "Father Patrick Keeley",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 0.37,
+      "profile_path": "/miMUDVlmXTp5f3opfW4UarEaF9I.jpg"
+    },
+    {
+      "personId": 58169,
+      "name": "Vlasta Vrana",
+      "character": "August Krapptauer",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 1.3091,
+      "profile_path": "/z5ujCvCkNv7ikka6tJVaxqegldY.jpg"
+    },
+    {
+      "personId": 7471,
+      "name": "Zach Grenier",
+      "character": "Joseph Goebbels",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 2.7561,
+      "profile_path": "/fSyQKZO39sUsqY283GXiScOg3Hi.jpg"
+    },
+    {
+      "personId": 205,
+      "name": "Kirsten Dunst",
+      "character": "Young Resi Noth",
+      "order": 11,
+      "cast_id": 7,
+      "popularity": 7.35,
+      "profile_path": "/yhLKGjuiMMdbGnFrR8AREkCZcVF.jpg"
+    },
+    {
+      "personId": 1050987,
+      "name": "Tony Robinow",
+      "character": "Prison Warden",
+      "order": 12,
+      "cast_id": 43,
+      "popularity": 0.3175,
+      "profile_path": null
+    },
+    {
+      "personId": 1085681,
+      "name": "Michael McGill",
+      "character": "Prison Official",
+      "order": 13,
+      "cast_id": 44,
+      "popularity": 0.8116,
+      "profile_path": null
+    },
+    {
+      "personId": 3246969,
+      "name": "Shimon Aviel",
+      "character": "Guard Bernard Liebman",
+      "order": 14,
+      "cast_id": 45,
+      "popularity": 0.0357,
+      "profile_path": null
+    },
+    {
+      "personId": 92271,
+      "name": "Bill Corday",
+      "character": "Campbell's Father",
+      "order": 15,
+      "cast_id": 46,
+      "popularity": 0.3064,
+      "profile_path": null
+    },
+    {
+      "personId": 141789,
+      "name": "Bronwen Mantel",
+      "character": "Campbell's Mother",
+      "order": 16,
+      "cast_id": 47,
+      "popularity": 1.737,
+      "profile_path": "/1P062DzacusaxYZPg6eDUteAVuN.jpg"
+    },
+    {
+      "personId": 33239,
+      "name": "Brawley Nolte",
+      "character": "Young Howard Campbell",
+      "order": 17,
+      "cast_id": 48,
+      "popularity": 0.861,
+      "profile_path": "/uiBmcOVwUxXdggosz5ptv3GJK7N.jpg"
+    },
+    {
+      "personId": 1230,
+      "name": "John Goodman",
+      "character": "Major Frank Wirtanen",
+      "order": 18,
+      "cast_id": 49,
+      "popularity": 5.408,
+      "profile_path": "/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg"
+    },
+    {
+      "personId": 3246970,
+      "name": "Louis Strauss",
+      "character": "Old Jewish Man",
+      "order": 19,
+      "cast_id": 50,
+      "popularity": 0.0404,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 33054,
+      "name": "Keith Gordon",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.4451,
+      "profile_path": "/qh2MpLx2B5CYZVKJz2VLXEuRMBC.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2652,
+      "name": "nazi"
+    },
+    {
+      "id": 74,
+      "name": "germany"
+    },
+    {
+      "id": 1956,
+      "name": "world war ii"
+    }
+  ]
+}

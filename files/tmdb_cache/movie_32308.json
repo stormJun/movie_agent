@@ -1,0 +1,254 @@
+{
+  "overview": "Jack Cooper could be a world-class baseball pitcher if he didn't keep buckling under the pressure. He tries to keep his spirits up after he's traded to a minor league team but loses all hope when he discovers that Ed, one of his teammates, is a chimp. Ed used to be the team mascot, but was promoted to third base when the owners realized he had a talent for baseball. As Jack struggles to get used to his new surroundings, Ed helps him regain his confidence on and off the field.",
+  "release_date": "1996-03-15",
+  "runtime": 94,
+  "budget": 24000000,
+  "revenue": 4400000,
+  "tmdb_vote_average": 4.1,
+  "tmdb_vote_count": 134,
+  "tmdb_popularity": 3.6713,
+  "original_language": "en",
+  "poster_path": "/oSNX3zyTpRMN0ExtOobt7eaJfPD.jpg",
+  "backdrop_path": "/2z5DyXsGhJhngSuE8IwQ4zEhhEM.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 14407,
+      "name": "Matt LeBlanc",
+      "character": "Jack \"Deuce\" Cooper",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.2835,
+      "profile_path": "/a7Fl1sLUq1UDJ4pHsnwpBdEiDEZ.jpg"
+    },
+    {
+      "personId": 9295,
+      "name": "Gene Ross",
+      "character": "Red",
+      "order": 1,
+      "cast_id": 7,
+      "popularity": 1.8302,
+      "profile_path": "/9VnYVtFLgHAOSIqVqmSz2G5P0u0.jpg"
+    },
+    {
+      "personId": 177049,
+      "name": "Paul Hewitt",
+      "character": "Bucky",
+      "order": 2,
+      "cast_id": 8,
+      "popularity": 0.3614,
+      "profile_path": "/4thMoXKH9Fi5S5p317BRA8H9lUx.jpg"
+    },
+    {
+      "personId": 1232170,
+      "name": "Sage Allen",
+      "character": "Cooper's Mother",
+      "order": 3,
+      "cast_id": 18,
+      "popularity": 0.6651,
+      "profile_path": "/jnWAAI2G2D4Bi6LtUtFFpA4YjSQ.jpg"
+    },
+    {
+      "personId": 168292,
+      "name": "Stan Ivar",
+      "character": "Cooper's Father",
+      "order": 4,
+      "cast_id": 19,
+      "popularity": 1.9305,
+      "profile_path": "/sCVxaM5KtrQc0TzqVEHc9idOdSF.jpg"
+    },
+    {
+      "personId": 1219597,
+      "name": "Jim O'Heir",
+      "character": "Art",
+      "order": 5,
+      "cast_id": 20,
+      "popularity": 1.3778,
+      "profile_path": "/qrdzPtyh0lWQp8ZxRvWDqBxyi0P.jpg"
+    },
+    {
+      "personId": 1672749,
+      "name": "Rick Johnson",
+      "character": "Kurt 'Crush' Bunyon",
+      "order": 6,
+      "cast_id": 21,
+      "popularity": 0.6318,
+      "profile_path": "/8y1B5tsZilpa4y6QB26e1EOouoL.jpg"
+    },
+    {
+      "personId": 6321,
+      "name": "Valente Rodriguez",
+      "character": "Jesus Rodriquez",
+      "order": 7,
+      "cast_id": 22,
+      "popularity": 1.9792,
+      "profile_path": "/oXgz7Jt6BnixHDr1KDg0HVmkxrI.jpg"
+    },
+    {
+      "personId": 5251,
+      "name": "Jack Warden",
+      "character": "Chubb",
+      "order": 8,
+      "cast_id": 9,
+      "popularity": 2.3486,
+      "profile_path": "/hSShXiYMfRpMByaB5euZ59qCKN.jpg"
+    },
+    {
+      "personId": 8854,
+      "name": "Bill Cobbs",
+      "character": "Tipton",
+      "order": 9,
+      "cast_id": 11,
+      "popularity": 2.9606,
+      "profile_path": "/xRBrI4rPkZuMBMDh8GPke20ZgUv.jpg"
+    },
+    {
+      "personId": 1438995,
+      "name": "Leonard Kelly-Young",
+      "character": "Customer (Joe)",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 1.6598,
+      "profile_path": "/fYDOCK0ccyXEuKuzpeucKRU9cdG.jpg"
+    },
+    {
+      "personId": 11627,
+      "name": "Jayne Brook",
+      "character": "Lydia",
+      "order": 11,
+      "cast_id": 14,
+      "popularity": 1.7748,
+      "profile_path": "/wb0qGQoXwraTTnnsi1Lv4TcYFrT.jpg"
+    },
+    {
+      "personId": 132319,
+      "name": "Patrick Kerr",
+      "character": "Kirby",
+      "order": 12,
+      "cast_id": 24,
+      "popularity": 0.9349,
+      "profile_path": "/qBGo3Fd4vI0fScRkudijhd5e25X.jpg"
+    },
+    {
+      "personId": 8767,
+      "name": "Jim Caviezel",
+      "character": "Dizzy",
+      "order": 13,
+      "cast_id": 10,
+      "popularity": 4.4762,
+      "profile_path": "/yGlRIu6aEbet2QnpKIESfD0zMGf.jpg"
+    },
+    {
+      "personId": 31006,
+      "name": "Troy Evans",
+      "character": "Bus Driver",
+      "order": 14,
+      "cast_id": 12,
+      "popularity": 2.1307,
+      "profile_path": "/hRdsLKr430COdIIyeHY3QAdg45e.jpg"
+    },
+    {
+      "personId": 14050,
+      "name": "Jay Caputo",
+      "character": "Ed",
+      "order": 15,
+      "cast_id": 29,
+      "popularity": 1.117,
+      "profile_path": "/n2naFzleYqAO9sHI03H2muTk35H.jpg"
+    },
+    {
+      "personId": 97751,
+      "name": "Denise Cheshire",
+      "character": "Ed",
+      "order": 16,
+      "cast_id": 28,
+      "popularity": 1.125,
+      "profile_path": null
+    },
+    {
+      "personId": 1583615,
+      "name": "Curt Kaplan",
+      "character": "Randall \"Zonk\" Cszonka",
+      "order": 17,
+      "cast_id": 30,
+      "popularity": 0.2935,
+      "profile_path": null
+    },
+    {
+      "personId": 77293,
+      "name": "Charlie Schlatter",
+      "character": "Buddy",
+      "order": 18,
+      "cast_id": 26,
+      "popularity": 1.1678,
+      "profile_path": "/tAXK63aGqIP7CqgvxNLEC2KHKvf.jpg"
+    },
+    {
+      "personId": 1214197,
+      "name": "Carl Anthony Payne II",
+      "character": "Stats Jefferson",
+      "order": 19,
+      "cast_id": 31,
+      "popularity": 1.3517,
+      "profile_path": "/vQMiRmY8r2HOQo3hQyunx8zFAAO.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 116103,
+      "name": "Bill Couturié",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.2484,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6075,
+      "name": "sports"
+    },
+    {
+      "id": 1480,
+      "name": "baseball"
+    },
+    {
+      "id": 15149,
+      "name": "monkey"
+    },
+    {
+      "id": 157972,
+      "name": "chimpanzee"
+    },
+    {
+      "id": 158024,
+      "name": "critically bashed"
+    },
+    {
+      "id": 298618,
+      "name": "family comedy"
+    }
+  ]
+}

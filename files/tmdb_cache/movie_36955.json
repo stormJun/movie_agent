@@ -1,0 +1,311 @@
+{
+  "overview": "A fearless, globe-trotting, terrorist-battling secret agent has his life turned upside down when he discovers his wife might be having an affair with a used car salesman while terrorists smuggle nuclear war heads into the United States.",
+  "release_date": "1994-07-15",
+  "runtime": 141,
+  "budget": 115000000,
+  "revenue": 378900000,
+  "tmdb_vote_average": 7.084,
+  "tmdb_vote_count": 4410,
+  "tmdb_popularity": 6.5573,
+  "original_language": "en",
+  "poster_path": "/pweFTnzzTfGK68woSVkiTgjLzWm.jpg",
+  "backdrop_path": "/jRZ3joUcg8YDCQYl4Tog5xhY6wk.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 574,
+      "name": "Lightstorm Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 25,
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "ar",
+      "name": "العربية"
+    },
+    {
+      "code": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1100,
+      "name": "Arnold Schwarzenegger",
+      "character": "Harry Tasker",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 5.4331,
+      "profile_path": "/2marNcjIfCUE5Z2HyrcEiJHPbsA.jpg"
+    },
+    {
+      "personId": 8944,
+      "name": "Jamie Lee Curtis",
+      "character": "Helen Tasker",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 6.0233,
+      "profile_path": "/eWKubKAAssRzmFwCZKh1mdYqGCH.jpg"
+    },
+    {
+      "personId": 74036,
+      "name": "Tom Arnold",
+      "character": "Albert Gibson",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 2.2398,
+      "profile_path": "/z2ajL1ozVCS4Ug04zOGCNH06OPP.jpg"
+    },
+    {
+      "personId": 2053,
+      "name": "Bill Paxton",
+      "character": "Simon",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 3.6042,
+      "profile_path": "/aLdNe6mt1cSi2zWlUYRregzfis5.jpg"
+    },
+    {
+      "personId": 13445,
+      "name": "Tia Carrere",
+      "character": "Juno Skinner",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 6.7751,
+      "profile_path": "/oAIyl8U6bMvID8gJKskeKmLB1cA.jpg"
+    },
+    {
+      "personId": 10672,
+      "name": "Art Malik",
+      "character": "Salim Abu Aziz",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 2.9118,
+      "profile_path": "/4jHV8loqE7u6Sh8RItyHbrY7u6q.jpg"
+    },
+    {
+      "personId": 13446,
+      "name": "Eliza Dushku",
+      "character": "Dana Tasker",
+      "order": 6,
+      "cast_id": 6,
+      "popularity": 5.106,
+      "profile_path": "/lvu4Vo9GL7uOjtU59MDiy3QDPAZ.jpg"
+    },
+    {
+      "personId": 31511,
+      "name": "Grant Heslov",
+      "character": "Faisil",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 1.2415,
+      "profile_path": "/xNkGkkRN2I2Ly57PqDNk9QgAPJs.jpg"
+    },
+    {
+      "personId": 10017,
+      "name": "Charlton Heston",
+      "character": "Spencer Trilby",
+      "order": 8,
+      "cast_id": 7,
+      "popularity": 3.0964,
+      "profile_path": "/mJabHWZrjlFiF8U8Bbr8lSFtLX6.jpg"
+    },
+    {
+      "personId": 116907,
+      "name": "Marshall Manesh",
+      "character": "Jamal Khaled",
+      "order": 9,
+      "cast_id": 33,
+      "popularity": 1.388,
+      "profile_path": "/tnoopXK3bK3Hes2O5YHuCPoPVS4.jpg"
+    },
+    {
+      "personId": 2718720,
+      "name": "James Allen",
+      "character": "Colonel",
+      "order": 10,
+      "cast_id": 194,
+      "popularity": 0.1811,
+      "profile_path": "/2IVqyYUvXC9bwT4hC8aTmNlqCGZ.jpg"
+    },
+    {
+      "personId": 1503891,
+      "name": "Dieter Rauter",
+      "character": "Boathouse Guard",
+      "order": 11,
+      "cast_id": 175,
+      "popularity": 0.4793,
+      "profile_path": "/3HypDrRQpAWT8jHpqdvEjKPU9hh.jpg"
+    },
+    {
+      "personId": 13451,
+      "name": "Jane Morris",
+      "character": "Janice",
+      "order": 12,
+      "cast_id": 176,
+      "popularity": 1.2096,
+      "profile_path": "/8rNS5qEl8ALKa5spSExpuIUA4vR.jpg"
+    },
+    {
+      "personId": 1504125,
+      "name": "Katsy Chappell",
+      "character": "Allison",
+      "order": 13,
+      "cast_id": 177,
+      "popularity": 1.3239,
+      "profile_path": "/oUSulHPn2xPsvoCmNIl8XCiM5nS.jpg"
+    },
+    {
+      "personId": 1474923,
+      "name": "Crystina Wyler",
+      "character": "Charlene",
+      "order": 14,
+      "cast_id": 178,
+      "popularity": 0.122,
+      "profile_path": "/llspPS8yUJg3389DxOlNycSTHGY.jpg"
+    },
+    {
+      "personId": 1778254,
+      "name": "Ofer Samra",
+      "character": "Yusif",
+      "order": 15,
+      "cast_id": 179,
+      "popularity": 0.334,
+      "profile_path": null
+    },
+    {
+      "personId": 1392694,
+      "name": "Paul Barselou",
+      "character": "Old Guy in Bathroom",
+      "order": 16,
+      "cast_id": 180,
+      "popularity": 0.8434,
+      "profile_path": "/8EQ9ukp9HXTRzcmaJCBqJ08Yqv0.jpg"
+    },
+    {
+      "personId": 16563,
+      "name": "Charles A. Tamburro",
+      "character": "Helicopter Pilot",
+      "order": 17,
+      "cast_id": 164,
+      "popularity": 0.9519,
+      "profile_path": "/iCygZNkwUc2wSEIT58qUpiIkIC.jpg"
+    },
+    {
+      "personId": 2577650,
+      "name": "Jean-Claude Parachini",
+      "character": "Jean-Claude",
+      "order": 18,
+      "cast_id": 181,
+      "popularity": 0.0453,
+      "profile_path": null
+    },
+    {
+      "personId": 2577652,
+      "name": "Uzi Gal",
+      "character": "Lead Terrorist",
+      "order": 19,
+      "cast_id": 182,
+      "popularity": 0.1126,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2710,
+      "name": "James Cameron",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 7.395,
+      "profile_path": "/9NAZnTjBQ9WcXAQEzZpKy4vdQto.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1196,
+      "name": "florida"
+    },
+    {
+      "id": 2284,
+      "name": "horseback riding"
+    },
+    {
+      "id": 1419,
+      "name": "gun"
+    },
+    {
+      "id": 1930,
+      "name": "kidnapping"
+    },
+    {
+      "id": 470,
+      "name": "spy"
+    },
+    {
+      "id": 3546,
+      "name": "florida keys"
+    },
+    {
+      "id": 4289,
+      "name": "secret agent"
+    },
+    {
+      "id": 13015,
+      "name": "terrorism"
+    },
+    {
+      "id": 161520,
+      "name": "terrorist plot"
+    },
+    {
+      "id": 167444,
+      "name": "top secret"
+    },
+    {
+      "id": 167466,
+      "name": "mushroom cloud"
+    },
+    {
+      "id": 167467,
+      "name": "jackhammer"
+    },
+    {
+      "id": 206958,
+      "name": "special agent"
+    },
+    {
+      "id": 217421,
+      "name": "key west"
+    },
+    {
+      "id": 256330,
+      "name": "mischievous"
+    },
+    {
+      "id": 325769,
+      "name": "appreciative"
+    }
+  ]
+}

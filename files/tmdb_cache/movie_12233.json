@@ -1,0 +1,293 @@
+{
+  "overview": "A young cat named Oliver is left alone in a kitten box, while all the other young cats have new owners. A big dog named Dodger shows him how to get food and later Oliver lives with him, his owner Fagin and Fagin's other dogs Tito, Rita, Einstein, and Francis. Fagin has one problem besides being broke he owes a nasty man named Sykes a lot of money. If he can't pay it back he's in big trouble. While Oliver runs into a little girl named Jenny who becomes his new owner which he is happy with and later Sykes sees Jenny as the key for him to get his money.",
+  "release_date": "1988-11-18",
+  "runtime": 74,
+  "budget": 31000000,
+  "revenue": 121000000,
+  "tmdb_vote_average": 6.725,
+  "tmdb_vote_count": 1660,
+  "tmdb_popularity": 5.4658,
+  "original_language": "en",
+  "poster_path": "/nijsZeuINn0SnNb5cQVz2L4Yhps.jpg",
+  "backdrop_path": "/k18aKqDPrbTsijtN9jRpnTHxQks.jpg",
+  "tmdb_genres_raw": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 2,
+      "name": "Walt Disney Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 554,
+      "name": "Silver Screen Partners III",
+      "origin_country": "US"
+    },
+    {
+      "id": 171656,
+      "name": "Walt Disney Feature Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 51750,
+      "name": "Joey Lawrence",
+      "character": "Oliver (voice)",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.4866,
+      "profile_path": "/scmaFpaElhetPwubERvd1mdkERg.jpg"
+    },
+    {
+      "personId": 71791,
+      "name": "Billy Joel",
+      "character": "Dodger (voice)",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 0.9825,
+      "profile_path": "/x6MByQ6UUMBrVzwHeJhchbkVRHu.jpg"
+    },
+    {
+      "personId": 11159,
+      "name": "Cheech Marin",
+      "character": "Tito (voice)",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.6465,
+      "profile_path": "/eecHDNRn9K80ZcuSocsMhQb2G1i.jpg"
+    },
+    {
+      "personId": 58661,
+      "name": "Richard Mulligan",
+      "character": "Einstein (voice)",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.126,
+      "profile_path": "/7x086anXSprnyWfa1zFih0RtG42.jpg"
+    },
+    {
+      "personId": 24368,
+      "name": "Roscoe Lee Browne",
+      "character": "Francis (voice)",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.1556,
+      "profile_path": "/zNOJbPMeQd5thNTA1dvb1ZT61mI.jpg"
+    },
+    {
+      "personId": 33613,
+      "name": "Sheryl Lee Ralph",
+      "character": "Rita (voice)",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 2.3817,
+      "profile_path": "/8S9CilET8kJKkxOQPEsA3OYSZGg.jpg"
+    },
+    {
+      "personId": 73931,
+      "name": "Bette Midler",
+      "character": "Georgette (voice)",
+      "order": 6,
+      "cast_id": 23,
+      "popularity": 2.1877,
+      "profile_path": "/ooPKeoLvwacY6BRj99u7uvZCYlF.jpg"
+    },
+    {
+      "personId": 6844,
+      "name": "Dom DeLuise",
+      "character": "Fagin (voice)",
+      "order": 7,
+      "cast_id": 17,
+      "popularity": 2.004,
+      "profile_path": "/kEUVSySvBeLBf4ZiriuejCSBLGx.jpg"
+    },
+    {
+      "personId": 70003,
+      "name": "Taurean Blacque",
+      "character": "Roscoe (voice)",
+      "order": 8,
+      "cast_id": 18,
+      "popularity": 1.5182,
+      "profile_path": "/4DvJEUvnwPx95QsG7T3WxxXTq4.jpg"
+    },
+    {
+      "personId": 157140,
+      "name": "Carl Weintraub",
+      "character": "Desoto (voice)",
+      "order": 9,
+      "cast_id": 19,
+      "popularity": 0.6414,
+      "profile_path": "/uZkmhOmUYJD0AQSAtwHBrYkxhHU.jpg"
+    },
+    {
+      "personId": 1162,
+      "name": "Robert Loggia",
+      "character": "Sykes (voice)",
+      "order": 10,
+      "cast_id": 20,
+      "popularity": 3.5124,
+      "profile_path": "/mRSUgJnfprCNw83pyVfpfW7ryfK.jpg"
+    },
+    {
+      "personId": 112568,
+      "name": "Natalie Gregory",
+      "character": "Jenny (voice)",
+      "order": 11,
+      "cast_id": 21,
+      "popularity": 1.3268,
+      "profile_path": "/lDH36ijZMbvoDO6tQa3KrSq9KpS.jpg"
+    },
+    {
+      "personId": 175078,
+      "name": "William Glover",
+      "character": "Winston (voice)",
+      "order": 12,
+      "cast_id": 22,
+      "popularity": 0.3227,
+      "profile_path": null
+    },
+    {
+      "personId": 128272,
+      "name": "Deborah Gates",
+      "character": "(voice)",
+      "order": 13,
+      "cast_id": 24,
+      "popularity": 0.1691,
+      "profile_path": null
+    },
+    {
+      "personId": 1229258,
+      "name": "Charles Bartlett",
+      "character": "Additional Voice (voice)",
+      "order": 14,
+      "cast_id": 33,
+      "popularity": 0.3772,
+      "profile_path": null
+    },
+    {
+      "personId": 27773,
+      "name": "Jonathan Brandis",
+      "character": "Additional Voice (voice)",
+      "order": 15,
+      "cast_id": 26,
+      "popularity": 3.8446,
+      "profile_path": "/bMrxtkLdUiEefMlwSWStFBy30Xr.jpg"
+    },
+    {
+      "personId": 1077923,
+      "name": "Kal David",
+      "character": "Additional Voice (voice)",
+      "order": 16,
+      "cast_id": 27,
+      "popularity": 0.0441,
+      "profile_path": null
+    },
+    {
+      "personId": 1014817,
+      "name": "Marcia Del Mar",
+      "character": "Additional Voice (voice)",
+      "order": 17,
+      "cast_id": 28,
+      "popularity": 0.2496,
+      "profile_path": null
+    },
+    {
+      "personId": 939799,
+      "name": "Victor DiMattia",
+      "character": "Additional Voice (voice)",
+      "order": 18,
+      "cast_id": 29,
+      "popularity": 2.0268,
+      "profile_path": "/eEznWMVNsM2lBN0lJvpqGcMl9EO.jpg"
+    },
+    {
+      "personId": 949895,
+      "name": "Judi Durand",
+      "character": "Additional Voice (voice)",
+      "order": 19,
+      "cast_id": 30,
+      "popularity": 0.6069,
+      "profile_path": "/c6BBWqnfZoFhT1KpwOuMnBF0kNh.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 71792,
+      "name": "George Scribner",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7133,
+      "profile_path": "/xZ0Vqp9H0eY85bGbRrYGLkUH92L.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 1307,
+      "name": "butler"
+    },
+    {
+      "id": 6513,
+      "name": "cartoon"
+    },
+    {
+      "id": 3289,
+      "name": "villain"
+    },
+    {
+      "id": 4344,
+      "name": "musical"
+    },
+    {
+      "id": 6879,
+      "name": "poodle"
+    },
+    {
+      "id": 15162,
+      "name": "dog"
+    },
+    {
+      "id": 156143,
+      "name": "kitten"
+    },
+    {
+      "id": 156149,
+      "name": "doberman"
+    },
+    {
+      "id": 158222,
+      "name": "great dane"
+    },
+    {
+      "id": 211158,
+      "name": "absent parent"
+    },
+    {
+      "id": 217020,
+      "name": "chihuahua dog"
+    }
+  ]
+}

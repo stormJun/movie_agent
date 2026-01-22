@@ -1,0 +1,233 @@
+{
+  "overview": "Camille, a mercurial César-winning actress, has seen better times. Estranged from her husband, she's with her children only every other weekend. It's her weekend, but her agent has booked her to MC a Rotary club dinner in Vichy. She takes them with her, and when her husband learns this, he demands to pick them up at once. She bolts in a rented car to the seaside, trying to improve her relations with the children, especially the precocious and distant Vincent. He loves astronomy. A rare meteor shower is due in a few days, so she suggests they go to a plateau in Spain hoping to see it. He agrees, but the relationship remains difficult, and her husband is on their trail.",
+  "release_date": "1990-08-28",
+  "runtime": 104,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.636,
+  "tmdb_vote_count": 11,
+  "tmdb_popularity": 0.1505,
+  "original_language": "fr",
+  "poster_path": "/gnFCn8qaZzADt57XFmMrKo6FAZ1.jpg",
+  "backdrop_path": "/wdaGFYhjzpp4UFudVXofftHuOvI.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 6274,
+      "name": "MK2 Films",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 136761,
+      "name": "Nathalie Baye",
+      "character": "Camille Valmont",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 1.1121,
+      "profile_path": "/hwilwMDqr231s4SBNRtVhDsMs6s.jpg"
+    },
+    {
+      "personId": 1198537,
+      "name": "Joachim Serreau",
+      "character": "Vincent",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 0.1985,
+      "profile_path": null
+    },
+    {
+      "personId": 1198538,
+      "name": "Felicie Pasotti",
+      "character": "Gaëlle",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 0.0593,
+      "profile_path": null
+    },
+    {
+      "personId": 48791,
+      "name": "Predrag 'Miki' Manojlović",
+      "character": "Adrian",
+      "order": 3,
+      "cast_id": 10,
+      "popularity": 1.1699,
+      "profile_path": "/hj4MF8aQAGMeFHjeIzbckAko2v9.jpg"
+    },
+    {
+      "personId": 27880,
+      "name": "Henri Garcin",
+      "character": "l'agent de Camille",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 0.5566,
+      "profile_path": "/kp0kqzRMT9c50UuKFkxqIdOgOTW.jpg"
+    },
+    {
+      "personId": 1198539,
+      "name": "Gilles Treton",
+      "character": "Stéphane Frantet",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 0.312,
+      "profile_path": "/yN1pPLJtLLeabJOkrUMLF1QsQ2l.jpg"
+    },
+    {
+      "personId": 550417,
+      "name": "Marie Daëms",
+      "character": "Graziella Jacquet",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 1.3404,
+      "profile_path": "/7IHY5lDNrHs27VNm3XmtmpJxewB.jpg"
+    },
+    {
+      "personId": 24544,
+      "name": "Sacha Briquet",
+      "character": "Albert",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 0.3395,
+      "profile_path": "/n3FoAPDvUil4kaLOjWDm8eR5tT1.jpg"
+    },
+    {
+      "personId": 275776,
+      "name": "Michelle Goddet",
+      "character": "Marie-Ange",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 0.6513,
+      "profile_path": "/bNgmKi6tNHb9d99vA3VuikdV22j.jpg"
+    },
+    {
+      "personId": 1536622,
+      "name": "Susan Carlson",
+      "character": "Martha",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 0.0588,
+      "profile_path": null
+    },
+    {
+      "personId": 72090,
+      "name": "Jacques Boudet",
+      "character": "Jacquet",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 0.3753,
+      "profile_path": "/7VCe37uzQDl4T6GmHL5eaTL4dxZ.jpg"
+    },
+    {
+      "personId": 1895192,
+      "name": "Jacques Vincey",
+      "character": "Lombard",
+      "order": 11,
+      "cast_id": 16,
+      "popularity": 0.174,
+      "profile_path": null
+    },
+    {
+      "personId": 24544,
+      "name": "Sacha Briquet",
+      "character": "Albert, le maître d'hôtel",
+      "order": 12,
+      "cast_id": 17,
+      "popularity": 0.3395,
+      "profile_path": "/n3FoAPDvUil4kaLOjWDm8eR5tT1.jpg"
+    },
+    {
+      "personId": 2615208,
+      "name": "Jean-Loup Wolff",
+      "character": "Directeur Hertz",
+      "order": 13,
+      "cast_id": 18,
+      "popularity": 0.1675,
+      "profile_path": null
+    },
+    {
+      "personId": 580594,
+      "name": "Frédérique Ruchaud",
+      "character": "La nurse",
+      "order": 14,
+      "cast_id": 19,
+      "popularity": 0.0964,
+      "profile_path": "/4UfWhtvMKPOAQP85pSRU23DQYto.jpg"
+    },
+    {
+      "personId": 2760565,
+      "name": "Jan Madd",
+      "character": "Le prestidigitateur",
+      "order": 15,
+      "cast_id": 20,
+      "popularity": 0.1595,
+      "profile_path": "/oCjzLleDl0JYAgyLUjOt4kFDtgF.jpg"
+    },
+    {
+      "personId": 931399,
+      "name": "Jean-Marc Roulot",
+      "character": "Le médecin",
+      "order": 16,
+      "cast_id": 21,
+      "popularity": 0.3489,
+      "profile_path": "/2BCTPnnggxCl68o6aVZNii36EQx.jpg"
+    },
+    {
+      "personId": 4048062,
+      "name": "Sylvie Blotnikas",
+      "character": "La femme de chambre",
+      "order": 17,
+      "cast_id": 22,
+      "popularity": 0.0168,
+      "profile_path": null
+    },
+    {
+      "personId": 4048063,
+      "name": "Martine Buffet",
+      "character": "L'employée Hertz",
+      "order": 18,
+      "cast_id": 23,
+      "popularity": 0.0286,
+      "profile_path": null
+    },
+    {
+      "personId": 4048064,
+      "name": "Hugues Avinens",
+      "character": "Le cheuffeur du bus",
+      "order": 19,
+      "cast_id": 24,
+      "popularity": 0.0143,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 24485,
+      "name": "Nicole Garcia",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.0685,
+      "profile_path": "/kZWBVMLkxGhH97DgJ0uoUlSF5Z5.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 187056,
+      "name": "woman director"
+    }
+  ]
+}

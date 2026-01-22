@@ -1,0 +1,290 @@
+{
+  "overview": "A maverick skydiver and a former KGB agent team up to stop the Russian mafia from stealing gold.",
+  "release_date": "1994-09-23",
+  "runtime": 102,
+  "budget": 50000000,
+  "revenue": 16478900,
+  "tmdb_vote_average": 5.327,
+  "tmdb_vote_count": 278,
+  "tmdb_popularity": 0.9406,
+  "original_language": "en",
+  "poster_path": "/r6H0J7uu9n6D6p5HoJz7jMD90eI.jpg",
+  "backdrop_path": "/yaBxf6PqKQm9QeCt4W9IuE8Aynh.jpg",
+  "tmdb_genres_raw": [
+    "Action"
+  ],
+  "production_companies": [
+    {
+      "id": 915,
+      "name": "Hollywood Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 10201,
+      "name": "Interscope Communications",
+      "origin_country": "US"
+    },
+    {
+      "id": 1382,
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 12883,
+      "name": "Nomura Babcock & Brown",
+      "origin_country": ""
+    },
+    {
+      "id": 4106,
+      "name": "Libra Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 3467,
+      "name": "Studio Trite",
+      "origin_country": "RU"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "RU",
+      "name": "Russia"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "ru",
+      "name": "Pусский"
+    },
+    {
+      "code": "it",
+      "name": "Italiano"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6952,
+      "name": "Charlie Sheen",
+      "character": "Ditch Brodie",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.1931,
+      "profile_path": "/npEqnIw321opMKuu3lsFNKNKQdX.jpg"
+    },
+    {
+      "personId": 2630,
+      "name": "Nastassja Kinski",
+      "character": "Chris Morrow",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 3.049,
+      "profile_path": "/svYrIUXH59Dd9wp9HBpS1ASvRAu.jpg"
+    },
+    {
+      "personId": 4691,
+      "name": "James Gandolfini",
+      "character": "Ben Pinkwater",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 4.0502,
+      "profile_path": "/vhtsFJZcfHdeDkFBoWMDzOS6xrP.jpg"
+    },
+    {
+      "personId": 4443,
+      "name": "Christopher McDonald",
+      "character": "Kerr",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 3.2756,
+      "profile_path": "/gK1XhbfD9Xd8s3VXRPpgDCluyZp.jpg"
+    },
+    {
+      "personId": 56848,
+      "name": "Gary Bullock",
+      "character": "Lex",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 1.4153,
+      "profile_path": "/eoS0PRHcIIdPqiPWF0bdbtZ0omh.jpg"
+    },
+    {
+      "personId": 135650,
+      "name": "Melvin Van Peebles",
+      "character": "Noble",
+      "order": 5,
+      "cast_id": 17,
+      "popularity": 0.5611,
+      "profile_path": "/oiOxqF64Ik6u9gWWA8WQrA5cW4I.jpg"
+    },
+    {
+      "personId": 163013,
+      "name": "Cathryn de Prume",
+      "character": "Karen",
+      "order": 6,
+      "cast_id": 18,
+      "popularity": 1.2783,
+      "profile_path": "/l8PsbpEbhYGxw5ovOrttiVUjOEy.jpg"
+    },
+    {
+      "personId": 1078906,
+      "name": "Terry Finn",
+      "character": "Birthday Mom",
+      "order": 7,
+      "cast_id": 19,
+      "popularity": 0.7696,
+      "profile_path": "/kg2RhYTfgktl5HYpOFoNFkBSPJR.jpg"
+    },
+    {
+      "personId": 72864,
+      "name": "Tim Kelleher",
+      "character": "Jump Junkie #1",
+      "order": 8,
+      "cast_id": 20,
+      "popularity": 1.4878,
+      "profile_path": "/8W3KgoIPUMNjqb3CxC9B8QjBsjM.jpg"
+    },
+    {
+      "personId": 35980,
+      "name": "Brooke Langton",
+      "character": "Jump Junkie #2",
+      "order": 9,
+      "cast_id": 21,
+      "popularity": 1.7658,
+      "profile_path": "/7vNdKFRgedVWfRiZps26PlaVwtI.jpg"
+    },
+    {
+      "personId": 1214728,
+      "name": "Tim Lounibos",
+      "character": "Jump Junkie #3",
+      "order": 10,
+      "cast_id": 24,
+      "popularity": 0.5287,
+      "profile_path": "/gi3vip8dgoYdpsfG4j1C8gGvyFd.jpg"
+    },
+    {
+      "personId": 1384703,
+      "name": "Lori Lynn Dickerson",
+      "character": "Helicopter Newscaster",
+      "order": 11,
+      "cast_id": 22,
+      "popularity": 0.8326,
+      "profile_path": null
+    },
+    {
+      "personId": 53669,
+      "name": "Hans Howes",
+      "character": "Sam",
+      "order": 12,
+      "cast_id": 23,
+      "popularity": 1.2781,
+      "profile_path": null
+    },
+    {
+      "personId": 1748090,
+      "name": "Cynthia Shope",
+      "character": "Babe",
+      "order": 13,
+      "cast_id": 25,
+      "popularity": 0.4976,
+      "profile_path": "/1fXuTQ92hbo4QjKiUQPUww4oG6L.jpg"
+    },
+    {
+      "personId": 2180561,
+      "name": "Richard Sarafian Jr.",
+      "character": "Dominic",
+      "order": 14,
+      "cast_id": 26,
+      "popularity": 0.1115,
+      "profile_path": "/aitWL7soOHswair3EfqYJvv731m.jpg"
+    },
+    {
+      "personId": 1214127,
+      "name": "Suli McCullough",
+      "character": "Robocam",
+      "order": 15,
+      "cast_id": 27,
+      "popularity": 0.5997,
+      "profile_path": "/9kPnQhplaDi7xdDRteUGEvFkBLL.jpg"
+    },
+    {
+      "personId": 22250,
+      "name": "Rance Howard",
+      "character": "Stunt Pilot/Chuck",
+      "order": 16,
+      "cast_id": 37,
+      "popularity": 2.4292,
+      "profile_path": "/rYejoZAvgvy0jyRu9fMH9PBKOWM.jpg"
+    },
+    {
+      "personId": 8985,
+      "name": "Margaret Colin",
+      "character": "Joline \"Jo\" (uncredited)",
+      "order": 17,
+      "cast_id": 38,
+      "popularity": 2.4222,
+      "profile_path": "/tsg9bGtD1mY1FLKIeIFUNeD5jpm.jpg"
+    },
+    {
+      "personId": 4643675,
+      "name": "Martha Vazquez",
+      "character": "Newscaster",
+      "order": 18,
+      "cast_id": 44,
+      "popularity": 0.266,
+      "profile_path": null
+    },
+    {
+      "personId": 4643677,
+      "name": "Matthew Mazuroski",
+      "character": "Jump Instructor \"Tom\"",
+      "order": 19,
+      "cast_id": 45,
+      "popularity": 0.0841,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 45645,
+      "name": "Deran Sarafian",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5356,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 4679,
+      "name": "parachuting"
+    },
+    {
+      "id": 2336,
+      "name": "ladykiller"
+    },
+    {
+      "id": 3278,
+      "name": "kgb"
+    },
+    {
+      "id": 8350,
+      "name": "sprung"
+    },
+    {
+      "id": 242951,
+      "name": "paraquedismo"
+    }
+  ]
+}

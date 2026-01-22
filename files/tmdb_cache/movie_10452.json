@@ -1,0 +1,313 @@
+{
+  "overview": "Paris, Kingdom of France, August 18, 1572. To avoid the outbreak of a religious war, the Catholic princess Marguerite de Valois, sister of the feeble King Charles IX, marries the Huguenot King Henry III of Navarre.",
+  "release_date": "1994-05-13",
+  "runtime": 138,
+  "budget": 0,
+  "revenue": 1318578,
+  "tmdb_vote_average": 7.2,
+  "tmdb_vote_count": 406,
+  "tmdb_popularity": 1.7418,
+  "original_language": "fr",
+  "poster_path": "/8uGkhBLiJMIkwohGPo3iB9AuwDg.jpg",
+  "backdrop_path": "/h0lGYUOxXKCM1W7cgvHN1UW1TC4.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "History",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 82,
+      "name": "Renn Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 6541,
+      "name": "D. A. Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 8923,
+      "name": "WMG Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 18495,
+      "name": "NEF Filmproduktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 75913,
+      "name": "RCS Films",
+      "origin_country": "IT"
+    },
+    {
+      "id": 83,
+      "name": "France 2 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 986,
+      "name": "ARD Degeto",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "it",
+      "name": "Italiano"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6553,
+      "name": "Isabelle Adjani",
+      "character": "Margot",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.6464,
+      "profile_path": "/ad0GTy4ivzDhep1R0CgiR0O0g2v.jpg"
+    },
+    {
+      "personId": 6012,
+      "name": "Daniel Auteuil",
+      "character": "Henri de Navarre",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.2461,
+      "profile_path": "/5asrvkdSnlYlHap3ldDNyE5opeI.jpg"
+    },
+    {
+      "personId": 7037,
+      "name": "Jean-Hugues Anglade",
+      "character": "Charles IX",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.3083,
+      "profile_path": "/cpSxpZLgtzuizHyEmdkh9rgKkRs.jpg"
+    },
+    {
+      "personId": 20239,
+      "name": "Vincent Perez",
+      "character": "La Môle",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.3198,
+      "profile_path": "/mpNv77WJ0kmi8vecBmRKQAdRzzo.jpg"
+    },
+    {
+      "personId": 31895,
+      "name": "Virna Lisi",
+      "character": "Catherine de Médicis",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 3.614,
+      "profile_path": "/bR6s2RMC6yRf4AbX1CUiiqw9f7M.jpg"
+    },
+    {
+      "personId": 19068,
+      "name": "Dominique Blanc",
+      "character": "Henriette de Nevers",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 0.6504,
+      "profile_path": "/yxy0yaSu7Zk7gecvjRJ55TBTze8.jpg"
+    },
+    {
+      "personId": 16923,
+      "name": "Pascal Greggory",
+      "character": "Anjou",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 0.6761,
+      "profile_path": "/1J3QISHIZg6C1xkhvshtX2lEiDG.jpg"
+    },
+    {
+      "personId": 23961,
+      "name": "Claudio Amendola",
+      "character": "Coconnas",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 1.0779,
+      "profile_path": "/wOLO9h2QvyrzWlG9dUpqhG3NAAc.jpg"
+    },
+    {
+      "personId": 54153,
+      "name": "Miguel Bosé",
+      "character": "Guise",
+      "order": 8,
+      "cast_id": 19,
+      "popularity": 0.8162,
+      "profile_path": "/9mt55pbT38jrSYaFvhmiyCIIXsv.jpg"
+    },
+    {
+      "personId": 18514,
+      "name": "Asia Argento",
+      "character": "Charlotte de Sauve",
+      "order": 9,
+      "cast_id": 20,
+      "popularity": 4.1955,
+      "profile_path": "/dYbYNxMnqhNyAJyrPU7e2C9jcRz.jpg"
+    },
+    {
+      "personId": 583222,
+      "name": "Julien Rassam",
+      "character": "Alençon",
+      "order": 10,
+      "cast_id": 21,
+      "popularity": 2.4887,
+      "profile_path": "/5B8JycdCKscDpM261b8jTJJcA0H.jpg"
+    },
+    {
+      "personId": 3491,
+      "name": "Thomas Kretschmann",
+      "character": "Nançay",
+      "order": 11,
+      "cast_id": 22,
+      "popularity": 2.2325,
+      "profile_path": "/kBnPu1KREhckuPpnAUppm24kkVX.jpg"
+    },
+    {
+      "personId": 24299,
+      "name": "Jean-Claude Brialy",
+      "character": "Coligny",
+      "order": 12,
+      "cast_id": 23,
+      "popularity": 1.9411,
+      "profile_path": "/8eAz3iwsHLWRstqasUxdd8KnuPR.jpg"
+    },
+    {
+      "personId": 49946,
+      "name": "Jean-Philippe Écoffey",
+      "character": "Condé",
+      "order": 13,
+      "cast_id": 24,
+      "popularity": 0.455,
+      "profile_path": "/kBCeL63g94b97FdeID04Yswfvg5.jpg"
+    },
+    {
+      "personId": 1609440,
+      "name": "Albano Guaetta",
+      "character": "Orthon",
+      "order": 14,
+      "cast_id": 25,
+      "popularity": 0.1351,
+      "profile_path": null
+    },
+    {
+      "personId": 53904,
+      "name": "Johan Leysen",
+      "character": "Maurevel",
+      "order": 15,
+      "cast_id": 26,
+      "popularity": 0.8882,
+      "profile_path": "/pCBvrMKTNo6cqC63qDSipbtt2Rs.jpg"
+    },
+    {
+      "personId": 41964,
+      "name": "Dörte Lyssewski",
+      "character": "Marie Touchet",
+      "order": 16,
+      "cast_id": 27,
+      "popularity": 0.3304,
+      "profile_path": "/ueuAd47t1UfwPVKChePbIPtPMHR.jpg"
+    },
+    {
+      "personId": 229262,
+      "name": "Michelle Marquais",
+      "character": "Nursemaid",
+      "order": 17,
+      "cast_id": 28,
+      "popularity": 0.279,
+      "profile_path": "/o0Su4m1WDOpP0fjl2OjmkSyvoVK.jpg"
+    },
+    {
+      "personId": 149876,
+      "name": "Laure Marsac",
+      "character": "Antoinette",
+      "order": 18,
+      "cast_id": 29,
+      "popularity": 0.8063,
+      "profile_path": "/sCz2f69Q2ummSuKDOD6XURsfiG1.jpg"
+    },
+    {
+      "personId": 1609441,
+      "name": "Alexis Nitzer",
+      "character": "Advisor #1",
+      "order": 19,
+      "cast_id": 30,
+      "popularity": 1.1134,
+      "profile_path": "/iKIvONpmTRWib7t09uLsRcfHowN.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 23724,
+      "name": "Patrice Chéreau",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5402,
+      "profile_path": "/8Qbylwv2JLQVQsEYz9u1oUnVruf.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 90,
+      "name": "paris, france"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 3686,
+      "name": "marriage of convenience"
+    },
+    {
+      "id": 9920,
+      "name": "royalty"
+    },
+    {
+      "id": 10410,
+      "name": "conspiracy"
+    },
+    {
+      "id": 191599,
+      "name": "palace intrigue"
+    },
+    {
+      "id": 208244,
+      "name": "16th century"
+    },
+    {
+      "id": 220890,
+      "name": "religious persecution"
+    },
+    {
+      "id": 244367,
+      "name": "st. bartholomew's day massacre"
+    },
+    {
+      "id": 258300,
+      "name": "french history"
+    }
+  ]
+}

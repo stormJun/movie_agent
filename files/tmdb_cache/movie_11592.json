@@ -1,0 +1,307 @@
+{
+  "overview": "Beverly is the perfect happy homemaker, along with her doting husband and two children, but this nuclear family just might explode when her fascination with serial killers collides with her ever-so-proper code of ethics.",
+  "release_date": "1994-04-13",
+  "runtime": 94,
+  "budget": 13000000,
+  "revenue": 7820688,
+  "tmdb_vote_average": 6.7,
+  "tmdb_vote_count": 750,
+  "tmdb_popularity": 2.1005,
+  "original_language": "en",
+  "poster_path": "/vAZkFho9YdIXPmMdHMwr10Go2FF.jpg",
+  "backdrop_path": "/gRbQWU1MbdphvioR25UAGGKMQsh.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 17411,
+      "name": "Polar Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 11308,
+      "name": "Savoy Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3391,
+      "name": "Kathleen Turner",
+      "character": "Beverly Sutphin",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.7045,
+      "profile_path": "/hvmMGjWKy1CGmaJzPtOtbb3fD57.jpg"
+    },
+    {
+      "personId": 8975,
+      "name": "Sam Waterston",
+      "character": "Eugene Sutphin",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.0739,
+      "profile_path": "/cSCy9Ng1QJSbEi440342bL71ceF.jpg"
+    },
+    {
+      "personId": 70233,
+      "name": "Ricki Lake",
+      "character": "Misty Sutphin",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.4281,
+      "profile_path": "/e49u3hZXgOuhBMMDxOVgY2Mrt8s.jpg"
+    },
+    {
+      "personId": 26457,
+      "name": "Matthew Lillard",
+      "character": "Chip Sutphin",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 5.2129,
+      "profile_path": "/auUbijDzR9xpSgQtLsYDvNatloj.jpg"
+    },
+    {
+      "personId": 77245,
+      "name": "Scott Morgan",
+      "character": "Detective Pike",
+      "order": 4,
+      "cast_id": 18,
+      "popularity": 0.4785,
+      "profile_path": "/dUTxd8dfGp0M1K3uQXG0H07kA3d.jpg"
+    },
+    {
+      "personId": 361969,
+      "name": "Walt MacPherson",
+      "character": "Detective Gracey",
+      "order": 5,
+      "cast_id": 19,
+      "popularity": 0.7382,
+      "profile_path": "/h0hxyg9jxJYGdXKFaCQSc3xtoMd.jpg"
+    },
+    {
+      "personId": 68494,
+      "name": "Justin Whalin",
+      "character": "Scotty",
+      "order": 6,
+      "cast_id": 16,
+      "popularity": 1.9505,
+      "profile_path": "/oEKsEJsmAj1ozJ2ehZ60NeJvfW0.jpg"
+    },
+    {
+      "personId": 163956,
+      "name": "Patricia Dunnock",
+      "character": "Birdie",
+      "order": 7,
+      "cast_id": 20,
+      "popularity": 2.176,
+      "profile_path": null
+    },
+    {
+      "personId": 1387761,
+      "name": "Lonnie Horsey",
+      "character": "Carl",
+      "order": 8,
+      "cast_id": 21,
+      "popularity": 0.2302,
+      "profile_path": null
+    },
+    {
+      "personId": 9292,
+      "name": "Mink Stole",
+      "character": "Dottie Hinkle",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 1.1483,
+      "profile_path": "/4mHfPkiYdd70X3gVTadj0p5MP7k.jpg"
+    },
+    {
+      "personId": 80634,
+      "name": "Mary Jo Catlett",
+      "character": "Rosemary Ackerman",
+      "order": 10,
+      "cast_id": 22,
+      "popularity": 1.336,
+      "profile_path": "/72XlPyoJS8RSze69hrv0xeUFppt.jpg"
+    },
+    {
+      "personId": 59161,
+      "name": "John Badila",
+      "character": "Mr. Stubbins",
+      "order": 11,
+      "cast_id": 23,
+      "popularity": 0.7,
+      "profile_path": "/kkJ1LFVO2QblsVdP65o2AHcIT81.jpg"
+    },
+    {
+      "personId": 1387762,
+      "name": "Kathy Fannon",
+      "character": "Betty Sterner",
+      "order": 12,
+      "cast_id": 24,
+      "popularity": 0.0338,
+      "profile_path": null
+    },
+    {
+      "personId": 1387766,
+      "name": "Doug Roberts",
+      "character": "Ralph Sterner",
+      "order": 13,
+      "cast_id": 25,
+      "popularity": 0.6227,
+      "profile_path": "/j1gjQcHB0LrKFSmY4dSP7JLd5L4.jpg"
+    },
+    {
+      "personId": 10826,
+      "name": "Traci Lords",
+      "character": "Carl's Date",
+      "order": 14,
+      "cast_id": 15,
+      "popularity": 25.605,
+      "profile_path": "/xcHV0zuDDYX5TZfJAd6osXfzLWC.jpg"
+    },
+    {
+      "personId": 1340687,
+      "name": "Tim Caggiano",
+      "character": "Marvin Pickles",
+      "order": 15,
+      "cast_id": 17,
+      "popularity": 0.1831,
+      "profile_path": null
+    },
+    {
+      "personId": 1387807,
+      "name": "Jeff Mandon",
+      "character": "Howell Hawkins",
+      "order": 16,
+      "cast_id": 26,
+      "popularity": 0.4086,
+      "profile_path": null
+    },
+    {
+      "personId": 1387808,
+      "name": "Colgate Salsbury",
+      "character": "Father Boyce",
+      "order": 17,
+      "cast_id": 27,
+      "popularity": 0.2869,
+      "profile_path": null
+    },
+    {
+      "personId": 1387811,
+      "name": "Patsy Grady Abrams",
+      "character": "Mrs. Jenson",
+      "order": 18,
+      "cast_id": 28,
+      "popularity": 0.96,
+      "profile_path": "/e5JHYzv2DKu6G9b8BPfMmT0XioM.jpg"
+    },
+    {
+      "personId": 1387816,
+      "name": "Richard Pilcher",
+      "character": "Herbie Hebden",
+      "order": 19,
+      "cast_id": 29,
+      "popularity": 0.3602,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 10367,
+      "name": "John Waters",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 3.3623,
+      "profile_path": "/4foU1kJ24CJwz2RVZgyc7oxMs4i.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6148,
+      "name": "court"
+    },
+    {
+      "id": 2539,
+      "name": "harassment"
+    },
+    {
+      "id": 2672,
+      "name": "baltimore, usa"
+    },
+    {
+      "id": 10123,
+      "name": "dark comedy"
+    },
+    {
+      "id": 3451,
+      "name": "housewife"
+    },
+    {
+      "id": 8201,
+      "name": "satire"
+    },
+    {
+      "id": 4556,
+      "name": "protection"
+    },
+    {
+      "id": 6170,
+      "name": "motherly love"
+    },
+    {
+      "id": 6440,
+      "name": "hit-and-run"
+    },
+    {
+      "id": 7717,
+      "name": "evil mother"
+    },
+    {
+      "id": 10532,
+      "name": "suburbia"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 10714,
+      "name": "serial killer"
+    },
+    {
+      "id": 33724,
+      "name": "infamy"
+    },
+    {
+      "id": 164657,
+      "name": "perfectionist"
+    },
+    {
+      "id": 168196,
+      "name": "perfection"
+    },
+    {
+      "id": 207299,
+      "name": "obscene telephone call"
+    },
+    {
+      "id": 240236,
+      "name": "protective mother"
+    }
+  ]
+}

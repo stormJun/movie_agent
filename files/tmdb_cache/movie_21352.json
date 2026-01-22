@@ -1,0 +1,235 @@
+{
+  "overview": "The true story of how a marine seal named Andre befriended a little girl and her family, circa 1962.",
+  "release_date": "1994-08-17",
+  "runtime": 94,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.35,
+  "tmdb_vote_count": 120,
+  "tmdb_popularity": 1.2441,
+  "original_language": "en",
+  "poster_path": "/uo5BozBpQfKXGLPUeUkwBGLG0XW.jpg",
+  "backdrop_path": "/jvTfDcBfhq5aSTp1jG9abW62cVD.jpg",
+  "tmdb_genres_raw": [
+    "Family",
+    "Adventure",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 30613,
+      "name": "Keith Carradine",
+      "character": "Harry Whitney",
+      "order": 0,
+      "cast_id": 10,
+      "popularity": 4.1145,
+      "profile_path": "/5gayZWGqjTAVJXr1bXovk3oqOxW.jpg"
+    },
+    {
+      "personId": 53930,
+      "name": "Tina Majorino",
+      "character": "Toni Whitney",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.8327,
+      "profile_path": "/2sOAKJHk38fsZPtM7L13KjqA8hR.jpg"
+    },
+    {
+      "personId": 87957,
+      "name": "Keith Szarabajka",
+      "character": "Billy Baker",
+      "order": 2,
+      "cast_id": 11,
+      "popularity": 2.4562,
+      "profile_path": "/z45Goe7lfBvs3cBP5igsCE8ISWG.jpg"
+    },
+    {
+      "personId": 27008,
+      "name": "Chelsea Field",
+      "character": "Thalice Whitney",
+      "order": 3,
+      "cast_id": 3,
+      "popularity": 1.9083,
+      "profile_path": "/qGpq2QDoxWHLSm7NciNX2JyaHBw.jpg"
+    },
+    {
+      "personId": 11866,
+      "name": "Joshua Jackson",
+      "character": "Mark Baker",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 3.9837,
+      "profile_path": "/mH2a5YFd8J7upjjWwEzM75vitA2.jpg"
+    },
+    {
+      "personId": 198700,
+      "name": "Aidan Pendleton",
+      "character": "Paula Whitney",
+      "order": 5,
+      "cast_id": 5,
+      "popularity": 0.6423,
+      "profile_path": null
+    },
+    {
+      "personId": 63791,
+      "name": "Jay Brazeau",
+      "character": "Griff Armstrong",
+      "order": 6,
+      "cast_id": 32,
+      "popularity": 1.5744,
+      "profile_path": "/sfZmnOv1Nd6jqeks5QtsW2Co3uH.jpg"
+    },
+    {
+      "personId": 130935,
+      "name": "Shane Meier",
+      "character": "Steve Whitney",
+      "order": 7,
+      "cast_id": 4,
+      "popularity": 0.9297,
+      "profile_path": "/z3lmQgYB1BX8cTOt4NTqjupgUqp.jpg"
+    },
+    {
+      "personId": 1711358,
+      "name": "Shirley Broderick",
+      "character": "Mrs. McCann",
+      "order": 8,
+      "cast_id": 30,
+      "popularity": 1.4794,
+      "profile_path": null
+    },
+    {
+      "personId": 74368,
+      "name": "Andrea Libman",
+      "character": "Mary May",
+      "order": 9,
+      "cast_id": 31,
+      "popularity": 1.2184,
+      "profile_path": "/6R2ekkbQ7OFsktfasLvXzhd0IJ.jpg"
+    },
+    {
+      "personId": 118462,
+      "name": "Bill Dow",
+      "character": "Ellwyn",
+      "order": 10,
+      "cast_id": 33,
+      "popularity": 1.2585,
+      "profile_path": "/dfl1WQzIRhswOw4zQxo6YKWL3Ik.jpg"
+    },
+    {
+      "personId": 1235502,
+      "name": "Joy Coghill",
+      "character": "Betsy",
+      "order": 11,
+      "cast_id": 34,
+      "popularity": 1.7398,
+      "profile_path": "/fWZyKZXlRA9VygLX8744q6s5m1V.jpg"
+    },
+    {
+      "personId": 27121,
+      "name": "Stephen Dimopoulos",
+      "character": "Dan Snow",
+      "order": 12,
+      "cast_id": 35,
+      "popularity": 0.756,
+      "profile_path": "/3r3R7E09Qvt9JnVrSL7yKbUfg8u.jpg"
+    },
+    {
+      "personId": 61167,
+      "name": "Frank C. Turner",
+      "character": "John Miller",
+      "order": 13,
+      "cast_id": 36,
+      "popularity": 1.3307,
+      "profile_path": "/sIF6E9RzaSJJy6GWpy4dHEUDudI.jpg"
+    },
+    {
+      "personId": 85811,
+      "name": "Kristian Ayre",
+      "character": "Gerald",
+      "order": 14,
+      "cast_id": 37,
+      "popularity": 1.4702,
+      "profile_path": "/8xzeqFjzLMrFegDMm4vv986Kvp5.jpg"
+    },
+    {
+      "personId": 20814,
+      "name": "Gregory Smith",
+      "character": "Bobby",
+      "order": 15,
+      "cast_id": 38,
+      "popularity": 1.6223,
+      "profile_path": "/5qwhNXC5SZf3D7e1i6iNFvcp91P.jpg"
+    },
+    {
+      "personId": 1214079,
+      "name": "Ric Reid",
+      "character": "Henry White",
+      "order": 16,
+      "cast_id": 39,
+      "popularity": 0.765,
+      "profile_path": "/eAI8QwsA9pfa3bUEXMUDmHe65er.jpg"
+    },
+    {
+      "personId": 14595,
+      "name": "Duncan Fraser",
+      "character": "Jack Adams",
+      "order": 17,
+      "cast_id": 40,
+      "popularity": 1.0188,
+      "profile_path": "/ckiY9K7fwH5KRuTE3IM5kelwm0c.jpg"
+    },
+    {
+      "personId": 5494,
+      "name": "Gary Jones",
+      "character": "Lance Tindall",
+      "order": 18,
+      "cast_id": 41,
+      "popularity": 1.6118,
+      "profile_path": "/w6Q2F6n7sq7jIZLGqk908qhd3Ac.jpg"
+    },
+    {
+      "personId": 51800,
+      "name": "Teryl Rothery",
+      "character": "Jennifer Fife",
+      "order": 19,
+      "cast_id": 42,
+      "popularity": 7.5708,
+      "profile_path": "/fB3XmJ4PRMGo28LxbvTHuYyL3gi.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1174031,
+      "name": "George T. Miller",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4827,
+      "profile_path": "/usAgmTLlcxnOqp4CSoASfMlvDDT.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 158063,
+      "name": "seal (animal)"
+    }
+  ]
+}

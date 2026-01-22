@@ -1,0 +1,343 @@
+{
+  "overview": "In early 20th-century Montana, Col. William Ludlow lives on a ranch in the wilderness with his sons, Alfred, Tristan, and Samuel. Eventually, the unconventional but close-knit family are bound by loyalty, tested by war, and torn apart by love, as told over the course of several decades in this epic saga.",
+  "release_date": "1994-12-23",
+  "runtime": 133,
+  "budget": 30000000,
+  "revenue": 160638883,
+  "tmdb_vote_average": 7.384,
+  "tmdb_vote_count": 2764,
+  "tmdb_popularity": 6.2206,
+  "original_language": "en",
+  "poster_path": "/t1KPGlW0UGd0m515LPQmk2F4nu1.jpg",
+  "backdrop_path": "/fOfcbdBQBCO4Y2hy6DfLbb30klU.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Western",
+    "Romance",
+    "War",
+    "Action"
+  ],
+  "production_companies": [
+    {
+      "id": 348,
+      "name": "Bedford Falls Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 559,
+      "name": "TriStar Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1656,
+      "name": "Pangaea",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "kw",
+      "name": ""
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 287,
+      "name": "Brad Pitt",
+      "character": "Tristan Ludlow",
+      "order": 0,
+      "cast_id": 17,
+      "popularity": 9.6902,
+      "profile_path": "/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+    },
+    {
+      "personId": 4173,
+      "name": "Anthony Hopkins",
+      "character": "Col. William Ludlow",
+      "order": 1,
+      "cast_id": 18,
+      "popularity": 6.8156,
+      "profile_path": "/cbFWUHhk6pZKTEm48OKVM5awNNn.jpg"
+    },
+    {
+      "personId": 18992,
+      "name": "Aidan Quinn",
+      "character": "Alfred Ludlow",
+      "order": 2,
+      "cast_id": 19,
+      "popularity": 2.4949,
+      "profile_path": "/viUuUmhiGdsfoQh0IpO5N312qNd.jpg"
+    },
+    {
+      "personId": 15887,
+      "name": "Julia Ormond",
+      "character": "Susannah Fincannon Ludlow",
+      "order": 3,
+      "cast_id": 20,
+      "popularity": 4.1809,
+      "profile_path": "/u7Oz6nHfMSlXuT34K7Ffp4f2qgP.jpg"
+    },
+    {
+      "personId": 9976,
+      "name": "Henry Thomas",
+      "character": "Samuel Ludlow",
+      "order": 4,
+      "cast_id": 21,
+      "popularity": 2.9371,
+      "profile_path": "/l5OZ4qrrRGnEPeNhZ8PcL5vhwOI.jpg"
+    },
+    {
+      "personId": 11068,
+      "name": "Karina Lombard",
+      "character": "Isabel Two Decker Ludlow",
+      "order": 5,
+      "cast_id": 22,
+      "popularity": 1.2841,
+      "profile_path": "/yiRO0bdHkPccjQDA3HdEPmJUEA7.jpg"
+    },
+    {
+      "personId": 37430,
+      "name": "Gordon Tootoosis",
+      "character": "One Stab",
+      "order": 6,
+      "cast_id": 23,
+      "popularity": 0.8329,
+      "profile_path": "/ls9gOUs7nSZyutuL5MULC1PZftN.jpg"
+    },
+    {
+      "personId": 37431,
+      "name": "John Novak",
+      "character": "James O'Banion",
+      "order": 7,
+      "cast_id": 24,
+      "popularity": 1.2347,
+      "profile_path": "/xh8EyWCDggvZkyAlNGsTvH6KarE.jpg"
+    },
+    {
+      "personId": 37432,
+      "name": "Robert Wisden",
+      "character": "John T. O'Banion",
+      "order": 8,
+      "cast_id": 25,
+      "popularity": 1.0107,
+      "profile_path": "/lLl40wVqPB9dylabUAu4qvWUu6O.jpg"
+    },
+    {
+      "personId": 7863,
+      "name": "Tantoo Cardinal",
+      "character": "Pet",
+      "order": 9,
+      "cast_id": 27,
+      "popularity": 1.5433,
+      "profile_path": "/rxhjfygJlPwztf36iRI7UDn5dr7.jpg"
+    },
+    {
+      "personId": 174943,
+      "name": "Paul Desmond",
+      "character": "Decker",
+      "order": 10,
+      "cast_id": 28,
+      "popularity": 0.2449,
+      "profile_path": null
+    },
+    {
+      "personId": 94978,
+      "name": "Christina Pickles",
+      "character": "Isabel Ludlow",
+      "order": 11,
+      "cast_id": 29,
+      "popularity": 2.7671,
+      "profile_path": "/rNm1i3zTL6dyHWR5nmJ0v7J5llq.jpg"
+    },
+    {
+      "personId": 6074,
+      "name": "Kenneth Welsh",
+      "character": "Sheriff Tynert",
+      "order": 12,
+      "cast_id": 30,
+      "popularity": 1.8135,
+      "profile_path": "/hsmY2HaIdOEoTBtwFPxQLyLymYw.jpg"
+    },
+    {
+      "personId": 118462,
+      "name": "Bill Dow",
+      "character": "Longley",
+      "order": 13,
+      "cast_id": 31,
+      "popularity": 1.2585,
+      "profile_path": "/dfl1WQzIRhswOw4zQxo6YKWL3Ik.jpg"
+    },
+    {
+      "personId": 184106,
+      "name": "Sam Sarkar",
+      "character": "Rodriguez",
+      "order": 14,
+      "cast_id": 32,
+      "popularity": 1.0359,
+      "profile_path": "/63Vb6klwgYr2dGA4FmmKRceWZfe.jpg"
+    },
+    {
+      "personId": 44208,
+      "name": "Nigel Bennett",
+      "character": "Asgaard",
+      "order": 15,
+      "cast_id": 33,
+      "popularity": 1.1329,
+      "profile_path": "/gaB8nZnEbGe8lIgZtoo1ObYSUEg.jpg"
+    },
+    {
+      "personId": 78105,
+      "name": "Keegan MacIntosh",
+      "character": "Boy Tristan",
+      "order": 16,
+      "cast_id": 34,
+      "popularity": 0.5183,
+      "profile_path": null
+    },
+    {
+      "personId": 33337,
+      "name": "Eric Johnson",
+      "character": "Teen Tristan",
+      "order": 17,
+      "cast_id": 35,
+      "popularity": 2.337,
+      "profile_path": "/oSwKvCo9duqcOfUAYPLdNHyXnna.jpg"
+    },
+    {
+      "personId": 95825,
+      "name": "Randall Slavin",
+      "character": "Teen Alfred",
+      "order": 18,
+      "cast_id": 36,
+      "popularity": 0.5023,
+      "profile_path": null
+    },
+    {
+      "personId": 1077328,
+      "name": "Doug Hughes",
+      "character": "Teen Samuel",
+      "order": 19,
+      "cast_id": 37,
+      "popularity": 0.1856,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 9181,
+      "name": "Edward Zwick",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.2674,
+      "profile_path": "/RzRjOpqfob68smXTj5RPjankKr.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 380,
+      "name": "sibling relationship"
+    },
+    {
+      "id": 447,
+      "name": "post-traumatic stress disorder (ptsd)"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 2504,
+      "name": "world war i"
+    },
+    {
+      "id": 5973,
+      "name": "journey around the world"
+    },
+    {
+      "id": 680,
+      "name": "montana"
+    },
+    {
+      "id": 1797,
+      "name": "loyalty"
+    },
+    {
+      "id": 2752,
+      "name": "ranch"
+    },
+    {
+      "id": 2803,
+      "name": "affectation"
+    },
+    {
+      "id": 10322,
+      "name": "native american"
+    },
+    {
+      "id": 10614,
+      "name": "tragedy"
+    },
+    {
+      "id": 10188,
+      "name": "interracial marriage"
+    },
+    {
+      "id": 11157,
+      "name": "sibling rivalry"
+    },
+    {
+      "id": 13072,
+      "name": "falling in love"
+    },
+    {
+      "id": 165583,
+      "name": "interracial friendship"
+    },
+    {
+      "id": 210184,
+      "name": "1910s"
+    },
+    {
+      "id": 236170,
+      "name": "1900s"
+    },
+    {
+      "id": 237057,
+      "name": "political aspiration"
+    },
+    {
+      "id": 240119,
+      "name": "father son relationship"
+    },
+    {
+      "id": 243959,
+      "name": "brother brother relationship"
+    },
+    {
+      "id": 262121,
+      "name": "prohibition"
+    },
+    {
+      "id": 281658,
+      "name": "beautiful landscapes"
+    },
+    {
+      "id": 325835,
+      "name": "melodramatic"
+    },
+    {
+      "id": 331415,
+      "name": "u.s. army soldier"
+    }
+  ]
+}

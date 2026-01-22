@@ -1,0 +1,125 @@
+{
+  "overview": "A weekend of fun becomes a fight for survival when three American women land in a Mexican jail. After being sexually molested by the guards, they attempt to escape with the help of a fellow prisoner.",
+  "release_date": "1995-01-01",
+  "runtime": 90,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 4.2,
+  "tmdb_vote_count": 6,
+  "tmdb_popularity": 3.7434,
+  "original_language": "en",
+  "poster_path": "/ulynXxIyB9bmEbH0mKI23vUF1ND.jpg",
+  "backdrop_path": "/sM7CsjoOFCItIz1gVBZHfbkiU8S.jpg",
+  "tmdb_genres_raw": [
+    "Thriller",
+    "Action",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 4106,
+      "name": "Libra Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13445,
+      "name": "Tia Carrere",
+      "character": "Nora",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 6.7751,
+      "profile_path": "/oAIyl8U6bMvID8gJKskeKmLB1cA.jpg"
+    },
+    {
+      "personId": 93350,
+      "name": "Rigg Kennedy",
+      "character": "Capt. Dalton",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 0.4713,
+      "profile_path": null
+    },
+    {
+      "personId": 166951,
+      "name": "Lisa Dean Ryan",
+      "character": "Caroline",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 1.9429,
+      "profile_path": "/xtR2kckhrOI8Q6ZcLsQNhxH7yDp.jpg"
+    },
+    {
+      "personId": 147593,
+      "name": "Tricia Leigh Fisher",
+      "character": "Maureen",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 0.5835,
+      "profile_path": "/fo1IRoLA0ffDBcPn01feK1YW58V.jpg"
+    },
+    {
+      "personId": 115874,
+      "name": "Carlos Gómez",
+      "character": "Juan Delgado",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 2.0667,
+      "profile_path": "/4uCM3Y4QS2uaRJBYf7Yi67VvPHl.jpg"
+    },
+    {
+      "personId": 1872784,
+      "name": "Margaret Medina",
+      "character": "Officer Sue Stone",
+      "order": 5,
+      "cast_id": 20,
+      "popularity": 0.8052,
+      "profile_path": "/2nmXkiogPqAUyQeKDUWpCGR42aS.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 98940,
+      "name": "Catherine Cyran",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.6618,
+      "profile_path": "/qtBvphHLdTrDsnvyvNoebVCqy3Q.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 570,
+      "name": "rape"
+    },
+    {
+      "id": 11734,
+      "name": "police corruption"
+    },
+    {
+      "id": 179571,
+      "name": "tijuana"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    }
+  ]
+}

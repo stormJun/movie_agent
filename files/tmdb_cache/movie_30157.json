@@ -1,0 +1,268 @@
+{
+  "overview": "A man wakes up in an alley, bleeding and with no memory of who he is. He stumbles into a coffee shop and is befriended by a charitable ex-nun who is failing in her attempts to write marketable pornography.",
+  "release_date": "1994-08-05",
+  "runtime": 105,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.147,
+  "tmdb_vote_count": 102,
+  "tmdb_popularity": 2.2646,
+  "original_language": "en",
+  "poster_path": "/n0lFhpnoctfsPo5GXvuvQSgv9Fj.jpg",
+  "backdrop_path": "/lF1vgyD1kNa2xfwWyOsS6LYPfmv.jpg",
+  "tmdb_genres_raw": [
+    "Crime",
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 581,
+      "name": "UGC",
+      "origin_country": "FR"
+    },
+    {
+      "id": 3906,
+      "name": "American Playhouse",
+      "origin_country": "US"
+    },
+    {
+      "id": 16366,
+      "name": "La Sept Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 181,
+      "name": "Channel Four Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 721,
+      "name": "Zenith Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 37909,
+      "name": "True Fiction Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 17882,
+      "name": "Isabelle Huppert",
+      "character": "Isabelle",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.5798,
+      "profile_path": "/wGG9v1Uci3sfrbjt0bRXkLrTqjY.jpg"
+    },
+    {
+      "personId": 42993,
+      "name": "Martin Donovan",
+      "character": "Thomas Ludens",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.2158,
+      "profile_path": "/wTCmpcmd8mcAbsX6Yc7zFs2J98Q.jpg"
+    },
+    {
+      "personId": 17257,
+      "name": "Elina Löwensohn",
+      "character": "Sofia Ludens",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 0.9166,
+      "profile_path": "/pRFLUsONKzg0hnl2CLnNBE4AJZ1.jpg"
+    },
+    {
+      "personId": 109144,
+      "name": "Damian Young",
+      "character": "Edward, Jaque's Accountant",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 1.581,
+      "profile_path": "/bvUhCL4CGNw0StkG8XaU07VueH5.jpg"
+    },
+    {
+      "personId": 171574,
+      "name": "Chuck Montgomery",
+      "character": "Jan, Jaque's Goon",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 0.928,
+      "profile_path": "/bN04P07aYX2DI5UEoJudIqp7mqt.jpg"
+    },
+    {
+      "personId": 122241,
+      "name": "Dave Simonds",
+      "character": "Kurt, Jaque's Goon",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 0.5205,
+      "profile_path": null
+    },
+    {
+      "personId": 188244,
+      "name": "Pamela Stewart",
+      "character": "Officer Patsy Melville",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 0.6266,
+      "profile_path": "/bZ7LPRrNS5sRmNuCvW1QetbLPI7.jpg"
+    },
+    {
+      "personId": 94430,
+      "name": "Erica Gimpel",
+      "character": "Irate Woman",
+      "order": 7,
+      "cast_id": 27,
+      "popularity": 2.675,
+      "profile_path": "/9rEGsUqlbVJexRZ2TTxc0UIGY5P.jpg"
+    },
+    {
+      "personId": 2922627,
+      "name": "Jan Leslie Harding",
+      "character": "Waitress",
+      "order": 8,
+      "cast_id": 92,
+      "popularity": 0.3171,
+      "profile_path": null
+    },
+    {
+      "personId": 54854,
+      "name": "Terry Alexander",
+      "character": "Frank, the Cook",
+      "order": 9,
+      "cast_id": 93,
+      "popularity": 0.7084,
+      "profile_path": "/hbSrIHq9KsxhxsIZtpNsNrH0syZ.jpg"
+    },
+    {
+      "personId": 7497,
+      "name": "Holt McCallany",
+      "character": "Usher",
+      "order": 10,
+      "cast_id": 32,
+      "popularity": 3.3076,
+      "profile_path": "/nHZgHsBc8P69LFTGsDSrZYt2PmS.jpg"
+    },
+    {
+      "personId": 2022910,
+      "name": "Hugh Palmer",
+      "character": "Warren",
+      "order": 11,
+      "cast_id": 94,
+      "popularity": 0.1522,
+      "profile_path": null
+    },
+    {
+      "personId": 11486,
+      "name": "Michael Imperioli",
+      "character": "Doorman at Club",
+      "order": 12,
+      "cast_id": 28,
+      "popularity": 3.4147,
+      "profile_path": "/jfoEHR6BRMg8emtujXdM3G4JHIm.jpg"
+    },
+    {
+      "personId": 84239,
+      "name": "Angel Caban",
+      "character": "Detective",
+      "order": 13,
+      "cast_id": 95,
+      "popularity": 1.969,
+      "profile_path": "/51fivCuDCjo03JKfh1JvGDbQoyl.jpg"
+    },
+    {
+      "personId": 137416,
+      "name": "Emmanuel Xuereb",
+      "character": "Bartender",
+      "order": 14,
+      "cast_id": 96,
+      "popularity": 1.9898,
+      "profile_path": "/7euWFldTnZgRh9DUjNXofkiE9G5.jpg"
+    },
+    {
+      "personId": 42200,
+      "name": "Lennie Loftin",
+      "character": "Taxi Driver",
+      "order": 15,
+      "cast_id": 97,
+      "popularity": 0.9847,
+      "profile_path": "/tLCt8LjeumrCQvQfkrEbg7OQd4B.jpg"
+    },
+    {
+      "personId": 2318989,
+      "name": "David Greenspan",
+      "character": "George , the Pornographer",
+      "order": 16,
+      "cast_id": 98,
+      "popularity": 0.1107,
+      "profile_path": null
+    },
+    {
+      "personId": 166976,
+      "name": "Adria Tennor",
+      "character": "Kid reading 'The Odyssey'",
+      "order": 17,
+      "cast_id": 31,
+      "popularity": 1.0211,
+      "profile_path": "/6lQmPlmxDrBAal1t6jEVdVZRa5u.jpg"
+    },
+    {
+      "personId": 7489,
+      "name": "Parker Posey",
+      "character": "Girl Squatter",
+      "order": 18,
+      "cast_id": 25,
+      "popularity": 3.2512,
+      "profile_path": "/yoFt75JfGUqQ6EV8qN6fckQuElk.jpg"
+    },
+    {
+      "personId": 20283,
+      "name": "Dwight Ewell",
+      "character": "Boy Squatter",
+      "order": 19,
+      "cast_id": 30,
+      "popularity": 0.8903,
+      "profile_path": "/cHbxYfDX7tfKmhWWJFkt5cFw4eZ.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 91343,
+      "name": "Hal Hartley",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6323,
+      "profile_path": "/vZ0Ms0CM9h5IsXoiSeqDmblmXXA.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 325776,
+      "name": "baffled"
+    }
+  ]
+}

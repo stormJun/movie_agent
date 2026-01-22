@@ -1,0 +1,51 @@
+{
+  "overview": "Michel Negroponte, a documentary filmmaker, meets Maggie one day in Central Park. Maggie claims to be married to the god Jupiter and the daughter of actor Robert Ryan. Michel gets to know Maggie over the next couple of years, and attempts to use her often outlandish stories as clues to reconstruct her past.",
+  "release_date": "1995-09-08",
+  "runtime": 87,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 7.1,
+  "tmdb_vote_count": 7,
+  "tmdb_popularity": 0.0427,
+  "original_language": "en",
+  "poster_path": "/2GIdaPLF7gYyXnlxGzTwV5fQGWy.jpg",
+  "backdrop_path": null,
+  "tmdb_genres_raw": [
+    "Documentary"
+  ],
+  "production_companies": [],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1435458,
+      "name": "Maggie Cogan",
+      "character": "Herself",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 0.0524,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 93632,
+      "name": "Michel Negroponte",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.302,
+      "profile_path": null
+    }
+  ],
+  "keywords": []
+}

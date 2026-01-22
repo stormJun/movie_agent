@@ -1,0 +1,334 @@
+{
+  "overview": "When a rich woman's ex-husband and a tabloid-type reporter turn up just before her planned remarriage, she begins to learn the truth about herself.",
+  "release_date": "1940-12-05",
+  "runtime": 113,
+  "budget": 914000,
+  "revenue": 3300000,
+  "tmdb_vote_average": 7.581,
+  "tmdb_vote_count": 942,
+  "tmdb_popularity": 1.4952,
+  "original_language": "en",
+  "poster_path": "/dKUubjvxO78XDts6VP1Ggcp4R9O.jpg",
+  "backdrop_path": "/iItypZVpdnxTFgA0iv345AzMUqk.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2638,
+      "name": "Cary Grant",
+      "character": "C.K. Dexter Haven",
+      "order": 0,
+      "cast_id": 14,
+      "popularity": 2.8189,
+      "profile_path": "/oF5Vj64OEEDAy7DzpBP0W8fSwC6.jpg"
+    },
+    {
+      "personId": 6598,
+      "name": "Katharine Hepburn",
+      "character": "Tracy Lord",
+      "order": 1,
+      "cast_id": 15,
+      "popularity": 1.1997,
+      "profile_path": "/hzBSOe6bburyMeeCqD9kR9tRfdD.jpg"
+    },
+    {
+      "personId": 854,
+      "name": "James Stewart",
+      "character": "Macaulay 'Mike' Connor",
+      "order": 2,
+      "cast_id": 16,
+      "popularity": 3.0543,
+      "profile_path": "/jam9DRhOuKomlr0vUXTamPoxPdk.jpg"
+    },
+    {
+      "personId": 14683,
+      "name": "Ruth Hussey",
+      "character": "Elizabeth 'Liz' Imbrie",
+      "order": 3,
+      "cast_id": 17,
+      "popularity": 0.9781,
+      "profile_path": "/dycKG8ajqQ1IPhzUJR10khvkd9Y.jpg"
+    },
+    {
+      "personId": 102687,
+      "name": "John Howard",
+      "character": "George Kittredge",
+      "order": 4,
+      "cast_id": 25,
+      "popularity": 0.7839,
+      "profile_path": "/oWtp0JXgzPuylb10PA9OOUmFKle.jpg"
+    },
+    {
+      "personId": 14685,
+      "name": "Roland Young",
+      "character": "Uncle Willie",
+      "order": 5,
+      "cast_id": 18,
+      "popularity": 1.6687,
+      "profile_path": "/hme2CvDcGqdZEsPKcdvhjgEvvDl.jpg"
+    },
+    {
+      "personId": 14688,
+      "name": "John Halliday",
+      "character": "Seth Lord",
+      "order": 6,
+      "cast_id": 21,
+      "popularity": 0.8351,
+      "profile_path": "/soyfwUQtgcxahcylFig4lG9RvRs.jpg"
+    },
+    {
+      "personId": 14686,
+      "name": "Mary Nash",
+      "character": "Margaret Lord",
+      "order": 7,
+      "cast_id": 20,
+      "popularity": 0.8052,
+      "profile_path": "/c35aIjTT6LZZF4hBXhFlQCBxBKQ.jpg"
+    },
+    {
+      "personId": 14689,
+      "name": "Virginia Weidler",
+      "character": "Dinah Lord",
+      "order": 8,
+      "cast_id": 22,
+      "popularity": 0.8943,
+      "profile_path": "/w5qTSGFl3UBZnL2hs0N0pmydXEb.jpg"
+    },
+    {
+      "personId": 10924,
+      "name": "Henry Daniell",
+      "character": "Sidney Kidd",
+      "order": 9,
+      "cast_id": 19,
+      "popularity": 0.9888,
+      "profile_path": "/5g4V2fKBAI5TGjqfItfsnPjqZN9.jpg"
+    },
+    {
+      "personId": 14691,
+      "name": "Lionel Pape",
+      "character": "Edward",
+      "order": 10,
+      "cast_id": 24,
+      "popularity": 1.8942,
+      "profile_path": null
+    },
+    {
+      "personId": 14690,
+      "name": "Rex Evans",
+      "character": "Thomas",
+      "order": 11,
+      "cast_id": 23,
+      "popularity": 0.5642,
+      "profile_path": "/v00QhkTjc3lJfabbM1igVQVGO0P.jpg"
+    },
+    {
+      "personId": 921738,
+      "name": "King Baggot",
+      "character": "Wedding Guest (uncredited)",
+      "order": 12,
+      "cast_id": 27,
+      "popularity": 0.2519,
+      "profile_path": "/3RH89Z7zLKJjVRyb0vz27fWn9d3.jpg"
+    },
+    {
+      "personId": 8241,
+      "name": "Hillary Brooke",
+      "character": "Main Line Society Woman (uncredited)",
+      "order": 13,
+      "cast_id": 28,
+      "popularity": 1.1497,
+      "profile_path": "/2R5hSW5KO1yCkLHj5MVe5dXlSSb.jpg"
+    },
+    {
+      "personId": 1359376,
+      "name": "Veda Buckland",
+      "character": "Elsie (uncredited)",
+      "order": 14,
+      "cast_id": 29,
+      "popularity": 0.3451,
+      "profile_path": null
+    },
+    {
+      "personId": 229663,
+      "name": "Lita Chevret",
+      "character": "Manicurist (uncredited)",
+      "order": 15,
+      "cast_id": 30,
+      "popularity": 0.3392,
+      "profile_path": "/e2RXzQXGF3qNwPkihn7HyniypzS.jpg"
+    },
+    {
+      "personId": 1091312,
+      "name": "Russ Clark",
+      "character": "John the Chauffeur (uncredited)",
+      "order": 16,
+      "cast_id": 31,
+      "popularity": 0.3291,
+      "profile_path": null
+    },
+    {
+      "personId": 103185,
+      "name": "David Clyde",
+      "character": "Mac (uncredited)",
+      "order": 17,
+      "cast_id": 32,
+      "popularity": 0.4456,
+      "profile_path": "/rmDuFZw4pVzIOacxv0SDxiLNMA8.jpg"
+    },
+    {
+      "personId": 1667292,
+      "name": "Robert De Bruce",
+      "character": "Dr. Parsons (uncredited)",
+      "order": 18,
+      "cast_id": 33,
+      "popularity": 0.0907,
+      "profile_path": null
+    },
+    {
+      "personId": 940028,
+      "name": "Dorothy Fay",
+      "character": "Main Line Society Woman (uncredited)",
+      "order": 19,
+      "cast_id": 34,
+      "popularity": 1.439,
+      "profile_path": "/bmGEgh9pbRD5QgW4JMb2zJXiTVy.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 14674,
+      "name": "George Cukor",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.9434,
+      "profile_path": "/w7I9Af9fpL7nywdZiOogH0gBoZ2.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 736,
+      "name": "journalist"
+    },
+    {
+      "id": 276,
+      "name": "philadelphia, pennsylvania"
+    },
+    {
+      "id": 2660,
+      "name": "strong woman"
+    },
+    {
+      "id": 1003,
+      "name": "photographer"
+    },
+    {
+      "id": 917,
+      "name": "journalism"
+    },
+    {
+      "id": 8181,
+      "name": "swimming pool"
+    },
+    {
+      "id": 9929,
+      "name": "remarriage"
+    },
+    {
+      "id": 11461,
+      "name": "hangover"
+    },
+    {
+      "id": 12193,
+      "name": "reporter"
+    },
+    {
+      "id": 12999,
+      "name": "black and white"
+    },
+    {
+      "id": 18053,
+      "name": "divorcee"
+    },
+    {
+      "id": 155457,
+      "name": "screwball comedy"
+    },
+    {
+      "id": 156037,
+      "name": "socialite"
+    },
+    {
+      "id": 163758,
+      "name": "ex-husband ex-wife relationship"
+    },
+    {
+      "id": 165282,
+      "name": "high society"
+    },
+    {
+      "id": 165547,
+      "name": "fiancé fiancée relationship"
+    },
+    {
+      "id": 208368,
+      "name": "divorced couple"
+    },
+    {
+      "id": 208720,
+      "name": "family estate"
+    },
+    {
+      "id": 232712,
+      "name": "inebriated"
+    },
+    {
+      "id": 237463,
+      "name": "imminent wedding"
+    },
+    {
+      "id": 237464,
+      "name": "kid sister"
+    },
+    {
+      "id": 256330,
+      "name": "mischievous"
+    },
+    {
+      "id": 257342,
+      "name": "tabloid journalism"
+    },
+    {
+      "id": 324123,
+      "name": "comedy of remarriage"
+    },
+    {
+      "id": 324429,
+      "name": "romantic"
+    }
+  ]
+}

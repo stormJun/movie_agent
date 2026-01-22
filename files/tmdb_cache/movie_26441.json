@@ -1,0 +1,247 @@
+{
+  "overview": "In a depressed Texas town, British foreign exchange teacher Anna attempts to inject some life into her hopeless kids by introducing them to soccer. They're terrible at first, but Anna and her football-hero assistant whip them into shape. As they work overtime, the pair help kids build their self-esteem and also get involved in solving family squabbles.",
+  "release_date": "1995-09-29",
+  "runtime": 100,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.6,
+  "tmdb_vote_count": 195,
+  "tmdb_popularity": 1.2506,
+  "original_language": "en",
+  "poster_path": "/nVHqIuBTcTLmAIrML7T704UwfNI.jpg",
+  "backdrop_path": "/bSE6JsSOvY350NhaT2nhUhl5hUE.jpg",
+  "tmdb_genres_raw": [
+    "Family",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 175,
+      "name": "Caravan Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 2,
+      "name": "Walt Disney Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 46423,
+      "name": "Olivia D'Abo",
+      "character": "Anna Mongomery",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 4.5974,
+      "profile_path": "/sQTqkjNyUSl25cIDr8xhjmO4DhA.jpg"
+    },
+    {
+      "personId": 26472,
+      "name": "Steve Guttenberg",
+      "character": "Tom Palmer",
+      "order": 1,
+      "cast_id": 1,
+      "popularity": 2.1322,
+      "profile_path": "/ghTMepliFNcRQHNELs8pgNDsZyW.jpg"
+    },
+    {
+      "personId": 88599,
+      "name": "Chauncey Leopardi",
+      "character": "Evan Schiff",
+      "order": 2,
+      "cast_id": 11,
+      "popularity": 1.2351,
+      "profile_path": "/RgVx7mU1Kl8xl5TttQRC9E9Oui.jpg"
+    },
+    {
+      "personId": 69740,
+      "name": "Patrick Renna",
+      "character": "Larry Musgrove",
+      "order": 3,
+      "cast_id": 9,
+      "popularity": 1.3137,
+      "profile_path": "/6o2qe03mUypeAcL6eXVp7m1EnEZ.jpg"
+    },
+    {
+      "personId": 21735,
+      "name": "Billy L. Sullivan",
+      "character": "Jeffrey Luttrell",
+      "order": 4,
+      "cast_id": 10,
+      "popularity": 0.7882,
+      "profile_path": "/1SB7xuFNP3DMeelVRuN6i1pO0mr.jpg"
+    },
+    {
+      "personId": 69395,
+      "name": "Bug Hall",
+      "character": "Newt Shaw",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 2.4502,
+      "profile_path": "/axuZx8nn7R7ohlkfnxO9k3TIGiq.jpg"
+    },
+    {
+      "personId": 148587,
+      "name": "Jessica Robertson",
+      "character": "Kate Douglas",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 2.0204,
+      "profile_path": "/uCGIjfunehvAz8Jyh5V9p9MYxky.jpg"
+    },
+    {
+      "personId": 3026776,
+      "name": "Anthony Esquivel",
+      "character": "Juan Morales",
+      "order": 7,
+      "cast_id": 16,
+      "popularity": 0.2473,
+      "profile_path": null
+    },
+    {
+      "personId": 137391,
+      "name": "Jordan Brower",
+      "character": "Nick Anderssen",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 0.7575,
+      "profile_path": "/y2P5u6AyFQgXHP7Ntgff2IL3ZW7.jpg"
+    },
+    {
+      "personId": 6067,
+      "name": "Jay O. Sanders",
+      "character": "Jay Huffer",
+      "order": 9,
+      "cast_id": 3,
+      "popularity": 2.4474,
+      "profile_path": "/z8btmLryEZlLkBah2XhZFydmty4.jpg"
+    },
+    {
+      "personId": 8659,
+      "name": "John Terry",
+      "character": "Edwin V. Douglas",
+      "order": 10,
+      "cast_id": 4,
+      "popularity": 1.0784,
+      "profile_path": "/2paelsnx3mEZam5ZJZMmUuurgJq.jpg"
+    },
+    {
+      "personId": 168176,
+      "name": "Yareli Arizmendi",
+      "character": "Marbelly Morales",
+      "order": 11,
+      "cast_id": 26,
+      "popularity": 0.8803,
+      "profile_path": "/4umsE0hHtvr2SfAgtKMlxOw2iEb.jpg"
+    },
+    {
+      "personId": 148591,
+      "name": "Hayley Kolb",
+      "character": "Sophia Convertino",
+      "order": 12,
+      "cast_id": 13,
+      "popularity": 0.1171,
+      "profile_path": null
+    },
+    {
+      "personId": 148593,
+      "name": "Haley Miller",
+      "character": "Polly Neilson",
+      "order": 13,
+      "cast_id": 14,
+      "popularity": 0.2647,
+      "profile_path": null
+    },
+    {
+      "personId": 148594,
+      "name": "Ashley Welch",
+      "character": "Lou Gates",
+      "order": 14,
+      "cast_id": 15,
+      "popularity": 0.2091,
+      "profile_path": null
+    },
+    {
+      "personId": 3988137,
+      "name": "Ariel Welch",
+      "character": "Sue Gates",
+      "order": 15,
+      "cast_id": 27,
+      "popularity": 0.1745,
+      "profile_path": null
+    },
+    {
+      "personId": 3988138,
+      "name": "Jimmy Higa",
+      "character": "Tak Yamato",
+      "order": 16,
+      "cast_id": 28,
+      "popularity": 0.044,
+      "profile_path": null
+    },
+    {
+      "personId": 124087,
+      "name": "Gil Glasgow",
+      "character": "Cookie Musgrove",
+      "order": 17,
+      "cast_id": 29,
+      "popularity": 0.6368,
+      "profile_path": "/fEaLdsNue0zMV4PEiWDim6RtcuG.jpg"
+    },
+    {
+      "personId": 2857,
+      "name": "Libby Villari",
+      "character": "Brenda Neilson",
+      "order": 18,
+      "cast_id": 30,
+      "popularity": 0.821,
+      "profile_path": "/YjyLmdqVKRkmpkYqn2xVL5EbLO.jpg"
+    },
+    {
+      "personId": 3988139,
+      "name": "John Bourg",
+      "character": "Jay Huffner Jr.",
+      "order": 19,
+      "cast_id": 31,
+      "popularity": 0.1417,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 71338,
+      "name": "Holly Goldberg Sloan",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6172,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6075,
+      "name": "sports"
+    },
+    {
+      "id": 13042,
+      "name": "football (soccer)"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    }
+  ]
+}

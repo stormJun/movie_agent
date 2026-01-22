@@ -1,0 +1,192 @@
+{
+  "overview": "A young widow still grieving over the death of her husband finds herself being comforted by a local housepainter.",
+  "release_date": "1995-09-29",
+  "runtime": 100,
+  "budget": 0,
+  "revenue": 2484226,
+  "tmdb_vote_average": 5.5,
+  "tmdb_vote_count": 79,
+  "tmdb_popularity": 0.6528,
+  "original_language": "en",
+  "poster_path": "/rKJ1DwaH8pM3qDNxKFxvsQEg6wE.jpg",
+  "backdrop_path": "/rTVEE5TcZbqVFOSVKLu5CXYpkpS.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 10163,
+      "name": "Working Title Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1382,
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 20,
+      "name": "Elizabeth Perkins",
+      "character": "Rebecca Trager Lott",
+      "order": 0,
+      "cast_id": 5,
+      "popularity": 4.3619,
+      "profile_path": "/vTWYllD9V76rgv9XAbtkkjjeunG.jpg"
+    },
+    {
+      "personId": 12052,
+      "name": "Gwyneth Paltrow",
+      "character": "Lucy Trager",
+      "order": 1,
+      "cast_id": 6,
+      "popularity": 5.8258,
+      "profile_path": "/mLarlXA8G02AdIMKptZmUzQluqF.jpg"
+    },
+    {
+      "personId": 3391,
+      "name": "Kathleen Turner",
+      "character": "Alberta Trager",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 3.7045,
+      "profile_path": "/hvmMGjWKy1CGmaJzPtOtbb3fD57.jpg"
+    },
+    {
+      "personId": 2395,
+      "name": "Whoopi Goldberg",
+      "character": "Sylvie Morrow",
+      "order": 3,
+      "cast_id": 3,
+      "popularity": 4.2878,
+      "profile_path": "/wZKI7qcEIVgiHxeFtk3NuKt8URQ.jpg"
+    },
+    {
+      "personId": 32362,
+      "name": "Jon Bon Jovi",
+      "character": "The Painter",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 1.767,
+      "profile_path": "/bqZdwRljds92cSvqQcoueBzLyat.jpg"
+    },
+    {
+      "personId": 104799,
+      "name": "Shadia Simmons",
+      "character": "Jenny Morrow",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 0.3037,
+      "profile_path": "/gIrO7Ql0Nh8kchzW6WF2uyfzISo.jpg"
+    },
+    {
+      "personId": 1217865,
+      "name": "Erica Luttrell",
+      "character": "Drew Morrow",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 0.8983,
+      "profile_path": "/qRsIqCvNf2uUDoKYxNxtW0FxX8r.jpg"
+    },
+    {
+      "personId": 14792,
+      "name": "Josef Sommer",
+      "character": "Thomas Trager",
+      "order": 7,
+      "cast_id": 13,
+      "popularity": 2.0296,
+      "profile_path": "/eY3tCB4j7nWhsZX1enU6BYpaZl.jpg"
+    },
+    {
+      "personId": 23958,
+      "name": "Jeremy Sisto",
+      "character": "Steven",
+      "order": 8,
+      "cast_id": 14,
+      "popularity": 2.5312,
+      "profile_path": "/1XfuASLjBhGOhJ4os7juRJot2we.jpg"
+    },
+    {
+      "personId": 9979,
+      "name": "Peter Coyote",
+      "character": "Paul",
+      "order": 9,
+      "cast_id": 15,
+      "popularity": 2.2348,
+      "profile_path": "/AglpxXP9wBM567UMGL9DAMbid1V.jpg"
+    },
+    {
+      "personId": 174580,
+      "name": "Judah Katz",
+      "character": "Marc",
+      "order": 10,
+      "cast_id": 16,
+      "popularity": 0.6888,
+      "profile_path": "/gtujFQTIkQZPmJtJE3x5rI12117.jpg"
+    },
+    {
+      "personId": 2320,
+      "name": "Julian Richings",
+      "character": "Hair Stylist",
+      "order": 11,
+      "cast_id": 82,
+      "popularity": 1.8919,
+      "profile_path": "/9Qf044hlSHjjoRngbI8h7txPNwU.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 44847,
+      "name": "David Anspaugh",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.3631,
+      "profile_path": "/vUH2KjFr9EAc1fKcZaemEcHvBwK.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 4129,
+      "name": "widow"
+    },
+    {
+      "id": 5248,
+      "name": "female friendship"
+    },
+    {
+      "id": 10181,
+      "name": "based on play or musical"
+    },
+    {
+      "id": 9872,
+      "name": "grief"
+    },
+    {
+      "id": 9928,
+      "name": "bereavement"
+    },
+    {
+      "id": 175421,
+      "name": "death of husband"
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "overview": "Between 1924 and 1934, six children grow up in an apartment building in the Munich suburbs. Among them is the rather inconspicuous and melancholy Leo Knie, who has been in love with the pretty Marilli Kosemund since early childhood. Marilli is not averse to the young man's advances, but she wants to be conquered. But that is exactly what shy Leo finds difficult. So he escapes into harmless dancing with his buddies, pursues other girls - rather unsuccessfully - and resigns himself to his predetermined fate.",
+  "release_date": "1996-02-29",
+  "runtime": 102,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 2.0,
+  "tmdb_vote_count": 2,
+  "tmdb_popularity": 0.1318,
+  "original_language": "de",
+  "poster_path": "/gT4SfSGVEJR4TMm1WIM56Qgq4dr.jpg",
+  "backdrop_path": null,
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 23417,
+      "name": "Perathon Film-und Fernsehproduktions",
+      "origin_country": "DE"
+    },
+    {
+      "id": 510,
+      "name": "Lunaris Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 1001,
+      "name": "Solaris Film",
+      "origin_country": "US"
+    },
+    {
+      "id": 47,
+      "name": "Constantin Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 544084,
+      "name": "Peter Ketnath",
+      "character": "Leo Knie",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 0.9753,
+      "profile_path": "/xwZgibuUl12tSg4cDWUN69tTDli.jpg"
+    },
+    {
+      "personId": 681,
+      "name": "Nina Hoss",
+      "character": "Marilli Kosemund",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 3.8078,
+      "profile_path": "/j4j3eenfrg0XgW0dVReFAdPNPE0.jpg"
+    },
+    {
+      "personId": 49851,
+      "name": "Steffen Schroeder",
+      "character": "Biwi Leer",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.3731,
+      "profile_path": "/m2QzUlXyoHBZ9Mq4VU6aXdKFjoO.jpg"
+    },
+    {
+      "personId": 1181865,
+      "name": "Andreas Nickl",
+      "character": "Booby Rupp",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 0.6084,
+      "profile_path": "/jX60elmIypF5HTOpAoLAmZybV2E.jpg"
+    },
+    {
+      "personId": 2213153,
+      "name": "Monika Bujinski",
+      "character": "",
+      "order": 4,
+      "cast_id": 22,
+      "popularity": 0.1449,
+      "profile_path": null
+    },
+    {
+      "personId": 1325073,
+      "name": "Susanna Wellenbrink",
+      "character": "Anneliese Dingler",
+      "order": 5,
+      "cast_id": 4,
+      "popularity": 0.7483,
+      "profile_path": "/gEU3z8jPFR7hvg9oT0oFw67DP8f.jpg"
+    },
+    {
+      "personId": 68324,
+      "name": "Thomas Anzenhofer",
+      "character": "Herr Kosemund",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 0.7172,
+      "profile_path": "/8nQ4D34ySVreqYZghfVKstlbjOl.jpg"
+    },
+    {
+      "personId": 10258,
+      "name": "Tina Engel",
+      "character": "Frau Kosemund",
+      "order": 7,
+      "cast_id": 6,
+      "popularity": 0.8174,
+      "profile_path": "/mOrL4pigcw8el3vhMTngi2FH2mD.jpg"
+    },
+    {
+      "personId": 1323772,
+      "name": "Monika Manz",
+      "character": "Oma Knie",
+      "order": 8,
+      "cast_id": 10,
+      "popularity": 0.3626,
+      "profile_path": "/u2Jargs5NujNavJLrPzFYZny0bQ.jpg"
+    },
+    {
+      "personId": 36490,
+      "name": "Monika Baumgartner",
+      "character": "Hausmeisterin",
+      "order": 9,
+      "cast_id": 8,
+      "popularity": 2.5031,
+      "profile_path": "/eEeYi06CLbduje6RpKyQkP64L0.jpg"
+    },
+    {
+      "personId": 220662,
+      "name": "Heide Simon",
+      "character": "",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 0.3271,
+      "profile_path": "/7TqvH97euZApZVL5ZZfF2vkhZJN.jpg"
+    },
+    {
+      "personId": 3934,
+      "name": "Burghart Klaußner",
+      "character": "Herr Leer",
+      "order": 11,
+      "cast_id": 9,
+      "popularity": 0.854,
+      "profile_path": "/zW2GyFbSfmGlbJTgMZqqk5aj458.jpg"
+    },
+    {
+      "personId": 37485,
+      "name": "Barbara Weinzierl",
+      "character": "",
+      "order": 12,
+      "cast_id": 24,
+      "popularity": 0.3568,
+      "profile_path": "/tBoc936g4L23lFw9IgioNWRAkXA.jpg"
+    },
+    {
+      "personId": 1244893,
+      "name": "Wilfried Labmeier",
+      "character": "",
+      "order": 13,
+      "cast_id": 25,
+      "popularity": 0.3358,
+      "profile_path": null
+    },
+    {
+      "personId": 3079460,
+      "name": "Regine Hackethal",
+      "character": "",
+      "order": 14,
+      "cast_id": 26,
+      "popularity": 0.1733,
+      "profile_path": null
+    },
+    {
+      "personId": 1334938,
+      "name": "Sarah Camp",
+      "character": "Frau Himmelreich",
+      "order": 15,
+      "cast_id": 11,
+      "popularity": 1.0676,
+      "profile_path": "/9kuOH6rar7x2srvLYs8R8dXWigL.jpg"
+    },
+    {
+      "personId": 39324,
+      "name": "Gerd Anthoff",
+      "character": "",
+      "order": 16,
+      "cast_id": 12,
+      "popularity": 0.487,
+      "profile_path": "/b2VHqh0bwjmqJSmZRXwOGi9N9IL.jpg"
+    },
+    {
+      "personId": 5204,
+      "name": "Jürgen Tonkel",
+      "character": "Polizist",
+      "order": 17,
+      "cast_id": 13,
+      "popularity": 0.5338,
+      "profile_path": "/AdK9P9lWYNIiT4g6hIahPpTp6zX.jpg"
+    },
+    {
+      "personId": 1079922,
+      "name": "Wolfgang Maria Bauer",
+      "character": "",
+      "order": 18,
+      "cast_id": 27,
+      "popularity": 0.2765,
+      "profile_path": "/bzJImDiVjdsdKzIRUdiAmweWbd6.jpg"
+    },
+    {
+      "personId": 1748095,
+      "name": "Oldřich Slavík",
+      "character": "",
+      "order": 19,
+      "cast_id": 28,
+      "popularity": 0.2713,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 14614,
+      "name": "Joseph Vilsmaier",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4941,
+      "profile_path": "/wODSEku2wnqYiDfMKiANzX5bE2K.jpg"
+    }
+  ],
+  "keywords": []
+}

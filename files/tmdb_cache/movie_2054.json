@@ -1,0 +1,321 @@
+{
+  "overview": "In 1965, passionate musician Glenn Holland takes a day job as a high school music teacher, convinced it's just a small obstacle on the road to his true calling: writing a historic opus. As the decades roll by with the composition unwritten but generations of students inspired through his teaching, Holland must redefine his life's purpose.",
+  "release_date": "1995-12-29",
+  "runtime": 143,
+  "budget": 31000000,
+  "revenue": 106300000,
+  "tmdb_vote_average": 6.946,
+  "tmdb_vote_count": 437,
+  "tmdb_popularity": 1.7176,
+  "original_language": "en",
+  "poster_path": "/kBmwWeSN3ajnYHZ3dSybEobxEPI.jpg",
+  "backdrop_path": "/oUptKQLatCgywVDx0ETVhq7knHt.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Music"
+  ],
+  "production_companies": [
+    {
+      "id": 915,
+      "name": "Hollywood Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 10201,
+      "name": "Interscope Communications",
+      "origin_country": "US"
+    },
+    {
+      "id": 1382,
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 916,
+      "name": "The Charlie Mopic Company",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3037,
+      "name": "Richard Dreyfuss",
+      "character": "Glenn Holland",
+      "order": 0,
+      "cast_id": 10,
+      "popularity": 3.6249,
+      "profile_path": "/q2BPu6zWwFtnzQfpl4fgbKqURXM.jpg"
+    },
+    {
+      "personId": 21104,
+      "name": "Glenne Headly",
+      "character": "Iris Holland",
+      "order": 1,
+      "cast_id": 11,
+      "popularity": 2.1512,
+      "profile_path": "/4z9baWyXNdW8rFSVgPJK7wrGzVF.jpg"
+    },
+    {
+      "personId": 21105,
+      "name": "Jay Thomas",
+      "character": "Bill Meister",
+      "order": 2,
+      "cast_id": 12,
+      "popularity": 2.4521,
+      "profile_path": "/daWSrAYJtCi2qiwq6BYZfiUWVIY.jpg"
+    },
+    {
+      "personId": 3019,
+      "name": "Olympia Dukakis",
+      "character": "Principal Jacobs",
+      "order": 3,
+      "cast_id": 13,
+      "popularity": 1.1349,
+      "profile_path": "/pwoIzB9QSjKkWORQ7SpetnxFizf.jpg"
+    },
+    {
+      "personId": 3905,
+      "name": "William H. Macy",
+      "character": "Vice Principal Gene Wolters",
+      "order": 4,
+      "cast_id": 14,
+      "popularity": 5.7242,
+      "profile_path": "/hdVEGSrP8qWlJnt0v5vSVcGOjy7.jpg"
+    },
+    {
+      "personId": 3128,
+      "name": "Alicia Witt",
+      "character": "Gertrude Lang",
+      "order": 5,
+      "cast_id": 15,
+      "popularity": 4.1738,
+      "profile_path": "/vQ2McAjHjY3A7oDrPMx6aLSsvkW.jpg"
+    },
+    {
+      "personId": 18288,
+      "name": "Terrence Howard",
+      "character": "Louis Russ",
+      "order": 6,
+      "cast_id": 21,
+      "popularity": 3.3643,
+      "profile_path": "/eZ6uRZOYWZAyjNmWpDKGdLL6WUC.jpg"
+    },
+    {
+      "personId": 39597,
+      "name": "Damon Whitaker",
+      "character": "Bobby Tidd",
+      "order": 7,
+      "cast_id": 49,
+      "popularity": 2.254,
+      "profile_path": "/qHT717nGhcwAa3PoMzX6jm8BYme.jpg"
+    },
+    {
+      "personId": 26495,
+      "name": "Jean Louisa Kelly",
+      "character": "Rowena Morgan",
+      "order": 8,
+      "cast_id": 20,
+      "popularity": 1.5581,
+      "profile_path": "/hUaXI2x27HNIKc4WXcnvNkl4wF9.jpg"
+    },
+    {
+      "personId": 146182,
+      "name": "Alexandra Boyd",
+      "character": "Sarah Olmstead",
+      "order": 9,
+      "cast_id": 50,
+      "popularity": 1.5499,
+      "profile_path": "/2iHDPqLBlzsOHNMZJxYjCxV14h7.jpg"
+    },
+    {
+      "personId": 21107,
+      "name": "Nicholas John Renner",
+      "character": "Cole at 6 Years Old",
+      "order": 10,
+      "cast_id": 17,
+      "popularity": 0.4085,
+      "profile_path": null
+    },
+    {
+      "personId": 21108,
+      "name": "Joseph Anderson",
+      "character": "Cole at 15 Years Old",
+      "order": 11,
+      "cast_id": 18,
+      "popularity": 0.0759,
+      "profile_path": "/sRJCbFsPvjBv4xY2McsaIGwb1pn.jpg"
+    },
+    {
+      "personId": 21109,
+      "name": "Anthony Natale",
+      "character": "Cole at 28 Years Old",
+      "order": 12,
+      "cast_id": 19,
+      "popularity": 0.5274,
+      "profile_path": "/laY5PnyczZOpnoJOTm3LV1KbBAv.jpg"
+    },
+    {
+      "personId": 20747,
+      "name": "Joanna Gleason",
+      "character": "Gertrude Lang as an adult",
+      "order": 13,
+      "cast_id": 51,
+      "popularity": 2.0304,
+      "profile_path": "/vBufIrlapxpuRlzeSIMXtuFO5XK.jpg"
+    },
+    {
+      "personId": 1881495,
+      "name": "Beth Maitland",
+      "character": "Deaf School Principal",
+      "order": 14,
+      "cast_id": 52,
+      "popularity": 0.2031,
+      "profile_path": "/ogklcLEDji6YidTvcyf2xb3mBev.jpg"
+    },
+    {
+      "personId": 2760054,
+      "name": "Patrick Fong",
+      "character": "Study Hall Student",
+      "order": 15,
+      "cast_id": 79,
+      "popularity": 0.0758,
+      "profile_path": null
+    },
+    {
+      "personId": 2760055,
+      "name": "Benjamin J. Dixon",
+      "character": "Mr. Mims",
+      "order": 16,
+      "cast_id": 80,
+      "popularity": 0.0629,
+      "profile_path": null
+    },
+    {
+      "personId": 2760056,
+      "name": "Kathryn Arnett",
+      "character": "Ms. Swedlin",
+      "order": 17,
+      "cast_id": 81,
+      "popularity": 0.0788,
+      "profile_path": null
+    },
+    {
+      "personId": 2760057,
+      "name": "Freeman O. Corbin",
+      "character": "Mr. Sullivan",
+      "order": 18,
+      "cast_id": 82,
+      "popularity": 0.1522,
+      "profile_path": null
+    },
+    {
+      "personId": 2760058,
+      "name": "Moira Feeney",
+      "character": "Ms. Godfrey",
+      "order": 19,
+      "cast_id": 83,
+      "popularity": 0.1401,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 18356,
+      "name": "Stephen Herek",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5893,
+      "profile_path": "/ni2MxgHBvzzYj9OzHpQ3yHkar79.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6270,
+      "name": "high school"
+    },
+    {
+      "id": 1157,
+      "name": "husband wife relationship"
+    },
+    {
+      "id": 1233,
+      "name": "composer"
+    },
+    {
+      "id": 2176,
+      "name": "music teacher"
+    },
+    {
+      "id": 1310,
+      "name": "mentor"
+    },
+    {
+      "id": 1635,
+      "name": "deaf-mute"
+    },
+    {
+      "id": 1896,
+      "name": "portland, oregon"
+    },
+    {
+      "id": 8009,
+      "name": "marching band"
+    },
+    {
+      "id": 41355,
+      "name": "teacher student relationship"
+    },
+    {
+      "id": 41525,
+      "name": "high school teacher"
+    },
+    {
+      "id": 158558,
+      "name": "disabled"
+    },
+    {
+      "id": 161266,
+      "name": "teaching"
+    },
+    {
+      "id": 187328,
+      "name": "retirement party"
+    },
+    {
+      "id": 188953,
+      "name": "sign languages"
+    },
+    {
+      "id": 207937,
+      "name": "forced retirement"
+    },
+    {
+      "id": 208992,
+      "name": "1960s"
+    },
+    {
+      "id": 210608,
+      "name": "1990s"
+    },
+    {
+      "id": 240119,
+      "name": "father son relationship"
+    },
+    {
+      "id": 346378,
+      "name": "inspiring teacher"
+    }
+  ]
+}

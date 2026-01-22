@@ -1,0 +1,189 @@
+{
+  "overview": "In Providence's Italian neighborhood, Federal Hill, five young are immersed in drugs, crime and violence. Everything changes when one of the guys in the band know love.",
+  "release_date": "1995-02-24",
+  "runtime": 97,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 4.4,
+  "tmdb_vote_count": 10,
+  "tmdb_popularity": 3.4216,
+  "original_language": "en",
+  "poster_path": "/qChLfULhgAhWHG9LbcBIv80r32i.jpg",
+  "backdrop_path": null,
+  "tmdb_genres_raw": [
+    "Crime",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 8014,
+      "name": "Eagle Beach Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 4063,
+      "name": "Trimark Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 32897,
+      "name": "Nicholas Turturro",
+      "character": "Ralph",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 1.8081,
+      "profile_path": "/ljkk4jMBlYvYg02LHeeAK8DqoYM.jpg"
+    },
+    {
+      "personId": 176628,
+      "name": "Anthony DeSando",
+      "character": "Nicky",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 1.7427,
+      "profile_path": "/2ahZUm3RDSRIlRJZUxh7MFTD6jV.jpg"
+    },
+    {
+      "personId": 177692,
+      "name": "Libby Langdon",
+      "character": "Wendy",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 0.8214,
+      "profile_path": "/tar86bzpswsBwcOIySIhSABu6d4.jpg"
+    },
+    {
+      "personId": 7164,
+      "name": "Frank Vincent",
+      "character": "Sal",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 1.882,
+      "profile_path": "/fa1gikNsPKvX1roWUo2bBmixnvp.jpg"
+    },
+    {
+      "personId": 1216139,
+      "name": "Michael Raynor",
+      "character": "Frank",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 1.3427,
+      "profile_path": "/l3hFVAbw6wx9YWvWq2NEmnFzXwR.jpg"
+    },
+    {
+      "personId": 164323,
+      "name": "Robert Turano",
+      "character": "Joey",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 0.4372,
+      "profile_path": "/pNkYFTtkwMi8KmlTuy1MrmYTnRi.jpg"
+    },
+    {
+      "personId": 177063,
+      "name": "Jason Andrews",
+      "character": "Bobby",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 1.9453,
+      "profile_path": null
+    },
+    {
+      "personId": 1579763,
+      "name": "Phyllis Kay",
+      "character": "Gail",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 0.7689,
+      "profile_path": "/sW7SYTQRK4LEwyHMtmaqLD0YURm.jpg"
+    },
+    {
+      "personId": 3890421,
+      "name": "Biagio Conti",
+      "character": "Max Haven",
+      "order": 8,
+      "cast_id": 10,
+      "popularity": 0.4336,
+      "profile_path": null
+    },
+    {
+      "personId": 77076,
+      "name": "Michael Corrente",
+      "character": "Fredo",
+      "order": 9,
+      "cast_id": 11,
+      "popularity": 1.2514,
+      "profile_path": "/tHnxacF2J3RbYB23uSYKqgkhlNE.jpg"
+    },
+    {
+      "personId": 3890427,
+      "name": "Briggs Doherty",
+      "character": "Mr. Banno",
+      "order": 10,
+      "cast_id": 12,
+      "popularity": 0.0632,
+      "profile_path": null
+    },
+    {
+      "personId": 1184209,
+      "name": "Armen Garo",
+      "character": "Cop",
+      "order": 11,
+      "cast_id": 13,
+      "popularity": 2.1231,
+      "profile_path": "/yRtRh0SwHxy7LtU82l1oqctiOAl.jpg"
+    },
+    {
+      "personId": 66994,
+      "name": "David Gianopoulos",
+      "character": "Mike",
+      "order": 12,
+      "cast_id": 14,
+      "popularity": 1.1108,
+      "profile_path": "/2EKEXttdzuUQQsjQlRvFeukMboo.jpg"
+    },
+    {
+      "personId": 3890430,
+      "name": "Jimmy Landi",
+      "character": "Vinnie",
+      "order": 13,
+      "cast_id": 15,
+      "popularity": 0.0563,
+      "profile_path": null
+    },
+    {
+      "personId": 3890431,
+      "name": "Jane Kinsey",
+      "character": "Party Girl",
+      "order": 14,
+      "cast_id": 16,
+      "popularity": 0.0484,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 77076,
+      "name": "Michael Corrente",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.2514,
+      "profile_path": "/tHnxacF2J3RbYB23uSYKqgkhlNE.jpg"
+    }
+  ],
+  "keywords": []
+}

@@ -1,0 +1,262 @@
+{
+  "overview": "Upon taking a new job, young lawyer Rick Hayes is assigned to the clemency case of Cindy Liggett, a woman convicted of first degree murder and sentenced to death. As Hayes investigates the background for her case, the two begin to form a deep friendship, while all the while the date for her execution draws nearer.",
+  "release_date": "1996-05-02",
+  "runtime": 103,
+  "budget": 0,
+  "revenue": 5,
+  "tmdb_vote_average": 5.644,
+  "tmdb_vote_count": 101,
+  "tmdb_popularity": 2.6942,
+  "original_language": "en",
+  "poster_path": "/hsMe9TYfPs1VfpZs9xVLZBVGcES.jpg",
+  "backdrop_path": "/fTt5XqCMc4o8v25Xc3YuWhuPZqM.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 9195,
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4430,
+      "name": "Sharon Stone",
+      "character": "Cindy Liggett",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 4.8308,
+      "profile_path": "/t0WoTlfkLsvsL2ZiPgoihK5rZqq.jpg"
+    },
+    {
+      "personId": 52602,
+      "name": "Rob Morrow",
+      "character": "Rick Hayes",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 1.9529,
+      "profile_path": "/nxF4xVyEtQLMxDXlhJHnCoKM4MI.jpg"
+    },
+    {
+      "personId": 1811,
+      "name": "Randy Quaid",
+      "character": "Sam Burns",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 3.2668,
+      "profile_path": "/rGWvDokcMLIwck10dKIutSoTM9r.jpg"
+    },
+    {
+      "personId": 8212,
+      "name": "Peter Gallagher",
+      "character": "John Hayes",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 3.2129,
+      "profile_path": "/msyfiU6qgG8QKntiXngX6DFK2CO.jpg"
+    },
+    {
+      "personId": 12536,
+      "name": "Jack Thompson",
+      "character": "The Governor",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 1.27,
+      "profile_path": "/aqIViuyx2RBfUHeIvyEbxNYKLXg.jpg"
+    },
+    {
+      "personId": 11627,
+      "name": "Jayne Brook",
+      "character": "Jill",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 1.7748,
+      "profile_path": "/wb0qGQoXwraTTnnsi1Lv4TcYFrT.jpg"
+    },
+    {
+      "personId": 128203,
+      "name": "Pamala Tyson",
+      "character": "Linda, Legal Aid Attorney",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 0.8164,
+      "profile_path": "/g1wfV9MamNYzwE29NzHP6BZcuIY.jpg"
+    },
+    {
+      "personId": 22108,
+      "name": "Skeet Ulrich",
+      "character": "Billy, Cindy's Brother",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 4.3119,
+      "profile_path": "/moyTBJUTl82PaAhm8aHGwlvKr7r.jpg"
+    },
+    {
+      "personId": 1280,
+      "name": "Don Harvey",
+      "character": "Doug",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 1.7752,
+      "profile_path": "/dc10W0hRNxrO0IcwgKOcsUajtOG.jpg"
+    },
+    {
+      "personId": 128205,
+      "name": "Diane Sellers",
+      "character": "Inmate Reggie",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 0.6744,
+      "profile_path": "/2e00pN04z7GnhVtxdAa2XpFmnN5.jpg"
+    },
+    {
+      "personId": 128207,
+      "name": "Patricia French",
+      "character": "Guard Frances",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 1.7775,
+      "profile_path": "/7reWTNf70I1PiSd6lvhp23HeYbj.jpg"
+    },
+    {
+      "personId": 128208,
+      "name": "Jeffrey Buckner Ford",
+      "character": "D.A. Rusk",
+      "order": 11,
+      "cast_id": 16,
+      "popularity": 1.3821,
+      "profile_path": "/4inB9zXhEY9YuRlhvChDJm2WyJy.jpg"
+    },
+    {
+      "personId": 128209,
+      "name": "Dave Hager",
+      "character": "Detective Vollo",
+      "order": 12,
+      "cast_id": 17,
+      "popularity": 0.5942,
+      "profile_path": "/2pPODg9dNp2qfFEXG75wrWTlmwG.jpg"
+    },
+    {
+      "personId": 170162,
+      "name": "Christine Cattell",
+      "character": "Louise",
+      "order": 13,
+      "cast_id": 18,
+      "popularity": 1.6944,
+      "profile_path": "/2MWuSvW9dmUmm5S5JutAqZoIiBb.jpg"
+    },
+    {
+      "personId": 128211,
+      "name": "Peg Allen",
+      "character": "Helen",
+      "order": 14,
+      "cast_id": 35,
+      "popularity": 0.1963,
+      "profile_path": null
+    },
+    {
+      "personId": 141764,
+      "name": "Peggy Walton-Walker",
+      "character": "Govenor's Wife",
+      "order": 15,
+      "cast_id": 36,
+      "popularity": 0.7162,
+      "profile_path": "/bF2ndKP42NQ4enNiAijkzch6NZe.jpg"
+    },
+    {
+      "personId": 1319519,
+      "name": "Deena Dill",
+      "character": "Carolyn",
+      "order": 16,
+      "cast_id": 37,
+      "popularity": 1.628,
+      "profile_path": "/3HennkZ7gpmROi1PIqF6X4VNDHl.jpg"
+    },
+    {
+      "personId": 2337240,
+      "name": "Diana Taylor",
+      "character": "Etta",
+      "order": 17,
+      "cast_id": 38,
+      "popularity": 0.3825,
+      "profile_path": null
+    },
+    {
+      "personId": 13662,
+      "name": "Mimi Craven",
+      "character": "Stripper in Bar",
+      "order": 18,
+      "cast_id": 39,
+      "popularity": 1.6741,
+      "profile_path": "/9qvNLp2CB1wMLV14yay96BNa6qI.jpg"
+    },
+    {
+      "personId": 167561,
+      "name": "John Cunningham",
+      "character": "William J. McGuire",
+      "order": 19,
+      "cast_id": 40,
+      "popularity": 0.802,
+      "profile_path": "/hXBlmWKvD342CcHzYbOeucslaJU.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 5696,
+      "name": "Bruce Beresford",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6954,
+      "profile_path": "/p5p1YhKTh1EOSvf1NO96oBQI2Ll.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 378,
+      "name": "prison"
+    },
+    {
+      "id": 331,
+      "name": "tattoo"
+    },
+    {
+      "id": 703,
+      "name": "detective"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 11004,
+      "name": "rural area"
+    },
+    {
+      "id": 10909,
+      "name": "lawyer"
+    },
+    {
+      "id": 34079,
+      "name": "death"
+    },
+    {
+      "id": 162461,
+      "name": "golf club"
+    }
+  ]
+}

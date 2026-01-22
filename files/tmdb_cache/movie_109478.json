@@ -1,0 +1,213 @@
+{
+  "overview": "A controversial talk show host becomes involved in the murder of a beautiful woman in a war for ratings.",
+  "release_date": "1996-05-17",
+  "runtime": 89,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 3.7,
+  "tmdb_vote_count": 6,
+  "tmdb_popularity": 0.286,
+  "original_language": "en",
+  "poster_path": "/72puOSoaSFPNMpWLLMnHTnJX9Wz.jpg",
+  "backdrop_path": "/vlD94mykIO7R5yFdyj6Uzu1RVtE.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Mystery",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 22290,
+      "name": "Bergman Lustig Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 8316,
+      "name": "WarnerVision Films",
+      "origin_country": ""
+    },
+    {
+      "id": 5993,
+      "name": "Curb Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 21315,
+      "name": "Eric Roberts",
+      "character": "Karlin Pickett",
+      "order": 0,
+      "cast_id": 1010,
+      "popularity": 6.3543,
+      "profile_path": "/NiWg1TaUcal7xn1ZQeyA2dLd5F.jpg"
+    },
+    {
+      "personId": 47058,
+      "name": "Lisa Thornhill",
+      "character": "Vivian Porter",
+      "order": 1,
+      "cast_id": 1011,
+      "popularity": 2.1381,
+      "profile_path": "/bdhCtcNrKYSeIwz0oQJ7ZnSfoaM.jpg"
+    },
+    {
+      "personId": 48012,
+      "name": "Jason Gedrick",
+      "character": "Jon Price",
+      "order": 2,
+      "cast_id": 1012,
+      "popularity": 1.6844,
+      "profile_path": "/45Dea89CukCmdk88F7RQMgpAeYC.jpg"
+    },
+    {
+      "personId": 20581,
+      "name": "Jack Betts",
+      "character": "Waldo Marcel",
+      "order": 3,
+      "cast_id": 1013,
+      "popularity": 1.2312,
+      "profile_path": "/aC8uOwxVW2NJ5sYUvQImFZuVKQ7.jpg"
+    },
+    {
+      "personId": 1212139,
+      "name": "Jennie Garth",
+      "character": "Sharon Penn",
+      "order": 4,
+      "cast_id": 1020,
+      "popularity": 1.3098,
+      "profile_path": "/nqgP9o12FNDOeON6bfbnN8pvb72.jpg"
+    },
+    {
+      "personId": 91030,
+      "name": "Michael Mantell",
+      "character": "Lester Correl",
+      "order": 5,
+      "cast_id": 1014,
+      "popularity": 1.039,
+      "profile_path": "/wZ8XkAkpok05jQthvy0H8iGoXrz.jpg"
+    },
+    {
+      "personId": 101776,
+      "name": "Jim Fyfe",
+      "character": "Roger Zalman",
+      "order": 6,
+      "cast_id": 1016,
+      "popularity": 0.9416,
+      "profile_path": "/nBarlSLF3cGe1YQcxbDLPkG3XuV.jpg"
+    },
+    {
+      "personId": 537,
+      "name": "Stephen Tobolowsky",
+      "character": "Rick Harris",
+      "order": 7,
+      "cast_id": 1017,
+      "popularity": 3.8913,
+      "profile_path": "/uL8yfcm0dCFYFQt052kczVQVvac.jpg"
+    },
+    {
+      "personId": 154615,
+      "name": "Sadie Stratton",
+      "character": "Joy (as Sadie Kratzig)",
+      "order": 8,
+      "cast_id": 1018,
+      "popularity": 0.8562,
+      "profile_path": "/zsWcj39NbRNYURAg25PP9cAiszc.jpg"
+    },
+    {
+      "personId": 9314,
+      "name": "Leslie Bega",
+      "character": "Denise",
+      "order": 9,
+      "cast_id": 1019,
+      "popularity": 2.7022,
+      "profile_path": "/jOqrwaZd2ATrDxixccB5anPELxo.jpg"
+    },
+    {
+      "personId": 93746,
+      "name": "Kristin Dattilo",
+      "character": "Betsy",
+      "order": 10,
+      "cast_id": 1022,
+      "popularity": 1.741,
+      "profile_path": "/mQL0uhBbYsJC7JBwTAZ1Q0eRael.jpg"
+    },
+    {
+      "personId": 1795681,
+      "name": "Leonora Scelfo",
+      "character": "Cynthia Berkley",
+      "order": 11,
+      "cast_id": 1023,
+      "popularity": 2.08,
+      "profile_path": "/e2YPfksSdyGdn2HQT2vVgvuAaJZ.jpg"
+    },
+    {
+      "personId": 25544,
+      "name": "James Pickens Jr.",
+      "character": "Det. Wilkinson",
+      "order": 12,
+      "cast_id": 1024,
+      "popularity": 2.0535,
+      "profile_path": "/iddDcaysDQ6IVMUjJ97Bv3lTBCu.jpg"
+    },
+    {
+      "personId": 1787694,
+      "name": "Tara Ellison",
+      "character": "Poker Woman",
+      "order": 13,
+      "cast_id": 1025,
+      "popularity": 0.0808,
+      "profile_path": null
+    },
+    {
+      "personId": 106714,
+      "name": "Kimberly Flynn",
+      "character": "Rosie",
+      "order": 14,
+      "cast_id": 1026,
+      "popularity": 0.4128,
+      "profile_path": "/keMGmT6xr0UypDMCxnVgNK5a5YQ.jpg"
+    },
+    {
+      "personId": 28414,
+      "name": "Matt Letscher",
+      "character": "Eddie (voice)",
+      "order": 15,
+      "cast_id": 1027,
+      "popularity": 1.2775,
+      "profile_path": "/4tFddqIAqUnPAl64sM335GhYPdM.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1046588,
+      "name": "Jaime Hellman",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.2732,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 186117,
+      "name": "dj"
+    },
+    {
+      "id": 197811,
+      "name": "shock talk"
+    }
+  ]
+}

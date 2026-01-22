@@ -1,0 +1,275 @@
+{
+  "overview": "A seven-year-old chess prodigy refuses to harden himself in order to become a champion like the famous but unlikable Bobby Fischer.",
+  "release_date": "1993-08-13",
+  "runtime": 110,
+  "budget": 12000000,
+  "revenue": 7266383,
+  "tmdb_vote_average": 7.063,
+  "tmdb_vote_count": 616,
+  "tmdb_popularity": 2.1008,
+  "original_language": "en",
+  "poster_path": "/oAJpHkMpfXiFY9F3HocIz9fhHLc.jpg",
+  "backdrop_path": "/swXvzkH1oSVHh4flmcthXnusbwc.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 932,
+      "name": "Mirage Enterprises",
+      "origin_country": "US"
+    },
+    {
+      "id": 258,
+      "name": "Scott Rudin Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 85313,
+      "name": "Max Pomeranc",
+      "character": "Josh Waitzkin",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 0.7149,
+      "profile_path": "/s3BWkf1sJCxhiJiC0BzBW2v0Knf.jpg"
+    },
+    {
+      "personId": 3266,
+      "name": "Joe Mantegna",
+      "character": "Fred Waitzkin",
+      "order": 1,
+      "cast_id": 6,
+      "popularity": 2.6702,
+      "profile_path": "/4jzvAE6B1eoiZDUnDUuMazirCPP.jpg"
+    },
+    {
+      "personId": 11148,
+      "name": "Joan Allen",
+      "character": "Bonnie Waitzkin",
+      "order": 2,
+      "cast_id": 7,
+      "popularity": 3.2481,
+      "profile_path": "/ipUhzenaOCmrxqbPqc7RadYxWao.jpg"
+    },
+    {
+      "personId": 2282,
+      "name": "Ben Kingsley",
+      "character": "Bruce Pandolfini",
+      "order": 3,
+      "cast_id": 8,
+      "popularity": 6.8778,
+      "profile_path": "/vQtBqpF2HDdzbfXHDzR4u37i1Ac.jpg"
+    },
+    {
+      "personId": 2975,
+      "name": "Laurence Fishburne",
+      "character": "Vinnie",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 4.6026,
+      "profile_path": "/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
+    },
+    {
+      "personId": 554247,
+      "name": "Michael Nirenberg",
+      "character": "Jonathan Poe",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 0.3071,
+      "profile_path": null
+    },
+    {
+      "personId": 41957,
+      "name": "Robert Stephens",
+      "character": "Poe's Teacher",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 1.0444,
+      "profile_path": "/u363weCaBlDQbvMW7a2ef2unuWC.jpg"
+    },
+    {
+      "personId": 19839,
+      "name": "David Paymer",
+      "character": "Kalev",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 2.6305,
+      "profile_path": "/owoOdDFgXpls1OFKwmQ104Nkl5.jpg"
+    },
+    {
+      "personId": 69301,
+      "name": "Hal Scardino",
+      "character": "Morgan",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 0.9347,
+      "profile_path": "/q8TX9vJfLSzYDztSIDmz1ao002t.jpg"
+    },
+    {
+      "personId": 3905,
+      "name": "William H. Macy",
+      "character": "Tunafish Father",
+      "order": 9,
+      "cast_id": 15,
+      "popularity": 5.7242,
+      "profile_path": "/hdVEGSrP8qWlJnt0v5vSVcGOjy7.jpg"
+    },
+    {
+      "personId": 554248,
+      "name": "Vasek Simek",
+      "character": "Russian Park Player",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 0.621,
+      "profile_path": "/rilqGvic4w4s1gTpTCTJUXNuwo6.jpg"
+    },
+    {
+      "personId": 6486,
+      "name": "Dan Hedaya",
+      "character": "Tournament Director",
+      "order": 11,
+      "cast_id": 16,
+      "popularity": 3.3541,
+      "profile_path": "/evL3mV8hNIjZOb1XG3qtgmiTgS5.jpg"
+    },
+    {
+      "personId": 350,
+      "name": "Laura Linney",
+      "character": "School Teacher",
+      "order": 12,
+      "cast_id": 17,
+      "popularity": 4.3471,
+      "profile_path": "/yIopIq7l7eIvjoQqnZJkpdQEvds.jpg"
+    },
+    {
+      "personId": 16293,
+      "name": "Anthony Heald",
+      "character": "Fighting Parent",
+      "order": 13,
+      "cast_id": 28,
+      "popularity": 2.264,
+      "profile_path": "/e0E6Z1Y0debr4mAHgj0HO7MYyXG.jpg"
+    },
+    {
+      "personId": 59281,
+      "name": "Steven Randazzo",
+      "character": "Man of Many Signals",
+      "order": 14,
+      "cast_id": 24,
+      "popularity": 0.8693,
+      "profile_path": "/ufifD3uO2pqNNsrLAwbAkbyzJ7i.jpg"
+    },
+    {
+      "personId": 3113325,
+      "name": "Chelsea Moore",
+      "character": "Katya Waitzkin",
+      "order": 15,
+      "cast_id": 34,
+      "popularity": 0.9332,
+      "profile_path": null
+    },
+    {
+      "personId": 33489,
+      "name": "Josh Mostel",
+      "character": "Chess Club Regular",
+      "order": 16,
+      "cast_id": 27,
+      "popularity": 1.5545,
+      "profile_path": "/zX8vyQ9JdWsr1cmPvvyrw01aPiQ.jpg"
+    },
+    {
+      "personId": 1052923,
+      "name": "Josh Kornbluth",
+      "character": "Chess Club Regular",
+      "order": 17,
+      "cast_id": 35,
+      "popularity": 0.7859,
+      "profile_path": "/kZZWKqlGsMG4rbnfcxaZelHTsMg.jpg"
+    },
+    {
+      "personId": 4252,
+      "name": "Tony Shalhoub",
+      "character": "Chess Club Member",
+      "order": 18,
+      "cast_id": 25,
+      "popularity": 2.505,
+      "profile_path": "/1zfBSuAmOr1xXjNg4WzFWPm5B0Z.jpg"
+    },
+    {
+      "personId": 6168,
+      "name": "Austin Pendleton",
+      "character": "Asa Hoffman",
+      "order": 19,
+      "cast_id": 26,
+      "popularity": 1.775,
+      "profile_path": "/nrXfqtXDDYzSFNLPQnfLkus4I7s.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2260,
+      "name": "Steven Zaillian",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8994,
+      "profile_path": "/a8OqAfO2m7TAuewIS0dOv4ip1Vr.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 316,
+      "name": "chess"
+    },
+    {
+      "id": 2348,
+      "name": "hustler"
+    },
+    {
+      "id": 5561,
+      "name": "child prodigy"
+    },
+    {
+      "id": 4926,
+      "name": "chess champion"
+    },
+    {
+      "id": 12969,
+      "name": "chess tournament"
+    },
+    {
+      "id": 182210,
+      "name": "playing chess"
+    },
+    {
+      "id": 275348,
+      "name": "chess match"
+    },
+    {
+      "id": 279106,
+      "name": "pressure to perform"
+    }
+  ]
+}

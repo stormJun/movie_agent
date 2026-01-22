@@ -1,0 +1,262 @@
+{
+  "overview": "A girl born with enormous thumbs in the repressive era of the 1950s learns to turn her quirks into assets.",
+  "release_date": "1994-05-13",
+  "runtime": 96,
+  "budget": 8000000,
+  "revenue": 0,
+  "tmdb_vote_average": 4.384,
+  "tmdb_vote_count": 134,
+  "tmdb_popularity": 0.7848,
+  "original_language": "en",
+  "poster_path": "/20x8nm0nPXkYv04COAHFA2AHyAl.jpg",
+  "backdrop_path": "/bR54Rc8r3voUdxX5RkzBOpQGtFc.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Western"
+  ],
+  "production_companies": [
+    {
+      "id": 104611,
+      "name": "Fourth Vision",
+      "origin_country": ""
+    },
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 8,
+      "name": "Fine Line Features",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 139,
+      "name": "Uma Thurman",
+      "character": "Sissy Hankshaw",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 11.2187,
+      "profile_path": "/xuxgPXyv6KjUHIM8cZaxx4ry25L.jpg"
+    },
+    {
+      "personId": 11478,
+      "name": "Lorraine Bracco",
+      "character": "Delores Del Ruby",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 3.1449,
+      "profile_path": "/tAtpCzN4sTOy1RHpMpJj52zTO4S.jpg"
+    },
+    {
+      "personId": 23915,
+      "name": "Pat Morita",
+      "character": "The Chink",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 2.2985,
+      "profile_path": "/dwnjbEvhKRanS5xTaI1NkZ98aM9.jpg"
+    },
+    {
+      "personId": 4301,
+      "name": "Angie Dickinson",
+      "character": "Miss Adrian",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 4.0884,
+      "profile_path": "/5OmGKBhCTz7nobyMOPfaxs2F9n3.jpg"
+    },
+    {
+      "personId": 6384,
+      "name": "Keanu Reeves",
+      "character": "Julian Gitche",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 11.6793,
+      "profile_path": "/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+    },
+    {
+      "personId": 5049,
+      "name": "John Hurt",
+      "character": "The Countess",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 4.7837,
+      "profile_path": "/bjNSzt1d7uK3q5PbtFXUJrRt4qg.jpg"
+    },
+    {
+      "personId": 96922,
+      "name": "Rain Phoenix",
+      "character": "Bonanza Jellybean",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 0.7887,
+      "profile_path": "/mAZ55Ap6ttOpb6xX8rhq0lSOY6z.jpg"
+    },
+    {
+      "personId": 42157,
+      "name": "Ed Begley Jr.",
+      "character": "Rupert",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 2.7392,
+      "profile_path": "/cdS6hZVabhpQ3UdIK0HNvYXj5IM.jpg"
+    },
+    {
+      "personId": 10556,
+      "name": "Carol Kane",
+      "character": "Carla",
+      "order": 8,
+      "cast_id": 10,
+      "popularity": 3.4101,
+      "profile_path": "/3EOZ7B148lRwJcl3CmQhfpgubYQ.jpg"
+    },
+    {
+      "personId": 586,
+      "name": "Sean Young",
+      "character": "Marie Barth",
+      "order": 9,
+      "cast_id": 11,
+      "popularity": 3.463,
+      "profile_path": "/yfJADYt6xYPpg1g7Z7TTW0bcL2s.jpg"
+    },
+    {
+      "personId": 1064,
+      "name": "Crispin Glover",
+      "character": "Howard Barth",
+      "order": 10,
+      "cast_id": 12,
+      "popularity": 3.3996,
+      "profile_path": "/imBnLpSXvg61qDDdEfvL6R4ITKt.jpg"
+    },
+    {
+      "personId": 46393,
+      "name": "Roseanne Barr",
+      "character": "Madame Zoe",
+      "order": 11,
+      "cast_id": 20,
+      "popularity": 1.0937,
+      "profile_path": "/oyY5lWTFzhymLB4sJ1OODseI3jR.jpg"
+    },
+    {
+      "personId": 7795,
+      "name": "Buck Henry",
+      "character": "Dr. Dreyfus",
+      "order": 12,
+      "cast_id": 14,
+      "popularity": 1.8931,
+      "profile_path": "/iAOjaj5OHMMXno65MwmDtkqHeb6.jpg"
+    },
+    {
+      "personId": 6465,
+      "name": "Grace Zabriskie",
+      "character": "Mrs. Hankshaw",
+      "order": 13,
+      "cast_id": 15,
+      "popularity": 1.6055,
+      "profile_path": "/19tr5IbzCmv4x5B3WFlG1RQPwXu.jpg"
+    },
+    {
+      "personId": 3952828,
+      "name": "Treva Jeffryes",
+      "character": "Young Sissy",
+      "order": 14,
+      "cast_id": 87,
+      "popularity": 0.0143,
+      "profile_path": null
+    },
+    {
+      "personId": 7064,
+      "name": "Ken Kesey",
+      "character": "Sissy's Daddy",
+      "order": 15,
+      "cast_id": 88,
+      "popularity": 0.7,
+      "profile_path": "/lZztcmjfhJvS01mkbsmegel82hj.jpg"
+    },
+    {
+      "personId": 1390205,
+      "name": "Ken Babbs",
+      "character": "Sissy's Uncle",
+      "order": 16,
+      "cast_id": 89,
+      "popularity": 0.2744,
+      "profile_path": "/uXq5GwjgBlN0NGr1kNaPi8rbJpb.jpg"
+    },
+    {
+      "personId": 3952829,
+      "name": "Allen Arnold",
+      "character": "Lionel",
+      "order": 17,
+      "cast_id": 90,
+      "popularity": 0.2303,
+      "profile_path": "/szQ4C8YUJXRh72NBkEnEM5ZD8GB.jpg"
+    },
+    {
+      "personId": 2068560,
+      "name": "Victoria Williams",
+      "character": "Cowgirl Debbie",
+      "order": 18,
+      "cast_id": 42,
+      "popularity": 0.5963,
+      "profile_path": "/f51fAsvFbHO2JjSTZQ0U9tAHkH2.jpg"
+    },
+    {
+      "personId": 69122,
+      "name": "Heather Graham",
+      "character": "Cowgirl Heather",
+      "order": 19,
+      "cast_id": 16,
+      "popularity": 4.5352,
+      "profile_path": "/avYdNkeg1oTvmrNJbFDcTlBCkKs.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 5216,
+      "name": "Gus Van Sant",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.1992,
+      "profile_path": "/kICHgrSh4eiICjz8piy9fTXIgph.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 108,
+      "name": "transvestism"
+    },
+    {
+      "id": 33602,
+      "name": "cowgirl"
+    },
+    {
+      "id": 158718,
+      "name": "lgbt"
+    },
+    {
+      "id": 163726,
+      "name": "hitchhiking"
+    }
+  ]
+}

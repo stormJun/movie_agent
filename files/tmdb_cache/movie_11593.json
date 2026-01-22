@@ -1,0 +1,256 @@
+{
+  "overview": "A rascally nearing-retirement man juggles a workers' compensation suit while secretly working for his nemesis and flirting with his nemesis' young wife. As his estranged son returns, he faces new family responsibilities, while a banker plots to evict him from his home.",
+  "release_date": "1994-12-23",
+  "runtime": 110,
+  "budget": 20000000,
+  "revenue": 39491975,
+  "tmdb_vote_average": 6.8,
+  "tmdb_vote_count": 327,
+  "tmdb_popularity": 1.6034,
+  "original_language": "en",
+  "poster_path": "/xyAXFy6mOfgZcVWbceCeuTYadeq.jpg",
+  "backdrop_path": "/sY5U9A21r93qT7hbEDLFWMEM4b0.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 594,
+      "name": "Capella International",
+      "origin_country": "US"
+    },
+    {
+      "id": 761,
+      "name": "Cinehaus",
+      "origin_country": "US"
+    },
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3636,
+      "name": "Paul Newman",
+      "character": "Sully Sullivan",
+      "order": 0,
+      "cast_id": 8,
+      "popularity": 3.4191,
+      "profile_path": "/bP2fByqNR7BorsUNuD6nSm0u2vJ.jpg"
+    },
+    {
+      "personId": 62,
+      "name": "Bruce Willis",
+      "character": "Carl Roebuck",
+      "order": 1,
+      "cast_id": 9,
+      "popularity": 8.2539,
+      "profile_path": "/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+    },
+    {
+      "personId": 29369,
+      "name": "Melanie Griffith",
+      "character": "Toby Roebuck",
+      "order": 2,
+      "cast_id": 10,
+      "popularity": 7.2525,
+      "profile_path": "/yffPcqlZMsXTCAZ84a1tLmdcIS6.jpg"
+    },
+    {
+      "personId": 5698,
+      "name": "Jessica Tandy",
+      "character": "Beryl Peoples",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 2.567,
+      "profile_path": "/4qgLUP4sFC3xnzzcpyQcv8UKZAv.jpg"
+    },
+    {
+      "personId": 21043,
+      "name": "Dylan Walsh",
+      "character": "Peter Sullivan",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 2.2119,
+      "profile_path": "/A0XK6UEOuMKf66XpsZ1DBa9kXAR.jpg"
+    },
+    {
+      "personId": 3201,
+      "name": "Pruitt Taylor Vince",
+      "character": "Rub Squeers",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 3.9495,
+      "profile_path": "/jqC1v8tF92QcmkQycnaLSuJiQfl.jpg"
+    },
+    {
+      "personId": 69300,
+      "name": "Gene Saks",
+      "character": "Wirf Wirfley",
+      "order": 6,
+      "cast_id": 14,
+      "popularity": 1.9731,
+      "profile_path": "/eycEUe3kyD4SLBlTE3suUHmQhcd.jpg"
+    },
+    {
+      "personId": 14792,
+      "name": "Josef Sommer",
+      "character": "Clive Peoples Jr.",
+      "order": 7,
+      "cast_id": 15,
+      "popularity": 2.0296,
+      "profile_path": "/eY3tCB4j7nWhsZX1enU6BYpaZl.jpg"
+    },
+    {
+      "personId": 1233,
+      "name": "Philip Seymour Hoffman",
+      "character": "Officer Raymer",
+      "order": 8,
+      "cast_id": 16,
+      "popularity": 3.309,
+      "profile_path": "/50rqDkmvXwjwVhFH7q6ph2Rkw7S.jpg"
+    },
+    {
+      "personId": 6541,
+      "name": "Philip Bosco",
+      "character": "Judge Flatt",
+      "order": 9,
+      "cast_id": 17,
+      "popularity": 1.253,
+      "profile_path": "/fhN45vRvNiHr1lqx5tjdQULHcKU.jpg"
+    },
+    {
+      "personId": 65797,
+      "name": "Catherine Dent",
+      "character": "Charlotte Sullivan",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 1.3025,
+      "profile_path": "/yA76zSo5uu3X85nYH2iIKKxgan7.jpg"
+    },
+    {
+      "personId": 40271,
+      "name": "Alexander Goodwin",
+      "character": "Will Sullivan",
+      "order": 11,
+      "cast_id": 19,
+      "popularity": 1.4349,
+      "profile_path": "/1Vn7wOrIIiA12H7tfs0LtvieVz7.jpg"
+    },
+    {
+      "personId": 977543,
+      "name": "Carl J. Matusovich",
+      "character": "Wacker Sullivan",
+      "order": 12,
+      "cast_id": 20,
+      "popularity": 1.2037,
+      "profile_path": "/2HkLgKM58cgp5ysmYPleZiCsRhi.jpg"
+    },
+    {
+      "personId": 78789,
+      "name": "Jay Patterson",
+      "character": "Jocko",
+      "order": 13,
+      "cast_id": 21,
+      "popularity": 2.0433,
+      "profile_path": "/6P358wW8datGSbqA6DfhvMSAAuD.jpg"
+    },
+    {
+      "personId": 55459,
+      "name": "Jerry Mayer",
+      "character": "Ollie Quinn",
+      "order": 14,
+      "cast_id": 22,
+      "popularity": 0.4579,
+      "profile_path": null
+    },
+    {
+      "personId": 80542,
+      "name": "Angela Pietropinto",
+      "character": "Cass",
+      "order": 15,
+      "cast_id": 23,
+      "popularity": 0.8519,
+      "profile_path": "/1gUgveREGrACTsuvRdJreH68b8Y.jpg"
+    },
+    {
+      "personId": 17488,
+      "name": "Alice Drummond",
+      "character": "Hattie",
+      "order": 16,
+      "cast_id": 24,
+      "popularity": 1.3847,
+      "profile_path": "/ghiQNRLEw5sTRxh4yhue3vWcOHg.jpg"
+    },
+    {
+      "personId": 452,
+      "name": "Margo Martindale",
+      "character": "Birdy",
+      "order": 17,
+      "cast_id": 25,
+      "popularity": 2.8804,
+      "profile_path": "/6ANuYnZZJTuQLL4bbt8vH1qDYje.jpg"
+    },
+    {
+      "personId": 1106256,
+      "name": "Angelica Page",
+      "character": "Ruby",
+      "order": 18,
+      "cast_id": 26,
+      "popularity": 0.9441,
+      "profile_path": "/yWrkXoYob9izhO28UTqf9nzi9UC.jpg"
+    },
+    {
+      "personId": 227986,
+      "name": "Richard Mawe",
+      "character": "Ralph",
+      "order": 19,
+      "cast_id": 27,
+      "popularity": 0.245,
+      "profile_path": "/nJsojyrMIGocg7MsVhi4JIE2b0U.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 6729,
+      "name": "Robert Benton",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.0206,
+      "profile_path": "/309zHbAHOXv1PffWz4C9SEEgEGa.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1415,
+      "name": "small town"
+    },
+    {
+      "id": 2294,
+      "name": "illegal employment"
+    },
+    {
+      "id": 4948,
+      "name": "retirement"
+    },
+    {
+      "id": 40865,
+      "name": "new york state"
+    }
+  ]
+}

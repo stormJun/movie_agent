@@ -1,0 +1,258 @@
+{
+  "overview": "When his star recruit botches a Major League Baseball debut, humiliated talent scout Al Percolo gets banished to rural Mexico, where he finds a potential gold mine in the arm of young phenom Steve Nebraska. Soon, the New York Yankees put a $55 million contract on the table—provided a psychiatrist can affirm Nebraska's mental stability.",
+  "release_date": "1994-09-30",
+  "runtime": 101,
+  "budget": 20000000,
+  "revenue": 2694234,
+  "tmdb_vote_average": 5.201,
+  "tmdb_vote_count": 117,
+  "tmdb_popularity": 2.5544,
+  "original_language": "en",
+  "poster_path": "/a5b1k4wmZShLu1Fo19SzcOJKRlD.jpg",
+  "backdrop_path": "/vfign3pdE9qeQoFChMA3rOKHO7r.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 28822,
+      "name": "Santo Domingo Film & Music Video",
+      "origin_country": ""
+    },
+    {
+      "id": 25,
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "it",
+      "name": "Italiano"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13,
+      "name": "Albert Brooks",
+      "character": "Al Percolo",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 2.4808,
+      "profile_path": "/8iDSGu5l93N7benjf6b3AysBore.jpg"
+    },
+    {
+      "personId": 18269,
+      "name": "Brendan Fraser",
+      "character": "Steve Nebraska",
+      "order": 1,
+      "cast_id": 1,
+      "popularity": 5.4859,
+      "profile_path": "/tFj5PaWWQbb8rHBBhu1EHklznph.jpg"
+    },
+    {
+      "personId": 1902,
+      "name": "Dianne Wiest",
+      "character": "Doctor H. Aaron",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.0351,
+      "profile_path": "/axqtFLgJNNz0N9i443USHCOvrmY.jpg"
+    },
+    {
+      "personId": 110434,
+      "name": "Anne Twomey",
+      "character": "Jennifer",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.3462,
+      "profile_path": "/wevkf8lFam2ADjZlN4ySe13t3jO.jpg"
+    },
+    {
+      "personId": 65019,
+      "name": "Lane Smith",
+      "character": "Ron Wilson",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.7208,
+      "profile_path": "/stmbrf2qdq6umxt3Jh30IDhCfi3.jpg"
+    },
+    {
+      "personId": 4688,
+      "name": "Michael Rapaport",
+      "character": "Tommy Lacy",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 4.7628,
+      "profile_path": "/nWD2kufgy6lPyFVCPr9A3e7FMMn.jpg"
+    },
+    {
+      "personId": 8689,
+      "name": "Barry Shabaka Henley",
+      "character": "McDermott",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 1.6122,
+      "profile_path": "/q0hI6T9OlmdUYdjYRX8K3pdRnYH.jpg"
+    },
+    {
+      "personId": 31007,
+      "name": "John Capodice",
+      "character": "Caruso",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 0.8769,
+      "profile_path": "/lN5VuGKFqfOFH5F8zso34I77sy2.jpg"
+    },
+    {
+      "personId": 2492742,
+      "name": "Art Garfield",
+      "character": "Stan",
+      "order": 8,
+      "cast_id": 38,
+      "popularity": 0.1988,
+      "profile_path": null
+    },
+    {
+      "personId": 1409318,
+      "name": "Louis Giovannetti",
+      "character": "World Series Catcher",
+      "order": 9,
+      "cast_id": 39,
+      "popularity": 0.1607,
+      "profile_path": null
+    },
+    {
+      "personId": 3698879,
+      "name": "Stephen Demek",
+      "character": "Yankee Catcher",
+      "order": 10,
+      "cast_id": 40,
+      "popularity": 0.2779,
+      "profile_path": null
+    },
+    {
+      "personId": 2531239,
+      "name": "Ralph Drischell",
+      "character": "Charlie",
+      "order": 11,
+      "cast_id": 41,
+      "popularity": 0.8041,
+      "profile_path": null
+    },
+    {
+      "personId": 12549,
+      "name": "Brett Rickaby",
+      "character": "George's Assistant",
+      "order": 12,
+      "cast_id": 42,
+      "popularity": 0.734,
+      "profile_path": "/t3vF4LptlWQ7trz6gArGzVv241i.jpg"
+    },
+    {
+      "personId": 79477,
+      "name": "Jack Rader",
+      "character": "Mr. Lacy",
+      "order": 13,
+      "cast_id": 43,
+      "popularity": 2.0303,
+      "profile_path": "/veZGDbgHdds3n7f6DJn6oneKqMc.jpg"
+    },
+    {
+      "personId": 97782,
+      "name": "Marcia Rodd",
+      "character": "Mrs. Lacy",
+      "order": 14,
+      "cast_id": 44,
+      "popularity": 1.6787,
+      "profile_path": "/cVGgfocQk68SlYAkIRK70D0YTWr.jpg"
+    },
+    {
+      "personId": 9276,
+      "name": "Steve Eastin",
+      "character": "Clubhouse Manager",
+      "order": 15,
+      "cast_id": 37,
+      "popularity": 1.2852,
+      "profile_path": "/f6jwyMkbEmIzK70vUO8l0oQJjxX.jpg"
+    },
+    {
+      "personId": 1481,
+      "name": "Lee Weaver",
+      "character": "Ben",
+      "order": 16,
+      "cast_id": 45,
+      "popularity": 1.134,
+      "profile_path": "/xg1t80JugQ6zWbnoRxbnCW1kUa4.jpg"
+    },
+    {
+      "personId": 99854,
+      "name": "John LaMotta",
+      "character": "Elevator Guard",
+      "order": 17,
+      "cast_id": 46,
+      "popularity": 1.1888,
+      "profile_path": "/xyj8QUjBv2wxgHfkHqI60lwC8Re.jpg"
+    },
+    {
+      "personId": 3590507,
+      "name": "Luis Cortés",
+      "character": "Mexican Desk Clerk",
+      "order": 18,
+      "cast_id": 47,
+      "popularity": 0.1016,
+      "profile_path": null
+    },
+    {
+      "personId": 74788,
+      "name": "Chuck Waters",
+      "character": "Photographer",
+      "order": 19,
+      "cast_id": 48,
+      "popularity": 1.1657,
+      "profile_path": "/8GtdY1QbISSN9NmsRJCLYvLKBMZ.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 12964,
+      "name": "Michael Ritchie",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.5091,
+      "profile_path": "/w2EXLsZNhTjZHi9E2nbYvLV05eO.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6075,
+      "name": "sports"
+    },
+    {
+      "id": 1480,
+      "name": "baseball"
+    },
+    {
+      "id": 1484,
+      "name": "pitcher"
+    },
+    {
+      "id": 170652,
+      "name": "father figure"
+    },
+    {
+      "id": 191043,
+      "name": "mentally ill"
+    }
+  ]
+}

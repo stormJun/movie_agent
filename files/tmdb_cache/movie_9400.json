@@ -1,0 +1,296 @@
+{
+  "overview": "Four inner-city Black women, determined to end their constant struggle, decide to live by one rule — get what you want or die trying. So the four women take back their lives and take out some banks in the process.",
+  "release_date": "1996-11-06",
+  "runtime": 123,
+  "budget": 9000000,
+  "revenue": 41590886,
+  "tmdb_vote_average": 7.2,
+  "tmdb_vote_count": 382,
+  "tmdb_popularity": 2.2592,
+  "original_language": "en",
+  "poster_path": "/wpiARyUqTfabzakAXHMIUY6Tl1A.jpg",
+  "backdrop_path": "/8ebAtpx6YVfRGrxPrs4nTTWSbT9.jpg",
+  "tmdb_genres_raw": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 149290,
+      "name": "Peak Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 9575,
+      "name": "Jada Pinkett Smith",
+      "character": "Stony",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.6352,
+      "profile_path": "/vt1Z1Fsu7gjp4L0OHey9Aa79lWj.jpg"
+    },
+    {
+      "personId": 15758,
+      "name": "Queen Latifah",
+      "character": "Cleo",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.9899,
+      "profile_path": "/fnOghG8JjYDicgNrsy80mKdwj5B.jpg"
+    },
+    {
+      "personId": 2535,
+      "name": "Vivica A. Fox",
+      "character": "Frankie",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.4916,
+      "profile_path": "/oIzevp0dqjIxqRQ2VoSzjiDCBt.jpg"
+    },
+    {
+      "personId": 55314,
+      "name": "Kimberly Elise",
+      "character": "Tisean",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.9632,
+      "profile_path": "/9Z2xlD8i8NXeT6NipPpmQfL6Mki.jpg"
+    },
+    {
+      "personId": 56871,
+      "name": "Blair Underwood",
+      "character": "Keith",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.52,
+      "profile_path": "/q3K7VBkatkns31cCP7PMmdasHUm.jpg"
+    },
+    {
+      "personId": 11885,
+      "name": "John C. McGinley",
+      "character": "Detective Strode",
+      "order": 5,
+      "cast_id": 15,
+      "popularity": 2.2963,
+      "profile_path": "/a9Oc7STg83syQh3X22u2TroAifk.jpg"
+    },
+    {
+      "personId": 54800,
+      "name": "Anna Maria Horsford",
+      "character": "Ms. Wells",
+      "order": 6,
+      "cast_id": 129,
+      "popularity": 1.5234,
+      "profile_path": "/fVA25hLtwmrVsIVrcWOojaPoYEq.jpg"
+    },
+    {
+      "personId": 58681,
+      "name": "Ella Joyce",
+      "character": "Detective Waller",
+      "order": 7,
+      "cast_id": 16,
+      "popularity": 1.0163,
+      "profile_path": "/p42wlar0hRZUtW9E96xFWZmNs9h.jpg"
+    },
+    {
+      "personId": 43524,
+      "name": "Charles Robinson",
+      "character": "Nate",
+      "order": 8,
+      "cast_id": 17,
+      "popularity": 0.9867,
+      "profile_path": "/zEy4ZnzuhhyueT5bef1jzQUFW7.jpg"
+    },
+    {
+      "personId": 154176,
+      "name": "Chaz Lamar Shepherd",
+      "character": "Stevie",
+      "order": 9,
+      "cast_id": 25,
+      "popularity": 0.6394,
+      "profile_path": "/LgnZ90kY4n9v71Fu8Q7jWluH51.jpg"
+    },
+    {
+      "personId": 4023137,
+      "name": "Vincent Baum",
+      "character": "Jajuan",
+      "order": 10,
+      "cast_id": 133,
+      "popularity": 0.1179,
+      "profile_path": null
+    },
+    {
+      "personId": 4023138,
+      "name": "Van Baum",
+      "character": "Jajuan",
+      "order": 11,
+      "cast_id": 134,
+      "popularity": 0.0987,
+      "profile_path": null
+    },
+    {
+      "personId": 98889,
+      "name": "Thomas Jefferson Byrd",
+      "character": "Luther",
+      "order": 12,
+      "cast_id": 24,
+      "popularity": 1.2052,
+      "profile_path": "/lE4nhhxoIZE2l5NOIi4sLlB5L49.jpg"
+    },
+    {
+      "personId": 2495537,
+      "name": "Samantha MacLachlan",
+      "character": "Ursula",
+      "order": 13,
+      "cast_id": 51,
+      "popularity": 0.2509,
+      "profile_path": null
+    },
+    {
+      "personId": 1424350,
+      "name": "Samuel Monroe Jr.",
+      "character": "Lorenz",
+      "order": 14,
+      "cast_id": 26,
+      "popularity": 1.1411,
+      "profile_path": "/1lrbUeVhix0WAuUFZ7tuBuCVVdF.jpg"
+    },
+    {
+      "personId": 305427,
+      "name": "WC",
+      "character": "Darnell",
+      "order": 15,
+      "cast_id": 19,
+      "popularity": 1.6097,
+      "profile_path": "/lxzF90yzK6VYomh0OmIKcR1AKSp.jpg"
+    },
+    {
+      "personId": 1408508,
+      "name": "Edmund L. Shaff",
+      "character": "Mr. Zachery",
+      "order": 16,
+      "cast_id": 135,
+      "popularity": 1.2022,
+      "profile_path": "/bhCmAkrf6Uywg5vx0D1uqpLUGJu.jpg"
+    },
+    {
+      "personId": 83099,
+      "name": "Natalie Desselle-Reid",
+      "character": "Tanika",
+      "order": 17,
+      "cast_id": 23,
+      "popularity": 0.326,
+      "profile_path": "/a6vt9RqEiVt4H7TdsIcuYVHD4lk.jpg"
+    },
+    {
+      "personId": 2041,
+      "name": "Dr. Dre",
+      "character": "Black Sam",
+      "order": 18,
+      "cast_id": 18,
+      "popularity": 2.2304,
+      "profile_path": "/xm2pYFBggiXSkFBV2I612i3fDd3.jpg"
+    },
+    {
+      "personId": 3730992,
+      "name": "Bruce Williams",
+      "character": "Bruce",
+      "order": 19,
+      "cast_id": 136,
+      "popularity": 0.1122,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 37932,
+      "name": "F. Gary Gray",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.2009,
+      "profile_path": "/lVbwLnxtdiQaS8oGWFZMkhATLc5.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 641,
+      "name": "single parent"
+    },
+    {
+      "id": 2492,
+      "name": "bank robber"
+    },
+    {
+      "id": 4813,
+      "name": "last chance"
+    },
+    {
+      "id": 10051,
+      "name": "heist"
+    },
+    {
+      "id": 12670,
+      "name": "los angeles, california"
+    },
+    {
+      "id": 15208,
+      "name": "biting"
+    },
+    {
+      "id": 200918,
+      "name": "angry"
+    },
+    {
+      "id": 211659,
+      "name": "somber"
+    },
+    {
+      "id": 239797,
+      "name": "complex"
+    },
+    {
+      "id": 266753,
+      "name": "cautionary"
+    },
+    {
+      "id": 315323,
+      "name": "incredulous"
+    },
+    {
+      "id": 325774,
+      "name": "authoritarian"
+    },
+    {
+      "id": 325824,
+      "name": "hopeful"
+    },
+    {
+      "id": 325841,
+      "name": "pessimistic"
+    },
+    {
+      "id": 325847,
+      "name": "scathing"
+    }
+  ]
+}

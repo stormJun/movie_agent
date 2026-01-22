@@ -1,0 +1,257 @@
+{
+  "overview": "When nine-year-old Alfalfa falls for Darla, his \"He-Man-Woman-Hating\" friends attempt to sabotage their relationship.",
+  "release_date": "1994-08-05",
+  "runtime": 82,
+  "budget": 0,
+  "revenue": 67308282,
+  "tmdb_vote_average": 6.797,
+  "tmdb_vote_count": 1286,
+  "tmdb_popularity": 5.0817,
+  "original_language": "en",
+  "poster_path": "/qI7PKX2JSw4yD2iQm3pyHvKir28.jpg",
+  "backdrop_path": "/GGtBQDAl7CtZtTFTCUUoYHVHyJ.jpg",
+  "tmdb_genres_raw": [
+    "Romance",
+    "Comedy",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 23506,
+      "name": "King World Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 56,
+      "name": "Amblin Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 69395,
+      "name": "Bug Hall",
+      "character": "Alfalfa",
+      "order": 0,
+      "cast_id": 35,
+      "popularity": 2.4502,
+      "profile_path": "/axuZx8nn7R7ohlkfnxO9k3TIGiq.jpg"
+    },
+    {
+      "personId": 148996,
+      "name": "Brittany Ashton Holmes",
+      "character": "Darla",
+      "order": 1,
+      "cast_id": 25,
+      "popularity": 1.5355,
+      "profile_path": "/8wV95voN0vX7CSTbwaQV87Ty7cM.jpg"
+    },
+    {
+      "personId": 67378,
+      "name": "Travis Tedford",
+      "character": "Spanky",
+      "order": 2,
+      "cast_id": 1,
+      "popularity": 1.2043,
+      "profile_path": "/mVfFFVKhxADeJgyZkdmUmWTY9R1.jpg"
+    },
+    {
+      "personId": 67379,
+      "name": "Kevin Jamal Woods",
+      "character": "Stymie",
+      "order": 3,
+      "cast_id": 2,
+      "popularity": 1.5466,
+      "profile_path": "/hL7bQ6VmiXgnAHgQ20OUIsKZdZz.jpg"
+    },
+    {
+      "personId": 67380,
+      "name": "Jordan Warkol",
+      "character": "Froggy",
+      "order": 4,
+      "cast_id": 3,
+      "popularity": 1.3037,
+      "profile_path": "/3PKc7upjRt4JmkjlwIgKjDmsL7u.jpg"
+    },
+    {
+      "personId": 67381,
+      "name": "Zachary Mabry",
+      "character": "Porky",
+      "order": 5,
+      "cast_id": 4,
+      "popularity": 0.4125,
+      "profile_path": "/10lmmasKRPJhPwukCQGt74vcaZQ.jpg"
+    },
+    {
+      "personId": 67382,
+      "name": "Ross Bagley",
+      "character": "Buckwheat",
+      "order": 6,
+      "cast_id": 5,
+      "popularity": 1.7803,
+      "profile_path": "/modarNXEmohsS1cEstQ6ppVeMlX.jpg"
+    },
+    {
+      "personId": 55961,
+      "name": "Courtland Mead",
+      "character": "Uh-Huh",
+      "order": 7,
+      "cast_id": 6,
+      "popularity": 2.3284,
+      "profile_path": "/71Npi8B3YfSbOOXo5uvT5Nhn3Ah.jpg"
+    },
+    {
+      "personId": 67383,
+      "name": "Sam Saletta",
+      "character": "Butch",
+      "order": 8,
+      "cast_id": 7,
+      "popularity": 1.12,
+      "profile_path": "/rekTUrHdRmxIMdadujaj7gmtnkF.jpg"
+    },
+    {
+      "personId": 67384,
+      "name": "Blake Jeremy Collins",
+      "character": "Woim",
+      "order": 9,
+      "cast_id": 8,
+      "popularity": 0.5393,
+      "profile_path": "/22guUMxVi5P9TMVYV76NdgsuVNY.jpg"
+    },
+    {
+      "personId": 67385,
+      "name": "Blake McIver Ewing",
+      "character": "Waldo",
+      "order": 10,
+      "cast_id": 9,
+      "popularity": 1.1935,
+      "profile_path": "/8TFz5gIYNNttwVQZgllHbygYKv6.jpg"
+    },
+    {
+      "personId": 67386,
+      "name": "Juliette Brewer",
+      "character": "Mary Ann",
+      "order": 11,
+      "cast_id": 10,
+      "popularity": 0.7426,
+      "profile_path": "/c8pxfyYFR92YiTrecnj2l5pMNnP.jpg"
+    },
+    {
+      "personId": 951813,
+      "name": "Heather Karasek",
+      "character": "Jane",
+      "order": 12,
+      "cast_id": 39,
+      "popularity": 1.8522,
+      "profile_path": "/81JhVQb6EeG8ejgq8gYmRhMBTFH.jpg"
+    },
+    {
+      "personId": 14639,
+      "name": "Mel Brooks",
+      "character": "Mr. Welling",
+      "order": 13,
+      "cast_id": 27,
+      "popularity": 2.7392,
+      "profile_path": "/c21qNcMJlHnRolfhQhZOVacjtwI.jpg"
+    },
+    {
+      "personId": 2395,
+      "name": "Whoopi Goldberg",
+      "character": "Buckwheat's Mom",
+      "order": 14,
+      "cast_id": 26,
+      "popularity": 4.2878,
+      "profile_path": "/wZKI7qcEIVgiHxeFtk3NuKt8URQ.jpg"
+    },
+    {
+      "personId": 589,
+      "name": "Daryl Hannah",
+      "character": "Miss Crabtree",
+      "order": 15,
+      "cast_id": 29,
+      "popularity": 3.6234,
+      "profile_path": "/5FllFmoiaru7tjXJ6Orc11OpQcw.jpg"
+    },
+    {
+      "personId": 67848,
+      "name": "Ashley Olsen",
+      "character": "Twin",
+      "order": 16,
+      "cast_id": 30,
+      "popularity": 1.6696,
+      "profile_path": "/suf5kWfRYErCp6D5YnOZlpGA8dH.jpg"
+    },
+    {
+      "personId": 67849,
+      "name": "Mary-Kate Olsen",
+      "character": "Twin",
+      "order": 17,
+      "cast_id": 31,
+      "popularity": 2.0716,
+      "profile_path": "/iKQ5OoUrPtQU0BMtKhR0joVWQZT.jpg"
+    },
+    {
+      "personId": 66896,
+      "name": "Raven-Symoné",
+      "character": "Stymie's Girlfriend",
+      "order": 18,
+      "cast_id": 32,
+      "popularity": 3.1777,
+      "profile_path": "/76x0KF5bnkxeFaq5vx9rXylPGQZ.jpg"
+    },
+    {
+      "personId": 1063,
+      "name": "Lea Thompson",
+      "character": "Ms. Roberts",
+      "order": 19,
+      "cast_id": 33,
+      "popularity": 2.7016,
+      "profile_path": "/85E9NTEfkRdUdK4kTrrnk5of25w.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 58448,
+      "name": "Penelope Spheeris",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.727,
+      "profile_path": "/7juDUTAEyAKKfDmkOD9q24kjrei.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6054,
+      "name": "friendship"
+    },
+    {
+      "id": 4358,
+      "name": "shenanigan"
+    },
+    {
+      "id": 155939,
+      "name": "group of friends"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    }
+  ]
+}

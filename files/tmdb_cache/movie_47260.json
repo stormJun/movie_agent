@@ -1,0 +1,143 @@
+{
+  "overview": "A middle-aged couple has a drifter enter their lives. The fish-store owners find that the mysterious young man awakens the couple in ways they didn't expect. Things get tense when the drifter begins an affair with the woman of the house.",
+  "release_date": "1996-01-24",
+  "runtime": 110,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.7,
+  "tmdb_vote_count": 25,
+  "tmdb_popularity": 4.0702,
+  "original_language": "en",
+  "poster_path": "/33sUPXPUqIe9YnZ80d8xzkiL2gb.jpg",
+  "backdrop_path": "/1pZJXiLnfg5rjhCErUCAXBCkhC1.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 761,
+      "name": "Cinehaus",
+      "origin_country": "US"
+    },
+    {
+      "id": 11273,
+      "name": "Circle Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 20049,
+      "name": "DuArt",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 587,
+      "name": "Edward James Olmos",
+      "character": "Joe",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 2.7037,
+      "profile_path": "/mXnilUrQBIMLHSQkPjQk99mX70x.jpg"
+    },
+    {
+      "personId": 2051,
+      "name": "María Conchita Alonso",
+      "character": "Betty",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 2.324,
+      "profile_path": "/zcDN921xNK0AznoA0TEbdbsPSn3.jpg"
+    },
+    {
+      "personId": 91612,
+      "name": "Arie Verveen",
+      "character": "Nick",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 0.5562,
+      "profile_path": "/ghYFpRtdYO7vY8FLTN9HAhrCxoO.jpg"
+    },
+    {
+      "personId": 138240,
+      "name": "Bitty Schram",
+      "character": "Amy",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 1.9361,
+      "profile_path": "/7N1FWQINAtQXcOBgw8xvBgITXTh.jpg"
+    },
+    {
+      "personId": 15371,
+      "name": "Steven Schub",
+      "character": "Danny",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 0.6196,
+      "profile_path": "/a4yBOGisod5X8VNTm2NOaLMO7Uq.jpg"
+    },
+    {
+      "personId": 155573,
+      "name": "Irma St. Paule",
+      "character": "Fish Store Customer",
+      "order": 5,
+      "cast_id": 17,
+      "popularity": 0.3865,
+      "profile_path": "/qtJmKcPHbTyveOE2NhLcsU04KUF.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 86293,
+      "name": "Robert M. Young",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.2771,
+      "profile_path": "/zQlVn6Z6Q6mXZ2OKcXyyYcpW58l.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 5562,
+      "name": "fish market"
+    },
+    {
+      "id": 13017,
+      "name": "drifter"
+    },
+    {
+      "id": 178977,
+      "name": "jealous husband"
+    },
+    {
+      "id": 188840,
+      "name": "delivery service"
+    },
+    {
+      "id": 207268,
+      "name": "neo-noir"
+    },
+    {
+      "id": 207765,
+      "name": "wife beater"
+    },
+    {
+      "id": 331167,
+      "name": "wife cheating on husband"
+    }
+  ]
+}

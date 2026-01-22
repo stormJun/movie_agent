@@ -1,0 +1,331 @@
+{
+  "overview": "A woman moves into a Manhattan apartment, where she learns that the previous tenant's life ended under mysterious circumstances.",
+  "release_date": "1993-05-21",
+  "runtime": 107,
+  "budget": 40000000,
+  "revenue": 116300000,
+  "tmdb_vote_average": 5.548,
+  "tmdb_vote_count": 774,
+  "tmdb_popularity": 7.5414,
+  "original_language": "en",
+  "poster_path": "/g7PC2e2KqDkIfOoJx9iXJJez99d.jpg",
+  "backdrop_path": "/9o30KaejWBVXdyt5otvbMtD5DkE.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 94856,
+      "name": "Robert Evans Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4430,
+      "name": "Sharon Stone",
+      "character": "Carly Norris",
+      "order": 0,
+      "cast_id": 12,
+      "popularity": 6.1114,
+      "profile_path": "/t0WoTlfkLsvsL2ZiPgoihK5rZqq.jpg"
+    },
+    {
+      "personId": 13021,
+      "name": "William Baldwin",
+      "character": "Zeke Hawkins",
+      "order": 1,
+      "cast_id": 13,
+      "popularity": 3.0593,
+      "profile_path": "/mFCUAl6Rko6ocONhFDCpztcmKXd.jpg"
+    },
+    {
+      "personId": 13022,
+      "name": "Tom Berenger",
+      "character": "Jack Lansford",
+      "order": 2,
+      "cast_id": 14,
+      "popularity": 3.628,
+      "profile_path": "/zLxzAdAfu7y02yEx29JSLDgXJZ4.jpg"
+    },
+    {
+      "personId": 6416,
+      "name": "Polly Walker",
+      "character": "Vida Warren",
+      "order": 3,
+      "cast_id": 15,
+      "popularity": 4.6828,
+      "profile_path": "/eE8dtdlAwnMeramd1pA6eOQzhky.jpg"
+    },
+    {
+      "personId": 13023,
+      "name": "Colleen Camp",
+      "character": "Judy Marks",
+      "order": 4,
+      "cast_id": 16,
+      "popularity": 2.6729,
+      "profile_path": "/hNAIkUVtsQfpC95BDkXr1lmoI2F.jpg"
+    },
+    {
+      "personId": 13024,
+      "name": "Amanda Foreman",
+      "character": "Samantha Moore",
+      "order": 5,
+      "cast_id": 17,
+      "popularity": 0.6524,
+      "profile_path": "/cvFcPjk2fvvSpazh9jePnzpigw9.jpg"
+    },
+    {
+      "personId": 2641,
+      "name": "Martin Landau",
+      "character": "Alex Parsons",
+      "order": 6,
+      "cast_id": 18,
+      "popularity": 2.2864,
+      "profile_path": "/3Hk817L900dnoOuvVJIaXhQdgNy.jpg"
+    },
+    {
+      "personId": 30485,
+      "name": "CCH Pounder",
+      "character": "Victoria Hendrix",
+      "order": 7,
+      "cast_id": 24,
+      "popularity": 3.5445,
+      "profile_path": "/mr6BLDN75T8DJl9dNK3hN4YwqJa.jpg"
+    },
+    {
+      "personId": 13026,
+      "name": "Nina Foch",
+      "character": "Mrs. McEvoy",
+      "order": 8,
+      "cast_id": 20,
+      "popularity": 1.6161,
+      "profile_path": "/zkSVQYtUBFKpoBXCyIA0dW8N5Tj.jpg"
+    },
+    {
+      "personId": 13027,
+      "name": "Keene Curtis",
+      "character": "Gus Hale",
+      "order": 9,
+      "cast_id": 21,
+      "popularity": 0.7148,
+      "profile_path": "/3ViMDkc0TJGVay5bHTDDkom20AV.jpg"
+    },
+    {
+      "personId": 13028,
+      "name": "Nicholas Pryor",
+      "character": "Peter Farrell",
+      "order": 10,
+      "cast_id": 22,
+      "popularity": 1.8911,
+      "profile_path": "/cDyRbrvg217ozhClJLy6FTXKn1P.jpg"
+    },
+    {
+      "personId": 13029,
+      "name": "Anne Betancourt",
+      "character": "Jackie Kinsella",
+      "order": 11,
+      "cast_id": 23,
+      "popularity": 0.9029,
+      "profile_path": "/zBYo89ECF8L8Yi09Fot64pCp8qf.jpg"
+    },
+    {
+      "personId": 166245,
+      "name": "Sid McCoy",
+      "character": "Mr. Anderson",
+      "order": 12,
+      "cast_id": 71,
+      "popularity": 0.7511,
+      "profile_path": "/1jcN6UY3ZRSnSPzFSXkvg9mrXtO.jpg"
+    },
+    {
+      "personId": 71519,
+      "name": "Marnette Patterson",
+      "character": "Joanie Ballinger",
+      "order": 13,
+      "cast_id": 73,
+      "popularity": 2.3813,
+      "profile_path": "/85ORaEV2wFS3k2tEyMDQXjeea1J.jpg"
+    },
+    {
+      "personId": 75472,
+      "name": "Sandy Gutman",
+      "character": "Ted Weisberge",
+      "order": 14,
+      "cast_id": 74,
+      "popularity": 0.5945,
+      "profile_path": "/vMAQiZ2DXxhlf2WERNkuGxC7UcK.jpg"
+    },
+    {
+      "personId": 138020,
+      "name": "Tony Peck",
+      "character": "Martin Kinsella",
+      "order": 15,
+      "cast_id": 76,
+      "popularity": 1.6678,
+      "profile_path": "/8vnwyAPsiY7mQHP1DAptfO09loU.jpg"
+    },
+    {
+      "personId": 116536,
+      "name": "Frantz Turner",
+      "character": "Doorman #1",
+      "order": 16,
+      "cast_id": 77,
+      "popularity": 0.7668,
+      "profile_path": "/vXvhFA3iSCdlmdAYqJGBtO0WYCT.jpg"
+    },
+    {
+      "personId": 1886271,
+      "name": "James Noah",
+      "character": "Doorman #2",
+      "order": 17,
+      "cast_id": 75,
+      "popularity": 1.3188,
+      "profile_path": "/qcqd4BnJVMMyVNSFkztY76e1GxI.jpg"
+    },
+    {
+      "personId": 21143,
+      "name": "Allison Mackie",
+      "character": "Naomi Singer",
+      "order": 18,
+      "cast_id": 78,
+      "popularity": 0.9501,
+      "profile_path": "/sMhfZaWTAyRTRpqEfGPawwr0CZB.jpg"
+    },
+    {
+      "personId": 1109028,
+      "name": "Christine Toy Johnson",
+      "character": "Reporter #1",
+      "order": 19,
+      "cast_id": 72,
+      "popularity": 1.3056,
+      "profile_path": "/vdha1Usjta0eSY0ecXPVbQTENv7.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 13015,
+      "name": "Phillip Noyce",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.0735,
+      "profile_path": "/6i0Or09DucNCJU9DxYv23drIrMN.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 6293,
+      "name": "telescope"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 6259,
+      "name": "psychopath"
+    },
+    {
+      "id": 1664,
+      "name": "eroticism"
+    },
+    {
+      "id": 5824,
+      "name": "video surveillance"
+    },
+    {
+      "id": 3979,
+      "name": "hidden camera"
+    },
+    {
+      "id": 11494,
+      "name": "drug use"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 10333,
+      "name": "stalking"
+    },
+    {
+      "id": 10878,
+      "name": "invasion of privacy"
+    },
+    {
+      "id": 10226,
+      "name": "neighbor"
+    },
+    {
+      "id": 11200,
+      "name": "look-alike"
+    },
+    {
+      "id": 11318,
+      "name": "landlord"
+    },
+    {
+      "id": 11322,
+      "name": "female protagonist"
+    },
+    {
+      "id": 15128,
+      "name": "sex talk"
+    },
+    {
+      "id": 178649,
+      "name": "voyeurism"
+    },
+    {
+      "id": 182422,
+      "name": "landlord tenant relationship"
+    },
+    {
+      "id": 184312,
+      "name": "mind game"
+    },
+    {
+      "id": 190370,
+      "name": "erotic movie"
+    },
+    {
+      "id": 207767,
+      "name": "erotic thriller"
+    },
+    {
+      "id": 228853,
+      "name": "sex video"
+    },
+    {
+      "id": 244631,
+      "name": "similar crime"
+    },
+    {
+      "id": 254565,
+      "name": "sexual curiosity"
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "overview": "Jordan White and Amy Blue, two troubled teens, pick up an adolescent drifter, Xavier Red. Together, the threesome embarks on a sex- and violence-filled journey through a United States of psychos and quickie marts.",
+  "release_date": "1995-10-20",
+  "runtime": 83,
+  "budget": 800000,
+  "revenue": 284785,
+  "tmdb_vote_average": 6.513,
+  "tmdb_vote_count": 297,
+  "tmdb_popularity": 1.5321,
+  "original_language": "en",
+  "poster_path": "/f2qIJm1bWqTycNUZMVxLBW1tN1w.jpg",
+  "backdrop_path": "/9mHvO0PzmEgxDtmRq3VeTVELYqb.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 2765,
+      "name": "Blurco",
+      "origin_country": "US"
+    },
+    {
+      "id": 18902,
+      "name": "The Teen Angst Movie Company",
+      "origin_country": ""
+    },
+    {
+      "id": 1474,
+      "name": "Desperate Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 729,
+      "name": "Why Not Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 581,
+      "name": "UGC",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16850,
+      "name": "Rose McGowan",
+      "character": "Amy Blue",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 3.6703,
+      "profile_path": "/x8sHWjQ7cWVcHKhqGR09x0Y0tsP.jpg"
+    },
+    {
+      "personId": 1582,
+      "name": "James Duval",
+      "character": "Jordan White",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 1.8533,
+      "profile_path": "/vvasxKKPnxv2qOoXTnaXW3ecGLO.jpg"
+    },
+    {
+      "personId": 51670,
+      "name": "Johnathon Schaech",
+      "character": "Xavier Red",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 1.7388,
+      "profile_path": "/13hf3VhszBoykxF7lNER2ur4Z9B.jpg"
+    },
+    {
+      "personId": 157847,
+      "name": "Cress Williams",
+      "character": "Peanut",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 1.7707,
+      "profile_path": "/pIOyAg9U0eAUvs8N2Xca7uRKlOe.jpg"
+    },
+    {
+      "personId": 61632,
+      "name": "Dustin Nguyễn",
+      "character": "Quickiemart Clerk",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 1.1505,
+      "profile_path": "/40TjXyYUSG3O01Zak4TJLz0oZN3.jpg"
+    },
+    {
+      "personId": 1214186,
+      "name": "Lauren Tewes",
+      "character": "TV Anchorwoman",
+      "order": 5,
+      "cast_id": 29,
+      "popularity": 1.0721,
+      "profile_path": "/f4LjuZCbCLsdX8tWs2a9kAVWSRa.jpg"
+    },
+    {
+      "personId": 11152,
+      "name": "Margaret Cho",
+      "character": "Clerk's Wife",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 1.4014,
+      "profile_path": "/lsHpa4aRrBMn7LtFX8AdPTFBMGY.jpg"
+    },
+    {
+      "personId": 136228,
+      "name": "Christopher Knight",
+      "character": "TV Anchorman",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 0.7205,
+      "profile_path": "/yqpz1L7FENUb0AMi3ahHoIZg84q.jpg"
+    },
+    {
+      "personId": 18070,
+      "name": "Nicky Katt",
+      "character": "Carnoburger Cashier",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 1.9335,
+      "profile_path": "/9OY1D1WXJsqC7OnrKErc3mFfly5.jpg"
+    },
+    {
+      "personId": 1149336,
+      "name": "Johanna Went",
+      "character": "Carnoburger Co-Worker",
+      "order": 9,
+      "cast_id": 39,
+      "popularity": 1.9162,
+      "profile_path": "/in6evObdxHZRMTO1BhZlddEKAtV.jpg"
+    },
+    {
+      "personId": 102979,
+      "name": "Perry Farrell",
+      "character": "Stop 'n' Go Clerk",
+      "order": 10,
+      "cast_id": 12,
+      "popularity": 0.4141,
+      "profile_path": "/r5lKZr814Ow7m2HSBoxSbMKYjSP.jpg"
+    },
+    {
+      "personId": 18981,
+      "name": "Amanda Bearse",
+      "character": "Barmaid",
+      "order": 11,
+      "cast_id": 31,
+      "popularity": 1.4422,
+      "profile_path": "/vsigj6WmFdm6w7O7uA7UOWuxuxG.jpg"
+    },
+    {
+      "personId": 7489,
+      "name": "Parker Posey",
+      "character": "Brandi",
+      "order": 12,
+      "cast_id": 14,
+      "popularity": 3.2512,
+      "profile_path": "/yoFt75JfGUqQ6EV8qN6fckQuElk.jpg"
+    },
+    {
+      "personId": 7041,
+      "name": "Salvator Xuereb",
+      "character": "Biker",
+      "order": 13,
+      "cast_id": 15,
+      "popularity": 1.1848,
+      "profile_path": "/f6stWXAo1DYdJk1AZy3t8jCNi1z.jpg"
+    },
+    {
+      "personId": 92032,
+      "name": "Heidi Fleiss",
+      "character": "Liquorstore Clerk",
+      "order": 14,
+      "cast_id": 16,
+      "popularity": 0.5947,
+      "profile_path": "/3H3VnlK3aWcckh4YZpOMY4ip6TR.jpg"
+    },
+    {
+      "personId": 28167,
+      "name": "Don Galloway",
+      "character": "FBI Guy",
+      "order": 15,
+      "cast_id": 42,
+      "popularity": 0.9893,
+      "profile_path": "/qIWXB0nUMlA8fLGpGuyMnQqVCg9.jpg"
+    },
+    {
+      "personId": 167676,
+      "name": "Dewey Weber",
+      "character": "George",
+      "order": 16,
+      "cast_id": 40,
+      "popularity": 0.5321,
+      "profile_path": "/3lrBnDSITuyt3Ij7ps5nwkTu3CA.jpg"
+    },
+    {
+      "personId": 143997,
+      "name": "Zak Spears",
+      "character": "Dan",
+      "order": 17,
+      "cast_id": 76,
+      "popularity": 1.4,
+      "profile_path": "/nHQFPSlq2iNl4M3c3YIbKSfyNUP.jpg"
+    },
+    {
+      "personId": 45403,
+      "name": "Rex Chandler",
+      "character": "Pat",
+      "order": 18,
+      "cast_id": 81,
+      "popularity": 1.4,
+      "profile_path": "/efU5lLu35AbrSIEthoscfZNyUE7.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 19224,
+      "name": "Gregg Araki",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.1883,
+      "profile_path": "/pSoAQI9Z48WwhfdYRPy2IENWFdA.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6054,
+      "name": "friendship"
+    },
+    {
+      "id": 387,
+      "name": "california"
+    },
+    {
+      "id": 642,
+      "name": "robbery"
+    },
+    {
+      "id": 2652,
+      "name": "nazi"
+    },
+    {
+      "id": 1541,
+      "name": "nihilism"
+    },
+    {
+      "id": 1664,
+      "name": "eroticism"
+    },
+    {
+      "id": 3405,
+      "name": "blow job"
+    },
+    {
+      "id": 9701,
+      "name": "controversy"
+    },
+    {
+      "id": 4470,
+      "name": "punk rock"
+    },
+    {
+      "id": 9887,
+      "name": "surrealism"
+    },
+    {
+      "id": 11581,
+      "name": "severed head"
+    },
+    {
+      "id": 13017,
+      "name": "drifter"
+    },
+    {
+      "id": 15291,
+      "name": "on the road"
+    },
+    {
+      "id": 155262,
+      "name": "threesome"
+    },
+    {
+      "id": 155419,
+      "name": "shoplifting"
+    },
+    {
+      "id": 155870,
+      "name": "polyamory"
+    },
+    {
+      "id": 180340,
+      "name": "voyeur"
+    },
+    {
+      "id": 200234,
+      "name": "shocking"
+    },
+    {
+      "id": 202371,
+      "name": "aggressive"
+    },
+    {
+      "id": 239108,
+      "name": "crystal meth"
+    },
+    {
+      "id": 321464,
+      "name": "intense"
+    },
+    {
+      "id": 325778,
+      "name": "bold"
+    }
+  ]
+}

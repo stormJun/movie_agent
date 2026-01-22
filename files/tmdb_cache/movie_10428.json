@@ -1,0 +1,314 @@
+{
+  "overview": "Along with his new friends, a teenager who was arrested by the US Secret Service and banned from using a computer for writing a computer virus discovers a plot by a nefarious hacker, but they must use their computer skills to find the evidence while being pursued by the Secret Service and the evil computer genius behind the virus.",
+  "release_date": "1995-09-14",
+  "runtime": 105,
+  "budget": 20000000,
+  "revenue": 7563728,
+  "tmdb_vote_average": 6.377,
+  "tmdb_vote_count": 1412,
+  "tmdb_popularity": 6.7791,
+  "original_language": "en",
+  "poster_path": "/qfx2EENW1sOpKNVKLzr7VOhlxkt.jpg",
+  "backdrop_path": "/mRtplFVP5hXFWtsoj3jlxDiqaN1.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Crime",
+    "Thriller",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 87394,
+      "name": "Suftley",
+      "origin_country": ""
+    },
+    {
+      "id": 60,
+      "name": "United Artists",
+      "origin_country": "US"
+    },
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "it",
+      "name": "Italiano"
+    },
+    {
+      "code": "ja",
+      "name": "日本語"
+    },
+    {
+      "code": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 9012,
+      "name": "Jonny Lee Miller",
+      "character": "Dade Murphy / 'Crash Override' / 'Zero Cool'",
+      "order": 0,
+      "cast_id": 16,
+      "popularity": 3.5139,
+      "profile_path": "/otCQdDtnrMvZ5tPC62zLx0SaXeR.jpg"
+    },
+    {
+      "personId": 11701,
+      "name": "Angelina Jolie",
+      "character": "Kate Libby / 'Acid Burn'",
+      "order": 1,
+      "cast_id": 17,
+      "popularity": 11.571,
+      "profile_path": "/nXA9vMvskmIDB5NqHCkTQPmemep.jpg"
+    },
+    {
+      "personId": 26457,
+      "name": "Matthew Lillard",
+      "character": "Emmanuelle Goldstein / 'Cereal Killer'",
+      "order": 2,
+      "cast_id": 21,
+      "popularity": 5.2129,
+      "profile_path": "/auUbijDzR9xpSgQtLsYDvNatloj.jpg"
+    },
+    {
+      "personId": 17772,
+      "name": "Jesse Bradford",
+      "character": "Joey Pardella",
+      "order": 3,
+      "cast_id": 20,
+      "popularity": 2.0767,
+      "profile_path": "/aT3eZzGDMKrwlYgHtwBH4KHKa64.jpg"
+    },
+    {
+      "personId": 28863,
+      "name": "Renoly Santiago",
+      "character": "Ramon Sanchez / 'Phantom Phreak'",
+      "order": 4,
+      "cast_id": 22,
+      "popularity": 0.7739,
+      "profile_path": "/mdWgsQM0u6w9nBVzTHIY7FY1nOG.jpg"
+    },
+    {
+      "personId": 65141,
+      "name": "Laurence Mason",
+      "character": "Paul Cook / 'Lord Nikon'",
+      "order": 5,
+      "cast_id": 25,
+      "popularity": 1.3078,
+      "profile_path": "/9QCYSKak0Zw6G5yAgGQPOnlOc7I.jpg"
+    },
+    {
+      "personId": 26473,
+      "name": "Fisher Stevens",
+      "character": "Eugene Belford / 'The Plague' / Mr. Babbage",
+      "order": 6,
+      "cast_id": 23,
+      "popularity": 3.8092,
+      "profile_path": "/wWC6wbLV56RJGtyytMmmGvi054t.jpg"
+    },
+    {
+      "personId": 11478,
+      "name": "Lorraine Bracco",
+      "character": "Margo",
+      "order": 7,
+      "cast_id": 26,
+      "popularity": 3.1449,
+      "profile_path": "/tAtpCzN4sTOy1RHpMpJj52zTO4S.jpg"
+    },
+    {
+      "personId": 17859,
+      "name": "Wendell Pierce",
+      "character": "S.S. Agent Richard Gill",
+      "order": 8,
+      "cast_id": 27,
+      "popularity": 3.0922,
+      "profile_path": "/r6yKahL6Z8l9aUX5qvWxTmWl8Nm.jpg"
+    },
+    {
+      "personId": 33241,
+      "name": "Michael Gaston",
+      "character": "S.S. Agent Bob",
+      "order": 9,
+      "cast_id": 28,
+      "popularity": 3.4448,
+      "profile_path": "/lXhqiW4J1n9bnbfwz0Kdf2sjGLU.jpg"
+    },
+    {
+      "personId": 47775,
+      "name": "Marc Anthony",
+      "character": "S.S. Agent Ray",
+      "order": 10,
+      "cast_id": 29,
+      "popularity": 1.9236,
+      "profile_path": "/mOkqbV5iiusOLEOVPmepQcAGF8K.jpg"
+    },
+    {
+      "personId": 37221,
+      "name": "Penn Jillette",
+      "character": "Hal",
+      "order": 11,
+      "cast_id": 30,
+      "popularity": 1.1561,
+      "profile_path": "/lxMpWaVKyeqZCxENRo1wu13iSTS.jpg"
+    },
+    {
+      "personId": 65143,
+      "name": "Peter Y. Kim",
+      "character": "Blade",
+      "order": 12,
+      "cast_id": 31,
+      "popularity": 0.5998,
+      "profile_path": "/3UtSD87PNU6EdJpnCeSN1hfrwRN.jpg"
+    },
+    {
+      "personId": 65142,
+      "name": "Darren Lee",
+      "character": "Razor",
+      "order": 13,
+      "cast_id": 32,
+      "popularity": 0.475,
+      "profile_path": "/m24c6TGpcasZ3X6HjiujR45GmtY.jpg"
+    },
+    {
+      "personId": 19958,
+      "name": "Alberta Watson",
+      "character": "Lauren Murphy",
+      "order": 14,
+      "cast_id": 24,
+      "popularity": 1.4485,
+      "profile_path": "/zUShDQufrKQcpnRYchZX6iNPwm7.jpg"
+    },
+    {
+      "personId": 65145,
+      "name": "Liza Walker",
+      "character": "Laura",
+      "order": 15,
+      "cast_id": 36,
+      "popularity": 1.8987,
+      "profile_path": "/5LadGRJnYW7Jdk546pCDy3IaSP9.jpg"
+    },
+    {
+      "personId": 65146,
+      "name": "Bob Sessions",
+      "character": "Duke Ellingson",
+      "order": 16,
+      "cast_id": 34,
+      "popularity": 0.4226,
+      "profile_path": null
+    },
+    {
+      "personId": 65144,
+      "name": "Ethan Browne",
+      "character": "Curtis",
+      "order": 17,
+      "cast_id": 33,
+      "popularity": 0.2983,
+      "profile_path": "/xY362u6HApUf8iRyQnjdURLlVVZ.jpg"
+    },
+    {
+      "personId": 65147,
+      "name": "Blake Willett",
+      "character": "S.S. Agent, Seattle",
+      "order": 18,
+      "cast_id": 35,
+      "popularity": 0.098,
+      "profile_path": null
+    },
+    {
+      "personId": 65148,
+      "name": "Max Ligosh",
+      "character": "Young Dade Murphy / 'Zero Cool'",
+      "order": 19,
+      "cast_id": 37,
+      "popularity": 0.5591,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1978,
+      "name": "Iain Softley",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.739,
+      "profile_path": "/p2D9UrLOGOFoiOC5pmmsEUqLOEr.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 6104,
+      "name": "computer"
+    },
+    {
+      "id": 2157,
+      "name": "hacker"
+    },
+    {
+      "id": 2812,
+      "name": "computer virus"
+    },
+    {
+      "id": 4563,
+      "name": "virtual reality"
+    },
+    {
+      "id": 9864,
+      "name": "prank"
+    },
+    {
+      "id": 11615,
+      "name": "internet"
+    },
+    {
+      "id": 12190,
+      "name": "cyberpunk"
+    },
+    {
+      "id": 12361,
+      "name": "hacking"
+    },
+    {
+      "id": 41249,
+      "name": "secret service"
+    },
+    {
+      "id": 160840,
+      "name": "dream sequence"
+    },
+    {
+      "id": 259376,
+      "name": "playful"
+    },
+    {
+      "id": 325809,
+      "name": "enthusiastic"
+    },
+    {
+      "id": 325830,
+      "name": "informative"
+    },
+    {
+      "id": 325831,
+      "name": "instructive"
+    }
+  ]
+}

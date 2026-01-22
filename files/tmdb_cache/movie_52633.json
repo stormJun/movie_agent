@@ -1,0 +1,275 @@
+{
+  "overview": "The leader of an inner city girl gang is challenged when a new girl moves into the neighborhood.",
+  "release_date": "1975-01-05",
+  "runtime": 91,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.284,
+  "tmdb_vote_count": 97,
+  "tmdb_popularity": 3.8544,
+  "original_language": "en",
+  "poster_path": "/axVIxmkYZFBDwMMhifeUXLHzu56.jpg",
+  "backdrop_path": "/ogHI9aLHXPIT8awXKyo2WEHbQii.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 17777,
+      "name": "Centaur Pictures Inc.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 47405,
+      "name": "Robbie Lee",
+      "character": "Lace",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 2.3528,
+      "profile_path": "/d3QvnId769jadX0azIJiOjx1Sd7.jpg"
+    },
+    {
+      "personId": 113936,
+      "name": "Joanne Nail",
+      "character": "Maggie",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.7701,
+      "profile_path": "/okR7gdB3Pc7OcWBbpovZVIcAqSg.jpg"
+    },
+    {
+      "personId": 101966,
+      "name": "Monica Gayle",
+      "character": "Patch",
+      "order": 2,
+      "cast_id": 11,
+      "popularity": 0.8545,
+      "profile_path": "/rPylc7nuJeeRRxb2pwMs4XAH0Iz.jpg"
+    },
+    {
+      "personId": 169922,
+      "name": "Asher Brauner",
+      "character": "Dominic",
+      "order": 3,
+      "cast_id": 9,
+      "popularity": 1.3674,
+      "profile_path": "/59277KoKyJSRYb6un9TdRvuibWE.jpg"
+    },
+    {
+      "personId": 1036516,
+      "name": "Chase Newhart",
+      "character": "Crabs",
+      "order": 4,
+      "cast_id": 10,
+      "popularity": 0.1628,
+      "profile_path": null
+    },
+    {
+      "personId": 125128,
+      "name": "Marlene Clark",
+      "character": "Muff",
+      "order": 5,
+      "cast_id": 17,
+      "popularity": 1.4702,
+      "profile_path": "/adus03JWLzgSzWkj1v70xzjXyPx.jpg"
+    },
+    {
+      "personId": 939417,
+      "name": "Kitty Bruce",
+      "character": "Donut",
+      "order": 6,
+      "cast_id": 18,
+      "popularity": 0.3059,
+      "profile_path": null
+    },
+    {
+      "personId": 30696,
+      "name": "Janice Karman",
+      "character": "Bunny",
+      "order": 7,
+      "cast_id": 19,
+      "popularity": 0.4658,
+      "profile_path": "/luYmCukdeF1pNK5nhIWwSKudo2c.jpg"
+    },
+    {
+      "personId": 130129,
+      "name": "Don Stark",
+      "character": "Hook",
+      "order": 8,
+      "cast_id": 20,
+      "popularity": 1.8494,
+      "profile_path": "/lkPWvElz5RxR4t4v3hM4SRy5E1j.jpg"
+    },
+    {
+      "personId": 1573179,
+      "name": "Don Marino",
+      "character": "Guido",
+      "order": 9,
+      "cast_id": 21,
+      "popularity": 0.1962,
+      "profile_path": null
+    },
+    {
+      "personId": 1573180,
+      "name": "Helene Nelson",
+      "character": "Cherry",
+      "order": 10,
+      "cast_id": 22,
+      "popularity": 0.1006,
+      "profile_path": null
+    },
+    {
+      "personId": 88097,
+      "name": "Bill Adler",
+      "character": "Fingers",
+      "order": 11,
+      "cast_id": 23,
+      "popularity": 0.3419,
+      "profile_path": null
+    },
+    {
+      "personId": 1219251,
+      "name": "Paul Lichtman",
+      "character": "Mr. Clutch",
+      "order": 12,
+      "cast_id": 24,
+      "popularity": 0.4064,
+      "profile_path": null
+    },
+    {
+      "personId": 1573181,
+      "name": "J.S. Johnson",
+      "character": "Principal Weasel",
+      "order": 13,
+      "cast_id": 25,
+      "popularity": 0.2202,
+      "profile_path": null
+    },
+    {
+      "personId": 19337,
+      "name": "Kate Murtagh",
+      "character": "Mom Smackley",
+      "order": 14,
+      "cast_id": 26,
+      "popularity": 2.1027,
+      "profile_path": "/dkz71GgWkRWGN1smB9z6DqOEopV.jpg"
+    },
+    {
+      "personId": 156869,
+      "name": "Bob Minor",
+      "character": "Parker",
+      "order": 15,
+      "cast_id": 27,
+      "popularity": 1.9739,
+      "profile_path": "/rT2IY8asVWr2NKANyVPPI0iOGCs.jpg"
+    },
+    {
+      "personId": 1573182,
+      "name": "Clint Young",
+      "character": "Rizzo",
+      "order": 16,
+      "cast_id": 28,
+      "popularity": 1.6841,
+      "profile_path": null
+    },
+    {
+      "personId": 100582,
+      "name": "Roy Engel",
+      "character": "Jobo",
+      "order": 17,
+      "cast_id": 29,
+      "popularity": 1.2559,
+      "profile_path": null
+    },
+    {
+      "personId": 152634,
+      "name": "Jerii Woods",
+      "character": "Toby",
+      "order": 18,
+      "cast_id": 53,
+      "popularity": 0.3308,
+      "profile_path": null
+    },
+    {
+      "personId": 540600,
+      "name": "Georgia Lee",
+      "character": "Lace's Mother",
+      "order": 19,
+      "cast_id": 34,
+      "popularity": 0.3314,
+      "profile_path": "/pg4aRYDGGCdWiyYFN3VpvXq7D67.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 31310,
+      "name": "Jack Hill",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.0652,
+      "profile_path": "/t4QSachQEp4jdXC4IkeJzUlApWx.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6270,
+      "name": "high school"
+    },
+    {
+      "id": 1228,
+      "name": "1970s"
+    },
+    {
+      "id": 2987,
+      "name": "gang war"
+    },
+    {
+      "id": 2804,
+      "name": "exploitation"
+    },
+    {
+      "id": 10726,
+      "name": "gang"
+    },
+    {
+      "id": 11034,
+      "name": "b movie"
+    },
+    {
+      "id": 13059,
+      "name": "prostitution"
+    },
+    {
+      "id": 14857,
+      "name": "juvenile delinquent"
+    },
+    {
+      "id": 14964,
+      "name": "drugs"
+    },
+    {
+      "id": 41644,
+      "name": "gunshot"
+    },
+    {
+      "id": 167159,
+      "name": "switchblade"
+    }
+  ]
+}

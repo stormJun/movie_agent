@@ -1,0 +1,306 @@
+{
+  "overview": "A plane crash surviving attorney stumbles upon a mysterious island and is shocked to discover that a brilliant scientist and his lab assistant have found a way to combine human and animal DNA—with horrific results.",
+  "release_date": "1996-08-23",
+  "runtime": 96,
+  "budget": 40000000,
+  "revenue": 49627779,
+  "tmdb_vote_average": 4.9,
+  "tmdb_vote_count": 546,
+  "tmdb_popularity": 1.4715,
+  "original_language": "en",
+  "poster_path": "/hOJeQXve8W9rNRhdgC1WV3GQJyA.jpg",
+  "backdrop_path": "/5kAeJB8wR1Be0EFG7QjKdwFfHx7.jpg",
+  "tmdb_genres_raw": [
+    "Science Fiction",
+    "Horror"
+  ],
+  "production_companies": [
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3084,
+      "name": "Marlon Brando",
+      "character": "Dr. Moreau",
+      "order": 0,
+      "cast_id": 7,
+      "popularity": 3.3435,
+      "profile_path": "/iyO183LVAJ0I4ZkNibINPjfAjCP.jpg"
+    },
+    {
+      "personId": 5576,
+      "name": "Val Kilmer",
+      "character": "Montgomery",
+      "order": 1,
+      "cast_id": 8,
+      "popularity": 3.8544,
+      "profile_path": "/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg"
+    },
+    {
+      "personId": 11207,
+      "name": "David Thewlis",
+      "character": "Douglas",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 8.0343,
+      "profile_path": "/sNuYyT8ocLlQr3TdAW9CoKVbCU8.jpg"
+    },
+    {
+      "personId": 826,
+      "name": "Fairuza Balk",
+      "character": "Aissa",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 4.218,
+      "profile_path": "/AgIMdGO6lrzNfNojMVTQt2zJc5R.jpg"
+    },
+    {
+      "personId": 141987,
+      "name": "Daniel Rigney",
+      "character": "Hyena-Swine",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 0.5397,
+      "profile_path": null
+    },
+    {
+      "personId": 7242,
+      "name": "Temuera Morrison",
+      "character": "Azazello",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 2.4628,
+      "profile_path": "/AvtSC0f9QW7fMyFFNXEWDeQyfUk.jpg"
+    },
+    {
+      "personId": 590489,
+      "name": "Nelson de la Rosa",
+      "character": "Majai",
+      "order": 6,
+      "cast_id": 13,
+      "popularity": 1.2642,
+      "profile_path": null
+    },
+    {
+      "personId": 536274,
+      "name": "Peter Elliott",
+      "character": "Assassimon",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 0.5441,
+      "profile_path": null
+    },
+    {
+      "personId": 18702,
+      "name": "Mark Dacascos",
+      "character": "Lo-Mai",
+      "order": 8,
+      "cast_id": 10,
+      "popularity": 2.5391,
+      "profile_path": "/trOACuJz1KzhB51qe6asaxRuxrh.jpg"
+    },
+    {
+      "personId": 2372,
+      "name": "Ron Perlman",
+      "character": "Sayer of the Law",
+      "order": 9,
+      "cast_id": 6,
+      "popularity": 6.2703,
+      "profile_path": "/pOgMRdJhbBsvwGLRFXPRASTfcay.jpg"
+    },
+    {
+      "personId": 23797,
+      "name": "Marco Hofschneider",
+      "character": "M'Ling",
+      "order": 10,
+      "cast_id": 17,
+      "popularity": 0.8034,
+      "profile_path": "/8lsRPmvqkM1Qy5gf6713EYvC7GO.jpg"
+    },
+    {
+      "personId": 1488721,
+      "name": "Miguel López",
+      "character": "Waggdi",
+      "order": 11,
+      "cast_id": 18,
+      "popularity": 0.1109,
+      "profile_path": null
+    },
+    {
+      "personId": 586796,
+      "name": "Neil Young",
+      "character": "Boar Man",
+      "order": 12,
+      "cast_id": 19,
+      "popularity": 0.0642,
+      "profile_path": null
+    },
+    {
+      "personId": 1062111,
+      "name": "David Hudson",
+      "character": "Bison Man",
+      "order": 13,
+      "cast_id": 20,
+      "popularity": 0.2128,
+      "profile_path": null
+    },
+    {
+      "personId": 53266,
+      "name": "Clare Grant",
+      "character": "Fox Lady",
+      "order": 14,
+      "cast_id": 21,
+      "popularity": 0.7575,
+      "profile_path": "/uCPsHBUYuDAdOyTpDYDften00El.jpg"
+    },
+    {
+      "personId": 3414897,
+      "name": "Kitty Silver",
+      "character": "Sow Lady #1",
+      "order": 15,
+      "cast_id": 38,
+      "popularity": 0.174,
+      "profile_path": null
+    },
+    {
+      "personId": 2580179,
+      "name": "Fiona Mahl",
+      "character": "Sow Lady #2",
+      "order": 16,
+      "cast_id": 39,
+      "popularity": 0.3255,
+      "profile_path": null
+    },
+    {
+      "personId": 663,
+      "name": "William Hootkins",
+      "character": "Kiril",
+      "order": 17,
+      "cast_id": 15,
+      "popularity": 0.9486,
+      "profile_path": "/dav2i86GN0UvYIyoTwQmGE8Nweg.jpg"
+    },
+    {
+      "personId": 1192507,
+      "name": "Agoes Widjaya Soedjarwo",
+      "character": "Captain",
+      "order": 18,
+      "cast_id": 40,
+      "popularity": 0.1467,
+      "profile_path": null
+    },
+    {
+      "personId": 1425456,
+      "name": "Ron Vreeken",
+      "character": "Soldier #1",
+      "order": 19,
+      "cast_id": 41,
+      "popularity": 2.6388,
+      "profile_path": "/aZ7PKHeIpkXhnFHyWXlw8J86dc7.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 13776,
+      "name": "John Frankenheimer",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.0034,
+      "profile_path": "/8a3qZrHQaj5JBG1uVv6NdCC7PK3.jpg"
+    },
+    {
+      "personId": 5910979,
+      "name": "Richard Stanley",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.0297,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2041,
+      "name": "island"
+    },
+    {
+      "id": 1299,
+      "name": "monster"
+    },
+    {
+      "id": 1706,
+      "name": "experiment"
+    },
+    {
+      "id": 6017,
+      "name": "genetics"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 2766,
+      "name": "mutation"
+    },
+    {
+      "id": 9410,
+      "name": "hybrid"
+    },
+    {
+      "id": 9714,
+      "name": "remake"
+    },
+    {
+      "id": 9743,
+      "name": "stranded"
+    },
+    {
+      "id": 15365,
+      "name": "held captive"
+    },
+    {
+      "id": 156630,
+      "name": "remote island"
+    },
+    {
+      "id": 163561,
+      "name": "genetic engineering"
+    },
+    {
+      "id": 170310,
+      "name": "south sea island"
+    },
+    {
+      "id": 181905,
+      "name": "god complex"
+    },
+    {
+      "id": 185628,
+      "name": "cross breed"
+    },
+    {
+      "id": 228978,
+      "name": "human animal hybrid"
+    },
+    {
+      "id": 234268,
+      "name": "mutants"
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "overview": "Into the 9.6-quaked Los Angeles of 2013 comes Snake Plissken. His job: wade through L.A.'s ruined landmarks to retrieve a doomsday device.",
+  "release_date": "1996-08-09",
+  "runtime": 101,
+  "budget": 50000000,
+  "revenue": 42277365,
+  "tmdb_vote_average": 5.874,
+  "tmdb_vote_count": 1542,
+  "tmdb_popularity": 2.5927,
+  "original_language": "en",
+  "poster_path": "/3L9lL2eUsmLNNfENPwNOc82Hzpw.jpg",
+  "backdrop_path": "/wzC2p07FfCsOTLo2aUeGBUQhsHX.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Adventure",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 11661,
+      "name": "Rysher Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6856,
+      "name": "Kurt Russell",
+      "character": "Snake Plissken",
+      "order": 0,
+      "cast_id": 12,
+      "popularity": 5.5634,
+      "profile_path": "/6g1d98oH4miG4k0ZiZWmF3Dt0bO.jpg"
+    },
+    {
+      "personId": 825,
+      "name": "Stacy Keach",
+      "character": "Malloy",
+      "order": 1,
+      "cast_id": 13,
+      "popularity": 3.7788,
+      "profile_path": "/gtYepb7Vu9bXcdZ62PXm56KalNl.jpg"
+    },
+    {
+      "personId": 884,
+      "name": "Steve Buscemi",
+      "character": "Eddie",
+      "order": 2,
+      "cast_id": 14,
+      "popularity": 5.9344,
+      "profile_path": "/kFzw4U5pExnLKZWhR48VSzL8Fre.jpg"
+    },
+    {
+      "personId": 157904,
+      "name": "A. J. Langer",
+      "character": "Utopia",
+      "order": 3,
+      "cast_id": 23,
+      "popularity": 1.6871,
+      "profile_path": "/r9jyNoXkkLpZj15GoN88Nbx7WaW.jpg"
+    },
+    {
+      "personId": 11357,
+      "name": "Bruce Campbell",
+      "character": "Surgeon General of Beverly Hills",
+      "order": 4,
+      "cast_id": 20,
+      "popularity": 2.6773,
+      "profile_path": "/p9335ljr7luOWsfwZSOlsIzFJKE.jpg"
+    },
+    {
+      "personId": 2230,
+      "name": "Pam Grier",
+      "character": "Hershe Las Palamas",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 2.3648,
+      "profile_path": "/irCJf8OTSaPkThijP8PWkP1A7ls.jpg"
+    },
+    {
+      "personId": 8949,
+      "name": "Peter Fonda",
+      "character": "Pipeline",
+      "order": 6,
+      "cast_id": 15,
+      "popularity": 1.6614,
+      "profile_path": "/dgorN06SQ9ZNL2NY3I7BNxg93lc.jpg"
+    },
+    {
+      "personId": 35529,
+      "name": "Georges Corraface",
+      "character": "Cuervo Jones",
+      "order": 7,
+      "cast_id": 21,
+      "popularity": 0.825,
+      "profile_path": "/k23MRaOgBRwODA0Q5Tjec7ZolQp.jpg"
+    },
+    {
+      "personId": 62036,
+      "name": "Robert Carradine",
+      "character": "Skinhead",
+      "order": 8,
+      "cast_id": 62,
+      "popularity": 1.8634,
+      "profile_path": "/kQrhmy4WKxFP8Zz8H3CUosHrhPp.jpg"
+    },
+    {
+      "personId": 41820,
+      "name": "Michelle Forbes",
+      "character": "Brazen",
+      "order": 9,
+      "cast_id": 22,
+      "popularity": 2.7352,
+      "profile_path": "/xIBkKMV6DumvheliQvWQEYQWO4W.jpg"
+    },
+    {
+      "personId": 3124,
+      "name": "Valeria Golino",
+      "character": "Taslima",
+      "order": 10,
+      "cast_id": 19,
+      "popularity": 3.2768,
+      "profile_path": "/bLw0lNPEhICtbTLtnTswamefN7C.jpg"
+    },
+    {
+      "personId": 2221,
+      "name": "Leland Orser",
+      "character": "Test Tube",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 1.7385,
+      "profile_path": "/vvVcWhActW8k2gQz95UatVP4Duf.jpg"
+    },
+    {
+      "personId": 169628,
+      "name": "Jeff Imada",
+      "character": "Saigon Shadow",
+      "order": 12,
+      "cast_id": 25,
+      "popularity": 2.2512,
+      "profile_path": "/sUNSaNQreSHYaJvKr0SfiBqMPDV.jpg"
+    },
+    {
+      "personId": 61704,
+      "name": "Al Leong",
+      "character": "Hershe Gang Member",
+      "order": 13,
+      "cast_id": 26,
+      "popularity": 1.4812,
+      "profile_path": "/zC01uEOvbdTQIg19LKVu5r2QKan.jpg"
+    },
+    {
+      "personId": 94089,
+      "name": "James Lew",
+      "character": "Hershe Gang Member",
+      "order": 14,
+      "cast_id": 27,
+      "popularity": 1.5429,
+      "profile_path": "/wuC0B13IutImC1AJ7VUxBCuZJVg.jpg"
+    },
+    {
+      "personId": 33654,
+      "name": "Breckin Meyer",
+      "character": "Surfer",
+      "order": 15,
+      "cast_id": 17,
+      "popularity": 2.1303,
+      "profile_path": "/oN1jpTL59wbzS1qvPhsJ3FIL2Ev.jpg"
+    },
+    {
+      "personId": 97709,
+      "name": "Ina Romeo",
+      "character": "Hooker",
+      "order": 16,
+      "cast_id": 56,
+      "popularity": 0.3635,
+      "profile_path": "/6zPE8kRkbb3XxK6SYUj7qFhZhMD.jpg"
+    },
+    {
+      "personId": 6916,
+      "name": "Peter Jason",
+      "character": "Duty Sergeant",
+      "order": 17,
+      "cast_id": 57,
+      "popularity": 2.0627,
+      "profile_path": "/xoqIuVvEH6BG6sOg4NnZzUKFnaf.jpg"
+    },
+    {
+      "personId": 149550,
+      "name": "Jordan Baker",
+      "character": "Police Anchor",
+      "order": 18,
+      "cast_id": 58,
+      "popularity": 1.0929,
+      "profile_path": "/PvDRVKrx6EPdqyLPnQV95z7Rak.jpg"
+    },
+    {
+      "personId": 535284,
+      "name": "Caroleen Feeney",
+      "character": "Woman on Freeway",
+      "order": 19,
+      "cast_id": 59,
+      "popularity": 0.4894,
+      "profile_path": "/dYzhTQAoKQiO08oVzJ1rlL9IxHW.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 11770,
+      "name": "John Carpenter",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 3.1159,
+      "profile_path": "/3Qp0mg61u1qSZNJh30BFEUZrIMG.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 378,
+      "name": "prison"
+    },
+    {
+      "id": 779,
+      "name": "martial arts"
+    },
+    {
+      "id": 797,
+      "name": "showdown"
+    },
+    {
+      "id": 840,
+      "name": "usa president"
+    },
+    {
+      "id": 1543,
+      "name": "war veteran"
+    },
+    {
+      "id": 4565,
+      "name": "dystopia"
+    },
+    {
+      "id": 2095,
+      "name": "anti hero"
+    },
+    {
+      "id": 4458,
+      "name": "post-apocalyptic future"
+    },
+    {
+      "id": 3521,
+      "name": "earthquake"
+    },
+    {
+      "id": 5034,
+      "name": "attempt to escape"
+    },
+    {
+      "id": 9663,
+      "name": "sequel"
+    },
+    {
+      "id": 12670,
+      "name": "los angeles, california"
+    },
+    {
+      "id": 208156,
+      "name": "frantic"
+    },
+    {
+      "id": 217083,
+      "name": "reluctant hero"
+    }
+  ]
+}

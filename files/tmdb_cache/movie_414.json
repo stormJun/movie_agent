@@ -1,0 +1,325 @@
+{
+  "overview": "Batman faces off against two foes: the schizophrenic, horribly scarred former District Attorney Harvey Dent, aka Two-Face, and the Riddler, a disgruntled ex-Wayne Enterprises inventor seeking revenge against his former employer by unleashing his brain-sucking weapon on Gotham City's residents. As the caped crusader also copes with tortured memories of his parents' murder, he has a new romance, with psychologist Chase Meridian.",
+  "release_date": "1995-06-16",
+  "runtime": 121,
+  "budget": 100000000,
+  "revenue": 336529144,
+  "tmdb_vote_average": 5.449,
+  "tmdb_vote_count": 5449,
+  "tmdb_popularity": 6.3434,
+  "original_language": "en",
+  "poster_path": "/i0fJS8M5UKoETjjJ0zwUiKaR8tr.jpg",
+  "backdrop_path": "/snlu32RmjldF9b068UURJg8sQtn.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Crime",
+    "Fantasy"
+  ],
+  "production_companies": [
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 8601,
+      "name": "Tim Burton Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 67889,
+      "name": "Polygram Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5576,
+      "name": "Val Kilmer",
+      "character": "Bruce Wayne / Batman",
+      "order": 0,
+      "cast_id": 6,
+      "popularity": 3.8544,
+      "profile_path": "/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg"
+    },
+    {
+      "personId": 2176,
+      "name": "Tommy Lee Jones",
+      "character": "Harvey Dent / Two-Face",
+      "order": 1,
+      "cast_id": 7,
+      "popularity": 13.6129,
+      "profile_path": "/mCiZNRAzbnPojJEZwVZWLw9kzxR.jpg"
+    },
+    {
+      "personId": 206,
+      "name": "Jim Carrey",
+      "character": "Edward Nygma / The Riddler",
+      "order": 2,
+      "cast_id": 8,
+      "popularity": 11.1914,
+      "profile_path": "/u0AqTz6Y7GHPCHINS01P7gPvDSb.jpg"
+    },
+    {
+      "personId": 2227,
+      "name": "Nicole Kidman",
+      "character": "Dr. Chase Meridian",
+      "order": 3,
+      "cast_id": 9,
+      "popularity": 10.2823,
+      "profile_path": "/lfW2cDigTcvuoe4k6UfCdGVE1R6.jpg"
+    },
+    {
+      "personId": 5577,
+      "name": "Chris O'Donnell",
+      "character": "Dick Grayson / Robin",
+      "order": 4,
+      "cast_id": 10,
+      "popularity": 4.9178,
+      "profile_path": "/KvWBFg1aMBdu4X2PihXYL8xcFD.jpg"
+    },
+    {
+      "personId": 3796,
+      "name": "Michael Gough",
+      "character": "Alfred Pennyworth",
+      "order": 5,
+      "cast_id": 11,
+      "popularity": 1.4617,
+      "profile_path": "/yoxoYUnySjL0Ccyle91AkPTxXbC.jpg"
+    },
+    {
+      "personId": 3798,
+      "name": "Pat Hingle",
+      "character": "Commissioner James Gordon",
+      "order": 6,
+      "cast_id": 12,
+      "popularity": 2.1423,
+      "profile_path": "/QBAxFVZQ0Hu6rxlFavhwUq0zug.jpg"
+    },
+    {
+      "personId": 69597,
+      "name": "Drew Barrymore",
+      "character": "Sugar",
+      "order": 7,
+      "cast_id": 13,
+      "popularity": 5.264,
+      "profile_path": "/9xMu2GLC5otUcC11sEWC5aEAERQ.jpg"
+    },
+    {
+      "personId": 5578,
+      "name": "Debi Mazar",
+      "character": "Spice",
+      "order": 8,
+      "cast_id": 14,
+      "popularity": 6.1831,
+      "profile_path": "/cU3LhqOjXzOqpGCSDFj5otlZreu.jpg"
+    },
+    {
+      "personId": 9807,
+      "name": "René Auberjonois",
+      "character": "Dr. Burton",
+      "order": 9,
+      "cast_id": 24,
+      "popularity": 2.3745,
+      "profile_path": "/1EZ6FnJGzwRl7XndkX8fBo8Tej3.jpg"
+    },
+    {
+      "personId": 4887,
+      "name": "Joe Grifasi",
+      "character": "Bank Guard",
+      "order": 10,
+      "cast_id": 25,
+      "popularity": 1.4496,
+      "profile_path": "/30c0szBZvqsk3nuOgg2A9PeSQFt.jpg"
+    },
+    {
+      "personId": 5579,
+      "name": "Elizabeth Sanders",
+      "character": "Gossip Gerty",
+      "order": 11,
+      "cast_id": 15,
+      "popularity": 0.4286,
+      "profile_path": "/yGhAui0cAIP5ds2ctr6QaWTrN8Q.jpg"
+    },
+    {
+      "personId": 1235,
+      "name": "Philip Moon",
+      "character": "Newscaster",
+      "order": 12,
+      "cast_id": 26,
+      "popularity": 1.5962,
+      "profile_path": "/zY8zIFtctrFWlV7LT5Sz2lYoTjd.jpg"
+    },
+    {
+      "personId": 156689,
+      "name": "Jessica Tuck",
+      "character": "Female Newscaster",
+      "order": 13,
+      "cast_id": 27,
+      "popularity": 2.0044,
+      "profile_path": "/lXpxXSuLtOxSTOLZ6KKqdE8XnK1.jpg"
+    },
+    {
+      "personId": 162556,
+      "name": "Dennis Paladino",
+      "character": "Crime Boss Moroni",
+      "order": 14,
+      "cast_id": 28,
+      "popularity": 1.2688,
+      "profile_path": null
+    },
+    {
+      "personId": 1984,
+      "name": "Kimberly Scott",
+      "character": "Margaret",
+      "order": 15,
+      "cast_id": 121,
+      "popularity": 1.2126,
+      "profile_path": "/nt6Pu18aULdQ0CNzdvNtBa2FIxX.jpg"
+    },
+    {
+      "personId": 17355,
+      "name": "Michael Paul Chan",
+      "character": "Executive",
+      "order": 16,
+      "cast_id": 123,
+      "popularity": 2.1389,
+      "profile_path": "/fb51LbRcqIsfgvrs5ZpwVyuDYU2.jpg"
+    },
+    {
+      "personId": 15277,
+      "name": "Jon Favreau",
+      "character": "Assistant",
+      "order": 17,
+      "cast_id": 203,
+      "popularity": 4.8309,
+      "profile_path": "/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg"
+    },
+    {
+      "personId": 141573,
+      "name": "Greg Lauren",
+      "character": "Aide",
+      "order": 18,
+      "cast_id": 219,
+      "popularity": 2.2544,
+      "profile_path": "/DnpwJRK2TnJWvvmQkG2FOPgPIO.jpg"
+    },
+    {
+      "personId": 1961605,
+      "name": "Ramsey Ellis",
+      "character": "Young Bruce Wayne",
+      "order": 19,
+      "cast_id": 128,
+      "popularity": 0.3495,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 5572,
+      "name": "Joel Schumacher",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.0752,
+      "profile_path": "/fTQwIwVFrL9bFe0LdToQaIkT737.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 483,
+      "name": "riddle"
+    },
+    {
+      "id": 9715,
+      "name": "superhero"
+    },
+    {
+      "id": 3289,
+      "name": "villain"
+    },
+    {
+      "id": 3259,
+      "name": "rose"
+    },
+    {
+      "id": 9717,
+      "name": "based on comic"
+    },
+    {
+      "id": 9104,
+      "name": "partner"
+    },
+    {
+      "id": 10486,
+      "name": "robin"
+    },
+    {
+      "id": 10525,
+      "name": "broken neck"
+    },
+    {
+      "id": 11268,
+      "name": "psychologist"
+    },
+    {
+      "id": 15009,
+      "name": "criminal"
+    },
+    {
+      "id": 33518,
+      "name": "district attorney"
+    },
+    {
+      "id": 33626,
+      "name": "millionaire"
+    },
+    {
+      "id": 33637,
+      "name": "super power"
+    },
+    {
+      "id": 33981,
+      "name": "falling down stairs"
+    },
+    {
+      "id": 34156,
+      "name": "tied up"
+    },
+    {
+      "id": 157166,
+      "name": "beretta"
+    },
+    {
+      "id": 157583,
+      "name": "knocked out"
+    },
+    {
+      "id": 170383,
+      "name": "disfigurement"
+    },
+    {
+      "id": 170652,
+      "name": "father figure"
+    },
+    {
+      "id": 269233,
+      "name": "good versus evil"
+    }
+  ]
+}

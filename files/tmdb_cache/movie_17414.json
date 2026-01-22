@@ -1,0 +1,297 @@
+{
+  "overview": "Hotel manager Robert Grant is forced by his boss to postpone his family vacation when a hotel critic checks in. Trouble is, the critic is really a villainous jewel thief with an orangutan assistant named Dunston. When Dunston gets loose and tries to escape a life of crime -- aided by Robert's sons -- havoc, hijinks and lots of laughs abound!",
+  "release_date": "1996-01-12",
+  "runtime": 88,
+  "budget": 16000000,
+  "revenue": 0,
+  "tmdb_vote_average": 5.379,
+  "tmdb_vote_count": 240,
+  "tmdb_popularity": 2.2041,
+  "original_language": "en",
+  "poster_path": "/xR2cWC04kWNr7TBeXNOf4uOqn00.jpg",
+  "backdrop_path": "/ArNNCDc3Ndg9d0PkkOYHsZeLsbo.jpg",
+  "tmdb_genres_raw": [
+    "Family",
+    "Comedy",
+    "Adventure"
+  ],
+  "production_companies": [
+    {
+      "id": 3311,
+      "name": "Joe Wizan/Todd Black",
+      "origin_country": ""
+    },
+    {
+      "id": 25,
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    },
+    {
+      "id": 11232,
+      "name": "Fox Family Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "ru",
+      "name": "Pусский"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2942040,
+      "name": "Sam the Orangutan",
+      "character": "Dunston",
+      "order": 0,
+      "cast_id": 65,
+      "popularity": 0.2322,
+      "profile_path": "/9ZHhH8NA5uyd72rkHt68uC7Zwle.jpg"
+    },
+    {
+      "personId": 1206,
+      "name": "Jason Alexander",
+      "character": "Robert Grant",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 4.5774,
+      "profile_path": "/qRezZ2yhM2bmBERt7jVcxo8RVSA.jpg"
+    },
+    {
+      "personId": 6450,
+      "name": "Faye Dunaway",
+      "character": "Mrs. Dubrow",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.1233,
+      "profile_path": "/bwHJPkiDOjTslgrl0mri1Ndvx2V.jpg"
+    },
+    {
+      "personId": 4757,
+      "name": "Rupert Everett",
+      "character": "Lord Rutledge",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 1.8113,
+      "profile_path": "/7t77pzlJnSLSXTzQLUey3YAzaxQ.jpg"
+    },
+    {
+      "personId": 171373,
+      "name": "Graham Sack",
+      "character": "Brian Grant",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 0.7743,
+      "profile_path": "/7oF1wB6MgoAjJhOR8RtTZ1Cghtl.jpg"
+    },
+    {
+      "personId": 5129,
+      "name": "Paul Reubens",
+      "character": "Buck LaFarge",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 2.1647,
+      "profile_path": "/9xGL3pGNAiZDtzKTVDQY90Mkyqs.jpg"
+    },
+    {
+      "personId": 13243,
+      "name": "Glenn Shadix",
+      "character": "Lionel Spalding",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 0.9968,
+      "profile_path": "/zTu0Fh0ohLIvFnEXiRvhe91T3Wg.jpg"
+    },
+    {
+      "personId": 156592,
+      "name": "Nathan Davis",
+      "character": "Victor Dubrow",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 0.8059,
+      "profile_path": "/rB4lnIJ81nhlybSzoo1YSrO3xEI.jpg"
+    },
+    {
+      "personId": 169906,
+      "name": "Jennifer Bassey",
+      "character": "Mrs. Dellacroce",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 0.7263,
+      "profile_path": "/wHSe2AFzdpJ2flLtc3HNPHU7Adj.jpg"
+    },
+    {
+      "personId": 27564,
+      "name": "Eric Lloyd",
+      "character": "Kyle Grant",
+      "order": 9,
+      "cast_id": 4,
+      "popularity": 1.8186,
+      "profile_path": "/huFLxPMJIPpOFDzdQR7JeQ4Nnr.jpg"
+    },
+    {
+      "personId": 44185,
+      "name": "Judith Scott",
+      "character": "Nancy",
+      "order": 10,
+      "cast_id": 13,
+      "popularity": 1.8355,
+      "profile_path": "/h1oDVb4GuihdB1hgrr8Zqm9kagm.jpg"
+    },
+    {
+      "personId": 156532,
+      "name": "Bruce Beatty",
+      "character": "Murray",
+      "order": 11,
+      "cast_id": 14,
+      "popularity": 0.5836,
+      "profile_path": "/yN8sxg5nPPXrfcim3mNkAoPEdUs.jpg"
+    },
+    {
+      "personId": 90341,
+      "name": "Danny Comden",
+      "character": "Norm",
+      "order": 12,
+      "cast_id": 15,
+      "popularity": 0.6958,
+      "profile_path": "/dzC4wCNTRPU7tA0fVlW4oM57LPj.jpg"
+    },
+    {
+      "personId": 31032,
+      "name": "Steven Gilborn",
+      "character": "Artie",
+      "order": 13,
+      "cast_id": 16,
+      "popularity": 1.2978,
+      "profile_path": "/k7Ow6qOO9rcQkFmJmyUpro4heVk.jpg"
+    },
+    {
+      "personId": 159747,
+      "name": "Lois de Banzie",
+      "character": "Mrs. Winthrop",
+      "order": 14,
+      "cast_id": 28,
+      "popularity": 0.632,
+      "profile_path": "/j1nMePZAB0Vna8yMSz4mZEO8Yre.jpg"
+    },
+    {
+      "personId": 119711,
+      "name": "Natalie Core",
+      "character": "Mrs. Feldman",
+      "order": 15,
+      "cast_id": 18,
+      "popularity": 1.2595,
+      "profile_path": "/jiHPRN3y7eED0HhFbFNJ2sG9VQe.jpg"
+    },
+    {
+      "personId": 2754269,
+      "name": "Eugenia Hamilton",
+      "character": "Frau Biedermeyer",
+      "order": 16,
+      "cast_id": 29,
+      "popularity": 0.0953,
+      "profile_path": null
+    },
+    {
+      "personId": 61285,
+      "name": "Michelle Bonilla",
+      "character": "Consuelo",
+      "order": 17,
+      "cast_id": 30,
+      "popularity": 1.0322,
+      "profile_path": "/4XOtQ6YTL3Hiy1D1aV9CamdqoRO.jpg"
+    },
+    {
+      "personId": 167975,
+      "name": "Frank Kopyc",
+      "character": "Night Doorman",
+      "order": 18,
+      "cast_id": 37,
+      "popularity": 0.4825,
+      "profile_path": "/o0q6yk0oIV5qBp8TNWH72SJlWDS.jpg"
+    },
+    {
+      "personId": 158238,
+      "name": "Alexander Walters",
+      "character": "William",
+      "order": 19,
+      "cast_id": 31,
+      "popularity": 0.2781,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 29009,
+      "name": "Ken Kwapis",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.9236,
+      "profile_path": "/u9VNf7dSQkDN9Ejh3yAUTvknTOW.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 5306,
+      "name": "boss"
+    },
+    {
+      "id": 5572,
+      "name": "fistfight"
+    },
+    {
+      "id": 10624,
+      "name": "bully"
+    },
+    {
+      "id": 14762,
+      "name": "orangutan"
+    },
+    {
+      "id": 33479,
+      "name": "single father"
+    },
+    {
+      "id": 158039,
+      "name": "hotel manager"
+    },
+    {
+      "id": 159469,
+      "name": "jewel theft"
+    },
+    {
+      "id": 167925,
+      "name": "employer employee relationship"
+    },
+    {
+      "id": 192096,
+      "name": "bali"
+    },
+    {
+      "id": 240119,
+      "name": "father son relationship"
+    },
+    {
+      "id": 243959,
+      "name": "brother brother relationship"
+    },
+    {
+      "id": 264326,
+      "name": "mischief"
+    }
+  ]
+}

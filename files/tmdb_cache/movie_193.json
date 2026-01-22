@@ -1,0 +1,300 @@
+{
+  "overview": "Captain Jean-Luc Picard and the crew of the Enterprise-D find themselves at odds with the renegade scientist Soran who is destroying entire star systems. Only one man can help Picard stop Soran's scheme...and he's been dead for seventy-eight years.",
+  "release_date": "1994-11-18",
+  "runtime": 117,
+  "budget": 38000000,
+  "revenue": 118071125,
+  "tmdb_vote_average": 6.514,
+  "tmdb_vote_count": 1423,
+  "tmdb_popularity": 2.268,
+  "original_language": "en",
+  "poster_path": "/gh0ZZRwSmlzEZTIZee3ZCN9Jssx.jpg",
+  "backdrop_path": "/mNdsbVuRdsyo8eitW2IBW2BWRkU.jpg",
+  "tmdb_genres_raw": [
+    "Science Fiction",
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2387,
+      "name": "Patrick Stewart",
+      "character": "Captain Jean-Luc Picard",
+      "order": 0,
+      "cast_id": 5,
+      "popularity": 4.3871,
+      "profile_path": "/ufqtnLh3JJjPbEgxEag3MM5nZyv.jpg"
+    },
+    {
+      "personId": 2388,
+      "name": "Jonathan Frakes",
+      "character": "Commander William T. Riker",
+      "order": 1,
+      "cast_id": 6,
+      "popularity": 2.1604,
+      "profile_path": "/b6ljJL0sn9VGoivLF3AH5sX1lcK.jpg"
+    },
+    {
+      "personId": 1213786,
+      "name": "Brent Spiner",
+      "character": "Lt. Commander Data",
+      "order": 2,
+      "cast_id": 30,
+      "popularity": 1.7415,
+      "profile_path": "/wHaOTfxOEKOPssDYaSSB5zenml4.jpg"
+    },
+    {
+      "personId": 2390,
+      "name": "LeVar Burton",
+      "character": "Lt. Commander Geordi La Forge",
+      "order": 3,
+      "cast_id": 8,
+      "popularity": 2.2199,
+      "profile_path": "/tC74tISKpFGmJkrw24MMLix5nNa.jpg"
+    },
+    {
+      "personId": 2391,
+      "name": "Michael Dorn",
+      "character": "Lt. Commander Worf",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 1.9388,
+      "profile_path": "/6mVjb0YsidC0gW9P8mXMkQirfcK.jpg"
+    },
+    {
+      "personId": 2392,
+      "name": "Gates McFadden",
+      "character": "Dr. Beverly Crusher",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 1.3985,
+      "profile_path": "/wlI6dlvncTFZMJWmz8hRIYyci3J.jpg"
+    },
+    {
+      "personId": 2393,
+      "name": "Marina Sirtis",
+      "character": "Counselor Deanna Troi",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 2.693,
+      "profile_path": "/xMrHyXrv21suNglAHD24GDY7Uhx.jpg"
+    },
+    {
+      "personId": 1748,
+      "name": "William Shatner",
+      "character": "Captain James T. Kirk",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 5.0366,
+      "profile_path": "/puzpe91Lh0CzdRKg9iYilQsjoYk.jpg"
+    },
+    {
+      "personId": 56890,
+      "name": "Malcolm McDowell",
+      "character": "Dr. Tolian Soran",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 4.4296,
+      "profile_path": "/hL8ep4Hqj6izX7IlzE7Bbcfq62w.jpg"
+    },
+    {
+      "personId": 1751,
+      "name": "James Doohan",
+      "character": "Captain Montgomery \"Scotty\" Scott",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 1.4886,
+      "profile_path": "/lsI15wIkmcKVTM8qu8ooukaLShi.jpg"
+    },
+    {
+      "personId": 1754,
+      "name": "Walter Koenig",
+      "character": "Commander Pavel Chekov",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 1.6434,
+      "profile_path": "/zIZQwfxikwkPtZp8BqlzD1Gw2JC.jpg"
+    },
+    {
+      "personId": 2394,
+      "name": "Alan Ruck",
+      "character": "Captain John Harriman",
+      "order": 11,
+      "cast_id": 16,
+      "popularity": 3.3058,
+      "profile_path": "/hj7CuWinT12hMKjRhSO4XEMVq7w.jpg"
+    },
+    {
+      "personId": 34199,
+      "name": "Thomas Dekker",
+      "character": "Picard's Kid",
+      "order": 12,
+      "cast_id": 29,
+      "popularity": 1.6693,
+      "profile_path": "/vO72HH4PfesrCwEioBJn2gR6ebC.jpg"
+    },
+    {
+      "personId": 1368723,
+      "name": "Cameron Oppenheimer",
+      "character": "Ensign Kellogg",
+      "order": 13,
+      "cast_id": 31,
+      "popularity": 0.9904,
+      "profile_path": "/oCLWBWt2no0J1GXToxxPPArOuT4.jpg"
+    },
+    {
+      "personId": 3981,
+      "name": "Jenette Goldstein",
+      "character": "Science Officer",
+      "order": 14,
+      "cast_id": 32,
+      "popularity": 1.7175,
+      "profile_path": "/4YZVLLWEFtxPLaOAlndfzxH1WG1.jpg"
+    },
+    {
+      "personId": 55538,
+      "name": "Tim Russ",
+      "character": "Lieutenant",
+      "order": 15,
+      "cast_id": 33,
+      "popularity": 1.7692,
+      "profile_path": "/pwCVxvFbkUnBr46pPFJLabNMHww.jpg"
+    },
+    {
+      "personId": 2719,
+      "name": "Brian Thompson",
+      "character": "Klingon Helm",
+      "order": 16,
+      "cast_id": 39,
+      "popularity": 2.2762,
+      "profile_path": "/qooSjBMA1P85JhBpHlwmmisGroO.jpg"
+    },
+    {
+      "personId": 129464,
+      "name": "Patti Yasutake",
+      "character": "Nurse Ogawa",
+      "order": 17,
+      "cast_id": 40,
+      "popularity": 0.769,
+      "profile_path": "/aN0GvOYAwTfukFBQ8m2baHQJmaP.jpg"
+    },
+    {
+      "personId": 56485,
+      "name": "Jacqueline Kim",
+      "character": "Demora Sulu",
+      "order": 18,
+      "cast_id": 41,
+      "popularity": 0.6664,
+      "profile_path": "/nTIV1EoiDgMUcdwyKYj7jUPu7V4.jpg"
+    },
+    {
+      "personId": 9284,
+      "name": "Thomas Kopache",
+      "character": "Com Officer",
+      "order": 19,
+      "cast_id": 42,
+      "popularity": 1.4831,
+      "profile_path": "/kQOH3XyoGJqtQlBDCYh5o0R70Aa.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2380,
+      "name": "David Carson",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8177,
+      "profile_path": "/gGcwEmUu7eFgQKUmIQaf8IpUIU3.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 803,
+      "name": "android"
+    },
+    {
+      "id": 1612,
+      "name": "spacecraft"
+    },
+    {
+      "id": 3822,
+      "name": "teleportation"
+    },
+    {
+      "id": 1472,
+      "name": "starship"
+    },
+    {
+      "id": 697,
+      "name": "loss of loved one"
+    },
+    {
+      "id": 34079,
+      "name": "death"
+    },
+    {
+      "id": 161176,
+      "name": "space opera"
+    },
+    {
+      "id": 162410,
+      "name": "exploding planet"
+    },
+    {
+      "id": 162415,
+      "name": "mountain cabin"
+    },
+    {
+      "id": 162429,
+      "name": "solar system"
+    },
+    {
+      "id": 204390,
+      "name": "cosmos"
+    },
+    {
+      "id": 227068,
+      "name": "spanning generations"
+    },
+    {
+      "id": 230656,
+      "name": "legendary hero"
+    },
+    {
+      "id": 237591,
+      "name": "spaceship crash"
+    },
+    {
+      "id": 252634,
+      "name": "outer space"
+    },
+    {
+      "id": 278566,
+      "name": "emotional instability"
+    },
+    {
+      "id": 286390,
+      "name": "generazioni"
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "overview": "Failed hockey player-turned-golf whiz Happy Gilmore — whose unconventional approach and antics on the green courts the ire of rival Shooter McGavin — is determined to win a PGA tournament so he can save his granny's house with the prize money. Meanwhile, an attractive tour publicist tries to soften Happy's image.",
+  "release_date": "1996-02-16",
+  "runtime": 92,
+  "budget": 12000000,
+  "revenue": 41422354,
+  "tmdb_vote_average": 6.673,
+  "tmdb_vote_count": 3196,
+  "tmdb_popularity": 6.1267,
+  "original_language": "en",
+  "poster_path": "/4RnCeRzvI1xk5tuNWjpDKzSnJDk.jpg",
+  "backdrop_path": "/As7NuiDRM4EO7LlJn2u8JWWsABp.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1606,
+      "name": "Brillstein-Grey Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 3929,
+      "name": "Robert Simonds Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 19292,
+      "name": "Adam Sandler",
+      "character": "Happy Gilmore",
+      "order": 0,
+      "cast_id": 11,
+      "popularity": 6.2191,
+      "profile_path": "/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
+    },
+    {
+      "personId": 4443,
+      "name": "Christopher McDonald",
+      "character": "Shooter McGavin",
+      "order": 1,
+      "cast_id": 12,
+      "popularity": 3.2756,
+      "profile_path": "/gK1XhbfD9Xd8s3VXRPpgDCluyZp.jpg"
+    },
+    {
+      "personId": 31171,
+      "name": "Julie Bowen",
+      "character": "Virginia Venit",
+      "order": 2,
+      "cast_id": 13,
+      "popularity": 5.0145,
+      "profile_path": "/5ewqnbPAY0EzZObGHIKU4VsCanD.jpg"
+    },
+    {
+      "personId": 11794,
+      "name": "Frances Bay",
+      "character": "Grandma",
+      "order": 3,
+      "cast_id": 14,
+      "popularity": 1.2693,
+      "profile_path": "/1mtcINBBbvb7E4ySgOr86u34XLJ.jpg"
+    },
+    {
+      "personId": 1101,
+      "name": "Carl Weathers",
+      "character": "Chubbs",
+      "order": 4,
+      "cast_id": 15,
+      "popularity": 2.3297,
+      "profile_path": "/9Tot1ywxTQA3vFCcAjyK6h9Dao3.jpg"
+    },
+    {
+      "personId": 20818,
+      "name": "Allen Covert",
+      "character": "Otto",
+      "order": 5,
+      "cast_id": 18,
+      "popularity": 1.7212,
+      "profile_path": "/7n3euonyxM0wOGfk0T50pgHo06v.jpg"
+    },
+    {
+      "personId": 53684,
+      "name": "Robert Smigel",
+      "character": "IRS Agent",
+      "order": 6,
+      "cast_id": 21,
+      "popularity": 1.2629,
+      "profile_path": "/xGlGVcLhiZ4a7GIGlLzGmZtbvUF.jpg"
+    },
+    {
+      "personId": 170802,
+      "name": "Bob Barker",
+      "character": "Self",
+      "order": 7,
+      "cast_id": 17,
+      "popularity": 1.3958,
+      "profile_path": "/sGOsKHyYMUGStirI8ZwvA3IvoFP.jpg"
+    },
+    {
+      "personId": 10460,
+      "name": "Richard Kiel",
+      "character": "Mr. Larson",
+      "order": 8,
+      "cast_id": 16,
+      "popularity": 2.2311,
+      "profile_path": "/wop4KV2ywl6gdYnCUs1OthtGylM.jpg"
+    },
+    {
+      "personId": 17494,
+      "name": "Dennis Dugan",
+      "character": "Doug Thompson",
+      "order": 9,
+      "cast_id": 22,
+      "popularity": 1.5373,
+      "profile_path": "/fnAaknflGp2Phr1Q0dWkA41ohNO.jpg"
+    },
+    {
+      "personId": 59196,
+      "name": "Joe Flaherty",
+      "character": "Jeering Fan",
+      "order": 10,
+      "cast_id": 19,
+      "popularity": 1.5968,
+      "profile_path": "/ryQDsvXgZpZCG2Y9b7TTCOFqG7e.jpg"
+    },
+    {
+      "personId": 392685,
+      "name": "Lee Trevino",
+      "character": "Lee Trevino",
+      "order": 11,
+      "cast_id": 20,
+      "popularity": 0.5582,
+      "profile_path": "/1sr2jkHu07ZZvgi2dgN0fclgHSE.jpg"
+    },
+    {
+      "personId": 58478,
+      "name": "Kevin Nealon",
+      "character": "Potter",
+      "order": 12,
+      "cast_id": 23,
+      "popularity": 1.8123,
+      "profile_path": "/5eV3T45dXMzXaKy9A3wE2UueRvx.jpg"
+    },
+    {
+      "personId": 1024638,
+      "name": "Verne Lundquist",
+      "character": "Announcer",
+      "order": 13,
+      "cast_id": 24,
+      "popularity": 0.9831,
+      "profile_path": "/xjyaQH0afN91RhqQc7bPWBocWo3.jpg"
+    },
+    {
+      "personId": 191857,
+      "name": "Jared Van Snellenberg",
+      "character": "Happy's Waterbury Caddy",
+      "order": 14,
+      "cast_id": 25,
+      "popularity": 1.0707,
+      "profile_path": "/xCmFVp5imnxahId91KDimO3LJwa.jpg"
+    },
+    {
+      "personId": 106789,
+      "name": "Ken Camroux-Taylor",
+      "character": "Coach",
+      "order": 15,
+      "cast_id": 26,
+      "popularity": 0.8417,
+      "profile_path": "/nZzftcT77lqVCevGprQirn1BFYw.jpg"
+    },
+    {
+      "personId": 4067611,
+      "name": "Rich Elwood",
+      "character": "Assistant Coach",
+      "order": 16,
+      "cast_id": 107,
+      "popularity": 0.1774,
+      "profile_path": null
+    },
+    {
+      "personId": 2571190,
+      "name": "Nancy Hillis",
+      "character": "Terry",
+      "order": 17,
+      "cast_id": 108,
+      "popularity": 0.1716,
+      "profile_path": null
+    },
+    {
+      "personId": 1234363,
+      "name": "Helena Yea",
+      "character": "Chinese Lady",
+      "order": 18,
+      "cast_id": 32,
+      "popularity": 0.7302,
+      "profile_path": "/b67aaAC8B0M1nZmCK2xXVoNwSKb.jpg"
+    },
+    {
+      "personId": 39125,
+      "name": "Will Sasso",
+      "character": "Mover",
+      "order": 19,
+      "cast_id": 28,
+      "popularity": 2.4787,
+      "profile_path": "/4F8p9Dg32WJl12ras7CzQzLFy2i.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 17494,
+      "name": "Dennis Dugan",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.5373,
+      "profile_path": "/fnAaknflGp2Phr1Q0dWkA41ohNO.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6075,
+      "name": "sports"
+    },
+    {
+      "id": 697,
+      "name": "loss of loved one"
+    },
+    {
+      "id": 2702,
+      "name": "golf"
+    },
+    {
+      "id": 6128,
+      "name": "taxes"
+    },
+    {
+      "id": 14514,
+      "name": "class differences"
+    },
+    {
+      "id": 163223,
+      "name": "prize money"
+    },
+    {
+      "id": 178378,
+      "name": "driving range"
+    },
+    {
+      "id": 182625,
+      "name": "rich snob"
+    },
+    {
+      "id": 215292,
+      "name": "anger issues"
+    },
+    {
+      "id": 224818,
+      "name": "old-age home"
+    },
+    {
+      "id": 230566,
+      "name": "boy meets girl"
+    },
+    {
+      "id": 240411,
+      "name": "loss of home"
+    },
+    {
+      "id": 267659,
+      "name": "grandmother grandson relationship"
+    },
+    {
+      "id": 304663,
+      "name": "winner takes all"
+    },
+    {
+      "id": 313632,
+      "name": "hockey player"
+    },
+    {
+      "id": 318250,
+      "name": "child raised by grandmother"
+    },
+    {
+      "id": 319761,
+      "name": "putting"
+    },
+    {
+      "id": 325832,
+      "name": "joyful"
+    },
+    {
+      "id": 328580,
+      "name": "golf tournament"
+    },
+    {
+      "id": 335806,
+      "name": "sports comedy"
+    },
+    {
+      "id": 347500,
+      "name": "grandma-grandson relationship"
+    },
+    {
+      "id": 349246,
+      "name": "repossessed home"
+    }
+  ]
+}

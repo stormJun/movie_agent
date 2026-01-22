@@ -1,0 +1,275 @@
+{
+  "overview": "A successful veterinarian and radio show host with low self-esteem asks her model friend to impersonate her when a handsome man wants to see her.",
+  "release_date": "1996-04-26",
+  "runtime": 93,
+  "budget": 0,
+  "revenue": 3407,
+  "tmdb_vote_average": 6.045,
+  "tmdb_vote_count": 334,
+  "tmdb_popularity": 0.8121,
+  "original_language": "en",
+  "poster_path": "/iECTzpGdAMrkEeoYvuYsCxdmW2G.jpg",
+  "backdrop_path": "/8WIP9kz086QRulB3au9k1wxzVjv.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 55140,
+      "name": "Noon Attack Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 25,
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 139,
+      "name": "Uma Thurman",
+      "character": "Noelle",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 11.241,
+      "profile_path": "/xuxgPXyv6KjUHIM8cZaxx4ry25L.jpg"
+    },
+    {
+      "personId": 21197,
+      "name": "Janeane Garofalo",
+      "character": "Abby",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 2.124,
+      "profile_path": "/cdNooT0otUf5QVHDPm9bkGN7gNu.jpg"
+    },
+    {
+      "personId": 21343,
+      "name": "Ben Chaplin",
+      "character": "Brian",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 1.5999,
+      "profile_path": "/oJc9gA7cRvRg1v4tgeAmpkaqFxO.jpg"
+    },
+    {
+      "personId": 134,
+      "name": "Jamie Foxx",
+      "character": "Ed",
+      "order": 3,
+      "cast_id": 60,
+      "popularity": 4.6389,
+      "profile_path": "/25zzvFA6yx2Q9BYnugsbd4JWDfu.jpg"
+    },
+    {
+      "personId": 155173,
+      "name": "James McCaffrey",
+      "character": "Roy",
+      "order": 4,
+      "cast_id": 56,
+      "popularity": 1.2659,
+      "profile_path": "/6rH41NHtOuPMFpIYL1XPvEMPq1t.jpg"
+    },
+    {
+      "personId": 157609,
+      "name": "Richard Coca",
+      "character": "Eric",
+      "order": 5,
+      "cast_id": 57,
+      "popularity": 1.1122,
+      "profile_path": "/qevgolgHKGKOHxvns3BvAvLV5c1.jpg"
+    },
+    {
+      "personId": 4171,
+      "name": "Stanley DeSantis",
+      "character": "Mario",
+      "order": 6,
+      "cast_id": 58,
+      "popularity": 0.6504,
+      "profile_path": "/4pdkgjIGI5gW7Mf39tBXe7yaOg5.jpg"
+    },
+    {
+      "personId": 1369400,
+      "name": "Antoinette Valente",
+      "character": "Susan",
+      "order": 7,
+      "cast_id": 59,
+      "popularity": 0.4049,
+      "profile_path": null
+    },
+    {
+      "personId": 66571,
+      "name": "Mitch Rouse",
+      "character": "Bee Man",
+      "order": 8,
+      "cast_id": 70,
+      "popularity": 1.0787,
+      "profile_path": "/ywNRctxaZaejCKsY4Xg99fiL0Tj.jpg"
+    },
+    {
+      "personId": 2520788,
+      "name": "La Tanya M. Fisher",
+      "character": "Emily",
+      "order": 9,
+      "cast_id": 71,
+      "popularity": 0.1553,
+      "profile_path": null
+    },
+    {
+      "personId": 1789923,
+      "name": "Faryn Einhorn",
+      "character": "Child Model",
+      "order": 10,
+      "cast_id": 72,
+      "popularity": 0.6098,
+      "profile_path": "/vTdqAkWk12otVc8Ds03Er1Y3twt.jpg"
+    },
+    {
+      "personId": 212,
+      "name": "David Cross",
+      "character": "Male Radio Caller (voice) / Bookstore Man",
+      "order": 11,
+      "cast_id": 73,
+      "popularity": 3.2105,
+      "profile_path": "/dZyQ61KLra7JpkkoSeWIUvgEA1K.jpg"
+    },
+    {
+      "personId": 25884,
+      "name": "Mary Lynn Rajskub",
+      "character": "Female Radio Caller (voice)",
+      "order": 12,
+      "cast_id": 74,
+      "popularity": 2.6527,
+      "profile_path": "/oi94VPrp5Ur0nkIqyk6jRu8Eayz.jpg"
+    },
+    {
+      "personId": 59410,
+      "name": "Bob Odenkirk",
+      "character": "Bookstore Man",
+      "order": 13,
+      "cast_id": 75,
+      "popularity": 4.0364,
+      "profile_path": "/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg"
+    },
+    {
+      "personId": 106433,
+      "name": "Dechen Thurman",
+      "character": "Bookstore Cashier",
+      "order": 14,
+      "cast_id": 76,
+      "popularity": 0.2937,
+      "profile_path": null
+    },
+    {
+      "personId": 1884089,
+      "name": "Victoria Edwards",
+      "character": "Mother",
+      "order": 15,
+      "cast_id": 77,
+      "popularity": 0.7906,
+      "profile_path": null
+    },
+    {
+      "personId": 1733408,
+      "name": "Lisa Marie Russell",
+      "character": "Saleswoman",
+      "order": 16,
+      "cast_id": 78,
+      "popularity": 0.4202,
+      "profile_path": null
+    },
+    {
+      "personId": 56988,
+      "name": "Robert Brinkmann",
+      "character": "Irate Director",
+      "order": 17,
+      "cast_id": 79,
+      "popularity": 1.0751,
+      "profile_path": "/m9TcrSGDY03DEkk26mrKyg4at3G.jpg"
+    },
+    {
+      "personId": 1662408,
+      "name": "Josiah Polhemus",
+      "character": "Newscast Auditioner",
+      "order": 18,
+      "cast_id": 80,
+      "popularity": 0.1326,
+      "profile_path": null
+    },
+    {
+      "personId": 11915,
+      "name": "Nigel Gibbs",
+      "character": "Newscast Auditioner",
+      "order": 19,
+      "cast_id": 81,
+      "popularity": 1.2403,
+      "profile_path": "/eqDPaZWlBOriugBzUoy9ES4HKdA.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 7145,
+      "name": "Michael Lehmann",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7024,
+      "profile_path": "/jDu6ZiKtVGkhupi6wXv1f4Tpgro.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1003,
+      "name": "photographer"
+    },
+    {
+      "id": 2735,
+      "name": "veterinarian"
+    },
+    {
+      "id": 4513,
+      "name": "blind date"
+    },
+    {
+      "id": 14818,
+      "name": "model"
+    },
+    {
+      "id": 15166,
+      "name": "photo shoot"
+    },
+    {
+      "id": 171567,
+      "name": "low self esteem"
+    },
+    {
+      "id": 184659,
+      "name": "radio show host"
+    },
+    {
+      "id": 259426,
+      "name": "dumb blonde"
+    },
+    {
+      "id": 295902,
+      "name": "actress"
+    },
+    {
+      "id": 303229,
+      "name": "switching places"
+    }
+  ]
+}

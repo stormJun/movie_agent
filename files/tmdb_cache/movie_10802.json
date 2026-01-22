@@ -1,0 +1,345 @@
+{
+  "overview": "Fresh to Las Vegas with no connections, Nomi Malone takes a job as an exotic dancer. Her talents are quickly noticed by Cristal, a headlining dancer who senses an opportunity to bolster her own act. But Nomi won’t play second fiddle and soon begins her venomous path to the top, ruthlessly backstabbing anyone who gets in her way.",
+  "release_date": "1995-09-22",
+  "runtime": 131,
+  "budget": 45000000,
+  "revenue": 20367472,
+  "tmdb_vote_average": 5.6,
+  "tmdb_vote_count": 1333,
+  "tmdb_popularity": 8.2841,
+  "original_language": "en",
+  "poster_path": "/o4HT3Ap5c99W4FYpdXUtTvxGgPc.jpg",
+  "backdrop_path": "/jL3G2f8uNCFejJRlIqCzRp8Y7eV.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 197168,
+      "name": "Chargeurs",
+      "origin_country": "FR"
+    },
+    {
+      "id": 216154,
+      "name": "Charles Evans Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 275,
+      "name": "Carolco Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 266232,
+      "name": "Joe Eszterhas Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 39836,
+      "name": "Ben Myron Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 19189,
+      "name": "Elizabeth Berkley",
+      "character": "Nomi Malone",
+      "order": 0,
+      "cast_id": 10,
+      "popularity": 2.8607,
+      "profile_path": "/gYz3ZeNWPI7aP21eB2OWrILE1KM.jpg"
+    },
+    {
+      "personId": 6677,
+      "name": "Kyle MacLachlan",
+      "character": "Zack Carey",
+      "order": 1,
+      "cast_id": 11,
+      "popularity": 4.4384,
+      "profile_path": "/7gNyx8fYAUdOp2jpCEH3dyFbeV.jpg"
+    },
+    {
+      "personId": 11150,
+      "name": "Gina Gershon",
+      "character": "Cristal Connors",
+      "order": 2,
+      "cast_id": 12,
+      "popularity": 5.0887,
+      "profile_path": "/jgry61wtl058ft9O1Rigp3qADyf.jpg"
+    },
+    {
+      "personId": 2683,
+      "name": "Glenn Plummer",
+      "character": "James Smith",
+      "order": 3,
+      "cast_id": 13,
+      "popularity": 2.9778,
+      "profile_path": "/lNfRFcxD7bhqKLZwOqdpumA83TL.jpg"
+    },
+    {
+      "personId": 2055,
+      "name": "Robert Davi",
+      "character": "Al Torres",
+      "order": 4,
+      "cast_id": 16,
+      "popularity": 2.4378,
+      "profile_path": "/yizOUAKs59CwKM6pU30gIP9gTup.jpg"
+    },
+    {
+      "personId": 105626,
+      "name": "Alan Rachins",
+      "character": "Tony Moss",
+      "order": 5,
+      "cast_id": 17,
+      "popularity": 1.0112,
+      "profile_path": "/1akJ7gu8jZNDQ5vZWsgZcckl2aw.jpg"
+    },
+    {
+      "personId": 77279,
+      "name": "Gina Ravera",
+      "character": "Molly Abrams",
+      "order": 6,
+      "cast_id": 18,
+      "popularity": 2.234,
+      "profile_path": "/hMiHCJYTQ3xIOaVEi2qzDPkiR9w.jpg"
+    },
+    {
+      "personId": 955883,
+      "name": "Lin Tucci",
+      "character": "Henrietta Bazoom",
+      "order": 7,
+      "cast_id": 19,
+      "popularity": 0.7028,
+      "profile_path": "/ekYZEZ5m1OPf36kF5QSooaeXbLu.jpg"
+    },
+    {
+      "personId": 9312,
+      "name": "Greg Travis",
+      "character": "Phil Newkirk",
+      "order": 8,
+      "cast_id": 20,
+      "popularity": 1.2298,
+      "profile_path": "/pi97ja6RBe8PEKKPs6OEb5uxyuQ.jpg"
+    },
+    {
+      "personId": 37254,
+      "name": "Al Ruscio",
+      "character": "Mr. Karlman",
+      "order": 9,
+      "cast_id": 21,
+      "popularity": 1.2289,
+      "profile_path": "/anaof1CdgNUwTEuhhNNIoxzBkyc.jpg"
+    },
+    {
+      "personId": 111080,
+      "name": "Patrick Bristow",
+      "character": "Marty Jacobsen",
+      "order": 10,
+      "cast_id": 22,
+      "popularity": 1.3184,
+      "profile_path": "/bNnv5c0AyJdfI5kYhucARYvqm9F.jpg"
+    },
+    {
+      "personId": 156029,
+      "name": "William Shockley",
+      "character": "Andrew Carver",
+      "order": 11,
+      "cast_id": 26,
+      "popularity": 1.6174,
+      "profile_path": "/lOcuXGETGWR8kVQMgjan1jOT13a.jpg"
+    },
+    {
+      "personId": 155483,
+      "name": "Michelle Johnston",
+      "character": "Gay",
+      "order": 12,
+      "cast_id": 42,
+      "popularity": 3.0587,
+      "profile_path": "/tBW5YIcWNx1ihVcm7nOUiZ9WPOZ.jpg"
+    },
+    {
+      "personId": 167676,
+      "name": "Dewey Weber",
+      "character": "Jeff",
+      "order": 13,
+      "cast_id": 25,
+      "popularity": 0.5321,
+      "profile_path": "/3lrBnDSITuyt3Ij7ps5nwkTu3CA.jpg"
+    },
+    {
+      "personId": 66877,
+      "name": "Rena Riffel",
+      "character": "Penny",
+      "order": 14,
+      "cast_id": 15,
+      "popularity": 1.3497,
+      "profile_path": "/qqqKiHKztOWulPnqvbapDRvtMEE.jpg"
+    },
+    {
+      "personId": 1513682,
+      "name": "Melissa Williams",
+      "character": "Julie",
+      "order": 15,
+      "cast_id": 58,
+      "popularity": 0.1931,
+      "profile_path": "/kmVinCCxYxpe8iPbkfFwLvt3VWl.jpg"
+    },
+    {
+      "personId": 41691,
+      "name": "Ungela Brockman",
+      "character": "Annie",
+      "order": 16,
+      "cast_id": 115,
+      "popularity": 0.6616,
+      "profile_path": "/9eeveh4t4lZonDJteCBKlkSQBjb.jpg"
+    },
+    {
+      "personId": 1798876,
+      "name": "Melinda Songer",
+      "character": "Nicky",
+      "order": 17,
+      "cast_id": 56,
+      "popularity": 0.4981,
+      "profile_path": "/eOguoOaFlIaez1uYBPd2NmMaqre.jpg"
+    },
+    {
+      "personId": 157607,
+      "name": "Lance Davis",
+      "character": "Bell Captain",
+      "order": 18,
+      "cast_id": 116,
+      "popularity": 1.5284,
+      "profile_path": "/csHtRg0Ivlt2vJBXpn3NkVWveOL.jpg"
+    },
+    {
+      "personId": 10489,
+      "name": "Jack McGee",
+      "character": "Jack the Stagehand",
+      "order": 19,
+      "cast_id": 29,
+      "popularity": 2.9765,
+      "profile_path": "/4fmjQ4z0Y7UraH8Pk2qxABvwmGS.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 10491,
+      "name": "Paul Verhoeven",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.4847,
+      "profile_path": "/2TQvrRCtS7GD0EEgODwfNMmkMbG.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 246,
+      "name": "dancing"
+    },
+    {
+      "id": 1663,
+      "name": "go-go dancer"
+    },
+    {
+      "id": 4378,
+      "name": "striptease"
+    },
+    {
+      "id": 2874,
+      "name": "spanner"
+    },
+    {
+      "id": 2803,
+      "name": "affectation"
+    },
+    {
+      "id": 3182,
+      "name": "seduction"
+    },
+    {
+      "id": 7017,
+      "name": "sexappeal"
+    },
+    {
+      "id": 3688,
+      "name": "strip club"
+    },
+    {
+      "id": 9823,
+      "name": "rivalry"
+    },
+    {
+      "id": 14570,
+      "name": "las vegas"
+    },
+    {
+      "id": 244530,
+      "name": "malicious"
+    },
+    {
+      "id": 246220,
+      "name": "showgirls"
+    },
+    {
+      "id": 266753,
+      "name": "cautionary"
+    },
+    {
+      "id": 293649,
+      "name": "provocative"
+    },
+    {
+      "id": 311315,
+      "name": "dramatic"
+    },
+    {
+      "id": 314019,
+      "name": "dancing girls"
+    },
+    {
+      "id": 315323,
+      "name": "incredulous"
+    },
+    {
+      "id": 316241,
+      "name": "egotistical"
+    },
+    {
+      "id": 324886,
+      "name": "bitter"
+    },
+    {
+      "id": 325761,
+      "name": "admiring"
+    },
+    {
+      "id": 325780,
+      "name": "callous"
+    },
+    {
+      "id": 325834,
+      "name": "mean spirited"
+    },
+    {
+      "id": 325835,
+      "name": "melodramatic"
+    }
+  ]
+}

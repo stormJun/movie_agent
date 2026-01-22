@@ -1,0 +1,230 @@
+{
+  "overview": "Apu, now a jobless ex-student dreaming vaguely of a future as a writer, is invited to join an old college friend on a trip up-country to a village wedding.",
+  "release_date": "1959-05-01",
+  "runtime": 105,
+  "budget": 0,
+  "revenue": 134241,
+  "tmdb_vote_average": 8.1,
+  "tmdb_vote_count": 266,
+  "tmdb_popularity": 1.4319,
+  "original_language": "bn",
+  "poster_path": "/6Tz1Q69o2n3Zwb0ZffzPL0nFt2T.jpg",
+  "backdrop_path": "/d3RW7jRsBCHfC9QZaUF9FpzJrh8.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 26424,
+      "name": "Satyajit Ray Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "bn",
+      "name": "বাংলা"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13752,
+      "name": "Soumitra Chatterjee",
+      "character": "Apurba \"Apu\" Kumar Ray",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 2.231,
+      "profile_path": "/ccuvsCTPJBIV43wQ61XChJturyO.jpg"
+    },
+    {
+      "personId": 13753,
+      "name": "Sharmila Tagore",
+      "character": "Aparna Ray",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 2.0904,
+      "profile_path": "/m2MFSVdx4aKVoLRFPJoO5u0FMon.jpg"
+    },
+    {
+      "personId": 13755,
+      "name": "Alok Chakravarty",
+      "character": "Kajal Ray",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 0.5302,
+      "profile_path": "/vnc7YuyyGzw9KCko8Hsg66ktHpT.jpg"
+    },
+    {
+      "personId": 13756,
+      "name": "Swapan Mukherjee",
+      "character": "Pulu",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 0.3198,
+      "profile_path": null
+    },
+    {
+      "personId": 13759,
+      "name": "Sefalika Devi",
+      "character": "Shashinarayan's Wife",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 0.3442,
+      "profile_path": "/6RxFISXm84XGw8S7wWeTQfrsb8m.jpg"
+    },
+    {
+      "personId": 2674984,
+      "name": "Belarani Devi",
+      "character": "Apu's Neighbor",
+      "order": 5,
+      "cast_id": 34,
+      "popularity": 0.2205,
+      "profile_path": "/3NIdPVWCEgEiJKncl2iLC511t4z.jpg"
+    },
+    {
+      "personId": 1555072,
+      "name": "Asha Devi",
+      "character": "",
+      "order": 6,
+      "cast_id": 40,
+      "popularity": 0.4648,
+      "profile_path": null
+    },
+    {
+      "personId": 13757,
+      "name": "Dhiresh Majumdar",
+      "character": "Shashinarayan",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 0.234,
+      "profile_path": null
+    },
+    {
+      "personId": 13760,
+      "name": "Dhiren Ghosh",
+      "character": "Landlord",
+      "order": 8,
+      "cast_id": 10,
+      "popularity": 0.5177,
+      "profile_path": null
+    },
+    {
+      "personId": 2674982,
+      "name": "Shanti Bhattacherjee",
+      "character": "Office Associate",
+      "order": 9,
+      "cast_id": 32,
+      "popularity": 0.0493,
+      "profile_path": null
+    },
+    {
+      "personId": 1559073,
+      "name": "Panchanan Bhattacharya",
+      "character": "",
+      "order": 10,
+      "cast_id": 38,
+      "popularity": 0.0822,
+      "profile_path": "/l9ozvr9egL0Sc9Rbg2uV1pnHPCl.jpg"
+    },
+    {
+      "personId": 3463058,
+      "name": "Bechu Singha",
+      "character": "",
+      "order": 11,
+      "cast_id": 41,
+      "popularity": 0.2146,
+      "profile_path": null
+    },
+    {
+      "personId": 2674983,
+      "name": "Abhijit Chatterjee",
+      "character": "Aparna's Brother",
+      "order": 12,
+      "cast_id": 33,
+      "popularity": 0.1917,
+      "profile_path": null
+    },
+    {
+      "personId": 3463052,
+      "name": "Tushar Bandyopadhyay",
+      "character": "",
+      "order": 13,
+      "cast_id": 36,
+      "popularity": 0.0239,
+      "profile_path": null
+    },
+    {
+      "personId": 3463054,
+      "name": "Jiten Bhons",
+      "character": "",
+      "order": 14,
+      "cast_id": 39,
+      "popularity": 0.0907,
+      "profile_path": null
+    },
+    {
+      "personId": 1661231,
+      "name": "Jogesh Chatterjee",
+      "character": "",
+      "order": 15,
+      "cast_id": 35,
+      "popularity": 0.4657,
+      "profile_path": "/AwtHsddqRkfm16NXuHLar37XhVy.jpg"
+    },
+    {
+      "personId": 1348920,
+      "name": "Gupi Banerjee",
+      "character": "",
+      "order": 16,
+      "cast_id": 37,
+      "popularity": 0.3718,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 12160,
+      "name": "Satyajit Ray",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8782,
+      "profile_path": "/qP5mjuc3dL8n9c1zeY4W6L2w38L.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3737,
+      "name": "dying and death"
+    },
+    {
+      "id": 978,
+      "name": "broken engagement"
+    },
+    {
+      "id": 2692,
+      "name": "arranged marriage"
+    },
+    {
+      "id": 12999,
+      "name": "black and white"
+    },
+    {
+      "id": 33485,
+      "name": "calcutta"
+    },
+    {
+      "id": 155251,
+      "name": "novelist"
+    }
+  ]
+}

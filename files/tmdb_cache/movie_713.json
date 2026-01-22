@@ -1,0 +1,355 @@
+{
+  "overview": "When an arranged marriage brings Ada and her spirited daughter to the wilderness of nineteenth-century New Zealand, she finds herself locked in a battle of wills with both her controlling husband and a rugged frontiersman to whom she develops a forbidden attraction.",
+  "release_date": "1993-05-18",
+  "runtime": 120,
+  "budget": 7000000,
+  "revenue": 40200000,
+  "tmdb_vote_average": 7.377,
+  "tmdb_vote_count": 1605,
+  "tmdb_popularity": 6.7246,
+  "original_language": "en",
+  "poster_path": "/dUxjG6baSzGIgP7R8BQI5rpMuET.jpg",
+  "backdrop_path": "/c2O99arhWcuLexMHiuRfSuDMpYm.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 105,
+      "name": "CiBy 2000",
+      "origin_country": "FR"
+    },
+    {
+      "id": 14089,
+      "name": "Jan Chapman Productions",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "NZ",
+      "name": "New Zealand"
+    },
+    {
+      "code": "AU",
+      "name": "Australia"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "mi",
+      "name": ""
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 18686,
+      "name": "Holly Hunter",
+      "character": "Ada McGrath",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.6139,
+      "profile_path": "/kC7KX03VAWvogOCuwKbMo4V6TuU.jpg"
+    },
+    {
+      "personId": 1037,
+      "name": "Harvey Keitel",
+      "character": "George Baines",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 4.7105,
+      "profile_path": "/7P30hza1neYWW3r7rSQOC736K2Z.jpg"
+    },
+    {
+      "personId": 4783,
+      "name": "Sam Neill",
+      "character": "Alisdair Stewart",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 4.8638,
+      "profile_path": "/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
+    },
+    {
+      "personId": 10690,
+      "name": "Anna Paquin",
+      "character": "Flora McGrath",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.5007,
+      "profile_path": "/5FjBCsn3kujldP8LizoCrc3hsHp.jpg"
+    },
+    {
+      "personId": 7248,
+      "name": "Cliff Curtis",
+      "character": "Mana",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 4.2499,
+      "profile_path": "/3D6qz8vL6DWHAO3HeXeaSuwxq3s.jpg"
+    },
+    {
+      "personId": 10756,
+      "name": "Kerry Walker",
+      "character": "Aunt Morag",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 0.5965,
+      "profile_path": "/nIvYnyp2Ti2dzqFEhCcrNN4K1uS.jpg"
+    },
+    {
+      "personId": 7255,
+      "name": "Ian Mune",
+      "character": "Reverend",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 1.368,
+      "profile_path": "/8MO8QjpoKWr2I6gSx5MQJgtP6su.jpg"
+    },
+    {
+      "personId": 10760,
+      "name": "Geneviève Lemon",
+      "character": "Nessie",
+      "order": 7,
+      "cast_id": 13,
+      "popularity": 0.7811,
+      "profile_path": "/k93Xs9K7eX06FKIePWD05eDuqBD.jpg"
+    },
+    {
+      "personId": 7249,
+      "name": "Pete Smith",
+      "character": "Hone",
+      "order": 8,
+      "cast_id": 14,
+      "popularity": 1.0158,
+      "profile_path": "/xtDy3uPThZg1twK7Tgw709rtoEt.jpg"
+    },
+    {
+      "personId": 173431,
+      "name": "Bruce Allpress",
+      "character": "Blind Piano Tuner",
+      "order": 9,
+      "cast_id": 21,
+      "popularity": 1.4489,
+      "profile_path": "/AnqHoiqH2Wy6iTAK5npcz2BZj7C.jpg"
+    },
+    {
+      "personId": 53485,
+      "name": "Rose McIver",
+      "character": "Angel",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 2.6178,
+      "profile_path": "/7oswXIUIGAZphpZMBhuXoUgOIJi.jpg"
+    },
+    {
+      "personId": 2612385,
+      "name": "Verity George",
+      "character": "Bluebeard's Wife",
+      "order": 11,
+      "cast_id": 28,
+      "popularity": 0.0965,
+      "profile_path": "/6HeAIoZOzTD2JFvDecHdeuRSj39.jpg"
+    },
+    {
+      "personId": 11338,
+      "name": "Stephen Papps",
+      "character": "Bluebeard",
+      "order": 12,
+      "cast_id": 29,
+      "popularity": 1.2311,
+      "profile_path": "/gPVthH8eQPprIR5NdU8uScdCEhk.jpg"
+    },
+    {
+      "personId": 240221,
+      "name": "Karen Colston",
+      "character": "Bluebeard's Wife (Miss Palmer)",
+      "order": 13,
+      "cast_id": 40,
+      "popularity": 0.7271,
+      "profile_path": "/8fpCqPgp5OKXgBMn2kWrFijRfBF.jpg"
+    },
+    {
+      "personId": 11451,
+      "name": "Eddie Campbell",
+      "character": "Seaman",
+      "order": 14,
+      "cast_id": 39,
+      "popularity": 0.3802,
+      "profile_path": null
+    },
+    {
+      "personId": 10761,
+      "name": "Te Whatanui Skipwith",
+      "character": "Chief Nihe",
+      "order": 15,
+      "cast_id": 15,
+      "popularity": 0.1566,
+      "profile_path": null
+    },
+    {
+      "personId": 10755,
+      "name": "Tungia Baker",
+      "character": "Hira",
+      "order": 16,
+      "cast_id": 5,
+      "popularity": 0.1103,
+      "profile_path": null
+    },
+    {
+      "personId": 1690610,
+      "name": "Neil Gudsell",
+      "character": "Tahu",
+      "order": 17,
+      "cast_id": 22,
+      "popularity": 0.0614,
+      "profile_path": null
+    },
+    {
+      "personId": 1404551,
+      "name": "Jon Sperry",
+      "character": "Taunting Man",
+      "order": 18,
+      "cast_id": 23,
+      "popularity": 0.9169,
+      "profile_path": null
+    },
+    {
+      "personId": 1201140,
+      "name": "Greg Mayor",
+      "character": "Tipi",
+      "order": 19,
+      "cast_id": 41,
+      "popularity": 1.7935,
+      "profile_path": "/Av7MrG8hWNnrZgTMPTJAvRKucK0.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 10757,
+      "name": "Jane Campion",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.9469,
+      "profile_path": "/zAkrfMl6m940Ja46ofWaM94gTNj.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 596,
+      "name": "adultery"
+    },
+    {
+      "id": 7879,
+      "name": "secret love"
+    },
+    {
+      "id": 966,
+      "name": "beach"
+    },
+    {
+      "id": 931,
+      "name": "jealousy"
+    },
+    {
+      "id": 128,
+      "name": "love triangle"
+    },
+    {
+      "id": 1533,
+      "name": "isolation"
+    },
+    {
+      "id": 1463,
+      "name": "culture clash"
+    },
+    {
+      "id": 738,
+      "name": "sexuality"
+    },
+    {
+      "id": 2692,
+      "name": "arranged marriage"
+    },
+    {
+      "id": 1942,
+      "name": "strangeness"
+    },
+    {
+      "id": 2320,
+      "name": "violent husband"
+    },
+    {
+      "id": 2658,
+      "name": "new zealand"
+    },
+    {
+      "id": 2659,
+      "name": "maori"
+    },
+    {
+      "id": 3591,
+      "name": "settler"
+    },
+    {
+      "id": 3593,
+      "name": "wilderness"
+    },
+    {
+      "id": 10392,
+      "name": "mute"
+    },
+    {
+      "id": 14743,
+      "name": "pianist"
+    },
+    {
+      "id": 159868,
+      "name": "playing piano"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    },
+    {
+      "id": 188953,
+      "name": "sign languages"
+    },
+    {
+      "id": 207592,
+      "name": "piano"
+    },
+    {
+      "id": 207928,
+      "name": "19th century"
+    },
+    {
+      "id": 230999,
+      "name": "severed finger"
+    },
+    {
+      "id": 240315,
+      "name": "mother daughter relationship"
+    },
+    {
+      "id": 292593,
+      "name": "intimate"
+    },
+    {
+      "id": 311315,
+      "name": "dramatic"
+    },
+    {
+      "id": 321464,
+      "name": "intense"
+    }
+  ]
+}

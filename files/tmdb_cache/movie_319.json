@@ -1,0 +1,357 @@
+{
+  "overview": "Clarence marries hooker Alabama, steals cocaine from her pimp, and tries to sell it in Hollywood, while the owners of the coke try to reclaim it.",
+  "release_date": "1993-09-09",
+  "runtime": 121,
+  "budget": 12500000,
+  "revenue": 12600000,
+  "tmdb_vote_average": 7.536,
+  "tmdb_vote_count": 2944,
+  "tmdb_popularity": 5.8056,
+  "original_language": "en",
+  "poster_path": "/39lXk6ud6KiJgGbbWI2PUKS7y2.jpg",
+  "backdrop_path": "/1Uh8yuXlFcMDpVHWZJidjanT06e.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Crime",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 10210,
+      "name": "Morgan Creek Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 342,
+      "name": "Davis Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 3322,
+      "name": "August Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "it",
+      "name": "Italiano"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2224,
+      "name": "Christian Slater",
+      "character": "Clarence Worley",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 4.3336,
+      "profile_path": "/6ww3uweEEXMlvtNjTlgBHxLErPF.jpg"
+    },
+    {
+      "personId": 4687,
+      "name": "Patricia Arquette",
+      "character": "Alabama Whitman",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 4.1261,
+      "profile_path": "/jeThSouMatiuRiLkjDvSBLHpmq0.jpg"
+    },
+    {
+      "personId": 2778,
+      "name": "Dennis Hopper",
+      "character": "Clifford Worley",
+      "order": 2,
+      "cast_id": 9,
+      "popularity": 3.2218,
+      "profile_path": "/kqyNvLHi5RZGZcZMxl7e6XvoB5U.jpg"
+    },
+    {
+      "personId": 5576,
+      "name": "Val Kilmer",
+      "character": "Mentor",
+      "order": 3,
+      "cast_id": 46,
+      "popularity": 3.8544,
+      "profile_path": "/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg"
+    },
+    {
+      "personId": 64,
+      "name": "Gary Oldman",
+      "character": "Drexl Spivey",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 5.5873,
+      "profile_path": "/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg"
+    },
+    {
+      "personId": 287,
+      "name": "Brad Pitt",
+      "character": "Floyd (Dick's Roommate)",
+      "order": 5,
+      "cast_id": 11,
+      "popularity": 9.6902,
+      "profile_path": "/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+    },
+    {
+      "personId": 4690,
+      "name": "Christopher Walken",
+      "character": "Vincenzo Coccotti",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 4.8405,
+      "profile_path": "/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+    },
+    {
+      "personId": 4689,
+      "name": "Bronson Pinchot",
+      "character": "Elliot Blitzer",
+      "order": 7,
+      "cast_id": 7,
+      "popularity": 1.6057,
+      "profile_path": "/oBQE58X65ANq4jY1d8iMDohl72w.jpg"
+    },
+    {
+      "personId": 2231,
+      "name": "Samuel L. Jackson",
+      "character": "Big Don",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 9.5835,
+      "profile_path": "/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+    },
+    {
+      "personId": 4688,
+      "name": "Michael Rapaport",
+      "character": "Dick Ritchie",
+      "order": 9,
+      "cast_id": 6,
+      "popularity": 5.3377,
+      "profile_path": "/nWD2kufgy6lPyFVCPr9A3e7FMMn.jpg"
+    },
+    {
+      "personId": 3712,
+      "name": "Saul Rubinek",
+      "character": "Lee Donowitz",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 2.09,
+      "profile_path": "/oQQxpxDo7mULPsjhrPLFiZ6e2Ca.jpg"
+    },
+    {
+      "personId": 1909,
+      "name": "Conchata Ferrell",
+      "character": "Mary Louise Ravencroft",
+      "order": 11,
+      "cast_id": 61,
+      "popularity": 2.5507,
+      "profile_path": "/1CuSudlDbvrhFSpXPckzlMfzLiJ.jpg"
+    },
+    {
+      "personId": 4691,
+      "name": "James Gandolfini",
+      "character": "Virgil",
+      "order": 12,
+      "cast_id": 15,
+      "popularity": 4.0502,
+      "profile_path": "/vhtsFJZcfHdeDkFBoWMDzOS6xrP.jpg"
+    },
+    {
+      "personId": 3711,
+      "name": "Anna Thomson",
+      "character": "Lucy",
+      "order": 13,
+      "cast_id": 48,
+      "popularity": 1.3069,
+      "profile_path": "/52deQc7eUzqoLfh2rpHtFKqLEle.jpg"
+    },
+    {
+      "personId": 2561,
+      "name": "Victor Argo",
+      "character": "Lenny",
+      "order": 14,
+      "cast_id": 62,
+      "popularity": 1.0806,
+      "profile_path": "/of6bhqwk4HA5Bu8d16OtuD0HYom.jpg"
+    },
+    {
+      "personId": 4693,
+      "name": "Paul Bates",
+      "character": "Marty",
+      "order": 15,
+      "cast_id": 17,
+      "popularity": 2.937,
+      "profile_path": "/cvHI8cb5vKjqaigqwljpsERsv8R.jpg"
+    },
+    {
+      "personId": 2969,
+      "name": "Chris Penn",
+      "character": "Nicky Dimes",
+      "order": 16,
+      "cast_id": 47,
+      "popularity": 2.3942,
+      "profile_path": "/c9iDdAhUqvbRklerFADdgjXrBAT.jpg"
+    },
+    {
+      "personId": 3197,
+      "name": "Tom Sizemore",
+      "character": "Cody Nicholson",
+      "order": 17,
+      "cast_id": 12,
+      "popularity": 2.2998,
+      "profile_path": "/soINOuacuiThRb2LyPD4tTWve7C.jpg"
+    },
+    {
+      "personId": 109670,
+      "name": "Said Faraj",
+      "character": "Burger Man",
+      "order": 18,
+      "cast_id": 63,
+      "popularity": 1.7872,
+      "profile_path": "/svC8PC5NRXeBcKogGiKXsUCvrd8.jpg"
+    },
+    {
+      "personId": 10000,
+      "name": "Gregory Sporleder",
+      "character": "Burger Stand Customer",
+      "order": 19,
+      "cast_id": 64,
+      "popularity": 2.1671,
+      "profile_path": "/qcCA7hMP8rEEGQDfNCKKl3XZrHn.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 893,
+      "name": "Tony Scott",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 3.5562,
+      "profile_path": "/5PYRgW97xk9iNVC8dS0seoIliRR.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 612,
+      "name": "hotel"
+    },
+    {
+      "id": 970,
+      "name": "parent child relationship"
+    },
+    {
+      "id": 886,
+      "name": "movie business"
+    },
+    {
+      "id": 703,
+      "name": "detective"
+    },
+    {
+      "id": 1666,
+      "name": "mexican standoff"
+    },
+    {
+      "id": 1667,
+      "name": "pimp"
+    },
+    {
+      "id": 2150,
+      "name": "cocaine"
+    },
+    {
+      "id": 8440,
+      "name": "ex-cop"
+    },
+    {
+      "id": 9673,
+      "name": "love"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 10562,
+      "name": "on the run"
+    },
+    {
+      "id": 10391,
+      "name": "mafia"
+    },
+    {
+      "id": 12352,
+      "name": "comic book shop"
+    },
+    {
+      "id": 12670,
+      "name": "los angeles, california"
+    },
+    {
+      "id": 14964,
+      "name": "drugs"
+    },
+    {
+      "id": 18021,
+      "name": "detroit, michigan"
+    },
+    {
+      "id": 33625,
+      "name": "illegal prostitution"
+    },
+    {
+      "id": 155539,
+      "name": "sicilian"
+    },
+    {
+      "id": 163656,
+      "name": "gun violence"
+    },
+    {
+      "id": 183133,
+      "name": "aspiring actor"
+    },
+    {
+      "id": 207268,
+      "name": "neo-noir"
+    },
+    {
+      "id": 292593,
+      "name": "intimate"
+    },
+    {
+      "id": 294933,
+      "name": "love on the run"
+    },
+    {
+      "id": 314730,
+      "name": "suspenseful"
+    },
+    {
+      "id": 321464,
+      "name": "intense"
+    },
+    {
+      "id": 325784,
+      "name": "comforting"
+    },
+    {
+      "id": 325810,
+      "name": "euphoric"
+    }
+  ]
+}

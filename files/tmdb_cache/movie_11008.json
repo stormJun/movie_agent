@@ -1,0 +1,272 @@
+{
+  "overview": "Major Benson Winifred Payne is being discharged from the Marines. Payne is a killin' machine, but the wars of the world are no longer fought on the battlefield. A career Marine, he has no idea what to do as a civilian, so his commander finds him a job - commanding officer of a local school's JROTC program, a bunch of ragtag losers with no hope.",
+  "release_date": "1995-03-24",
+  "runtime": 95,
+  "budget": 0,
+  "revenue": 30112050,
+  "tmdb_vote_average": 6.452,
+  "tmdb_vote_count": 863,
+  "tmdb_popularity": 2.6403,
+  "original_language": "en",
+  "poster_path": "/kWHx5eq7PELkF3If7LrrhuBskRG.jpg",
+  "backdrop_path": "/4lNbhZcnrjG079TUkG1mIi2wen0.jpg",
+  "tmdb_genres_raw": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 139288,
+      "name": "Wife 'n' Kids",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 22675,
+      "name": "Damon Wayans",
+      "character": "Maj. Benson Payne",
+      "order": 0,
+      "cast_id": 14,
+      "popularity": 1.9478,
+      "profile_path": "/10gs0DB8ulakUN47hZwFRr5UdT0.jpg"
+    },
+    {
+      "personId": 80987,
+      "name": "Karyn Parsons",
+      "character": "Emily Walburn",
+      "order": 1,
+      "cast_id": 48,
+      "popularity": 0.9608,
+      "profile_path": "/iQzZ1Vedy1aP2i2qnMkOcJoElGS.jpg"
+    },
+    {
+      "personId": 21282,
+      "name": "William Hickey",
+      "character": "Dr. Phillips",
+      "order": 2,
+      "cast_id": 39,
+      "popularity": 1.7973,
+      "profile_path": "/sqqmvSkDK6vDNrmEgUAjzWztg9c.jpg"
+    },
+    {
+      "personId": 11086,
+      "name": "Michael Ironside",
+      "character": "Lt. Col. Stone",
+      "order": 3,
+      "cast_id": 24,
+      "popularity": 2.3254,
+      "profile_path": "/mzHmxtKcMJjDqWxKd67mKQJFW1B.jpg"
+    },
+    {
+      "personId": 8354,
+      "name": "Albert Hall",
+      "character": "Gen. Decker",
+      "order": 4,
+      "cast_id": 38,
+      "popularity": 1.81,
+      "profile_path": "/jvcOpEO0vSNy3KaDkhIldI1CoaU.jpg"
+    },
+    {
+      "personId": 149010,
+      "name": "Orlando Brown",
+      "character": "Cadet Kevin 'Tiger' Dunne",
+      "order": 5,
+      "cast_id": 30,
+      "popularity": 1.6656,
+      "profile_path": "/bedZmTFMkTLmXwbSn2z0IQqQE02.jpg"
+    },
+    {
+      "personId": 204411,
+      "name": "Steven Martini",
+      "character": "Cadet Alex Stone",
+      "order": 6,
+      "cast_id": 46,
+      "popularity": 1.203,
+      "profile_path": "/gzQdyHpJpDsoe2w4R90YFnKY4kP.jpg"
+    },
+    {
+      "personId": 173964,
+      "name": "Andrew Leeds",
+      "character": "Cadet Dotson",
+      "order": 7,
+      "cast_id": 42,
+      "popularity": 1.239,
+      "profile_path": "/w9aIFV2E4qIA19wEaarPR3Dxtbu.jpg"
+    },
+    {
+      "personId": 26999,
+      "name": "Chris Owen",
+      "character": "Cadet Wuliger",
+      "order": 8,
+      "cast_id": 47,
+      "popularity": 1.9623,
+      "profile_path": "/lbpz1BSNahnkyE7FZ1tWcIy35w0.jpg"
+    },
+    {
+      "personId": 67786,
+      "name": "Joseph Blaire",
+      "character": "Cadet Bryan",
+      "order": 9,
+      "cast_id": 29,
+      "popularity": 0.5225,
+      "profile_path": null
+    },
+    {
+      "personId": 1789579,
+      "name": "Mark W. Madison",
+      "character": "Cadet Fox",
+      "order": 10,
+      "cast_id": 44,
+      "popularity": 0.1933,
+      "profile_path": null
+    },
+    {
+      "personId": 149011,
+      "name": "Peyton Chesson-Fohl",
+      "character": "Cadet Sgt. Johnson",
+      "order": 11,
+      "cast_id": 31,
+      "popularity": 0.2303,
+      "profile_path": null
+    },
+    {
+      "personId": 2758632,
+      "name": "Stephen Coleman",
+      "character": "Cadet Leland",
+      "order": 12,
+      "cast_id": 32,
+      "popularity": 0.2434,
+      "profile_path": null
+    },
+    {
+      "personId": 9521,
+      "name": "Mark Conway",
+      "character": "Police Sergeant",
+      "order": 13,
+      "cast_id": 33,
+      "popularity": 0.1958,
+      "profile_path": null
+    },
+    {
+      "personId": 149012,
+      "name": "David DeHart",
+      "character": "Wellington Cadet Captain",
+      "order": 14,
+      "cast_id": 34,
+      "popularity": 0.0331,
+      "profile_path": null
+    },
+    {
+      "personId": 149013,
+      "name": "Joshua Todd Diveley",
+      "character": "New Cadet",
+      "order": 15,
+      "cast_id": 35,
+      "popularity": 0.1118,
+      "profile_path": null
+    },
+    {
+      "personId": 2758633,
+      "name": "Robert Faraoni Jr.",
+      "character": "Smart Ass Soldier",
+      "order": 16,
+      "cast_id": 36,
+      "popularity": 0.0679,
+      "profile_path": null
+    },
+    {
+      "personId": 117491,
+      "name": "Michael Gabel",
+      "character": "Lt. Wiseman",
+      "order": 17,
+      "cast_id": 37,
+      "popularity": 0.7647,
+      "profile_path": "/cRxomoBed64sVgSHjiR2Pw7WSIL.jpg"
+    },
+    {
+      "personId": 67784,
+      "name": "Ross Bickell",
+      "character": "Col. Braggart",
+      "order": 18,
+      "cast_id": 40,
+      "popularity": 0.6489,
+      "profile_path": "/ae2v41llKdZo4ObkY8v0ybBhGOL.jpg"
+    },
+    {
+      "personId": 1087342,
+      "name": "Scott Bigelow",
+      "character": "Huge Biker",
+      "order": 19,
+      "cast_id": 28,
+      "popularity": 0.2608,
+      "profile_path": "/mCP5iDBWLVtdh8kMf05nWDDiiE9.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 14692,
+      "name": "Nick Castle",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.5866,
+      "profile_path": "/bKJuXeKR8GZLyiutiDSCwwCzZ7n.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1543,
+      "name": "war veteran"
+    },
+    {
+      "id": 2112,
+      "name": "headquarter"
+    },
+    {
+      "id": 11138,
+      "name": "military spoof"
+    },
+    {
+      "id": 4409,
+      "name": "military base"
+    },
+    {
+      "id": 5947,
+      "name": "military service"
+    },
+    {
+      "id": 6417,
+      "name": "base"
+    },
+    {
+      "id": 9052,
+      "name": "major"
+    },
+    {
+      "id": 162257,
+      "name": "instructor"
+    }
+  ]
+}

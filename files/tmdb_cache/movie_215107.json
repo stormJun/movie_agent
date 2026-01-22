@@ -1,0 +1,76 @@
+{
+  "overview": "Vermont is for Lovers is an independently produced docudrama released in 1992, starring George Thrush and Marya Cohn and shot on location Tunbridge, Vermont. The film concerns a couple visiting Vermont in order to be married, and interviewing local residents on the subject of marriage. Largely improvised and using non-professional actors, the film was shown at various film festivals including the Melbourne International Film Festival and the Hawaii International Film Festival. The movie was not very well-received by the national press, with the New York Times calling it, “vaguely amiable.” While the Washington Post review commented that the film was an “all-too-easy target for ridicule,” it also mentioned one of the film’s high points: “In one scene, a typically droll Vermont resident (playing himself) sums up his state’s fabled coolness to strangers by suggesting that a sign be placed at the state line, reading ‘Welcome to Vermont. Now Leave.’”",
+  "release_date": "1993-03-26",
+  "runtime": 88,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.5,
+  "tmdb_vote_count": 4,
+  "tmdb_popularity": 0.0214,
+  "original_language": "en",
+  "poster_path": "/dBiufr6Xow23YvQjSRGgd0xAvu5.jpg",
+  "backdrop_path": null,
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Documentary"
+  ],
+  "production_companies": [
+    {
+      "id": 106082,
+      "name": "Zeitgeist Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1199803,
+      "name": "George Thrush",
+      "character": "George",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 0.1746,
+      "profile_path": null
+    },
+    {
+      "personId": 223747,
+      "name": "Marya Cohn",
+      "character": "Marya",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 0.5205,
+      "profile_path": null
+    },
+    {
+      "personId": 1199804,
+      "name": "Ann O'Brien",
+      "character": "Ann",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 0.196,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 153908,
+      "name": "John O'Brien",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.1985,
+      "profile_path": null
+    }
+  ],
+  "keywords": []
+}

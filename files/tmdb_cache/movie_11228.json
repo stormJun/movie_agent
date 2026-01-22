@@ -1,0 +1,316 @@
+{
+  "overview": "A group of armed robbers fleeing the police head for the New Jersey Tunnel and run right into trucks transporting toxic waste. The spectacular explosion that follows results in both ends of the tunnel collapsing and the handful of people who survived the explosion are now in peril. Kit Latura is the only man with the skill and knowledge to lead the band of survivors out of the tunnel before the structure collapses.",
+  "release_date": "1996-12-06",
+  "runtime": 115,
+  "budget": 80000000,
+  "revenue": 159212469,
+  "tmdb_vote_average": 6.119,
+  "tmdb_vote_count": 1638,
+  "tmdb_popularity": 3.576,
+  "original_language": "en",
+  "poster_path": "/bRWNxtm3q0QvIIM52uQqRIEvpl2.jpg",
+  "backdrop_path": "/uK4mks9XqF0LGinouk7BQvqZiR1.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 1302,
+      "name": "Davis Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16483,
+      "name": "Sylvester Stallone",
+      "character": "Kit Latura",
+      "order": 0,
+      "cast_id": 9,
+      "popularity": 11.3583,
+      "profile_path": "/gn3pDWthJqR0VDYGViGD3048og7.jpg"
+    },
+    {
+      "personId": 15851,
+      "name": "Amy Brenneman",
+      "character": "Madelyne Thompson",
+      "order": 1,
+      "cast_id": 10,
+      "popularity": 4.4857,
+      "profile_path": "/buQhbTkoNcAC12oNXo6RCIoVNQw.jpg"
+    },
+    {
+      "personId": 110,
+      "name": "Viggo Mortensen",
+      "character": "Roy Nord",
+      "order": 2,
+      "cast_id": 11,
+      "popularity": 4.7839,
+      "profile_path": "/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
+    },
+    {
+      "personId": 16936,
+      "name": "Stan Shaw",
+      "character": "George Tyrell",
+      "order": 3,
+      "cast_id": 20,
+      "popularity": 2.0172,
+      "profile_path": "/gq8VmKHlSZuBKBdwXFP48rIY4WR.jpg"
+    },
+    {
+      "personId": 27860,
+      "name": "Barry Newman",
+      "character": "Norman Bassett",
+      "order": 4,
+      "cast_id": 19,
+      "popularity": 1.2403,
+      "profile_path": "/lO5YVjEjM9zHsZ8kjz4QtGy7Der.jpg"
+    },
+    {
+      "personId": 6486,
+      "name": "Dan Hedaya",
+      "character": "Frank Kraft",
+      "order": 5,
+      "cast_id": 12,
+      "popularity": 3.3541,
+      "profile_path": "/evL3mV8hNIjZOb1XG3qtgmiTgS5.jpg"
+    },
+    {
+      "personId": 6067,
+      "name": "Jay O. Sanders",
+      "character": "Steven Crighton",
+      "order": 6,
+      "cast_id": 16,
+      "popularity": 2.4474,
+      "profile_path": "/z8btmLryEZlLkBah2XhZFydmty4.jpg"
+    },
+    {
+      "personId": 16215,
+      "name": "Karen Young",
+      "character": "Sarah Crighton",
+      "order": 7,
+      "cast_id": 17,
+      "popularity": 1.4867,
+      "profile_path": "/yriHai0AZfT39CYO4v0rFxEX3rY.jpg"
+    },
+    {
+      "personId": 29545,
+      "name": "Claire Bloom",
+      "character": "Eleanor Trilling",
+      "order": 8,
+      "cast_id": 18,
+      "popularity": 1.4239,
+      "profile_path": "/c6XvOci7glAR4RRWVRvRB5iMsnO.jpg"
+    },
+    {
+      "personId": 100653,
+      "name": "Vanessa Bell Calloway",
+      "character": "Grace Calloway",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 2.686,
+      "profile_path": "/6gJua6IKvhGrCTU1UzgRhOM9oyl.jpg"
+    },
+    {
+      "personId": 28863,
+      "name": "Renoly Santiago",
+      "character": "Mikey",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 0.7739,
+      "profile_path": "/mdWgsQM0u6w9nBVzTHIY7FY1nOG.jpg"
+    },
+    {
+      "personId": 137161,
+      "name": "Colin Fox",
+      "character": "Roger Trilling",
+      "order": 11,
+      "cast_id": 21,
+      "popularity": 1.0308,
+      "profile_path": "/dmaT3FY7et0cLkA2jgZ9YNshYqV.jpg"
+    },
+    {
+      "personId": 21320,
+      "name": "Danielle Harris",
+      "character": "Ashley Crighton",
+      "order": 12,
+      "cast_id": 15,
+      "popularity": 2.1379,
+      "profile_path": "/hgoVrVDEujZTZoxpElzXBSlIUyU.jpg"
+    },
+    {
+      "personId": 1213343,
+      "name": "Trina McGee",
+      "character": "LaTonya",
+      "order": 13,
+      "cast_id": 24,
+      "popularity": 0.4901,
+      "profile_path": "/xXEAiVLLERRtpr2g0NxiuSHHA5K.jpg"
+    },
+    {
+      "personId": 59300,
+      "name": "Marcello Thedford",
+      "character": "Kadeem",
+      "order": 14,
+      "cast_id": 25,
+      "popularity": 1.0594,
+      "profile_path": "/1HBS0MlQgWvnAFBFthnUz5QfEft.jpg"
+    },
+    {
+      "personId": 16660,
+      "name": "Sage Stallone",
+      "character": "Vincent",
+      "order": 15,
+      "cast_id": 22,
+      "popularity": 3.012,
+      "profile_path": "/kaW0QhisrrL1IKSlwMszIZbe5se.jpg"
+    },
+    {
+      "personId": 158422,
+      "name": "Jo Anderson",
+      "character": "Bloom",
+      "order": 16,
+      "cast_id": 153,
+      "popularity": 1.5563,
+      "profile_path": "/85zgpHsw71U8pqFPlCmpwpHjmd1.jpg"
+    },
+    {
+      "personId": 6576,
+      "name": "Mark Rolston",
+      "character": "Chief Dennis Wilson",
+      "order": 17,
+      "cast_id": 26,
+      "popularity": 3.1063,
+      "profile_path": "/hcrNRIptYMRXgkJ9k76BlQu6DQp.jpg"
+    },
+    {
+      "personId": 49958,
+      "name": "Rosemary Forsyth",
+      "character": "Ms. London",
+      "order": 18,
+      "cast_id": 154,
+      "popularity": 1.2287,
+      "profile_path": "/cngF4dNTDfU8187094ey08bgb2F.jpg"
+    },
+    {
+      "personId": 133957,
+      "name": "Wang Luoyong",
+      "character": "Gem Dealer",
+      "order": 19,
+      "cast_id": 155,
+      "popularity": 1.3467,
+      "profile_path": "/8Zb1b2YHxwzy6RlQhFk1HAMKU4h.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 18878,
+      "name": "Rob Cohen",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.4097,
+      "profile_path": "/kVbB8Q0g8eXsn8l81flyC6TgMPW.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 444,
+      "name": "taxi"
+    },
+    {
+      "id": 4776,
+      "name": "race against time"
+    },
+    {
+      "id": 1701,
+      "name": "hero"
+    },
+    {
+      "id": 720,
+      "name": "helicopter"
+    },
+    {
+      "id": 586,
+      "name": "new jersey"
+    },
+    {
+      "id": 1749,
+      "name": "taxi driver"
+    },
+    {
+      "id": 1261,
+      "name": "river"
+    },
+    {
+      "id": 5369,
+      "name": "guard"
+    },
+    {
+      "id": 10349,
+      "name": "survival"
+    },
+    {
+      "id": 10617,
+      "name": "disaster"
+    },
+    {
+      "id": 14601,
+      "name": "explosion"
+    },
+    {
+      "id": 14755,
+      "name": "power outage"
+    },
+    {
+      "id": 15162,
+      "name": "dog"
+    },
+    {
+      "id": 18029,
+      "name": "trapped"
+    },
+    {
+      "id": 33556,
+      "name": "urban setting"
+    },
+    {
+      "id": 173272,
+      "name": "flood"
+    },
+    {
+      "id": 189102,
+      "name": "tunnel"
+    },
+    {
+      "id": 207528,
+      "name": "trapped underground"
+    },
+    {
+      "id": 219404,
+      "name": "action hero"
+    }
+  ]
+}

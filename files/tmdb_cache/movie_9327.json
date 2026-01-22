@@ -1,0 +1,278 @@
+{
+  "overview": "When beautiful Carla Purty joins the university faculty, genetic professor Dr. Sherman Klump grows desperate to whittle his 400-pound frame down to size and win her heart. So, with one swig of his experimental fat-reducing serum, Sherman becomes 'Buddy Love', a fast-talking, pumped-up, plumped down Don Juan.",
+  "release_date": "1996-06-28",
+  "runtime": 95,
+  "budget": 54000000,
+  "revenue": 128769345,
+  "tmdb_vote_average": 5.6,
+  "tmdb_vote_count": 3039,
+  "tmdb_popularity": 4.8775,
+  "original_language": "en",
+  "poster_path": "/fMtb5aZoLRNbMnCkatFsTmPRfl5.jpg",
+  "backdrop_path": "/gHFuLHxruielBcMEZx1WowxbRWS.jpg",
+  "tmdb_genres_raw": [
+    "Fantasy",
+    "Comedy",
+    "Romance",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 23,
+      "name": "Imagine Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 30,
+      "name": "Eddie Murphy Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 776,
+      "name": "Eddie Murphy",
+      "character": "Sherman Klump / Buddy Love / Lance Perkins / Papa Klump / Mama Klump / Grandma Klump / Ernie Klump",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 5.6305,
+      "profile_path": "/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg"
+    },
+    {
+      "personId": 9575,
+      "name": "Jada Pinkett Smith",
+      "character": "Carla Purty",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 3.9895,
+      "profile_path": "/vt1Z1Fsu7gjp4L0OHey9Aa79lWj.jpg"
+    },
+    {
+      "personId": 5563,
+      "name": "James Coburn",
+      "character": "Harlan Hartley",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 3.7185,
+      "profile_path": "/9GApjInyrVvjnTAr652C1aViPqZ.jpg"
+    },
+    {
+      "personId": 1211,
+      "name": "Larry Miller",
+      "character": "Dean Richmond",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 2.6049,
+      "profile_path": "/ajnXlXG20LJwAwxne8G94ucVj0v.jpg"
+    },
+    {
+      "personId": 4169,
+      "name": "Dave Chappelle",
+      "character": "Reggie Warrington",
+      "order": 4,
+      "cast_id": 17,
+      "popularity": 2.492,
+      "profile_path": "/hDVe67wjmjtbOTzDrFaJfcobcE.jpg"
+    },
+    {
+      "personId": 64343,
+      "name": "John Ales",
+      "character": "Jason",
+      "order": 5,
+      "cast_id": 18,
+      "popularity": 1.8677,
+      "profile_path": "/rASQsyvYk1VD8hvo2Pi1Tq3Wwlm.jpg"
+    },
+    {
+      "personId": 182726,
+      "name": "Patricia Wilson",
+      "character": "Dean's Secretary",
+      "order": 6,
+      "cast_id": 19,
+      "popularity": 2.4996,
+      "profile_path": "/24Miw8aWubOBV6obL1LPbt7qAJB.jpg"
+    },
+    {
+      "personId": 59019,
+      "name": "Jamal Mixon",
+      "character": "Ernie Klump, Jr.",
+      "order": 7,
+      "cast_id": 20,
+      "popularity": 1.9629,
+      "profile_path": "/4spmBpPtqkBcLiyUpxWiAqSOv5r.jpg"
+    },
+    {
+      "personId": 1077909,
+      "name": "Nichole McAuley",
+      "character": "Fit Woman",
+      "order": 8,
+      "cast_id": 21,
+      "popularity": 0.8321,
+      "profile_path": "/feSyGYiztqCkR8cWVEYnnDjkRmF.jpg"
+    },
+    {
+      "personId": 154874,
+      "name": "Hamilton von Watts",
+      "character": "Health Instructor",
+      "order": 9,
+      "cast_id": 22,
+      "popularity": 1.0748,
+      "profile_path": "/zRa6OsXVjUD9wu77uRJgFYccaAZ.jpg"
+    },
+    {
+      "personId": 995587,
+      "name": "Chao-Li Chi",
+      "character": "Asian Man",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 0.9128,
+      "profile_path": "/ppbDeOKRND51Av76pLCBWFVWZZV.jpg"
+    },
+    {
+      "personId": 166838,
+      "name": "Tony Carlin",
+      "character": "Host",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 0.5624,
+      "profile_path": "/yJi1EPB3Fm6Ku3DGdIocjpaji4F.jpg"
+    },
+    {
+      "personId": 179954,
+      "name": "Quinn Duffy",
+      "character": "Bartender",
+      "order": 12,
+      "cast_id": 25,
+      "popularity": 1.3463,
+      "profile_path": "/8xBIEOXmMSgaDMWYcHDVR5MReY6.jpg"
+    },
+    {
+      "personId": 154214,
+      "name": "Montell Jordan",
+      "character": "Montell Jordan",
+      "order": 13,
+      "cast_id": 26,
+      "popularity": 0.4505,
+      "profile_path": "/nNBJqDsEAlJkLm1oth5UNoe7Pdy.jpg"
+    },
+    {
+      "personId": 193580,
+      "name": "Doug Williams",
+      "character": "Band Leader",
+      "order": 14,
+      "cast_id": 27,
+      "popularity": 0.6954,
+      "profile_path": "/9wUKZZl8T4BUoHhNeRj6nMLMKp8.jpg"
+    },
+    {
+      "personId": 116774,
+      "name": "David Ramsey",
+      "character": "Student",
+      "order": 15,
+      "cast_id": 28,
+      "popularity": 2.5553,
+      "profile_path": "/bZWO7WfBYI8iojTFozzqN2X3RWL.jpg"
+    },
+    {
+      "personId": 154176,
+      "name": "Chaz Lamar Shepherd",
+      "character": "Student",
+      "order": 16,
+      "cast_id": 29,
+      "popularity": 0.6408,
+      "profile_path": "/LgnZ90kY4n9v71Fu8Q7jWluH51.jpg"
+    },
+    {
+      "personId": 937565,
+      "name": "Lisa Halpern",
+      "character": "Sad Fat Firl",
+      "order": 17,
+      "cast_id": 30,
+      "popularity": 0.0659,
+      "profile_path": null
+    },
+    {
+      "personId": 170182,
+      "name": "Mark McPherson",
+      "character": "Doctor",
+      "order": 18,
+      "cast_id": 124,
+      "popularity": 0.428,
+      "profile_path": "/tjtwjuZ54haWLkykqyeMwnOa1pE.jpg"
+    },
+    {
+      "personId": 42724,
+      "name": "John Prosky",
+      "character": "Doctor",
+      "order": 19,
+      "cast_id": 125,
+      "popularity": 1.1748,
+      "profile_path": "/zinfZ6InYtlnXnwl4UwKEITP1xf.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 4499,
+      "name": "Tom Shadyac",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.05,
+      "profile_path": "/kuliB1DrKSbdn2jxESncPbWxGrD.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2064,
+      "name": "overweight"
+    },
+    {
+      "id": 4539,
+      "name": "overweight man"
+    },
+    {
+      "id": 8039,
+      "name": "campus"
+    },
+    {
+      "id": 9848,
+      "name": "family dinner"
+    },
+    {
+      "id": 156033,
+      "name": "jekyll and hyde"
+    },
+    {
+      "id": 179431,
+      "name": "duringcreditsstinger"
+    },
+    {
+      "id": 207896,
+      "name": "chemistry professor"
+    },
+    {
+      "id": 210608,
+      "name": "1990s"
+    },
+    {
+      "id": 320420,
+      "name": "hilarious"
+    }
+  ]
+}

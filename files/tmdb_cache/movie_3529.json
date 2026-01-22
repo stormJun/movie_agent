@@ -1,0 +1,308 @@
+{
+  "overview": "A husband and wife detective team takes on the search for a missing inventor and almost get killed for their efforts.",
+  "release_date": "1934-05-25",
+  "runtime": 91,
+  "budget": 226408,
+  "revenue": 1423000,
+  "tmdb_vote_average": 7.496,
+  "tmdb_vote_count": 516,
+  "tmdb_popularity": 1.5764,
+  "original_language": "en",
+  "poster_path": "/6cL89ok9t8xEKboOjOVga2W66jj.jpg",
+  "backdrop_path": "/b1bMEMtuiHBX23tfQU5ybNpakVf.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Mystery",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    },
+    {
+      "id": 1442,
+      "name": "Cosmopolitan Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 32428,
+      "name": "William Powell",
+      "character": "Nick Charles",
+      "order": 0,
+      "cast_id": 5,
+      "popularity": 1.5006,
+      "profile_path": "/8DTWs389THkVCTiDFu0x8ekNmUC.jpg"
+    },
+    {
+      "personId": 13577,
+      "name": "Myrna Loy",
+      "character": "Nora Charles",
+      "order": 1,
+      "cast_id": 6,
+      "popularity": 1.9417,
+      "profile_path": "/rNzjcOeTmJkyE8LMHdF3iYUCkPz.jpg"
+    },
+    {
+      "personId": 41516,
+      "name": "Maureen O'Sullivan",
+      "character": "Dorothy Wynant",
+      "order": 2,
+      "cast_id": 28,
+      "popularity": 1.1157,
+      "profile_path": "/A8kdUQaiKS6WZmDPPg1czI71DPB.jpg"
+    },
+    {
+      "personId": 32430,
+      "name": "Nat Pendleton",
+      "character": "Inspector John Guild",
+      "order": 3,
+      "cast_id": 29,
+      "popularity": 0.3948,
+      "profile_path": "/9rZC8qMgJTJ7QYgg6ckXIv8uYRd.jpg"
+    },
+    {
+      "personId": 32431,
+      "name": "Minna Gombell",
+      "character": "Mimi Wynant",
+      "order": 4,
+      "cast_id": 30,
+      "popularity": 0.5815,
+      "profile_path": "/oQgkBdgs36EPtRBm2vjge3MmZT3.jpg"
+    },
+    {
+      "personId": 32433,
+      "name": "Henry Wadsworth",
+      "character": "Tommy",
+      "order": 5,
+      "cast_id": 32,
+      "popularity": 0.2661,
+      "profile_path": "/nAleY1hlFTVmnYVAWt7291Zgzki.jpg"
+    },
+    {
+      "personId": 14975,
+      "name": "Porter Hall",
+      "character": "Herbert MacCaulay",
+      "order": 6,
+      "cast_id": 31,
+      "popularity": 0.6559,
+      "profile_path": "/249Hlfx23i69MsA3rLnC185kbwT.jpg"
+    },
+    {
+      "personId": 32434,
+      "name": "William Henry",
+      "character": "Gilbert Wynant",
+      "order": 7,
+      "cast_id": 33,
+      "popularity": 1.089,
+      "profile_path": "/xus92cAGkL1QP5rtscEsF6htU61.jpg"
+    },
+    {
+      "personId": 77115,
+      "name": "Edward Ellis",
+      "character": "Clyde Wynant",
+      "order": 8,
+      "cast_id": 38,
+      "popularity": 0.5314,
+      "profile_path": "/mmTsIlANCB4ye9PjZxS5pq4hIhS.jpg"
+    },
+    {
+      "personId": 32437,
+      "name": "Edward Brophy",
+      "character": "Joe Morelli",
+      "order": 9,
+      "cast_id": 37,
+      "popularity": 0.9332,
+      "profile_path": "/gxAnTjS7tnVOFdhUjkWYcsdXhWm.jpg"
+    },
+    {
+      "personId": 32438,
+      "name": "Cyril Thornton",
+      "character": "Tanner",
+      "order": 10,
+      "cast_id": 39,
+      "popularity": 0.2196,
+      "profile_path": null
+    },
+    {
+      "personId": 4355,
+      "name": "Cesar Romero",
+      "character": "Chris Jorgenson",
+      "order": 11,
+      "cast_id": 35,
+      "popularity": 2.2145,
+      "profile_path": "/1UMk0r2rcMSpglnxd2QJMVgqZtI.jpg"
+    },
+    {
+      "personId": 32435,
+      "name": "Harold Huber",
+      "character": "Arthur Nunheim",
+      "order": 12,
+      "cast_id": 34,
+      "popularity": 0.3923,
+      "profile_path": "/46XRvEpn9ADtLp1OXXeIHMSZxHc.jpg"
+    },
+    {
+      "personId": 32436,
+      "name": "Natalie Moorhead",
+      "character": "Julia Wolf",
+      "order": 13,
+      "cast_id": 36,
+      "popularity": 0.3492,
+      "profile_path": "/cLtXMbNHcIiyg3hlfCJl7chHuPh.jpg"
+    },
+    {
+      "personId": 5006079,
+      "name": "Will Aubrey",
+      "character": "Minor Role (uncredited)",
+      "order": 14,
+      "cast_id": 106,
+      "popularity": 0.1193,
+      "profile_path": null
+    },
+    {
+      "personId": 1420490,
+      "name": "William Augustin",
+      "character": "Wynant's Butler (uncredited)",
+      "order": 15,
+      "cast_id": 46,
+      "popularity": 0.4438,
+      "profile_path": null
+    },
+    {
+      "personId": 1422109,
+      "name": "Polly Bailey",
+      "character": "Janitress (uncredited)",
+      "order": 16,
+      "cast_id": 45,
+      "popularity": 0.2568,
+      "profile_path": null
+    },
+    {
+      "personId": 113516,
+      "name": "Arthur Belasco",
+      "character": "Detective (uncredited)",
+      "order": 17,
+      "cast_id": 47,
+      "popularity": 0.1435,
+      "profile_path": null
+    },
+    {
+      "personId": 115995,
+      "name": "Brooks Benedict",
+      "character": "Night Club Patron (uncredited)",
+      "order": 18,
+      "cast_id": 54,
+      "popularity": 0.5033,
+      "profile_path": "/l3Bw5oBij94yG0QSO45inFnySRZ.jpg"
+    },
+    {
+      "personId": 1323050,
+      "name": "Tui Bow",
+      "character": "Stenographer (uncredited)",
+      "order": 19,
+      "cast_id": 58,
+      "popularity": 0.4429,
+      "profile_path": "/uvyRw7StuqdA4AbiancnDTOylE9.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 32427,
+      "name": "W.S. Van Dyke",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6295,
+      "profile_path": "/82hTZOdmnF9lFUY7XVeCbGGuqvN.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1157,
+      "name": "husband wife relationship"
+    },
+    {
+      "id": 6149,
+      "name": "police"
+    },
+    {
+      "id": 703,
+      "name": "detective"
+    },
+    {
+      "id": 11869,
+      "name": "mistress"
+    },
+    {
+      "id": 12997,
+      "name": "dinner"
+    },
+    {
+      "id": 12999,
+      "name": "black and white"
+    },
+    {
+      "id": 13027,
+      "name": "wedding"
+    },
+    {
+      "id": 15162,
+      "name": "dog"
+    },
+    {
+      "id": 15167,
+      "name": "police detective"
+    },
+    {
+      "id": 155457,
+      "name": "screwball comedy"
+    },
+    {
+      "id": 155790,
+      "name": "private detective"
+    },
+    {
+      "id": 156091,
+      "name": "missing person"
+    },
+    {
+      "id": 156764,
+      "name": "pre-code"
+    },
+    {
+      "id": 158225,
+      "name": "terrier"
+    },
+    {
+      "id": 173685,
+      "name": "thin man"
+    },
+    {
+      "id": 197362,
+      "name": "x-ray"
+    },
+    {
+      "id": 207317,
+      "name": "christmas"
+    },
+    {
+      "id": 325773,
+      "name": "audacious"
+    }
+  ]
+}

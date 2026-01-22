@@ -1,0 +1,256 @@
+{
+  "overview": "Shakespeare's comedy of gender confusion, in which a girl disguises herself as a man to be near the count she adores, only to be pursued by the woman he loves.",
+  "release_date": "1996-10-25",
+  "runtime": 134,
+  "budget": 5000000,
+  "revenue": 33000000,
+  "tmdb_vote_average": 6.934,
+  "tmdb_vote_count": 91,
+  "tmdb_popularity": 0.8967,
+  "original_language": "en",
+  "poster_path": "/uMvHIh50LqWJxUK26eYWV10epdq.jpg",
+  "backdrop_path": "/5jlN3G7ymVDNxDeA4SjElIslZv7.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 8,
+      "name": "Fine Line Features",
+      "origin_country": "US"
+    },
+    {
+      "id": 288,
+      "name": "BBC Film",
+      "origin_country": "GB"
+    },
+    {
+      "id": 491,
+      "name": "Summit Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 3102,
+      "name": "Renaissance Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "IE",
+      "name": "Ireland"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1283,
+      "name": "Helena Bonham Carter",
+      "character": "Olivia",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 5.4501,
+      "profile_path": "/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
+    },
+    {
+      "personId": 20766,
+      "name": "Richard E. Grant",
+      "character": "Sir Andrew Aguecheek",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.6834,
+      "profile_path": "/6UXv8E4WWvRCKMQx1FQ0FJVyu0a.jpg"
+    },
+    {
+      "personId": 15788,
+      "name": "Nigel Hawthorne",
+      "character": "Malvolio",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 0.9685,
+      "profile_path": "/v8bin2HUa9gayqxmCnlRlh0taxq.jpg"
+    },
+    {
+      "personId": 2282,
+      "name": "Ben Kingsley",
+      "character": "Feste",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 6.167,
+      "profile_path": "/vQtBqpF2HDdzbfXHDzR4u37i1Ac.jpg"
+    },
+    {
+      "personId": 141450,
+      "name": "Mel Smith",
+      "character": "Sir Toby Belch",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 2.3329,
+      "profile_path": "/vynnJ4jWZvGRClXTN4kFQqTEIdn.jpg"
+    },
+    {
+      "personId": 11356,
+      "name": "Imelda Staunton",
+      "character": "Maria",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 2.7975,
+      "profile_path": "/96LYLMnUOWZ4DFXEeQPItNsxzEP.jpg"
+    },
+    {
+      "personId": 10881,
+      "name": "Toby Stephens",
+      "character": "Orsino",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 3.494,
+      "profile_path": "/7hZVlhxd4FkhEQxaF4lTgwj3SYc.jpg"
+    },
+    {
+      "personId": 20769,
+      "name": "Imogen Stubbs",
+      "character": "Viola",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 1.0102,
+      "profile_path": "/gdhBQfUMZbEs1XH3qozHLXoYhzM.jpg"
+    },
+    {
+      "personId": 32357,
+      "name": "Nicholas Farrell",
+      "character": "Antonio",
+      "order": 8,
+      "cast_id": 19,
+      "popularity": 1.8231,
+      "profile_path": "/gheuwhycSxpBRhGv7Qbfub2uuB2.jpg"
+    },
+    {
+      "personId": 978,
+      "name": "Steven Mackintosh",
+      "character": "Sebastian",
+      "order": 9,
+      "cast_id": 18,
+      "popularity": 1.8709,
+      "profile_path": "/vDA4mmVe0XMnqd6qMyGWI8bUEeC.jpg"
+    },
+    {
+      "personId": 1632583,
+      "name": "Sidney Livingstone",
+      "character": "Captain",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 1.0535,
+      "profile_path": "/aaIJIzH6YBCToIQWOe3YHG3S55H.jpg"
+    },
+    {
+      "personId": 208920,
+      "name": "James Walker",
+      "character": "Priest",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 0.5098,
+      "profile_path": "/Anx8AJdb3wJnriIPEZu2qllEyPM.jpg"
+    },
+    {
+      "personId": 1617997,
+      "name": "Alan Mitchell",
+      "character": "Valentine",
+      "order": 12,
+      "cast_id": 127,
+      "popularity": 0.3134,
+      "profile_path": "/awrHZtWaiJFxaGYukaPYkJGSES0.jpg"
+    },
+    {
+      "personId": 83548,
+      "name": "Peter Gunn",
+      "character": "Fabian",
+      "order": 13,
+      "cast_id": 20,
+      "popularity": 0.7961,
+      "profile_path": "/1QN2XhLhbzMCSk6cI9e5IN1gNG7.jpg"
+    },
+    {
+      "personId": 997860,
+      "name": "Tim Bentinck",
+      "character": "First Officer",
+      "order": 14,
+      "cast_id": 26,
+      "popularity": 0.9462,
+      "profile_path": "/yg2EErH28vqi6O1FH9DwJt0w7fu.jpg"
+    },
+    {
+      "personId": 186026,
+      "name": "Rod Culbertson",
+      "character": "Second Officer",
+      "order": 15,
+      "cast_id": 27,
+      "popularity": 0.478,
+      "profile_path": null
+    },
+    {
+      "personId": 2200472,
+      "name": "Jeff Hall",
+      "character": "Gardener",
+      "order": 16,
+      "cast_id": 28,
+      "popularity": 0.1288,
+      "profile_path": null
+    },
+    {
+      "personId": 1220099,
+      "name": "David Burke",
+      "character": "Party Guest / Dancer",
+      "order": 17,
+      "cast_id": 125,
+      "popularity": 1.2771,
+      "profile_path": "/owgqT5OvtAH9GEZfdNieL6Bzdjr.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 98750,
+      "name": "Trevor Nunn",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6184,
+      "profile_path": "/uDym6D25yUYim0Ecyd05EJ01lbt.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 128,
+      "name": "love triangle"
+    },
+    {
+      "id": 5090,
+      "name": "fool"
+    },
+    {
+      "id": 9673,
+      "name": "love"
+    },
+    {
+      "id": 18118,
+      "name": "disguise"
+    },
+    {
+      "id": 250611,
+      "name": "bachelorette"
+    }
+  ]
+}

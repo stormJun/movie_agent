@@ -1,0 +1,68 @@
+{
+  "overview": "Stand up comedy by Martin Lawrence, filmed in the Majestic Theater in New York City. Martin Lawrence talks about everything from racism, to relationships, to his childhood.",
+  "release_date": "1994-04-27",
+  "runtime": 84,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.4,
+  "tmdb_vote_count": 20,
+  "tmdb_popularity": 0.3603,
+  "original_language": "en",
+  "poster_path": "/iN9whwQExgckFNuuegFksrZYufL.jpg",
+  "backdrop_path": "/l05ZfjCAze1ElKPYozIM7uMQJA7.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Documentary"
+  ],
+  "production_companies": [
+    {
+      "id": 21222,
+      "name": "HBO Independent Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 144902,
+      "name": "You So Crazy Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 798,
+      "name": "The Samuel Goldwyn Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 78029,
+      "name": "Martin Lawrence",
+      "character": "Self",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 5.6723,
+      "profile_path": "/y3SQzIPUPJpdueb1DkbTYph68nk.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 15106,
+      "name": "Thomas Schlamme",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5113,
+      "profile_path": "/9ZFuqO0NJW6wqIlmLTexSQBrPvT.jpg"
+    }
+  ],
+  "keywords": []
+}

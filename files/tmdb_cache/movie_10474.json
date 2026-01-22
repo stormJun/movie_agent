@@ -1,0 +1,278 @@
+{
+  "overview": "A high school basketball player’s life turns upside down after free-falling into the harrowing world of drug addiction.",
+  "release_date": "1995-04-21",
+  "runtime": 102,
+  "budget": 2000000,
+  "revenue": 2381087,
+  "tmdb_vote_average": 7.403,
+  "tmdb_vote_count": 2127,
+  "tmdb_popularity": 3.9437,
+  "original_language": "en",
+  "poster_path": "/AhvO1GGDPIgN0hOqZEgaFCbswMK.jpg",
+  "backdrop_path": "/oDdRrwTCgaDzAshScrFO09qWqPB.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 3492,
+      "name": "Island Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6193,
+      "name": "Leonardo DiCaprio",
+      "character": "Jim Carroll",
+      "order": 0,
+      "cast_id": 9,
+      "popularity": 11.6978,
+      "profile_path": "/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+    },
+    {
+      "personId": 13240,
+      "name": "Mark Wahlberg",
+      "character": "Mickey",
+      "order": 1,
+      "cast_id": 12,
+      "popularity": 11.0171,
+      "profile_path": "/fqIZoibpZBwzCTBXQudVvPl87Db.jpg"
+    },
+    {
+      "personId": 65395,
+      "name": "James Madio",
+      "character": "Pedro",
+      "order": 2,
+      "cast_id": 11,
+      "popularity": 2.1186,
+      "profile_path": "/v17uyHhMLooVWKjMRS4NoGeTPyB.jpg"
+    },
+    {
+      "personId": 11478,
+      "name": "Lorraine Bracco",
+      "character": "Mrs. Carroll",
+      "order": 3,
+      "cast_id": 10,
+      "popularity": 3.1449,
+      "profile_path": "/tAtpCzN4sTOy1RHpMpJj52zTO4S.jpg"
+    },
+    {
+      "personId": 186526,
+      "name": "Patrick McGaw",
+      "character": "Neutron",
+      "order": 4,
+      "cast_id": 14,
+      "popularity": 1.0261,
+      "profile_path": "/bx30MtnwXGgcH1MTJaFeSHNIZg1.jpg"
+    },
+    {
+      "personId": 8874,
+      "name": "Ernie Hudson",
+      "character": "Reggie",
+      "order": 5,
+      "cast_id": 17,
+      "popularity": 3.137,
+      "profile_path": "/kgAdQA2ItCDVvKXufeDHc6Omiso.jpg"
+    },
+    {
+      "personId": 9257,
+      "name": "Bruno Kirby",
+      "character": "Swifty",
+      "order": 6,
+      "cast_id": 21,
+      "popularity": 2.6741,
+      "profile_path": "/iAXNOjJypxcQ7ORBylV6Jg9c39W.jpg"
+    },
+    {
+      "personId": 11486,
+      "name": "Michael Imperioli",
+      "character": "Bobby",
+      "order": 7,
+      "cast_id": 16,
+      "popularity": 3.4147,
+      "profile_path": "/jfoEHR6BRMg8emtujXdM3G4JHIm.jpg"
+    },
+    {
+      "personId": 3196,
+      "name": "Juliette Lewis",
+      "character": "Diane Moody",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 4.9662,
+      "profile_path": "/vvitS2sZSM9RupCf5B0sZYNS6wT.jpg"
+    },
+    {
+      "personId": 163985,
+      "name": "Manny Alfaro",
+      "character": "Manny",
+      "order": 9,
+      "cast_id": 18,
+      "popularity": 0.738,
+      "profile_path": "/uDwLeHYpCRD9RGLaDRfUDQnquSU.jpg"
+    },
+    {
+      "personId": 18271,
+      "name": "Toby Huss",
+      "character": "Kenny",
+      "order": 10,
+      "cast_id": 26,
+      "popularity": 2.4705,
+      "profile_path": "/dUqygHlDDnOBZLnE51MPJHkHWvQ.jpg"
+    },
+    {
+      "personId": 185889,
+      "name": "Cynthia Daniel",
+      "character": "Winkie",
+      "order": 11,
+      "cast_id": 19,
+      "popularity": 0.9791,
+      "profile_path": "/vF3ZdRnDKT80iEsZokbgwBbAOBg.jpg"
+    },
+    {
+      "personId": 35476,
+      "name": "Brittany Daniel",
+      "character": "Blinkie",
+      "order": 12,
+      "cast_id": 20,
+      "popularity": 3.7663,
+      "profile_path": "/vVnKokLIiv6lW6eQ4hQwla9fHuX.jpg"
+    },
+    {
+      "personId": 4688,
+      "name": "Michael Rapaport",
+      "character": "Skinhead",
+      "order": 13,
+      "cast_id": 24,
+      "popularity": 5.3377,
+      "profile_path": "/nWD2kufgy6lPyFVCPr9A3e7FMMn.jpg"
+    },
+    {
+      "personId": 1158858,
+      "name": "Roy Cooper",
+      "character": "Father McNulty",
+      "order": 14,
+      "cast_id": 25,
+      "popularity": 2.2471,
+      "profile_path": "/vucD9F4juSxiHnAGOD8eTUnEK9I.jpg"
+    },
+    {
+      "personId": 33489,
+      "name": "Josh Mostel",
+      "character": "Counterman",
+      "order": 15,
+      "cast_id": 27,
+      "popularity": 1.5545,
+      "profile_path": "/zX8vyQ9JdWsr1cmPvvyrw01aPiQ.jpg"
+    },
+    {
+      "personId": 60142,
+      "name": "Marilyn Sokol",
+      "character": "Chanting Woman",
+      "order": 16,
+      "cast_id": 28,
+      "popularity": 0.5482,
+      "profile_path": "/ajvhG94d6uQ51YESTKRRROeWmTT.jpg"
+    },
+    {
+      "personId": 87951,
+      "name": "Alexander Chaplin",
+      "character": "Bobo",
+      "order": 17,
+      "cast_id": 29,
+      "popularity": 0.6545,
+      "profile_path": "/5UWGWWjzRnBX5aeaVSWODm1iPiy.jpg"
+    },
+    {
+      "personId": 2080584,
+      "name": "Ben Jorgensen",
+      "character": "Tommy",
+      "order": 18,
+      "cast_id": 30,
+      "popularity": 0.4908,
+      "profile_path": "/yP3ny5uestqHKRrprXw5LnPQIAg.jpg"
+    },
+    {
+      "personId": 1142928,
+      "name": "Jimmy Papiris",
+      "character": "Iggy",
+      "order": 19,
+      "cast_id": 31,
+      "popularity": 0.2041,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 65390,
+      "name": "Scott Kalvert",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.2429,
+      "profile_path": "/ed85VI797zqwHT1zkeh49X9Dec4.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 6075,
+      "name": "sports"
+    },
+    {
+      "id": 2671,
+      "name": "heroin"
+    },
+    {
+      "id": 6782,
+      "name": "addiction"
+    },
+    {
+      "id": 6496,
+      "name": "basketball"
+    },
+    {
+      "id": 9713,
+      "name": "friends"
+    },
+    {
+      "id": 14641,
+      "name": "based on memoir or autobiography"
+    },
+    {
+      "id": 14964,
+      "name": "drugs"
+    },
+    {
+      "id": 208992,
+      "name": "1960s"
+    },
+    {
+      "id": 212563,
+      "name": "school suspension"
+    },
+    {
+      "id": 258533,
+      "name": "gay theme"
+    },
+    {
+      "id": 296608,
+      "name": "teenager"
+    }
+  ]
+}

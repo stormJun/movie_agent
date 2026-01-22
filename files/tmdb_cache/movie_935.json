@@ -1,0 +1,343 @@
+{
+  "overview": "After the insane General Jack D. Ripper initiates a nuclear strike on the Soviet Union, a war room full of politicians, generals and a Russian diplomat all frantically try to stop it.",
+  "release_date": "1964-01-29",
+  "runtime": 95,
+  "budget": 1800000,
+  "revenue": 9500000,
+  "tmdb_vote_average": 8.126,
+  "tmdb_vote_count": 5983,
+  "tmdb_popularity": 6.2827,
+  "original_language": "en",
+  "poster_path": "/4UQJ60D2NRD9OPrTdjBHfpLl3c4.jpg",
+  "backdrop_path": "/AezAkLbfBM6IvsJQYzUuPleg8QS.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "War"
+  ],
+  "production_companies": [
+    {
+      "id": 88,
+      "name": "Hawk Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 12446,
+      "name": "Peter Sellers",
+      "character": "Group Capt. Lionel Mandrake / President Merkin Muffley / Dr. Strangelove",
+      "order": 0,
+      "cast_id": 13,
+      "popularity": 2.097,
+      "profile_path": "/sCVIv2DGoC9U16anTjLwMxKBPZ.jpg"
+    },
+    {
+      "personId": 862,
+      "name": "George C. Scott",
+      "character": "General \"Buck\" Turgidson",
+      "order": 1,
+      "cast_id": 14,
+      "popularity": 2.3795,
+      "profile_path": "/bYIY4S6yfbBsngerOicQbzPgmFr.jpg"
+    },
+    {
+      "personId": 3088,
+      "name": "Sterling Hayden",
+      "character": "Brigadier General Jack D. Ripper",
+      "order": 2,
+      "cast_id": 15,
+      "popularity": 1.4475,
+      "profile_path": "/dCTe6BsGSp9QTcva2Pz4wbxxYMY.jpg"
+    },
+    {
+      "personId": 4966,
+      "name": "Keenan Wynn",
+      "character": "Colonel Bat Guano",
+      "order": 3,
+      "cast_id": 17,
+      "popularity": 1.9479,
+      "profile_path": "/bO88300vMddcIXuRZvMm5QLXdr.jpg"
+    },
+    {
+      "personId": 14253,
+      "name": "Slim Pickens",
+      "character": "Major \"King\" Kong",
+      "order": 4,
+      "cast_id": 16,
+      "popularity": 1.5634,
+      "profile_path": "/8UwvsZe0frSzCoyC8KGSfjAaZBf.jpg"
+    },
+    {
+      "personId": 6600,
+      "name": "Peter Bull",
+      "character": "Botschafter De Sadesky",
+      "order": 5,
+      "cast_id": 18,
+      "popularity": 0.8686,
+      "profile_path": "/187FadUt4kYNbrRfWp1sHynmGWW.jpg"
+    },
+    {
+      "personId": 15152,
+      "name": "James Earl Jones",
+      "character": "Lt. Lothar Zogg",
+      "order": 6,
+      "cast_id": 23,
+      "popularity": 2.369,
+      "profile_path": "/oqMPIsXrl9SZkRfIKN08eFROmH6.jpg"
+    },
+    {
+      "personId": 126354,
+      "name": "Tracy Reed",
+      "character": "Miss Scott",
+      "order": 7,
+      "cast_id": 21,
+      "popularity": 1.8813,
+      "profile_path": "/ts9KswPwZfhJQFdp4WBhzPfVJOQ.jpg"
+    },
+    {
+      "personId": 12485,
+      "name": "Jack Creley",
+      "character": "Mr. Staines",
+      "order": 8,
+      "cast_id": 20,
+      "popularity": 1.8807,
+      "profile_path": "/269fKAcaZaTJtOXOrKv84LDBVAI.jpg"
+    },
+    {
+      "personId": 1332529,
+      "name": "Frank Berry",
+      "character": "Lt. Dietrich",
+      "order": 9,
+      "cast_id": 24,
+      "popularity": 0.0814,
+      "profile_path": null
+    },
+    {
+      "personId": 1236452,
+      "name": "Robert O'Neil",
+      "character": "Adm. Randolph",
+      "order": 10,
+      "cast_id": 25,
+      "popularity": 0.2623,
+      "profile_path": "/fnDJp50Y1Wd1XareVU5QlgAVsDj.jpg"
+    },
+    {
+      "personId": 948173,
+      "name": "Glenn Beck",
+      "character": "Lt. Kivel",
+      "order": 11,
+      "cast_id": 36,
+      "popularity": 1.1899,
+      "profile_path": "/9QeeMaBYTPSQYxm6GlMSuowu3GE.jpg"
+    },
+    {
+      "personId": 1332531,
+      "name": "Roy Stephens",
+      "character": "Frank",
+      "order": 12,
+      "cast_id": 27,
+      "popularity": 0.1778,
+      "profile_path": null
+    },
+    {
+      "personId": 10657,
+      "name": "Shane Rimmer",
+      "character": "Capt. 'Ace' Owens",
+      "order": 13,
+      "cast_id": 28,
+      "popularity": 1.1783,
+      "profile_path": "/morFcla0R2Bv3vu3B1HgCmm0eiv.jpg"
+    },
+    {
+      "personId": 186212,
+      "name": "Hal Galili",
+      "character": "Burpelson AFB Defense Team Member",
+      "order": 14,
+      "cast_id": 29,
+      "popularity": 0.6958,
+      "profile_path": null
+    },
+    {
+      "personId": 185044,
+      "name": "Paul Tamarin",
+      "character": "Lt. Goldberg",
+      "order": 15,
+      "cast_id": 30,
+      "popularity": 0.217,
+      "profile_path": null
+    },
+    {
+      "personId": 1332532,
+      "name": "Laurence Herder",
+      "character": "Burpelson AFB Defense Team Member",
+      "order": 16,
+      "cast_id": 31,
+      "popularity": 0.7061,
+      "profile_path": "/yGMUCHjjCSC90WwAZU3UiuXkJ6y.jpg"
+    },
+    {
+      "personId": 1063405,
+      "name": "John McCarthy",
+      "character": "Burpelson AFB Defense Team Member",
+      "order": 17,
+      "cast_id": 38,
+      "popularity": 2.0799,
+      "profile_path": null
+    },
+    {
+      "personId": 117301,
+      "name": "Gordon Tanner",
+      "character": "Gen. Faceman",
+      "order": 18,
+      "cast_id": 35,
+      "popularity": 1.2783,
+      "profile_path": null
+    },
+    {
+      "personId": 184980,
+      "name": "Burnell Tucker",
+      "character": "Mandrake' aide (uncredited)",
+      "order": 19,
+      "cast_id": 34,
+      "popularity": 1.1947,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 240,
+      "name": "Stanley Kubrick",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.7453,
+      "profile_path": "/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 840,
+      "name": "usa president"
+    },
+    {
+      "id": 1402,
+      "name": "general"
+    },
+    {
+      "id": 2106,
+      "name": "cold war"
+    },
+    {
+      "id": 2531,
+      "name": "strategic air command"
+    },
+    {
+      "id": 10123,
+      "name": "dark comedy"
+    },
+    {
+      "id": 3312,
+      "name": "nuclear missile"
+    },
+    {
+      "id": 8201,
+      "name": "satire"
+    },
+    {
+      "id": 12999,
+      "name": "black and white"
+    },
+    {
+      "id": 33424,
+      "name": "cynical"
+    },
+    {
+      "id": 160370,
+      "name": "war room"
+    },
+    {
+      "id": 160377,
+      "name": "bomber pilot"
+    },
+    {
+      "id": 160381,
+      "name": "nuclear weapons"
+    },
+    {
+      "id": 160387,
+      "name": "ex-nazi"
+    },
+    {
+      "id": 165431,
+      "name": "anti war"
+    },
+    {
+      "id": 194825,
+      "name": "doomsday device"
+    },
+    {
+      "id": 214655,
+      "name": "absurdism"
+    },
+    {
+      "id": 225012,
+      "name": "satirical"
+    },
+    {
+      "id": 259376,
+      "name": "playful"
+    },
+    {
+      "id": 309974,
+      "name": "absurd"
+    },
+    {
+      "id": 315053,
+      "name": "critical"
+    },
+    {
+      "id": 320420,
+      "name": "hilarious"
+    },
+    {
+      "id": 325773,
+      "name": "audacious"
+    },
+    {
+      "id": 325815,
+      "name": "farcical"
+    },
+    {
+      "id": 325846,
+      "name": "sardonic"
+    },
+    {
+      "id": 360808,
+      "name": "quirky comedy"
+    },
+    {
+      "id": 364573,
+      "name": "everyone dies"
+    }
+  ]
+}

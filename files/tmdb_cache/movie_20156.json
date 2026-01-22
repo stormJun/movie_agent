@@ -1,0 +1,247 @@
+{
+  "overview": "In the upscale Toronto strip club Exotica, dancer Christina is visited nightly by the obsessive Francis, a depressed tax auditor. Her ex-boyfriend, the club's MC, Eric, still jealously pines for her even as he introduces her onstage, but Eric is having his own relationship problems with the club's female owner. Thomas, a mysterious pet-shop owner, is about to become unexpectedly involved in their lives.",
+  "release_date": "1994-09-29",
+  "runtime": 103,
+  "budget": 2000000,
+  "revenue": 4221036,
+  "tmdb_vote_average": 6.605,
+  "tmdb_vote_count": 376,
+  "tmdb_popularity": 3.6816,
+  "original_language": "en",
+  "poster_path": "/pWcJdcIHjL3P6NaEJKeV6ONfAMV.jpg",
+  "backdrop_path": "/sdgWn2YmR2h0HWFUGXmvbCerQCR.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 12800,
+      "name": "Ego Film Arts",
+      "origin_country": "CA"
+    },
+    {
+      "id": 2514,
+      "name": "Alliance Films",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "he",
+      "name": "עִבְרִית"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 21089,
+      "name": "Bruce Greenwood",
+      "character": "Francis",
+      "order": 0,
+      "cast_id": 9,
+      "popularity": 3.8559,
+      "profile_path": "/ndobQyQRbDG3ThbDzS3nI3NkAV7.jpg"
+    },
+    {
+      "personId": 18658,
+      "name": "Mia Kirshner",
+      "character": "Christina",
+      "order": 1,
+      "cast_id": 6,
+      "popularity": 4.3419,
+      "profile_path": "/7fSYUVxf84JdZ2aRJ9Lm28Ls6IK.jpg"
+    },
+    {
+      "personId": 20173,
+      "name": "Don McKellar",
+      "character": "Thomas",
+      "order": 2,
+      "cast_id": 2,
+      "popularity": 0.923,
+      "profile_path": "/lPQPESremJWcF0SLvzwiQP6ZVgT.jpg"
+    },
+    {
+      "personId": 98,
+      "name": "Sarah Polley",
+      "character": "Tracey",
+      "order": 3,
+      "cast_id": 14,
+      "popularity": 2.0996,
+      "profile_path": "/kQEyOfhp72yM4t6uo16ypSXfVX1.jpg"
+    },
+    {
+      "personId": 8536,
+      "name": "Victor Garber",
+      "character": "Harold",
+      "order": 4,
+      "cast_id": 10,
+      "popularity": 2.8268,
+      "profile_path": "/zPkpRPdW7rEm4fjgoJNz8hAZ6av.jpg"
+    },
+    {
+      "personId": 58805,
+      "name": "David Hemblen",
+      "character": "Inspector",
+      "order": 5,
+      "cast_id": 3,
+      "popularity": 0.8171,
+      "profile_path": "/oXLMIZKt2zXmIR3dbPRarEY4yq7.jpg"
+    },
+    {
+      "personId": 123320,
+      "name": "Peter Krantz",
+      "character": "Man in taxi",
+      "order": 6,
+      "cast_id": 5,
+      "popularity": 0.564,
+      "profile_path": null
+    },
+    {
+      "personId": 7708,
+      "name": "Arsinée Khanjian",
+      "character": "Zoe",
+      "order": 7,
+      "cast_id": 7,
+      "popularity": 0.7193,
+      "profile_path": "/esBqKPyFIMVKzp5Tqja0qqrxSLl.jpg"
+    },
+    {
+      "personId": 13550,
+      "name": "Elias Koteas",
+      "character": "Eric",
+      "order": 8,
+      "cast_id": 8,
+      "popularity": 2.8761,
+      "profile_path": "/luevjlGy0tYQbAbcz0mVxCYqegH.jpg"
+    },
+    {
+      "personId": 123319,
+      "name": "Calvin Green",
+      "character": "Customs Officer",
+      "order": 9,
+      "cast_id": 4,
+      "popularity": 0.3568,
+      "profile_path": null
+    },
+    {
+      "personId": 111817,
+      "name": "Damon D'Oliveira",
+      "character": "Man at opera",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 0.6169,
+      "profile_path": "/yr0vCI0qsdkcWNlf0nQICqbclcl.jpg"
+    },
+    {
+      "personId": 123323,
+      "name": "Jack Blum",
+      "character": "Scalper",
+      "order": 11,
+      "cast_id": 11,
+      "popularity": 1.3919,
+      "profile_path": "/rlwVWZzA9xmu0JECt2YqufgbJxV.jpg"
+    },
+    {
+      "personId": 61159,
+      "name": "Billy Merasty",
+      "character": "Man at opera",
+      "order": 12,
+      "cast_id": 12,
+      "popularity": 0.807,
+      "profile_path": "/udFrp3fQF4fUBTQXPr2pKDmDVlJ.jpg"
+    },
+    {
+      "personId": 123326,
+      "name": "Ken McDougall",
+      "character": "Doorman",
+      "order": 13,
+      "cast_id": 13,
+      "popularity": 0.2753,
+      "profile_path": null
+    },
+    {
+      "personId": 7868,
+      "name": "Maury Chaykin",
+      "character": "Exotica Club Client (uncredited)",
+      "order": 14,
+      "cast_id": 53,
+      "popularity": 1.8672,
+      "profile_path": "/Aqmsu1UHo40Md4RlLGfotSt8Lrr.jpg"
+    },
+    {
+      "personId": 130438,
+      "name": "C.J. Lusby",
+      "character": "Exotica Club Dancer (uncredited)",
+      "order": 15,
+      "cast_id": 54,
+      "popularity": 1.774,
+      "profile_path": "/vbJDcrcG2mXDfLfOtHIi7cfLqSc.jpg"
+    },
+    {
+      "personId": 4218110,
+      "name": "Nadine Ramkisson",
+      "character": "Exotica Club Dancer (uncredited)",
+      "order": 16,
+      "cast_id": 55,
+      "popularity": 0.2442,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 56205,
+      "name": "Atom Egoyan",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7414,
+      "profile_path": "/tovLR7Q6IlGD1jS5Sfv0DEGWgZf.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1664,
+      "name": "eroticism"
+    },
+    {
+      "id": 4378,
+      "name": "striptease"
+    },
+    {
+      "id": 2334,
+      "name": "nightclub"
+    },
+    {
+      "id": 2589,
+      "name": "pet shop"
+    },
+    {
+      "id": 2754,
+      "name": "trauma"
+    },
+    {
+      "id": 3688,
+      "name": "strip club"
+    },
+    {
+      "id": 156455,
+      "name": "unhappiness"
+    },
+    {
+      "id": 314019,
+      "name": "dancing girls"
+    },
+    {
+      "id": 316421,
+      "name": "drama"
+    }
+  ]
+}

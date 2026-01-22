@@ -1,0 +1,296 @@
+{
+  "overview": "The wife and mistress of a cruel school master collaborate in a carefully planned and executed scheme to murder him. The plan goes well until the body, which has been strategically dumped, disappears. The psychological strain starts to weigh on the two women when a retired police investigator begins looking into the man's disappearance on a whim.",
+  "release_date": "1996-03-22",
+  "runtime": 107,
+  "budget": 45000000,
+  "revenue": 52400000,
+  "tmdb_vote_average": 5.5,
+  "tmdb_vote_count": 310,
+  "tmdb_popularity": 2.3595,
+  "original_language": "en",
+  "poster_path": "/zSW4A35r7Vpz0ainYJGb2QVwCh0.jpg",
+  "backdrop_path": "/ldLhsXf6sCFPi0FIIGgMT0njaZg.jpg",
+  "tmdb_genres_raw": [
+    "Mystery",
+    "Thriller",
+    "Horror"
+  ],
+  "production_companies": [
+    {
+      "id": 976,
+      "name": "Marvin Worth Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 10210,
+      "name": "Morgan Creek Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "it",
+      "name": "Italiano"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4430,
+      "name": "Sharon Stone",
+      "character": "Nicole Horner",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.8308,
+      "profile_path": "/t0WoTlfkLsvsL2ZiPgoihK5rZqq.jpg"
+    },
+    {
+      "personId": 6553,
+      "name": "Isabelle Adjani",
+      "character": "Mia Baran",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 3.6464,
+      "profile_path": "/ad0GTy4ivzDhep1R0CgiR0O0g2v.jpg"
+    },
+    {
+      "personId": 9046,
+      "name": "Chazz Palminteri",
+      "character": "Guy Baran",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.707,
+      "profile_path": "/mCbjKVyE5B2tleshbJw44tw3ktZ.jpg"
+    },
+    {
+      "personId": 8534,
+      "name": "Kathy Bates",
+      "character": "Det. Shirley Vogel",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 4.1732,
+      "profile_path": "/nP7zRmXJyMyj2OohclSSo6JAEbD.jpg"
+    },
+    {
+      "personId": 8978,
+      "name": "Spalding Gray",
+      "character": "Simon Veatch",
+      "order": 4,
+      "cast_id": 10,
+      "popularity": 0.7913,
+      "profile_path": "/qmEBNepXpBuDnW3gdkY2sHeoGkq.jpg"
+    },
+    {
+      "personId": 28778,
+      "name": "Shirley Knight",
+      "character": "Edie Danziger",
+      "order": 5,
+      "cast_id": 11,
+      "popularity": 1.3493,
+      "profile_path": "/5m1S3lOEP79hq10IODqEIfDPa1T.jpg"
+    },
+    {
+      "personId": 922,
+      "name": "Allen Garfield",
+      "character": "Leo Katzman",
+      "order": 6,
+      "cast_id": 12,
+      "popularity": 1.0788,
+      "profile_path": "/v4S64Kcmgg7THvrFElzAeJiscy6.jpg"
+    },
+    {
+      "personId": 46530,
+      "name": "Adam Hann-Byrd",
+      "character": "Erik Pretzer",
+      "order": 7,
+      "cast_id": 13,
+      "popularity": 1.4581,
+      "profile_path": "/54DcXar17ggNEc5oACCa1pu8rEB.jpg"
+    },
+    {
+      "personId": 10825,
+      "name": "Donal Logue",
+      "character": "Video Photographer #1",
+      "order": 8,
+      "cast_id": 14,
+      "popularity": 2.9432,
+      "profile_path": "/5Rj850yVkIqsgCihtZLbkNSHbFb.jpg"
+    },
+    {
+      "personId": 157986,
+      "name": "Diana Bellamy",
+      "character": "Ms. Vawze",
+      "order": 9,
+      "cast_id": 15,
+      "popularity": 1.4637,
+      "profile_path": "/gLkpy27UWMCZCWnkOm3vFPr2TQh.jpg"
+    },
+    {
+      "personId": 15344,
+      "name": "J.J. Abrams",
+      "character": "Video Photographer #2",
+      "order": 10,
+      "cast_id": 17,
+      "popularity": 3.2728,
+      "profile_path": "/uiEVOx3QclxnN76t8PU6v5IcUUP.jpg"
+    },
+    {
+      "personId": 20165,
+      "name": "O'Neal Compton",
+      "character": "Irv Danziger",
+      "order": 11,
+      "cast_id": 18,
+      "popularity": 1.7168,
+      "profile_path": "/sZb9qi2T7Nnfy6w5feVgoVObhOs.jpg"
+    },
+    {
+      "personId": 104046,
+      "name": "Bingo O'Malley",
+      "character": "Gannon",
+      "order": 12,
+      "cast_id": 19,
+      "popularity": 1.9314,
+      "profile_path": "/iGuSef1ooo6wlcfzbLIa60kzjDv.jpg"
+    },
+    {
+      "personId": 58559,
+      "name": "Stephen Liska",
+      "character": "PHP Officer",
+      "order": 13,
+      "cast_id": 20,
+      "popularity": 0.7346,
+      "profile_path": "/1OJ0WfTfojKNYf6Jk2qNy5sccgH.jpg"
+    },
+    {
+      "personId": 1215072,
+      "name": "Clea Lewis",
+      "character": "Lisa Campos",
+      "order": 14,
+      "cast_id": 25,
+      "popularity": 0.9405,
+      "profile_path": "/jcoKrmFIqKmdobBAjWOg7PJdW9y.jpg"
+    },
+    {
+      "personId": 2031009,
+      "name": "Hank Stohl",
+      "character": "Morgue Cop",
+      "order": 15,
+      "cast_id": 26,
+      "popularity": 0.5098,
+      "profile_path": null
+    },
+    {
+      "personId": 1634770,
+      "name": "James Kisicki",
+      "character": "Rear Ender (as Jim Kisicki)",
+      "order": 16,
+      "cast_id": 27,
+      "popularity": 1.1911,
+      "profile_path": "/kOtD6LFfePlOHIlBbQzLG811u5l.jpg"
+    },
+    {
+      "personId": 2293474,
+      "name": "Kevin Vinay",
+      "character": "Desantis",
+      "order": 17,
+      "cast_id": 28,
+      "popularity": 0.1431,
+      "profile_path": null
+    },
+    {
+      "personId": 2293475,
+      "name": "Cory Pattak",
+      "character": "Nunez",
+      "order": 18,
+      "cast_id": 29,
+      "popularity": 0.0382,
+      "profile_path": null
+    },
+    {
+      "personId": 2293476,
+      "name": "Kate Young",
+      "character": "Photo Shop Clerk",
+      "order": 19,
+      "cast_id": 30,
+      "popularity": 0.1612,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 34682,
+      "name": "Jeremiah S. Chechik",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7204,
+      "profile_path": "/jZybpmnl3Tc9wbkcSDWxaMvxfjX.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1157,
+      "name": "husband wife relationship"
+    },
+    {
+      "id": 2320,
+      "name": "violent husband"
+    },
+    {
+      "id": 4516,
+      "name": "romantic rivalry"
+    },
+    {
+      "id": 11071,
+      "name": "plan gone wrong"
+    },
+    {
+      "id": 10410,
+      "name": "conspiracy"
+    },
+    {
+      "id": 11869,
+      "name": "mistress"
+    },
+    {
+      "id": 34094,
+      "name": "extramarital affair"
+    },
+    {
+      "id": 178654,
+      "name": "heart condition"
+    },
+    {
+      "id": 185413,
+      "name": "boys' school"
+    },
+    {
+      "id": 212643,
+      "name": "abusive husband"
+    },
+    {
+      "id": 231535,
+      "name": "sadistic husband"
+    },
+    {
+      "id": 231641,
+      "name": "unfaithful husband"
+    },
+    {
+      "id": 235596,
+      "name": "poisoned drink"
+    },
+    {
+      "id": 248759,
+      "name": "disappeared corpse"
+    }
+  ]
+}

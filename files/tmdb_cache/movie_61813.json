@@ -1,0 +1,148 @@
+{
+  "overview": "Kris is a homicide cop with psychic abilities. She works to prove that the prime suspect in her latest case (the much younger husband of the millionaire victim) is innocent. But are her visions true, or planned by someone who knows what she can see?",
+  "release_date": "1995-06-20",
+  "runtime": 94,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 3.214,
+  "tmdb_vote_count": 7,
+  "tmdb_popularity": 1.8243,
+  "original_language": "en",
+  "poster_path": "/tsgOkBKwz694XDRg3VfOSD7rq5e.jpg",
+  "backdrop_path": "/n0Stp9ypm9OZfpo3yW2RZxUXzXL.jpg",
+  "tmdb_genres_raw": [
+    "Thriller",
+    "Fantasy"
+  ],
+  "production_companies": [
+    {
+      "id": 15709,
+      "name": "Keystone Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 52095,
+      "name": "Dream Man Productions Inc",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 14326,
+      "name": "Patsy Kensit",
+      "character": "Kris Anderson",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 2.5752,
+      "profile_path": "/r60KQk3xOmMIhGmJqCeHQq6RX68.jpg"
+    },
+    {
+      "personId": 21089,
+      "name": "Bruce Greenwood",
+      "character": "Tom Cavanaugh",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 3.8559,
+      "profile_path": "/ndobQyQRbDG3ThbDzS3nI3NkAV7.jpg"
+    },
+    {
+      "personId": 37041,
+      "name": "Andrew McCarthy",
+      "character": "David Mander",
+      "order": 2,
+      "cast_id": 8,
+      "popularity": 4.3839,
+      "profile_path": "/swlewiX5zUjF5za9JOFXIVrL3kH.jpg"
+    },
+    {
+      "personId": 1743,
+      "name": "Denise Crosby",
+      "character": "Barbara",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 1.8473,
+      "profile_path": "/1Eoo8o3xRGflJ9kHxg1eFVwAwQa.jpg"
+    },
+    {
+      "personId": 29446,
+      "name": "Armin Shimerman",
+      "character": "Staatsanwalt Van Horn",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 1.5186,
+      "profile_path": "/ntubNSuRnJ7icAEGj6JYEeguzTn.jpg"
+    },
+    {
+      "personId": 52288,
+      "name": "Jim Byrnes",
+      "character": "Jim Garrity 'The Loot'",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 1.0646,
+      "profile_path": "/q6NzmS2O3fJ4Z2JJ22dSH5rGbJT.jpg"
+    },
+    {
+      "personId": 63791,
+      "name": "Jay Brazeau",
+      "character": "Sgt. Abe Foreman",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 1.5744,
+      "profile_path": "/sfZmnOv1Nd6jqeks5QtsW2Co3uH.jpg"
+    },
+    {
+      "personId": 12055,
+      "name": "John Cassini",
+      "character": "George Mancuso",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 1.2887,
+      "profile_path": "/kn2Rtn0I8ivCR7ydZTY74XUBh1K.jpg"
+    },
+    {
+      "personId": 78685,
+      "name": "Cameron Bancroft",
+      "character": "Robert Reynolds",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 1.3011,
+      "profile_path": "/6NB6mTfuFRmebqyI6srbEIB0iOV.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 225065,
+      "name": "René Bonnière",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.299,
+      "profile_path": "/rKKIb8ajKMuJAXW6CaxkVmbXjfv.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 10629,
+      "name": "vision"
+    },
+    {
+      "id": 14742,
+      "name": "psychic"
+    }
+  ]
+}

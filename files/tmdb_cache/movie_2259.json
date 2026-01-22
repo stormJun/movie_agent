@@ -1,0 +1,301 @@
+{
+  "overview": "A rancher, his clairvoyant wife and their family face turbulent years in South America.",
+  "release_date": "1993-10-21",
+  "runtime": 140,
+  "budget": 25000000,
+  "revenue": 6265311,
+  "tmdb_vote_average": 6.935,
+  "tmdb_vote_count": 719,
+  "tmdb_popularity": 2.4632,
+  "original_language": "en",
+  "poster_path": "/pS5xqILNBxcjRqLZROIkO4wszrU.jpg",
+  "backdrop_path": "/im6mZxeUMq71cBqqQmzLGDVdIXd.jpg",
+  "tmdb_genres_raw": [
+    "Romance",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 10598,
+      "name": "Costa do Castelo Filmes",
+      "origin_country": "PT"
+    },
+    {
+      "id": 33027,
+      "name": "House of Spirits Film",
+      "origin_country": "DK"
+    },
+    {
+      "id": 47,
+      "name": "Constantin Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 705,
+      "name": "Spring Creek Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "DK",
+      "name": "Denmark"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "es",
+      "name": "Español"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5064,
+      "name": "Meryl Streep",
+      "character": "Clara del Valle Trueba",
+      "order": 0,
+      "cast_id": 13,
+      "popularity": 6.2252,
+      "profile_path": "/emAAzyK1rJ6aiMi0wsWYp51EC3h.jpg"
+    },
+    {
+      "personId": 515,
+      "name": "Glenn Close",
+      "character": "Ferula Trueba",
+      "order": 1,
+      "cast_id": 14,
+      "popularity": 4.5394,
+      "profile_path": "/4VHZ1GfLwN7MUgApy0LCBzdDF9L.jpg"
+    },
+    {
+      "personId": 16940,
+      "name": "Jeremy Irons",
+      "character": "Esteban Trueba",
+      "order": 2,
+      "cast_id": 15,
+      "popularity": 5.0112,
+      "profile_path": "/w8Ct1q02Ht3sWdOSqfp3B85TzT.jpg"
+    },
+    {
+      "personId": 1920,
+      "name": "Winona Ryder",
+      "character": "Blanca Trueba",
+      "order": 3,
+      "cast_id": 16,
+      "popularity": 22.1809,
+      "profile_path": "/dlffgYbqr1BllWacVLhAFw23nLl.jpg"
+    },
+    {
+      "personId": 3131,
+      "name": "Antonio Banderas",
+      "character": "Pedro Tercero Gareia",
+      "order": 4,
+      "cast_id": 17,
+      "popularity": 5.8003,
+      "profile_path": "/fce7zl6elUzsv7wudHFc7RgFtjD.jpg"
+    },
+    {
+      "personId": 12647,
+      "name": "Armin Mueller-Stahl",
+      "character": "Severo del Valle",
+      "order": 5,
+      "cast_id": 18,
+      "popularity": 2.2406,
+      "profile_path": "/yDT9hMg3osAbiWl5YZXTYG4SmGj.jpg"
+    },
+    {
+      "personId": 2051,
+      "name": "María Conchita Alonso",
+      "character": "Transito Soto",
+      "order": 6,
+      "cast_id": 20,
+      "popularity": 2.324,
+      "profile_path": "/zcDN921xNK0AznoA0TEbdbsPSn3.jpg"
+    },
+    {
+      "personId": 22461,
+      "name": "Vincent Gallo",
+      "character": "Esteban García",
+      "order": 7,
+      "cast_id": 22,
+      "popularity": 1.8398,
+      "profile_path": "/2H8ucxG6LWAHCJAJf9OGfhSXpqQ.jpg"
+    },
+    {
+      "personId": 37068,
+      "name": "Jan Niklas",
+      "character": "Count Jean de Satigny",
+      "order": 8,
+      "cast_id": 21,
+      "popularity": 0.6239,
+      "profile_path": "/11etfTDA2ye07G2getS0TDzQB9a.jpg"
+    },
+    {
+      "personId": 84240,
+      "name": "Joaquín Martínez",
+      "character": "Segundo",
+      "order": 9,
+      "cast_id": 63,
+      "popularity": 1.7881,
+      "profile_path": "/cL09Qiw8if85KgyqLTKzbaoVlGj.jpg"
+    },
+    {
+      "personId": 20275,
+      "name": "Sarita Choudhury",
+      "character": "Pancha",
+      "order": 10,
+      "cast_id": 59,
+      "popularity": 2.9201,
+      "profile_path": "/pABEOxQAns54tHpxN2w73b7SiPB.jpg"
+    },
+    {
+      "personId": 10399,
+      "name": "Teri Polo",
+      "character": "Rosa",
+      "order": 11,
+      "cast_id": 60,
+      "popularity": 3.0924,
+      "profile_path": "/5xVk9bfMOeJxKmAGJddOhcNp2rX.jpg"
+    },
+    {
+      "personId": 1163,
+      "name": "Miriam Colon",
+      "character": "Nana",
+      "order": 12,
+      "cast_id": 64,
+      "popularity": 2.0968,
+      "profile_path": "/9jnz7htVMCTDNRDmoi2mdOKv6Pj.jpg"
+    },
+    {
+      "personId": 13333,
+      "name": "Vanessa Redgrave",
+      "character": "Nivea del Valle",
+      "order": 13,
+      "cast_id": 19,
+      "popularity": 3.4678,
+      "profile_path": "/ngBS6mLHn1in3kLJlTMR7w0J68r.jpg"
+    },
+    {
+      "personId": 504787,
+      "name": "Grace Gummer",
+      "character": "Clara del Valle Trueba - as a Child",
+      "order": 14,
+      "cast_id": 23,
+      "popularity": 2.7234,
+      "profile_path": "/zjkPOqC81TXDfcag90y6miEOF7M.jpg"
+    },
+    {
+      "personId": 23621,
+      "name": "Hannah Taylor-Gordon",
+      "character": "Blanca (child)",
+      "order": 15,
+      "cast_id": 67,
+      "popularity": 0.5625,
+      "profile_path": "/AsVLHTkPPX6hKpZwFPcvN18QO7U.jpg"
+    },
+    {
+      "personId": 24626,
+      "name": "Josh Maguire",
+      "character": "Pedro (child)",
+      "order": 16,
+      "cast_id": 66,
+      "popularity": 0.2651,
+      "profile_path": null
+    },
+    {
+      "personId": 59743,
+      "name": "Jamie Tirelli",
+      "character": "Oliver",
+      "order": 17,
+      "cast_id": 96,
+      "popularity": 0.6382,
+      "profile_path": "/oePZf7SVIkvlJbI3lK3qqQLS3so.jpg"
+    },
+    {
+      "personId": 16943,
+      "name": "Joost Siedhoff",
+      "character": "Father Antonio",
+      "order": 18,
+      "cast_id": 94,
+      "popularity": 1.2536,
+      "profile_path": "/lQWdOSjm7nIin41ta5FFrpy69qw.jpg"
+    },
+    {
+      "personId": 2232470,
+      "name": "Sasha Hanau",
+      "character": "Alba",
+      "order": 19,
+      "cast_id": 87,
+      "popularity": 0.3516,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 19684,
+      "name": "Bille August",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.182,
+      "profile_path": "/cBau5curUxUfgj0H8o35OxOOS4F.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 4932,
+      "name": "farm"
+    },
+    {
+      "id": 1291,
+      "name": "central and south america"
+    },
+    {
+      "id": 3009,
+      "name": "farm worker"
+    },
+    {
+      "id": 11627,
+      "name": "paranormal phenomena"
+    },
+    {
+      "id": 6285,
+      "name": "coup d'etat"
+    },
+    {
+      "id": 6451,
+      "name": "santiago, chile"
+    },
+    {
+      "id": 11925,
+      "name": "domestic violence"
+    },
+    {
+      "id": 155881,
+      "name": "estate"
+    },
+    {
+      "id": 170620,
+      "name": "clairvoyant"
+    },
+    {
+      "id": 208720,
+      "name": "family estate"
+    },
+    {
+      "id": 324198,
+      "name": "family chronicle"
+    }
+  ]
+}

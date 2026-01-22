@@ -1,0 +1,201 @@
+{
+  "overview": "Country girl Rebecca has spent most of her life on a farm in South Dakota, and, when she goes away to college in Los Angeles, Rebecca immediately feels out of place in the daunting urban setting. She is befriended by a savvy party animal named Crawl, who convinces the ambivalent Rebecca to stay in the city. When Thanksgiving break rolls around, Rebecca, no longer an innocent farm girl, invites Crawl back to South Dakota, where he pretends to be her fiancé.",
+  "release_date": "1993-07-02",
+  "runtime": 95,
+  "budget": 0,
+  "revenue": 36448200,
+  "tmdb_vote_average": 6.02,
+  "tmdb_vote_count": 297,
+  "tmdb_popularity": 1.9219,
+  "original_language": "en",
+  "poster_path": "/gj4afHL9bMQ18opZzMp77tlPkAq.jpg",
+  "backdrop_path": "/pV1Kdxjk05NfTUtfXB3ZZyD95s0.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 915,
+      "name": "Hollywood Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 64998,
+      "name": "Pauly Shore",
+      "character": "Crawl",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.6709,
+      "profile_path": "/uI7ctTqSIlLL7nn6UqDdqqhGNVC.jpg"
+    },
+    {
+      "personId": 17832,
+      "name": "Carla Gugino",
+      "character": "Rebecca Warner",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 5.0082,
+      "profile_path": "/7lSH5LOexOHwvt9lOTsLTbXdU1G.jpg"
+    },
+    {
+      "personId": 65019,
+      "name": "Lane Smith",
+      "character": "Walter Warner",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.7208,
+      "profile_path": "/stmbrf2qdq6umxt3Jh30IDhCfi3.jpg"
+    },
+    {
+      "personId": 19187,
+      "name": "Tiffani-Amber Thiessen",
+      "character": "Tracy",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 3.8318,
+      "profile_path": "/2L2lENLehoG1OPgxtugS9gG1bdy.jpg"
+    },
+    {
+      "personId": 74276,
+      "name": "Cindy Pickett",
+      "character": "Connie Warner",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.2538,
+      "profile_path": "/oZMzCxIIv0od25webjx8Z6foNjR.jpg"
+    },
+    {
+      "personId": 59945,
+      "name": "Mason Adams",
+      "character": "Walter Warner Sr.",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 0.7586,
+      "profile_path": "/zhr8dZBGhJuTR454E7A3flHzhre.jpg"
+    },
+    {
+      "personId": 69740,
+      "name": "Patrick Renna",
+      "character": "Zack Warner",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 1.3137,
+      "profile_path": "/6o2qe03mUypeAcL6eXVp7m1EnEZ.jpg"
+    },
+    {
+      "personId": 83362,
+      "name": "Dennis Burkley",
+      "character": "Theo",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 1.3416,
+      "profile_path": "/9r693C2dlUJdjNDjC0TWpCdZ6Mm.jpg"
+    },
+    {
+      "personId": 93321,
+      "name": "Dan Gauthier",
+      "character": "Travis",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 0.9407,
+      "profile_path": "/7hZIPDZrLcI89QoBvoj4awAbhFT.jpg"
+    },
+    {
+      "personId": 107489,
+      "name": "Garret Sato",
+      "character": "Male Hairdresser",
+      "order": 9,
+      "cast_id": 21,
+      "popularity": 1.556,
+      "profile_path": "/yEORvpqsasweaMIThCLBKqYjJ7E.jpg"
+    },
+    {
+      "personId": 1237,
+      "name": "Flea",
+      "character": "Tattoo Artist (uncredited)",
+      "order": 10,
+      "cast_id": 22,
+      "popularity": 1.5966,
+      "profile_path": "/nGQE7xf4YJeqO0a4lpFebhwI7R9.jpg"
+    },
+    {
+      "personId": 18269,
+      "name": "Brendan Fraser",
+      "character": "Link (Uncredited)",
+      "order": 11,
+      "cast_id": 14,
+      "popularity": 5.3938,
+      "profile_path": "/tFj5PaWWQbb8rHBBhu1EHklznph.jpg"
+    },
+    {
+      "personId": 6163,
+      "name": "Adam Goldberg",
+      "character": "Indian",
+      "order": 12,
+      "cast_id": 75,
+      "popularity": 2.5522,
+      "profile_path": "/xEbqDqTWlSSCi4v8FI3S9YSEPJz.jpg"
+    },
+    {
+      "personId": 1318686,
+      "name": "Jeanne Basone",
+      "character": "Mud Wrestler",
+      "order": 13,
+      "cast_id": 76,
+      "popularity": 0.2492,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 54590,
+      "name": "Steve Rash",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7627,
+      "profile_path": "/t7sZbMXWCHp80p5tPFTnsPY037h.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 4932,
+      "name": "farm"
+    },
+    {
+      "id": 4543,
+      "name": "thanksgiving"
+    },
+    {
+      "id": 3616,
+      "name": "college"
+    },
+    {
+      "id": 9468,
+      "name": "liar"
+    },
+    {
+      "id": 171508,
+      "name": "pancreas"
+    },
+    {
+      "id": 171521,
+      "name": "city boy"
+    }
+  ]
+}

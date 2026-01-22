@@ -1,0 +1,300 @@
+{
+  "overview": "This tale takes place in a bar. The Spanish Alonso and his blind mother run this place. Bay, who is Alonso's friend live here too. This story tells something about Alonso and Bay and the \"American Dream\".",
+  "release_date": "1995-09-09",
+  "runtime": 96,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.5,
+  "tmdb_vote_count": 7,
+  "tmdb_popularity": 3.2382,
+  "original_language": "sr",
+  "poster_path": "/xtJfxmlIe3iRFFTP4TNFRwacVz.jpg",
+  "backdrop_path": "/sstyS3xCHyOHdhg62zZMbTT0a8l.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 393,
+      "name": "MACT Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 5983,
+      "name": "Stefi 2",
+      "origin_country": "GR"
+    },
+    {
+      "id": 16975,
+      "name": "Lichtblick Film- und Fernsehproduktion (I)",
+      "origin_country": "DE"
+    },
+    {
+      "id": 18188,
+      "name": "Magnolia Mae Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 30226,
+      "name": "European Co-production Fund",
+      "origin_country": "GB"
+    },
+    {
+      "id": 86296,
+      "name": "Intrinsica Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 104,
+      "name": "Canal+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 31947,
+      "name": "Hamburger Filmbüro",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "GR",
+      "name": "Greece"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "YU",
+      "name": "Yugoslavia"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "sr",
+      "name": "Srpski"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 71010,
+      "name": "Tom Conti",
+      "character": "Alonso",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 2.0342,
+      "profile_path": "/2OqrVBoTYX5oeU1Qt8tfq3i9JUQ.jpg"
+    },
+    {
+      "personId": 48791,
+      "name": "Predrag 'Miki' Manojlović",
+      "character": "Bajo",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 1.0726,
+      "profile_path": "/hj4MF8aQAGMeFHjeIzbckAko2v9.jpg"
+    },
+    {
+      "personId": 25156,
+      "name": "María Casares",
+      "character": "Alonsova majka",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 0.6191,
+      "profile_path": "/gYknomwNpmZPxfVqvzbR3DvoxBk.jpg"
+    },
+    {
+      "personId": 1049503,
+      "name": "Zorka Manojlović",
+      "character": "Bajova majka",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 0.3366,
+      "profile_path": null
+    },
+    {
+      "personId": 66027,
+      "name": "Sergej Trifunović",
+      "character": "Lukas",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 1.0472,
+      "profile_path": "/xs2HFKqh19XljwCZtH6ID7Vy9Eg.jpg"
+    },
+    {
+      "personId": 130735,
+      "name": "José Ramón Rosario",
+      "character": "Pančito",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 1.2261,
+      "profile_path": "/hR9hr1OPrxEMVpYoljkma954mQo.jpg"
+    },
+    {
+      "personId": 3204,
+      "name": "Lanny Flaherty",
+      "character": "Vodič",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 0.9515,
+      "profile_path": "/jZV9UdctUwZOsdZ4OH3wxj4Bvop.jpg"
+    },
+    {
+      "personId": 18850,
+      "name": "Mihalis Giannatos",
+      "character": "Grčki agent",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 0.7697,
+      "profile_path": "/7y35wZdFzGuP38NZ4Zn9nzPTWG7.jpg"
+    },
+    {
+      "personId": 171351,
+      "name": "Michael Willis",
+      "character": "Nadzornik",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 0.2708,
+      "profile_path": "/rNgofDM8j5xi83ywPpwfVY7rYLA.jpg"
+    },
+    {
+      "personId": 111067,
+      "name": "Predrag Ejdus",
+      "character": "Doktor",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 0.3907,
+      "profile_path": "/hTllqUy2N6imDu48krAhPhCHhTw.jpg"
+    },
+    {
+      "personId": 1753359,
+      "name": "Chia-Ching Niu",
+      "character": "Kineskinja",
+      "order": 10,
+      "cast_id": 13,
+      "popularity": 0.0465,
+      "profile_path": null
+    },
+    {
+      "personId": 1753360,
+      "name": "Anđela Stojković",
+      "character": "Savka",
+      "order": 11,
+      "cast_id": 14,
+      "popularity": 0.0264,
+      "profile_path": null
+    },
+    {
+      "personId": 1753361,
+      "name": "Lazar Kalmić",
+      "character": "Pepo",
+      "order": 12,
+      "cast_id": 15,
+      "popularity": 0.0782,
+      "profile_path": null
+    },
+    {
+      "personId": 1753362,
+      "name": "Ananda Ellis",
+      "character": "Afizi",
+      "order": 13,
+      "cast_id": 16,
+      "popularity": 0.0539,
+      "profile_path": null
+    },
+    {
+      "personId": 171352,
+      "name": "John Norman Thomas",
+      "character": "Afizijev brat",
+      "order": 14,
+      "cast_id": 17,
+      "popularity": 1.4758,
+      "profile_path": null
+    },
+    {
+      "personId": 2988657,
+      "name": "Jonathan Peck",
+      "character": "Sem",
+      "order": 15,
+      "cast_id": 18,
+      "popularity": 0.047,
+      "profile_path": null
+    },
+    {
+      "personId": 3289119,
+      "name": "Yan Shi",
+      "character": "Čou",
+      "order": 16,
+      "cast_id": 19,
+      "popularity": 0.2826,
+      "profile_path": null
+    },
+    {
+      "personId": 36193,
+      "name": "Anibal O. Lleras",
+      "character": "Filipinac",
+      "order": 17,
+      "cast_id": 20,
+      "popularity": 0.8181,
+      "profile_path": "/wqWoayLLTsXe80Vw2KJ5oWTxsDK.jpg"
+    },
+    {
+      "personId": 3289120,
+      "name": "Miou",
+      "character": "Japanka",
+      "order": 18,
+      "cast_id": 21,
+      "popularity": 0.2315,
+      "profile_path": "/lpy9IgRTxDCaNZlPlELFeEdRBe4.jpg"
+    },
+    {
+      "personId": 1952063,
+      "name": "Ai Yamamoto",
+      "character": "Baba Kineskinja",
+      "order": 19,
+      "cast_id": 22,
+      "popularity": 1.7091,
+      "profile_path": "/wL19S6GH8Knx6jh7zcuUwiKB5Mw.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1009298,
+      "name": "Goran Paskaljević",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5713,
+      "profile_path": "/hwJG0h71G9yr2dKbeo5Tje9SAKC.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 449,
+      "name": "yugoslavia"
+    },
+    {
+      "id": 1900,
+      "name": "immigration"
+    },
+    {
+      "id": 2355,
+      "name": "american dream"
+    },
+    {
+      "id": 7492,
+      "name": "serbia"
+    }
+  ]
+}

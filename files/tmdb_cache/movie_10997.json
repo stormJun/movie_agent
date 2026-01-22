@@ -1,0 +1,287 @@
+{
+  "overview": "In an epic tale of theater, gender, love and class, two Beijing opera actors navigate political turmoil as their friendship evolves over decades.",
+  "release_date": "1993-01-01",
+  "runtime": 171,
+  "budget": 4000000,
+  "revenue": 6400000,
+  "tmdb_vote_average": 7.922,
+  "tmdb_vote_count": 653,
+  "tmdb_popularity": 4.3208,
+  "original_language": "zh",
+  "poster_path": "/ySf9I93w6kJiaEb2T4zpoQjY8PR.jpg",
+  "backdrop_path": "/bBiZN1epQTu3F8iFLBuMhc4TRzr.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 708,
+      "name": "Beijing Film Studio",
+      "origin_country": "CN"
+    },
+    {
+      "id": 2269,
+      "name": "China Film Co-Production Corp.",
+      "origin_country": "CN"
+    },
+    {
+      "id": 42874,
+      "name": "Tomson (Hong Kong) Films Co., Ltd.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "CN",
+      "name": "China"
+    },
+    {
+      "code": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "zh",
+      "name": "普通话"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 69637,
+      "name": "Leslie Cheung",
+      "character": "Cheng Dieyi / Xiao Douzi",
+      "order": 0,
+      "cast_id": 72,
+      "popularity": 2.4289,
+      "profile_path": "/xdSUevukGCrayOdLd4Kd6YSJnKR.jpg"
+    },
+    {
+      "personId": 65277,
+      "name": "Zhang Fengyi",
+      "character": "Duan Xiaolou / Xiao Shitou",
+      "order": 1,
+      "cast_id": 73,
+      "popularity": 2.1969,
+      "profile_path": "/l3PtQzEU84l7B9XA6SitAGIIJqH.jpg"
+    },
+    {
+      "personId": 643,
+      "name": "Gong Li",
+      "character": "Juxian",
+      "order": 2,
+      "cast_id": 74,
+      "popularity": 3.8727,
+      "profile_path": "/m3q1rIEdZmOnUVC0MSo1FcIGvp9.jpg"
+    },
+    {
+      "personId": 67765,
+      "name": "Lü Qi",
+      "character": "Master Guan",
+      "order": 3,
+      "cast_id": 75,
+      "popularity": 0.9946,
+      "profile_path": "/7NDhGtNCzSCMGj8VCPxWN571Xdh.jpg"
+    },
+    {
+      "personId": 109436,
+      "name": "Ying Da",
+      "character": "Manager",
+      "order": 4,
+      "cast_id": 76,
+      "popularity": 1.2248,
+      "profile_path": "/sVOdfDuj6DPYwAxtX0i2v3VRqE4.jpg"
+    },
+    {
+      "personId": 76913,
+      "name": "Ge You",
+      "character": "Master Yuan Shiqing",
+      "order": 5,
+      "cast_id": 77,
+      "popularity": 2.0246,
+      "profile_path": "/s0JXQhCmKUmtxiuI2rjH8hfE470.jpg"
+    },
+    {
+      "personId": 1346210,
+      "name": "Lei Han",
+      "character": "Xiao Si",
+      "order": 6,
+      "cast_id": 78,
+      "popularity": 1.4655,
+      "profile_path": "/2DbbN0P4tgcOWlC0CAytJDB7s8J.jpg"
+    },
+    {
+      "personId": 1358828,
+      "name": "Tong Di",
+      "character": "Zhang the Eunuch",
+      "order": 7,
+      "cast_id": 79,
+      "popularity": 0.9799,
+      "profile_path": "/77Vk71EZhJ7bVS7kDfLtU7XssgU.jpg"
+    },
+    {
+      "personId": 1358833,
+      "name": "Yin Zhi",
+      "character": "Teenage Douzi",
+      "order": 8,
+      "cast_id": 80,
+      "popularity": 1.5084,
+      "profile_path": "/mXYdFxBqknhpBh04yDYrL9BtN2C.jpg"
+    },
+    {
+      "personId": 1358831,
+      "name": "Ma Mingwei",
+      "character": "Young Douzi",
+      "order": 9,
+      "cast_id": 81,
+      "popularity": 0.5319,
+      "profile_path": "/93sKE8yKv8KHklbvN6S7hlpzIGp.jpg"
+    },
+    {
+      "personId": 1358832,
+      "name": "Zhao Hailong",
+      "character": "Teenage Shitou",
+      "order": 10,
+      "cast_id": 82,
+      "popularity": 0.293,
+      "profile_path": "/pEdPhbaSG1VEPW3q9nsgHHO8zrQ.jpg"
+    },
+    {
+      "personId": 1368274,
+      "name": "Fei Zhenxiang",
+      "character": "Young Shitou",
+      "order": 11,
+      "cast_id": 83,
+      "popularity": 1.2428,
+      "profile_path": "/FiUHT5pUwwo36Bf9A25IwDDiI1.jpg"
+    },
+    {
+      "personId": 1358836,
+      "name": "Yang Yong Chao",
+      "character": "Young Xiao Laizi",
+      "order": 12,
+      "cast_id": 85,
+      "popularity": 0.2626,
+      "profile_path": "/x0TOpACvjvxylSfhbsX9OpB9hrk.jpg"
+    },
+    {
+      "personId": 3074434,
+      "name": "Huang Fei",
+      "character": "Old Master",
+      "order": 13,
+      "cast_id": 96,
+      "popularity": 0.6182,
+      "profile_path": "/1tkwN43yG7EOH0c4q8geKqEwWAj.jpg"
+    },
+    {
+      "personId": 137917,
+      "name": "Jiang Wenli",
+      "character": "Douzi's Mother",
+      "order": 14,
+      "cast_id": 87,
+      "popularity": 1.9342,
+      "profile_path": "/rs57IbWZp4J9kCJtuhWGlAyLufd.jpg"
+    },
+    {
+      "personId": 1299590,
+      "name": "Zhi Yitong",
+      "character": "Aoki Saburo",
+      "order": 15,
+      "cast_id": 88,
+      "popularity": 0.9858,
+      "profile_path": "/wG9XxWppohtd5L2ymvPpCEjlIoi.jpg"
+    },
+    {
+      "personId": 1358829,
+      "name": "Li Chun",
+      "character": "Teenage Xiao Si",
+      "order": 16,
+      "cast_id": 89,
+      "popularity": 0.2457,
+      "profile_path": "/41Z9a7tbS4jeQtEuJy2qPWiBeHJ.jpg"
+    },
+    {
+      "personId": 187930,
+      "name": "David Wu",
+      "character": "Red Guard",
+      "order": 17,
+      "cast_id": 90,
+      "popularity": 1.6446,
+      "profile_path": "/dEytnOnVDM1J7Nm9s4x2M1kgM24.jpg"
+    },
+    {
+      "personId": 2788928,
+      "name": "Shen Huifen",
+      "character": "Cai Feng",
+      "order": 18,
+      "cast_id": 91,
+      "popularity": 0.917,
+      "profile_path": "/xDxlKNrRf6QssOLQYUL7UUABHQi.jpg"
+    },
+    {
+      "personId": 74946,
+      "name": "Huang Lei",
+      "character": "Little Hooligan",
+      "order": 19,
+      "cast_id": 92,
+      "popularity": 1.6055,
+      "profile_path": "/kXHwAAvQnYY4g2mDyLaUr8Crb6z.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 20640,
+      "name": "Chen Kaige",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.4,
+      "profile_path": "/knMuFWDYEKI38wLJQCr5rssyrbA.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 478,
+      "name": "china"
+    },
+    {
+      "id": 3679,
+      "name": "society"
+    },
+    {
+      "id": 640,
+      "name": "transvestite"
+    },
+    {
+      "id": 4004,
+      "name": "cultural revolution"
+    },
+    {
+      "id": 7439,
+      "name": "woman between two men"
+    },
+    {
+      "id": 12392,
+      "name": "best friend"
+    },
+    {
+      "id": 33683,
+      "name": "beijing, china"
+    },
+    {
+      "id": 158718,
+      "name": "lgbt"
+    },
+    {
+      "id": 221307,
+      "name": "chinese opera"
+    },
+    {
+      "id": 222233,
+      "name": "female impersonator"
+    },
+    {
+      "id": 230999,
+      "name": "severed finger"
+    }
+  ]
+}

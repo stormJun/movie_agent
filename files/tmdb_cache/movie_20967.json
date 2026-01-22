@@ -1,0 +1,289 @@
+{
+  "overview": "A collection of vignettes highlighting different aspects of the life, work, and character of the acclaimed Canadian classical pianist.",
+  "release_date": "1993-11-26",
+  "runtime": 93,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 7.0,
+  "tmdb_vote_count": 47,
+  "tmdb_popularity": 0.3347,
+  "original_language": "en",
+  "poster_path": "/3GTmkUpCb1uL7psLYqAHyIyld51.jpg",
+  "backdrop_path": "/zMohGSjqCVEIzvpPQU09HNf1N6R.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Music"
+  ],
+  "production_companies": [
+    {
+      "id": 164,
+      "name": "Rhombus Media",
+      "origin_country": "CA"
+    },
+    {
+      "id": 806,
+      "name": "Téléfilm Canada",
+      "origin_country": "CA"
+    },
+    {
+      "id": 22210,
+      "name": "Ontario Film Development Corporation",
+      "origin_country": "CA"
+    },
+    {
+      "id": 12113,
+      "name": "CBC",
+      "origin_country": "CA"
+    },
+    {
+      "id": 9115,
+      "name": "Société Radio-Canada",
+      "origin_country": "CA"
+    },
+    {
+      "id": 54900,
+      "name": "Nederlandse Omroepstichting (NOS)",
+      "origin_country": "NL"
+    },
+    {
+      "id": 8492,
+      "name": "RTP",
+      "origin_country": "PT"
+    },
+    {
+      "id": 5975,
+      "name": "YLE",
+      "origin_country": "FI"
+    },
+    {
+      "id": 10473,
+      "name": "ONF | NFB",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FI",
+      "name": "Finland"
+    },
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands"
+    },
+    {
+      "code": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "de",
+      "name": "Deutsch"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10132,
+      "name": "Colm Feore",
+      "character": "Glenn Gould",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 3.1592,
+      "profile_path": "/jeotIVor4fH3oqxkRZ6qyUbgrJ3.jpg"
+    },
+    {
+      "personId": 1239577,
+      "name": "Derek Keurvorst",
+      "character": "Gould's Father",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 0.4225,
+      "profile_path": null
+    },
+    {
+      "personId": 1211071,
+      "name": "Katya Ladan",
+      "character": "Gould's Mother",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 0.0877,
+      "profile_path": null
+    },
+    {
+      "personId": 47988,
+      "name": "Devon Anderson",
+      "character": "Young Glenn Age 3",
+      "order": 3,
+      "cast_id": 63,
+      "popularity": 0.9218,
+      "profile_path": "/vwtwHLnVyVDns2stU7iaWfHNA5K.jpg"
+    },
+    {
+      "personId": 1444473,
+      "name": "Joshua Greenblatt",
+      "character": "Young Glenn Age 8",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 0.8312,
+      "profile_path": null
+    },
+    {
+      "personId": 1444474,
+      "name": "Sean Ryan",
+      "character": "Young Glenn Age 12",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 1.1264,
+      "profile_path": null
+    },
+    {
+      "personId": 201812,
+      "name": "Kate Hennig",
+      "character": "Chambermaid",
+      "order": 6,
+      "cast_id": 28,
+      "popularity": 1.5454,
+      "profile_path": null
+    },
+    {
+      "personId": 3636243,
+      "name": "Sean Doyle",
+      "character": "Porter",
+      "order": 7,
+      "cast_id": 29,
+      "popularity": 0.2543,
+      "profile_path": null
+    },
+    {
+      "personId": 1815827,
+      "name": "Sharon Bernbaum",
+      "character": "Female Guide",
+      "order": 8,
+      "cast_id": 30,
+      "popularity": 0.0599,
+      "profile_path": null
+    },
+    {
+      "personId": 20173,
+      "name": "Don McKellar",
+      "character": "Concert Promoter",
+      "order": 9,
+      "cast_id": 31,
+      "popularity": 0.923,
+      "profile_path": "/lPQPESremJWcF0SLvzwiQP6ZVgT.jpg"
+    },
+    {
+      "personId": 3458984,
+      "name": "David Hughes",
+      "character": "Stagehand",
+      "order": 10,
+      "cast_id": 62,
+      "popularity": 0.5581,
+      "profile_path": null
+    },
+    {
+      "personId": 54793,
+      "name": "Carlo Rota",
+      "character": "C.B.S. Producer",
+      "order": 11,
+      "cast_id": 33,
+      "popularity": 2.471,
+      "profile_path": "/bsT3XaB8YqsZijYdOsG1pKH24JJ.jpg"
+    },
+    {
+      "personId": 3636248,
+      "name": "Peter Millard",
+      "character": "C.B.S. Engineer",
+      "order": 12,
+      "cast_id": 34,
+      "popularity": 0.9076,
+      "profile_path": null
+    },
+    {
+      "personId": 18085,
+      "name": "John Dolan",
+      "character": "C.B.S. Assistant Engineer",
+      "order": 13,
+      "cast_id": 35,
+      "popularity": 0.8042,
+      "profile_path": null
+    },
+    {
+      "personId": 180937,
+      "name": "Allegra Fulton",
+      "character": "Waitress",
+      "order": 14,
+      "cast_id": 36,
+      "popularity": 0.7094,
+      "profile_path": "/hw5zfA4QVLK4WVgtVUfA1oXYn6N.jpg"
+    },
+    {
+      "personId": 2668571,
+      "name": "Dick Callahan",
+      "character": "Trucker #1",
+      "order": 15,
+      "cast_id": 37,
+      "popularity": 0.1723,
+      "profile_path": null
+    },
+    {
+      "personId": 9282,
+      "name": "Guy Thauvette",
+      "character": "Trucker #2",
+      "order": 16,
+      "cast_id": 38,
+      "popularity": 1.9734,
+      "profile_path": "/kBOEY9Oc9VrY0ZxSj86RwF0JY7y.jpg"
+    },
+    {
+      "personId": 44183,
+      "name": "R.D. Reid",
+      "character": "Trucker #3",
+      "order": 17,
+      "cast_id": 39,
+      "popularity": 2.3197,
+      "profile_path": "/999rDXCwlkUFv8yFtsVkCes1ksC.jpg"
+    },
+    {
+      "personId": 27586,
+      "name": "Conrad Bergschneider",
+      "character": "Trucker #4",
+      "order": 18,
+      "cast_id": 40,
+      "popularity": 0.7439,
+      "profile_path": "/xjeNjDCjKkvKmLXVeG2WIly2VQC.jpg"
+    },
+    {
+      "personId": 234,
+      "name": "Gerry Quigley",
+      "character": "Music Critic",
+      "order": 19,
+      "cast_id": 41,
+      "popularity": 0.8897,
+      "profile_path": "/nfnrdHOtFYhggXrpZvHF4CDAVdH.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 78012,
+      "name": "François Girard",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4884,
+      "profile_path": "/djxaEAgKaYS2MAzQm5B5yHZeCqr.jpg"
+    }
+  ],
+  "keywords": []
+}

@@ -1,0 +1,287 @@
+{
+  "overview": "A chronicle of the life of infamous classical composer Ludwig van Beethoven and his painful struggle with hearing loss. Following Beethoven's death in 1827, his assistant, Schindler, searches for an elusive woman referred to in the composer's love letters as \"immortal beloved.\" As Schindler solves the mystery, a series of flashbacks reveal Beethoven's transformation from passionate young man to troubled musical genius.",
+  "release_date": "1994-12-16",
+  "runtime": 121,
+  "budget": 120,
+  "revenue": 0,
+  "tmdb_vote_average": 7.1,
+  "tmdb_vote_count": 359,
+  "tmdb_popularity": 4.2925,
+  "original_language": "en",
+  "poster_path": "/lkqz2R5pjXeDaiIjR3Z6JTGjtg6.jpg",
+  "backdrop_path": "/4wrdhfmmv9fQkmiPRl3d8NACjh9.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 152,
+      "name": "Icon Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 64,
+      "name": "Gary Oldman",
+      "character": "Ludwig van Beethoven",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 5.5873,
+      "profile_path": "/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg"
+    },
+    {
+      "personId": 1924,
+      "name": "Jeroen Krabbé",
+      "character": "Anton Felix Schindler",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.6467,
+      "profile_path": "/r26lZKUeLIaUt8DMotm4mdc4EaY.jpg"
+    },
+    {
+      "personId": 6588,
+      "name": "Isabella Rossellini",
+      "character": "Anna Marie Erdödy",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.6635,
+      "profile_path": "/z0zojT6nwDxi35HMcXlVpBfuBAU.jpg"
+    },
+    {
+      "personId": 55851,
+      "name": "Johanna ter Steege",
+      "character": "Johanna Reiss",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.5686,
+      "profile_path": "/ufMX0nu3F0N25qclKF6UJuDGMGy.jpg"
+    },
+    {
+      "personId": 23797,
+      "name": "Marco Hofschneider",
+      "character": "Karl van Beethoven",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 0.8034,
+      "profile_path": "/8lsRPmvqkM1Qy5gf6713EYvC7GO.jpg"
+    },
+    {
+      "personId": 6199,
+      "name": "Miriam Margolyes",
+      "character": "Nanette Streicherová",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 2.1728,
+      "profile_path": "/vsnCGCp0nhJTag56HP8XFhXnZo9.jpg"
+    },
+    {
+      "personId": 22,
+      "name": "Barry Humphries",
+      "character": "Clemens Metternich",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 1.4593,
+      "profile_path": "/gtOAbs8ZFJiDDRPPock1qmP4V18.jpg"
+    },
+    {
+      "personId": 3124,
+      "name": "Valeria Golino",
+      "character": "Giulietta Guicciardi",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 3.2768,
+      "profile_path": "/bLw0lNPEhICtbTLtnTswamefN7C.jpg"
+    },
+    {
+      "personId": 56101,
+      "name": "Gerard Horan",
+      "character": "Nikolaus Johann van Beethoven",
+      "order": 8,
+      "cast_id": 10,
+      "popularity": 1.7007,
+      "profile_path": "/crvohW6KrgAZUgoBE8IwKN5ErxQ.jpg"
+    },
+    {
+      "personId": 6970,
+      "name": "Christopher Fulford",
+      "character": "Kaspar Anton Carl van Beethoven",
+      "order": 9,
+      "cast_id": 11,
+      "popularity": 1.2252,
+      "profile_path": "/2n73aEyiU4fJprC2vHIf0M7YJ62.jpg"
+    },
+    {
+      "personId": 27432,
+      "name": "Luigi Diberti",
+      "character": "Franz Josef Guicciardi",
+      "order": 10,
+      "cast_id": 12,
+      "popularity": 1.0986,
+      "profile_path": "/lNLDMKKAyGIGCEmHln82jB5Sdd0.jpg"
+    },
+    {
+      "personId": 8445,
+      "name": "Michael Culkin",
+      "character": "Jakob Hotscevar",
+      "order": 11,
+      "cast_id": 13,
+      "popularity": 1.3936,
+      "profile_path": "/a8GdQBEU15QvIHXOYbs5vUgyNSh.jpg"
+    },
+    {
+      "personId": 1645,
+      "name": "Sandra Voe",
+      "character": "Marie Fröhlich",
+      "order": 12,
+      "cast_id": 14,
+      "popularity": 0.913,
+      "profile_path": "/pIHuQOcK7FjepXNGM4Ze49yuPAr.jpg"
+    },
+    {
+      "personId": 57851,
+      "name": "Bernard Rose",
+      "character": "Elector Max Friedrich",
+      "order": 13,
+      "cast_id": 15,
+      "popularity": 0.7153,
+      "profile_path": "/yMtey1lizRNNAGKw8tKiWSTrlVN.jpg"
+    },
+    {
+      "personId": 230909,
+      "name": "Alexandra Pigg",
+      "character": "Therese Obermeyer",
+      "order": 14,
+      "cast_id": 21,
+      "popularity": 1.4141,
+      "profile_path": "/mCrHl6SXQW3c2aflP0plsBnLmwh.jpg"
+    },
+    {
+      "personId": 110315,
+      "name": "Donal Gibson",
+      "character": "Karl Holz",
+      "order": 15,
+      "cast_id": 23,
+      "popularity": 1.7364,
+      "profile_path": "/wSOxeGfjLtma9sBp3B71renm19c.jpg"
+    },
+    {
+      "personId": 2836086,
+      "name": "Matthew North",
+      "character": "Young Karl van Beethoven",
+      "order": 16,
+      "cast_id": 29,
+      "popularity": 0.1116,
+      "profile_path": null
+    },
+    {
+      "personId": 575906,
+      "name": "Geno Lechner",
+      "character": "Josephine von Brunsvik",
+      "order": 17,
+      "cast_id": 30,
+      "popularity": 0.6225,
+      "profile_path": "/k36Ly4rBrwkoMDZiilPMs2DuK5F.jpg"
+    },
+    {
+      "personId": 2147736,
+      "name": "Claudia Solti",
+      "character": "Theresa von Brunsvik",
+      "order": 18,
+      "cast_id": 31,
+      "popularity": 0.1765,
+      "profile_path": null
+    },
+    {
+      "personId": 1252213,
+      "name": "Rory Edwards",
+      "character": "Wenzel Robert von Gallenberg",
+      "order": 19,
+      "cast_id": 32,
+      "popularity": 0.8956,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 57851,
+      "name": "Bernard Rose",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7153,
+      "profile_path": "/yMtey1lizRNNAGKw8tKiWSTrlVN.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1233,
+      "name": "composer"
+    },
+    {
+      "id": 1643,
+      "name": "deaf"
+    },
+    {
+      "id": 3344,
+      "name": "letter"
+    },
+    {
+      "id": 5565,
+      "name": "biography"
+    },
+    {
+      "id": 164181,
+      "name": "sister-in-law"
+    },
+    {
+      "id": 164186,
+      "name": "character study"
+    },
+    {
+      "id": 164193,
+      "name": "uncle nephew relationship"
+    },
+    {
+      "id": 164199,
+      "name": "für elise"
+    },
+    {
+      "id": 223778,
+      "name": "ludwig van beethoven"
+    },
+    {
+      "id": 227302,
+      "name": "portrait of an artist"
+    },
+    {
+      "id": 268830,
+      "name": "life and career"
+    },
+    {
+      "id": 270404,
+      "name": "classical musician"
+    },
+    {
+      "id": 340972,
+      "name": "biographical drama"
+    },
+    {
+      "id": 355077,
+      "name": "musician’s journey"
+    }
+  ]
+}

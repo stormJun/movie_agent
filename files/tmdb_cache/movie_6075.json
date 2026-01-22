@@ -1,0 +1,305 @@
+{
+  "overview": "Free after years in prison, Carlito Brigante intends to give up his criminal ways, but it's not long before the ex-con is sucked back into the New York City underworld. Reconnecting with his dancer girlfriend, Carlito gets entangled in the shady dealings of his friend Dave Kleinfeld, who also serves as his lawyer. An encounter with shifty gangster Benny Blanco sets the duo on a dangerous path.",
+  "release_date": "1993-11-10",
+  "runtime": 144,
+  "budget": 30000000,
+  "revenue": 63848322,
+  "tmdb_vote_average": 7.8,
+  "tmdb_vote_count": 3361,
+  "tmdb_popularity": 4.8166,
+  "original_language": "en",
+  "poster_path": "/g6D7mjQtndu768cusGmoEQY9fTB.jpg",
+  "backdrop_path": "/tqlCsB6AFjQ9dpAOHkd3sEdFS13.jpg",
+  "tmdb_genres_raw": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1988,
+      "name": "Epic Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 11393,
+      "name": "Bregman/Baer Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1158,
+      "name": "Al Pacino",
+      "character": "Carlito Brigante",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 6.4777,
+      "profile_path": "/iqJ6g9fTKjpp1zWH9v72whXeGIK.jpg"
+    },
+    {
+      "personId": 2228,
+      "name": "Sean Penn",
+      "character": "David Kleinfeld",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 5.1863,
+      "profile_path": "/9glqNTVpFpdN1nFklKaHPUyCwR6.jpg"
+    },
+    {
+      "personId": 14698,
+      "name": "Penelope Ann Miller",
+      "character": "Gail",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 1.9669,
+      "profile_path": "/6wjG6NUBKc6Ca4KX6G6V4t6sU2.jpg"
+    },
+    {
+      "personId": 5723,
+      "name": "John Leguizamo",
+      "character": "Benny Blanco",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 5.3337,
+      "profile_path": "/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+    },
+    {
+      "personId": 47769,
+      "name": "Ingrid Rogers",
+      "character": "Steffie",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 1.2117,
+      "profile_path": "/gIUbqQXbR0KfX4zOUHYBDRQxhrn.jpg"
+    },
+    {
+      "personId": 40481,
+      "name": "Luis Guzmán",
+      "character": "Pachanga",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 5.6095,
+      "profile_path": "/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg"
+    },
+    {
+      "personId": 8986,
+      "name": "James Rebhorn",
+      "character": "Norwalk",
+      "order": 6,
+      "cast_id": 12,
+      "popularity": 2.1243,
+      "profile_path": "/jRdR3q28gTPQU6eWRgiIqzGuMKU.jpg"
+    },
+    {
+      "personId": 47770,
+      "name": "Joseph Siravo",
+      "character": "Vincent Taglialucci",
+      "order": 7,
+      "cast_id": 13,
+      "popularity": 0.5901,
+      "profile_path": "/ttygfcaWZRkhiphvi7scZUF3Kbx.jpg"
+    },
+    {
+      "personId": 110,
+      "name": "Viggo Mortensen",
+      "character": "Lalin",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 4.7839,
+      "profile_path": "/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
+    },
+    {
+      "personId": 47771,
+      "name": "Richard Foronjy",
+      "character": "Pete Amadesso",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 1.1508,
+      "profile_path": "/zNerBPOQawN4PxT35WmqwFd9PMu.jpg"
+    },
+    {
+      "personId": 47772,
+      "name": "Jorge Porcel",
+      "character": "Saso",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 0.3937,
+      "profile_path": "/yr5Bo1b0bgxDq9nuqMVSNCHJ5kv.jpg"
+    },
+    {
+      "personId": 39598,
+      "name": "Frank Minucci",
+      "character": "Tony Taglialucci",
+      "order": 11,
+      "cast_id": 32,
+      "popularity": 1.5621,
+      "profile_path": "/dDi7lqoUUn5NXVlC9DuAXYVTIgQ.jpg"
+    },
+    {
+      "personId": 17304,
+      "name": "Adrian Pasdar",
+      "character": "Frankie Taglialucci",
+      "order": 12,
+      "cast_id": 10,
+      "popularity": 2.3427,
+      "profile_path": "/4KdM69ljovbLumGoVe8ct9s6GJm.jpg"
+    },
+    {
+      "personId": 40543,
+      "name": "John Ortiz",
+      "character": "Guajiro",
+      "order": 13,
+      "cast_id": 16,
+      "popularity": 2.3193,
+      "profile_path": "/tMDPYhpc9nqIJAK3vtMroEH9qho.jpg"
+    },
+    {
+      "personId": 1167,
+      "name": "Ángel Salazar",
+      "character": "Walberto",
+      "order": 14,
+      "cast_id": 33,
+      "popularity": 0.4315,
+      "profile_path": "/lZQXjnIHxFa2DjaStlYZcW7GqES.jpg"
+    },
+    {
+      "personId": 1171,
+      "name": "Al Israel",
+      "character": "Rolando",
+      "order": 15,
+      "cast_id": 34,
+      "popularity": 1.3006,
+      "profile_path": "/seDaFV7BzxgVNeirCjgnP3H3L7M.jpg"
+    },
+    {
+      "personId": 3432,
+      "name": "Rick Aviles",
+      "character": "Quisqueya",
+      "order": 16,
+      "cast_id": 35,
+      "popularity": 1.8825,
+      "profile_path": "/5gSlvykK09Y2t5gmIGn7440Na9A.jpg"
+    },
+    {
+      "personId": 8257,
+      "name": "Jaime Sánchez",
+      "character": "Rudy",
+      "order": 17,
+      "cast_id": 36,
+      "popularity": 1.4068,
+      "profile_path": "/jqqdVlOGVNokKXz6NTrlM7cuOOr.jpg"
+    },
+    {
+      "personId": 2771932,
+      "name": "Edmonte Salvato",
+      "character": "Battaglia (Big Guy)",
+      "order": 18,
+      "cast_id": 111,
+      "popularity": 0.0677,
+      "profile_path": null
+    },
+    {
+      "personId": 47773,
+      "name": "Paul Mazursky",
+      "character": "Judge Feinstein",
+      "order": 19,
+      "cast_id": 17,
+      "popularity": 0.9512,
+      "profile_path": "/buV8R7bHO4DATuC9FquUrZjn88I.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1150,
+      "name": "Brian De Palma",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.5466,
+      "profile_path": "/bWjOPDt8HRww5VAtpZ5FiCxpIxu.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 3149,
+      "name": "gangster"
+    },
+    {
+      "id": 1663,
+      "name": "go-go dancer"
+    },
+    {
+      "id": 3398,
+      "name": "release from prison"
+    },
+    {
+      "id": 1228,
+      "name": "1970s"
+    },
+    {
+      "id": 2124,
+      "name": "puerto rico"
+    },
+    {
+      "id": 2150,
+      "name": "cocaine"
+    },
+    {
+      "id": 2334,
+      "name": "nightclub"
+    },
+    {
+      "id": 6840,
+      "name": "criminal past"
+    },
+    {
+      "id": 9673,
+      "name": "love"
+    },
+    {
+      "id": 10909,
+      "name": "lawyer"
+    },
+    {
+      "id": 14964,
+      "name": "drugs"
+    },
+    {
+      "id": 155490,
+      "name": "disco"
+    },
+    {
+      "id": 207268,
+      "name": "neo-noir"
+    }
+  ]
+}

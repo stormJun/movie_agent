@@ -1,0 +1,78 @@
+{
+  "overview": "A subtle yet violent commentary on feudal lords.",
+  "release_date": "1995-08-01",
+  "runtime": 122,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 0.0,
+  "tmdb_vote_count": 0,
+  "tmdb_popularity": 0.4391,
+  "original_language": "hi",
+  "poster_path": null,
+  "backdrop_path": null,
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [],
+  "production_countries": [
+    {
+      "code": "IN",
+      "name": "India"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 150012,
+      "name": "Mohan Agashe",
+      "character": "",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 0.7496,
+      "profile_path": "/p3LfmPZ0cZD0eUVb4LvH0Sm3jOw.jpg"
+    },
+    {
+      "personId": 11851,
+      "name": "Om Puri",
+      "character": "",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 1.1303,
+      "profile_path": "/3xENmjr7CA8ACRViHnjOI5jPQUt.jpg"
+    },
+    {
+      "personId": 2453065,
+      "name": "Barun Chakraborty",
+      "character": "",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 0.4473,
+      "profile_path": "/sX2HVmD8RBxX7l9xsLU2QA0RntC.jpg"
+    },
+    {
+      "personId": 998636,
+      "name": "Gulshan Ara Champa",
+      "character": "",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 0.5126,
+      "profile_path": "/bur1zoCvzfJWggUORiTIXmDgRqO.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1080311,
+      "name": "Sandip Ray",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.9073,
+      "profile_path": "/5I4QAxt5o9ULH82CaPL8i5BUKLF.jpg"
+    }
+  ],
+  "keywords": []
+}

@@ -1,0 +1,298 @@
+{
+  "overview": "After bowler Roy Munson swindles the wrong crowd and is left with a hook for a hand, he settles into impoverished obscurity. That is, until he uncovers the next big thing: an Amish kid named Ishmael. So, the corrupt and the hopelessly naive hit the circuit intent on settling an old score with Big Ern.",
+  "release_date": "1996-07-04",
+  "runtime": 114,
+  "budget": 27000000,
+  "revenue": 25023434,
+  "tmdb_vote_average": 6.5,
+  "tmdb_vote_count": 940,
+  "tmdb_popularity": 3.9295,
+  "original_language": "en",
+  "poster_path": "/8AFJ0Mk7D5JZZxmT4NXKIKSclqp.jpg",
+  "backdrop_path": "/t8HtbS9tWWUbqI5J7hIYCspgkGI.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 2090,
+      "name": "Motion Picture Corporation of America",
+      "origin_country": "US"
+    },
+    {
+      "id": 11661,
+      "name": "Rysher Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 57755,
+      "name": "Woody Harrelson",
+      "character": "Roy Munson",
+      "order": 0,
+      "cast_id": 13,
+      "popularity": 7.3214,
+      "profile_path": "/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+    },
+    {
+      "personId": 1811,
+      "name": "Randy Quaid",
+      "character": "Ishmael Boorg",
+      "order": 1,
+      "cast_id": 14,
+      "popularity": 3.2668,
+      "profile_path": "/rGWvDokcMLIwck10dKIutSoTM9r.jpg"
+    },
+    {
+      "personId": 25308,
+      "name": "Vanessa Angel",
+      "character": "Claudia",
+      "order": 2,
+      "cast_id": 15,
+      "popularity": 1.7067,
+      "profile_path": "/dqIe0d5Q8gtIpY9nWix4YFjLhcJ.jpg"
+    },
+    {
+      "personId": 1532,
+      "name": "Bill Murray",
+      "character": "Ernie McCracken",
+      "order": 3,
+      "cast_id": 16,
+      "popularity": 3.6591,
+      "profile_path": "/nnCsJc9x3ZiG3AFyiyc3FPehppy.jpg"
+    },
+    {
+      "personId": 1534,
+      "name": "Chris Elliott",
+      "character": "The Gambler",
+      "order": 4,
+      "cast_id": 17,
+      "popularity": 2.8422,
+      "profile_path": "/oZFGgyDCZaanGfco1UdfxM4rHAJ.jpg"
+    },
+    {
+      "personId": 101975,
+      "name": "William Jordan",
+      "character": "Mr. Boorg",
+      "order": 5,
+      "cast_id": 18,
+      "popularity": 0.5296,
+      "profile_path": "/6PtjpLaRV1aTG9AwrrrcQIKBfjg.jpg"
+    },
+    {
+      "personId": 1824206,
+      "name": "Nancy Frey-Jarecki",
+      "character": "Sarah Boorg",
+      "order": 6,
+      "cast_id": 60,
+      "popularity": 0.3875,
+      "profile_path": "/iDtA68dLJRKhB9MDL3Zt3qO2Zpd.jpg"
+    },
+    {
+      "personId": 14700,
+      "name": "Richard Tyson",
+      "character": "Owner Of Stiffy's",
+      "order": 7,
+      "cast_id": 19,
+      "popularity": 2.1216,
+      "profile_path": "/2VqDaBqbCTnz0qZKXLtuUa9MO7R.jpg"
+    },
+    {
+      "personId": 7401,
+      "name": "Lin Shaye",
+      "character": "Landlady",
+      "order": 8,
+      "cast_id": 20,
+      "popularity": 2.5879,
+      "profile_path": "/aL87Za52elH81zMiXQn5C7AXAeg.jpg"
+    },
+    {
+      "personId": 60672,
+      "name": "Zen Gesner",
+      "character": "Thomas",
+      "order": 9,
+      "cast_id": 21,
+      "popularity": 2.0619,
+      "profile_path": "/gaUpc3SDYQAmFei8NFllxtJGs3A.jpg"
+    },
+    {
+      "personId": 951387,
+      "name": "Prudence Wright Holmes",
+      "character": "Mrs. Boorg",
+      "order": 10,
+      "cast_id": 22,
+      "popularity": 0.2571,
+      "profile_path": null
+    },
+    {
+      "personId": 162924,
+      "name": "Rob Moran",
+      "character": "Stanley Osmanski",
+      "order": 11,
+      "cast_id": 23,
+      "popularity": 1.4461,
+      "profile_path": "/lwGI1FIdRpwvKnZlD3dKhntP4i4.jpg"
+    },
+    {
+      "personId": 42199,
+      "name": "Daniel Greene",
+      "character": "Calvert Munson",
+      "order": 12,
+      "cast_id": 24,
+      "popularity": 0.8242,
+      "profile_path": "/fQFvA1ksyWXiBBmSuKkgbBGvqZv.jpg"
+    },
+    {
+      "personId": 149484,
+      "name": "Will Rothhaar",
+      "character": "Young Roy",
+      "order": 13,
+      "cast_id": 25,
+      "popularity": 2.0413,
+      "profile_path": "/8bylyPdPgxlPPbiC2Qv3ZodAcMT.jpg"
+    },
+    {
+      "personId": 2534020,
+      "name": "Warren Tashjian",
+      "character": "Courtesy Call Guy",
+      "order": 14,
+      "cast_id": 98,
+      "popularity": 0.24,
+      "profile_path": null
+    },
+    {
+      "personId": 7412,
+      "name": "Mark Charpentier",
+      "character": "1979 Bowling Buddy",
+      "order": 15,
+      "cast_id": 26,
+      "popularity": 0.2462,
+      "profile_path": null
+    },
+    {
+      "personId": 1076569,
+      "name": "Brad Faxon",
+      "character": "1979 Bowling Buddy",
+      "order": 16,
+      "cast_id": 27,
+      "popularity": 0.1888,
+      "profile_path": "/df2UPL3a1eBX3VbThFHVfXNnLP3.jpg"
+    },
+    {
+      "personId": 173810,
+      "name": "Sayed Badreya",
+      "character": "Fatima",
+      "order": 17,
+      "cast_id": 49,
+      "popularity": 0.9641,
+      "profile_path": "/sVvwmMsjXd5YqyZEfWcWQEkBScu.jpg"
+    },
+    {
+      "personId": 1496718,
+      "name": "Linda Carola",
+      "character": "1979 Waitress",
+      "order": 18,
+      "cast_id": 50,
+      "popularity": 0.5191,
+      "profile_path": "/yDzfdzzLOq4IvHhYHXvJnTV3CB3.jpg"
+    },
+    {
+      "personId": 1229514,
+      "name": "Danny Murphy",
+      "character": "Beaver Valley Bowl Manager",
+      "order": 19,
+      "cast_id": 51,
+      "popularity": 0.7892,
+      "profile_path": "/1UkjedIqmRFmiZNLtMaVLZE9kK4.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 7395,
+      "name": "Bobby Farrelly",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1902,
+      "profile_path": "/i5mt42m2MjMpFVrVYlYmp5ylLDy.jpg"
+    },
+    {
+      "personId": 7396,
+      "name": "Peter Farrelly",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.0043,
+      "profile_path": "/3PDYOFfk5NLmNcEz6SFZmdmqVZr.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6075,
+      "name": "sports"
+    },
+    {
+      "id": 6593,
+      "name": "stripper"
+    },
+    {
+      "id": 167550,
+      "name": "handicap"
+    },
+    {
+      "id": 167554,
+      "name": "sexual favor"
+    },
+    {
+      "id": 167555,
+      "name": "star spangled banner"
+    },
+    {
+      "id": 167556,
+      "name": "bowling team"
+    },
+    {
+      "id": 167560,
+      "name": "hair loss"
+    },
+    {
+      "id": 167564,
+      "name": "comb over"
+    },
+    {
+      "id": 167574,
+      "name": "inflatable doll"
+    },
+    {
+      "id": 167575,
+      "name": "combover"
+    },
+    {
+      "id": 167576,
+      "name": "unlikely lovers"
+    },
+    {
+      "id": 167580,
+      "name": "kingpin"
+    },
+    {
+      "id": 167581,
+      "name": "carriage"
+    },
+    {
+      "id": 236294,
+      "name": "lancaster, pa"
+    }
+  ]
+}

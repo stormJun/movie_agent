@@ -1,0 +1,286 @@
+{
+  "overview": "A documentary crew from the BBC arrives in L.A. intent on interviewing Heidi Fleiss, a year after her arrest for running a brothel but before her trial. Several months elapse before the interview, so the crew searches for anyone who'll talk about the young woman. Two people have a lot to say to the camera: a retired madam named Alex for whom Fleiss once worked and Fleiss's one-time boyfriend, Ivan Nagy, who introduced her to Alex. Alex and Nagy don't like each other, so the crew shuttles between them with \"she said\" and \"he said.\" When they finally interview Fleiss, they spend their time reciting what Alex and Nagy have had to say and asking her reaction.",
+  "release_date": "1995-12-27",
+  "runtime": 106,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.6,
+  "tmdb_vote_count": 14,
+  "tmdb_popularity": 0.4131,
+  "original_language": "en",
+  "poster_path": "/laPSb9I8TuYslOh1OcgaTByWKnw.jpg",
+  "backdrop_path": "/1Hvs7hsAfDxtXPGqq5ZGSX4Aphb.jpg",
+  "tmdb_genres_raw": [
+    "Documentary"
+  ],
+  "production_companies": [
+    {
+      "id": 3324,
+      "name": "BBC",
+      "origin_country": "GB"
+    },
+    {
+      "id": 12113,
+      "name": "CBC",
+      "origin_country": "CA"
+    },
+    {
+      "id": 12911,
+      "name": "Cinemax Reel Life",
+      "origin_country": "US"
+    },
+    {
+      "id": 12912,
+      "name": "InPictures",
+      "origin_country": ""
+    },
+    {
+      "id": 12913,
+      "name": "Lafayette Film",
+      "origin_country": "GB"
+    },
+    {
+      "id": 46,
+      "name": "WDR",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 92561,
+      "name": "Nick Broomfield",
+      "character": "Narrator",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 0.5886,
+      "profile_path": "/fEuA7S6ud5uCUBGVDrjt1zKC8V1.jpg"
+    },
+    {
+      "personId": 92032,
+      "name": "Heidi Fleiss",
+      "character": "Herself",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 0.5947,
+      "profile_path": "/3H3VnlK3aWcckh4YZpOMY4ip6TR.jpg"
+    },
+    {
+      "personId": 1144665,
+      "name": "Madam Alex",
+      "character": "Herself",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 0.1404,
+      "profile_path": null
+    },
+    {
+      "personId": 95625,
+      "name": "Ivan Nagy",
+      "character": "Himself",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 0.6477,
+      "profile_path": null
+    },
+    {
+      "personId": 74954,
+      "name": "Corinne Bohrer",
+      "character": "Actor/Herself",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 1.6331,
+      "profile_path": "/3zlALdvKNkRdrhTrxKTsyav8zRP.jpg"
+    },
+    {
+      "personId": 42545,
+      "name": "Ron Jeremy",
+      "character": "Himself",
+      "order": 5,
+      "cast_id": 14,
+      "popularity": 14.033,
+      "profile_path": "/h43ihXotHzPpMdqNV80JDAua0co.jpg"
+    },
+    {
+      "personId": 550826,
+      "name": "Daryl Gates",
+      "character": "Himself",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 0.3423,
+      "profile_path": "/jjPhHp6hr3LBK44r6mChh4cIvkG.jpg"
+    },
+    {
+      "personId": 2556671,
+      "name": "Nina Xining Zuo",
+      "character": "Herself",
+      "order": 7,
+      "cast_id": 15,
+      "popularity": 0.2921,
+      "profile_path": "/nLAgJqv8rzaFle9a8XPf9D5K7xB.jpg"
+    },
+    {
+      "personId": 2556679,
+      "name": "Victoria Sellers",
+      "character": "Herself",
+      "order": 8,
+      "cast_id": 16,
+      "popularity": 0.5604,
+      "profile_path": "/w1c2Jiwraj3qAGldNTpCrw87hHO.jpg"
+    },
+    {
+      "personId": 3576818,
+      "name": "Mike Brambles",
+      "character": "Self",
+      "order": 9,
+      "cast_id": 23,
+      "popularity": 0.0614,
+      "profile_path": null
+    },
+    {
+      "personId": 3576820,
+      "name": "Cookie",
+      "character": "Self (Voice)",
+      "order": 10,
+      "cast_id": 24,
+      "popularity": 0.0429,
+      "profile_path": null
+    },
+    {
+      "personId": 3576821,
+      "name": "Elisa Fleiss",
+      "character": "Self",
+      "order": 11,
+      "cast_id": 25,
+      "popularity": 0.0641,
+      "profile_path": null
+    },
+    {
+      "personId": 3576822,
+      "name": "Jason Fleiss",
+      "character": "Self",
+      "order": 12,
+      "cast_id": 26,
+      "popularity": 0.0824,
+      "profile_path": null
+    },
+    {
+      "personId": 3576823,
+      "name": "Jesse Fleiss",
+      "character": "Self",
+      "order": 13,
+      "cast_id": 27,
+      "popularity": 0.0868,
+      "profile_path": null
+    },
+    {
+      "personId": 3576824,
+      "name": "Kim Fleiss",
+      "character": "Self",
+      "order": 14,
+      "cast_id": 28,
+      "popularity": 0.0286,
+      "profile_path": null
+    },
+    {
+      "personId": 3576825,
+      "name": "Paul Fleiss",
+      "character": "Self",
+      "order": 15,
+      "cast_id": 29,
+      "popularity": 0.0286,
+      "profile_path": null
+    },
+    {
+      "personId": 3576826,
+      "name": "Shannon Fleiss",
+      "character": "Self",
+      "order": 16,
+      "cast_id": 30,
+      "popularity": 0.0143,
+      "profile_path": null
+    },
+    {
+      "personId": 3576827,
+      "name": "Gabby",
+      "character": "Self",
+      "order": 17,
+      "cast_id": 31,
+      "popularity": 0.0286,
+      "profile_path": null
+    },
+    {
+      "personId": 3576828,
+      "name": "Susie Sterling",
+      "character": "Self",
+      "order": 18,
+      "cast_id": 32,
+      "popularity": 0.0264,
+      "profile_path": null
+    },
+    {
+      "personId": 3576829,
+      "name": "Jim Wakefield",
+      "character": "Self",
+      "order": 19,
+      "cast_id": 33,
+      "popularity": 0.1465,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 92561,
+      "name": "Nick Broomfield",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5886,
+      "profile_path": "/fEuA7S6ud5uCUBGVDrjt1zKC8V1.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2398,
+      "name": "narration"
+    },
+    {
+      "id": 9672,
+      "name": "based on true story"
+    },
+    {
+      "id": 12396,
+      "name": "hollywood"
+    },
+    {
+      "id": 13059,
+      "name": "prostitution"
+    },
+    {
+      "id": 189409,
+      "name": "sex crime"
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "overview": "Waxing nostalgic about the bittersweet passage from childhood to puberty, four childhood girlfriends — Teeny, Chrissy, Samantha and Roberta — recall the magical summer of 1970. During their walk down memory lane, they reconcile experiences with boys, secrets, bullies and more.",
+  "release_date": "1995-10-20",
+  "runtime": 100,
+  "budget": 12000000,
+  "revenue": 27400000,
+  "tmdb_vote_average": 6.891,
+  "tmdb_vote_count": 464,
+  "tmdb_popularity": 2.1263,
+  "original_language": "en",
+  "poster_path": "/q31Ks8oAmM4Nq2CcGjyYYpdBAmh.jpg",
+  "backdrop_path": "/ic529Vlnxmp2ArVSYr5vBLoNFEK.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6886,
+      "name": "Christina Ricci",
+      "character": "Roberta",
+      "order": 0,
+      "cast_id": 9,
+      "popularity": 4.2915,
+      "profile_path": "/dzB58d6fNrTEi7nBAU1tySJc2at.jpg"
+    },
+    {
+      "personId": 12929,
+      "name": "Rosie O'Donnell",
+      "character": "Roberta",
+      "order": 1,
+      "cast_id": 10,
+      "popularity": 1.9917,
+      "profile_path": "/bfeIiPngsbLU7zK8sS18l3Pz3KR.jpg"
+    },
+    {
+      "personId": 2155,
+      "name": "Thora Birch",
+      "character": "Teeny",
+      "order": 2,
+      "cast_id": 11,
+      "popularity": 2.1228,
+      "profile_path": "/m0D1wqgQeVCr7gWY7GVej7lZlwY.jpg"
+    },
+    {
+      "personId": 29369,
+      "name": "Melanie Griffith",
+      "character": "Teeny",
+      "order": 3,
+      "cast_id": 12,
+      "popularity": 7.2525,
+      "profile_path": "/yffPcqlZMsXTCAZ84a1tLmdcIS6.jpg"
+    },
+    {
+      "personId": 12930,
+      "name": "Gaby Hoffmann",
+      "character": "Samantha",
+      "order": 4,
+      "cast_id": 13,
+      "popularity": 3.0835,
+      "profile_path": "/bMdxuHqCJkf4dAFKleYRs2GXDN9.jpg"
+    },
+    {
+      "personId": 3416,
+      "name": "Demi Moore",
+      "character": "Samantha",
+      "order": 5,
+      "cast_id": 14,
+      "popularity": 10.0524,
+      "profile_path": "/wApParZYBDi4yxekjfxjKEifJYh.jpg"
+    },
+    {
+      "personId": 114471,
+      "name": "Ashleigh Aston Moore",
+      "character": "Chrissy",
+      "order": 6,
+      "cast_id": 15,
+      "popularity": 2.1706,
+      "profile_path": "/p5B4SBp0ctQiDFYCu98RlY5E9R3.jpg"
+    },
+    {
+      "personId": 12931,
+      "name": "Rita Wilson",
+      "character": "Chrissy",
+      "order": 7,
+      "cast_id": 16,
+      "popularity": 2.545,
+      "profile_path": "/7esBuP4p3f5s6NUGk5nzZMkS7Z7.jpg"
+    },
+    {
+      "personId": 50398,
+      "name": "Devon Sawa",
+      "character": "Scott Wormer",
+      "order": 8,
+      "cast_id": 18,
+      "popularity": 3.9604,
+      "profile_path": "/yvMbpZ0UFQ1IBwlWm8quCA6fNc5.jpg"
+    },
+    {
+      "personId": 141521,
+      "name": "Walter Sparrow",
+      "character": "Crazy Pete",
+      "order": 9,
+      "cast_id": 17,
+      "popularity": 1.9028,
+      "profile_path": "/1GPhxI5s782nxaRJQGt9GXnqIWZ.jpg"
+    },
+    {
+      "personId": 9599,
+      "name": "Cloris Leachman",
+      "character": "Grandma Albertson",
+      "order": 10,
+      "cast_id": 19,
+      "popularity": 3.3806,
+      "profile_path": "/o8pnV9urjuHZDAR2u4UjPy2CR1u.jpg"
+    },
+    {
+      "personId": 12139,
+      "name": "Lolita Davidovich",
+      "character": "Mrs. Albertson",
+      "order": 11,
+      "cast_id": 23,
+      "popularity": 2.3601,
+      "profile_path": "/vQlk518qlef94XXJqtrkIqS3izo.jpg"
+    },
+    {
+      "personId": 21197,
+      "name": "Janeane Garofalo",
+      "character": "Wiladene",
+      "order": 12,
+      "cast_id": 20,
+      "popularity": 2.2426,
+      "profile_path": "/cdNooT0otUf5QVHDPm9bkGN7gNu.jpg"
+    },
+    {
+      "personId": 5587,
+      "name": "Hank Azaria",
+      "character": "Bud Kent",
+      "order": 13,
+      "cast_id": 21,
+      "popularity": 3.8011,
+      "profile_path": "/yFDw4b0jucuFWNnGcBPfpYUtn16.jpg"
+    },
+    {
+      "personId": 5149,
+      "name": "Bonnie Hunt",
+      "character": "Mrs. DeWitt",
+      "order": 14,
+      "cast_id": 22,
+      "popularity": 3.8154,
+      "profile_path": "/tT9C6uLztgN8OxJULq6F9iEzqlA.jpg"
+    },
+    {
+      "personId": 20848,
+      "name": "Rumer Willis",
+      "character": "Angela Albertson",
+      "order": 15,
+      "cast_id": 26,
+      "popularity": 1.9451,
+      "profile_path": "/gWleoY30Cj3fFuF5NT12O6mnov7.jpg"
+    },
+    {
+      "personId": 2729773,
+      "name": "Bradley Coryell",
+      "character": "The Wormers",
+      "order": 16,
+      "cast_id": 27,
+      "popularity": 0.3739,
+      "profile_path": null
+    },
+    {
+      "personId": 128126,
+      "name": "Justin Humphrey",
+      "character": "The Wormers",
+      "order": 17,
+      "cast_id": 28,
+      "popularity": 0.5768,
+      "profile_path": null
+    },
+    {
+      "personId": 987278,
+      "name": "Travis Robertson",
+      "character": "The Wormers",
+      "order": 18,
+      "cast_id": 29,
+      "popularity": 0.1595,
+      "profile_path": null
+    },
+    {
+      "personId": 4001352,
+      "name": "James Wilson Keane",
+      "character": "Boy with Basketball",
+      "order": 19,
+      "cast_id": 30,
+      "popularity": 0.759,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 15798,
+      "name": "Lesli Linka Glatter",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.422,
+      "profile_path": "/8F13UPsRnXWTDcp8iA3ZXMtfJa3.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1228,
+      "name": "1970s"
+    },
+    {
+      "id": 5248,
+      "name": "female friendship"
+    },
+    {
+      "id": 10683,
+      "name": "coming of age"
+    },
+    {
+      "id": 170521,
+      "name": "gynecologist"
+    },
+    {
+      "id": 170533,
+      "name": "photocopier"
+    },
+    {
+      "id": 170539,
+      "name": "truth or dare"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    }
+  ]
+}

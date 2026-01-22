@@ -1,0 +1,267 @@
+{
+  "overview": "Henry Hackett is the workaholic editor of a New York City tabloid. He loves his job, but the long hours and low pay are leading to discontent. Also, publisher Bernie White faces financial straits, and has hatchet-man Alicia Clark—Henry's nemesis—impose unpopular cutbacks.",
+  "release_date": "1994-03-18",
+  "runtime": 112,
+  "budget": 6000000,
+  "revenue": 48400000,
+  "tmdb_vote_average": 6.6,
+  "tmdb_vote_count": 226,
+  "tmdb_popularity": 1.0428,
+  "original_language": "en",
+  "poster_path": "/pGPrFbucRLwVtCKCeinwAklAl0l.jpg",
+  "backdrop_path": "/nV6quaSNz9fY1AeIlvd631zG7vl.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 23,
+      "name": "Imagine Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2232,
+      "name": "Michael Keaton",
+      "character": "Henry Hackett",
+      "order": 0,
+      "cast_id": 12,
+      "popularity": 4.3313,
+      "profile_path": "/w6fwAQ7IwEFqtzByA1Wyz2Dwp7R.jpg"
+    },
+    {
+      "personId": 3087,
+      "name": "Robert Duvall",
+      "character": "Bernie White",
+      "order": 1,
+      "cast_id": 13,
+      "popularity": 9.6308,
+      "profile_path": "/ybMmK25h4IVtfE7qrnlVp47RQlh.jpg"
+    },
+    {
+      "personId": 515,
+      "name": "Glenn Close",
+      "character": "Alicia Clark",
+      "order": 2,
+      "cast_id": 14,
+      "popularity": 4.5394,
+      "profile_path": "/4VHZ1GfLwN7MUgApy0LCBzdDF9L.jpg"
+    },
+    {
+      "personId": 3141,
+      "name": "Marisa Tomei",
+      "character": "Martha Hackett",
+      "order": 3,
+      "cast_id": 15,
+      "popularity": 7.1438,
+      "profile_path": "/5w6qM8FWsl5SutKSpx6Va64eCTE.jpg"
+    },
+    {
+      "personId": 1811,
+      "name": "Randy Quaid",
+      "character": "Michael McDougal",
+      "order": 4,
+      "cast_id": 16,
+      "popularity": 3.2668,
+      "profile_path": "/rGWvDokcMLIwck10dKIutSoTM9r.jpg"
+    },
+    {
+      "personId": 1206,
+      "name": "Jason Alexander",
+      "character": "Marion Sandusky",
+      "order": 5,
+      "cast_id": 17,
+      "popularity": 4.5774,
+      "profile_path": "/qRezZ2yhM2bmBERt7jVcxo8RVSA.jpg"
+    },
+    {
+      "personId": 11514,
+      "name": "Catherine O'Hara",
+      "character": "Susan",
+      "order": 6,
+      "cast_id": 18,
+      "popularity": 5.722,
+      "profile_path": "/xjthrsXA31PVX91ByIQzORKSD0E.jpg"
+    },
+    {
+      "personId": 4765,
+      "name": "Jason Robards",
+      "character": "Graham Keighley",
+      "order": 7,
+      "cast_id": 19,
+      "popularity": 1.7911,
+      "profile_path": "/9y0HAtWWBkB02gVzh8QDdz6UYZH.jpg"
+    },
+    {
+      "personId": 6751,
+      "name": "Siobhan Fallon Hogan",
+      "character": "Lisa",
+      "order": 8,
+      "cast_id": 20,
+      "popularity": 1.64,
+      "profile_path": "/5OExagnRsUcOYLMPTSrv4x2G95R.jpg"
+    },
+    {
+      "personId": 50877,
+      "name": "Jill Hennessy",
+      "character": "Deanne White",
+      "order": 9,
+      "cast_id": 21,
+      "popularity": 2.2039,
+      "profile_path": "/dCJvqrN7KXAEJLfb2JFTvMr9HXh.jpg"
+    },
+    {
+      "personId": 8978,
+      "name": "Spalding Gray",
+      "character": "Paul Bladden",
+      "order": 10,
+      "cast_id": 22,
+      "popularity": 0.7913,
+      "profile_path": "/qmEBNepXpBuDnW3gdkY2sHeoGkq.jpg"
+    },
+    {
+      "personId": 71266,
+      "name": "Lynne Thigpen",
+      "character": "Janet",
+      "order": 11,
+      "cast_id": 23,
+      "popularity": 1.9283,
+      "profile_path": "/wCMTGuJk6kxEmElNT56HpsL3GJO.jpg"
+    },
+    {
+      "personId": 1273,
+      "name": "Jack Kehoe",
+      "character": "Phil",
+      "order": 12,
+      "cast_id": 24,
+      "popularity": 0.8574,
+      "profile_path": "/bwsY19BaN9vF21XuH8nVZrEAplo.jpg"
+    },
+    {
+      "personId": 21366,
+      "name": "Roma Maffia",
+      "character": "Carmen",
+      "order": 13,
+      "cast_id": 25,
+      "popularity": 1.6775,
+      "profile_path": "/oEfa2NUJJNo4zg74eB5oY86tyip.jpg"
+    },
+    {
+      "personId": 15661,
+      "name": "Clint Howard",
+      "character": "Ray Blaisch",
+      "order": 14,
+      "cast_id": 26,
+      "popularity": 2.2819,
+      "profile_path": "/qC7AgKmcBFk76ojTYELeirw1viQ.jpg"
+    },
+    {
+      "personId": 182617,
+      "name": "Geoffrey Owens",
+      "character": "Lou",
+      "order": 15,
+      "cast_id": 27,
+      "popularity": 1.1294,
+      "profile_path": "/PO73VvUgDsAIYY6sdzDw01HFSk.jpg"
+    },
+    {
+      "personId": 80989,
+      "name": "Amelia Campbell",
+      "character": "Robin",
+      "order": 16,
+      "cast_id": 28,
+      "popularity": 0.6711,
+      "profile_path": "/iAPyTwYKG7LxuaCpWGExMjdMaOP.jpg"
+    },
+    {
+      "personId": 46099,
+      "name": "William Prince",
+      "character": "Howard Hackett",
+      "order": 17,
+      "cast_id": 29,
+      "popularity": 1.2659,
+      "profile_path": "/pxzpxrMHSA4C8kOGcSuERRQsyVw.jpg"
+    },
+    {
+      "personId": 124382,
+      "name": "Augusta Dabney",
+      "character": "Sarah Hackett",
+      "order": 18,
+      "cast_id": 30,
+      "popularity": 0.4542,
+      "profile_path": "/1aSj9tKBdOoPjmBYUvbIGNW0dJ2.jpg"
+    },
+    {
+      "personId": 27545,
+      "name": "Bruce Altman",
+      "character": "Carl",
+      "order": 19,
+      "cast_id": 31,
+      "popularity": 1.3483,
+      "profile_path": "/n5y8Mg572LGT3eHyeZaa9NMMlAN.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 6159,
+      "name": "Ron Howard",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 4.8279,
+      "profile_path": "/g3n8qduLaPO2l4kJZsV6xNMXozn.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 918,
+      "name": "newspaper"
+    },
+    {
+      "id": 3664,
+      "name": "research"
+    },
+    {
+      "id": 3836,
+      "name": "success"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 156080,
+      "name": "newspaper editor"
+    },
+    {
+      "id": 157380,
+      "name": "tabloid"
+    },
+    {
+      "id": 223587,
+      "name": "tabloid reporter"
+    }
+  ]
+}

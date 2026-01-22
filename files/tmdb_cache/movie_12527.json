@@ -1,0 +1,234 @@
+{
+  "overview": "Set in 1979, following a young Communist man's relationship with a gay Catholic writer, exploring tolerance, inclusion, homophobia and challenging its Cuban audience with great humour. Based on the short story by Cuban writer Senel Paz.",
+  "release_date": "1993-12-01",
+  "runtime": 108,
+  "budget": 0,
+  "revenue": 2087569,
+  "tmdb_vote_average": 7.0,
+  "tmdb_vote_count": 82,
+  "tmdb_popularity": 0.7236,
+  "original_language": "es",
+  "poster_path": "/knb8WaLJpqxztdpQY3D0ev6Ycpj.jpg",
+  "backdrop_path": "/kTlrvY35ldGN0yReCu59DfQdlcp.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 14,
+      "name": "Miramax",
+      "origin_country": "US"
+    },
+    {
+      "id": 6647,
+      "name": "Tabasco Films",
+      "origin_country": ""
+    },
+    {
+      "id": 10015,
+      "name": "TeleMadrid",
+      "origin_country": "ES"
+    },
+    {
+      "id": 299,
+      "name": "Instituto Mexicano de Cinematografía",
+      "origin_country": "MX"
+    },
+    {
+      "id": 5175,
+      "name": "ICAIC",
+      "origin_country": "CU"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "CU",
+      "name": "Cuba"
+    },
+    {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    {
+      "code": "ES",
+      "name": "Spain"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 64846,
+      "name": "Jorge Perugorría",
+      "character": "Diego",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.1789,
+      "profile_path": "/mS4bp6aj4EXSqUnXQflLf8G4LbE.jpg"
+    },
+    {
+      "personId": 72642,
+      "name": "Vladimir Cruz",
+      "character": "David",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 0.953,
+      "profile_path": "/pF1E0awlVoJHtzAx0ZL6HLCGqEZ.jpg"
+    },
+    {
+      "personId": 72644,
+      "name": "Mirta Ibarra",
+      "character": "Nancy",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 0.3957,
+      "profile_path": "/83arb64FeBPkRGBSbuHMcNLuTgk.jpg"
+    },
+    {
+      "personId": 72645,
+      "name": "Francisco Gattorno",
+      "character": "Miguel",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 0.5976,
+      "profile_path": "/lWjFYm6tJL3rY55CZaCZJljKhpD.jpg"
+    },
+    {
+      "personId": 1809288,
+      "name": "Joel Angelino",
+      "character": "German",
+      "order": 4,
+      "cast_id": 18,
+      "popularity": 0.383,
+      "profile_path": null
+    },
+    {
+      "personId": 1475682,
+      "name": "Marilyn Solaya",
+      "character": "Vivian",
+      "order": 5,
+      "cast_id": 19,
+      "popularity": 0.1359,
+      "profile_path": "/a2ruSLGS4x6oK1mh3RPh5OqvM9F.jpg"
+    },
+    {
+      "personId": 1199993,
+      "name": "Andrés Cortina",
+      "character": "Santero",
+      "order": 6,
+      "cast_id": 20,
+      "popularity": 0.1196,
+      "profile_path": null
+    },
+    {
+      "personId": 1378145,
+      "name": "Antonio Carmona",
+      "character": "Groom",
+      "order": 7,
+      "cast_id": 21,
+      "popularity": 0.2108,
+      "profile_path": "/3gnX2qRKbWZmsWYKvTIm8scjjGx.jpg"
+    },
+    {
+      "personId": 1718930,
+      "name": "Ricardo Ávila",
+      "character": "Taxi driver",
+      "order": 8,
+      "cast_id": 22,
+      "popularity": 0.98,
+      "profile_path": null
+    },
+    {
+      "personId": 1809289,
+      "name": "María Elena del Toro",
+      "character": "Passenger 1",
+      "order": 9,
+      "cast_id": 23,
+      "popularity": 0.1855,
+      "profile_path": null
+    },
+    {
+      "personId": 1809290,
+      "name": "Zolanda Oña",
+      "character": "Passenger 2",
+      "order": 10,
+      "cast_id": 24,
+      "popularity": 0.0143,
+      "profile_path": null
+    },
+    {
+      "personId": 1809291,
+      "name": "Diana Iris del Puerto",
+      "character": "Neighbor",
+      "order": 11,
+      "cast_id": 25,
+      "popularity": 0.7919,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 72646,
+      "name": "Tomás Gutiérrez Alea",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1808,
+      "profile_path": "/aM8rdpELmKeSGVakP2aM2I9vqMI.jpg"
+    },
+    {
+      "personId": 72647,
+      "name": "Juan Carlos Tabío",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.5185,
+      "profile_path": "/xOZyRU5THfLUyAcUvNdbS1KbAql.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 701,
+      "name": "cuba"
+    },
+    {
+      "id": 1228,
+      "name": "1970s"
+    },
+    {
+      "id": 2679,
+      "name": "artist"
+    },
+    {
+      "id": 3230,
+      "name": "male friendship"
+    },
+    {
+      "id": 11479,
+      "name": "social commentary"
+    },
+    {
+      "id": 10180,
+      "name": "male homosexuality"
+    },
+    {
+      "id": 158718,
+      "name": "lgbt"
+    },
+    {
+      "id": 168186,
+      "name": "havana, cuba"
+    },
+    {
+      "id": 173644,
+      "name": "communism"
+    },
+    {
+      "id": 258533,
+      "name": "gay theme"
+    }
+  ]
+}

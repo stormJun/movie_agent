@@ -1,0 +1,298 @@
+{
+  "overview": "On Christmas Eve, divorced dad Scott Calvin and his son discover Santa Claus has fallen off their roof. When Scott takes the reins of the magical sleigh, he finds he is now the new Santa, and must convince a world of disbelievers, including himself.",
+  "release_date": "1994-11-11",
+  "runtime": 97,
+  "budget": 22000000,
+  "revenue": 189833357,
+  "tmdb_vote_average": 6.512,
+  "tmdb_vote_count": 2235,
+  "tmdb_popularity": 4.7098,
+  "original_language": "en",
+  "poster_path": "/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg",
+  "backdrop_path": "/p89QeYRc2u0rX0eKKU4TLJStwHO.jpg",
+  "tmdb_genres_raw": [
+    "Fantasy",
+    "Drama",
+    "Comedy",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 2,
+      "name": "Walt Disney Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 915,
+      "name": "Hollywood Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 889,
+      "name": "Outlaw Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 12898,
+      "name": "Tim Allen",
+      "character": "Scott Calvin",
+      "order": 0,
+      "cast_id": 133,
+      "popularity": 3.4649,
+      "profile_path": "/woWhZzFILVhYMAvsPL171HjMY0y.jpg"
+    },
+    {
+      "personId": 777,
+      "name": "Judge Reinhold",
+      "character": "Neal",
+      "order": 1,
+      "cast_id": 12,
+      "popularity": 2.101,
+      "profile_path": "/6R0vCxzSx1CaDAM9y9ZgmejUdiL.jpg"
+    },
+    {
+      "personId": 19957,
+      "name": "Wendy Crewson",
+      "character": "Laura",
+      "order": 2,
+      "cast_id": 11,
+      "popularity": 3.2265,
+      "profile_path": "/6hplkzK8KV5Cw8Z8SVKwlt3nU5I.jpg"
+    },
+    {
+      "personId": 27564,
+      "name": "Eric Lloyd",
+      "character": "Charlie",
+      "order": 3,
+      "cast_id": 13,
+      "popularity": 1.8746,
+      "profile_path": "/huFLxPMJIPpOFDzdQR7JeQ4Nnr.jpg"
+    },
+    {
+      "personId": 38582,
+      "name": "David Krumholtz",
+      "character": "Bernard",
+      "order": 4,
+      "cast_id": 14,
+      "popularity": 2.6916,
+      "profile_path": "/2vaimzfyPQVxZGHbQS5M3z3tZw0.jpg"
+    },
+    {
+      "personId": 92119,
+      "name": "Larry Brandenburg",
+      "character": "Detective Nunzio",
+      "order": 5,
+      "cast_id": 17,
+      "popularity": 1.4926,
+      "profile_path": "/y13c1a4keaLnoTbi3dERwolQXWP.jpg"
+    },
+    {
+      "personId": 27862,
+      "name": "Mary Gross",
+      "character": "Ms. Daniels",
+      "order": 6,
+      "cast_id": 21,
+      "popularity": 1.1157,
+      "profile_path": "/9s20j6Hg9WTnKH8dbjqgLUgwR9W.jpg"
+    },
+    {
+      "personId": 141801,
+      "name": "Paige Tamada",
+      "character": "Elf-Judy",
+      "order": 7,
+      "cast_id": 15,
+      "popularity": 3.0557,
+      "profile_path": "/pORrZ9gppePMsZBHhwRHvNogFU7.jpg"
+    },
+    {
+      "personId": 1039,
+      "name": "Peter Boyle",
+      "character": "Mr. Whittle",
+      "order": 8,
+      "cast_id": 16,
+      "popularity": 2.8468,
+      "profile_path": "/6TapQmC46mPDYrwm67tyJaEM97I.jpg"
+    },
+    {
+      "personId": 44185,
+      "name": "Judith Scott",
+      "character": "Susan",
+      "order": 9,
+      "cast_id": 22,
+      "popularity": 1.6322,
+      "profile_path": "/h1oDVb4GuihdB1hgrr8Zqm9kagm.jpg"
+    },
+    {
+      "personId": 4568,
+      "name": "Jayne Eastwood",
+      "character": "Waitress",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 1.5578,
+      "profile_path": "/wMeootcDpiid4MYKXLqkWyPgmZ4.jpg"
+    },
+    {
+      "personId": 2441648,
+      "name": "Melissa King",
+      "character": "Little Girl",
+      "order": 11,
+      "cast_id": 54,
+      "popularity": 0.0843,
+      "profile_path": null
+    },
+    {
+      "personId": 2441649,
+      "name": "Bradley Wentworth",
+      "character": "Elf at North Pole",
+      "order": 12,
+      "cast_id": 55,
+      "popularity": 0.0615,
+      "profile_path": null
+    },
+    {
+      "personId": 2332261,
+      "name": "Azura Bates",
+      "character": "Elf in Hangar",
+      "order": 13,
+      "cast_id": 56,
+      "popularity": 0.3499,
+      "profile_path": null
+    },
+    {
+      "personId": 2441650,
+      "name": "Joshua Satok",
+      "character": "Elf-Larry",
+      "order": 14,
+      "cast_id": 57,
+      "popularity": 0.1751,
+      "profile_path": null
+    },
+    {
+      "personId": 33152,
+      "name": "Zachary McLemore",
+      "character": "Bobby",
+      "order": 15,
+      "cast_id": 58,
+      "popularity": 0.3846,
+      "profile_path": null
+    },
+    {
+      "personId": 1213599,
+      "name": "Joyce Guy",
+      "character": "Principal Compton",
+      "order": 16,
+      "cast_id": 59,
+      "popularity": 1.3524,
+      "profile_path": "/ArOb98OvWTZo89ieOzPfNH5aWPH.jpg"
+    },
+    {
+      "personId": 2441652,
+      "name": "Lindsay Lupien",
+      "character": "Kid Two",
+      "order": 17,
+      "cast_id": 60,
+      "popularity": 0.0785,
+      "profile_path": null
+    },
+    {
+      "personId": 2441653,
+      "name": "Alexandra Petrocci",
+      "character": "Kid Three",
+      "order": 18,
+      "cast_id": 61,
+      "popularity": 0.1293,
+      "profile_path": null
+    },
+    {
+      "personId": 1219181,
+      "name": "Jesse Collins",
+      "character": "Ad Executive",
+      "order": 19,
+      "cast_id": 62,
+      "popularity": 1.0853,
+      "profile_path": "/4b1xD1k1V2mbnoK2mKwstrvOYXd.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 58072,
+      "name": "John Pasquin",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.9634,
+      "profile_path": "/xWFzQthcWx0PoBa7VLKu02GvN1d.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 520,
+      "name": "chicago, illinois"
+    },
+    {
+      "id": 603,
+      "name": "elves"
+    },
+    {
+      "id": 1442,
+      "name": "winter"
+    },
+    {
+      "id": 65,
+      "name": "holiday"
+    },
+    {
+      "id": 1441,
+      "name": "christmas party"
+    },
+    {
+      "id": 5011,
+      "name": "deal"
+    },
+    {
+      "id": 1991,
+      "name": "santa claus"
+    },
+    {
+      "id": 5570,
+      "name": "christmas tree"
+    },
+    {
+      "id": 178364,
+      "name": "child custody"
+    },
+    {
+      "id": 207317,
+      "name": "christmas"
+    },
+    {
+      "id": 240119,
+      "name": "father son relationship"
+    },
+    {
+      "id": 250617,
+      "name": "santa's elves"
+    },
+    {
+      "id": 260365,
+      "name": "christmas eve"
+    },
+    {
+      "id": 342557,
+      "name": "elf"
+    }
+  ]
+}

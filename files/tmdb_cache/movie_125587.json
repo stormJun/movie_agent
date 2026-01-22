@@ -1,0 +1,157 @@
+{
+  "overview": "A raw depiction of the Belfast 'troubles' as savage tribal warfare. Set shortly after the 1975 cease fire, the film focuses on the tribulations of Kenny, Protestant leader of a group of Shankill Road Loyalists, and his one-time friend Liam, a Catholic.",
+  "release_date": "1996-10-18",
+  "runtime": 83,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 4.3,
+  "tmdb_vote_count": 11,
+  "tmdb_popularity": 2.4162,
+  "original_language": "en",
+  "poster_path": "/yEv3mKU7TMQJDUnPoIDsO0QTts2.jpg",
+  "backdrop_path": "/uplLE0XpRTjgYdJsrFAcok4sqP6.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 1898,
+      "name": "Fís Éireann/Screen Ireland",
+      "origin_country": "IE"
+    },
+    {
+      "id": 12745,
+      "name": "British Screen Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 550,
+      "name": "Little Bird",
+      "origin_country": "IE"
+    },
+    {
+      "id": 6705,
+      "name": "Film4 Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "IE",
+      "name": "Ireland"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10985,
+      "name": "Ian Hart",
+      "character": "Ginger",
+      "order": 0,
+      "cast_id": 26,
+      "popularity": 1.9299,
+      "profile_path": "/xMC8aPDwhEZcjRHEFcgytSr3BzM.jpg"
+    },
+    {
+      "personId": 28743,
+      "name": "John Lynch",
+      "character": "Liam",
+      "order": 1,
+      "cast_id": 27,
+      "popularity": 1.9205,
+      "profile_path": "/4TG8HYZ5SEFh1Yk5CCG4fXD55j9.jpg"
+    },
+    {
+      "personId": 22063,
+      "name": "James Frain",
+      "character": "Kenny",
+      "order": 2,
+      "cast_id": 28,
+      "popularity": 2.4326,
+      "profile_path": "/1KnxsxRbVZkh5bdY3gA8v4YKhKR.jpg"
+    },
+    {
+      "personId": 5658,
+      "name": "Michael Gambon",
+      "character": "Leonard",
+      "order": 3,
+      "cast_id": 29,
+      "popularity": 2.7114,
+      "profile_path": "/3jdWkDKf4IODbG4JKTeaC7AzxZH.jpg"
+    },
+    {
+      "personId": 93209,
+      "name": "Gary Lydon",
+      "character": "Eddie",
+      "order": 4,
+      "cast_id": 30,
+      "popularity": 2.9315,
+      "profile_path": "/jMtO3VltHC23p7yL2W7qpeg2pji.jpg"
+    },
+    {
+      "personId": 65733,
+      "name": "Rúaidhrí Conroy",
+      "character": "Tommy",
+      "order": 5,
+      "cast_id": 31,
+      "popularity": 0.4627,
+      "profile_path": "/wk0ryZB1YA0MGS20x4Mm1MIJhRf.jpg"
+    },
+    {
+      "personId": 33394,
+      "name": "Maria Doyle Kennedy",
+      "character": "Ann",
+      "order": 6,
+      "cast_id": 32,
+      "popularity": 1.7426,
+      "profile_path": "/dlZ5METJ8AKFjjlA6tjQiA9yfK3.jpg"
+    },
+    {
+      "personId": 144523,
+      "name": "Jeni Courtney",
+      "character": "Kethleen",
+      "order": 7,
+      "cast_id": 33,
+      "popularity": 0.1549,
+      "profile_path": null
+    },
+    {
+      "personId": 43131,
+      "name": "Gerard McSorley",
+      "character": "Cecil",
+      "order": 8,
+      "cast_id": 34,
+      "popularity": 1.5831,
+      "profile_path": "/8lrwOpnfwbNLbBzFvEj0t47aELy.jpg"
+    },
+    {
+      "personId": 120006,
+      "name": "Anthony Brophy",
+      "character": "Malachy",
+      "order": 9,
+      "cast_id": 35,
+      "popularity": 1.9081,
+      "profile_path": "/26WhNwllXnQR0Ym0pxoSr7NdGOm.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 72467,
+      "name": "Thaddeus O'Sullivan",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.3418,
+      "profile_path": "/dLWCnzk6M8gH65tGEKp1UsZdOn4.jpg"
+    }
+  ],
+  "keywords": []
+}

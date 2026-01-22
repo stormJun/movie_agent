@@ -1,0 +1,245 @@
+{
+  "overview": "A bombastic, womanizing art dealer and his painter friend go to a seventeenth-century villa on the Riviera for a relaxing summer getaway. But their idyll is disturbed by the presence of the bohemian Haydée, accused of being a “collector” of men.",
+  "release_date": "1967-03-02",
+  "runtime": 86,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.9,
+  "tmdb_vote_count": 260,
+  "tmdb_popularity": 2.7728,
+  "original_language": "fr",
+  "poster_path": "/zErPp680oDKX3IILQqOgkeeaxWr.jpg",
+  "backdrop_path": "/lEamKAOMyENqc97bEuwLFMvie8x.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 109,
+      "name": "Rome-Paris Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 223,
+      "name": "Les Films du Losange",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5274,
+      "name": "Patrick Bauchau",
+      "character": "Adrien",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.2475,
+      "profile_path": "/kdrFAJJFdfQaYUETTHQw77gim9O.jpg"
+    },
+    {
+      "personId": 39672,
+      "name": "Haydée Politoff",
+      "character": "Haydée",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 0.5301,
+      "profile_path": "/3uQNglPAwaR57e99TXAvP19zg4F.jpg"
+    },
+    {
+      "personId": 39673,
+      "name": "Daniel Pommereulle",
+      "character": "Daniel",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 0.4823,
+      "profile_path": "/bpoGURGpkhWOqP982wFWkJrnMZM.jpg"
+    },
+    {
+      "personId": 39674,
+      "name": "Alain Jouffroy",
+      "character": "Writer",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 0.3359,
+      "profile_path": "/rbnXhRAnVZGa73WPCCka0YSQDDC.jpg"
+    },
+    {
+      "personId": 39675,
+      "name": "Mijanou Bardot",
+      "character": "Carole",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 3.365,
+      "profile_path": "/um0y21qKmBbd63P6eTqalwvxWRj.jpg"
+    },
+    {
+      "personId": 39676,
+      "name": "Annik Morice",
+      "character": "Carole's Friend",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 0.1218,
+      "profile_path": null
+    },
+    {
+      "personId": 39677,
+      "name": "Dennis Berry",
+      "character": "Charlie",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 1.1315,
+      "profile_path": "/cmfVM2u3JyLipIH1Mpl99poeHP5.jpg"
+    },
+    {
+      "personId": 1372849,
+      "name": "Seymour Hertzberg",
+      "character": "Sam",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 0.3037,
+      "profile_path": null
+    },
+    {
+      "personId": 3569,
+      "name": "Néstor Almendros",
+      "character": "",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 0.3652,
+      "profile_path": "/uxBmgWG5sD8Of6DeMlIS9PF4hrS.jpg"
+    },
+    {
+      "personId": 1372854,
+      "name": "Patrice de Bailliencourt",
+      "character": "Man in the Car",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 0.1906,
+      "profile_path": null
+    },
+    {
+      "personId": 1372855,
+      "name": "László Benkö",
+      "character": "",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 0.1686,
+      "profile_path": null
+    },
+    {
+      "personId": 1372857,
+      "name": "Anne Dubot",
+      "character": "",
+      "order": 11,
+      "cast_id": 16,
+      "popularity": 0.1535,
+      "profile_path": null
+    },
+    {
+      "personId": 1160008,
+      "name": "Jackie Raynal",
+      "character": "",
+      "order": 12,
+      "cast_id": 28,
+      "popularity": 0.3118,
+      "profile_path": "/ejNm5oRLHIUguZlZcbosHa5FtMb.jpg"
+    },
+    {
+      "personId": 2193699,
+      "name": "Eugene Archer",
+      "character": "Sam (uncredited)",
+      "order": 13,
+      "cast_id": 29,
+      "popularity": 0.202,
+      "profile_path": null
+    },
+    {
+      "personId": 2945955,
+      "name": "Brian Belshaw",
+      "character": "Haydée's Boyfriend (uncredited)",
+      "order": 14,
+      "cast_id": 30,
+      "popularity": 0.0409,
+      "profile_path": null
+    },
+    {
+      "personId": 1385637,
+      "name": "Pierre-Richard Bré",
+      "character": "Man in the Car (uncredited)",
+      "order": 15,
+      "cast_id": 31,
+      "popularity": 0.2913,
+      "profile_path": null
+    },
+    {
+      "personId": 95462,
+      "name": "Donald Cammell",
+      "character": "Boy in St-Tropez (uncredited)",
+      "order": 16,
+      "cast_id": 32,
+      "popularity": 0.3032,
+      "profile_path": "/xIaAVsujonfsstCsYMXu9KCgbRg.jpg"
+    },
+    {
+      "personId": 1620067,
+      "name": "Alfred de Graff",
+      "character": "Lost Tourist (uncredited)",
+      "order": 17,
+      "cast_id": 33,
+      "popularity": 0.1236,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 28615,
+      "name": "Éric Rohmer",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.9793,
+      "profile_path": "/i05cH3yv7CK385SGhxuVFyxX6c6.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 5490,
+      "name": "girlfriend"
+    },
+    {
+      "id": 155262,
+      "name": "threesome"
+    },
+    {
+      "id": 164698,
+      "name": "boyfriend girlfriend relationship"
+    },
+    {
+      "id": 279730,
+      "name": "boyfriends"
+    },
+    {
+      "id": 284235,
+      "name": "holiday romance"
+    },
+    {
+      "id": 305499,
+      "name": "girlfriend's experience"
+    }
+  ]
+}

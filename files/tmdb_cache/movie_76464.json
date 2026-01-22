@@ -1,0 +1,239 @@
+{
+  "overview": "James Cagney has a rare chance to show his song-and-dance-man roots in this low-budget tale of a New York bandleader struggling with a Hollywood studio boss.",
+  "release_date": "1937-09-30",
+  "runtime": 93,
+  "budget": 900000,
+  "revenue": 0,
+  "tmdb_vote_average": 6.132,
+  "tmdb_vote_count": 19,
+  "tmdb_popularity": 0.2519,
+  "original_language": "en",
+  "poster_path": "/lGnovhVbh3LuR3rkuTRhnagxJqk.jpg",
+  "backdrop_path": "/nywRxfYmk6TvDYb18UxPqlDdip9.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 5999,
+      "name": "Grand National Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 19729,
+      "name": "Zion Meyers Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 4086,
+      "name": "Grand National",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5788,
+      "name": "James Cagney",
+      "character": "Terrence 'Terry' Rooney",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 1.2829,
+      "profile_path": "/haDKecHGGb1qh8gAoR3ExiJlujn.jpg"
+    },
+    {
+      "personId": 538638,
+      "name": "Evelyn Daw",
+      "character": "Rita Wyatt",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 0.1961,
+      "profile_path": "/jCUKPdpzx66tQHmQkRAecLwWdPr.jpg"
+    },
+    {
+      "personId": 34285,
+      "name": "William Frawley",
+      "character": "Hank Mayers",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 0.6032,
+      "profile_path": "/mPCnAsN2GbBoLl34nrviZ4aCCe1.jpg"
+    },
+    {
+      "personId": 101995,
+      "name": "Mona Barrie",
+      "character": "Stephanie 'Steffie' Hajos",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 0.386,
+      "profile_path": "/o2Mzqhjq0YISSrnDlByHuhmD1f2.jpg"
+    },
+    {
+      "personId": 30234,
+      "name": "Gene Lockhart",
+      "character": "Bennett O. 'B.O.' Regan",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 0.7091,
+      "profile_path": "/8lSQRefIA5kNylZOF7anexkDxqQ.jpg"
+    },
+    {
+      "personId": 95014,
+      "name": "Philip Ahn",
+      "character": "Ito (Terry's servant)",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 1.3628,
+      "profile_path": "/tCA7nrxPAGPFVSvfOIFlr6PlKU0.jpg"
+    },
+    {
+      "personId": 956444,
+      "name": "Marek Windheim",
+      "character": "Mr. Farney (dialogue director)",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 0.1944,
+      "profile_path": "/jveyLtGGMPn8jlfHwkR4bGYpckA.jpg"
+    },
+    {
+      "personId": 1549,
+      "name": "Dwight Frye",
+      "character": "Mr. Easton (makeup supervisor)",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 0.7975,
+      "profile_path": "/7tTCehS5FN9YuRKSWmlL5rygabD.jpg"
+    },
+    {
+      "personId": 1027429,
+      "name": "John 'Skins' Miller",
+      "character": "Dancer in Drag in 'Deck Number' (as Skins Miller)",
+      "order": 8,
+      "cast_id": 14,
+      "popularity": 0.7053,
+      "profile_path": "/tQnHKNqeb6DUUX3OgEsBQmvGmJG.jpg"
+    },
+    {
+      "personId": 34086,
+      "name": "Johnny Arthur",
+      "character": "Mr. Daviani (as John Arthur)",
+      "order": 9,
+      "cast_id": 15,
+      "popularity": 0.7493,
+      "profile_path": "/f8mltNpEviyIDYnKFBbwRtFAm7o.jpg"
+    },
+    {
+      "personId": 95729,
+      "name": "William B. Davidson",
+      "character": "Mr. Richards (as William Davidson)",
+      "order": 10,
+      "cast_id": 16,
+      "popularity": 1.3721,
+      "profile_path": "/20RHbZvvujZFlR2B96i7oQaJ6w.jpg"
+    },
+    {
+      "personId": 14290,
+      "name": "Richard Tucker",
+      "character": "Mr. Blaine",
+      "order": 11,
+      "cast_id": 17,
+      "popularity": 0.4563,
+      "profile_path": "/hMHZdVgcSOyhONnAbXNVSKHDwhh.jpg"
+    },
+    {
+      "personId": 34182,
+      "name": "Kathleen Lockhart",
+      "character": "Miss Amy Robbins",
+      "order": 12,
+      "cast_id": 18,
+      "popularity": 0.6212,
+      "profile_path": "/kIgyhuy3tFRz6XIyWdJss017go5.jpg"
+    },
+    {
+      "personId": 133344,
+      "name": "James Newill",
+      "character": "Jimmy - Band Member",
+      "order": 13,
+      "cast_id": 19,
+      "popularity": 1.2387,
+      "profile_path": "/CMf8yLvmxPLM1HhvN0Pb4Y4vpW.jpg"
+    },
+    {
+      "personId": 1143201,
+      "name": "Harry Barris",
+      "character": "Pinky - Band Pianist",
+      "order": 14,
+      "cast_id": 20,
+      "popularity": 0.569,
+      "profile_path": "/AcNj8OnDKaPG7zxyJXac7tLY9dk.jpg"
+    },
+    {
+      "personId": 165738,
+      "name": "Cully Richards",
+      "character": "Cully - Band Member",
+      "order": 15,
+      "cast_id": 21,
+      "popularity": 0.2935,
+      "profile_path": "/r7F18TxMz7ZprQjfAv2JUdHJzVs.jpg"
+    },
+    {
+      "personId": 3150776,
+      "name": "The Vagabonds",
+      "character": "The Vagabonds",
+      "order": 16,
+      "cast_id": 23,
+      "popularity": 0.3829,
+      "profile_path": null
+    },
+    {
+      "personId": 1080619,
+      "name": "Marjorie Kane",
+      "character": "Regan's Receptionist (uncredited)",
+      "order": 17,
+      "cast_id": 24,
+      "popularity": 2.1294,
+      "profile_path": "/aGXCcxybE3188xhKZClFyzhFUNC.jpg"
+    },
+    {
+      "personId": 47001,
+      "name": "Frank Mills",
+      "character": "Cabbie (uncredited)",
+      "order": 18,
+      "cast_id": 25,
+      "popularity": 1.579,
+      "profile_path": "/iHfknf51T7otwyiR8IvMdRNKwjs.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 148849,
+      "name": "Victor Schertzinger",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.2782,
+      "profile_path": "/7wR8zyg35twNJRlrboe1bN3kAza.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 4344,
+      "name": "musical"
+    },
+    {
+      "id": 171346,
+      "name": "bandleader"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "overview": "After an abandoned young woman in late 19th Century England is taken in by a rural couple with three handsome sons, tragic consequences result.",
+  "release_date": "1995-10-12",
+  "runtime": 116,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.545,
+  "tmdb_vote_count": 11,
+  "tmdb_popularity": 0.4034,
+  "original_language": "en",
+  "poster_path": "/inUPybROcLlzdG4EQeDIShfFjsD.jpg",
+  "backdrop_path": "/7Mm3zTgIp8DDac7xKRKMpMo3qtF.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 9195,
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 2370,
+      "name": "Merchant Ivory Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6368,
+      "name": "Embeth Davidtz",
+      "character": "Bella Ford",
+      "order": 0,
+      "cast_id": 17,
+      "popularity": 2.3974,
+      "profile_path": "/nwsdu9lOsKJ5v9RwOCc7kAiuxSO.jpg"
+    },
+    {
+      "personId": 22169,
+      "name": "Tom Bell",
+      "character": "Ben Wainwright",
+      "order": 1,
+      "cast_id": 18,
+      "popularity": 1.0626,
+      "profile_path": "/vlk9OqnjrYcD5RdFBFo8TbI1tWQ.jpg"
+    },
+    {
+      "personId": 9138,
+      "name": "Gemma Jones",
+      "character": "Mrs. Wainwright",
+      "order": 2,
+      "cast_id": 19,
+      "popularity": 2.2407,
+      "profile_path": "/hFApnOEWXyE55ONGGXis6a0PPHM.jpg"
+    },
+    {
+      "personId": 17648,
+      "name": "James Purefoy",
+      "character": "Jedd Wainwright",
+      "order": 3,
+      "cast_id": 20,
+      "popularity": 4.1435,
+      "profile_path": "/nCNyifrD9wOao27A1nT5n4Soxt1.jpg"
+    },
+    {
+      "personId": 21343,
+      "name": "Ben Chaplin",
+      "character": "Con Wainwright",
+      "order": 4,
+      "cast_id": 21,
+      "popularity": 1.5999,
+      "profile_path": "/oJc9gA7cRvRg1v4tgeAmpkaqFxO.jpg"
+    },
+    {
+      "personId": 1232075,
+      "name": "Kenneth Anderson",
+      "character": "Matty Wainwright",
+      "order": 5,
+      "cast_id": 22,
+      "popularity": 0.4345,
+      "profile_path": null
+    },
+    {
+      "personId": 16700,
+      "name": "Greg Wise",
+      "character": "Arch Wilson",
+      "order": 6,
+      "cast_id": 23,
+      "popularity": 2.01,
+      "profile_path": "/3yjzOyFVc8TpPW0Q8svr4ykD2kW.jpg"
+    },
+    {
+      "personId": 28479,
+      "name": "Richard Hope",
+      "character": "Squire Wyman",
+      "order": 7,
+      "cast_id": 29,
+      "popularity": 1.1903,
+      "profile_path": "/3mKtKcJC4beo8a5gqd1YOzNA67H.jpg"
+    },
+    {
+      "personId": 124686,
+      "name": "Mark Bazeley",
+      "character": "Man in Restaurant",
+      "order": 8,
+      "cast_id": 30,
+      "popularity": 7.5159,
+      "profile_path": "/odZ7QyXz8vzoiBPPoqPRMs7y4e4.jpg"
+    },
+    {
+      "personId": 1221001,
+      "name": "Stephen Frost",
+      "character": "Man in Restaurant",
+      "order": 9,
+      "cast_id": 31,
+      "popularity": 1.0137,
+      "profile_path": "/cu998GzQ8yRO6mgXaj3sTGuenio.jpg"
+    },
+    {
+      "personId": 583743,
+      "name": "Tom Marshall",
+      "character": "Prison Warder",
+      "order": 10,
+      "cast_id": 32,
+      "popularity": 0.2916,
+      "profile_path": null
+    },
+    {
+      "personId": 2756585,
+      "name": "Mark Neal",
+      "character": "Clerk at Shoe Factory",
+      "order": 11,
+      "cast_id": 33,
+      "popularity": 0.7799,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 68774,
+      "name": "Christopher Menaul",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.2348,
+      "profile_path": "/bA2WpkFouMRRUcyhWGSSALYzaaK.jpg"
+    }
+  ],
+  "keywords": []
+}

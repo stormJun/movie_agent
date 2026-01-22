@@ -1,0 +1,282 @@
+{
+  "overview": "A death-obsessed cleaning woman uncovers a clue identifying a Florida bartender for a series of socialite murders.",
+  "release_date": "1996-09-06",
+  "runtime": 88,
+  "budget": 2300000,
+  "revenue": 49620,
+  "tmdb_vote_average": 5.82,
+  "tmdb_vote_count": 128,
+  "tmdb_popularity": 2.9168,
+  "original_language": "en",
+  "poster_path": "/quXWXtOp6umg1qzPdWD6bB3x9EW.jpg",
+  "backdrop_path": "/2R7wWGQI5dwLFtE9MYk43Dza9Ss.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Crime",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 44774,
+      "name": "Tinderbox Films",
+      "origin_country": ""
+    },
+    {
+      "id": 14,
+      "name": "Miramax",
+      "origin_country": "US"
+    },
+    {
+      "id": 59,
+      "name": "A Band Apart",
+      "origin_country": "US"
+    },
+    {
+      "id": 211806,
+      "name": "Rolling Thunder Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13021,
+      "name": "William Baldwin",
+      "character": "Paul Guell",
+      "order": 0,
+      "cast_id": 19,
+      "popularity": 3.0861,
+      "profile_path": "/mFCUAl6Rko6ocONhFDCpztcmKXd.jpg"
+    },
+    {
+      "personId": 71836,
+      "name": "Angela Jones",
+      "character": "Gabriela",
+      "order": 1,
+      "cast_id": 23,
+      "popularity": 1.6839,
+      "profile_path": "/jO5ULvqa6CeilVGLdVK6kVvlVsv.jpg"
+    },
+    {
+      "personId": 7039,
+      "name": "Bruce Ramsay",
+      "character": "Eduardo",
+      "order": 2,
+      "cast_id": 18,
+      "popularity": 1.1224,
+      "profile_path": "/xvVbXMzHqZ0kMs77EScQ76S4gWH.jpg"
+    },
+    {
+      "personId": 10475,
+      "name": "Lois Chiles",
+      "character": "Katrina Brandt",
+      "order": 3,
+      "cast_id": 20,
+      "popularity": 2.0863,
+      "profile_path": "/4iNFyon7E8LvwyyrMVDQ8nItVZk.jpg"
+    },
+    {
+      "personId": 12852,
+      "name": "Barry Corbin",
+      "character": "Lodger",
+      "order": 4,
+      "cast_id": 21,
+      "popularity": 3.6561,
+      "profile_path": "/avNg0rmudSPg30f8Xt9BwkPDC17.jpg"
+    },
+    {
+      "personId": 46394,
+      "name": "Mel Gorham",
+      "character": "Elena",
+      "order": 5,
+      "cast_id": 22,
+      "popularity": 0.8317,
+      "profile_path": "/m1ju0BoV10CWPs0BuGw9rViX1Zj.jpg"
+    },
+    {
+      "personId": 71837,
+      "name": "Daisy Fuentes",
+      "character": "Clara",
+      "order": 6,
+      "cast_id": 28,
+      "popularity": 0.7689,
+      "profile_path": "/vNNPr47Wi3QROXWVJB5MrQrnNC1.jpg"
+    },
+    {
+      "personId": 71838,
+      "name": "Carmen López",
+      "character": "Lourdes",
+      "order": 7,
+      "cast_id": 29,
+      "popularity": 0.3771,
+      "profile_path": "/srHE8NdLnieQRJkDxqDvLiWU7ae.jpg"
+    },
+    {
+      "personId": 65422,
+      "name": "Vivienne Sendaydiego",
+      "character": "Eva",
+      "order": 8,
+      "cast_id": 24,
+      "popularity": 0.3527,
+      "profile_path": null
+    },
+    {
+      "personId": 71839,
+      "name": "Caridad Ravelo",
+      "character": "Joan",
+      "order": 9,
+      "cast_id": 27,
+      "popularity": 0.0747,
+      "profile_path": null
+    },
+    {
+      "personId": 26295,
+      "name": "Sandra Thigpen",
+      "character": "Grace",
+      "order": 10,
+      "cast_id": 25,
+      "popularity": 0.7829,
+      "profile_path": "/pKgNv10Hp2gnxEQBLRBRZI0RAO6.jpg"
+    },
+    {
+      "personId": 11164,
+      "name": "Kelly Preston",
+      "character": "Kelly Hogue",
+      "order": 11,
+      "cast_id": 26,
+      "popularity": 2.3248,
+      "profile_path": "/yyD9u0ziaHBrNs2eYx21pMG4Iq5.jpg"
+    },
+    {
+      "personId": 71840,
+      "name": "Lupita Ferrer",
+      "character": "Marie Clement",
+      "order": 12,
+      "cast_id": 30,
+      "popularity": 0.7974,
+      "profile_path": "/7oA3gNuxL0LnvMlIQsU1fUwntP5.jpg"
+    },
+    {
+      "personId": 71843,
+      "name": "Sabrina Cowan",
+      "character": "Red Haired Waitress",
+      "order": 13,
+      "cast_id": 35,
+      "popularity": 0.0071,
+      "profile_path": null
+    },
+    {
+      "personId": 71841,
+      "name": "Charley Tucker",
+      "character": "San the Barback",
+      "order": 14,
+      "cast_id": 33,
+      "popularity": 0.2304,
+      "profile_path": "/xEDKwEiZvKN3YufzkCT3Kzu20qW.jpg"
+    },
+    {
+      "personId": 71842,
+      "name": "Allysa Tacher",
+      "character": "Young Gabriela",
+      "order": 15,
+      "cast_id": 34,
+      "popularity": 0.0745,
+      "profile_path": null
+    },
+    {
+      "personId": 71844,
+      "name": "Nattacha Amador",
+      "character": "Young Gabriela's Mother",
+      "order": 16,
+      "cast_id": 31,
+      "popularity": 0.0429,
+      "profile_path": null
+    },
+    {
+      "personId": 71845,
+      "name": "Therese Marie Gutierrez",
+      "character": "PFCS Spokesmaid",
+      "order": 17,
+      "cast_id": 32,
+      "popularity": 0.1522,
+      "profile_path": null
+    },
+    {
+      "personId": 71846,
+      "name": "Jay Arnor",
+      "character": "Falling Man",
+      "order": 18,
+      "cast_id": 38,
+      "popularity": 0.048,
+      "profile_path": null
+    },
+    {
+      "personId": 71847,
+      "name": "Nicoll Bacharach",
+      "character": "Beheaded French Revolutionary",
+      "order": 19,
+      "cast_id": 37,
+      "popularity": 0.3993,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 71825,
+      "name": "Reb Braddock",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.3066,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 416,
+      "name": "miami, florida"
+    },
+    {
+      "id": 1490,
+      "name": "cleaning lady"
+    },
+    {
+      "id": 7397,
+      "name": "bakery"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 11181,
+      "name": "decapitation"
+    },
+    {
+      "id": 10714,
+      "name": "serial killer"
+    },
+    {
+      "id": 18098,
+      "name": "samurai sword"
+    },
+    {
+      "id": 179430,
+      "name": "aftercreditsstinger"
+    }
+  ]
+}

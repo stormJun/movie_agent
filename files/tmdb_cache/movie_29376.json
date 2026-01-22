@@ -1,0 +1,267 @@
+{
+  "overview": "A Broadway artiste turns a faded film star's comeback vehicle into an artsy flop.",
+  "release_date": "1953-08-07",
+  "runtime": 112,
+  "budget": 2900000,
+  "revenue": 3500000,
+  "tmdb_vote_average": 7.151,
+  "tmdb_vote_count": 228,
+  "tmdb_popularity": 1.168,
+  "original_language": "en",
+  "poster_path": "/5CvUmTWK46rShfgLmw7LuKF2fYL.jpg",
+  "backdrop_path": "/bud4H3I6X9b9HIcilAb33k6mNES.jpg",
+  "tmdb_genres_raw": [
+    "Music",
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 30181,
+      "name": "Fred Astaire",
+      "character": "Tony Hunter",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.4517,
+      "profile_path": "/6gw9PCrKi19I5QOwjEPaOYW9uLI.jpg"
+    },
+    {
+      "personId": 41226,
+      "name": "Cyd Charisse",
+      "character": "Gabrielle Gerard",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.47,
+      "profile_path": "/13Sh935pjeY4hTeqkObCF61QRG2.jpg"
+    },
+    {
+      "personId": 27966,
+      "name": "Oscar Levant",
+      "character": "Lester Marton",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 0.5276,
+      "profile_path": "/smcuIJIwXOiV1xUKJjrrozn3yZP.jpg"
+    },
+    {
+      "personId": 160239,
+      "name": "Nanette Fabray",
+      "character": "Lily Marton",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 0.7683,
+      "profile_path": "/6w1VAH7UHKBhovOlSfIQaRrTx9.jpg"
+    },
+    {
+      "personId": 589000,
+      "name": "Jack Buchanan",
+      "character": "Jeffrey Cordova",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 1.2011,
+      "profile_path": "/5cDC7j4ZQBkf3gmpL39jjLzQJe8.jpg"
+    },
+    {
+      "personId": 100918,
+      "name": "James Mitchell",
+      "character": "Paul Byrd",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 0.4889,
+      "profile_path": "/pTg0eUWpaJM5p9ReskQhS2axmgM.jpg"
+    },
+    {
+      "personId": 12504,
+      "name": "Robert Gist",
+      "character": "Hal",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 1.0477,
+      "profile_path": "/6AO1jw6rxAXicGk3Pi7FnJjRC7y.jpg"
+    },
+    {
+      "personId": 25787,
+      "name": "Ava Gardner",
+      "character": "Ava Gardner (uncredited)",
+      "order": 7,
+      "cast_id": 29,
+      "popularity": 2.0558,
+      "profile_path": "/kt4nKjQpfssgVIvv8vf96e090qG.jpg"
+    },
+    {
+      "personId": 30539,
+      "name": "Don Beddoe",
+      "character": "Producer (uncredited)",
+      "order": 8,
+      "cast_id": 26,
+      "popularity": 1.2409,
+      "profile_path": "/9NI9ofN3DlPCuhLhCdTiWYg8C0L.jpg"
+    },
+    {
+      "personId": 106102,
+      "name": "Henry Corden",
+      "character": "Orchestra Leader (uncredited)",
+      "order": 9,
+      "cast_id": 27,
+      "popularity": 1.4437,
+      "profile_path": "/wTt3jkTCEYyej9vGYQjgHERYzgo.jpg"
+    },
+    {
+      "personId": 44998,
+      "name": "Steve Forrest",
+      "character": "Passenger on Train (uncredited)",
+      "order": 10,
+      "cast_id": 28,
+      "popularity": 1.6778,
+      "profile_path": "/gIAQMiYS5n9ULS7D363kJvStqlR.jpg"
+    },
+    {
+      "personId": 121323,
+      "name": "Bess Flowers",
+      "character": "Train Passenger (uncredited)",
+      "order": 11,
+      "cast_id": 31,
+      "popularity": 1.3223,
+      "profile_path": "/oErbIo6a2QPYZSqfdzU6vlDTD8i.jpg"
+    },
+    {
+      "personId": 1445466,
+      "name": "India Adams",
+      "character": "Gabrielle Gerard (singing voice) (uncredited)",
+      "order": 12,
+      "cast_id": 32,
+      "popularity": 0.1327,
+      "profile_path": null
+    },
+    {
+      "personId": 13298,
+      "name": "Douglas Fowley",
+      "character": "Auctioneer (uncredited)",
+      "order": 13,
+      "cast_id": 33,
+      "popularity": 1.0344,
+      "profile_path": "/zsgxWLXCHdMKJrsCI8dRWs4IEEk.jpg"
+    },
+    {
+      "personId": 34277,
+      "name": "Thurston Hall",
+      "character": "Colonel Tripp (uncredited)",
+      "order": 14,
+      "cast_id": 34,
+      "popularity": 0.6138,
+      "profile_path": "/qBqBLp91C8XR0NyOhmTi73voJQY.jpg"
+    },
+    {
+      "personId": 569144,
+      "name": "Frank McLure",
+      "character": "Investor (uncredited)",
+      "order": 15,
+      "cast_id": 35,
+      "popularity": 1.591,
+      "profile_path": "/cdPFQjqIGBUHg5k2Ud39sB4B8jq.jpg"
+    },
+    {
+      "personId": 15973,
+      "name": "Julie Newmar",
+      "character": "Salon Model / Chorine in Girl Hunt Ballet (uncredited)",
+      "order": 16,
+      "cast_id": 36,
+      "popularity": 2.4891,
+      "profile_path": "/1VJkHq8I1gfh3wBcUZMBSs0anu8.jpg"
+    },
+    {
+      "personId": 120445,
+      "name": "Colin Kenny",
+      "character": "Drunk Outside Arcade (uncredited)",
+      "order": 17,
+      "cast_id": 37,
+      "popularity": 1.2064,
+      "profile_path": "/8zW8KNpOtiQxx9lTugciQbsl4gV.jpg"
+    },
+    {
+      "personId": 1208035,
+      "name": "Bert Stevens",
+      "character": "Train Station Passenger (uncredited)",
+      "order": 18,
+      "cast_id": 38,
+      "popularity": 1.204,
+      "profile_path": "/nEIxsXjWCtGDKcECuKL8qsqwGcb.jpg"
+    },
+    {
+      "personId": 171111,
+      "name": "Harold Miller",
+      "character": "Bystander in Girl Hunt Ballet (uncredited)",
+      "order": 19,
+      "cast_id": 39,
+      "popularity": 0.88,
+      "profile_path": "/baYrpaujUdnO5aoQFHJrkLru7l0.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 13980,
+      "name": "Vincente Minnelli",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8671,
+      "profile_path": "/fmlq7RMQdWsrPBAskIezf22e8Mv.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 4344,
+      "name": "musical"
+    },
+    {
+      "id": 33681,
+      "name": "top hat"
+    },
+    {
+      "id": 33934,
+      "name": "choreographer"
+    },
+    {
+      "id": 156028,
+      "name": "broadway"
+    },
+    {
+      "id": 156905,
+      "name": "grand central station"
+    },
+    {
+      "id": 187256,
+      "name": "ballerina"
+    },
+    {
+      "id": 233607,
+      "name": "fading star"
+    }
+  ]
+}

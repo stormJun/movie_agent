@@ -1,0 +1,171 @@
+{
+  "overview": "A runaway teenage girl and a drifter rob a bank, hit the road to elude the Texas Rangers and find love on the run.",
+  "release_date": "1995-10-24",
+  "runtime": 89,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 4.222,
+  "tmdb_vote_count": 9,
+  "tmdb_popularity": 0.381,
+  "original_language": "en",
+  "poster_path": "/k9bCfnN4tfDJoGCmT8KVuvIjZWM.jpg",
+  "backdrop_path": null,
+  "tmdb_genres_raw": [
+    "Romance",
+    "Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 888,
+      "name": "Overseas FilmGroup",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 23764,
+      "name": "Erika Eleniak",
+      "character": "Amanda 'Mandy' Baker",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 3.5011,
+      "profile_path": "/lu9RKtMCHRZIzLJzWieiku0LSYU.jpg"
+    },
+    {
+      "personId": 18687,
+      "name": "William McNamara",
+      "character": "Rick Davis",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 1.117,
+      "profile_path": "/c6mLOGGpJK94a0RNt6LPeoHEONh.jpg"
+    },
+    {
+      "personId": 4250,
+      "name": "Michael Lerner",
+      "character": "Pal",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 1.4201,
+      "profile_path": "/1jRm6TRS5atQrA1VQSef7GoL13g.jpg"
+    },
+    {
+      "personId": 4971,
+      "name": "Bud Cort",
+      "character": "Bud",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 1.4899,
+      "profile_path": "/t3ncccw3yAk69FYDdG9RkvT0qpC.jpg"
+    },
+    {
+      "personId": 21523,
+      "name": "Ed Lauter",
+      "character": "Ben Wilmer",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 1.294,
+      "profile_path": "/3oWs1Di6KipqQgIg97y4emyyRaE.jpg"
+    },
+    {
+      "personId": 26483,
+      "name": "Valerie Perrine",
+      "character": "Tilly Baker",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 1.8127,
+      "profile_path": "/dOCVB0kK79ndxIp1ybdArlgka4j.jpg"
+    },
+    {
+      "personId": 152638,
+      "name": "Gene Borkan",
+      "character": "Hotel security guard",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 1.5456,
+      "profile_path": "/b4YJYoLnrq5dZzCWpeUcfTdI03q.jpg"
+    },
+    {
+      "personId": 2142877,
+      "name": "Jeff Mosley",
+      "character": "Policeman",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 0.876,
+      "profile_path": "/36rg5YDifingUVlfOrEjtzmBHKX.jpg"
+    },
+    {
+      "personId": 1242308,
+      "name": "Ed Bernard",
+      "character": "Judge Horton",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 0.6592,
+      "profile_path": "/2zkFaDgbS2WtNxjlEbkrYKPKpO.jpg"
+    },
+    {
+      "personId": 156029,
+      "name": "William Shockley",
+      "character": "Lamar",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 1.6174,
+      "profile_path": "/lOcuXGETGWR8kVQMgjan1jOT13a.jpg"
+    },
+    {
+      "personId": 2221,
+      "name": "Leland Orser",
+      "character": "Used Car Salesman",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 1.7385,
+      "profile_path": "/vvVcWhActW8k2gQz95UatVP4Duf.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1382436,
+      "name": "Lucas Platt",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.453,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 642,
+      "name": "robbery"
+    },
+    {
+      "id": 974,
+      "name": "bank"
+    },
+    {
+      "id": 3300,
+      "name": "cadillac"
+    },
+    {
+      "id": 10594,
+      "name": "money"
+    },
+    {
+      "id": 168350,
+      "name": "bus station"
+    }
+  ]
+}

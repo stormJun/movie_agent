@@ -1,0 +1,260 @@
+{
+  "overview": "The same situation is played out in different cities (New York, Berlin and Tokyo). A lover has to choose whether to commit to a partner who is returning home. In each case there are other people involved, an ex-partner and someone else in a \"permanent\" relationship, what do they choose to do?",
+  "release_date": "1995-09-14",
+  "runtime": 85,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.056,
+  "tmdb_vote_count": 27,
+  "tmdb_popularity": 1.8183,
+  "original_language": "en",
+  "poster_path": "/6DGq5lReLwfrfaeidNeHpYtAZ9Q.jpg",
+  "backdrop_path": "/6xK19gQx5H1QjcLZZ197SRJKC3Q.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 37909,
+      "name": "True Fiction Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 254,
+      "name": "Pandora Filmproduktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 88919,
+      "name": "Nippon Film Development and Finance",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "de",
+      "name": "Deutsch"
+    },
+    {
+      "code": "ja",
+      "name": "日本語"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 32029,
+      "name": "Bill Sage",
+      "character": "Bill",
+      "order": 0,
+      "cast_id": 12,
+      "popularity": 1.269,
+      "profile_path": "/3q2r6eDcC843GgVHVA7mSehcqC9.jpg"
+    },
+    {
+      "personId": 20283,
+      "name": "Dwight Ewell",
+      "character": "Dwight",
+      "order": 1,
+      "cast_id": 15,
+      "popularity": 0.9463,
+      "profile_path": "/cHbxYfDX7tfKmhWWJFkt5cFw4eZ.jpg"
+    },
+    {
+      "personId": 189721,
+      "name": "Miho Nikaido",
+      "character": "Miho",
+      "order": 2,
+      "cast_id": 16,
+      "popularity": 1.0877,
+      "profile_path": "/zvFOemfbpvY9quYQiOwYkWhBvyx.jpg"
+    },
+    {
+      "personId": 7489,
+      "name": "Parker Posey",
+      "character": "Emily",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 3.3399,
+      "profile_path": "/yoFt75JfGUqQ6EV8qN6fckQuElk.jpg"
+    },
+    {
+      "personId": 42993,
+      "name": "Martin Donovan",
+      "character": "Walter",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.8002,
+      "profile_path": "/wTCmpcmd8mcAbsX6Yc7zFs2J98Q.jpg"
+    },
+    {
+      "personId": 135162,
+      "name": "Karen Sillas",
+      "character": "Dr. Clint",
+      "order": 5,
+      "cast_id": 18,
+      "popularity": 1.9314,
+      "profile_path": "/vQhlcyC2TZkHJQ2w86e1BSmRdae.jpg"
+    },
+    {
+      "personId": 11486,
+      "name": "Michael Imperioli",
+      "character": "Michael",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 3.0135,
+      "profile_path": "/jfoEHR6BRMg8emtujXdM3G4JHIm.jpg"
+    },
+    {
+      "personId": 22686,
+      "name": "Maria Schrader",
+      "character": "Woman at Bar",
+      "order": 7,
+      "cast_id": 40,
+      "popularity": 0.7499,
+      "profile_path": "/sZuIcKq5D75GNKlYecK08O3X0hG.jpg"
+    },
+    {
+      "personId": 17546,
+      "name": "Peter Fitz",
+      "character": "Doctor",
+      "order": 8,
+      "cast_id": 31,
+      "popularity": 0.8328,
+      "profile_path": "/uuS2Tbva1PdAeMxFKUjlO1V7eJN.jpg"
+    },
+    {
+      "personId": 68973,
+      "name": "Masatoshi Nagase",
+      "character": "Hal's assistant",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 1.286,
+      "profile_path": "/i4FjAoP2xPtG82lEGnIkL7mFc6g.jpg"
+    },
+    {
+      "personId": 6195,
+      "name": "Harold Perrineau",
+      "character": "Men's Room Man #1",
+      "order": 10,
+      "cast_id": 10,
+      "popularity": 3.5406,
+      "profile_path": "/bVSLpGUaislREbujmknOqadrxYM.jpg"
+    },
+    {
+      "personId": 31512,
+      "name": "Robert John Burke",
+      "character": "Men's Room Man #2",
+      "order": 11,
+      "cast_id": 4,
+      "popularity": 2.2997,
+      "profile_path": "/4uCjxK6QmPW98W56aCldwINSOcX.jpg"
+    },
+    {
+      "personId": 170935,
+      "name": "Paul Austin",
+      "character": "Men's Room Man #3",
+      "order": 12,
+      "cast_id": 3,
+      "popularity": 0.3907,
+      "profile_path": null
+    },
+    {
+      "personId": 94430,
+      "name": "Erica Gimpel",
+      "character": "Nurse",
+      "order": 13,
+      "cast_id": 6,
+      "popularity": 2.6538,
+      "profile_path": "/9rEGsUqlbVJexRZ2TTxc0UIGY5P.jpg"
+    },
+    {
+      "personId": 7497,
+      "name": "Holt McCallany",
+      "character": "Bartender",
+      "order": 14,
+      "cast_id": 8,
+      "popularity": 3.0466,
+      "profile_path": "/nHZgHsBc8P69LFTGsDSrZYt2PmS.jpg"
+    },
+    {
+      "personId": 189128,
+      "name": "Lianna Pai",
+      "character": "Woman at Phone Booth",
+      "order": 15,
+      "cast_id": 9,
+      "popularity": 0.7749,
+      "profile_path": "/q8dJSyNTHoaYtAR4s2uxaDna8zN.jpg"
+    },
+    {
+      "personId": 189160,
+      "name": "Patricia Scanlon",
+      "character": "Woman at Bar",
+      "order": 16,
+      "cast_id": 13,
+      "popularity": 0.4145,
+      "profile_path": null
+    },
+    {
+      "personId": 36189,
+      "name": "Paul Schulze",
+      "character": "",
+      "order": 17,
+      "cast_id": 21,
+      "popularity": 2.5404,
+      "profile_path": "/rT7RXbJ89XwIKmSkymEE4BhyIlk.jpg"
+    },
+    {
+      "personId": 1172860,
+      "name": "Hannah Sullivan",
+      "character": "Trish",
+      "order": 18,
+      "cast_id": 22,
+      "popularity": 0.2173,
+      "profile_path": null
+    },
+    {
+      "personId": 10963,
+      "name": "José Zúñiga",
+      "character": "Cab Driver",
+      "order": 19,
+      "cast_id": 23,
+      "popularity": 2.3539,
+      "profile_path": "/r6nFkJkMHP9tFDohwfav9Bf2rCR.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 91343,
+      "name": "Hal Hartley",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7663,
+      "profile_path": "/vZ0Ms0CM9h5IsXoiSeqDmblmXXA.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 268132,
+      "name": "based on short film"
+    }
+  ]
+}

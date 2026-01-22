@@ -1,0 +1,249 @@
+{
+  "overview": "When American author Nicholas brings in a cosmetologist named Kika to prepare the corpse of his recently deceased son, she inadvertently revives the young man, then falls in love with him. Forces conspire against the couple, though, as Nicholas wants Kika for himself.",
+  "release_date": "1993-10-29",
+  "runtime": 117,
+  "budget": 0,
+  "revenue": 2019069,
+  "tmdb_vote_average": 6.4,
+  "tmdb_vote_count": 306,
+  "tmdb_popularity": 3.0743,
+  "original_language": "es",
+  "poster_path": "/jUEBKaMqcvrz0HHF8Cei8asjRWr.jpg",
+  "backdrop_path": "/l8dbS5uLR2IzRu3qwMOXCUBRLnh.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 49,
+      "name": "El Deseo",
+      "origin_country": "ES"
+    },
+    {
+      "id": 105,
+      "name": "CiBy 2000",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "ES",
+      "name": "Spain"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 54146,
+      "name": "Verónica Forqué",
+      "character": "Kika",
+      "order": 0,
+      "cast_id": 6,
+      "popularity": 0.7794,
+      "profile_path": "/m9NIBixFvxqz4UdFlSe68A3Ogwx.jpg"
+    },
+    {
+      "personId": 25256,
+      "name": "Victoria Abril",
+      "character": "Andrea Caracortada",
+      "order": 1,
+      "cast_id": 7,
+      "popularity": 2.6356,
+      "profile_path": "/eXI42Fp7MIGHxEzmAX20I94CZi6.jpg"
+    },
+    {
+      "personId": 9979,
+      "name": "Peter Coyote",
+      "character": "Nicholas Pierce",
+      "order": 2,
+      "cast_id": 8,
+      "popularity": 2.2348,
+      "profile_path": "/AglpxXP9wBM567UMGL9DAMbid1V.jpg"
+    },
+    {
+      "personId": 25258,
+      "name": "Rossy de Palma",
+      "character": "Juana",
+      "order": 3,
+      "cast_id": 9,
+      "popularity": 1.3071,
+      "profile_path": "/3IH9ZBUcFNwBr8IcS1RZhMKTpeg.jpg"
+    },
+    {
+      "personId": 26661,
+      "name": "Àlex Casanovas",
+      "character": "Ramón",
+      "order": 4,
+      "cast_id": 10,
+      "popularity": 1.1439,
+      "profile_path": "/2qZwHh0dSD5MfSqBSfGuDbtWL8x.jpg"
+    },
+    {
+      "personId": 26928,
+      "name": "Santiago Lajusticia",
+      "character": "Pablo",
+      "order": 5,
+      "cast_id": 11,
+      "popularity": 0.4533,
+      "profile_path": null
+    },
+    {
+      "personId": 34794,
+      "name": "Bibiana Fernández",
+      "character": "Susana",
+      "order": 6,
+      "cast_id": 12,
+      "popularity": 1.0266,
+      "profile_path": "/nhZB3v83v9XDHfQE3CkCmXBW5JF.jpg"
+    },
+    {
+      "personId": 24894,
+      "name": "Anabel Alonso",
+      "character": "Amparo",
+      "order": 7,
+      "cast_id": 13,
+      "popularity": 0.4215,
+      "profile_path": "/h5QM85iI4726m8OgbZGZxkuC6aA.jpg"
+    },
+    {
+      "personId": 24900,
+      "name": "Jesús Bonilla",
+      "character": "Police",
+      "order": 8,
+      "cast_id": 14,
+      "popularity": 1.8127,
+      "profile_path": "/sRbDlpCYqMVaw73bvTraBb5VtTS.jpg"
+    },
+    {
+      "personId": 24977,
+      "name": "Karra Elejalde",
+      "character": "Police",
+      "order": 9,
+      "cast_id": 15,
+      "popularity": 0.6752,
+      "profile_path": "/kHODqgc2c7RaZz9Sp7cedgadvzG.jpg"
+    },
+    {
+      "personId": 25269,
+      "name": "Francisca Caballero",
+      "character": "Mrs. Paquita",
+      "order": 10,
+      "cast_id": 16,
+      "popularity": 0.2218,
+      "profile_path": "/iO4F0eldTAEWLpQeWGnZgzjmGKN.jpg"
+    },
+    {
+      "personId": 22372,
+      "name": "Mónica Bardem",
+      "character": "Paca",
+      "order": 11,
+      "cast_id": 17,
+      "popularity": 0.3112,
+      "profile_path": null
+    },
+    {
+      "personId": 26927,
+      "name": "Blanca Li",
+      "character": "Victim of the Murderer",
+      "order": 12,
+      "cast_id": 23,
+      "popularity": 0.6117,
+      "profile_path": "/iUoIqAznczq5So9HI965C2o2AIw.jpg"
+    },
+    {
+      "personId": 27003,
+      "name": "Claudia Aros",
+      "character": "Model",
+      "order": 13,
+      "cast_id": 20,
+      "popularity": 0.2761,
+      "profile_path": null
+    },
+    {
+      "personId": 272018,
+      "name": "Joaquín Climent",
+      "character": "Assassin",
+      "order": 14,
+      "cast_id": 22,
+      "popularity": 0.7131,
+      "profile_path": "/xtq8blzK76qwRwg5CAtvk9gm57D.jpg"
+    },
+    {
+      "personId": 25266,
+      "name": "Manuel Bandera",
+      "character": "Road Boy",
+      "order": 15,
+      "cast_id": 25,
+      "popularity": 0.4474,
+      "profile_path": "/loIMegz0B3nqkpmqzgy280hUdKC.jpg"
+    },
+    {
+      "personId": 258049,
+      "name": "Charo López",
+      "character": "Rafaela",
+      "order": 16,
+      "cast_id": 30,
+      "popularity": 1.3893,
+      "profile_path": "/g4NOfEwhBlcj3qGEDNe0IPR6RGD.jpg"
+    },
+    {
+      "personId": 952,
+      "name": "Agustín Almodóvar",
+      "character": "Reparador de Puertas (uncredited)",
+      "order": 17,
+      "cast_id": 31,
+      "popularity": 2.391,
+      "profile_path": "/ciY5icxyNekGwD3taLvzOprp2w5.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 309,
+      "name": "Pedro Almodóvar",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.7448,
+      "profile_path": "/dKlaXJk3NLcsC1CKMx6xmyW5BZD.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 236,
+      "name": "suicide"
+    },
+    {
+      "id": 1459,
+      "name": "marriage proposal"
+    },
+    {
+      "id": 744,
+      "name": "madrid, spain"
+    },
+    {
+      "id": 3739,
+      "name": "funeral"
+    },
+    {
+      "id": 1003,
+      "name": "photographer"
+    },
+    {
+      "id": 170125,
+      "name": "cosmetologist"
+    },
+    {
+      "id": 204039,
+      "name": "fake newsflash"
+    }
+  ]
+}

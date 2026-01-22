@@ -1,0 +1,257 @@
+{
+  "overview": "The beautiful princess Odette is transformed into a swan by an evil sorcerer's spell. Held captive at an enchanted lake, she befriends Jean-Bob the frog, Speed the turtle and Puffin the bird. Despite their struggle to keep the princess safe, these good-natured creatures can do nothing about the sorcerer's spell, which can only be broken by a vow of everlasting love.",
+  "release_date": "1994-11-18",
+  "runtime": 89,
+  "budget": 20000000,
+  "revenue": 9771658,
+  "tmdb_vote_average": 6.6,
+  "tmdb_vote_count": 986,
+  "tmdb_popularity": 2.9636,
+  "original_language": "en",
+  "poster_path": "/tmpO3vk8WguFOE4UXESGdWwHQOX.jpg",
+  "backdrop_path": "/hKXmvyBGkyIYfKPAgJdH40q1ozh.jpg",
+  "tmdb_genres_raw": [
+    "Family",
+    "Animation",
+    "Fantasy",
+    "Adventure",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 4108,
+      "name": "Rich Animation Studios",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3785,
+      "name": "Jack Palance",
+      "character": "Lord Rothbart (voice)",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 2.1964,
+      "profile_path": "/9TovoWi3lbI7HIVjppgSH2fYPf5.jpg"
+    },
+    {
+      "personId": 88946,
+      "name": "Howard McGillin",
+      "character": "Prince Derek (voice)",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 0.8293,
+      "profile_path": "/yNixhNO6v5TNfs2cZvCcesWS6CS.jpg"
+    },
+    {
+      "personId": 9260,
+      "name": "Michelle Nicastro",
+      "character": "Princess Odette (voice)",
+      "order": 2,
+      "cast_id": 1,
+      "popularity": 1.2058,
+      "profile_path": "/cU32AXOXyLY8jXlwzWStI7C83s8.jpg"
+    },
+    {
+      "personId": 58828,
+      "name": "Liz Callaway",
+      "character": "Princess Odette (singing voice)",
+      "order": 3,
+      "cast_id": 100,
+      "popularity": 0.5753,
+      "profile_path": "/zCPIvHAFAMSEHQxfbl6taChMsVu.jpg"
+    },
+    {
+      "personId": 8930,
+      "name": "John Cleese",
+      "character": "Jean-Bob (voice)",
+      "order": 4,
+      "cast_id": 4,
+      "popularity": 3.5435,
+      "profile_path": "/dhDw43v7EY52GG3Z4H8B9mr2s9p.jpg"
+    },
+    {
+      "personId": 3214,
+      "name": "Steven Wright",
+      "character": "Mr. Lorenzo \"Speed\" Trudgealong (voice)",
+      "order": 5,
+      "cast_id": 5,
+      "popularity": 1.1401,
+      "profile_path": "/9Q9buDjfm6uq0VE86MZ01o96lyG.jpg"
+    },
+    {
+      "personId": 88948,
+      "name": "Steve Vinovich",
+      "character": "Lieutenant Puffin (voice)",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 1.505,
+      "profile_path": "/swwNWlGY50RsHrcyjc6LPokjuyM.jpg"
+    },
+    {
+      "personId": 88949,
+      "name": "Mark Harelik",
+      "character": "Lord Rogers (voice)",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 1.6146,
+      "profile_path": "/tzLd27s8dduLh3c22gSt2QfI6wY.jpg"
+    },
+    {
+      "personId": 947905,
+      "name": "James Arrington",
+      "character": "Chamberlain (voice)",
+      "order": 8,
+      "cast_id": 39,
+      "popularity": 0.4537,
+      "profile_path": "/lS2qgyS9D41QiMarpoL9AJyrPn3.jpg"
+    },
+    {
+      "personId": 168262,
+      "name": "Davis Gaines",
+      "character": "Chamberlain (singing voice)",
+      "order": 9,
+      "cast_id": 103,
+      "popularity": 0.3689,
+      "profile_path": "/jy2IBmCSHRl8ITKJwQFK1tRPJtO.jpg"
+    },
+    {
+      "personId": 88950,
+      "name": "Joel McKinnon Miller",
+      "character": "Bromley (voice)",
+      "order": 10,
+      "cast_id": 9,
+      "popularity": 2.0,
+      "profile_path": "/tssymtsgGV3zd8X6tm7p6ZbIUv.jpg"
+    },
+    {
+      "personId": 43364,
+      "name": "Dakin Matthews",
+      "character": "King William (voice)",
+      "order": 11,
+      "cast_id": 10,
+      "popularity": 2.1965,
+      "profile_path": "/y0r9HdW9RFzQWoeciOFq9eFr92.jpg"
+    },
+    {
+      "personId": 88947,
+      "name": "Sandy Duncan",
+      "character": "Queen Uberta (voice)",
+      "order": 12,
+      "cast_id": 6,
+      "popularity": 1.1477,
+      "profile_path": "/lkv19jGXrtcB0aVRryiy1UpCXD5.jpg"
+    },
+    {
+      "personId": 107300,
+      "name": "Brian Nissen",
+      "character": "Narrator (voice)",
+      "order": 13,
+      "cast_id": 40,
+      "popularity": 0.5195,
+      "profile_path": "/6rd1FCUeW12tuGwf9P82NKcGeXn.jpg"
+    },
+    {
+      "personId": 21402,
+      "name": "Adam Wylie",
+      "character": "Young Derek (voice)",
+      "order": 14,
+      "cast_id": 41,
+      "popularity": 2.1415,
+      "profile_path": "/g59pfDt3xNnPmvYkOoYFXykXW5O.jpg"
+    },
+    {
+      "personId": 2520385,
+      "name": "Adrian Zahiri",
+      "character": "Young Princess Odette (voice)",
+      "order": 15,
+      "cast_id": 104,
+      "popularity": 0.1181,
+      "profile_path": null
+    },
+    {
+      "personId": 1213342,
+      "name": "Tom Alan Robbins",
+      "character": "Musician (voice)",
+      "order": 16,
+      "cast_id": 105,
+      "popularity": 0.467,
+      "profile_path": null
+    },
+    {
+      "personId": 1741470,
+      "name": "Bess Hopper",
+      "character": "Bridget (voice)",
+      "order": 17,
+      "cast_id": 101,
+      "popularity": 0.2961,
+      "profile_path": null
+    },
+    {
+      "personId": 1147971,
+      "name": "Jon Joyce",
+      "character": "Chorus (voice)",
+      "order": 18,
+      "cast_id": 106,
+      "popularity": 0.2254,
+      "profile_path": null
+    },
+    {
+      "personId": 1052214,
+      "name": "Susan Boyd",
+      "character": "Chorus (voice)",
+      "order": 19,
+      "cast_id": 107,
+      "popularity": 1.3841,
+      "profile_path": "/13hsDXQ319OQEP1bJpknx5opAR0.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 107274,
+      "name": "Richard Rich",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.8026,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 7376,
+      "name": "princess"
+    },
+    {
+      "id": 4152,
+      "name": "kingdom"
+    },
+    {
+      "id": 6513,
+      "name": "cartoon"
+    },
+    {
+      "id": 4344,
+      "name": "musical"
+    },
+    {
+      "id": 9799,
+      "name": "romcom"
+    },
+    {
+      "id": 10407,
+      "name": "swan"
+    }
+  ]
+}

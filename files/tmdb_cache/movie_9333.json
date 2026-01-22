@@ -1,0 +1,269 @@
+{
+  "overview": "John Smith is a mysterious stranger who is drawn into a vicious war between two Prohibition-era gangs. In a dangerous game, he switches allegiances from one to another, offering his services to the highest bidder. As the death toll mounts, Smith takes the law into his own hands in a deadly race to stay alive.",
+  "release_date": "1996-09-20",
+  "runtime": 101,
+  "budget": 67000000,
+  "revenue": 47267001,
+  "tmdb_vote_average": 6.354,
+  "tmdb_vote_count": 944,
+  "tmdb_popularity": 2.3987,
+  "original_language": "en",
+  "poster_path": "/m8bVMFAN18H7qmwn2KOWWjDQnbC.jpg",
+  "backdrop_path": "/2wpoSvwPkCMJeVTrjkMUAF5B1sW.jpg",
+  "tmdb_genres_raw": [
+    "Crime",
+    "Action",
+    "Western"
+  ],
+  "production_companies": [
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 139921,
+      "name": "Arthur Sarkissian Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 80485,
+      "name": "Lone Wolf",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 62,
+      "name": "Bruce Willis",
+      "character": "John Smith",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 9.2024,
+      "profile_path": "/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+    },
+    {
+      "personId": 6905,
+      "name": "Bruce Dern",
+      "character": "Sheriff Ed Galt",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 3.8119,
+      "profile_path": "/5RKGcElQiFZh4Mu9gInyUhr9Uu7.jpg"
+    },
+    {
+      "personId": 590,
+      "name": "William Sanderson",
+      "character": "Joe Monday",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.83,
+      "profile_path": "/i3JfaavAFq9ayeJ4doUaOGjHMMW.jpg"
+    },
+    {
+      "personId": 4690,
+      "name": "Christopher Walken",
+      "character": "Hickey",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 4.2022,
+      "profile_path": "/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+    },
+    {
+      "personId": 1737,
+      "name": "David Patrick Kelly",
+      "character": "Doyle",
+      "order": 4,
+      "cast_id": 14,
+      "popularity": 2.1224,
+      "profile_path": "/bOPih90JJ2lCg3VXbNwpANHz8tm.jpg"
+    },
+    {
+      "personId": 11068,
+      "name": "Karina Lombard",
+      "character": "Felina",
+      "order": 5,
+      "cast_id": 15,
+      "popularity": 1.1426,
+      "profile_path": "/yiRO0bdHkPccjQDA3HdEPmJUEA7.jpg"
+    },
+    {
+      "personId": 137529,
+      "name": "Ned Eisenberg",
+      "character": "Fredo Strozzi",
+      "order": 6,
+      "cast_id": 16,
+      "popularity": 0.9964,
+      "profile_path": "/tSpibCDWQuec83tHUhMLjLmyOIa.jpg"
+    },
+    {
+      "personId": 11486,
+      "name": "Michael Imperioli",
+      "character": "Giorgio Carmonte",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 3.0135,
+      "profile_path": "/jfoEHR6BRMg8emtujXdM3G4JHIm.jpg"
+    },
+    {
+      "personId": 49832,
+      "name": "R. D. Call",
+      "character": "Jack McCool",
+      "order": 8,
+      "cast_id": 20,
+      "popularity": 1.1037,
+      "profile_path": "/c1lpGYJgYwXLkmEFeRAJWNDuo5H.jpg"
+    },
+    {
+      "personId": 131183,
+      "name": "Alexandra Powers",
+      "character": "Lucy Kolinski",
+      "order": 9,
+      "cast_id": 17,
+      "popularity": 2.6504,
+      "profile_path": "/zfz44FfM0YbGeScUTlUmf7gPvpq.jpg"
+    },
+    {
+      "personId": 38570,
+      "name": "Ken Jenkins",
+      "character": "Captain Tom Pickett",
+      "order": 10,
+      "cast_id": 19,
+      "popularity": 1.5383,
+      "profile_path": "/basRrWk50y03ydjm0DW8A6AxH1o.jpg"
+    },
+    {
+      "personId": 136195,
+      "name": "Ted Markland",
+      "character": "Deputy Bob",
+      "order": 11,
+      "cast_id": 21,
+      "popularity": 1.1891,
+      "profile_path": "/6yVzZc5XAoaVBZ4JcK15NKBeGlH.jpg"
+    },
+    {
+      "personId": 41087,
+      "name": "Leslie Mann",
+      "character": "Wanda",
+      "order": 12,
+      "cast_id": 22,
+      "popularity": 4.7019,
+      "profile_path": "/x3OS9RL3qsv50kzRtpR2OhbuTkr.jpg"
+    },
+    {
+      "personId": 32286,
+      "name": "Patrick Kilpatrick",
+      "character": "Finn",
+      "order": 13,
+      "cast_id": 23,
+      "popularity": 1.4121,
+      "profile_path": "/yhujborr3HMC9ALvuOPu25ffAhN.jpg"
+    },
+    {
+      "personId": 98473,
+      "name": "Cassandra Gava",
+      "character": "Barmaid",
+      "order": 14,
+      "cast_id": 68,
+      "popularity": 1.5947,
+      "profile_path": "/b78vx2CzqGa6MZgkZr4aXA0b3CG.jpg"
+    },
+    {
+      "personId": 85870,
+      "name": "Luis Contreras",
+      "character": "Comandante Ramirez",
+      "order": 15,
+      "cast_id": 24,
+      "popularity": 0.5461,
+      "profile_path": "/xWM5f9ryzSM9CM09WWYxES0QNWE.jpg"
+    },
+    {
+      "personId": 21082,
+      "name": "Raynor Scheine",
+      "character": "Gas Station Attendant",
+      "order": 16,
+      "cast_id": 25,
+      "popularity": 1.7459,
+      "profile_path": "/gqj3nFgq2W83RrJNyqHm2xw8Efw.jpg"
+    },
+    {
+      "personId": 98579,
+      "name": "Tiny Ron",
+      "character": "Jacko the Giant",
+      "order": 17,
+      "cast_id": 26,
+      "popularity": 0.7019,
+      "profile_path": "/z70iHJLvnqHRS9Ti9rm6ee8FXCJ.jpg"
+    },
+    {
+      "personId": 19326,
+      "name": "John Paxton",
+      "character": "The Undertaker",
+      "order": 18,
+      "cast_id": 27,
+      "popularity": 1.7067,
+      "profile_path": "/ndSd4nnukk03loB6RKx3iuP5xfx.jpg"
+    },
+    {
+      "personId": 112150,
+      "name": "Michael Cavalieri",
+      "character": "Berto",
+      "order": 19,
+      "cast_id": 28,
+      "popularity": 1.9591,
+      "profile_path": "/2K4LAmP8yO7j3pvxLw5hz1WiyEf.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1723,
+      "name": "Walter Hill",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.7191,
+      "profile_path": "/3CiICrmhaYnirmOMHEaFXYTbsnT.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 947,
+      "name": "prohibition era"
+    },
+    {
+      "id": 1556,
+      "name": "texas"
+    },
+    {
+      "id": 2987,
+      "name": "gang war"
+    },
+    {
+      "id": 9193,
+      "name": "whiskey"
+    },
+    {
+      "id": 10562,
+      "name": "on the run"
+    },
+    {
+      "id": 10391,
+      "name": "mafia"
+    },
+    {
+      "id": 188296,
+      "name": "hired gun"
+    }
+  ]
+}

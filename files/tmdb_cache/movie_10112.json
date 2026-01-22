@@ -1,0 +1,284 @@
+{
+  "overview": "When Madame Adelaide Bonfamille leaves her fortune to Duchess and her children—Bonfamille’s beloved family of cats—the butler plots to steal the money and kidnaps the legatees, leaving them out on a country road. All seems lost until the wily Thomas O’Malley Cat and his jazz-playing alley cats come to the aristocats’ rescue.",
+  "release_date": "1970-12-24",
+  "runtime": 78,
+  "budget": 4000000,
+  "revenue": 191000000,
+  "tmdb_vote_average": 7.296,
+  "tmdb_vote_count": 5276,
+  "tmdb_popularity": 6.2711,
+  "original_language": "en",
+  "poster_path": "/1BVOSmQUhphMgnTxnXyfQ9tL1Sc.jpg",
+  "backdrop_path": "/oM5mMTGBqsmMJO3l5tkQdQ0Xujm.jpg",
+  "tmdb_genres_raw": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Adventure"
+  ],
+  "production_companies": [
+    {
+      "id": 3166,
+      "name": "Walt Disney Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 57329,
+      "name": "Phil Harris",
+      "character": "O'Malley (voice)",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 0.981,
+      "profile_path": "/rmwonhlAdVHs2D2u7kGOYqLiMT1.jpg"
+    },
+    {
+      "personId": 44714,
+      "name": "Eva Gabor",
+      "character": "Duchess (voice)",
+      "order": 1,
+      "cast_id": 18,
+      "popularity": 2.1015,
+      "profile_path": "/gApDSJixCnXin3LYmAbMx7Ly4VV.jpg"
+    },
+    {
+      "personId": 34759,
+      "name": "Sterling Holloway",
+      "character": "Roquefort (voice)",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.2984,
+      "profile_path": "/86gGSpQcfgQrumwwvOmO6DtTWkP.jpg"
+    },
+    {
+      "personId": 7077,
+      "name": "Scatman Crothers",
+      "character": "Scat Cat (voice)",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.4887,
+      "profile_path": "/jf2ooubjE5tjBJwDI9Nla0M57m2.jpg"
+    },
+    {
+      "personId": 77548,
+      "name": "Paul Winchell",
+      "character": "Chinese Cat (voice)",
+      "order": 4,
+      "cast_id": 20,
+      "popularity": 0.7701,
+      "profile_path": "/aZjzqTlzhBpcXogubUP8wcPE4Da.jpg"
+    },
+    {
+      "personId": 951459,
+      "name": "Lord Tim Hudson",
+      "character": "English Cat (voice)",
+      "order": 5,
+      "cast_id": 21,
+      "popularity": 0.2404,
+      "profile_path": null
+    },
+    {
+      "personId": 82779,
+      "name": "Vito Scotti",
+      "character": "Italian Cat (voice)",
+      "order": 6,
+      "cast_id": 22,
+      "popularity": 1.2475,
+      "profile_path": "/zDGtXkASxpo3DzMNz6OI3NOp9v0.jpg"
+    },
+    {
+      "personId": 150739,
+      "name": "Thurl Ravenscroft",
+      "character": "Russian Cat (voice)",
+      "order": 7,
+      "cast_id": 23,
+      "popularity": 1.1061,
+      "profile_path": "/bG8r0mdyU0lvhllYAAjRAJupWqq.jpg"
+    },
+    {
+      "personId": 949102,
+      "name": "Dean Clark",
+      "character": "Berlioz (voice)",
+      "order": 8,
+      "cast_id": 24,
+      "popularity": 0.2288,
+      "profile_path": null
+    },
+    {
+      "personId": 950035,
+      "name": "Liz English",
+      "character": "Marie (voice)",
+      "order": 9,
+      "cast_id": 25,
+      "popularity": 0.1927,
+      "profile_path": null
+    },
+    {
+      "personId": 16202,
+      "name": "Gary Dubin",
+      "character": "Toulouse (voice)",
+      "order": 10,
+      "cast_id": 26,
+      "popularity": 1.2476,
+      "profile_path": null
+    },
+    {
+      "personId": 30519,
+      "name": "Nancy Kulp",
+      "character": "Frou-Frou (voice)",
+      "order": 11,
+      "cast_id": 27,
+      "popularity": 1.9327,
+      "profile_path": "/tV81XoljXJzbfvgdu6cRIILosyP.jpg"
+    },
+    {
+      "personId": 21460,
+      "name": "Pat Buttram",
+      "character": "Napoleon (voice)",
+      "order": 12,
+      "cast_id": 28,
+      "popularity": 1.8491,
+      "profile_path": "/jRVB0shCimyljcDYlIUpdcAVe8E.jpg"
+    },
+    {
+      "personId": 141693,
+      "name": "George Lindsey",
+      "character": "Lafayette (voice)",
+      "order": 13,
+      "cast_id": 29,
+      "popularity": 1.777,
+      "profile_path": "/nWUSieNbrvClvbB8b03OU4dBfTY.jpg"
+    },
+    {
+      "personId": 143770,
+      "name": "Monica Evans",
+      "character": "Abigail (voice)",
+      "order": 14,
+      "cast_id": 30,
+      "popularity": 0.615,
+      "profile_path": "/2RHNQ4aHMQKSiVAtvvEuitubauP.jpg"
+    },
+    {
+      "personId": 58770,
+      "name": "Carole Shelley",
+      "character": "Amelia (voice)",
+      "order": 15,
+      "cast_id": 41,
+      "popularity": 0.5273,
+      "profile_path": "/h4PF9ZVdWmwFZCTETaNZAG1vbR3.jpg"
+    },
+    {
+      "personId": 29579,
+      "name": "Charles Lane",
+      "character": "Lawyer (voice)",
+      "order": 16,
+      "cast_id": 46,
+      "popularity": 1.3649,
+      "profile_path": "/ghyuQ8HoIY1ozRzbLGJNl2d1dz6.jpg"
+    },
+    {
+      "personId": 5827,
+      "name": "Hermione Baddeley",
+      "character": "Madame (voice)",
+      "order": 17,
+      "cast_id": 47,
+      "popularity": 1.1456,
+      "profile_path": "/33ZEfseoz0NFa5wB76mW86ed5Re.jpg"
+    },
+    {
+      "personId": 127264,
+      "name": "Roddy Maude-Roxby",
+      "character": "Butler (voice)",
+      "order": 18,
+      "cast_id": 40,
+      "popularity": 1.2527,
+      "profile_path": "/h7Htic9qJiqDMoABvqQYmJYEX6N.jpg"
+    },
+    {
+      "personId": 67230,
+      "name": "Bill Thompson",
+      "character": "Uncle Waldo (voice)",
+      "order": 19,
+      "cast_id": 42,
+      "popularity": 0.4568,
+      "profile_path": "/4l8jV6jZ9k06B62MH1rdtCho3Ag.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 57314,
+      "name": "Wolfgang Reitherman",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5208,
+      "profile_path": "/biIAk3hrc7Ed2ZnjadMiMS1EswM.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 90,
+      "name": "paris, france"
+    },
+    {
+      "id": 1571,
+      "name": "return"
+    },
+    {
+      "id": 1307,
+      "name": "butler"
+    },
+    {
+      "id": 6513,
+      "name": "cartoon"
+    },
+    {
+      "id": 3289,
+      "name": "villain"
+    },
+    {
+      "id": 4906,
+      "name": "suspension"
+    },
+    {
+      "id": 10911,
+      "name": "inheritance"
+    },
+    {
+      "id": 15284,
+      "name": "cartoon cat"
+    },
+    {
+      "id": 156143,
+      "name": "kitten"
+    },
+    {
+      "id": 210184,
+      "name": "1910s"
+    },
+    {
+      "id": 237008,
+      "name": "greedy"
+    },
+    {
+      "id": 271856,
+      "name": "cartoon animal"
+    },
+    {
+      "id": 307183,
+      "name": "cartoon goose"
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "overview": "A single and lonely woman finds the seemingly perfect man to date, but soon regrets it when his deranged and possessive other personality emerges and worst still, she cannot convince anyone else of his Jekyll/Hyde true nature.",
+  "release_date": "1996-02-16",
+  "runtime": 96,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 3.952,
+  "tmdb_vote_count": 63,
+  "tmdb_popularity": 5.2843,
+  "original_language": "en",
+  "poster_path": "/csSkKS6rcGjG8jjpwKZPVCD7Kiq.jpg",
+  "backdrop_path": "/sNMFqW8HCorpOQYpAOGXb7ADQSV.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 9195,
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 10227,
+      "name": "Mandeville Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 12552,
+      "name": "Marty Katz Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 14,
+      "name": "Ellen DeGeneres",
+      "character": "Martha Alston",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.5591,
+      "profile_path": "/z8IEEid4z63CBlJtxrTKEfsW7NA.jpg"
+    },
+    {
+      "personId": 8984,
+      "name": "Bill Pullman",
+      "character": "Whitman Crawford",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 3.8015,
+      "profile_path": "/AlLhgmcX5zh3frPT82OSPY9gqXO.jpg"
+    },
+    {
+      "personId": 3234,
+      "name": "Joan Cusack",
+      "character": "Inga Gunther",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.9926,
+      "profile_path": "/ytjiXEqnaEYtS7XkYmoUXPrZCm5.jpg"
+    },
+    {
+      "personId": 923,
+      "name": "Dean Stockwell",
+      "character": "Jack Tramonte",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 3.1005,
+      "profile_path": "/gdHo8LNElMf1XxoRYgi0UUzbJuB.jpg"
+    },
+    {
+      "personId": 23709,
+      "name": "Joan Plowright",
+      "character": "Mrs. Crawford",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 1.3788,
+      "profile_path": "/un5wsOnz22Rvl82niE0LGAVxggQ.jpg"
+    },
+    {
+      "personId": 77331,
+      "name": "John Livingston",
+      "character": "Walter",
+      "order": 5,
+      "cast_id": 11,
+      "popularity": 0.6259,
+      "profile_path": "/AgMxUIqUjvRTQAL1JF0kpSUYOo1.jpg"
+    },
+    {
+      "personId": 128621,
+      "name": "Robert Goulet",
+      "character": "Dick Braxton",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 0.7835,
+      "profile_path": "/kqCwDpsRWIHDtbfIrpJ4L63j53i.jpg"
+    },
+    {
+      "personId": 1232807,
+      "name": "Ellen Cleghorne",
+      "character": "Jane",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 1.5371,
+      "profile_path": "/vGQd7zcCqcGKDQlYqgcLpYuoGK7.jpg"
+    },
+    {
+      "personId": 15250,
+      "name": "Hope Davis",
+      "character": "Annie",
+      "order": 8,
+      "cast_id": 4,
+      "popularity": 2.4103,
+      "profile_path": "/dJb76YQDFmfJ6ptlvBvx0ZBP44C.jpg"
+    },
+    {
+      "personId": 170162,
+      "name": "Christine Cattell",
+      "character": "Nancy Culpepper",
+      "order": 9,
+      "cast_id": 9,
+      "popularity": 1.6944,
+      "profile_path": "/2MWuSvW9dmUmm5S5JutAqZoIiBb.jpg"
+    },
+    {
+      "personId": 15376,
+      "name": "Brad William Henke",
+      "character": "Bob",
+      "order": 10,
+      "cast_id": 28,
+      "popularity": 2.2872,
+      "profile_path": "/ynte6cntUQ87iZcbWMxesf7mD59.jpg"
+    },
+    {
+      "personId": 161908,
+      "name": "Peter White",
+      "character": "Mr. Alston",
+      "order": 11,
+      "cast_id": 29,
+      "popularity": 0.9107,
+      "profile_path": "/80HHvSlLphPwlHlBrVlFkfRZcXU.jpg"
+    },
+    {
+      "personId": 11715,
+      "name": "Polly Holliday",
+      "character": "Mrs. Alston",
+      "order": 12,
+      "cast_id": 30,
+      "popularity": 1.247,
+      "profile_path": "/tBbYjz3zkxIze3q1cJeN8ITDSPS.jpg"
+    },
+    {
+      "personId": 4930909,
+      "name": "Briant Wells",
+      "character": "Stuart",
+      "order": 13,
+      "cast_id": 31,
+      "popularity": 0.14,
+      "profile_path": null
+    },
+    {
+      "personId": 74077,
+      "name": "Camille Saviola",
+      "character": "Consuela",
+      "order": 14,
+      "cast_id": 32,
+      "popularity": 1.3011,
+      "profile_path": "/1eoZ00hGzik9a22XfrsNbo6N0gS.jpg"
+    },
+    {
+      "personId": 121757,
+      "name": "Maddie Corman",
+      "character": "Missy",
+      "order": 15,
+      "cast_id": 33,
+      "popularity": 1.2784,
+      "profile_path": "/mgQSZLjFbkN2TpAaZ268IudMEBg.jpg"
+    },
+    {
+      "personId": 89499,
+      "name": "Jonathan Hernandez",
+      "character": "Cody",
+      "order": 16,
+      "cast_id": 34,
+      "popularity": 0.64,
+      "profile_path": "/c3KHYKzXLhTlRDyfYBrhuIF5e7t.jpg"
+    },
+    {
+      "personId": 950326,
+      "name": "Victoria Elena Flores",
+      "character": "Nicole",
+      "order": 17,
+      "cast_id": 35,
+      "popularity": 0.1378,
+      "profile_path": null
+    },
+    {
+      "personId": 44795,
+      "name": "Louie Anderson",
+      "character": "Self",
+      "order": 18,
+      "cast_id": 36,
+      "popularity": 0.7452,
+      "profile_path": "/6yxIwla3vi06Hd3l16S5kaXgSI0.jpg"
+    },
+    {
+      "personId": 16418,
+      "name": "Casey Kasem",
+      "character": "Self",
+      "order": 19,
+      "cast_id": 37,
+      "popularity": 1.0043,
+      "profile_path": "/59kecPxxPIO8uwzaRZAOSDE1l80.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 14692,
+      "name": "Nick Castle",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.408,
+      "profile_path": "/bKJuXeKR8GZLyiutiDSCwwCzZ7n.jpg"
+    }
+  ],
+  "keywords": []
+}

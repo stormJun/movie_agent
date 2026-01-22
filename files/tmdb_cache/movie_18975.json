@@ -1,0 +1,322 @@
+{
+  "overview": "One of puppet-maker Geppetto's creations comes magically to life. This puppet, Pinocchio, has one major desire and that is to become a real boy someday. In order to accomplish this goal he has to learn to act responsibly. This film shows you the adventures on which he learns valuable lessons.",
+  "release_date": "1996-07-26",
+  "runtime": 95,
+  "budget": 25000000,
+  "revenue": 15100000,
+  "tmdb_vote_average": 5.257,
+  "tmdb_vote_count": 239,
+  "tmdb_popularity": 1.05,
+  "original_language": "en",
+  "poster_path": "/rGPFPkUmPam6arT22ey8jWpKzL2.jpg",
+  "backdrop_path": "/2qbHYBLD2mTjyySVWXuRJzwBfN6.jpg",
+  "tmdb_genres_raw": [
+    "Family",
+    "Fantasy",
+    "Adventure",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 2499,
+      "name": "The Kushner-Locke Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 181907,
+      "name": "Pangaea Holdings",
+      "origin_country": ""
+    },
+    {
+      "id": 3636,
+      "name": "Twin Continental Films",
+      "origin_country": ""
+    },
+    {
+      "id": 181908,
+      "name": "Allied Pinocchio Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 342,
+      "name": "Davis Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1766,
+      "name": "Dieter Geissler Filmproduktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 1979,
+      "name": "Cinevox Filmproduktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 13862,
+      "name": "Alta Vista Film Production",
+      "origin_country": ""
+    },
+    {
+      "id": 178213,
+      "name": "Bibo Films",
+      "origin_country": ""
+    },
+    {
+      "id": 83918,
+      "name": "ETAMP Film Production",
+      "origin_country": "CZ"
+    },
+    {
+      "id": 6242,
+      "name": "Barrandov Studio",
+      "origin_country": "CZ"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "CZ",
+      "name": "Czech Republic"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "it",
+      "name": "Italiano"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2641,
+      "name": "Martin Landau",
+      "character": "Geppetto",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.4022,
+      "profile_path": "/3Hk817L900dnoOuvVJIaXhQdgNy.jpg"
+    },
+    {
+      "personId": 53283,
+      "name": "Jonathan Taylor Thomas",
+      "character": "Pinocchio",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.6664,
+      "profile_path": "/lv1ZNrdFGMa8lYjwQyJqePONaDY.jpg"
+    },
+    {
+      "personId": 35341,
+      "name": "Geneviève Bujold",
+      "character": "Leona",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.7672,
+      "profile_path": "/xw2l2FByJKCN4qWUpeVLU7p6CvN.jpg"
+    },
+    {
+      "personId": 1646,
+      "name": "Udo Kier",
+      "character": "Lorenzini",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 12.6681,
+      "profile_path": "/lIOGDMvrVHMgPXdhicLI41tY1zf.jpg"
+    },
+    {
+      "personId": 10739,
+      "name": "Bebe Neuwirth",
+      "character": "Felinet",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 3.2673,
+      "profile_path": "/yFOdER8Fc07DU6U3kq2PRcbvDR.jpg"
+    },
+    {
+      "personId": 60949,
+      "name": "Rob Schneider",
+      "character": "Volpe",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 3.9571,
+      "profile_path": "/kVHNFDOGDrC3LjDyYf5RaCd6auK.jpg"
+    },
+    {
+      "personId": 94968,
+      "name": "Corey Carrier",
+      "character": "Lampwick",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 1.2038,
+      "profile_path": "/vqENNr9CozmOVJk95m1KYkvD749.jpg"
+    },
+    {
+      "personId": 1241782,
+      "name": "Marcello Magni",
+      "character": "Baker",
+      "order": 7,
+      "cast_id": 30,
+      "popularity": 0.8394,
+      "profile_path": null
+    },
+    {
+      "personId": 5539,
+      "name": "Dawn French",
+      "character": "Baker's Wife",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 2.1568,
+      "profile_path": "/eLFCJSTEeh7CDRw50RzowKz4h7V.jpg"
+    },
+    {
+      "personId": 1313587,
+      "name": "Richard Claxton",
+      "character": "Saleo",
+      "order": 9,
+      "cast_id": 39,
+      "popularity": 0.4605,
+      "profile_path": null
+    },
+    {
+      "personId": 28476,
+      "name": "Griff Rhys Jones",
+      "character": "Tino",
+      "order": 10,
+      "cast_id": 29,
+      "popularity": 0.9941,
+      "profile_path": "/rXGrg7Fq22In7uN8LyQJBDcqLQ7.jpg"
+    },
+    {
+      "personId": 26860,
+      "name": "John Sessions",
+      "character": "Schoolmaster",
+      "order": 11,
+      "cast_id": 31,
+      "popularity": 1.8684,
+      "profile_path": "/8bN5H7T9XtOMijCwGndaMVCQ2sI.jpg"
+    },
+    {
+      "personId": 28150,
+      "name": "Jean-Claude Drouot",
+      "character": "Magistrate",
+      "order": 12,
+      "cast_id": 40,
+      "popularity": 0.801,
+      "profile_path": "/b3m0QfFnQtfIgh8jZyBZrfkXFXW.jpg"
+    },
+    {
+      "personId": 13687,
+      "name": "Jean-Claude Dreyfus",
+      "character": "Foreman",
+      "order": 13,
+      "cast_id": 41,
+      "popularity": 0.7889,
+      "profile_path": "/s38aGneCsrxBj0YrBZBqv0uD9qU.jpg"
+    },
+    {
+      "personId": 73873,
+      "name": "Teco Celio",
+      "character": "Henchman",
+      "order": 14,
+      "cast_id": 42,
+      "popularity": 2.5618,
+      "profile_path": "/5PUIFW0JvgoaLX1ndyJbSeBdQF0.jpg"
+    },
+    {
+      "personId": 1125111,
+      "name": "Wilfred Benaïche",
+      "character": "Henchman",
+      "order": 15,
+      "cast_id": 43,
+      "popularity": 1.7155,
+      "profile_path": "/mPl5hpLsMBfimZwfMLWA05iR9d1.jpg"
+    },
+    {
+      "personId": 1123091,
+      "name": "Eric Averlant",
+      "character": "Zito",
+      "order": 16,
+      "cast_id": 44,
+      "popularity": 0.5965,
+      "profile_path": "/4S4zr5dmNEjrrVjOTePEVF01pPT.jpg"
+    },
+    {
+      "personId": 123632,
+      "name": "David Doyle",
+      "character": "Pepe (voice)",
+      "order": 17,
+      "cast_id": 11,
+      "popularity": 1.3304,
+      "profile_path": "/kgyklBcLNPqyQf3Za7AU9JsBDYC.jpg"
+    },
+    {
+      "personId": 2315164,
+      "name": "Oliver Barron",
+      "character": "Boy",
+      "order": 18,
+      "cast_id": 24,
+      "popularity": 0.113,
+      "profile_path": null
+    },
+    {
+      "personId": 3029220,
+      "name": "Jake Court",
+      "character": "Boy",
+      "order": 19,
+      "cast_id": 25,
+      "popularity": 0.2673,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 18308,
+      "name": "Steve Barron",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.8173,
+      "profile_path": "/2TVGLVJT6hKH4F85vFhHniI8Dkx.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 970,
+      "name": "parent child relationship"
+    },
+    {
+      "id": 131,
+      "name": "italy"
+    },
+    {
+      "id": 9673,
+      "name": "love"
+    },
+    {
+      "id": 10873,
+      "name": "school"
+    },
+    {
+      "id": 216919,
+      "name": "boys"
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "overview": "Recently orphaned, a young boy is taken in by his godmother who is shocked to realize that she can see the boy's imaginary friend: a flamboyant, French magician named Bogus.",
+  "release_date": "1996-09-06",
+  "runtime": 110,
+  "budget": 32000000,
+  "revenue": 0,
+  "tmdb_vote_average": 5.789,
+  "tmdb_vote_count": 239,
+  "tmdb_popularity": 3.0455,
+  "original_language": "en",
+  "poster_path": "/unp3wg7uzIV3HikMexGQJpO0OHc.jpg",
+  "backdrop_path": "/kstY6KGkOzqfgf7VMuQPDgIOhVW.jpg",
+  "tmdb_genres_raw": [
+    "Fantasy",
+    "Comedy",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 508,
+      "name": "Regency Enterprises",
+      "origin_country": "US"
+    },
+    {
+      "id": 1484,
+      "name": "Yorktown Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2395,
+      "name": "Whoopi Goldberg",
+      "character": "Harriet Franklin",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 4.5481,
+      "profile_path": "/wZKI7qcEIVgiHxeFtk3NuKt8URQ.jpg"
+    },
+    {
+      "personId": 16927,
+      "name": "Gérard Depardieu",
+      "character": "Bogus",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 2.378,
+      "profile_path": "/cibkIAJN6ctlqHohhdDEcfbiCAL.jpg"
+    },
+    {
+      "personId": 9640,
+      "name": "Haley Joel Osment",
+      "character": "Albert",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 4.0864,
+      "profile_path": "/jft0dGgR5bJ6mR7QRYriMVBC6QH.jpg"
+    },
+    {
+      "personId": 33157,
+      "name": "Denis Mercier",
+      "character": "Monsieur Antoine",
+      "order": 3,
+      "cast_id": 8,
+      "popularity": 1.3988,
+      "profile_path": "/u8bPHFELWhylMS1XfE8Jt9FzAWS.jpg"
+    },
+    {
+      "personId": 8263,
+      "name": "Andrea Martin",
+      "character": "Penny",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 1.9795,
+      "profile_path": "/lOP6nvTOvqpdHtEMfLCvNqUaRnp.jpg"
+    },
+    {
+      "personId": 18331,
+      "name": "Nancy Travis",
+      "character": "Lorraine Franklin",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 2.9203,
+      "profile_path": "/8NVTIgCYB6H0GrAwNPLwdU92pdt.jpg"
+    },
+    {
+      "personId": 29408,
+      "name": "Ute Lemper",
+      "character": "Babette",
+      "order": 6,
+      "cast_id": 5,
+      "popularity": 1.2126,
+      "profile_path": "/4pttFgYH3nebU2lfitcyavYCoLG.jpg"
+    },
+    {
+      "personId": 33613,
+      "name": "Sheryl Lee Ralph",
+      "character": "Ruth Clark",
+      "order": 7,
+      "cast_id": 20,
+      "popularity": 2.0309,
+      "profile_path": "/8S9CilET8kJKkxOQPEsA3OYSZGg.jpg"
+    },
+    {
+      "personId": 33614,
+      "name": "Barbara Hamilton",
+      "character": "Mrs. Partridge",
+      "order": 8,
+      "cast_id": 21,
+      "popularity": 1.7749,
+      "profile_path": null
+    },
+    {
+      "personId": 36172,
+      "name": "Al Waxman",
+      "character": "School Principal",
+      "order": 9,
+      "cast_id": 22,
+      "popularity": 0.8778,
+      "profile_path": "/7nvvodM6mqMHPVzGQBIIG34pjsp.jpg"
+    },
+    {
+      "personId": 944182,
+      "name": "Elizabeth Harpur",
+      "character": "Ellen",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 0.2173,
+      "profile_path": "/54NRrOgRGlAj0IKQrvrv3b33wve.jpg"
+    },
+    {
+      "personId": 54652,
+      "name": "Fiona Reid",
+      "character": "School Teacher",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 2.3069,
+      "profile_path": "/cCGakWj1gDBRrmNSzs5xZAfCAmf.jpg"
+    },
+    {
+      "personId": 1642765,
+      "name": "Kevin Jackson",
+      "character": "Bob Morrison",
+      "order": 12,
+      "cast_id": 25,
+      "popularity": 0.9812,
+      "profile_path": "/wjMkdZvRqr86e5J3YnCGTdeQef7.jpg"
+    },
+    {
+      "personId": 4255,
+      "name": "Richard Portnow",
+      "character": "M. Clay Thrasher",
+      "order": 13,
+      "cast_id": 26,
+      "popularity": 1.1958,
+      "profile_path": "/uQZ3vSa2HHXywkDjGY8dN0oH5oY.jpg"
+    },
+    {
+      "personId": 49833,
+      "name": "Mo Gaffney",
+      "character": "Travellers Aide - New Jersey",
+      "order": 14,
+      "cast_id": 27,
+      "popularity": 2.1231,
+      "profile_path": "/2M9alMlPtQzC6d2Sax3yqG9ZWWS.jpg"
+    },
+    {
+      "personId": 1379116,
+      "name": "Sara Peery",
+      "character": "Travellers Aide - Las Vegas",
+      "order": 15,
+      "cast_id": 28,
+      "popularity": 0.1807,
+      "profile_path": null
+    },
+    {
+      "personId": 1178622,
+      "name": "Cynthia Mace",
+      "character": "Florence, the Flight Attendant",
+      "order": 16,
+      "cast_id": 29,
+      "popularity": 0.6568,
+      "profile_path": "/uW7612fMKID4Sj8FCTQ936xU6ZA.jpg"
+    },
+    {
+      "personId": 87461,
+      "name": "Don Francks",
+      "character": "Dr. Surprise",
+      "order": 17,
+      "cast_id": 30,
+      "popularity": 1.133,
+      "profile_path": "/q1bvy838NZCLDxWLpwhJYC5FsDA.jpg"
+    },
+    {
+      "personId": 165458,
+      "name": "Justine Johnston",
+      "character": "Woman in Plane",
+      "order": 18,
+      "cast_id": 31,
+      "popularity": 0.8967,
+      "profile_path": "/sEMMqCaomj0ewS1rwLGvlHKhoxf.jpg"
+    },
+    {
+      "personId": 1216752,
+      "name": "Frank Medrano",
+      "character": "Man in Plane",
+      "order": 19,
+      "cast_id": 32,
+      "popularity": 2.0116,
+      "profile_path": "/ps427z5PMzVcwxipZptxLxx2Hbe.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 13563,
+      "name": "Norman Jewison",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4921,
+      "profile_path": "/1lAQLc0csazVyRYpYgvePpOoKG7.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2343,
+      "name": "magic"
+    },
+    {
+      "id": 291,
+      "name": "circus"
+    },
+    {
+      "id": 6894,
+      "name": "aunt"
+    },
+    {
+      "id": 7942,
+      "name": "imaginary friend"
+    }
+  ]
+}

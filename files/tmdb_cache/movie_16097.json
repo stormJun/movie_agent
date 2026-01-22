@@ -1,0 +1,228 @@
+{
+  "overview": "Hip Hop duo Kid & Play return in the second follow-up to their 1990 screen debut House Party. Kid (Christopher \"Kid\" Reid) is taking the plunge and marrying his girlfriend Veda (Angela Means), while his friend Play (Christopher Martin) is dipping his toes into the music business, managing a roughneck female rap act called Sex as a Weapon. Play books the ladies for a concert with heavy-hitting pr",
+  "release_date": "1994-01-11",
+  "runtime": 94,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.1,
+  "tmdb_vote_count": 56,
+  "tmdb_popularity": 0.9015,
+  "original_language": "en",
+  "poster_path": "/jLUgvHO3vVLkzKs3OcYksGPbLnA.jpg",
+  "backdrop_path": "/5UjsS8YeJEe6EXXlUc1uHCmTkZy.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 79320,
+      "name": "Christopher Reid",
+      "character": "Kid",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 0.8958,
+      "profile_path": "/z07XDEKytd5aWGnTqTmP2AMyQtG.jpg"
+    },
+    {
+      "personId": 79321,
+      "name": "Christopher Martin",
+      "character": "Play",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 0.6127,
+      "profile_path": "/4pOz1uL86TBOiuq1OoegEJfCnTq.jpg"
+    },
+    {
+      "personId": 141827,
+      "name": "Angela Means",
+      "character": "Veda",
+      "order": 2,
+      "cast_id": 9,
+      "popularity": 2.0641,
+      "profile_path": "/r8G8r2Wh21aqaKIof6mmYZukluF.jpg"
+    },
+    {
+      "personId": 19265,
+      "name": "Khandi Alexander",
+      "character": "Janelle",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 2.0975,
+      "profile_path": "/53IjZhkaywgsM0ZkDt3GJQtY5ls.jpg"
+    },
+    {
+      "personId": 1897,
+      "name": "Bernie Mac",
+      "character": "Uncle Vester",
+      "order": 4,
+      "cast_id": 1,
+      "popularity": 3.2873,
+      "profile_path": "/o1LQ83S4ZYvj84HYeWAzEV7Cg95.jpg"
+    },
+    {
+      "personId": 141828,
+      "name": "David Edwards",
+      "character": "Stinky",
+      "order": 5,
+      "cast_id": 12,
+      "popularity": 0.3875,
+      "profile_path": null
+    },
+    {
+      "personId": 84331,
+      "name": "Ketty Lester",
+      "character": "Aunt Lucy",
+      "order": 6,
+      "cast_id": 25,
+      "popularity": 0.8965,
+      "profile_path": "/7JzMUYgGqUDHFMYleynuBcMaWez.jpg"
+    },
+    {
+      "personId": 165257,
+      "name": "Freez Luv",
+      "character": "Ex Con Caterer",
+      "order": 7,
+      "cast_id": 26,
+      "popularity": 0.5417,
+      "profile_path": null
+    },
+    {
+      "personId": 83101,
+      "name": "Anthony Johnson",
+      "character": "Butcher",
+      "order": 8,
+      "cast_id": 22,
+      "popularity": 0.5806,
+      "profile_path": "/j2GJiF5TjmPsJNax3o0vvbYvDPd.jpg"
+    },
+    {
+      "personId": 104780,
+      "name": "Tionne Watkins",
+      "character": "Sex As A Weapon",
+      "order": 9,
+      "cast_id": 19,
+      "popularity": 1.1891,
+      "profile_path": "/oCNaIoJE6qZY71W2a5TqlNiYqXu.jpg"
+    },
+    {
+      "personId": 1098122,
+      "name": "Lisa 'Left Eye' Lopes",
+      "character": "Sex As A Weapon",
+      "order": 10,
+      "cast_id": 16,
+      "popularity": 0.4195,
+      "profile_path": "/nsM8MMJeRSmRstvk8or9kPQR6va.jpg"
+    },
+    {
+      "personId": 391533,
+      "name": "Rozonda Thomas",
+      "character": "Sex As A Weapon",
+      "order": 11,
+      "cast_id": 15,
+      "popularity": 0.9518,
+      "profile_path": "/v6t7BGtJsmjOuoDjMHu3Ar0t3BC.jpg"
+    },
+    {
+      "personId": 77801,
+      "name": "Marques Houston",
+      "character": "Immature",
+      "order": 12,
+      "cast_id": 173,
+      "popularity": 0.9583,
+      "profile_path": "/bjGs5VCjnTU8wPK87nTqMJatOcr.jpg"
+    },
+    {
+      "personId": 1854937,
+      "name": "Jerome Jones",
+      "character": "Immature",
+      "order": 13,
+      "cast_id": 174,
+      "popularity": 0.1063,
+      "profile_path": null
+    },
+    {
+      "personId": 2121790,
+      "name": "Don Santos",
+      "character": "Immature",
+      "order": 14,
+      "cast_id": 175,
+      "popularity": 0.256,
+      "profile_path": null
+    },
+    {
+      "personId": 54430,
+      "name": "Michael Colyar",
+      "character": "Showboat",
+      "order": 15,
+      "cast_id": 24,
+      "popularity": 0.4116,
+      "profile_path": "/eG4ojLYkXY84hRQnfqysnZzl2H4.jpg"
+    },
+    {
+      "personId": 141823,
+      "name": "Tisha Campbell",
+      "character": "Sidney",
+      "order": 16,
+      "cast_id": 10,
+      "popularity": 2.2444,
+      "profile_path": "/keuc8jAfEM2fRce0P8FvLclwlYg.jpg"
+    },
+    {
+      "personId": 68752,
+      "name": "Roy Fegan",
+      "character": "M.C. Can't C",
+      "order": 17,
+      "cast_id": 50,
+      "popularity": 0.64,
+      "profile_path": null
+    },
+    {
+      "personId": 1483165,
+      "name": "Daniel Gardner",
+      "character": "Chill",
+      "order": 18,
+      "cast_id": 51,
+      "popularity": 0.2205,
+      "profile_path": "/kIdx290GJVZFj4eqwe4L2J6PtHL.jpg"
+    },
+    {
+      "personId": 15832,
+      "name": "Gilbert Gottfried",
+      "character": "Luggage Clerk",
+      "order": 19,
+      "cast_id": 52,
+      "popularity": 4.1708,
+      "profile_path": "/hkkAgJD0HKcuyd8EuvhyN5vHcDQ.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 77733,
+      "name": "Eric Meza",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.75,
+      "profile_path": null
+    }
+  ],
+  "keywords": []
+}

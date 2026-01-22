@@ -1,0 +1,266 @@
+{
+  "overview": "Out of work actor Joe volunteers to help try and save his sister's local church for the community by putting on a Christmas production of Hamlet, somewhat against the advice of his agent Margaretta. As the cast he assembles are still available even at Christmas and are prepared to do it on a 'profit sharing' basis (that is, they may not get paid anything) he cannot expect - and does not get - the cream of the cream. But although they all bring their own problems and foibles along, something bigger starts to emerge in the perhaps aptly named village of Hope.",
+  "release_date": "1995-09-29",
+  "runtime": 99,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 7.1,
+  "tmdb_vote_count": 42,
+  "tmdb_popularity": 0.6392,
+  "original_language": "en",
+  "poster_path": "/lam5mVjru6yhgG8N1MHCqAUrxzL.jpg",
+  "backdrop_path": "/iAxwce4twFKiBrW10rxnoTPfnuB.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 75942,
+      "name": "Midwinter Films",
+      "origin_country": ""
+    },
+    {
+      "id": 97,
+      "name": "Castle Rock Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 17483,
+      "name": "Michael Maloney",
+      "character": "Joe",
+      "order": 0,
+      "cast_id": 5,
+      "popularity": 1.1913,
+      "profile_path": "/sE5K1f3TW1foDTT6yrGaeW4grun.jpg"
+    },
+    {
+      "personId": 29859,
+      "name": "Richard Briers",
+      "character": "Henry",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 1.1077,
+      "profile_path": "/gNsEDp8K7dRYVxYeHNgelOiOO97.jpg"
+    },
+    {
+      "personId": 13637,
+      "name": "Joan Collins",
+      "character": "Margaretta",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 2.5477,
+      "profile_path": "/jmXqOnp2xBDl2EMuU5Rj39uHzUQ.jpg"
+    },
+    {
+      "personId": 32357,
+      "name": "Nicholas Farrell",
+      "character": "Tom Newman",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 1.9106,
+      "profile_path": "/gheuwhycSxpBRhGv7Qbfub2uuB2.jpg"
+    },
+    {
+      "personId": 53328,
+      "name": "Julia Sawalha",
+      "character": "Nina",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 2.2572,
+      "profile_path": "/nSybe0Djsf49lS3HxLyvFnchkh.jpg"
+    },
+    {
+      "personId": 9139,
+      "name": "Celia Imrie",
+      "character": "Fadge",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 3.6367,
+      "profile_path": "/eEtVfESOVnkkdPLYkyQpalEwAwj.jpg"
+    },
+    {
+      "personId": 26860,
+      "name": "John Sessions",
+      "character": "Terry Du Bois",
+      "order": 6,
+      "cast_id": 12,
+      "popularity": 1.8684,
+      "profile_path": "/8bN5H7T9XtOMijCwGndaMVCQ2sI.jpg"
+    },
+    {
+      "personId": 12094,
+      "name": "Jennifer Saunders",
+      "character": "Nancy",
+      "order": 7,
+      "cast_id": 6,
+      "popularity": 1.9465,
+      "profile_path": "/pTgxwHcz9L8SNVYvPJS0o0lgHya.jpg"
+    },
+    {
+      "personId": 56101,
+      "name": "Gerard Horan",
+      "character": "Carnforth",
+      "order": 8,
+      "cast_id": 9,
+      "popularity": 1.7007,
+      "profile_path": "/crvohW6KrgAZUgoBE8IwKN5ErxQ.jpg"
+    },
+    {
+      "personId": 195309,
+      "name": "Mark Hadfield",
+      "character": "Vernon Spatch",
+      "order": 9,
+      "cast_id": 23,
+      "popularity": 1.5713,
+      "profile_path": "/um8w6IJxgmUdVUdnQj8BEWAR2lt.jpg"
+    },
+    {
+      "personId": 237613,
+      "name": "Hetta Charnley",
+      "character": "Molly",
+      "order": 10,
+      "cast_id": 7,
+      "popularity": 0.2511,
+      "profile_path": null
+    },
+    {
+      "personId": 40311,
+      "name": "Adrian Scarborough",
+      "character": "Young actor",
+      "order": 11,
+      "cast_id": 13,
+      "popularity": 2.8982,
+      "profile_path": "/4YTIIoKDECRRaceheSJ6zw8ELZf.jpg"
+    },
+    {
+      "personId": 97165,
+      "name": "Brian Pettifer",
+      "character": "Ventriloquist",
+      "order": 12,
+      "cast_id": 19,
+      "popularity": 0.9131,
+      "profile_path": "/swfTMwupWIBc1JixOydX812kQOE.jpg"
+    },
+    {
+      "personId": 9152,
+      "name": "Patrick Doyle",
+      "character": "Scotsman",
+      "order": 13,
+      "cast_id": 20,
+      "popularity": 0.867,
+      "profile_path": "/w7ZWMi75p0a6ElIbZw9mfkmjGPs.jpg"
+    },
+    {
+      "personId": 1211929,
+      "name": "Shaun Prendergast",
+      "character": "Mule Train Man",
+      "order": 14,
+      "cast_id": 21,
+      "popularity": 0.4856,
+      "profile_path": "/3IMUCBXLXb7KRvRBWqH9MVVxupo.jpg"
+    },
+    {
+      "personId": 1064363,
+      "name": "Allie Byrne",
+      "character": "Tap Dancer",
+      "order": 15,
+      "cast_id": 28,
+      "popularity": 0.6012,
+      "profile_path": null
+    },
+    {
+      "personId": 174461,
+      "name": "Katy Carmichael",
+      "character": "Mad Puppet Woman",
+      "order": 16,
+      "cast_id": 29,
+      "popularity": 1.6863,
+      "profile_path": "/emnO1QR8sFDdckVIR835uOLr6Rd.jpg"
+    },
+    {
+      "personId": 1231177,
+      "name": "Ann Davies",
+      "character": "Mrs Branch",
+      "order": 17,
+      "cast_id": 24,
+      "popularity": 0.3419,
+      "profile_path": null
+    },
+    {
+      "personId": 1781141,
+      "name": "James D. White",
+      "character": "Tim",
+      "order": 18,
+      "cast_id": 27,
+      "popularity": 0.3203,
+      "profile_path": null
+    },
+    {
+      "personId": 56553,
+      "name": "Robert Hines",
+      "character": "Mortimer",
+      "order": 19,
+      "cast_id": 26,
+      "popularity": 0.6274,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 11181,
+      "name": "Kenneth Branagh",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 4.0633,
+      "profile_path": "/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 640,
+      "name": "transvestite"
+    },
+    {
+      "id": 4333,
+      "name": "theatre group"
+    },
+    {
+      "id": 12999,
+      "name": "black and white"
+    },
+    {
+      "id": 164246,
+      "name": "nostalgic"
+    },
+    {
+      "id": 185011,
+      "name": "hamlet"
+    },
+    {
+      "id": 207317,
+      "name": "christmas"
+    },
+    {
+      "id": 258533,
+      "name": "gay theme"
+    },
+    {
+      "id": 285695,
+      "name": "theater"
+    }
+  ]
+}

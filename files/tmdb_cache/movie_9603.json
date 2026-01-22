@@ -1,0 +1,312 @@
+{
+  "overview": "Shallow, rich and socially successful Cher is at the top of her Beverly Hills high school's pecking scale. Seeing herself as a matchmaker, Cher first coaxes two teachers into dating each other. Emboldened by her success, she decides to give hopelessly klutzy new student Tai a makeover. When Tai becomes more popular than she is, Cher realizes that her disapproving ex-stepbrother was right about how misguided she was -- and falls for him.",
+  "release_date": "1995-07-19",
+  "runtime": 97,
+  "budget": 12000000,
+  "revenue": 56631572,
+  "tmdb_vote_average": 7.3,
+  "tmdb_vote_count": 4681,
+  "tmdb_popularity": 7.0143,
+  "original_language": "en",
+  "poster_path": "/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg",
+  "backdrop_path": "/65d0MccsiRSPTVicregKQL8owoo.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 12245,
+      "name": "Robert Lawrence Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 258,
+      "name": "Scott Rudin Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "es",
+      "name": "Español"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5588,
+      "name": "Alicia Silverstone",
+      "character": "Cher",
+      "order": 0,
+      "cast_id": 8,
+      "popularity": 5.3051,
+      "profile_path": "/pyxqkP4i0ubVdoRe5hoiiiwkHkb.jpg"
+    },
+    {
+      "personId": 58150,
+      "name": "Stacey Dash",
+      "character": "Dionne",
+      "order": 1,
+      "cast_id": 9,
+      "popularity": 1.6754,
+      "profile_path": "/cSzVCx2LJkXZoUGA4z4i8cm9wMD.jpg"
+    },
+    {
+      "personId": 328,
+      "name": "Brittany Murphy",
+      "character": "Tai",
+      "order": 2,
+      "cast_id": 10,
+      "popularity": 5.0803,
+      "profile_path": "/uLOrqcSk2h5o3ekNfcuGFDzN13W.jpg"
+    },
+    {
+      "personId": 22226,
+      "name": "Paul Rudd",
+      "character": "Josh",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 5.9809,
+      "profile_path": "/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+    },
+    {
+      "personId": 49002,
+      "name": "Donald Faison",
+      "character": "Murray",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 1.6422,
+      "profile_path": "/gNwWP1CHob9Y8fjY69w7EwGxMoz.jpg"
+    },
+    {
+      "personId": 58151,
+      "name": "Elisa Donovan",
+      "character": "Amber",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 1.1649,
+      "profile_path": "/vThds668uWdcsCtWO9znsgfm7Oa.jpg"
+    },
+    {
+      "personId": 33654,
+      "name": "Breckin Meyer",
+      "character": "Travis",
+      "order": 6,
+      "cast_id": 15,
+      "popularity": 2.1303,
+      "profile_path": "/oN1jpTL59wbzS1qvPhsJ3FIL2Ev.jpg"
+    },
+    {
+      "personId": 23958,
+      "name": "Jeremy Sisto",
+      "character": "Elton",
+      "order": 7,
+      "cast_id": 16,
+      "popularity": 2.5312,
+      "profile_path": "/1XfuASLjBhGOhJ4os7juRJot2we.jpg"
+    },
+    {
+      "personId": 6486,
+      "name": "Dan Hedaya",
+      "character": "Mel Horowitz",
+      "order": 8,
+      "cast_id": 17,
+      "popularity": 3.3541,
+      "profile_path": "/evL3mV8hNIjZOb1XG3qtgmiTgS5.jpg"
+    },
+    {
+      "personId": 75689,
+      "name": "Aida Linares",
+      "character": "Lucy",
+      "order": 9,
+      "cast_id": 54,
+      "popularity": 1.4648,
+      "profile_path": null
+    },
+    {
+      "personId": 12900,
+      "name": "Wallace Shawn",
+      "character": "Mr. Wendell Hall",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 3.9917,
+      "profile_path": "/wVaM1WlFKDce4esThwL4XtNLhOe.jpg"
+    },
+    {
+      "personId": 66160,
+      "name": "Twink Caplan",
+      "character": "Miss Toby Geist",
+      "order": 11,
+      "cast_id": 19,
+      "popularity": 1.1262,
+      "profile_path": "/sXBPtdgI2aO6rS0ydS7jupRiUMG.jpg"
+    },
+    {
+      "personId": 30881,
+      "name": "Justin Walker",
+      "character": "Christian",
+      "order": 12,
+      "cast_id": 20,
+      "popularity": 2.3889,
+      "profile_path": "/hJxjujDb5Zqbvyk3JnZszJ6zRxQ.jpg"
+    },
+    {
+      "personId": 2070119,
+      "name": "Sabastian Rashidi",
+      "character": "Paroudasm",
+      "order": 13,
+      "cast_id": 29,
+      "popularity": 1.8798,
+      "profile_path": null
+    },
+    {
+      "personId": 2070121,
+      "name": "Herb Hall",
+      "character": "Principal",
+      "order": 14,
+      "cast_id": 30,
+      "popularity": 0.1,
+      "profile_path": null
+    },
+    {
+      "personId": 40680,
+      "name": "Julie Brown",
+      "character": "Ms. Stoeger",
+      "order": 15,
+      "cast_id": 27,
+      "popularity": 1.2239,
+      "profile_path": "/hdTnxS4ry9eDaCZVcItiZ9MEJKk.jpg"
+    },
+    {
+      "personId": 2070125,
+      "name": "Susan Mohun",
+      "character": "Heather",
+      "order": 16,
+      "cast_id": 31,
+      "popularity": 0.3224,
+      "profile_path": null
+    },
+    {
+      "personId": 17775,
+      "name": "Nicole Bilderback",
+      "character": "Summer",
+      "order": 17,
+      "cast_id": 28,
+      "popularity": 1.3328,
+      "profile_path": "/blQvDweNb5oe2Ly0fjBAxLaMKbe.jpg"
+    },
+    {
+      "personId": 123003,
+      "name": "Ron Orbach",
+      "character": "DMV Tester",
+      "order": 18,
+      "cast_id": 32,
+      "popularity": 1.5009,
+      "profile_path": null
+    },
+    {
+      "personId": 1235036,
+      "name": "Sean Holland",
+      "character": "Lawrence",
+      "order": 19,
+      "cast_id": 33,
+      "popularity": 0.4031,
+      "profile_path": "/5i0PvvuNNJye3WKkEdZ2iXweihH.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 57434,
+      "name": "Amy Heckerling",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6719,
+      "profile_path": "/hIc3bQxLOPAcpGJ1CVFuzpzJRZ0.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1525,
+      "name": "puberty"
+    },
+    {
+      "id": 6270,
+      "name": "high school"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 6664,
+      "name": "make a match"
+    },
+    {
+      "id": 7208,
+      "name": "spoiled child"
+    },
+    {
+      "id": 10683,
+      "name": "coming of age"
+    },
+    {
+      "id": 10132,
+      "name": "matchmaking"
+    },
+    {
+      "id": 11933,
+      "name": "conflict"
+    },
+    {
+      "id": 13027,
+      "name": "wedding"
+    },
+    {
+      "id": 18005,
+      "name": "high school friends"
+    },
+    {
+      "id": 34130,
+      "name": "makeover"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    },
+    {
+      "id": 233617,
+      "name": "popular girl"
+    },
+    {
+      "id": 248025,
+      "name": "matchmaker"
+    },
+    {
+      "id": 258533,
+      "name": "gay theme"
+    },
+    {
+      "id": 323909,
+      "name": "match making"
+    },
+    {
+      "id": 325782,
+      "name": "cheerful"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "overview": "A narrator tells the story of his childhood years in a tightly knit Afro-American community in the deep south under racial segregation.",
+  "release_date": "1996-01-26",
+  "runtime": 115,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 3.6,
+  "tmdb_vote_count": 5,
+  "tmdb_popularity": 0.2125,
+  "original_language": "en",
+  "poster_path": "/2qeQStLy1wiqDFa1Dnm02f5UacO.jpg",
+  "backdrop_path": "/jWgp2Ai4jwRPhYlCnctMDMWzO6e.jpg",
+  "tmdb_genres_raw": [
+    "Romance",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 38196,
+      "name": "BET Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 38197,
+      "name": "United Image Entertainme",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 19739,
+      "name": "Al Freeman Jr.",
+      "character": "Poppa",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 0.9124,
+      "profile_path": "/qLnfxKvvbjDRtFHDgGS1U9KC9SO.jpg"
+    },
+    {
+      "personId": 119598,
+      "name": "Phylicia Rashād",
+      "character": "Ma Ponk",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 2.2768,
+      "profile_path": "/psF74tMFVB575cYcENzLSrGTagy.jpg"
+    },
+    {
+      "personId": 157439,
+      "name": "Paula Kelly",
+      "character": "Ma Pearl",
+      "order": 2,
+      "cast_id": 7,
+      "popularity": 0.7142,
+      "profile_path": "/zxhEhwF9NV8pg5wbzs9rTUgCcA5.jpg"
+    },
+    {
+      "personId": 53918,
+      "name": "Salli Richardson-Whitfield",
+      "character": "Miss Alice (as Salli Richardson)",
+      "order": 3,
+      "cast_id": 8,
+      "popularity": 2.034,
+      "profile_path": "/wMQaIzY5kyRQd8UwF1lphKK6oQm.jpg"
+    },
+    {
+      "personId": 54800,
+      "name": "Anna Maria Horsford",
+      "character": "Miss Annie",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 1.5234,
+      "profile_path": "/fVA25hLtwmrVsIVrcWOojaPoYEq.jpg"
+    },
+    {
+      "personId": 10939,
+      "name": "Bernie Casey",
+      "character": "Mr. Walter",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 1.0227,
+      "profile_path": "/xxmL2k2lxWswkFOJJEdi2Tf51YK.jpg"
+    },
+    {
+      "personId": 6542,
+      "name": "Isaac Hayes",
+      "character": "Preacher Hurn",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 1.2658,
+      "profile_path": "/wHZOIi0LJNZ55dswVMX5AqKtMlT.jpg"
+    },
+    {
+      "personId": 98894,
+      "name": "Ray J",
+      "character": "Cliff (12 Yrs.) (as Willis Norwood Jr.)",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 0.8041,
+      "profile_path": "/kAxGE5TDMIHu7hCjCXEMGU7XRQQ.jpg"
+    },
+    {
+      "personId": 40175,
+      "name": "Polly Bergen",
+      "character": "Miss Maybry",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 2.236,
+      "profile_path": "/kxUtOEcpfC4ry5JN0o8EhusLa6.jpg"
+    },
+    {
+      "personId": 94511,
+      "name": "Taj Mahal",
+      "character": "Mr. Will",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 0.6384,
+      "profile_path": "/lTTrHyuNrS0JlpmgkvTsAG32oEB.jpg"
+    },
+    {
+      "personId": 12974,
+      "name": "Leon",
+      "character": "Uncle Melvin",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 1.2723,
+      "profile_path": "/uhLVZV2rH0nnXwQKtsIT0qGsTyg.jpg"
+    },
+    {
+      "personId": 6487,
+      "name": "Richard Roundtree",
+      "character": "Cleve",
+      "order": 11,
+      "cast_id": 16,
+      "popularity": 1.8831,
+      "profile_path": "/wPuLgW8PrzJFBrfsB03oon5MT7f.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 27771,
+      "name": "Tim Reid",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.0126,
+      "profile_path": "/zUqFVuSPBK09YVvCIxKkAOtoM8m.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6984,
+      "name": "racial segregation"
+    },
+    {
+      "id": 10235,
+      "name": "family relationships"
+    },
+    {
+      "id": 11004,
+      "name": "rural area"
+    }
+  ]
+}

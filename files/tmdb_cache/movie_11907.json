@@ -1,0 +1,165 @@
+{
+  "overview": "On the brink of her 30th birthday, Fanny feels the door to marital happiness closing on her. She is obsessed with death and even visits evening classes on dying, so it seems fitting that she encounters a skeleton in the malfunctioning elevator of her apartment building. The skeleton is her neighbour Orfeo, a Black, gay, self-declared psychic, who convinces her that she is about to meet \"him\". But is it really Lothar, the new yuppie apartment manager ...?",
+  "release_date": "1994-11-07",
+  "runtime": 104,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.157,
+  "tmdb_vote_count": 35,
+  "tmdb_popularity": 1.0494,
+  "original_language": "de",
+  "poster_path": "/vBDJPkoTOKT9F1zx0y9tT7G62vF.jpg",
+  "backdrop_path": "/63BX5ZE1SgT2EIzu2WWiva1jQtH.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Comedy",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 14876,
+      "name": "Cobra Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 4606,
+      "name": "ZDF",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 22686,
+      "name": "Maria Schrader",
+      "character": "Fanny Fink",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 0.5613,
+      "profile_path": "/sZuIcKq5D75GNKlYecK08O3X0hG.jpg"
+    },
+    {
+      "personId": 70887,
+      "name": "Pierre Sanoussi-Bliss",
+      "character": "Orfeo de Altamar",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 0.4211,
+      "profile_path": "/jFgVyAnBQcLE2kLzI3X2YKlFure.jpg"
+    },
+    {
+      "personId": 70888,
+      "name": "Michael von Au",
+      "character": "Lothar Sticker",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 0.8064,
+      "profile_path": "/siH5DwEGhxErhDMfXwAXRNq5tOB.jpg"
+    },
+    {
+      "personId": 9931,
+      "name": "Elisabeth Trissenaar",
+      "character": "Madeleine",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 0.2568,
+      "profile_path": "/rdP7FOLgLel13mSQokktn7jrN0s.jpg"
+    },
+    {
+      "personId": 1084,
+      "name": "Joachim Król",
+      "character": "Anton",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 0.6988,
+      "profile_path": "/jF4Mmer6sL54SLj29XKJHR1mrKM.jpg"
+    },
+    {
+      "personId": 34297,
+      "name": "Ingo Naujoks",
+      "character": "Lasse Laengsfeld",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 1.6978,
+      "profile_path": "/cAfUfcSs7hM3ftcl6MgITxAkZdo.jpg"
+    },
+    {
+      "personId": 24110,
+      "name": "Peggy Parnass",
+      "character": "Frau Radebrecht",
+      "order": 6,
+      "cast_id": 14,
+      "popularity": 0.4295,
+      "profile_path": "/6buIbUsyhPYxri2yyh9cSdZY3jB.jpg"
+    },
+    {
+      "personId": 43452,
+      "name": "Oliver Nägele",
+      "character": "Herr Froh",
+      "order": 7,
+      "cast_id": 15,
+      "popularity": 0.3449,
+      "profile_path": "/2IDFFTl49CzuwRnuwtHg2vH7haI.jpg"
+    },
+    {
+      "personId": 19928,
+      "name": "Ömer Simsek",
+      "character": "Bankangestellter (Bank employee)",
+      "order": 8,
+      "cast_id": 16,
+      "popularity": 0.3639,
+      "profile_path": "/ga4zFDKZsOE4R8rbQnDMs0BsmD7.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 18969,
+      "name": "Doris Dörrie",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.3543,
+      "profile_path": "/oqNJjnH6KdvckXnLfOC4bxbjKBL.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 530,
+      "name": "prophecy"
+    },
+    {
+      "id": 3392,
+      "name": "voodoo"
+    },
+    {
+      "id": 9457,
+      "name": "single"
+    },
+    {
+      "id": 13072,
+      "name": "falling in love"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    },
+    {
+      "id": 196682,
+      "name": "rich man"
+    },
+    {
+      "id": 258533,
+      "name": "gay theme"
+    }
+  ]
+}

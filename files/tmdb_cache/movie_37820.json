@@ -1,0 +1,180 @@
+{
+  "overview": "A reserved man in need of a job, Carl Fitzgerald finds employment at a Greek restaurant. Upon meeting waitress Sophie, Carl begins dating the attractive woman. Though it seems things are improving for Carl, an unexpected situation leads to the death of Mustafa, a shady coworker, and Carl must figure out how to cover up the incident. Unsure of what to do, Carl enlists the help of his buddy, Dave, to get rid of Mustafa's corpse.",
+  "release_date": "1991-04-24",
+  "runtime": 109,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.9,
+  "tmdb_vote_count": 28,
+  "tmdb_popularity": 0.4185,
+  "original_language": "en",
+  "poster_path": "/cYSxWdLCMNkwpth3PjsOpLxvFww.jpg",
+  "backdrop_path": "/6EFRyskOTlAvmVsZqDzU0QDdig9.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 31317,
+      "name": "Meridian Films",
+      "origin_country": ""
+    },
+    {
+      "id": 11840,
+      "name": "Film Victoria",
+      "origin_country": "AU"
+    },
+    {
+      "id": 1380,
+      "name": "Australian Film Finance Corporation",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "AU",
+      "name": "Australia"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4783,
+      "name": "Sam Neill",
+      "character": "Carl",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 5.0545,
+      "profile_path": "/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
+    },
+    {
+      "personId": 106820,
+      "name": "Zoe Carides",
+      "character": "Sophie",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 1.6467,
+      "profile_path": "/z5KM5Br7DFYnftgkWv9ssq0ERV2.jpg"
+    },
+    {
+      "personId": 1525900,
+      "name": "John Clarke",
+      "character": "Dave",
+      "order": 2,
+      "cast_id": 13,
+      "popularity": 1.153,
+      "profile_path": "/eQnJ8jnEbIoRUM9iLJ5n8hbVROq.jpg"
+    },
+    {
+      "personId": 1357277,
+      "name": "Yvonne Lawley",
+      "character": "Mrs. Fitzgerald (Carl's mother)",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 0.6461,
+      "profile_path": null
+    },
+    {
+      "personId": 1027146,
+      "name": "Nico Lathouris",
+      "character": "Mustafa",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 1.228,
+      "profile_path": "/x5ahdhcJiMgbuchZy6zo17ddRqk.jpg"
+    },
+    {
+      "personId": 1532966,
+      "name": "Nicholas Papademetriou",
+      "character": "Yanni Voulgaris",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 0.1323,
+      "profile_path": null
+    },
+    {
+      "personId": 96460,
+      "name": "Deborah Kennedy",
+      "character": "June",
+      "order": 6,
+      "cast_id": 12,
+      "popularity": 1.7338,
+      "profile_path": "/z5Toskoh0D7yXX4gQEr47oEyEUJ.jpg"
+    },
+    {
+      "personId": 1310813,
+      "name": "Maria Beck",
+      "character": "Maria",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 1.4191,
+      "profile_path": null
+    },
+    {
+      "personId": 152421,
+      "name": "Boris Brkic",
+      "character": "Laurie",
+      "order": 8,
+      "cast_id": 33,
+      "popularity": 0.4776,
+      "profile_path": "/aMDLoE4zWe0K6C3oBunM6tJvLTu.jpg"
+    },
+    {
+      "personId": 1027148,
+      "name": "Doris Younane",
+      "character": "Carmel",
+      "order": 9,
+      "cast_id": 34,
+      "popularity": 1.8703,
+      "profile_path": "/3P9HRZklZEIRZ1BJZU0FDnXenvE.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1155073,
+      "name": "John Ruane",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6135,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 5657,
+      "name": "australia"
+    },
+    {
+      "id": 828,
+      "name": "waitress"
+    },
+    {
+      "id": 1946,
+      "name": "restaurant"
+    },
+    {
+      "id": 8011,
+      "name": "greek"
+    },
+    {
+      "id": 9941,
+      "name": "melbourne, australia"
+    },
+    {
+      "id": 34079,
+      "name": "death"
+    },
+    {
+      "id": 193765,
+      "name": "brunswick"
+    }
+  ]
+}

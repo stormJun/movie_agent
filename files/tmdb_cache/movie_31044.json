@@ -1,0 +1,255 @@
+{
+  "overview": "Fledgling comic Benjy Stone can't believe his luck when his childhood hero, the swashbuckling matinee idol Alan Swann, gets booked to appear on the variety show he writes for. But when Swann arrives, he fails to live up to his silver screen image. Instead, he's a drunken womanizer who suffers from stage fright. Benjy is assigned to look after him before the show, and it's all he can do to keep his former idol from going completely off the rails.",
+  "release_date": "1982-10-01",
+  "runtime": 92,
+  "budget": 7900000,
+  "revenue": 20123620,
+  "tmdb_vote_average": 6.613,
+  "tmdb_vote_count": 115,
+  "tmdb_popularity": 2.8425,
+  "original_language": "en",
+  "poster_path": "/xksAhZJx1WmHM03OaePNe9IiEBt.jpg",
+  "backdrop_path": "/lnbI7n5B7uqmEfOJ6Iamfwt4O5g.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 5612,
+      "name": "Brooksfilms",
+      "origin_country": "US"
+    },
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11390,
+      "name": "Peter O'Toole",
+      "character": "Alan Swann",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.2485,
+      "profile_path": "/cQdULVxbxK1HbgqblImXfVXkGyO.jpg"
+    },
+    {
+      "personId": 95975,
+      "name": "Mark Linn-Baker",
+      "character": "Benjy Stone",
+      "order": 1,
+      "cast_id": 9,
+      "popularity": 1.6534,
+      "profile_path": "/pUNprACr5X9v8xZPLerV4QMqRfL.jpg"
+    },
+    {
+      "personId": 69055,
+      "name": "Jessica Harper",
+      "character": "K.C. Downing",
+      "order": 2,
+      "cast_id": 10,
+      "popularity": 1.1903,
+      "profile_path": "/sSTbKuf4bY83cSRx9lmVdGobcsg.jpg"
+    },
+    {
+      "personId": 46946,
+      "name": "Joseph Bologna",
+      "character": "King Kaiser",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 1.2852,
+      "profile_path": "/zAyV5p4prwRXtL00xkJCHLBBUJ8.jpg"
+    },
+    {
+      "personId": 17695,
+      "name": "Bill Macy",
+      "character": "Sy Benson",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 1.1655,
+      "profile_path": "/gs6oJkNvogz8mr1azGiPBNY0yyw.jpg"
+    },
+    {
+      "personId": 53647,
+      "name": "Lainie Kazan",
+      "character": "Belle Carroca",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 1.4364,
+      "profile_path": "/6BpG5cRYtT2Trtaq6IshpLY9jgf.jpg"
+    },
+    {
+      "personId": 49422,
+      "name": "Anne DeSalvo",
+      "character": "Alice Miller",
+      "order": 6,
+      "cast_id": 14,
+      "popularity": 0.7796,
+      "profile_path": "/1ajM4cei3izJOCZhJWFKnjhdgpI.jpg"
+    },
+    {
+      "personId": 91369,
+      "name": "Basil Hoffman",
+      "character": "Herb Lee",
+      "order": 7,
+      "cast_id": 15,
+      "popularity": 0.8361,
+      "profile_path": "/iDAK5OkF0tHs049IB858uQ0NYjX.jpg"
+    },
+    {
+      "personId": 23708,
+      "name": "Lou Jacobi",
+      "character": "Uncle Morty",
+      "order": 8,
+      "cast_id": 16,
+      "popularity": 0.8891,
+      "profile_path": "/xCm6ntT3faWFIr5IagDdeHtvRlv.jpg"
+    },
+    {
+      "personId": 13286,
+      "name": "Adolph Green",
+      "character": "Leo Silver",
+      "order": 9,
+      "cast_id": 17,
+      "popularity": 1.4724,
+      "profile_path": "/qSEvREdNSNV4LbsGklU0vmfgLP8.jpg"
+    },
+    {
+      "personId": 138116,
+      "name": "Tony DiBenedetto",
+      "character": "Alfie Bumbacelli",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 0.8916,
+      "profile_path": null
+    },
+    {
+      "personId": 14669,
+      "name": "George Wyner",
+      "character": "Myron Fein",
+      "order": 11,
+      "cast_id": 19,
+      "popularity": 1.9927,
+      "profile_path": "/2c5axrzorErAwJ6Qts8o79r9Z6r.jpg"
+    },
+    {
+      "personId": 127640,
+      "name": "Selma Diamond",
+      "character": "Lil",
+      "order": 12,
+      "cast_id": 20,
+      "popularity": 0.5546,
+      "profile_path": "/cloH6tkSRL7tWsJpEaK1hZNPlp2.jpg"
+    },
+    {
+      "personId": 44728,
+      "name": "Cameron Mitchell",
+      "character": "Karl Rojeck",
+      "order": 13,
+      "cast_id": 21,
+      "popularity": 1.5209,
+      "profile_path": "/niLc67b00QIa0oDWp47mXcv319e.jpg"
+    },
+    {
+      "personId": 100619,
+      "name": "Jenny Neumann",
+      "character": "Connie",
+      "order": 14,
+      "cast_id": 23,
+      "popularity": 1.1868,
+      "profile_path": "/dgIWu5m1tGvMj4Cy4iwFDWxfhn5.jpg"
+    },
+    {
+      "personId": 74954,
+      "name": "Corinne Bohrer",
+      "character": "Bonnie",
+      "order": 15,
+      "cast_id": 24,
+      "popularity": 1.6331,
+      "profile_path": "/3zlALdvKNkRdrhTrxKTsyav8zRP.jpg"
+    },
+    {
+      "personId": 1640575,
+      "name": "George Marshall Ruge",
+      "character": "Lord Drummond / Featured Player",
+      "order": 16,
+      "cast_id": 25,
+      "popularity": 0.9107,
+      "profile_path": null
+    },
+    {
+      "personId": 105987,
+      "name": "Amanda Horan Kennedy",
+      "character": "Lady Eleanor",
+      "order": 17,
+      "cast_id": 26,
+      "popularity": 1.0887,
+      "profile_path": "/mv98kXM1DkJY6l2Tl3TjGe1ygfF.jpg"
+    },
+    {
+      "personId": 12816,
+      "name": "John Welsh",
+      "character": "Cubby Brown",
+      "order": 18,
+      "cast_id": 27,
+      "popularity": 0.89,
+      "profile_path": "/ulZ0z1Tbs8rKzGGNadjkiBXqMr6.jpg"
+    },
+    {
+      "personId": 134092,
+      "name": "Richard Brestoff",
+      "character": "Stage Manager / Featured Player",
+      "order": 19,
+      "cast_id": 28,
+      "popularity": 1.7533,
+      "profile_path": "/crtmyBM10zJfz0XkwWk2BZhvw81.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 24318,
+      "name": "Richard Benjamin",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1529,
+      "profile_path": "/i58m0OdJLHBez2z6ZbXiqXOZZpV.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 7464,
+      "name": "alcoholism"
+    },
+    {
+      "id": 160424,
+      "name": "live television"
+    },
+    {
+      "id": 208586,
+      "name": "acting"
+    },
+    {
+      "id": 208611,
+      "name": "1950s"
+    }
+  ]
+}

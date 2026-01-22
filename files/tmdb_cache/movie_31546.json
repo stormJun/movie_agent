@@ -1,0 +1,165 @@
+{
+  "overview": "Three inner-city losers plan a robbery of a valuable coin in a seedy second-hand junk shop.",
+  "release_date": "1996-09-13",
+  "runtime": 88,
+  "budget": 0,
+  "revenue": 665450,
+  "tmdb_vote_average": 5.4,
+  "tmdb_vote_count": 65,
+  "tmdb_popularity": 3.7244,
+  "original_language": "en",
+  "poster_path": "/tkIMquxwzMzZUrnAv43e3w0eX0F.jpg",
+  "backdrop_path": "/nkVsFtaCZTIgGwCTTkjqzMPGeAk.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 826,
+      "name": "Capitol Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 28206,
+      "name": "Prairie Oyster Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 2154,
+      "name": "Punch Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 798,
+      "name": "The Samuel Goldwyn Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 6705,
+      "name": "Film4 Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4483,
+      "name": "Dustin Hoffman",
+      "character": "Walt 'Teach' Teacher",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.976,
+      "profile_path": "/yFjTzJHE6AFbwQifOlnNDzmiwlq.jpg"
+    },
+    {
+      "personId": 11901,
+      "name": "Dennis Franz",
+      "character": "Don 'Donny' Dubrow",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.7008,
+      "profile_path": "/kbSUcfAbhV1kWuDtLhH5CQwcbJQ.jpg"
+    },
+    {
+      "personId": 75601,
+      "name": "Sean Nelson",
+      "character": "Bob 'Bobby'",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.9087,
+      "profile_path": "/t6D4dQN6jZPsqspDarEGqNF80J1.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 77076,
+      "name": "Michael Corrente",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.2514,
+      "profile_path": "/tHnxacF2J3RbYB23uSYKqgkhlNE.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 642,
+      "name": "robbery"
+    },
+    {
+      "id": 1419,
+      "name": "gun"
+    },
+    {
+      "id": 1797,
+      "name": "loyalty"
+    },
+    {
+      "id": 10738,
+      "name": "diner"
+    },
+    {
+      "id": 9748,
+      "name": "revenge"
+    },
+    {
+      "id": 10085,
+      "name": "betrayal"
+    },
+    {
+      "id": 10294,
+      "name": "coin"
+    },
+    {
+      "id": 11724,
+      "name": "vulgarity"
+    },
+    {
+      "id": 14782,
+      "name": "trust"
+    },
+    {
+      "id": 14852,
+      "name": "poker game"
+    },
+    {
+      "id": 15009,
+      "name": "criminal"
+    },
+    {
+      "id": 46959,
+      "name": "tantrum"
+    },
+    {
+      "id": 156507,
+      "name": "rainstorm"
+    },
+    {
+      "id": 164046,
+      "name": "broken glass"
+    },
+    {
+      "id": 185420,
+      "name": "antique dealer"
+    },
+    {
+      "id": 226768,
+      "name": "station wagon"
+    }
+  ]
+}

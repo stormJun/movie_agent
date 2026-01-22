@@ -1,0 +1,335 @@
+{
+  "overview": "A murder victim is brought back to life by a mysterious crow. With the help of a beautiful woman, he exacts revenge on his killers – only to realize his enemy has discovered the one weakness that can destroy him forever.",
+  "release_date": "1996-08-29",
+  "runtime": 84,
+  "budget": 13000000,
+  "revenue": 25317287,
+  "tmdb_vote_average": 5.508,
+  "tmdb_vote_count": 581,
+  "tmdb_popularity": 1.9706,
+  "original_language": "en",
+  "poster_path": "/ppOoLiO2JY0BJQdixs08xrQuAA6.jpg",
+  "backdrop_path": "/c0OnUa4nmLdbM63CZZtyehjCaQ2.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Fantasy",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 7405,
+      "name": "Dimension Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 14,
+      "name": "Miramax",
+      "origin_country": "US"
+    },
+    {
+      "id": 140433,
+      "name": "Bad Bird Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 138907,
+      "name": "Image Comics",
+      "origin_country": "US"
+    },
+    {
+      "id": 4030,
+      "name": "Jeff Most Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 20239,
+      "name": "Vincent Perez",
+      "character": "Ashe Corven / The Crow",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.3198,
+      "profile_path": "/mpNv77WJ0kmi8vecBmRKQAdRzzo.jpg"
+    },
+    {
+      "personId": 18658,
+      "name": "Mia Kirshner",
+      "character": "Sarah",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 4.3419,
+      "profile_path": "/7fSYUVxf84JdZ2aRJ9Lm28Ls6IK.jpg"
+    },
+    {
+      "personId": 13604,
+      "name": "Iggy Pop",
+      "character": "Curve",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.6992,
+      "profile_path": "/kZwFoGujhS3D39R1uyuyNbgSPr0.jpg"
+    },
+    {
+      "personId": 11155,
+      "name": "Thomas Jane",
+      "character": "Nemo",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 3.0173,
+      "profile_path": "/9frnlc2zoDcoeqZALB6aeYSQddl.jpg"
+    },
+    {
+      "personId": 106753,
+      "name": "Richard Brooks",
+      "character": "Judah Earl",
+      "order": 4,
+      "cast_id": 17,
+      "popularity": 1.4524,
+      "profile_path": "/eL51q3GpEtkdXWE6nE56PQ9kOkK.jpg"
+    },
+    {
+      "personId": 392547,
+      "name": "Thuy Trang",
+      "character": "Kali",
+      "order": 5,
+      "cast_id": 18,
+      "popularity": 0.9652,
+      "profile_path": "/jh2biVZRndYTCESgIIkKqYGryvF.jpg"
+    },
+    {
+      "personId": 177100,
+      "name": "Vincent Castellanos",
+      "character": "Spider Monkey",
+      "order": 6,
+      "cast_id": 19,
+      "popularity": 2.1625,
+      "profile_path": "/zN4PkqWhsCeHZ6XOCPxLJXgsUwO.jpg"
+    },
+    {
+      "personId": 134061,
+      "name": "Tracey Ellis",
+      "character": "Sybil",
+      "order": 7,
+      "cast_id": 22,
+      "popularity": 0.9151,
+      "profile_path": "/zd5yJVArScvH8qCjR9Lu2DjvW6n.jpg"
+    },
+    {
+      "personId": 2685,
+      "name": "Beverley Mitchell",
+      "character": "Grace",
+      "order": 8,
+      "cast_id": 23,
+      "popularity": 1.4893,
+      "profile_path": "/w9SmrZtYeddyDT4BRojqInqaPYZ.jpg"
+    },
+    {
+      "personId": 126583,
+      "name": "Alan Gelfant",
+      "character": "Bassett",
+      "order": 9,
+      "cast_id": 25,
+      "popularity": 0.3667,
+      "profile_path": "/sNbSjJBXWygWIJZaWfHBmmrFy0c.jpg"
+    },
+    {
+      "personId": 174906,
+      "name": "Shelly Desai",
+      "character": "Hindu",
+      "order": 10,
+      "cast_id": 26,
+      "popularity": 1.7937,
+      "profile_path": "/kavOPFlsUf1l5HRa1OJ8ugYFebT.jpg"
+    },
+    {
+      "personId": 1052953,
+      "name": "Holley Chant",
+      "character": "Holly Daze",
+      "order": 11,
+      "cast_id": 28,
+      "popularity": 0.9189,
+      "profile_path": null
+    },
+    {
+      "personId": 113908,
+      "name": "Ian Dury",
+      "character": "Noah",
+      "order": 12,
+      "cast_id": 21,
+      "popularity": 0.8737,
+      "profile_path": "/97ggi8jy6O5RDaDtULkOl1YTXoP.jpg"
+    },
+    {
+      "personId": 1402117,
+      "name": "Kerry Rossall",
+      "character": "Zeke",
+      "order": 13,
+      "cast_id": 27,
+      "popularity": 0.7882,
+      "profile_path": null
+    },
+    {
+      "personId": 947641,
+      "name": "Eric Acosta",
+      "character": "Danny",
+      "order": 14,
+      "cast_id": 20,
+      "popularity": 0.7482,
+      "profile_path": null
+    },
+    {
+      "personId": 1278038,
+      "name": "Aaron Thell Smith",
+      "character": "Tattoo Customer",
+      "order": 15,
+      "cast_id": 24,
+      "popularity": 0.0289,
+      "profile_path": null
+    },
+    {
+      "personId": 1105179,
+      "name": "Chino Moreno",
+      "character": "Self / Deftones",
+      "order": 16,
+      "cast_id": 47,
+      "popularity": 0.508,
+      "profile_path": null
+    },
+    {
+      "personId": 1291318,
+      "name": "Stephen Carpenter",
+      "character": "Self / Deftones",
+      "order": 17,
+      "cast_id": 48,
+      "popularity": 0.358,
+      "profile_path": null
+    },
+    {
+      "personId": 1291321,
+      "name": "Chi Cheng",
+      "character": "Self / Deftones",
+      "order": 18,
+      "cast_id": 49,
+      "popularity": 0.0582,
+      "profile_path": null
+    },
+    {
+      "personId": 1291319,
+      "name": "Abe Cunningham",
+      "character": "Self / Deftones",
+      "order": 19,
+      "cast_id": 50,
+      "popularity": 0.0955,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 65602,
+      "name": "Tim Pope",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6263,
+      "profile_path": "/hHo6BOlBxcV3UDsjCv6BBWj5BSJ.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 779,
+      "name": "martial arts"
+    },
+    {
+      "id": 331,
+      "name": "tattoo"
+    },
+    {
+      "id": 697,
+      "name": "loss of loved one"
+    },
+    {
+      "id": 9715,
+      "name": "superhero"
+    },
+    {
+      "id": 6152,
+      "name": "supernatural"
+    },
+    {
+      "id": 4639,
+      "name": "crow"
+    },
+    {
+      "id": 9717,
+      "name": "based on comic"
+    },
+    {
+      "id": 9663,
+      "name": "sequel"
+    },
+    {
+      "id": 9748,
+      "name": "revenge"
+    },
+    {
+      "id": 7002,
+      "name": "vigilante"
+    },
+    {
+      "id": 10044,
+      "name": "tragic hero"
+    },
+    {
+      "id": 12415,
+      "name": "back from the dead"
+    },
+    {
+      "id": 12965,
+      "name": "duel"
+    },
+    {
+      "id": 13125,
+      "name": "sadist"
+    },
+    {
+      "id": 33505,
+      "name": "gothic"
+    },
+    {
+      "id": 33556,
+      "name": "urban setting"
+    },
+    {
+      "id": 207268,
+      "name": "neo-noir"
+    },
+    {
+      "id": 232469,
+      "name": "urban gothic"
+    },
+    {
+      "id": 251513,
+      "name": "supernatural power"
+    },
+    {
+      "id": 266013,
+      "name": "vigilante justice"
+    },
+    {
+      "id": 269233,
+      "name": "good versus evil"
+    }
+  ]
+}

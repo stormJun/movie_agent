@@ -1,0 +1,326 @@
+{
+  "overview": "In a futuristic world where the polar ice caps have melted and made Earth a liquid planet, a beautiful barmaid rescues a mutant seafarer from a floating island prison. They escape, along with her young charge, Enola, and sail off aboard his ship. But the trio soon becomes the target of a menacing pirate who covets the map to 'Dryland'—which is tattooed on Enola's back.",
+  "release_date": "1995-07-28",
+  "runtime": 135,
+  "budget": 175000000,
+  "revenue": 264218220,
+  "tmdb_vote_average": 6.226,
+  "tmdb_vote_count": 3932,
+  "tmdb_popularity": 6.2327,
+  "original_language": "en",
+  "poster_path": "/X4UyUO5jgzs3c5YafnmYKLKKYw.jpg",
+  "backdrop_path": "/yaIu82UiD9QZEkKCGrAd8VAmc0V.jpg",
+  "tmdb_genres_raw": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    {
+      "id": 1073,
+      "name": "Gordon Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 1302,
+      "name": "Davis Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 6092,
+      "name": "Licht/Mueller Film Corporation",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1269,
+      "name": "Kevin Costner",
+      "character": "Mariner",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 8.6545,
+      "profile_path": "/bykmxJHLfbFM3NT05RZXhx8YTzF.jpg"
+    },
+    {
+      "personId": 2778,
+      "name": "Dennis Hopper",
+      "character": "Deacon",
+      "order": 1,
+      "cast_id": 24,
+      "popularity": 3.2218,
+      "profile_path": "/kqyNvLHi5RZGZcZMxl7e6XvoB5U.jpg"
+    },
+    {
+      "personId": 10478,
+      "name": "Jeanne Tripplehorn",
+      "character": "Helen",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 3.5662,
+      "profile_path": "/q7D9MDnMVc5PAm99853gszHwJy7.jpg"
+    },
+    {
+      "personId": 53930,
+      "name": "Tina Majorino",
+      "character": "Enola",
+      "order": 3,
+      "cast_id": 35,
+      "popularity": 2.8327,
+      "profile_path": "/2sOAKJHk38fsZPtM7L13KjqA8hR.jpg"
+    },
+    {
+      "personId": 49832,
+      "name": "R. D. Call",
+      "character": "Enforcer",
+      "order": 4,
+      "cast_id": 26,
+      "popularity": 1.2559,
+      "profile_path": "/c1lpGYJgYwXLkmEFeRAJWNDuo5H.jpg"
+    },
+    {
+      "personId": 151943,
+      "name": "Gerard Murphy",
+      "character": "Nord",
+      "order": 5,
+      "cast_id": 74,
+      "popularity": 0.4783,
+      "profile_path": "/2dzWjg6fsfalFEfCsLjo9mFpCIj.jpg"
+    },
+    {
+      "personId": 2169,
+      "name": "Michael Jeter",
+      "character": "Old Gregor",
+      "order": 6,
+      "cast_id": 75,
+      "popularity": 3.8421,
+      "profile_path": "/pNBf8X56wCOHH7cArsMYJuke4fO.jpg"
+    },
+    {
+      "personId": 3432,
+      "name": "Rick Aviles",
+      "character": "Gatesman",
+      "order": 7,
+      "cast_id": 3,
+      "popularity": 1.8825,
+      "profile_path": "/5gSlvykK09Y2t5gmIGn7440Na9A.jpg"
+    },
+    {
+      "personId": 8335,
+      "name": "Kim Coates",
+      "character": "Drifter",
+      "order": 8,
+      "cast_id": 80,
+      "popularity": 3.5102,
+      "profile_path": "/brhVd2vTTBJNpM2ZrOFc6SnXCAd.jpg"
+    },
+    {
+      "personId": 59350,
+      "name": "Chaim Jeraffi",
+      "character": "Drifter",
+      "order": 9,
+      "cast_id": 2,
+      "popularity": 0.6641,
+      "profile_path": "/odxOLYdm8mOihxpkWzNI1FMdU1I.jpg"
+    },
+    {
+      "personId": 85500,
+      "name": "Sab Shimono",
+      "character": "Elder",
+      "order": 10,
+      "cast_id": 148,
+      "popularity": 1.3933,
+      "profile_path": "/aMmU3CK8TkHAJSDhsRBCYkse4Ck.jpg"
+    },
+    {
+      "personId": 59352,
+      "name": "Zitto Kazann",
+      "character": "Elder / Survivor",
+      "order": 11,
+      "cast_id": 5,
+      "popularity": 0.9811,
+      "profile_path": null
+    },
+    {
+      "personId": 41741,
+      "name": "Rita Zohar",
+      "character": "Atoller",
+      "order": 12,
+      "cast_id": 36,
+      "popularity": 2.2986,
+      "profile_path": "/7lLXJOJqQUi2czY5nsf7YmR2XpX.jpg"
+    },
+    {
+      "personId": 70851,
+      "name": "Jack Black",
+      "character": "Pilot",
+      "order": 13,
+      "cast_id": 25,
+      "popularity": 11.7364,
+      "profile_path": "/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg"
+    },
+    {
+      "personId": 47458,
+      "name": "Zakes Mokae",
+      "character": "Priam",
+      "order": 14,
+      "cast_id": 27,
+      "popularity": 3.5291,
+      "profile_path": "/qLQfTAYvufmy3X6WI4OHrABL2ap.jpg"
+    },
+    {
+      "personId": 1240,
+      "name": "Jack Kehler",
+      "character": "Banker",
+      "order": 15,
+      "cast_id": 34,
+      "popularity": 2.3164,
+      "profile_path": "/5vPBJw92OKtD5pNO0TTPZvvxooV.jpg"
+    },
+    {
+      "personId": 12514,
+      "name": "Leonardo Cimino",
+      "character": "Elder",
+      "order": 16,
+      "cast_id": 145,
+      "popularity": 0.9631,
+      "profile_path": "/htS7uDanNvj66rQMCl9ff09L0Pe.jpg"
+    },
+    {
+      "personId": 3204,
+      "name": "Lanny Flaherty",
+      "character": "Trader",
+      "order": 17,
+      "cast_id": 146,
+      "popularity": 1.0063,
+      "profile_path": "/jZV9UdctUwZOsdZ4OH3wxj4Bvop.jpg"
+    },
+    {
+      "personId": 20175,
+      "name": "Robert A. Silverman",
+      "character": "Hydroholic",
+      "order": 18,
+      "cast_id": 147,
+      "popularity": 0.9838,
+      "profile_path": "/adI4xTnDp01vxWnzXo3fcAl6YRS.jpg"
+    },
+    {
+      "personId": 1769284,
+      "name": "Henry Kapono Ka'aihue",
+      "character": "Gatesman",
+      "order": 19,
+      "cast_id": 149,
+      "popularity": 1.7433,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 8300,
+      "name": "Kevin Reynolds",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.2988,
+      "profile_path": "/nLFx6wt9DVeYjTv2abGdY09ALsm.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 544,
+      "name": "sailboat"
+    },
+    {
+      "id": 311,
+      "name": "human evolution"
+    },
+    {
+      "id": 331,
+      "name": "tattoo"
+    },
+    {
+      "id": 270,
+      "name": "ocean"
+    },
+    {
+      "id": 1852,
+      "name": "mutant"
+    },
+    {
+      "id": 4418,
+      "name": "pirate gang"
+    },
+    {
+      "id": 12988,
+      "name": "pirate"
+    },
+    {
+      "id": 166964,
+      "name": "melting ice caps"
+    },
+    {
+      "id": 175994,
+      "name": "oil tanker"
+    },
+    {
+      "id": 186713,
+      "name": "barmaid"
+    },
+    {
+      "id": 204402,
+      "name": "free diving"
+    },
+    {
+      "id": 214386,
+      "name": "water planet"
+    },
+    {
+      "id": 215299,
+      "name": "environmental disaster"
+    },
+    {
+      "id": 217083,
+      "name": "reluctant hero"
+    },
+    {
+      "id": 227147,
+      "name": "underwater fight"
+    },
+    {
+      "id": 232580,
+      "name": "new species of human"
+    },
+    {
+      "id": 233300,
+      "name": "genetic mutation"
+    },
+    {
+      "id": 300722,
+      "name": "survival at sea"
+    },
+    {
+      "id": 344499,
+      "name": "special child"
+    },
+    {
+      "id": 351133,
+      "name": "futuristic world"
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "overview": "Based on the novel by Truman Capote, this often-witty coming-of-age drama looks at a young man growing up with an unusual family in the Deep South in the 1940s. Becoming an orphan in 1935, Collin moves to his dad's cousins Verena and Dolly. Verena is a rich, bossy businesswoman. Dolly, Collin and the maid revolt, moving to a tree house.",
+  "release_date": "1996-10-11",
+  "runtime": 107,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.8,
+  "tmdb_vote_count": 33,
+  "tmdb_popularity": 0.7618,
+  "original_language": "en",
+  "poster_path": "/pcdi92LC26RW3zm97SwF3NXYTUr.jpg",
+  "backdrop_path": "/xAFX96GvkxmF6GisSRFEFs3nz7A.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 17064,
+      "name": "Charles Matthau-Jerry Tokofsky-John Davis Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 8,
+      "name": "Fine Line Features",
+      "origin_country": "US"
+    },
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6721,
+      "name": "Piper Laurie",
+      "character": "Dolly Talbo",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.0395,
+      "profile_path": "/ccMC4RssRDKU6cz6K7rxiq1t2Hp.jpg"
+    },
+    {
+      "personId": 5606,
+      "name": "Sissy Spacek",
+      "character": "Verena Talbo",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 3.1265,
+      "profile_path": "/xAxenjxjLNQFq4v1ccS2to3Mnoq.jpg"
+    },
+    {
+      "personId": 6837,
+      "name": "Walter Matthau",
+      "character": "Judge Charlie Cool",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.4639,
+      "profile_path": "/pm1YEQPlsNcHQHZJBgcXvu4U4vg.jpg"
+    },
+    {
+      "personId": 820,
+      "name": "Edward Furlong",
+      "character": "Collin Fenwick",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 3.1355,
+      "profile_path": "/gzMDzH0UDXE4vS0xPhD1M8oTymo.jpg"
+    },
+    {
+      "personId": 80866,
+      "name": "Nell Carter",
+      "character": "Catherine Creek",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 1.0362,
+      "profile_path": "/sISeSr1Nylv6QseP0Xf8BgNJQ6a.jpg"
+    },
+    {
+      "personId": 3151,
+      "name": "Jack Lemmon",
+      "character": "Dr. Morris Ritz",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 2.2969,
+      "profile_path": "/7jWVWLr1VJqQrN3d4YJaATCIHRw.jpg"
+    },
+    {
+      "personId": 2453,
+      "name": "Mary Steenburgen",
+      "character": "Sister Ida",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 3.4892,
+      "profile_path": "/yJhfuqS3yXW7kLSyvRU6n3b35mq.jpg"
+    },
+    {
+      "personId": 54789,
+      "name": "Sean Patrick Flanery",
+      "character": "Riley Henderson",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 2.2718,
+      "profile_path": "/aHQtxIjMEDWdXqvFJplx0Kcwdn6.jpg"
+    },
+    {
+      "personId": 10671,
+      "name": "Joe Don Baker",
+      "character": "Sheriff Junius Candle",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 1.7912,
+      "profile_path": "/7AEqsKLyAO3tt9bUufdirU1xXo8.jpg"
+    },
+    {
+      "personId": 1466,
+      "name": "Charles Durning",
+      "character": "Reverend Buster",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 1.7981,
+      "profile_path": "/bozKytaYVKoIbptxkMFWepK09U5.jpg"
+    },
+    {
+      "personId": 7505,
+      "name": "Roddy McDowall",
+      "character": "Amos Legrand",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 2.8281,
+      "profile_path": "/mGO0pDPi5p91k2Og09HTf270rxL.jpg"
+    },
+    {
+      "personId": 18658,
+      "name": "Mia Kirshner",
+      "character": "Maude Riordan",
+      "order": 11,
+      "cast_id": 18,
+      "popularity": 4.3419,
+      "profile_path": "/7fSYUVxf84JdZ2aRJ9Lm28Ls6IK.jpg"
+    },
+    {
+      "personId": 6914,
+      "name": "Scott Wilson",
+      "character": "Eugene Fenwick",
+      "order": 12,
+      "cast_id": 19,
+      "popularity": 1.485,
+      "profile_path": "/ynH2YOLn0A7iIlmMiiWAGtC76Hx.jpg"
+    },
+    {
+      "personId": 32479,
+      "name": "Bonnie Bartlett",
+      "character": "Mrs. Buster",
+      "order": 13,
+      "cast_id": 20,
+      "popularity": 1.5625,
+      "profile_path": "/yz1MdbrxCAs5N1o0FouhnDWDAA7.jpg"
+    },
+    {
+      "personId": 45863,
+      "name": "Doris Roberts",
+      "character": "Mrs. Richards",
+      "order": 14,
+      "cast_id": 21,
+      "popularity": 1.7236,
+      "profile_path": "/bfJjsAKKRqUhm1lh2QC8u2atrov.jpg"
+    },
+    {
+      "personId": 37828,
+      "name": "Nora Dunfee",
+      "character": "Mrs. Peters",
+      "order": 15,
+      "cast_id": 22,
+      "popularity": 0.2532,
+      "profile_path": "/x6Mv6OcxemBbEUg9SGcQTAZZ5WP.jpg"
+    },
+    {
+      "personId": 1472,
+      "name": "Ray McKinnon",
+      "character": "Charlie Cool Jr",
+      "order": 16,
+      "cast_id": 23,
+      "popularity": 4.7623,
+      "profile_path": "/nZSmJVTSq2eEcE4FeEoKVNYUGM9.jpg"
+    },
+    {
+      "personId": 32389,
+      "name": "Boyd Gaines",
+      "character": "Narrator",
+      "order": 17,
+      "cast_id": 24,
+      "popularity": 0.6997,
+      "profile_path": "/8bbGx9VFkxV89vUChxyYmrWRwBo.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 122728,
+      "name": "Charles Matthau",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5919,
+      "profile_path": "/k7pNgtz7aWTYdBvhQ9rPUHuu2pD.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 531,
+      "name": "southern usa"
+    },
+    {
+      "id": 697,
+      "name": "loss of loved one"
+    },
+    {
+      "id": 2005,
+      "name": "tree house"
+    },
+    {
+      "id": 10683,
+      "name": "coming of age"
+    },
+    {
+      "id": 10048,
+      "name": "unrequited love"
+    },
+    {
+      "id": 13014,
+      "name": "orphan"
+    },
+    {
+      "id": 191009,
+      "name": "housemaid"
+    },
+    {
+      "id": 191480,
+      "name": "spinsters"
+    },
+    {
+      "id": 207883,
+      "name": "1940s"
+    },
+    {
+      "id": 207910,
+      "name": "truman capote"
+    },
+    {
+      "id": 214548,
+      "name": "1930s"
+    },
+    {
+      "id": 241738,
+      "name": "sister sister relationship"
+    },
+    {
+      "id": 258650,
+      "name": "grass field"
+    },
+    {
+      "id": 267113,
+      "name": "personal narrative"
+    },
+    {
+      "id": 296858,
+      "name": "deep south"
+    },
+    {
+      "id": 296859,
+      "name": "controlling sister"
+    }
+  ]
+}

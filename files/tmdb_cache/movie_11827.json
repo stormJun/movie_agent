@@ -1,0 +1,361 @@
+{
+  "overview": "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+  "release_date": "1981-08-07",
+  "runtime": 90,
+  "budget": 9300000,
+  "revenue": 20118654,
+  "tmdb_vote_average": 6.507,
+  "tmdb_vote_count": 757,
+  "tmdb_popularity": 2.5213,
+  "original_language": "en",
+  "poster_path": "/atUtWrDlLzT1yeVK2EoYtvbS963.jpg",
+  "backdrop_path": "/obApq0Prmf740t0b3QoxoSxjYW1.jpg",
+  "tmdb_genres_raw": [
+    "Animation",
+    "Science Fiction",
+    "Adventure",
+    "Fantasy",
+    "Music"
+  ],
+  "production_companies": [
+    {
+      "id": 4952,
+      "name": "Canadian Film Development Corporation",
+      "origin_country": "CA"
+    },
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 542,
+      "name": "Guardian Trust Company",
+      "origin_country": "CA"
+    },
+    {
+      "id": 36555,
+      "name": "Famous Players",
+      "origin_country": "CA"
+    },
+    {
+      "id": 9296,
+      "name": "Potterton Productions",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 70615,
+      "name": "Rodger Bumpass",
+      "character": "Hanover Fiste / Dr. Anrak (voice)",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.4427,
+      "profile_path": "/lGQkw6adxqB6Hcm7VK8nVHbKupe.jpg"
+    },
+    {
+      "personId": 7180,
+      "name": "John Candy",
+      "character": "Desk Sergeant / Dan / Den / Robot (voice)",
+      "order": 1,
+      "cast_id": 17,
+      "popularity": 2.6145,
+      "profile_path": "/uvLWbMDE6UfWNF5tfrsrC9NqeEA.jpg"
+    },
+    {
+      "personId": 61185,
+      "name": "Jackie Burroughs",
+      "character": "Katherine (voice)",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 0.8294,
+      "profile_path": "/qKRtBWQOknpXiHOnvL2nl6AqUFy.jpg"
+    },
+    {
+      "personId": 59196,
+      "name": "Joe Flaherty",
+      "character": "Lawyer / General (voice)",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.5083,
+      "profile_path": "/ryQDsvXgZpZCG2Y9b7TTCOFqG7e.jpg"
+    },
+    {
+      "personId": 87461,
+      "name": "Don Francks",
+      "character": "Grimaldi / Co-Pilot / Barbarian (voice)",
+      "order": 4,
+      "cast_id": 18,
+      "popularity": 1.133,
+      "profile_path": "/q1bvy838NZCLDxWLpwhJYC5FsDA.jpg"
+    },
+    {
+      "personId": 93644,
+      "name": "Marilyn Lightstone",
+      "character": "Whore / Queen (voice)",
+      "order": 5,
+      "cast_id": 24,
+      "popularity": 0.7706,
+      "profile_path": "/zmItaGmzEmfdIsCBfkayeH4PcHa.jpg"
+    },
+    {
+      "personId": 26510,
+      "name": "Eugene Levy",
+      "character": "Sternn / Male Reporter / Edsel (voice)",
+      "order": 6,
+      "cast_id": 30,
+      "popularity": 3.6737,
+      "profile_path": "/y4CexxKSI6qR5A6PDaD8mSrEhYC.jpg"
+    },
+    {
+      "personId": 1524,
+      "name": "Harold Ramis",
+      "character": "Zeke (voice)",
+      "order": 7,
+      "cast_id": 16,
+      "popularity": 2.5074,
+      "profile_path": "/kmTMTxthkDAsygk3Am4IUSVYYRi.jpg"
+    },
+    {
+      "personId": 1282665,
+      "name": "Caroline Semple",
+      "character": "Girl (voice)",
+      "order": 8,
+      "cast_id": 19,
+      "popularity": 0.1358,
+      "profile_path": null
+    },
+    {
+      "personId": 2557,
+      "name": "Richard Romanus",
+      "character": "Harry Canyon (voice)",
+      "order": 9,
+      "cast_id": 20,
+      "popularity": 1.2948,
+      "profile_path": "/7FQsgyWC2NsOMeYurbzNmUy4S7g.jpg"
+    },
+    {
+      "personId": 87462,
+      "name": "Susan Roman",
+      "character": "Girl / Satellite (voice)",
+      "order": 10,
+      "cast_id": 21,
+      "popularity": 0.8835,
+      "profile_path": "/vyWyOdnKcoNf40ytZSy6qlIIr9p.jpg"
+    },
+    {
+      "personId": 36172,
+      "name": "Al Waxman",
+      "character": "Rudnick (voice)",
+      "order": 11,
+      "cast_id": 23,
+      "popularity": 0.8778,
+      "profile_path": "/7nvvodM6mqMHPVzGQBIIG34pjsp.jpg"
+    },
+    {
+      "personId": 108890,
+      "name": "Harvey Atkin",
+      "character": "Alien / Henchman (voice)",
+      "order": 12,
+      "cast_id": 22,
+      "popularity": 1.0479,
+      "profile_path": "/4mPAx1XpJwPAeaVOaabM1AHSapZ.jpg"
+    },
+    {
+      "personId": 1010492,
+      "name": "Glenis Wootton Gross",
+      "character": "Whore (voice)",
+      "order": 13,
+      "cast_id": 25,
+      "popularity": 0.4371,
+      "profile_path": null
+    },
+    {
+      "personId": 17580,
+      "name": "John Vernon",
+      "character": "Prosecutor (voice)",
+      "order": 14,
+      "cast_id": 31,
+      "popularity": 1.8206,
+      "profile_path": "/xlHU7X2FhjnZVxu7fjoguCWlXeC.jpg"
+    },
+    {
+      "personId": 59179,
+      "name": "George Touliatos",
+      "character": "Pilot / Barbarian (voice)",
+      "order": 15,
+      "cast_id": 32,
+      "popularity": 2.0339,
+      "profile_path": "/kXeFgkPOgjxFk3uKfExrvRdA7wB.jpg"
+    },
+    {
+      "personId": 18260,
+      "name": "August Schellenberg",
+      "character": "Norl / Taarak (voice)",
+      "order": 16,
+      "cast_id": 33,
+      "popularity": 0.8835,
+      "profile_path": "/irsscpOU7eEfRQZ2fwajeSDLVUZ.jpg"
+    },
+    {
+      "personId": 58169,
+      "name": "Vlasta Vrana",
+      "character": "Barbarian Leader (voice)",
+      "order": 17,
+      "cast_id": 34,
+      "popularity": 1.208,
+      "profile_path": "/z5ujCvCkNv7ikka6tJVaxqegldY.jpg"
+    },
+    {
+      "personId": 80165,
+      "name": "Alice Playten",
+      "character": "Gloria (voice)",
+      "order": 18,
+      "cast_id": 35,
+      "popularity": 0.5409,
+      "profile_path": "/bd5ulqTHxY457wIN2RHeDO6lJnB.jpg"
+    },
+    {
+      "personId": 88451,
+      "name": "Percy Rodriguez",
+      "character": "Loc-Nar (voice / uncredited)",
+      "order": 19,
+      "cast_id": 88,
+      "popularity": 0.6307,
+      "profile_path": "/qJCXYeMeHUVXoHK8M12S0IfR9TW.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 70616,
+      "name": "Gerald Potterton",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4927,
+      "profile_path": "/wrzBWYKDvkKVM46t45gfR46suQa.jpg"
+    },
+    {
+      "personId": 58338,
+      "name": "John Bruno",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.346,
+      "profile_path": "/pxn60wbvxGcwGlfRCDHdg2NqbQH.jpg"
+    },
+    {
+      "personId": 70707,
+      "name": "John Halas",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.0995,
+      "profile_path": "/zGtDgzOw94TCblMCDQfetXJA0bq.jpg"
+    },
+    {
+      "personId": 2888351,
+      "name": "Julian Harris",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.3826,
+      "profile_path": null
+    },
+    {
+      "personId": 67268,
+      "name": "Jimmy T. Murakami",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.137,
+      "profile_path": "/pkYtVfzYjxxsSPjTFJU9ewuI39Q.jpg"
+    },
+    {
+      "personId": 1879400,
+      "name": "Barrie Nelson",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.2423,
+      "profile_path": null
+    },
+    {
+      "personId": 71852,
+      "name": "Paul Sabella",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6769,
+      "profile_path": "/coyLE6RkG41Zomyalt1TQXMaJ9v.jpg"
+    },
+    {
+      "personId": 1773189,
+      "name": "Jack Stokes",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.3829,
+      "profile_path": null
+    },
+    {
+      "personId": 57290,
+      "name": "Pino Van Lamsweerde",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.909,
+      "profile_path": null
+    },
+    {
+      "personId": 1693752,
+      "name": "Harold Whitaker",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.3317,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 391,
+      "name": "flying car"
+    },
+    {
+      "id": 444,
+      "name": "taxi"
+    },
+    {
+      "id": 5540,
+      "name": "heavy metal"
+    },
+    {
+      "id": 9717,
+      "name": "based on comic"
+    },
+    {
+      "id": 11494,
+      "name": "drug use"
+    },
+    {
+      "id": 11237,
+      "name": "rotoscoping"
+    },
+    {
+      "id": 161919,
+      "name": "adult animation"
+    }
+  ]
+}

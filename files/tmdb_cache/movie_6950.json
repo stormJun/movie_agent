@@ -1,0 +1,283 @@
+{
+  "overview": "A deadly airborne virus finds its way into the USA and starts killing off people at an epidemic rate. Col. Sam Daniels' job is to stop the virus spreading from a small town, which must be quarantined, and to prevent an over reaction by the White House.",
+  "release_date": "1995-03-10",
+  "runtime": 129,
+  "budget": 50000000,
+  "revenue": 189900000,
+  "tmdb_vote_average": 6.563,
+  "tmdb_vote_count": 2404,
+  "tmdb_popularity": 4.2629,
+  "original_language": "en",
+  "poster_path": "/4KymNvlWR0XF0sqX2BWRd9Z3yXR.jpg",
+  "backdrop_path": "/nMF6uj1Sv5dZHfmqOTIVOmDkB0Y.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Drama",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 824,
+      "name": "Kopelson Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 16775,
+      "name": "Arnold Kopelson Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 2154,
+      "name": "Punch Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ko",
+      "name": "한국어/조선말"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4483,
+      "name": "Dustin Hoffman",
+      "character": "Sam Daniels",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.976,
+      "profile_path": "/yFjTzJHE6AFbwQifOlnNDzmiwlq.jpg"
+    },
+    {
+      "personId": 14343,
+      "name": "Rene Russo",
+      "character": "Robby Keough",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 4.0095,
+      "profile_path": "/iqnQqYacK3xtxxyu7JTgBP4HFEg.jpg"
+    },
+    {
+      "personId": 192,
+      "name": "Morgan Freeman",
+      "character": "General Billy Ford",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 11.6276,
+      "profile_path": "/jPsLqiYGSofU4s6BjrxnefMfabb.jpg"
+    },
+    {
+      "personId": 1979,
+      "name": "Kevin Spacey",
+      "character": "Casey Schuler",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 3.1115,
+      "profile_path": "/nPrUZDEbGQe6jwpVbHKJCXsMd7r.jpg"
+    },
+    {
+      "personId": 9777,
+      "name": "Cuba Gooding Jr.",
+      "character": "Major Salt",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 5.2278,
+      "profile_path": "/2JguzbpOXoTGzSmLbWFlulKyyAe.jpg"
+    },
+    {
+      "personId": 55636,
+      "name": "Donald Sutherland",
+      "character": "General Donald McClintock",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 3.4917,
+      "profile_path": "/yM8WO2BYqFvgQXAvf4CIuCYnY4j.jpg"
+    },
+    {
+      "personId": 18352,
+      "name": "Patrick Dempsey",
+      "character": "Jimbo Scott",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 3.7762,
+      "profile_path": "/2PpaYtXdaDmNi3jap4qPIdyVesL.jpg"
+    },
+    {
+      "personId": 47458,
+      "name": "Zakes Mokae",
+      "character": "Dr. Benjamin Iwabi",
+      "order": 7,
+      "cast_id": 13,
+      "popularity": 3.5291,
+      "profile_path": "/qLQfTAYvufmy3X6WI4OHrABL2ap.jpg"
+    },
+    {
+      "personId": 10649,
+      "name": "Malick Bowens",
+      "character": "Dr. Raswani",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 2.2709,
+      "profile_path": "/lcib1dnY0bDLfb2VbjDIOauxCrq.jpg"
+    },
+    {
+      "personId": 52142,
+      "name": "Susan Lee Hoffman",
+      "character": "Dr. Lisa Aronson",
+      "order": 9,
+      "cast_id": 27,
+      "popularity": 0.8495,
+      "profile_path": "/pmV55rN1LvLnrKWgBfOA3w1SON3.jpg"
+    },
+    {
+      "personId": 2137,
+      "name": "Benito Martinez",
+      "character": "Dr. Julio Ruiz",
+      "order": 10,
+      "cast_id": 11,
+      "popularity": 2.2749,
+      "profile_path": "/3lPxnrPCs31lnliBNEssgxw7Qxg.jpg"
+    },
+    {
+      "personId": 53005,
+      "name": "Bruce Jarchow",
+      "character": "Dr. Mascelli",
+      "order": 11,
+      "cast_id": 14,
+      "popularity": 1.1267,
+      "profile_path": "/3RwlMOHVfgje8I8U0dKprNj3wUe.jpg"
+    },
+    {
+      "personId": 575616,
+      "name": "Leland Hayward III",
+      "character": "Henry Seward",
+      "order": 12,
+      "cast_id": 60,
+      "popularity": 0.5598,
+      "profile_path": null
+    },
+    {
+      "personId": 159947,
+      "name": "Daniel Chodos",
+      "character": "Rudy Alvarez",
+      "order": 13,
+      "cast_id": 61,
+      "popularity": 0.4819,
+      "profile_path": null
+    },
+    {
+      "personId": 3211,
+      "name": "Dale Dye",
+      "character": "Colonel Briggs",
+      "order": 14,
+      "cast_id": 15,
+      "popularity": 1.629,
+      "profile_path": "/bkMcK2hvB1wRJT1YFgNTl7ivlF2.jpg"
+    },
+    {
+      "personId": 1182975,
+      "name": "Kara Keough",
+      "character": "Kate Jeffries",
+      "order": 15,
+      "cast_id": 62,
+      "popularity": 1.6526,
+      "profile_path": "/s7N7CJ3PclsknWCKaIVB6AdjdqQ.jpg"
+    },
+    {
+      "personId": 1858014,
+      "name": "Gina Menza",
+      "character": "Mrs. Jeffries",
+      "order": 16,
+      "cast_id": 63,
+      "popularity": 0.2442,
+      "profile_path": "/1DtnSL2KfFJxh7W1DDs2a3K0PFN.jpg"
+    },
+    {
+      "personId": 2750650,
+      "name": "Per Didrik Fasmer",
+      "character": "Mr. Jeffries",
+      "order": 17,
+      "cast_id": 64,
+      "popularity": 0.4125,
+      "profile_path": null
+    },
+    {
+      "personId": 30369,
+      "name": "Michelle Joyner",
+      "character": "Sherry Mauldin",
+      "order": 18,
+      "cast_id": 65,
+      "popularity": 1.0488,
+      "profile_path": "/puIXV8yzhSLe3ay6n8WO6Zy4yIg.jpg"
+    },
+    {
+      "personId": 2752013,
+      "name": "Donald Forrest",
+      "character": "Mack Mauldin",
+      "order": 19,
+      "cast_id": 66,
+      "popularity": 0.1246,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 5231,
+      "name": "Wolfgang Petersen",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.4777,
+      "profile_path": "/g4F3DMUruouQX8mpUNHRGKMlmd1.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3664,
+      "name": "research"
+    },
+    {
+      "id": 6092,
+      "name": "army"
+    },
+    {
+      "id": 1402,
+      "name": "general"
+    },
+    {
+      "id": 1261,
+      "name": "river"
+    },
+    {
+      "id": 15149,
+      "name": "monkey"
+    },
+    {
+      "id": 17995,
+      "name": "epidemic"
+    },
+    {
+      "id": 158025,
+      "name": "medical research"
+    }
+  ]
+}

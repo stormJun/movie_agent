@@ -1,0 +1,177 @@
+{
+  "overview": "This is the story of a young Irish woman who comes to Spain to escape from the pressures she feels about her impending marriage to a political activist in Ireland. But in Spain in the 1930's, taking a job of governess in a wealthy family, she finds the same kinds of political unrest. In fact, it isn't long before she finds herself attracted to a married man who is similarly involved in the struggle against fascism and Franco. This awakens her to her nature that brings her to such men and resolves for her what she must do about the life she left in Ireland",
+  "release_date": "1998-10-30",
+  "runtime": 96,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.4,
+  "tmdb_vote_count": 21,
+  "tmdb_popularity": 0.6345,
+  "original_language": "en",
+  "poster_path": "/8Gipm3UeFxYqT5EE1lxdGmjvDs8.jpg",
+  "backdrop_path": "/wIq8gJcPNhNvrVbXa8tkMpHmCuH.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance",
+    "War"
+  ],
+  "production_companies": [
+    {
+      "id": 90101,
+      "name": "Polaris Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 4169,
+      "name": "KanZaman Productions",
+      "origin_country": "ES"
+    },
+    {
+      "id": 90100,
+      "name": "Kan Zamia-a",
+      "origin_country": ""
+    },
+    {
+      "id": 14,
+      "name": "Miramax",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "ES",
+      "name": "Spain"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6416,
+      "name": "Polly Walker",
+      "character": "Mary Lavelle",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.6828,
+      "profile_path": "/eE8dtdlAwnMeramd1pA6eOQzhky.jpg"
+    },
+    {
+      "personId": 3910,
+      "name": "Frances McDormand",
+      "character": "Conlon",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 4.3145,
+      "profile_path": "/r0A7hZsM1zuavTr0jN7bwmBcliR.jpg"
+    },
+    {
+      "personId": 20239,
+      "name": "Vincent Perez",
+      "character": "Francisco Areavaga",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 1.3338,
+      "profile_path": "/mpNv77WJ0kmi8vecBmRKQAdRzzo.jpg"
+    },
+    {
+      "personId": 22383,
+      "name": "Franco Nero",
+      "character": "Dr. Vicente Areavaga",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 3.0785,
+      "profile_path": "/uiCrTolkOqpZYVxveMZeBx7sjZO.jpg"
+    },
+    {
+      "personId": 954,
+      "name": "Marisa Paredes",
+      "character": "Doña Consuelo",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 1.0135,
+      "profile_path": "/71esuRUCyeSyib35mTFPkR24zH7.jpg"
+    },
+    {
+      "personId": 955,
+      "name": "Penélope Cruz",
+      "character": "Pilar",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 8.3111,
+      "profile_path": "/2Lbc8QXgHik1D1saPqQ5qEWwUEh.jpg"
+    },
+    {
+      "personId": 17006,
+      "name": "Ariadna Gil",
+      "character": "Beatriz",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 1.5034,
+      "profile_path": "/4g5IyK6br9UCRqLLlW8z5ZLFtYf.jpg"
+    },
+    {
+      "personId": 25258,
+      "name": "Rossy de Palma",
+      "character": "Elena",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 1.066,
+      "profile_path": "/3IH9ZBUcFNwBr8IcS1RZhMKTpeg.jpg"
+    },
+    {
+      "personId": 9768,
+      "name": "Francisco Rabal",
+      "character": "Don Jorge",
+      "order": 8,
+      "cast_id": 10,
+      "popularity": 1.0774,
+      "profile_path": "/4SXneju54P5QjrF7ZmAlU09HHxX.jpg"
+    },
+    {
+      "personId": 1053297,
+      "name": "Britta Smith",
+      "character": "Duggan",
+      "order": 9,
+      "cast_id": 11,
+      "popularity": 0.4467,
+      "profile_path": null
+    },
+    {
+      "personId": 553868,
+      "name": "Jorge de Juan",
+      "character": "Jaime",
+      "order": 10,
+      "cast_id": 33,
+      "popularity": 0.2817,
+      "profile_path": "/vdfAfG54MPyCI3pg1J0sd4z3v03.jpg"
+    },
+    {
+      "personId": 25265,
+      "name": "Angelina Llongueras",
+      "character": "Ana",
+      "order": 11,
+      "cast_id": 34,
+      "popularity": 0.409,
+      "profile_path": "/pHP1QAHXmwXzX6caFwm4oA1Kxbl.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 6361,
+      "name": "Nick Hamm",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.4834,
+      "profile_path": "/wz5astVsancniHGa3gPdBniZ197.jpg"
+    }
+  ],
+  "keywords": []
+}

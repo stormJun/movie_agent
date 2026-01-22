@@ -1,0 +1,268 @@
+{
+  "overview": "A kidnapped boy strikes up a friendship with his captor: an escaped convict on the run from the law, headed by an honorable U.S. Marshal.",
+  "release_date": "1993-11-24",
+  "runtime": 138,
+  "budget": 30000000,
+  "revenue": 135100000,
+  "tmdb_vote_average": 7.484,
+  "tmdb_vote_count": 1778,
+  "tmdb_popularity": 4.1012,
+  "original_language": "en",
+  "poster_path": "/kWX2CYM5TbWaZwll4ysh7OjVUmJ.jpg",
+  "backdrop_path": "/bbHziUiIFiSFYNnPfD1pPfRvyFe.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Crime",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 171,
+      "name": "Malpaso Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1269,
+      "name": "Kevin Costner",
+      "character": "Robert 'Butch' Haynes",
+      "order": 0,
+      "cast_id": 10,
+      "popularity": 8.6545,
+      "profile_path": "/bykmxJHLfbFM3NT05RZXhx8YTzF.jpg"
+    },
+    {
+      "personId": 190,
+      "name": "Clint Eastwood",
+      "character": "Chief Red Garnett",
+      "order": 1,
+      "cast_id": 14,
+      "popularity": 8.697,
+      "profile_path": "/8TwdCfeOZH7ucRlfLZ6wObxa7cO.jpg"
+    },
+    {
+      "personId": 4784,
+      "name": "Laura Dern",
+      "character": "Sally Gerber",
+      "order": 2,
+      "cast_id": 12,
+      "popularity": 5.6945,
+      "profile_path": "/gB9PnGEvxKg33OSlcqptQwTBwPE.jpg"
+    },
+    {
+      "personId": 64025,
+      "name": "T.J. Lowther",
+      "character": "Phillip 'Buzz' Perry",
+      "order": 3,
+      "cast_id": 13,
+      "popularity": 1.2474,
+      "profile_path": "/jRQJboPYY2LGf79j8OfKdjUUvD.jpg"
+    },
+    {
+      "personId": 11367,
+      "name": "Bradley Whitford",
+      "character": "Bobby Lee",
+      "order": 4,
+      "cast_id": 15,
+      "popularity": 4.2732,
+      "profile_path": "/hy3jwrcpmEpM7jLkrhlqQb1TfGN.jpg"
+    },
+    {
+      "personId": 87957,
+      "name": "Keith Szarabajka",
+      "character": "Terry Pugh",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 2.4562,
+      "profile_path": "/z45Goe7lfBvs3cBP5igsCE8ISWG.jpg"
+    },
+    {
+      "personId": 30151,
+      "name": "Leo Burmester",
+      "character": "Tom Adler",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 1.0825,
+      "profile_path": "/o7ZXSICrTDzhxIyd95HBwVjBi1f.jpg"
+    },
+    {
+      "personId": 177049,
+      "name": "Paul Hewitt",
+      "character": "Dick Suttle",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 0.3614,
+      "profile_path": "/4thMoXKH9Fi5S5p317BRA8H9lUx.jpg"
+    },
+    {
+      "personId": 1472,
+      "name": "Ray McKinnon",
+      "character": "Bradley",
+      "order": 8,
+      "cast_id": 19,
+      "popularity": 4.7623,
+      "profile_path": "/nZSmJVTSq2eEcE4FeEoKVNYUGM9.jpg"
+    },
+    {
+      "personId": 159381,
+      "name": "Jennifer Griffin",
+      "character": "Gladys Perry",
+      "order": 9,
+      "cast_id": 20,
+      "popularity": 2.287,
+      "profile_path": "/jih8vkxQu2IBSelEo1VaN9d5Bj6.jpg"
+    },
+    {
+      "personId": 1079606,
+      "name": "Leslie Flowers",
+      "character": "Naomi Perry",
+      "order": 10,
+      "cast_id": 21,
+      "popularity": 0.0362,
+      "profile_path": null
+    },
+    {
+      "personId": 1079607,
+      "name": "Belinda Flowers",
+      "character": "Ruth Perry",
+      "order": 11,
+      "cast_id": 22,
+      "popularity": 0.0758,
+      "profile_path": null
+    },
+    {
+      "personId": 97391,
+      "name": "Darryl Cox",
+      "character": "Mr. Hughes",
+      "order": 12,
+      "cast_id": 23,
+      "popularity": 0.7363,
+      "profile_path": "/dokVBvE6DlV7gBXnLPfQo8GDC6t.jpg"
+    },
+    {
+      "personId": 1079608,
+      "name": "Jay Whiteaker",
+      "character": "Billy Reeves",
+      "order": 13,
+      "cast_id": 24,
+      "popularity": 0.0604,
+      "profile_path": null
+    },
+    {
+      "personId": 1079609,
+      "name": "Taylor Suzanna McBride",
+      "character": "Tinkerbell",
+      "order": 14,
+      "cast_id": 25,
+      "popularity": 0.4033,
+      "profile_path": null
+    },
+    {
+      "personId": 1079610,
+      "name": "Christopher Reagan Ammons",
+      "character": "Dancing Skeleton",
+      "order": 15,
+      "cast_id": 26,
+      "popularity": 0.0286,
+      "profile_path": null
+    },
+    {
+      "personId": 35652,
+      "name": "Mark Voges",
+      "character": "Larry Billings",
+      "order": 16,
+      "cast_id": 27,
+      "popularity": 0.4842,
+      "profile_path": null
+    },
+    {
+      "personId": 974854,
+      "name": "Vernon Grote",
+      "character": "Prison Guard",
+      "order": 17,
+      "cast_id": 28,
+      "popularity": 0.5395,
+      "profile_path": null
+    },
+    {
+      "personId": 79646,
+      "name": "James Jeter",
+      "character": "Oldtimer",
+      "order": 18,
+      "cast_id": 29,
+      "popularity": 0.5693,
+      "profile_path": "/bktL8UnNggW5CkYysEtP8iU00SG.jpg"
+    },
+    {
+      "personId": 981812,
+      "name": "Ed Geldart",
+      "character": "Fred Cummings",
+      "order": 19,
+      "cast_id": 30,
+      "popularity": 0.7519,
+      "profile_path": "/33DCRR7cDnpFCAdluQITixrc2Rz.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 190,
+      "name": "Clint Eastwood",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 8.697,
+      "profile_path": "/8TwdCfeOZH7ucRlfLZ6wObxa7cO.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1562,
+      "name": "hostage"
+    },
+    {
+      "id": 1556,
+      "name": "texas"
+    },
+    {
+      "id": 9777,
+      "name": "prison escape"
+    },
+    {
+      "id": 7118,
+      "name": "escaped convict"
+    },
+    {
+      "id": 170865,
+      "name": "child kidnapping"
+    },
+    {
+      "id": 170881,
+      "name": "child driving car"
+    },
+    {
+      "id": 177609,
+      "name": "criminologist"
+    },
+    {
+      "id": 208992,
+      "name": "1960s"
+    }
+  ]
+}

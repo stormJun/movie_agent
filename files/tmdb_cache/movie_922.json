@@ -1,0 +1,310 @@
+{
+  "overview": "On the run after committing murder, an accountant encounters a strange Native American man who prepares him for his journey into the spiritual world.",
+  "release_date": "1995-12-23",
+  "runtime": 121,
+  "budget": 9000000,
+  "revenue": 1038000,
+  "tmdb_vote_average": 7.298,
+  "tmdb_vote_count": 1669,
+  "tmdb_popularity": 2.7504,
+  "original_language": "en",
+  "poster_path": "/jX3wGBVoYoAY3IixBpwYk1fjT4z.jpg",
+  "backdrop_path": "/a7DtgKB187dUm9n81IlvNzVXsK1.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Fantasy",
+    "Western"
+  ],
+  "production_companies": [
+    {
+      "id": 140,
+      "name": "Pandora Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 182,
+      "name": "JVC",
+      "origin_country": "JP"
+    },
+    {
+      "id": 506,
+      "name": "Newmarket Capital Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 663,
+      "name": "12-Gauge Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "JP",
+      "name": "Japan"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "cr",
+      "name": ""
+    }
+  ],
+  "cast": [
+    {
+      "personId": 85,
+      "name": "Johnny Depp",
+      "character": "William Blake",
+      "order": 0,
+      "cast_id": 22,
+      "popularity": 8.8051,
+      "profile_path": "/drl9qDZoxPHhUbDamYcOQEhlHzW.jpg"
+    },
+    {
+      "personId": 15439,
+      "name": "Gary Farmer",
+      "character": "Nobody",
+      "order": 1,
+      "cast_id": 23,
+      "popularity": 1.6737,
+      "profile_path": "/jGzbxhmJUZBLk3MblowFm6iI1m2.jpg"
+    },
+    {
+      "personId": 1064,
+      "name": "Crispin Glover",
+      "character": "Train Fireman",
+      "order": 2,
+      "cast_id": 24,
+      "popularity": 3.3996,
+      "profile_path": "/imBnLpSXvg61qDDdEfvL6R4ITKt.jpg"
+    },
+    {
+      "personId": 2714,
+      "name": "Lance Henriksen",
+      "character": "Cole Wilson",
+      "order": 3,
+      "cast_id": 25,
+      "popularity": 2.918,
+      "profile_path": "/1PkFmD5HdjmRa2DumtwINnnAjTH.jpg"
+    },
+    {
+      "personId": 7486,
+      "name": "Michael Wincott",
+      "character": "Conway Twill",
+      "order": 4,
+      "cast_id": 26,
+      "popularity": 2.2841,
+      "profile_path": "/z6FtWACKaIivi0khxM6vEHoUH0.jpg"
+    },
+    {
+      "personId": 342,
+      "name": "Eugene Byrd",
+      "character": "Johnny 'The Kid' Pickett",
+      "order": 5,
+      "cast_id": 28,
+      "popularity": 2.4837,
+      "profile_path": "/4Vs64bmZC4MgOnwIhGEeZWUw7q1.jpg"
+    },
+    {
+      "personId": 5049,
+      "name": "John Hurt",
+      "character": "John Scholfield",
+      "order": 6,
+      "cast_id": 29,
+      "popularity": 4.7837,
+      "profile_path": "/bjNSzt1d7uK3q5PbtFXUJrRt4qg.jpg"
+    },
+    {
+      "personId": 10158,
+      "name": "Robert Mitchum",
+      "character": "John Dickinson",
+      "order": 7,
+      "cast_id": 30,
+      "popularity": 1.7441,
+      "profile_path": "/l0It7MePd9cwgqHR3JQAYD6YMg9.jpg"
+    },
+    {
+      "personId": 13604,
+      "name": "Iggy Pop",
+      "character": "Salvatore 'Sally' Jenko",
+      "order": 8,
+      "cast_id": 31,
+      "popularity": 1.6992,
+      "profile_path": "/kZwFoGujhS3D39R1uyuyNbgSPr0.jpg"
+    },
+    {
+      "personId": 5168,
+      "name": "Gabriel Byrne",
+      "character": "Charlie Dickinson",
+      "order": 9,
+      "cast_id": 32,
+      "popularity": 3.0224,
+      "profile_path": "/9r9oDGENg92VYYFMkV4C09IUlrb.jpg"
+    },
+    {
+      "personId": 15440,
+      "name": "Jared Harris",
+      "character": "Benmont Tench",
+      "order": 10,
+      "cast_id": 33,
+      "popularity": 3.8094,
+      "profile_path": "/jAyPWkmge3BqXtgxIG9MfXBzOGj.jpg"
+    },
+    {
+      "personId": 15441,
+      "name": "Mili Avital",
+      "character": "Thel Russell",
+      "order": 11,
+      "cast_id": 34,
+      "popularity": 1.4196,
+      "profile_path": "/dsUOeJxWJR31RTMWgnLmm7Y1WwS.jpg"
+    },
+    {
+      "personId": 15442,
+      "name": "Jimmie Ray Weeks",
+      "character": "Marvin, Older Marshal",
+      "order": 12,
+      "cast_id": 35,
+      "popularity": 0.9281,
+      "profile_path": "/8b6L3vJj7vhMIlqjvMUzGp1QT3R.jpg"
+    },
+    {
+      "personId": 15443,
+      "name": "Mark Bringelson",
+      "character": "Lee, Younger Marshal",
+      "order": 13,
+      "cast_id": 36,
+      "popularity": 2.243,
+      "profile_path": "/97StE50cs5RpUeN6ThsMq8ePyzg.jpg"
+    },
+    {
+      "personId": 15444,
+      "name": "John North",
+      "character": "Mr. Olafsen",
+      "order": 14,
+      "cast_id": 37,
+      "popularity": 0.0995,
+      "profile_path": null
+    },
+    {
+      "personId": 658,
+      "name": "Alfred Molina",
+      "character": "Trading Post Missionary",
+      "order": 15,
+      "cast_id": 38,
+      "popularity": 4.6321,
+      "profile_path": "/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+    },
+    {
+      "personId": 879,
+      "name": "Billy Bob Thornton",
+      "character": "Big George Drakoulious",
+      "order": 16,
+      "cast_id": 39,
+      "popularity": 11.8358,
+      "profile_path": "/i5EKWHuXokznIDMy2prTXzRmklI.jpg"
+    },
+    {
+      "personId": 87126,
+      "name": "Michelle Thrush",
+      "character": "Nobody's Girlfriend",
+      "order": 17,
+      "cast_id": 40,
+      "popularity": 1.0162,
+      "profile_path": "/32rSHv8HfSAMWWmGyyHZeIEhuvp.jpg"
+    },
+    {
+      "personId": 1441148,
+      "name": "Gibby Haynes",
+      "character": "Man with Gun in Alley",
+      "order": 18,
+      "cast_id": 47,
+      "popularity": 0.6014,
+      "profile_path": "/rgaWpWUMugQE5oDD81f93diiWLb.jpg"
+    },
+    {
+      "personId": 4811,
+      "name": "Richard Boes",
+      "character": "Man with Wrench",
+      "order": 19,
+      "cast_id": 48,
+      "popularity": 0.7086,
+      "profile_path": "/6AJsggdP6NLsjgmNZlGeZMdS6rb.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 4429,
+      "name": "Jim Jarmusch",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.627,
+      "profile_path": "/iMpIrvhoO9SZWhiDkSzaUt9Yd4N.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3737,
+      "name": "dying and death"
+    },
+    {
+      "id": 798,
+      "name": "sheriff"
+    },
+    {
+      "id": 801,
+      "name": "bounty hunter"
+    },
+    {
+      "id": 1419,
+      "name": "gun"
+    },
+    {
+      "id": 1551,
+      "name": "indigenous"
+    },
+    {
+      "id": 2013,
+      "name": "attempted murder"
+    },
+    {
+      "id": 3246,
+      "name": "prosecution"
+    },
+    {
+      "id": 9454,
+      "name": "frontier"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 12999,
+      "name": "black and white"
+    },
+    {
+      "id": 207928,
+      "name": "19th century"
+    },
+    {
+      "id": 222114,
+      "name": "fear of dying"
+    },
+    {
+      "id": 231680,
+      "name": "wanted dead or alive"
+    }
+  ]
+}

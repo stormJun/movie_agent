@@ -1,0 +1,168 @@
+{
+  "overview": "The evil Iago pretends to be friend of Othello in order to manipulate him to serve his own end in the film version of this Shakespeare classic.",
+  "release_date": "1995-12-15",
+  "runtime": 123,
+  "budget": 11000000,
+  "revenue": 2800000,
+  "tmdb_vote_average": 6.3,
+  "tmdb_vote_count": 148,
+  "tmdb_popularity": 1.0295,
+  "original_language": "en",
+  "poster_path": "/kyevuYzW36wKadiE8lftLac5VwQ.jpg",
+  "backdrop_path": "/7SqIfSVW3xKTk07FbUm4LrhOOeL.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 97,
+      "name": "Castle Rock Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 16105,
+      "name": "Dakota Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2975,
+      "name": "Laurence Fishburne",
+      "character": "Othello",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 4.6026,
+      "profile_path": "/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
+    },
+    {
+      "personId": 1350,
+      "name": "Irène Jacob",
+      "character": "Desdemona",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 2.165,
+      "profile_path": "/yDpLjFtglSDlq3pvITr7O5AQfvg.jpg"
+    },
+    {
+      "personId": 11181,
+      "name": "Kenneth Branagh",
+      "character": "Iago",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 4.0633,
+      "profile_path": "/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg"
+    },
+    {
+      "personId": 27631,
+      "name": "Nathaniel Parker",
+      "character": "Cassio",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 2.0951,
+      "profile_path": "/mtJ0EXQ7rJaRb3DiAAOPGlFLOzi.jpg"
+    },
+    {
+      "personId": 17483,
+      "name": "Michael Maloney",
+      "character": "Roderigo",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 1.1913,
+      "profile_path": "/sE5K1f3TW1foDTT6yrGaeW4grun.jpg"
+    },
+    {
+      "personId": 1227643,
+      "name": "Anna Patrick",
+      "character": "Emilia",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 1.773,
+      "profile_path": "/jdi9sSi5DF5uOmurxSwQhAsXjYf.jpg"
+    },
+    {
+      "personId": 32357,
+      "name": "Nicholas Farrell",
+      "character": "Montano",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 1.9106,
+      "profile_path": "/gheuwhycSxpBRhGv7Qbfub2uuB2.jpg"
+    },
+    {
+      "personId": 232174,
+      "name": "Indra Ové",
+      "character": "Bianca",
+      "order": 7,
+      "cast_id": 6,
+      "popularity": 2.0205,
+      "profile_path": "/wDfCsmdCE4PwSPZoONC3JgssA2B.jpg"
+    },
+    {
+      "personId": 3968,
+      "name": "Michael Sheen",
+      "character": "Lodovico",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 2.9964,
+      "profile_path": "/nGxIcIcfJjdPN3k8zFabtA1gRqL.jpg"
+    },
+    {
+      "personId": 184881,
+      "name": "John Savident",
+      "character": "2nd Senator",
+      "order": 9,
+      "cast_id": 18,
+      "popularity": 1.7154,
+      "profile_path": "/fAbTwsOLn0W6Cagb8mFasTzWW7V.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 56710,
+      "name": "Oliver Parker",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.4899,
+      "profile_path": "/4J0TcOFhYL3KkojgayPm2uL79Zv.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 931,
+      "name": "jealousy"
+    },
+    {
+      "id": 10181,
+      "name": "based on play or musical"
+    },
+    {
+      "id": 9713,
+      "name": "friends"
+    },
+    {
+      "id": 271033,
+      "name": "the moors (people)"
+    },
+    {
+      "id": 332062,
+      "name": "shakespeare"
+    }
+  ]
+}

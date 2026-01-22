@@ -1,0 +1,236 @@
+{
+  "overview": "Ten years into a marriage, the wife is disappointed by the husband's lack of financial success, meaning she has to work and can't treat herself and the husband finds the wife slovenly and mean-spirited: she neither cooks not cleans particularly well and is generally disagreeable. In turn, he alternately ignores her and treats her as a servant. Neither is particularly happy, not helped by their unsatisfactory lodgers. The husband is easily seduced by an ex-colleague, a widow with a small child who needs some security, and considers leaving his wife.",
+  "release_date": "1953-04-29",
+  "runtime": 96,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.9,
+  "tmdb_vote_count": 10,
+  "tmdb_popularity": 1.3616,
+  "original_language": "ja",
+  "poster_path": "/9DMw6CFftuzLYpbftcOFmyZekJ6.jpg",
+  "backdrop_path": "/bRMYJXuF8xZjUJxgXhFJgixpIe4.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 882,
+      "name": "TOHO",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "ja",
+      "name": "日本語"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 134373,
+      "name": "Mieko Takamine",
+      "character": "Mihoko Nakagawa",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 1.6527,
+      "profile_path": "/rwSZ3wSGOrYQq85BnxZGApHDBn0.jpg"
+    },
+    {
+      "personId": 134629,
+      "name": "Ken Uehara",
+      "character": "Toichi, Mihoko's husband",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 2.0066,
+      "profile_path": "/5Gea9YY469WW5Ga3u6raemmQuVM.jpg"
+    },
+    {
+      "personId": 76975,
+      "name": "Rentaro Mikuni",
+      "character": "Tadashi Tanimura",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 1.0211,
+      "profile_path": "/kSET9YM6lC5on7W6jUH8XBn9pH.jpg"
+    },
+    {
+      "personId": 85307,
+      "name": "Michiyo Aratama",
+      "character": "Yoshimi Niemura",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 0.8941,
+      "profile_path": "/uboC2trGcPpcuGMGSXmX5OOfigm.jpg"
+    },
+    {
+      "personId": 125723,
+      "name": "Chieko Nakakita",
+      "character": "Eiko Matsuyama",
+      "order": 4,
+      "cast_id": 18,
+      "popularity": 0.921,
+      "profile_path": "/wPDw7i4mYeTX6N0N9vwUgXHkxef.jpg"
+    },
+    {
+      "personId": 213507,
+      "name": "Sanae Takasugi",
+      "character": "Setsuko Sakurai",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 1.6491,
+      "profile_path": "/8xRWkzsBsJvpiDQ3hen3ZLilR0V.jpg"
+    },
+    {
+      "personId": 136382,
+      "name": "Yatsuko Tan'ami",
+      "character": "Fusako Sagara",
+      "order": 6,
+      "cast_id": 19,
+      "popularity": 1.1742,
+      "profile_path": "/n7X1uuDN1XvOA4K7ndTI07oN5qv.jpg"
+    },
+    {
+      "personId": 1481068,
+      "name": "Hajime Izu",
+      "character": "Hirohisa Matsuyama",
+      "order": 7,
+      "cast_id": 20,
+      "popularity": 0.9418,
+      "profile_path": "/1xQYBzLA9O76lAKKeoK7HzRUDqW.jpg"
+    },
+    {
+      "personId": 131017,
+      "name": "Yoshiko Tsubouchi",
+      "character": "Taeko Niemura",
+      "order": 8,
+      "cast_id": 21,
+      "popularity": 1.2928,
+      "profile_path": "/1hhgMPAoLjl24A72wDcVPps3e0r.jpg"
+    },
+    {
+      "personId": 125009,
+      "name": "Tatsuya Ishiguro",
+      "character": "",
+      "order": 9,
+      "cast_id": 22,
+      "popularity": 1.6356,
+      "profile_path": "/ehUT5dbQVRTDOPUcnbU7REfa7z.jpg"
+    },
+    {
+      "personId": 552167,
+      "name": "Akira Tani",
+      "character": "Kito",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 1.2051,
+      "profile_path": null
+    },
+    {
+      "personId": 7456,
+      "name": "Noriko Honma",
+      "character": "",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 1.2416,
+      "profile_path": "/r0Z6sTGdmRsm3TVJ7wxPD9xfoNC.jpg"
+    },
+    {
+      "personId": 131194,
+      "name": "Masao Shimizu",
+      "character": "",
+      "order": 12,
+      "cast_id": 25,
+      "popularity": 1.5745,
+      "profile_path": "/77QHN0Ac5Oq31R1PKQSIVX3nFzX.jpg"
+    },
+    {
+      "personId": 1530336,
+      "name": "Sadako Kimura",
+      "character": "",
+      "order": 13,
+      "cast_id": 26,
+      "popularity": 0.1116,
+      "profile_path": null
+    },
+    {
+      "personId": 1530337,
+      "name": "Eiji Koyama",
+      "character": "",
+      "order": 14,
+      "cast_id": 27,
+      "popularity": 0.6648,
+      "profile_path": null
+    },
+    {
+      "personId": 1530338,
+      "name": "Masakichi Mitsui",
+      "character": "",
+      "order": 15,
+      "cast_id": 28,
+      "popularity": 0.0852,
+      "profile_path": null
+    },
+    {
+      "personId": 1529720,
+      "name": "Hideko Ebata",
+      "character": "",
+      "order": 16,
+      "cast_id": 29,
+      "popularity": 2.9927,
+      "profile_path": null
+    },
+    {
+      "personId": 136386,
+      "name": "Tsuruko Mano",
+      "character": "",
+      "order": 17,
+      "cast_id": 30,
+      "popularity": 1.5891,
+      "profile_path": "/lSDYZx6VRwDWlE570CLq9tK3Ym4.jpg"
+    },
+    {
+      "personId": 1530339,
+      "name": "Toyomi Shiozawa",
+      "character": "",
+      "order": 18,
+      "cast_id": 31,
+      "popularity": 0.146,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 125690,
+      "name": "Mikio Naruse",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.4017,
+      "profile_path": "/a2OGYZQ8UGFCQKl5TpVQd893j1D.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 4183,
+      "name": "wife"
+    },
+    {
+      "id": 6038,
+      "name": "marriage"
+    },
+    {
+      "id": 156455,
+      "name": "unhappiness"
+    }
+  ]
+}

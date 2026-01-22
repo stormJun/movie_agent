@@ -1,0 +1,257 @@
+{
+  "overview": "A first person narrative of the exploits of a gay serial killer in deeply disturbing, controversial drama about violence, sexuality, and the imagination. Dennis, the main character, whose lead we follow on this path between what is real and what we can only hope is surreal. His friends attempt to determine if he's truly a psychopath.",
+  "release_date": "1996-03-22",
+  "runtime": 88,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 3.933,
+  "tmdb_vote_count": 15,
+  "tmdb_popularity": 0.1832,
+  "original_language": "en",
+  "poster_path": "/2BsmfL2wr4sAjrsBFePewmslnXO.jpg",
+  "backdrop_path": "/3cTGzSMt0bTifoCBRWV3yG3IQ3m.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Thriller",
+    "Crime",
+    "Horror"
+  ],
+  "production_companies": [
+    {
+      "id": 16588,
+      "name": "Bangor Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 3923,
+      "name": "Strand Releasing",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1290416,
+      "name": "Michael Gunther",
+      "character": "Dennis",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 0.2419,
+      "profile_path": null
+    },
+    {
+      "personId": 82769,
+      "name": "Craig Chester",
+      "character": "Henry",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 0.4462,
+      "profile_path": "/ptcsPmaDWzKuO7KfCWCY4lqjKMc.jpg"
+    },
+    {
+      "personId": 1190456,
+      "name": "Michael Stock",
+      "character": "Uhrs",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 0.2151,
+      "profile_path": null
+    },
+    {
+      "personId": 1087439,
+      "name": "Raoul O'Connell",
+      "character": "Kevin",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 0.5982,
+      "profile_path": "/gdvljRyEj5VVIwWLrDms33Z40wv.jpg"
+    },
+    {
+      "personId": 1071626,
+      "name": "Jaie Laplante",
+      "character": "Julian",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.5066,
+      "profile_path": null
+    },
+    {
+      "personId": 7489,
+      "name": "Parker Posey",
+      "character": "Ferguson",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 3.2512,
+      "profile_path": "/yoFt75JfGUqQ6EV8qN6fckQuElk.jpg"
+    },
+    {
+      "personId": 17234,
+      "name": "James Lyons",
+      "character": "Gypsy Pete",
+      "order": 6,
+      "cast_id": 15,
+      "popularity": 0.4637,
+      "profile_path": "/eYepgw281zZrf4OTOXdnMS8cabh.jpg"
+    },
+    {
+      "personId": 19578,
+      "name": "Alexis Arquette",
+      "character": "Punk (victim #3)",
+      "order": 7,
+      "cast_id": 7,
+      "popularity": 0.9136,
+      "profile_path": "/jNRBwGKXOZFWLI2ceff1sMUdxcE.jpg"
+    },
+    {
+      "personId": 104460,
+      "name": "Michael Waite",
+      "character": "Gary",
+      "order": 8,
+      "cast_id": 31,
+      "popularity": 0.63,
+      "profile_path": "/f0vwzrs33PtZS4kOOPHjwdjUNFg.jpg"
+    },
+    {
+      "personId": 2169809,
+      "name": "Alyssa Wendt",
+      "character": "Susan",
+      "order": 9,
+      "cast_id": 32,
+      "popularity": 0.0764,
+      "profile_path": null
+    },
+    {
+      "personId": 2894684,
+      "name": "Mark Ewert",
+      "character": "Young Dennis / Jan (victim #1) / Young Boy in park (victim #4)",
+      "order": 10,
+      "cast_id": 33,
+      "popularity": 0.1851,
+      "profile_path": null
+    },
+    {
+      "personId": 1751835,
+      "name": "Dustin Schell",
+      "character": "Snuff Photographer",
+      "order": 11,
+      "cast_id": 34,
+      "popularity": 0.2649,
+      "profile_path": null
+    },
+    {
+      "personId": 3589156,
+      "name": "Michael Wilson",
+      "character": "Party Goer",
+      "order": 12,
+      "cast_id": 35,
+      "popularity": 0.0785,
+      "profile_path": null
+    },
+    {
+      "personId": 3589157,
+      "name": "Paul B. Riley",
+      "character": "Party Goer",
+      "order": 13,
+      "cast_id": 36,
+      "popularity": 0.0887,
+      "profile_path": null
+    },
+    {
+      "personId": 3589158,
+      "name": "Donald Mosner",
+      "character": "Party Goer",
+      "order": 14,
+      "cast_id": 37,
+      "popularity": 0.1178,
+      "profile_path": null
+    },
+    {
+      "personId": 3589160,
+      "name": "James Mackay",
+      "character": "Party Goer",
+      "order": 15,
+      "cast_id": 38,
+      "popularity": 0.073,
+      "profile_path": null
+    },
+    {
+      "personId": 3589161,
+      "name": "Brook Dillon",
+      "character": "Party Goer",
+      "order": 16,
+      "cast_id": 39,
+      "popularity": 0.1293,
+      "profile_path": null
+    },
+    {
+      "personId": 3589162,
+      "name": "Kimberly MacInnis",
+      "character": "Party Goer",
+      "order": 17,
+      "cast_id": 40,
+      "popularity": 0.1172,
+      "profile_path": null
+    },
+    {
+      "personId": 3589164,
+      "name": "Edward Zold",
+      "character": "Party Goer",
+      "order": 18,
+      "cast_id": 41,
+      "popularity": 0.1302,
+      "profile_path": null
+    },
+    {
+      "personId": 3589165,
+      "name": "Sean Bumgarner",
+      "character": "Party Goer",
+      "order": 19,
+      "cast_id": 42,
+      "popularity": 0.114,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 230320,
+      "name": "Todd Verow",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.872,
+      "profile_path": "/sMpaWDiZVOkerq1V0WN9WvehvHU.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 4426,
+      "name": "sadism"
+    },
+    {
+      "id": 10714,
+      "name": "serial killer"
+    },
+    {
+      "id": 158718,
+      "name": "lgbt"
+    },
+    {
+      "id": 258533,
+      "name": "gay theme"
+    }
+  ]
+}

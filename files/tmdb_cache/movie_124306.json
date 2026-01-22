@@ -1,0 +1,99 @@
+{
+  "overview": "May, 1946, in Paris young poet Jacques Prevel meets Antonin Artaud, the actor, artist, and writer just released from a mental asylum. Over ten months, we follow the mad Artaud from his cruel coaching of an actress in his \"theatre of cruelty\" to his semi-friendship with Prevel who buys him drugs and hangs on his every word. Meanwhile, Prevel divides his time between Jany, his blond, young, drug-hazed mistress, and Rolande, his dark-haired, long-suffering wife, who has a child during this time. Cruelty, neglect, poverty, egoism, madness, and the pursuit of art mix on the Left Bank.",
+  "release_date": "1993-11-16",
+  "runtime": 90,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.05,
+  "tmdb_vote_count": 10,
+  "tmdb_popularity": 0.1179,
+  "original_language": "fr",
+  "poster_path": "/wDqebKxUMKbIzLKTKeCLXpK5QFW.jpg",
+  "backdrop_path": null,
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 2695,
+      "name": "Archipel 33>35",
+      "origin_country": "FR"
+    },
+    {
+      "id": 11359,
+      "name": "France 2",
+      "origin_country": "FR"
+    },
+    {
+      "id": 153395,
+      "name": "La Sept",
+      "origin_country": "FR"
+    },
+    {
+      "id": 47608,
+      "name": "Laura Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 17578,
+      "name": "Sami Frey",
+      "character": "Antonin Artaud",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 1.9141,
+      "profile_path": "/1iHrqvqmkztd8qADAVSJqYB7k9v.jpg"
+    },
+    {
+      "personId": 135665,
+      "name": "Marc Barbé",
+      "character": "",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 0.9784,
+      "profile_path": "/wx6mwxsSrAZj3PAg8PkUSAQlTbo.jpg"
+    },
+    {
+      "personId": 262075,
+      "name": "Julie Jézéquel",
+      "character": "",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 0.5413,
+      "profile_path": "/gT8xNBN2xhP2JqN44qklXqUshHK.jpg"
+    },
+    {
+      "personId": 1118225,
+      "name": "Valérie Jeannet",
+      "character": "",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 0.5722,
+      "profile_path": "/n3PurPWHLFKAHBHxkcBheedfkCg.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 41521,
+      "name": "Gérard Mordillat",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.3165,
+      "profile_path": "/eYcxt9h1FlD4bQyQ9ycuxwEBekV.jpg"
+    }
+  ],
+  "keywords": []
+}

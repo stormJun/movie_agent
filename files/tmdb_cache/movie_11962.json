@@ -1,0 +1,263 @@
+{
+  "overview": "A nice guy has just moved to New York and discovers that he must share his run-down apartment with a couple thousand singing, dancing cockroaches.",
+  "release_date": "1996-07-26",
+  "runtime": 81,
+  "budget": 13000000,
+  "revenue": 4600000,
+  "tmdb_vote_average": 5.8,
+  "tmdb_vote_count": 363,
+  "tmdb_popularity": 1.6901,
+  "original_language": "en",
+  "poster_path": "/a06jrMRurcq7sYdhFK2LNs8bRt8.jpg",
+  "backdrop_path": "/ieZHOhXPnkHSaN3UNrmqZ6zjNR1.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "production_companies": [
+    {
+      "id": 360,
+      "name": "Geffen Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 746,
+      "name": "MTV Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3035,
+      "name": "Jerry O'Connell",
+      "character": "Joe",
+      "order": 0,
+      "cast_id": 12,
+      "popularity": 2.1718,
+      "profile_path": "/p2zcFeDIKUrPrbT5ODqoLifdN3Q.jpg"
+    },
+    {
+      "personId": 64999,
+      "name": "Megan Ward",
+      "character": "Lily Dougherty",
+      "order": 1,
+      "cast_id": 9,
+      "popularity": 1.2764,
+      "profile_path": "/wMrxzRi6101yXfcOzJnw7fNgZpl.jpg"
+    },
+    {
+      "personId": 23679,
+      "name": "Billy West",
+      "character": "Ralph Roach (voice)",
+      "order": 2,
+      "cast_id": 10,
+      "popularity": 1.7417,
+      "profile_path": "/iNQtBsgV4wr3z5CEEFhR5U4Yedk.jpg"
+    },
+    {
+      "personId": 68215,
+      "name": "Reginald Hudlin",
+      "character": "Rodney Roach (voice)",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 0.5572,
+      "profile_path": "/z2O30pOwkKpZBCyZpwZ80ouKcQA.jpg"
+    },
+    {
+      "personId": 1006,
+      "name": "Willi One Blood",
+      "character": "Complaint Handler",
+      "order": 4,
+      "cast_id": 14,
+      "popularity": 0.4325,
+      "profile_path": "/5n71rk2UbxcQhwX1D5q8Gxl3le6.jpg"
+    },
+    {
+      "personId": 1988,
+      "name": "Tracy Vilar",
+      "character": "Complaint Handler",
+      "order": 5,
+      "cast_id": 15,
+      "popularity": 1.3619,
+      "profile_path": "/9R68ib49Lsmn8yHrN6U6Rix2LHr.jpg"
+    },
+    {
+      "personId": 138037,
+      "name": "Sandra 'Pepa' Denton",
+      "character": "Blank",
+      "order": 6,
+      "cast_id": 16,
+      "popularity": 0.5585,
+      "profile_path": "/2qHSZI8FGTI22jfZgkaLeKKgWjh.jpg"
+    },
+    {
+      "personId": 14060,
+      "name": "Robert Vaughn",
+      "character": "Senator Dougherty",
+      "order": 7,
+      "cast_id": 17,
+      "popularity": 2.7789,
+      "profile_path": "/mYaQ9Qv2oC014lwMaXb76A5UL1n.jpg"
+    },
+    {
+      "personId": 134529,
+      "name": "Shiek Mahmud-Bey",
+      "character": "Vladimir Bianco",
+      "order": 8,
+      "cast_id": 18,
+      "popularity": 0.8667,
+      "profile_path": "/dIpc9ncOVXqQYvsDSDh628G0Un8.jpg"
+    },
+    {
+      "personId": 1371523,
+      "name": "Jon Spencer",
+      "character": "Boss Hog Band Member",
+      "order": 9,
+      "cast_id": 19,
+      "popularity": 1.1804,
+      "profile_path": "/dZgcpUpOdOoPmlhJLMcg3SVfiHt.jpg"
+    },
+    {
+      "personId": 101377,
+      "name": "Paul Bartel",
+      "character": "NEA Scout",
+      "order": 10,
+      "cast_id": 20,
+      "popularity": 0.7332,
+      "profile_path": "/qBs4BQ80N3QsQKfUApEeKcFoRap.jpg"
+    },
+    {
+      "personId": 159887,
+      "name": "Tommy Hollis",
+      "character": "Boss Plumber",
+      "order": 11,
+      "cast_id": 21,
+      "popularity": 0.7346,
+      "profile_path": "/wfujtsSzR7NY4R0V2t0lFMl0UE1.jpg"
+    },
+    {
+      "personId": 1230641,
+      "name": "Don Ho",
+      "character": "Alberto Bianco",
+      "order": 12,
+      "cast_id": 23,
+      "popularity": 0.4486,
+      "profile_path": "/zU64OhtgLcXCBZKDRuDbdsqaPRS.jpg"
+    },
+    {
+      "personId": 164002,
+      "name": "Jim Sterling",
+      "character": "Jesus Bianco / Voice of Cockroach",
+      "order": 13,
+      "cast_id": 24,
+      "popularity": 0.0878,
+      "profile_path": null
+    },
+    {
+      "personId": 1232,
+      "name": "David Huddleston",
+      "character": "P.I. Smith",
+      "order": 14,
+      "cast_id": 25,
+      "popularity": 1.4379,
+      "profile_path": "/g4FEQ1cRhrwjdd1boWDSLkrWK1g.jpg"
+    },
+    {
+      "personId": 47774,
+      "name": "Vincent Pastore",
+      "character": "Apartment Broker #2",
+      "order": 15,
+      "cast_id": 26,
+      "popularity": 1.5953,
+      "profile_path": "/dyRRn8POwLUMHT7lIISujioYOym.jpg"
+    },
+    {
+      "personId": 1087342,
+      "name": "Scott Bigelow",
+      "character": "Boss Construction",
+      "order": 16,
+      "cast_id": 27,
+      "popularity": 0.3137,
+      "profile_path": "/mCP5iDBWLVtdh8kMf05nWDDiiE9.jpg"
+    },
+    {
+      "personId": 39121,
+      "name": "Moby",
+      "character": "Club DeeJay",
+      "order": 17,
+      "cast_id": 28,
+      "popularity": 0.7255,
+      "profile_path": "/taklPQ4mrT5wM3BJiKEoYf2Yl2x.jpg"
+    },
+    {
+      "personId": 4169,
+      "name": "Dave Chappelle",
+      "character": "Cockroach (voice)",
+      "order": 18,
+      "cast_id": 29,
+      "popularity": 2.6231,
+      "profile_path": "/hDVe67wjmjtbOTzDrFaJfcobcE.jpg"
+    },
+    {
+      "personId": 73831,
+      "name": "Godfrey",
+      "character": "Cockroach (voice)",
+      "order": 19,
+      "cast_id": 30,
+      "popularity": 1.3564,
+      "profile_path": "/aKI13rfct5TrtMrYJpOB0VOtm4b.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 71110,
+      "name": "John Payson",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5792,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1439,
+      "name": "flat"
+    },
+    {
+      "id": 4344,
+      "name": "musical"
+    },
+    {
+      "id": 6623,
+      "name": "lodger"
+    },
+    {
+      "id": 7325,
+      "name": "cockroach"
+    },
+    {
+      "id": 6432,
+      "name": "rent"
+    },
+    {
+      "id": 9498,
+      "name": "spekulant"
+    },
+    {
+      "id": 325765,
+      "name": "amused"
+    }
+  ]
+}

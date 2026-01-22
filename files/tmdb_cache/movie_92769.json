@@ -1,0 +1,166 @@
+{
+  "overview": "Linda and Peter Pratman's son Adam is autistic, but they still love him and hope that he'll at least start talking some day. However he's teased and abused by the kids of the neighborhood and his grandpa . When several people around Adam die an unexpected death, his parents start to suspect Adam - is he just simulating to be so ignorant about his environment?",
+  "release_date": "1994-12-16",
+  "runtime": 90,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 4.6,
+  "tmdb_vote_count": 7,
+  "tmdb_popularity": 1.2012,
+  "original_language": "en",
+  "poster_path": "/wG6wdsB9lqCwxsRycnzzXZDSo6m.jpg",
+  "backdrop_path": "/6uxykItXvIASUh1bIRarE0S6PlV.jpg",
+  "tmdb_genres_raw": [
+    "Horror",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 4899,
+      "name": "Allegro Films",
+      "origin_country": "CA"
+    },
+    {
+      "id": 24946,
+      "name": "west wind entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 16953,
+      "name": "Norstar Entertainment",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4761,
+      "name": "Darlanne Fluegel",
+      "character": "Linda Pratman",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 1.2725,
+      "profile_path": "/rXmishEsaMzo0fwf0QyEbK2JhUk.jpg"
+    },
+    {
+      "personId": 9274,
+      "name": "James Brolin",
+      "character": "Det. Atwater",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 3.1846,
+      "profile_path": "/mdkmgcWySHNNQRJcPhtKqH9hCIE.jpg"
+    },
+    {
+      "personId": 53596,
+      "name": "Martin Neufeld",
+      "character": "Peter Pratman",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 0.5824,
+      "profile_path": "/vFgAPMZEMyaRMcbBDwrEteXqGUv.jpg"
+    },
+    {
+      "personId": 1743,
+      "name": "Denise Crosby",
+      "character": "Connie Madison",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 1.8473,
+      "profile_path": "/1Eoo8o3xRGflJ9kHxg1eFVwAwQa.jpg"
+    },
+    {
+      "personId": 588,
+      "name": "M. Emmet Walsh",
+      "character": "Earl Ladelle",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 2.9949,
+      "profile_path": "/fVWvBxvwyk4aTA9vKZOV9qHRNNk.jpg"
+    },
+    {
+      "personId": 995601,
+      "name": "Matthew Dupuis",
+      "character": "Adam Pratman",
+      "order": 5,
+      "cast_id": 4,
+      "popularity": 0.4285,
+      "profile_path": null
+    },
+    {
+      "personId": 179270,
+      "name": "Bruce Dinsmore",
+      "character": "Clive",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 0.9843,
+      "profile_path": "/aO0qlddrQlogsnlLU9CP5q8N1Mf.jpg"
+    },
+    {
+      "personId": 1087584,
+      "name": "Linda Sorensen",
+      "character": "Margaret Ladelle",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 0.888,
+      "profile_path": "/ciB9m4TFnIpGbujT8k423ak95B4.jpg"
+    },
+    {
+      "personId": 58169,
+      "name": "Vlasta Vrana",
+      "character": "Mr. Schulman",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 1.3091,
+      "profile_path": "/z5ujCvCkNv7ikka6tJVaxqegldY.jpg"
+    },
+    {
+      "personId": 977522,
+      "name": "Linda Singer",
+      "character": "K-9 Cop",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 0.2861,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 133793,
+      "name": "George Mihalka",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5408,
+      "profile_path": "/aOwOiF7wKNMXK2ffGoh3EfrcXVh.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2726,
+      "name": "therapist"
+    },
+    {
+      "id": 3301,
+      "name": "suspicion"
+    },
+    {
+      "id": 10714,
+      "name": "serial killer"
+    },
+    {
+      "id": 208728,
+      "name": "special education"
+    }
+  ]
+}

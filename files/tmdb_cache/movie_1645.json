@@ -1,0 +1,348 @@
+{
+  "overview": "A young lawyer defends a black man accused of murdering two white men who raped his 10-year-old daughter, sparking a rebirth of the KKK.",
+  "release_date": "1996-07-24",
+  "runtime": 149,
+  "budget": 40000000,
+  "revenue": 152266007,
+  "tmdb_vote_average": 7.385,
+  "tmdb_vote_count": 2811,
+  "tmdb_popularity": 9.9596,
+  "original_language": "en",
+  "poster_path": "/w8UCke112E9jrhjKcwG32kyhTx5.jpg",
+  "backdrop_path": "/bwLQCW6LqmrJ6aJsevypcg93JCU.jpg",
+  "tmdb_genres_raw": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 508,
+      "name": "Regency Enterprises",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10297,
+      "name": "Matthew McConaughey",
+      "character": "Jake Brigance",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 7.7751,
+      "profile_path": "/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
+    },
+    {
+      "personId": 18277,
+      "name": "Sandra Bullock",
+      "character": "Ellen Roark",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 11.3949,
+      "profile_path": "/hPHGKPAWZ8gArYXMk225rrYPoyJ.jpg"
+    },
+    {
+      "personId": 2231,
+      "name": "Samuel L. Jackson",
+      "character": "Carl Lee Hailey",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 9.0658,
+      "profile_path": "/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+    },
+    {
+      "personId": 1979,
+      "name": "Kevin Spacey",
+      "character": "Rufus Buckley",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.7867,
+      "profile_path": "/nPrUZDEbGQe6jwpVbHKJCXsMd7r.jpg"
+    },
+    {
+      "personId": 15852,
+      "name": "Ashley Judd",
+      "character": "Carla Brigance",
+      "order": 4,
+      "cast_id": 10,
+      "popularity": 3.7775,
+      "profile_path": "/5771ZxVIs5rQbI1SV8TOlAFcF15.jpg"
+    },
+    {
+      "personId": 55636,
+      "name": "Donald Sutherland",
+      "character": "Lucien Wilbanks",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 3.1092,
+      "profile_path": "/yM8WO2BYqFvgQXAvf4CIuCYnY4j.jpg"
+    },
+    {
+      "personId": 17485,
+      "name": "Oliver Platt",
+      "character": "Harry Rex Vonner",
+      "order": 6,
+      "cast_id": 5,
+      "popularity": 3.2471,
+      "profile_path": "/ipBzOzgWRdxxYoM5xNN1cfenFaC.jpg"
+    },
+    {
+      "personId": 17764,
+      "name": "Charles S. Dutton",
+      "character": "Ozzie Walls",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 1.7548,
+      "profile_path": "/eNLs4JLILqSY50Tq5QMkrlBxD0H.jpg"
+    },
+    {
+      "personId": 18345,
+      "name": "Brenda Fricker",
+      "character": "Ethel Twitty",
+      "order": 8,
+      "cast_id": 9,
+      "popularity": 2.2126,
+      "profile_path": "/osvE1ZFs7SsqCzTpoTia8pUwamX.jpg"
+    },
+    {
+      "personId": 2628,
+      "name": "Kiefer Sutherland",
+      "character": "Freddie Lee Cobb",
+      "order": 9,
+      "cast_id": 7,
+      "popularity": 5.083,
+      "profile_path": "/tK5zjdvao2NELns3bqT7PPqPeJI.jpg"
+    },
+    {
+      "personId": 2463,
+      "name": "Patrick McGoohan",
+      "character": "Judge Omar Noose",
+      "order": 10,
+      "cast_id": 32,
+      "popularity": 1.7155,
+      "profile_path": "/xtUMgFYGF7KmJg1KqiYQuwYTTe3.jpg"
+    },
+    {
+      "personId": 18346,
+      "name": "Rae'Ven Larrymore Kelly",
+      "character": "Tonya Hailey",
+      "order": 11,
+      "cast_id": 11,
+      "popularity": 1.5342,
+      "profile_path": "/bJGMNfhDyzAVh1cy9Yoi6dGvlES.jpg"
+    },
+    {
+      "personId": 18347,
+      "name": "Tonea Stewart",
+      "character": "Gwen Hailey",
+      "order": 12,
+      "cast_id": 12,
+      "popularity": 2.173,
+      "profile_path": "/wWmYTgwq6Llqhy4IoLC6FCUFQlq.jpg"
+    },
+    {
+      "personId": 4942,
+      "name": "John Diehl",
+      "character": "Tim Nunley",
+      "order": 13,
+      "cast_id": 23,
+      "popularity": 1.7809,
+      "profile_path": "/fSaOexgc31Xmp4koMu0HvlkJMr4.jpg"
+    },
+    {
+      "personId": 2955,
+      "name": "Chris Cooper",
+      "character": "Dwayne Looney",
+      "order": 14,
+      "cast_id": 24,
+      "popularity": 3.1258,
+      "profile_path": "/j0sQDzaDlnNAdaYhy6HRRAFi22.jpg"
+    },
+    {
+      "personId": 18070,
+      "name": "Nicky Katt",
+      "character": "Billy Ray Cobb",
+      "order": 15,
+      "cast_id": 25,
+      "popularity": 1.8506,
+      "profile_path": "/9OY1D1WXJsqC7OnrKErc3mFfly5.jpg"
+    },
+    {
+      "personId": 6806,
+      "name": "Doug Hutchison",
+      "character": "Pete Willard",
+      "order": 16,
+      "cast_id": 26,
+      "popularity": 1.9712,
+      "profile_path": "/a32hLANC5LIqT0Pk2nyV7dGdh23.jpg"
+    },
+    {
+      "personId": 2115,
+      "name": "Kurtwood Smith",
+      "character": "Stump Sisson",
+      "order": 17,
+      "cast_id": 27,
+      "popularity": 2.2815,
+      "profile_path": "/7dqsk4NYbNZNnmppv2zPuf1hKBn.jpg"
+    },
+    {
+      "personId": 65171,
+      "name": "Tim Parati",
+      "character": "Winston",
+      "order": 18,
+      "cast_id": 28,
+      "popularity": 0.688,
+      "profile_path": "/tWV81s3dBacZMFnPzWhICE89s34.jpg"
+    },
+    {
+      "personId": 5151,
+      "name": "Beth Grant",
+      "character": "Cora Mae Cobb",
+      "order": 19,
+      "cast_id": 29,
+      "popularity": 2.1493,
+      "profile_path": "/6THLoPYhIu422TqUmQDgnQRfYxA.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 5572,
+      "name": "Joel Schumacher",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.96,
+      "profile_path": "/fTQwIwVFrL9bFe0LdToQaIkT737.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1589,
+      "name": "sniper"
+    },
+    {
+      "id": 570,
+      "name": "rape"
+    },
+    {
+      "id": 6148,
+      "name": "court"
+    },
+    {
+      "id": 1417,
+      "name": "jurors"
+    },
+    {
+      "id": 529,
+      "name": "ku klux klan"
+    },
+    {
+      "id": 787,
+      "name": "mississippi river"
+    },
+    {
+      "id": 3446,
+      "name": "forgiveness"
+    },
+    {
+      "id": 1936,
+      "name": "blackmail"
+    },
+    {
+      "id": 2013,
+      "name": "attempted murder"
+    },
+    {
+      "id": 11038,
+      "name": "trial"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 10909,
+      "name": "lawyer"
+    },
+    {
+      "id": 11523,
+      "name": "capital punishment"
+    },
+    {
+      "id": 12365,
+      "name": "gang rape"
+    },
+    {
+      "id": 12425,
+      "name": "racism"
+    },
+    {
+      "id": 33519,
+      "name": "courtroom"
+    },
+    {
+      "id": 41385,
+      "name": "racial tension"
+    },
+    {
+      "id": 159103,
+      "name": "mourning"
+    },
+    {
+      "id": 204173,
+      "name": "racial issues"
+    },
+    {
+      "id": 214780,
+      "name": "courtroom drama"
+    },
+    {
+      "id": 222517,
+      "name": "legal drama"
+    },
+    {
+      "id": 254459,
+      "name": "legal thriller"
+    },
+    {
+      "id": 254834,
+      "name": "black community"
+    },
+    {
+      "id": 256664,
+      "name": "avenging father"
+    },
+    {
+      "id": 281585,
+      "name": "inspirational"
+    },
+    {
+      "id": 315360,
+      "name": "attempted hanging"
+    },
+    {
+      "id": 325818,
+      "name": "frightened"
+    },
+    {
+      "id": 336994,
+      "name": "deep south racism"
+    }
+  ]
+}

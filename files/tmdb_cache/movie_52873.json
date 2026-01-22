@@ -1,0 +1,183 @@
+{
+  "overview": "Elderly woman Berthe leaves her house to live with her daughter Emilie. Emilie and her brother Antoine had a falling out three years ago and have not seen each other since, but Emilie invites him for Christmas. Memories will resurface and impact both Berthe's destiny and the strange relationship between Emilie and Antoine.",
+  "release_date": "1993-05-14",
+  "runtime": 127,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.0,
+  "tmdb_vote_count": 50,
+  "tmdb_popularity": 0.9687,
+  "original_language": "fr",
+  "poster_path": "/mWQhnhvNo8B2WRZhvv9XxrA7HgF.jpg",
+  "backdrop_path": "/wFGZDBAmoAuHZMWg13K6bwZkYKd.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 356,
+      "name": "TF1 Films Production",
+      "origin_country": "FR"
+    },
+    {
+      "id": 635,
+      "name": "Les Films Alain Sarde",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6012,
+      "name": "Daniel Auteuil",
+      "character": "Antoine",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 1.3837,
+      "profile_path": "/5asrvkdSnlYlHap3ldDNyE5opeI.jpg"
+    },
+    {
+      "personId": 25181,
+      "name": "Marthe Villalonga",
+      "character": "Berthe",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 0.5079,
+      "profile_path": "/fD9oyI0SKEtn67JsgyoukLm5Z0u.jpg"
+    },
+    {
+      "personId": 50,
+      "name": "Catherine Deneuve",
+      "character": "Emilie",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 4.8539,
+      "profile_path": "/5IThAorp3R4bPmkIhe7snFFo2YU.jpg"
+    },
+    {
+      "personId": 227933,
+      "name": "Jean-Pierre Bouvier",
+      "character": "Bruno",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 0.4063,
+      "profile_path": "/jrDA8vwZfnMrHrMxjg8dyWmp96w.jpg"
+    },
+    {
+      "personId": 20710,
+      "name": "Chiara Mastroianni",
+      "character": "Anne",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 1.1733,
+      "profile_path": "/tFqa9RlIFn2wxI4TTK5btzvJxVq.jpg"
+    },
+    {
+      "personId": 76093,
+      "name": "Carmen Chaplin",
+      "character": "Khadija",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 0.8265,
+      "profile_path": "/a0RcnXbwOlEFMW0mJebnfyV9FyJ.jpg"
+    },
+    {
+      "personId": 376886,
+      "name": "Anthony Prada",
+      "character": "Lucien",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 0.0363,
+      "profile_path": null
+    },
+    {
+      "personId": 19936,
+      "name": "Michèle Moretti",
+      "character": "la directrice",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 0.4272,
+      "profile_path": "/onmKHDPvnCtRRkzYY0qxb2ZyX5a.jpg"
+    },
+    {
+      "personId": 40304,
+      "name": "Jacques Nolot",
+      "character": "l'homme au cimetière",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 0.3405,
+      "profile_path": "/z7JvsShybj6qofzsGMzTWDbnTOx.jpg"
+    },
+    {
+      "personId": 56285,
+      "name": "Bruno Todeschini",
+      "character": "l'homme de l'hôpital",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 1.6186,
+      "profile_path": "/gDyctO2bjftYvS1nEnIu8i5KKxu.jpg"
+    },
+    {
+      "personId": 244039,
+      "name": "Jean Bousquet",
+      "character": "le père d'Emilie",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 0.1166,
+      "profile_path": "/qjUXqanb6VG8xqwMTOgCol4dxoj.jpg"
+    },
+    {
+      "personId": 20442,
+      "name": "Roschdy Zem",
+      "character": "Mehdi",
+      "order": 11,
+      "cast_id": 16,
+      "popularity": 1.6048,
+      "profile_path": "/snCmqnpG1BCypvuCKSAy5Z5BgV8.jpg"
+    },
+    {
+      "personId": 45195,
+      "name": "Ingrid Caven",
+      "character": "La femme du bar",
+      "order": 12,
+      "cast_id": 17,
+      "popularity": 0.5064,
+      "profile_path": "/py0XImGnp27PIWYAMWIyNP78X5K.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 96627,
+      "name": "André Téchiné",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5971,
+      "profile_path": "/gt7GCtiNJUVeJ5I8lA5o90AE8rK.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 9824,
+      "name": "reunion"
+    },
+    {
+      "id": 10937,
+      "name": "memory"
+    },
+    {
+      "id": 207317,
+      "name": "christmas"
+    }
+  ]
+}

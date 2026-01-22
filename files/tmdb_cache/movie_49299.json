@@ -1,0 +1,270 @@
+{
+  "overview": "A New York film director, working on his latest movie in Los Angeles, begins to reflect the actions in his movie and real life, especially when he begins an affair with the lead actress.",
+  "release_date": "1993-10-13",
+  "runtime": 108,
+  "budget": 10000000,
+  "revenue": 1261210,
+  "tmdb_vote_average": 5.7,
+  "tmdb_vote_count": 83,
+  "tmdb_popularity": 3.1098,
+  "original_language": "en",
+  "poster_path": "/lHD4z6KAjtDWKIMeChezIFon5bX.jpg",
+  "backdrop_path": "/vXqBQUTEpbuT035JgRS6R72NKyb.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 371,
+      "name": "Cecchi Gori Group Tiger Cinematografica",
+      "origin_country": "IT"
+    },
+    {
+      "id": 36863,
+      "name": "Maverick Picture Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1037,
+      "name": "Harvey Keitel",
+      "character": "Eddie Israel",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.3999,
+      "profile_path": "/7P30hza1neYWW3r7rSQOC736K2Z.jpg"
+    },
+    {
+      "personId": 3125,
+      "name": "Madonna",
+      "character": "Sarah Jennings",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.7006,
+      "profile_path": "/d11f76gpql9RNSnyYgZ6yQr5DW7.jpg"
+    },
+    {
+      "personId": 785,
+      "name": "James Russo",
+      "character": "Francis Burns",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.4874,
+      "profile_path": "/nubhNb5OUkzsrndD1BNqzp7MGyo.jpg"
+    },
+    {
+      "personId": 1379575,
+      "name": "Nancy Ferrara",
+      "character": "Madlyn",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 0.341,
+      "profile_path": null
+    },
+    {
+      "personId": 39115,
+      "name": "Reilly Murphy",
+      "character": "Tommy",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 0.5994,
+      "profile_path": "/i7Nc9rzBzIF9q7ny23kOia2lmmN.jpg"
+    },
+    {
+      "personId": 2561,
+      "name": "Victor Argo",
+      "character": "Director of Photography",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 1.1622,
+      "profile_path": "/of6bhqwk4HA5Bu8d16OtuD0HYom.jpg"
+    },
+    {
+      "personId": 15537,
+      "name": "Leonard L. Thomas",
+      "character": "Prop Guy",
+      "order": 6,
+      "cast_id": 32,
+      "popularity": 1.3296,
+      "profile_path": "/tz9fJ5O7aa3a1vBt52bIZKYdaSK.jpg"
+    },
+    {
+      "personId": 975368,
+      "name": "Christina Fulton",
+      "character": "Blonde",
+      "order": 7,
+      "cast_id": 22,
+      "popularity": 1.2493,
+      "profile_path": "/MRfzLiD8HCm6c1ufYo0DPn37Yt.jpg"
+    },
+    {
+      "personId": 2212312,
+      "name": "Heather Bracken",
+      "character": "Stewardess",
+      "order": 8,
+      "cast_id": 23,
+      "popularity": 0.2479,
+      "profile_path": null
+    },
+    {
+      "personId": 2683,
+      "name": "Glenn Plummer",
+      "character": "Burns' Buddy",
+      "order": 9,
+      "cast_id": 25,
+      "popularity": 2.9184,
+      "profile_path": "/lNfRFcxD7bhqKLZwOqdpumA83TL.jpg"
+    },
+    {
+      "personId": 4287238,
+      "name": "Niki Munroe",
+      "character": "Girl in Trailer",
+      "order": 10,
+      "cast_id": 33,
+      "popularity": 0.0825,
+      "profile_path": null
+    },
+    {
+      "personId": 104419,
+      "name": "Lori Eastside",
+      "character": "Party Guest",
+      "order": 11,
+      "cast_id": 34,
+      "popularity": 0.1669,
+      "profile_path": null
+    },
+    {
+      "personId": 152408,
+      "name": "John Snyder",
+      "character": "Party Guest",
+      "order": 12,
+      "cast_id": 35,
+      "popularity": 1.9223,
+      "profile_path": "/oRdYmwMqEoseT1C539KHYw0AjiK.jpg"
+    },
+    {
+      "personId": 4287239,
+      "name": "Adina Winston",
+      "character": "Party Guest",
+      "order": 13,
+      "cast_id": 36,
+      "popularity": 0.0677,
+      "profile_path": null
+    },
+    {
+      "personId": 1033160,
+      "name": "Dylan Hundley",
+      "character": "Party Guest",
+      "order": 14,
+      "cast_id": 37,
+      "popularity": 0.2464,
+      "profile_path": null
+    },
+    {
+      "personId": 4287240,
+      "name": "Juliette Hohnen",
+      "character": "Bar Patron",
+      "order": 15,
+      "cast_id": 38,
+      "popularity": 0.0622,
+      "profile_path": null
+    },
+    {
+      "personId": 162884,
+      "name": "Julie Pop",
+      "character": "Morton's Waitress",
+      "order": 16,
+      "cast_id": 26,
+      "popularity": 0.3957,
+      "profile_path": null
+    },
+    {
+      "personId": 3249260,
+      "name": "Lili Barsha",
+      "character": "Flight Attendant",
+      "order": 17,
+      "cast_id": 28,
+      "popularity": 0.2086,
+      "profile_path": null
+    },
+    {
+      "personId": 4287242,
+      "name": "Robyn B. Ashley",
+      "character": "Flight Attendant",
+      "order": 18,
+      "cast_id": 39,
+      "popularity": 0.0382,
+      "profile_path": null
+    },
+    {
+      "personId": 39108,
+      "name": "Anthony Redman",
+      "character": "Swinger",
+      "order": 19,
+      "cast_id": 40,
+      "popularity": 0.3032,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 39104,
+      "name": "Abel Ferrara",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.5484,
+      "profile_path": "/wdOxXWyxE3HjrtdeOJvc9xB5eUv.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 9732,
+      "name": "film in film"
+    },
+    {
+      "id": 14964,
+      "name": "drugs"
+    },
+    {
+      "id": 15160,
+      "name": "divorce"
+    },
+    {
+      "id": 33490,
+      "name": "filmmaking"
+    },
+    {
+      "id": 158951,
+      "name": "life imitates art"
+    },
+    {
+      "id": 235736,
+      "name": "film director"
+    },
+    {
+      "id": 338607,
+      "name": "psychological games"
+    },
+    {
+      "id": 339099,
+      "name": "actress-director relationship"
+    }
+  ]
+}

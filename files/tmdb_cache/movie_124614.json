@@ -1,0 +1,138 @@
+{
+  "overview": "The journey of Michael Padovic, an American professor who arrives with his wife, Helene, at a Portuguese convent where he expects to find the documents needed to prove his theory: Shakespeare was born in Spain; not in England.",
+  "release_date": "1995-09-06",
+  "runtime": 91,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.2,
+  "tmdb_vote_count": 27,
+  "tmdb_popularity": 1.7188,
+  "original_language": "en",
+  "poster_path": "/tRo6ETYSdSW98u8SmCvKrG57jTG.jpg",
+  "backdrop_path": "/n0KyX8W3kJyxnkQAubgt7FQnFo5.jpg",
+  "tmdb_genres_raw": [
+    "Mystery",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 16366,
+      "name": "La Sept Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 6584,
+      "name": "Gemini Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 11143,
+      "name": "Madragoa Filmes",
+      "origin_country": "PT"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "de",
+      "name": "Deutsch"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "pt",
+      "name": "Português"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 50,
+      "name": "Catherine Deneuve",
+      "character": "Hélène",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 3.9432,
+      "profile_path": "/5IThAorp3R4bPmkIhe7snFFo2YU.jpg"
+    },
+    {
+      "personId": 6949,
+      "name": "John Malkovich",
+      "character": "Michael",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 5.1002,
+      "profile_path": "/8YfVmWi9Z1iyX9Oc90yd9dbhSfL.jpg"
+    },
+    {
+      "personId": 234486,
+      "name": "Luís Miguel Cintra",
+      "character": "Baltar",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 0.5049,
+      "profile_path": "/cdFwM3XffJAarnt355yWCxMvEnH.jpg"
+    },
+    {
+      "personId": 213290,
+      "name": "Leonor Silveira",
+      "character": "Piedade",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 1.3954,
+      "profile_path": "/pNRH0PQKBwaOc8nwkRv3H6vFDpa.jpg"
+    },
+    {
+      "personId": 1267064,
+      "name": "João Bénard da Costa",
+      "character": "Baltazar",
+      "order": 4,
+      "cast_id": 14,
+      "popularity": 1.0077,
+      "profile_path": "/vZp41JHkRrE9U20R5hYhbejEkwi.jpg"
+    },
+    {
+      "personId": 2258506,
+      "name": "Heloísa Miranda",
+      "character": "Berta",
+      "order": 5,
+      "cast_id": 15,
+      "popularity": 0.2956,
+      "profile_path": null
+    },
+    {
+      "personId": 2258507,
+      "name": "Gilberto Gonçalves",
+      "character": "Fisherman",
+      "order": 6,
+      "cast_id": 16,
+      "popularity": 0.1357,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 81749,
+      "name": "Manoel de Oliveira",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.5491,
+      "profile_path": "/lkEY4Amtuyk8hPmNz01EqWYH3Xk.jpg"
+    }
+  ],
+  "keywords": []
+}

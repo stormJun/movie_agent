@@ -1,0 +1,201 @@
+{
+  "overview": "Bright young student Raymond Aibelli is forced to sidetrack an important medical internship because his mother, Susan, is recovering from a broken leg. When he isn't tasked with the most mundane aspects of Susan's recuperation, Raymond finds distraction in a neighborhood girl, Toni Peck. But, as Susan begins relying on her son for both physical and emotional needs, Raymond starts developing disturbing and unwanted new yearnings.",
+  "release_date": "1994-01-15",
+  "runtime": 106,
+  "budget": 200000,
+  "revenue": 0,
+  "tmdb_vote_average": 5.639,
+  "tmdb_vote_count": 79,
+  "tmdb_popularity": 2.0155,
+  "original_language": "en",
+  "poster_path": "/fuID31Ft8nWLcFRSQ7qZRlu49o7.jpg",
+  "backdrop_path": "/9b3NzHY4HccEkXcIUVBQ1yIaxex.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 55150,
+      "name": "Swelter Films",
+      "origin_country": ""
+    },
+    {
+      "id": 8,
+      "name": "Fine Line Features",
+      "origin_country": "US"
+    },
+    {
+      "id": 55151,
+      "name": "Buckeye Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4654,
+      "name": "Jeremy Davies",
+      "character": "Ray Aibelli",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 2.898,
+      "profile_path": "/tNtcpQnMxzl0OqVDsyA63oAgPbI.jpg"
+    },
+    {
+      "personId": 19958,
+      "name": "Alberta Watson",
+      "character": "Susan Aibelli",
+      "order": 1,
+      "cast_id": 6,
+      "popularity": 1.3735,
+      "profile_path": "/zUShDQufrKQcpnRYchZX6iNPwm7.jpg"
+    },
+    {
+      "personId": 128428,
+      "name": "Benjamin Hendrickson",
+      "character": "Tom Aibelli",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 0.3651,
+      "profile_path": "/4ultgQSqarLpUMHesR4BU1hIKtf.jpg"
+    },
+    {
+      "personId": 54708,
+      "name": "Carla Gallo",
+      "character": "Toni Peck",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 1.7793,
+      "profile_path": "/yf9F5OL0S97coL8bnGxDGxguZ2I.jpg"
+    },
+    {
+      "personId": 930069,
+      "name": "Matthew Puckett",
+      "character": "Nicky",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 0.2114,
+      "profile_path": null
+    },
+    {
+      "personId": 994104,
+      "name": "Judette Jones",
+      "character": "Aunt Helen",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 0.1147,
+      "profile_path": null
+    },
+    {
+      "personId": 6212,
+      "name": "Zak Orth",
+      "character": "Curtis",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 1.2564,
+      "profile_path": "/ldywlWMt89PO3qLDL174TpTc0ce.jpg"
+    },
+    {
+      "personId": 164270,
+      "name": "Josh Philip Weinstein",
+      "character": "Joel",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 0.3183,
+      "profile_path": "/HwRnD8iUzUiFv4O0deRE7RHGKW.jpg"
+    },
+    {
+      "personId": 1120876,
+      "name": "Judah Domke",
+      "character": "Don",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 0.2208,
+      "profile_path": "/AeO3uTfWO4IGcgisVHNsYBJqIic.jpg"
+    },
+    {
+      "personId": 1150841,
+      "name": "Lleana Stratton",
+      "character": "Fran Gibson",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 0.0071,
+      "profile_path": null
+    },
+    {
+      "personId": 1150842,
+      "name": "Richard Husson",
+      "character": "Dr. Peck",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 0.0256,
+      "profile_path": null
+    },
+    {
+      "personId": 3573746,
+      "name": "Liberty Jean",
+      "character": "Motel Woman #1",
+      "order": 11,
+      "cast_id": 28,
+      "popularity": 0.0864,
+      "profile_path": null
+    },
+    {
+      "personId": 1783322,
+      "name": "Archer Martin",
+      "character": "Motel Woman #2",
+      "order": 12,
+      "cast_id": 29,
+      "popularity": 0.0362,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 17883,
+      "name": "David O. Russell",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.9278,
+      "profile_path": "/59rXnJS4g5dUr1Hz8QNLo5epD2a.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 596,
+      "name": "adultery"
+    },
+    {
+      "id": 33841,
+      "name": "incest"
+    },
+    {
+      "id": 158591,
+      "name": "injury"
+    },
+    {
+      "id": 180523,
+      "name": "neighborhood"
+    },
+    {
+      "id": 214954,
+      "name": "recuperation"
+    },
+    {
+      "id": 350502,
+      "name": "mother son incest"
+    }
+  ]
+}

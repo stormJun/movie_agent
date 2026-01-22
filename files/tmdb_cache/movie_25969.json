@@ -1,0 +1,307 @@
+{
+  "overview": "Angus is a large, pathetic 14-year-old whose thoughts are most often filled with the image of only one girl, Melissa Lefevre. Angus is shy and thinks that he has no chance of ever 'getting' her. Being especially uncool, he is incredibly surprised (along with the rest of the school) that he is chosen to dance with her at the Winter Ball. The only one not surprised is the cool kid who set him up to fail, but Angus' best friend is going to help him win the heart of Melissa by developing a new look for him",
+  "release_date": "1995-09-15",
+  "runtime": 90,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.595,
+  "tmdb_vote_count": 95,
+  "tmdb_popularity": 3.8782,
+  "original_language": "en",
+  "poster_path": "/x1Py4TB8Y0Wx9IZ62derpSDqwjd.jpg",
+  "backdrop_path": "/qGW0LutVJfqEkBGooJj3w9ngLV8.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Family",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 507,
+      "name": "Atlas Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 3324,
+      "name": "BBC",
+      "origin_country": "GB"
+    },
+    {
+      "id": 135932,
+      "name": "Quality Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 11583,
+      "name": "Syalis DA",
+      "origin_country": "FR"
+    },
+    {
+      "id": 131540,
+      "name": "Télévision Française 1",
+      "origin_country": "FR"
+    },
+    {
+      "id": 6189,
+      "name": "Turner Pictures (I)",
+      "origin_country": "CA"
+    },
+    {
+      "id": 1469,
+      "name": "Tele München",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "CA",
+      "name": "Canada"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 175630,
+      "name": "Charlie Talbert",
+      "character": "Angus Bethune",
+      "order": 0,
+      "cast_id": 13,
+      "popularity": 0.8603,
+      "profile_path": "/4OHHVt0BtpfSYcOTbQTejplFEtD.jpg"
+    },
+    {
+      "personId": 8534,
+      "name": "Kathy Bates",
+      "character": "Meg Bethune",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 3.5586,
+      "profile_path": "/nP7zRmXJyMyj2OohclSSo6JAEbD.jpg"
+    },
+    {
+      "personId": 26999,
+      "name": "Chris Owen",
+      "character": "Troy Wedberg",
+      "order": 2,
+      "cast_id": 44,
+      "popularity": 1.9623,
+      "profile_path": "/lbpz1BSNahnkyE7FZ1tWcIy35w0.jpg"
+    },
+    {
+      "personId": 19210,
+      "name": "James Van Der Beek",
+      "character": "Rick Sandford",
+      "order": 3,
+      "cast_id": 10,
+      "popularity": 1.5114,
+      "profile_path": "/5CzRqYzRMNevIu6rB8gUFKpsKZL.jpg"
+    },
+    {
+      "personId": 233298,
+      "name": "Robert Curtis Brown",
+      "character": "Alexander",
+      "order": 4,
+      "cast_id": 4,
+      "popularity": 1.5316,
+      "profile_path": "/rbMhXK1U9zZXcPHQKAoJ677qeak.jpg"
+    },
+    {
+      "personId": 862,
+      "name": "George C. Scott",
+      "character": "Grandpa Ivan",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 2.3088,
+      "profile_path": "/bYIY4S6yfbBsngerOicQbzPgmFr.jpg"
+    },
+    {
+      "personId": 16666,
+      "name": "Kevin Connolly",
+      "character": "Andy",
+      "order": 6,
+      "cast_id": 5,
+      "popularity": 1.8495,
+      "profile_path": "/1QDmx5t0anO0wkfABfgLtkuLFOy.jpg"
+    },
+    {
+      "personId": 3908,
+      "name": "Tony Denman",
+      "character": "Kid",
+      "order": 7,
+      "cast_id": 6,
+      "popularity": 0.9111,
+      "profile_path": "/pHflMRqifW6jfmZ5MEwlX4Zun29.jpg"
+    },
+    {
+      "personId": 167146,
+      "name": "Yvette Freeman",
+      "character": "Science Teacher",
+      "order": 8,
+      "cast_id": 7,
+      "popularity": 0.9535,
+      "profile_path": "/dZEeLMoDL9O0SRLlmptaxzfUwbT.jpg"
+    },
+    {
+      "personId": 156413,
+      "name": "Perry Anzilotti",
+      "character": "Tuxedo Salesman",
+      "order": 9,
+      "cast_id": 2,
+      "popularity": 0.9773,
+      "profile_path": "/yV0dNPR1RRO6ygjXycS8uxMkMkg.jpg"
+    },
+    {
+      "personId": 13299,
+      "name": "Rita Moreno",
+      "character": "Madame Rulenska",
+      "order": 10,
+      "cast_id": 11,
+      "popularity": 2.6446,
+      "profile_path": "/zB0M77jr7tmsmWHEr2bWO2Xq66L.jpg"
+    },
+    {
+      "personId": 10930,
+      "name": "Irvin Kershner",
+      "character": "Mr. Stoff",
+      "order": 11,
+      "cast_id": 12,
+      "popularity": 0.7867,
+      "profile_path": "/imtFUtcASoh2e1Emtt62UuFkIWA.jpg"
+    },
+    {
+      "personId": 4788,
+      "name": "Ariana Richards",
+      "character": "Melissa Lefevre",
+      "order": 12,
+      "cast_id": 14,
+      "popularity": 1.5545,
+      "profile_path": "/vExv1HJqOjM1ui0rRiOxD3XNapf.jpg"
+    },
+    {
+      "personId": 3711,
+      "name": "Anna Thomson",
+      "character": "April Thomas",
+      "order": 13,
+      "cast_id": 16,
+      "popularity": 1.6015,
+      "profile_path": "/52deQc7eUzqoLfh2rpHtFKqLEle.jpg"
+    },
+    {
+      "personId": 1739,
+      "name": "James Keane",
+      "character": "Coach",
+      "order": 14,
+      "cast_id": 17,
+      "popularity": 1.102,
+      "profile_path": "/qGOuDCsYQ6IVfUr2P5K2pV6v9Ij.jpg"
+    },
+    {
+      "personId": 1214023,
+      "name": "Wesley Mann",
+      "character": "Mr. Kessler",
+      "order": 15,
+      "cast_id": 18,
+      "popularity": 0.7647,
+      "profile_path": "/reoBb6TEAAPvlCYbwgxWFAz5KqP.jpg"
+    },
+    {
+      "personId": 1368758,
+      "name": "Monty O'Grady",
+      "character": "Minister",
+      "order": 16,
+      "cast_id": 19,
+      "popularity": 1.1763,
+      "profile_path": "/1yz4sQu0J0EAYvUWvjGgT0udItr.jpg"
+    },
+    {
+      "personId": 87316,
+      "name": "Lindsay Price",
+      "character": "Recycling Girl",
+      "order": 17,
+      "cast_id": 20,
+      "popularity": 1.2591,
+      "profile_path": "/zlwhEOTUWOoiXHBUAMjScFy1qyu.jpg"
+    },
+    {
+      "personId": 6564,
+      "name": "Lawrence Pressman",
+      "character": "Principal Metcalf",
+      "order": 18,
+      "cast_id": 21,
+      "popularity": 2.4479,
+      "profile_path": "/k9MkT0iU8JkFuiA2SSwigAlM7wT.jpg"
+    },
+    {
+      "personId": 1342054,
+      "name": "Joel Thingvall",
+      "character": "Hall Monitor (uncredited)",
+      "order": 19,
+      "cast_id": 43,
+      "popularity": 1.4379,
+      "profile_path": "/q8TRbCxsDR1k8E75AioBvkmj27D.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 56059,
+      "name": "Patrick Read Johnson",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.3758,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 987,
+      "name": "overweight child"
+    },
+    {
+      "id": 4539,
+      "name": "overweight man"
+    },
+    {
+      "id": 10623,
+      "name": "jock"
+    },
+    {
+      "id": 156866,
+      "name": "based on short story"
+    },
+    {
+      "id": 170418,
+      "name": "public humiliation"
+    },
+    {
+      "id": 170431,
+      "name": "blow up doll"
+    },
+    {
+      "id": 170434,
+      "name": "letterman jacket"
+    }
+  ]
+}

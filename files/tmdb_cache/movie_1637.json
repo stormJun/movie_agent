@@ -1,0 +1,327 @@
+{
+  "overview": "Tensions run high when a crazed bomber rigs a Los Angeles bus with a device that will kill everyone on board if the vehicle's speed dips below fifty miles per hour.",
+  "release_date": "1994-06-09",
+  "runtime": 116,
+  "budget": 30000000,
+  "revenue": 350448145,
+  "tmdb_vote_average": 7.147,
+  "tmdb_vote_count": 6618,
+  "tmdb_popularity": 7.1002,
+  "original_language": "en",
+  "poster_path": "/82PkCE4R95KhHICUDF7G4Ly2z3l.jpg",
+  "backdrop_path": "/dAi6Yymj9SqSMg6BzF6PW5Qhirh.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 25,
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    },
+    {
+      "id": 1557,
+      "name": "The Mark Gordon Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6384,
+      "name": "Keanu Reeves",
+      "character": "Jack Traven",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 11.6793,
+      "profile_path": "/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+    },
+    {
+      "personId": 2778,
+      "name": "Dennis Hopper",
+      "character": "Howard Payne",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 3.2218,
+      "profile_path": "/kqyNvLHi5RZGZcZMxl7e6XvoB5U.jpg"
+    },
+    {
+      "personId": 18277,
+      "name": "Sandra Bullock",
+      "character": "Annie",
+      "order": 2,
+      "cast_id": 1,
+      "popularity": 11.8474,
+      "profile_path": "/hPHGKPAWZ8gArYXMk225rrYPoyJ.jpg"
+    },
+    {
+      "personId": 3977,
+      "name": "Joe Morton",
+      "character": "Capt. McMahon",
+      "order": 3,
+      "cast_id": 15,
+      "popularity": 2.7427,
+      "profile_path": "/w7rGWWSGKWWukojLbZOQJ5yh9jv.jpg"
+    },
+    {
+      "personId": 8447,
+      "name": "Jeff Daniels",
+      "character": "Harry",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 2.7697,
+      "profile_path": "/r0mkZJZnTSJO3HJRsMW5HtszxE8.jpg"
+    },
+    {
+      "personId": 2394,
+      "name": "Alan Ruck",
+      "character": "Stephens",
+      "order": 5,
+      "cast_id": 21,
+      "popularity": 3.3058,
+      "profile_path": "/hj7CuWinT12hMKjRhSO4XEMVq7w.jpg"
+    },
+    {
+      "personId": 2683,
+      "name": "Glenn Plummer",
+      "character": "Jaguar Owner",
+      "order": 6,
+      "cast_id": 16,
+      "popularity": 2.9778,
+      "profile_path": "/lNfRFcxD7bhqKLZwOqdpumA83TL.jpg"
+    },
+    {
+      "personId": 3205,
+      "name": "Richard Lineback",
+      "character": "Norwood",
+      "order": 7,
+      "cast_id": 20,
+      "popularity": 1.1057,
+      "profile_path": "/3Tfczd6FkLkAoIZvklGGEVFkhUq.jpg"
+    },
+    {
+      "personId": 5151,
+      "name": "Beth Grant",
+      "character": "Helen",
+      "order": 8,
+      "cast_id": 19,
+      "popularity": 2.5206,
+      "profile_path": "/6THLoPYhIu422TqUmQDgnQRfYxA.jpg"
+    },
+    {
+      "personId": 12056,
+      "name": "Hawthorne James",
+      "character": "Sam",
+      "order": 9,
+      "cast_id": 17,
+      "popularity": 1.0925,
+      "profile_path": "/n2VmK3t3LBUgVPNG8lWflhPVhCH.jpg"
+    },
+    {
+      "personId": 33712,
+      "name": "Carlos Carrasco",
+      "character": "Ortiz",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 1.5112,
+      "profile_path": "/a9SwtLdCPYu8TRdnieWsUrUsilG.jpg"
+    },
+    {
+      "personId": 52418,
+      "name": "David Kriegel",
+      "character": "Terry",
+      "order": 11,
+      "cast_id": 23,
+      "popularity": 0.8209,
+      "profile_path": "/ZaFsIbsB9Tt9ReoB7vLPNzBeaX.jpg"
+    },
+    {
+      "personId": 157048,
+      "name": "Natsuko Ohama",
+      "character": "Mrs. Kamino",
+      "order": 12,
+      "cast_id": 24,
+      "popularity": 0.5778,
+      "profile_path": "/vbs957u45zcriZGYfUgeftk4YH0.jpg"
+    },
+    {
+      "personId": 2119353,
+      "name": "Daniel Villarreal",
+      "character": "Ray",
+      "order": 13,
+      "cast_id": 76,
+      "popularity": 0.7822,
+      "profile_path": "/ubtHLSSc40ag0AoItCy5NyY6Crf.jpg"
+    },
+    {
+      "personId": 1872781,
+      "name": "Simone Gad",
+      "character": "Bus Passenger #1",
+      "order": 14,
+      "cast_id": 26,
+      "popularity": 0.3164,
+      "profile_path": "/aGCc2mCz3xYKcR5lnkWJaCTnddE.jpg"
+    },
+    {
+      "personId": 1734769,
+      "name": "Loretta Jean",
+      "character": "Bus Passenger #2",
+      "order": 15,
+      "cast_id": 27,
+      "popularity": 0.825,
+      "profile_path": null
+    },
+    {
+      "personId": 1872782,
+      "name": "Sherri Villanueva",
+      "character": "Bus Passenger #3",
+      "order": 16,
+      "cast_id": 28,
+      "popularity": 0.0811,
+      "profile_path": null
+    },
+    {
+      "personId": 1872784,
+      "name": "Margaret Medina",
+      "character": "Robin",
+      "order": 17,
+      "cast_id": 29,
+      "popularity": 0.8052,
+      "profile_path": "/2nmXkiogPqAUyQeKDUWpCGR42aS.jpg"
+    },
+    {
+      "personId": 33713,
+      "name": "Jordan Lund",
+      "character": "Bagwell",
+      "order": 18,
+      "cast_id": 22,
+      "popularity": 1.7307,
+      "profile_path": "/hrq0Mlj9Z42m9SpiOk5jXJNIrF6.jpg"
+    },
+    {
+      "personId": 161897,
+      "name": "Robert Mailhouse",
+      "character": "Young Executive",
+      "order": 19,
+      "cast_id": 30,
+      "popularity": 0.9187,
+      "profile_path": "/cUjY1LShvEw8LazIeeNK2SnbN20.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2209,
+      "name": "Jan de Bont",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.3377,
+      "profile_path": "/evj9vN5pxxjr4aFLZRvniU0gzof.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1470,
+      "name": "s.w.a.t."
+    },
+    {
+      "id": 2532,
+      "name": "bomber"
+    },
+    {
+      "id": 8010,
+      "name": "bus bomb"
+    },
+    {
+      "id": 12670,
+      "name": "los angeles, california"
+    },
+    {
+      "id": 33594,
+      "name": "falling elevator"
+    },
+    {
+      "id": 157251,
+      "name": "bomb planting"
+    },
+    {
+      "id": 167377,
+      "name": "lapd"
+    },
+    {
+      "id": 173316,
+      "name": "trapped in an elevator"
+    },
+    {
+      "id": 177489,
+      "name": "subway train"
+    },
+    {
+      "id": 182216,
+      "name": "bomb explosion"
+    },
+    {
+      "id": 187270,
+      "name": "ransom demand"
+    },
+    {
+      "id": 202371,
+      "name": "aggressive"
+    },
+    {
+      "id": 208319,
+      "name": "extortionist"
+    },
+    {
+      "id": 216966,
+      "name": "santa monica, california"
+    },
+    {
+      "id": 275777,
+      "name": "bomb vest"
+    },
+    {
+      "id": 314730,
+      "name": "suspenseful"
+    },
+    {
+      "id": 321464,
+      "name": "intense"
+    },
+    {
+      "id": 325778,
+      "name": "bold"
+    },
+    {
+      "id": 325811,
+      "name": "excited"
+    },
+    {
+      "id": 330094,
+      "name": "city bus"
+    },
+    {
+      "id": 349791,
+      "name": "dead man switch"
+    },
+    {
+      "id": 349792,
+      "name": "bus passengers"
+    },
+    {
+      "id": 349793,
+      "name": "trapped in a vehicle"
+    }
+  ]
+}

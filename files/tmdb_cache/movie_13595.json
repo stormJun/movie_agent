@@ -1,0 +1,253 @@
+{
+  "overview": "The Lone Rangers have heavy-metal dreams and a single demo tape they can't get anyone to play. The solution: Hijack an FM rock radio station and hold the deejays hostage until they agree to broadcast the band's tape.",
+  "release_date": "1994-08-05",
+  "runtime": 92,
+  "budget": 15000000,
+  "revenue": 5751882,
+  "tmdb_vote_average": 6.16,
+  "tmdb_vote_count": 790,
+  "tmdb_popularity": 4.1974,
+  "original_language": "en",
+  "poster_path": "/4xPG8pPMyeoec48gKWbbC85EC8j.jpg",
+  "backdrop_path": "/tkMVZc8JbOtRhzOsxph9jDVquq9.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Crime",
+    "Music"
+  ],
+  "production_companies": [
+    {
+      "id": 3929,
+      "name": "Robert Simonds Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 1595,
+      "name": "Island World",
+      "origin_country": "US"
+    },
+    {
+      "id": 25,
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 18269,
+      "name": "Brendan Fraser",
+      "character": "Chester 'Chazz' Darvey",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 5.3938,
+      "profile_path": "/tFj5PaWWQbb8rHBBhu1EHklznph.jpg"
+    },
+    {
+      "personId": 884,
+      "name": "Steve Buscemi",
+      "character": "Rex",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 5.9344,
+      "profile_path": "/kFzw4U5pExnLKZWhR48VSzL8Fre.jpg"
+    },
+    {
+      "personId": 19292,
+      "name": "Adam Sandler",
+      "character": "Pip",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 6.2191,
+      "profile_path": "/gLkLCsQdwDDPabRhKPB25nGtKwS.jpg"
+    },
+    {
+      "personId": 3266,
+      "name": "Joe Mantegna",
+      "character": "Ian",
+      "order": 3,
+      "cast_id": 9,
+      "popularity": 2.6702,
+      "profile_path": "/4jzvAE6B1eoiZDUnDUuMazirCPP.jpg"
+    },
+    {
+      "personId": 58198,
+      "name": "Chris Farley",
+      "character": "Officer Wilson",
+      "order": 4,
+      "cast_id": 4,
+      "popularity": 1.4772,
+      "profile_path": "/hRTXfxXjVcDWh9VxSi0EmodfQxu.jpg"
+    },
+    {
+      "personId": 21624,
+      "name": "Judd Nelson",
+      "character": "Jimmie Wing",
+      "order": 5,
+      "cast_id": 5,
+      "popularity": 1.9024,
+      "profile_path": "/7kRf8vE0ZjMuunh8BaD50B3EhS5.jpg"
+    },
+    {
+      "personId": 21412,
+      "name": "Amy Locane",
+      "character": "Kayla",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 0.9452,
+      "profile_path": "/kzbLeGmII0LIiJ1efSwFr7D9zwh.jpg"
+    },
+    {
+      "personId": 21731,
+      "name": "Michael McKean",
+      "character": "Milo Jackson",
+      "order": 7,
+      "cast_id": 6,
+      "popularity": 3.4826,
+      "profile_path": "/xuEZeuylzznJcf0nDs1RlvuzaPr.jpg"
+    },
+    {
+      "personId": 15234,
+      "name": "David Arquette",
+      "character": "Carter",
+      "order": 8,
+      "cast_id": 10,
+      "popularity": 1.9442,
+      "profile_path": "/1C5sLNLNVZ3P8sMy7HUQ32IKdqX.jpg"
+    },
+    {
+      "personId": 42133,
+      "name": "Nina Siemaszko",
+      "character": "Suzzi",
+      "order": 9,
+      "cast_id": 8,
+      "popularity": 1.293,
+      "profile_path": "/aXEBJst8pDU662tkrnJ1XZb4uUi.jpg"
+    },
+    {
+      "personId": 8874,
+      "name": "Ernie Hudson",
+      "character": "Sergeant O'Malley",
+      "order": 10,
+      "cast_id": 11,
+      "popularity": 3.137,
+      "profile_path": "/kgAdQA2ItCDVvKXufeDHc6Omiso.jpg"
+    },
+    {
+      "personId": 50807,
+      "name": "Michael Richards",
+      "character": "Doug Beech",
+      "order": 11,
+      "cast_id": 12,
+      "popularity": 1.8518,
+      "profile_path": "/bAYwmBdPJAiFkossWq56pEDmUh4.jpg"
+    },
+    {
+      "personId": 3041,
+      "name": "Marshall Bell",
+      "character": "Carl Mace",
+      "order": 12,
+      "cast_id": 13,
+      "popularity": 1.6218,
+      "profile_path": "/3AdZRUFlmV9KvArzqSVEVZVl0Sa.jpg"
+    },
+    {
+      "personId": 1524,
+      "name": "Harold Ramis",
+      "character": "Chris Moore",
+      "order": 13,
+      "cast_id": 16,
+      "popularity": 2.2815,
+      "profile_path": "/kmTMTxthkDAsygk3Am4IUSVYYRi.jpg"
+    },
+    {
+      "personId": 20818,
+      "name": "Allen Covert",
+      "character": "Officer Samuels",
+      "order": 14,
+      "cast_id": 32,
+      "popularity": 1.7212,
+      "profile_path": "/7n3euonyxM0wOGfk0T50pgHo06v.jpg"
+    },
+    {
+      "personId": 38951,
+      "name": "Reg E. Cathey",
+      "character": "Marcus",
+      "order": 15,
+      "cast_id": 35,
+      "popularity": 1.6415,
+      "profile_path": "/cgyJJQUdbK4S7ihkL9hgIIwutk3.jpg"
+    },
+    {
+      "personId": 96223,
+      "name": "Michelle Hurst",
+      "character": "Yvonne",
+      "order": 16,
+      "cast_id": 36,
+      "popularity": 0.5103,
+      "profile_path": "/fVsvGxQntmrDyVNMSdbkk7lxxh2.jpg"
+    },
+    {
+      "personId": 2846278,
+      "name": "Sarah Reinhardt",
+      "character": "Secretary",
+      "order": 17,
+      "cast_id": 37,
+      "popularity": 0.287,
+      "profile_path": null
+    },
+    {
+      "personId": 9783,
+      "name": "Lexie Bigham",
+      "character": "Security Guard #1",
+      "order": 18,
+      "cast_id": 38,
+      "popularity": 1.109,
+      "profile_path": "/tphaLLDSABnp1oZAxS8FOQrndkA.jpg"
+    },
+    {
+      "personId": 559485,
+      "name": "Lydell M. Cheshier",
+      "character": "Security Guard #2",
+      "order": 19,
+      "cast_id": 39,
+      "popularity": 0.5526,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 7145,
+      "name": "Michael Lehmann",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4928,
+      "profile_path": "/jDu6ZiKtVGkhupi6wXv1f4Tpgro.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1224,
+      "name": "radio station"
+    },
+    {
+      "id": 5540,
+      "name": "heavy metal"
+    },
+    {
+      "id": 18001,
+      "name": "rock band"
+    }
+  ]
+}

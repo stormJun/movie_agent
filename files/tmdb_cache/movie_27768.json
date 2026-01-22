@@ -1,0 +1,223 @@
+{
+  "overview": "25 years after committing a double murder, Karl Childers is going to be released from an institution for the criminally insane. A local reporter comes to talk to him, and listens in horror about his life leading up to the crime. This is the short film that inspired the full-length \"Sling Blade\".",
+  "release_date": "1994-03-26",
+  "runtime": 25,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.6,
+  "tmdb_vote_count": 31,
+  "tmdb_popularity": 0.1902,
+  "original_language": "en",
+  "poster_path": "/zP5jcbckIq4yWzGq6n2TkCPIGIC.jpg",
+  "backdrop_path": "/5aO3IUqLVn6ENBVIXfY3CjDvJNu.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 879,
+      "name": "Billy Bob Thornton",
+      "character": "Karl Childers",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 11.8358,
+      "profile_path": "/i5EKWHuXokznIDMy2prTXzRmklI.jpg"
+    },
+    {
+      "personId": 21625,
+      "name": "Molly Ringwald",
+      "character": "Teresa Tatum",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 5.1141,
+      "profile_path": "/eXRphPiX18t8C3nCoOuxQFNegqP.jpg"
+    },
+    {
+      "personId": 22131,
+      "name": "J. T. Walsh",
+      "character": "Charles Bushman",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.5029,
+      "profile_path": "/4yQXzRXMqQxKgYaUteluNmAKBX4.jpg"
+    },
+    {
+      "personId": 183814,
+      "name": "Jefferson Mays",
+      "character": "Gerry Woolridge",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 0.7863,
+      "profile_path": "/5W9RapvctoJpGfjaQFQHsaLlGc9.jpg"
+    },
+    {
+      "personId": 8269,
+      "name": "Suzanne Cryer",
+      "character": "Frances",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 1.4966,
+      "profile_path": "/hVqmp8WX9hRhZ3qE6ndk7PfkFDJ.jpg"
+    },
+    {
+      "personId": 3914733,
+      "name": "Abby Abernathy",
+      "character": "",
+      "order": 5,
+      "cast_id": 24,
+      "popularity": 0.2766,
+      "profile_path": null
+    },
+    {
+      "personId": 15011,
+      "name": "Brent Briscoe",
+      "character": "",
+      "order": 6,
+      "cast_id": 25,
+      "popularity": 1.4594,
+      "profile_path": "/4N7ZjV0Tb2EwwRzOBGp7h01oXVu.jpg"
+    },
+    {
+      "personId": 3273471,
+      "name": "Otto Coelho",
+      "character": "",
+      "order": 7,
+      "cast_id": 26,
+      "popularity": 0.2017,
+      "profile_path": null
+    },
+    {
+      "personId": 3914734,
+      "name": "Abe Dalool",
+      "character": "",
+      "order": 8,
+      "cast_id": 27,
+      "popularity": 0.1436,
+      "profile_path": null
+    },
+    {
+      "personId": 17402,
+      "name": "Ron Livingston",
+      "character": "",
+      "order": 9,
+      "cast_id": 28,
+      "popularity": 2.1898,
+      "profile_path": "/pr5CjWnkaf5WKTIYh8wtNufjmyb.jpg"
+    },
+    {
+      "personId": 3914740,
+      "name": "Aaron Wheeler",
+      "character": "",
+      "order": 10,
+      "cast_id": 29,
+      "popularity": 0.048,
+      "profile_path": null
+    },
+    {
+      "personId": 2583332,
+      "name": "Bill Boll",
+      "character": "",
+      "order": 11,
+      "cast_id": 30,
+      "popularity": 0.1116,
+      "profile_path": null
+    },
+    {
+      "personId": 1704280,
+      "name": "Chester Dent",
+      "character": "",
+      "order": 12,
+      "cast_id": 31,
+      "popularity": 0.0677,
+      "profile_path": null
+    },
+    {
+      "personId": 3914742,
+      "name": "Bill Sprague",
+      "character": "",
+      "order": 13,
+      "cast_id": 32,
+      "popularity": 0.087,
+      "profile_path": null
+    },
+    {
+      "personId": 3914743,
+      "name": "Joey Bilow",
+      "character": "",
+      "order": 14,
+      "cast_id": 33,
+      "popularity": 0.0412,
+      "profile_path": null
+    },
+    {
+      "personId": 3914744,
+      "name": "Mark Gimbrere",
+      "character": "",
+      "order": 15,
+      "cast_id": 34,
+      "popularity": 0.0604,
+      "profile_path": null
+    },
+    {
+      "personId": 57560,
+      "name": "Michael Beugg",
+      "character": "",
+      "order": 16,
+      "cast_id": 35,
+      "popularity": 0.5795,
+      "profile_path": null
+    },
+    {
+      "personId": 3914745,
+      "name": "Linda Beugg",
+      "character": "",
+      "order": 17,
+      "cast_id": 36,
+      "popularity": 0.0338,
+      "profile_path": null
+    },
+    {
+      "personId": 3914746,
+      "name": "Trevor A. Tarr",
+      "character": "",
+      "order": 18,
+      "cast_id": 37,
+      "popularity": 0.1784,
+      "profile_path": null
+    },
+    {
+      "personId": 3914730,
+      "name": "Mike Herman",
+      "character": "",
+      "order": 19,
+      "cast_id": 38,
+      "popularity": 0.0409,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 37852,
+      "name": "George Hickenlooper",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.2644,
+      "profile_path": "/ArmJYejzLkYDV41bEonn5m0OhIe.jpg"
+    }
+  ],
+  "keywords": []
+}

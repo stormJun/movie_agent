@@ -1,0 +1,144 @@
+{
+  "overview": "Ouyang Feng is a heartbroken and cynical man who spends his days in the desert, connecting expert swordsmen with those seeking revenge and willing to pay for it. Throughout five seasons in exile, Ouyang spins tales of his clients' unrequited loves and unusual acts of bravery.",
+  "release_date": "1994-09-17",
+  "runtime": 100,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 7.1,
+  "tmdb_vote_count": 383,
+  "tmdb_popularity": 2.5573,
+  "original_language": "cn",
+  "poster_path": "/ciyEwAbvoMHPP3281cgSnfslu43.jpg",
+  "backdrop_path": "/smtzZRpE8hQkQNnhQg2TIRfcWcj.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Action"
+  ],
+  "production_companies": [
+    {
+      "id": 539,
+      "name": "Block 2 Pictures",
+      "origin_country": "HK"
+    },
+    {
+      "id": 6673,
+      "name": "Scholar Films Company",
+      "origin_country": "TW"
+    },
+    {
+      "id": 708,
+      "name": "Beijing Film Studio",
+      "origin_country": "CN"
+    },
+    {
+      "id": 540,
+      "name": "Jet Tone Production",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "HK",
+      "name": "Hong Kong"
+    },
+    {
+      "code": "TW",
+      "name": "Taiwan"
+    },
+    {
+      "code": "CN",
+      "name": "China"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "cn",
+      "name": "广州话 / 廣州話"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 69637,
+      "name": "Leslie Cheung",
+      "character": "Ouyang Feng / Malicious West",
+      "order": 0,
+      "cast_id": 14,
+      "popularity": 2.4289,
+      "profile_path": "/xdSUevukGCrayOdLd4Kd6YSJnKR.jpg"
+    },
+    {
+      "personId": 56830,
+      "name": "Brigitte Lin",
+      "character": "Murong Yang / Murong Yin",
+      "order": 1,
+      "cast_id": 15,
+      "popularity": 2.3901,
+      "profile_path": "/ovuQ0uWaR40SEXyGkSpEP1QLYTl.jpg"
+    },
+    {
+      "personId": 1337,
+      "name": "Tony Leung Chiu-wai",
+      "character": "Blind Swordsman",
+      "order": 2,
+      "cast_id": 7,
+      "popularity": 9.8366,
+      "profile_path": "/nQbSQAws5BdakPEB5MtiqWVeaMV.jpg"
+    },
+    {
+      "personId": 12672,
+      "name": "Carina Lau",
+      "character": "Peach Blossom",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 2.7317,
+      "profile_path": "/5Va4jk69gkdAcABtkTtcUz85RLA.jpg"
+    },
+    {
+      "personId": 56861,
+      "name": "Tony Leung Ka-fai",
+      "character": "Huang Yaoshi / Evil East",
+      "order": 4,
+      "cast_id": 13,
+      "popularity": 3.9733,
+      "profile_path": "/n5XtznlOfGSfYvckuxCiTapG4tB.jpg"
+    },
+    {
+      "personId": 66762,
+      "name": "Charlie Yeung Choi-Nei",
+      "character": "Girl with Mule",
+      "order": 5,
+      "cast_id": 24,
+      "popularity": 2.0173,
+      "profile_path": "/7clzAMBYr56NAIU7W2KGnGe5a5V.jpg"
+    },
+    {
+      "personId": 25245,
+      "name": "Jacky Cheung Hok-Yau",
+      "character": "Hong Qi",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 2.3229,
+      "profile_path": "/eoh2sI1IBYmQSuIapr32EUbl3Nw.jpg"
+    },
+    {
+      "personId": 1338,
+      "name": "Maggie Cheung",
+      "character": "Feng's Sister-in-Law",
+      "order": 7,
+      "cast_id": 6,
+      "popularity": 2.5995,
+      "profile_path": "/thHNJCHSmNwhRI5EQXWwg7RzPd7.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 12453,
+      "name": "Wong Kar-Wai",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 3.1809,
+      "profile_path": "/wjNI9KM9qJSYZHxkjD4Pm81kfc4.jpg"
+    }
+  ],
+  "keywords": []
+}

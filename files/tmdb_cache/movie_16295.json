@@ -1,0 +1,272 @@
+{
+  "overview": "African-American student Malik is on a track scholarship; academics are not his strong suit, and he goes in thinking that his athletic abilities will earn him a free ride through college. Fudge, a \"professional student\" who has been at Columbus for six years so far, becomes friendly with Malik and challenges his views about race and politics in America.",
+  "release_date": "1995-01-11",
+  "runtime": 128,
+  "budget": 20000000,
+  "revenue": 38300000,
+  "tmdb_vote_average": 6.297,
+  "tmdb_vote_count": 232,
+  "tmdb_popularity": 1.245,
+  "original_language": "en",
+  "poster_path": "/tuud1Blsdwo1KQRdz5UVwjlLAWQ.jpg",
+  "backdrop_path": "/2UGtXJzsbgZ0edjxhIHxUv4XSVU.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Crime",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 1947,
+      "name": "New Deal Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4987,
+      "name": "Omar Epps",
+      "character": "Malik Williams",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 3.6918,
+      "profile_path": "/iURSiniuHrfOCtjVMAw9HKxJh6z.jpg"
+    },
+    {
+      "personId": 56128,
+      "name": "Kristy Swanson",
+      "character": "Kristen Connor",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 1.7457,
+      "profile_path": "/eoEhyZcJ1NMVAKefRh0E5adRMGh.jpg"
+    },
+    {
+      "personId": 4688,
+      "name": "Michael Rapaport",
+      "character": "Remy",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 5.3377,
+      "profile_path": "/nWD2kufgy6lPyFVCPr9A3e7FMMn.jpg"
+    },
+    {
+      "personId": 6161,
+      "name": "Jennifer Connelly",
+      "character": "Taryn",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 10.162,
+      "profile_path": "/wdmcJagSRJ65AuJ4IUCzuHAdvgy.jpg"
+    },
+    {
+      "personId": 9778,
+      "name": "Ice Cube",
+      "character": "Fudge",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 3.8421,
+      "profile_path": "/2w7Pekf8QJ0WVN76cmhcEfTuEDc.jpg"
+    },
+    {
+      "personId": 81373,
+      "name": "Jason Wiles",
+      "character": "Wayne",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 1.3772,
+      "profile_path": "/e0XIAjLnanYR1GYgfs3hNlibtUi.jpg"
+    },
+    {
+      "personId": 77897,
+      "name": "Tyra Banks",
+      "character": "Deja",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 2.9006,
+      "profile_path": "/rJKigBhyWG5Hw0TSaZi4qyanUjH.jpg"
+    },
+    {
+      "personId": 6614,
+      "name": "Cole Hauser",
+      "character": "Scott Moss",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 4.2151,
+      "profile_path": "/1SNoIDILoXtAUJu4f7nDCPVQH5j.jpg"
+    },
+    {
+      "personId": 2975,
+      "name": "Laurence Fishburne",
+      "character": "Professor Maurice Phipps",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 4.6026,
+      "profile_path": "/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
+    },
+    {
+      "personId": 9788,
+      "name": "Regina King",
+      "character": "Monet",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 3.5789,
+      "profile_path": "/fEIz0ljk9CBrp3AitM5nwjfoGVu.jpg"
+    },
+    {
+      "personId": 6485,
+      "name": "Busta Rhymes",
+      "character": "Dreads",
+      "order": 10,
+      "cast_id": 13,
+      "popularity": 1.662,
+      "profile_path": "/f0MX6SdEsGYJYDy8vF6ghTZ25N6.jpg"
+    },
+    {
+      "personId": 20751,
+      "name": "Bridgette Wilson-Sampras",
+      "character": "Nicole",
+      "order": 11,
+      "cast_id": 15,
+      "popularity": 2.5286,
+      "profile_path": "/zq6uzzL87CtfgxD4G3bLTcgUUTe.jpg"
+    },
+    {
+      "personId": 62521,
+      "name": "Vitamin C",
+      "character": "Festival Singer",
+      "order": 12,
+      "cast_id": 16,
+      "popularity": 0.9286,
+      "profile_path": "/ewWwUsYtgPwiCEqsTOSNFDgGkg5.jpg"
+    },
+    {
+      "personId": 56152,
+      "name": "Kari Wührer",
+      "character": "Claudia",
+      "order": 13,
+      "cast_id": 24,
+      "popularity": 2.284,
+      "profile_path": "/sTWVUK4WBcSpuIotCjlU7sRaEH7.jpg"
+    },
+    {
+      "personId": 1463665,
+      "name": "Tony Donno",
+      "character": "Gay Victim",
+      "order": 14,
+      "cast_id": 25,
+      "popularity": 0.4104,
+      "profile_path": "/1KYcm6ZA5ZnRb9p7ABDdYZ1AwAI.jpg"
+    },
+    {
+      "personId": 6163,
+      "name": "Adam Goldberg",
+      "character": "David Isaacs",
+      "order": 15,
+      "cast_id": 26,
+      "popularity": 2.5522,
+      "profile_path": "/xEbqDqTWlSSCi4v8FI3S9YSEPJz.jpg"
+    },
+    {
+      "personId": 80289,
+      "name": "Jay R. Ferguson",
+      "character": "Billy",
+      "order": 16,
+      "cast_id": 27,
+      "popularity": 1.5645,
+      "profile_path": "/lXpuP3Pb4axDADEl4895GLASoIc.jpg"
+    },
+    {
+      "personId": 9779,
+      "name": "Morris Chestnut",
+      "character": "Track Anchor",
+      "order": 17,
+      "cast_id": 28,
+      "popularity": 3.7643,
+      "profile_path": "/lbWJ1mIgAamsREnbKLoj1GdH0sr.jpg"
+    },
+    {
+      "personId": 2851932,
+      "name": "Shawn Michael Perry",
+      "character": "Native American Student (uncredited)",
+      "order": 18,
+      "cast_id": 29,
+      "popularity": 0.5781,
+      "profile_path": null
+    },
+    {
+      "personId": 199298,
+      "name": "Trevor St. John",
+      "character": "James",
+      "order": 19,
+      "cast_id": 30,
+      "popularity": 2.0336,
+      "profile_path": "/hrBoF5u263objhRDuV7YCCLl7eH.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 6482,
+      "name": "John Singleton",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.3801,
+      "profile_path": "/akcugIHTLKZajrsq51uGGGzHEdv.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3060,
+      "name": "race politics"
+    },
+    {
+      "id": 3616,
+      "name": "college"
+    },
+    {
+      "id": 12425,
+      "name": "racism"
+    },
+    {
+      "id": 171662,
+      "name": "date rape"
+    },
+    {
+      "id": 171665,
+      "name": "athletic scholarship"
+    },
+    {
+      "id": 171667,
+      "name": "black militant"
+    },
+    {
+      "id": 171670,
+      "name": "resentment"
+    },
+    {
+      "id": 171676,
+      "name": "school shooting"
+    },
+    {
+      "id": 264386,
+      "name": "lesbian"
+    }
+  ]
+}

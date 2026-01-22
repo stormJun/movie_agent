@@ -1,0 +1,276 @@
+{
+  "overview": "Both dumped by their girlfriends, two best friends seek refuge in the local mall. Eventually, they decide to try and win back their significant others and take care of their respective nemeses.",
+  "release_date": "1995-10-20",
+  "runtime": 95,
+  "budget": 6000000,
+  "revenue": 2122561,
+  "tmdb_vote_average": 6.757,
+  "tmdb_vote_count": 1330,
+  "tmdb_popularity": 5.6948,
+  "original_language": "en",
+  "poster_path": "/2ip0sGIMPN0XEN6q3lQIoaNI6tP.jpg",
+  "backdrop_path": "/h8fMLx6zJ5qfp8uT2DXzbHCFoJC.jpg",
+  "tmdb_genres_raw": [
+    "Romance",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 37,
+      "name": "Gramercy Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 11462,
+      "name": "Alphaville Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 16934,
+      "name": "View Askew Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11662,
+      "name": "Jason Lee",
+      "character": "Brodie",
+      "order": 0,
+      "cast_id": 13,
+      "popularity": 3.7499,
+      "profile_path": "/64tEXo3xR9IFXsIJKSlJ2LUrrEA.jpg"
+    },
+    {
+      "personId": 23646,
+      "name": "Jeremy London",
+      "character": "T.S. Quint",
+      "order": 1,
+      "cast_id": 14,
+      "popularity": 1.0853,
+      "profile_path": "/2eSv6kcfWinz0xDoAclyCVsArhu.jpg"
+    },
+    {
+      "personId": 19144,
+      "name": "Shannen Doherty",
+      "character": "Rene",
+      "order": 2,
+      "cast_id": 12,
+      "popularity": 2.1112,
+      "profile_path": "/9yiNYzxiccImGeNKHKVQCR9H3cy.jpg"
+    },
+    {
+      "personId": 4174,
+      "name": "Claire Forlani",
+      "character": "Brandi",
+      "order": 3,
+      "cast_id": 15,
+      "popularity": 5.3575,
+      "profile_path": "/4xy9tARkNN3nAnDhHvMSeEt18mz.jpg"
+    },
+    {
+      "personId": 880,
+      "name": "Ben Affleck",
+      "character": "Shannon",
+      "order": 4,
+      "cast_id": 16,
+      "popularity": 17.8491,
+      "profile_path": "/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg"
+    },
+    {
+      "personId": 16484,
+      "name": "Joey Lauren Adams",
+      "character": "Gwen",
+      "order": 5,
+      "cast_id": 18,
+      "popularity": 1.6623,
+      "profile_path": "/tBexng7MCxaA0tXGQDAnww5Jp01.jpg"
+    },
+    {
+      "personId": 23647,
+      "name": "Renée Humphrey",
+      "character": "Tricia",
+      "order": 6,
+      "cast_id": 19,
+      "popularity": 0.4877,
+      "profile_path": "/ePssPPOdSMqDm0vauGuDNDPcxyl.jpg"
+    },
+    {
+      "personId": 19303,
+      "name": "Kevin Smith",
+      "character": "Silent Bob",
+      "order": 7,
+      "cast_id": 17,
+      "popularity": 2.4896,
+      "profile_path": "/uxDQ0NTZMnOuAaPa0tQzMFV9dx4.jpg"
+    },
+    {
+      "personId": 19302,
+      "name": "Jason Mewes",
+      "character": "Jay",
+      "order": 8,
+      "cast_id": 20,
+      "popularity": 1.304,
+      "profile_path": "/jVL4WC8NbJFL894Z2FBYY3XuHW5.jpg"
+    },
+    {
+      "personId": 824,
+      "name": "Ethan Suplee",
+      "character": "Willam",
+      "order": 9,
+      "cast_id": 21,
+      "popularity": 2.8815,
+      "profile_path": "/gGSb8P9nQdDNu0JC65zyAyMUFhS.jpg"
+    },
+    {
+      "personId": 7624,
+      "name": "Stan Lee",
+      "character": "Stan Lee",
+      "order": 10,
+      "cast_id": 26,
+      "popularity": 3.973,
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "personId": 23648,
+      "name": "Priscilla Barnes",
+      "character": "Ivannah",
+      "order": 11,
+      "cast_id": 22,
+      "popularity": 1.3593,
+      "profile_path": "/3bEvjncb05fI7dIwzjeUrvc54qA.jpg"
+    },
+    {
+      "personId": 12132,
+      "name": "Michael Rooker",
+      "character": "Svenning",
+      "order": 12,
+      "cast_id": 23,
+      "popularity": 4.0339,
+      "profile_path": "/ngOuHNIAGrKyY1O7F0f9C5Q9ONg.jpg"
+    },
+    {
+      "personId": 20761,
+      "name": "Sven-Ole Thorsen",
+      "character": "La Fours",
+      "order": 13,
+      "cast_id": 29,
+      "popularity": 0.8852,
+      "profile_path": "/7uhBGHXs6xLwFwzWbLEsHDgYzHP.jpg"
+    },
+    {
+      "personId": 1224107,
+      "name": "Carol Banker",
+      "character": "Security Guard",
+      "order": 14,
+      "cast_id": 98,
+      "popularity": 0.4861,
+      "profile_path": "/fEJW3Hd67cW3nIDp6jyxsVo8cZO.jpg"
+    },
+    {
+      "personId": 1807864,
+      "name": "Steven Blackwell",
+      "character": "Arresting Cop #2",
+      "order": 15,
+      "cast_id": 125,
+      "popularity": 0.1151,
+      "profile_path": null
+    },
+    {
+      "personId": 4072132,
+      "name": "Kyle Boe",
+      "character": "Pull Toy Kid",
+      "order": 16,
+      "cast_id": 100,
+      "popularity": 0.1931,
+      "profile_path": null
+    },
+    {
+      "personId": 4072134,
+      "name": "David Brinkley",
+      "character": "TV Executive #1",
+      "order": 17,
+      "cast_id": 101,
+      "popularity": 0.1286,
+      "profile_path": null
+    },
+    {
+      "personId": 23633,
+      "name": "Walt Flanagan",
+      "character": "Fan Boy",
+      "order": 18,
+      "cast_id": 31,
+      "popularity": 1.5494,
+      "profile_path": "/kl9xBmSd8jIaY0RKc5I6wMqh8ph.jpg"
+    },
+    {
+      "personId": 1204086,
+      "name": "Ethan Flower",
+      "character": "Guy Contestant #1",
+      "order": 19,
+      "cast_id": 102,
+      "popularity": 0.3853,
+      "profile_path": "/sDAMzhge9Dv8zVpVW0wlE9XyCnH.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 19303,
+      "name": "Kevin Smith",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.4896,
+      "profile_path": "/uxDQ0NTZMnOuAaPa0tQzMFV9dx4.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 4325,
+      "name": "game show"
+    },
+    {
+      "id": 8631,
+      "name": "slacker"
+    },
+    {
+      "id": 41175,
+      "name": "shopping"
+    },
+    {
+      "id": 157690,
+      "name": "mall"
+    },
+    {
+      "id": 162296,
+      "name": "ex-boyfriend ex-girlfriend relationship"
+    },
+    {
+      "id": 171329,
+      "name": "silent man"
+    },
+    {
+      "id": 171343,
+      "name": "coke"
+    },
+    {
+      "id": 171346,
+      "name": "bandleader"
+    },
+    {
+      "id": 179430,
+      "name": "aftercreditsstinger"
+    }
+  ]
+}

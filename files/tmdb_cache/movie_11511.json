@@ -1,0 +1,258 @@
+{
+  "overview": "When Max fools a gang of local toughs, he finds himself in big trouble. Fleeing from the thugs, Max runs into an old warehouse and bumps into a boom box. By doing that, he manages to release Kazaam, a genie who has been held captive for thousands of years.",
+  "release_date": "1996-07-17",
+  "runtime": 94,
+  "budget": 20000000,
+  "revenue": 18937262,
+  "tmdb_vote_average": 4.133,
+  "tmdb_vote_count": 293,
+  "tmdb_popularity": 3.4205,
+  "original_language": "en",
+  "poster_path": "/k6kXq27UVxf7zGCWSvygYYIp9eP.jpg",
+  "backdrop_path": "/mQzeocOItlHOf26UQeYEFgAvNaJ.jpg",
+  "tmdb_genres_raw": [
+    "Fantasy",
+    "Comedy",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 9195,
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 10201,
+      "name": "Interscope Communications",
+      "origin_country": "US"
+    },
+    {
+      "id": 1382,
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 35806,
+      "name": "Shaquille O'Neal",
+      "character": "Kazaam",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.3776,
+      "profile_path": "/dPpPU1y7JEOQHVGv6vNLcCDJhLP.jpg"
+    },
+    {
+      "personId": 17918,
+      "name": "Francis Capra",
+      "character": "Max",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.577,
+      "profile_path": "/iMbTbfIKNqjNwtwtdMLMRJUG1ej.jpg"
+    },
+    {
+      "personId": 18316,
+      "name": "Ally Walker",
+      "character": "Alice",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.1835,
+      "profile_path": "/kuR6HUF1D0Xk5o5nShgWDBMV2gx.jpg"
+    },
+    {
+      "personId": 116907,
+      "name": "Marshall Manesh",
+      "character": "Malik",
+      "order": 3,
+      "cast_id": 37,
+      "popularity": 1.388,
+      "profile_path": "/tnoopXK3bK3Hes2O5YHuCPoPVS4.jpg"
+    },
+    {
+      "personId": 69671,
+      "name": "James Acheson",
+      "character": "Nick",
+      "order": 4,
+      "cast_id": 4,
+      "popularity": 1.3755,
+      "profile_path": "/ngNfOYl6UwzpVkApG0rMe4Cdhkr.jpg"
+    },
+    {
+      "personId": 147788,
+      "name": "Fawn Reed",
+      "character": "Asia Moon",
+      "order": 5,
+      "cast_id": 40,
+      "popularity": 2.0257,
+      "profile_path": "/aiNr9WQPFQJdbHqpX2bWU9vrBVb.jpg"
+    },
+    {
+      "personId": 171747,
+      "name": "John Costelloe",
+      "character": "Travis",
+      "order": 6,
+      "cast_id": 44,
+      "popularity": 1.2048,
+      "profile_path": "/kcItsXgK5OxhsViMLcQW4JNB8BW.jpg"
+    },
+    {
+      "personId": 84601,
+      "name": "Mother Love",
+      "character": "Mrs. Duke",
+      "order": 7,
+      "cast_id": 38,
+      "popularity": 1.7104,
+      "profile_path": "/l3mfKzwXqyfbT3797obteod7Qg1.jpg"
+    },
+    {
+      "personId": 5024994,
+      "name": "Brandon Durand",
+      "character": "Vasquez",
+      "order": 8,
+      "cast_id": 49,
+      "popularity": 0.2306,
+      "profile_path": null
+    },
+    {
+      "personId": 1229941,
+      "name": "Wade Robson",
+      "character": "Elito",
+      "order": 9,
+      "cast_id": 34,
+      "popularity": 0.3187,
+      "profile_path": "/lRNoAGLoGiiB6gTcCrMgyOlBxwD.jpg"
+    },
+    {
+      "personId": 5024995,
+      "name": "Jake Glaser",
+      "character": "Jake",
+      "order": 10,
+      "cast_id": 50,
+      "popularity": 0.0168,
+      "profile_path": null
+    },
+    {
+      "personId": 20190,
+      "name": "Efren Ramirez",
+      "character": "Carlos",
+      "order": 11,
+      "cast_id": 33,
+      "popularity": 1.3771,
+      "profile_path": "/vo4IDt4NeNCHBXLz58Wjlx5994a.jpg"
+    },
+    {
+      "personId": 1307345,
+      "name": "Jonathan Carrasco",
+      "character": "Z-Dog",
+      "order": 12,
+      "cast_id": 51,
+      "popularity": 1.6073,
+      "profile_path": null
+    },
+    {
+      "personId": 1018765,
+      "name": "Jesse Perez",
+      "character": "Vasquez's Sidekick",
+      "order": 13,
+      "cast_id": 52,
+      "popularity": 0.4401,
+      "profile_path": null
+    },
+    {
+      "personId": 1006954,
+      "name": "Todd Sible",
+      "character": "Engineer Ed",
+      "order": 14,
+      "cast_id": 47,
+      "popularity": 0.543,
+      "profile_path": "/t5jSOs2oB7vEUfDVO1Q6B7dTQS2.jpg"
+    },
+    {
+      "personId": 2545289,
+      "name": "Juan Gabriel Reynoso",
+      "character": "Hassem",
+      "order": 15,
+      "cast_id": 53,
+      "popularity": 0.0987,
+      "profile_path": null
+    },
+    {
+      "personId": 109670,
+      "name": "Said Faraj",
+      "character": "El-Baz",
+      "order": 16,
+      "cast_id": 54,
+      "popularity": 1.7872,
+      "profile_path": "/svC8PC5NRXeBcKogGiKXsUCvrd8.jpg"
+    },
+    {
+      "personId": 181133,
+      "name": "Randall Bosley",
+      "character": "Foad",
+      "order": 17,
+      "cast_id": 55,
+      "popularity": 0.3431,
+      "profile_path": "/95PXZa1EP7zLr2EDziYn1U2sylF.jpg"
+    },
+    {
+      "personId": 26994,
+      "name": "Steven Barr",
+      "character": "Sam",
+      "order": 18,
+      "cast_id": 56,
+      "popularity": 1.4891,
+      "profile_path": "/aZyyrfL7Sutv5dTCcXKPlZZwGDL.jpg"
+    },
+    {
+      "personId": 1796689,
+      "name": "Deidra Roper",
+      "character": "Spinderella",
+      "order": 19,
+      "cast_id": 57,
+      "popularity": 0.3315,
+      "profile_path": "/qNCiT4u1EtejYD9Yy5jP4ZNeDw.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 12988,
+      "name": "Paul Michael Glaser",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.8385,
+      "profile_path": "/6JIDF5x01dfnZUOLod5TEc0kYF2.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 4896,
+      "name": "wish"
+    },
+    {
+      "id": 190536,
+      "name": "genie"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "overview": "A sexy nightclub owner, Barb Wire moonlights as a mercenary in Steel Harbor, one of the last free zones in the now fascist United States. When scientist Cora Devonshire wanders into Barb's establishment, she gets roped into a top-secret government plot involving biological weapons. Soon Barb is reunited with her old flame Axel Hood, who is now Cora's husband and a guerrilla fighter, resulting in plenty of tense action.",
+  "release_date": "1996-05-02",
+  "runtime": 98,
+  "budget": 9000000,
+  "revenue": 3793614,
+  "tmdb_vote_average": 4.087,
+  "tmdb_vote_count": 473,
+  "tmdb_popularity": 2.0114,
+  "original_language": "en",
+  "poster_path": "/jW5TLptY7PL1Mllq1g1uMjwXLXT.jpg",
+  "backdrop_path": "/o7bxmFoHfEP5JiBzVYY5QgLiSfU.jpg",
+  "tmdb_genres_raw": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+  ],
+  "production_companies": [
+    {
+      "id": 1382,
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 278,
+      "name": "Propaganda Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 552,
+      "name": "Dark Horse Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "de",
+      "name": "Deutsch"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "zh",
+      "name": "普通话"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6736,
+      "name": "Pamela Anderson",
+      "character": "Barbara Kopetski / Barb Wire",
+      "order": 0,
+      "cast_id": 12,
+      "popularity": 4.226,
+      "profile_path": "/sk15ch2IQ6k6vWu07Jr77yw4oj5.jpg"
+    },
+    {
+      "personId": 7242,
+      "name": "Temuera Morrison",
+      "character": "Axel Hood",
+      "order": 1,
+      "cast_id": 13,
+      "popularity": 2.4628,
+      "profile_path": "/AvtSC0f9QW7fMyFFNXEWDeQyfUk.jpg"
+    },
+    {
+      "personId": 65020,
+      "name": "Victoria Rowell",
+      "character": "Dr. Corrina Devonshire",
+      "order": 2,
+      "cast_id": 14,
+      "popularity": 1.4642,
+      "profile_path": "/1bZDmfrxFRLLZEDgYoHAjSpb1pm.jpg"
+    },
+    {
+      "personId": 22133,
+      "name": "Jack Noseworthy",
+      "character": "Charlie Kopetski",
+      "order": 3,
+      "cast_id": 15,
+      "popularity": 1.7923,
+      "profile_path": "/gB89s2gEp2NL0vcYwegyxvV2oBn.jpg"
+    },
+    {
+      "personId": 1646,
+      "name": "Udo Kier",
+      "character": "Curly",
+      "order": 4,
+      "cast_id": 16,
+      "popularity": 12.6681,
+      "profile_path": "/lIOGDMvrVHMgPXdhicLI41tY1zf.jpg"
+    },
+    {
+      "personId": 52023,
+      "name": "Steve Railsback",
+      "character": "Colonel Pryzer",
+      "order": 5,
+      "cast_id": 17,
+      "popularity": 1.7535,
+      "profile_path": "/wztkAOAQZNGLlbrUrGIhV5cr1S0.jpg"
+    },
+    {
+      "personId": 3982,
+      "name": "Xander Berkeley",
+      "character": "Alexander Willis",
+      "order": 6,
+      "cast_id": 18,
+      "popularity": 3.2202,
+      "profile_path": "/oBoKGfngGGZmSVGFslphYjc23WO.jpg"
+    },
+    {
+      "personId": 19326,
+      "name": "John Paxton",
+      "character": "Smooth",
+      "order": 7,
+      "cast_id": 19,
+      "popularity": 1.5284,
+      "profile_path": "/ndSd4nnukk03loB6RKx3iuP5xfx.jpg"
+    },
+    {
+      "personId": 589761,
+      "name": "Joey Sagal",
+      "character": "Fred the Bartender",
+      "order": 8,
+      "cast_id": 20,
+      "popularity": 0.9466,
+      "profile_path": "/2kxVqO7p4HuFngmUghvsI5CxcMH.jpg"
+    },
+    {
+      "personId": 1083899,
+      "name": "Candace Kita",
+      "character": "Dancer",
+      "order": 9,
+      "cast_id": 21,
+      "popularity": 1.6871,
+      "profile_path": null
+    },
+    {
+      "personId": 1198786,
+      "name": "Ai Wan",
+      "character": "China",
+      "order": 10,
+      "cast_id": 22,
+      "popularity": 0.8813,
+      "profile_path": "/pBk5Gv68n3O8L0Td4nQmZ8qJGWu.jpg"
+    },
+    {
+      "personId": 15661,
+      "name": "Clint Howard",
+      "character": "Schmitz",
+      "order": 11,
+      "cast_id": 23,
+      "popularity": 2.2819,
+      "profile_path": "/qC7AgKmcBFk76ojTYELeirw1viQ.jpg"
+    },
+    {
+      "personId": 166926,
+      "name": "Jennifer Banko",
+      "character": "Spike",
+      "order": 12,
+      "cast_id": 24,
+      "popularity": 0.9107,
+      "profile_path": "/4awafU85QdA8oV1D36zO8IrRwLc.jpg"
+    },
+    {
+      "personId": 98435,
+      "name": "Mark Collver",
+      "character": "Manny",
+      "order": 13,
+      "cast_id": 25,
+      "popularity": 0.5411,
+      "profile_path": null
+    },
+    {
+      "personId": 100461,
+      "name": "Nicholas Worth",
+      "character": "Ruben",
+      "order": 14,
+      "cast_id": 27,
+      "popularity": 1.1219,
+      "profile_path": "/ws74axGppblp2tBg21wjK8faPq6.jpg"
+    },
+    {
+      "personId": 1196132,
+      "name": "Patti Tippo",
+      "character": "Mom",
+      "order": 15,
+      "cast_id": 28,
+      "popularity": 0.6111,
+      "profile_path": "/68mCQgI46gAO4YdVnbaZGnXW8gZ.jpg"
+    },
+    {
+      "personId": 24968,
+      "name": "Nils Allen Stewart",
+      "character": "Jack",
+      "order": 16,
+      "cast_id": 29,
+      "popularity": 1.7333,
+      "profile_path": "/qeTM6yMFJeP9dhudYGAKduzaoGD.jpg"
+    },
+    {
+      "personId": 8396,
+      "name": "Tommy Lister Jr.",
+      "character": "Bouncer",
+      "order": 17,
+      "cast_id": 30,
+      "popularity": 2.4064,
+      "profile_path": "/i1seZDiLC3AKrAYqfFSln6ZGNmF.jpg"
+    },
+    {
+      "personId": 95061,
+      "name": "Andre Rosey Brown",
+      "character": "Big Fatso",
+      "order": 18,
+      "cast_id": 31,
+      "popularity": 1.2466,
+      "profile_path": "/sQh0WnraLRVAiB5LIwJypkILwnT.jpg"
+    },
+    {
+      "personId": 174906,
+      "name": "Shelly Desai",
+      "character": "Sharif",
+      "order": 19,
+      "cast_id": 33,
+      "popularity": 1.7937,
+      "profile_path": "/kavOPFlsUf1l5HRa1OJ8ugYFebT.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 70792,
+      "name": "David Hogan",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1204,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 801,
+      "name": "bounty hunter"
+    },
+    {
+      "id": 393,
+      "name": "civil war"
+    },
+    {
+      "id": 4565,
+      "name": "dystopia"
+    },
+    {
+      "id": 9717,
+      "name": "based on comic"
+    },
+    {
+      "id": 9974,
+      "name": "obesity"
+    },
+    {
+      "id": 11034,
+      "name": "b movie"
+    },
+    {
+      "id": 175518,
+      "name": "scientist bar"
+    },
+    {
+      "id": 175522,
+      "name": "electrical torture"
+    },
+    {
+      "id": 175529,
+      "name": "pretending to be a prostitute"
+    },
+    {
+      "id": 175533,
+      "name": "pressure washer"
+    },
+    {
+      "id": 257783,
+      "name": "2010s"
+    },
+    {
+      "id": 295389,
+      "name": "female bounty hunter"
+    },
+    {
+      "id": 320420,
+      "name": "hilarious"
+    }
+  ]
+}

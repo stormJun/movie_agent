@@ -1,0 +1,151 @@
+{
+  "overview": "Within days of the release of Negativland's clever parody of U2 and Casey Kasem, recording industry giant Island Records descended upon the band with a battery of lawyers intent on erasing the piece from the history of rock music.  Craig \"Tribulation 99\" Baldwin follows this and other intellectual property controversies across the contemporary arts scene. Playful and ironic, his cut-and-paste collage-essay surveys the prospects for an \"electronic folk culture\" in the midst of an increasingly commodified corporate media landscape.",
+  "release_date": "1995-07-14",
+  "runtime": 87,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 7.4,
+  "tmdb_vote_count": 5,
+  "tmdb_popularity": 0.3983,
+  "original_language": "en",
+  "poster_path": "/fdJ6o8uOcEFiTRCo9WuZklj8EPK.jpg",
+  "backdrop_path": null,
+  "tmdb_genres_raw": [
+    "Music",
+    "Documentary"
+  ],
+  "production_companies": [],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1650801,
+      "name": "Lloyd Dunn",
+      "character": "",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 0.0389,
+      "profile_path": null
+    },
+    {
+      "personId": 1292738,
+      "name": "Chris Grigg",
+      "character": "",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 0.0718,
+      "profile_path": null
+    },
+    {
+      "personId": 1292739,
+      "name": "Mark Hosler",
+      "character": "",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 0.1043,
+      "profile_path": null
+    },
+    {
+      "personId": 1292740,
+      "name": "Don Joyce",
+      "character": "",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 0.049,
+      "profile_path": null
+    },
+    {
+      "personId": 1650802,
+      "name": "Doug Kahn",
+      "character": "",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 0.0582,
+      "profile_path": null
+    },
+    {
+      "personId": 16418,
+      "name": "Casey Kasem",
+      "character": "",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 1.2044,
+      "profile_path": "/59kecPxxPIO8uwzaRZAOSDE1l80.jpg"
+    },
+    {
+      "personId": 1650803,
+      "name": "Alan Korn",
+      "character": "",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 0.0338,
+      "profile_path": null
+    },
+    {
+      "personId": 1292741,
+      "name": "Richard Lyons",
+      "character": "",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 0.075,
+      "profile_path": null
+    },
+    {
+      "personId": 1650805,
+      "name": "Paul Neff",
+      "character": "",
+      "order": 8,
+      "cast_id": 10,
+      "popularity": 0.0487,
+      "profile_path": null
+    },
+    {
+      "personId": 1650807,
+      "name": "John Oswald",
+      "character": "Himself",
+      "order": 9,
+      "cast_id": 11,
+      "popularity": 0.0071,
+      "profile_path": null
+    },
+    {
+      "personId": 1650808,
+      "name": "Josh Pearson",
+      "character": "EBN member",
+      "order": 10,
+      "cast_id": 12,
+      "popularity": 0.064,
+      "profile_path": null
+    },
+    {
+      "personId": 1292742,
+      "name": "David 'Weatherman' Wills",
+      "character": "Negativland member",
+      "order": 11,
+      "cast_id": 13,
+      "popularity": 0.0535,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 84445,
+      "name": "Craig Baldwin",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.289,
+      "profile_path": "/pDG7bHV3RzrLMdUPMv3EODmNLfX.jpg"
+    }
+  ],
+  "keywords": []
+}

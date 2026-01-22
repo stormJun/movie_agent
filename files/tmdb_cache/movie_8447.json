@@ -1,0 +1,180 @@
+{
+  "overview": "In Victorian England, wealthy patriarch Sir Harald Alabaster invites an impoverished biologist, William Adamson, into his home. There, William tries to continue his work, but is distracted by Alabaster's seductive daughter, Eugenia. William and Eugenia begin a torrid romance, but as the couple become closer, the young scientist begins to realize that dark, disturbing things are happening behind the closed doors of the Alabaster manor.",
+  "release_date": "1995-09-10",
+  "runtime": 118,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.1,
+  "tmdb_vote_count": 55,
+  "tmdb_popularity": 1.3984,
+  "original_language": "en",
+  "poster_path": "/w1i5JdddoLuzSmnKo5ORDoKdMm2.jpg",
+  "backdrop_path": "/h5PrPi1fnGACJiYoIJxBpAkqhGU.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 2492,
+      "name": "Playhouse International Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 798,
+      "name": "The Samuel Goldwyn Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 6705,
+      "name": "Film4 Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 40900,
+      "name": "Mark Rylance",
+      "character": "William Adamson",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.8986,
+      "profile_path": "/bztEZRyXrvW3Pg1fexNASXlZrq7.jpg"
+    },
+    {
+      "personId": 5470,
+      "name": "Kristin Scott Thomas",
+      "character": "Matty Crompton",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 3.344,
+      "profile_path": "/axksw0vAjBPSW02ZqpcC0V8rPD7.jpg"
+    },
+    {
+      "personId": 14326,
+      "name": "Patsy Kensit",
+      "character": "Eugenia Alabaster Adamson",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.5752,
+      "profile_path": "/r60KQk3xOmMIhGmJqCeHQq6RX68.jpg"
+    },
+    {
+      "personId": 55037,
+      "name": "Jeremy Kemp",
+      "character": "Sir Harald Alabaster",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.5114,
+      "profile_path": "/lXKzFH9PM3H0JDlRcgMkw6FWq3i.jpg"
+    },
+    {
+      "personId": 35862,
+      "name": "Douglas Henshall",
+      "character": "Edgar Alabaster",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 2.0383,
+      "profile_path": "/2mjlldFRcvrXZq6pRKV5dSVlzn8.jpg"
+    },
+    {
+      "personId": 30320,
+      "name": "Annette Badland",
+      "character": "Lady Alabaster",
+      "order": 5,
+      "cast_id": 12,
+      "popularity": 4.9035,
+      "profile_path": "/6ZoUX6K4WI2MZrhXb21vU5Mtc6P.jpg"
+    },
+    {
+      "personId": 25658,
+      "name": "Chris Larkin",
+      "character": "Robin",
+      "order": 6,
+      "cast_id": 13,
+      "popularity": 2.0851,
+      "profile_path": "/9o4epHGaMjumXcoDg44DVJWL8Sp.jpg"
+    },
+    {
+      "personId": 8227,
+      "name": "Anna Massey",
+      "character": "Miss Mead",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 2.3264,
+      "profile_path": "/sBlRr3oC9r4NiqhVDc85JfITIBL.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 55038,
+      "name": "Philip Haas",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8581,
+      "profile_path": "/ejZkqudQcMsNTY126047kQ76xiJ.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 4034,
+      "name": "class society"
+    },
+    {
+      "id": 332,
+      "name": "insect"
+    },
+    {
+      "id": 7579,
+      "name": "rich woman poor man"
+    },
+    {
+      "id": 8250,
+      "name": "victorian england"
+    },
+    {
+      "id": 14760,
+      "name": "scientist"
+    },
+    {
+      "id": 33841,
+      "name": "incest"
+    },
+    {
+      "id": 156866,
+      "name": "based on short story"
+    },
+    {
+      "id": 182662,
+      "name": "naturalist"
+    },
+    {
+      "id": 230960,
+      "name": "unfaithful wife"
+    },
+    {
+      "id": 232938,
+      "name": "brother sister sex"
+    },
+    {
+      "id": 350360,
+      "name": "brother sister incest"
+    }
+  ]
+}

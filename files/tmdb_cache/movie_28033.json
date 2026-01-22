@@ -1,0 +1,247 @@
+{
+  "overview": "A self-help advocate struggles to put his dysfunctional family in its place.",
+  "release_date": "1995-04-12",
+  "runtime": 95,
+  "budget": 6300000,
+  "revenue": 912082,
+  "tmdb_vote_average": 5.2,
+  "tmdb_vote_count": 25,
+  "tmdb_popularity": 0.549,
+  "original_language": "en",
+  "poster_path": "/80YaWpUokDoPynsJi0ittpts3J0.jpg",
+  "backdrop_path": "/hNWte9XlfxBeNuLW7CxwnZHuY1J.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 457,
+      "name": "Constellation Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 65348,
+      "name": "Al Franken",
+      "character": "Stuart Smalley",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 1.3465,
+      "profile_path": "/yQj4vgh6PHyupMe3mFeDaCNHfCq.jpg"
+    },
+    {
+      "personId": 1212,
+      "name": "Laura San Giacomo",
+      "character": "Julia",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 4.2411,
+      "profile_path": "/xOPY9e0HN6zYmI5HrmRSbwygEzy.jpg"
+    },
+    {
+      "personId": 7132,
+      "name": "Vincent D'Onofrio",
+      "character": "Donnie",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 3.2082,
+      "profile_path": "/qkyiLolEqYMGH25xD4sFIXAjZQB.jpg"
+    },
+    {
+      "personId": 28778,
+      "name": "Shirley Knight",
+      "character": "Mom",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 1.1113,
+      "profile_path": "/5m1S3lOEP79hq10IODqEIfDPa1T.jpg"
+    },
+    {
+      "personId": 1166,
+      "name": "Harris Yulin",
+      "character": "Dad",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 1.9398,
+      "profile_path": "/3W758yxhdphzblpgDz4wKgLCriB.jpg"
+    },
+    {
+      "personId": 99407,
+      "name": "Lesley Boone",
+      "character": "Jodie",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 0.5968,
+      "profile_path": "/gZ0xoKwBDQC6pi3CKV7P0Qg1Szf.jpg"
+    },
+    {
+      "personId": 99408,
+      "name": "John Link Graney",
+      "character": "Kyle",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 0.9082,
+      "profile_path": null
+    },
+    {
+      "personId": 154818,
+      "name": "Marjorie Lovett",
+      "character": "Aunt Paula",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 1.4485,
+      "profile_path": null
+    },
+    {
+      "personId": 74787,
+      "name": "Walter Robles",
+      "character": "Smalley Uncle",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 0.4681,
+      "profile_path": "/eeNiQsRymSe6pVBVF4WVH1p0mGs.jpg"
+    },
+    {
+      "personId": 91833,
+      "name": "Erik Cord",
+      "character": "Smalley Uncle",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 0.8408,
+      "profile_path": "/iXbECV6UlafgOJC0Q4vmSYPCiJ9.jpg"
+    },
+    {
+      "personId": 26737,
+      "name": "Denver Mattson",
+      "character": "Smalley Uncle",
+      "order": 10,
+      "cast_id": 17,
+      "popularity": 0.3206,
+      "profile_path": null
+    },
+    {
+      "personId": 2010355,
+      "name": "Grant Hoover",
+      "character": "Young Stuart",
+      "order": 11,
+      "cast_id": 18,
+      "popularity": 0.0771,
+      "profile_path": null
+    },
+    {
+      "personId": 1242280,
+      "name": "Cory Milano",
+      "character": "Young Donnie",
+      "order": 12,
+      "cast_id": 19,
+      "popularity": 0.4151,
+      "profile_path": null
+    },
+    {
+      "personId": 20847,
+      "name": "Michelle Horn",
+      "character": "Young Jodie",
+      "order": 13,
+      "cast_id": 20,
+      "popularity": 1.7787,
+      "profile_path": "/vSqV6aBtjzB5FElrMufYNBdBkB.jpg"
+    },
+    {
+      "personId": 65744,
+      "name": "Harris Laskawy",
+      "character": "Mr. Dimmit",
+      "order": 14,
+      "cast_id": 21,
+      "popularity": 0.4863,
+      "profile_path": null
+    },
+    {
+      "personId": 1144361,
+      "name": "Tom Dugan",
+      "character": "Ajax Spokesman",
+      "order": 15,
+      "cast_id": 22,
+      "popularity": 0.6195,
+      "profile_path": "/n26BNkoiZt9dYgjkAYKNFOMJvlF.jpg"
+    },
+    {
+      "personId": 74077,
+      "name": "Camille Saviola",
+      "character": "Roz Weinstock",
+      "order": 16,
+      "cast_id": 23,
+      "popularity": 1.1541,
+      "profile_path": "/1eoZ00hGzik9a22XfrsNbo6N0gS.jpg"
+    },
+    {
+      "personId": 109899,
+      "name": "Bess Meyer",
+      "character": "Laurie",
+      "order": 17,
+      "cast_id": 24,
+      "popularity": 1.6386,
+      "profile_path": "/3sK6jO36hzl5HDGjMX10XeOQ4JR.jpg"
+    },
+    {
+      "personId": 11806,
+      "name": "Julia Sweeney",
+      "character": "Mea C.",
+      "order": 18,
+      "cast_id": 25,
+      "popularity": 1.7892,
+      "profile_path": "/lE4Ugwp0Cq1it6OfzP0no6ItQs7.jpg"
+    },
+    {
+      "personId": 132319,
+      "name": "Patrick Kerr",
+      "character": "Makeover Artist",
+      "order": 19,
+      "cast_id": 26,
+      "popularity": 0.8442,
+      "profile_path": "/qBGo3Fd4vI0fScRkudijhd5e25X.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1524,
+      "name": "Harold Ramis",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.5074,
+      "profile_path": "/kmTMTxthkDAsygk3Am4IUSVYYRi.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 10041,
+      "name": "dysfunctional family"
+    },
+    {
+      "id": 225655,
+      "name": "public access"
+    }
+  ]
+}

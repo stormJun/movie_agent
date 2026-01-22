@@ -1,0 +1,152 @@
+{
+  "overview": "In May 1828, a feral boy aged around 16 was found in Nuremberg. Kaspar Hauser, as he is called, can only speak a few indistinct words and knows nothing about his origins or family. The film depicts the - presumed - circumstances under which Hauser was held captive in complete isolation in a hiding place from infancy onwards. From this emerges the picture of an intrigue involving high circles of aristocratic society. Five years after his liberation, in December 1833, Kaspar Hauser died as a result of a stab wound inflicted by an unknown perpetrator.",
+  "release_date": "1993-09-11",
+  "runtime": 139,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.1,
+  "tmdb_vote_count": 15,
+  "tmdb_popularity": 2.0661,
+  "original_language": "de",
+  "poster_path": "/7gA2f8X9bim0905iC5NMXCJh7OS.jpg",
+  "backdrop_path": "/u56QuOLIWxcbTaZNUwiir3Q6NPY.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [],
+  "production_countries": [
+    {
+      "code": "AT",
+      "name": "Austria"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 14631,
+      "name": "André Eisermann",
+      "character": "Kaspar Hauser",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 0.587,
+      "profile_path": "/7yg9uAvBPhUWYpsCqJ4L6HUIb4a.jpg"
+    },
+    {
+      "personId": 6264,
+      "name": "Udo Samel",
+      "character": "Daumer",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.1759,
+      "profile_path": "/9l15dhFSnE6i9hqplfECsJiomUl.jpg"
+    },
+    {
+      "personId": 73172,
+      "name": "Jeremy Clyde",
+      "character": "Lord Stanhope",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 0.9251,
+      "profile_path": "/gv1hJFYvopKYvFqS0MNrTEstuHp.jpg"
+    },
+    {
+      "personId": 10257,
+      "name": "Katharina Thalbach",
+      "character": "Comtesse Hochberg",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.1595,
+      "profile_path": "/dFOwcCqKnFseJdShQmjwMzwxHfu.jpg"
+    },
+    {
+      "personId": 23750,
+      "name": "Johannes Silberschneider",
+      "character": "Lehrer Meyer",
+      "order": 4,
+      "cast_id": 13,
+      "popularity": 0.4165,
+      "profile_path": "/lDkHRRpnGDtsk7zt48uq8jwUo4M.jpg"
+    },
+    {
+      "personId": 11071,
+      "name": "Peter Lohmeyer",
+      "character": "Leopold von Baden",
+      "order": 5,
+      "cast_id": 14,
+      "popularity": 0.736,
+      "profile_path": "/1hnbaz9deXeNzCDwPxudTea17rV.jpg"
+    },
+    {
+      "personId": 23721,
+      "name": "Dieter Laser",
+      "character": "Ludwig I. von Bayern",
+      "order": 6,
+      "cast_id": 15,
+      "popularity": 1.9249,
+      "profile_path": "/hrHIulgnKvgSwZFX1Idwq0bQIdR.jpg"
+    },
+    {
+      "personId": 682,
+      "name": "Uwe Ochsenknecht",
+      "character": "Ludwig von Baden",
+      "order": 7,
+      "cast_id": 16,
+      "popularity": 0.9251,
+      "profile_path": "/mlNKDWmAxUIqLT4ZfW1REo7MoOD.jpg"
+    },
+    {
+      "personId": 688,
+      "name": "Hermann Beyer",
+      "character": "Paul Johann Anselm von Feuerbach",
+      "order": 8,
+      "cast_id": 17,
+      "popularity": 0.7174,
+      "profile_path": "/9tDZp6iRk7ctzhwQMDzlyCfn7Gd.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 56201,
+      "name": "Peter Sehr",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4292,
+      "profile_path": null
+    },
+    {
+      "personId": 1870,
+      "name": "Gernot Roll",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.6724,
+      "profile_path": "/78FILtcGZxWfl8cDz9tAAVgeHBC.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1563,
+      "name": "prisoner"
+    },
+    {
+      "id": 2279,
+      "name": "bavaria, germany"
+    },
+    {
+      "id": 4441,
+      "name": "nuremberg, germany"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "overview": "Naked in New York begins in the car of grown up Jake, he is talking to us about his girlfriend, Joanne,  and to whom you can turn to for help while facing life. From there it flashes back to his memories of his parents, college, house across from a squirrel infested peanut factory, best friend, writing career and Joanne.",
+  "release_date": "1993-11-10",
+  "runtime": 95,
+  "budget": 5000000,
+  "revenue": 1038959,
+  "tmdb_vote_average": 4.381,
+  "tmdb_vote_count": 21,
+  "tmdb_popularity": 2.6609,
+  "original_language": "en",
+  "poster_path": "/gAufFGm2Qly8TYrhy4me9X35B7m.jpg",
+  "backdrop_path": "/fjYSfQVLW9vvyhZKvJS1UadMtoZ.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 8,
+      "name": "Fine Line Features",
+      "origin_country": "US"
+    },
+    {
+      "id": 2658,
+      "name": "Some Film",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 7036,
+      "name": "Eric Stoltz",
+      "character": "Jake Briggs",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.934,
+      "profile_path": "/idFuM00MeVmwGAiqvDaJcBiLAmD.jpg"
+    },
+    {
+      "personId": 18248,
+      "name": "Mary-Louise Parker",
+      "character": "Joanne White",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 4.8508,
+      "profile_path": "/1ohhrIZ4OMlLx9DvHjPhQJAIP0F.jpg"
+    },
+    {
+      "personId": 2877,
+      "name": "Ralph Macchio",
+      "character": "Chris",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.8473,
+      "profile_path": "/AoqqL9UlyPrcTLnpzbQvKXPvXrz.jpg"
+    },
+    {
+      "personId": 20362,
+      "name": "Jill Clayburgh",
+      "character": "Shirley",
+      "order": 3,
+      "cast_id": 12,
+      "popularity": 2.5801,
+      "profile_path": "/sMdQSgCSlSYdMq4aBAnoaIZYuLT.jpg"
+    },
+    {
+      "personId": 3150,
+      "name": "Tony Curtis",
+      "character": "Carl Fisher",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 2.4639,
+      "profile_path": "/6Pj1XkYdI5Wc40Jl0UxJk8PPwlY.jpg"
+    },
+    {
+      "personId": 10669,
+      "name": "Timothy Dalton",
+      "character": "Elliot Price",
+      "order": 5,
+      "cast_id": 21,
+      "popularity": 3.3602,
+      "profile_path": "/rKYQd6ihqWiOaCHEDrvgV2VPtAo.jpg"
+    },
+    {
+      "personId": 71266,
+      "name": "Lynne Thigpen",
+      "character": "Helen",
+      "order": 6,
+      "cast_id": 20,
+      "popularity": 1.9283,
+      "profile_path": "/wCMTGuJk6kxEmElNT56HpsL3GJO.jpg"
+    },
+    {
+      "personId": 3391,
+      "name": "Kathleen Turner",
+      "character": "Dana Coles",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 3.7045,
+      "profile_path": "/hvmMGjWKy1CGmaJzPtOtbb3fD57.jpg"
+    },
+    {
+      "personId": 24368,
+      "name": "Roscoe Lee Browne",
+      "character": "Mr. Ried",
+      "order": 8,
+      "cast_id": 19,
+      "popularity": 1.1556,
+      "profile_path": "/zNOJbPMeQd5thNTA1dvb1ZT61mI.jpg"
+    },
+    {
+      "personId": 2395,
+      "name": "Whoopi Goldberg",
+      "character": "Tragedy Mask on Theater Wall",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 4.2878,
+      "profile_path": "/wZKI7qcEIVgiHxeFtk3NuKt8URQ.jpg"
+    },
+    {
+      "personId": 925,
+      "name": "Paul Guilfoyle",
+      "character": "Roman",
+      "order": 10,
+      "cast_id": 27,
+      "popularity": 1.968,
+      "profile_path": "/c7unxeM13lF9pMhZhYwlNsSFjFe.jpg"
+    },
+    {
+      "personId": 49148,
+      "name": "Calista Flockhart",
+      "character": "Acting Student",
+      "order": 11,
+      "cast_id": 15,
+      "popularity": 2.0138,
+      "profile_path": "/s0YPPAaIO5fnWI9baxp4TIkUXmn.jpg"
+    },
+    {
+      "personId": 14722,
+      "name": "Arabella Field",
+      "character": "Tammy Taylor",
+      "order": 12,
+      "cast_id": 28,
+      "popularity": 1.3093,
+      "profile_path": "/mKWXvd31RH0MNZqIiXBBHPyrtkF.jpg"
+    },
+    {
+      "personId": 64908,
+      "name": "LisaGay Hamilton",
+      "character": "Marty",
+      "order": 13,
+      "cast_id": 16,
+      "popularity": 1.5746,
+      "profile_path": "/bqfowff4gF0cGaQ1c7F89HAL3DH.jpg"
+    },
+    {
+      "personId": 57116,
+      "name": "David Johansen",
+      "character": "Orangutang",
+      "order": 14,
+      "cast_id": 29,
+      "popularity": 0.7695,
+      "profile_path": "/efK1QHpUbRqiMZNT5Is0m86qjE.jpg"
+    },
+    {
+      "personId": 13023,
+      "name": "Colleen Camp",
+      "character": "Auditioner",
+      "order": 15,
+      "cast_id": 30,
+      "popularity": 3.0729,
+      "profile_path": "/hNAIkUVtsQfpC95BDkXr1lmoI2F.jpg"
+    },
+    {
+      "personId": 2171,
+      "name": "Griffin Dunne",
+      "character": "Auditioner",
+      "order": 16,
+      "cast_id": 17,
+      "popularity": 2.4959,
+      "profile_path": "/oZeAznfOHgK1Kvy9TknkQhag1Um.jpg"
+    },
+    {
+      "personId": 38026,
+      "name": "Chris Noth",
+      "character": "Jason Brett",
+      "order": 17,
+      "cast_id": 18,
+      "popularity": 2.0754,
+      "profile_path": "/9awGeDN5MSbSefDMAyMglm96vcy.jpg"
+    },
+    {
+      "personId": 1176208,
+      "name": "David Drake",
+      "character": "Waiter",
+      "order": 18,
+      "cast_id": 31,
+      "popularity": 0.8168,
+      "profile_path": null
+    },
+    {
+      "personId": 1402372,
+      "name": "Joey Arias",
+      "character": "Self",
+      "order": 19,
+      "cast_id": 60,
+      "popularity": 1.1239,
+      "profile_path": "/zVUaJwwxaBgEh54PyUBgdfBgMNB.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 69696,
+      "name": "Daniel Algrant",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.5391,
+      "profile_path": "/mFNt1Sjdvh2J9LqMiNUKt0l3RAf.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 10818,
+      "name": "author"
+    },
+    {
+      "id": 245045,
+      "name": "gay friend"
+    },
+    {
+      "id": 258533,
+      "name": "gay theme"
+    }
+  ]
+}

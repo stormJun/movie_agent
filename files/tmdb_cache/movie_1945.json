@@ -1,0 +1,275 @@
+{
+  "overview": "In a remote woodland cabin, a small town doctor discovers Nell — a beautiful young hermit woman with many secrets.",
+  "release_date": "1994-12-23",
+  "runtime": 112,
+  "budget": 31000000,
+  "revenue": 106683817,
+  "tmdb_vote_average": 6.549,
+  "tmdb_vote_count": 536,
+  "tmdb_popularity": 3.6548,
+  "original_language": "en",
+  "poster_path": "/aIDp3x2YfijtdherR28pIH6yenn.jpg",
+  "backdrop_path": "/3Nv0jfMQvGKv4wL9rESZeyEw9Wl.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 802,
+      "name": "Egg Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1382,
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1038,
+      "name": "Jodie Foster",
+      "character": "Nell Kellty",
+      "order": 0,
+      "cast_id": 5,
+      "popularity": 6.7065,
+      "profile_path": "/8DAd9knKivHR4CCStxlNEQXzjIh.jpg"
+    },
+    {
+      "personId": 3896,
+      "name": "Liam Neeson",
+      "character": "Dr. Lovell",
+      "order": 1,
+      "cast_id": 6,
+      "popularity": 11.8885,
+      "profile_path": "/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg"
+    },
+    {
+      "personId": 20162,
+      "name": "Natasha Richardson",
+      "character": "Dr. Paula Olsen",
+      "order": 2,
+      "cast_id": 7,
+      "popularity": 3.2469,
+      "profile_path": "/eQNhOUDQY4NZD2cbaUpltLxrcG.jpg"
+    },
+    {
+      "personId": 20163,
+      "name": "Richard Libertini",
+      "character": "Dr. Paley",
+      "order": 3,
+      "cast_id": 8,
+      "popularity": 1.2938,
+      "profile_path": "/tpkGxVaGzAiY8kWmCWyeV2bjeNB.jpg"
+    },
+    {
+      "personId": 20164,
+      "name": "Robin Mullins",
+      "character": "Mary Peterson",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 1.069,
+      "profile_path": "/abV5uGsLYDgfpnW0uvgXDC5isv3.jpg"
+    },
+    {
+      "personId": 12538,
+      "name": "Nick Searcy",
+      "character": "Sheriff Todd Peterson",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 1.7868,
+      "profile_path": "/AnqbYGdLLaUaMfCtE0zYiRiI7E6.jpg"
+    },
+    {
+      "personId": 4654,
+      "name": "Jeremy Davies",
+      "character": "Billy Fisher",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 2.8994,
+      "profile_path": "/tNtcpQnMxzl0OqVDsyA63oAgPbI.jpg"
+    },
+    {
+      "personId": 20165,
+      "name": "O'Neal Compton",
+      "character": "Don Fontana, Lovell's Attorney",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 1.7168,
+      "profile_path": "/sZb9qi2T7Nnfy6w5feVgoVObhOs.jpg"
+    },
+    {
+      "personId": 20166,
+      "name": "Joe Inscoe",
+      "character": "Judge",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 1.0942,
+      "profile_path": "/kqkZzgrCb4a9nhnItinl3QL6sLA.jpg"
+    },
+    {
+      "personId": 20167,
+      "name": "Stephanie Dawn Wood",
+      "character": "Ruthie Lovell",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 0.1515,
+      "profile_path": "/aghYzxl3qf28OmrxUzcnscOxn4Z.jpg"
+    },
+    {
+      "personId": 1267262,
+      "name": "Heather M. Bomba",
+      "character": "Twin",
+      "order": 10,
+      "cast_id": 26,
+      "popularity": 0.1218,
+      "profile_path": null
+    },
+    {
+      "personId": 1267263,
+      "name": "Marianne E. Bomba",
+      "character": "Twin",
+      "order": 11,
+      "cast_id": 27,
+      "popularity": 0.1476,
+      "profile_path": null
+    },
+    {
+      "personId": 144160,
+      "name": "Sean Bridgers",
+      "character": "Mike Ibarra",
+      "order": 12,
+      "cast_id": 28,
+      "popularity": 1.3794,
+      "profile_path": "/lG8vV5g49RML5WkaN6Mb3GnLgge.jpg"
+    },
+    {
+      "personId": 1707297,
+      "name": "Mary Lynn Riner",
+      "character": "Janet Baring",
+      "order": 13,
+      "cast_id": 29,
+      "popularity": 0.2029,
+      "profile_path": null
+    },
+    {
+      "personId": 1707298,
+      "name": "Lucile McIntyre",
+      "character": "Sally",
+      "order": 14,
+      "cast_id": 30,
+      "popularity": 1.2966,
+      "profile_path": "/jVLVQ2dpJATWFEWK97SzcQ21vOr.jpg"
+    },
+    {
+      "personId": 176419,
+      "name": "Al Wiggins",
+      "character": "Harry Goppel",
+      "order": 15,
+      "cast_id": 31,
+      "popularity": 0.6576,
+      "profile_path": null
+    },
+    {
+      "personId": 937300,
+      "name": "Beth Bostic",
+      "character": "Jean Malinowski",
+      "order": 16,
+      "cast_id": 32,
+      "popularity": 0.1716,
+      "profile_path": null
+    },
+    {
+      "personId": 1707307,
+      "name": "Rob Buren III",
+      "character": "Stevie",
+      "order": 17,
+      "cast_id": 33,
+      "popularity": 0.1133,
+      "profile_path": null
+    },
+    {
+      "personId": 1534874,
+      "name": "Chris T. Hill",
+      "character": "Jed",
+      "order": 18,
+      "cast_id": 34,
+      "popularity": 0.2587,
+      "profile_path": null
+    },
+    {
+      "personId": 1707308,
+      "name": "Tim Mehaffey",
+      "character": "Shane",
+      "order": 19,
+      "cast_id": 35,
+      "popularity": 0.0976,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 10781,
+      "name": "Michael Apted",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.2243,
+      "profile_path": "/8ZLhPKz9CDZdbvFCIBAJMfd9IxE.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1889,
+      "name": "lake"
+    },
+    {
+      "id": 697,
+      "name": "loss of loved one"
+    },
+    {
+      "id": 1608,
+      "name": "twin sister"
+    },
+    {
+      "id": 1646,
+      "name": "autism"
+    },
+    {
+      "id": 2171,
+      "name": "kaspar-hauser-syndrom"
+    },
+    {
+      "id": 5650,
+      "name": "feral child"
+    },
+    {
+      "id": 5774,
+      "name": "forest"
+    },
+    {
+      "id": 5922,
+      "name": "north carolina"
+    },
+    {
+      "id": 11268,
+      "name": "psychologist"
+    },
+    {
+      "id": 18035,
+      "name": "family"
+    }
+  ]
+}

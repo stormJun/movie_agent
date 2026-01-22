@@ -1,0 +1,246 @@
+{
+  "overview": "Adopted as a child, new father Mel Colpin decides he cannot name his son until he knows his birth parents, and determines to make a cross-country quest to find them. Accompanied by his wife, Nancy, and an inept yet gorgeous adoption agent, Tina, he departs on an epic road trip that quickly devolves into a farce of mistaken identities, wrong turns, and overzealous and love-struck ATF agents.",
+  "release_date": "1996-03-22",
+  "runtime": 93,
+  "budget": 7000000,
+  "revenue": 14702438,
+  "tmdb_vote_average": 6.172,
+  "tmdb_vote_count": 264,
+  "tmdb_popularity": 0.6656,
+  "original_language": "en",
+  "poster_path": "/yfuYLKrOcSlzydbtwdHeAWddKO7.jpg",
+  "backdrop_path": "/gzlGNZczKeBsNskj8MLGlh0fIc1.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 14,
+      "name": "Miramax",
+      "origin_country": "US"
+    },
+    {
+      "id": 246675,
+      "name": "Dean Silvers Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 7399,
+      "name": "Ben Stiller",
+      "character": "Mel Coplin",
+      "order": 0,
+      "cast_id": 6,
+      "popularity": 5.5893,
+      "profile_path": "/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg"
+    },
+    {
+      "personId": 4687,
+      "name": "Patricia Arquette",
+      "character": "Nancy Coplin",
+      "order": 1,
+      "cast_id": 7,
+      "popularity": 4.1261,
+      "profile_path": "/jeThSouMatiuRiLkjDvSBLHpmq0.jpg"
+    },
+    {
+      "personId": 4939,
+      "name": "Téa Leoni",
+      "character": "Tina Kalb",
+      "order": 2,
+      "cast_id": 8,
+      "popularity": 4.7528,
+      "profile_path": "/vWijsKTlNs9bgKdUVgsr2w4msGo.jpg"
+    },
+    {
+      "personId": 21277,
+      "name": "Mary Tyler Moore",
+      "character": "Pearl Coplin",
+      "order": 3,
+      "cast_id": 9,
+      "popularity": 3.1749,
+      "profile_path": "/v4tIqWFbCcvqLrFhhHbeelR5f1l.jpg"
+    },
+    {
+      "personId": 18364,
+      "name": "George Segal",
+      "character": "Ed Coplin",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 1.6549,
+      "profile_path": "/nkAMWhWNdCaRp1wPOOsaXuWnwoB.jpg"
+    },
+    {
+      "personId": 21278,
+      "name": "Alan Alda",
+      "character": "Richard Schlichting",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 3.0882,
+      "profile_path": "/6ccCKFhXiMmjLoiFDyJaU4eJaQO.jpg"
+    },
+    {
+      "personId": 10437,
+      "name": "Lily Tomlin",
+      "character": "Mary Schlichting",
+      "order": 6,
+      "cast_id": 12,
+      "popularity": 1.6527,
+      "profile_path": "/eoFMSqRykiaXMGCiz7Kxehfqy1W.jpg"
+    },
+    {
+      "personId": 28633,
+      "name": "Richard Jenkins",
+      "character": "Paul Harmon",
+      "order": 7,
+      "cast_id": 15,
+      "popularity": 2.3489,
+      "profile_path": "/muT3RZG9hiKaKojD751RcQ5tGEy.jpg"
+    },
+    {
+      "personId": 16851,
+      "name": "Josh Brolin",
+      "character": "Tony Kent",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 8.493,
+      "profile_path": "/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+    },
+    {
+      "personId": 1989,
+      "name": "Celia Weston",
+      "character": "Valerie Swaney",
+      "order": 9,
+      "cast_id": 17,
+      "popularity": 1.7162,
+      "profile_path": "/pQYygvqfmKnK4weuUCLUX45q5AJ.jpg"
+    },
+    {
+      "personId": 10694,
+      "name": "Glenn Fitzgerald",
+      "character": "Lonnie Schlichting",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 0.7514,
+      "profile_path": "/2WLTC09IDaDB2Fz2rcIu9KeFzQG.jpg"
+    },
+    {
+      "personId": 1050399,
+      "name": "Beth Stern",
+      "character": "Jane",
+      "order": 11,
+      "cast_id": 19,
+      "popularity": 0.9698,
+      "profile_path": "/vVwvGxXgiOQHGWIl4SzepTWKUS6.jpg"
+    },
+    {
+      "personId": 149682,
+      "name": "Cynthia Lamontagne",
+      "character": "Sandra",
+      "order": 12,
+      "cast_id": 20,
+      "popularity": 1.1536,
+      "profile_path": "/wh3ZG5lXeS6aH68nyIruYJQxdDs.jpg"
+    },
+    {
+      "personId": 1737,
+      "name": "David Patrick Kelly",
+      "character": "Fritz Boudreau",
+      "order": 13,
+      "cast_id": 21,
+      "popularity": 2.1128,
+      "profile_path": "/bOPih90JJ2lCg3VXbNwpANHz8tm.jpg"
+    },
+    {
+      "personId": 175008,
+      "name": "John Ford Noonan",
+      "character": "Mitch",
+      "order": 14,
+      "cast_id": 22,
+      "popularity": 1.2173,
+      "profile_path": "/iGKhhvD9BfKvuqdc3iH4EbhTqYI.jpg"
+    },
+    {
+      "personId": 953732,
+      "name": "Charlet Oberly",
+      "character": "B&B Lady",
+      "order": 15,
+      "cast_id": 23,
+      "popularity": 0.0286,
+      "profile_path": null
+    },
+    {
+      "personId": 167604,
+      "name": "Nadia Dajani",
+      "character": "Jill",
+      "order": 16,
+      "cast_id": 24,
+      "popularity": 1.4146,
+      "profile_path": "/kpmBP0s5GRys5aNVjM0daShXFFa.jpg"
+    },
+    {
+      "personId": 1007,
+      "name": "Don Creech",
+      "character": "Cop #1",
+      "order": 17,
+      "cast_id": 25,
+      "popularity": 1.0621,
+      "profile_path": "/tNUnAKPneKllW5cdYVoesrhi0qf.jpg"
+    },
+    {
+      "personId": 1209608,
+      "name": "Clarke Bittner",
+      "character": "Cop #2",
+      "order": 18,
+      "cast_id": 26,
+      "popularity": 0.3064,
+      "profile_path": null
+    },
+    {
+      "personId": 1209609,
+      "name": "Tony Kruk",
+      "character": "Detective",
+      "order": 19,
+      "cast_id": 27,
+      "popularity": 0.9031,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 17883,
+      "name": "David O. Russell",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.9808,
+      "profile_path": "/59rXnJS4g5dUr1Hz8QNLo5epD2a.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 5498,
+      "name": "lsd"
+    },
+    {
+      "id": 6230,
+      "name": "looking for  birth parents"
+    },
+    {
+      "id": 6231,
+      "name": "half-brother"
+    }
+  ]
+}

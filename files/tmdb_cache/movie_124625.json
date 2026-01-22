@@ -1,0 +1,287 @@
+{
+  "overview": "The deportation of 4000 Jews from Budapest to Auschwitz in July 1944, as told by George Tabori, and how the narrator’s mother escaped it, owing to coincidence, courage and some help from where you’d least expect it.",
+  "release_date": "1995-09-12",
+  "runtime": 93,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.1,
+  "tmdb_vote_count": 8,
+  "tmdb_popularity": 0.185,
+  "original_language": "de",
+  "poster_path": "/s7kkNyAWJZuNuD30vrh8cY79AuU.jpg",
+  "backdrop_path": "/8MGJxdtOirqdLQV1H5aCSTuiD9F.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    {
+      "id": 224,
+      "name": "Wega Film",
+      "origin_country": "AT"
+    },
+    {
+      "id": 12999,
+      "name": "Sentana Filmproduktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 9291,
+      "name": "HR",
+      "origin_country": "DE"
+    },
+    {
+      "id": 7024,
+      "name": "Sender Freies Berlin",
+      "origin_country": "DE"
+    },
+    {
+      "id": 46,
+      "name": "WDR",
+      "origin_country": "DE"
+    },
+    {
+      "id": 3324,
+      "name": "BBC",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "AT",
+      "name": "Austria"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "de",
+      "name": "Deutsch"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 105793,
+      "name": "George Tabori",
+      "character": "George Tabori",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 0.2851,
+      "profile_path": null
+    },
+    {
+      "personId": 83437,
+      "name": "Pauline Collins",
+      "character": "Elsa Tabori",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 1.221,
+      "profile_path": "/s5z4i4ixiOdh7h4GoDsJ18YHGcS.jpg"
+    },
+    {
+      "personId": 8198,
+      "name": "Ulrich Tukur",
+      "character": "SS-Offizier",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 1.4927,
+      "profile_path": "/8cRioOXiW0FSN0eWysHWdl4leEf.jpg"
+    },
+    {
+      "personId": 1063202,
+      "name": "Natalie Morse",
+      "character": "Maria",
+      "order": 3,
+      "cast_id": 30,
+      "popularity": 1.6102,
+      "profile_path": null
+    },
+    {
+      "personId": 36494,
+      "name": "Robert Giggenbach",
+      "character": "Cornelius Tabori",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 0.4558,
+      "profile_path": "/dkcchtuSwBfHdMFf4BK77SUOLu7.jpg"
+    },
+    {
+      "personId": 37070,
+      "name": "Heribert Sasse",
+      "character": "Kelemen",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 0.748,
+      "profile_path": "/xodWNfnKGBcfYSYpbzGXx0Hby7k.jpg"
+    },
+    {
+      "personId": 1459462,
+      "name": "Günter Bothur",
+      "character": "",
+      "order": 6,
+      "cast_id": 31,
+      "popularity": 0.7779,
+      "profile_path": null
+    },
+    {
+      "personId": 18161,
+      "name": "Simon Verhoeven",
+      "character": "Junger SS-Mann",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 0.5663,
+      "profile_path": "/pcnQhdAgrjMAnbbk1fKLxO6hUl1.jpg"
+    },
+    {
+      "personId": 48371,
+      "name": "Buddy Elias",
+      "character": "Rabbi",
+      "order": 8,
+      "cast_id": 7,
+      "popularity": 0.4602,
+      "profile_path": null
+    },
+    {
+      "personId": 1168827,
+      "name": "Peter Radtke",
+      "character": "Man in Wheel Chair",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 0.682,
+      "profile_path": null
+    },
+    {
+      "personId": 61471,
+      "name": "Otto Grünmandl",
+      "character": "Julius",
+      "order": 10,
+      "cast_id": 32,
+      "popularity": 0.1435,
+      "profile_path": null
+    },
+    {
+      "personId": 25672,
+      "name": "Hana Frejková",
+      "character": "Martha",
+      "order": 11,
+      "cast_id": 33,
+      "popularity": 2.0852,
+      "profile_path": "/ut5OM23KyrLMkhyRqZKhvzWMQV2.jpg"
+    },
+    {
+      "personId": 7158,
+      "name": "Jens Harzer",
+      "character": "",
+      "order": 12,
+      "cast_id": 34,
+      "popularity": 0.5129,
+      "profile_path": "/gBX6h5IzCEAZaUmWY0NdrX6PPqf.jpg"
+    },
+    {
+      "personId": 47834,
+      "name": "Tatiana Dyková",
+      "character": "Olga",
+      "order": 13,
+      "cast_id": 27,
+      "popularity": 0.8819,
+      "profile_path": "/3JYxGajhsu6oIjnZHVMvAhxGnPk.jpg"
+    },
+    {
+      "personId": 1053359,
+      "name": "István Iglódi",
+      "character": "Usicky",
+      "order": 14,
+      "cast_id": 35,
+      "popularity": 0.2422,
+      "profile_path": "/4oSYhxAh9d8MXZxbd2SSF9cZyvj.jpg"
+    },
+    {
+      "personId": 18509,
+      "name": "Eddi Arent",
+      "character": "Klapka",
+      "order": 15,
+      "cast_id": 8,
+      "popularity": 0.5784,
+      "profile_path": "/8HXFKjtsM7jpDL8NZHuUiy3vYN6.jpg"
+    },
+    {
+      "personId": 1368070,
+      "name": "Wolfgang Gasser",
+      "character": "Agloof",
+      "order": 16,
+      "cast_id": 11,
+      "popularity": 0.6865,
+      "profile_path": null
+    },
+    {
+      "personId": 1115221,
+      "name": "Peter Mohrdieck",
+      "character": "Glatzkopf",
+      "order": 17,
+      "cast_id": 12,
+      "popularity": 0.4103,
+      "profile_path": null
+    },
+    {
+      "personId": 1366102,
+      "name": "Jindřich Bonaventura",
+      "character": "",
+      "order": 18,
+      "cast_id": 28,
+      "popularity": 0.2364,
+      "profile_path": null
+    },
+    {
+      "personId": 25716,
+      "name": "Jiří Knot",
+      "character": "German clerk",
+      "order": 19,
+      "cast_id": 29,
+      "popularity": 0.5014,
+      "profile_path": "/56y4SbTYfupvA28xj7pyFTaSEA7.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 26595,
+      "name": "Michael Verhoeven",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.9451,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 810,
+      "name": "budapest, hungary"
+    },
+    {
+      "id": 1739,
+      "name": "holocaust (shoah)"
+    },
+    {
+      "id": 2450,
+      "name": "auschwitz-birkenau concentration camp"
+    },
+    {
+      "id": 10939,
+      "name": "holocaust (shoah) survivor"
+    },
+    {
+      "id": 207883,
+      "name": "1940s"
+    }
+  ]
+}

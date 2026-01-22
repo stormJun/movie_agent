@@ -1,0 +1,145 @@
+{
+  "overview": "Dr. Clayton Forrester figures he can rule the world if he deadens his subjects' brains by making them endure terrible movies. Exploiting his access to nearby satellite-dwellers Mike Nelson and his robot pals, Crow T. Robot and Tom Servo, Forrester makes them watch \"This Island Earth\", a cheesy 1950s spaceship film. But when Mike and friends make funny comments throughout the movie and others that follow, Forrester's plan looks increasingly flimsy.",
+  "release_date": "1996-04-19",
+  "runtime": 73,
+  "budget": 5000000,
+  "revenue": 1000000,
+  "tmdb_vote_average": 6.516,
+  "tmdb_vote_count": 221,
+  "tmdb_popularity": 0.6283,
+  "original_language": "en",
+  "poster_path": "/tlakU3uwNiUgd7aOlb2RoAsGTnY.jpg",
+  "backdrop_path": "/hXD4z5xykt9G7SLXstUB96RFflh.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    {
+      "id": 37,
+      "name": "Gramercy Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1310,
+      "name": "Consolidated Puppets",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 30020,
+      "name": "Michael J. Nelson",
+      "character": "Mike Nelson",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 0.2558,
+      "profile_path": "/8yCJVVFtkrh6VmAnSBbmM9yqzYc.jpg"
+    },
+    {
+      "personId": 30019,
+      "name": "Trace Beaulieu",
+      "character": "Dr. Forrester / Crow T. Robot",
+      "order": 1,
+      "cast_id": 1,
+      "popularity": 0.6988,
+      "profile_path": "/2AB4g7ZSEU3Q5C5Bt6xthvOYK87.jpg"
+    },
+    {
+      "personId": 30022,
+      "name": "Kevin Murphy",
+      "character": "Tom Servo",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 0.3925,
+      "profile_path": "/s1REGBYFGc2Ibo7QlQ95cbjaq2m.jpg"
+    },
+    {
+      "personId": 30021,
+      "name": "Jim Mallon",
+      "character": "Gypsy",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 0.6566,
+      "profile_path": "/uYkTlmNjdqvOlzpU2YpXyDkb39K.jpg"
+    },
+    {
+      "personId": 30023,
+      "name": "John Brady",
+      "character": "Benkitnorf",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 0.2629,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 30021,
+      "name": "Jim Mallon",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6566,
+      "profile_path": "/uYkTlmNjdqvOlzpU2YpXyDkb39K.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6026,
+      "name": "cinema on cinema"
+    },
+    {
+      "id": 8201,
+      "name": "satire"
+    },
+    {
+      "id": 11931,
+      "name": "spoof"
+    },
+    {
+      "id": 14544,
+      "name": "robot"
+    },
+    {
+      "id": 14760,
+      "name": "scientist"
+    },
+    {
+      "id": 195114,
+      "name": "space adventure"
+    },
+    {
+      "id": 265010,
+      "name": "hubble"
+    },
+    {
+      "id": 269769,
+      "name": "based on tv series"
+    },
+    {
+      "id": 281237,
+      "name": "independent film"
+    },
+    {
+      "id": 281358,
+      "name": "science fiction"
+    }
+  ]
+}

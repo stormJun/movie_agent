@@ -1,0 +1,232 @@
+{
+  "overview": "A struggling American writer and a fellow American expatriate begin a sordid affair among the chaos and discord of 1940 Paris, France on the brink of World War II.",
+  "release_date": "1995-06-09",
+  "runtime": 99,
+  "budget": 0,
+  "revenue": 63174,
+  "tmdb_vote_average": 4.327,
+  "tmdb_vote_count": 49,
+  "tmdb_popularity": 1.7424,
+  "original_language": "en",
+  "poster_path": "/j43W5XkXR7u7uVAvfniEXiQ3Bpv.jpg",
+  "backdrop_path": "/opCNBkNTkGKBVjxRxd06UqnZKGZ.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 26109,
+      "name": "Evzen Kolar Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 2514,
+      "name": "Alliance Films",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 42325,
+      "name": "Audie England",
+      "character": "Elena Martin",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 0.9098,
+      "profile_path": "/wnZ2VRuSQH7eFWyd467bpE3lfT7.jpg"
+    },
+    {
+      "personId": 36055,
+      "name": "Costas Mandylor",
+      "character": "Lawrence Walters",
+      "order": 1,
+      "cast_id": 10,
+      "popularity": 2.0276,
+      "profile_path": "/yPkQdbhCj2EJM0cjDtkuJTlFp86.jpg"
+    },
+    {
+      "personId": 1048569,
+      "name": "Bernard Zette",
+      "character": "Donald",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 0.1853,
+      "profile_path": null
+    },
+    {
+      "personId": 1048570,
+      "name": "Eric da Silva",
+      "character": "Marcel",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 0.7752,
+      "profile_path": "/c7VoexEHz40xNkKxiYOpIa9GH05.jpg"
+    },
+    {
+      "personId": 1048571,
+      "name": "Rory Campbell",
+      "character": "Miguel",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 1.1343,
+      "profile_path": null
+    },
+    {
+      "personId": 1048572,
+      "name": "Raven Snow",
+      "character": "Leila",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 0.3919,
+      "profile_path": null
+    },
+    {
+      "personId": 31164,
+      "name": "Adewale Akinnuoye-Agbaje",
+      "character": "The Clairvoyant",
+      "order": 6,
+      "cast_id": 12,
+      "popularity": 1.8133,
+      "profile_path": "/zdtwVtVmmm7VzYfu8xH7mbuTvrH.jpg"
+    },
+    {
+      "personId": 231243,
+      "name": "Markéta Hrubešová",
+      "character": "Bijou",
+      "order": 7,
+      "cast_id": 13,
+      "popularity": 0.5656,
+      "profile_path": "/bSD06GSrUkDhtYimZFThfRbcnUJ.jpg"
+    },
+    {
+      "personId": 2055,
+      "name": "Robert Davi",
+      "character": "The Collector (voice)",
+      "order": 8,
+      "cast_id": 16,
+      "popularity": 2.4378,
+      "profile_path": "/yizOUAKs59CwKM6pU30gIP9gTup.jpg"
+    },
+    {
+      "personId": 2548205,
+      "name": "Emma Louise Moore",
+      "character": "Ariel",
+      "order": 9,
+      "cast_id": 17,
+      "popularity": 0.6619,
+      "profile_path": null
+    },
+    {
+      "personId": 10849,
+      "name": "Marek Vašut",
+      "character": "Luc",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 2.3804,
+      "profile_path": "/1gaHNNG8MuA3meaDHGi6Tb3Vw1K.jpg"
+    },
+    {
+      "personId": 2548208,
+      "name": "James Donahower",
+      "character": "Bandleader",
+      "order": 11,
+      "cast_id": 19,
+      "popularity": 0.1023,
+      "profile_path": null
+    },
+    {
+      "personId": 1296753,
+      "name": "Valérie Zawadská",
+      "character": "Landlady",
+      "order": 12,
+      "cast_id": 20,
+      "popularity": 1.9072,
+      "profile_path": "/b1ZpfRIV3ERr5pj69okFi5U4mW3.jpg"
+    },
+    {
+      "personId": 42638,
+      "name": "Stephen Halbert",
+      "character": "Harry",
+      "order": 13,
+      "cast_id": 21,
+      "popularity": 0.6066,
+      "profile_path": null
+    },
+    {
+      "personId": 100656,
+      "name": "Dale Wyatt",
+      "character": "Millicent",
+      "order": 14,
+      "cast_id": 22,
+      "popularity": 1.994,
+      "profile_path": "/by2uAIzt8BzUIGoGlF9n2IFx0h6.jpg"
+    },
+    {
+      "personId": 3259955,
+      "name": "Eva Duchkova",
+      "character": "Veiled Woman",
+      "order": 15,
+      "cast_id": 51,
+      "popularity": 0.234,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 42113,
+      "name": "Zalman King",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.0159,
+      "profile_path": "/7nB4hQFfqMAvW1U1glPOOkrihwK.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1326,
+      "name": "infidelity"
+    },
+    {
+      "id": 931,
+      "name": "jealousy"
+    },
+    {
+      "id": 90,
+      "name": "paris, france"
+    },
+    {
+      "id": 1956,
+      "name": "world war ii"
+    },
+    {
+      "id": 13028,
+      "name": "writer"
+    },
+    {
+      "id": 13065,
+      "name": "soldier"
+    },
+    {
+      "id": 34094,
+      "name": "extramarital affair"
+    }
+  ]
+}

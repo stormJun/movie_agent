@@ -1,0 +1,333 @@
+{
+  "overview": "Marcus Burnett is a henpecked family man. Mike Lowrey is a footloose and fancy free ladies' man. Both Miami policemen, they have 72 hours to reclaim a consignment of drugs stolen from under their station's nose. To complicate matters, in order to get the assistance of the sole witness to a murder, they have to pretend to be each other.",
+  "release_date": "1995-04-07",
+  "runtime": 119,
+  "budget": 19000000,
+  "revenue": 141407024,
+  "tmdb_vote_average": 6.825,
+  "tmdb_vote_count": 6748,
+  "tmdb_popularity": 10.388,
+  "original_language": "en",
+  "poster_path": "/x1ygBecKHfXX4M2kRhmFKWfWbJc.jpg",
+  "backdrop_path": "/wOLTJxfv98miIQcn0oNXq9fIgXM.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Comedy",
+    "Crime",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 10288,
+      "name": "Don Simpson/Jerry Bruckheimer Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2888,
+      "name": "Will Smith",
+      "character": "Mike Lowrey",
+      "order": 0,
+      "cast_id": 200,
+      "popularity": 7.0496,
+      "profile_path": "/8TlKqbXYgHmmaEoPBJ7djJ8Rxxa.jpg"
+    },
+    {
+      "personId": 78029,
+      "name": "Martin Lawrence",
+      "character": "Marcus Burnett",
+      "order": 1,
+      "cast_id": 1,
+      "popularity": 5.6723,
+      "profile_path": "/y3SQzIPUPJpdueb1DkbTYph68nk.jpg"
+    },
+    {
+      "personId": 4939,
+      "name": "Téa Leoni",
+      "character": "Julie Mott",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 4.7528,
+      "profile_path": "/vWijsKTlNs9bgKdUVgsr2w4msGo.jpg"
+    },
+    {
+      "personId": 10698,
+      "name": "Tchéky Karyo",
+      "character": "Fouchet",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 3.0146,
+      "profile_path": "/EcpFzLMmfz6fm4FrpamfFQ51pz.jpg"
+    },
+    {
+      "personId": 532,
+      "name": "Joe Pantoliano",
+      "character": "Captain Howard",
+      "order": 4,
+      "cast_id": 16,
+      "popularity": 4.2493,
+      "profile_path": "/3OHUI3nX4SYGGItDk3xqeIvWtIf.jpg"
+    },
+    {
+      "personId": 4604,
+      "name": "Theresa Randle",
+      "character": "Theresa Burnett",
+      "order": 5,
+      "cast_id": 19,
+      "popularity": 1.1203,
+      "profile_path": "/myBU9qG6wXHJfYF9cl07rvQmhUB.jpg"
+    },
+    {
+      "personId": 19838,
+      "name": "Marg Helgenberger",
+      "character": "Alison Sinclair",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 2.5092,
+      "profile_path": "/wPfXSAsk1l9Ry2sqN1Ei8GwjI9E.jpg"
+    },
+    {
+      "personId": 14331,
+      "name": "Nestor Serrano",
+      "character": "Detective Sanchez",
+      "order": 7,
+      "cast_id": 22,
+      "popularity": 1.9485,
+      "profile_path": "/imqFSX2BA87gifjGpNJApRaDC3V.jpg"
+    },
+    {
+      "personId": 17413,
+      "name": "Julio Oscar Mechoso",
+      "character": "Detective Ruiz",
+      "order": 8,
+      "cast_id": 23,
+      "popularity": 1.6812,
+      "profile_path": "/2m1vtlRlSxozMOoHeobCY2pbrPi.jpg"
+    },
+    {
+      "personId": 56691,
+      "name": "Saverio Guerra",
+      "character": "Chet The Doorman",
+      "order": 9,
+      "cast_id": 24,
+      "popularity": 1.0372,
+      "profile_path": "/liaGk1K3ZdJFkXUUvGEkMdDhz3n.jpg"
+    },
+    {
+      "personId": 3711,
+      "name": "Anna Thomson",
+      "character": "Francine",
+      "order": 10,
+      "cast_id": 20,
+      "popularity": 1.3069,
+      "profile_path": "/52deQc7eUzqoLfh2rpHtFKqLEle.jpg"
+    },
+    {
+      "personId": 18472,
+      "name": "Kevin Corrigan",
+      "character": "Elliot",
+      "order": 11,
+      "cast_id": 21,
+      "popularity": 1.9296,
+      "profile_path": "/obSUGc68mQDvFONalMg25Xw5GZM.jpg"
+    },
+    {
+      "personId": 11486,
+      "name": "Michael Imperioli",
+      "character": "Jojo",
+      "order": 12,
+      "cast_id": 18,
+      "popularity": 3.4147,
+      "profile_path": "/jfoEHR6BRMg8emtujXdM3G4JHIm.jpg"
+    },
+    {
+      "personId": 9313,
+      "name": "Lisa Boyle",
+      "character": "Girl Decoy",
+      "order": 13,
+      "cast_id": 30,
+      "popularity": 1.9876,
+      "profile_path": "/nRj7ROz2QZz93S0AGtc26a29mVb.jpg"
+    },
+    {
+      "personId": 87360,
+      "name": "Michael Taliferro",
+      "character": "Carjacker",
+      "order": 14,
+      "cast_id": 33,
+      "popularity": 0.9543,
+      "profile_path": "/8Z9Q25tfNE1CqnveRkj5FJtwIoJ.jpg"
+    },
+    {
+      "personId": 137416,
+      "name": "Emmanuel Xuereb",
+      "character": "Eddie Dominguez",
+      "order": 15,
+      "cast_id": 28,
+      "popularity": 1.9898,
+      "profile_path": "/7euWFldTnZgRh9DUjNXofkiE9G5.jpg"
+    },
+    {
+      "personId": 6908,
+      "name": "Marc Macaulay",
+      "character": "Noah Trafficante",
+      "order": 16,
+      "cast_id": 31,
+      "popularity": 1.2631,
+      "profile_path": "/89ms2YkIxl3LYOKojcKLTmmI8BB.jpg"
+    },
+    {
+      "personId": 147783,
+      "name": "Ralph Gonzalez",
+      "character": "Kuni",
+      "order": 17,
+      "cast_id": 29,
+      "popularity": 0.1682,
+      "profile_path": null
+    },
+    {
+      "personId": 147782,
+      "name": "Vic Manni",
+      "character": "Ferguson",
+      "order": 18,
+      "cast_id": 25,
+      "popularity": 0.8639,
+      "profile_path": null
+    },
+    {
+      "personId": 9275,
+      "name": "Frank John Hughes",
+      "character": "Casper",
+      "order": 19,
+      "cast_id": 26,
+      "popularity": 1.4317,
+      "profile_path": "/cPlPRD36uPNYMlPeoHjvmOc60iX.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 865,
+      "name": "Michael Bay",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 3.3957,
+      "profile_path": "/rkC7lei20x5xlFH4SivAXXBh6uR.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 416,
+      "name": "miami, florida"
+    },
+    {
+      "id": 1666,
+      "name": "mexican standoff"
+    },
+    {
+      "id": 3230,
+      "name": "male friendship"
+    },
+    {
+      "id": 4009,
+      "name": "witness protection"
+    },
+    {
+      "id": 6593,
+      "name": "stripper"
+    },
+    {
+      "id": 9844,
+      "name": "car crash"
+    },
+    {
+      "id": 3688,
+      "name": "strip club"
+    },
+    {
+      "id": 11730,
+      "name": "internal affairs"
+    },
+    {
+      "id": 11734,
+      "name": "police corruption"
+    },
+    {
+      "id": 12371,
+      "name": "gunfight"
+    },
+    {
+      "id": 14967,
+      "name": "foot chase"
+    },
+    {
+      "id": 18026,
+      "name": "drug lord"
+    },
+    {
+      "id": 161982,
+      "name": "murder investigation"
+    },
+    {
+      "id": 164246,
+      "name": "nostalgic"
+    },
+    {
+      "id": 166856,
+      "name": "hangar"
+    },
+    {
+      "id": 167114,
+      "name": "loose cannon"
+    },
+    {
+      "id": 167316,
+      "name": "buddy cop"
+    },
+    {
+      "id": 168679,
+      "name": "male camaraderie"
+    },
+    {
+      "id": 178849,
+      "name": "narcotics detective"
+    },
+    {
+      "id": 219404,
+      "name": "action hero"
+    },
+    {
+      "id": 222863,
+      "name": "buddy movie"
+    },
+    {
+      "id": 240379,
+      "name": "murder witness"
+    },
+    {
+      "id": 278876,
+      "name": "stolen drugs"
+    },
+    {
+      "id": 325775,
+      "name": "awestruck"
+    }
+  ]
+}

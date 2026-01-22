@@ -1,0 +1,247 @@
+{
+  "overview": "In 1925 Romania, young Marie-Therese Von Debretsy refuses the flirtatious advances of her husband's commanding officer. As a result, the cosmopolitan family is reassigned to a brutally bleak and dangerous outpost on the Bulgarian/Romanian frontier where both their relationship and humanity are severely tested.",
+  "release_date": "1994-06-15",
+  "runtime": 82,
+  "budget": 0,
+  "revenue": 65352,
+  "tmdb_vote_average": 5.84,
+  "tmdb_vote_count": 25,
+  "tmdb_popularity": 0.4038,
+  "original_language": "fr",
+  "poster_path": "/aQeuQzrl1bU4lSz7qklkJEnZTAx.jpg",
+  "backdrop_path": "/rwNg5z3kmiwIzPBVyOGHgy4xxz9.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance",
+    "War"
+  ],
+  "production_companies": [
+    {
+      "id": 6274,
+      "name": "MK2 Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 104,
+      "name": "Canal+",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "RO",
+      "name": "Romania"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "ro",
+      "name": "Română"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5470,
+      "name": "Kristin Scott Thomas",
+      "character": "Marie-Thérèse Von Debretsy",
+      "order": 0,
+      "cast_id": 1002,
+      "popularity": 3.344,
+      "profile_path": "/axksw0vAjBPSW02ZqpcC0V8rPD7.jpg"
+    },
+    {
+      "personId": 65648,
+      "name": "Claudiu Bleonţ",
+      "character": "Capt. Petre Dumitriu",
+      "order": 1,
+      "cast_id": 1003,
+      "popularity": 1.2989,
+      "profile_path": "/5ppwvXLq2ENAOikxwGUbPlhIh3O.jpg"
+    },
+    {
+      "personId": 556459,
+      "name": "Olga Tudorache",
+      "character": "Mme. Vorvoreanu",
+      "order": 2,
+      "cast_id": 1004,
+      "popularity": 0.4826,
+      "profile_path": "/aEChFd8nvzhXP9GjNApG7cNLrRd.jpg"
+    },
+    {
+      "personId": 592763,
+      "name": "George Constantin",
+      "character": "Gen. Tchilibia",
+      "order": 3,
+      "cast_id": 1005,
+      "popularity": 0.6958,
+      "profile_path": "/s5ILG3EkpzwtgsfwsBe5y2tZWUh.jpg"
+    },
+    {
+      "personId": 592764,
+      "name": "Ion Pavlescu",
+      "character": "Serban Lescari",
+      "order": 4,
+      "cast_id": 1006,
+      "popularity": 0.5926,
+      "profile_path": null
+    },
+    {
+      "personId": 15320,
+      "name": "Marcel Iureș",
+      "character": "Gen. Ipsilanti",
+      "order": 5,
+      "cast_id": 1007,
+      "popularity": 1.3141,
+      "profile_path": "/9dDHAnFju2786NXnYFzLBIg6IzW.jpg"
+    },
+    {
+      "personId": 55507,
+      "name": "Răzvan Vasilescu",
+      "character": "Lt. Turtureanu",
+      "order": 6,
+      "cast_id": 1008,
+      "popularity": 0.6129,
+      "profile_path": "/gAoVKmGp14BkcMGfPn3t0RFc2oq.jpg"
+    },
+    {
+      "personId": 1413085,
+      "name": "Cornel Scripcaru",
+      "character": "",
+      "order": 7,
+      "cast_id": 1024,
+      "popularity": 0.2908,
+      "profile_path": "/tyfIC4LcFZN5Vw0WgyTZLil9X26.jpg"
+    },
+    {
+      "personId": 1427215,
+      "name": "Tamara Creţulescu",
+      "character": "",
+      "order": 8,
+      "cast_id": 1025,
+      "popularity": 0.432,
+      "profile_path": "/kOX8uWkyXLImnxfQ4ihmlxaVxvQ.jpg"
+    },
+    {
+      "personId": 1015817,
+      "name": "Carmen Ungureanu ",
+      "character": "",
+      "order": 9,
+      "cast_id": 1026,
+      "popularity": 0.2976,
+      "profile_path": null
+    },
+    {
+      "personId": 125280,
+      "name": "Mihai Constantin",
+      "character": "",
+      "order": 10,
+      "cast_id": 1027,
+      "popularity": 0.5737,
+      "profile_path": "/s13hP5kZLwBlC3NN0lXDSHtwRIy.jpg"
+    },
+    {
+      "personId": 49314,
+      "name": "Ioan Gyuri Pascu",
+      "character": "",
+      "order": 11,
+      "cast_id": 1028,
+      "popularity": 0.2149,
+      "profile_path": "/6GnUBoUfQW3eoi7qKDltEeJnonT.jpg"
+    },
+    {
+      "personId": 1126304,
+      "name": "Dragoș Pîslaru",
+      "character": "",
+      "order": 12,
+      "cast_id": 1029,
+      "popularity": 0.2883,
+      "profile_path": "/osZdiZ0bVXrycvn9IELPLq0EuuO.jpg"
+    },
+    {
+      "personId": 102016,
+      "name": "Dorina Lazăr",
+      "character": "",
+      "order": 13,
+      "cast_id": 1030,
+      "popularity": 0.4747,
+      "profile_path": "/kZL8zUNmBtmKmfR9lcfg799LDNh.jpg"
+    },
+    {
+      "personId": 592228,
+      "name": "Magda Catone",
+      "character": "",
+      "order": 14,
+      "cast_id": 1031,
+      "popularity": 0.4564,
+      "profile_path": "/6d9SwLTQQpx0t28XemrMBDsYeio.jpg"
+    },
+    {
+      "personId": 1124900,
+      "name": "Manuela Ciucur",
+      "character": "",
+      "order": 15,
+      "cast_id": 1032,
+      "popularity": 0.3268,
+      "profile_path": "/u2k70aBiZFxkMyIYsKFUGwMvjgC.jpg"
+    },
+    {
+      "personId": 1130128,
+      "name": "Emilia Popescu",
+      "character": "",
+      "order": 16,
+      "cast_id": 1033,
+      "popularity": 0.4629,
+      "profile_path": "/ushLkRjUw4c37NqdwjB37R9CXqZ.jpg"
+    },
+    {
+      "personId": 55528,
+      "name": "Florin Călinescu",
+      "character": "",
+      "order": 17,
+      "cast_id": 1034,
+      "popularity": 0.7033,
+      "profile_path": "/pzR00sVFCvXqB7QJw8Zgnxp28pe.jpg"
+    },
+    {
+      "personId": 1048508,
+      "name": "Cristian Irimia",
+      "character": "",
+      "order": 18,
+      "cast_id": 1035,
+      "popularity": 0.0723,
+      "profile_path": null
+    },
+    {
+      "personId": 2154767,
+      "name": "Mihai Brătilă",
+      "character": "",
+      "order": 19,
+      "cast_id": 1036,
+      "popularity": 0.1082,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 592762,
+      "name": "Lucian Pintilie",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.9432,
+      "profile_path": "/liFGy8mRQMJDEZKqo8M06t9nH9v.jpg"
+    }
+  ],
+  "keywords": []
+}

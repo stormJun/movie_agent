@@ -1,0 +1,215 @@
+{
+  "overview": "Based on Jim Harrison's book, \"Farmer\". 47-year-old Joseph Svenden lives on the family farm with his dying mother and teaches at a two room schoolhouse with Rosealee, his lover and his best friend's widow. Joseph, who lacks a college degree, learns that he will lose his teaching job at the end of the year when the school district expands into his town. Meanwhile, he is seduced by 17-year-old Catherine, a new student in his class. His affair with Catherine and losing his teaching job forces Joseph to take a look at his previously dull life and to decide how he wants to live the rest of it.",
+  "release_date": "1996-01-26",
+  "runtime": 109,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.4,
+  "tmdb_vote_count": 18,
+  "tmdb_popularity": 0.6879,
+  "original_language": "en",
+  "poster_path": "/58pT6TIvkQNJYefpeKFa3nBwcSr.jpg",
+  "backdrop_path": "/mwZJ3W1V2UAS8JhxrDqtltyNOIJ.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 8,
+      "name": "Fine Line Features",
+      "origin_country": "US"
+    },
+    {
+      "id": 10399,
+      "name": "CineTel Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2778,
+      "name": "Dennis Hopper",
+      "character": "Joseph Svenden",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.9959,
+      "profile_path": "/kqyNvLHi5RZGZcZMxl7e6XvoB5U.jpg"
+    },
+    {
+      "personId": 27563,
+      "name": "Amy Irving",
+      "character": "Rosealee Henson",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.7551,
+      "profile_path": "/skJ1jxHZCbBL3fl3hf8LTjiLwhk.jpg"
+    },
+    {
+      "personId": 21412,
+      "name": "Amy Locane",
+      "character": "Catherine Wheeler",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 1.0199,
+      "profile_path": "/kzbLeGmII0LIiJ1efSwFr7D9zwh.jpg"
+    },
+    {
+      "personId": 2750,
+      "name": "Julie Harris",
+      "character": "Joseph's Mother",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 0.9195,
+      "profile_path": "/bs9yUHWYQ4H3wNz3mI6BqMJPxNb.jpg"
+    },
+    {
+      "personId": 2048,
+      "name": "Gary Busey",
+      "character": "Major Nathan Wheeler",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 3.4081,
+      "profile_path": "/8H7Hlv6b7ZoK4jZKeLnc2i4pfPL.jpg"
+    },
+    {
+      "personId": 11066,
+      "name": "Hal Holbrook",
+      "character": "Doctor Evans",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 2.6237,
+      "profile_path": "/cnhje99hbqldY1wimQTKpApvj1n.jpg"
+    },
+    {
+      "personId": 15311,
+      "name": "Christopher Pettiet",
+      "character": "Robert Henson",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 0.6197,
+      "profile_path": "/zuVb7NpQcOBrKq08wGbCUxvQM56.jpg"
+    },
+    {
+      "personId": 11793,
+      "name": "Priscilla Pointer",
+      "character": "Lily Henson",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 0.8858,
+      "profile_path": "/sLuwocnvy9QmJ9AOG7QKbi0PN0N.jpg"
+    },
+    {
+      "personId": 2859,
+      "name": "Gail Cronauer",
+      "character": "Beverly",
+      "order": 8,
+      "cast_id": 10,
+      "popularity": 0.86,
+      "profile_path": "/wTLEWlXbkd17gImST3kApddu973.jpg"
+    },
+    {
+      "personId": 177905,
+      "name": "Joe Stevens",
+      "character": "School Board Man",
+      "order": 9,
+      "cast_id": 11,
+      "popularity": 2.8414,
+      "profile_path": "/pCflBRau0xOGR17W1kzue7ySVqv.jpg"
+    },
+    {
+      "personId": 949252,
+      "name": "Connie Cooper",
+      "character": "Charlotte",
+      "order": 10,
+      "cast_id": 12,
+      "popularity": 0.2165,
+      "profile_path": null
+    },
+    {
+      "personId": 977465,
+      "name": "Eleese Lester",
+      "character": "Marie",
+      "order": 11,
+      "cast_id": 13,
+      "popularity": 0.3783,
+      "profile_path": "/fJU3oXutnkdliZ2rGCtb4yDsG1B.jpg"
+    },
+    {
+      "personId": 1538126,
+      "name": "Doug Jackson",
+      "character": "Frank",
+      "order": 12,
+      "cast_id": 17,
+      "popularity": 0.3348,
+      "profile_path": "/9gckQURhFB2pkqsle6kTSo5XOy2.jpg"
+    },
+    {
+      "personId": 116428,
+      "name": "Todd Duffey",
+      "character": "Young Joseph",
+      "order": 13,
+      "cast_id": 19,
+      "popularity": 1.3149,
+      "profile_path": "/lzrStdkGxc6cFOYR2JFuv9pnJeH.jpg"
+    },
+    {
+      "personId": 985709,
+      "name": "Linda Coleman",
+      "character": "Young Joseph's Mother",
+      "order": 14,
+      "cast_id": 40,
+      "popularity": 0.2088,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 69719,
+      "name": "Bruno Barreto",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6431,
+      "profile_path": "/rfoIOJvo7jcRuPY17u3BwUOTNbn.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 4932,
+      "name": "farm"
+    },
+    {
+      "id": 4129,
+      "name": "widow"
+    },
+    {
+      "id": 10508,
+      "name": "teacher"
+    },
+    {
+      "id": 14534,
+      "name": "relationship"
+    },
+    {
+      "id": 15319,
+      "name": "attraction"
+    }
+  ]
+}

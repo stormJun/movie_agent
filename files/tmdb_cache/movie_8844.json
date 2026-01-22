@@ -1,0 +1,282 @@
+{
+  "overview": "When siblings Judy and Peter discover an enchanted board game that opens the door to a magical world, they unwittingly invite Alan -- an adult who's been trapped inside the game for 26 years -- into their living room. Alan's only hope for freedom is to finish the game, which proves risky as all three find themselves running from giant rhinoceroses, evil monkeys and other terrifying creatures.",
+  "release_date": "1995-12-15",
+  "runtime": 104,
+  "budget": 65000000,
+  "revenue": 262821940,
+  "tmdb_vote_average": 7.244,
+  "tmdb_vote_count": 11029,
+  "tmdb_popularity": 4.0186,
+  "original_language": "en",
+  "poster_path": "/vgpXmVaVyUL7GGiDeiK1mKEKzcX.jpg",
+  "backdrop_path": "/qSxeCfWUUyht9hZgaaYmtPtTkw2.jpg",
+  "tmdb_genres_raw": [
+    "Adventure",
+    "Fantasy",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 559,
+      "name": "TriStar Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 10201,
+      "name": "Interscope Communications",
+      "origin_country": "US"
+    },
+    {
+      "id": 2550,
+      "name": "Teitler Film",
+      "origin_country": "US"
+    },
+    {
+      "id": 1382,
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2157,
+      "name": "Robin Williams",
+      "character": "Alan Parrish",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.8987,
+      "profile_path": "/sojtJyIV3lkUeThD7A2oHNm8183.jpg"
+    },
+    {
+      "personId": 205,
+      "name": "Kirsten Dunst",
+      "character": "Judy Shepherd",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 7.2329,
+      "profile_path": "/yhLKGjuiMMdbGnFrR8AREkCZcVF.jpg"
+    },
+    {
+      "personId": 145151,
+      "name": "Bradley Pierce",
+      "character": "Peter Shepherd",
+      "order": 2,
+      "cast_id": 24,
+      "popularity": 1.6434,
+      "profile_path": "/j6iW0vVA23GQniAPSYI6mi4hiEW.jpg"
+    },
+    {
+      "personId": 5149,
+      "name": "Bonnie Hunt",
+      "character": "Sarah Whittle",
+      "order": 3,
+      "cast_id": 10,
+      "popularity": 3.8782,
+      "profile_path": "/tT9C6uLztgN8OxJULq6F9iEzqlA.jpg"
+    },
+    {
+      "personId": 8537,
+      "name": "Jonathan Hyde",
+      "character": "Samuel Alan Parrish / Van Pelt",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 2.3835,
+      "profile_path": "/1uhT5uzPkBRCb57RtR6C9MvgteC.jpg"
+    },
+    {
+      "personId": 10739,
+      "name": "Bebe Neuwirth",
+      "character": "Nora Shepherd",
+      "order": 5,
+      "cast_id": 25,
+      "popularity": 3.3594,
+      "profile_path": "/yFOdER8Fc07DU6U3kq2PRcbvDR.jpg"
+    },
+    {
+      "personId": 58563,
+      "name": "David Alan Grier",
+      "character": "Carl Bentley",
+      "order": 6,
+      "cast_id": 26,
+      "popularity": 1.7393,
+      "profile_path": "/2BJ2sueZu98fOMZ9Z1tbUzUTxw9.jpg"
+    },
+    {
+      "personId": 46530,
+      "name": "Adam Hann-Byrd",
+      "character": "Young Alan",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 1.4328,
+      "profile_path": "/54DcXar17ggNEc5oACCa1pu8rEB.jpg"
+    },
+    {
+      "personId": 1276,
+      "name": "Patricia Clarkson",
+      "character": "Carol Anne Parrish",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 3.3756,
+      "profile_path": "/rHHM9G83fpBAcFathbSyV4Tot5j.jpg"
+    },
+    {
+      "personId": 56523,
+      "name": "Laura Bell Bundy",
+      "character": "Young Sarah",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 1.4098,
+      "profile_path": "/u2jEH4n630lCXKV9GaUkmRV5vu4.jpg"
+    },
+    {
+      "personId": 51551,
+      "name": "James Handy",
+      "character": "Exterminator",
+      "order": 10,
+      "cast_id": 31,
+      "popularity": 1.3416,
+      "profile_path": "/j2vG5tc8OcpcKG8eufBEMn2oiqZ.jpg"
+    },
+    {
+      "personId": 56522,
+      "name": "Gillian Barber",
+      "character": "Mrs. Thomas",
+      "order": 11,
+      "cast_id": 12,
+      "popularity": 1.1451,
+      "profile_path": "/9ARa8Bw1s4dZzZyEMHDti8fwPbx.jpg"
+    },
+    {
+      "personId": 1000304,
+      "name": "Brandon Obray",
+      "character": "Benjamin",
+      "order": 12,
+      "cast_id": 28,
+      "popularity": 0.2917,
+      "profile_path": null
+    },
+    {
+      "personId": 1234882,
+      "name": "Cyrus Thiedeke",
+      "character": "Caleb",
+      "order": 13,
+      "cast_id": 29,
+      "popularity": 1.9148,
+      "profile_path": null
+    },
+    {
+      "personId": 1076551,
+      "name": "Gary Joseph Thorup",
+      "character": "Billy Jessup",
+      "order": 14,
+      "cast_id": 30,
+      "popularity": 0.3747,
+      "profile_path": null
+    },
+    {
+      "personId": 1480246,
+      "name": "Leonard Zola",
+      "character": "Cop",
+      "order": 15,
+      "cast_id": 32,
+      "popularity": 0.1124,
+      "profile_path": null
+    },
+    {
+      "personId": 25024,
+      "name": "Lloyd Berry",
+      "character": "Bum",
+      "order": 16,
+      "cast_id": 33,
+      "popularity": 0.9446,
+      "profile_path": "/12wtrZPPwWrCpMul8k8TbcxQWuU.jpg"
+    },
+    {
+      "personId": 27110,
+      "name": "Malcolm Stewart",
+      "character": "Jim Shepherd",
+      "order": 17,
+      "cast_id": 34,
+      "popularity": 1.2896,
+      "profile_path": "/eNcMvAYc6AwHeZ8bdBOzja61DvE.jpg"
+    },
+    {
+      "personId": 53715,
+      "name": "Annabel Kershaw",
+      "character": "Martha Shepherd",
+      "order": 18,
+      "cast_id": 35,
+      "popularity": 1.0111,
+      "profile_path": "/8COfAAk3KLlCAgSgGrRo3OynV9d.jpg"
+    },
+    {
+      "personId": 1379424,
+      "name": "Darryl Henriques",
+      "character": "Gun Salesman",
+      "order": 19,
+      "cast_id": 36,
+      "popularity": 2.1687,
+      "profile_path": "/sI64BB2hK8Bk4XoPrZjBIgvoHML.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 4945,
+      "name": "Joe Johnston",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.9301,
+      "profile_path": "/fbGZo6CG9Z9zKFh8D5wHunyu7gJ.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 7035,
+      "name": "giant insect"
+    },
+    {
+      "id": 10090,
+      "name": "board game"
+    },
+    {
+      "id": 10941,
+      "name": "disappearance"
+    },
+    {
+      "id": 10787,
+      "name": "jungle"
+    },
+    {
+      "id": 158086,
+      "name": "recluse"
+    },
+    {
+      "id": 221178,
+      "name": "stampede"
+    },
+    {
+      "id": 246466,
+      "name": "based on young adult novel"
+    },
+    {
+      "id": 325856,
+      "name": "vibrant"
+    }
+  ]
+}

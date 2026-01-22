@@ -1,0 +1,338 @@
+{
+  "overview": "Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who's been turned into a mysterious beast. With the help of the castle's enchanted staff, Belle soon learns the most important lesson of all -- that true beauty comes from within.",
+  "release_date": "1991-10-22",
+  "runtime": 84,
+  "budget": 25000000,
+  "revenue": 424967620,
+  "tmdb_vote_average": 7.728,
+  "tmdb_vote_count": 10445,
+  "tmdb_popularity": 12.8254,
+  "original_language": "en",
+  "poster_path": "/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
+  "backdrop_path": "/fW4ZCoEZRBqLAJGFQ2g5AdAfPQR.jpg",
+  "tmdb_genres_raw": [
+    "Romance",
+    "Family",
+    "Animation",
+    "Fantasy"
+  ],
+  "production_companies": [
+    {
+      "id": 10282,
+      "name": "Silver Screen Partners IV",
+      "origin_country": "US"
+    },
+    {
+      "id": 171656,
+      "name": "Walt Disney Feature Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 2,
+      "name": "Walt Disney Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 62050,
+      "name": "Paige O'Hara",
+      "character": "Belle (voice)",
+      "order": 0,
+      "cast_id": 10,
+      "popularity": 0.6875,
+      "profile_path": "/g61DJhK2rUOJJ2Rk4Kw0svUPWRh.jpg"
+    },
+    {
+      "personId": 15048,
+      "name": "Robby Benson",
+      "character": "Beast (voice)",
+      "order": 1,
+      "cast_id": 11,
+      "popularity": 5.0244,
+      "profile_path": "/rYcDiM9LrStdlcb80N3WAR2CsHX.jpg"
+    },
+    {
+      "personId": 108055,
+      "name": "Richard White",
+      "character": "Gaston (voice)",
+      "order": 2,
+      "cast_id": 12,
+      "popularity": 1.0641,
+      "profile_path": "/ffrXvosdpVWd00neXUyposGNViF.jpg"
+    },
+    {
+      "personId": 725,
+      "name": "Jerry Orbach",
+      "character": "Lumiere (voice)",
+      "order": 3,
+      "cast_id": 13,
+      "popularity": 2.2568,
+      "profile_path": "/36Bsh8VKClXn6diVnEbDLgniBF4.jpg"
+    },
+    {
+      "personId": 28010,
+      "name": "David Ogden Stiers",
+      "character": "Cogsworth (voice)",
+      "order": 4,
+      "cast_id": 14,
+      "popularity": 2.0971,
+      "profile_path": "/cgCTQt3RZVkhkusG77l4HwHEH6A.jpg"
+    },
+    {
+      "personId": 14730,
+      "name": "Angela Lansbury",
+      "character": "Mrs. Potts (voice)",
+      "order": 5,
+      "cast_id": 15,
+      "popularity": 3.0305,
+      "profile_path": "/gGAWbfMqhJnXzC8dRLeOSXOo9vO.jpg"
+    },
+    {
+      "personId": 170970,
+      "name": "Rex Everhart",
+      "character": "Maurice (voice)",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 0.4577,
+      "profile_path": "/dX5HOEcUl6Amx9btPN3jCnSloOO.jpg"
+    },
+    {
+      "personId": 75599,
+      "name": "Jesse Corti",
+      "character": "Lefou (voice)",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 1.4668,
+      "profile_path": "/oI6zfkWgkMP3UFT5KCi5B6etzCa.jpg"
+    },
+    {
+      "personId": 145151,
+      "name": "Bradley Pierce",
+      "character": "Chip (voice)",
+      "order": 8,
+      "cast_id": 16,
+      "popularity": 1.5345,
+      "profile_path": "/j6iW0vVA23GQniAPSYI6mi4hiEW.jpg"
+    },
+    {
+      "personId": 25627,
+      "name": "Hal Smith",
+      "character": "Philippe (voice)",
+      "order": 9,
+      "cast_id": 51,
+      "popularity": 1.651,
+      "profile_path": "/xVXbKpSgCHvP5ymJNeB1fyf4GMP.jpg"
+    },
+    {
+      "personId": 166994,
+      "name": "Jo Anne Worley",
+      "character": "Wardrobe (voice)",
+      "order": 10,
+      "cast_id": 20,
+      "popularity": 0.6068,
+      "profile_path": "/EzPTRJ2GxUFgYo6JXw19G2JDb3.jpg"
+    },
+    {
+      "personId": 30695,
+      "name": "Mary Kay Bergman",
+      "character": "Bimbette (voice)",
+      "order": 11,
+      "cast_id": 21,
+      "popularity": 0.8613,
+      "profile_path": "/heTLLKqi4g7QqFa2JtOfoOGNpWh.jpg"
+    },
+    {
+      "personId": 60739,
+      "name": "Kath Soucie",
+      "character": "Bimbette (voice)",
+      "order": 12,
+      "cast_id": 104,
+      "popularity": 2.7582,
+      "profile_path": "/62hvT4USvGa9OAsMP9guIBtJqkf.jpg"
+    },
+    {
+      "personId": 170898,
+      "name": "Alvin Epstein",
+      "character": "Bookseller (voice)",
+      "order": 13,
+      "cast_id": 23,
+      "popularity": 0.4419,
+      "profile_path": "/ulT5IYEjCYC8HJkUIrXlUz6h7e4.jpg"
+    },
+    {
+      "personId": 65598,
+      "name": "Tony Jay",
+      "character": "Monsieur D'Arque (voice)",
+      "order": 14,
+      "cast_id": 24,
+      "popularity": 1.7801,
+      "profile_path": "/uj5BYkgIJ5xyjosHcwrTM6cemel.jpg"
+    },
+    {
+      "personId": 81842,
+      "name": "Brian Cummings",
+      "character": "Stove (voice)",
+      "order": 15,
+      "cast_id": 22,
+      "popularity": 0.8244,
+      "profile_path": "/4q4Y9qVTPh3og39kGNWkNCmMJAx.jpg"
+    },
+    {
+      "personId": 1889421,
+      "name": "Alec Murphy",
+      "character": "Baker (voice)",
+      "order": 16,
+      "cast_id": 116,
+      "popularity": 0.126,
+      "profile_path": null
+    },
+    {
+      "personId": 6727,
+      "name": "Kimmy Robertson",
+      "character": "Featherduster (voice)",
+      "order": 17,
+      "cast_id": 103,
+      "popularity": 1.1456,
+      "profile_path": "/nZAiIyKFNHfVdgEjvdBIPOb8m0B.jpg"
+    },
+    {
+      "personId": 15831,
+      "name": "Frank Welker",
+      "character": "Footstool (voice)",
+      "order": 18,
+      "cast_id": 105,
+      "popularity": 5.2376,
+      "profile_path": "/xXODQ5AX6pG4my8ieeEIuiAREXs.jpg"
+    },
+    {
+      "personId": 1615298,
+      "name": "Alex Murphy",
+      "character": "Baker (voice)",
+      "order": 19,
+      "cast_id": 102,
+      "popularity": 0.0957,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 62047,
+      "name": "Gary Trousdale",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1609,
+      "profile_path": "/yczbyaRGnhWYGU5OeFtTrzVaR87.jpg"
+    },
+    {
+      "personId": 62048,
+      "name": "Kirk Wise",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.2486,
+      "profile_path": "/7UjxOiWuIXGUrxHNSNZ7eaUCgHm.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 7376,
+      "name": "princess"
+    },
+    {
+      "id": 254,
+      "name": "france"
+    },
+    {
+      "id": 3071,
+      "name": "prince"
+    },
+    {
+      "id": 3098,
+      "name": "castle"
+    },
+    {
+      "id": 3289,
+      "name": "villain"
+    },
+    {
+      "id": 3259,
+      "name": "rose"
+    },
+    {
+      "id": 4232,
+      "name": "melancholy"
+    },
+    {
+      "id": 4344,
+      "name": "musical"
+    },
+    {
+      "id": 4924,
+      "name": "insane asylum"
+    },
+    {
+      "id": 161271,
+      "name": "beast"
+    },
+    {
+      "id": 179411,
+      "name": "based on fairy tale"
+    },
+    {
+      "id": 226028,
+      "name": "eccentric man"
+    },
+    {
+      "id": 240422,
+      "name": "wonder"
+    },
+    {
+      "id": 240461,
+      "name": "dedication"
+    },
+    {
+      "id": 245415,
+      "name": "toxic masculinity"
+    },
+    {
+      "id": 316832,
+      "name": "tense"
+    },
+    {
+      "id": 324429,
+      "name": "romantic"
+    },
+    {
+      "id": 325804,
+      "name": "earnest"
+    },
+    {
+      "id": 325807,
+      "name": "enchant"
+    },
+    {
+      "id": 325824,
+      "name": "hopeful"
+    },
+    {
+      "id": 325849,
+      "name": "sincere"
+    }
+  ]
+}

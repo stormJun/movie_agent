@@ -1,0 +1,205 @@
+{
+  "overview": "Joe and Lucy are roommates and best friends. Lucy, whose love life is embarrassingly dull, convinces Joe, who is infatuated with a neighbor he's never met, that if they don't have stable romances within a month, they must jump off the Brooklyn Bridge.",
+  "release_date": "1996-03-08",
+  "runtime": 92,
+  "budget": 5000000,
+  "revenue": 2420162,
+  "tmdb_vote_average": 5.3,
+  "tmdb_vote_count": 59,
+  "tmdb_popularity": 0.738,
+  "original_language": "en",
+  "poster_path": "/l3Bwmjdon6JBDzJUA3ZSdMZZ7lI.jpg",
+  "backdrop_path": "/9OM746UZPI8PJxafovfNgR7IlVK.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 559,
+      "name": "TriStar Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 2090,
+      "name": "Motion Picture Corporation of America",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "it",
+      "name": "Italiano"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 520,
+      "name": "Sarah Jessica Parker",
+      "character": "Lucy Ackerman",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 3.3099,
+      "profile_path": "/tEhHY7Uyn8VktwLhawBRuR0tdaJ.jpg"
+    },
+    {
+      "personId": 68185,
+      "name": "Eric Schaeffer",
+      "character": "Joe MacGonaughgill",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 1.385,
+      "profile_path": "/rXuDlJrIaU7Sc01nCAe5faHfKGM.jpg"
+    },
+    {
+      "personId": 7399,
+      "name": "Ben Stiller",
+      "character": "Bwick Elias",
+      "order": 2,
+      "cast_id": 14,
+      "popularity": 5.5893,
+      "profile_path": "/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg"
+    },
+    {
+      "personId": 5590,
+      "name": "Elle Macpherson",
+      "character": "Jane Lindquist",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.1866,
+      "profile_path": "/eIuwJxRydMeHnyjhFPPzQ88Hbx1.jpg"
+    },
+    {
+      "personId": 8986,
+      "name": "James Rebhorn",
+      "character": "Simon Ackerman",
+      "order": 4,
+      "cast_id": 15,
+      "popularity": 2.1243,
+      "profile_path": "/jRdR3q28gTPQU6eWRgiIqzGuMKU.jpg"
+    },
+    {
+      "personId": 31512,
+      "name": "Robert John Burke",
+      "character": "Handsome Man",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 2.4179,
+      "profile_path": "/4uCjxK6QmPW98W56aCldwINSOcX.jpg"
+    },
+    {
+      "personId": 1245,
+      "name": "Scarlett Johansson",
+      "character": "Emily",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 21.5594,
+      "profile_path": "/mjReG6rR7NPMEIWb1T4YWtV11ty.jpg"
+    },
+    {
+      "personId": 68186,
+      "name": "Dominic Chianese",
+      "character": "Al",
+      "order": 7,
+      "cast_id": 6,
+      "popularity": 1.4826,
+      "profile_path": "/wJIybLAbVv6VEPFpZtpxRW26aq2.jpg"
+    },
+    {
+      "personId": 68187,
+      "name": "Emily Hart",
+      "character": "Eddy",
+      "order": 8,
+      "cast_id": 8,
+      "popularity": 0.8553,
+      "profile_path": null
+    },
+    {
+      "personId": 76526,
+      "name": "David Thornton",
+      "character": "Ted",
+      "order": 9,
+      "cast_id": 32,
+      "popularity": 2.3548,
+      "profile_path": "/jKlG3icyzBrpOqPoimRmENf3tPf.jpg"
+    },
+    {
+      "personId": 2504473,
+      "name": "Michael Storms",
+      "character": "Sam",
+      "order": 10,
+      "cast_id": 34,
+      "popularity": 0.1093,
+      "profile_path": null
+    },
+    {
+      "personId": 2504474,
+      "name": "Jason Myers",
+      "character": "Billy",
+      "order": 11,
+      "cast_id": 35,
+      "popularity": 0.234,
+      "profile_path": null
+    },
+    {
+      "personId": 32029,
+      "name": "Bill Sage",
+      "character": "Dick",
+      "order": 12,
+      "cast_id": 36,
+      "popularity": 1.6908,
+      "profile_path": "/3q2r6eDcC843GgVHVA7mSehcqC9.jpg"
+    },
+    {
+      "personId": 180770,
+      "name": "Lisa Gerstein",
+      "character": "Saleswoman",
+      "order": 13,
+      "cast_id": 37,
+      "popularity": 0.1715,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 68185,
+      "name": "Eric Schaeffer",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.385,
+      "profile_path": "/rXuDlJrIaU7Sc01nCAe5faHfKGM.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1253,
+      "name": "roommates"
+    },
+    {
+      "id": 9457,
+      "name": "single"
+    },
+    {
+      "id": 9673,
+      "name": "love"
+    },
+    {
+      "id": 12392,
+      "name": "best friend"
+    },
+    {
+      "id": 158967,
+      "name": "brooklyn bridge"
+    }
+  ]
+}

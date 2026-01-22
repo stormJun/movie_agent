@@ -1,0 +1,260 @@
+{
+  "overview": "An alienated and misanthropic teenager gains sudden and unwanted celebrity status after he's taken hostage by terrorists where his indifference to their threats to kill him makes news headlines.",
+  "release_date": "1995-01-20",
+  "runtime": 96,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.968,
+  "tmdb_vote_count": 110,
+  "tmdb_popularity": 0.6812,
+  "original_language": "en",
+  "poster_path": "/3bq91jWCReRrqlPn81alSoxeXoP.jpg",
+  "backdrop_path": "/92zgF1BYoNUvrup4uoC4JkRjFr.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 1382,
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 37,
+      "name": "Gramercy Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 136359,
+      "name": "A&M Films",
+      "origin_country": ""
+    },
+    {
+      "id": 278,
+      "name": "Propaganda Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10822,
+      "name": "Stephen Dorff",
+      "character": "Cliff Spab",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.6164,
+      "profile_path": "/bhlM1xNzBvc8jTw42YloUKlGTCL.jpg"
+    },
+    {
+      "personId": 368,
+      "name": "Reese Witherspoon",
+      "character": "Wendy Pfister",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 4.9887,
+      "profile_path": "/o1z4UwW2137IViFIRk8AV8hWze1.jpg"
+    },
+    {
+      "personId": 28410,
+      "name": "Jake Busey",
+      "character": "Morrow Streeter",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 9.539,
+      "profile_path": "/3WknfRePAvwFJfrbYVvfYXTQCh9.jpg"
+    },
+    {
+      "personId": 16484,
+      "name": "Joey Lauren Adams",
+      "character": "Monica Dice",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.6623,
+      "profile_path": "/tBexng7MCxaA0tXGQDAnww5Jp01.jpg"
+    },
+    {
+      "personId": 59789,
+      "name": "Pamela Gidley",
+      "character": "Janet Streeter",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.1229,
+      "profile_path": "/oZhJ5ICvhB0tHxI156NqZVcR6o5.jpg"
+    },
+    {
+      "personId": 94974,
+      "name": "David Barry Gray",
+      "character": "Scott Spab",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 1.132,
+      "profile_path": "/3gcvlxQzbp4KUWmFcAjfF2LRAHG.jpg"
+    },
+    {
+      "personId": 22133,
+      "name": "Jack Noseworthy",
+      "character": "Joe Dice",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 1.7923,
+      "profile_path": "/gB89s2gEp2NL0vcYwegyxvV2oBn.jpg"
+    },
+    {
+      "personId": 4255,
+      "name": "Richard Portnow",
+      "character": "Gerald Parsley",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 1.5045,
+      "profile_path": "/uQZ3vSa2HHXywkDjGY8dN0oH5oY.jpg"
+    },
+    {
+      "personId": 2219,
+      "name": "Tobey Maguire",
+      "character": "Al",
+      "order": 8,
+      "cast_id": 27,
+      "popularity": 4.9387,
+      "profile_path": "/s6PwSvq6gC7PGEjIku69tPbvR8M.jpg"
+    },
+    {
+      "personId": 3270,
+      "name": "Natasha Gregson Wagner",
+      "character": "Kristen",
+      "order": 9,
+      "cast_id": 28,
+      "popularity": 2.6327,
+      "profile_path": "/4Nq7uccj8RR3Elr1OzLhckRiEJv.jpg"
+    },
+    {
+      "personId": 1479,
+      "name": "Frank Collison",
+      "character": "Distressed Witness",
+      "order": 10,
+      "cast_id": 30,
+      "popularity": 1.7417,
+      "profile_path": "/hqzJ9DLLCjGEw4sG9shc3Aym8mT.jpg"
+    },
+    {
+      "personId": 35468,
+      "name": "Amber Benson",
+      "character": "Babs Wyler",
+      "order": 11,
+      "cast_id": 31,
+      "popularity": 1.7198,
+      "profile_path": "/vEBdN1BhSOG2pCZPpCb6dgj6Wer.jpg"
+    },
+    {
+      "personId": 2910037,
+      "name": "Melissa Sullivan",
+      "character": "Sandy Hooten",
+      "order": 12,
+      "cast_id": 32,
+      "popularity": 0.1996,
+      "profile_path": "/hgJKx37hjzB47k3b1CGJY2WZDYL.jpg"
+    },
+    {
+      "personId": 75341,
+      "name": "Gary Coleman",
+      "character": "Gary Coleman",
+      "order": 13,
+      "cast_id": 37,
+      "popularity": 0.6529,
+      "profile_path": "/ua9Xzu1yp3eFMxB2h6H0cePQkeA.jpg"
+    },
+    {
+      "personId": 42745,
+      "name": "Steve Antin",
+      "character": "Dick Zetterland",
+      "order": 14,
+      "cast_id": 40,
+      "popularity": 1.0366,
+      "profile_path": "/id9xROmosHeF1W4HqDu8oi2zeF3.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 72125,
+      "name": "Jefery Levy",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4832,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 10685,
+      "name": "escape"
+    },
+    {
+      "id": 6007,
+      "name": "media"
+    },
+    {
+      "id": 697,
+      "name": "loss of loved one"
+    },
+    {
+      "id": 1930,
+      "name": "kidnapping"
+    },
+    {
+      "id": 1562,
+      "name": "hostage"
+    },
+    {
+      "id": 3725,
+      "name": "pregnancy"
+    },
+    {
+      "id": 11799,
+      "name": "reality spoof"
+    },
+    {
+      "id": 6562,
+      "name": "celebrity"
+    },
+    {
+      "id": 10349,
+      "name": "survival"
+    },
+    {
+      "id": 10809,
+      "name": "teenage girl"
+    },
+    {
+      "id": 11612,
+      "name": "hospital"
+    },
+    {
+      "id": 15069,
+      "name": "masked man"
+    },
+    {
+      "id": 15249,
+      "name": "tragic event"
+    },
+    {
+      "id": 156064,
+      "name": "homecoming"
+    }
+  ]
+}

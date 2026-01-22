@@ -1,0 +1,204 @@
+{
+  "overview": "For financial reasons an unemployed aspiring actor works for a phone-sex enterprise. One day he receives a call from the mysterious wife of one of his best clients.",
+  "release_date": "1995-11-10",
+  "runtime": 106,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.214,
+  "tmdb_vote_count": 28,
+  "tmdb_popularity": 0.3009,
+  "original_language": "es",
+  "poster_path": "/asp8oMLM84migGU0px9bemdLieX.jpg",
+  "backdrop_path": "/28g15IIUwAUvwnKJA0GAaS4iIzm.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [],
+  "production_countries": [
+    {
+      "code": "ES",
+      "name": "Spain"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3810,
+      "name": "Javier Bardem",
+      "character": "Víctor Ventura",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.4622,
+      "profile_path": "/p5xjCovj1uzvA2SXrWLH78Nh1Jf.jpg"
+    },
+    {
+      "personId": 37946,
+      "name": "Aitana Sánchez-Gijón",
+      "character": "Amanda",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.1508,
+      "profile_path": "/4gm7EJzvJQbN2RPW1ZOcEzF1jDn.jpg"
+    },
+    {
+      "personId": 235221,
+      "name": "Josep Maria Flotats",
+      "character": "Bill / Ricardo",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 0.4426,
+      "profile_path": "/nNSNvMflGmPDa6WkVZZkCkF4VEu.jpg"
+    },
+    {
+      "personId": 25025,
+      "name": "María Barranco",
+      "character": "Angela",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 0.6337,
+      "profile_path": "/47iVJl6a8oOenab7LeYEnBO40xe.jpg"
+    },
+    {
+      "personId": 73698,
+      "name": "Myriam Mézières",
+      "character": "Sheila Crawford",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 0.7701,
+      "profile_path": "/bD8TvLdZnFutbPWwjTX00gx2QhG.jpg"
+    },
+    {
+      "personId": 16975,
+      "name": "Kiti Mánver",
+      "character": "Lucy",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 2.5714,
+      "profile_path": "/1hMLpxmw3HP6yx6LtH0UgMiFGmA.jpg"
+    },
+    {
+      "personId": 43329,
+      "name": "Jordi Bosch",
+      "character": "Belvedere",
+      "order": 6,
+      "cast_id": 18,
+      "popularity": 0.3282,
+      "profile_path": "/b0t6hoD5v8jV9lUtDVUxlrOEsKh.jpg"
+    },
+    {
+      "personId": 346167,
+      "name": "Tres Hanley",
+      "character": "Debra Reynolds",
+      "order": 7,
+      "cast_id": 19,
+      "popularity": 1.6171,
+      "profile_path": "/qQ3tx9mvgFIMnp0357VqdCAyFXf.jpg"
+    },
+    {
+      "personId": 39970,
+      "name": "Alastair Mackenzie",
+      "character": "Oswaldo (as Sam MacKenzie)",
+      "order": 8,
+      "cast_id": 20,
+      "popularity": 1.5431,
+      "profile_path": "/blGkrAkxxdzEs9NZnj9f21rzpjz.jpg"
+    },
+    {
+      "personId": 149307,
+      "name": "Fernando Guillén Cuervo",
+      "character": "Raúl",
+      "order": 9,
+      "cast_id": 21,
+      "popularity": 1.7003,
+      "profile_path": "/sPzRtxLB9eRnZR6MqFIv4WBzG4u.jpg"
+    },
+    {
+      "personId": 958,
+      "name": "Candela Peña",
+      "character": "Tanya",
+      "order": 10,
+      "cast_id": 22,
+      "popularity": 1.8318,
+      "profile_path": "/pDgw9PuGBmWVJNxwLozm3PkzhMh.jpg"
+    },
+    {
+      "personId": 59141,
+      "name": "Amparo Baró",
+      "character": "Madre de Raúl",
+      "order": 11,
+      "cast_id": 23,
+      "popularity": 0.5223,
+      "profile_path": "/eoTOUSYI4F59wKoHGQocetg6lg6.jpg"
+    },
+    {
+      "personId": 105161,
+      "name": "Emilio Gutiérrez Caba",
+      "character": "David",
+      "order": 12,
+      "cast_id": 24,
+      "popularity": 0.2815,
+      "profile_path": "/gCPju1eDQQOWFroZ3gI2ZVKhu1.jpg"
+    },
+    {
+      "personId": 24922,
+      "name": "Asunción Balaguer",
+      "character": "Madre de Luci",
+      "order": 13,
+      "cast_id": 25,
+      "popularity": 0.732,
+      "profile_path": "/eGtr4fI4ICrICF65BkmCesCqMSn.jpg"
+    },
+    {
+      "personId": 104064,
+      "name": "Germán Cobos",
+      "character": "Padre de Luci",
+      "order": 14,
+      "cast_id": 26,
+      "popularity": 2.0436,
+      "profile_path": "/rUYkYTgOU7adUSB8rsjWHOIenxg.jpg"
+    },
+    {
+      "personId": 93831,
+      "name": "Saturnino García",
+      "character": "Padre de Victor",
+      "order": 15,
+      "cast_id": 27,
+      "popularity": 1.0295,
+      "profile_path": "/yubpcNgsdb5rKZPhKmiNRJfA0qX.jpg"
+    },
+    {
+      "personId": 3812,
+      "name": "Pilar Bardem",
+      "character": "Madre de Víctor",
+      "order": 16,
+      "cast_id": 28,
+      "popularity": 1.5317,
+      "profile_path": "/1FBaWqyRVBdHR8BvR6QlA8XQbEu.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 108499,
+      "name": "Manuel Gómez Pereira",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8374,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 249749,
+      "name": "pretending to be gay"
+    },
+    {
+      "id": 258533,
+      "name": "gay theme"
+    }
+  ]
+}

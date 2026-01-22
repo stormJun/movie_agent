@@ -1,0 +1,282 @@
+{
+  "overview": "An unattractive 7th grader struggles to cope with suburban life as the middle child with inattentive parents and bullies at school.",
+  "release_date": "1996-03-22",
+  "runtime": 88,
+  "budget": 800000,
+  "revenue": 5034794,
+  "tmdb_vote_average": 7.1,
+  "tmdb_vote_count": 481,
+  "tmdb_popularity": 1.513,
+  "original_language": "en",
+  "poster_path": "/fsMMOVto87pvUQyozOF9CaT9aMR.jpg",
+  "backdrop_path": "/cmD7smdQnflmpthFDjSArI2jKZF.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 103771,
+      "name": "Suburban Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 33656,
+      "name": "Heather Matarazzo",
+      "character": "Dawn Wiener",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.4099,
+      "profile_path": "/afZhMKmsAHZA9jHq7F9tNUFZci6.jpg"
+    },
+    {
+      "personId": 2839,
+      "name": "Brendan Sexton III",
+      "character": "Brandon McCarthy",
+      "order": 1,
+      "cast_id": 13,
+      "popularity": 1.2224,
+      "profile_path": "/36EvFVDqOKzUa91ixgGEAUPgnqA.jpg"
+    },
+    {
+      "personId": 11867,
+      "name": "Eric Mabius",
+      "character": "Steve Rodgers",
+      "order": 2,
+      "cast_id": 19,
+      "popularity": 2.3292,
+      "profile_path": "/gfTyV38S5BzV9pZnIducUgo68hK.jpg"
+    },
+    {
+      "personId": 80541,
+      "name": "Matthew Faber",
+      "character": "Mark Wiener",
+      "order": 3,
+      "cast_id": 15,
+      "popularity": 1.0256,
+      "profile_path": "/7AN24bHosFTglFqsqSyCRioLLUf.jpg"
+    },
+    {
+      "personId": 974425,
+      "name": "Daria Kalinina",
+      "character": "Missy Wiener",
+      "order": 4,
+      "cast_id": 14,
+      "popularity": 0.1444,
+      "profile_path": null
+    },
+    {
+      "personId": 80542,
+      "name": "Angela Pietropinto",
+      "character": "Mrs. Weiner",
+      "order": 5,
+      "cast_id": 24,
+      "popularity": 0.8519,
+      "profile_path": "/1gUgveREGrACTsuvRdJreH68b8Y.jpg"
+    },
+    {
+      "personId": 76764,
+      "name": "Bill Buell",
+      "character": "Mr. Wiener",
+      "order": 6,
+      "cast_id": 18,
+      "popularity": 1.3416,
+      "profile_path": "/DhBzqg0sHVqa6lFQTjyTklqAuY.jpg"
+    },
+    {
+      "personId": 163671,
+      "name": "Will Lyman",
+      "character": "Mr. Edwards",
+      "order": 7,
+      "cast_id": 21,
+      "popularity": 0.9437,
+      "profile_path": "/ymifKdrtMFEZVYTvOmYoshPg7HR.jpg"
+    },
+    {
+      "personId": 171672,
+      "name": "Rica Martens",
+      "character": "Mrs. Grissom",
+      "order": 8,
+      "cast_id": 31,
+      "popularity": 0.6055,
+      "profile_path": "/xMFDzkp92lIl4pZt9Hcbnqbkhag.jpg"
+    },
+    {
+      "personId": 171300,
+      "name": "Stacey Moseley",
+      "character": "Mary Ellen Moriarty",
+      "order": 9,
+      "cast_id": 20,
+      "popularity": 1.5997,
+      "profile_path": "/awX1jJOdCPgS0KiEDu6E242zMFD.jpg"
+    },
+    {
+      "personId": 69483,
+      "name": "Christina Brucato",
+      "character": "Cookie",
+      "order": 10,
+      "cast_id": 3,
+      "popularity": 0.97,
+      "profile_path": "/5yNLxKg9o3791d72j8XhalawFyE.jpg"
+    },
+    {
+      "personId": 3678270,
+      "name": "Dimitri Iervolino",
+      "character": "Ralphy",
+      "order": 11,
+      "cast_id": 36,
+      "popularity": 0.0499,
+      "profile_path": null
+    },
+    {
+      "personId": 69482,
+      "name": "Victoria Davis",
+      "character": "Lolita",
+      "order": 12,
+      "cast_id": 2,
+      "popularity": 0.3996,
+      "profile_path": null
+    },
+    {
+      "personId": 61904,
+      "name": "Christina Vidal Mitchell",
+      "character": "Cynthia",
+      "order": 13,
+      "cast_id": 4,
+      "popularity": 1.2913,
+      "profile_path": "/crf8W71bjJIHPiFYB1ny4Dl3amY.jpg"
+    },
+    {
+      "personId": 3554642,
+      "name": "Herbie Duarte",
+      "character": "Lance",
+      "order": 14,
+      "cast_id": 34,
+      "popularity": 0.1417,
+      "profile_path": null
+    },
+    {
+      "personId": 3678268,
+      "name": "Telly Pontidis",
+      "character": "Jed",
+      "order": 15,
+      "cast_id": 33,
+      "popularity": 0.2061,
+      "profile_path": null
+    },
+    {
+      "personId": 3678271,
+      "name": "Zsanné Pitta",
+      "character": "Ginger Friedman",
+      "order": 16,
+      "cast_id": 37,
+      "popularity": 0.0544,
+      "profile_path": null
+    },
+    {
+      "personId": 69484,
+      "name": "Siri Howard",
+      "character": "Chrissy",
+      "order": 17,
+      "cast_id": 5,
+      "popularity": 0.1047,
+      "profile_path": null
+    },
+    {
+      "personId": 3678269,
+      "name": "Scott Coogan",
+      "character": "Troy",
+      "order": 18,
+      "cast_id": 35,
+      "popularity": 0.1217,
+      "profile_path": null
+    },
+    {
+      "personId": 109102,
+      "name": "Josiah Trager",
+      "character": "Kenny",
+      "order": 19,
+      "cast_id": 17,
+      "popularity": 0.1262,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 66605,
+      "name": "Todd Solondz",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.609,
+      "profile_path": "/2j8pTtI3ybgroqBEyHxymFZztjR.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 380,
+      "name": "sibling relationship"
+    },
+    {
+      "id": 586,
+      "name": "new jersey"
+    },
+    {
+      "id": 970,
+      "name": "parent child relationship"
+    },
+    {
+      "id": 2422,
+      "name": "mockery"
+    },
+    {
+      "id": 2544,
+      "name": "ugliness"
+    },
+    {
+      "id": 10123,
+      "name": "dark comedy"
+    },
+    {
+      "id": 6733,
+      "name": "bullying"
+    },
+    {
+      "id": 10683,
+      "name": "coming of age"
+    },
+    {
+      "id": 9789,
+      "name": "misfit"
+    },
+    {
+      "id": 12663,
+      "name": "little girl"
+    },
+    {
+      "id": 14632,
+      "name": "suburb"
+    },
+    {
+      "id": 170389,
+      "name": "junior high school"
+    },
+    {
+      "id": 190116,
+      "name": "school life"
+    }
+  ]
+}

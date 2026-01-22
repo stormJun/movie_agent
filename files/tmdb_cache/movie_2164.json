@@ -1,0 +1,318 @@
+{
+  "overview": "An interstellar teleportation device, found in Egypt, leads to a planet with humans resembling ancient Egyptians who worship the god Ra.",
+  "release_date": "1994-10-28",
+  "runtime": 121,
+  "budget": 55000000,
+  "revenue": 196567262,
+  "tmdb_vote_average": 7.011,
+  "tmdb_vote_count": 3659,
+  "tmdb_popularity": 6.9143,
+  "original_language": "en",
+  "poster_path": "/4T6Po0XnZlevmhfPh3ZfEs5butR.jpg",
+  "backdrop_path": "/s2bqHApZlliCuwgyHod0qucrYqZ.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    {
+      "id": 183,
+      "name": "Le Studio Canal+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 347,
+      "name": "Centropolis Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 275,
+      "name": "Carolco Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "no",
+      "name": "Norsk"
+    },
+    {
+      "code": "sv",
+      "name": "svenska"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13548,
+      "name": "James Spader",
+      "character": "Dr. Daniel Jackson",
+      "order": 0,
+      "cast_id": 23,
+      "popularity": 8.0893,
+      "profile_path": "/uET0mbf2bMkUXbRb1Oxi8Qjqcw3.jpg"
+    },
+    {
+      "personId": 6856,
+      "name": "Kurt Russell",
+      "character": "Colonel Jonathan 'Jack' O'Neil",
+      "order": 1,
+      "cast_id": 17,
+      "popularity": 5.5634,
+      "profile_path": "/6g1d98oH4miG4k0ZiZWmF3Dt0bO.jpg"
+    },
+    {
+      "personId": 228173,
+      "name": "Jaye Davidson",
+      "character": "Ra",
+      "order": 2,
+      "cast_id": 25,
+      "popularity": 1.4496,
+      "profile_path": "/1gvLTgrBpRreybxQ56dgjjKkVrh.jpg"
+    },
+    {
+      "personId": 22137,
+      "name": "Viveca Lindfors",
+      "character": "Catherine",
+      "order": 3,
+      "cast_id": 24,
+      "popularity": 1.4105,
+      "profile_path": "/5gs8qdR66iRG60hX3kmRTvP2AWF.jpg"
+    },
+    {
+      "personId": 22138,
+      "name": "Alexis Cruz",
+      "character": "Skaara",
+      "order": 4,
+      "cast_id": 18,
+      "popularity": 0.8919,
+      "profile_path": "/uHzhMzneDq6CKgYeuo9bnIL41kj.jpg"
+    },
+    {
+      "personId": 15441,
+      "name": "Mili Avital",
+      "character": "Sha'uri",
+      "order": 5,
+      "cast_id": 19,
+      "popularity": 1.4196,
+      "profile_path": "/dsUOeJxWJR31RTMWgnLmm7Y1WwS.jpg"
+    },
+    {
+      "personId": 18917,
+      "name": "Erick Avari",
+      "character": "Kasuf",
+      "order": 6,
+      "cast_id": 27,
+      "popularity": 2.7001,
+      "profile_path": "/aO53uKgLUCID9rCI0SRAIEdsIex.jpg"
+    },
+    {
+      "personId": 4942,
+      "name": "John Diehl",
+      "character": "Lieutenant Kawalsky",
+      "order": 7,
+      "cast_id": 21,
+      "popularity": 2.2334,
+      "profile_path": "/fSaOexgc31Xmp4koMu0HvlkJMr4.jpg"
+    },
+    {
+      "personId": 938,
+      "name": "Djimon Hounsou",
+      "character": "Horus",
+      "order": 8,
+      "cast_id": 26,
+      "popularity": 3.4882,
+      "profile_path": "/tpvtxxvCx2Mb5DV632hmuYlHoiY.jpg"
+    },
+    {
+      "personId": 22139,
+      "name": "Carlos Lauchu",
+      "character": "Anubis",
+      "order": 9,
+      "cast_id": 22,
+      "popularity": 0.6245,
+      "profile_path": "/m9npZKE8rahZBNYxf1YcHp2l7al.jpg"
+    },
+    {
+      "personId": 15374,
+      "name": "Leon Rippy",
+      "character": "General W.O. West",
+      "order": 10,
+      "cast_id": 20,
+      "popularity": 1.7766,
+      "profile_path": "/jJfrzZ5BlJoWyU8JHbdnPxyGGf8.jpg"
+    },
+    {
+      "personId": 67711,
+      "name": "French Stewart",
+      "character": "Lieutenant Ferretti",
+      "order": 11,
+      "cast_id": 28,
+      "popularity": 2.1441,
+      "profile_path": "/5c1YaxSkFmwsqEnL7ARyQw2FQ3D.jpg"
+    },
+    {
+      "personId": 157029,
+      "name": "Derek Webster",
+      "character": "Brown",
+      "order": 12,
+      "cast_id": 29,
+      "popularity": 2.797,
+      "profile_path": "/q2wo9lI656Chxejpqov5i8EU1ZO.jpg"
+    },
+    {
+      "personId": 145531,
+      "name": "Christopher John Fields",
+      "character": "Freeman",
+      "order": 13,
+      "cast_id": 31,
+      "popularity": 0.5814,
+      "profile_path": "/3ASDmbBZQnk526pPeNtb8LOJXBX.jpg"
+    },
+    {
+      "personId": 1179059,
+      "name": "Gianin Loffler",
+      "character": "Nabeh",
+      "order": 14,
+      "cast_id": 30,
+      "popularity": 0.5432,
+      "profile_path": "/uwasjSWuiLREbAhx3jyrYuo8eUb.jpg"
+    },
+    {
+      "personId": 15831,
+      "name": "Frank Welker",
+      "character": "Mastadge (voice)",
+      "order": 15,
+      "cast_id": 47,
+      "popularity": 5.2376,
+      "profile_path": "/xXODQ5AX6pG4my8ieeEIuiAREXs.jpg"
+    },
+    {
+      "personId": 170348,
+      "name": "Rae Allen",
+      "character": "Barbara Shore",
+      "order": 16,
+      "cast_id": 48,
+      "popularity": 1.7314,
+      "profile_path": "/xtZ9S3YDx1QIp8163NWgnVpTvWx.jpg"
+    },
+    {
+      "personId": 21125,
+      "name": "Richard Kind",
+      "character": "Gary Meyers",
+      "order": 17,
+      "cast_id": 49,
+      "popularity": 3.3972,
+      "profile_path": "/yWmuVQeQUzb5OSMVDoWkR0IylCK.jpg"
+    },
+    {
+      "personId": 117564,
+      "name": "Jack Moore",
+      "character": "Reilly",
+      "order": 18,
+      "cast_id": 196,
+      "popularity": 0.5426,
+      "profile_path": null
+    },
+    {
+      "personId": 1116827,
+      "name": "Steve Giannelli",
+      "character": "Porro",
+      "order": 19,
+      "cast_id": 197,
+      "popularity": 0.6656,
+      "profile_path": "/13h8bUV3BWV3oNseFl5rqWgLpQ3.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 6046,
+      "name": "Roland Emmerich",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.9675,
+      "profile_path": "/mN8x74uv9yQ7dJl8nh2q26mkY8v.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1160,
+      "name": "egypt"
+    },
+    {
+      "id": 3822,
+      "name": "teleportation"
+    },
+    {
+      "id": 1949,
+      "name": "pyramid"
+    },
+    {
+      "id": 3801,
+      "name": "space travel"
+    },
+    {
+      "id": 8862,
+      "name": "uprising"
+    },
+    {
+      "id": 9882,
+      "name": "space"
+    },
+    {
+      "id": 11402,
+      "name": "androgyny"
+    },
+    {
+      "id": 11606,
+      "name": "space western"
+    },
+    {
+      "id": 41414,
+      "name": "timebomb"
+    },
+    {
+      "id": 159138,
+      "name": "death of son"
+    },
+    {
+      "id": 160381,
+      "name": "nuclear weapons"
+    },
+    {
+      "id": 161176,
+      "name": "space opera"
+    },
+    {
+      "id": 163331,
+      "name": "hieroglyph"
+    },
+    {
+      "id": 163338,
+      "name": "egyptian mythology"
+    },
+    {
+      "id": 163347,
+      "name": "egyptology"
+    }
+  ]
+}

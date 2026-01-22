@@ -1,0 +1,275 @@
+{
+  "overview": "Stephen, an international trader, tracks down his ex-wife Patricia in some Amazonian backwater. He needs her consent to a divorce so that he can marry Charlotte. Unfortunately, he discovers a son he didn’t know he had – Mimi-Siku. The young jungle boy yearns to see Paris so Stephen reluctantly agrees to take him back home with him for a few days. How will Mimi-Siku react to life in the great metropolis?",
+  "release_date": "1994-12-14",
+  "runtime": 90,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.962,
+  "tmdb_vote_count": 612,
+  "tmdb_popularity": 1.4096,
+  "original_language": "fr",
+  "poster_path": "/nUFHWv42GRJcjLTQa5IYBEuVzmK.jpg",
+  "backdrop_path": "/fxSRvXYp0iPKUaKQ3gsj8xmgdHI.jpg",
+  "tmdb_genres_raw": [
+    "Adventure",
+    "Drama",
+    "Family",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 311,
+      "name": "PROCIREP",
+      "origin_country": "FR"
+    },
+    {
+      "id": 356,
+      "name": "TF1 Films Production",
+      "origin_country": "FR"
+    },
+    {
+      "id": 14191,
+      "name": "Ice Films",
+      "origin_country": ""
+    },
+    {
+      "id": 9195,
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 21177,
+      "name": "Thierry Lhermitte",
+      "character": "Stéphane Marchadot",
+      "order": 0,
+      "cast_id": 20,
+      "popularity": 1.1586,
+      "profile_path": "/50kQVqmD1XnGRlgTPsVRhECaRae.jpg"
+    },
+    {
+      "personId": 41526,
+      "name": "Patrick Timsit",
+      "character": "Richard Montignac",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 0.51,
+      "profile_path": "/lS22SWFT4jo4mgfC0HsbgMstPf2.jpg"
+    },
+    {
+      "personId": 69535,
+      "name": "Ludwig Briand",
+      "character": "Mimi-Siku",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 0.2056,
+      "profile_path": "/kYAfsPbNh24LZd2L3Vyiqoxnjwa.jpg"
+    },
+    {
+      "personId": 4274,
+      "name": "Miou-Miou",
+      "character": "Patricia dite \"Paliku\"",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.2762,
+      "profile_path": "/kjQD9nNjcakYxOmXq1IG66y1RtU.jpg"
+    },
+    {
+      "personId": 28626,
+      "name": "Arielle Dombasle",
+      "character": "Charlotte",
+      "order": 4,
+      "cast_id": 21,
+      "popularity": 1.2701,
+      "profile_path": "/yzrLz3f4uXsiEJeG5FRiIqbGKPS.jpg"
+    },
+    {
+      "personId": 585484,
+      "name": "Sonia Vollereaux",
+      "character": "Marie Montignac",
+      "order": 5,
+      "cast_id": 24,
+      "popularity": 0.4334,
+      "profile_path": "/yYtfpKuL5PQxdji1CX4QclHK466.jpg"
+    },
+    {
+      "personId": 544397,
+      "name": "Tolsty",
+      "character": "Pavel Koutchnoukov",
+      "order": 6,
+      "cast_id": 23,
+      "popularity": 1.8593,
+      "profile_path": null
+    },
+    {
+      "personId": 82288,
+      "name": "Jackie Berroyer",
+      "character": "Maître Joanovici",
+      "order": 7,
+      "cast_id": 25,
+      "popularity": 0.5867,
+      "profile_path": "/zd5uWXdJAzVNo94ftRXEMc160ry.jpg"
+    },
+    {
+      "personId": 255923,
+      "name": "Marc de Jonge",
+      "character": "Roustan",
+      "order": 8,
+      "cast_id": 26,
+      "popularity": 0.7787,
+      "profile_path": "/7KNFKt8futWgLRLQBBlFL9n0PoL.jpg"
+    },
+    {
+      "personId": 1132048,
+      "name": "Louba Guertchikoff",
+      "character": "Mme Godet",
+      "order": 9,
+      "cast_id": 27,
+      "popularity": 0.4067,
+      "profile_path": "/urz2qqGYYsatyFBDTc0BbADTfF9.jpg"
+    },
+    {
+      "personId": 69542,
+      "name": "Philippe Bruneau",
+      "character": "M. Maréchal",
+      "order": 10,
+      "cast_id": 28,
+      "popularity": 0.4156,
+      "profile_path": "/726dOCVgI3HpUHK0Ppbba4iuovb.jpg"
+    },
+    {
+      "personId": 21680,
+      "name": "Dominique Besnehard",
+      "character": "Maître Dong",
+      "order": 11,
+      "cast_id": 29,
+      "popularity": 0.5633,
+      "profile_path": "/8IvNN4UrQqIkwTpg7aEDHRfuJP5.jpg"
+    },
+    {
+      "personId": 230469,
+      "name": "Cheik Doukouré",
+      "character": "M. Bonaventure",
+      "order": 12,
+      "cast_id": 30,
+      "popularity": 0.3911,
+      "profile_path": null
+    },
+    {
+      "personId": 580582,
+      "name": "Marie-Charlotte Leclaire",
+      "character": "La secrétaire de Roustan",
+      "order": 13,
+      "cast_id": 31,
+      "popularity": 0.1657,
+      "profile_path": "/4BqZ3ZzsOcVVTEqudd93XGua3Xf.jpg"
+    },
+    {
+      "personId": 1912486,
+      "name": "Olga Jirouskova",
+      "character": "Sonia Koutchnoukov",
+      "order": 14,
+      "cast_id": 32,
+      "popularity": 0.0853,
+      "profile_path": null
+    },
+    {
+      "personId": 13693,
+      "name": "Chick Ortega",
+      "character": "L'homme de main des Koutchnoukov",
+      "order": 15,
+      "cast_id": 33,
+      "popularity": 0.5568,
+      "profile_path": "/dz5lyoZFdRGBDBJWOgYylt9unJW.jpg"
+    },
+    {
+      "personId": 1912487,
+      "name": "Paco Portero",
+      "character": "L'homme au serpent",
+      "order": 16,
+      "cast_id": 34,
+      "popularity": 0.0261,
+      "profile_path": null
+    },
+    {
+      "personId": 1912488,
+      "name": "Sonia Lezinska",
+      "character": "Une hôtesse de l'air",
+      "order": 17,
+      "cast_id": 35,
+      "popularity": 0.3074,
+      "profile_path": "/jJRohizSxT0riSeqZZJaj7eVtNa.jpg"
+    },
+    {
+      "personId": 549322,
+      "name": "Marc Brunet",
+      "character": "Un policier",
+      "order": 18,
+      "cast_id": 36,
+      "popularity": 0.4671,
+      "profile_path": "/iqpmpmwO4rEj9yEx3RpgagO0ysq.jpg"
+    },
+    {
+      "personId": 133735,
+      "name": "Olivier Hémon",
+      "character": "Un policier",
+      "order": 19,
+      "cast_id": 37,
+      "popularity": 0.4172,
+      "profile_path": "/unNrI8o4P93lEGcM5rxhMmUK15a.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 69537,
+      "name": "Hervé Palud",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4256,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 90,
+      "name": "paris, france"
+    },
+    {
+      "id": 970,
+      "name": "parent child relationship"
+    },
+    {
+      "id": 5968,
+      "name": "amazon rainforest"
+    },
+    {
+      "id": 10787,
+      "name": "jungle"
+    },
+    {
+      "id": 18101,
+      "name": "bow and arrow"
+    },
+    {
+      "id": 155816,
+      "name": "ex-wife"
+    }
+  ]
+}

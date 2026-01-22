@@ -1,0 +1,309 @@
+{
+  "overview": "An unprecedented series of violent tornadoes is sweeping across Oklahoma. Tornado chasers, headed by Dr. Jo Harding, attempt to release a groundbreaking device that will allow them to track them and create a more advanced warning system. They are joined by Jo's soon to be ex-husband Bill, a former tornado chaser himself, and his girlfriend Melissa.",
+  "release_date": "1996-05-10",
+  "runtime": 113,
+  "budget": 92000000,
+  "revenue": 494471524,
+  "tmdb_vote_average": 6.547,
+  "tmdb_vote_count": 3705,
+  "tmdb_popularity": 7.0123,
+  "original_language": "en",
+  "poster_path": "/d4ie3f6QTvNw40V770Uzo87SDZn.jpg",
+  "backdrop_path": "/5oCAo7LFj2x0yByfi5JYirGnK8I.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 56,
+      "name": "Amblin Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 9994,
+      "name": "Helen Hunt",
+      "character": "Jo",
+      "order": 0,
+      "cast_id": 22,
+      "popularity": 4.6575,
+      "profile_path": "/bO0UR3PrKZsxkgR0BYqT0A26Gfw.jpg"
+    },
+    {
+      "personId": 2053,
+      "name": "Bill Paxton",
+      "character": "Bill",
+      "order": 1,
+      "cast_id": 23,
+      "popularity": 3.6054,
+      "profile_path": "/aLdNe6mt1cSi2zWlUYRregzfis5.jpg"
+    },
+    {
+      "personId": 9995,
+      "name": "Jami Gertz",
+      "character": "Melissa",
+      "order": 2,
+      "cast_id": 25,
+      "popularity": 3.3527,
+      "profile_path": "/9O3hOr7tPShjmLNupTEdMCfjhK6.jpg"
+    },
+    {
+      "personId": 2130,
+      "name": "Cary Elwes",
+      "character": "Jonas",
+      "order": 3,
+      "cast_id": 24,
+      "popularity": 4.9025,
+      "profile_path": "/5PAcQuB2fFzGq5fjyugNlOpndk4.jpg"
+    },
+    {
+      "personId": 2207,
+      "name": "Lois Smith",
+      "character": "Aunt Meg",
+      "order": 4,
+      "cast_id": 27,
+      "popularity": 2.3059,
+      "profile_path": "/unvPSZshdNoj7c5wl6D30gPwKtS.jpg"
+    },
+    {
+      "personId": 1233,
+      "name": "Philip Seymour Hoffman",
+      "character": "Dusty",
+      "order": 5,
+      "cast_id": 26,
+      "popularity": 3.096,
+      "profile_path": "/50rqDkmvXwjwVhFH7q6ph2Rkw7S.jpg"
+    },
+    {
+      "personId": 2394,
+      "name": "Alan Ruck",
+      "character": "Rabbit",
+      "order": 6,
+      "cast_id": 28,
+      "popularity": 2.9977,
+      "profile_path": "/hj7CuWinT12hMKjRhSO4XEMVq7w.jpg"
+    },
+    {
+      "personId": 9996,
+      "name": "Sean Whalen",
+      "character": "Sanders",
+      "order": 7,
+      "cast_id": 29,
+      "popularity": 1.8209,
+      "profile_path": "/nUPHcRagVWhH21mIS4Qdeoclhr5.jpg"
+    },
+    {
+      "personId": 9997,
+      "name": "Scott Thomson",
+      "character": "Preacher",
+      "order": 8,
+      "cast_id": 30,
+      "popularity": 1.3893,
+      "profile_path": "/tmdLMQP7wV6kBeFFyzjdZLER5EQ.jpg"
+    },
+    {
+      "personId": 5010,
+      "name": "Todd Field",
+      "character": "Beltzer",
+      "order": 9,
+      "cast_id": 31,
+      "popularity": 1.2262,
+      "profile_path": "/KR12bc20pVnlTr0wir8XuxW3Pt.jpg"
+    },
+    {
+      "personId": 9998,
+      "name": "Joey Slotnick",
+      "character": "Joey",
+      "order": 10,
+      "cast_id": 32,
+      "popularity": 1.4826,
+      "profile_path": "/obbw43JPkgMHMqJIQthigopTOC9.jpg"
+    },
+    {
+      "personId": 9999,
+      "name": "Wendle Josepher",
+      "character": "Haynes",
+      "order": 11,
+      "cast_id": 33,
+      "popularity": 0.6582,
+      "profile_path": "/A59vqirlmTDPDqXUlOx0NWTeDum.jpg"
+    },
+    {
+      "personId": 4654,
+      "name": "Jeremy Davies",
+      "character": "Laurence",
+      "order": 12,
+      "cast_id": 34,
+      "popularity": 2.898,
+      "profile_path": "/tNtcpQnMxzl0OqVDsyA63oAgPbI.jpg"
+    },
+    {
+      "personId": 7471,
+      "name": "Zach Grenier",
+      "character": "Eddie",
+      "order": 13,
+      "cast_id": 35,
+      "popularity": 2.3421,
+      "profile_path": "/fSyQKZO39sUsqY283GXiScOg3Hi.jpg"
+    },
+    {
+      "personId": 10000,
+      "name": "Gregory Sporleder",
+      "character": "Willie",
+      "order": 14,
+      "cast_id": 36,
+      "popularity": 2.1836,
+      "profile_path": "/qcCA7hMP8rEEGQDfNCKKl3XZrHn.jpg"
+    },
+    {
+      "personId": 52801,
+      "name": "Patrick Fischler",
+      "character": "The Communicator",
+      "order": 15,
+      "cast_id": 157,
+      "popularity": 3.3105,
+      "profile_path": "/vVj7GjHL9hOilbKwViXZpnUlbcQ.jpg"
+    },
+    {
+      "personId": 50402,
+      "name": "Nicholas Sadler",
+      "character": "Kubrick",
+      "order": 16,
+      "cast_id": 171,
+      "popularity": 1.0503,
+      "profile_path": "/mbIXwkcpmv3PBAjTvkCzHRe0hUy.jpg"
+    },
+    {
+      "personId": 88961,
+      "name": "Ben Weber",
+      "character": "Stanley",
+      "order": 17,
+      "cast_id": 172,
+      "popularity": 1.1018,
+      "profile_path": "/lfOEZ4uR6PiCywECX3BqItE7XOL.jpg"
+    },
+    {
+      "personId": 6165,
+      "name": "Anthony Rapp",
+      "character": "Tony",
+      "order": 18,
+      "cast_id": 108,
+      "popularity": 1.3901,
+      "profile_path": "/9Pj11mrX2MsWsOiHRjVDxYS93K5.jpg"
+    },
+    {
+      "personId": 1392775,
+      "name": "Erik LaRay Harvey",
+      "character": "Eric",
+      "order": 19,
+      "cast_id": 178,
+      "popularity": 1.6581,
+      "profile_path": "/kd1Vxi8hHuh35dXtq2fC4SP5aOU.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2209,
+      "name": "Jan de Bont",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.1328,
+      "profile_path": "/evj9vN5pxxjr4aFLZRvniU0gzof.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1157,
+      "name": "husband wife relationship"
+    },
+    {
+      "id": 3693,
+      "name": "climate"
+    },
+    {
+      "id": 2213,
+      "name": "tornado"
+    },
+    {
+      "id": 2214,
+      "name": "twister"
+    },
+    {
+      "id": 5096,
+      "name": "natural disaster"
+    },
+    {
+      "id": 2493,
+      "name": "oklahoma"
+    },
+    {
+      "id": 3337,
+      "name": "metereologist"
+    },
+    {
+      "id": 3338,
+      "name": "invention"
+    },
+    {
+      "id": 12336,
+      "name": "storm chaser"
+    },
+    {
+      "id": 3875,
+      "name": "barn"
+    },
+    {
+      "id": 9276,
+      "name": "truck"
+    },
+    {
+      "id": 15160,
+      "name": "divorce"
+    },
+    {
+      "id": 189411,
+      "name": "disaster movie"
+    },
+    {
+      "id": 197337,
+      "name": "weather chasers"
+    },
+    {
+      "id": 283467,
+      "name": "motley crew"
+    },
+    {
+      "id": 320203,
+      "name": "extreme weather"
+    },
+    {
+      "id": 327615,
+      "name": "science experiment"
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "overview": "From Spike Lee comes this vibrant semi-autobiographical portrait of a school-teacher, her stubborn jazz-musician husband and their five kids living in '70s Brooklyn.",
+  "release_date": "1994-05-13",
+  "runtime": 114,
+  "budget": 14000000,
+  "revenue": 0,
+  "tmdb_vote_average": 6.8,
+  "tmdb_vote_count": 154,
+  "tmdb_popularity": 3.9418,
+  "original_language": "en",
+  "poster_path": "/iFqe07F78SO0SIBzWcK4I5MwNvP.jpg",
+  "backdrop_path": "/mIKuvEhBvDf9LGxE9x6m0hDR9Au.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 4319,
+      "name": "40 Acres and a Mule Filmworks",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 219729,
+      "name": "Child Hood Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "it",
+      "name": "Italiano"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1981,
+      "name": "Alfre Woodard",
+      "character": "Carolyn Carmichael",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.8922,
+      "profile_path": "/erXesg092Pi7SHKEK2UHeimPPKf.jpg"
+    },
+    {
+      "personId": 18792,
+      "name": "Delroy Lindo",
+      "character": "Woody Carmichael",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.6845,
+      "profile_path": "/kLwUBBmEIdchrLqwsYzgLB2B6q5.jpg"
+    },
+    {
+      "personId": 1737,
+      "name": "David Patrick Kelly",
+      "character": "Tony Eyes / Jim",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.1128,
+      "profile_path": "/bOPih90JJ2lCg3VXbNwpANHz8tm.jpg"
+    },
+    {
+      "personId": 112037,
+      "name": "Zelda Harris",
+      "character": "Troy Carmichael",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.0788,
+      "profile_path": "/qM8KVXyWGGCP4y1jF1CfgOrMLrb.jpg"
+    },
+    {
+      "personId": 112038,
+      "name": "Carlton Williams",
+      "character": "Clinton Carmichael",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 0.9357,
+      "profile_path": null
+    },
+    {
+      "personId": 46396,
+      "name": "Sharif Rashed",
+      "character": "Wendell Carmichael",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 1.9692,
+      "profile_path": "/xG792l8acpHKN9ptrYjFvPjGX43.jpg"
+    },
+    {
+      "personId": 112039,
+      "name": "Tse-Mach Washington",
+      "character": "Joseph Carmichael",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 0.7207,
+      "profile_path": "/uwFQpF9pA2INQIOl2rWP3gSH8m5.jpg"
+    },
+    {
+      "personId": 112040,
+      "name": "Christopher Knowings",
+      "character": "Nate Carmichael",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 0.8488,
+      "profile_path": "/kXPosQ55wkyLnUif94jbJnmClHw.jpg"
+    },
+    {
+      "personId": 10963,
+      "name": "José Zúñiga",
+      "character": "Tommy La La",
+      "order": 8,
+      "cast_id": 9,
+      "popularity": 2.4138,
+      "profile_path": "/r6nFkJkMHP9tFDohwfav9Bf2rCR.jpg"
+    },
+    {
+      "personId": 21353,
+      "name": "Isaiah Washington",
+      "character": "Vic Powell",
+      "order": 9,
+      "cast_id": 10,
+      "popularity": 1.8389,
+      "profile_path": "/3yY5h1t7AKZpf4lfdSMwDQvCroQ.jpg"
+    },
+    {
+      "personId": 112041,
+      "name": "Ivelka Reyes",
+      "character": "Jessica",
+      "order": 10,
+      "cast_id": 11,
+      "popularity": 0.3199,
+      "profile_path": null
+    },
+    {
+      "personId": 5281,
+      "name": "Spike Lee",
+      "character": "Snuffy",
+      "order": 11,
+      "cast_id": 12,
+      "popularity": 2.6369,
+      "profile_path": "/2KOHXgk2uoRXl6u7V9xpAIo3uay.jpg"
+    },
+    {
+      "personId": 6198,
+      "name": "Vondie Curtis-Hall",
+      "character": "Uncle Brown",
+      "order": 12,
+      "cast_id": 58,
+      "popularity": 2.2095,
+      "profile_path": "/eJbwjnUB3VGGioAtQTmiYI4k7lH.jpg"
+    },
+    {
+      "personId": 140178,
+      "name": "Frances Foster",
+      "character": "Aunt Song",
+      "order": 13,
+      "cast_id": 71,
+      "popularity": 1.3211,
+      "profile_path": "/1KQ0FRRmkffelImanEYjGwcASIO.jpg"
+    },
+    {
+      "personId": 72983,
+      "name": "Manny Perez",
+      "character": "Hector",
+      "order": 14,
+      "cast_id": 13,
+      "popularity": 0.8641,
+      "profile_path": "/auDXIA7COAJkgPFYlZWAvCuezRG.jpg"
+    },
+    {
+      "personId": 78589,
+      "name": "RuPaul",
+      "character": "Bodega Woman",
+      "order": 15,
+      "cast_id": 15,
+      "popularity": 1.637,
+      "profile_path": "/aqmub88LK5Cic8yZwwfcDqIQQqk.jpg"
+    },
+    {
+      "personId": 1234850,
+      "name": "Keith Johnson",
+      "character": "Cornell",
+      "order": 16,
+      "cast_id": 18,
+      "popularity": 0.2903,
+      "profile_path": null
+    },
+    {
+      "personId": 2328443,
+      "name": "Tiasha Reyes",
+      "character": "Minnie",
+      "order": 17,
+      "cast_id": 59,
+      "popularity": 0.0528,
+      "profile_path": null
+    },
+    {
+      "personId": 2328444,
+      "name": "Raymond Reliford",
+      "character": "Barry",
+      "order": 18,
+      "cast_id": 60,
+      "popularity": 0.131,
+      "profile_path": null
+    },
+    {
+      "personId": 1880198,
+      "name": "Harvey Williams",
+      "character": "Delray",
+      "order": 19,
+      "cast_id": 61,
+      "popularity": 0.5909,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 5281,
+      "name": "Spike Lee",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.6369,
+      "profile_path": "/2KOHXgk2uoRXl6u7V9xpAIo3uay.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1228,
+      "name": "1970s"
+    },
+    {
+      "id": 3017,
+      "name": "jazz singer or musician"
+    },
+    {
+      "id": 10041,
+      "name": "dysfunctional family"
+    },
+    {
+      "id": 10508,
+      "name": "teacher"
+    },
+    {
+      "id": 10616,
+      "name": "urban"
+    },
+    {
+      "id": 11093,
+      "name": "parenthood"
+    },
+    {
+      "id": 41523,
+      "name": "brooklyn, new york city"
+    },
+    {
+      "id": 165402,
+      "name": "semi autobiographical"
+    },
+    {
+      "id": 193430,
+      "name": "street kid"
+    },
+    {
+      "id": 325810,
+      "name": "euphoric"
+    }
+  ]
+}

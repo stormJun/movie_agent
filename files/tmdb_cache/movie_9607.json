@@ -1,0 +1,295 @@
+{
+  "overview": "Mario and Luigi, plumbers from Brooklyn, find themselves in an alternate universe where evolved dinosaurs live in hi-tech squalor. They're the only hope to save our universe from invasion by the dino dictator, Koopa.",
+  "release_date": "1993-05-28",
+  "runtime": 104,
+  "budget": 48000000,
+  "revenue": 20915465,
+  "tmdb_vote_average": 4.465,
+  "tmdb_vote_count": 1398,
+  "tmdb_popularity": 2.7474,
+  "original_language": "en",
+  "poster_path": "/yt5bbMfKpg1nRr4k5edxs7tPK2m.jpg",
+  "backdrop_path": "/7pU5ZCY0Pe8uIVDL5JAVGoUEQx9.jpg",
+  "tmdb_genres_raw": [
+    "Adventure",
+    "Fantasy",
+    "Comedy",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 915,
+      "name": "Hollywood Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1504,
+      "name": "Cinergi Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1755,
+      "name": "Allied Filmmakers",
+      "origin_country": "GB"
+    },
+    {
+      "id": 16978,
+      "name": "Lightmotive",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 382,
+      "name": "Bob Hoskins",
+      "character": "Mario Mario",
+      "order": 0,
+      "cast_id": 11,
+      "popularity": 2.4116,
+      "profile_path": "/qOeE7bVHAsNTbP77Qk6TwrrWHZc.jpg"
+    },
+    {
+      "personId": 5723,
+      "name": "John Leguizamo",
+      "character": "Luigi Mario",
+      "order": 1,
+      "cast_id": 12,
+      "popularity": 5.3337,
+      "profile_path": "/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+    },
+    {
+      "personId": 2778,
+      "name": "Dennis Hopper",
+      "character": "King Koopa",
+      "order": 2,
+      "cast_id": 13,
+      "popularity": 3.2218,
+      "profile_path": "/kqyNvLHi5RZGZcZMxl7e6XvoB5U.jpg"
+    },
+    {
+      "personId": 20767,
+      "name": "Samantha Mathis",
+      "character": "Daisy",
+      "order": 3,
+      "cast_id": 14,
+      "popularity": 2.4015,
+      "profile_path": "/7J7gvH1uRqfPAPlg7b35rrxSbLB.jpg"
+    },
+    {
+      "personId": 26473,
+      "name": "Fisher Stevens",
+      "character": "Iggy",
+      "order": 4,
+      "cast_id": 16,
+      "popularity": 3.8092,
+      "profile_path": "/wWC6wbLV56RJGtyytMmmGvi054t.jpg"
+    },
+    {
+      "personId": 6396,
+      "name": "Richard Edson",
+      "character": "Spike",
+      "order": 5,
+      "cast_id": 17,
+      "popularity": 1.1977,
+      "profile_path": "/vuuU7beZrawR6VZB3a2QhDVtkjg.jpg"
+    },
+    {
+      "personId": 10981,
+      "name": "Fiona Shaw",
+      "character": "Lena",
+      "order": 6,
+      "cast_id": 18,
+      "popularity": 3.2875,
+      "profile_path": "/tjM74LcxwnYM77Csg1EtlXb1F9a.jpg"
+    },
+    {
+      "personId": 1855006,
+      "name": "Dana Kaminski",
+      "character": "Daniella",
+      "order": 7,
+      "cast_id": 23,
+      "popularity": 1.4956,
+      "profile_path": "/oIKYRLbwXhIgprqsw8ORWPglyyR.jpg"
+    },
+    {
+      "personId": 939703,
+      "name": "Mojo Nixon",
+      "character": "Toad",
+      "order": 8,
+      "cast_id": 19,
+      "popularity": 0.5383,
+      "profile_path": "/8PNFQnbtkd8ca6JtSpH20kxFe1u.jpg"
+    },
+    {
+      "personId": 3095,
+      "name": "Gianni Russo",
+      "character": "Scapelli",
+      "order": 9,
+      "cast_id": 24,
+      "popularity": 1.0551,
+      "profile_path": "/jfeGnQfXMzKXsuSPm9oTxm6FOuz.jpg"
+    },
+    {
+      "personId": 160427,
+      "name": "Francesca P. Roberts",
+      "character": "Bertha",
+      "order": 10,
+      "cast_id": 25,
+      "popularity": 0.7269,
+      "profile_path": "/qBTQkbpsfREZ4hsenhHh0ov2JcG.jpg"
+    },
+    {
+      "personId": 2714,
+      "name": "Lance Henriksen",
+      "character": "The King",
+      "order": 11,
+      "cast_id": 20,
+      "popularity": 2.918,
+      "profile_path": "/1PkFmD5HdjmRa2DumtwINnnAjTH.jpg"
+    },
+    {
+      "personId": 559432,
+      "name": "Sylvia Harman",
+      "character": "Old Lady",
+      "order": 12,
+      "cast_id": 26,
+      "popularity": 0.3428,
+      "profile_path": null
+    },
+    {
+      "personId": 1229200,
+      "name": "Desiree Marie Velez",
+      "character": "Angelica",
+      "order": 13,
+      "cast_id": 27,
+      "popularity": 0.4203,
+      "profile_path": "/8mmiIi7DadPwfB0eZhvRGkhLcxm.jpg"
+    },
+    {
+      "personId": 106949,
+      "name": "Andrea Powell",
+      "character": "Brooklyn Girl",
+      "order": 14,
+      "cast_id": 28,
+      "popularity": 1.572,
+      "profile_path": "/cDqn66JG5kz2YEyh7VYvqEjLcr5.jpg"
+    },
+    {
+      "personId": 2891290,
+      "name": "Heather Pendergast",
+      "character": "Brooklyn Girl",
+      "order": 15,
+      "cast_id": 41,
+      "popularity": 0.0377,
+      "profile_path": null
+    },
+    {
+      "personId": 2891297,
+      "name": "Melanie Salvatore",
+      "character": "Brooklyn Girl",
+      "order": 16,
+      "cast_id": 42,
+      "popularity": 0.1076,
+      "profile_path": null
+    },
+    {
+      "personId": 4145722,
+      "name": "John Fifer",
+      "character": "Goomba Toad",
+      "order": 17,
+      "cast_id": 81,
+      "popularity": 0.0766,
+      "profile_path": null
+    },
+    {
+      "personId": 27530,
+      "name": "Don Lake",
+      "character": "Sgt. Simon",
+      "order": 18,
+      "cast_id": 29,
+      "popularity": 1.5562,
+      "profile_path": "/zVcMF2Jtv1W3mvzYDE3JiFfw2PG.jpg"
+    },
+    {
+      "personId": 1078906,
+      "name": "Terry Finn",
+      "character": "Hatcheck Girl",
+      "order": 19,
+      "cast_id": 30,
+      "popularity": 0.7696,
+      "profile_path": "/kg2RhYTfgktl5HYpOFoNFkBSPJR.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 58164,
+      "name": "Annabel Jankel",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.3723,
+      "profile_path": "/ugOy8P88dTClGt2AeIRg36c5eZk.jpg"
+    },
+    {
+      "personId": 58165,
+      "name": "Rocky Morton",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.368,
+      "profile_path": "/e0IhDdjoc6eQu5i7ppsfzUn4apH.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 380,
+      "name": "sibling relationship"
+    },
+    {
+      "id": 83,
+      "name": "saving the world"
+    },
+    {
+      "id": 1878,
+      "name": "plumber"
+    },
+    {
+      "id": 9920,
+      "name": "royalty"
+    },
+    {
+      "id": 12616,
+      "name": "dinosaur"
+    },
+    {
+      "id": 41645,
+      "name": "based on video game"
+    },
+    {
+      "id": 179430,
+      "name": "aftercreditsstinger"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    },
+    {
+      "id": 194215,
+      "name": "multiple dimensions"
+    }
+  ]
+}

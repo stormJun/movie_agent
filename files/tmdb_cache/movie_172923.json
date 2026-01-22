@@ -1,0 +1,150 @@
+{
+  "overview": "After being falsely accused of a murder, Marcos runs away to the small and quiet town of Cuevano. There he finds that the family matters are more complicated than his.",
+  "release_date": "1995-05-26",
+  "runtime": 108,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 4.727,
+  "tmdb_vote_count": 11,
+  "tmdb_popularity": 0.22,
+  "original_language": "es",
+  "poster_path": "/hcmcOvuBovkME9JSRN6mtqZFOkv.jpg",
+  "backdrop_path": "/jpukTiVHlHM8wiHhdfvJSP3mNMi.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 80291,
+      "name": "Cuévano Films",
+      "origin_country": ""
+    },
+    {
+      "id": 28555,
+      "name": "Fondo de Fomento a la Calidad Cinematográfica",
+      "origin_country": "MX"
+    },
+    {
+      "id": 299,
+      "name": "Instituto Mexicano de Cinematografía",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 7370,
+      "name": "Damián Alcázar",
+      "character": "Marcos González",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 6.6795,
+      "profile_path": "/6IAlrZ2yXubmmVaRsF7fdaP3N7C.jpg"
+    },
+    {
+      "personId": 7372,
+      "name": "Pedro Armendáriz Jr.",
+      "character": "Alfonso",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 1.9347,
+      "profile_path": "/arN0AUVU1PhIJvzdGunhEH5knha.jpg"
+    },
+    {
+      "personId": 224507,
+      "name": "Dolores Heredia",
+      "character": "Lucero",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 1.4537,
+      "profile_path": "/vQM2QmixTyU2kBr72qjuuOCmbQ.jpg"
+    },
+    {
+      "personId": 47885,
+      "name": "José Carlos Ruiz",
+      "character": "Ramón",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 1.2768,
+      "profile_path": "/6wATObktwdicxKWtSFKdFxNTU0D.jpg"
+    },
+    {
+      "personId": 70364,
+      "name": "Margarita Isabel",
+      "character": "Amalia",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 1.1546,
+      "profile_path": null
+    },
+    {
+      "personId": 1011148,
+      "name": "Leticia Huijara",
+      "character": "Carmen \"La Chamuca\"",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 2.2694,
+      "profile_path": "/fhPCauCB0lJEm9oOuPZInFbCx3k.jpg"
+    },
+    {
+      "personId": 69865,
+      "name": "Jesús Ochoa",
+      "character": "Fernando",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 0.7424,
+      "profile_path": "/7q5cin3hrPIhMqRkPZ2sSyTrqlk.jpg"
+    },
+    {
+      "personId": 76874,
+      "name": "Guillermo Gil",
+      "character": "Santana",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 0.5285,
+      "profile_path": "/bN1AGtC6yS3SdMOgAUQAUsOTMKF.jpg"
+    },
+    {
+      "personId": 104393,
+      "name": "Farnesio de Bernal",
+      "character": "Dr. Canalejas",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 0.245,
+      "profile_path": "/b08rr2zqKJoBu7VHvJ1iYuel6qQ.jpg"
+    },
+    {
+      "personId": 15412,
+      "name": "David Clennon",
+      "character": "Jim",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 1.5054,
+      "profile_path": "/jLOf8nYolcb4P8LUDOW7QK5Y9pH.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 16401,
+      "name": "Roberto Sneider",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4614,
+      "profile_path": "/5Uy6zndQsZPIb6hREu32XDKeByn.jpg"
+    }
+  ],
+  "keywords": []
+}

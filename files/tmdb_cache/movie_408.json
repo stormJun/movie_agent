@@ -1,0 +1,314 @@
+{
+  "overview": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as \"the fairest in the land,\" and Snow White's beauty surpasses her own.",
+  "release_date": "1938-01-14",
+  "runtime": 83,
+  "budget": 1488423,
+  "revenue": 184925486,
+  "tmdb_vote_average": 7.123,
+  "tmdb_vote_count": 7833,
+  "tmdb_popularity": 9.5135,
+  "original_language": "en",
+  "poster_path": "/3VAHfuNb6Z7UiW12iYKANSPBl8m.jpg",
+  "backdrop_path": "/5Zmo0yemXM50ozqMNhGiGhkZ8p7.jpg",
+  "tmdb_genres_raw": [
+    "Fantasy",
+    "Animation",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 3166,
+      "name": "Walt Disney Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5460,
+      "name": "Adriana Caselotti",
+      "character": "Snow White (voice) (uncredited)",
+      "order": 0,
+      "cast_id": 14,
+      "popularity": 0.8168,
+      "profile_path": "/7nOCtRQnfH6RQ39IZBDffIadgR7.jpg"
+    },
+    {
+      "personId": 288940,
+      "name": "Lucille La Verne",
+      "character": "Queen / Witch (voice) (uncredited)",
+      "order": 1,
+      "cast_id": 31,
+      "popularity": 0.932,
+      "profile_path": "/6L3j9U9IkxJhatF8ASsO3PtNZUN.jpg"
+    },
+    {
+      "personId": 540747,
+      "name": "Harry Stockwell",
+      "character": "Prince (voice) (uncredited)",
+      "order": 2,
+      "cast_id": 34,
+      "popularity": 1.3569,
+      "profile_path": "/k5fxPKEpZ6Cgxckca9cCkc0CK5X.jpg"
+    },
+    {
+      "personId": 5457,
+      "name": "Roy Atwell",
+      "character": "Doc (voice) (uncredited)",
+      "order": 3,
+      "cast_id": 20,
+      "popularity": 0.8015,
+      "profile_path": "/huVgxMlWdN6VvIzfiMLEZi4Zlbu.jpg"
+    },
+    {
+      "personId": 5462,
+      "name": "Pinto Colvig",
+      "character": "Sleepy / Grumpy / Dopey (hiccups) (voice) (uncredited)",
+      "order": 4,
+      "cast_id": 16,
+      "popularity": 1.3252,
+      "profile_path": "/jslBLHuV1cOKsyx763CA1RqsrQU.jpg"
+    },
+    {
+      "personId": 5465,
+      "name": "Otis Harlan",
+      "character": "Happy (voice) (uncredited)",
+      "order": 5,
+      "cast_id": 19,
+      "popularity": 0.6489,
+      "profile_path": "/52f8iXnnQW8iCsO5HzEBtUGHz5X.jpg"
+    },
+    {
+      "personId": 364526,
+      "name": "Scotty Mattraw",
+      "character": "Bashful (voice) (uncredited)",
+      "order": 6,
+      "cast_id": 32,
+      "popularity": 2.3344,
+      "profile_path": null
+    },
+    {
+      "personId": 5464,
+      "name": "Billy Gilbert",
+      "character": "Sneezy (voice) (uncredited)",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 0.693,
+      "profile_path": "/xEqQLDrbtY2TlANNbXwXPG3ZDyK.jpg"
+    },
+    {
+      "personId": 5461,
+      "name": "Eddie Collins",
+      "character": "Dopey / Chipmunk and Squirrel Sneezes (voice) (uncredited)",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 0.4413,
+      "profile_path": "/wsXhLs3kW58JDkzC6UVvy1zT0vQ.jpg"
+    },
+    {
+      "personId": 18586,
+      "name": "Moroni Olsen",
+      "character": "Magic Mirror (voice) (uncredited)",
+      "order": 9,
+      "cast_id": 33,
+      "popularity": 0.7234,
+      "profile_path": "/xJ56TNofwpQH3b0UAs8spNq35OR.jpg"
+    },
+    {
+      "personId": 5463,
+      "name": "Marion Darlington",
+      "character": "Birds (voice) (uncredited)",
+      "order": 10,
+      "cast_id": 17,
+      "popularity": 0.8546,
+      "profile_path": null
+    },
+    {
+      "personId": 523407,
+      "name": "Purv Pullen",
+      "character": "Birds (voice) (uncredited)",
+      "order": 11,
+      "cast_id": 35,
+      "popularity": 0.6176,
+      "profile_path": "/pNzPfUiCII6BS51y7rjEOM4Y3BJ.jpg"
+    },
+    {
+      "personId": 4058033,
+      "name": "Stuart Buchanan",
+      "character": "Huntsman (voice) (uncredited)",
+      "order": 12,
+      "cast_id": 139,
+      "popularity": 0.4142,
+      "profile_path": null
+    },
+    {
+      "personId": 15098,
+      "name": "June Foray",
+      "character": "Animals (voice) (uncredited)",
+      "order": 13,
+      "cast_id": 140,
+      "popularity": 1.4281,
+      "profile_path": "/6s5sWcOPGtVdbMFtZwkWadArj2I.jpg"
+    },
+    {
+      "personId": 61676,
+      "name": "Candy Candido",
+      "character": "Raven (voice) (uncredited)",
+      "order": 14,
+      "cast_id": 141,
+      "popularity": 0.4234,
+      "profile_path": "/vFGHGz8Qb209Uq8CzioknBAFtM7.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 5446,
+      "name": "David Hand",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.6213,
+      "profile_path": "/fZ5OKDm8YJmAfzPdvatMGuCRDu6.jpg"
+    },
+    {
+      "personId": 11426,
+      "name": "Ben Sharpsteen",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.4554,
+      "profile_path": "/nfruaWGIjvI99oXmyzmsnGkdDL9.jpg"
+    },
+    {
+      "personId": 67373,
+      "name": "William Cottrell",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7464,
+      "profile_path": "/hvxdQSp6Lg8PpTGcjLi6aTfyC6P.jpg"
+    },
+    {
+      "personId": 564042,
+      "name": "Larry Morey",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.2807,
+      "profile_path": null
+    },
+    {
+      "personId": 52218,
+      "name": "Perce Pearce",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.518,
+      "profile_path": null
+    },
+    {
+      "personId": 11434,
+      "name": "Wilfred Jackson",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.5244,
+      "profile_path": "/rTszyDc1jFOQQrzSYgnxEVLxd8W.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 616,
+      "name": "witch"
+    },
+    {
+      "id": 3737,
+      "name": "dying and death"
+    },
+    {
+      "id": 7376,
+      "name": "princess"
+    },
+    {
+      "id": 1412,
+      "name": "becoming an adult"
+    },
+    {
+      "id": 604,
+      "name": "dwarf"
+    },
+    {
+      "id": 351,
+      "name": "poison"
+    },
+    {
+      "id": 1647,
+      "name": "sadness"
+    },
+    {
+      "id": 2011,
+      "name": "queen"
+    },
+    {
+      "id": 2013,
+      "name": "attempted murder"
+    },
+    {
+      "id": 6513,
+      "name": "cartoon"
+    },
+    {
+      "id": 3289,
+      "name": "villain"
+    },
+    {
+      "id": 4781,
+      "name": "miner"
+    },
+    {
+      "id": 33673,
+      "name": "apple"
+    },
+    {
+      "id": 166625,
+      "name": "candlelight vigil"
+    },
+    {
+      "id": 169343,
+      "name": "evil queen"
+    },
+    {
+      "id": 179411,
+      "name": "based on fairy tale"
+    },
+    {
+      "id": 239200,
+      "name": "magic mirror"
+    },
+    {
+      "id": 269233,
+      "name": "good versus evil"
+    },
+    {
+      "id": 292588,
+      "name": "seven dwarfs"
+    },
+    {
+      "id": 324713,
+      "name": "whimsical"
+    },
+    {
+      "id": 325775,
+      "name": "awestruck"
+    },
+    {
+      "id": 325851,
+      "name": "straightforward"
+    }
+  ]
+}

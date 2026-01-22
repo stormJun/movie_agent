@@ -1,0 +1,275 @@
+{
+  "overview": "When a man's daughter is suddenly taken during a championship hockey game – with the captors demanding a billion dollars by game's end – he frantically sets a plan in motion to rescue her and abort an impending explosion before the final buzzer.",
+  "release_date": "1995-10-27",
+  "runtime": 110,
+  "budget": 35000000,
+  "revenue": 64350171,
+  "tmdb_vote_average": 6.008,
+  "tmdb_vote_count": 778,
+  "tmdb_popularity": 1.8982,
+  "original_language": "en",
+  "poster_path": "/1pylO6YX5XdOA6QCc5IRxrrffkg.jpg",
+  "backdrop_path": "/wPSHboBNEInknw4VnCWOD2D8qc2.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Drama",
+    "Thriller",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 99689,
+      "name": "Shattered Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 21437,
+      "name": "Imperial Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 23770,
+      "name": "Signature Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 15111,
+      "name": "Jean-Claude Van Damme",
+      "character": "Darren Francis Thomas McCord",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 7.7447,
+      "profile_path": "/v4hqSYeG17WOMp0xNjoWgi8Vbyn.jpg"
+    },
+    {
+      "personId": 6280,
+      "name": "Powers Boothe",
+      "character": "Joshua Foss",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.5867,
+      "profile_path": "/xj3DBMqnEnyYfHEBcRHOxlpbQS4.jpg"
+    },
+    {
+      "personId": 10361,
+      "name": "Raymond J. Barry",
+      "character": "Vice President Daniel Bender",
+      "order": 2,
+      "cast_id": 15,
+      "popularity": 1.3967,
+      "profile_path": "/8rJs8BQMoVqEjjCHCS4i7o7joJ6.jpg"
+    },
+    {
+      "personId": 79088,
+      "name": "Whittni Wright",
+      "character": "Emily McCord",
+      "order": 3,
+      "cast_id": 17,
+      "popularity": 0.4775,
+      "profile_path": "/7A7C5ljLzVB9FimZTESsRFFSmZz.jpg"
+    },
+    {
+      "personId": 12928,
+      "name": "Ross Malinger",
+      "character": "Tyler McCord",
+      "order": 4,
+      "cast_id": 16,
+      "popularity": 5.2376,
+      "profile_path": "/7GiouqIfxSH14Xy8KToensUDVGK.jpg"
+    },
+    {
+      "personId": 8656,
+      "name": "Dorian Harewood",
+      "character": "Matthew Hallmark",
+      "order": 5,
+      "cast_id": 4,
+      "popularity": 1.2321,
+      "profile_path": "/j3Nc0uNpe3MkonLtOrzVegO22QO.jpg"
+    },
+    {
+      "personId": 104873,
+      "name": "Kate McNeil",
+      "character": "Kathi",
+      "order": 6,
+      "cast_id": 139,
+      "popularity": 2.1526,
+      "profile_path": "/5cVXpts4pNEi6YXzwElq9FTiaHk.jpg"
+    },
+    {
+      "personId": 33241,
+      "name": "Michael Gaston",
+      "character": "Hickey",
+      "order": 7,
+      "cast_id": 140,
+      "popularity": 3.6315,
+      "profile_path": "/lXhqiW4J1n9bnbfwz0Kdf2sjGLU.jpg"
+    },
+    {
+      "personId": 4162,
+      "name": "Audra Lindley",
+      "character": "Mrs. Ferrara",
+      "order": 8,
+      "cast_id": 141,
+      "popularity": 1.0254,
+      "profile_path": "/60e6GYrdtiVW6imhzmZbxZ4GRtr.jpg"
+    },
+    {
+      "personId": 6579,
+      "name": "Brian Delate",
+      "character": "Blair",
+      "order": 9,
+      "cast_id": 142,
+      "popularity": 0.7742,
+      "profile_path": "/rydDYe4VHjZsJZPWOus4KGkhroG.jpg"
+    },
+    {
+      "personId": 2574788,
+      "name": "Steve Aronson",
+      "character": "Dooley",
+      "order": 10,
+      "cast_id": 143,
+      "popularity": 0.3736,
+      "profile_path": null
+    },
+    {
+      "personId": 1896723,
+      "name": "Michael R. Aubele",
+      "character": "Ace",
+      "order": 11,
+      "cast_id": 144,
+      "popularity": 0.165,
+      "profile_path": null
+    },
+    {
+      "personId": 53300,
+      "name": "Karen Elise Baldwin",
+      "character": "TV Director",
+      "order": 12,
+      "cast_id": 145,
+      "popularity": 0.5109,
+      "profile_path": "/hbaJfRad8n9h5k4v9JvieM6seDb.jpg"
+    },
+    {
+      "personId": 2574789,
+      "name": "Jennifer D. Bowser",
+      "character": "Joan",
+      "order": 13,
+      "cast_id": 146,
+      "popularity": 0.0256,
+      "profile_path": null
+    },
+    {
+      "personId": 1665269,
+      "name": "Pat Brisson",
+      "character": "Player #2",
+      "order": 14,
+      "cast_id": 147,
+      "popularity": 0.1109,
+      "profile_path": "/4VEnpDiJWiWaouOAOPsmn2Uz7iq.jpg"
+    },
+    {
+      "personId": 1928897,
+      "name": "Glenda Morgan Brown",
+      "character": "Mrs. Taylor",
+      "order": 15,
+      "cast_id": 148,
+      "popularity": 0.3788,
+      "profile_path": "/rXjPM6M9KajZ1AMv0QJT5AeTsPt.jpg"
+    },
+    {
+      "personId": 9559,
+      "name": "Jophery C. Brown",
+      "character": "Wootton",
+      "order": 16,
+      "cast_id": 149,
+      "popularity": 0.4574,
+      "profile_path": "/Uf6SfhpfFvSUCNGQylUFdHn2pV.jpg"
+    },
+    {
+      "personId": 1090362,
+      "name": "William Cameron",
+      "character": "Secret Service Agent",
+      "order": 17,
+      "cast_id": 150,
+      "popularity": 0.3526,
+      "profile_path": null
+    },
+    {
+      "personId": 2574790,
+      "name": "Bernard Canepari",
+      "character": "Jefferson",
+      "order": 18,
+      "cast_id": 151,
+      "popularity": 0.1112,
+      "profile_path": null
+    },
+    {
+      "personId": 2574791,
+      "name": "Jay Caufield",
+      "character": "Tolliver",
+      "order": 19,
+      "cast_id": 152,
+      "popularity": 0.1216,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 37710,
+      "name": "Peter Hyams",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8744,
+      "profile_path": "/duAvOEQ7Bt3RoiyBzFmlOawcCwW.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1653,
+      "name": "explosive"
+    },
+    {
+      "id": 1562,
+      "name": "hostage"
+    },
+    {
+      "id": 6483,
+      "name": "ice hockey"
+    },
+    {
+      "id": 13015,
+      "name": "terrorism"
+    },
+    {
+      "id": 193533,
+      "name": "vice president"
+    },
+    {
+      "id": 193594,
+      "name": "pittsburgh, pennsylvania"
+    },
+    {
+      "id": 266169,
+      "name": "pittsburgh penguins"
+    }
+  ]
+}

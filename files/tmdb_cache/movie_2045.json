@@ -1,0 +1,229 @@
+{
+  "overview": "Seattle medical examiner David Krane is obsessed with solving his wife's murder. A possible solution presents itself in an experimental \"memory\" serum designed by a neurobiology professor, which has the ability to transfer memories from one person to another, but with potentially fatal consequences.",
+  "release_date": "1996-02-23",
+  "runtime": 116,
+  "budget": 18000000,
+  "revenue": 0,
+  "tmdb_vote_average": 5.598,
+  "tmdb_vote_count": 112,
+  "tmdb_popularity": 3.1454,
+  "original_language": "en",
+  "poster_path": "/500Ne3EDn3HHpuCQWwGKR74r0cB.jpg",
+  "backdrop_path": "/qiHv4wmDEZsz1aMihaAMWhguhio.jpg",
+  "tmdb_genres_raw": [
+    "Thriller",
+    "Mystery",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    {
+      "id": 10308,
+      "name": "The De Laurentiis Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 10355,
+      "name": "Spelling Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11477,
+      "name": "Ray Liotta",
+      "character": "Dr. David Krane",
+      "order": 0,
+      "cast_id": 9,
+      "popularity": 4.0613,
+      "profile_path": "/rhaCUi04uEXDFvuPM5Drj1AprE6.jpg"
+    },
+    {
+      "personId": 9625,
+      "name": "Linda Fiorentino",
+      "character": "Dr. Martha Briggs",
+      "order": 1,
+      "cast_id": 17,
+      "popularity": 1.2735,
+      "profile_path": "/kG0O5DRNJfIgxqv9eXkCq8eeR9U.jpg"
+    },
+    {
+      "personId": 9979,
+      "name": "Peter Coyote",
+      "character": "Don Bresler",
+      "order": 2,
+      "cast_id": 10,
+      "popularity": 2.2348,
+      "profile_path": "/AglpxXP9wBM567UMGL9DAMbid1V.jpg"
+    },
+    {
+      "personId": 4443,
+      "name": "Christopher McDonald",
+      "character": "Stewart Gleick",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 3.2756,
+      "profile_path": "/gK1XhbfD9Xd8s3VXRPpgDCluyZp.jpg"
+    },
+    {
+      "personId": 19839,
+      "name": "David Paymer",
+      "character": "Curtis Avery",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 2.6305,
+      "profile_path": "/owoOdDFgXpls1OFKwmQ104Nkl5.jpg"
+    },
+    {
+      "personId": 14595,
+      "name": "Duncan Fraser",
+      "character": "Michael Stratton",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 1.0188,
+      "profile_path": "/ckiY9K7fwH5KRuTE3IM5kelwm0c.jpg"
+    },
+    {
+      "personId": 8335,
+      "name": "Kim Coates",
+      "character": "Eddie Dutton",
+      "order": 6,
+      "cast_id": 20,
+      "popularity": 3.5102,
+      "profile_path": "/brhVd2vTTBJNpM2ZrOFc6SnXCAd.jpg"
+    },
+    {
+      "personId": 2109,
+      "name": "Kim Cattrall",
+      "character": "Kelly",
+      "order": 7,
+      "cast_id": 19,
+      "popularity": 3.2865,
+      "profile_path": "/jDqSho6MUPdlaBfS56FVNSbPyIS.jpg"
+    },
+    {
+      "personId": 21058,
+      "name": "Colleen Rennison",
+      "character": "Lindy Krane",
+      "order": 8,
+      "cast_id": 14,
+      "popularity": 0.7721,
+      "profile_path": "/1tGihxyjS8FD9fSzSFQVAMcaG9a.jpg"
+    },
+    {
+      "personId": 21059,
+      "name": "Caroline Elliott",
+      "character": "Cara Krane",
+      "order": 9,
+      "cast_id": 15,
+      "popularity": 0.6596,
+      "profile_path": null
+    },
+    {
+      "personId": 21060,
+      "name": "Stellina Rusich",
+      "character": "Mary Krane",
+      "order": 10,
+      "cast_id": 16,
+      "popularity": 1.8969,
+      "profile_path": "/8e3JWwcUzkpyA7Lzqc21bmI5Hrc.jpg"
+    },
+    {
+      "personId": 540,
+      "name": "Callum Keith Rennie",
+      "character": "Drug Dealer",
+      "order": 11,
+      "cast_id": 21,
+      "popularity": 2.1107,
+      "profile_path": "/zOeA4IR4xYde2VlDsHZy2SoPZkc.jpg"
+    },
+    {
+      "personId": 12643,
+      "name": "William B. Davis",
+      "character": "Doctor",
+      "order": 12,
+      "cast_id": 32,
+      "popularity": 1.3078,
+      "profile_path": "/b4imZtShd4kK6xFu2ccuPd0fqXA.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 21053,
+      "name": "John Dahl",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.3994,
+      "profile_path": "/8WDCi9LJ9Lc7z6BSwGiQqfkSx61.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1523,
+      "name": "obsession"
+    },
+    {
+      "id": 2619,
+      "name": "suspicion of murder"
+    },
+    {
+      "id": 2350,
+      "name": "seattle, washington"
+    },
+    {
+      "id": 6780,
+      "name": "medical examiner"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 11727,
+      "name": "crime scene"
+    },
+    {
+      "id": 162139,
+      "name": "painful memories"
+    },
+    {
+      "id": 208397,
+      "name": "death of wife"
+    },
+    {
+      "id": 222018,
+      "name": "dangerous side effects"
+    },
+    {
+      "id": 222476,
+      "name": "search for truth"
+    },
+    {
+      "id": 249845,
+      "name": "experimental drug"
+    },
+    {
+      "id": 292162,
+      "name": "murdered wife"
+    },
+    {
+      "id": 313478,
+      "name": "neurobiology"
+    }
+  ]
+}

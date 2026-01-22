@@ -1,0 +1,267 @@
+{
+  "overview": "The story takes place in alternative America where the blacks are members of social elite, and whites are inhabitants of inner city ghettos. Louis Pinnock is a white worker in a chocolate factory, loving husband and father of two children. While delivering a package for black CEO Thaddeus Thomas, he is mistaken for a voyeur and, as a result, loses his job, gets beaten by black cops and his family gets evicted from their home. Desperate Pinnock takes a gun and kidnaps Thomas, demanding justice.",
+  "release_date": "1995-12-01",
+  "runtime": 89,
+  "budget": 7000000,
+  "revenue": 9000000,
+  "tmdb_vote_average": 5.144,
+  "tmdb_vote_count": 84,
+  "tmdb_popularity": 0.4116,
+  "original_language": "en",
+  "poster_path": "/5MPatVYJXPYEGrd9RQiwldBBQvJ.jpg",
+  "backdrop_path": "/uvkfydMPlao4cpZ6bBappfkt1Zz.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 581,
+      "name": "UGC",
+      "origin_country": "FR"
+    },
+    {
+      "id": 59,
+      "name": "A Band Apart",
+      "origin_country": "US"
+    },
+    {
+      "id": 2253,
+      "name": "Lawrence Bender Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8891,
+      "name": "John Travolta",
+      "character": "Louis Pinnock",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 7.5196,
+      "profile_path": "/ap8eEYfBKTLixmVVpRlq4NslDD5.jpg"
+    },
+    {
+      "personId": 33162,
+      "name": "Harry Belafonte",
+      "character": "Thaddeus Thomas",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 0.8518,
+      "profile_path": "/8x9zZS36gSOKiTnUwoBqYKvnYg6.jpg"
+    },
+    {
+      "personId": 6473,
+      "name": "Kelly Lynch",
+      "character": "Marsha Pinnock",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.3057,
+      "profile_path": "/lYpcMbWOpZ552VHPCjwjyZ2jvvw.jpg"
+    },
+    {
+      "personId": 13307,
+      "name": "Margaret Avery",
+      "character": "Megan Thomas",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 1.504,
+      "profile_path": "/pvAB2GwE8QCPo7WxwBW7ndqUoPR.jpg"
+    },
+    {
+      "personId": 19453,
+      "name": "Tom Bower",
+      "character": "Stanley",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 1.8679,
+      "profile_path": "/q26z6T3QZfpirZV3Ex885zUgUR4.jpg"
+    },
+    {
+      "personId": 16479,
+      "name": "Andrew Lawrence",
+      "character": "Donnie Pinnock",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 2.2163,
+      "profile_path": "/bysQnLdg7zsEenMd2ZVzdMPCOJ1.jpg"
+    },
+    {
+      "personId": 35111,
+      "name": "Bumper Robinson",
+      "character": "Martin",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 1.5703,
+      "profile_path": "/9KU72zZXIfsGAPgHmhlJmTYvor9.jpg"
+    },
+    {
+      "personId": 55270,
+      "name": "Tom Wright",
+      "character": "Lionel",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 1.8427,
+      "profile_path": "/lJ4L5fdXBeNr528gBB4eMTdvfd4.jpg"
+    },
+    {
+      "personId": 33613,
+      "name": "Sheryl Lee Ralph",
+      "character": "Roberta",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 2.3817,
+      "profile_path": "/8S9CilET8kJKkxOQPEsA3OYSZGg.jpg"
+    },
+    {
+      "personId": 109900,
+      "name": "Judith Drake",
+      "character": "Dorothy",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 1.9829,
+      "profile_path": "/7ou1hID0A4rmixEx2QDib97Pkgh.jpg"
+    },
+    {
+      "personId": 44831,
+      "name": "Carrie Snodgress",
+      "character": "Josine",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 1.1765,
+      "profile_path": "/5Bygw37FqX7qeuNTRycGIKFcaCj.jpg"
+    },
+    {
+      "personId": 155834,
+      "name": "Steve Wilcox",
+      "character": "1st Youth at Hot Dog Stand",
+      "order": 11,
+      "cast_id": 15,
+      "popularity": 1.9935,
+      "profile_path": "/ohvIRTFqy0LcyI8OgSJjlBEfiSm.jpg"
+    },
+    {
+      "personId": 1328752,
+      "name": "Jason Kristofer",
+      "character": "2nd Youth at Hot Dog Stand",
+      "order": 12,
+      "cast_id": 16,
+      "popularity": 0.7092,
+      "profile_path": "/c1CCuxsbiCuObnsNmkpWUfbSnBy.jpg"
+    },
+    {
+      "personId": 13922,
+      "name": "Seth Green",
+      "character": "3rd Youth at Hot Dog Stand",
+      "order": 13,
+      "cast_id": 17,
+      "popularity": 5.2181,
+      "profile_path": "/l4No5Eu6j0U80hCIkaSn17AOWrj.jpg"
+    },
+    {
+      "personId": 19578,
+      "name": "Alexis Arquette",
+      "character": "Panhandler",
+      "order": 14,
+      "cast_id": 18,
+      "popularity": 0.9136,
+      "profile_path": "/jNRBwGKXOZFWLI2ceff1sMUdxcE.jpg"
+    },
+    {
+      "personId": 2545,
+      "name": "Lawrence Bender",
+      "character": "Bar Patron #1",
+      "order": 15,
+      "cast_id": 19,
+      "popularity": 2.1827,
+      "profile_path": "/mZRwkIvUj8USnS7Jfwd6VdHkY2x.jpg"
+    },
+    {
+      "personId": 101301,
+      "name": "Kerry Remsen",
+      "character": "Pregnant Woman at Bus Stop",
+      "order": 16,
+      "cast_id": 20,
+      "popularity": 0.4528,
+      "profile_path": "/u5aU0uQe8rHAZ81Ngva19biTSDF.jpg"
+    },
+    {
+      "personId": 2172098,
+      "name": "Steve Larson",
+      "character": "Bottle Thrower",
+      "order": 17,
+      "cast_id": 21,
+      "popularity": 1.1136,
+      "profile_path": "/vWmABYgtlyMpjcLuke8fGfUaqAx.jpg"
+    },
+    {
+      "personId": 15251,
+      "name": "Robert Gossett",
+      "character": "John",
+      "order": 18,
+      "cast_id": 40,
+      "popularity": 1.7926,
+      "profile_path": "/gDrlbzqo3JQBOrL6U2dC78gfC4w.jpg"
+    },
+    {
+      "personId": 154158,
+      "name": "Wesley Thompson",
+      "character": "Williams",
+      "order": 19,
+      "cast_id": 41,
+      "popularity": 0.7593,
+      "profile_path": "/tElRlp4m2HCjL783fBXgviPfPMU.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 73494,
+      "name": "Desmond Nakano",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8081,
+      "profile_path": "/hpImuDSIGezDYUrT1GjOcEDNK7y.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 4565,
+      "name": "dystopia"
+    },
+    {
+      "id": 11504,
+      "name": "black white relations"
+    },
+    {
+      "id": 200918,
+      "name": "angry"
+    },
+    {
+      "id": 245157,
+      "name": "alternate universe"
+    },
+    {
+      "id": 269808,
+      "name": "introspective"
+    },
+    {
+      "id": 325771,
+      "name": "arrogant"
+    }
+  ]
+}

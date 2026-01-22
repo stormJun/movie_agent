@@ -1,0 +1,252 @@
+{
+  "overview": "A series of mysterious crimes threatens the existence of a new radio network.",
+  "release_date": "1994-10-21",
+  "runtime": 108,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.9,
+  "tmdb_vote_count": 55,
+  "tmdb_popularity": 0.6482,
+  "original_language": "en",
+  "poster_path": "/l9pvl3AH4UsUvLn4yUP0RR4pltx.jpg",
+  "backdrop_path": "/6TqfA0WFh9t5lhxPg9rwAswM9Yv.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1,
+      "name": "Lucasfilm Ltd.",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 84690,
+      "name": "Brian Benben",
+      "character": "Roger Henderson",
+      "order": 0,
+      "cast_id": 7,
+      "popularity": 1.3643,
+      "profile_path": "/tSOFH0cUVzGGonl9HanOiKiqTyU.jpg"
+    },
+    {
+      "personId": 31140,
+      "name": "Mary Stuart Masterson",
+      "character": "Penny Henderson",
+      "order": 1,
+      "cast_id": 8,
+      "popularity": 2.7279,
+      "profile_path": "/sxQksTRKrubxcfjA5f1cQIr7dk9.jpg"
+    },
+    {
+      "personId": 13726,
+      "name": "Ned Beatty",
+      "character": "General Whalen",
+      "order": 2,
+      "cast_id": 9,
+      "popularity": 1.9062,
+      "profile_path": "/rUNNq9CYLkyOwnyGd8QA0LzhmJf.jpg"
+    },
+    {
+      "personId": 65728,
+      "name": "Scott Michael Campbell",
+      "character": "Billy",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 1.8851,
+      "profile_path": "/p1fKMI59U489Rys9xvqzdTLxPrL.jpg"
+    },
+    {
+      "personId": 591,
+      "name": "Brion James",
+      "character": "Bernie King",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 2.0646,
+      "profile_path": "/qy5jIIsWrNCV1OVRaUiqYNhLLVT.jpg"
+    },
+    {
+      "personId": 4250,
+      "name": "Michael Lerner",
+      "character": "Lieutenant Cross",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 1.4201,
+      "profile_path": "/1jRm6TRS5atQrA1VQSef7GoL13g.jpg"
+    },
+    {
+      "personId": 21731,
+      "name": "Michael McKean",
+      "character": "Rick Rochester",
+      "order": 6,
+      "cast_id": 14,
+      "popularity": 3.4826,
+      "profile_path": "/xuEZeuylzznJcf0nDs1RlvuzaPr.jpg"
+    },
+    {
+      "personId": 4175,
+      "name": "Jeffrey Tambor",
+      "character": "Walt Whalen Jr.",
+      "order": 7,
+      "cast_id": 15,
+      "popularity": 3.4503,
+      "profile_path": "/e4IkxsEo5O4oUWrIpXlEhWa6lqB.jpg"
+    },
+    {
+      "personId": 537,
+      "name": "Stephen Tobolowsky",
+      "character": "Max Applewhite",
+      "order": 8,
+      "cast_id": 16,
+      "popularity": 3.8913,
+      "profile_path": "/uL8yfcm0dCFYFQt052kczVQVvac.jpg"
+    },
+    {
+      "personId": 1062,
+      "name": "Christopher Lloyd",
+      "character": "Zoltan",
+      "order": 9,
+      "cast_id": 17,
+      "popularity": 4.3586,
+      "profile_path": "/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg"
+    },
+    {
+      "personId": 1211,
+      "name": "Larry Miller",
+      "character": "Herman Katzenback",
+      "order": 10,
+      "cast_id": 25,
+      "popularity": 2.6049,
+      "profile_path": "/ajnXlXG20LJwAwxne8G94ucVj0v.jpg"
+    },
+    {
+      "personId": 159753,
+      "name": "Anita Morris",
+      "character": "Claudette Katsenback",
+      "order": 11,
+      "cast_id": 19,
+      "popularity": 0.7404,
+      "profile_path": "/yxAThKmM3IHTcLKo5lULozhMXqI.jpg"
+    },
+    {
+      "personId": 21246,
+      "name": "Corbin Bernsen",
+      "character": "Dexter Morris",
+      "order": 12,
+      "cast_id": 20,
+      "popularity": 2.7045,
+      "profile_path": "/zkftLlEO5fmKmcKienRKw9Gx0U9.jpg"
+    },
+    {
+      "personId": 95024,
+      "name": "Bobcat Goldthwait",
+      "character": "Wild Writer",
+      "order": 13,
+      "cast_id": 22,
+      "popularity": 2.5575,
+      "profile_path": "/dvx9ykvmZnpLJhXqdMx3rF00Mx7.jpg"
+    },
+    {
+      "personId": 13729,
+      "name": "Robert Walden",
+      "character": "Tommy",
+      "order": 14,
+      "cast_id": 23,
+      "popularity": 0.7067,
+      "profile_path": "/pCKGiXr9x6LyNiJLvIsS0qvl4w5.jpg"
+    },
+    {
+      "personId": 19152,
+      "name": "Dylan Baker",
+      "character": "Jasper",
+      "order": 15,
+      "cast_id": 24,
+      "popularity": 3.907,
+      "profile_path": "/4mw6xj8Aj3ixjjeUj9pZdZPTbvz.jpg"
+    },
+    {
+      "personId": 80625,
+      "name": "George Burns",
+      "character": "Milt Lackey",
+      "order": 16,
+      "cast_id": 10,
+      "popularity": 1.1265,
+      "profile_path": "/huQQweRLT1P7Xwh1j44ytEHwJry.jpg"
+    },
+    {
+      "personId": 77674,
+      "name": "Rosemary Clooney",
+      "character": "Anna",
+      "order": 17,
+      "cast_id": 21,
+      "popularity": 0.6807,
+      "profile_path": "/eqCCpZp0j8ZBGM7eZLBXAIoXQ9y.jpg"
+    },
+    {
+      "personId": 12659,
+      "name": "Billy Barty",
+      "character": "Billy Barty",
+      "order": 18,
+      "cast_id": 27,
+      "popularity": 1.722,
+      "profile_path": "/b8Q8bD1AaXFDBpAg4pDBkb7Z1Nh.jpg"
+    },
+    {
+      "personId": 3546206,
+      "name": "Tracy Byrd",
+      "character": "Tracy Byrd",
+      "order": 19,
+      "cast_id": 54,
+      "popularity": 0.0794,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 141450,
+      "name": "Mel Smith",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.3329,
+      "profile_path": "/vynnJ4jWZvGRClXTN4kFQqTEIdn.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1224,
+      "name": "radio station"
+    },
+    {
+      "id": 2135,
+      "name": "radio"
+    },
+    {
+      "id": 13028,
+      "name": "writer"
+    },
+    {
+      "id": 14530,
+      "name": "director"
+    }
+  ]
+}

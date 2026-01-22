@@ -1,0 +1,313 @@
+{
+  "overview": "After the Cold War, a breakaway Russian republic with nuclear warheads becomes a possible worldwide threat. U.S. submarine Capt. Frank Ramsey signs on a relatively green but highly recommended Lt. Cmdr. Ron Hunter to the USS Alabama, which may be the only ship able to stop a possible Armageddon. When Ramsey insists that the Alabama must act aggressively, Hunter, fearing they will start rather than stop a disaster, leads a potential mutiny to stop him.",
+  "release_date": "1995-05-12",
+  "runtime": 116,
+  "budget": 53000000,
+  "revenue": 157387195,
+  "tmdb_vote_average": 7.2,
+  "tmdb_vote_count": 1916,
+  "tmdb_popularity": 4.7888,
+  "original_language": "en",
+  "poster_path": "/21nqRJ6ofEgVvEl68J4O9V26Xzy.jpg",
+  "backdrop_path": "/qKWQ9IEDkMawD7sgKnIGCdFAhct.jpg",
+  "tmdb_genres_raw": [
+    "Thriller",
+    "Action",
+    "Drama",
+    "War"
+  ],
+  "production_companies": [
+    {
+      "id": 915,
+      "name": "Hollywood Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 10288,
+      "name": "Don Simpson/Jerry Bruckheimer Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5292,
+      "name": "Denzel Washington",
+      "character": "Lt. Commander Ronald \"Ron\" Hunter",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 7.8701,
+      "profile_path": "/jj2Gcobpopokal0YstuCQW0ldJ4.jpg"
+    },
+    {
+      "personId": 193,
+      "name": "Gene Hackman",
+      "character": "Captain Franklin \"Frank\" Ramsey",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 3.843,
+      "profile_path": "/wN8brfOI8AjngGchkQtFqfEPam5.jpg"
+    },
+    {
+      "personId": 13525,
+      "name": "Matt Craven",
+      "character": "Lt. Roy Zimmer",
+      "order": 2,
+      "cast_id": 12,
+      "popularity": 2.0438,
+      "profile_path": "/tWF8B3Dj7zvKRmkTplp7ice6Wo9.jpg"
+    },
+    {
+      "personId": 10477,
+      "name": "George Dzundza",
+      "character": "Chief of the Boat Cob",
+      "order": 3,
+      "cast_id": 13,
+      "popularity": 2.3008,
+      "profile_path": "/wmnQQn0dFygl90M2N8tlWlpGHzV.jpg"
+    },
+    {
+      "personId": 110,
+      "name": "Viggo Mortensen",
+      "character": "Lt. Peter 'Weps' Ince",
+      "order": 4,
+      "cast_id": 4,
+      "popularity": 4.7839,
+      "profile_path": "/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
+    },
+    {
+      "personId": 4691,
+      "name": "James Gandolfini",
+      "character": "Lt. Robert 'Bobby' Dougherty",
+      "order": 5,
+      "cast_id": 5,
+      "popularity": 4.0502,
+      "profile_path": "/vhtsFJZcfHdeDkFBoWMDzOS6xrP.jpg"
+    },
+    {
+      "personId": 27448,
+      "name": "Rocky Carroll",
+      "character": "Lt. Darik Westergard",
+      "order": 6,
+      "cast_id": 14,
+      "popularity": 1.4798,
+      "profile_path": "/pqjqmRChGqhDXXY7Etka3bmOatN.jpg"
+    },
+    {
+      "personId": 113387,
+      "name": "Jaime Gomez",
+      "character": "Officer of the Deck Mahoney",
+      "order": 7,
+      "cast_id": 15,
+      "popularity": 1.9527,
+      "profile_path": "/j7pTqqYGuQTAgcP393TQBwxwPi2.jpg"
+    },
+    {
+      "personId": 154295,
+      "name": "Michael Milhoan",
+      "character": "Chief of the Watch Hunsicker",
+      "order": 8,
+      "cast_id": 16,
+      "popularity": 1.2693,
+      "profile_path": "/oTXRBzb8KUGC2TXtXEIheGjBANG.jpg"
+    },
+    {
+      "personId": 104503,
+      "name": "Scott Burkholder",
+      "character": "Tactical Supervising Officer Billy Linkletter",
+      "order": 9,
+      "cast_id": 17,
+      "popularity": 1.2355,
+      "profile_path": "/7cfSbcHsi6T5dI29B22fImWcND7.jpg"
+    },
+    {
+      "personId": 8540,
+      "name": "Danny Nucci",
+      "character": "Petty Officer Danny Rivetti",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 2.6985,
+      "profile_path": "/w8nMQvgBFY5vuDoN5B698ostLWN.jpg"
+    },
+    {
+      "personId": 17917,
+      "name": "Lillo Brancato",
+      "character": "Petty Officer Third Class Russell Vossler",
+      "order": 11,
+      "cast_id": 19,
+      "popularity": 1.6197,
+      "profile_path": "/vUIga1je7MRsPSeJJvmtIpxfyRo.jpg"
+    },
+    {
+      "personId": 132729,
+      "name": "Eric Bruskotter",
+      "character": "Bennefield",
+      "order": 12,
+      "cast_id": 20,
+      "popularity": 2.0216,
+      "profile_path": "/70SWj82kx9KQGdybGPvShDXJ8Er.jpg"
+    },
+    {
+      "personId": 76546,
+      "name": "Rick Schroder",
+      "character": "Lt. Paul Hellerman",
+      "order": 13,
+      "cast_id": 21,
+      "popularity": 2.346,
+      "profile_path": "/g1PRiuBhWPE4Yn9BynfoPFb4tKD.jpg"
+    },
+    {
+      "personId": 18324,
+      "name": "Steve Zahn",
+      "character": "Seaman William Barnes",
+      "order": 14,
+      "cast_id": 22,
+      "popularity": 4.8898,
+      "profile_path": "/rwrPdKGwXnByxUVMxMf8Y7oswi3.jpg"
+    },
+    {
+      "personId": 59300,
+      "name": "Marcello Thedford",
+      "character": "Lawson",
+      "order": 15,
+      "cast_id": 23,
+      "popularity": 1.0594,
+      "profile_path": "/1HBS0MlQgWvnAFBFthnUz5QfEft.jpg"
+    },
+    {
+      "personId": 184116,
+      "name": "R.J. Knoll",
+      "character": "Marty Sotille",
+      "order": 16,
+      "cast_id": 147,
+      "popularity": 1.0923,
+      "profile_path": "/qnMC57s3Rp91YFJkI1lijwIfDWK.jpg"
+    },
+    {
+      "personId": 1838353,
+      "name": "Billy Devlin",
+      "character": "Navigator",
+      "order": 17,
+      "cast_id": 148,
+      "popularity": 0.993,
+      "profile_path": "/dnxo4BhdJk2LWYnhz7zLiuZZ9mt.jpg"
+    },
+    {
+      "personId": 545,
+      "name": "Matthew Barry",
+      "character": "Planesman",
+      "order": 18,
+      "cast_id": 149,
+      "popularity": 2.3382,
+      "profile_path": "/vMkcx9n4OWm03r5IulJhbnU432n.jpg"
+    },
+    {
+      "personId": 8855,
+      "name": "Christopher Birt",
+      "character": "Helmsman",
+      "order": 19,
+      "cast_id": 150,
+      "popularity": 1.3679,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 893,
+      "name": "Tony Scott",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 3.5562,
+      "profile_path": "/5PYRgW97xk9iNVC8dS0seoIliRR.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1860,
+      "name": "mutiny"
+    },
+    {
+      "id": 339,
+      "name": "submarine"
+    },
+    {
+      "id": 2534,
+      "name": "missile"
+    },
+    {
+      "id": 4123,
+      "name": "embassy"
+    },
+    {
+      "id": 3312,
+      "name": "nuclear missile"
+    },
+    {
+      "id": 4933,
+      "name": "battle for power"
+    },
+    {
+      "id": 4410,
+      "name": "u.s. navy"
+    },
+    {
+      "id": 13015,
+      "name": "terrorism"
+    },
+    {
+      "id": 162365,
+      "name": "military"
+    },
+    {
+      "id": 198423,
+      "name": "moral dilemma"
+    },
+    {
+      "id": 217133,
+      "name": "post cold war"
+    },
+    {
+      "id": 221092,
+      "name": "aircraft carrier"
+    },
+    {
+      "id": 226740,
+      "name": "chain of command"
+    },
+    {
+      "id": 226741,
+      "name": "launch code"
+    },
+    {
+      "id": 226742,
+      "name": "sonar"
+    },
+    {
+      "id": 227612,
+      "name": "nuclear submarine"
+    },
+    {
+      "id": 301096,
+      "name": "direct"
+    },
+    {
+      "id": 314730,
+      "name": "suspenseful"
+    },
+    {
+      "id": 325785,
+      "name": "commanding"
+    }
+  ]
+}

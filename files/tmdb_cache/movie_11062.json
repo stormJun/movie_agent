@@ -1,0 +1,314 @@
+{
+  "overview": "The accidental shooting of a boy in New York City leads to an investigation by the Deputy Mayor, and unexpectedly far-reaching consequences.",
+  "release_date": "1996-02-16",
+  "runtime": 111,
+  "budget": 40000000,
+  "revenue": 33440204,
+  "tmdb_vote_average": 5.9,
+  "tmdb_vote_count": 306,
+  "tmdb_popularity": 1.8764,
+  "original_language": "en",
+  "poster_path": "/w7EkAl4Oi8Lc6VQKaqRHrOV3CxR.jpg",
+  "backdrop_path": "/9z9SwlbhlV1oaai2gPhyRE8xpIG.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 97,
+      "name": "Castle Rock Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1158,
+      "name": "Al Pacino",
+      "character": "Mayor John Pappas",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 6.4777,
+      "profile_path": "/iqJ6g9fTKjpp1zWH9v72whXeGIK.jpg"
+    },
+    {
+      "personId": 3036,
+      "name": "John Cusack",
+      "character": "Kevin Calhoun",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 4.7162,
+      "profile_path": "/aCwCx6JU7Jxbg6Q1ygcnLY750le.jpg"
+    },
+    {
+      "personId": 2233,
+      "name": "Bridget Fonda",
+      "character": "Marybeth Cogan",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 4.2338,
+      "profile_path": "/ylGktmhDCLnaaV8owSPL8cVlsbn.jpg"
+    },
+    {
+      "personId": 1004,
+      "name": "Danny Aiello",
+      "character": "Frank Anselmo",
+      "order": 3,
+      "cast_id": 10,
+      "popularity": 1.3622,
+      "profile_path": "/2WiZ8SkiFU355GUT2QuSPlenrfM.jpg"
+    },
+    {
+      "personId": 2641,
+      "name": "Martin Landau",
+      "character": "Judge Walter Stern",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 2.4022,
+      "profile_path": "/3Hk817L900dnoOuvVJIaXhQdgNy.jpg"
+    },
+    {
+      "personId": 19839,
+      "name": "David Paymer",
+      "character": "Abe Goodman",
+      "order": 5,
+      "cast_id": 12,
+      "popularity": 2.6305,
+      "profile_path": "/owoOdDFgXpls1OFKwmQ104Nkl5.jpg"
+    },
+    {
+      "personId": 106179,
+      "name": "Anthony Franciosa",
+      "character": "Paul Zapatti",
+      "order": 6,
+      "cast_id": 22,
+      "popularity": 2.2394,
+      "profile_path": "/zXzRQbzccIjSBQWlyspOvyZlcs8.jpg"
+    },
+    {
+      "personId": 30083,
+      "name": "Lindsay Duncan",
+      "character": "Sydney Pappas",
+      "order": 7,
+      "cast_id": 17,
+      "popularity": 2.0154,
+      "profile_path": "/sgyf4vOUs5KlRmp4Uuw7UXKjU2b.jpg"
+    },
+    {
+      "personId": 141610,
+      "name": "Luna Lauren Vélez",
+      "character": "Elaine Santos",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 2.6655,
+      "profile_path": "/98BvmTJCZHx0jPv0oNcv04Jkmfb.jpg"
+    },
+    {
+      "personId": 31028,
+      "name": "Richard Schiff",
+      "character": "Larry Schwartz",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 3.4669,
+      "profile_path": "/oFDka3Y5H3DBiZRqbdPabtX8ncP.jpg"
+    },
+    {
+      "personId": 16662,
+      "name": "Richard Gant",
+      "character": "Deputy Commissioner Samuels",
+      "order": 10,
+      "cast_id": 63,
+      "popularity": 1.9326,
+      "profile_path": "/arzIWXn3wvkIbOtXt2i5kge3snx.jpg"
+    },
+    {
+      "personId": 9277,
+      "name": "John Finn",
+      "character": "Commissioner Coonan",
+      "order": 11,
+      "cast_id": 64,
+      "popularity": 1.8238,
+      "profile_path": "/tEv7ZUiO4gafQnXEOp43WSEvRfp.jpg"
+    },
+    {
+      "personId": 35038,
+      "name": "Mel Winkler",
+      "character": "Detective Holly",
+      "order": 12,
+      "cast_id": 65,
+      "popularity": 0.6872,
+      "profile_path": "/ctkcmCVzcUJWaGpEtHxwNPpEHw7.jpg"
+    },
+    {
+      "personId": 37207,
+      "name": "Angel David",
+      "character": "Vinny Zapatti",
+      "order": 13,
+      "cast_id": 94,
+      "popularity": 1.3501,
+      "profile_path": "/kl3sMwySWZM82FZHgblRpEgCze7.jpg"
+    },
+    {
+      "personId": 21134,
+      "name": "John Slattery",
+      "character": "Intel Detective - George",
+      "order": 14,
+      "cast_id": 19,
+      "popularity": 3.5563,
+      "profile_path": "/tm7g84OWD5gQRoyfG4hduBphP1j.jpg"
+    },
+    {
+      "personId": 155547,
+      "name": "Murphy Guyer",
+      "character": "Captain Florian",
+      "order": 15,
+      "cast_id": 28,
+      "popularity": 0.891,
+      "profile_path": "/6axiNcYIZmaeRKyfCm3xBHC7KQL.jpg"
+    },
+    {
+      "personId": 42694,
+      "name": "Tamara Tunie",
+      "character": "Leslie Christos",
+      "order": 16,
+      "cast_id": 18,
+      "popularity": 2.4943,
+      "profile_path": "/1KM30uSzeB27UEY7ICtTVDf16CQ.jpg"
+    },
+    {
+      "personId": 14331,
+      "name": "Nestor Serrano",
+      "character": "Detective Eddie Santos",
+      "order": 17,
+      "cast_id": 16,
+      "popularity": 1.9485,
+      "profile_path": "/imqFSX2BA87gifjGpNJApRaDC3V.jpg"
+    },
+    {
+      "personId": 160696,
+      "name": "Mark Lonow",
+      "character": "Lenny Lasker",
+      "order": 18,
+      "cast_id": 67,
+      "popularity": 0.921,
+      "profile_path": "/1ZoGk8lUMBqwdMGtNqxIdGxZaua.jpg"
+    },
+    {
+      "personId": 258575,
+      "name": "Roberta Peters",
+      "character": "Nettie Anselmo",
+      "order": 19,
+      "cast_id": 23,
+      "popularity": 1.3564,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 23213,
+      "name": "Harold Becker",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6352,
+      "profile_path": "/a68PQMWKXeB8rbdkxiR6RwshzBd.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2231,
+      "name": "drug dealer"
+    },
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 417,
+      "name": "corruption"
+    },
+    {
+      "id": 4654,
+      "name": "undercover agent"
+    },
+    {
+      "id": 6149,
+      "name": "police"
+    },
+    {
+      "id": 1568,
+      "name": "undercover"
+    },
+    {
+      "id": 2946,
+      "name": "presidential election"
+    },
+    {
+      "id": 1601,
+      "name": "war on drugs"
+    },
+    {
+      "id": 1919,
+      "name": "mayor"
+    },
+    {
+      "id": 5340,
+      "name": "investigation"
+    },
+    {
+      "id": 10391,
+      "name": "mafia"
+    },
+    {
+      "id": 168676,
+      "name": "city hall"
+    },
+    {
+      "id": 175208,
+      "name": "mob hit"
+    },
+    {
+      "id": 181659,
+      "name": "political corruption"
+    },
+    {
+      "id": 184956,
+      "name": "corrupt mayor"
+    },
+    {
+      "id": 249157,
+      "name": "corrupt judge"
+    },
+    {
+      "id": 254615,
+      "name": "accidental shooting"
+    },
+    {
+      "id": 287101,
+      "name": "suicide by gun"
+    },
+    {
+      "id": 292178,
+      "name": "corrupt police officials"
+    },
+    {
+      "id": 333297,
+      "name": "political ambition"
+    },
+    {
+      "id": 348718,
+      "name": "mafia family"
+    }
+  ]
+}

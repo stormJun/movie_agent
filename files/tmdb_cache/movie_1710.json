@@ -1,0 +1,267 @@
+{
+  "overview": "An agoraphobic psychologist and a female detective must work together to take down a serial killer who copies serial killers from the past.",
+  "release_date": "1995-10-27",
+  "runtime": 124,
+  "budget": 20000000,
+  "revenue": 32000000,
+  "tmdb_vote_average": 6.467,
+  "tmdb_vote_count": 1191,
+  "tmdb_popularity": 6.8209,
+  "original_language": "en",
+  "poster_path": "/oMgwJb016znNZcpDR20eXxZoW8A.jpg",
+  "backdrop_path": "/f0wTYitK1lELuGygXslG7SQpY0E.jpg",
+  "tmdb_genres_raw": [
+    "Thriller",
+    "Crime",
+    "Mystery"
+  ],
+  "production_companies": [
+    {
+      "id": 508,
+      "name": "Regency Enterprises",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "de",
+      "name": "Deutsch"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "it",
+      "name": "Italiano"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10205,
+      "name": "Sigourney Weaver",
+      "character": "Helen Hudson",
+      "order": 0,
+      "cast_id": 8,
+      "popularity": 7.7971,
+      "profile_path": "/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+    },
+    {
+      "personId": 18686,
+      "name": "Holly Hunter",
+      "character": "M.J. Monahan",
+      "order": 1,
+      "cast_id": 9,
+      "popularity": 3.6139,
+      "profile_path": "/kC7KX03VAWvogOCuwKbMo4V6TuU.jpg"
+    },
+    {
+      "personId": 20212,
+      "name": "Dermot Mulroney",
+      "character": "Ruben Goetz",
+      "order": 2,
+      "cast_id": 20,
+      "popularity": 5.4409,
+      "profile_path": "/zemTC606JcuMgIGbJMYAocrS5Gm.jpg"
+    },
+    {
+      "personId": 18687,
+      "name": "William McNamara",
+      "character": "Peter Foley",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 1.117,
+      "profile_path": "/c6mLOGGpJK94a0RNt6LPeoHEONh.jpg"
+    },
+    {
+      "personId": 18688,
+      "name": "Harry Connick Jr.",
+      "character": "Daryll Lee Cullum",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 1.514,
+      "profile_path": "/il1t0cshowbZ6mMtH1930baQx9n.jpg"
+    },
+    {
+      "personId": 5169,
+      "name": "J.E. Freeman",
+      "character": "Lt. Quinn",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 1.0589,
+      "profile_path": "/75VHiPXkan70jXZF247yOCdCROV.jpg"
+    },
+    {
+      "personId": 883,
+      "name": "Will Patton",
+      "character": "Nicoletti",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 4.0293,
+      "profile_path": "/1V4DbU1mfEim4oaA5bvJywDAKwB.jpg"
+    },
+    {
+      "personId": 60205,
+      "name": "John Rothman",
+      "character": "Andy",
+      "order": 7,
+      "cast_id": 32,
+      "popularity": 2.4055,
+      "profile_path": "/k7Vdn2eArkvYCJllIOGPIjK9umK.jpg"
+    },
+    {
+      "personId": 1235964,
+      "name": "Shannon O'Hurley",
+      "character": "Susan Schiffer",
+      "order": 8,
+      "cast_id": 25,
+      "popularity": 1.4895,
+      "profile_path": null
+    },
+    {
+      "personId": 95838,
+      "name": "Bob Greene",
+      "character": "Pachulski",
+      "order": 9,
+      "cast_id": 26,
+      "popularity": 1.009,
+      "profile_path": null
+    },
+    {
+      "personId": 215904,
+      "name": "Tony Haney",
+      "character": "Kerby",
+      "order": 10,
+      "cast_id": 27,
+      "popularity": 0.6887,
+      "profile_path": "/5oOp3D1C1d0AzDVUBVqDLug3mOG.jpg"
+    },
+    {
+      "personId": 1074167,
+      "name": "Danny Kovacs",
+      "character": "Kostas",
+      "order": 11,
+      "cast_id": 28,
+      "popularity": 0.302,
+      "profile_path": null
+    },
+    {
+      "personId": 167781,
+      "name": "Tahmus Rounds",
+      "character": "Landis",
+      "order": 12,
+      "cast_id": 29,
+      "popularity": 1.7242,
+      "profile_path": "/eDrhDlhzLtJ6R3vU2uWZV3aul4J.jpg"
+    },
+    {
+      "personId": 1074168,
+      "name": "Scott Devenney",
+      "character": "Cop #1",
+      "order": 13,
+      "cast_id": 30,
+      "popularity": 1.7064,
+      "profile_path": "/bgKT3Q5zCX26FUAdipT3S9BbbuB.jpg"
+    },
+    {
+      "personId": 1074169,
+      "name": "David Michael Silverman",
+      "character": "Mike",
+      "order": 14,
+      "cast_id": 31,
+      "popularity": 0.2799,
+      "profile_path": null
+    },
+    {
+      "personId": 19982,
+      "name": "Diane Amos",
+      "character": "Gigi",
+      "order": 15,
+      "cast_id": 134,
+      "popularity": 0.6174,
+      "profile_path": null
+    },
+    {
+      "personId": 286298,
+      "name": "Kelly De Martino",
+      "character": "Festival girl",
+      "order": 16,
+      "cast_id": 43,
+      "popularity": 0.8051,
+      "profile_path": "/fW7RyHXxEnAoWOhnCbwBqMiJ0Hs.jpg"
+    },
+    {
+      "personId": 110813,
+      "name": "Richard Conti",
+      "character": "Harvey",
+      "order": 17,
+      "cast_id": 44,
+      "popularity": 0.3403,
+      "profile_path": "/Akbv1q2WkKAxGmTJSuoDsMiEz5P.jpg"
+    },
+    {
+      "personId": 1008016,
+      "name": "Nick Scoggin",
+      "character": "Conrad",
+      "order": 18,
+      "cast_id": 45,
+      "popularity": 2.5992,
+      "profile_path": "/vNuIpuICz9M0jYTkUUwsBBLQLER.jpg"
+    },
+    {
+      "personId": 1653778,
+      "name": "Bert Kinyon",
+      "character": "Burt",
+      "order": 19,
+      "cast_id": 46,
+      "popularity": 0.1627,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 15148,
+      "name": "Jon Amiel",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.9503,
+      "profile_path": "/tZf4VLvFobxizCzDQ6xQdygGT9.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 796,
+      "name": "police brutality"
+    },
+    {
+      "id": 2800,
+      "name": "psychology"
+    },
+    {
+      "id": 4668,
+      "name": "police operation"
+    },
+    {
+      "id": 5430,
+      "name": "police protection"
+    },
+    {
+      "id": 11268,
+      "name": "psychologist"
+    },
+    {
+      "id": 10714,
+      "name": "serial killer"
+    },
+    {
+      "id": 13001,
+      "name": "cowardliness"
+    }
+  ]
+}

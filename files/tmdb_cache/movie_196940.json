@@ -1,0 +1,237 @@
+{
+  "overview": "The boisterous and cheerful lives of the residents of Cameroon are barely dented by incursions of supernatural power in this humor-filled rendition of traditional folk tales in modern guise. In the story, a cheerfully naughty girl crosses paths with a witch who has the power to satisfy her curiosity about men by changing her into a young man. She then becomes one of the boy suitors for the amorous attentions of a policeman's daughter. Some of the men have unusual names and even odder magical gifts: one of them has the ability to make a man's genitals disappear when he shakes hands with him.",
+  "release_date": "1992-05-26",
+  "runtime": 80,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.2,
+  "tmdb_vote_count": 5,
+  "tmdb_popularity": 0.1709,
+  "original_language": "fr",
+  "poster_path": "/399VYKyl8sBpz3MEDunsyfgAl1z.jpg",
+  "backdrop_path": null,
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 198388,
+      "name": "Kola Case",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "CM",
+      "name": "Cameroon"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2608294,
+      "name": "Jimmy Biyong",
+      "character": "Chien méchant, le commissaire et père de Samedi",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 0.0261,
+      "profile_path": null
+    },
+    {
+      "personId": 2608296,
+      "name": "Serge Amougou",
+      "character": "Montype",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 0.0143,
+      "profile_path": null
+    },
+    {
+      "personId": 2608297,
+      "name": "Sandrine Ola'a",
+      "character": "Samedi",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 0.0327,
+      "profile_path": null
+    },
+    {
+      "personId": 1304069,
+      "name": "Essindi Mindja",
+      "character": "Atango, le couturier",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 0.0713,
+      "profile_path": "/zT2ECN4hdOBugFch8bhDpKTAa8h.jpg"
+    },
+    {
+      "personId": 1883774,
+      "name": "Christine",
+      "character": "Maman Thècla, la sorcière",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 0.0239,
+      "profile_path": null
+    },
+    {
+      "personId": 4023076,
+      "name": "Joelle Bekolo",
+      "character": "Chef de quartier",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 0.0409,
+      "profile_path": null
+    },
+    {
+      "personId": 4023077,
+      "name": "Geneviève Ngo Ntamack",
+      "character": "Sytsalla",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 0.0495,
+      "profile_path": null
+    },
+    {
+      "personId": 4023078,
+      "name": "Madeleine Messengué",
+      "character": "Kongossa",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 0.0409,
+      "profile_path": null
+    },
+    {
+      "personId": 118511,
+      "name": "Saïdou Abatcha",
+      "character": "Panka",
+      "order": 8,
+      "cast_id": 10,
+      "popularity": 0.1877,
+      "profile_path": "/fZB14hSdVqiiR1R2TJRMKPhWdFS.jpg"
+    },
+    {
+      "personId": 4023079,
+      "name": "Timoléon Luc Boyogueno",
+      "character": "Bon pour est mort, le tenancier de la boutique",
+      "order": 9,
+      "cast_id": 11,
+      "popularity": 0.0143,
+      "profile_path": null
+    },
+    {
+      "personId": 4023080,
+      "name": "Atebass",
+      "character": "Capo, ami de Bon pour est mort et d'Atango",
+      "order": 10,
+      "cast_id": 12,
+      "popularity": 0.0143,
+      "profile_path": null
+    },
+    {
+      "personId": 4023081,
+      "name": "Félix Ndjoyem",
+      "character": "Envoyé spécial, le frère de Samedi",
+      "order": 11,
+      "cast_id": 13,
+      "popularity": 0.0143,
+      "profile_path": null
+    },
+    {
+      "personId": 4023082,
+      "name": "Ella Owoudou",
+      "character": "Le prêtre",
+      "order": 12,
+      "cast_id": 14,
+      "popularity": 0.0143,
+      "profile_path": null
+    },
+    {
+      "personId": 4023083,
+      "name": "Karine Diesse",
+      "character": "Mawa",
+      "order": 13,
+      "cast_id": 15,
+      "popularity": 0.0143,
+      "profile_path": null
+    },
+    {
+      "personId": 1324309,
+      "name": "Jeanne Abanda",
+      "character": "Endalè",
+      "order": 14,
+      "cast_id": 16,
+      "popularity": 0.0766,
+      "profile_path": null
+    },
+    {
+      "personId": 1809393,
+      "name": "Véronique Mendouga",
+      "character": "Muna",
+      "order": 15,
+      "cast_id": 17,
+      "popularity": 0.1129,
+      "profile_path": null
+    },
+    {
+      "personId": 4023084,
+      "name": "Sophie Rose Ngué",
+      "character": "Solo",
+      "order": 16,
+      "cast_id": 18,
+      "popularity": 0.0453,
+      "profile_path": null
+    },
+    {
+      "personId": 4023085,
+      "name": "Joséphine Andomo",
+      "character": "Madame Panka",
+      "order": 17,
+      "cast_id": 19,
+      "popularity": 0.0143,
+      "profile_path": null
+    },
+    {
+      "personId": 4023086,
+      "name": "Alain Handy",
+      "character": "L'un des deux jumeaux",
+      "order": 18,
+      "cast_id": 20,
+      "popularity": 0.0168,
+      "profile_path": null
+    },
+    {
+      "personId": 4023087,
+      "name": "Jean Handy",
+      "character": "L'un des deux jumeaux",
+      "order": 19,
+      "cast_id": 21,
+      "popularity": 0.0143,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1177451,
+      "name": "Jean-Pierre Bekolo",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.0811,
+      "profile_path": "/h6Unv3mPSYlpMc1kITz0Xx59UMg.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 409,
+      "name": "africa"
+    }
+  ]
+}

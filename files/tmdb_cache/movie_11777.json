@@ -1,0 +1,268 @@
+{
+  "overview": "Albert Einstein helps a young man who's in love with Einstein's niece to catch her attention by pretending temporarily to be a great physicist.",
+  "release_date": "1994-12-24",
+  "runtime": 100,
+  "budget": 25000000,
+  "revenue": 26381221,
+  "tmdb_vote_average": 6.016,
+  "tmdb_vote_count": 478,
+  "tmdb_popularity": 2.7493,
+  "original_language": "en",
+  "poster_path": "/1dLR9LX4O8DSyaU5OR3N0472IR.jpg",
+  "backdrop_path": "/16ik8U3nxKZnRUguOUIxFe2yYdk.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 5842,
+      "name": "Sandollar Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "de",
+      "name": "Deutsch"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 504,
+      "name": "Tim Robbins",
+      "character": "Ed Walters",
+      "order": 0,
+      "cast_id": 11,
+      "popularity": 4.1581,
+      "profile_path": "/9DujxnBMVkizaeIyM0eXPMfXxR.jpg"
+    },
+    {
+      "personId": 5344,
+      "name": "Meg Ryan",
+      "character": "Catherine Boyd",
+      "order": 1,
+      "cast_id": 12,
+      "popularity": 3.5943,
+      "profile_path": "/iP1I2fpIIQtB3A8KJiWMbZcwFLr.jpg"
+    },
+    {
+      "personId": 6837,
+      "name": "Walter Matthau",
+      "character": "Albert Einstein",
+      "order": 2,
+      "cast_id": 13,
+      "popularity": 2.185,
+      "profile_path": "/pm1YEQPlsNcHQHZJBgcXvu4U4vg.jpg"
+    },
+    {
+      "personId": 23708,
+      "name": "Lou Jacobi",
+      "character": "Kurt Gödel",
+      "order": 3,
+      "cast_id": 14,
+      "popularity": 0.8891,
+      "profile_path": "/xCm6ntT3faWFIr5IagDdeHtvRlv.jpg"
+    },
+    {
+      "personId": 69300,
+      "name": "Gene Saks",
+      "character": "Boris Podolsky",
+      "order": 4,
+      "cast_id": 17,
+      "popularity": 1.9731,
+      "profile_path": "/eycEUe3kyD4SLBlTE3suUHmQhcd.jpg"
+    },
+    {
+      "personId": 20626,
+      "name": "Joseph Maher",
+      "character": "Nathan Liebknecht",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 0.9267,
+      "profile_path": "/fdwV2XY41qJ7U4aO9xAZkJpJwXe.jpg"
+    },
+    {
+      "personId": 11275,
+      "name": "Stephen Fry",
+      "character": "James Moreland",
+      "order": 6,
+      "cast_id": 15,
+      "popularity": 3.1182,
+      "profile_path": "/dH7GuUZ8QPM9RN99ak9KKOkSkdS.jpg"
+    },
+    {
+      "personId": 4252,
+      "name": "Tony Shalhoub",
+      "character": "Bob Rosetti",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 2.2313,
+      "profile_path": "/1zfBSuAmOr1xXjNg4WzFWPm5B0Z.jpg"
+    },
+    {
+      "personId": 11805,
+      "name": "Frank Whaley",
+      "character": "Frank",
+      "order": 8,
+      "cast_id": 20,
+      "popularity": 3.8502,
+      "profile_path": "/vxxV3rPGUvsiXuu8A5g61lz27yS.jpg"
+    },
+    {
+      "personId": 1466,
+      "name": "Charles Durning",
+      "character": "Louis Bamberger",
+      "order": 9,
+      "cast_id": 21,
+      "popularity": 1.6405,
+      "profile_path": "/bozKytaYVKoIbptxkMFWepK09U5.jpg"
+    },
+    {
+      "personId": 13027,
+      "name": "Keene Curtis",
+      "character": "Eisenhower",
+      "order": 10,
+      "cast_id": 26,
+      "popularity": 0.7148,
+      "profile_path": "/3ViMDkc0TJGVay5bHTDDkom20AV.jpg"
+    },
+    {
+      "personId": 80165,
+      "name": "Alice Playten",
+      "character": "Gretchen",
+      "order": 11,
+      "cast_id": 27,
+      "popularity": 0.63,
+      "profile_path": "/bd5ulqTHxY457wIN2RHeDO6lJnB.jpg"
+    },
+    {
+      "personId": 108098,
+      "name": "Danny Zorn",
+      "character": "Dennis",
+      "order": 12,
+      "cast_id": 22,
+      "popularity": 0.4343,
+      "profile_path": "/jGvuaukRRv1VL1yH0ROn7cxasXn.jpg"
+    },
+    {
+      "personId": 1276096,
+      "name": "Helen Hanft",
+      "character": "Rose",
+      "order": 13,
+      "cast_id": 28,
+      "popularity": 0.7671,
+      "profile_path": "/xSflEx8U8j8X8USuKKjptX3pL0q.jpg"
+    },
+    {
+      "personId": 929989,
+      "name": "Roger Berlind",
+      "character": "Duncan",
+      "order": 14,
+      "cast_id": 29,
+      "popularity": 0.0143,
+      "profile_path": null
+    },
+    {
+      "personId": 3319002,
+      "name": "Arthur Berwick",
+      "character": "Academic",
+      "order": 15,
+      "cast_id": 30,
+      "popularity": 0.1493,
+      "profile_path": null
+    },
+    {
+      "personId": 188728,
+      "name": "Timothy Jerome",
+      "character": "Academic",
+      "order": 16,
+      "cast_id": 31,
+      "popularity": 0.3783,
+      "profile_path": "/kRt9xanhBqLeIZj1Pu6XiQVJnwj.jpg"
+    },
+    {
+      "personId": 3330728,
+      "name": "John McDonough",
+      "character": "Academic",
+      "order": 17,
+      "cast_id": 32,
+      "popularity": 0.4393,
+      "profile_path": null
+    },
+    {
+      "personId": 169133,
+      "name": "Lewis J. Stadlen",
+      "character": "Moderator",
+      "order": 18,
+      "cast_id": 33,
+      "popularity": 1.3022,
+      "profile_path": "/5BCzGntqbxu1m09G2EP5MPQuqTO.jpg"
+    },
+    {
+      "personId": 2153454,
+      "name": "Jeff Brooks",
+      "character": "Reporter",
+      "order": 19,
+      "cast_id": 34,
+      "popularity": 0.3422,
+      "profile_path": "/6a5PESlNYoTymyY7EEQ7uwMdyId.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 64061,
+      "name": "Fred Schepisi",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.51,
+      "profile_path": "/9W1St7ZYiMY8tsx2vx4bPfy1TaY.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1334,
+      "name": "wedding vows"
+    },
+    {
+      "id": 2303,
+      "name": "mathematician"
+    },
+    {
+      "id": 3296,
+      "name": "car mechanic"
+    },
+    {
+      "id": 4803,
+      "name": "comet"
+    },
+    {
+      "id": 155585,
+      "name": "halley's comet"
+    },
+    {
+      "id": 248025,
+      "name": "matchmaker"
+    },
+    {
+      "id": 273865,
+      "name": "research scientist"
+    }
+  ]
+}

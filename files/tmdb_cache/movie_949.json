@@ -1,0 +1,345 @@
+{
+  "overview": "Obsessive master thief Neil McCauley leads a top-notch crew on various daring heists throughout Los Angeles while determined detective Vincent Hanna pursues him without rest. Each man recognizes and respects the ability and the dedication of the other even though they are aware their cat-and-mouse game may end in violence.",
+  "release_date": "1995-12-15",
+  "runtime": 170,
+  "budget": 60000000,
+  "revenue": 187400000,
+  "tmdb_vote_average": 7.926,
+  "tmdb_vote_count": 7983,
+  "tmdb_popularity": 13.8442,
+  "original_language": "en",
+  "poster_path": "/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
+  "backdrop_path": "/uI22JkEMediWyiRqhllNqeeGtW0.jpg",
+  "tmdb_genres_raw": [
+    "Crime",
+    "Drama",
+    "Action"
+  ],
+  "production_companies": [
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 508,
+      "name": "Regency Enterprises",
+      "origin_country": "US"
+    },
+    {
+      "id": 675,
+      "name": "Forward Pass",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1158,
+      "name": "Al Pacino",
+      "character": "Lt. Vincent Hanna",
+      "order": 0,
+      "cast_id": 25,
+      "popularity": 6.408,
+      "profile_path": "/iqJ6g9fTKjpp1zWH9v72whXeGIK.jpg"
+    },
+    {
+      "personId": 380,
+      "name": "Robert De Niro",
+      "character": "Neil McCauley",
+      "order": 1,
+      "cast_id": 26,
+      "popularity": 9.7264,
+      "profile_path": "/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+    },
+    {
+      "personId": 5576,
+      "name": "Val Kilmer",
+      "character": "Chris Shiherlis",
+      "order": 2,
+      "cast_id": 27,
+      "popularity": 4.1522,
+      "profile_path": "/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg"
+    },
+    {
+      "personId": 10127,
+      "name": "Jon Voight",
+      "character": "Nate",
+      "order": 3,
+      "cast_id": 28,
+      "popularity": 3.863,
+      "profile_path": "/oxLsItDwLddXu8YYJCfkddYNejL.jpg"
+    },
+    {
+      "personId": 3197,
+      "name": "Tom Sizemore",
+      "character": "Michael Cheritto",
+      "order": 4,
+      "cast_id": 29,
+      "popularity": 1.9154,
+      "profile_path": "/soINOuacuiThRb2LyPD4tTWve7C.jpg"
+    },
+    {
+      "personId": 6200,
+      "name": "Diane Venora",
+      "character": "Justine",
+      "order": 5,
+      "cast_id": 30,
+      "popularity": 2.8027,
+      "profile_path": "/mZWVEZ18jMiJuS3A56tejPipdo8.jpg"
+    },
+    {
+      "personId": 15851,
+      "name": "Amy Brenneman",
+      "character": "Eady",
+      "order": 6,
+      "cast_id": 31,
+      "popularity": 4.3244,
+      "profile_path": "/buQhbTkoNcAC12oNXo6RCIoVNQw.jpg"
+    },
+    {
+      "personId": 15852,
+      "name": "Ashley Judd",
+      "character": "Charlene Shiherlis",
+      "order": 7,
+      "cast_id": 32,
+      "popularity": 4.3883,
+      "profile_path": "/5771ZxVIs5rQbI1SV8TOlAFcF15.jpg"
+    },
+    {
+      "personId": 34,
+      "name": "Mykelti Williamson",
+      "character": "Drucker",
+      "order": 8,
+      "cast_id": 33,
+      "popularity": 2.6738,
+      "profile_path": "/dR16zD9AjnHWbeN5OVmJWE0vSax.jpg"
+    },
+    {
+      "personId": 15853,
+      "name": "Wes Studi",
+      "character": "Casals",
+      "order": 9,
+      "cast_id": 34,
+      "popularity": 3.0492,
+      "profile_path": "/dAO2bY2NCceYLZiJaBjBdY19Hox.jpg"
+    },
+    {
+      "personId": 15854,
+      "name": "Ted Levine",
+      "character": "Bosko",
+      "order": 10,
+      "cast_id": 35,
+      "popularity": 3.2193,
+      "profile_path": "/451KSkowLW6M2Au0wBKZZcidgGm.jpg"
+    },
+    {
+      "personId": 524,
+      "name": "Natalie Portman",
+      "character": "Lauren Gustafson",
+      "order": 11,
+      "cast_id": 38,
+      "popularity": 9.1162,
+      "profile_path": "/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
+    },
+    {
+      "personId": 886,
+      "name": "William Fichtner",
+      "character": "Roger Van Zant",
+      "order": 12,
+      "cast_id": 37,
+      "popularity": 4.7561,
+      "profile_path": "/wWtJOoaNAwPparpzMNuRBjvxwEf.jpg"
+    },
+    {
+      "personId": 34839,
+      "name": "Kevin Gage",
+      "character": "Waingro",
+      "order": 13,
+      "cast_id": 43,
+      "popularity": 1.3953,
+      "profile_path": "/nTaDLkN1RAhPGaM0AO1CFysnwUl.jpg"
+    },
+    {
+      "personId": 5587,
+      "name": "Hank Azaria",
+      "character": "Alan Marciano",
+      "order": 14,
+      "cast_id": 42,
+      "popularity": 3.3308,
+      "profile_path": "/yFDw4b0jucuFWNnGcBPfpYUtn16.jpg"
+    },
+    {
+      "personId": 352,
+      "name": "Dennis Haysbert",
+      "character": "Donald Breedan",
+      "order": 15,
+      "cast_id": 36,
+      "popularity": 2.4269,
+      "profile_path": "/lcnjaw2CFN6q9eaes1jTYrUB0rb.jpg"
+    },
+    {
+      "personId": 119232,
+      "name": "Tom Noonan",
+      "character": "Kelso",
+      "order": 16,
+      "cast_id": 39,
+      "popularity": 1.9407,
+      "profile_path": "/8cwl9gaCr0F0yJ518nc6baebPLL.jpg"
+    },
+    {
+      "personId": 11160,
+      "name": "Danny Trejo",
+      "character": "Trejo",
+      "order": 17,
+      "cast_id": 46,
+      "popularity": 5.3017,
+      "profile_path": "/7JrUkRGBscZ1Hy5JinaaXjjzSCF.jpg"
+    },
+    {
+      "personId": 17358,
+      "name": "Kim Staunton",
+      "character": "Lillian",
+      "order": 18,
+      "cast_id": 45,
+      "popularity": 0.7624,
+      "profile_path": "/pGsoX3qTEM1MCApFBC5886mkBCA.jpg"
+    },
+    {
+      "personId": 4158,
+      "name": "Susan Traylor",
+      "character": "Elaine Cheritto",
+      "order": 19,
+      "cast_id": 44,
+      "popularity": 0.8991,
+      "profile_path": "/mAQwOoUrf4Su4MOBPPn68q9JLPx.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 638,
+      "name": "Michael Mann",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.8793,
+      "profile_path": "/kEYrCk6y6siUOxUlMD2KyFuRBQK.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 642,
+      "name": "robbery"
+    },
+    {
+      "id": 3713,
+      "name": "chase"
+    },
+    {
+      "id": 1523,
+      "name": "obsession"
+    },
+    {
+      "id": 703,
+      "name": "detective"
+    },
+    {
+      "id": 10051,
+      "name": "heist"
+    },
+    {
+      "id": 9727,
+      "name": "thief"
+    },
+    {
+      "id": 9812,
+      "name": "honor"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 10085,
+      "name": "betrayal"
+    },
+    {
+      "id": 10726,
+      "name": "gang"
+    },
+    {
+      "id": 12670,
+      "name": "los angeles, california"
+    },
+    {
+      "id": 15076,
+      "name": "cat and mouse"
+    },
+    {
+      "id": 15363,
+      "name": "bank robbery"
+    },
+    {
+      "id": 18023,
+      "name": "criminal mastermind"
+    },
+    {
+      "id": 33424,
+      "name": "cynical"
+    },
+    {
+      "id": 156121,
+      "name": "ex-con"
+    },
+    {
+      "id": 159434,
+      "name": "one last job"
+    },
+    {
+      "id": 167104,
+      "name": "loner"
+    },
+    {
+      "id": 192261,
+      "name": "bank job"
+    },
+    {
+      "id": 207268,
+      "name": "neo-noir"
+    },
+    {
+      "id": 214983,
+      "name": "crime epic"
+    },
+    {
+      "id": 325766,
+      "name": "antagonistic"
+    },
+    {
+      "id": 325772,
+      "name": "assertive"
+    },
+    {
+      "id": 325774,
+      "name": "authoritarian"
+    },
+    {
+      "id": 325778,
+      "name": "bold"
+    }
+  ]
+}

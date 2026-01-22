@@ -1,0 +1,264 @@
+{
+  "overview": "Strike is a young city drug pusher under the tutelage of drug lord Rodney Little. When a night manager at a fast-food restaurant is found with four bullets in his body, Strike’s older brother turns himself in as the killer. Detective Rocco Klein doesn’t buy the story, however, setting out to find the truth, and it seems that all the fingers point toward Strike & Rodney.",
+  "release_date": "1995-09-15",
+  "runtime": 128,
+  "budget": 25000000,
+  "revenue": 13100000,
+  "tmdb_vote_average": 6.704,
+  "tmdb_vote_count": 343,
+  "tmdb_popularity": 5.7675,
+  "original_language": "en",
+  "poster_path": "/c79uqLJleho2a7OQayfrW5Ypphf.jpg",
+  "backdrop_path": "/xhYs4yaBnDNM3utncVzLmFVpAmK.jpg",
+  "tmdb_genres_raw": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "production_companies": [
+    {
+      "id": 4319,
+      "name": "40 Acres and a Mule Filmworks",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1037,
+      "name": "Harvey Keitel",
+      "character": "Det. Rocco Klein",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 4.7105,
+      "profile_path": "/7P30hza1neYWW3r7rSQOC736K2Z.jpg"
+    },
+    {
+      "personId": 1241,
+      "name": "John Turturro",
+      "character": "Det. Larry Mazilli",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 3.5084,
+      "profile_path": "/6O9W9cJW0kCqMzYeLupV9oH0ftn.jpg"
+    },
+    {
+      "personId": 18792,
+      "name": "Delroy Lindo",
+      "character": "Rodney Little",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 2.6845,
+      "profile_path": "/kLwUBBmEIdchrLqwsYzgLB2B6q5.jpg"
+    },
+    {
+      "personId": 327,
+      "name": "Mekhi Phifer",
+      "character": "Ronald 'Strike' Dunham",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 3.5966,
+      "profile_path": "/jCvF0bpi9emIWBnu20MCMU0bwrf.jpg"
+    },
+    {
+      "personId": 21353,
+      "name": "Isaiah Washington",
+      "character": "Victor Dunham",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 1.8389,
+      "profile_path": "/3yY5h1t7AKZpf4lfdSMwDQvCroQ.jpg"
+    },
+    {
+      "personId": 65827,
+      "name": "Keith David",
+      "character": "André the Giant",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 5.1624,
+      "profile_path": "/hwykAZLSIP5Cb2bbauZ4CEEmq0u.jpg"
+    },
+    {
+      "personId": 98887,
+      "name": "Peewee Love",
+      "character": "Tyrone 'Shorty' Jeeter",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 1.334,
+      "profile_path": null
+    },
+    {
+      "personId": 21848,
+      "name": "Regina Taylor",
+      "character": "Iris Jeeter",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 0.8981,
+      "profile_path": "/s6a1zzRTFlu5ZQvczKbCqtD9FqM.jpg"
+    },
+    {
+      "personId": 98889,
+      "name": "Thomas Jefferson Byrd",
+      "character": "Errol Barnes",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 1.1484,
+      "profile_path": "/lE4nhhxoIZE2l5NOIi4sLlB5L49.jpg"
+    },
+    {
+      "personId": 86462,
+      "name": "Sticky Fingaz",
+      "character": "Scientific",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 1.3246,
+      "profile_path": "/21IRexFdibIGWyKpb4T2nyi8Q78.jpg"
+    },
+    {
+      "personId": 59568,
+      "name": "Fredro Starr",
+      "character": "Go",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 1.2442,
+      "profile_path": "/2N2JWF1S353JFcbpkEHkg06b1o.jpg"
+    },
+    {
+      "personId": 1333665,
+      "name": "Elvis Nolasco",
+      "character": "Horace",
+      "order": 11,
+      "cast_id": 15,
+      "popularity": 0.9397,
+      "profile_path": "/oOTqaaWCq2oIU7EbuX3hU6pzFch.jpg"
+    },
+    {
+      "personId": 156844,
+      "name": "Lawrence B. Adisa",
+      "character": "Stan",
+      "order": 12,
+      "cast_id": 16,
+      "popularity": 0.4071,
+      "profile_path": "/lkK5cPDTy1ApLwVP1RYKeuUfByc.jpg"
+    },
+    {
+      "personId": 91508,
+      "name": "Hassan Johnson",
+      "character": "Skills",
+      "order": 13,
+      "cast_id": 17,
+      "popularity": 0.7112,
+      "profile_path": "/mXrCU8Dtb3TimGIaZOHHOXokT9N.jpg"
+    },
+    {
+      "personId": 140178,
+      "name": "Frances Foster",
+      "character": "Gloria",
+      "order": 14,
+      "cast_id": 18,
+      "popularity": 1.3211,
+      "profile_path": "/1KQ0FRRmkffelImanEYjGwcASIO.jpg"
+    },
+    {
+      "personId": 11486,
+      "name": "Michael Imperioli",
+      "character": "Detective Jo-Jo",
+      "order": 15,
+      "cast_id": 19,
+      "popularity": 3.4147,
+      "profile_path": "/jfoEHR6BRMg8emtujXdM3G4JHIm.jpg"
+    },
+    {
+      "personId": 80759,
+      "name": "Lisa Arrindell",
+      "character": "Sharon, Victor's Wife",
+      "order": 16,
+      "cast_id": 20,
+      "popularity": 0.9783,
+      "profile_path": "/zHHOTp6qt0grtnwFdKbZ2ZZYM4l.jpg"
+    },
+    {
+      "personId": 3137,
+      "name": "Paul Calderon",
+      "character": "Jesus at Hambones",
+      "order": 17,
+      "cast_id": 21,
+      "popularity": 1.7227,
+      "profile_path": "/xIORhcIDmFMlaS3ZS3em1QiTkt5.jpg"
+    },
+    {
+      "personId": 166893,
+      "name": "Brendan Kelly",
+      "character": "Big Chief",
+      "order": 18,
+      "cast_id": 22,
+      "popularity": 0.6494,
+      "profile_path": "/nJXxgwcGdAL5P1KfgcGrjDaCbsY.jpg"
+    },
+    {
+      "personId": 5170,
+      "name": "Mike Starr",
+      "character": "Thumper",
+      "order": 19,
+      "cast_id": 23,
+      "popularity": 2.6759,
+      "profile_path": "/hJGhV91dSUiFJ8GwGDTEEri79LX.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 5281,
+      "name": "Spike Lee",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.6369,
+      "profile_path": "/2KOHXgk2uoRXl6u7V9xpAIo3uay.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 11505,
+      "name": "drug pusher"
+    },
+    {
+      "id": 13008,
+      "name": "train"
+    },
+    {
+      "id": 14964,
+      "name": "drugs"
+    },
+    {
+      "id": 18026,
+      "name": "drug lord"
+    },
+    {
+      "id": 41523,
+      "name": "brooklyn, new york city"
+    },
+    {
+      "id": 161722,
+      "name": "housing project"
+    },
+    {
+      "id": 237764,
+      "name": "inner city life"
+    }
+  ]
+}

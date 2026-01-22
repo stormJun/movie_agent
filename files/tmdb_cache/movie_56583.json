@@ -1,0 +1,205 @@
+{
+  "overview": "Matthew, a young schizophrenic, finds himself out on the street when a slumlord tears down his apartment building. Soon, he finds himself in even more dire straits, when he is threatened by Little Leroy, a thug who is one of the tough denizens of the Fort Washington Shelter for Men. He reaches out to Jerry, a streetwise combat veteran, who takes Matthew under his wing as a son. The relationship between these two men grows as they attempt to conquer the numbing isolation of homelessness.",
+  "release_date": "1993-11-03",
+  "runtime": 99,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.6,
+  "tmdb_vote_count": 40,
+  "tmdb_popularity": 0.49,
+  "original_language": "en",
+  "poster_path": "/e8ie1x22wFEo63LQBbpBDqIH4oY.jpg",
+  "backdrop_path": "/wVJIqHyWPY90pktbYMbdWiX902c.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 36789,
+      "name": "Nessa Hyams",
+      "origin_country": ""
+    },
+    {
+      "id": 36790,
+      "name": "Carrie Productions Inc.",
+      "origin_country": ""
+    },
+    {
+      "id": 14374,
+      "name": "David V. Picker Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2047,
+      "name": "Danny Glover",
+      "character": "Jerry",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.8596,
+      "profile_path": "/2PJbpI9AyuhG4SWUIDxZwuBnuMb.jpg"
+    },
+    {
+      "personId": 2876,
+      "name": "Matt Dillon",
+      "character": "Matthew",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 4.4328,
+      "profile_path": "/wVoSUexYH79igPgxIXKWRlV2uBk.jpg"
+    },
+    {
+      "personId": 3432,
+      "name": "Rick Aviles",
+      "character": "Rosario",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 1.8825,
+      "profile_path": "/5gSlvykK09Y2t5gmIGn7440Na9A.jpg"
+    },
+    {
+      "personId": 42133,
+      "name": "Nina Siemaszko",
+      "character": "Tamsen, la fille de Rosario",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 1.293,
+      "profile_path": "/aXEBJst8pDU662tkrnJ1XZb4uUi.jpg"
+    },
+    {
+      "personId": 10182,
+      "name": "Ving Rhames",
+      "character": "Little Leroy",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 4.5568,
+      "profile_path": "/rqPdVVIdt45wNDsXuREu2M6PApU.jpg"
+    },
+    {
+      "personId": 27858,
+      "name": "Adam Trese",
+      "character": "John",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 1.3359,
+      "profile_path": "/kNCjIozZRvbntkRsuRq1xJSppYI.jpg"
+    },
+    {
+      "personId": 51546,
+      "name": "Joe Seneca",
+      "character": "Spits",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 0.9549,
+      "profile_path": "/aFQMZdbawo7tQHnPMk1ififirwZ.jpg"
+    },
+    {
+      "personId": 1234271,
+      "name": "Bahni Turpin",
+      "character": "Gloria",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 0.4968,
+      "profile_path": "/5pGC4pFliDDTOUhVnnMZ0Bk3N28.jpg"
+    },
+    {
+      "personId": 18472,
+      "name": "Kevin Corrigan",
+      "character": "Peter",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 1.9296,
+      "profile_path": "/obSUGc68mQDvFONalMg25Xw5GZM.jpg"
+    },
+    {
+      "personId": 4890,
+      "name": "Brian Tarantina",
+      "character": "Fred",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 1.5269,
+      "profile_path": "/1EysTrCLtGQ0rQBg6EqZkOWoamR.jpg"
+    },
+    {
+      "personId": 1473,
+      "name": "Daniel von Bargen",
+      "character": "Boat Captain",
+      "order": 10,
+      "cast_id": 25,
+      "popularity": 2.4129,
+      "profile_path": "/2S03pvALrrAkXU8TdDSuYevtdBc.jpg"
+    },
+    {
+      "personId": 1570190,
+      "name": "Frances Chaney",
+      "character": "Woman in the Window",
+      "order": 11,
+      "cast_id": 26,
+      "popularity": 0.9343,
+      "profile_path": "/yEglTFdg6vbkyU1y5hEN5O6AONJ.jpg"
+    },
+    {
+      "personId": 155573,
+      "name": "Irma St. Paule",
+      "character": "Neighbor Lady",
+      "order": 12,
+      "cast_id": 27,
+      "popularity": 0.3865,
+      "profile_path": "/qtJmKcPHbTyveOE2NhLcsU04KUF.jpg"
+    },
+    {
+      "personId": 2492742,
+      "name": "Art Garfield",
+      "character": "Coffin Handler",
+      "order": 13,
+      "cast_id": 32,
+      "popularity": 0.1988,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 15858,
+      "name": "Tim Hunter",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.568,
+      "profile_path": "/n03G1gCKqxpi6udwINygNiLoGdn.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 222,
+      "name": "schizophrenia"
+    },
+    {
+      "id": 1003,
+      "name": "photographer"
+    },
+    {
+      "id": 6025,
+      "name": "photography"
+    },
+    {
+      "id": 2981,
+      "name": "homelessness"
+    }
+  ]
+}

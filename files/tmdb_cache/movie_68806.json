@@ -1,0 +1,239 @@
+{
+  "overview": "The film shows the difficulties of an honest, imperiled judge and his bodyguard of four men, trying to clean up a Sicilian town. Corrupt local politicians, working hand-in-hand with the Mafia, will stop at nothing to prevent exposure of their rackets.",
+  "release_date": "1993-04-15",
+  "runtime": 96,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.467,
+  "tmdb_vote_count": 45,
+  "tmdb_popularity": 4.0009,
+  "original_language": "it",
+  "poster_path": "/bhUUl8DosoGRDiGuSGu5GXDdGzT.jpg",
+  "backdrop_path": "/cQfQkpfysYatTyU8ksQOXv0Gg8e.jpg",
+  "tmdb_genres_raw": [
+    "Thriller",
+    "Crime",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 112249,
+      "name": "Claudio Bonivento Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "it",
+      "name": "Italiano"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 23961,
+      "name": "Claudio Amendola",
+      "character": "Angelo Mandolesi",
+      "order": 0,
+      "cast_id": 8,
+      "popularity": 1.0779,
+      "profile_path": "/wOLO9h2QvyrzWlG9dUpqhG3NAAc.jpg"
+    },
+    {
+      "personId": 27392,
+      "name": "Enrico Lo Verso",
+      "character": "Andrea Corsale",
+      "order": 1,
+      "cast_id": 10,
+      "popularity": 2.186,
+      "profile_path": "/riYINKQIv8mxYwtfj0L899K0iPu.jpg"
+    },
+    {
+      "personId": 96974,
+      "name": "Carlo Cecchi",
+      "character": "Assistant Prosecuting Magistrate Michele de Francesco",
+      "order": 2,
+      "cast_id": 9,
+      "popularity": 0.5333,
+      "profile_path": "/ek6bObZ1kimovsmHSVjX861vQlA.jpg"
+    },
+    {
+      "personId": 128117,
+      "name": "Ricky Memphis",
+      "character": "Fabio Muzzi",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 1.831,
+      "profile_path": "/t3mq1tU437zZd237ZqHSUuFd9fo.jpg"
+    },
+    {
+      "personId": 119992,
+      "name": "Leo Gullotta",
+      "character": "Polizzi",
+      "order": 4,
+      "cast_id": 14,
+      "popularity": 1.3902,
+      "profile_path": "/wn9LQjKRZxrXm6a5zyfrLs71ChM.jpg"
+    },
+    {
+      "personId": 929443,
+      "name": "Santo Bellina",
+      "character": "Salvatore Genna",
+      "order": 5,
+      "cast_id": 21,
+      "popularity": 0.2052,
+      "profile_path": "/s5a0tyfKqGQyajZjTti1ZlvkVKA.jpg"
+    },
+    {
+      "personId": 1874281,
+      "name": "Benedetto Raneli",
+      "character": "Presidente Caruso",
+      "order": 6,
+      "cast_id": 22,
+      "popularity": 1.8231,
+      "profile_path": "/7KpsbckKytZVciH99BWqopixnoP.jpg"
+    },
+    {
+      "personId": 126975,
+      "name": "Tony Sperandeo",
+      "character": "Raffaele Frasca",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 1.264,
+      "profile_path": "/ccBTr3bbio0IHVLVn6NYLJWRyZw.jpg"
+    },
+    {
+      "personId": 71296,
+      "name": "Ugo Conti",
+      "character": "Nicola Torre",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 0.7839,
+      "profile_path": "/sYPGa0VgYobdQkiJ3ELevIfm7lj.jpg"
+    },
+    {
+      "personId": 78711,
+      "name": "Francesca D'Aloja",
+      "character": "Anna Spano",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 1.6685,
+      "profile_path": "/vAMBffbsq2WIkM0xD8XOofh831.jpg"
+    },
+    {
+      "personId": 1949950,
+      "name": "Michele Volpentesta",
+      "character": "Marco Corini",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 0.0807,
+      "profile_path": null
+    },
+    {
+      "personId": 226832,
+      "name": "Lorenza Indovina",
+      "character": "Lia Corsale",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 1.1894,
+      "profile_path": "/6RB1pBf2KikWaa0e9WgMrsg81fD.jpg"
+    },
+    {
+      "personId": 27647,
+      "name": "Angelo Infanti",
+      "character": "Giudice Luigi Barresi",
+      "order": 12,
+      "cast_id": 25,
+      "popularity": 0.8899,
+      "profile_path": "/umdxDMQe8tVJUUc0re0bd28sH3H.jpg"
+    },
+    {
+      "personId": 120656,
+      "name": "Luigi Maria Burruano",
+      "character": "informatore",
+      "order": 13,
+      "cast_id": 26,
+      "popularity": 0.7737,
+      "profile_path": "/3kDUllVREGWbWIz5eQHm2DWNvSv.jpg"
+    },
+    {
+      "personId": 1701604,
+      "name": "Giovanni Alamia",
+      "character": "Nino Carabba",
+      "order": 14,
+      "cast_id": 27,
+      "popularity": 0.3531,
+      "profile_path": null
+    },
+    {
+      "personId": 1026461,
+      "name": "Guia Jelo",
+      "character": "Rosalia Carabba",
+      "order": 15,
+      "cast_id": 28,
+      "popularity": 0.4118,
+      "profile_path": "/k1UiMpsYsXZbGrDw0ipXyokHtdj.jpg"
+    },
+    {
+      "personId": 1604213,
+      "name": "Mimmo Mignemi",
+      "character": "Maresciallo",
+      "order": 16,
+      "cast_id": 29,
+      "popularity": 1.1294,
+      "profile_path": "/w7OFu6iCH06q67Sj5g2boVVBGH0.jpg"
+    },
+    {
+      "personId": 119352,
+      "name": "Claudio Spadaro",
+      "character": "Farina",
+      "order": 17,
+      "cast_id": 30,
+      "popularity": 1.8779,
+      "profile_path": "/pYNbVlVGahYDMi7vOMgNUrZZL7L.jpg"
+    },
+    {
+      "personId": 553806,
+      "name": "Rita Savagnone",
+      "character": "La madre di Angelo",
+      "order": 18,
+      "cast_id": 17,
+      "popularity": 0.9751,
+      "profile_path": "/yQBZMoZt5dzlRW185VI2WyE7WFf.jpg"
+    },
+    {
+      "personId": 105120,
+      "name": "Simona Izzo",
+      "character": "la moglie del giudice",
+      "order": 19,
+      "cast_id": 31,
+      "popularity": 1.7303,
+      "profile_path": "/q6zV6ZjWttbliYXj9h8Knmfueyd.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 105114,
+      "name": "Ricky Tognazzi",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.4715,
+      "profile_path": "/fBgtva5iaF2mUSzC4o7qqYbBEIb.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 10391,
+      "name": "mafia"
+    },
+    {
+      "id": 282787,
+      "name": "italian politics"
+    }
+  ]
+}

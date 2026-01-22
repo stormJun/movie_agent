@@ -1,0 +1,318 @@
+{
+  "overview": "A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.",
+  "release_date": "1968-10-04",
+  "runtime": 96,
+  "budget": 114000,
+  "revenue": 30236452,
+  "tmdb_vote_average": 7.612,
+  "tmdb_vote_count": 2641,
+  "tmdb_popularity": 3.4118,
+  "original_language": "en",
+  "poster_path": "/rb2NWyb008u1EcKCOyXs2Nmj0ra.jpg",
+  "backdrop_path": "/d0NwvSRJQQzkubWKsidX4caQ6Yi.jpg",
+  "tmdb_genres_raw": [
+    "Horror",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 14121,
+      "name": "Image Ten",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 97913,
+      "name": "Judith O'Dea",
+      "character": "Barbra",
+      "order": 0,
+      "cast_id": 11,
+      "popularity": 0.7508,
+      "profile_path": "/nihfq3xdU22xnxHKmqA0Mv9rUvv.jpg"
+    },
+    {
+      "personId": 97912,
+      "name": "Duane Jones",
+      "character": "Ben",
+      "order": 1,
+      "cast_id": 10,
+      "popularity": 0.847,
+      "profile_path": "/6IKcAo7UwByTM3U8awBBuJlHAQs.jpg"
+    },
+    {
+      "personId": 97915,
+      "name": "Marilyn Eastman",
+      "character": "Helen Cooper",
+      "order": 2,
+      "cast_id": 13,
+      "popularity": 0.3008,
+      "profile_path": "/qQqJ6tUNHHJWTrUJNR3D5xYFf28.jpg"
+    },
+    {
+      "personId": 97914,
+      "name": "Karl Hardman",
+      "character": "Harry Cooper",
+      "order": 3,
+      "cast_id": 12,
+      "popularity": 0.7032,
+      "profile_path": "/vs5xLO71stUS3Cn1UD1EWeGAa7b.jpg"
+    },
+    {
+      "personId": 97917,
+      "name": "Judith Ridley",
+      "character": "Judy",
+      "order": 4,
+      "cast_id": 15,
+      "popularity": 0.2712,
+      "profile_path": "/e6vZxGc7QP5CSlwUrvuQbSfiBvA.jpg"
+    },
+    {
+      "personId": 97916,
+      "name": "Keith Wayne",
+      "character": "Tom",
+      "order": 5,
+      "cast_id": 14,
+      "popularity": 0.2753,
+      "profile_path": "/5nyL4dSFZMcpvJS0inrJS41vWhQ.jpg"
+    },
+    {
+      "personId": 97918,
+      "name": "Kyra Schon",
+      "character": "Karen Cooper / Corpse in House",
+      "order": 6,
+      "cast_id": 16,
+      "popularity": 0.5368,
+      "profile_path": "/k0mRAFI9Ptzp40N9xh5pD2oaJPT.jpg"
+    },
+    {
+      "personId": 97919,
+      "name": "Charles Craig",
+      "character": "TV Newscaster / Zombie",
+      "order": 7,
+      "cast_id": 17,
+      "popularity": 2.2952,
+      "profile_path": null
+    },
+    {
+      "personId": 97920,
+      "name": "S. William Hinzman",
+      "character": "Zombie",
+      "order": 8,
+      "cast_id": 18,
+      "popularity": 0.6412,
+      "profile_path": "/jD1fEONB10zMGHbqamOSCt32AYK.jpg"
+    },
+    {
+      "personId": 97921,
+      "name": "Bill Cardille",
+      "character": "Field Reporter",
+      "order": 9,
+      "cast_id": 19,
+      "popularity": 0.4495,
+      "profile_path": null
+    },
+    {
+      "personId": 1288949,
+      "name": "John Simpson",
+      "character": "Zombie",
+      "order": 10,
+      "cast_id": 26,
+      "popularity": 0.0877,
+      "profile_path": null
+    },
+    {
+      "personId": 1772607,
+      "name": "George Kosana",
+      "character": "Sheriff McClelland",
+      "order": 11,
+      "cast_id": 39,
+      "popularity": 0.3795,
+      "profile_path": null
+    },
+    {
+      "personId": 2855710,
+      "name": "Frank Doak",
+      "character": "Scientist",
+      "order": 12,
+      "cast_id": 40,
+      "popularity": 0.2146,
+      "profile_path": null
+    },
+    {
+      "personId": 1207021,
+      "name": "A.C. McDonald",
+      "character": "Zombie / Posse Member",
+      "order": 13,
+      "cast_id": 41,
+      "popularity": 0.0666,
+      "profile_path": null
+    },
+    {
+      "personId": 2855712,
+      "name": "Samuel R. Solito",
+      "character": "Zombie / Posse Member",
+      "order": 14,
+      "cast_id": 42,
+      "popularity": 0.0717,
+      "profile_path": null
+    },
+    {
+      "personId": 2855713,
+      "name": "Mark Ricci",
+      "character": "Washington Scientist",
+      "order": 15,
+      "cast_id": 43,
+      "popularity": 0.0466,
+      "profile_path": null
+    },
+    {
+      "personId": 1205925,
+      "name": "Lee Hartman",
+      "character": "Zombie / News Reporter",
+      "order": 16,
+      "cast_id": 44,
+      "popularity": 0.1415,
+      "profile_path": null
+    },
+    {
+      "personId": 1081603,
+      "name": "Ross Harris",
+      "character": "Newscaster/Zombie",
+      "order": 17,
+      "cast_id": 45,
+      "popularity": 0.4206,
+      "profile_path": null
+    },
+    {
+      "personId": 3022607,
+      "name": "Steve Hutsko",
+      "character": "Cardille's Cameraman",
+      "order": 18,
+      "cast_id": 46,
+      "popularity": 0.0621,
+      "profile_path": null
+    },
+    {
+      "personId": 2350145,
+      "name": "Phillip Smith",
+      "character": "Zombie / Posse Member",
+      "order": 19,
+      "cast_id": 47,
+      "popularity": 0.123,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 14999,
+      "name": "George A. Romero",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.9431,
+      "profile_path": "/w2zVF92x149qK79ZxwUowcSp2c6.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 380,
+      "name": "sibling relationship"
+    },
+    {
+      "id": 904,
+      "name": "pennsylvania, usa"
+    },
+    {
+      "id": 697,
+      "name": "loss of loved one"
+    },
+    {
+      "id": 1419,
+      "name": "gun"
+    },
+    {
+      "id": 1420,
+      "name": "gas station"
+    },
+    {
+      "id": 1227,
+      "name": "cemetery"
+    },
+    {
+      "id": 2602,
+      "name": "cellar"
+    },
+    {
+      "id": 3335,
+      "name": "halloween"
+    },
+    {
+      "id": 6095,
+      "name": "house"
+    },
+    {
+      "id": 7246,
+      "name": "barricade"
+    },
+    {
+      "id": 12377,
+      "name": "zombie"
+    },
+    {
+      "id": 12999,
+      "name": "black and white"
+    },
+    {
+      "id": 18029,
+      "name": "trapped"
+    },
+    {
+      "id": 155561,
+      "name": "bitten"
+    },
+    {
+      "id": 161196,
+      "name": "farm house"
+    },
+    {
+      "id": 208156,
+      "name": "frantic"
+    },
+    {
+      "id": 225012,
+      "name": "satirical"
+    },
+    {
+      "id": 251667,
+      "name": "anxious"
+    },
+    {
+      "id": 325817,
+      "name": "foreboding"
+    },
+    {
+      "id": 325818,
+      "name": "frightened"
+    },
+    {
+      "id": 325819,
+      "name": "frustrated"
+    },
+    {
+      "id": 325825,
+      "name": "horrified"
+    }
+  ]
+}

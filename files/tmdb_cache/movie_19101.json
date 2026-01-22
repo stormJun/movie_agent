@@ -1,0 +1,313 @@
+{
+  "overview": "When her father enlists to fight for the British in WWI, young Sara Crewe goes to New York to attend the same boarding school her late mother attended. She soon clashes with the severe headmistress, Miss Minchin, who attempts to stifle Sara's creativity and sense of self-worth.",
+  "release_date": "1995-05-10",
+  "runtime": 97,
+  "budget": 17000000,
+  "revenue": 10000000,
+  "tmdb_vote_average": 7.618,
+  "tmdb_vote_count": 1019,
+  "tmdb_popularity": 2.3211,
+  "original_language": "en",
+  "poster_path": "/9V4bAVEskSNbEqjVI0YmeuB0n8I.jpg",
+  "backdrop_path": "/tcMVpjdEpsXrbPtVrSmh4uDBSiy.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Family",
+    "Fantasy"
+  ],
+  "production_companies": [
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 11407,
+      "name": "Baltimore Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 2604,
+      "name": "Mark Johnson Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 84093,
+      "name": "Liesel Matthews",
+      "character": "Sara Crewe",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.7222,
+      "profile_path": "/l0T12SyeOOFeP0lgmDSMdt85hS9.jpg"
+    },
+    {
+      "personId": 45453,
+      "name": "Eleanor Bron",
+      "character": "Miss Minchin",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.1386,
+      "profile_path": "/lb560cizOkGZCYzxqccbByYjde5.jpg"
+    },
+    {
+      "personId": 15498,
+      "name": "Liam Cunningham",
+      "character": "Capt. Crewe / Prince Rama",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.0368,
+      "profile_path": "/ljmFT9zYqh4k2bmEcNU6rxoE7fW.jpg"
+    },
+    {
+      "personId": 34407,
+      "name": "Rusty Schwimmer",
+      "character": "Amelia Minchin",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.4753,
+      "profile_path": "/15vtrhJCg9tXnedsO5CYfqZ055b.jpg"
+    },
+    {
+      "personId": 4938,
+      "name": "Vanessa Lee Chester",
+      "character": "Becky",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 1.285,
+      "profile_path": "/u5jWHnrCJO843KLHgkw1ZchbPOk.jpg"
+    },
+    {
+      "personId": 26293,
+      "name": "Rachael Bella",
+      "character": "Betsy",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 1.2708,
+      "profile_path": "/oB0339VrlKSbC92ovYhjtBEJhNu.jpg"
+    },
+    {
+      "personId": 38670,
+      "name": "Camilla Belle",
+      "character": "Jane",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 2.3728,
+      "profile_path": "/kYhpuTi1E3IvdHAmuijjth0lQNS.jpg"
+    },
+    {
+      "personId": 155864,
+      "name": "Kelsey Mulrooney",
+      "character": "Lottie",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 2.0481,
+      "profile_path": "/cdHJZJraJgjfO5wKJ1TfNgsrMze.jpg"
+    },
+    {
+      "personId": 1506286,
+      "name": "Lauren Blumenfeld",
+      "character": "Rosemary",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 0.4052,
+      "profile_path": "/eoGHKEcloo7T5R3HtVS0sxjBLmH.jpg"
+    },
+    {
+      "personId": 3418,
+      "name": "Vincent Schiavelli",
+      "character": "Mr. Barrow",
+      "order": 9,
+      "cast_id": 56,
+      "popularity": 2.4604,
+      "profile_path": "/8wq2WF9ohUUZZjfVxEEiUGxLHzp.jpg"
+    },
+    {
+      "personId": 85421,
+      "name": "Time Winters",
+      "character": "Frances (Milkman)",
+      "order": 10,
+      "cast_id": 57,
+      "popularity": 1.3064,
+      "profile_path": "/sqLSp5glrEbMpUaF7zIhuHmLL37.jpg"
+    },
+    {
+      "personId": 13392,
+      "name": "Arthur Malet",
+      "character": "Charles Randolph",
+      "order": 11,
+      "cast_id": 58,
+      "popularity": 1.8796,
+      "profile_path": "/AbmKxci3EZMG2rBmFLQiUdNsySL.jpg"
+    },
+    {
+      "personId": 2630903,
+      "name": "Heather DeLoach",
+      "character": "Ermengarde",
+      "order": 12,
+      "cast_id": 60,
+      "popularity": 0.9361,
+      "profile_path": "/quvmFineqWT5KXXwDZRdyy8JNLe.jpg"
+    },
+    {
+      "personId": 3806657,
+      "name": "Alexandra Rea-Baum",
+      "character": "Gertrude",
+      "order": 13,
+      "cast_id": 61,
+      "popularity": 0.2723,
+      "profile_path": null
+    },
+    {
+      "personId": 576474,
+      "name": "Juliana Harkavy",
+      "character": "Girl in India",
+      "order": 14,
+      "cast_id": 62,
+      "popularity": 1.7374,
+      "profile_path": "/mO8gTYhjrVO2N2dtjwWt1PEYjoo.jpg"
+    },
+    {
+      "personId": 1232407,
+      "name": "Taylor Fry",
+      "character": "Lavinia",
+      "order": 15,
+      "cast_id": 63,
+      "popularity": 1.2814,
+      "profile_path": null
+    },
+    {
+      "personId": 3806661,
+      "name": "Darcie Bradford",
+      "character": "Jesse",
+      "order": 16,
+      "cast_id": 64,
+      "popularity": 0.1179,
+      "profile_path": null
+    },
+    {
+      "personId": 173251,
+      "name": "Alison Moir",
+      "character": "Princess Sita",
+      "order": 17,
+      "cast_id": 65,
+      "popularity": 1.2417,
+      "profile_path": null
+    },
+    {
+      "personId": 15035,
+      "name": "Kaitlin Cullum",
+      "character": "Ruth",
+      "order": 18,
+      "cast_id": 66,
+      "popularity": 0.5797,
+      "profile_path": "/yWcwF13Oc6PmcS7ZMHhtp2GOkca.jpg"
+    },
+    {
+      "personId": 3806670,
+      "name": "Pushpa Rawal",
+      "character": "Maya",
+      "order": 19,
+      "cast_id": 67,
+      "popularity": 0.0522,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 11218,
+      "name": "Alfonso Cuarón",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.6087,
+      "profile_path": "/eoCHiXaQzGgx9RiwXnt3k239FLc.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 970,
+      "name": "parent child relationship"
+    },
+    {
+      "id": 6271,
+      "name": "boarding school"
+    },
+    {
+      "id": 964,
+      "name": "servant"
+    },
+    {
+      "id": 3551,
+      "name": "private school"
+    },
+    {
+      "id": 5248,
+      "name": "female friendship"
+    },
+    {
+      "id": 10873,
+      "name": "school"
+    },
+    {
+      "id": 12663,
+      "name": "little girl"
+    },
+    {
+      "id": 13014,
+      "name": "orphan"
+    },
+    {
+      "id": 14514,
+      "name": "class differences"
+    },
+    {
+      "id": 14636,
+      "name": "india"
+    },
+    {
+      "id": 41172,
+      "name": "schoolgirl"
+    },
+    {
+      "id": 155402,
+      "name": "presumed dead"
+    },
+    {
+      "id": 155619,
+      "name": "attic"
+    },
+    {
+      "id": 156597,
+      "name": "magic realism"
+    },
+    {
+      "id": 165583,
+      "name": "interracial friendship"
+    },
+    {
+      "id": 186797,
+      "name": "african american servant"
+    }
+  ]
+}

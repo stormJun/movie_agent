@@ -1,0 +1,158 @@
+{
+  "overview": "A group of young friends convene in the countryside to shoot a horror movie. But an experiment with LSD sees normal boundaries between them collapsing, and tragedy subsequently striking.",
+  "release_date": "1994-09-01",
+  "runtime": 91,
+  "budget": 500000,
+  "revenue": 0,
+  "tmdb_vote_average": 3.727,
+  "tmdb_vote_count": 11,
+  "tmdb_popularity": 2.6134,
+  "original_language": "en",
+  "poster_path": "/4r5rgcUDYv8qMeQ8wzOPZsycjxY.jpg",
+  "backdrop_path": "/aQAHYNrBlkedJLAvI9ccos7NSUl.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 871,
+      "name": "British Screen",
+      "origin_country": "GB"
+    },
+    {
+      "id": 294,
+      "name": "New Zealand Film Commission",
+      "origin_country": "NZ"
+    },
+    {
+      "id": 6705,
+      "name": "Film4 Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 214931,
+      "name": "Strawberry Vale",
+      "origin_country": ""
+    },
+    {
+      "id": 13537,
+      "name": "Geißendörfer Film-und Fernsehproduktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 28323,
+      "name": "British Film Institute Production Board",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "NZ",
+      "name": "New Zealand"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [],
+  "cast": [
+    {
+      "personId": 95023,
+      "name": "Oliver Milburn",
+      "character": "Neil",
+      "order": 0,
+      "cast_id": 6,
+      "popularity": 0.687,
+      "profile_path": "/6XPgOpxZHvWTBZzhjAXETom7ycJ.jpg"
+    },
+    {
+      "personId": 2462,
+      "name": "Catherine McCormack",
+      "character": "Rose",
+      "order": 1,
+      "cast_id": 7,
+      "popularity": 4.1763,
+      "profile_path": "/vYyMCGKeIUTZMdEgVwQCgX7q1T3.jpg"
+    },
+    {
+      "personId": 9030,
+      "name": "Thandiwe Newton",
+      "character": "Zita",
+      "order": 2,
+      "cast_id": 8,
+      "popularity": 5.3616,
+      "profile_path": "/hZQLvxj7nV7pBrRyWTvWVz1CDi8.jpg"
+    },
+    {
+      "personId": 1667,
+      "name": "Danny Cunningham",
+      "character": "Lance",
+      "order": 3,
+      "cast_id": 9,
+      "popularity": 1.2431,
+      "profile_path": "/8D1tzoeZGUqtIqSoXEhMiFUfvNu.jpg"
+    },
+    {
+      "personId": 33395,
+      "name": "Dearbhla Molloy",
+      "character": "Therapist",
+      "order": 4,
+      "cast_id": 19,
+      "popularity": 1.3921,
+      "profile_path": "/rSIjxmrIz05AdZqtwMaKzu4ZGzc.jpg"
+    },
+    {
+      "personId": 1235853,
+      "name": "Nick Patrick",
+      "character": "Giles",
+      "order": 5,
+      "cast_id": 20,
+      "popularity": 0.6,
+      "profile_path": null
+    },
+    {
+      "personId": 66269,
+      "name": "Bridget Hodson",
+      "character": "Charlotte",
+      "order": 6,
+      "cast_id": 21,
+      "popularity": 0.8703,
+      "profile_path": "/anmhgkEBtJ2TFgKXEqIWv15rj8a.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 75474,
+      "name": "Anna Campion",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.3895,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 726,
+      "name": "drug abuse"
+    },
+    {
+      "id": 548,
+      "name": "countryside"
+    },
+    {
+      "id": 10614,
+      "name": "tragedy"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    }
+  ]
+}

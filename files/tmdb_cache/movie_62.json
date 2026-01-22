@@ -1,0 +1,328 @@
+{
+  "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
+  "release_date": "1968-04-02",
+  "runtime": 149,
+  "budget": 12000000,
+  "revenue": 71923560,
+  "tmdb_vote_average": 8.061,
+  "tmdb_vote_count": 12250,
+  "tmdb_popularity": 13.8392,
+  "original_language": "en",
+  "poster_path": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+  "backdrop_path": "/yfnDgz3Kiv0IkdujrFRh1vcd7Yu.jpg",
+  "tmdb_genres_raw": [
+    "Science Fiction",
+    "Mystery",
+    "Adventure"
+  ],
+  "production_companies": [
+    {
+      "id": 385,
+      "name": "Stanley Kubrick Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 245,
+      "name": "Keir Dullea",
+      "character": "Dr. David Bowman",
+      "order": 0,
+      "cast_id": 6,
+      "popularity": 1.6794,
+      "profile_path": "/5QyrGWxujX8XA3Ny3M8D18TWupi.jpg"
+    },
+    {
+      "personId": 246,
+      "name": "Gary Lockwood",
+      "character": "Dr. Frank Poole",
+      "order": 1,
+      "cast_id": 7,
+      "popularity": 1.3948,
+      "profile_path": "/1tfGE7RW8GgCLEFFJUXETq9Td1T.jpg"
+    },
+    {
+      "personId": 247,
+      "name": "William Sylvester",
+      "character": "Dr. Heywood Floyd",
+      "order": 2,
+      "cast_id": 8,
+      "popularity": 0.8422,
+      "profile_path": "/4NaExzBKqv4GPEfJ2w7S16MYS2y.jpg"
+    },
+    {
+      "personId": 253,
+      "name": "Douglas Rain",
+      "character": "HAL 9000 (voice)",
+      "order": 3,
+      "cast_id": 14,
+      "popularity": 0.6995,
+      "profile_path": "/wCjNcbW1u9cYc7jzlV5FPKqXGNF.jpg"
+    },
+    {
+      "personId": 248,
+      "name": "Daniel Richter",
+      "character": "Moonwatcher",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 1.219,
+      "profile_path": "/cq8Fprv33RgYPwu39cGx6fxk5Qp.jpg"
+    },
+    {
+      "personId": 249,
+      "name": "Leonard Rossiter",
+      "character": "Dr. Andrei Smyslov",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 0.6296,
+      "profile_path": "/qXjGUJ2TjO3ltiEYMEJ658VeqkA.jpg"
+    },
+    {
+      "personId": 250,
+      "name": "Margaret Tyzack",
+      "character": "Elena",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 1.4682,
+      "profile_path": "/n7S4qtgp0DA9gtkzEXB7r5tt6jH.jpg"
+    },
+    {
+      "personId": 251,
+      "name": "Robert Beatty",
+      "character": "Dr. Ralph Halvorsen",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 0.731,
+      "profile_path": "/zsVtibd7wYlt6p6pShgOhLBMS1j.jpg"
+    },
+    {
+      "personId": 252,
+      "name": "Sean Sullivan",
+      "character": "Dr. Roy Michaels",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 0.5753,
+      "profile_path": "/3MvdBoEz4w72ooUbInPB4wNPx4S.jpg"
+    },
+    {
+      "personId": 4461547,
+      "name": "Frank W. Miller",
+      "character": "Mission Controller (voice)",
+      "order": 9,
+      "cast_id": 103,
+      "popularity": 0.1029,
+      "profile_path": "/smhxI0XTlQMeXvEM8UflmB8Y6H0.jpg"
+    },
+    {
+      "personId": 24278,
+      "name": "Bill Weston",
+      "character": "Astronaut",
+      "order": 10,
+      "cast_id": 24,
+      "popularity": 1.6158,
+      "profile_path": "/xILidlizMlkIXCPuU6o4kdcW182.jpg"
+    },
+    {
+      "personId": 108277,
+      "name": "Ed Bishop",
+      "character": "Aries-1B Lunar Shuttle Captain",
+      "order": 11,
+      "cast_id": 25,
+      "popularity": 1.2905,
+      "profile_path": "/uLLoKf4BknxuF1SOSD0EBB4gSmc.jpg"
+    },
+    {
+      "personId": 948173,
+      "name": "Glenn Beck",
+      "character": "Astronaut",
+      "order": 12,
+      "cast_id": 31,
+      "popularity": 1.1899,
+      "profile_path": "/9QeeMaBYTPSQYxm6GlMSuowu3GE.jpg"
+    },
+    {
+      "personId": 93948,
+      "name": "Alan Gifford",
+      "character": "Poole's Father",
+      "order": 13,
+      "cast_id": 27,
+      "popularity": 0.8782,
+      "profile_path": "/bRmH5q90Y5pwrmERHi9aol8WeLp.jpg"
+    },
+    {
+      "personId": 107445,
+      "name": "Ann Gillis",
+      "character": "Poole's Mother",
+      "order": 14,
+      "cast_id": 28,
+      "popularity": 0.5637,
+      "profile_path": "/snMxooC0nhjSvVPnxBWO396b1Jl.jpg"
+    },
+    {
+      "personId": 117540,
+      "name": "Edwina Carroll",
+      "character": "Aries-1B Stewardess",
+      "order": 15,
+      "cast_id": 29,
+      "popularity": 0.2872,
+      "profile_path": "/1cnJio9ZtRXFUKIB0NiSIpb1lNI.jpg"
+    },
+    {
+      "personId": 127363,
+      "name": "Penny Brahms",
+      "character": "Stewardess",
+      "order": 16,
+      "cast_id": 39,
+      "popularity": 1.7637,
+      "profile_path": "/uFjTuQ02DL7fHF4FpazTkA9q0W1.jpg"
+    },
+    {
+      "personId": 1102076,
+      "name": "Heather Downham",
+      "character": "Stewardess",
+      "order": 17,
+      "cast_id": 40,
+      "popularity": 1.6116,
+      "profile_path": "/cYnnruq084FIkMipMj2HHS4qnjf.jpg"
+    },
+    {
+      "personId": 1330785,
+      "name": "Mike Lovell",
+      "character": "Astronaut",
+      "order": 18,
+      "cast_id": 41,
+      "popularity": 0.0679,
+      "profile_path": null
+    },
+    {
+      "personId": 1330786,
+      "name": "John Ashley",
+      "character": "Ape",
+      "order": 19,
+      "cast_id": 42,
+      "popularity": 0.0731,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 240,
+      "name": "Stanley Kubrick",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.7453,
+      "profile_path": "/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 312,
+      "name": "man vs machine"
+    },
+    {
+      "id": 305,
+      "name": "moon"
+    },
+    {
+      "id": 306,
+      "name": "jupiter"
+    },
+    {
+      "id": 310,
+      "name": "artificial intelligence (a.i.)"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 1576,
+      "name": "technology"
+    },
+    {
+      "id": 3222,
+      "name": "super computer"
+    },
+    {
+      "id": 3801,
+      "name": "space travel"
+    },
+    {
+      "id": 4040,
+      "name": "space mission"
+    },
+    {
+      "id": 12185,
+      "name": "moon base"
+    },
+    {
+      "id": 14626,
+      "name": "astronaut"
+    },
+    {
+      "id": 34152,
+      "name": "evolution"
+    },
+    {
+      "id": 155689,
+      "name": "monolith"
+    },
+    {
+      "id": 156039,
+      "name": "space station"
+    },
+    {
+      "id": 161176,
+      "name": "space opera"
+    },
+    {
+      "id": 252104,
+      "name": "2000s"
+    },
+    {
+      "id": 298590,
+      "name": "ai rebellion"
+    },
+    {
+      "id": 309974,
+      "name": "absurd"
+    },
+    {
+      "id": 325763,
+      "name": "ambiguous"
+    },
+    {
+      "id": 361867,
+      "name": "metrocolor"
+    },
+    {
+      "id": 362499,
+      "name": "super panavision 70"
+    }
+  ]
+}

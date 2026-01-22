@@ -1,0 +1,253 @@
+{
+  "overview": "When dignified Albert Donnelly runs for Governor, his team moves to keep his slow-witted and klutzy younger brother, Mike, out of the eye of the media. To baby-sit Mike, the campaign assigns sarcastic Steve, who gets the experience of a lifetime when he tries to take Mike out of town during the election.",
+  "release_date": "1996-02-01",
+  "runtime": 86,
+  "budget": 32400000,
+  "revenue": 32000000,
+  "tmdb_vote_average": 6.068,
+  "tmdb_vote_count": 442,
+  "tmdb_popularity": 3.6674,
+  "original_language": "en",
+  "poster_path": "/bqIW5oE4WeHAvk1nh2Y6rfOLGrF.jpg",
+  "backdrop_path": "/rJbDh4nIjxQFlFjK6k2SktTTT01.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 58198,
+      "name": "Chris Farley",
+      "character": "Mike Donnelly",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.4772,
+      "profile_path": "/hRTXfxXjVcDWh9VxSi0EmodfQxu.jpg"
+    },
+    {
+      "personId": 60950,
+      "name": "David Spade",
+      "character": "Steve Dodds",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.4506,
+      "profile_path": "/8tv638lAMLmYh8bSLICqPzbW3tv.jpg"
+    },
+    {
+      "personId": 21561,
+      "name": "Tim Matheson",
+      "character": "Al Donnelly",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 5.5414,
+      "profile_path": "/6oexiiYLJYXU6NjIhzlpA3mqYGF.jpg"
+    },
+    {
+      "personId": 2048,
+      "name": "Gary Busey",
+      "character": "Drake Sabitch",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 3.5191,
+      "profile_path": "/8H7Hlv6b7ZoK4jZKeLnc2i4pfPL.jpg"
+    },
+    {
+      "personId": 26999,
+      "name": "Chris Owen",
+      "character": "Hal",
+      "order": 4,
+      "cast_id": 22,
+      "popularity": 1.7873,
+      "profile_path": "/lbpz1BSNahnkyE7FZ1tWcIy35w0.jpg"
+    },
+    {
+      "personId": 14888,
+      "name": "Bruce McGill",
+      "character": "Neuschwander",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 3.2566,
+      "profile_path": "/j4mn0fPdhhXfRqQwheAwCU8Hwrm.jpg"
+    },
+    {
+      "personId": 20196,
+      "name": "Boyd Banks",
+      "character": "Clyde Spinoza",
+      "order": 6,
+      "cast_id": 12,
+      "popularity": 1.1811,
+      "profile_path": "/gZacrvpZztnnYj07FVqi6jE6gkL.jpg"
+    },
+    {
+      "personId": 31511,
+      "name": "Grant Heslov",
+      "character": "Robbie Mieghem",
+      "order": 7,
+      "cast_id": 5,
+      "popularity": 1.2415,
+      "profile_path": "/xNkGkkRN2I2Ly57PqDNk9QgAPJs.jpg"
+    },
+    {
+      "personId": 1598,
+      "name": "David St. James",
+      "character": "Motorcycle Cop",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 1.0745,
+      "profile_path": "/bj8ICLc3bMlAwnIWtDyP57ApQt8.jpg"
+    },
+    {
+      "personId": 17396,
+      "name": "Timothy Carhart",
+      "character": "Roger Kovary",
+      "order": 9,
+      "cast_id": 10,
+      "popularity": 1.5226,
+      "profile_path": "/jfEzqYXfX7sH0BFmmiXty6kB1Lq.jpg"
+    },
+    {
+      "personId": 56486,
+      "name": "Michael Patrick Carter",
+      "character": "Scott Colleary",
+      "order": 10,
+      "cast_id": 11,
+      "popularity": 0.379,
+      "profile_path": "/21E49kmIuNyaw6BCW4ASHxP3XGO.jpg"
+    },
+    {
+      "personId": 4003,
+      "name": "Christine Ebersole",
+      "character": "Governor Tracy",
+      "order": 11,
+      "cast_id": 9,
+      "popularity": 1.6433,
+      "profile_path": "/bSFrS3JtDwnzbw877Iqwf8tEmF.jpg"
+    },
+    {
+      "personId": 162823,
+      "name": "Skip O'Brien",
+      "character": "State Trooper",
+      "order": 12,
+      "cast_id": 14,
+      "popularity": 1.194,
+      "profile_path": null
+    },
+    {
+      "personId": 56165,
+      "name": "Branden Morgan",
+      "character": "Fan",
+      "order": 13,
+      "cast_id": 15,
+      "popularity": 0.2929,
+      "profile_path": "/25OUQsBPNGxRMDKkf9jtcgYgGoY.jpg"
+    },
+    {
+      "personId": 1073828,
+      "name": "Gypsy Spheeris",
+      "character": "Pocket Pool Lady",
+      "order": 14,
+      "cast_id": 16,
+      "popularity": 0.0835,
+      "profile_path": null
+    },
+    {
+      "personId": 1030724,
+      "name": "John Ashker",
+      "character": "Jim Blaine",
+      "order": 15,
+      "cast_id": 17,
+      "popularity": 0.5192,
+      "profile_path": null
+    },
+    {
+      "personId": 1886271,
+      "name": "James Noah",
+      "character": "Mayor",
+      "order": 16,
+      "cast_id": 19,
+      "popularity": 1.5032,
+      "profile_path": "/qcqd4BnJVMMyVNSFkztY76e1GxI.jpg"
+    },
+    {
+      "personId": 1864853,
+      "name": "Jonathan Everett Lewis",
+      "character": "Carl",
+      "order": 17,
+      "cast_id": 18,
+      "popularity": 0.0871,
+      "profile_path": null
+    },
+    {
+      "personId": 5620,
+      "name": "Kevin Farley",
+      "character": "Bouncer",
+      "order": 18,
+      "cast_id": 20,
+      "popularity": 1.2403,
+      "profile_path": "/aDWJiqUJz82iFWUUvHBSpacPkmv.jpg"
+    },
+    {
+      "personId": 5621,
+      "name": "John Farley",
+      "character": "Bouncer",
+      "order": 19,
+      "cast_id": 21,
+      "popularity": 1.4058,
+      "profile_path": "/iWDL5mvrsgSnsvrclFA01ka8btB.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 58448,
+      "name": "Penelope Spheeris",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.727,
+      "profile_path": "/7juDUTAEyAKKfDmkOD9q24kjrei.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 156024,
+      "name": "corrupt politician"
+    },
+    {
+      "id": 169078,
+      "name": "nitrous oxide"
+    },
+    {
+      "id": 169079,
+      "name": "candid camera"
+    },
+    {
+      "id": 169085,
+      "name": "double act"
+    },
+    {
+      "id": 169086,
+      "name": "political satire"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    }
+  ]
+}

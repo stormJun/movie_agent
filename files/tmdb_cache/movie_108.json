@@ -1,0 +1,288 @@
+{
+  "overview": "The wife of a famous composer survives a car accident that kills her husband and daughter. Now alone, she shakes off her old identity and explores her newfound freedom but finds that she is unbreakably bound to other humans, including her husband’s mistress, whose existence she never suspected.",
+  "release_date": "1993-09-08",
+  "runtime": 98,
+  "budget": 0,
+  "revenue": 1527572,
+  "tmdb_vote_average": 7.638,
+  "tmdb_vote_count": 1829,
+  "tmdb_popularity": 4.6667,
+  "original_language": "fr",
+  "poster_path": "/33wsWxzsNstI8N7dvuwzFmj1qBd.jpg",
+  "backdrop_path": "/nAyUVvcdOKHmukdgGHZ7xR5er1q.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 6274,
+      "name": "MK2 Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1610,
+      "name": "CED Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 22587,
+      "name": "CAB Productions",
+      "origin_country": "CH"
+    },
+    {
+      "id": 38,
+      "name": "Studio Filmowe Tor",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "PL",
+      "name": "Poland"
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "pl",
+      "name": "Polski"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1137,
+      "name": "Juliette Binoche",
+      "character": "Julie",
+      "order": 0,
+      "cast_id": 10,
+      "popularity": 4.0878,
+      "profile_path": "/htdZZIroEyJaeHQAUTqokNfkPgl.jpg"
+    },
+    {
+      "personId": 1138,
+      "name": "Benoît Régent",
+      "character": "Olivier",
+      "order": 1,
+      "cast_id": 11,
+      "popularity": 0.7292,
+      "profile_path": "/hSCNZq6w24lJUTJpRNyiVTtQ9lL.jpg"
+    },
+    {
+      "personId": 1139,
+      "name": "Florence Pernel",
+      "character": "Sandrine",
+      "order": 2,
+      "cast_id": 12,
+      "popularity": 0.6521,
+      "profile_path": "/fqrv9hguDX9xtjlQnZuABOVSoka.jpg"
+    },
+    {
+      "personId": 1140,
+      "name": "Charlotte Véry",
+      "character": "Lucille",
+      "order": 3,
+      "cast_id": 18,
+      "popularity": 0.8167,
+      "profile_path": "/mTAW8qpzhvwvqTxxMU3bWKtNGDL.jpg"
+    },
+    {
+      "personId": 1141,
+      "name": "Hélène Vincent",
+      "character": "Journalist",
+      "order": 4,
+      "cast_id": 19,
+      "popularity": 0.6219,
+      "profile_path": "/lJJ9WjZJI6cVCpFTsXoHqSDW23v.jpg"
+    },
+    {
+      "personId": 1142,
+      "name": "Philippe Volter",
+      "character": "Real Estate Agent",
+      "order": 5,
+      "cast_id": 20,
+      "popularity": 1.5162,
+      "profile_path": "/64YFCcB1D6FfPV7WE8OTEf2WP2V.jpg"
+    },
+    {
+      "personId": 17894,
+      "name": "Claude Duneton",
+      "character": "Doctor",
+      "order": 6,
+      "cast_id": 21,
+      "popularity": 0.3688,
+      "profile_path": "/9rXxZtykBGKc7On67xkkxlFlLWf.jpg"
+    },
+    {
+      "personId": 38170,
+      "name": "Hugues Quester",
+      "character": "Patrice (Julie's Husband)",
+      "order": 7,
+      "cast_id": 22,
+      "popularity": 0.676,
+      "profile_path": "/sBLiQG9ihExsM1qMV51RRaOe0kG.jpg"
+    },
+    {
+      "personId": 267962,
+      "name": "Emmanuelle Riva",
+      "character": "Mother",
+      "order": 8,
+      "cast_id": 23,
+      "popularity": 1.003,
+      "profile_path": "/pDPGIHy001boz5yBBWTjNUf4aOO.jpg"
+    },
+    {
+      "personId": 53428,
+      "name": "Florence Vignon",
+      "character": "The Copyist",
+      "order": 9,
+      "cast_id": 35,
+      "popularity": 0.5015,
+      "profile_path": "/uSjOZ4nUgSWPH1cSBgZcuGtd8Wi.jpg"
+    },
+    {
+      "personId": 538398,
+      "name": "Daniel Martin",
+      "character": "The Downstairs Neighbour",
+      "order": 10,
+      "cast_id": 36,
+      "popularity": 0.5188,
+      "profile_path": "/fUalx2UASfEKzJ3AKHEa51ys9L.jpg"
+    },
+    {
+      "personId": 2615834,
+      "name": "Jacek Ostaszewski",
+      "character": "The Flutist",
+      "order": 11,
+      "cast_id": 37,
+      "popularity": 0.0651,
+      "profile_path": null
+    },
+    {
+      "personId": 1950465,
+      "name": "Catherine Therouenne",
+      "character": "The Neighbour",
+      "order": 12,
+      "cast_id": 38,
+      "popularity": 0.632,
+      "profile_path": null
+    },
+    {
+      "personId": 72592,
+      "name": "Yann Trégouët",
+      "character": "Antoine",
+      "order": 13,
+      "cast_id": 33,
+      "popularity": 1.4244,
+      "profile_path": "/4if4KgfqLh3HF2eAetXONbeXvgT.jpg"
+    },
+    {
+      "personId": 145766,
+      "name": "Alain Ollivier",
+      "character": "The Lawyer",
+      "order": 14,
+      "cast_id": 39,
+      "popularity": 0.3218,
+      "profile_path": null
+    },
+    {
+      "personId": 38501,
+      "name": "Isabelle Sadoyan",
+      "character": "Maid",
+      "order": 15,
+      "cast_id": 34,
+      "popularity": 0.4994,
+      "profile_path": "/A6rXj06ynTG1earh524gkkoJYBF.jpg"
+    },
+    {
+      "personId": 51948,
+      "name": "Pierre Forget",
+      "character": "Gardiner",
+      "order": 16,
+      "cast_id": 40,
+      "popularity": 0.674,
+      "profile_path": "/pxUCVqZ9ELoklYIZyhZdlX2l6N9.jpg"
+    },
+    {
+      "personId": 252044,
+      "name": "Philippe Manesse",
+      "character": "",
+      "order": 17,
+      "cast_id": 41,
+      "popularity": 0.1815,
+      "profile_path": "/m4Xn8DsMdeZUC9Byl4pGNwZCkkV.jpg"
+    },
+    {
+      "personId": 78292,
+      "name": "Arno Chevrier",
+      "character": "",
+      "order": 18,
+      "cast_id": 42,
+      "popularity": 0.9471,
+      "profile_path": "/8sKUunFtnWkSSUmTUEZhazmBDbA.jpg"
+    },
+    {
+      "personId": 230153,
+      "name": "Idit Cebula",
+      "character": "",
+      "order": 19,
+      "cast_id": 43,
+      "popularity": 0.3511,
+      "profile_path": "/lTEDMzyu4Yld3UOT0EYD8azm8Bl.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1126,
+      "name": "Krzysztof Kieślowski",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.4757,
+      "profile_path": "/zG9JD4kzQHhKJAtMOWbwrEolvun.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 254,
+      "name": "france"
+    },
+    {
+      "id": 90,
+      "name": "paris, france"
+    },
+    {
+      "id": 1233,
+      "name": "composer"
+    },
+    {
+      "id": 4424,
+      "name": "pain"
+    },
+    {
+      "id": 5257,
+      "name": "to compose"
+    },
+    {
+      "id": 697,
+      "name": "loss of loved one"
+    },
+    {
+      "id": 309029,
+      "name": "psychological drama"
+    },
+    {
+      "id": 317819,
+      "name": "french"
+    }
+  ]
+}

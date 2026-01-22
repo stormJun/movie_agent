@@ -1,0 +1,267 @@
+{
+  "overview": "Summoned from an ashram in Tibet, Ace finds himself on a perilous journey into the jungles of Africa to find Shikaka, the missing sacred animal of the friendly Wachati tribe. He must accomplish this before the wedding of the Wachati's Princess to the prince of the warrior Wachootoos. If Ace fails, the result will be a vicious tribal war.",
+  "release_date": "1995-11-10",
+  "runtime": 90,
+  "budget": 30000000,
+  "revenue": 212385533,
+  "tmdb_vote_average": 6.32,
+  "tmdb_vote_count": 4405,
+  "tmdb_popularity": 5.0264,
+  "original_language": "en",
+  "poster_path": "/wcinCf1ov2D6M3P7BBZkzQFOiIb.jpg",
+  "backdrop_path": "/8JqXx6Tm6P4UEU8zAyC0A8R8bvz.jpg",
+  "tmdb_genres_raw": [
+    "Crime",
+    "Comedy",
+    "Adventure"
+  ],
+  "production_companies": [
+    {
+      "id": 10210,
+      "name": "Morgan Creek Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 206,
+      "name": "Jim Carrey",
+      "character": "Ace Ventura",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 11.6966,
+      "profile_path": "/u0AqTz6Y7GHPCHINS01P7gPvDSb.jpg"
+    },
+    {
+      "personId": 3547,
+      "name": "Ian McNeice",
+      "character": "Fulton Greenwall",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.7013,
+      "profile_path": "/mJ1AwYRoWycLvCs5VRGyeM7KxrG.jpg"
+    },
+    {
+      "personId": 4001,
+      "name": "Simon Callow",
+      "character": "Vincent Cadby",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.9542,
+      "profile_path": "/no6qlnMrWeUzSt1FjD2Vf9x992e.jpg"
+    },
+    {
+      "personId": 57096,
+      "name": "Maynard Eziashi",
+      "character": "Ouda",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.2928,
+      "profile_path": "/5sLTWKYiqLVNg8NLky3EnUrZ6Ca.jpg"
+    },
+    {
+      "personId": 4029,
+      "name": "Bob Gunton",
+      "character": "Burton Quinn",
+      "order": 4,
+      "cast_id": 15,
+      "popularity": 2.5198,
+      "profile_path": "/ulbVvuBToBN3aCGcV028hwO0MOP.jpg"
+    },
+    {
+      "personId": 2598,
+      "name": "Sophie Okonedo",
+      "character": "The Wachati Princess",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 2.1081,
+      "profile_path": "/oMZmk0q04ly3ztD8Us4f1yfPyF1.jpg"
+    },
+    {
+      "personId": 88059,
+      "name": "Tommy Davidson",
+      "character": "The Tiny Warrior",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 1.4487,
+      "profile_path": "/cCG74gtJ8yLwfhWGtmvITytPlQf.jpg"
+    },
+    {
+      "personId": 31164,
+      "name": "Adewale Akinnuoye-Agbaje",
+      "character": "Hitu",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 1.5748,
+      "profile_path": "/zdtwVtVmmm7VzYfu8xH7mbuTvrH.jpg"
+    },
+    {
+      "personId": 93952,
+      "name": "Danny Daniels",
+      "character": "Wachootoo Witch Doctor",
+      "order": 8,
+      "cast_id": 28,
+      "popularity": 0.4735,
+      "profile_path": "/knv13MGU8P3moOjEGn1fy6Bmt1Q.jpg"
+    },
+    {
+      "personId": 1080061,
+      "name": "Sam Phillips",
+      "character": "Wachootoo Chief",
+      "order": 9,
+      "cast_id": 20,
+      "popularity": 0.1906,
+      "profile_path": "/bS6XeVTOK0fpY4j6UxAMzQvcIu8.jpg"
+    },
+    {
+      "personId": 172354,
+      "name": "Damon Standifer",
+      "character": "Wachati Chief",
+      "order": 10,
+      "cast_id": 21,
+      "popularity": 0.8558,
+      "profile_path": "/kWbduMklJmO76N7qgzS33biugL5.jpg"
+    },
+    {
+      "personId": 158324,
+      "name": "Andrew Steel",
+      "character": "Mick Katie",
+      "order": 11,
+      "cast_id": 693,
+      "popularity": 1.2163,
+      "profile_path": "/d03k3cr3PxJsqJuXxzhNTy1uTFe.jpg"
+    },
+    {
+      "personId": 27752,
+      "name": "Bruce Spence",
+      "character": "Gahjii",
+      "order": 12,
+      "cast_id": 23,
+      "popularity": 2.0477,
+      "profile_path": "/kuaIudFTIBahGAdCamThG13jPp7.jpg"
+    },
+    {
+      "personId": 171303,
+      "name": "Tom Grunke",
+      "character": "Derrick McCane",
+      "order": 13,
+      "cast_id": 694,
+      "popularity": 0.5776,
+      "profile_path": null
+    },
+    {
+      "personId": 1080062,
+      "name": "Arsenio Trinidad",
+      "character": "Ashram Monk",
+      "order": 14,
+      "cast_id": 25,
+      "popularity": 1.1308,
+      "profile_path": "/b3hCkrsQPjTP90OPxWl0XbWhf8j.jpg"
+    },
+    {
+      "personId": 139680,
+      "name": "Kristin Norton",
+      "character": "Pompous Woman",
+      "order": 15,
+      "cast_id": 695,
+      "popularity": 2.6663,
+      "profile_path": "/nGWO89m8yt1HJuyjDrmytcoOlxE.jpg"
+    },
+    {
+      "personId": 174037,
+      "name": "Michael Reid MacKay",
+      "character": "Skinny Husband",
+      "order": 16,
+      "cast_id": 670,
+      "popularity": 1.8226,
+      "profile_path": "/saOH793fvLOPlvx8YVGdFT2orA4.jpg"
+    },
+    {
+      "personId": 137045,
+      "name": "Kayla Allen",
+      "character": "Airplane Stewardess",
+      "order": 17,
+      "cast_id": 696,
+      "popularity": 1.1736,
+      "profile_path": null
+    },
+    {
+      "personId": 50094,
+      "name": "Ken Kirzinger",
+      "character": "Helicopter Pilot",
+      "order": 18,
+      "cast_id": 672,
+      "popularity": 1.1745,
+      "profile_path": "/h9PfH9SP4gO7H7RPEpLvQWLY3zW.jpg"
+    },
+    {
+      "personId": 588277,
+      "name": "Dev Kennedy",
+      "character": "Dad Tourist",
+      "order": 19,
+      "cast_id": 673,
+      "popularity": 0.2501,
+      "profile_path": "/18SfTPRFpfKcQSksmU6w9gNkgA8.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 4489,
+      "name": "Steve Oedekerk",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8994,
+      "profile_path": "/5iDugCvPGLwaM9wJtSnQ7xkXj1k.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1930,
+      "name": "kidnapping"
+    },
+    {
+      "id": 409,
+      "name": "africa"
+    },
+    {
+      "id": 1551,
+      "name": "indigenous"
+    },
+    {
+      "id": 2526,
+      "name": "human animal relationship"
+    },
+    {
+      "id": 5155,
+      "name": "bat"
+    },
+    {
+      "id": 6241,
+      "name": "stupidity"
+    },
+    {
+      "id": 9253,
+      "name": "slapstick comedy"
+    },
+    {
+      "id": 18165,
+      "name": "animals"
+    },
+    {
+      "id": 208152,
+      "name": "pets"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "overview": "Guan Jian wants to report the murder of his father who died 10 years ago. The alleged murderer whom Guan Jian accuses of the crime is his own mother.",
+  "release_date": "1994-11-12",
+  "runtime": 99,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.375,
+  "tmdb_vote_count": 8,
+  "tmdb_popularity": 0.4363,
+  "original_language": "zh",
+  "poster_path": "/uBGVTO4C9aC2StWlPc0esb1L0W.jpg",
+  "backdrop_path": null,
+  "tmdb_genres_raw": [
+    "Mystery",
+    "Crime",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 100202,
+      "name": "Pineast Production",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "zh",
+      "name": "普通话"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1118783,
+      "name": "Siqin Gaowa",
+      "character": "Mother",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 1.1779,
+      "profile_path": "/j5qdKqbAtzMq2m6VQAgDsc0d7yo.jpg"
+    },
+    {
+      "personId": 1366128,
+      "name": "Tou Tsung-Hua",
+      "character": "Guan Jian",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 1.7384,
+      "profile_path": "/v9AIieALHrhybNIDHMiD3fFutTt.jpg"
+    },
+    {
+      "personId": 64989,
+      "name": "Ma Jingwu",
+      "character": "Father",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 0.6709,
+      "profile_path": "/ic3enY3tw0bfctgYRkrYdTL84mR.jpg"
+    },
+    {
+      "personId": 1396646,
+      "name": "Wei Zi",
+      "character": "Lover",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 0.9372,
+      "profile_path": "/jw2pw0l2AK6jwobXyLm4fQOkEr5.jpg"
+    },
+    {
+      "personId": 1967723,
+      "name": "Shu Zhong",
+      "character": "Young Son",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 0.3758,
+      "profile_path": null
+    },
+    {
+      "personId": 1967724,
+      "name": "Li Hu",
+      "character": "Captain",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 0.2396,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 146295,
+      "name": "Yim Ho",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.6842,
+      "profile_path": "/5gVngMr8cUKYsNthsCeaMJZKsHc.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 478,
+      "name": "china"
+    }
+  ]
+}

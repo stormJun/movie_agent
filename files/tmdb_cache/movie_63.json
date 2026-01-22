@@ -1,0 +1,522 @@
+{
+  "overview": "In the year 2035, convict James Cole reluctantly volunteers to be sent back in time to discover the origin of a deadly virus that wiped out nearly all of the earth's population and forced the survivors into underground communities. But when Cole is mistakenly sent to 1990 instead of 1996, he's arrested and locked up in a mental hospital. There he meets psychiatrist Dr. Kathryn Railly and the son of a famous virus expert who may hold the key to the Army of the 12 Monkeys; thought to be responsible for unleashing the killer disease.",
+  "release_date": "1995-12-29",
+  "runtime": 129,
+  "budget": 29000000,
+  "revenue": 168841459,
+  "tmdb_vote_average": 7.603,
+  "tmdb_vote_count": 8841,
+  "tmdb_popularity": 7.9893,
+  "original_language": "en",
+  "poster_path": "/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg",
+  "backdrop_path": "/mKIkGoyuR71qz6FdiEiOjxvBQcS.jpg",
+  "tmdb_genres_raw": [
+    "Science Fiction",
+    "Thriller",
+    "Mystery"
+  ],
+  "production_companies": [
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 507,
+      "name": "Atlas Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 17031,
+      "name": "Classico",
+      "origin_country": ""
+    },
+    {
+      "id": 207976,
+      "name": "Twelve Monkeys Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 62,
+      "name": "Bruce Willis",
+      "character": "James Cole",
+      "order": 0,
+      "cast_id": 41,
+      "popularity": 8.2539,
+      "profile_path": "/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+    },
+    {
+      "personId": 289,
+      "name": "Madeleine Stowe",
+      "character": "Dr. Kathryn Railly",
+      "order": 1,
+      "cast_id": 42,
+      "popularity": 3.7984,
+      "profile_path": "/k7iQLoCP11e7iVMp1LQimUQLZe8.jpg"
+    },
+    {
+      "personId": 287,
+      "name": "Brad Pitt",
+      "character": "Jeffrey Goines",
+      "order": 2,
+      "cast_id": 43,
+      "popularity": 9.6902,
+      "profile_path": "/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+    },
+    {
+      "personId": 290,
+      "name": "Christopher Plummer",
+      "character": "Dr. Goines",
+      "order": 3,
+      "cast_id": 44,
+      "popularity": 4.2921,
+      "profile_path": "/iZh3s9Vy9vYD4DYnAda6C1kdeco.jpg"
+    },
+    {
+      "personId": 52,
+      "name": "David Morse",
+      "character": "Dr. Peters",
+      "order": 4,
+      "cast_id": 45,
+      "popularity": 3.4713,
+      "profile_path": "/tzBIwZYV2dmWZGSrGkJJx5F7Cei.jpg"
+    },
+    {
+      "personId": 288,
+      "name": "Jon Seda",
+      "character": "Jose",
+      "order": 5,
+      "cast_id": 46,
+      "popularity": 2.0099,
+      "profile_path": "/4Wwgtvieu2j4f6AHqUMgnDFufa5.jpg"
+    },
+    {
+      "personId": 22227,
+      "name": "Christopher Meloni",
+      "character": "Lt. Halperin",
+      "order": 6,
+      "cast_id": 50,
+      "popularity": 2.4456,
+      "profile_path": "/nHlFFbRTh85vkohBBtRQjYnWEtb.jpg"
+    },
+    {
+      "personId": 1318900,
+      "name": "Joey Perillo",
+      "character": "Detective Franki",
+      "order": 7,
+      "cast_id": 51,
+      "popularity": 0.8859,
+      "profile_path": "/xlRiQMyme8Ew3mUBD0qXSnz0XyW.jpg"
+    },
+    {
+      "personId": 64908,
+      "name": "LisaGay Hamilton",
+      "character": "Teddy",
+      "order": 8,
+      "cast_id": 252,
+      "popularity": 1.5746,
+      "profile_path": "/bqfowff4gF0cGaQ1c7F89HAL3DH.jpg"
+    },
+    {
+      "personId": 11154,
+      "name": "Matt Ross",
+      "character": "Bee",
+      "order": 9,
+      "cast_id": 53,
+      "popularity": 1.4505,
+      "profile_path": "/qqPMm2lrjajJ1EpJ1jXEayz5oqP.jpg"
+    },
+    {
+      "personId": 66094,
+      "name": "Annie Golden",
+      "character": "Woman Cabbie",
+      "order": 10,
+      "cast_id": 54,
+      "popularity": 0.9039,
+      "profile_path": "/crqX10ztj8j1ETl3EY8BnpvAmiT.jpg"
+    },
+    {
+      "personId": 1077231,
+      "name": "Michael Chance",
+      "character": "Scarface",
+      "order": 11,
+      "cast_id": 175,
+      "popularity": 0.1052,
+      "profile_path": null
+    },
+    {
+      "personId": 1571785,
+      "name": "H. Michael Walls",
+      "character": "Botanist",
+      "order": 12,
+      "cast_id": 177,
+      "popularity": 0.1526,
+      "profile_path": "/o3L4iKS41QMN2IHDiylQPs97RLp.jpg"
+    },
+    {
+      "personId": 1328063,
+      "name": "Bob Adrian",
+      "character": "Geologist",
+      "order": 13,
+      "cast_id": 178,
+      "popularity": 1.1526,
+      "profile_path": "/tY11cR250ETCYDhLL1a13VV4gM1.jpg"
+    },
+    {
+      "personId": 7576,
+      "name": "Bill Raymond",
+      "character": "Microbiologist",
+      "order": 14,
+      "cast_id": 181,
+      "popularity": 0.7549,
+      "profile_path": "/v8x97buvWoFj3di8eCuhc0hBlow.jpg"
+    },
+    {
+      "personId": 59112,
+      "name": "Ernest Abuba",
+      "character": "Engineer",
+      "order": 15,
+      "cast_id": 182,
+      "popularity": 0.3234,
+      "profile_path": "/d4DmbZW899qjjSb9ytFmB7APsGV.jpg"
+    },
+    {
+      "personId": 1571788,
+      "name": "Nell Johnson",
+      "character": "Ward Nurse",
+      "order": 16,
+      "cast_id": 187,
+      "popularity": 0.3528,
+      "profile_path": null
+    },
+    {
+      "personId": 1571787,
+      "name": "Rozwill Young",
+      "character": "Billings",
+      "order": 17,
+      "cast_id": 186,
+      "popularity": 1.3192,
+      "profile_path": null
+    },
+    {
+      "personId": 975569,
+      "name": "Joseph Melito",
+      "character": "Young Cole",
+      "order": 18,
+      "cast_id": 48,
+      "popularity": 0.0846,
+      "profile_path": null
+    },
+    {
+      "personId": 291,
+      "name": "Frank Gorshin",
+      "character": "Dr. Fletcher",
+      "order": 19,
+      "cast_id": 47,
+      "popularity": 1.8067,
+      "profile_path": "/lGRDnt0HlOI3BGOLD5mFUwNi6QI.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 280,
+      "name": "Terry Gilliam",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.5857,
+      "profile_path": "/7qBkaXxANmnb6hqQCBc4iWqXEL6.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1865,
+      "name": "biological weapon"
+    },
+    {
+      "id": 276,
+      "name": "philadelphia, pennsylvania"
+    },
+    {
+      "id": 222,
+      "name": "schizophrenia"
+    },
+    {
+      "id": 278,
+      "name": "stockholm syndrome"
+    },
+    {
+      "id": 3800,
+      "name": "airplane"
+    },
+    {
+      "id": 2504,
+      "name": "world war i"
+    },
+    {
+      "id": 1353,
+      "name": "underground"
+    },
+    {
+      "id": 6255,
+      "name": "insanity"
+    },
+    {
+      "id": 2884,
+      "name": "asylum"
+    },
+    {
+      "id": 2340,
+      "name": "paranoia"
+    },
+    {
+      "id": 2885,
+      "name": "prison cell"
+    },
+    {
+      "id": 4565,
+      "name": "dystopia"
+    },
+    {
+      "id": 1667,
+      "name": "pimp"
+    },
+    {
+      "id": 2043,
+      "name": "lion"
+    },
+    {
+      "id": 4458,
+      "name": "post-apocalyptic future"
+    },
+    {
+      "id": 4379,
+      "name": "time travel"
+    },
+    {
+      "id": 3546,
+      "name": "florida keys"
+    },
+    {
+      "id": 4280,
+      "name": "mental breakdown"
+    },
+    {
+      "id": 4232,
+      "name": "melancholy"
+    },
+    {
+      "id": 6162,
+      "name": "past"
+    },
+    {
+      "id": 5984,
+      "name": "dormitory"
+    },
+    {
+      "id": 4924,
+      "name": "insane asylum"
+    },
+    {
+      "id": 7325,
+      "name": "cockroach"
+    },
+    {
+      "id": 8054,
+      "name": "volunteer"
+    },
+    {
+      "id": 11494,
+      "name": "drug use"
+    },
+    {
+      "id": 9856,
+      "name": "flashback"
+    },
+    {
+      "id": 9714,
+      "name": "remake"
+    },
+    {
+      "id": 10323,
+      "name": "psychiatric hospital"
+    },
+    {
+      "id": 9890,
+      "name": "jail"
+    },
+    {
+      "id": 11857,
+      "name": "mental institution"
+    },
+    {
+      "id": 12026,
+      "name": "alternate history"
+    },
+    {
+      "id": 14673,
+      "name": "disease"
+    },
+    {
+      "id": 14675,
+      "name": "lethal virus"
+    },
+    {
+      "id": 14779,
+      "name": "paradox"
+    },
+    {
+      "id": 15106,
+      "name": "psychiatrist"
+    },
+    {
+      "id": 15149,
+      "name": "monkey"
+    },
+    {
+      "id": 17995,
+      "name": "epidemic"
+    },
+    {
+      "id": 18029,
+      "name": "trapped"
+    },
+    {
+      "id": 33981,
+      "name": "falling down stairs"
+    },
+    {
+      "id": 156196,
+      "name": "street life"
+    },
+    {
+      "id": 157171,
+      "name": "nonlinear timeline"
+    },
+    {
+      "id": 158025,
+      "name": "medical research"
+    },
+    {
+      "id": 158172,
+      "name": "tooth"
+    },
+    {
+      "id": 158254,
+      "name": "pantyhose"
+    },
+    {
+      "id": 159287,
+      "name": "gas mask"
+    },
+    {
+      "id": 160059,
+      "name": "psychosis"
+    },
+    {
+      "id": 161868,
+      "name": "child's point of view"
+    },
+    {
+      "id": 162801,
+      "name": "subterranean"
+    },
+    {
+      "id": 188957,
+      "name": "virus"
+    },
+    {
+      "id": 197582,
+      "name": "mysterious"
+    },
+    {
+      "id": 199322,
+      "name": "recurring dream"
+    },
+    {
+      "id": 210608,
+      "name": "1990s"
+    },
+    {
+      "id": 225219,
+      "name": "reflective"
+    },
+    {
+      "id": 229034,
+      "name": "escaped animal"
+    },
+    {
+      "id": 236189,
+      "name": "future noir"
+    },
+    {
+      "id": 238332,
+      "name": "animal research"
+    },
+    {
+      "id": 251667,
+      "name": "anxious"
+    },
+    {
+      "id": 256328,
+      "name": "2030s"
+    },
+    {
+      "id": 276775,
+      "name": "irreverent"
+    },
+    {
+      "id": 281585,
+      "name": "inspirational"
+    },
+    {
+      "id": 309974,
+      "name": "absurd"
+    },
+    {
+      "id": 314730,
+      "name": "suspenseful"
+    },
+    {
+      "id": 315053,
+      "name": "critical"
+    },
+    {
+      "id": 321464,
+      "name": "intense"
+    },
+    {
+      "id": 325787,
+      "name": "complicated"
+    },
+    {
+      "id": 325839,
+      "name": "ominous"
+    },
+    {
+      "id": 355849,
+      "name": "preposterous"
+    },
+    {
+      "id": 364688,
+      "name": "psiquiatra"
+    }
+  ]
+}

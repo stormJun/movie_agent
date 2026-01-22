@@ -1,0 +1,289 @@
+{
+  "overview": "A corrupt cop gets in over his head when he tries to assassinate a beautiful Russian hit-woman.",
+  "release_date": "1993-09-13",
+  "runtime": 100,
+  "budget": 11500000,
+  "revenue": 3275585,
+  "tmdb_vote_average": 6.3,
+  "tmdb_vote_count": 201,
+  "tmdb_popularity": 1.8336,
+  "original_language": "en",
+  "poster_path": "/ojXNRpHMXU99UFmF9MKKiJCymKr.jpg",
+  "backdrop_path": "/bI6fptNOG0mS2pNNZgbZSxuVaPN.jpg",
+  "tmdb_genres_raw": [
+    "Crime",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 36907,
+      "name": "Hilary Henkin",
+      "origin_country": ""
+    },
+    {
+      "id": 10163,
+      "name": "Working Title Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1382,
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 64,
+      "name": "Gary Oldman",
+      "character": "Jack Grimaldi",
+      "order": 0,
+      "cast_id": 11,
+      "popularity": 5.5873,
+      "profile_path": "/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg"
+    },
+    {
+      "personId": 5313,
+      "name": "Lena Olin",
+      "character": "Mona Demarkov",
+      "order": 1,
+      "cast_id": 12,
+      "popularity": 3.5055,
+      "profile_path": "/tUg7cH4qLqs5WdOIH0WMQby9kWH.jpg"
+    },
+    {
+      "personId": 18750,
+      "name": "Annabella Sciorra",
+      "character": "Natalie Grimaldi",
+      "order": 2,
+      "cast_id": 13,
+      "popularity": 5.2988,
+      "profile_path": "/p2dnBSjLzKxldrHCQZYmVq0LcFw.jpg"
+    },
+    {
+      "personId": 3196,
+      "name": "Juliette Lewis",
+      "character": "Sheri",
+      "order": 3,
+      "cast_id": 14,
+      "popularity": 4.6144,
+      "profile_path": "/vvitS2sZSM9RupCf5B0sZYNS6wT.jpg"
+    },
+    {
+      "personId": 6355,
+      "name": "Roy Scheider",
+      "character": "Don Falcone",
+      "order": 4,
+      "cast_id": 15,
+      "popularity": 2.7178,
+      "profile_path": "/y0MTwkCm5fIKjM1xH90tZbjAHql.jpg"
+    },
+    {
+      "personId": 2555,
+      "name": "David Proval",
+      "character": "Scully",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 1.7995,
+      "profile_path": "/ku3LWQXiJ80nWgs21fKvTMaR6Ui.jpg"
+    },
+    {
+      "personId": 883,
+      "name": "Will Patton",
+      "character": "Martie",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 4.0293,
+      "profile_path": "/1V4DbU1mfEim4oaA5bvJywDAKwB.jpg"
+    },
+    {
+      "personId": 21380,
+      "name": "Larry Joshua",
+      "character": "Joey",
+      "order": 7,
+      "cast_id": 18,
+      "popularity": 1.4768,
+      "profile_path": "/vFKFwlwTzQ1IAtGUlApk3ROLMIA.jpg"
+    },
+    {
+      "personId": 2505,
+      "name": "James Cromwell",
+      "character": "Cage",
+      "order": 8,
+      "cast_id": 19,
+      "popularity": 3.5051,
+      "profile_path": "/17AIez58rJyk7EzU5a9L2r6Tn3u.jpg"
+    },
+    {
+      "personId": 21381,
+      "name": "Wallace Wood",
+      "character": "Waiter",
+      "order": 9,
+      "cast_id": 20,
+      "popularity": 0.113,
+      "profile_path": null
+    },
+    {
+      "personId": 21382,
+      "name": "Gene Canfield",
+      "character": "John",
+      "order": 10,
+      "cast_id": 21,
+      "popularity": 0.8954,
+      "profile_path": "/luiINXn3z8m8ABxaqdTSJd8q4vm.jpg"
+    },
+    {
+      "personId": 21383,
+      "name": "William Duff-Griffin",
+      "character": "Paddy",
+      "order": 11,
+      "cast_id": 22,
+      "popularity": 1.1738,
+      "profile_path": null
+    },
+    {
+      "personId": 21384,
+      "name": "Paul Butler",
+      "character": "Skouras",
+      "order": 12,
+      "cast_id": 23,
+      "popularity": 0.6864,
+      "profile_path": "/qQIjo92vpwqK9Uwt54Myjlc1sfs.jpg"
+    },
+    {
+      "personId": 21385,
+      "name": "Tony Sirico",
+      "character": "Malacci",
+      "order": 13,
+      "cast_id": 24,
+      "popularity": 1.9703,
+      "profile_path": "/yiTvFhaPlVIWETNObwqB72hgNeI.jpg"
+    },
+    {
+      "personId": 7486,
+      "name": "Michael Wincott",
+      "character": "Sal",
+      "order": 14,
+      "cast_id": 34,
+      "popularity": 2.2841,
+      "profile_path": "/z6FtWACKaIivi0khxM6vEHoUH0.jpg"
+    },
+    {
+      "personId": 1117,
+      "name": "Dennis Farina",
+      "character": "Nick Gazzara (uncredited)",
+      "order": 15,
+      "cast_id": 35,
+      "popularity": 1.7138,
+      "profile_path": "/4hEWe0ZcDpGlB3nRizLkVMcG13B.jpg"
+    },
+    {
+      "personId": 2372,
+      "name": "Ron Perlman",
+      "character": "Jack's Attorney",
+      "order": 16,
+      "cast_id": 36,
+      "popularity": 6.2703,
+      "profile_path": "/pOgMRdJhbBsvwGLRFXPRASTfcay.jpg"
+    },
+    {
+      "personId": 939845,
+      "name": "Gary Hope",
+      "character": "Driver",
+      "order": 17,
+      "cast_id": 39,
+      "popularity": 0.5118,
+      "profile_path": "/4S8gyTtqJ8z3bGiB8zer0ytQw9k.jpg"
+    },
+    {
+      "personId": 101781,
+      "name": "James Murtaugh",
+      "character": "Priest",
+      "order": 18,
+      "cast_id": 41,
+      "popularity": 1.1972,
+      "profile_path": "/hAmLarccxeHXMKshSCAtRf4t6Hq.jpg"
+    },
+    {
+      "personId": 1033099,
+      "name": "Pete Macnamara",
+      "character": "Mob Guard (uncredited)",
+      "order": 19,
+      "cast_id": 42,
+      "popularity": 1.1183,
+      "profile_path": "/wlDFiHQjLj9nuchuzlMv11m4QKS.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 21377,
+      "name": "Peter Medak",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6718,
+      "profile_path": "/oUPjJXMOSomwrqFx4eobxROVZOV.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 5906,
+      "name": "sex addiction"
+    },
+    {
+      "id": 4668,
+      "name": "police operation"
+    },
+    {
+      "id": 6220,
+      "name": "mafia boss"
+    },
+    {
+      "id": 9016,
+      "name": "femme fatale"
+    },
+    {
+      "id": 10978,
+      "name": "bad cop"
+    },
+    {
+      "id": 12366,
+      "name": "hitwoman"
+    },
+    {
+      "id": 12367,
+      "name": "female assassin"
+    },
+    {
+      "id": 179577,
+      "name": "assassination plan"
+    },
+    {
+      "id": 267608,
+      "name": "corrupt cop"
+    },
+    {
+      "id": 292178,
+      "name": "corrupt police officials"
+    },
+    {
+      "id": 324599,
+      "name": "russian mobster"
+    }
+  ]
+}

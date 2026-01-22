@@ -1,0 +1,282 @@
+{
+  "overview": "Set in puritanical Boston in the mid 1600s, the story of seamstress Hester Prynne, who is outcast after she becomes pregnant by a respected reverend. She refuses to divulge the name of the father, is \"convicted\" of adultery and forced to wear a scarlet \"A\" until an Indian attack unites the Puritans and leads to a reevaluation of their laws and morals.",
+  "release_date": "1995-10-13",
+  "runtime": 135,
+  "budget": 50000000,
+  "revenue": 10382407,
+  "tmdb_vote_average": 6.1,
+  "tmdb_vote_count": 504,
+  "tmdb_popularity": 2.0684,
+  "original_language": "en",
+  "poster_path": "/8gIU7O3oV6NyWUjlL6ppbpnIZLW.jpg",
+  "backdrop_path": "/tZJIL1n3eGZd3mZyto3Ux2xNEBW.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 1504,
+      "name": "Cinergi Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 16978,
+      "name": "Lightmotive",
+      "origin_country": "GB"
+    },
+    {
+      "id": 8770,
+      "name": "Allied Stars",
+      "origin_country": "GB"
+    },
+    {
+      "id": 15888,
+      "name": "Moving Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 915,
+      "name": "Hollywood Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3416,
+      "name": "Demi Moore",
+      "character": "Hester Prynne",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 10.0524,
+      "profile_path": "/wApParZYBDi4yxekjfxjKEifJYh.jpg"
+    },
+    {
+      "personId": 64,
+      "name": "Gary Oldman",
+      "character": "Rev. Arthur Dimmesdale",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 5.5873,
+      "profile_path": "/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg"
+    },
+    {
+      "personId": 3087,
+      "name": "Robert Duvall",
+      "character": "Roger Chillingworth",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 9.6308,
+      "profile_path": "/ybMmK25h4IVtfE7qrnlVp47RQlh.jpg"
+    },
+    {
+      "personId": 65543,
+      "name": "Lisa Andoh",
+      "character": "Mituba",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 0.3196,
+      "profile_path": "/9Ho0JzMpftGyxOJiLfkFkYL2zpp.jpg"
+    },
+    {
+      "personId": 3545,
+      "name": "Edward Hardwicke",
+      "character": "Gov. John Bellingham",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 0.9149,
+      "profile_path": "/gFWwj89HLAIehkWvNXw52m11FdS.jpg"
+    },
+    {
+      "personId": 10360,
+      "name": "Robert Prosky",
+      "character": "Horace Stonehall",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 1.8699,
+      "profile_path": "/yV95RE8UGyN8rZYF9W4fOGaAV6U.jpg"
+    },
+    {
+      "personId": 4002,
+      "name": "Roy Dotrice",
+      "character": "Rev. Thomas Cheever",
+      "order": 6,
+      "cast_id": 18,
+      "popularity": 1.3923,
+      "profile_path": "/etXS22XFmYmHiQ7RDYf72pPO4fp.jpg"
+    },
+    {
+      "personId": 23709,
+      "name": "Joan Plowright",
+      "character": "Harriet Hibbons",
+      "order": 7,
+      "cast_id": 17,
+      "popularity": 1.3788,
+      "profile_path": "/un5wsOnz22Rvl82niE0LGAVxggQ.jpg"
+    },
+    {
+      "personId": 129346,
+      "name": "Malcolm Storry",
+      "character": "Maj. Dunsmuir",
+      "order": 8,
+      "cast_id": 72,
+      "popularity": 1.0113,
+      "profile_path": "/kKsHG62k9Lzu7qGLl9glCmHI5qo.jpg"
+    },
+    {
+      "personId": 932749,
+      "name": "James Bearden",
+      "character": "Goodman Mortimer",
+      "order": 9,
+      "cast_id": 73,
+      "popularity": 1.3654,
+      "profile_path": null
+    },
+    {
+      "personId": 55316,
+      "name": "Larissa Laskin",
+      "character": "Goody Mortimer",
+      "order": 10,
+      "cast_id": 74,
+      "popularity": 0.6905,
+      "profile_path": "/4fGui0UzPGOHhaLbcRRWzbYn6vG.jpg"
+    },
+    {
+      "personId": 87007,
+      "name": "Amy Wright",
+      "character": "Goody Gotwick",
+      "order": 11,
+      "cast_id": 75,
+      "popularity": 2.8934,
+      "profile_path": "/wejr7718NPsCjTF2mvyOOIukRsc.jpg"
+    },
+    {
+      "personId": 32648,
+      "name": "George Aguilar",
+      "character": "Johnny Sassamon",
+      "order": 12,
+      "cast_id": 76,
+      "popularity": 0.8789,
+      "profile_path": "/a7srT4ZoUnko5dIgHcmmL0lvOj3.jpg"
+    },
+    {
+      "personId": 27659,
+      "name": "Tim Woodward",
+      "character": "Brewster Stonehall",
+      "order": 13,
+      "cast_id": 77,
+      "popularity": 1.1647,
+      "profile_path": "/zxPCPmDkVxUI1qoeeK7lqrgdXVJ.jpg"
+    },
+    {
+      "personId": 168765,
+      "name": "Joan Gregson",
+      "character": "Elizabeth Cheever",
+      "order": 14,
+      "cast_id": 78,
+      "popularity": 1.9075,
+      "profile_path": "/2YoaROKaZzezyK0o9nwkFl2Lqo5.jpg"
+    },
+    {
+      "personId": 13314,
+      "name": "Dana Ivey",
+      "character": "Meredith Stonehall",
+      "order": 15,
+      "cast_id": 79,
+      "popularity": 2.1488,
+      "profile_path": "/oQEeRwEb9w4TuSVp334OP9z6Ljm.jpg"
+    },
+    {
+      "personId": 5131,
+      "name": "Diane Salinger",
+      "character": "Margaret Bellingham",
+      "order": 16,
+      "cast_id": 80,
+      "popularity": 0.8526,
+      "profile_path": "/7lJocSxXknwdcA76dlrHwtE1eQC.jpg"
+    },
+    {
+      "personId": 1195642,
+      "name": "Jocelyn Cunningham",
+      "character": "Mary Rollings",
+      "order": 17,
+      "cast_id": 81,
+      "popularity": 0.6176,
+      "profile_path": "/2cAno0zUNlEX2DF7pNoRtZUeGFu.jpg"
+    },
+    {
+      "personId": 240609,
+      "name": "Sheldon Peters Wolfchild",
+      "character": "Moskeegee",
+      "order": 18,
+      "cast_id": 82,
+      "popularity": 0.3227,
+      "profile_path": null
+    },
+    {
+      "personId": 57448,
+      "name": "Eric Schweig",
+      "character": "Metacomet",
+      "order": 19,
+      "cast_id": 83,
+      "popularity": 1.6722,
+      "profile_path": "/z4mA3Lz5iZVqZDZom4ItBxM8eQN.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 8965,
+      "name": "Roland Joffé",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.866,
+      "profile_path": "/dqLeKVX6Fmji187P6rBrcTfpstY.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 1680,
+      "name": "boston, massachusetts"
+    },
+    {
+      "id": 3725,
+      "name": "pregnancy"
+    },
+    {
+      "id": 2871,
+      "name": "witch burning"
+    },
+    {
+      "id": 10223,
+      "name": "puritan"
+    },
+    {
+      "id": 15060,
+      "name": "period drama"
+    },
+    {
+      "id": 34094,
+      "name": "extramarital affair"
+    },
+    {
+      "id": 207941,
+      "name": "17th century"
+    }
+  ]
+}

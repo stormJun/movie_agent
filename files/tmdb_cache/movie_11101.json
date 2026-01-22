@@ -1,0 +1,282 @@
+{
+  "overview": "A German Platoon is explored through the brutal fighting of the Battle of Stalingrad. After half of their number is wiped out and they're placed under the command of a sadistic captain, the platoon lieutenant leads his men to desert. The platoon members attempt escape from the city, now surrounded by the Soviet Army.",
+  "release_date": "1993-01-20",
+  "runtime": 134,
+  "budget": 0,
+  "revenue": 152972,
+  "tmdb_vote_average": 7.32,
+  "tmdb_vote_count": 607,
+  "tmdb_popularity": 2.2891,
+  "original_language": "de",
+  "poster_path": "/rB78VDAOK94KJWp9ofgE3GSQEor.jpg",
+  "backdrop_path": "/mo2O5ESdB7PWnY3OBS9jjvjeskB.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "production_companies": [
+    {
+      "id": 21948,
+      "name": "B.A. Produktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 1704,
+      "name": "Bavaria Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 23417,
+      "name": "Perathon Film-und Fernsehproduktions",
+      "origin_country": "DE"
+    },
+    {
+      "id": 52384,
+      "name": "Royal Filmproduktions GmbH",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "de",
+      "name": "Deutsch"
+    },
+    {
+      "code": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 39251,
+      "name": "Dominique Horwitz",
+      "character": "Corporal Fritz Reiser",
+      "order": 0,
+      "cast_id": 11,
+      "popularity": 1.6674,
+      "profile_path": "/3YuwwLvwuDjl6R9RnBQ03A6vp3R.jpg"
+    },
+    {
+      "personId": 3491,
+      "name": "Thomas Kretschmann",
+      "character": "Lieutenant Hans von Witzland",
+      "order": 1,
+      "cast_id": 12,
+      "popularity": 2.2325,
+      "profile_path": "/kBnPu1KREhckuPpnAUppm24kkVX.jpg"
+    },
+    {
+      "personId": 4936,
+      "name": "Jochen Nickel",
+      "character": "Sergeant Manfred 'Rollo' Rohleder",
+      "order": 2,
+      "cast_id": 13,
+      "popularity": 1.3905,
+      "profile_path": "/mVNh33yMHoTneAF2OrsC4nvwBGL.jpg"
+    },
+    {
+      "personId": 22184,
+      "name": "Sebastian Rudolph",
+      "character": "GeGe Müller",
+      "order": 3,
+      "cast_id": 14,
+      "popularity": 0.9881,
+      "profile_path": "/qct6kKiahTQ0KYlEYIOb56rs21n.jpg"
+    },
+    {
+      "personId": 14632,
+      "name": "Dana Vávrová",
+      "character": "Irina",
+      "order": 4,
+      "cast_id": 15,
+      "popularity": 0.7075,
+      "profile_path": "/wH1wu9Ld0px9a903uKTuBSUtca0.jpg"
+    },
+    {
+      "personId": 23664,
+      "name": "Martin Benrath",
+      "character": "General Hentz",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 1.6775,
+      "profile_path": "/7UfMJ0p4YevbmKwkefcott1meEf.jpg"
+    },
+    {
+      "personId": 41965,
+      "name": "Sylvester Groth",
+      "character": "Otto",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 1.9197,
+      "profile_path": "/baIqxNzKPLffJLSuLLFIXG0yZ3l.jpg"
+    },
+    {
+      "personId": 228136,
+      "name": "Karel Heřmánek",
+      "character": "Captain Herman Musk",
+      "order": 7,
+      "cast_id": 30,
+      "popularity": 1.3481,
+      "profile_path": "/zOeRUuWXRFeRr7PQ4nBVzTR8AAv.jpg"
+    },
+    {
+      "personId": 554449,
+      "name": "Heinz Emigholz",
+      "character": "Edgar Emigholz",
+      "order": 8,
+      "cast_id": 19,
+      "popularity": 0.3509,
+      "profile_path": "/lHMPlkrIiRGV5j1uQyTEON0lhVl.jpg"
+    },
+    {
+      "personId": 33511,
+      "name": "Oliver Broumis",
+      "character": "HGM",
+      "order": 9,
+      "cast_id": 21,
+      "popularity": 0.9283,
+      "profile_path": "/caE1TTJ371ntGDEKJb5ZwL8hm9I.jpg"
+    },
+    {
+      "personId": 554451,
+      "name": "Dieter Okras",
+      "character": "Captain Haller",
+      "order": 10,
+      "cast_id": 22,
+      "popularity": 0.6352,
+      "profile_path": "/plNpux87YxRrjfEcUnmHbuWZ6wj.jpg"
+    },
+    {
+      "personId": 554452,
+      "name": "Zdeněk Vencl",
+      "character": "Wölk",
+      "order": 11,
+      "cast_id": 23,
+      "popularity": 0.3769,
+      "profile_path": "/pFkmvxJQy1xp2D5tAPsrRR0sUag.jpg"
+    },
+    {
+      "personId": 234004,
+      "name": "Mark Kuhn",
+      "character": "Sergeant Pfluger",
+      "order": 12,
+      "cast_id": 24,
+      "popularity": 0.9585,
+      "profile_path": "/h1Q0XDvfYxdZ7YyhTdGNmcr0DH9.jpg"
+    },
+    {
+      "personId": 554450,
+      "name": "Ferdinand Schuster",
+      "character": "Double Edgar",
+      "order": 13,
+      "cast_id": 98,
+      "popularity": 0.1388,
+      "profile_path": null
+    },
+    {
+      "personId": 1414510,
+      "name": "Alexander Wachholz",
+      "character": "Pastor Renner",
+      "order": 14,
+      "cast_id": 99,
+      "popularity": 0.7988,
+      "profile_path": null
+    },
+    {
+      "personId": 46965,
+      "name": "Ulrike Arnold",
+      "character": "Viola",
+      "order": 15,
+      "cast_id": 100,
+      "popularity": 0.7882,
+      "profile_path": "/qDnQLVb1a3kv77If54AnVyfJBHh.jpg"
+    },
+    {
+      "personId": 1404488,
+      "name": "Jaroslav Tomsa",
+      "character": "Opa Erwin",
+      "order": 16,
+      "cast_id": 101,
+      "popularity": 0.2481,
+      "profile_path": null
+    },
+    {
+      "personId": 1424731,
+      "name": "Pavel Mang",
+      "character": "Kolja",
+      "order": 17,
+      "cast_id": 102,
+      "popularity": 0.453,
+      "profile_path": "/dsJpZ6DrL7IxME6xz9YkRxwThdP.jpg"
+    },
+    {
+      "personId": 592076,
+      "name": "Oto Ševčík",
+      "character": "Major Kock",
+      "order": 18,
+      "cast_id": 103,
+      "popularity": 1.6426,
+      "profile_path": "/jUUjUzgI6BSmlvl5QkGnHkZKUoZ.jpg"
+    },
+    {
+      "personId": 22186,
+      "name": "Jophi Ries",
+      "character": "Schröder",
+      "order": 19,
+      "cast_id": 104,
+      "popularity": 0.9219,
+      "profile_path": "/7MaEG3PYKNLu510BmwtrXv9jMOv.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 14614,
+      "name": "Joseph Vilsmaier",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4941,
+      "profile_path": "/wODSEku2wnqYiDfMKiANzX5bE2K.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1442,
+      "name": "winter"
+    },
+    {
+      "id": 1956,
+      "name": "world war ii"
+    },
+    {
+      "id": 4264,
+      "name": "stalingrad"
+    },
+    {
+      "id": 156650,
+      "name": "machine gun"
+    },
+    {
+      "id": 190351,
+      "name": "horrors of war"
+    },
+    {
+      "id": 191004,
+      "name": "german soldier"
+    },
+    {
+      "id": 193933,
+      "name": "comradeship"
+    },
+    {
+      "id": 289735,
+      "name": "soviet tank"
+    }
+  ]
+}

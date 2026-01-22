@@ -1,0 +1,267 @@
+{
+  "overview": "With his gangster boss on trial for murder, a mob thug known as \"the Teacher\" tells Annie Laird she must talk her fellow jurors into a not-guilty verdict, implying that he'll kill her son Oliver if she fails. She manages to do this, but, when it becomes clear that the mobsters might want to silence her for good, she sends Oliver abroad and tries to gather evidence of the plot against her, setting up a final showdown.",
+  "release_date": "1996-02-02",
+  "runtime": 118,
+  "budget": 44000000,
+  "revenue": 22754725,
+  "tmdb_vote_average": 5.667,
+  "tmdb_vote_count": 425,
+  "tmdb_popularity": 6.4567,
+  "original_language": "en",
+  "poster_path": "/31mRYhJvaknQx8PQnR2UV7YCkLT.jpg",
+  "backdrop_path": "/g0CGOIl3H1FDsqHpPzlfkhXAtv8.jpg",
+  "tmdb_genres_raw": [
+    "Thriller",
+    "Crime",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3416,
+      "name": "Demi Moore",
+      "character": "Annie Laird",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 10.0524,
+      "profile_path": "/wApParZYBDi4yxekjfxjKEifJYh.jpg"
+    },
+    {
+      "personId": 7447,
+      "name": "Alec Baldwin",
+      "character": "Teacher",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 3.9045,
+      "profile_path": "/hzKy7x574eeUS3wt1R3yvWBRpeR.jpg"
+    },
+    {
+      "personId": 24045,
+      "name": "Joseph Gordon-Levitt",
+      "character": "Oliver Laird",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 5.2268,
+      "profile_path": "/z2FA8js799xqtfiFjBTicFYdfk.jpg"
+    },
+    {
+      "personId": 8256,
+      "name": "Anne Heche",
+      "character": "Juliet",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 3.3429,
+      "profile_path": "/65LVuA01bmKCmr8yqY2Ae3IgeC4.jpg"
+    },
+    {
+      "personId": 4691,
+      "name": "James Gandolfini",
+      "character": "Eddie",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 4.0502,
+      "profile_path": "/vhtsFJZcfHdeDkFBoWMDzOS6xrP.jpg"
+    },
+    {
+      "personId": 32225,
+      "name": "Lindsay Crouse",
+      "character": "Tallow",
+      "order": 5,
+      "cast_id": 15,
+      "popularity": 2.4958,
+      "profile_path": "/p9xfNphbZNvSfqxGA4za87VKuQI.jpg"
+    },
+    {
+      "personId": 15183,
+      "name": "Tony Lo Bianco",
+      "character": "Louie Boffano",
+      "order": 6,
+      "cast_id": 16,
+      "popularity": 1.3777,
+      "profile_path": "/lF9CzAOd2UdAelotxgHOB12ce5j.jpg"
+    },
+    {
+      "personId": 14884,
+      "name": "Michael Constantine",
+      "character": "Judge Weitzel",
+      "order": 7,
+      "cast_id": 17,
+      "popularity": 2.2798,
+      "profile_path": "/lrLDIfx7Cjcx0Kk34ptY1BAABfP.jpg"
+    },
+    {
+      "personId": 13525,
+      "name": "Matt Craven",
+      "character": "Boone",
+      "order": 8,
+      "cast_id": 18,
+      "popularity": 2.0438,
+      "profile_path": "/tWF8B3Dj7zvKRmkTplp7ice6Wo9.jpg"
+    },
+    {
+      "personId": 148635,
+      "name": "Todd Susman",
+      "character": "Bozeman",
+      "order": 9,
+      "cast_id": 19,
+      "popularity": 0.9776,
+      "profile_path": "/3ZqBxOwLHEO0yrSLReiC7ad6I6I.jpg"
+    },
+    {
+      "personId": 18313,
+      "name": "Michael Rispoli",
+      "character": "Joseph Boffano",
+      "order": 10,
+      "cast_id": 20,
+      "popularity": 1.7315,
+      "profile_path": "/4rtCKJTtPq9cSHFQqZSbyCLLWCO.jpg"
+    },
+    {
+      "personId": 57552,
+      "name": "Julie Halston",
+      "character": "Inez",
+      "order": 11,
+      "cast_id": 21,
+      "popularity": 1.4351,
+      "profile_path": "/p4UcHk02y5eZX6oQ2OV6wONGTbx.jpg"
+    },
+    {
+      "personId": 4692,
+      "name": "Frank Adonis",
+      "character": "DeCicco",
+      "order": 12,
+      "cast_id": 22,
+      "popularity": 0.5365,
+      "profile_path": "/ewgcaacrrpFO4CzBjIUq5BUUGPS.jpg"
+    },
+    {
+      "personId": 94434,
+      "name": "Matthew Cowles",
+      "character": "Rodney",
+      "order": 13,
+      "cast_id": 23,
+      "popularity": 1.5045,
+      "profile_path": "/7QB1XFjVaBCCO8rqeg2LzUabp8N.jpg"
+    },
+    {
+      "personId": 47538,
+      "name": "Polly Adams",
+      "character": "Forewoman",
+      "order": 14,
+      "cast_id": 24,
+      "popularity": 0.7724,
+      "profile_path": "/3hOlKA1FcTVgF3gaVFro3drXKcg.jpg"
+    },
+    {
+      "personId": 77023,
+      "name": "Jack Gilpin",
+      "character": "Accountant",
+      "order": 15,
+      "cast_id": 26,
+      "popularity": 1.4017,
+      "profile_path": "/xVUmXH9co9P836ZNiRIM1jpsNz2.jpg"
+    },
+    {
+      "personId": 4892,
+      "name": "Chuck Cooper",
+      "character": "Stockbroker",
+      "order": 16,
+      "cast_id": 27,
+      "popularity": 0.6969,
+      "profile_path": "/adTZUSlFXW8eWiIkdQ1O2WQWpb6.jpg"
+    },
+    {
+      "personId": 1223778,
+      "name": "Joe Perrino",
+      "character": "Thomas Riggio",
+      "order": 17,
+      "cast_id": 28,
+      "popularity": 2.0563,
+      "profile_path": "/eARDvDrFytOFsKADeC11NP8Xhjr.jpg"
+    },
+    {
+      "personId": 281638,
+      "name": "James McCauley",
+      "character": "Carew",
+      "order": 18,
+      "cast_id": 29,
+      "popularity": 0.7572,
+      "profile_path": "/vSdvIZ3CT2GgKgvGtQUDYl6oTYp.jpg"
+    },
+    {
+      "personId": 1068099,
+      "name": "Randy Jurgensen",
+      "character": "Court Clerk",
+      "order": 19,
+      "cast_id": 30,
+      "popularity": 0.8999,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 18069,
+      "name": "Brian Gibson",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5255,
+      "profile_path": "/fJQ5EDCU3oNiQzaqCgCOp719XfX.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3012,
+      "name": "court case"
+    },
+    {
+      "id": 1417,
+      "name": "jurors"
+    },
+    {
+      "id": 1936,
+      "name": "blackmail"
+    },
+    {
+      "id": 5153,
+      "name": "son"
+    },
+    {
+      "id": 11038,
+      "name": "trial"
+    },
+    {
+      "id": 33519,
+      "name": "courtroom"
+    },
+    {
+      "id": 161216,
+      "name": "blasphemy"
+    },
+    {
+      "id": 214780,
+      "name": "courtroom drama"
+    },
+    {
+      "id": 254459,
+      "name": "legal thriller"
+    }
+  ]
+}

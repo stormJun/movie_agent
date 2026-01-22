@@ -1,0 +1,301 @@
+{
+  "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
+  "release_date": "1995-11-18",
+  "runtime": 83,
+  "budget": 3000000,
+  "revenue": 10000000,
+  "tmdb_vote_average": 7.922,
+  "tmdb_vote_count": 3720,
+  "tmdb_popularity": 7.1496,
+  "original_language": "ja",
+  "poster_path": "/9gC88zYUBARRSThcG93MvW14sqx.jpg",
+  "backdrop_path": "/gTRXgigmgKpeJjW07iq686HZyBD.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Animation",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    {
+      "id": 528,
+      "name": "Bandai Visual",
+      "origin_country": "JP"
+    },
+    {
+      "id": 529,
+      "name": "Production I.G",
+      "origin_country": "JP"
+    },
+    {
+      "id": 59118,
+      "name": "Kodansha",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "JP",
+      "name": "Japan"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "ja",
+      "name": "日本語"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 34923,
+      "name": "Atsuko Tanaka",
+      "character": "Motoko Kusanagi (voice)",
+      "order": 0,
+      "cast_id": 10,
+      "popularity": 2.616,
+      "profile_path": "/pacuup8TMK9SFsSJOY8jlbyzkFt.jpg"
+    },
+    {
+      "personId": 40451,
+      "name": "Akio Otsuka",
+      "character": "Batou (voice)",
+      "order": 1,
+      "cast_id": 14,
+      "popularity": 4.5055,
+      "profile_path": "/uH9oiqOOgrsz2zNnouVZ1qPzDyb.jpg"
+    },
+    {
+      "personId": 625,
+      "name": "Iemasa Kayumi",
+      "character": "Puppetmaster (voice)",
+      "order": 2,
+      "cast_id": 11,
+      "popularity": 1.7663,
+      "profile_path": "/645IcH3dtGiZyMNq1i1041jVdyW.jpg"
+    },
+    {
+      "personId": 20664,
+      "name": "Koichi Yamadera",
+      "character": "Togusa (voice)",
+      "order": 3,
+      "cast_id": 22,
+      "popularity": 3.6456,
+      "profile_path": "/biov5jENp2XYfehkcdnRvi796Wi.jpg"
+    },
+    {
+      "personId": 83933,
+      "name": "Yutaka Nakano",
+      "character": "Ishikawa (voice)",
+      "order": 4,
+      "cast_id": 23,
+      "popularity": 1.1611,
+      "profile_path": "/qpI179YMdnMPaiH2rqieep3SYC3.jpg"
+    },
+    {
+      "personId": 12199,
+      "name": "Tamio Ohki",
+      "character": "Aramaki (voice)",
+      "order": 5,
+      "cast_id": 73,
+      "popularity": 1.9158,
+      "profile_path": "/ixEU7F1vWpcm0MGqc04xXNGLpHz.jpg"
+    },
+    {
+      "personId": 1681,
+      "name": "Tessyo Genda",
+      "character": "Director Nakamura (voice)",
+      "order": 6,
+      "cast_id": 24,
+      "popularity": 2.4773,
+      "profile_path": "/7eJeYv2OCHKAadeFVdabVkpWldo.jpg"
+    },
+    {
+      "personId": 1765827,
+      "name": "Masakazu Namaki",
+      "character": "Dr. Willis (voice)",
+      "order": 7,
+      "cast_id": 25,
+      "popularity": 1.0563,
+      "profile_path": "/24vPPiTsEuHTqFXYobcj2mmIvmG.jpg"
+    },
+    {
+      "personId": 1241453,
+      "name": "Masato Yamanouchi",
+      "character": "Minister of Foreign Affairs (voice)",
+      "order": 8,
+      "cast_id": 26,
+      "popularity": 1.5206,
+      "profile_path": null
+    },
+    {
+      "personId": 548015,
+      "name": "Shinji Ogawa",
+      "character": "Gaikôkan (voice)",
+      "order": 9,
+      "cast_id": 74,
+      "popularity": 1.4822,
+      "profile_path": "/26mYiiCwh0Std1ZPuSPEmk5rrci.jpg"
+    },
+    {
+      "personId": 115304,
+      "name": "Mitsuru Miyamoto",
+      "character": "Mizuho Daita (voice)",
+      "order": 10,
+      "cast_id": 28,
+      "popularity": 2.0558,
+      "profile_path": "/zcgbjwPHY9YV4UMpm6bvFXorWCJ.jpg"
+    },
+    {
+      "personId": 552339,
+      "name": "Kazuhiro Yamaji",
+      "character": "Garbage Collector A (voice)",
+      "order": 11,
+      "cast_id": 29,
+      "popularity": 2.5069,
+      "profile_path": "/fgGTdhTiWViGmjl2kABHWzLIpZ0.jpg"
+    },
+    {
+      "personId": 105816,
+      "name": "Shigeru Chiba",
+      "character": "Garbage Collector B (voice)",
+      "order": 12,
+      "cast_id": 30,
+      "popularity": 2.7489,
+      "profile_path": "/mF5YJxApTYKBVFJDrEC9IrJ5ooV.jpg"
+    },
+    {
+      "personId": 1222145,
+      "name": "Hiroshi Yanaka",
+      "character": "Coroner (voice)",
+      "order": 13,
+      "cast_id": 31,
+      "popularity": 1.7986,
+      "profile_path": "/eoqG5eX6TmTzaQLgl2MUkek6Jl.jpg"
+    },
+    {
+      "personId": 554536,
+      "name": "Ginzo Matsuo",
+      "character": "Old Man (voice)",
+      "order": 14,
+      "cast_id": 123,
+      "popularity": 1.2824,
+      "profile_path": "/zKogiynSZjHiJY5DL3jqfEmejSJ.jpg"
+    },
+    {
+      "personId": 216330,
+      "name": "Takashi Matsuyama",
+      "character": "Terrorist (voice)",
+      "order": 15,
+      "cast_id": 33,
+      "popularity": 1.9195,
+      "profile_path": "/fBufEEFKgnEirPWJoGOpnJsZUjn.jpg"
+    },
+    {
+      "personId": 1765831,
+      "name": "Sanryo Odaka",
+      "character": "Technician (voice)",
+      "order": 16,
+      "cast_id": 34,
+      "popularity": 0.9512,
+      "profile_path": "/rucTILzMAG4H3NzTlEU9fB7dzvH.jpg"
+    },
+    {
+      "personId": 125616,
+      "name": "Masamichi Sato",
+      "character": "Driver (voice)",
+      "order": 17,
+      "cast_id": 72,
+      "popularity": 1.1179,
+      "profile_path": null
+    },
+    {
+      "personId": 1765833,
+      "name": "Atsuko Hayashida",
+      "character": "Operator (voice)",
+      "order": 18,
+      "cast_id": 36,
+      "popularity": 0.3329,
+      "profile_path": null
+    },
+    {
+      "personId": 65427,
+      "name": "Yuji Ueda",
+      "character": "Communication (voice)",
+      "order": 19,
+      "cast_id": 75,
+      "popularity": 1.9833,
+      "profile_path": "/nwJBK4WwsUCcBcX425GD2BroJDr.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 12180,
+      "name": "Mamoru Oshii",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.0974,
+      "profile_path": "/2eDakuSsipmgku9MtGcZf244Hv4.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 803,
+      "name": "android"
+    },
+    {
+      "id": 312,
+      "name": "man vs machine"
+    },
+    {
+      "id": 310,
+      "name": "artificial intelligence (a.i.)"
+    },
+    {
+      "id": 2812,
+      "name": "computer virus"
+    },
+    {
+      "id": 679,
+      "name": "cyborg"
+    },
+    {
+      "id": 4565,
+      "name": "dystopia"
+    },
+    {
+      "id": 8499,
+      "name": "implantat"
+    },
+    {
+      "id": 10718,
+      "name": "fugitive"
+    },
+    {
+      "id": 11322,
+      "name": "female protagonist"
+    },
+    {
+      "id": 12190,
+      "name": "cyberpunk"
+    },
+    {
+      "id": 13141,
+      "name": "based on manga"
+    },
+    {
+      "id": 161919,
+      "name": "adult animation"
+    },
+    {
+      "id": 178657,
+      "name": "tech noir"
+    },
+    {
+      "id": 210024,
+      "name": "anime"
+    }
+  ]
+}

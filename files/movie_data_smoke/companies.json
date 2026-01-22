@@ -1,0 +1,204 @@
+[
+  {
+    "companyId": 3,
+    "name": "Pixar",
+    "origin_country": "US",
+    "movieIds": [
+      1
+    ]
+  },
+  {
+    "companyId": 559,
+    "name": "TriStar Pictures",
+    "origin_country": "US",
+    "movieIds": [
+      2
+    ]
+  },
+  {
+    "companyId": 10201,
+    "name": "Interscope Communications",
+    "origin_country": "US",
+    "movieIds": [
+      2
+    ]
+  },
+  {
+    "companyId": 2550,
+    "name": "Teitler Film",
+    "origin_country": "US",
+    "movieIds": [
+      2
+    ]
+  },
+  {
+    "companyId": 1382,
+    "name": "PolyGram Filmed Entertainment",
+    "origin_country": "US",
+    "movieIds": [
+      2
+    ]
+  },
+  {
+    "companyId": 19464,
+    "name": "Lancaster Gate",
+    "origin_country": "",
+    "movieIds": [
+      3
+    ]
+  },
+  {
+    "companyId": 174,
+    "name": "Warner Bros. Pictures",
+    "origin_country": "US",
+    "movieIds": [
+      3,
+      6
+    ]
+  },
+  {
+    "companyId": 25,
+    "name": "20th Century Fox",
+    "origin_country": "US",
+    "movieIds": [
+      4
+    ]
+  },
+  {
+    "companyId": 9195,
+    "name": "Touchstone Pictures",
+    "origin_country": "US",
+    "movieIds": [
+      5
+    ]
+  },
+  {
+    "companyId": 5842,
+    "name": "Sandollar Productions",
+    "origin_country": "US",
+    "movieIds": [
+      5,
+      7
+    ]
+  },
+  {
+    "companyId": 508,
+    "name": "Regency Enterprises",
+    "origin_country": "US",
+    "movieIds": [
+      6
+    ]
+  },
+  {
+    "companyId": 675,
+    "name": "Forward Pass",
+    "origin_country": "US",
+    "movieIds": [
+      6
+    ]
+  },
+  {
+    "companyId": 4,
+    "name": "Paramount Pictures",
+    "origin_country": "US",
+    "movieIds": [
+      7
+    ]
+  },
+  {
+    "companyId": 457,
+    "name": "Constellation Films",
+    "origin_country": "",
+    "movieIds": [
+      7
+    ]
+  },
+  {
+    "companyId": 932,
+    "name": "Mirage Enterprises",
+    "origin_country": "US",
+    "movieIds": [
+      7
+    ]
+  },
+  {
+    "companyId": 258,
+    "name": "Scott Rudin Productions",
+    "origin_country": "US",
+    "movieIds": [
+      7
+    ]
+  },
+  {
+    "companyId": 12192,
+    "name": "Worldwide Productions",
+    "origin_country": "",
+    "movieIds": [
+      7
+    ]
+  },
+  {
+    "companyId": 58079,
+    "name": "Mont Blanc Entertainment GmbH",
+    "origin_country": "",
+    "movieIds": [
+      7
+    ]
+  },
+  {
+    "companyId": 2,
+    "name": "Walt Disney Pictures",
+    "origin_country": "US",
+    "movieIds": [
+      8
+    ]
+  },
+  {
+    "companyId": 134923,
+    "name": "Painted Fence Productions",
+    "origin_country": "",
+    "movieIds": [
+      8
+    ]
+  },
+  {
+    "companyId": 99689,
+    "name": "Shattered Productions",
+    "origin_country": "US",
+    "movieIds": [
+      9
+    ]
+  },
+  {
+    "companyId": 33,
+    "name": "Universal Pictures",
+    "origin_country": "US",
+    "movieIds": [
+      9
+    ]
+  },
+  {
+    "companyId": 21437,
+    "name": "Imperial Entertainment",
+    "origin_country": "US",
+    "movieIds": [
+      9
+    ]
+  },
+  {
+    "companyId": 23770,
+    "name": "Signature Entertainment",
+    "origin_country": "US",
+    "movieIds": [
+      9
+    ]
+  },
+  {
+    "companyId": 7576,
+    "name": "EON Productions",
+    "origin_country": "GB",
+    "movieIds": [
+      10
+    ]
+  }
+]

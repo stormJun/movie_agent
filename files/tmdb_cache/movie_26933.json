@@ -1,0 +1,306 @@
+{
+  "overview": "As the Algerian War draws to a close, a teenager with a girlfriend starts feeling homosexual urges for two of his classmates: a country boy, and a French-Algerian intellectual.",
+  "release_date": "1994-06-01",
+  "runtime": 115,
+  "budget": 0,
+  "revenue": 807775,
+  "tmdb_vote_average": 7.0,
+  "tmdb_vote_count": 142,
+  "tmdb_popularity": 0.9244,
+  "original_language": "fr",
+  "poster_path": "/yTBEcAsD8OoIs8thYXl7FZuUXN3.jpg",
+  "backdrop_path": "/9MbN03RE7vEn1trsdFaBdisFXPo.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 30576,
+      "name": "Ima Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 635,
+      "name": "Les Films Alain Sarde",
+      "origin_country": "FR"
+    },
+    {
+      "id": 4790,
+      "name": "IMA Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 11332,
+      "name": "La Sept-Arte",
+      "origin_country": "FR"
+    },
+    {
+      "id": 6849,
+      "name": "SFP",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 59807,
+      "name": "Élodie Bouchez",
+      "character": "Maïté Alvarez",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 0.6234,
+      "profile_path": "/pgUFT2lDgaxE4U580iEBFNqqXdw.jpg"
+    },
+    {
+      "personId": 49855,
+      "name": "Gaël Morel",
+      "character": "François Forestier",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 0.7671,
+      "profile_path": "/8xGh0cdS2EQPbOjZGfgsCyv70BI.jpg"
+    },
+    {
+      "personId": 49859,
+      "name": "Stéphane Rideau",
+      "character": "Serge Bartolo",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 0.8986,
+      "profile_path": "/jlVbjtsLzzhdPdfieUsx4FCcen8.jpg"
+    },
+    {
+      "personId": 96628,
+      "name": "Frédéric Gorny",
+      "character": "Henri Mariani",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 0.5727,
+      "profile_path": "/n7jQ1CfnoudEzDKKoFQwn1drku5.jpg"
+    },
+    {
+      "personId": 19936,
+      "name": "Michèle Moretti",
+      "character": "Madame Alvarez",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 0.4451,
+      "profile_path": "/onmKHDPvnCtRRkzYY0qxb2ZyX5a.jpg"
+    },
+    {
+      "personId": 40304,
+      "name": "Jacques Nolot",
+      "character": "Monsieur Morelli",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 0.3814,
+      "profile_path": "/z7JvsShybj6qofzsGMzTWDbnTOx.jpg"
+    },
+    {
+      "personId": 96629,
+      "name": "Eric Kreikenmayer",
+      "character": "Pierre Bartolo",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 0.3167,
+      "profile_path": null
+    },
+    {
+      "personId": 96630,
+      "name": "Nathalie Vignes",
+      "character": "Irène",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 0.2889,
+      "profile_path": "/jfSj0qsvLGLPXUupNlOyBbX69pa.jpg"
+    },
+    {
+      "personId": 28147,
+      "name": "Michel Ruhl",
+      "character": "Monsieur Cassagne",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 0.3352,
+      "profile_path": "/d7fWKkcA9Oq6R8GZonAWVPbPuvs.jpg"
+    },
+    {
+      "personId": 3957849,
+      "name": "Fatia Maite",
+      "character": "Aicha Morelli",
+      "order": 9,
+      "cast_id": 36,
+      "popularity": 0.0264,
+      "profile_path": null
+    },
+    {
+      "personId": 1433946,
+      "name": "Claudine Taulère",
+      "character": "Nurse",
+      "order": 10,
+      "cast_id": 35,
+      "popularity": 0.1645,
+      "profile_path": null
+    },
+    {
+      "personId": 3957852,
+      "name": "Elodie Soulinhac",
+      "character": "Colette",
+      "order": 11,
+      "cast_id": 37,
+      "popularity": 0.0825,
+      "profile_path": null
+    },
+    {
+      "personId": 3957853,
+      "name": "Dominique Bovard",
+      "character": "Guard",
+      "order": 12,
+      "cast_id": 38,
+      "popularity": 0.0512,
+      "profile_path": null
+    },
+    {
+      "personId": 3957854,
+      "name": "Monsieur Simonet",
+      "character": "Guard",
+      "order": 13,
+      "cast_id": 39,
+      "popularity": 0.0281,
+      "profile_path": null
+    },
+    {
+      "personId": 3957856,
+      "name": "Paul Simonet",
+      "character": "Monsieur Bartolo",
+      "order": 14,
+      "cast_id": 41,
+      "popularity": 0.1365,
+      "profile_path": null
+    },
+    {
+      "personId": 3957857,
+      "name": "Charles Picot",
+      "character": "Headmaster",
+      "order": 15,
+      "cast_id": 42,
+      "popularity": 0.082,
+      "profile_path": null
+    },
+    {
+      "personId": 3957858,
+      "name": "Christophe Maitre",
+      "character": "Gym Instructor",
+      "order": 16,
+      "cast_id": 43,
+      "popularity": 0.0218,
+      "profile_path": null
+    },
+    {
+      "personId": 3957859,
+      "name": "Bordes Fernand Raouly",
+      "character": "Madame Bartolo",
+      "order": 17,
+      "cast_id": 44,
+      "popularity": 0.0631,
+      "profile_path": null
+    },
+    {
+      "personId": 3957860,
+      "name": "Michel Voisin",
+      "character": "Justice of the Peace",
+      "order": 18,
+      "cast_id": 45,
+      "popularity": 0.0563,
+      "profile_path": null
+    },
+    {
+      "personId": 3957861,
+      "name": "Denis Bergonhe",
+      "character": "Gas Station Attendant",
+      "order": 19,
+      "cast_id": 46,
+      "popularity": 0.093,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 96627,
+      "name": "André Téchiné",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5984,
+      "profile_path": "/gt7GCtiNJUVeJ5I8lA5o90AE8rK.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 128,
+      "name": "love triangle"
+    },
+    {
+      "id": 2065,
+      "name": "province"
+    },
+    {
+      "id": 2335,
+      "name": "southern france"
+    },
+    {
+      "id": 10683,
+      "name": "coming of age"
+    },
+    {
+      "id": 10180,
+      "name": "male homosexuality"
+    },
+    {
+      "id": 11524,
+      "name": "in the closet"
+    },
+    {
+      "id": 34265,
+      "name": "heartbreak"
+    },
+    {
+      "id": 158718,
+      "name": "lgbt"
+    },
+    {
+      "id": 162804,
+      "name": "sexual awakening"
+    },
+    {
+      "id": 163037,
+      "name": "lgbt teen"
+    },
+    {
+      "id": 192394,
+      "name": "broken heart"
+    },
+    {
+      "id": 208992,
+      "name": "1960s"
+    },
+    {
+      "id": 213473,
+      "name": "algerian war (1954-62)"
+    },
+    {
+      "id": 258533,
+      "name": "gay theme"
+    }
+  ]
+}

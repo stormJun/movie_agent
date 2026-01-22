@@ -1,0 +1,276 @@
+{
+  "overview": "May Munro is a woman obsessed with getting revenge on the people who murdered her parents when she was still a girl. She hires Ray Quick, a retired explosives expert, to kill her parents' killers. When Ned Trent, embittered ex-partner of Quick's, is assigned to protect one of Quick's potential victims, a deadly game of cat and mouse ensues.",
+  "release_date": "1994-10-07",
+  "runtime": 110,
+  "budget": 45000000,
+  "revenue": 170362582,
+  "tmdb_vote_average": 5.936,
+  "tmdb_vote_count": 1387,
+  "tmdb_popularity": 3.5821,
+  "original_language": "en",
+  "poster_path": "/9CVAjtkSaFs9FyddGfThj11ZuQq.jpg",
+  "backdrop_path": "/fvBshQMwOnYZdUXySGMdT6LiqsI.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 2596,
+      "name": "Jerry Weintraub Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 11134,
+      "name": "Iguana Producciones",
+      "origin_country": "PE"
+    },
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16483,
+      "name": "Sylvester Stallone",
+      "character": "Ray Quick",
+      "order": 0,
+      "cast_id": 8,
+      "popularity": 11.3583,
+      "profile_path": "/gn3pDWthJqR0VDYGViGD3048og7.jpg"
+    },
+    {
+      "personId": 4430,
+      "name": "Sharon Stone",
+      "character": "May Munro",
+      "order": 1,
+      "cast_id": 9,
+      "popularity": 4.8308,
+      "profile_path": "/t0WoTlfkLsvsL2ZiPgoihK5rZqq.jpg"
+    },
+    {
+      "personId": 4512,
+      "name": "James Woods",
+      "character": "Ned Trent",
+      "order": 2,
+      "cast_id": 10,
+      "popularity": 3.8172,
+      "profile_path": "/UAvunLhXXFMD83wXOUvRWhNBmO.jpg"
+    },
+    {
+      "personId": 522,
+      "name": "Rod Steiger",
+      "character": "Joe Leon",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 1.8004,
+      "profile_path": "/70bE5PZJbRHxG4th6gDvXGgXu4Z.jpg"
+    },
+    {
+      "personId": 21315,
+      "name": "Eric Roberts",
+      "character": "Tomas Leon",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 6.3543,
+      "profile_path": "/NiWg1TaUcal7xn1ZQeyA2dLd5F.jpg"
+    },
+    {
+      "personId": 26651,
+      "name": "Mario Ernesto Sánchez",
+      "character": "Charlie",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 0.5891,
+      "profile_path": "/f6XWjHEPuPf35RswwZJBzV8bAq.jpg"
+    },
+    {
+      "personId": 26652,
+      "name": "Sergio Doré Jr.",
+      "character": "Strongarm",
+      "order": 6,
+      "cast_id": 14,
+      "popularity": 0.9034,
+      "profile_path": "/h1ODFa9XMlNuNCRqx8sp2KDkyE3.jpg"
+    },
+    {
+      "personId": 26653,
+      "name": "Chase Randolph",
+      "character": "Stan Munro",
+      "order": 7,
+      "cast_id": 15,
+      "popularity": 0.1824,
+      "profile_path": null
+    },
+    {
+      "personId": 26654,
+      "name": "Jeana Bell",
+      "character": "Alice Munro",
+      "order": 8,
+      "cast_id": 16,
+      "popularity": 0.3425,
+      "profile_path": null
+    },
+    {
+      "personId": 26655,
+      "name": "Brittany Paige Bouck",
+      "character": "Young May",
+      "order": 9,
+      "cast_id": 17,
+      "popularity": 1.2831,
+      "profile_path": null
+    },
+    {
+      "personId": 26656,
+      "name": "Emilio Estefan Jr.",
+      "character": "Pianoplayer",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 0.3575,
+      "profile_path": "/AuaU0ltLvyvzNH4Fs4Jlk8l88sX.jpg"
+    },
+    {
+      "personId": 1176261,
+      "name": "LaGaylia Frazier",
+      "character": "Singer #1",
+      "order": 11,
+      "cast_id": 20,
+      "popularity": 0.402,
+      "profile_path": "/x0l5hbRO1Jl6GqnrBHW9eSBSOY9.jpg"
+    },
+    {
+      "personId": 1766991,
+      "name": "Ramón González Cuevas",
+      "character": "Priest at Cemetery",
+      "order": 12,
+      "cast_id": 59,
+      "popularity": 0.0883,
+      "profile_path": null
+    },
+    {
+      "personId": 61232,
+      "name": "Tony Munafo",
+      "character": "Tony",
+      "order": 13,
+      "cast_id": 60,
+      "popularity": 1.0931,
+      "profile_path": "/cm7lSAaKETnnA4ZqPSIJ5yytI2B.jpg"
+    },
+    {
+      "personId": 2569104,
+      "name": "Cheito Quinonez",
+      "character": "Singer at Party",
+      "order": 14,
+      "cast_id": 61,
+      "popularity": 0.1299,
+      "profile_path": null
+    },
+    {
+      "personId": 2569105,
+      "name": "Tony Tatis",
+      "character": "Backup Singer",
+      "order": 15,
+      "cast_id": 62,
+      "popularity": 0.1722,
+      "profile_path": null
+    },
+    {
+      "personId": 1557570,
+      "name": "Mercedes Enriquez",
+      "character": "Pregnant Woman on Bus",
+      "order": 16,
+      "cast_id": 63,
+      "popularity": 1.26,
+      "profile_path": null
+    },
+    {
+      "personId": 180126,
+      "name": "Yeniffer Behrens",
+      "character": "Schoolgirl on Bus",
+      "order": 17,
+      "cast_id": 64,
+      "popularity": 1.1979,
+      "profile_path": "/aKk3ZFVUNJgoX0OWCqxDVFLRyLG.jpg"
+    },
+    {
+      "personId": 2058270,
+      "name": "Scott Blake",
+      "character": "Punk #1",
+      "order": 18,
+      "cast_id": 65,
+      "popularity": 0.1582,
+      "profile_path": null
+    },
+    {
+      "personId": 1531529,
+      "name": "Rex Reddick",
+      "character": "Punk #2",
+      "order": 19,
+      "cast_id": 66,
+      "popularity": 0.482,
+      "profile_path": "/yPbBeUJ0xwHZG0OhavTaqBWdsNQ.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 26648,
+      "name": "Luis Llosa",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7328,
+      "profile_path": "/mL2FmYTZvnvP4kJ9heOQLk5BT9m.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 1653,
+      "name": "explosive"
+    },
+    {
+      "id": 5572,
+      "name": "fistfight"
+    },
+    {
+      "id": 9748,
+      "name": "revenge"
+    },
+    {
+      "id": 10291,
+      "name": "organized crime"
+    },
+    {
+      "id": 33556,
+      "name": "urban setting"
+    },
+    {
+      "id": 159358,
+      "name": "explosives expert"
+    },
+    {
+      "id": 207268,
+      "name": "neo-noir"
+    },
+    {
+      "id": 219404,
+      "name": "action hero"
+    }
+  ]
+}

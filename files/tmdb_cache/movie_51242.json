@@ -1,0 +1,213 @@
+{
+  "overview": "An Italian immigrant tries to make a new life in Switzerland, taking on a series of increasingly menial jobs in order to do it. He attempts to fit into his new home and society but fails at every turn. Unable to go home again, will his tenacity and optimism be enough to live on?",
+  "release_date": "1974-05-05",
+  "runtime": 115,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 7.2,
+  "tmdb_vote_count": 96,
+  "tmdb_popularity": 0.5222,
+  "original_language": "it",
+  "poster_path": "/24D3e6xBPEvqlFoq4tSMVqVQ3TO.jpg",
+  "backdrop_path": "/92xv8veoWBp1QjAY31E9Z7ImFEo.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 10520,
+      "name": "Verona Produzione",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "de",
+      "name": "Deutsch"
+    },
+    {
+      "code": "it",
+      "name": "Italiano"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 37583,
+      "name": "Nino Manfredi",
+      "character": "Giovanni 'Nino' Garofoli",
+      "order": 0,
+      "cast_id": 5,
+      "popularity": 0.909,
+      "profile_path": "/aYrj641bdWgwME5x2Vw6NDoBeGt.jpg"
+    },
+    {
+      "personId": 21234,
+      "name": "Johnny Dorelli",
+      "character": "Italian Industrialist",
+      "order": 1,
+      "cast_id": 6,
+      "popularity": 4.875,
+      "profile_path": "/iERbgqPTLhczWWqFR6d40L5jdRa.jpg"
+    },
+    {
+      "personId": 18197,
+      "name": "Anna Karina",
+      "character": "Elena",
+      "order": 2,
+      "cast_id": 7,
+      "popularity": 1.3407,
+      "profile_path": "/oSYtIsMpV8sZD6opNrOnWsspR0D.jpg"
+    },
+    {
+      "personId": 143598,
+      "name": "Paolo Turco",
+      "character": "Gianni",
+      "order": 3,
+      "cast_id": 8,
+      "popularity": 0.4758,
+      "profile_path": "/oT40XE7kRBy745KHUfF2a4L0f5b.jpg"
+    },
+    {
+      "personId": 142132,
+      "name": "Ugo D'Alessio",
+      "character": "Pietro",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 1.0273,
+      "profile_path": "/nnws5ujPxAQPlcDaqCCBq7nTV3V.jpg"
+    },
+    {
+      "personId": 103627,
+      "name": "Tano Cimarosa",
+      "character": "Gigi",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 1.2985,
+      "profile_path": "/npEuqZSuc9oq1nfBj1l93hY7Ygc.jpg"
+    },
+    {
+      "personId": 69068,
+      "name": "Gianfranco Barra",
+      "character": "The turk",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 0.9666,
+      "profile_path": "/a6Bms9jyF8drPdhP8vEh3YjCtgi.jpg"
+    },
+    {
+      "personId": 235941,
+      "name": "Giorgio Cerioni",
+      "character": "Police Inspector",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 0.6052,
+      "profile_path": "/c0QHDAhSG789dMXMiFYq6apGaiZ.jpg"
+    },
+    {
+      "personId": 592516,
+      "name": "Francesco D'Adda",
+      "character": "Rudiger",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 0.9656,
+      "profile_path": "/onGohuy8umT8uYASqLrtEy4rZU0.jpg"
+    },
+    {
+      "personId": 25816,
+      "name": "Umberto Raho",
+      "character": "Jacques, the Maitre",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 0.6937,
+      "profile_path": "/oYhu89cnv7KndDnAY5Q4hhGIla2.jpg"
+    },
+    {
+      "personId": 100427,
+      "name": "Geoffrey Copleston",
+      "character": "Boegli",
+      "order": 10,
+      "cast_id": 20,
+      "popularity": 1.2498,
+      "profile_path": "/aovs3e7AKfbb3QkvYhW2z5dGYzS.jpg"
+    },
+    {
+      "personId": 1353828,
+      "name": "Federico Scrobogna",
+      "character": "Grigory",
+      "order": 11,
+      "cast_id": 21,
+      "popularity": 0.1331,
+      "profile_path": null
+    },
+    {
+      "personId": 584561,
+      "name": "Max Delys",
+      "character": "Renzo",
+      "order": 12,
+      "cast_id": 22,
+      "popularity": 0.4722,
+      "profile_path": null
+    },
+    {
+      "personId": 287120,
+      "name": "Giorgio Dolfin",
+      "character": "Paolo",
+      "order": 13,
+      "cast_id": 34,
+      "popularity": 1.8213,
+      "profile_path": "/A9ucbh2xAp3BpkV2m2vr9TajLl5.jpg"
+    },
+    {
+      "personId": 1936570,
+      "name": "Nelide Giammarco",
+      "character": "The Blonde",
+      "order": 14,
+      "cast_id": 56,
+      "popularity": 0.1237,
+      "profile_path": "/tCeVK3XYHN2EOLdbAwnMmzn2nqJ.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 49552,
+      "name": "Franco Brusati",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.375,
+      "profile_path": "/3FS1JWTtUDdJ2Cn8GVI1stt7wYV.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2356,
+      "name": "immigrant"
+    },
+    {
+      "id": 2346,
+      "name": "worker"
+    },
+    {
+      "id": 1223,
+      "name": "switzerland"
+    },
+    {
+      "id": 157192,
+      "name": "hardship"
+    },
+    {
+      "id": 160910,
+      "name": "xenophobia"
+    },
+    {
+      "id": 214887,
+      "name": "foreigners"
+    }
+  ]
+}

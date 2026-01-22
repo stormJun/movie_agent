@@ -1,0 +1,185 @@
+{
+  "overview": "An escaped lunatic, a mysterious swami, and various lovers all have designs on a famous opera singer.",
+  "release_date": "1936-03-27",
+  "runtime": 65,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 4.2,
+  "tmdb_vote_count": 5,
+  "tmdb_popularity": 3.4199,
+  "original_language": "en",
+  "poster_path": "/milDzDPmmu3k44zhwaNiOsA2qSH.jpg",
+  "backdrop_path": "/kJuYx31KjMKKmbVDSFkoBqOL0EL.jpg",
+  "tmdb_genres_raw": [
+    "Mystery",
+    "Comedy",
+    "Music"
+  ],
+  "production_companies": [
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 34754,
+      "name": "Chester Morris",
+      "character": "Steve Farrell",
+      "order": 0,
+      "cast_id": 6,
+      "popularity": 0.703,
+      "profile_path": "/98EYrbrIgYGSuIpeRFgPbMA0bY2.jpg"
+    },
+    {
+      "personId": 104728,
+      "name": "Madge Evans",
+      "character": "Toni Adams",
+      "order": 1,
+      "cast_id": 7,
+      "popularity": 0.7295,
+      "profile_path": "/pl8Za5y7tmMoCgTRkpCcSFISvxd.jpg"
+    },
+    {
+      "personId": 78850,
+      "name": "Leo Carrillo",
+      "character": "Gino D'Acosta",
+      "order": 2,
+      "cast_id": 8,
+      "popularity": 0.6052,
+      "profile_path": "/2vnSRTNNUcaay4PcnOTCqDCwjqf.jpg"
+    },
+    {
+      "personId": 74875,
+      "name": "Frank McHugh",
+      "character": "William",
+      "order": 3,
+      "cast_id": 9,
+      "popularity": 0.7001,
+      "profile_path": "/yxr2eRkScZWPQOtm2vzz38hALHD.jpg"
+    },
+    {
+      "personId": 131726,
+      "name": "Benita Hume",
+      "character": "Diana",
+      "order": 4,
+      "cast_id": 10,
+      "popularity": 0.5275,
+      "profile_path": "/iKRa5qqa6vKQ4GCr86HSPzE9yHe.jpg"
+    },
+    {
+      "personId": 30215,
+      "name": "Grant Mitchell",
+      "character": "Paul Adams",
+      "order": 5,
+      "cast_id": 11,
+      "popularity": 0.9808,
+      "profile_path": "/aK0rpMG4ALS3B6sVqb9cvLsPtJS.jpg"
+    },
+    {
+      "personId": 133227,
+      "name": "Katharine Alexander",
+      "character": "Louisa",
+      "order": 6,
+      "cast_id": 12,
+      "popularity": 0.6102,
+      "profile_path": "/paUbzVjaUKfdFSdJrY8CdEp8BqS.jpg"
+    },
+    {
+      "personId": 30686,
+      "name": "J. Carrol Naish",
+      "character": "André Bejac",
+      "order": 7,
+      "cast_id": 13,
+      "popularity": 1.3528,
+      "profile_path": "/eTQ39RkhwYnLDKQyqjXkliov537.jpg"
+    },
+    {
+      "personId": 33278,
+      "name": "H.B. Warner",
+      "character": "Godfrey Chiltern",
+      "order": 8,
+      "cast_id": 14,
+      "popularity": 0.7102,
+      "profile_path": "/be4wXVyhbvdbViK0gOZSrdbfie8.jpg"
+    },
+    {
+      "personId": 30007,
+      "name": "Robert McWade",
+      "character": "Quinlan",
+      "order": 9,
+      "cast_id": 15,
+      "popularity": 0.2135,
+      "profile_path": "/pWD1NyVwpyG2jKAxRidjfk37xHo.jpg"
+    },
+    {
+      "personId": 144387,
+      "name": "Duncan Renaldo",
+      "character": "Pedro",
+      "order": 10,
+      "cast_id": 16,
+      "popularity": 0.3226,
+      "profile_path": "/vusu8EXimaP9o79MH8QDHlnze9O.jpg"
+    },
+    {
+      "personId": 1155163,
+      "name": "Leonard Ceeley",
+      "character": "Ivan Bosloff",
+      "order": 11,
+      "cast_id": 17,
+      "popularity": 0.1763,
+      "profile_path": "/1VbTPnJMONWQanaUBTAaXOQ1LYh.jpg"
+    },
+    {
+      "personId": 103493,
+      "name": "Pedro de Cordoba",
+      "character": "Swami",
+      "order": 12,
+      "cast_id": 18,
+      "popularity": 0.8315,
+      "profile_path": "/2QXZzdaIkoYrCHXh7GRsGPqXM91.jpg"
+    },
+    {
+      "personId": 96721,
+      "name": "Charles Trowbridge",
+      "character": "Stage Manager",
+      "order": 13,
+      "cast_id": 19,
+      "popularity": 2.7411,
+      "profile_path": "/l0pMZJiTfkxBOESbOAkAAedUzuJ.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 78053,
+      "name": "Edwin L. Marin",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8853,
+      "profile_path": "/gAWdPTPb0ZdHMW9pXrxh8tmYGYJ.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 703,
+      "name": "detective"
+    },
+    {
+      "id": 156105,
+      "name": "hollywood bowl"
+    }
+  ]
+}

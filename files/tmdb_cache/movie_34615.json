@@ -1,0 +1,267 @@
+{
+  "overview": "A South-African preacher goes to search for his wayward son who has committed a crime in the big city.",
+  "release_date": "1995-12-15",
+  "runtime": 106,
+  "budget": 0,
+  "revenue": 676525,
+  "tmdb_vote_average": 6.7,
+  "tmdb_vote_count": 26,
+  "tmdb_popularity": 0.3638,
+  "original_language": "en",
+  "poster_path": "/96TZr6o4kuiIEryC5jkzaQoP6m5.jpg",
+  "backdrop_path": "/i1b7potegowFC5g11Bs4kdqOVDE.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 89840,
+      "name": "Alpine Pty Limited",
+      "origin_country": ""
+    },
+    {
+      "id": 85681,
+      "name": "Distant Horizon",
+      "origin_country": "ZA"
+    },
+    {
+      "id": 14,
+      "name": "Miramax",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 194,
+      "name": "Richard Harris",
+      "character": "James Jarvis",
+      "order": 0,
+      "cast_id": 12,
+      "popularity": 3.873,
+      "profile_path": "/lCvcVMuxrg1f5A8OMqY9AqkkcZR.jpg"
+    },
+    {
+      "personId": 15152,
+      "name": "James Earl Jones",
+      "character": "Rev. Stephen Kumalo",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 2.369,
+      "profile_path": "/oqMPIsXrl9SZkRfIKN08eFROmH6.jpg"
+    },
+    {
+      "personId": 17764,
+      "name": "Charles S. Dutton",
+      "character": "John Kumalo",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 1.8618,
+      "profile_path": "/eNLs4JLILqSY50Tq5QMkrlBxD0H.jpg"
+    },
+    {
+      "personId": 65887,
+      "name": "Vusi Kunene",
+      "character": "Theophilus Msimangu",
+      "order": 3,
+      "cast_id": 29,
+      "popularity": 1.8536,
+      "profile_path": "/cz6t9Np8NaKWdYwFqv56oJvNMzc.jpg"
+    },
+    {
+      "personId": 123833,
+      "name": "Tsholofelo Wechoemang",
+      "character": "Child",
+      "order": 4,
+      "cast_id": 10,
+      "popularity": 0.141,
+      "profile_path": null
+    },
+    {
+      "personId": 89307,
+      "name": "Dolly Rathebe",
+      "character": "Mrs. Kumalo",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 0.2589,
+      "profile_path": null
+    },
+    {
+      "personId": 123831,
+      "name": "Jack Robinson",
+      "character": "Ian Jarvis",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 0.0143,
+      "profile_path": null
+    },
+    {
+      "personId": 123834,
+      "name": "Ramalao Makhene",
+      "character": "Ramalao Makhene",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 0.0902,
+      "profile_path": null
+    },
+    {
+      "personId": 111179,
+      "name": "Jennifer Steyn",
+      "character": "Mary Jarvis",
+      "order": 8,
+      "cast_id": 14,
+      "popularity": 0.3764,
+      "profile_path": "/fYHKQBUXKhgV94X0Ku2qPKaRIXP.jpg"
+    },
+    {
+      "personId": 1035098,
+      "name": "Ian Roberts",
+      "character": "Evans",
+      "order": 9,
+      "cast_id": 15,
+      "popularity": 0.7618,
+      "profile_path": "/cQdZr5Qom4M0cQgoChtXaJ460Hn.jpg"
+    },
+    {
+      "personId": 1073473,
+      "name": "David Clatworthy",
+      "character": "Clerk of the court",
+      "order": 10,
+      "cast_id": 16,
+      "popularity": 0.2992,
+      "profile_path": "/f7Nc90L59usUFkgtrpc381v4RSC.jpg"
+    },
+    {
+      "personId": 4413473,
+      "name": "Somizi Mhlongo",
+      "character": "Young Thief",
+      "order": 11,
+      "cast_id": 30,
+      "popularity": 0.3977,
+      "profile_path": "/iP2OYQwNZU2HhAV0ALSzgJzIlyl.jpg"
+    },
+    {
+      "personId": 1165936,
+      "name": "Patrick Ndlovu",
+      "character": "Man 1",
+      "order": 12,
+      "cast_id": 32,
+      "popularity": 1.76,
+      "profile_path": "/ro2NUtAd8BSQUtE4Y28kDQc6Oyp.jpg"
+    },
+    {
+      "personId": 1075709,
+      "name": "Darlington Michaels",
+      "character": "Man 2",
+      "order": 13,
+      "cast_id": 33,
+      "popularity": 0.1833,
+      "profile_path": null
+    },
+    {
+      "personId": 5104153,
+      "name": "King Twala",
+      "character": "Man 3",
+      "order": 14,
+      "cast_id": 34,
+      "popularity": 0.0286,
+      "profile_path": null
+    },
+    {
+      "personId": 1768634,
+      "name": "Sam Ngakane",
+      "character": "Mafolo",
+      "order": 15,
+      "cast_id": 35,
+      "popularity": 0.1195,
+      "profile_path": null
+    },
+    {
+      "personId": 129333,
+      "name": "John Whiteley",
+      "character": "Father Vincent",
+      "order": 16,
+      "cast_id": 36,
+      "popularity": 0.2705,
+      "profile_path": "/pWU3lIWnfrpLBehsxJBYWhndxSs.jpg"
+    },
+    {
+      "personId": 961915,
+      "name": "Lillian Dube",
+      "character": "Mrs. Lithebe",
+      "order": 17,
+      "cast_id": 37,
+      "popularity": 2.0773,
+      "profile_path": "/wUrelJRrRmYjOVdVwTY8teJAu3L.jpg"
+    },
+    {
+      "personId": 1246688,
+      "name": "Themsie Times",
+      "character": "Shebeen Queen (as Tembsie Times)",
+      "order": 18,
+      "cast_id": 38,
+      "popularity": 0.3989,
+      "profile_path": "/3AHpSDFP1BnVDUhQbrLxdMteNlb.jpg"
+    },
+    {
+      "personId": 5104154,
+      "name": "Tiny Masilio",
+      "character": "Brothel Singer",
+      "order": 19,
+      "cast_id": 39,
+      "popularity": 0.1099,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 16730,
+      "name": "Darrell James Roodt",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5526,
+      "profile_path": "/iJ0oqs5Il1B6hEV2A1FLmTYeMXz.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 3644,
+      "name": "south africa"
+    },
+    {
+      "id": 4106,
+      "name": "apartheid"
+    },
+    {
+      "id": 10093,
+      "name": "priest"
+    },
+    {
+      "id": 207883,
+      "name": "1940s"
+    },
+    {
+      "id": 241927,
+      "name": "race relations"
+    }
+  ]
+}

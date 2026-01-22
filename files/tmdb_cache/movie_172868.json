@@ -1,0 +1,189 @@
+{
+  "overview": "This is the story of Harry and Flint, an unlikely couple. Harry is a shy young gay man who can't seem to fit into his local bar scene. Flint is a crusty, older, and seemingly straight man with a questionable background. They meet on a gorgeous coastline, and evolve from distrust to deep love.",
+  "release_date": "1995-01-26",
+  "runtime": 96,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 4.9,
+  "tmdb_vote_count": 7,
+  "tmdb_popularity": 2.3338,
+  "original_language": "en",
+  "poster_path": "/r33ET00aIBy7j0E9wJCXj4bWMET.jpg",
+  "backdrop_path": "/vDYJpvbjoqNYDEPbHfHFDmjP1NS.jpg",
+  "tmdb_genres_raw": [
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 7281,
+      "name": "BFI",
+      "origin_country": "GB"
+    },
+    {
+      "id": 181,
+      "name": "Channel Four Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1854,
+      "name": "Dan Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1369,
+      "name": "Bernard Hill",
+      "character": "Flint",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.9593,
+      "profile_path": "/5i8bj2nsTrFU2ddSynleOjapxor.jpg"
+    },
+    {
+      "personId": 10727,
+      "name": "John Hannah",
+      "character": "Harry",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 3.7934,
+      "profile_path": "/8GzJhaZrChZpv84SU4vAsvsR3cl.jpg"
+    },
+    {
+      "personId": 4975466,
+      "name": "Mark Anthony",
+      "character": "Adonis",
+      "order": 2,
+      "cast_id": 8,
+      "popularity": 0.4797,
+      "profile_path": null
+    },
+    {
+      "personId": 4975469,
+      "name": "Mark Pettitt",
+      "character": "Lover",
+      "order": 3,
+      "cast_id": 9,
+      "popularity": 0.2481,
+      "profile_path": null
+    },
+    {
+      "personId": 1351074,
+      "name": "Danny Earl",
+      "character": "Lover",
+      "order": 4,
+      "cast_id": 10,
+      "popularity": 0.2389,
+      "profile_path": null
+    },
+    {
+      "personId": 27414,
+      "name": "Sarah Thomas",
+      "character": "Crab Hunter",
+      "order": 5,
+      "cast_id": 11,
+      "popularity": 0.3979,
+      "profile_path": "/2DrRQW8Gc400OV4cTXl0plabfb3.jpg"
+    },
+    {
+      "personId": 5858549,
+      "name": "Robin Neath",
+      "character": "Thug",
+      "order": 6,
+      "cast_id": 21,
+      "popularity": 0.0286,
+      "profile_path": null
+    },
+    {
+      "personId": 5858550,
+      "name": "Matthew Davies",
+      "character": "Thug",
+      "order": 7,
+      "cast_id": 22,
+      "popularity": 0.0311,
+      "profile_path": null
+    },
+    {
+      "personId": 5858551,
+      "name": "Alex Hooper",
+      "character": "Sailor",
+      "order": 8,
+      "cast_id": 23,
+      "popularity": 0.0368,
+      "profile_path": null
+    },
+    {
+      "personId": 5858553,
+      "name": "Alex Symons-Sutcliff",
+      "character": "Little Girl",
+      "order": 9,
+      "cast_id": 24,
+      "popularity": 0.0071,
+      "profile_path": null
+    },
+    {
+      "personId": 5858554,
+      "name": "Virginia Davies",
+      "character": "Little Girl",
+      "order": 10,
+      "cast_id": 25,
+      "popularity": 0.0071,
+      "profile_path": null
+    },
+    {
+      "personId": 5858555,
+      "name": "Susan Harries",
+      "character": "Black Bikini Woman",
+      "order": 11,
+      "cast_id": 26,
+      "popularity": 0.0071,
+      "profile_path": null
+    },
+    {
+      "personId": 5858556,
+      "name": "William Burke",
+      "character": "Old Man",
+      "order": 12,
+      "cast_id": 27,
+      "popularity": 0.0071,
+      "profile_path": null
+    },
+    {
+      "personId": 5858559,
+      "name": "Simon Bennett",
+      "character": "Thug",
+      "order": 13,
+      "cast_id": 28,
+      "popularity": 0.0496,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1063201,
+      "name": "Chris Newby",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.3312,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 258533,
+      "name": "gay theme"
+    }
+  ]
+}

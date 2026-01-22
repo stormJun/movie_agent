@@ -1,0 +1,322 @@
+{
+  "overview": "In a small Vietnamese village torn apart by war, a young woman faces unimaginable horrors before deciding to escape to the city. There, she encounters a compassionate Marine who offers her hope and a chance at a new life, igniting the possibility of a future together.",
+  "release_date": "1993-12-25",
+  "runtime": 140,
+  "budget": 33000000,
+  "revenue": 5900000,
+  "tmdb_vote_average": 6.7,
+  "tmdb_vote_count": 269,
+  "tmdb_popularity": 4.677,
+  "original_language": "en",
+  "poster_path": "/hvvR7Yf743pc2E2F1VJ2dfZl7OZ.jpg",
+  "backdrop_path": "/o0F4QDlH12j8GmGEV8GvSDGmyFT.jpg",
+  "tmdb_genres_raw": [
+    "History",
+    "War",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 508,
+      "name": "Regency Enterprises",
+      "origin_country": "US"
+    },
+    {
+      "id": 644,
+      "name": "Alcor Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 525,
+      "name": "Ixtlan Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 10104,
+      "name": "New Regency Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 210179,
+      "name": "Todd-AO",
+      "origin_country": ""
+    },
+    {
+      "id": 210180,
+      "name": "TAE",
+      "origin_country": ""
+    },
+    {
+      "id": 183,
+      "name": "Le Studio Canal+",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "vi",
+      "name": "Tiếng Việt"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8857,
+      "name": "Debbie Reynolds",
+      "character": "Eugenia",
+      "order": 0,
+      "cast_id": 6,
+      "popularity": 2.2771,
+      "profile_path": "/9Z9DQqNztKlinANGGgD5dQODtlr.jpg"
+    },
+    {
+      "personId": 167166,
+      "name": "Hiep Thi Le",
+      "character": "Le Ly",
+      "order": 1,
+      "cast_id": 15,
+      "popularity": 1.6653,
+      "profile_path": "/dyeLwSuBnPwN6txpafjCgXyNpEc.jpg"
+    },
+    {
+      "personId": 2176,
+      "name": "Tommy Lee Jones",
+      "character": "Steve Butler",
+      "order": 2,
+      "cast_id": 2,
+      "popularity": 11.6269,
+      "profile_path": "/mCiZNRAzbnPojJEZwVZWLw9kzxR.jpg"
+    },
+    {
+      "personId": 8976,
+      "name": "Haing S. Ngor",
+      "character": "Papa",
+      "order": 3,
+      "cast_id": 8,
+      "popularity": 0.9166,
+      "profile_path": "/60QdTuxnCtOKjrU6yz4od7JeKvh.jpg"
+    },
+    {
+      "personId": 6720,
+      "name": "Joan Chen",
+      "character": "Mama",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 2.4646,
+      "profile_path": "/yV8glhrxb5m9Uwz4n63JPdVjWvj.jpg"
+    },
+    {
+      "personId": 1333976,
+      "name": "Thuan K. Nguyen",
+      "character": "Uncle Luc",
+      "order": 5,
+      "cast_id": 16,
+      "popularity": 1.1623,
+      "profile_path": null
+    },
+    {
+      "personId": 111185,
+      "name": "Long Nguyen",
+      "character": "Anh",
+      "order": 6,
+      "cast_id": 13,
+      "popularity": 1.2338,
+      "profile_path": "/c47F79zg0QreGz2wZ4b78lIZC9M.jpg"
+    },
+    {
+      "personId": 69033,
+      "name": "Vivian Wu",
+      "character": "Madame Lien",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 2.0981,
+      "profile_path": "/9eVO9mefla7stKGH67SAqmHyVya.jpg"
+    },
+    {
+      "personId": 61632,
+      "name": "Dustin Nguyễn",
+      "character": "Sau",
+      "order": 8,
+      "cast_id": 10,
+      "popularity": 1.1705,
+      "profile_path": "/40TjXyYUSG3O01Zak4TJLz0oZN3.jpg"
+    },
+    {
+      "personId": 2310662,
+      "name": "Thuan Le",
+      "character": "Kim",
+      "order": 9,
+      "cast_id": 42,
+      "popularity": 0.5608,
+      "profile_path": null
+    },
+    {
+      "personId": 3501045,
+      "name": "Mai Le Ho",
+      "character": "Hai",
+      "order": 10,
+      "cast_id": 40,
+      "popularity": 0.1474,
+      "profile_path": null
+    },
+    {
+      "personId": 175791,
+      "name": "Liem Whatley",
+      "character": "Viet Cong Captain",
+      "order": 11,
+      "cast_id": 11,
+      "popularity": 0.1293,
+      "profile_path": null
+    },
+    {
+      "personId": 1909,
+      "name": "Conchata Ferrell",
+      "character": "Bernice",
+      "order": 12,
+      "cast_id": 14,
+      "popularity": 2.4661,
+      "profile_path": "/1CuSudlDbvrhFSpXPckzlMfzLiJ.jpg"
+    },
+    {
+      "personId": 31512,
+      "name": "Robert John Burke",
+      "character": "Paul",
+      "order": 13,
+      "cast_id": 3,
+      "popularity": 2.2997,
+      "profile_path": "/4uCjxK6QmPW98W56aCldwINSOcX.jpg"
+    },
+    {
+      "personId": 40275,
+      "name": "Tim Guinee",
+      "character": "Young Sergeant",
+      "order": 14,
+      "cast_id": 5,
+      "popularity": 3.2181,
+      "profile_path": "/bl2kh12pzVORh6oavx0zYeuefl1.jpg"
+    },
+    {
+      "personId": 17396,
+      "name": "Timothy Carhart",
+      "character": "Big Mike",
+      "order": 15,
+      "cast_id": 4,
+      "popularity": 1.2975,
+      "profile_path": "/jfEzqYXfX7sH0BFmmiXty6kB1Lq.jpg"
+    },
+    {
+      "personId": 5482666,
+      "name": "Le Ly Hayslip",
+      "character": "Jewellery broker",
+      "order": 16,
+      "cast_id": 43,
+      "popularity": 0.1993,
+      "profile_path": null
+    },
+    {
+      "personId": 3691205,
+      "name": "Đoàn Châu Mậu",
+      "character": "Californian monk (credited as  Chau Mao Doan)",
+      "order": 17,
+      "cast_id": 47,
+      "popularity": 0.5176,
+      "profile_path": "/4dficyuClzBcgYHQFGCDRLoKNQ1.jpg"
+    },
+    {
+      "personId": 7038,
+      "name": "Tai Thai",
+      "character": "Jimmy - Age 20",
+      "order": 18,
+      "cast_id": 44,
+      "popularity": 1.4799,
+      "profile_path": "/h0b76A1cJYIOLEvJDGgRoSyrifs.jpg"
+    },
+    {
+      "personId": 1430430,
+      "name": "Espérance Pham Thai Lan",
+      "character": "Student (uncredited)",
+      "order": 19,
+      "cast_id": 38,
+      "popularity": 0.8671,
+      "profile_path": "/eVZTlz7vo8tpi7KilPCid3Sziyy.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1152,
+      "name": "Oliver Stone",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.8732,
+      "profile_path": "/zn4XrQMUg32poFHJd2kwlXBPmGg.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2957,
+      "name": "vietnam war"
+    },
+    {
+      "id": 2956,
+      "name": "vietnam"
+    },
+    {
+      "id": 1327,
+      "name": "war crimes"
+    },
+    {
+      "id": 4119,
+      "name": "saigon"
+    },
+    {
+      "id": 5565,
+      "name": "biography"
+    },
+    {
+      "id": 9672,
+      "name": "based on true story"
+    },
+    {
+      "id": 10131,
+      "name": "interracial relationship"
+    },
+    {
+      "id": 11925,
+      "name": "domestic violence"
+    },
+    {
+      "id": 14641,
+      "name": "based on memoir or autobiography"
+    },
+    {
+      "id": 15162,
+      "name": "dog"
+    },
+    {
+      "id": 208176,
+      "name": "immigrant experience"
+    },
+    {
+      "id": 292930,
+      "name": "vietnamese woman"
+    }
+  ]
+}

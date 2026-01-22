@@ -1,0 +1,288 @@
+{
+  "overview": "When Lenny and his wife, Amanda, adopt a baby, Lenny realizes that his son is a genius and becomes obsessed with finding the boy's biological mother in hopes that she will be brilliant too. But when he learns that Max's mother is Linda Ash, a kindhearted prostitute and porn star, Lenny is determined to reform her immoral lifestyle. A Greek chorus chimes in to relate the plot to Greek mythology in this quirky comedy.",
+  "release_date": "1995-09-13",
+  "runtime": 95,
+  "budget": 15000000,
+  "revenue": 26000000,
+  "tmdb_vote_average": 6.712,
+  "tmdb_vote_count": 724,
+  "tmdb_popularity": 4.338,
+  "original_language": "en",
+  "poster_path": "/ice135yQZp4iX2SgCmd90nKgS5j.jpg",
+  "backdrop_path": "/hSY4PYJSFW5JWeQqOs2LAzG0W8a.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 14,
+      "name": "Miramax",
+      "origin_country": "US"
+    },
+    {
+      "id": 16280,
+      "name": "Jean Doumanian Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 21716,
+      "name": "Sweetland Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1243,
+      "name": "Woody Allen",
+      "character": "Lenny",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.7366,
+      "profile_path": "/wcPQgZLDibuej1RwNTy1R2U2ZJw.jpg"
+    },
+    {
+      "personId": 23931,
+      "name": "Mira Sorvino",
+      "character": "Linda Ash",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 4.7289,
+      "profile_path": "/3CPM8yvppihiKsA1pf4x8PJe4x6.jpg"
+    },
+    {
+      "personId": 1283,
+      "name": "Helena Bonham Carter",
+      "character": "Amanda",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 5.2193,
+      "profile_path": "/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
+    },
+    {
+      "personId": 1164,
+      "name": "F. Murray Abraham",
+      "character": "Chorleiter",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 4.0198,
+      "profile_path": "/p2RYVGdrcP0m70BkkiKcwyrDeim.jpg"
+    },
+    {
+      "personId": 10560,
+      "name": "Donald Symington",
+      "character": "Amanda's Father",
+      "order": 4,
+      "cast_id": 17,
+      "popularity": 0.8457,
+      "profile_path": "/kykKsFl3Ku2Ng2B6FXpdo5a0vq4.jpg"
+    },
+    {
+      "personId": 29545,
+      "name": "Claire Bloom",
+      "character": "Amanda's Mother",
+      "order": 5,
+      "cast_id": 18,
+      "popularity": 1.4239,
+      "profile_path": "/c6XvOci7glAR4RRWVRvRB5iMsnO.jpg"
+    },
+    {
+      "personId": 3019,
+      "name": "Olympia Dukakis",
+      "character": "Jocasta",
+      "order": 6,
+      "cast_id": 19,
+      "popularity": 1.1349,
+      "profile_path": "/pwoIzB9QSjKkWORQ7SpetnxFizf.jpg"
+    },
+    {
+      "personId": 4688,
+      "name": "Michael Rapaport",
+      "character": "Kevin",
+      "order": 7,
+      "cast_id": 20,
+      "popularity": 5.3377,
+      "profile_path": "/nWD2kufgy6lPyFVCPr9A3e7FMMn.jpg"
+    },
+    {
+      "personId": 28010,
+      "name": "David Ogden Stiers",
+      "character": "Laius",
+      "order": 8,
+      "cast_id": 21,
+      "popularity": 2.0971,
+      "profile_path": "/cgCTQt3RZVkhkusG77l4HwHEH6A.jpg"
+    },
+    {
+      "personId": 5251,
+      "name": "Jack Warden",
+      "character": "Tiresias",
+      "order": 9,
+      "cast_id": 22,
+      "popularity": 2.3486,
+      "profile_path": "/hSShXiYMfRpMByaB5euZ59qCKN.jpg"
+    },
+    {
+      "personId": 27811,
+      "name": "Peter Weller",
+      "character": "Jerry Bender",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 3.0268,
+      "profile_path": "/mVRJX38zabRadVPJe0XOTObVzhp.jpg"
+    },
+    {
+      "personId": 1161048,
+      "name": "Danielle Ferland",
+      "character": "Cassandra",
+      "order": 11,
+      "cast_id": 25,
+      "popularity": 0.5079,
+      "profile_path": "/o6goRtb3kqnihelfzA4TrbLkjRb.jpg"
+    },
+    {
+      "personId": 13242,
+      "name": "Paul Giamatti",
+      "character": "Extras Guild Researcher",
+      "order": 12,
+      "cast_id": 48,
+      "popularity": 4.1952,
+      "profile_path": "/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
+    },
+    {
+      "personId": 21385,
+      "name": "Tony Sirico",
+      "character": "Boxing Trainer",
+      "order": 13,
+      "cast_id": 50,
+      "popularity": 1.9703,
+      "profile_path": "/yiTvFhaPlVIWETNObwqB72hgNeI.jpg"
+    },
+    {
+      "personId": 1218045,
+      "name": "Pamela Blair",
+      "character": "Greek Chorus",
+      "order": 14,
+      "cast_id": 51,
+      "popularity": 0.3657,
+      "profile_path": "/9QU0mQgc3Z9XGAcrdxamMoQgoXy.jpg"
+    },
+    {
+      "personId": 1661612,
+      "name": "Rene Ceballos",
+      "character": "Greek Chorus",
+      "order": 15,
+      "cast_id": 52,
+      "popularity": 0.2435,
+      "profile_path": null
+    },
+    {
+      "personId": 3095679,
+      "name": "Elie Chaib",
+      "character": "Greek Chorus",
+      "order": 16,
+      "cast_id": 53,
+      "popularity": 0.0588,
+      "profile_path": null
+    },
+    {
+      "personId": 23893,
+      "name": "George De La Pena",
+      "character": "Greek Chorus",
+      "order": 17,
+      "cast_id": 54,
+      "popularity": 1.5496,
+      "profile_path": "/aYS5Fo1KeZFt8hbx2NDT20JCYQr.jpg"
+    },
+    {
+      "personId": 2300886,
+      "name": "Joanne DiMauro",
+      "character": "Greek Chorus",
+      "order": 18,
+      "cast_id": 55,
+      "popularity": 0.6934,
+      "profile_path": null
+    },
+    {
+      "personId": 17641,
+      "name": "Denise Faye",
+      "character": "Greek Chorus",
+      "order": 19,
+      "cast_id": 56,
+      "popularity": 1.5334,
+      "profile_path": "/bM8aCfK77y8ATzLzeYGWkKoSclu.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1243,
+      "name": "Woody Allen",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.7366,
+      "profile_path": "/wcPQgZLDibuej1RwNTy1R2U2ZJw.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 549,
+      "name": "prostitute"
+    },
+    {
+      "id": 2393,
+      "name": "adoption"
+    },
+    {
+      "id": 4130,
+      "name": "adoptive father"
+    },
+    {
+      "id": 5561,
+      "name": "child prodigy"
+    },
+    {
+      "id": 5885,
+      "name": "childlessness"
+    },
+    {
+      "id": 6230,
+      "name": "looking for  birth parents"
+    },
+    {
+      "id": 7344,
+      "name": "porn star"
+    },
+    {
+      "id": 8018,
+      "name": "adoptive mother"
+    },
+    {
+      "id": 33625,
+      "name": "illegal prostitution"
+    },
+    {
+      "id": 166233,
+      "name": "pygmalion"
+    },
+    {
+      "id": 208349,
+      "name": "kids"
+    },
+    {
+      "id": 209051,
+      "name": "adopted son"
+    }
+  ]
+}

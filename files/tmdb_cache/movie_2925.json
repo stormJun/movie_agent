@@ -1,0 +1,249 @@
+{
+  "overview": "After years of helping their hubbies climb the ladder of success, three mid-life Manhattanites have been dumped for a newer, curvier model. But the trio is determined to turn their pain into gain. They come up with a cleverly devious plan to hit their exes where it really hurts - in the wallet!",
+  "release_date": "1996-09-20",
+  "runtime": 102,
+  "budget": 26000000,
+  "revenue": 116400000,
+  "tmdb_vote_average": 6.702,
+  "tmdb_vote_count": 796,
+  "tmdb_popularity": 4.767,
+  "original_language": "en",
+  "poster_path": "/2ApifgYnfdJUSmCKzTBrWOYYWsn.jpg",
+  "backdrop_path": "/gtLbJuGgAEvxG4DaPHRARURlD2H.jpg",
+  "tmdb_genres_raw": [
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 258,
+      "name": "Scott Rudin Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 18892,
+      "name": "Goldie Hawn",
+      "character": "Elise Elliot Atchison",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 4.0258,
+      "profile_path": "/vfJ4qaIp5KnyqmkrpXgcdLopn7b.jpg"
+    },
+    {
+      "personId": 73931,
+      "name": "Bette Midler",
+      "character": "Brenda Morelli Cushman",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.1877,
+      "profile_path": "/ooPKeoLvwacY6BRj99u7uvZCYlF.jpg"
+    },
+    {
+      "personId": 3092,
+      "name": "Diane Keaton",
+      "character": "Annie MacDuggan Paradis",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 8.9327,
+      "profile_path": "/2mSm65Z6npanPn7ilZYmGk2Ul1k.jpg"
+    },
+    {
+      "personId": 10978,
+      "name": "Maggie Smith",
+      "character": "Gunilla Garson Goldberg",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 3.748,
+      "profile_path": "/i7vcF4KzJTgH6kO0TqURuEEfoU3.jpg"
+    },
+    {
+      "personId": 520,
+      "name": "Sarah Jessica Parker",
+      "character": "Shelly Stewart",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 3.3099,
+      "profile_path": "/tEhHY7Uyn8VktwLhawBRuR0tdaJ.jpg"
+    },
+    {
+      "personId": 6486,
+      "name": "Dan Hedaya",
+      "character": "Morton Cushman",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 3.3541,
+      "profile_path": "/evL3mV8hNIjZOb1XG3qtgmiTgS5.jpg"
+    },
+    {
+      "personId": 8893,
+      "name": "Stockard Channing",
+      "character": "Cynthia Swann Griffin",
+      "order": 6,
+      "cast_id": 12,
+      "popularity": 2.2977,
+      "profile_path": "/qAYBGvapAnnhpoZuYFyoqetncs5.jpg"
+    },
+    {
+      "personId": 8536,
+      "name": "Victor Garber",
+      "character": "Bill Atchison",
+      "order": 7,
+      "cast_id": 13,
+      "popularity": 2.8268,
+      "profile_path": "/zPkpRPdW7rEm4fjgoJNz8hAZ6av.jpg"
+    },
+    {
+      "personId": 1756,
+      "name": "Stephen Collins",
+      "character": "Aaron Paradis",
+      "order": 8,
+      "cast_id": 14,
+      "popularity": 1.5609,
+      "profile_path": "/33LqzysjLWjgV3bvJ0gsNHBVAHN.jpg"
+    },
+    {
+      "personId": 19189,
+      "name": "Elizabeth Berkley",
+      "character": "Phoebe LaVelle",
+      "order": 9,
+      "cast_id": 8,
+      "popularity": 2.8607,
+      "profile_path": "/gYz3ZeNWPI7aP21eB2OWrILE1KM.jpg"
+    },
+    {
+      "personId": 4726,
+      "name": "Marcia Gay Harden",
+      "character": "Dr. Leslie Rosen",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 2.4282,
+      "profile_path": "/5vxcHIHABJxqhweAsTiXVOhT4SE.jpg"
+    },
+    {
+      "personId": 4689,
+      "name": "Bronson Pinchot",
+      "character": "Duarto Feliz",
+      "order": 11,
+      "cast_id": 16,
+      "popularity": 1.6057,
+      "profile_path": "/oBQE58X65ANq4jY1d8iMDohl72w.jpg"
+    },
+    {
+      "personId": 167120,
+      "name": "Jennifer Dundas",
+      "character": "Chris Paradis",
+      "order": 12,
+      "cast_id": 17,
+      "popularity": 0.6356,
+      "profile_path": "/boUWKtWHqHgaRdKmsBR1qrUNNZi.jpg"
+    },
+    {
+      "personId": 40618,
+      "name": "Eileen Heckart",
+      "character": "Catherine MacDuggan",
+      "order": 13,
+      "cast_id": 18,
+      "popularity": 0.95,
+      "profile_path": "/7bXAy2ItipHc72pAwVDj4mercoF.jpg"
+    },
+    {
+      "personId": 6541,
+      "name": "Philip Bosco",
+      "character": "Uncle Carmine Morelli",
+      "order": 14,
+      "cast_id": 19,
+      "popularity": 1.253,
+      "profile_path": "/fhN45vRvNiHr1lqx5tjdQULHcKU.jpg"
+    },
+    {
+      "personId": 3026,
+      "name": "Rob Reiner",
+      "character": "Dr. Morris Packman",
+      "order": 15,
+      "cast_id": 35,
+      "popularity": 7.1942,
+      "profile_path": "/rcmPU3YlhHQVzZlV197qhmRsgEL.jpg"
+    },
+    {
+      "personId": 37421,
+      "name": "James Naughton",
+      "character": "Gill Griffin",
+      "order": 16,
+      "cast_id": 36,
+      "popularity": 2.0068,
+      "profile_path": "/iXFkBdxB2Qd2uNwXka9pTp6XBXS.jpg"
+    },
+    {
+      "personId": 1763586,
+      "name": "Ari Greenberg",
+      "character": "Jason Cushman",
+      "order": 17,
+      "cast_id": 37,
+      "popularity": 0.2037,
+      "profile_path": null
+    },
+    {
+      "personId": 28907,
+      "name": "Ivana Trump",
+      "character": "Ivana Trump",
+      "order": 18,
+      "cast_id": 9,
+      "popularity": 1.0898,
+      "profile_path": "/fud0oowDGFsrjdYyMOP7CxZNERr.jpg"
+    },
+    {
+      "personId": 162783,
+      "name": "Kathie Lee Gifford",
+      "character": "Kathie Lee Gifford",
+      "order": 19,
+      "cast_id": 106,
+      "popularity": 1.0253,
+      "profile_path": "/omz2rFxQjf7ozuu6l4svGRJlQK.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 28904,
+      "name": "Hugh Wilson",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5888,
+      "profile_path": "/h4P3b9XgclNpRr4TDCyBzdAe9C5.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 9748,
+      "name": "revenge"
+    },
+    {
+      "id": 15160,
+      "name": "divorce"
+    },
+    {
+      "id": 18060,
+      "name": "divorced woman"
+    },
+    {
+      "id": 190722,
+      "name": "reunited friends"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "overview": "Labor Day in a small Kansas farm town. Hal, a burly and resolute drifter, jumps off a dusty freight train car with the purpose of visiting Alan, a former college classmate and son of the richest man in town.",
+  "release_date": "1955-11-18",
+  "runtime": 114,
+  "budget": 3000000,
+  "revenue": 9000000,
+  "tmdb_vote_average": 6.319,
+  "tmdb_vote_count": 106,
+  "tmdb_popularity": 1.0888,
+  "original_language": "en",
+  "poster_path": "/aKCSA9JUp9JkztAjzODPTrtZmzC.jpg",
+  "backdrop_path": "/pI4l6pRclnUWUSE1YGbLghvymCc.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8252,
+      "name": "William Holden",
+      "character": "Hal Carter",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 1.6554,
+      "profile_path": "/qEuJZiPXKFm1LdtbnHKGj2hQm8a.jpg"
+    },
+    {
+      "personId": 5729,
+      "name": "Kim Novak",
+      "character": "Madge Owens",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 2.3356,
+      "profile_path": "/xvIOwqOD1BXkpFZEwzkb6aamaEL.jpg"
+    },
+    {
+      "personId": 30233,
+      "name": "Rosalind Russell",
+      "character": "Rosemary - The School Teacher",
+      "order": 2,
+      "cast_id": 14,
+      "popularity": 1.2426,
+      "profile_path": "/rM7cjXZv9ikJ3QOOqK2muzMhHsE.jpg"
+    },
+    {
+      "personId": 13785,
+      "name": "Betty Field",
+      "character": "Flo Owens",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 0.8745,
+      "profile_path": "/dQTrh5POuSzSvrEN2dOMFBR7SCe.jpg"
+    },
+    {
+      "personId": 30043,
+      "name": "Susan Strasberg",
+      "character": "Millie Owens",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 1.7601,
+      "profile_path": "/e3vIJilx5ouDgvPV39fwhkQVARW.jpg"
+    },
+    {
+      "personId": 19153,
+      "name": "Cliff Robertson",
+      "character": "Alan Benson",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 2.4516,
+      "profile_path": "/8pH2RWCPtXKzT9P33MbzgnzPlF0.jpg"
+    },
+    {
+      "personId": 857,
+      "name": "Arthur O'Connell",
+      "character": "Howard Bevans",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 1.3569,
+      "profile_path": "/jJh2FxbrpIm5GzIMP8uA0cWNQdc.jpg"
+    },
+    {
+      "personId": 67290,
+      "name": "Verna Felton",
+      "character": "Helen Potts",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 0.9942,
+      "profile_path": "/xJ7mohLuufsNn6dkvzjKi5nlaFn.jpg"
+    },
+    {
+      "personId": 5828,
+      "name": "Reta Shaw",
+      "character": "Irma Henderson",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 0.9692,
+      "profile_path": "/90QQCKMOcOND5NgweLIm9X7bX0D.jpg"
+    },
+    {
+      "personId": 2787,
+      "name": "Nick Adams",
+      "character": "'Bomber'",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 1.4177,
+      "profile_path": "/yrXQ3DlthU5vks3L7Wan2r39AHF.jpg"
+    },
+    {
+      "personId": 5737,
+      "name": "Raymond Bailey",
+      "character": "Mr. Benson",
+      "order": 10,
+      "cast_id": 13,
+      "popularity": 1.7351,
+      "profile_path": "/wM6u14GHDOvWfT4XAP8PARA60qj.jpg"
+    },
+    {
+      "personId": 10776,
+      "name": "Elizabeth Wilson",
+      "character": "Christine Schoenwalder",
+      "order": 11,
+      "cast_id": 29,
+      "popularity": 1.1349,
+      "profile_path": "/8jiCTMxqiL1YwPVBqo0Pe2ZOixk.jpg"
+    },
+    {
+      "personId": 165553,
+      "name": "Phyllis Newman",
+      "character": "Juanita Badger",
+      "order": 12,
+      "cast_id": 41,
+      "popularity": 0.7979,
+      "profile_path": "/i7GTZ5eR0DO5pSpZ2nE7boAS6sF.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 86051,
+      "name": "Joshua Logan",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6166,
+      "profile_path": "/r1vfrVc1LxtZipn4JvMaiMXA2LF.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1415,
+      "name": "small town"
+    },
+    {
+      "id": 2406,
+      "name": "picnic"
+    },
+    {
+      "id": 10181,
+      "name": "based on play or musical"
+    },
+    {
+      "id": 7658,
+      "name": "kansas, usa"
+    },
+    {
+      "id": 13017,
+      "name": "drifter"
+    },
+    {
+      "id": 15057,
+      "name": "labor day"
+    },
+    {
+      "id": 18732,
+      "name": "sexual repression"
+    },
+    {
+      "id": 180787,
+      "name": "social differences"
+    },
+    {
+      "id": 221023,
+      "name": "college friends"
+    },
+    {
+      "id": 240315,
+      "name": "mother daughter relationship"
+    },
+    {
+      "id": 241738,
+      "name": "sister sister relationship"
+    },
+    {
+      "id": 254097,
+      "name": "social prejudice"
+    }
+  ]
+}

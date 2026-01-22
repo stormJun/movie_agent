@@ -1,0 +1,361 @@
+{
+  "overview": "Agent Jack Ryan becomes acting Deputy Director of Intelligence for the CIA when Admiral Greer is diagnosed with cancer. When an American businessman, and friend of the president, is murdered on his yacht, Ryan starts discovering links between the man and drug dealers. As former CIA agent John Clark is sent to Colombia to kill drug cartel kingpins in retaliation, Ryan must fight through multiple cover-ups to figure out what happened and who's responsible.",
+  "release_date": "1994-08-03",
+  "runtime": 141,
+  "budget": 62000000,
+  "revenue": 215887717,
+  "tmdb_vote_average": 6.647,
+  "tmdb_vote_count": 1614,
+  "tmdb_popularity": 6.9091,
+  "original_language": "en",
+  "poster_path": "/6xTM8FPxrLRYwz6I3fqtwh7xybs.jpg",
+  "backdrop_path": "/njPBXJqugKR5qwUJIHOWSCYscnz.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 2767,
+      "name": "Mace Neufeld Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 211576,
+      "name": "Robert Rehme Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3,
+      "name": "Harrison Ford",
+      "character": "Jack Ryan",
+      "order": 0,
+      "cast_id": 14,
+      "popularity": 6.4543,
+      "profile_path": "/5M7oN3sznp99hWYQ9sX0xheswWX.jpg"
+    },
+    {
+      "personId": 5293,
+      "name": "Willem Dafoe",
+      "character": "John Clark",
+      "order": 1,
+      "cast_id": 1,
+      "popularity": 6.1199,
+      "profile_path": "/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+    },
+    {
+      "personId": 22462,
+      "name": "Joaquim de Almeida",
+      "character": "Col. Felix V. Cortez",
+      "order": 2,
+      "cast_id": 16,
+      "popularity": 2.0839,
+      "profile_path": "/muXJn8kTEPxJaetkgCyS8RPEzTC.jpg"
+    },
+    {
+      "personId": 15319,
+      "name": "Henry Czerny",
+      "character": "CIA Deputy Director Robert Ritter",
+      "order": 3,
+      "cast_id": 17,
+      "popularity": 1.8631,
+      "profile_path": "/zOWZzRmliKf9032IOOq0a3jXhVv.jpg"
+    },
+    {
+      "personId": 1166,
+      "name": "Harris Yulin",
+      "character": "National Security Advisor James Cutter",
+      "order": 4,
+      "cast_id": 18,
+      "popularity": 1.9239,
+      "profile_path": "/3W758yxhdphzblpgDz4wKgLCriB.jpg"
+    },
+    {
+      "personId": 15417,
+      "name": "Donald Moffat",
+      "character": "President Bennett",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 1.7354,
+      "profile_path": "/8kZ2Ow3cPtTmDwTxL7jFEsQi4ia.jpg"
+    },
+    {
+      "personId": 30488,
+      "name": "Miguel Sandoval",
+      "character": "Ernesto Escobedo",
+      "order": 6,
+      "cast_id": 20,
+      "popularity": 1.8718,
+      "profile_path": "/v5tHxTkgOqcdWgjoEhUj0a50NIK.jpg"
+    },
+    {
+      "personId": 58650,
+      "name": "Raymond Cruz",
+      "character": "Domingo Chavez",
+      "order": 7,
+      "cast_id": 22,
+      "popularity": 2.8926,
+      "profile_path": "/ndhc53yEQeeFn01QoOxtPa6GroU.jpg"
+    },
+    {
+      "personId": 10427,
+      "name": "Anne Archer",
+      "character": "Dr. Cathy Ryan",
+      "order": 8,
+      "cast_id": 2,
+      "popularity": 2.1412,
+      "profile_path": "/y1uFANprVvJ9cCqVKSl0umIpIXw.jpg"
+    },
+    {
+      "personId": 2155,
+      "name": "Thora Birch",
+      "character": "Sally Ryan",
+      "order": 9,
+      "cast_id": 24,
+      "popularity": 2.1228,
+      "profile_path": "/m0D1wqgQeVCr7gWY7GVej7lZlwY.jpg"
+    },
+    {
+      "personId": 4589,
+      "name": "Benjamin Bratt",
+      "character": "Captain Ramirez",
+      "order": 10,
+      "cast_id": 21,
+      "popularity": 3.0389,
+      "profile_path": "/hBenHPT4iJEG2kt5z2TOGnkRZwh.jpg"
+    },
+    {
+      "personId": 40393,
+      "name": "Dean Jones",
+      "character": "Judge Moore",
+      "order": 11,
+      "cast_id": 23,
+      "popularity": 1.7894,
+      "profile_path": "/9jUcRVi2g2DSGErwzTwuZSyWGOp.jpg"
+    },
+    {
+      "personId": 37042,
+      "name": "Ann Magnuson",
+      "character": "Moira Wolfson",
+      "order": 12,
+      "cast_id": 25,
+      "popularity": 1.2365,
+      "profile_path": "/gzT97QR7Q6ZWkDttAVIpO0pyoM2.jpg"
+    },
+    {
+      "personId": 15152,
+      "name": "James Earl Jones",
+      "character": "Admiral James Greer",
+      "order": 13,
+      "cast_id": 15,
+      "popularity": 2.369,
+      "profile_path": "/oqMPIsXrl9SZkRfIKN08eFROmH6.jpg"
+    },
+    {
+      "personId": 3382,
+      "name": "Hope Lange",
+      "character": "Senator Mayo",
+      "order": 14,
+      "cast_id": 26,
+      "popularity": 1.1802,
+      "profile_path": "/lhuJRAbnSkHaOt0msbnyn6NcQuH.jpg"
+    },
+    {
+      "personId": 75201,
+      "name": "Tom Tammi",
+      "character": "FBI Director Emile Jacobs",
+      "order": 15,
+      "cast_id": 27,
+      "popularity": 1.4619,
+      "profile_path": "/7dt0iqJq6avgUKoMxM3ON4bDZoa.jpg"
+    },
+    {
+      "personId": 19974,
+      "name": "Greg Germann",
+      "character": "Petey",
+      "order": 16,
+      "cast_id": 37,
+      "popularity": 2.6925,
+      "profile_path": "/cRLbrKwasOiBj68pORvrZTPHRfB.jpg"
+    },
+    {
+      "personId": 58493,
+      "name": "Tim Grimm",
+      "character": "Dan Murray",
+      "order": 17,
+      "cast_id": 111,
+      "popularity": 0.7346,
+      "profile_path": "/iAxnwVvQpfuYQqbif6Xnrg5ppXX.jpg"
+    },
+    {
+      "personId": 152863,
+      "name": "Belita Moreno",
+      "character": "Jean Fowler",
+      "order": 18,
+      "cast_id": 112,
+      "popularity": 0.8649,
+      "profile_path": "/q0yBiYxaT4j8D818mQ5p6f3CoAV.jpg"
+    },
+    {
+      "personId": 47886,
+      "name": "Jorge Luke",
+      "character": "Sipo",
+      "order": 19,
+      "cast_id": 113,
+      "popularity": 1.1418,
+      "profile_path": "/mXifN3ki6LTgOUb2pFi3v01txpT.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 13015,
+      "name": "Phillip Noyce",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.0074,
+      "profile_path": "/6i0Or09DucNCJU9DxYv23drIrMN.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1589,
+      "name": "sniper"
+    },
+    {
+      "id": 591,
+      "name": "central intelligence agency (cia)"
+    },
+    {
+      "id": 720,
+      "name": "helicopter"
+    },
+    {
+      "id": 441,
+      "name": "assassination"
+    },
+    {
+      "id": 840,
+      "name": "usa president"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 502,
+      "name": "ambush"
+    },
+    {
+      "id": 5265,
+      "name": "espionage"
+    },
+    {
+      "id": 6078,
+      "name": "politics"
+    },
+    {
+      "id": 2149,
+      "name": "drug trafficking"
+    },
+    {
+      "id": 3070,
+      "name": "mercenary"
+    },
+    {
+      "id": 3547,
+      "name": "coast guard"
+    },
+    {
+      "id": 7336,
+      "name": "car bomb"
+    },
+    {
+      "id": 5867,
+      "name": "caravan"
+    },
+    {
+      "id": 9663,
+      "name": "sequel"
+    },
+    {
+      "id": 9596,
+      "name": "cali colombia"
+    },
+    {
+      "id": 10185,
+      "name": "covert operation"
+    },
+    {
+      "id": 10175,
+      "name": "drug cartel"
+    },
+    {
+      "id": 10950,
+      "name": "shootout"
+    },
+    {
+      "id": 14601,
+      "name": "explosion"
+    },
+    {
+      "id": 155723,
+      "name": "jack ryan"
+    },
+    {
+      "id": 156805,
+      "name": "dea agent"
+    },
+    {
+      "id": 185994,
+      "name": "ex military"
+    },
+    {
+      "id": 209817,
+      "name": "political thriller"
+    },
+    {
+      "id": 226620,
+      "name": "political cover-up"
+    },
+    {
+      "id": 286006,
+      "name": "bogota, colombia"
+    },
+    {
+      "id": 295635,
+      "name": "intelligence service"
+    },
+    {
+      "id": 326871,
+      "name": "cia analyst"
+    },
+    {
+      "id": 326874,
+      "name": "fbi director"
+    },
+    {
+      "id": 330724,
+      "name": "panama city, panama"
+    }
+  ]
+}

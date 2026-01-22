@@ -1,0 +1,251 @@
+{
+  "overview": "Raised by wild animals since childhood, Mowgli is drawn away from the jungle by the beautiful Kitty. But Mowgli must eventually face corrupt Capt. Boone, who wants both Kitty's hand and the treasures of Monkey City – a place only Mowgli can find.",
+  "release_date": "1994-12-23",
+  "runtime": 111,
+  "budget": 27000000,
+  "revenue": 53508356,
+  "tmdb_vote_average": 5.97,
+  "tmdb_vote_count": 486,
+  "tmdb_popularity": 2.1819,
+  "original_language": "en",
+  "poster_path": "/rYoE6cuup9Ofam6AuYaiJLxF9OO.jpg",
+  "backdrop_path": "/5lOwzugTtyk5aREUmMmGgK9UuuM.jpg",
+  "tmdb_genres_raw": [
+    "Family",
+    "Adventure",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 2,
+      "name": "Walt Disney Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 58319,
+      "name": "Jason Scott Lee",
+      "character": "Mowgli",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.4988,
+      "profile_path": "/7jObZCM3diuPV0WlKkzOd4uE2CJ.jpg"
+    },
+    {
+      "personId": 2130,
+      "name": "Cary Elwes",
+      "character": "Captain William Boone",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 5.9401,
+      "profile_path": "/5PAcQuB2fFzGq5fjyugNlOpndk4.jpg"
+    },
+    {
+      "personId": 17286,
+      "name": "Lena Headey",
+      "character": "Katherine 'Kitty' Brydon",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 5.5159,
+      "profile_path": "/xR2IBnBlUdyBe5hecaVdtRuQqUE.jpg"
+    },
+    {
+      "personId": 4783,
+      "name": "Sam Neill",
+      "character": "Colonel Geofferey Brydon",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 4.8638,
+      "profile_path": "/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
+    },
+    {
+      "personId": 8930,
+      "name": "John Cleese",
+      "character": "Dr. Julius Plumford",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 3.5435,
+      "profile_path": "/dhDw43v7EY52GG3Z4H8B9mr2s9p.jpg"
+    },
+    {
+      "personId": 973,
+      "name": "Jason Flemyng",
+      "character": "Wilkins",
+      "order": 5,
+      "cast_id": 19,
+      "popularity": 2.7955,
+      "profile_path": "/nYl0180ACnLzVlGbaAfuPtdGr9K.jpg"
+    },
+    {
+      "personId": 25079,
+      "name": "Stefan Kalipha",
+      "character": "Buldeo",
+      "order": 6,
+      "cast_id": 24,
+      "popularity": 0.6817,
+      "profile_path": "/vXbVVrjmCS4Gb2qyAog88bnQDgo.jpg"
+    },
+    {
+      "personId": 63141,
+      "name": "Ron Donachie",
+      "character": "Harley",
+      "order": 7,
+      "cast_id": 25,
+      "popularity": 2.2355,
+      "profile_path": "/vnBM7idgiyXoat1E8IBKGekx2GS.jpg"
+    },
+    {
+      "personId": 1088414,
+      "name": "Anirudh Agarwal",
+      "character": "Tabaqui",
+      "order": 8,
+      "cast_id": 26,
+      "popularity": 2.8777,
+      "profile_path": null
+    },
+    {
+      "personId": 57452,
+      "name": "Faran Tahir",
+      "character": "Nathoo",
+      "order": 9,
+      "cast_id": 27,
+      "popularity": 2.2066,
+      "profile_path": "/dMsD7h6KiZ5dM0f9MegXUOKnqb0.jpg"
+    },
+    {
+      "personId": 4500574,
+      "name": "Sean Naegeli",
+      "character": "Mowgli, age 5",
+      "order": 10,
+      "cast_id": 34,
+      "popularity": 0.201,
+      "profile_path": null
+    },
+    {
+      "personId": 2300840,
+      "name": "Joanna Wolff",
+      "character": "Kitty, age 5",
+      "order": 11,
+      "cast_id": 35,
+      "popularity": 0.1427,
+      "profile_path": null
+    },
+    {
+      "personId": 65145,
+      "name": "Liza Walker",
+      "character": "Alice",
+      "order": 12,
+      "cast_id": 36,
+      "popularity": 1.8987,
+      "profile_path": "/5LadGRJnYW7Jdk546pCDy3IaSP9.jpg"
+    },
+    {
+      "personId": 1334035,
+      "name": "Rachel Robertson",
+      "character": "Rose",
+      "order": 13,
+      "cast_id": 37,
+      "popularity": 1.0052,
+      "profile_path": null
+    },
+    {
+      "personId": 1063202,
+      "name": "Natalie Morse",
+      "character": "Margaret",
+      "order": 14,
+      "cast_id": 38,
+      "popularity": 1.6102,
+      "profile_path": null
+    },
+    {
+      "personId": 1602727,
+      "name": "Gerry Crampton",
+      "character": "Sgt. Major",
+      "order": 15,
+      "cast_id": 39,
+      "popularity": 0.5598,
+      "profile_path": null
+    },
+    {
+      "personId": 140769,
+      "name": "Amrik Gill",
+      "character": "Butler",
+      "order": 16,
+      "cast_id": 40,
+      "popularity": 0.4449,
+      "profile_path": null
+    },
+    {
+      "personId": 29374,
+      "name": "Rick Glassey",
+      "character": "Sgt. Claiborne",
+      "order": 17,
+      "cast_id": 41,
+      "popularity": 0.2489,
+      "profile_path": null
+    },
+    {
+      "personId": 1632302,
+      "name": "Tai the Elephant",
+      "character": "Elephant (uncredited)",
+      "order": 18,
+      "cast_id": 48,
+      "popularity": 1.191,
+      "profile_path": "/x7hEaoC3k8fMVPoNNlIURpWUTSF.jpg"
+    },
+    {
+      "personId": 2448057,
+      "name": "David Vincent Bobb",
+      "character": "British Soldier (uncredited)",
+      "order": 19,
+      "cast_id": 42,
+      "popularity": 0.3414,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 7775,
+      "name": "Stephen Sommers",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.0965,
+      "profile_path": "/wGhd7IF1Buf7qPXuC4y1t02hams.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 4809,
+      "name": "tiger"
+    },
+    {
+      "id": 5650,
+      "name": "feral child"
+    },
+    {
+      "id": 10787,
+      "name": "jungle"
+    },
+    {
+      "id": 10468,
+      "name": "bear"
+    },
+    {
+      "id": 13072,
+      "name": "falling in love"
+    }
+  ]
+}

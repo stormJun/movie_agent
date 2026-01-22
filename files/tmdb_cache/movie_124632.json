@@ -1,0 +1,92 @@
+{
+  "overview": "A dedicated music teacher in East Harlem instructs a gaggle of underprivileged children in the art of the violin. In the climax, they play Carnegie Hall with some of the world's foremost fiddlers.",
+  "release_date": "1996-10-04",
+  "runtime": 77,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 7.4,
+  "tmdb_vote_count": 5,
+  "tmdb_popularity": 0.1034,
+  "original_language": "en",
+  "poster_path": "/4XLDtVjOX9DVjEaSfuqkpaWA9xT.jpg",
+  "backdrop_path": null,
+  "tmdb_genres_raw": [
+    "Documentary",
+    "Family"
+  ],
+  "production_companies": [],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [],
+  "cast": [
+    {
+      "personId": 3269373,
+      "name": "Roberta Guaspari",
+      "character": "Self",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 0.1197,
+      "profile_path": null
+    },
+    {
+      "personId": 263197,
+      "name": "Isaac Stern",
+      "character": "Self",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 0.8434,
+      "profile_path": null
+    },
+    {
+      "personId": 166002,
+      "name": "Itzhak Perlman",
+      "character": "Self",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 0.5365,
+      "profile_path": "/yELJweqEW6lzEIKlZJNQbEZprD8.jpg"
+    },
+    {
+      "personId": 2716289,
+      "name": "Diane Monroe",
+      "character": "Self",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 0.1689,
+      "profile_path": null
+    },
+    {
+      "personId": 2020706,
+      "name": "Mark O'Connor",
+      "character": "Self",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 0.5238,
+      "profile_path": "/rU13L0vejB4Bdpo6DDmcRV0ZSDe.jpg"
+    },
+    {
+      "personId": 2120267,
+      "name": "Midori",
+      "character": "Self",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 0.1829,
+      "profile_path": "/vzyjEh11atUXSl9pAVQD7cau3RB.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1468019,
+      "name": "Allan Miller",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.9557,
+      "profile_path": null
+    }
+  ],
+  "keywords": []
+}

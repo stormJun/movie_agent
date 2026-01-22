@@ -1,0 +1,264 @@
+{
+  "overview": "Ex-soldier Frank Brayker is the guardian of an ancient key that can unlock tremendous evil; the sinister Collector is a demon who wants the key so he can initiate the apocalypse. On the run from wicked mercenaries for almost 90 years, Brayker finally stops in at a boarding house in New Mexico where — with the help of its residents — he plans to face off against the Collector and his band of ghouls, preventing them from ever seizing the key.",
+  "release_date": "1995-01-13",
+  "runtime": 93,
+  "budget": 13000000,
+  "revenue": 21089146,
+  "tmdb_vote_average": 6.879,
+  "tmdb_vote_count": 533,
+  "tmdb_popularity": 1.9839,
+  "original_language": "en",
+  "poster_path": "/8uD5yk0ECebJ59lhvhTBKhUojc.jpg",
+  "backdrop_path": "/47WfbtmsreEhNy2OzEDBxk9ZlzG.jpg",
+  "tmdb_genres_raw": [
+    "Horror",
+    "Comedy",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 69626,
+      "name": "Tales From The Crypt Holdings",
+      "origin_country": ""
+    },
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1954,
+      "name": "Billy Zane",
+      "character": "The Collector",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 5.3022,
+      "profile_path": "/7CBwxqE00aZAAEBaRkapylgdi15.jpg"
+    },
+    {
+      "personId": 6573,
+      "name": "William Sadler",
+      "character": "Frank Brayker",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 3.1185,
+      "profile_path": "/xC9sijoDnjS3oDZ5eszcGKHKAOp.jpg"
+    },
+    {
+      "personId": 9575,
+      "name": "Jada Pinkett Smith",
+      "character": "Jeryline",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.9895,
+      "profile_path": "/vt1Z1Fsu7gjp4L0OHey9Aa79lWj.jpg"
+    },
+    {
+      "personId": 30485,
+      "name": "CCH Pounder",
+      "character": "Irene",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 3.3854,
+      "profile_path": "/mr6BLDN75T8DJl9dNK3hN4YwqJa.jpg"
+    },
+    {
+      "personId": 32290,
+      "name": "Brenda Bakke",
+      "character": "Cordelia",
+      "order": 4,
+      "cast_id": 4,
+      "popularity": 2.7627,
+      "profile_path": "/nCef3oKQVRsCi95s8fpUH9IXRsx.jpg"
+    },
+    {
+      "personId": 102441,
+      "name": "Dick Miller",
+      "character": "Uncle Willy",
+      "order": 5,
+      "cast_id": 11,
+      "popularity": 1.5725,
+      "profile_path": "/zyQXh8BkLg0DDo23pxJN2dy6Bqj.jpg"
+    },
+    {
+      "personId": 19159,
+      "name": "Thomas Haden Church",
+      "character": "Roach",
+      "order": 6,
+      "cast_id": 12,
+      "popularity": 3.2734,
+      "profile_path": "/74NK9HCYvNafMggSp1PAK5Nwkpe.jpg"
+    },
+    {
+      "personId": 24046,
+      "name": "John Schuck",
+      "character": "Sheriff Tupper",
+      "order": 7,
+      "cast_id": 13,
+      "popularity": 2.2797,
+      "profile_path": "/iDV2CsyMbOWe6x70jARVklPz9qo.jpg"
+    },
+    {
+      "personId": 15439,
+      "name": "Gary Farmer",
+      "character": "Deputy Bob Martel",
+      "order": 8,
+      "cast_id": 14,
+      "popularity": 1.6737,
+      "profile_path": "/jGzbxhmJUZBLk3MblowFm6iI1m2.jpg"
+    },
+    {
+      "personId": 12826,
+      "name": "Charles Fleischer",
+      "character": "Wally Enfield",
+      "order": 9,
+      "cast_id": 15,
+      "popularity": 1.7581,
+      "profile_path": "/go7hUIC6mE2Tc0oy1pHeEqjlO3U.jpg"
+    },
+    {
+      "personId": 956719,
+      "name": "Tim DeZarn",
+      "character": "Homer",
+      "order": 10,
+      "cast_id": 16,
+      "popularity": 1.4059,
+      "profile_path": "/tduRqomAU3LARfuDa2OMKFAd1rR.jpg"
+    },
+    {
+      "personId": 43068,
+      "name": "Sherrie Rose",
+      "character": "Wanda",
+      "order": 11,
+      "cast_id": 17,
+      "popularity": 0.8319,
+      "profile_path": "/7RRTbEcwe2MnjpvqMCZLOWimqkg.jpg"
+    },
+    {
+      "personId": 31365,
+      "name": "John Kassir",
+      "character": "Crypt Keeper (voice)",
+      "order": 12,
+      "cast_id": 10,
+      "popularity": 1.617,
+      "profile_path": "/byj6Px0tLcqRFWIJYUxstg25Qd2.jpg"
+    },
+    {
+      "personId": 166406,
+      "name": "Ryan O'Donohue",
+      "character": "Danny",
+      "order": 13,
+      "cast_id": 18,
+      "popularity": 0.8995,
+      "profile_path": null
+    },
+    {
+      "personId": 1108092,
+      "name": "Tony Salome",
+      "character": "Sirach",
+      "order": 14,
+      "cast_id": 19,
+      "popularity": 0.2093,
+      "profile_path": null
+    },
+    {
+      "personId": 544069,
+      "name": "Chasey Lain",
+      "character": "Party Babe",
+      "order": 15,
+      "cast_id": 20,
+      "popularity": 8.684,
+      "profile_path": "/zA9ujFFefeyEbk4I5Mcg2xZtva1.jpg"
+    },
+    {
+      "personId": 97780,
+      "name": "Traci Bingham",
+      "character": "Party Babe",
+      "order": 16,
+      "cast_id": 21,
+      "popularity": 1.7814,
+      "profile_path": "/fMchPm4ZHKWf0coApyHh9aFkSiO.jpg"
+    },
+    {
+      "personId": 1371638,
+      "name": "Te-See Bender",
+      "character": "Party Babe",
+      "order": 17,
+      "cast_id": 44,
+      "popularity": 0.3156,
+      "profile_path": null
+    },
+    {
+      "personId": 2833304,
+      "name": "Ponti Butler",
+      "character": "Party Babe",
+      "order": 18,
+      "cast_id": 45,
+      "popularity": 0.0516,
+      "profile_path": null
+    },
+    {
+      "personId": 2701065,
+      "name": "Reda Beebe",
+      "character": "Party Babe",
+      "order": 19,
+      "cast_id": 43,
+      "popularity": 0.3635,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 15521,
+      "name": "Ernest R. Dickerson",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.717,
+      "profile_path": "/iF1jgMI2b8Q2crFPCk5IaGUBdND.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 549,
+      "name": "prostitute"
+    },
+    {
+      "id": 2849,
+      "name": "key"
+    },
+    {
+      "id": 4238,
+      "name": "chosen one"
+    },
+    {
+      "id": 9717,
+      "name": "based on comic"
+    },
+    {
+      "id": 9649,
+      "name": "god"
+    },
+    {
+      "id": 15001,
+      "name": "demon"
+    },
+    {
+      "id": 175360,
+      "name": "crypt keeper"
+    }
+  ]
+}

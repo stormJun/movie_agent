@@ -1,0 +1,255 @@
+{
+  "overview": "Con man Ray is going after one last heist – a stash of rare coins – when his estranged son Timmy unexpectedly shows up. Ray is too preoccupied with his robbery to spend time with his son, so Timmy blackmails him into acting like a father, hiding the coins and promises to return them only after Ray takes him to amusement parks and baseball games.",
+  "release_date": "1994-06-17",
+  "runtime": 109,
+  "budget": 30000000,
+  "revenue": 53769594,
+  "tmdb_vote_average": 5.311,
+  "tmdb_vote_count": 214,
+  "tmdb_popularity": 1.0681,
+  "original_language": "en",
+  "poster_path": "/txsmdQqbgSz5Zu3rgd9fglMqKA4.jpg",
+  "backdrop_path": "/570uxNdyVeeeEQ8Hi8R0tFJPomJ.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Crime",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11510,
+      "name": "Macaulay Culkin",
+      "character": "Timmy Gleason",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 6.3331,
+      "profile_path": "/5We9Y4zUJ5TUnRgfmkzWQx0mLIF.jpg"
+    },
+    {
+      "personId": 12836,
+      "name": "Ted Danson",
+      "character": "Raymond 'Ray' Gleason",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 4.7448,
+      "profile_path": "/2QUEYVhrKbOkRKeFEUnc5sJby6a.jpg"
+    },
+    {
+      "personId": 21104,
+      "name": "Glenne Headly",
+      "character": "Detective Theresa Walsh",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.1512,
+      "profile_path": "/4z9baWyXNdW8rFSVgPJK7wrGzVF.jpg"
+    },
+    {
+      "personId": 3712,
+      "name": "Saul Rubinek",
+      "character": "Robert 'Bobby' Drace",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.09,
+      "profile_path": "/oQQxpxDo7mULPsjhrPLFiZ6e2Ca.jpg"
+    },
+    {
+      "personId": 2886,
+      "name": "Gailard Sartain",
+      "character": "Carl",
+      "order": 4,
+      "cast_id": 10,
+      "popularity": 1.7557,
+      "profile_path": "/oYCs7TlrvnwcNujQ2yzG4x7fz7f.jpg"
+    },
+    {
+      "personId": 5176,
+      "name": "Sam McMurray",
+      "character": "Alex",
+      "order": 5,
+      "cast_id": 30,
+      "popularity": 2.2405,
+      "profile_path": "/pbZSG0hprUcRkUF3q4NUUzvQX3E.jpg"
+    },
+    {
+      "personId": 1210,
+      "name": "Héctor Elizondo",
+      "character": "Lt. G. Romayko",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 3.1113,
+      "profile_path": "/7Mfx9xeOFKXtzVpAc1488LiHs0b.jpg"
+    },
+    {
+      "personId": 27447,
+      "name": "Sydney Walker",
+      "character": "Mr. Wankmueller",
+      "order": 7,
+      "cast_id": 31,
+      "popularity": 1.0359,
+      "profile_path": "/1cpTr6tdsJYsdxExkIyoukZuVKb.jpg"
+    },
+    {
+      "personId": 42335,
+      "name": "Kathleen Wilhoite",
+      "character": "Kitty",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 2.5538,
+      "profile_path": "/aZAAeuvWxE6bOpm9v2vZ2A0NCjq.jpg"
+    },
+    {
+      "personId": 9175,
+      "name": "Dann Florek",
+      "character": "Wayne",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 1.8743,
+      "profile_path": "/qVi8ah5m5OP2Jc3DwqGePa5YxDE.jpg"
+    },
+    {
+      "personId": 85170,
+      "name": "Ron Canada",
+      "character": "Zinn",
+      "order": 10,
+      "cast_id": 32,
+      "popularity": 1.77,
+      "profile_path": "/2B8fFweT0PGcA1sj3duMzPpLgD6.jpg"
+    },
+    {
+      "personId": 197036,
+      "name": "Ralph Peduto",
+      "character": "Chapman",
+      "order": 11,
+      "cast_id": 33,
+      "popularity": 1.4754,
+      "profile_path": "/biIsr7sIHJxUP8KY2Y0ZNc5qY6H.jpg"
+    },
+    {
+      "personId": 1653778,
+      "name": "Bert Kinyon",
+      "character": "Guard",
+      "order": 12,
+      "cast_id": 34,
+      "popularity": 0.1627,
+      "profile_path": null
+    },
+    {
+      "personId": 2154963,
+      "name": "Melvin Thompson",
+      "character": "Guard",
+      "order": 13,
+      "cast_id": 35,
+      "popularity": 0.089,
+      "profile_path": null
+    },
+    {
+      "personId": 5503979,
+      "name": "Danny James Hunter",
+      "character": "Armored Car Driver",
+      "order": 14,
+      "cast_id": 36,
+      "popularity": 0.0643,
+      "profile_path": null
+    },
+    {
+      "personId": 5503980,
+      "name": "Suzanne Lime",
+      "character": "Secretary at Elevator",
+      "order": 15,
+      "cast_id": 37,
+      "popularity": 0.0071,
+      "profile_path": null
+    },
+    {
+      "personId": 3676971,
+      "name": "Mary Dilts",
+      "character": "T.V. Reporter",
+      "order": 16,
+      "cast_id": 38,
+      "popularity": 0.2095,
+      "profile_path": null
+    },
+    {
+      "personId": 3044,
+      "name": "Scott Beach",
+      "character": "Wino",
+      "order": 17,
+      "cast_id": 39,
+      "popularity": 1.8237,
+      "profile_path": "/5Y3SbZeqOcw2w5KUUwnUjGoir6b.jpg"
+    },
+    {
+      "personId": 157452,
+      "name": "Wil Albert",
+      "character": "Docent",
+      "order": 18,
+      "cast_id": 40,
+      "popularity": 0.5754,
+      "profile_path": null
+    },
+    {
+      "personId": 64200,
+      "name": "David Kagen",
+      "character": "Little League Coach",
+      "order": 19,
+      "cast_id": 41,
+      "popularity": 1.3125,
+      "profile_path": "/rSWoYVqOYjjcDobBAmqRrDXDfCV.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 26502,
+      "name": "Howard Deutch",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7205,
+      "profile_path": "/9MOjJAkLZHET0IrKsV6ysUryfs7.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1936,
+      "name": "blackmail"
+    },
+    {
+      "id": 3202,
+      "name": "con man"
+    },
+    {
+      "id": 10051,
+      "name": "heist"
+    },
+    {
+      "id": 240119,
+      "name": "father son relationship"
+    },
+    {
+      "id": 338628,
+      "name": "crime comedy"
+    },
+    {
+      "id": 342295,
+      "name": "father son estrangement"
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "overview": "Seven junior-high-school girls organize a daycare camp for children while at the same time experiencing classic adolescent growing pains.",
+  "release_date": "1995-08-18",
+  "runtime": 94,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.351,
+  "tmdb_vote_count": 97,
+  "tmdb_popularity": 0.8339,
+  "original_language": "en",
+  "poster_path": "/gJ5caIjtASchaTFx2VJr6drFYBx.jpg",
+  "backdrop_path": "/gmLnYsIxrF9JQgzp8sTu8urZxdr.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "production_companies": [
+    {
+      "id": 10157,
+      "name": "Beacon Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1938,
+      "name": "Scholastic Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 70852,
+      "name": "Schuyler Fisk",
+      "character": "Kristy",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 0.9625,
+      "profile_path": "/5nQajFEGYNH8IeVhbWMKdF4lxu8.jpg"
+    },
+    {
+      "personId": 131934,
+      "name": "Bre Blair",
+      "character": "Stacey",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.6339,
+      "profile_path": "/nDrqKb2I800qJ3UmME6FJEVOq0P.jpg"
+    },
+    {
+      "personId": 38581,
+      "name": "Rachael Leigh Cook",
+      "character": "Mary Anne",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.6204,
+      "profile_path": "/xmKFPYw8OcN7g7B3zU1ZJOVKfqC.jpg"
+    },
+    {
+      "personId": 40978,
+      "name": "Larisa Oleynik",
+      "character": "Dawn",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.8866,
+      "profile_path": "/i3W6ztn8kTKAaZoLS77Tz9GhP7C.jpg"
+    },
+    {
+      "personId": 2441102,
+      "name": "Tricia Joe",
+      "character": "Claudia",
+      "order": 4,
+      "cast_id": 40,
+      "popularity": 0.1911,
+      "profile_path": null
+    },
+    {
+      "personId": 1748010,
+      "name": "Stacy Linn Ramsower",
+      "character": "Mallory",
+      "order": 5,
+      "cast_id": 41,
+      "popularity": 0.2363,
+      "profile_path": null
+    },
+    {
+      "personId": 112037,
+      "name": "Zelda Harris",
+      "character": "Jessi",
+      "order": 6,
+      "cast_id": 6,
+      "popularity": 1.0788,
+      "profile_path": "/qM8KVXyWGGCP4y1jF1CfgOrMLrb.jpg"
+    },
+    {
+      "personId": 130104,
+      "name": "Vanessa Zima",
+      "character": "Rosie Wilder",
+      "order": 7,
+      "cast_id": 7,
+      "popularity": 0.7305,
+      "profile_path": "/kPDxACVOUF0Cd6cdSFYqSS90qEg.jpg"
+    },
+    {
+      "personId": 114034,
+      "name": "Christian Oliver",
+      "character": "Luca",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 1.3424,
+      "profile_path": "/7cHaxpXUMHTMpEaCf90W9GmP2NZ.jpg"
+    },
+    {
+      "personId": 69054,
+      "name": "Brooke Adams",
+      "character": "Elizabeth Thomas Brewer",
+      "order": 9,
+      "cast_id": 8,
+      "popularity": 2.3036,
+      "profile_path": "/qF0ttWN6X44GIQIzOUFVYh3IOcX.jpg"
+    },
+    {
+      "personId": 52374,
+      "name": "Bruce Davison",
+      "character": "Watson",
+      "order": 10,
+      "cast_id": 9,
+      "popularity": 2.5524,
+      "profile_path": "/41JtouCUhnnBwWmdsemPydtk3FB.jpg"
+    },
+    {
+      "personId": 3184837,
+      "name": "Jessica Needham",
+      "character": "Karen",
+      "order": 11,
+      "cast_id": 42,
+      "popularity": 0.0363,
+      "profile_path": null
+    },
+    {
+      "personId": 9560,
+      "name": "Ellen Burstyn",
+      "character": "Mrs. Haberman",
+      "order": 12,
+      "cast_id": 10,
+      "popularity": 3.8134,
+      "profile_path": "/uEHZoAtCnGCXvQDHe3s3DWW2G1c.jpg"
+    },
+    {
+      "personId": 154047,
+      "name": "Asher Metchik",
+      "character": "Jackie Rodowsky",
+      "order": 13,
+      "cast_id": 43,
+      "popularity": 0.4521,
+      "profile_path": null
+    },
+    {
+      "personId": 58119,
+      "name": "Austin O'Brien",
+      "character": "Logan Bruno",
+      "order": 14,
+      "cast_id": 11,
+      "popularity": 1.8865,
+      "profile_path": "/IQypQEGa3HNv5Eg5PxcKt3BnaL.jpg"
+    },
+    {
+      "personId": 80109,
+      "name": "Marla Sokoloff",
+      "character": "Cokie Mason",
+      "order": 15,
+      "cast_id": 18,
+      "popularity": 2.0054,
+      "profile_path": "/8BKFL66gVvKrRbXvd6ME9REUMld.jpg"
+    },
+    {
+      "personId": 133385,
+      "name": "Ashlee Turner",
+      "character": "Bebe",
+      "order": 16,
+      "cast_id": 44,
+      "popularity": 1.1841,
+      "profile_path": "/2qcn2PFnVgvCQ6bwwbkTlDp3Av1.jpg"
+    },
+    {
+      "personId": 1213531,
+      "name": "Natanya Ross",
+      "character": "Grace",
+      "order": 17,
+      "cast_id": 45,
+      "popularity": 0.8049,
+      "profile_path": null
+    },
+    {
+      "personId": 3184841,
+      "name": "Katie Earle",
+      "character": "Nina Marshall",
+      "order": 18,
+      "cast_id": 46,
+      "popularity": 0.0143,
+      "profile_path": null
+    },
+    {
+      "personId": 1219316,
+      "name": "Scarlett Pomers",
+      "character": "Suzi Barrett",
+      "order": 19,
+      "cast_id": 47,
+      "popularity": 1.811,
+      "profile_path": "/AkBUpfXdRIujxOdoYIsfNjcrY53.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 83313,
+      "name": "Melanie Mayron",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1387,
+      "profile_path": "/p2dBLbvDR0tg1JyB7S27YPJ7lNo.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 9713,
+      "name": "friends"
+    },
+    {
+      "id": 11663,
+      "name": "camp"
+    },
+    {
+      "id": 13088,
+      "name": "summer"
+    },
+    {
+      "id": 156801,
+      "name": "club"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    },
+    {
+      "id": 208721,
+      "name": "summer school"
+    }
+  ]
+}

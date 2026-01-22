@@ -1,0 +1,246 @@
+{
+  "overview": "A tale of the World War I love affair, begun in Italy, between American ambulance driver Lt. Frederic Henry and British nurse Catherine Barkley. Eventually separated by Frederic's transfer, tremendous challenges and difficult decisions face each as the war rages on.",
+  "release_date": "1932-12-08",
+  "runtime": 89,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.1,
+  "tmdb_vote_count": 152,
+  "tmdb_popularity": 0.8514,
+  "original_language": "en",
+  "poster_path": "/eNmPByGZJqlp60nCZRhsAlVAb3F.jpg",
+  "backdrop_path": "/ek1883HwUWzFliDaE6FAmJ8XoXi.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance",
+    "War"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 47439,
+      "name": "Helen Hayes",
+      "character": "Catherine Barkley",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 0.956,
+      "profile_path": "/i1mqaJOQG9TBVBZjn8No70GeGhE.jpg"
+    },
+    {
+      "personId": 4068,
+      "name": "Gary Cooper",
+      "character": "Lt. Frederic Henry",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.1061,
+      "profile_path": "/9qVldt5g8g3lQBu81nd05Hg2MNP.jpg"
+    },
+    {
+      "personId": 14563,
+      "name": "Adolphe Menjou",
+      "character": "Major Rinaldi",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 0.6733,
+      "profile_path": "/88FfjxT3cFDIbCIK0UmwyjEF6tU.jpg"
+    },
+    {
+      "personId": 48960,
+      "name": "Mary Philips",
+      "character": "Helen Ferguson",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.137,
+      "profile_path": "/seFakubSAT4uEsd3N9uUjxvrfm4.jpg"
+    },
+    {
+      "personId": 99347,
+      "name": "Jack La Rue",
+      "character": "Priest",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 0.5307,
+      "profile_path": "/wskA4CUxsCtRHiEI63FTAkkDXAL.jpg"
+    },
+    {
+      "personId": 30159,
+      "name": "Blanche Friderici",
+      "character": "Head Nurse",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 0.8146,
+      "profile_path": "/90ib22RRJwUCJROHwGY8W8N5g9R.jpg"
+    },
+    {
+      "personId": 81941,
+      "name": "Mary Forbes",
+      "character": "Miss Van Campen",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 0.6102,
+      "profile_path": "/isDdXLe2kV64u5ZwhKnPiSsTczy.jpg"
+    },
+    {
+      "personId": 95757,
+      "name": "Gilbert Emery",
+      "character": "British Major",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 2.5663,
+      "profile_path": "/b7x1gNbhJzZ11BdPelPwX7zxUct.jpg"
+    },
+    {
+      "personId": 95725,
+      "name": "Henry Armetta",
+      "character": "Bonello the Ambulance Driver (uncredited)",
+      "order": 8,
+      "cast_id": 38,
+      "popularity": 0.3488,
+      "profile_path": "/9Bvd4g9QaFoMtYm3VYpJeAa9R3I.jpg"
+    },
+    {
+      "personId": 9084,
+      "name": "Herman Bing",
+      "character": "Swiss Postal Clerk (uncredited)",
+      "order": 9,
+      "cast_id": 39,
+      "popularity": 0.6129,
+      "profile_path": "/62SmiO7zFXABLqJeKbLjIjc0FHl.jpg"
+    },
+    {
+      "personId": 1016595,
+      "name": "Agostino Borgato",
+      "character": "Hospital Porter Giulio (uncredited)",
+      "order": 10,
+      "cast_id": 34,
+      "popularity": 0.9144,
+      "profile_path": null
+    },
+    {
+      "personId": 106092,
+      "name": "Marcelle Corday",
+      "character": "Swiss Nurse (uncredited)",
+      "order": 11,
+      "cast_id": 35,
+      "popularity": 0.3408,
+      "profile_path": "/lNZi5U11Sa2RctHfgOZqu3VN1Oq.jpg"
+    },
+    {
+      "personId": 9096,
+      "name": "Gino Corrado",
+      "character": "Italian Soldier (uncredited)",
+      "order": 12,
+      "cast_id": 40,
+      "popularity": 0.6164,
+      "profile_path": "/f4FxGEcWMoRcBbArEvYCxy7QSk7.jpg"
+    },
+    {
+      "personId": 97225,
+      "name": "William Irving",
+      "character": "Frustrated Opera Singing Friend (uncredited)",
+      "order": 13,
+      "cast_id": 36,
+      "popularity": 0.7954,
+      "profile_path": "/iiqaGctkt114uqhBeAycqUNRbe0.jpg"
+    },
+    {
+      "personId": 21878,
+      "name": "Doris Lloyd",
+      "character": "Nurse (uncredited)",
+      "order": 14,
+      "cast_id": 37,
+      "popularity": 1.1519,
+      "profile_path": "/fBK3svuhA9YpWRtD6EHMJMd7YC4.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 14855,
+      "name": "Frank Borzage",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5131,
+      "profile_path": "/ban01OL4OFBDHsWkq4lEPWEtzbi.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 10685,
+      "name": "escape"
+    },
+    {
+      "id": 428,
+      "name": "nurse"
+    },
+    {
+      "id": 2504,
+      "name": "world war i"
+    },
+    {
+      "id": 131,
+      "name": "italy"
+    },
+    {
+      "id": 3725,
+      "name": "pregnancy"
+    },
+    {
+      "id": 3452,
+      "name": "love letter"
+    },
+    {
+      "id": 10093,
+      "name": "priest"
+    },
+    {
+      "id": 11612,
+      "name": "hospital"
+    },
+    {
+      "id": 12392,
+      "name": "best friend"
+    },
+    {
+      "id": 156764,
+      "name": "pre-code"
+    },
+    {
+      "id": 158547,
+      "name": "air raid"
+    },
+    {
+      "id": 185037,
+      "name": "battle of the isonzo"
+    },
+    {
+      "id": 190012,
+      "name": "deathbed"
+    },
+    {
+      "id": 233360,
+      "name": "air attack"
+    }
+  ]
+}

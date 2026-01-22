@@ -1,0 +1,122 @@
+{
+  "overview": "Five young marines on a suicide mission in Vietnam, struggle for survival in a jungle minefield. The mean streets of home did not prepare them for this.",
+  "release_date": "1995-02-24",
+  "runtime": 88,
+  "budget": 0,
+  "revenue": 6014541,
+  "tmdb_vote_average": 5.793,
+  "tmdb_vote_count": 29,
+  "tmdb_popularity": 0.437,
+  "original_language": "en",
+  "poster_path": "/c0RtcIN4oSzSZoNs0nJMevfGYS4.jpg",
+  "backdrop_path": "/rVGuvGbS1D2fuENKcVWTwFqEmAp.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "War"
+  ],
+  "production_companies": [
+    {
+      "id": 37350,
+      "name": "Jackson-McHenry Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 11308,
+      "name": "Savoy Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 23808,
+      "name": "Price Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 32486,
+      "name": "Allen Payne",
+      "character": "Cole Evans",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.6565,
+      "profile_path": "/fGma6p1NUrb3hYYls4zxneNcyAa.jpg"
+    },
+    {
+      "personId": 62842,
+      "name": "Eddie Griffin",
+      "character": "Pvt. Hoover Brache",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.0927,
+      "profile_path": "/xPiiT0BnxpG04Xqmj6PciBC0o7I.jpg"
+    },
+    {
+      "personId": 3977,
+      "name": "Joe Morton",
+      "character": "Sgt. Barkley",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.7427,
+      "profile_path": "/w7rGWWSGKWWukojLbZOQJ5yh9jv.jpg"
+    },
+    {
+      "personId": 95797,
+      "name": "Vonte Sweet",
+      "character": "Pfc. Joe Brooks",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 1.6844,
+      "profile_path": "/v5sJKJVztgNEjz4yOCQYoAAz1pB.jpg"
+    },
+    {
+      "personId": 182136,
+      "name": "Roger Floyd",
+      "character": "Cpl. Pippins",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 0.4237,
+      "profile_path": "/dieJbJ5xhdS2xHxwsP82o7GgxpB.jpg"
+    },
+    {
+      "personId": 84208,
+      "name": "Ion Overman",
+      "character": "Shirley Evans",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 0.754,
+      "profile_path": "/5biy566sSd2F7TD1GTZnmcw6IiE.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 76705,
+      "name": "Preston A. Whitmore II",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.9674,
+      "profile_path": "/il0jnnZCDJ1nxNRFYlNnM6OVcmp.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2956,
+      "name": "vietnam"
+    },
+    {
+      "id": 10787,
+      "name": "jungle"
+    }
+  ]
+}

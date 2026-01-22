@@ -1,0 +1,324 @@
+{
+  "overview": "A scientist in a surrealist society kidnaps children to steal their dreams, hoping that they slow his aging process.",
+  "release_date": "1995-05-17",
+  "runtime": 112,
+  "budget": 18000000,
+  "revenue": 1738611,
+  "tmdb_vote_average": 7.245,
+  "tmdb_vote_count": 1175,
+  "tmdb_popularity": 2.1834,
+  "original_language": "fr",
+  "poster_path": "/whwT3Q9JxbAYzEc3t7uYYcCbTMf.jpg",
+  "backdrop_path": "/yDjsUoEANHggKFabkAyTu3Y9j4N.jpg",
+  "tmdb_genres_raw": [
+    "Fantasy",
+    "Science Fiction",
+    "Adventure"
+  ],
+  "production_companies": [
+    {
+      "id": 25021,
+      "name": "Constellation",
+      "origin_country": "FR"
+    },
+    {
+      "id": 25129,
+      "name": "Lumière Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 183,
+      "name": "Le Studio Canal+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 591,
+      "name": "France 3 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 12009,
+      "name": "Elías Querejeta PC",
+      "origin_country": "ES"
+    },
+    {
+      "id": 1469,
+      "name": "Tele München",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "ES",
+      "name": "Spain"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2372,
+      "name": "Ron Perlman",
+      "character": "One",
+      "order": 0,
+      "cast_id": 24,
+      "popularity": 6.2703,
+      "profile_path": "/pOgMRdJhbBsvwGLRFXPRASTfcay.jpg"
+    },
+    {
+      "personId": 2413,
+      "name": "Dominique Pinon",
+      "character": "The Diver / The Clones",
+      "order": 1,
+      "cast_id": 25,
+      "popularity": 1.3194,
+      "profile_path": "/rIPUhNwGSglgKLgMQWz0JNCqIzf.jpg"
+    },
+    {
+      "personId": 13842,
+      "name": "Judith Vittet",
+      "character": "Miette",
+      "order": 2,
+      "cast_id": 26,
+      "popularity": 0.4006,
+      "profile_path": "/r6AfpAMcnMqCvTROmXlSQIGWx2H.jpg"
+    },
+    {
+      "personId": 13843,
+      "name": "Daniel Emilfork",
+      "character": "Krank",
+      "order": 3,
+      "cast_id": 27,
+      "popularity": 0.758,
+      "profile_path": "/nMu4muxktiEHfy8811fhAwAqrEv.jpg"
+    },
+    {
+      "personId": 13687,
+      "name": "Jean-Claude Dreyfus",
+      "character": "Marcello",
+      "order": 4,
+      "cast_id": 28,
+      "popularity": 0.7889,
+      "profile_path": "/s38aGneCsrxBj0YrBZBqv0uD9qU.jpg"
+    },
+    {
+      "personId": 13845,
+      "name": "Geneviève Brunet",
+      "character": "The Octopus",
+      "order": 5,
+      "cast_id": 29,
+      "popularity": 0.4387,
+      "profile_path": "/hXahO0pe0kdU50W2Km3DoP6bcH3.jpg"
+    },
+    {
+      "personId": 13846,
+      "name": "Odile Mallet",
+      "character": "The Octopus",
+      "order": 6,
+      "cast_id": 30,
+      "popularity": 0.96,
+      "profile_path": null
+    },
+    {
+      "personId": 4394,
+      "name": "Mireille Mossé",
+      "character": "Miss Bismuth",
+      "order": 7,
+      "cast_id": 31,
+      "popularity": 0.5895,
+      "profile_path": null
+    },
+    {
+      "personId": 2410,
+      "name": "Serge Merlin",
+      "character": "Gabriel Marie",
+      "order": 8,
+      "cast_id": 32,
+      "popularity": 1.4464,
+      "profile_path": "/90Kwb8hfORDXcEeA1lzikAubcQe.jpg"
+    },
+    {
+      "personId": 2407,
+      "name": "Rufus",
+      "character": "Peeler",
+      "order": 9,
+      "cast_id": 33,
+      "popularity": 1.0378,
+      "profile_path": "/aC6rEJrBgCNjeG6vetJPBdgj5h3.jpg"
+    },
+    {
+      "personId": 13689,
+      "name": "Ticky Holgado",
+      "character": "Ex-Acrobat",
+      "order": 10,
+      "cast_id": 34,
+      "popularity": 0.9703,
+      "profile_path": "/lWrhoM6snzSFi22B401iiXRUUoi.jpg"
+    },
+    {
+      "personId": 100861,
+      "name": "Cris Huerta",
+      "character": "Father",
+      "order": 11,
+      "cast_id": 39,
+      "popularity": 0.6066,
+      "profile_path": "/nqhksVqJnSCrpJ559OuHj6N70d3.jpg"
+    },
+    {
+      "personId": 1352,
+      "name": "Jean-Louis Trintignant",
+      "character": "L'oncle Irvin (voice)",
+      "order": 12,
+      "cast_id": 40,
+      "popularity": 1.0605,
+      "profile_path": "/5mn1drA8ch9KjMlSRNzAdFrRpGV.jpg"
+    },
+    {
+      "personId": 1653016,
+      "name": "Joseph Lucien",
+      "character": "Denree",
+      "order": 13,
+      "cast_id": 41,
+      "popularity": 0.1171,
+      "profile_path": null
+    },
+    {
+      "personId": 103119,
+      "name": "Mapi Galán",
+      "character": "Lune",
+      "order": 14,
+      "cast_id": 42,
+      "popularity": 2.1078,
+      "profile_path": "/9F0Zj2ceDVln5sV29OUdf5niWoZ.jpg"
+    },
+    {
+      "personId": 1653017,
+      "name": "Briac Barthélémy",
+      "character": "Bottle",
+      "order": 15,
+      "cast_id": 43,
+      "popularity": 0.1299,
+      "profile_path": null
+    },
+    {
+      "personId": 1653018,
+      "name": "Pierre-Quentin Faesch",
+      "character": "Pipo",
+      "order": 16,
+      "cast_id": 44,
+      "popularity": 1.1468,
+      "profile_path": null
+    },
+    {
+      "personId": 131998,
+      "name": "Alexis Pivot",
+      "character": "Tadpole",
+      "order": 17,
+      "cast_id": 45,
+      "popularity": 0.1405,
+      "profile_path": "/gFZK0XgKhmWiKWtGuYqeCMILtGq.jpg"
+    },
+    {
+      "personId": 77904,
+      "name": "François Hadji-Lazaro",
+      "character": "Killer",
+      "order": 18,
+      "cast_id": 46,
+      "popularity": 1.4526,
+      "profile_path": "/mSwNnb09uLwXFO6YqlKQkZ0zi8n.jpg"
+    },
+    {
+      "personId": 28462,
+      "name": "Dominique Bettenfeld",
+      "character": "Bogdan",
+      "order": 19,
+      "cast_id": 47,
+      "popularity": 0.8881,
+      "profile_path": "/znvFhNFd3tG6MrKIibPP2KeW4Wp.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2419,
+      "name": "Jean-Pierre Jeunet",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.2063,
+      "profile_path": "/4DhPaNaxYnkgxVJHVLyL5gKmKpG.jpg"
+    },
+    {
+      "personId": 13680,
+      "name": "Marc Caro",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.4801,
+      "profile_path": "/efDW1xahbkZYBiZRVf8nMS2UfjU.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 10084,
+      "name": "rescue"
+    },
+    {
+      "id": 6054,
+      "name": "friendship"
+    },
+    {
+      "id": 2041,
+      "name": "island"
+    },
+    {
+      "id": 1566,
+      "name": "dreams"
+    },
+    {
+      "id": 402,
+      "name": "clone"
+    },
+    {
+      "id": 4565,
+      "name": "dystopia"
+    },
+    {
+      "id": 4484,
+      "name": "eye"
+    },
+    {
+      "id": 4995,
+      "name": "aging"
+    },
+    {
+      "id": 10028,
+      "name": "steampunk"
+    },
+    {
+      "id": 157955,
+      "name": "childhood"
+    },
+    {
+      "id": 170865,
+      "name": "child kidnapping"
+    },
+    {
+      "id": 204846,
+      "name": "flea"
+    }
+  ]
+}

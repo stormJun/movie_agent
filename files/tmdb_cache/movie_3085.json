@@ -1,0 +1,322 @@
+{
+  "overview": "Walter Burns is an irresistibly conniving newspaper publisher desperate to woo back his paper’s star reporter, who also happens to be his estranged wife. She’s threatening to quit and settle down with a new beau, but, as Walter knows, she has a weakness: she can’t resist a juicy scoop.",
+  "release_date": "1940-01-18",
+  "runtime": 92,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 7.4,
+  "tmdb_vote_count": 897,
+  "tmdb_popularity": 1.3255,
+  "original_language": "en",
+  "poster_path": "/lu86Y9zTPH3neCiUzLzHCEFHf7f.jpg",
+  "backdrop_path": "/ihoQaiMFAz4YCTAaSIsQjRknsNH.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 30233,
+      "name": "Rosalind Russell",
+      "character": "Hildy Johnson",
+      "order": 0,
+      "cast_id": 11,
+      "popularity": 1.2426,
+      "profile_path": "/rM7cjXZv9ikJ3QOOqK2muzMhHsE.jpg"
+    },
+    {
+      "personId": 2638,
+      "name": "Cary Grant",
+      "character": "Walter Burns",
+      "order": 1,
+      "cast_id": 10,
+      "popularity": 2.8189,
+      "profile_path": "/oF5Vj64OEEDAy7DzpBP0W8fSwC6.jpg"
+    },
+    {
+      "personId": 1208,
+      "name": "Ralph Bellamy",
+      "character": "Bruce Baldwin",
+      "order": 2,
+      "cast_id": 12,
+      "popularity": 2.188,
+      "profile_path": "/vC6cdrUUewgurTlVXt36eRAtQKb.jpg"
+    },
+    {
+      "personId": 30234,
+      "name": "Gene Lockhart",
+      "character": "Sheriff Hartwell",
+      "order": 3,
+      "cast_id": 13,
+      "popularity": 0.7091,
+      "profile_path": "/8lSQRefIA5kNylZOF7anexkDxqQ.jpg"
+    },
+    {
+      "personId": 30237,
+      "name": "Clarence Kolb",
+      "character": "Mayor",
+      "order": 4,
+      "cast_id": 17,
+      "popularity": 0.7153,
+      "profile_path": "/yXKI1161lk7bi5OPma3MkJhSAm3.jpg"
+    },
+    {
+      "personId": 4119,
+      "name": "John Qualen",
+      "character": "Earl Williams",
+      "order": 5,
+      "cast_id": 24,
+      "popularity": 1.2486,
+      "profile_path": "/aMuzXYaBmblQm95JxHZrmseeIYh.jpg"
+    },
+    {
+      "personId": 30241,
+      "name": "Helen Mack",
+      "character": "Mollie Malloy",
+      "order": 6,
+      "cast_id": 23,
+      "popularity": 0.6685,
+      "profile_path": "/zHefRbs0wALGyzCoIhjf6WKfy8S.jpg"
+    },
+    {
+      "personId": 5464,
+      "name": "Billy Gilbert",
+      "character": "Joe Pettibone",
+      "order": 7,
+      "cast_id": 26,
+      "popularity": 0.6075,
+      "profile_path": "/xEqQLDrbtY2TlANNbXwXPG3ZDyK.jpg"
+    },
+    {
+      "personId": 14975,
+      "name": "Porter Hall",
+      "character": "Murphy",
+      "order": 8,
+      "cast_id": 14,
+      "popularity": 0.6559,
+      "profile_path": "/249Hlfx23i69MsA3rLnC185kbwT.jpg"
+    },
+    {
+      "personId": 34419,
+      "name": "Ernest Truex",
+      "character": "Bensinger",
+      "order": 9,
+      "cast_id": 29,
+      "popularity": 0.6945,
+      "profile_path": "/8FA4y7tbIqjWpGtYRlTkh7lYy9f.jpg"
+    },
+    {
+      "personId": 30236,
+      "name": "Cliff Edwards",
+      "character": "Endicott",
+      "order": 10,
+      "cast_id": 16,
+      "popularity": 0.4665,
+      "profile_path": "/cplAl2NjSDuoHvSJ87kf8Yh2cdK.jpg"
+    },
+    {
+      "personId": 30157,
+      "name": "Roscoe Karns",
+      "character": "McCue",
+      "order": 11,
+      "cast_id": 18,
+      "popularity": 0.7571,
+      "profile_path": "/eDXhkieC1icm4lGnuDziIIl5nO8.jpg"
+    },
+    {
+      "personId": 30238,
+      "name": "Frank Jenks",
+      "character": "Wilson",
+      "order": 12,
+      "cast_id": 19,
+      "popularity": 0.6074,
+      "profile_path": "/8ieh8cQUfXmK6W7vhn84wOPC5AC.jpg"
+    },
+    {
+      "personId": 22093,
+      "name": "Regis Toomey",
+      "character": "Sanders",
+      "order": 13,
+      "cast_id": 20,
+      "popularity": 1.0971,
+      "profile_path": "/fBaA8glCL6YOMX8O58a3s3yJy4P.jpg"
+    },
+    {
+      "personId": 30239,
+      "name": "Abner Biberman",
+      "character": "Louie",
+      "order": 14,
+      "cast_id": 21,
+      "popularity": 0.643,
+      "profile_path": "/9i1mL1OmN7l5k8IRYUy6Go61S4m.jpg"
+    },
+    {
+      "personId": 30240,
+      "name": "Frank Orth",
+      "character": "Duffy",
+      "order": 15,
+      "cast_id": 22,
+      "popularity": 0.6507,
+      "profile_path": "/s8yUbtAu6wueQjDRncuSX6x6ZUt.jpg"
+    },
+    {
+      "personId": 30242,
+      "name": "Alma Kruger",
+      "character": "Mrs. Baldwin",
+      "order": 16,
+      "cast_id": 25,
+      "popularity": 0.4083,
+      "profile_path": "/vaFAhU7IigdzfcFPBaqbNi0xQEr.jpg"
+    },
+    {
+      "personId": 30243,
+      "name": "Pat West",
+      "character": "Warden Cooley",
+      "order": 17,
+      "cast_id": 27,
+      "popularity": 0.6402,
+      "profile_path": "/eKBxHl2m07XxwXafiiERWm2ypGY.jpg"
+    },
+    {
+      "personId": 13361,
+      "name": "Edwin Maxwell",
+      "character": "Dr. Egelhoffer",
+      "order": 18,
+      "cast_id": 28,
+      "popularity": 1.3251,
+      "profile_path": "/k31nSbkIkSqWelDQyWvn5zF1g9q.jpg"
+    },
+    {
+      "personId": 30530,
+      "name": "Irving Bacon",
+      "character": "Gus (uncredited)",
+      "order": 19,
+      "cast_id": 30,
+      "popularity": 1.7125,
+      "profile_path": "/oFczw1DlGJ2p1wr4osdC2flX9qN.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 11435,
+      "name": "Howard Hawks",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.6007,
+      "profile_path": "/hG2oF9wZlqwGqP6EhG0qaN9Afg7.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 378,
+      "name": "prison"
+    },
+    {
+      "id": 736,
+      "name": "journalist"
+    },
+    {
+      "id": 236,
+      "name": "suicide"
+    },
+    {
+      "id": 917,
+      "name": "journalism"
+    },
+    {
+      "id": 10181,
+      "name": "based on play or musical"
+    },
+    {
+      "id": 11411,
+      "name": "wager"
+    },
+    {
+      "id": 10718,
+      "name": "fugitive"
+    },
+    {
+      "id": 12999,
+      "name": "black and white"
+    },
+    {
+      "id": 155457,
+      "name": "screwball comedy"
+    },
+    {
+      "id": 156024,
+      "name": "corrupt politician"
+    },
+    {
+      "id": 156080,
+      "name": "newspaper editor"
+    },
+    {
+      "id": 159531,
+      "name": "insurance agent"
+    },
+    {
+      "id": 165547,
+      "name": "fiancé fiancée relationship"
+    },
+    {
+      "id": 180093,
+      "name": "press room"
+    },
+    {
+      "id": 181659,
+      "name": "political corruption"
+    },
+    {
+      "id": 184534,
+      "name": "rolltop desk"
+    },
+    {
+      "id": 184541,
+      "name": "reprieve"
+    },
+    {
+      "id": 209563,
+      "name": "bride-to-be"
+    },
+    {
+      "id": 236252,
+      "name": "ex spouses"
+    },
+    {
+      "id": 237418,
+      "name": "imminent execution"
+    },
+    {
+      "id": 237425,
+      "name": "convicted murderer"
+    },
+    {
+      "id": 324123,
+      "name": "comedy of remarriage"
+    },
+    {
+      "id": 325764,
+      "name": "ambivalent"
+    }
+  ]
+}

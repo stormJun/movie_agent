@@ -1,0 +1,275 @@
+{
+  "overview": "Former Marine Louanne Johnson lands a gig teaching in a pilot program for bright but underachieving teens at a notorious inner-city high school. After having a terrible first day, she decides she must throw decorum to the wind. When Johnson returns to the classroom, she does so armed with a no-nonsense attitude informed by her military training and a fearless determination to better the lives of her students -- no matter what the cost.",
+  "release_date": "1995-08-11",
+  "runtime": 99,
+  "budget": 23000000,
+  "revenue": 179519401,
+  "tmdb_vote_average": 6.959,
+  "tmdb_vote_count": 1223,
+  "tmdb_popularity": 7.7296,
+  "original_language": "en",
+  "poster_path": "/yWHWC8fJRp2kLgiFrEa8o3krOH9.jpg",
+  "backdrop_path": "/k28lTv01nuncbs9Y2WZh6FQunqv.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 10288,
+      "name": "Don Simpson/Jerry Bruckheimer Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 915,
+      "name": "Hollywood Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 10103,
+      "name": "Via Rosa Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1160,
+      "name": "Michelle Pfeiffer",
+      "character": "Louanne Johnson",
+      "order": 0,
+      "cast_id": 13,
+      "popularity": 5.4029,
+      "profile_path": "/oGUmQBU87QXAsnaGleYaAjAXSlj.jpg"
+    },
+    {
+      "personId": 10477,
+      "name": "George Dzundza",
+      "character": "Hal Griffith",
+      "order": 1,
+      "cast_id": 14,
+      "popularity": 2.3008,
+      "profile_path": "/wmnQQn0dFygl90M2N8tlWlpGHzV.jpg"
+    },
+    {
+      "personId": 24047,
+      "name": "Courtney B. Vance",
+      "character": "Mr. George Grandey",
+      "order": 2,
+      "cast_id": 15,
+      "popularity": 1.8285,
+      "profile_path": "/6ci3wf6oecjz875QRwryOsapW0Y.jpg"
+    },
+    {
+      "personId": 11902,
+      "name": "Robin Bartlett",
+      "character": "Mrs. Carla Nichols",
+      "order": 3,
+      "cast_id": 16,
+      "popularity": 1.1201,
+      "profile_path": "/94OpCjYBbxIoCtJpFWAlFQornKO.jpg"
+    },
+    {
+      "personId": 168638,
+      "name": "Beatrice Winde",
+      "character": "Mary Benton",
+      "order": 4,
+      "cast_id": 19,
+      "popularity": 0.6909,
+      "profile_path": "/m3mC8clIuki4s11cTDqcvKiLX59.jpg"
+    },
+    {
+      "personId": 12642,
+      "name": "John Neville",
+      "character": "Waiter",
+      "order": 5,
+      "cast_id": 18,
+      "popularity": 1.1257,
+      "profile_path": "/q9dqdcETh7fejWKYpIRz1tWnkN3.jpg"
+    },
+    {
+      "personId": 81726,
+      "name": "Lorraine Toussaint",
+      "character": "Irene Roberts",
+      "order": 6,
+      "cast_id": 20,
+      "popularity": 2.5358,
+      "profile_path": "/ali9XSMkZ0uAQLkmK0PoHXhJS0t.jpg"
+    },
+    {
+      "personId": 28863,
+      "name": "Renoly Santiago",
+      "character": "Raul Sanchero",
+      "order": 7,
+      "cast_id": 21,
+      "popularity": 0.7739,
+      "profile_path": "/mdWgsQM0u6w9nBVzTHIY7FY1nOG.jpg"
+    },
+    {
+      "personId": 975133,
+      "name": "Wade Dominguez",
+      "character": "Emilio Ramirez",
+      "order": 8,
+      "cast_id": 22,
+      "popularity": 1.9582,
+      "profile_path": "/7eUr3AfjjA7fPsZwEqIQpdsMgYa.jpg"
+    },
+    {
+      "personId": 188642,
+      "name": "Bruklin Harris",
+      "character": "Callie Roberts",
+      "order": 9,
+      "cast_id": 23,
+      "popularity": 2.0094,
+      "profile_path": "/ymAnt5aPgpLhAyWHl7YVJ1mta5N.jpg"
+    },
+    {
+      "personId": 59300,
+      "name": "Marcello Thedford",
+      "character": "Cornelius Bates",
+      "order": 10,
+      "cast_id": 49,
+      "popularity": 1.0594,
+      "profile_path": "/1HBS0MlQgWvnAFBFthnUz5QfEft.jpg"
+    },
+    {
+      "personId": 156637,
+      "name": "Roberto Alvarez",
+      "character": "Gusmaro Rivera",
+      "order": 11,
+      "cast_id": 25,
+      "popularity": 0.4233,
+      "profile_path": null
+    },
+    {
+      "personId": 190913,
+      "name": "Richard Grant",
+      "character": "Durrell Benton",
+      "order": 12,
+      "cast_id": 26,
+      "popularity": 0.17,
+      "profile_path": null
+    },
+    {
+      "personId": 1074672,
+      "name": "Marisela Gonzales",
+      "character": "Angela",
+      "order": 13,
+      "cast_id": 27,
+      "popularity": 0.3708,
+      "profile_path": null
+    },
+    {
+      "personId": 1074673,
+      "name": "Toni Nichelle Buzhardt",
+      "character": "Nikki",
+      "order": 14,
+      "cast_id": 28,
+      "popularity": 0.3281,
+      "profile_path": null
+    },
+    {
+      "personId": 2720262,
+      "name": "Norris Young",
+      "character": "Kareem",
+      "order": 15,
+      "cast_id": 50,
+      "popularity": 0.9556,
+      "profile_path": null
+    },
+    {
+      "personId": 4072104,
+      "name": "Rahman Ibraheem",
+      "character": "Big 'G'",
+      "order": 16,
+      "cast_id": 51,
+      "popularity": 0.1047,
+      "profile_path": null
+    },
+    {
+      "personId": 4072105,
+      "name": "Desire Galvez",
+      "character": "Taiwana",
+      "order": 17,
+      "cast_id": 52,
+      "popularity": 0.1842,
+      "profile_path": null
+    },
+    {
+      "personId": 4072108,
+      "name": "Wilson Limpo",
+      "character": "Roderick",
+      "order": 18,
+      "cast_id": 53,
+      "popularity": 0.1616,
+      "profile_path": null
+    },
+    {
+      "personId": 4072110,
+      "name": "Raymond Grant",
+      "character": "Lionel Benton",
+      "order": 19,
+      "cast_id": 54,
+      "popularity": 0.2288,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 60295,
+      "name": "John N. Smith",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.6568,
+      "profile_path": "/oNsMtHYgf7ncqvGkHG1e3S7Xrl3.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6270,
+      "name": "high school"
+    },
+    {
+      "id": 387,
+      "name": "california"
+    },
+    {
+      "id": 897,
+      "name": "rap music"
+    },
+    {
+      "id": 3436,
+      "name": "karate"
+    },
+    {
+      "id": 6610,
+      "name": "naval officer"
+    },
+    {
+      "id": 10508,
+      "name": "teacher"
+    },
+    {
+      "id": 14641,
+      "name": "based on memoir or autobiography"
+    },
+    {
+      "id": 155582,
+      "name": "amusement park"
+    },
+    {
+      "id": 170378,
+      "name": "schoolteacher"
+    }
+  ]
+}

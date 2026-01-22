@@ -1,0 +1,285 @@
+{
+  "overview": "Cemetery watchman, Francesco Dellamorte, is tasked with dispatching the recently deceased when they rise from their graves.",
+  "release_date": "1994-03-25",
+  "runtime": 103,
+  "budget": 4000000,
+  "revenue": 0,
+  "tmdb_vote_average": 6.889,
+  "tmdb_vote_count": 557,
+  "tmdb_popularity": 1.7621,
+  "original_language": "it",
+  "poster_path": "/cI5AV3jCuxmoQp0N7Z16SI2b7Xk.jpg",
+  "backdrop_path": "/hEhOPX1NCke6ky7930NqNXZYuu1.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Horror"
+  ],
+  "production_companies": [
+    {
+      "id": 20849,
+      "name": "Audifilm",
+      "origin_country": "IT"
+    },
+    {
+      "id": 12242,
+      "name": "Urania Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 123220,
+      "name": "KG Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 183,
+      "name": "Le Studio Canal+",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "IT",
+      "name": "Italy"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "it",
+      "name": "Italiano"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4757,
+      "name": "Rupert Everett",
+      "character": "Francesco Dellamorte",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.8113,
+      "profile_path": "/7t77pzlJnSLSXTzQLUey3YAzaxQ.jpg"
+    },
+    {
+      "personId": 77904,
+      "name": "François Hadji-Lazaro",
+      "character": "Gnaghi",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 1.4526,
+      "profile_path": "/mSwNnb09uLwXFO6YqlKQkZ0zi8n.jpg"
+    },
+    {
+      "personId": 87679,
+      "name": "Anna Falchi",
+      "character": "She",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.9026,
+      "profile_path": "/dOQSqc3tR4mjgA0MrTb2zZh3PV.jpg"
+    },
+    {
+      "personId": 46418,
+      "name": "Mickey Knox",
+      "character": "Marshall Straniero",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 0.7538,
+      "profile_path": "/9dJZUsjJZWKLWRW5BvvqqTQYonD.jpg"
+    },
+    {
+      "personId": 1301274,
+      "name": "Fabiana Formica",
+      "character": "Valentina Scanarotti",
+      "order": 4,
+      "cast_id": 10,
+      "popularity": 0.7892,
+      "profile_path": "/y6PfQRHGxwI14Jb349lp2cIhu5z.jpg"
+    },
+    {
+      "personId": 105353,
+      "name": "Clive Riche",
+      "character": "Doctor Vercesi",
+      "order": 5,
+      "cast_id": 11,
+      "popularity": 2.6006,
+      "profile_path": "/f1OYzWdmOCJSSWKODuGdEOBrykp.jpg"
+    },
+    {
+      "personId": 1301275,
+      "name": "Katja Anton",
+      "character": "Claudio's Girlfriend",
+      "order": 6,
+      "cast_id": 14,
+      "popularity": 0.6334,
+      "profile_path": null
+    },
+    {
+      "personId": 101130,
+      "name": "Barbara Cupisti",
+      "character": "Magda",
+      "order": 7,
+      "cast_id": 8,
+      "popularity": 0.8804,
+      "profile_path": "/kfodnfkiysQAYLiN6hiGnWPBsnF.jpg"
+    },
+    {
+      "personId": 24624,
+      "name": "Anton Alexander",
+      "character": "Franco",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 0.6561,
+      "profile_path": "/iJgL8Yuhg317LyhChByWMzPLvCF.jpg"
+    },
+    {
+      "personId": 101131,
+      "name": "Pietro Genuardi",
+      "character": "New Mayor Civardi",
+      "order": 9,
+      "cast_id": 47,
+      "popularity": 0.8627,
+      "profile_path": "/yUfeLnKDnePNsFm2jlx6OKdnFC1.jpg"
+    },
+    {
+      "personId": 1301276,
+      "name": "Patrizia Punzo",
+      "character": "Claudio's Mother",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 0.1403,
+      "profile_path": "/5ioGzmyNRqRjGgev7A5ZxFckEEB.jpg"
+    },
+    {
+      "personId": 129965,
+      "name": "Stefano Masciarelli",
+      "character": "Mayor Scanarotti",
+      "order": 11,
+      "cast_id": 48,
+      "popularity": 0.3663,
+      "profile_path": "/ddhXIXEzF69SpipIzNmsYN0E8mD.jpg"
+    },
+    {
+      "personId": 142133,
+      "name": "Vito Passeri",
+      "character": "Luigi Ghigini",
+      "order": 12,
+      "cast_id": 49,
+      "popularity": 0.4232,
+      "profile_path": "/cP6RBrTdbmF3u4ui7B3AdESxqGy.jpg"
+    },
+    {
+      "personId": 223946,
+      "name": "Alessandro Zamattio",
+      "character": "Claudio",
+      "order": 13,
+      "cast_id": 13,
+      "popularity": 0.1731,
+      "profile_path": "/tn6AAJDL5lx6ynK7M8jeBMKTird.jpg"
+    },
+    {
+      "personId": 1575789,
+      "name": "Marijn Koopman",
+      "character": "",
+      "order": 14,
+      "cast_id": 57,
+      "popularity": 0.1819,
+      "profile_path": null
+    },
+    {
+      "personId": 1753661,
+      "name": "Renato Donis",
+      "character": "",
+      "order": 15,
+      "cast_id": 50,
+      "popularity": 0.1296,
+      "profile_path": null
+    },
+    {
+      "personId": 1287156,
+      "name": "Claudia Lawrence",
+      "character": "Pia Chiaromondo",
+      "order": 16,
+      "cast_id": 51,
+      "popularity": 0.4274,
+      "profile_path": "/mkjDfeQoT91MFVANVUQtQys45IF.jpg"
+    },
+    {
+      "personId": 1753662,
+      "name": "Francesca Gamba",
+      "character": "Hospital Nurse",
+      "order": 17,
+      "cast_id": 52,
+      "popularity": 0.2446,
+      "profile_path": "/wlnaCxPIvrrvaxVLXZnzbMJ0lTB.jpg"
+    },
+    {
+      "personId": 1178546,
+      "name": "Elio Cesari",
+      "character": "Monk",
+      "order": 18,
+      "cast_id": 53,
+      "popularity": 0.1345,
+      "profile_path": null
+    },
+    {
+      "personId": 90323,
+      "name": "Maurizio Romoli",
+      "character": "Hospital Doctor",
+      "order": 19,
+      "cast_id": 54,
+      "popularity": 1.4525,
+      "profile_path": "/oaTLZOEifAI4HpsfGSngbMYuxVq.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 87680,
+      "name": "Michele Soavi",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8298,
+      "profile_path": "/YhMPbeptndjUApfU0nqfaIh6Er.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6255,
+      "name": "insanity"
+    },
+    {
+      "id": 10327,
+      "name": "undead"
+    },
+    {
+      "id": 11187,
+      "name": "grim reaper"
+    },
+    {
+      "id": 12377,
+      "name": "zombie"
+    },
+    {
+      "id": 162810,
+      "name": "macabre"
+    },
+    {
+      "id": 207769,
+      "name": "grotesque"
+    },
+    {
+      "id": 325810,
+      "name": "euphoric"
+    },
+    {
+      "id": 325839,
+      "name": "ominous"
+    }
+  ]
+}

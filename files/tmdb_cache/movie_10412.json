@@ -1,0 +1,294 @@
+{
+  "overview": "Nazi skinheads in Melbourne take out their anger on local Vietnamese, who are seen as threatening racial purity. Finally the Vietnamese have had enough and confront the skinheads in an all-out confrontation, sending the skinheads running. A woman who is prone to epileptic seizures joins the skins' merry band, and helps them on their run from justice, but is her affliction also a sign of impurity?",
+  "release_date": "1992-03-05",
+  "runtime": 94,
+  "budget": 1600000,
+  "revenue": 3300000,
+  "tmdb_vote_average": 6.543,
+  "tmdb_vote_count": 542,
+  "tmdb_popularity": 2.3841,
+  "original_language": "en",
+  "poster_path": "/urE3Jzl3zuz2XUmAq2rXubYn3SD.jpg",
+  "backdrop_path": "/cfGKEah2uUli5HPG1Ry3QK3lwDh.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 39712,
+      "name": "Seon Film Productions",
+      "origin_country": "AU"
+    },
+    {
+      "id": 11840,
+      "name": "Film Victoria",
+      "origin_country": "AU"
+    },
+    {
+      "id": 50619,
+      "name": "Romper Stomper Pty. Ltd.",
+      "origin_country": "AU"
+    },
+    {
+      "id": 417,
+      "name": "Australian Film Commission",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "AU",
+      "name": "Australia"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "pt",
+      "name": "Português"
+    },
+    {
+      "code": "de",
+      "name": "Deutsch"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ja",
+      "name": "日本語"
+    },
+    {
+      "code": "vi",
+      "name": "Tiếng Việt"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 934,
+      "name": "Russell Crowe",
+      "character": "Hando",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 5.217,
+      "profile_path": "/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
+    },
+    {
+      "personId": 65023,
+      "name": "Daniel Pollock",
+      "character": "Davey",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 0.7835,
+      "profile_path": "/a0MykgizqfPN1uinLOKO5UEbGs0.jpg"
+    },
+    {
+      "personId": 28744,
+      "name": "Jacqueline McKenzie",
+      "character": "Gabe",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.4422,
+      "profile_path": "/hH93PT4yKLtrXyBVw7AF7DbCh3p.jpg"
+    },
+    {
+      "personId": 65024,
+      "name": "Alex Scott",
+      "character": "Martin",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 0.7824,
+      "profile_path": "/vFiqe8cFeF5cjdTtPgW2fsJKEvq.jpg"
+    },
+    {
+      "personId": 65025,
+      "name": "Leigh Russell",
+      "character": "Sonny Jim",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 0.1336,
+      "profile_path": null
+    },
+    {
+      "personId": 3062,
+      "name": "Dan Wyllie",
+      "character": "Cackles",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 1.0692,
+      "profile_path": "/87jbUjYxj1hoTAIZOLz0VpXs81A.jpg"
+    },
+    {
+      "personId": 2529354,
+      "name": "James McKenna",
+      "character": "Bubs",
+      "order": 6,
+      "cast_id": 23,
+      "popularity": 0.2609,
+      "profile_path": "/1v1JKyuUHkkNJWo42MtKlxgETnT.jpg"
+    },
+    {
+      "personId": 2529355,
+      "name": "Eric Mueck",
+      "character": "Champ",
+      "order": 7,
+      "cast_id": 24,
+      "popularity": 0.2092,
+      "profile_path": null
+    },
+    {
+      "personId": 2529357,
+      "name": "Chris McLean",
+      "character": "Luke",
+      "order": 8,
+      "cast_id": 26,
+      "popularity": 0.1488,
+      "profile_path": null
+    },
+    {
+      "personId": 2529358,
+      "name": "Josephine Keen",
+      "character": "Megan",
+      "order": 9,
+      "cast_id": 27,
+      "popularity": 0.1234,
+      "profile_path": null
+    },
+    {
+      "personId": 2529359,
+      "name": "Samantha Bladon",
+      "character": "Tracy",
+      "order": 10,
+      "cast_id": 28,
+      "popularity": 0.1103,
+      "profile_path": null
+    },
+    {
+      "personId": 2529360,
+      "name": "Tony Le Nguyen",
+      "character": "Tiger",
+      "order": 11,
+      "cast_id": 29,
+      "popularity": 1.2313,
+      "profile_path": "/dKTIS0q31GaDRt5IwgsobDQ6btS.jpg"
+    },
+    {
+      "personId": 76940,
+      "name": "John Brumpton",
+      "character": "Magoo",
+      "order": 12,
+      "cast_id": 30,
+      "popularity": 1.7557,
+      "profile_path": "/5OU732peH4i681I3E2nxVIwZEzV.jpg"
+    },
+    {
+      "personId": 2529362,
+      "name": "Janei Anderson",
+      "character": "Jacqui",
+      "order": 13,
+      "cast_id": 32,
+      "popularity": 0.0622,
+      "profile_path": null
+    },
+    {
+      "personId": 2529363,
+      "name": "Stephen Hall",
+      "character": "Flea",
+      "order": 14,
+      "cast_id": 33,
+      "popularity": 0.1871,
+      "profile_path": null
+    },
+    {
+      "personId": 2529364,
+      "name": "Tri Phan",
+      "character": "Nguyen",
+      "order": 15,
+      "cast_id": 34,
+      "popularity": 0.1132,
+      "profile_path": null
+    },
+    {
+      "personId": 2529366,
+      "name": "Craig Mercer",
+      "character": "Chris",
+      "order": 16,
+      "cast_id": 35,
+      "popularity": 0.0873,
+      "profile_path": null
+    },
+    {
+      "personId": 2529194,
+      "name": "Angus Cummings",
+      "character": "Rob",
+      "order": 17,
+      "cast_id": 36,
+      "popularity": 0.1798,
+      "profile_path": null
+    },
+    {
+      "personId": 88386,
+      "name": "Frank Magree",
+      "character": "Brett",
+      "order": 18,
+      "cast_id": 37,
+      "popularity": 0.6119,
+      "profile_path": "/vmMSXlzWAcKnqHWHyDVfpogrSDg.jpg"
+    },
+    {
+      "personId": 80270,
+      "name": "Don Bridges",
+      "character": "Harold",
+      "order": 19,
+      "cast_id": 38,
+      "popularity": 0.762,
+      "profile_path": "/yiyJGIa2xrrbSvPNpaAlF58aj1Z.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 65026,
+      "name": "Geoffrey Wright",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6083,
+      "profile_path": "/l0GcfXr3agsTzyiZt6w4SHs6trN.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2356,
+      "name": "immigrant"
+    },
+    {
+      "id": 379,
+      "name": "skinhead"
+    },
+    {
+      "id": 2652,
+      "name": "nazi"
+    },
+    {
+      "id": 836,
+      "name": "resistance"
+    },
+    {
+      "id": 6259,
+      "name": "psychopath"
+    },
+    {
+      "id": 6218,
+      "name": "right wing extremism"
+    },
+    {
+      "id": 207915,
+      "name": "white supremacists"
+    },
+    {
+      "id": 258533,
+      "name": "gay theme"
+    }
+  ]
+}

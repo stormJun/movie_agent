@@ -1,0 +1,115 @@
+{
+  "overview": "Matteo Juarez is a retired detective hired by a local businessman to follow his wife Jennifer. She has a split personality and seems to be putting herself in danger without knowing it.",
+  "release_date": "1995-11-21",
+  "runtime": 92,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 3.0,
+  "tmdb_vote_count": 6,
+  "tmdb_popularity": 1.7553,
+  "original_language": "en",
+  "poster_path": "/a7qJwMyIqXyTq6sz0rQhq6Wuxj6.jpg",
+  "backdrop_path": null,
+  "tmdb_genres_raw": [
+    "Action",
+    "Thriller"
+  ],
+  "production_companies": [],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 587,
+      "name": "Edward James Olmos",
+      "character": "Matteo Juarez",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 2.7037,
+      "profile_path": "/mXnilUrQBIMLHSQkPjQk99mX70x.jpg"
+    },
+    {
+      "personId": 586,
+      "name": "Sean Young",
+      "character": "Jennifer Gale",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 3.463,
+      "profile_path": "/yfJADYt6xYPpg1g7Z7TTW0bcL2s.jpg"
+    },
+    {
+      "personId": 121139,
+      "name": "James Andronica",
+      "character": "Lt. Richie Randazzo",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 0.7788,
+      "profile_path": null
+    },
+    {
+      "personId": 173810,
+      "name": "Sayed Badreya",
+      "character": "Sayed",
+      "order": 3,
+      "cast_id": 14,
+      "popularity": 0.9641,
+      "profile_path": "/sVvwmMsjXd5YqyZEfWcWQEkBScu.jpg"
+    },
+    {
+      "personId": 2404191,
+      "name": "Susan Helen Emerson",
+      "character": "Miranda Randazzo",
+      "order": 4,
+      "cast_id": 16,
+      "popularity": 0.5874,
+      "profile_path": null
+    },
+    {
+      "personId": 3247579,
+      "name": "William Grillo",
+      "character": "Carmine Randazzo",
+      "order": 5,
+      "cast_id": 17,
+      "popularity": 0.3565,
+      "profile_path": null
+    },
+    {
+      "personId": 55672,
+      "name": "Tony King",
+      "character": "Nude Bar Tall Thug",
+      "order": 6,
+      "cast_id": 6,
+      "popularity": 1.6942,
+      "profile_path": "/rBAaSCjG9wq1jrzipC8MA9MKd2X.jpg"
+    },
+    {
+      "personId": 1906081,
+      "name": "Patricia Sill",
+      "character": "Homeless Vicky",
+      "order": 7,
+      "cast_id": 15,
+      "popularity": 0.942,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 220152,
+      "name": "Paul Williams",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.3058,
+      "profile_path": "/uNASTqdDAMFY5wpRbeTcQhZNjsA.jpg"
+    }
+  ],
+  "keywords": []
+}

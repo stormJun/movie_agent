@@ -1,0 +1,341 @@
+{
+  "overview": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
+  "release_date": "1994-06-15",
+  "runtime": 89,
+  "budget": 45000000,
+  "revenue": 763455561,
+  "tmdb_vote_average": 8.255,
+  "tmdb_vote_count": 19258,
+  "tmdb_popularity": 18.0349,
+  "original_language": "en",
+  "poster_path": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+  "backdrop_path": "/q00H8EqULYSK74lgevMkhmGGLHn.jpg",
+  "tmdb_genres_raw": [
+    "Family",
+    "Animation",
+    "Drama",
+    "Adventure"
+  ],
+  "production_companies": [
+    {
+      "id": 2,
+      "name": "Walt Disney Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 171656,
+      "name": "Walt Disney Feature Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4756,
+      "name": "Matthew Broderick",
+      "character": "Simba (voice)",
+      "order": 0,
+      "cast_id": 9,
+      "popularity": 3.1808,
+      "profile_path": "/2Pq8pwOX5ZFfT2p5pNLGfvUi9Pp.jpg"
+    },
+    {
+      "personId": 20005,
+      "name": "Moira Kelly",
+      "character": "Nala (voice)",
+      "order": 1,
+      "cast_id": 12,
+      "popularity": 2.0907,
+      "profile_path": "/3yQRnGSfbPWQDInZHTzzXsrAhUR.jpg"
+    },
+    {
+      "personId": 78729,
+      "name": "Nathan Lane",
+      "character": "Timon (voice)",
+      "order": 2,
+      "cast_id": 17,
+      "popularity": 2.7287,
+      "profile_path": "/nEYS0KO1qVO3y0RAt8V8pFxnPb7.jpg"
+    },
+    {
+      "personId": 69415,
+      "name": "Ernie Sabella",
+      "character": "Pumbaa (voice)",
+      "order": 3,
+      "cast_id": 18,
+      "popularity": 0.9442,
+      "profile_path": "/dBit6gkZfxXqdxO0Ic8CsnLpxyQ.jpg"
+    },
+    {
+      "personId": 15152,
+      "name": "James Earl Jones",
+      "character": "Mufasa (voice)",
+      "order": 4,
+      "cast_id": 10,
+      "popularity": 2.369,
+      "profile_path": "/oqMPIsXrl9SZkRfIKN08eFROmH6.jpg"
+    },
+    {
+      "personId": 16940,
+      "name": "Jeremy Irons",
+      "character": "Scar (voice)",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 5.0112,
+      "profile_path": "/w8Ct1q02Ht3sWdOSqfp3B85TzT.jpg"
+    },
+    {
+      "personId": 8294,
+      "name": "Robert Guillaume",
+      "character": "Rafiki (voice)",
+      "order": 6,
+      "cast_id": 19,
+      "popularity": 1.5407,
+      "profile_path": "/prqxpeFeyyarRxxfaMHrqCKVyhV.jpg"
+    },
+    {
+      "personId": 10730,
+      "name": "Rowan Atkinson",
+      "character": "Zazu (voice)",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 8.7064,
+      "profile_path": "/gdiN2zLjC3Mnfrp7hM3TXVJjWJv.jpg"
+    },
+    {
+      "personId": 53283,
+      "name": "Jonathan Taylor Thomas",
+      "character": "Young Simba (voice)",
+      "order": 8,
+      "cast_id": 8,
+      "popularity": 2.6664,
+      "profile_path": "/lv1ZNrdFGMa8lYjwQyJqePONaDY.jpg"
+    },
+    {
+      "personId": 56043,
+      "name": "Niketa Calame-Harris",
+      "character": "Young Nala (voice)",
+      "order": 9,
+      "cast_id": 11,
+      "popularity": 0.4058,
+      "profile_path": "/nH34QlGneoVleFr6Zafl95kFMxt.jpg"
+    },
+    {
+      "personId": 2395,
+      "name": "Whoopi Goldberg",
+      "character": "Shenzi (voice)",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 4.2878,
+      "profile_path": "/wZKI7qcEIVgiHxeFtk3NuKt8URQ.jpg"
+    },
+    {
+      "personId": 11159,
+      "name": "Cheech Marin",
+      "character": "Banzai (voice)",
+      "order": 11,
+      "cast_id": 21,
+      "popularity": 2.6465,
+      "profile_path": "/eecHDNRn9K80ZcuSocsMhQb2G1i.jpg"
+    },
+    {
+      "personId": 12077,
+      "name": "Jim Cummings",
+      "character": "Ed (voice)",
+      "order": 12,
+      "cast_id": 16,
+      "popularity": 3.4748,
+      "profile_path": "/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg"
+    },
+    {
+      "personId": 58074,
+      "name": "Madge Sinclair",
+      "character": "Sarabi (voice)",
+      "order": 13,
+      "cast_id": 22,
+      "popularity": 1.3184,
+      "profile_path": "/oWYmecHCjrA14IWNyhIcRGu5RAi.jpg"
+    },
+    {
+      "personId": 723462,
+      "name": "Zoe Leader",
+      "character": "Sarafina (voice)",
+      "order": 14,
+      "cast_id": 20,
+      "popularity": 0.1304,
+      "profile_path": null
+    },
+    {
+      "personId": 15831,
+      "name": "Frank Welker",
+      "character": "Additional Voices (voice)",
+      "order": 15,
+      "cast_id": 24,
+      "popularity": 5.2376,
+      "profile_path": "/xXODQ5AX6pG4my8ieeEIuiAREXs.jpg"
+    },
+    {
+      "personId": 64948,
+      "name": "Cathy Cavadini",
+      "character": "Additional Voices (voice)",
+      "order": 16,
+      "cast_id": 254,
+      "popularity": 0.674,
+      "profile_path": "/9sThx5Ajdy1aBJSppQDbTkmANlA.jpg"
+    },
+    {
+      "personId": 949895,
+      "name": "Judi Durand",
+      "character": "Additional Voices (voice)",
+      "order": 17,
+      "cast_id": 26,
+      "popularity": 0.6069,
+      "profile_path": "/c6BBWqnfZoFhT1KpwOuMnBF0kNh.jpg"
+    },
+    {
+      "personId": 96310,
+      "name": "Daamen J. Krall",
+      "character": "Additional Voices (voice)",
+      "order": 18,
+      "cast_id": 27,
+      "popularity": 1.271,
+      "profile_path": "/wGgizLHd7opgsSp5vEOMRbXqPLn.jpg"
+    },
+    {
+      "personId": 952996,
+      "name": "David McCharen",
+      "character": "Additional Voices (voice)",
+      "order": 19,
+      "cast_id": 28,
+      "popularity": 0.588,
+      "profile_path": "/5FthGLGF65pWkdoH1Oux0lzXGwv.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 15812,
+      "name": "Roger Allers",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1587,
+      "profile_path": "/sdFyM5FNcJuMv7knrz6swaIHXIJ.jpg"
+    },
+    {
+      "personId": 18898,
+      "name": "Rob Minkoff",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.003,
+      "profile_path": "/fn5QA0bqJn6tk4Wt1QonjojFPjd.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2123,
+      "name": "father murder"
+    },
+    {
+      "id": 697,
+      "name": "loss of loved one"
+    },
+    {
+      "id": 409,
+      "name": "africa"
+    },
+    {
+      "id": 2043,
+      "name": "lion"
+    },
+    {
+      "id": 6513,
+      "name": "cartoon"
+    },
+    {
+      "id": 2887,
+      "name": "manipulation"
+    },
+    {
+      "id": 3289,
+      "name": "villain"
+    },
+    {
+      "id": 11436,
+      "name": "redemption"
+    },
+    {
+      "id": 4344,
+      "name": "musical"
+    },
+    {
+      "id": 6464,
+      "name": "uncle"
+    },
+    {
+      "id": 10683,
+      "name": "coming of age"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 9900,
+      "name": "warthog"
+    },
+    {
+      "id": 11326,
+      "name": "shaman"
+    },
+    {
+      "id": 13084,
+      "name": "king"
+    },
+    {
+      "id": 14767,
+      "name": "scar"
+    },
+    {
+      "id": 18035,
+      "name": "family"
+    },
+    {
+      "id": 18136,
+      "name": "hyena"
+    },
+    {
+      "id": 18153,
+      "name": "meerkat"
+    },
+    {
+      "id": 18330,
+      "name": "nature"
+    },
+    {
+      "id": 244492,
+      "name": "mandrill"
+    },
+    {
+      "id": 281585,
+      "name": "inspirational"
+    },
+    {
+      "id": 325784,
+      "name": "comforting"
+    },
+    {
+      "id": 325842,
+      "name": "powerful"
+    }
+  ]
+}

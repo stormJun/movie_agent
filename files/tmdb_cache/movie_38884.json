@@ -1,0 +1,302 @@
+{
+  "overview": "David Carr is a British Communist who is unemployed. In 1936, when the Spanish Civil War begins, he decides to fight for the Republican side, a coalition of liberals, communists and anarchists, so he joins the POUM militia and witnesses firsthand the betrayal of the Spanish revolution by Stalin's followers and Moscow's orders.",
+  "release_date": "1995-04-07",
+  "runtime": 109,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 7.3,
+  "tmdb_vote_count": 290,
+  "tmdb_popularity": 1.7009,
+  "original_language": "en",
+  "poster_path": "/u5QRqW0vFYMHFzeQJ4oFgJtu5Xp.jpg",
+  "backdrop_path": "/nKGVLehRRJt2UK2Hn9JvNAzd4C6.jpg",
+  "tmdb_genres_raw": [
+    "War",
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    {
+      "id": 983,
+      "name": "Parallax Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 14245,
+      "name": "Messidor Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 45,
+      "name": "Road Movies",
+      "origin_country": "DE"
+    },
+    {
+      "id": 871,
+      "name": "British Screen",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "code": "ES",
+      "name": "Spain"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "ca",
+      "name": "Català"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10985,
+      "name": "Ian Hart",
+      "character": "David Carr",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 1.7475,
+      "profile_path": "/xMC8aPDwhEZcjRHEFcgytSr3BzM.jpg"
+    },
+    {
+      "personId": 125486,
+      "name": "Rosana Pastor",
+      "character": "Blanca",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 0.5458,
+      "profile_path": "/6Gdf8c5h9hQBWSJS4ya9xoXsSzJ.jpg"
+    },
+    {
+      "personId": 9005,
+      "name": "Frédéric Pierrot",
+      "character": "Bernard",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 0.6474,
+      "profile_path": "/rMC51zZ11vrpP4Hu0R23tvcSrOk.jpg"
+    },
+    {
+      "personId": 16973,
+      "name": "Icíar Bollaín",
+      "character": "Maite",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 0.5559,
+      "profile_path": "/r9w9yZJN6bojt8R1bQH4K73nqjL.jpg"
+    },
+    {
+      "personId": 88750,
+      "name": "Tom Gilroy",
+      "character": "Lawrence",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 0.8602,
+      "profile_path": "/bKzidtz01QqN49YdJE7fcyr8Ezm.jpg"
+    },
+    {
+      "personId": 1736978,
+      "name": "Angela Clarke",
+      "character": "Kitty",
+      "order": 5,
+      "cast_id": 35,
+      "popularity": 0.4462,
+      "profile_path": "/uQcNi2ib2IOvEjaQ41WzTdjLPQM.jpg"
+    },
+    {
+      "personId": 1229174,
+      "name": "Eoin McCarthy",
+      "character": "Connor",
+      "order": 6,
+      "cast_id": 36,
+      "popularity": 0.6274,
+      "profile_path": null
+    },
+    {
+      "personId": 1244441,
+      "name": "Suzanne Maddock",
+      "character": "Kim",
+      "order": 7,
+      "cast_id": 37,
+      "popularity": 0.7423,
+      "profile_path": "/6itLfJgf7GeeVk1GvE2G3BpYhMq.jpg"
+    },
+    {
+      "personId": 257448,
+      "name": "Jordi Dauder",
+      "character": "Salas",
+      "order": 8,
+      "cast_id": 40,
+      "popularity": 0.2992,
+      "profile_path": "/o79UYrKXuzDFDdsrozLTdhPh8hB.jpg"
+    },
+    {
+      "personId": 990631,
+      "name": "Pep Molina",
+      "character": "Pepe",
+      "order": 9,
+      "cast_id": 41,
+      "popularity": 0.4044,
+      "profile_path": "/mrceKv2mZYhxkPbPGSoBgAKT0qa.jpg"
+    },
+    {
+      "personId": 1632564,
+      "name": "Mandy Walsh",
+      "character": "Dot",
+      "order": 10,
+      "cast_id": 38,
+      "popularity": 0.1858,
+      "profile_path": null
+    },
+    {
+      "personId": 1736987,
+      "name": "Miguel Cabrillana",
+      "character": "Speaker",
+      "order": 11,
+      "cast_id": 39,
+      "popularity": 0.0071,
+      "profile_path": null
+    },
+    {
+      "personId": 28509,
+      "name": "Francesc Orella",
+      "character": "Casado",
+      "order": 12,
+      "cast_id": 42,
+      "popularity": 1.306,
+      "profile_path": "/ytUgaou1XcuAG6U6HXEFROBegTv.jpg"
+    },
+    {
+      "personId": 932914,
+      "name": "Daniel Muñoz",
+      "character": "Man in the Cafe",
+      "order": 13,
+      "cast_id": 43,
+      "popularity": 1.5655,
+      "profile_path": "/oXKwU8MTDpt5orLSW5asMLeGB9e.jpg"
+    },
+    {
+      "personId": 1061976,
+      "name": "Marc Martínez",
+      "character": "Juan Vidal",
+      "order": 14,
+      "cast_id": 46,
+      "popularity": 0.837,
+      "profile_path": "/4Q7NOR7sTXWq24rCW5nilqQ20NS.jpg"
+    },
+    {
+      "personId": 5181560,
+      "name": "Andrés Aladren",
+      "character": "Militia member",
+      "order": 15,
+      "cast_id": 47,
+      "popularity": 0.0071,
+      "profile_path": null
+    },
+    {
+      "personId": 987551,
+      "name": "Sergi Calleja",
+      "character": "Militia member",
+      "order": 16,
+      "cast_id": 48,
+      "popularity": 0.2207,
+      "profile_path": "/ur0xQTZRKAVPJetgf5ZqNn2X80t.jpg"
+    },
+    {
+      "personId": 5181561,
+      "name": "Raffaele Cantatore",
+      "character": "Militia member",
+      "order": 17,
+      "cast_id": 49,
+      "popularity": 0.0071,
+      "profile_path": null
+    },
+    {
+      "personId": 1033622,
+      "name": "Pascal Demolon",
+      "character": "Militia member",
+      "order": 18,
+      "cast_id": 50,
+      "popularity": 1.0656,
+      "profile_path": "/kjZp8Fzmf7NngYxQb6GdKJZECSG.jpg"
+    },
+    {
+      "personId": 15490,
+      "name": "Paul Laverty",
+      "character": "Militia member",
+      "order": 19,
+      "cast_id": 51,
+      "popularity": 1.4599,
+      "profile_path": "/94iBo0p6XMgtkK6OOLMzKuaHT4G.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 15488,
+      "name": "Ken Loach",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.4956,
+      "profile_path": "/vGtkrPgNeK3xkbbKTQ4vWD1VsEm.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2346,
+      "name": "worker"
+    },
+    {
+      "id": 514,
+      "name": "spain"
+    },
+    {
+      "id": 1577,
+      "name": "solidarity"
+    },
+    {
+      "id": 2020,
+      "name": "revolution"
+    },
+    {
+      "id": 1755,
+      "name": "fascism"
+    },
+    {
+      "id": 5509,
+      "name": "spanish civil war (1936-39)"
+    },
+    {
+      "id": 5879,
+      "name": "anarchist"
+    },
+    {
+      "id": 5882,
+      "name": "franco regime (francoism)"
+    },
+    {
+      "id": 10085,
+      "name": "betrayal"
+    },
+    {
+      "id": 11935,
+      "name": "working class"
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "overview": "Stig is a 15-year-old pupil of 37-year-old teacher Viola. He is attracted by her beauty and maturity while she is drawn to him by his youth and innocence, a relief from her drunk and miserable husband.",
+  "release_date": "1995-03-08",
+  "runtime": 125,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.4,
+  "tmdb_vote_count": 160,
+  "tmdb_popularity": 5.5293,
+  "original_language": "sv",
+  "poster_path": "/y1oFNynXrIzlPUe4CXKMR2dpNep.jpg",
+  "backdrop_path": "/wTipCPwvGfm3IJXBRojmuj97GIN.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance",
+    "War"
+  ],
+  "production_companies": [
+    {
+      "id": 8229,
+      "name": "Per Holst Filmproduktion",
+      "origin_country": "DK"
+    },
+    {
+      "id": 118,
+      "name": "Det Danske Filminstitut",
+      "origin_country": "DK"
+    },
+    {
+      "id": 5403,
+      "name": "Nordisk Film & TV Fond",
+      "origin_country": "NO"
+    },
+    {
+      "id": 2302,
+      "name": "Svenska Filminstitutet",
+      "origin_country": "SE"
+    },
+    {
+      "id": 9365,
+      "name": "Egmont Film",
+      "origin_country": ""
+    },
+    {
+      "id": 758,
+      "name": "TV 2",
+      "origin_country": "DK"
+    },
+    {
+      "id": 157,
+      "name": "SVT Drama",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "DK",
+      "name": "Denmark"
+    },
+    {
+      "code": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "de",
+      "name": "Deutsch"
+    },
+    {
+      "code": "sv",
+      "name": "svenska"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 96935,
+      "name": "Johan Widerberg",
+      "character": "Stig",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 1.9478,
+      "profile_path": "/vzD8l02LjcF3AleiUNhtogOvHE9.jpg"
+    },
+    {
+      "personId": 87724,
+      "name": "Marika Lagercrantz",
+      "character": "Viola",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 1.0703,
+      "profile_path": "/ya50fGUyUD1PfCopwgwr79O1O9w.jpg"
+    },
+    {
+      "personId": 56392,
+      "name": "Tomas von Brömssen",
+      "character": "Kjell",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 0.6269,
+      "profile_path": "/zVK1ZgXG80VKVJmG6b2yYqvmZXF.jpg"
+    },
+    {
+      "personId": 96936,
+      "name": "Karin Huldt",
+      "character": "Lisbet",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 1.8437,
+      "profile_path": null
+    },
+    {
+      "personId": 96937,
+      "name": "Nina Gunke",
+      "character": "Stig's Mother",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 1.2875,
+      "profile_path": "/nl3zvEeExyZRK1oDkp4J3J1XBCi.jpg"
+    },
+    {
+      "personId": 96938,
+      "name": "Kenneth Milldoff",
+      "character": "Stig's Father",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 0.5534,
+      "profile_path": "/4MPK3Atvzh6Judck8oKRXiiVJMV.jpg"
+    },
+    {
+      "personId": 6001,
+      "name": "Björn Kjellman",
+      "character": "Sigge",
+      "order": 6,
+      "cast_id": 7,
+      "popularity": 0.7559,
+      "profile_path": "/iNzZuWG303K8Z9Ils7Linp0CeUU.jpg"
+    },
+    {
+      "personId": 96939,
+      "name": "Frida Lindholm",
+      "character": "Olga",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 0.272,
+      "profile_path": null
+    },
+    {
+      "personId": 96940,
+      "name": "Sigge Cederlund",
+      "character": "Cinema Operator",
+      "order": 8,
+      "cast_id": 10,
+      "popularity": 0.2205,
+      "profile_path": null
+    },
+    {
+      "personId": 1881324,
+      "name": "Monica Stenbeck",
+      "character": "Gym Teacher",
+      "order": 9,
+      "cast_id": 25,
+      "popularity": 0.375,
+      "profile_path": "/tbnDlK5Nl4UFf4mY1kTvzy3opPM.jpg"
+    },
+    {
+      "personId": 126885,
+      "name": "Frida Farrell",
+      "character": "Lina",
+      "order": 10,
+      "cast_id": 45,
+      "popularity": 0.5916,
+      "profile_path": "/oBelZkahdsdE84Xbo23cy0ZzcEQ.jpg"
+    },
+    {
+      "personId": 1643040,
+      "name": "Peter Larsdotter",
+      "character": "Class Monitor of Class 3B - Malmö Secondary School",
+      "order": 11,
+      "cast_id": 48,
+      "popularity": 0.0511,
+      "profile_path": null
+    },
+    {
+      "personId": 1884219,
+      "name": "Magnus Andersson",
+      "character": "Sleepy of Class 3B - Malmö Secondary School",
+      "order": 12,
+      "cast_id": 44,
+      "popularity": 0.0955,
+      "profile_path": null
+    },
+    {
+      "personId": 1024899,
+      "name": "Thomaz Ransmyr",
+      "character": "Upset Man at Cinema",
+      "order": 13,
+      "cast_id": 47,
+      "popularity": 0.124,
+      "profile_path": null
+    },
+    {
+      "personId": 2349640,
+      "name": "George Bisset",
+      "character": "",
+      "order": 14,
+      "cast_id": 20,
+      "popularity": 0.197,
+      "profile_path": null
+    },
+    {
+      "personId": 2579654,
+      "name": "Gösta Ekstrand",
+      "character": "",
+      "order": 15,
+      "cast_id": 21,
+      "popularity": 0.0398,
+      "profile_path": null
+    },
+    {
+      "personId": 2579655,
+      "name": "Hilda Suovanen",
+      "character": "",
+      "order": 16,
+      "cast_id": 22,
+      "popularity": 0.0357,
+      "profile_path": null
+    },
+    {
+      "personId": 2579657,
+      "name": "Per Olov Börjeson",
+      "character": "",
+      "order": 17,
+      "cast_id": 23,
+      "popularity": 0.047,
+      "profile_path": null
+    },
+    {
+      "personId": 111355,
+      "name": "Jörgen Svensson",
+      "character": "",
+      "order": 18,
+      "cast_id": 24,
+      "popularity": 0.0815,
+      "profile_path": null
+    },
+    {
+      "personId": 1560150,
+      "name": "Nynne Schwartz",
+      "character": "",
+      "order": 19,
+      "cast_id": 26,
+      "popularity": 0.2293,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 96934,
+      "name": "Bo Widerberg",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4765,
+      "profile_path": "/dSANpK9IB24lWHDm8v4Irs36amI.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6270,
+      "name": "high school"
+    },
+    {
+      "id": 931,
+      "name": "jealousy"
+    },
+    {
+      "id": 1956,
+      "name": "world war ii"
+    },
+    {
+      "id": 7476,
+      "name": "older woman seduces younger guy"
+    },
+    {
+      "id": 7464,
+      "name": "alcoholism"
+    },
+    {
+      "id": 10337,
+      "name": "cheat on husband"
+    },
+    {
+      "id": 10508,
+      "name": "teacher"
+    },
+    {
+      "id": 157799,
+      "name": "older woman younger man relationship"
+    },
+    {
+      "id": 171341,
+      "name": "underage sex"
+    },
+    {
+      "id": 193547,
+      "name": "teachers and students"
+    },
+    {
+      "id": 207883,
+      "name": "1940s"
+    }
+  ]
+}

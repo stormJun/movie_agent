@@ -1,0 +1,311 @@
+{
+  "overview": "A young street hustler attempts to escape the rigors and temptations of the ghetto in a quest for a better life.",
+  "release_date": "1993-05-26",
+  "runtime": 97,
+  "budget": 3500000,
+  "revenue": 27900000,
+  "tmdb_vote_average": 7.497,
+  "tmdb_vote_count": 848,
+  "tmdb_popularity": 3.3001,
+  "original_language": "en",
+  "poster_path": "/ssCYUdWOXP62ceDSMQ64ZkqsByd.jpg",
+  "backdrop_path": "/s5PP0ryxAo12jzvPntSEybahpCw.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Crime",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 57773,
+      "name": "Tyrin Turner",
+      "character": "Caine 'Kaydee' Lawson",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.7381,
+      "profile_path": "/aZ515GZxxhNhR6CT2F931SrTyUo.jpg"
+    },
+    {
+      "personId": 18291,
+      "name": "Larenz Tate",
+      "character": "Kevin 'O-Dog'",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.2633,
+      "profile_path": "/6BWajF1sbuwsvXHmdQDxP5MfZ5R.jpg"
+    },
+    {
+      "personId": 2683,
+      "name": "Glenn Plummer",
+      "character": "Pernell",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.9184,
+      "profile_path": "/lNfRFcxD7bhqKLZwOqdpumA83TL.jpg"
+    },
+    {
+      "personId": 9575,
+      "name": "Jada Pinkett Smith",
+      "character": "Ronnie",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 3.6352,
+      "profile_path": "/vt1Z1Fsu7gjp4L0OHey9Aa79lWj.jpg"
+    },
+    {
+      "personId": 2231,
+      "name": "Samuel L. Jackson",
+      "character": "Tat Lawson",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 9.0658,
+      "profile_path": "/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+    },
+    {
+      "personId": 156015,
+      "name": "June Kyoto Lu",
+      "character": "Grocery Store Woman",
+      "order": 5,
+      "cast_id": 14,
+      "popularity": 0.7078,
+      "profile_path": "/m6bW0AW9vTaSmnliWCCNOlFWctS.jpg"
+    },
+    {
+      "personId": 156963,
+      "name": "Toshi Toda",
+      "character": "Grocery Store Man",
+      "order": 6,
+      "cast_id": 15,
+      "popularity": 2.4706,
+      "profile_path": "/74UmEu6NOr7pNRbC1PbVKusUCsz.jpg"
+    },
+    {
+      "personId": 154096,
+      "name": "Reginald Ballard",
+      "character": "Clyde",
+      "order": 7,
+      "cast_id": 16,
+      "popularity": 0.9181,
+      "profile_path": "/nSCF6VCuSEZsF44Yv6TVzjqKTRc.jpg"
+    },
+    {
+      "personId": 19265,
+      "name": "Khandi Alexander",
+      "character": "Karen Lawson",
+      "order": 8,
+      "cast_id": 17,
+      "popularity": 2.1625,
+      "profile_path": "/53IjZhkaywgsM0ZkDt3GJQtY5ls.jpg"
+    },
+    {
+      "personId": 170159,
+      "name": "Jullian Roy Doster",
+      "character": "Anthony",
+      "order": 9,
+      "cast_id": 18,
+      "popularity": 0.3651,
+      "profile_path": null
+    },
+    {
+      "personId": 23681,
+      "name": "Brandon Hammond",
+      "character": "Five Year Old Caine",
+      "order": 10,
+      "cast_id": 19,
+      "popularity": 1.2518,
+      "profile_path": "/qni4SWV6QLQ302Y8CURsRJ5OP00.jpg"
+    },
+    {
+      "personId": 1214161,
+      "name": "Eugene Lee",
+      "character": "Man #1",
+      "order": 11,
+      "cast_id": 21,
+      "popularity": 0.43,
+      "profile_path": null
+    },
+    {
+      "personId": 25544,
+      "name": "James Pickens Jr.",
+      "character": "Man #2",
+      "order": 12,
+      "cast_id": 22,
+      "popularity": 1.8844,
+      "profile_path": "/iddDcaysDQ6IVMUjJ97Bv3lTBCu.jpg"
+    },
+    {
+      "personId": 1187517,
+      "name": "Nancy Cheryll Davis",
+      "character": "Teacher",
+      "order": 13,
+      "cast_id": 23,
+      "popularity": 0.3773,
+      "profile_path": null
+    },
+    {
+      "personId": 89954,
+      "name": "Marilyn Coleman",
+      "character": "Grandmama",
+      "order": 14,
+      "cast_id": 24,
+      "popularity": 0.4108,
+      "profile_path": "/dL6XJpxVrdj1Tj4bzXiauzGrVfu.jpg"
+    },
+    {
+      "personId": 131832,
+      "name": "Arnold Johnson",
+      "character": "Grandpapa",
+      "order": 15,
+      "cast_id": 25,
+      "popularity": 0.5209,
+      "profile_path": "/miC7sItXVjEW1NggW9yx5c7mOkt.jpg"
+    },
+    {
+      "personId": 1963509,
+      "name": "Saafir",
+      "character": "Harold Lawson",
+      "order": 16,
+      "cast_id": 26,
+      "popularity": 0.6091,
+      "profile_path": "/ZPuFj0MWzr5hA03ycs0XwlIcpu.jpg"
+    },
+    {
+      "personId": 1963510,
+      "name": "Pooh Man",
+      "character": "Doc",
+      "order": 17,
+      "cast_id": 27,
+      "popularity": 0.1328,
+      "profile_path": "/eLZDvsZDrzr6DC61EmaU4stEMxn.jpg"
+    },
+    {
+      "personId": 585761,
+      "name": "MC Eiht",
+      "character": "A-Wax",
+      "order": 18,
+      "cast_id": 28,
+      "popularity": 0.7012,
+      "profile_path": "/atshNenlXNYUYv9PuCyOrupdMlj.jpg"
+    },
+    {
+      "personId": 95797,
+      "name": "Vonte Sweet",
+      "character": "Sharif",
+      "order": 19,
+      "cast_id": 29,
+      "popularity": 2.0375,
+      "profile_path": "/v5sJKJVztgNEjz4yOCQYoAAz1pB.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 11447,
+      "name": "Albert Hughes",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.0499,
+      "profile_path": "/9wfPXTkur93ZUyUH35lBQRNSY3y.jpg"
+    },
+    {
+      "personId": 11448,
+      "name": "Allen Hughes",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8176,
+      "profile_path": "/cenYyg8GR89817xnAHU6hNiFZ2x.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2231,
+      "name": "drug dealer"
+    },
+    {
+      "id": 542,
+      "name": "street gang"
+    },
+    {
+      "id": 3149,
+      "name": "gangster"
+    },
+    {
+      "id": 2394,
+      "name": "ghetto"
+    },
+    {
+      "id": 6147,
+      "name": "delinquency"
+    },
+    {
+      "id": 12670,
+      "name": "los angeles, california"
+    },
+    {
+      "id": 200234,
+      "name": "shocking"
+    },
+    {
+      "id": 200918,
+      "name": "angry"
+    },
+    {
+      "id": 202371,
+      "name": "aggressive"
+    },
+    {
+      "id": 202760,
+      "name": "hopeless"
+    },
+    {
+      "id": 232076,
+      "name": "desperate"
+    },
+    {
+      "id": 266753,
+      "name": "cautionary"
+    },
+    {
+      "id": 325766,
+      "name": "antagonistic"
+    },
+    {
+      "id": 325767,
+      "name": "apathetic"
+    },
+    {
+      "id": 325780,
+      "name": "callous"
+    },
+    {
+      "id": 325817,
+      "name": "foreboding"
+    },
+    {
+      "id": 325829,
+      "name": "inflammatory"
+    },
+    {
+      "id": 325830,
+      "name": "informative"
+    }
+  ]
+}

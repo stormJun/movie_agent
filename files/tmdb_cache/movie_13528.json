@@ -1,0 +1,300 @@
+{
+  "overview": "A newlywed fears she's going mad when strange things start happening at the family mansion.",
+  "release_date": "1944-05-04",
+  "runtime": 114,
+  "budget": 2068000,
+  "revenue": 0,
+  "tmdb_vote_average": 7.513,
+  "tmdb_vote_count": 539,
+  "tmdb_popularity": 5.0308,
+  "original_language": "en",
+  "poster_path": "/gXKszCl5Q1KrgWRWpPcqn94CP58.jpg",
+  "backdrop_path": "/k8sH3RyFg1G4fHN0k9QNoHk8i4E.jpg",
+  "tmdb_genres_raw": [
+    "Thriller",
+    "Drama",
+    "Mystery",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 29519,
+      "name": "Charles Boyer",
+      "character": "Gregory Anton",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.0355,
+      "profile_path": "/wFFkKeY4RqC8ChYd64KJiAaSVWy.jpg"
+    },
+    {
+      "personId": 4111,
+      "name": "Ingrid Bergman",
+      "character": "Paula Alquist",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.1028,
+      "profile_path": "/jXEE0P6705JbMAJ2nwtHjmqkd5F.jpg"
+    },
+    {
+      "personId": 7664,
+      "name": "Joseph Cotten",
+      "character": "Brian Cameron",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 1.5702,
+      "profile_path": "/pnfhmmCyo82lHcps42A1COobaxt.jpg"
+    },
+    {
+      "personId": 14299,
+      "name": "May Whitty",
+      "character": "Miss Thwaites",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 2.1953,
+      "profile_path": "/xjcKt4OBswpGUSGG0jkgr5fP5r4.jpg"
+    },
+    {
+      "personId": 14730,
+      "name": "Angela Lansbury",
+      "character": "Nancy",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 3.0305,
+      "profile_path": "/gGAWbfMqhJnXzC8dRLeOSXOo9vO.jpg"
+    },
+    {
+      "personId": 74622,
+      "name": "Barbara Everest",
+      "character": "Elizabeth",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 0.4549,
+      "profile_path": "/kZ3jJhDvBOAv7icymgtWgcSbYPd.jpg"
+    },
+    {
+      "personId": 100049,
+      "name": "Emil Rameau",
+      "character": "Maestro Guardi",
+      "order": 6,
+      "cast_id": 16,
+      "popularity": 0.3792,
+      "profile_path": "/bmDdJOtaGjTylM3rhmDbaCFLBMV.jpg"
+    },
+    {
+      "personId": 81291,
+      "name": "Edmund Breon",
+      "character": "General Huddleston",
+      "order": 7,
+      "cast_id": 73,
+      "popularity": 0.4316,
+      "profile_path": "/uR49CwS2gV2DtNGzrwo0juPBFNt.jpg"
+    },
+    {
+      "personId": 29601,
+      "name": "Halliwell Hobbes",
+      "character": "Mr. Muffin",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 0.6509,
+      "profile_path": "/ewmAwP5TBvqRlvFEgnXsMB7U6H0.jpg"
+    },
+    {
+      "personId": 567221,
+      "name": "Tom Stevenson",
+      "character": "Williams",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 1.2035,
+      "profile_path": null
+    },
+    {
+      "personId": 108804,
+      "name": "Heather Thatcher",
+      "character": "Lady Dalroy",
+      "order": 10,
+      "cast_id": 13,
+      "popularity": 0.8241,
+      "profile_path": "/pAa4bVyUUSbrWT8ghhDsfvxvIaw.jpg"
+    },
+    {
+      "personId": 975810,
+      "name": "Lawrence Grossmith",
+      "character": "Lord Dalroy",
+      "order": 11,
+      "cast_id": 14,
+      "popularity": 0.2287,
+      "profile_path": "/pBtVAi7bQ0E2gmLJX7ScuEDlhtT.jpg"
+    },
+    {
+      "personId": 554889,
+      "name": "Jakob Gimpel",
+      "character": "Pianist",
+      "order": 12,
+      "cast_id": 18,
+      "popularity": 0.5646,
+      "profile_path": null
+    },
+    {
+      "personId": 1459370,
+      "name": "Harry Adams",
+      "character": "Policeman (uncredited)",
+      "order": 13,
+      "cast_id": 26,
+      "popularity": 0.1471,
+      "profile_path": null
+    },
+    {
+      "personId": 1381534,
+      "name": "Lassie Lou Ahern",
+      "character": "Young Girl (uncredited)",
+      "order": 14,
+      "cast_id": 28,
+      "popularity": 0.6219,
+      "profile_path": null
+    },
+    {
+      "personId": 1419561,
+      "name": "John Ardizoni",
+      "character": "Cab Man (uncredited)",
+      "order": 15,
+      "cast_id": 29,
+      "popularity": 0.4268,
+      "profile_path": null
+    },
+    {
+      "personId": 27164,
+      "name": "Frank Baker",
+      "character": "Pedestrian (uncredited)",
+      "order": 16,
+      "cast_id": 34,
+      "popularity": 0.9368,
+      "profile_path": "/i7TbpKA5ct94Q0Eddet3i51NZXC.jpg"
+    },
+    {
+      "personId": 939842,
+      "name": "Wilson Benge",
+      "character": "Pedestrian (uncredited)",
+      "order": 17,
+      "cast_id": 35,
+      "popularity": 0.3612,
+      "profile_path": null
+    },
+    {
+      "personId": 5605226,
+      "name": "Arnold Bennett",
+      "character": "Footman (uncredited)",
+      "order": 18,
+      "cast_id": 79,
+      "popularity": 0.0482,
+      "profile_path": null
+    },
+    {
+      "personId": 2733192,
+      "name": "Florence Benson",
+      "character": "Pedestrian (uncredited)",
+      "order": 19,
+      "cast_id": 80,
+      "popularity": 0.0886,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 14674,
+      "name": "George Cukor",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.9434,
+      "profile_path": "/w7I9Af9fpL7nywdZiOogH0gBoZ2.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 770,
+      "name": "scotland yard"
+    },
+    {
+      "id": 2887,
+      "name": "manipulation"
+    },
+    {
+      "id": 8250,
+      "name": "victorian england"
+    },
+    {
+      "id": 9332,
+      "name": "psychological abuse"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 12565,
+      "name": "psychological thriller"
+    },
+    {
+      "id": 15274,
+      "name": "nervous breakdown"
+    },
+    {
+      "id": 174548,
+      "name": "older husband"
+    },
+    {
+      "id": 191476,
+      "name": "driven mad"
+    },
+    {
+      "id": 212643,
+      "name": "abusive husband"
+    },
+    {
+      "id": 214651,
+      "name": "gaslight"
+    },
+    {
+      "id": 225135,
+      "name": "domineering husband"
+    },
+    {
+      "id": 231535,
+      "name": "sadistic husband"
+    },
+    {
+      "id": 236377,
+      "name": "emotional abuse"
+    },
+    {
+      "id": 267689,
+      "name": "gaslighting"
+    },
+    {
+      "id": 311710,
+      "name": "male gold digger"
+    },
+    {
+      "id": 330548,
+      "name": "bluebeard"
+    }
+  ]
+}

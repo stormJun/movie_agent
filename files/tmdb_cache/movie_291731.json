@@ -1,0 +1,242 @@
+{
+  "overview": "The young caretaker at the estate of a reclusive woman develops a dangerous obsession with her daughter, a sexy television star. Unexpected twists and turns.",
+  "release_date": "1995-05-03",
+  "runtime": 97,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 4.25,
+  "tmdb_vote_count": 8,
+  "tmdb_popularity": 0.3778,
+  "original_language": "en",
+  "poster_path": "/jJ8Abp6QYbk4P5ukkQVM3n5L896.jpg",
+  "backdrop_path": "/5VOcYriD0f1WbUVAhOWu2sLdy60.jpg",
+  "tmdb_genres_raw": [
+    "Thriller",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 38289,
+      "name": "Arrow",
+      "origin_country": ""
+    },
+    {
+      "id": 38179,
+      "name": "Skyline Entertainment Partners",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10401,
+      "name": "Blythe Danner",
+      "character": "Katherine Samuel",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 2.3175,
+      "profile_path": "/xIN3nX76b4qN8B32wdoqx053N68.jpg"
+    },
+    {
+      "personId": 11805,
+      "name": "Frank Whaley",
+      "character": "Archie Landrum",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 3.5716,
+      "profile_path": "/vxxV3rPGUvsiXuu8A5g61lz27yS.jpg"
+    },
+    {
+      "personId": 6726,
+      "name": "Sheryl Lee",
+      "character": "Lucy Samuel",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 3.0969,
+      "profile_path": "/7llsjKMExjQylGgmqKCpiSSapUG.jpg"
+    },
+    {
+      "personId": 8540,
+      "name": "Danny Nucci",
+      "character": "Gilbert Tellez",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 2.6985,
+      "profile_path": "/w8nMQvgBFY5vuDoN5B698ostLWN.jpg"
+    },
+    {
+      "personId": 52374,
+      "name": "Bruce Davison",
+      "character": "Joseph Smith",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 2.5524,
+      "profile_path": "/41JtouCUhnnBwWmdsemPydtk3FB.jpg"
+    },
+    {
+      "personId": 1151637,
+      "name": "Lora Martinez-Cunningham",
+      "character": "Cecelia Tellez",
+      "order": 5,
+      "cast_id": 23,
+      "popularity": 1.5412,
+      "profile_path": "/gjbnJZCzNkshj2bKEe51sEcnPOV.jpg"
+    },
+    {
+      "personId": 1219832,
+      "name": "Bob Goen",
+      "character": "'Entertainment Tonight' Host",
+      "order": 6,
+      "cast_id": 20,
+      "popularity": 1.6018,
+      "profile_path": "/7nPfBiz02YVnubYLoIWJTwK4ybV.jpg"
+    },
+    {
+      "personId": 5337058,
+      "name": "Raymond Mesa",
+      "character": "El Paso Newscaster",
+      "order": 7,
+      "cast_id": 63,
+      "popularity": 0.1986,
+      "profile_path": null
+    },
+    {
+      "personId": 5337061,
+      "name": "Arlene Belkin",
+      "character": "Dr. Sachs",
+      "order": 8,
+      "cast_id": 64,
+      "popularity": 0.3209,
+      "profile_path": null
+    },
+    {
+      "personId": 230464,
+      "name": "Harri James",
+      "character": "Officer James",
+      "order": 9,
+      "cast_id": 21,
+      "popularity": 0.4301,
+      "profile_path": null
+    },
+    {
+      "personId": 149549,
+      "name": "Lindsay Taylor",
+      "character": "Young Lucy",
+      "order": 10,
+      "cast_id": 22,
+      "popularity": 1.976,
+      "profile_path": null
+    },
+    {
+      "personId": 5337062,
+      "name": "Leon Cox",
+      "character": "Walter",
+      "order": 11,
+      "cast_id": 65,
+      "popularity": 0.0286,
+      "profile_path": null
+    },
+    {
+      "personId": 5337063,
+      "name": "Ted Scanlon",
+      "character": "Musician in Bar",
+      "order": 12,
+      "cast_id": 66,
+      "popularity": 0.0753,
+      "profile_path": null
+    },
+    {
+      "personId": 5337064,
+      "name": "Elmo Davis",
+      "character": "Musician in Bar",
+      "order": 13,
+      "cast_id": 67,
+      "popularity": 0.0495,
+      "profile_path": null
+    },
+    {
+      "personId": 5337065,
+      "name": "David Philips",
+      "character": "Musician in Bar",
+      "order": 14,
+      "cast_id": 68,
+      "popularity": 0.0382,
+      "profile_path": null
+    },
+    {
+      "personId": 2578081,
+      "name": "Gordon Butler",
+      "character": "Musician in Bar",
+      "order": 15,
+      "cast_id": 69,
+      "popularity": 0.0919,
+      "profile_path": null
+    },
+    {
+      "personId": 5337069,
+      "name": "Wally Gonzales",
+      "character": "Musician in Bar",
+      "order": 16,
+      "cast_id": 70,
+      "popularity": 0.0465,
+      "profile_path": null
+    },
+    {
+      "personId": 19799,
+      "name": "Mark Medoff",
+      "character": "Producer at Funeral",
+      "order": 17,
+      "cast_id": 71,
+      "popularity": 1.0717,
+      "profile_path": null
+    },
+    {
+      "personId": 5337073,
+      "name": "Kagan Ethan",
+      "character": "TV Star at Funeral",
+      "order": 18,
+      "cast_id": 72,
+      "popularity": 0.0362,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1385254,
+      "name": "Ross Kagan Marks",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.0393,
+      "profile_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 4129,
+      "name": "widow"
+    },
+    {
+      "id": 1523,
+      "name": "obsession"
+    },
+    {
+      "id": 15249,
+      "name": "tragic event"
+    },
+    {
+      "id": 155532,
+      "name": "fatal attraction"
+    }
+  ]
+}

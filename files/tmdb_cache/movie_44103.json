@@ -1,0 +1,268 @@
+{
+  "overview": "In the 1890s, Father Adolf Daens goes to Aalst, a textile town where child labor is rife, pay and working conditions are horrible, the poor have no vote, and the Catholic church backs the petite bourgeoisie in oppressing workers. He writes a few columns for the Catholic paper, and soon workers are listening and the powerful are in an uproar. He's expelled from the Catholic party, so he starts the Christian Democrats and is elected to Parliament. After Rome disciplines him, he must choose between two callings, as priest and as champion of workers. In subplots, a courageous young woman falls in love with a socialist and survives a shop foreman's rape; children die; prelates play billiards.",
+  "release_date": "1992-10-01",
+  "runtime": 138,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 7.07,
+  "tmdb_vote_count": 64,
+  "tmdb_popularity": 2.6775,
+  "original_language": "nl",
+  "poster_path": "/jH0dtpIBt0w0KGsj60zXtHCABqT.jpg",
+  "backdrop_path": "/rzc7MnChGRNAFYeMjJ125XKghan.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    {
+      "id": 67421,
+      "name": "Dérives Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 1259,
+      "name": "Shooting Star Filmcompany",
+      "origin_country": "NL"
+    },
+    {
+      "id": 167619,
+      "name": "Favourite Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "BE",
+      "name": "Belgium"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "nl",
+      "name": "Nederlands"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "la",
+      "name": "Latin"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13514,
+      "name": "Jan Decleir",
+      "character": "Adolf Daens",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 0.8867,
+      "profile_path": "/wgCWRtfO4HROS1o2QltEGh9DLGG.jpg"
+    },
+    {
+      "personId": 23565,
+      "name": "Gérard Desarthe",
+      "character": "Charles Woeste",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 0.1694,
+      "profile_path": "/xRu73Jn3NMW0wyGUq1yQQIDgRuQ.jpg"
+    },
+    {
+      "personId": 140492,
+      "name": "Antje De Boeck",
+      "character": "Nette Scholliers",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 0.8361,
+      "profile_path": "/eTABvtb4QYaiUgOMW8CSVkTQOkS.jpg"
+    },
+    {
+      "personId": 140493,
+      "name": "Michaël Pas",
+      "character": "Jan De Meeter",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 0.9046,
+      "profile_path": "/fq2MpAX7GtqTNmX4J7GDmZGLmdd.jpg"
+    },
+    {
+      "personId": 140494,
+      "name": "Karel Baetens",
+      "character": "Jefke",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 0.2729,
+      "profile_path": null
+    },
+    {
+      "personId": 140495,
+      "name": "Julien Schoenaerts",
+      "character": "Bisschop Stillemans",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 2.0965,
+      "profile_path": "/5kj1IaLxA8jChe0MvIIylOo2WIp.jpg"
+    },
+    {
+      "personId": 140496,
+      "name": "Wim Meuwissen",
+      "character": "Pieter Daens",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 0.7896,
+      "profile_path": null
+    },
+    {
+      "personId": 1521229,
+      "name": "Brit Alen",
+      "character": "Louise Daens",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 0.5396,
+      "profile_path": null
+    },
+    {
+      "personId": 53904,
+      "name": "Johan Leysen",
+      "character": "Schmitt",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 0.6365,
+      "profile_path": "/pCBvrMKTNo6cqC63qDSipbtt2Rs.jpg"
+    },
+    {
+      "personId": 114385,
+      "name": "Linda van Dyck",
+      "character": "Elizabeth Borremans",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 0.7733,
+      "profile_path": "/28y9hyNqzUnnhz2U2mXtkJZB2Bo.jpg"
+    },
+    {
+      "personId": 38453,
+      "name": "Idwig Stephane",
+      "character": "Eugene Borremans",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 0.3564,
+      "profile_path": "/sgqOcvQ8hCi7VHDLjRCdFl5G6IR.jpg"
+    },
+    {
+      "personId": 553352,
+      "name": "Jappe Claes",
+      "character": "Ponnet",
+      "order": 11,
+      "cast_id": 15,
+      "popularity": 0.5593,
+      "profile_path": "/kN0nTRa0WzPYJbVRaQD7cOoxFg1.jpg"
+    },
+    {
+      "personId": 1553142,
+      "name": "Brenda Bertin",
+      "character": "Marie",
+      "order": 12,
+      "cast_id": 16,
+      "popularity": 0.253,
+      "profile_path": null
+    },
+    {
+      "personId": 237840,
+      "name": "Alex Wilequet",
+      "character": "Monsignor Goossens",
+      "order": 13,
+      "cast_id": 17,
+      "popularity": 1.5726,
+      "profile_path": null
+    },
+    {
+      "personId": 133913,
+      "name": "Fred Van Kuyk",
+      "character": "Burgemeester Van Wambeke",
+      "order": 14,
+      "cast_id": 10,
+      "popularity": 0.9653,
+      "profile_path": "/d8NtpaeqykAcmdeKkgK1LL93ivz.jpg"
+    },
+    {
+      "personId": 113590,
+      "name": "Herbert Flack",
+      "character": "Van Langenhove (Liberaal)",
+      "order": 15,
+      "cast_id": 4,
+      "popularity": 0.4367,
+      "profile_path": "/ruJXheeI6YsIEImZ4VaKmZaBn82.jpg"
+    },
+    {
+      "personId": 1553143,
+      "name": "Rik Hancké",
+      "character": "Nuncio",
+      "order": 16,
+      "cast_id": 18,
+      "popularity": 0.3457,
+      "profile_path": null
+    },
+    {
+      "personId": 73381,
+      "name": "Matthias Schoenaerts",
+      "character": "Wannes Scholliers",
+      "order": 17,
+      "cast_id": 19,
+      "popularity": 1.5879,
+      "profile_path": "/9mRssCj4si6f6IF3nJ2RB5w0J7g.jpg"
+    },
+    {
+      "personId": 1920546,
+      "name": "Anna Grażyna Suchocka",
+      "character": "Julia",
+      "order": 18,
+      "cast_id": 74,
+      "popularity": 0.107,
+      "profile_path": "/97kYtYsIMSPg9995FunENtxAyw8.jpg"
+    },
+    {
+      "personId": 3811468,
+      "name": "Iwona Hofman",
+      "character": "Clarice",
+      "order": 19,
+      "cast_id": 75,
+      "popularity": 0.1624,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 81964,
+      "name": "Stijn Coninx",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.5138,
+      "profile_path": "/rw9sdCRhj0tnjtzLA07WfXONpZK.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 5565,
+      "name": "biography"
+    },
+    {
+      "id": 7025,
+      "name": "industrial revolution"
+    }
+  ]
+}

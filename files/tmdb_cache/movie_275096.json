@@ -1,0 +1,121 @@
+{
+  "overview": "In the yard of an Iranian village school stands in the shade of a tree a large stoneware jar from which all the pupils drink fresh water. On an unfortunate day, the jar starts leaking. The schoolmaster tries hard to get a new one but in vain. The only solution is to have it fixed...",
+  "release_date": "1994-04-01",
+  "runtime": 86,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 7.2,
+  "tmdb_vote_count": 10,
+  "tmdb_popularity": 0.1221,
+  "original_language": "fa",
+  "poster_path": "/rupg2QX2BAVlwbD6zMWxZa3kIO5.jpg",
+  "backdrop_path": null,
+  "tmdb_genres_raw": [],
+  "production_companies": [],
+  "production_countries": [
+    {
+      "code": "IR",
+      "name": "Iran"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fa",
+      "name": "فارسی"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1353683,
+      "name": "Behzad Khodaveisi",
+      "character": "Teacher",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 0.6895,
+      "profile_path": "/wzk0STG457AOUNwg1Xg4Apn8jC6.jpg"
+    },
+    {
+      "personId": 1353684,
+      "name": "Fatemeh Azrah",
+      "character": "Khavar",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 0.0404,
+      "profile_path": null
+    },
+    {
+      "personId": 3914340,
+      "name": "Abbas Khavaninzadeh",
+      "character": "Gholam Hossein",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 0.0214,
+      "profile_path": null
+    },
+    {
+      "personId": 3914341,
+      "name": "Hassein Balai",
+      "character": "",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 0.0286,
+      "profile_path": null
+    },
+    {
+      "personId": 3914342,
+      "name": "Alireza Haji-Ghasemi",
+      "character": "",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 0.0357,
+      "profile_path": null
+    },
+    {
+      "personId": 3914343,
+      "name": "Sakineh Mehrizi",
+      "character": "Kobra",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 0.0143,
+      "profile_path": null
+    },
+    {
+      "personId": 3914344,
+      "name": "Ramazan Moila-Abbasi",
+      "character": "",
+      "order": 6,
+      "cast_id": 8,
+      "popularity": 0.0261,
+      "profile_path": null
+    },
+    {
+      "personId": 3914345,
+      "name": "Shamsoddin Olfat",
+      "character": "Kad-khoda",
+      "order": 7,
+      "cast_id": 9,
+      "popularity": 0.0143,
+      "profile_path": null
+    },
+    {
+      "personId": 3914347,
+      "name": "A.R. Vaziri",
+      "character": "",
+      "order": 8,
+      "cast_id": 10,
+      "popularity": 0.0286,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1209349,
+      "name": "Ebrahim Forouzesh",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.4387,
+      "profile_path": "/oYY3TxK5j8IRhfTrNiuUbElMjNx.jpg"
+    }
+  ],
+  "keywords": []
+}

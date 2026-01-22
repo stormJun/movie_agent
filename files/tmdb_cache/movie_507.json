@@ -1,0 +1,303 @@
+{
+  "overview": "Zed is an American vault-cracker who travels to Paris to meet up with his old friend Eric. Eric and his gang have planned to raid the only bank in the city which is open on Bastille day. After offering his services, Zed soon finds himself trapped in a situation beyond his control when heroin abuse, poor planning and a call-girl named Zoe all conspire to turn the robbery into a very bloody siege.",
+  "release_date": "1993-10-01",
+  "runtime": 96,
+  "budget": 1500000,
+  "revenue": 418961,
+  "tmdb_vote_average": 6.197,
+  "tmdb_vote_count": 360,
+  "tmdb_popularity": 1.6261,
+  "original_language": "en",
+  "poster_path": "/k3UEKMVnkljOlsO5sLmz87YGlaG.jpg",
+  "backdrop_path": "/3yoyioAdnZNrhDv2eQwflfqm7b7.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    {
+      "id": 37297,
+      "name": "PFG Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 342,
+      "name": "Davis Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 285,
+      "name": "Live Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 7036,
+      "name": "Eric Stoltz",
+      "character": "Zed",
+      "order": 0,
+      "cast_id": 8,
+      "popularity": 3.934,
+      "profile_path": "/idFuM00MeVmwGAiqvDaJcBiLAmD.jpg"
+    },
+    {
+      "personId": 1146,
+      "name": "Julie Delpy",
+      "character": "Zoe",
+      "order": 1,
+      "cast_id": 9,
+      "popularity": 2.508,
+      "profile_path": "/rd40f4QpAUUne3hMaUhHrZtcK2c.jpg"
+    },
+    {
+      "personId": 7037,
+      "name": "Jean-Hugues Anglade",
+      "character": "Eric",
+      "order": 2,
+      "cast_id": 10,
+      "popularity": 1.3083,
+      "profile_path": "/cpSxpZLgtzuizHyEmdkh9rgKkRs.jpg"
+    },
+    {
+      "personId": 7038,
+      "name": "Tai Thai",
+      "character": "François",
+      "order": 3,
+      "cast_id": 11,
+      "popularity": 1.3532,
+      "profile_path": "/h0b76A1cJYIOLEvJDGgRoSyrifs.jpg"
+    },
+    {
+      "personId": 7039,
+      "name": "Bruce Ramsay",
+      "character": "Ricardo",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 1.1224,
+      "profile_path": "/xvVbXMzHqZ0kMs77EScQ76S4gWH.jpg"
+    },
+    {
+      "personId": 7040,
+      "name": "Kario Salem",
+      "character": "Jean",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 0.9699,
+      "profile_path": "/mAKOgOVfX0Bih7TADUrIe0jqivc.jpg"
+    },
+    {
+      "personId": 7041,
+      "name": "Salvator Xuereb",
+      "character": "Claude",
+      "order": 6,
+      "cast_id": 14,
+      "popularity": 1.1848,
+      "profile_path": "/f6stWXAo1DYdJk1AZy3t8jCNi1z.jpg"
+    },
+    {
+      "personId": 7042,
+      "name": "Gary Kemp",
+      "character": "Oliver",
+      "order": 7,
+      "cast_id": 15,
+      "popularity": 1.925,
+      "profile_path": "/jOxSHoR0GEbPvZ9gNGukyK2IKFG.jpg"
+    },
+    {
+      "personId": 7043,
+      "name": "Martin Raymond",
+      "character": "Cab Driver",
+      "order": 8,
+      "cast_id": 16,
+      "popularity": 0.7533,
+      "profile_path": null
+    },
+    {
+      "personId": 7044,
+      "name": "Eric Pascal Chaltiel",
+      "character": "Bellboy",
+      "order": 9,
+      "cast_id": 17,
+      "popularity": 0.0682,
+      "profile_path": null
+    },
+    {
+      "personId": 7046,
+      "name": "Cecilia Peck",
+      "character": "Martina",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 0.7978,
+      "profile_path": "/kFroqrLbmVATUFMIoY4KnLKKTo7.jpg"
+    },
+    {
+      "personId": 42545,
+      "name": "Ron Jeremy",
+      "character": "Concierge (as Ron Jeremy Hyatt)",
+      "order": 11,
+      "cast_id": 21,
+      "popularity": 14.033,
+      "profile_path": "/h43ihXotHzPpMdqNV80JDAua0co.jpg"
+    },
+    {
+      "personId": 164987,
+      "name": "Gladys Holland",
+      "character": "Sub Lobby Teller",
+      "order": 12,
+      "cast_id": 22,
+      "popularity": 0.4744,
+      "profile_path": "/jk5Spl1xHf1jxEIqJWuzWP5U59x.jpg"
+    },
+    {
+      "personId": 2174,
+      "name": "Kimberly Beck",
+      "character": "Woman Customer",
+      "order": 13,
+      "cast_id": 23,
+      "popularity": 1.1902,
+      "profile_path": "/hdeafwyoYDEF1i3zR7TX0skACcS.jpg"
+    },
+    {
+      "personId": 938,
+      "name": "Djimon Hounsou",
+      "character": "Moïse (voice)",
+      "order": 14,
+      "cast_id": 24,
+      "popularity": 3.4882,
+      "profile_path": "/tpvtxxvCx2Mb5DV632hmuYlHoiY.jpg"
+    },
+    {
+      "personId": 1604098,
+      "name": "Annette Goodman",
+      "character": "Bank Teller (uncredited)",
+      "order": 15,
+      "cast_id": 25,
+      "popularity": 0.2879,
+      "profile_path": null
+    },
+    {
+      "personId": 2158528,
+      "name": "Gérard Bonn",
+      "character": "Assistant Bank Manager",
+      "order": 16,
+      "cast_id": 35,
+      "popularity": 0.8252,
+      "profile_path": "/fiInf6miBdTDjgytNN3wsLjDGil.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 8297,
+      "name": "Roger Avary",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.7754,
+      "profile_path": "/wYGFu95L7mzSuw91cm8BHP7z7Rf.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6054,
+      "name": "friendship"
+    },
+    {
+      "id": 549,
+      "name": "prostitute"
+    },
+    {
+      "id": 642,
+      "name": "robbery"
+    },
+    {
+      "id": 726,
+      "name": "drug abuse"
+    },
+    {
+      "id": 90,
+      "name": "paris, france"
+    },
+    {
+      "id": 1416,
+      "name": "jazz"
+    },
+    {
+      "id": 740,
+      "name": "aids"
+    },
+    {
+      "id": 1930,
+      "name": "kidnapping"
+    },
+    {
+      "id": 1562,
+      "name": "hostage"
+    },
+    {
+      "id": 974,
+      "name": "bank"
+    },
+    {
+      "id": 2671,
+      "name": "heroin"
+    },
+    {
+      "id": 2375,
+      "name": "junkie"
+    },
+    {
+      "id": 1759,
+      "name": "night life"
+    },
+    {
+      "id": 1953,
+      "name": "vault"
+    },
+    {
+      "id": 2492,
+      "name": "bank robber"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 14964,
+      "name": "drugs"
+    },
+    {
+      "id": 15363,
+      "name": "bank robbery"
+    },
+    {
+      "id": 33625,
+      "name": "illegal prostitution"
+    },
+    {
+      "id": 160488,
+      "name": "hoodlum"
+    }
+  ]
+}

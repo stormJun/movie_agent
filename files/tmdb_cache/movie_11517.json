@@ -1,0 +1,256 @@
+{
+  "overview": "When a vengeful New York transit cop decides to steal a trainload of subway fares, his foster brother—a fellow cop—tries to protect him.",
+  "release_date": "1995-11-21",
+  "runtime": 110,
+  "budget": 68000000,
+  "revenue": 77224232,
+  "tmdb_vote_average": 5.845,
+  "tmdb_vote_count": 826,
+  "tmdb_popularity": 4.5476,
+  "original_language": "en",
+  "poster_path": "/jWBDz6Mf9aQVBiUS76JQsEhvoJl.jpg",
+  "backdrop_path": "/gyaBJn7eR8Ol205wmT2Xpi6IuhA.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 16774,
+      "name": "Peters Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10814,
+      "name": "Wesley Snipes",
+      "character": "John",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.1852,
+      "profile_path": "/232tIFkJYkmtQIM31Pi5dmLRR8p.jpg"
+    },
+    {
+      "personId": 57755,
+      "name": "Woody Harrelson",
+      "character": "Charlie",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 7.3214,
+      "profile_path": "/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+    },
+    {
+      "personId": 16866,
+      "name": "Jennifer Lopez",
+      "character": "Grace Santiago",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 4.5493,
+      "profile_path": "/169kOiv7jkEfHxIC5wrZNszkPv1.jpg"
+    },
+    {
+      "personId": 9287,
+      "name": "Robert Blake",
+      "character": "Donald Patterson",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 1.6312,
+      "profile_path": "/gxhVHS4qhVp1xJiCy9s08ltIiPu.jpg"
+    },
+    {
+      "personId": 2955,
+      "name": "Chris Cooper",
+      "character": "Torch",
+      "order": 4,
+      "cast_id": 17,
+      "popularity": 3.2356,
+      "profile_path": "/j0sQDzaDlnNAdaYhy6HRRAFi22.jpg"
+    },
+    {
+      "personId": 4887,
+      "name": "Joe Grifasi",
+      "character": "Riley",
+      "order": 5,
+      "cast_id": 18,
+      "popularity": 1.4496,
+      "profile_path": "/30c0szBZvqsk3nuOgg2A9PeSQFt.jpg"
+    },
+    {
+      "personId": 32287,
+      "name": "Scott Sowers",
+      "character": "Mr. Brown",
+      "order": 6,
+      "cast_id": 19,
+      "popularity": 1.5122,
+      "profile_path": "/5La5xtIg32vkQQfUD0AsdLcF8OD.jpg"
+    },
+    {
+      "personId": 33658,
+      "name": "Skipp Sudduth",
+      "character": "Kowalski",
+      "order": 7,
+      "cast_id": 20,
+      "popularity": 1.3216,
+      "profile_path": "/5vVP9t07OsJQcgxwNrDthNUtA1Y.jpg"
+    },
+    {
+      "personId": 106791,
+      "name": "Aida Turturro",
+      "character": "Woman on Platform",
+      "order": 8,
+      "cast_id": 21,
+      "popularity": 1.5169,
+      "profile_path": "/kEPpV3eHXOKXGWGtsxUUV6k1hai.jpg"
+    },
+    {
+      "personId": 47774,
+      "name": "Vincent Pastore",
+      "character": "Gambler",
+      "order": 9,
+      "cast_id": 22,
+      "popularity": 1.7656,
+      "profile_path": "/dyRRn8POwLUMHT7lIISujioYOym.jpg"
+    },
+    {
+      "personId": 15029,
+      "name": "Enrico Colantoni",
+      "character": "Dooley",
+      "order": 10,
+      "cast_id": 23,
+      "popularity": 2.0284,
+      "profile_path": "/yxxy8IrGRwnRPbLmgyfwF26Feve.jpg"
+    },
+    {
+      "personId": 5502,
+      "name": "Bill Nunn",
+      "character": "Crash Train Motorman",
+      "order": 11,
+      "cast_id": 24,
+      "popularity": 1.7516,
+      "profile_path": "/trxNvS6g5yvwbXzx2LK6JqutE5z.jpg"
+    },
+    {
+      "personId": 15372,
+      "name": "Jeremy Roberts",
+      "character": "Guard",
+      "order": 12,
+      "cast_id": 60,
+      "popularity": 0.997,
+      "profile_path": "/rzfw2DlAljEsgeWmHHWVwZnMtvj.jpg"
+    },
+    {
+      "personId": 1811956,
+      "name": "Joe Bacino",
+      "character": "Decoy Cop",
+      "order": 13,
+      "cast_id": 61,
+      "popularity": 0.6942,
+      "profile_path": "/p1V6C3xcZ9R0U6uEfu3eDwEfKhF.jpg"
+    },
+    {
+      "personId": 156186,
+      "name": "Gregory McKinney",
+      "character": "Guard",
+      "order": 14,
+      "cast_id": 71,
+      "popularity": 0.9215,
+      "profile_path": "/toApK4QzQ35MHb6Yi2QtLJxT9xg.jpg"
+    },
+    {
+      "personId": 10963,
+      "name": "José Zúñiga",
+      "character": "Victor",
+      "order": 15,
+      "cast_id": 72,
+      "popularity": 2.4138,
+      "profile_path": "/r6nFkJkMHP9tFDohwfav9Bf2rCR.jpg"
+    },
+    {
+      "personId": 109686,
+      "name": "Flex Alexander",
+      "character": "Hood",
+      "order": 16,
+      "cast_id": 74,
+      "popularity": 1.4505,
+      "profile_path": "/hxsb6X2TmUVkNvMq5K12NK6z7w2.jpg"
+    },
+    {
+      "personId": 37947,
+      "name": "Lawrence Gilliard Jr.",
+      "character": "Hood",
+      "order": 17,
+      "cast_id": 159,
+      "popularity": 1.2384,
+      "profile_path": "/1b0oIuPOwJoRWpmF96IOxwmkpDw.jpg"
+    },
+    {
+      "personId": 929042,
+      "name": "Sharon Schaffer",
+      "character": "Token Clerk",
+      "order": 18,
+      "cast_id": 73,
+      "popularity": 0.5767,
+      "profile_path": "/kUeAvkhnJkP4mEi9uqZ8s4ertXu.jpg"
+    },
+    {
+      "personId": 1606713,
+      "name": "Catherine Dudley-Rose",
+      "character": "Cop's Girlfriend (uncredited)",
+      "order": 19,
+      "cast_id": 76,
+      "popularity": 0.1323,
+      "profile_path": "/mYvgHEuSv40VTfSub7BhFeSlCb5.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 52629,
+      "name": "Joseph Ruben",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.0685,
+      "profile_path": "/ic4WkiH78PdkmxEE6i50DV8V49T.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 380,
+      "name": "sibling relationship"
+    },
+    {
+      "id": 1552,
+      "name": "subway"
+    },
+    {
+      "id": 155735,
+      "name": "new york subway"
+    },
+    {
+      "id": 156120,
+      "name": "train robbery"
+    }
+  ]
+}

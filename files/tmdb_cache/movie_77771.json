@@ -1,0 +1,170 @@
+{
+  "overview": "Mory, a cowherd, and Anta, a university student, try to make money in order to go to Paris and leave their boring past behind.",
+  "release_date": "1973-05-10",
+  "runtime": 91,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.662,
+  "tmdb_vote_count": 105,
+  "tmdb_popularity": 3.1273,
+  "original_language": "wo",
+  "poster_path": "/kcBYKHyg9GcQqa6DWq0AuQDhtPI.jpg",
+  "backdrop_path": "/7DlEixaKiNJyK0tHri0AEUAQrk8.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 72471,
+      "name": "Studio Kankourama",
+      "origin_country": ""
+    },
+    {
+      "id": 72472,
+      "name": "Cinegrit",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "SN",
+      "name": "Senegal"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "ar",
+      "name": "العربية"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "wo",
+      "name": "Wolof"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1154889,
+      "name": "Magaye Niang",
+      "character": "Mory",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 1.2345,
+      "profile_path": null
+    },
+    {
+      "personId": 1200639,
+      "name": "Myriam Niang",
+      "character": "Anta",
+      "order": 1,
+      "cast_id": 13,
+      "popularity": 1.1486,
+      "profile_path": "/qDoXiXagNW6AoW7S4RlkxDI52dp.jpg"
+    },
+    {
+      "personId": 1186856,
+      "name": "Christoph Colomb",
+      "character": "",
+      "order": 2,
+      "cast_id": 8,
+      "popularity": 0.09,
+      "profile_path": null
+    },
+    {
+      "personId": 1200621,
+      "name": "Mustapha Ture",
+      "character": "",
+      "order": 3,
+      "cast_id": 9,
+      "popularity": 0.4577,
+      "profile_path": "/1ARmphcmZSi8cLM4iZKtFoMRW3K.jpg"
+    },
+    {
+      "personId": 1090191,
+      "name": "Aminata Fall",
+      "character": "Aunt Oumy",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.2033,
+      "profile_path": "/zUHRQyaTPXqlND36XVgQ08W9uO8.jpg"
+    },
+    {
+      "personId": 1146166,
+      "name": "Ousseynou Diop",
+      "character": "Charlie",
+      "order": 5,
+      "cast_id": 6,
+      "popularity": 0.1314,
+      "profile_path": null
+    },
+    {
+      "personId": 1568142,
+      "name": "Ndou Labia",
+      "character": "",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 0.1883,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1079380,
+      "name": "Djibril Diop Mambéty",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6403,
+      "profile_path": "/qP0a19xyKBoAY22ZsnJJy9Okfm6.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3799,
+      "name": "ship"
+    },
+    {
+      "id": 1625,
+      "name": "emigration"
+    },
+    {
+      "id": 6544,
+      "name": "senegal"
+    },
+    {
+      "id": 7312,
+      "name": "road trip"
+    },
+    {
+      "id": 14735,
+      "name": "motorcycle"
+    },
+    {
+      "id": 15216,
+      "name": "avant-garde"
+    },
+    {
+      "id": 15225,
+      "name": "cattle"
+    },
+    {
+      "id": 220809,
+      "name": "young lovers"
+    },
+    {
+      "id": 226646,
+      "name": "animal slaughter"
+    },
+    {
+      "id": 258533,
+      "name": "gay theme"
+    },
+    {
+      "id": 260856,
+      "name": "dakar"
+    }
+  ]
+}

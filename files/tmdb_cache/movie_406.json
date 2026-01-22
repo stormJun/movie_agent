@@ -1,0 +1,337 @@
+{
+  "overview": "After a chaotic night of rioting in a marginal suburb of Paris, three young friends, Vinz, Hubert and Saïd, wander around unoccupied waiting for news about the state of health of a mutual friend who has been seriously injured when confronting the police.",
+  "release_date": "1995-05-31",
+  "runtime": 98,
+  "budget": 2600000,
+  "revenue": 15300000,
+  "tmdb_vote_average": 8.083,
+  "tmdb_vote_count": 4391,
+  "tmdb_popularity": 6.3697,
+  "original_language": "fr",
+  "poster_path": "/8rgPyWjYZhsphSSxbXguMnhN7H0.jpg",
+  "backdrop_path": "/k61xLJgPo7ScxHLLiBzTM9IDaB7.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 22684,
+      "name": "Kasso Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 16366,
+      "name": "La Sept Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 5869,
+      "name": "Les Productions Lazennec",
+      "origin_country": "FR"
+    },
+    {
+      "id": 104,
+      "name": "Canal+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 694,
+      "name": "StudioCanal",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1925,
+      "name": "Vincent Cassel",
+      "character": "Vinz",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 4.3702,
+      "profile_path": "/KxzpJXyzVnqfouInWLypAND0gL.jpg"
+    },
+    {
+      "personId": 5418,
+      "name": "Hubert Koundé",
+      "character": "Hubert",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 0.838,
+      "profile_path": "/nii46CtpR2AYPkl8fBKtbrffqQg.jpg"
+    },
+    {
+      "personId": 5419,
+      "name": "Saïd Taghmaoui",
+      "character": "Saïd",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 2.2341,
+      "profile_path": "/kuxI08YpwQFGweIXK7TELknwexr.jpg"
+    },
+    {
+      "personId": 5420,
+      "name": "Abdel Ahmed Ghili",
+      "character": "Abdel",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 0.4868,
+      "profile_path": "/zCBgVA0B1ywgIQsMCPIhfnE7C60.jpg"
+    },
+    {
+      "personId": 5422,
+      "name": "Solo",
+      "character": "Santo",
+      "order": 4,
+      "cast_id": 47,
+      "popularity": 0.3856,
+      "profile_path": "/ydu1Na06GXKjARkfbdv4ulG6z6.jpg"
+    },
+    {
+      "personId": 5423,
+      "name": "Joseph Momo",
+      "character": "Ordinary Man",
+      "order": 5,
+      "cast_id": 77,
+      "popularity": 0.3884,
+      "profile_path": null
+    },
+    {
+      "personId": 5424,
+      "name": "Héloïse Rauth",
+      "character": "Sarah",
+      "order": 6,
+      "cast_id": 78,
+      "popularity": 0.3493,
+      "profile_path": "/vXfAbfJTvH92srHQR4lAJIYZKTB.jpg"
+    },
+    {
+      "personId": 1347614,
+      "name": "Rywka Wajsbrot",
+      "character": "Vinz's Grandmother",
+      "order": 7,
+      "cast_id": 79,
+      "popularity": 1.3536,
+      "profile_path": null
+    },
+    {
+      "personId": 1347615,
+      "name": "Olga Abrego",
+      "character": "Vinz's Aunt",
+      "order": 8,
+      "cast_id": 80,
+      "popularity": 0.6309,
+      "profile_path": "/2Ler9163a2LQnfDbcc2f0iCgSrX.jpg"
+    },
+    {
+      "personId": 579488,
+      "name": "Laurent Labasse",
+      "character": "Cook",
+      "order": 9,
+      "cast_id": 81,
+      "popularity": 0.3388,
+      "profile_path": "/A02b91qXIUF1T1PAduRzaVcxDOp.jpg"
+    },
+    {
+      "personId": 64546,
+      "name": "Choukri Gabteni",
+      "character": "Saïd's Brother",
+      "order": 10,
+      "cast_id": 82,
+      "popularity": 0.3093,
+      "profile_path": "/4xW7gtiMOmWwTrCOgwhdj82D81c.jpg"
+    },
+    {
+      "personId": 2623427,
+      "name": "Nabil Ben Mhamed",
+      "character": "Joking Boy",
+      "order": 11,
+      "cast_id": 83,
+      "popularity": 0.1185,
+      "profile_path": null
+    },
+    {
+      "personId": 5442,
+      "name": "Benoît Magimel",
+      "character": "Benoît",
+      "order": 12,
+      "cast_id": 84,
+      "popularity": 1.5943,
+      "profile_path": "/uctqbM33Qws7bzVawdCJmb4nyJY.jpg"
+    },
+    {
+      "personId": 2623429,
+      "name": "Médard Niang",
+      "character": "Médard",
+      "order": 13,
+      "cast_id": 85,
+      "popularity": 0.0579,
+      "profile_path": null
+    },
+    {
+      "personId": 2623400,
+      "name": "Arash Mansour",
+      "character": "Arash",
+      "order": 14,
+      "cast_id": 86,
+      "popularity": 0.062,
+      "profile_path": null
+    },
+    {
+      "personId": 2623430,
+      "name": "Abdel-Moulah Boujdouni",
+      "character": "Young Businessman",
+      "order": 15,
+      "cast_id": 87,
+      "popularity": 0.1099,
+      "profile_path": null
+    },
+    {
+      "personId": 961888,
+      "name": "Mathilde Vitry",
+      "character": "Journalist",
+      "order": 16,
+      "cast_id": 88,
+      "popularity": 0.2682,
+      "profile_path": "/gRIu92RCdaL3LB3MOSqjKo5x7wL.jpg"
+    },
+    {
+      "personId": 572508,
+      "name": "Christian Moro",
+      "character": "CRS TV Journalist",
+      "order": 17,
+      "cast_id": 89,
+      "popularity": 0.1333,
+      "profile_path": "/4JF41UwsaIG4gSnhdfFZv6fs4rr.jpg"
+    },
+    {
+      "personId": 5441,
+      "name": "Édouard Montoute",
+      "character": "Darty",
+      "order": 18,
+      "cast_id": 90,
+      "popularity": 0.7852,
+      "profile_path": "/fWbTkHyL7ByGUuz8C77US8tuDNF.jpg"
+    },
+    {
+      "personId": 2399927,
+      "name": "JiBi",
+      "character": "Roundabout Man",
+      "order": 19,
+      "cast_id": 91,
+      "popularity": 0.0544,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2406,
+      "name": "Mathieu Kassovitz",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1832,
+      "profile_path": "/3FRBEdKKlxhvPWPt0jzgmSjeHwn.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 796,
+      "name": "police brutality"
+    },
+    {
+      "id": 898,
+      "name": "hip-hop"
+    },
+    {
+      "id": 90,
+      "name": "paris, france"
+    },
+    {
+      "id": 1952,
+      "name": "socially deprived family"
+    },
+    {
+      "id": 1974,
+      "name": "breakdance"
+    },
+    {
+      "id": 2394,
+      "name": "ghetto"
+    },
+    {
+      "id": 3230,
+      "name": "male friendship"
+    },
+    {
+      "id": 5397,
+      "name": "street riots"
+    },
+    {
+      "id": 12425,
+      "name": "racism"
+    },
+    {
+      "id": 12999,
+      "name": "black and white"
+    },
+    {
+      "id": 15158,
+      "name": "rebellious youth"
+    },
+    {
+      "id": 160910,
+      "name": "xenophobia"
+    },
+    {
+      "id": 161722,
+      "name": "housing project"
+    },
+    {
+      "id": 173577,
+      "name": "ethnic diversity"
+    },
+    {
+      "id": 186355,
+      "name": "riot police"
+    },
+    {
+      "id": 197702,
+      "name": "day in a life"
+    },
+    {
+      "id": 202371,
+      "name": "aggressive"
+    },
+    {
+      "id": 233950,
+      "name": "skinheads"
+    },
+    {
+      "id": 248022,
+      "name": "paris suburb"
+    },
+    {
+      "id": 319922,
+      "name": "gun death"
+    },
+    {
+      "id": 337489,
+      "name": "police shooting"
+    },
+    {
+      "id": 347587,
+      "name": "urban violence"
+    }
+  ]
+}

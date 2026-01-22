@@ -1,0 +1,259 @@
+{
+  "overview": "Corky, a tough female ex-convict working on an apartment renovation in a Chicago building, meets a couple living next door, Caesar, a paranoid mobster, and Violet, his seductive girlfriend, who is immediately attracted to her.",
+  "release_date": "1996-09-13",
+  "runtime": 105,
+  "budget": 4500000,
+  "revenue": 7011317,
+  "tmdb_vote_average": 7.215,
+  "tmdb_vote_count": 1036,
+  "tmdb_popularity": 4.5574,
+  "original_language": "en",
+  "poster_path": "/9qAy6UWVw44dGrsyKrdEMt5qIUM.jpg",
+  "backdrop_path": "/k1HwxcuoCrKzfZ4UbU1fnNKgXGV.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Thriller",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 10308,
+      "name": "The De Laurentiis Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 491,
+      "name": "Summit Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 506,
+      "name": "Newmarket Capital Group",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "it",
+      "name": "Italiano"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11150,
+      "name": "Gina Gershon",
+      "character": "Corky",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 5.0887,
+      "profile_path": "/jgry61wtl058ft9O1Rigp3qADyf.jpg"
+    },
+    {
+      "personId": 7906,
+      "name": "Jennifer Tilly",
+      "character": "Violet",
+      "order": 1,
+      "cast_id": 1,
+      "popularity": 4.7122,
+      "profile_path": "/jrWj0LKOLGyn8BjxCPfwxX3BXC4.jpg"
+    },
+    {
+      "personId": 532,
+      "name": "Joe Pantoliano",
+      "character": "Caesar",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 4.2493,
+      "profile_path": "/3OHUI3nX4SYGGItDk3xqeIvWtIf.jpg"
+    },
+    {
+      "personId": 15213,
+      "name": "John P. Ryan",
+      "character": "Mickey Malnato",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.1413,
+      "profile_path": "/6WV5Sv2YnFG0W1rVnxOxpLyIFUM.jpg"
+    },
+    {
+      "personId": 22227,
+      "name": "Christopher Meloni",
+      "character": "Johnnie Marzzone",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 2.4456,
+      "profile_path": "/nHlFFbRTh85vkohBBtRQjYnWEtb.jpg"
+    },
+    {
+      "personId": 21544,
+      "name": "Richard C. Sarafian",
+      "character": "Gino Marzzone",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 0.6296,
+      "profile_path": "/5r4AFht3ecnl4V2w8KvfmV7A4yB.jpg"
+    },
+    {
+      "personId": 152345,
+      "name": "Barry Kivel",
+      "character": "Shelly",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 0.7735,
+      "profile_path": "/85QspM4BtKJIpfTBi3UGdCJMcoI.jpg"
+    },
+    {
+      "personId": 96554,
+      "name": "Mary Mara",
+      "character": "Bartender",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 1.2373,
+      "profile_path": "/92imYsDHRebUN7Aut53yQPekl3L.jpg"
+    },
+    {
+      "personId": 1429026,
+      "name": "Susie Bright",
+      "character": "Jesse",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 1.094,
+      "profile_path": "/zVO2CUNkbwNhzo54Idzt0gLucDB.jpg"
+    },
+    {
+      "personId": 1218682,
+      "name": "Margaret Smith",
+      "character": "Woman Cop",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 1.6639,
+      "profile_path": "/dyGPXZ7PBvGGNelOsusCIZkWjaJ.jpg"
+    },
+    {
+      "personId": 9659,
+      "name": "Peter Spellos",
+      "character": "Lou",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 0.7794,
+      "profile_path": "/wxgf8Bm5VxBE0DBUoC2oUQQxWn9.jpg"
+    },
+    {
+      "personId": 11891,
+      "name": "Ivan Kane",
+      "character": "Cop #1",
+      "order": 11,
+      "cast_id": 19,
+      "popularity": 2.1766,
+      "profile_path": "/ps90jjqtgWo00c1MYOfelhlBwGV.jpg"
+    },
+    {
+      "personId": 24362,
+      "name": "Kevin Michael Richardson",
+      "character": "Cop #2",
+      "order": 12,
+      "cast_id": 20,
+      "popularity": 3.9959,
+      "profile_path": "/xXt9Nh7RAT5bOen66TaXreNYmCl.jpg"
+    },
+    {
+      "personId": 152638,
+      "name": "Gene Borkan",
+      "character": "Roy",
+      "order": 13,
+      "cast_id": 21,
+      "popularity": 1.5456,
+      "profile_path": "/b4YJYoLnrq5dZzCWpeUcfTdI03q.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 9339,
+      "name": "Lilly Wachowski",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1275,
+      "profile_path": "/rCScAjSpeKA19BLNR07MqNNeeTT.jpg"
+    },
+    {
+      "personId": 9340,
+      "name": "Lana Wachowski",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.8523,
+      "profile_path": "/5KuRHnoH8UkSCFHMKf4YjKOvzOM.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1326,
+      "name": "infidelity"
+    },
+    {
+      "id": 975,
+      "name": "money laundering"
+    },
+    {
+      "id": 1878,
+      "name": "plumber"
+    },
+    {
+      "id": 9730,
+      "name": "crime boss"
+    },
+    {
+      "id": 10051,
+      "name": "heist"
+    },
+    {
+      "id": 9833,
+      "name": "lesbian relationship"
+    },
+    {
+      "id": 10391,
+      "name": "mafia"
+    },
+    {
+      "id": 14720,
+      "name": "love affair"
+    },
+    {
+      "id": 156121,
+      "name": "ex-con"
+    },
+    {
+      "id": 207268,
+      "name": "neo-noir"
+    },
+    {
+      "id": 264386,
+      "name": "lesbian"
+    },
+    {
+      "id": 286925,
+      "name": "affair"
+    },
+    {
+      "id": 314730,
+      "name": "suspenseful"
+    },
+    {
+      "id": 319591,
+      "name": "italian mafia"
+    },
+    {
+      "id": 325811,
+      "name": "excited"
+    }
+  ]
+}

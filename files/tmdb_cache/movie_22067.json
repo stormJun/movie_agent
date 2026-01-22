@@ -1,0 +1,227 @@
+{
+  "overview": "The story of a young man who must confront his own fears about love as well as his relationships with family and friends.",
+  "release_date": "1994-05-22",
+  "runtime": 119,
+  "budget": 7000000,
+  "revenue": 20851521,
+  "tmdb_vote_average": 6.7,
+  "tmdb_vote_count": 55,
+  "tmdb_popularity": 0.5977,
+  "original_language": "en",
+  "poster_path": "/2dXA5dNh3kqDQwRt08TxxgldTOW.jpg",
+  "backdrop_path": "/8yUVptQ82wWax8h3X9lURadGZ0d.jpg",
+  "tmdb_genres_raw": [
+    "Crime",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 1382,
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 32486,
+      "name": "Allen Payne",
+      "character": "Jason Alexander",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.6565,
+      "profile_path": "/fGma6p1NUrb3hYYls4zxneNcyAa.jpg"
+    },
+    {
+      "personId": 9575,
+      "name": "Jada Pinkett Smith",
+      "character": "Lyric",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 3.9895,
+      "profile_path": "/vt1Z1Fsu7gjp4L0OHey9Aa79lWj.jpg"
+    },
+    {
+      "personId": 71913,
+      "name": "Bokeem Woodbine",
+      "character": "Joshua Alexander",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 3.4251,
+      "profile_path": "/pnPyA5pJn94zUzuLWTNkGBNZxza.jpg"
+    },
+    {
+      "personId": 62842,
+      "name": "Eddie Griffin",
+      "character": "Rat",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 2.0927,
+      "profile_path": "/xPiiT0BnxpG04Xqmj6PciBC0o7I.jpg"
+    },
+    {
+      "personId": 80622,
+      "name": "Suzzanne Douglas",
+      "character": "Gloria",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 0.6759,
+      "profile_path": "/ldfCErLjjST3HBZSK8G4KBMDZhR.jpg"
+    },
+    {
+      "personId": 55274,
+      "name": "Lisa Nicole Carson",
+      "character": "Marti",
+      "order": 5,
+      "cast_id": 10,
+      "popularity": 1.607,
+      "profile_path": "/2BmzDyUOaoUATRMAaTshpg2AAMt.jpg"
+    },
+    {
+      "personId": 98298,
+      "name": "Lahmard J. Tate",
+      "character": "Ron",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 0.7065,
+      "profile_path": "/tsJ0DoZK6dakzgNpcQMQUKx6GFf.jpg"
+    },
+    {
+      "personId": 2178,
+      "name": "Forest Whitaker",
+      "character": "Maddog",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 4.4112,
+      "profile_path": "/4w7l5JUwnwFNBy7J93ZwYN1nihm.jpg"
+    },
+    {
+      "personId": 138037,
+      "name": "Sandra 'Pepa' Denton",
+      "character": "Sandy",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 0.518,
+      "profile_path": "/2qHSZI8FGTI22jfZgkaLeKKgWjh.jpg"
+    },
+    {
+      "personId": 62817,
+      "name": "Treach",
+      "character": "Alonzo",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 0.7127,
+      "profile_path": "/iRMfIuyuJqmOwXfJZjuIuNVXmDo.jpg"
+    },
+    {
+      "personId": 1733502,
+      "name": "Rushion McDonald",
+      "character": "Fast Freddy",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 0.1873,
+      "profile_path": null
+    },
+    {
+      "personId": 98902,
+      "name": "Bebe Drake",
+      "character": "Ms. Murphy",
+      "order": 11,
+      "cast_id": 16,
+      "popularity": 1.6064,
+      "profile_path": "/pSIS3aBdOlxlTzw6MKinGqK3OC9.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 67896,
+      "name": "Doug McHenry",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6399,
+      "profile_path": "/nndmgxb7OJc5U49kDzRIAjnLfGw.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 10235,
+      "name": "family relationships"
+    },
+    {
+      "id": 13073,
+      "name": "fear"
+    },
+    {
+      "id": 14534,
+      "name": "relationship"
+    },
+    {
+      "id": 208282,
+      "name": "gospel singer"
+    },
+    {
+      "id": 232076,
+      "name": "desperate"
+    },
+    {
+      "id": 239797,
+      "name": "complex"
+    },
+    {
+      "id": 251667,
+      "name": "anxious"
+    },
+    {
+      "id": 261264,
+      "name": "dreary"
+    },
+    {
+      "id": 293649,
+      "name": "provocative"
+    },
+    {
+      "id": 324429,
+      "name": "romantic"
+    },
+    {
+      "id": 325766,
+      "name": "antagonistic"
+    },
+    {
+      "id": 325780,
+      "name": "callous"
+    },
+    {
+      "id": 325790,
+      "name": "cruel"
+    },
+    {
+      "id": 325818,
+      "name": "frightened"
+    },
+    {
+      "id": 325819,
+      "name": "frustrated"
+    },
+    {
+      "id": 325820,
+      "name": "gentle"
+    },
+    {
+      "id": 325824,
+      "name": "hopeful"
+    }
+  ]
+}

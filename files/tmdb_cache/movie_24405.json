@@ -1,0 +1,253 @@
+{
+  "overview": "Military men Rock Reilly and Eddie Devane are tasked with taking a prisoner, blonde bombshell Toni Johnson, on what becomes an unforgettable road trip. Toni, an enlistee who's in trouble for deserting her unit, soon proves that she's craftier than most inmates.",
+  "release_date": "1994-04-22",
+  "runtime": 102,
+  "budget": 15000000,
+  "revenue": 1596687,
+  "tmdb_vote_average": 5.397,
+  "tmdb_vote_count": 165,
+  "tmdb_popularity": 1.8332,
+  "original_language": "en",
+  "poster_path": "/mEG6fTyTjsA1vzTTqCXsiJzjdQ5.jpg",
+  "backdrop_path": "/g6jT5XdfDN72THwXI01WtCSTA35.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 10210,
+      "name": "Morgan Creek Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13022,
+      "name": "Tom Berenger",
+      "character": "Rock Reilly",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 3.4408,
+      "profile_path": "/zLxzAdAfu7y02yEx29JSLDgXJZ4.jpg"
+    },
+    {
+      "personId": 18687,
+      "name": "William McNamara",
+      "character": "Eddie Devane",
+      "order": 1,
+      "cast_id": 9,
+      "popularity": 1.117,
+      "profile_path": "/c6mLOGGpJK94a0RNt6LPeoHEONh.jpg"
+    },
+    {
+      "personId": 23764,
+      "name": "Erika Eleniak",
+      "character": "Toni Johnson",
+      "order": 2,
+      "cast_id": 1,
+      "popularity": 3.5011,
+      "profile_path": "/lu9RKtMCHRZIzLJzWieiku0LSYU.jpg"
+    },
+    {
+      "personId": 1064,
+      "name": "Crispin Glover",
+      "character": "Howard Finster",
+      "order": 3,
+      "cast_id": 10,
+      "popularity": 3.3996,
+      "profile_path": "/imBnLpSXvg61qDDdEfvL6R4ITKt.jpg"
+    },
+    {
+      "personId": 1219226,
+      "name": "Matthew Glave",
+      "character": "Rory Blanes",
+      "order": 4,
+      "cast_id": 22,
+      "popularity": 2.6745,
+      "profile_path": "/eOKxqa7tMNpehJarcLEgen0rwvA.jpg"
+    },
+    {
+      "personId": 14333,
+      "name": "Grand L. Bush",
+      "character": "Vance Dooly",
+      "order": 5,
+      "cast_id": 12,
+      "popularity": 1.5667,
+      "profile_path": "/s0Ld1HdCrCTpgYuw8D5LTfNuYwC.jpg"
+    },
+    {
+      "personId": 923,
+      "name": "Dean Stockwell",
+      "character": "Salesman Stig",
+      "order": 6,
+      "cast_id": 23,
+      "popularity": 3.1005,
+      "profile_path": "/gdHo8LNElMf1XxoRYgi0UUzbJuB.jpg"
+    },
+    {
+      "personId": 138240,
+      "name": "Bitty Schram",
+      "character": "Flo, Waitress",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 1.9361,
+      "profile_path": "/7N1FWQINAtQXcOBgw8xvBgITXTh.jpg"
+    },
+    {
+      "personId": 2048,
+      "name": "Gary Busey",
+      "character": "Sergeant Vince Banger",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 3.5191,
+      "profile_path": "/8H7Hlv6b7ZoK4jZKeLnc2i4pfPL.jpg"
+    },
+    {
+      "personId": 5950,
+      "name": "Seymour Cassel",
+      "character": "Master Chief Bogg",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 1.431,
+      "profile_path": "/3xAx3mu2VxpTIgdYe9RmSpyVwjH.jpg"
+    },
+    {
+      "personId": 8351,
+      "name": "Frederic Forrest",
+      "character": "Duane, Mechanic",
+      "order": 10,
+      "cast_id": 17,
+      "popularity": 0.9898,
+      "profile_path": "/gxHgIe9swYgCcxSSCewQTF4J4VO.jpg"
+    },
+    {
+      "personId": 21619,
+      "name": "Marilu Henner",
+      "character": "Katie, Waitress",
+      "order": 11,
+      "cast_id": 18,
+      "popularity": 1.7993,
+      "profile_path": "/fuuVDigwqg5D2pioextPJJ4tLWg.jpg"
+    },
+    {
+      "personId": 2778,
+      "name": "Dennis Hopper",
+      "character": "Doggie",
+      "order": 12,
+      "cast_id": 19,
+      "popularity": 3.2218,
+      "profile_path": "/kqyNvLHi5RZGZcZMxl7e6XvoB5U.jpg"
+    },
+    {
+      "personId": 105176,
+      "name": "Scott Marlowe",
+      "character": "Fast Food Clown",
+      "order": 13,
+      "cast_id": 20,
+      "popularity": 1.0258,
+      "profile_path": "/bItG6NNOL8o4lXUDGzDXXZP95WR.jpg"
+    },
+    {
+      "personId": 41745,
+      "name": "Jim Grimshaw",
+      "character": "Chief Yarboro",
+      "order": 14,
+      "cast_id": 21,
+      "popularity": 0.4725,
+      "profile_path": "/mjOfyUmrD1GYzt9VUXWUaEs1gek.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 2778,
+      "name": "Dennis Hopper",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 3.2218,
+      "profile_path": "/kqyNvLHi5RZGZcZMxl7e6XvoB5U.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 378,
+      "name": "prison"
+    },
+    {
+      "id": 3588,
+      "name": "navy"
+    },
+    {
+      "id": 828,
+      "name": "waitress"
+    },
+    {
+      "id": 10685,
+      "name": "escape"
+    },
+    {
+      "id": 1721,
+      "name": "fight"
+    },
+    {
+      "id": 772,
+      "name": "handcuffs"
+    },
+    {
+      "id": 2407,
+      "name": "fireworks"
+    },
+    {
+      "id": 3347,
+      "name": "volcano"
+    },
+    {
+      "id": 11428,
+      "name": "convertible"
+    },
+    {
+      "id": 7312,
+      "name": "road trip"
+    },
+    {
+      "id": 10594,
+      "name": "money"
+    },
+    {
+      "id": 11454,
+      "name": "scam"
+    },
+    {
+      "id": 18128,
+      "name": "inmate"
+    },
+    {
+      "id": 156731,
+      "name": "escort"
+    },
+    {
+      "id": 162365,
+      "name": "military"
+    },
+    {
+      "id": 163072,
+      "name": "embezzlement"
+    },
+    {
+      "id": 208251,
+      "name": "nervous"
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "overview": "Art Dodge is a painter-turned-gallerist drowning in debt. He gets in over his head when a con job leads to an engagement with a rich divorcee. He gets in deeper when he falls for her sister, and invents a twin brother to be her beau; and deeper still when his fiancée's ex-husband comes looking for revenge.",
+  "release_date": "1995-12-01",
+  "runtime": 118,
+  "budget": 24000000,
+  "revenue": 1141556,
+  "tmdb_vote_average": 5.398,
+  "tmdb_vote_count": 162,
+  "tmdb_popularity": 4.1124,
+  "original_language": "en",
+  "poster_path": "/65WB70Jhi3G2c5C41PyL5pl9L9p.jpg",
+  "backdrop_path": "/ucvkNOCMylSYEewrR93nJGU83v9.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 9195,
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 10201,
+      "name": "Interscope Communications",
+      "origin_country": "US"
+    },
+    {
+      "id": 1382,
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 1025,
+      "name": "Lolafilms",
+      "origin_country": "ES"
+    },
+    {
+      "id": 11424,
+      "name": "Fernando Trueba PC",
+      "origin_country": "ES"
+    },
+    {
+      "id": 15469,
+      "name": "Sogetel",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "ES",
+      "name": "Spain"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3131,
+      "name": "Antonio Banderas",
+      "character": "Art Dodge",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 5.8003,
+      "profile_path": "/fce7zl6elUzsv7wudHFc7RgFtjD.jpg"
+    },
+    {
+      "personId": 29369,
+      "name": "Melanie Griffith",
+      "character": "Betty",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 7.2525,
+      "profile_path": "/yffPcqlZMsXTCAZ84a1tLmdcIS6.jpg"
+    },
+    {
+      "personId": 589,
+      "name": "Daryl Hannah",
+      "character": "Liz",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 3.6234,
+      "profile_path": "/5FllFmoiaru7tjXJ6Orc11OpQcw.jpg"
+    },
+    {
+      "personId": 1004,
+      "name": "Danny Aiello",
+      "character": "Gene",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 1.3622,
+      "profile_path": "/2WiZ8SkiFU355GUT2QuSPlenrfM.jpg"
+    },
+    {
+      "personId": 3234,
+      "name": "Joan Cusack",
+      "character": "Gloria",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 3.9926,
+      "profile_path": "/ytjiXEqnaEYtS7XkYmoUXPrZCm5.jpg"
+    },
+    {
+      "personId": 3265,
+      "name": "Eli Wallach",
+      "character": "Sheldon",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 2.8855,
+      "profile_path": "/egLe8r2PwbTx9ocwS1Zu2vsYC9v.jpg"
+    },
+    {
+      "personId": 23215,
+      "name": "Gabino Diego",
+      "character": "Manny",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 0.3866,
+      "profile_path": "/qqAWyPU31uk6juPPP6YLHI6jr3a.jpg"
+    },
+    {
+      "personId": 6168,
+      "name": "Austin Pendleton",
+      "character": "Dr. Huffeyer",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 1.775,
+      "profile_path": "/nrXfqtXDDYzSFNLPQnfLkus4I7s.jpg"
+    },
+    {
+      "personId": 568531,
+      "name": "Allan Rich",
+      "character": "Reverend Larrabee",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 1.0465,
+      "profile_path": "/3dfwxm2AcwgGBlTxwl3OtQft2dS.jpg"
+    },
+    {
+      "personId": 3418,
+      "name": "Vincent Schiavelli",
+      "character": "Sommelier",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 2.4604,
+      "profile_path": "/8wq2WF9ohUUZZjfVxEEiUGxLHzp.jpg"
+    },
+    {
+      "personId": 84605,
+      "name": "Jeff Moldovan",
+      "character": "Goon",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 0.6075,
+      "profile_path": null
+    },
+    {
+      "personId": 84599,
+      "name": "Joe Hess",
+      "character": "Goon",
+      "order": 11,
+      "cast_id": 16,
+      "popularity": 1.2211,
+      "profile_path": null
+    },
+    {
+      "personId": 3433,
+      "name": "Phil Leeds",
+      "character": "The Lincoln Brigade",
+      "order": 12,
+      "cast_id": 27,
+      "popularity": 3.1656,
+      "profile_path": "/hcPPhwWl12wKYWHCwrKVURWugjn.jpg"
+    },
+    {
+      "personId": 89757,
+      "name": "Sid Raymond",
+      "character": "The Lincoln Brigade",
+      "order": 13,
+      "cast_id": 28,
+      "popularity": 0.5478,
+      "profile_path": "/nSHGfFHuTDeF8jKz1zZxTuL1ger.jpg"
+    },
+    {
+      "personId": 2389603,
+      "name": "Louis Seeger Crume",
+      "character": "The Lincoln Brigade",
+      "order": 14,
+      "cast_id": 29,
+      "popularity": 0.5542,
+      "profile_path": null
+    },
+    {
+      "personId": 2389605,
+      "name": "Theodora Castellanos",
+      "character": "Conchita",
+      "order": 15,
+      "cast_id": 30,
+      "popularity": 0.0782,
+      "profile_path": null
+    },
+    {
+      "personId": 2389606,
+      "name": "Genevieve Chase",
+      "character": "Mrs. Doyle",
+      "order": 16,
+      "cast_id": 31,
+      "popularity": 0.0806,
+      "profile_path": "/6rHGYtF9GxZycXydivqshZdduMc.jpg"
+    },
+    {
+      "personId": 2389607,
+      "name": "Marcella Vitalainai Aitken",
+      "character": "Mrs. Palletto",
+      "order": 17,
+      "cast_id": 32,
+      "popularity": 0.1552,
+      "profile_path": null
+    },
+    {
+      "personId": 1319701,
+      "name": "Ellen Jacoby",
+      "character": "Waitress",
+      "order": 18,
+      "cast_id": 33,
+      "popularity": 0.2334,
+      "profile_path": null
+    },
+    {
+      "personId": 10847,
+      "name": "Santiago Segura",
+      "character": "Paparazzi",
+      "order": 19,
+      "cast_id": 34,
+      "popularity": 1.4052,
+      "profile_path": "/w5gSHzLWoivAN2g4z2yaxCSFyTY.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 37526,
+      "name": "Fernando Trueba",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.5812,
+      "profile_path": "/ie3WiHvVWsfvUYVSSlCpnqi1dFw.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1308,
+      "name": "secret identity"
+    },
+    {
+      "id": 437,
+      "name": "painter"
+    },
+    {
+      "id": 5916,
+      "name": "gallery owner"
+    },
+    {
+      "id": 6167,
+      "name": "engagement"
+    },
+    {
+      "id": 10453,
+      "name": "con artist"
+    },
+    {
+      "id": 15478,
+      "name": "art gallery"
+    },
+    {
+      "id": 163758,
+      "name": "ex-husband ex-wife relationship"
+    },
+    {
+      "id": 172418,
+      "name": "engagement ring"
+    },
+    {
+      "id": 217083,
+      "name": "reluctant hero"
+    },
+    {
+      "id": 226825,
+      "name": "shenanigans"
+    },
+    {
+      "id": 241738,
+      "name": "sister sister relationship"
+    },
+    {
+      "id": 242035,
+      "name": "fake twins"
+    },
+    {
+      "id": 283953,
+      "name": "farce"
+    }
+  ]
+}

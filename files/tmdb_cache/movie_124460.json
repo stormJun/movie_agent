@@ -1,0 +1,126 @@
+{
+  "overview": "Adaptation of Chekhov's \"Uncle Vanya\" set in rural Australia in the 1920s. Jack Dickens and his niece Sally run the family farm to support brother-in-law Alexander as a (supposedly brilliant) literary critic in London. Action begins when Alexander returns with his beautiful young wife Deborah, revealing himself as an arrogant failure and wanting to sell the farm out from under Jack. Blakemore introduces themes about Australia's separation from England, as well as expanding the pacifist and ecological philosophies espoused by the local Doctor Max Askey.",
+  "release_date": "1994-10-27",
+  "runtime": 118,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 5.6,
+  "tmdb_vote_count": 7,
+  "tmdb_popularity": 2.9151,
+  "original_language": "en",
+  "poster_path": "/36jCH48ohLaJ2TLhUbauJZ9FebH.jpg",
+  "backdrop_path": "/zZriEnxp1qMINuz3cholU1pNxhN.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 1380,
+      "name": "Australian Film Finance Corporation",
+      "origin_country": "AU"
+    },
+    {
+      "id": 39711,
+      "name": "Dalton Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "AU",
+      "name": "Australia"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 21245,
+      "name": "Greta Scacchi",
+      "character": "Deborah Voysey",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 2.5628,
+      "profile_path": "/kgWjsnt0SWrypL6vkGQijJNkgS0.jpg"
+    },
+    {
+      "personId": 17258,
+      "name": "Kerry Fox",
+      "character": "Sally Voysey",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 1.696,
+      "profile_path": "/qTN8PjqgOdICj6egcAhJ7qXfEk1.jpg"
+    },
+    {
+      "personId": 4783,
+      "name": "Sam Neill",
+      "character": "Dr. Max Askey",
+      "order": 2,
+      "cast_id": 5,
+      "popularity": 4.8638,
+      "profile_path": "/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
+    },
+    {
+      "personId": 93518,
+      "name": "John Hargreaves",
+      "character": "Jack Dickens",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 0.6844,
+      "profile_path": "/eOMsZ9noWLK5Axg8jE0hX324bbJ.jpg"
+    },
+    {
+      "personId": 1080036,
+      "name": "Michael Blakemore",
+      "character": "Alexander Voysey",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 1.1211,
+      "profile_path": "/bMOBVkUbjYJJqnvvUTtMhtamOYs.jpg"
+    },
+    {
+      "personId": 14306,
+      "name": "Googie Withers",
+      "character": "Hannah",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 0.3951,
+      "profile_path": "/2HrbuXGjqV8pVLjqoAq6IAnOReU.jpg"
+    },
+    {
+      "personId": 113558,
+      "name": "Maurie Fields",
+      "character": "Fred Livingstone",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 0.2746,
+      "profile_path": "/kBMO4POahll3qlBCAPsX0lCcgxG.jpg"
+    },
+    {
+      "personId": 76184,
+      "name": "Bryan Marshall",
+      "character": "Mr. Pettinger",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 0.6458,
+      "profile_path": "/7g6rBCW7N49J9wwuFxoUr3KSeFk.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1080036,
+      "name": "Michael Blakemore",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1211,
+      "profile_path": "/bMOBVkUbjYJJqnvvUTtMhtamOYs.jpg"
+    }
+  ],
+  "keywords": []
+}

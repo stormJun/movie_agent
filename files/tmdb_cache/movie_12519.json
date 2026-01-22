@@ -1,0 +1,281 @@
+{
+  "overview": "In 1930s Australia, Anglican clergyman Anthony Campion and his prim wife, Estella, are asked to visit noted painter Norman Lindsay, whose planned contribution to an international art exhibit is considered blasphemous. While Campion and Lindsay debate, Estella finds herself drawn to the three beautiful models sitting for the painter's current work, freethinking Sheela, sensual Pru and virginal Giddy.",
+  "release_date": "1994-03-04",
+  "runtime": 98,
+  "budget": 0,
+  "revenue": 7770731,
+  "tmdb_vote_average": 5.6,
+  "tmdb_vote_count": 163,
+  "tmdb_popularity": 4.4359,
+  "original_language": "en",
+  "poster_path": "/bOUDHgOlxANs1KsYZEsLSjZBTkd.jpg",
+  "backdrop_path": "/A0YCPfLrxv2xX0Hno9eFBEemYPL.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 25159,
+      "name": "British Screen Finance Ltd",
+      "origin_country": "GB"
+    },
+    {
+      "id": 25692,
+      "name": "Sarah Radclyffe Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 186006,
+      "name": "Samson Productions Pty. Ltd.",
+      "origin_country": "AU"
+    },
+    {
+      "id": 8923,
+      "name": "WMG Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "AU",
+      "name": "Australia"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3291,
+      "name": "Hugh Grant",
+      "character": "Anthony Campion",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 4.6383,
+      "profile_path": "/dvV843fOuzsEPXHtFvdzsHpy1rC.jpg"
+    },
+    {
+      "personId": 47615,
+      "name": "Tara Fitzgerald",
+      "character": "Estella Campion",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.2805,
+      "profile_path": "/tMnBeLckuioclUR5KmlqUm49nCz.jpg"
+    },
+    {
+      "personId": 4783,
+      "name": "Sam Neill",
+      "character": "Norman Lindsay",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 4.8638,
+      "profile_path": "/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
+    },
+    {
+      "personId": 5590,
+      "name": "Elle Macpherson",
+      "character": "Sheela",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.1866,
+      "profile_path": "/eIuwJxRydMeHnyjhFPPzQ88Hbx1.jpg"
+    },
+    {
+      "personId": 62010,
+      "name": "Portia De Rossi",
+      "character": "Giddy",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 2.0724,
+      "profile_path": "/wO1LMlBgUebmZfTotlh9JBxs12X.jpg"
+    },
+    {
+      "personId": 100518,
+      "name": "Kate Fischer",
+      "character": "Pru",
+      "order": 5,
+      "cast_id": 17,
+      "popularity": 1.9363,
+      "profile_path": "/6b06lxK0pkwhnJM8hWe9awtVWPR.jpg"
+    },
+    {
+      "personId": 217137,
+      "name": "Pamela Rabe",
+      "character": "Rose Lindsay",
+      "order": 6,
+      "cast_id": 18,
+      "popularity": 1.0843,
+      "profile_path": "/cbu3MMqRU6O8fDTajoHiNSXCn6e.jpg"
+    },
+    {
+      "personId": 77335,
+      "name": "Ben Mendelsohn",
+      "character": "Lewis",
+      "order": 7,
+      "cast_id": 19,
+      "popularity": 3.2287,
+      "profile_path": "/pA9mu9D2IolVA0v2Yo0tJm6uUyI.jpg"
+    },
+    {
+      "personId": 15337,
+      "name": "John Polson",
+      "character": "Tom",
+      "order": 8,
+      "cast_id": 20,
+      "popularity": 0.7695,
+      "profile_path": "/rsjpQFAvQSo05HflPSCODCCbYFl.jpg"
+    },
+    {
+      "personId": 186418,
+      "name": "Mark Gerber",
+      "character": "Devlin",
+      "order": 9,
+      "cast_id": 21,
+      "popularity": 0.449,
+      "profile_path": null
+    },
+    {
+      "personId": 1437869,
+      "name": "Julia Stone",
+      "character": "Jane",
+      "order": 10,
+      "cast_id": 22,
+      "popularity": 0.4325,
+      "profile_path": "/jCVC6YOLheN3mO95QzcsnXM4YBp.jpg"
+    },
+    {
+      "personId": 3414894,
+      "name": "Ellie MacCarthy",
+      "character": "Honey",
+      "order": 11,
+      "cast_id": 23,
+      "popularity": 0.1572,
+      "profile_path": null
+    },
+    {
+      "personId": 75395,
+      "name": "Vincent Ball",
+      "character": "Bishop of Sydney",
+      "order": 12,
+      "cast_id": 24,
+      "popularity": 1.2139,
+      "profile_path": "/jIKae3BQSyZ1IKdsHc7eT2IPYDy.jpg"
+    },
+    {
+      "personId": 72624,
+      "name": "John Duigan",
+      "character": "Earnest Minister",
+      "order": 13,
+      "cast_id": 25,
+      "popularity": 0.6907,
+      "profile_path": "/cPVXXSgKexkzAF6dy7NeZIfeXqb.jpg"
+    },
+    {
+      "personId": 3379543,
+      "name": "Lexy Murphy",
+      "character": "British Bulldog Girl",
+      "order": 14,
+      "cast_id": 26,
+      "popularity": 0.1572,
+      "profile_path": null
+    },
+    {
+      "personId": 1871597,
+      "name": "Scott Lowe",
+      "character": "Station Master",
+      "order": 15,
+      "cast_id": 27,
+      "popularity": 0.6169,
+      "profile_path": "/gOUIzt4RHFiUszjqolvCYVcHNOL.jpg"
+    },
+    {
+      "personId": 3414895,
+      "name": "Bryan Davies",
+      "character": "Barman",
+      "order": 16,
+      "cast_id": 28,
+      "popularity": 0.0502,
+      "profile_path": null
+    },
+    {
+      "personId": 3414896,
+      "name": "Lynne Emanuel",
+      "character": "Barmaid",
+      "order": 17,
+      "cast_id": 29,
+      "popularity": 0.0618,
+      "profile_path": null
+    },
+    {
+      "personId": 3414897,
+      "name": "Kitty Silver",
+      "character": "Pub Woman 1",
+      "order": 18,
+      "cast_id": 30,
+      "popularity": 0.174,
+      "profile_path": null
+    },
+    {
+      "personId": 3414898,
+      "name": "Carolyn Devlin",
+      "character": "Pub Woman 2",
+      "order": 19,
+      "cast_id": 31,
+      "popularity": 0.1501,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 72624,
+      "name": "John Duigan",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6907,
+      "profile_path": "/cPVXXSgKexkzAF6dy7NeZIfeXqb.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2587,
+      "name": "married couple"
+    },
+    {
+      "id": 1499,
+      "name": "pastor"
+    },
+    {
+      "id": 5918,
+      "name": "painting"
+    },
+    {
+      "id": 3182,
+      "name": "seduction"
+    },
+    {
+      "id": 6023,
+      "name": "drawing and painting"
+    },
+    {
+      "id": 155870,
+      "name": "polyamory"
+    },
+    {
+      "id": 161216,
+      "name": "blasphemy"
+    },
+    {
+      "id": 214548,
+      "name": "1930s"
+    }
+  ]
+}

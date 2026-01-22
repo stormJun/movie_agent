@@ -1,0 +1,256 @@
+{
+  "overview": "In WWII France, poor and illiterate Henri Fortin is introduced to Victor Hugo's classic novel Les Misérables and begins to see parallels between the book and his own life.",
+  "release_date": "1995-03-22",
+  "runtime": 175,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.7,
+  "tmdb_vote_count": 83,
+  "tmdb_popularity": 3.48,
+  "original_language": "fr",
+  "poster_path": "/toQ6BJCiKVSnklpsma2GnJ6KKah.jpg",
+  "backdrop_path": "/elJMAU9XXxk02KmZ7zlQtFlBq0J.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    {
+      "id": 22123,
+      "name": "TF1",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1742,
+      "name": "Les Films 13",
+      "origin_country": "FR"
+    },
+    {
+      "id": 104,
+      "name": "Canal+",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "fr",
+      "name": "Français"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3829,
+      "name": "Jean-Paul Belmondo",
+      "character": "Henri Fortin / Jean Valjean",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 2.2064,
+      "profile_path": "/1RZGzt6gHK56ghFKtWDWgpbKF60.jpg"
+    },
+    {
+      "personId": 35211,
+      "name": "Michel Boujenah",
+      "character": "André Ziman",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 0.5481,
+      "profile_path": "/nBquHxqWm3kHYNoqG0XmS9LBIKj.jpg"
+    },
+    {
+      "personId": 63895,
+      "name": "Alessandra Martines",
+      "character": "Elise Ziman",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 1.0338,
+      "profile_path": "/xMfeR8rsf7wwYBG3JYFlcFzYgGR.jpg"
+    },
+    {
+      "personId": 141054,
+      "name": "Salomé Lelouch",
+      "character": "La fille Ziman",
+      "order": 3,
+      "cast_id": 7,
+      "popularity": 0.65,
+      "profile_path": "/l44yRa0PYOZEVRVAI4On8FxL9On.jpg"
+    },
+    {
+      "personId": 6014,
+      "name": "Annie Girardot",
+      "character": "Thénardière 1942",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 0.8505,
+      "profile_path": "/2njhI92RBGwQgGhGFDA9wgdGDo9.jpg"
+    },
+    {
+      "personId": 3581,
+      "name": "Philippe Léotard",
+      "character": "Thénardier 1942",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 0.63,
+      "profile_path": "/rjvSxdR594HfvlaRKURZDlPE36p.jpg"
+    },
+    {
+      "personId": 24464,
+      "name": "Philippe Khorsand",
+      "character": "Javert",
+      "order": 6,
+      "cast_id": 11,
+      "popularity": 0.6413,
+      "profile_path": "/aOZroqqV5wy1tzRbUSoLR7C6X7d.jpg"
+    },
+    {
+      "personId": 13689,
+      "name": "Ticky Holgado",
+      "character": "Kind Hoodlum",
+      "order": 7,
+      "cast_id": 12,
+      "popularity": 0.9703,
+      "profile_path": "/lWrhoM6snzSFi22B401iiXRUUoi.jpg"
+    },
+    {
+      "personId": 2407,
+      "name": "Rufus",
+      "character": "Thénardier 1830 / 1990",
+      "order": 8,
+      "cast_id": 13,
+      "popularity": 1.0378,
+      "profile_path": "/aC6rEJrBgCNjeG6vetJPBdgj5h3.jpg"
+    },
+    {
+      "personId": 133834,
+      "name": "Nicole Croisille",
+      "character": "Thénardière 1830 / 1990",
+      "order": 9,
+      "cast_id": 14,
+      "popularity": 0.8741,
+      "profile_path": "/mIFRZ1wpi8pO84yHYeRag3Pe8LA.jpg"
+    },
+    {
+      "personId": 141055,
+      "name": "William Leymergie",
+      "character": "Toureiffel",
+      "order": 10,
+      "cast_id": 15,
+      "popularity": 0.8862,
+      "profile_path": "/e3BxtQeZv6xoAQSo8bGFpFNS4YP.jpg"
+    },
+    {
+      "personId": 9741,
+      "name": "Jean Marais",
+      "character": "Mgr Myriel",
+      "order": 11,
+      "cast_id": 16,
+      "popularity": 1.1927,
+      "profile_path": "/cixkEqevNXJVy7u666VcgyrdQSZ.jpg"
+    },
+    {
+      "personId": 34595,
+      "name": "Micheline Presle",
+      "character": "Mother Superior",
+      "order": 12,
+      "cast_id": 17,
+      "popularity": 1.1355,
+      "profile_path": "/9FqSQkkm98kZDtr6VEeFKaMO1qq.jpg"
+    },
+    {
+      "personId": 24807,
+      "name": "Darry Cowl",
+      "character": "Bookseller",
+      "order": 13,
+      "cast_id": 18,
+      "popularity": 0.9076,
+      "profile_path": "/9nBYsDgk0NBMV24vmc6XqqvZJT9.jpg"
+    },
+    {
+      "personId": 109516,
+      "name": "Clémentine Célarié",
+      "character": "Catherine / Fantine",
+      "order": 14,
+      "cast_id": 19,
+      "popularity": 0.7149,
+      "profile_path": "/yhWfbsn2VV86bziD2mfos6vsP87.jpg"
+    },
+    {
+      "personId": 23508,
+      "name": "Daniel Toscan du Plantier",
+      "character": "Le comte de Villeneuve",
+      "order": 15,
+      "cast_id": 20,
+      "popularity": 1.3992,
+      "profile_path": "/6DJQt3cBBqUkwiBbwLUQ7YMMFvW.jpg"
+    },
+    {
+      "personId": 113605,
+      "name": "Margot Abascal",
+      "character": "Salomé, à 18 ans",
+      "order": 16,
+      "cast_id": 44,
+      "popularity": 0.3746,
+      "profile_path": "/qeoiUAZOnSFR3NRYqYFaHThoaQ.jpg"
+    },
+    {
+      "personId": 77860,
+      "name": "Jacques Gamblin",
+      "character": "Le bedeau",
+      "order": 17,
+      "cast_id": 50,
+      "popularity": 0.6865,
+      "profile_path": "/yUf8mLiFtIwfgreb5ozp5qGDt7h.jpg"
+    },
+    {
+      "personId": 18566,
+      "name": "Pierre Vernier",
+      "character": "Le chef du bagne",
+      "order": 18,
+      "cast_id": 51,
+      "popularity": 0.4761,
+      "profile_path": "/dWs5v3iTFV0tzKQU67jk9DHhZuf.jpg"
+    },
+    {
+      "personId": 14246,
+      "name": "Robert Hossein",
+      "character": "Le maître de cérémonie",
+      "order": 19,
+      "cast_id": 52,
+      "popularity": 1.3829,
+      "profile_path": "/bbwKyCKB3QRHwL3ErMFS6kUEsFb.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 16862,
+      "name": "Claude Lelouch",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.0236,
+      "profile_path": "/d7s7Ifc2JS0Hzm31YAgVtK5vuKc.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 90,
+      "name": "paris, france"
+    },
+    {
+      "id": 745,
+      "name": "nun"
+    },
+    {
+      "id": 2792,
+      "name": "boxer"
+    },
+    {
+      "id": 10909,
+      "name": "lawyer"
+    }
+  ]
+}

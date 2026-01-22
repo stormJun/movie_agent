@@ -1,0 +1,229 @@
+{
+  "overview": "Cosmo, an affectless mob bookie who lives in the basement of a retirement home, is promoted to hitman. He learns his new trade from Steve, a seasoned killer. He falls in love with a yoga teacher, Jasmine, and must figure out a way to leave the mob so they can be together.",
+  "release_date": "1995-09-15",
+  "runtime": 92,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.2,
+  "tmdb_vote_count": 64,
+  "tmdb_popularity": 2.6822,
+  "original_language": "en",
+  "poster_path": "/zfU3QJVqnY3wW1La9ptrOYGFdbP.jpg",
+  "backdrop_path": "/j10hT6IF87L48zBlVMeJJcc6QAC.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Comedy"
+  ],
+  "production_companies": [
+    {
+      "id": 33419,
+      "name": "Snowback Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 278,
+      "name": "Propaganda Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 2090,
+      "name": "Motion Picture Corporation of America",
+      "origin_country": "US"
+    },
+    {
+      "id": 1382,
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 19143,
+      "name": "Jason Priestley",
+      "character": "Cosmo Reif",
+      "order": 0,
+      "cast_id": 4,
+      "popularity": 2.2688,
+      "profile_path": "/lQvkOOhf59FTD86G96fTRp17VJt.jpg"
+    },
+    {
+      "personId": 70696,
+      "name": "Kimberly Williams-Paisley",
+      "character": "Jasmine",
+      "order": 1,
+      "cast_id": 1,
+      "popularity": 2.1693,
+      "profile_path": "/eTI5HvnVZoaFgdwERtboGJfREhD.jpg"
+    },
+    {
+      "personId": 21197,
+      "name": "Janeane Garofalo",
+      "character": "Honey",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.124,
+      "profile_path": "/cdNooT0otUf5QVHDPm9bkGN7gNu.jpg"
+    },
+    {
+      "personId": 1162,
+      "name": "Robert Loggia",
+      "character": "Gordon",
+      "order": 3,
+      "cast_id": 2,
+      "popularity": 3.1646,
+      "profile_path": "/mRSUgJnfprCNw83pyVfpfW7ryfK.jpg"
+    },
+    {
+      "personId": 20899,
+      "name": "Peter Riegert",
+      "character": "Steve",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 1.7638,
+      "profile_path": "/z7Fat4xqx7dvUOsmimd98xmTkFG.jpg"
+    },
+    {
+      "personId": 2694,
+      "name": "Josh Charles",
+      "character": "Randy",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 5.6761,
+      "profile_path": "/xmFdIoFKVRNUmXaslBlErA3UHfF.jpg"
+    },
+    {
+      "personId": 78102,
+      "name": "David Anthony Higgins",
+      "character": "Lance",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 1.2942,
+      "profile_path": "/oyyXzxtHMA8LeZ5oYm8tgxhnqm2.jpg"
+    },
+    {
+      "personId": 1213763,
+      "name": "Doris Grau",
+      "character": "Rose",
+      "order": 7,
+      "cast_id": 10,
+      "popularity": 0.8752,
+      "profile_path": null
+    },
+    {
+      "personId": 1216637,
+      "name": "Jay Kogen",
+      "character": "John",
+      "order": 8,
+      "cast_id": 11,
+      "popularity": 0.7718,
+      "profile_path": "/AbwjaQ6t0kscQX9dIVc4UuizuVY.jpg"
+    },
+    {
+      "personId": 201507,
+      "name": "Anne Carroll",
+      "character": "Receptionist",
+      "order": 9,
+      "cast_id": 12,
+      "popularity": 1.3334,
+      "profile_path": "/zyLcqu4yfz4oPwlCZEmX4aYFAE8.jpg"
+    },
+    {
+      "personId": 1986483,
+      "name": "Buck McDancer",
+      "character": "Fleeing Man",
+      "order": 10,
+      "cast_id": 13,
+      "popularity": 0.7268,
+      "profile_path": "/sfMAvjndHWFsIxqyYi82ZZLH4ti.jpg"
+    },
+    {
+      "personId": 21401,
+      "name": "Marcos A. Ferraez",
+      "character": "Man with Uzi",
+      "order": 11,
+      "cast_id": 14,
+      "popularity": 1.2814,
+      "profile_path": "/6q894lLElsE0vXJPryTLRxvtT4m.jpg"
+    },
+    {
+      "personId": 179887,
+      "name": "Gilbert Rosales",
+      "character": "Man with Briefcase",
+      "order": 12,
+      "cast_id": 15,
+      "popularity": 1.2756,
+      "profile_path": "/gb60pzm0vP0X56BiHKIEkyg7wRq.jpg"
+    },
+    {
+      "personId": 58768,
+      "name": "Jim Turner",
+      "character": "Doctor",
+      "order": 13,
+      "cast_id": 16,
+      "popularity": 1.906,
+      "profile_path": "/l1ObRKHITxXTvyBVvz6akKcZoUd.jpg"
+    },
+    {
+      "personId": 521,
+      "name": "Michael J. Fox",
+      "character": "Tim Alexander",
+      "order": 14,
+      "cast_id": 7,
+      "popularity": 3.9763,
+      "profile_path": "/c8wWX6QsmrvwZ1flHF5iprAPdK7.jpg"
+    },
+    {
+      "personId": 140253,
+      "name": "Talia Balsam",
+      "character": "Jean Alexander",
+      "order": 15,
+      "cast_id": 17,
+      "popularity": 1.5052,
+      "profile_path": "/qaElqZwNktWxhOxeF8Up0ibdBjc.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 486,
+      "name": "Wallace Wolodarsky",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6408,
+      "profile_path": "/a6npTg5wUQIHkyH17m5FPc9hJPV.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2708,
+      "name": "hitman"
+    },
+    {
+      "id": 2820,
+      "name": "wound"
+    },
+    {
+      "id": 5828,
+      "name": "yoga"
+    },
+    {
+      "id": 9866,
+      "name": "basement"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    }
+  ]
+}

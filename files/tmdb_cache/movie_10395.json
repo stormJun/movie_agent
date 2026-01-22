@@ -1,0 +1,264 @@
+{
+  "overview": "An aging publisher becomes a demon wolf and, with this newfound youthful vigor, fights to keep his job.",
+  "release_date": "1994-06-17",
+  "runtime": 125,
+  "budget": 70000000,
+  "revenue": 131002597,
+  "tmdb_vote_average": 6.126,
+  "tmdb_vote_count": 979,
+  "tmdb_popularity": 4.7229,
+  "original_language": "en",
+  "poster_path": "/5TprU55U2zjAMCwr2jQra3zj1zu.jpg",
+  "backdrop_path": "/dAFKnTzyOBbZyRCAb33F632ctva.jpg",
+  "tmdb_genres_raw": [
+    "Horror",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 215893,
+      "name": "Douglas Wick Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 514,
+      "name": "Jack Nicholson",
+      "character": "Will Randall",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 6.2476,
+      "profile_path": "/hBHcQIEa6P48HQAlLZkh0eKSSkG.jpg"
+    },
+    {
+      "personId": 1160,
+      "name": "Michelle Pfeiffer",
+      "character": "Laura Alden",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 5.4029,
+      "profile_path": "/oGUmQBU87QXAsnaGleYaAjAXSlj.jpg"
+    },
+    {
+      "personId": 13548,
+      "name": "James Spader",
+      "character": "Stewart Swinton",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 8.0893,
+      "profile_path": "/uET0mbf2bMkUXbRb1Oxi8Qjqcw3.jpg"
+    },
+    {
+      "personId": 18794,
+      "name": "Kate Nelligan",
+      "character": "Charlotte Randall",
+      "order": 3,
+      "cast_id": 12,
+      "popularity": 1.1163,
+      "profile_path": "/a2BUOy9A9WlvTfe8s4gn0MZfPa5.jpg"
+    },
+    {
+      "personId": 28633,
+      "name": "Richard Jenkins",
+      "character": "Detective Carl Bridger",
+      "order": 4,
+      "cast_id": 13,
+      "popularity": 2.3489,
+      "profile_path": "/muT3RZG9hiKaKojD751RcQ5tGEy.jpg"
+    },
+    {
+      "personId": 290,
+      "name": "Christopher Plummer",
+      "character": "Raymond Alden",
+      "order": 5,
+      "cast_id": 2,
+      "popularity": 4.2921,
+      "profile_path": "/iZh3s9Vy9vYD4DYnAda6C1kdeco.jpg"
+    },
+    {
+      "personId": 20300,
+      "name": "Eileen Atkins",
+      "character": "Mary",
+      "order": 6,
+      "cast_id": 14,
+      "popularity": 1.1699,
+      "profile_path": "/8gac03PfTFz2vByZi1aun0NiTqM.jpg"
+    },
+    {
+      "personId": 11076,
+      "name": "David Hyde Pierce",
+      "character": "Roy McCallister",
+      "order": 7,
+      "cast_id": 15,
+      "popularity": 2.4796,
+      "profile_path": "/9BSgq4yxjPry1Oghqq92S4wUIvs.jpg"
+    },
+    {
+      "personId": 11851,
+      "name": "Om Puri",
+      "character": "Dr. Vijay Alezais",
+      "order": 8,
+      "cast_id": 16,
+      "popularity": 1.1303,
+      "profile_path": "/3xENmjr7CA8ACRViHnjOI5jPQUt.jpg"
+    },
+    {
+      "personId": 12122,
+      "name": "Ron Rifkin",
+      "character": "Doctor",
+      "order": 9,
+      "cast_id": 17,
+      "popularity": 1.9988,
+      "profile_path": "/fj2u4t6nG0HGYFtRVDUTNbUtEtl.jpg"
+    },
+    {
+      "personId": 55643,
+      "name": "Prunella Scales",
+      "character": "Maude Waggins",
+      "order": 10,
+      "cast_id": 18,
+      "popularity": 19.2334,
+      "profile_path": "/uNpr52AXTBnz3U1cZReK17hwe60.jpg"
+    },
+    {
+      "personId": 28004,
+      "name": "Brian Markinson",
+      "character": "Detective Wade",
+      "order": 11,
+      "cast_id": 19,
+      "popularity": 1.5456,
+      "profile_path": "/26fa857UrEU4aCMHVQbpvNOGuKv.jpg"
+    },
+    {
+      "personId": 1986,
+      "name": "Peter Gerety",
+      "character": "George",
+      "order": 12,
+      "cast_id": 20,
+      "popularity": 1.523,
+      "profile_path": "/sE9fH3OxrmDflTSM3ac4ALzCjpa.jpg"
+    },
+    {
+      "personId": 1234009,
+      "name": "Bradford English",
+      "character": "Keyes",
+      "order": 13,
+      "cast_id": 70,
+      "popularity": 0.8025,
+      "profile_path": "/ywejaA8zuZ3MbkIm7VQdp0G2i7R.jpg"
+    },
+    {
+      "personId": 80294,
+      "name": "Stewart J. Zully",
+      "character": "Gary",
+      "order": 14,
+      "cast_id": 71,
+      "popularity": 0.7701,
+      "profile_path": "/7NKOlWGa5SYeyrAyCLNv7WmllLT.jpg"
+    },
+    {
+      "personId": 46919,
+      "name": "Thomas F. Duffy",
+      "character": "Tom",
+      "order": 15,
+      "cast_id": 72,
+      "popularity": 1.2502,
+      "profile_path": "/hHqrKC5fJbyxlmjIOdosMVQBcGu.jpg"
+    },
+    {
+      "personId": 2298140,
+      "name": "Tom Oppenheim",
+      "character": "Butler",
+      "order": 16,
+      "cast_id": 73,
+      "popularity": 0.0713,
+      "profile_path": null
+    },
+    {
+      "personId": 2298141,
+      "name": "Shirin Devrim",
+      "character": "Party Guest",
+      "order": 17,
+      "cast_id": 74,
+      "popularity": 0.1403,
+      "profile_path": null
+    },
+    {
+      "personId": 19,
+      "name": "Allison Janney",
+      "character": "Party Guest",
+      "order": 18,
+      "cast_id": 21,
+      "popularity": 4.0327,
+      "profile_path": "/hpBKWV1jjoXQbr1s0iUZTSvw582.jpg"
+    },
+    {
+      "personId": 734028,
+      "name": "Kirby Mitchell",
+      "character": "Party Guest",
+      "order": 19,
+      "cast_id": 75,
+      "popularity": 1.6371,
+      "profile_path": "/4qUZtyWVPI4T2n5eALXBWdHKb3T.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 5342,
+      "name": "Mike Nichols",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.4743,
+      "profile_path": "/eJgJEVil7iOJ9sTAXLCVRKfeKKM.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 596,
+      "name": "adultery"
+    },
+    {
+      "id": 4197,
+      "name": "bite"
+    },
+    {
+      "id": 2499,
+      "name": "heal"
+    },
+    {
+      "id": 7946,
+      "name": "deer"
+    },
+    {
+      "id": 12564,
+      "name": "werewolf"
+    },
+    {
+      "id": 156799,
+      "name": "vermont"
+    },
+    {
+      "id": 188994,
+      "name": "publisher"
+    }
+  ]
+}

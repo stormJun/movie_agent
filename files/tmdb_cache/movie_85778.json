@@ -1,0 +1,111 @@
+{
+  "overview": "A film about the work of the artist most famous for her monuments such as the Vietnam Memorial Wall and the Civil Rights Fountain Memorial.",
+  "release_date": "1995-11-10",
+  "runtime": 83,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 7.0,
+  "tmdb_vote_count": 8,
+  "tmdb_popularity": 0.0959,
+  "original_language": "en",
+  "poster_path": "/fqYvHdWNV84yF7zPV3ENHOZ2Jow.jpg",
+  "backdrop_path": null,
+  "tmdb_genres_raw": [
+    "Documentary"
+  ],
+  "production_companies": [
+    {
+      "id": 57679,
+      "name": "American Film Foundation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2999079,
+      "name": "Maya Lin",
+      "character": "Self",
+      "order": 0,
+      "cast_id": 2,
+      "popularity": 0.2467,
+      "profile_path": null
+    },
+    {
+      "personId": 1201855,
+      "name": "Jan Scruggs",
+      "character": "Self",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 0.1373,
+      "profile_path": null
+    },
+    {
+      "personId": 5559711,
+      "name": "Robert Doubek",
+      "character": "Self",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 0.0264,
+      "profile_path": null
+    },
+    {
+      "personId": 5559719,
+      "name": "Vincent Scully",
+      "character": "Self",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 0.1077,
+      "profile_path": null
+    },
+    {
+      "personId": 5559721,
+      "name": "Grady Clay",
+      "character": "Self",
+      "order": 4,
+      "cast_id": 6,
+      "popularity": 0.1251,
+      "profile_path": null
+    },
+    {
+      "personId": 4840336,
+      "name": "J. Carter Brown",
+      "character": "Self",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 0.1723,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 223825,
+      "name": "Freida Lee Mock",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.2196,
+      "profile_path": "/bRmhl0U3YeNKgoXjCq5t4RcgZ6t.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 14893,
+      "name": "art"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    }
+  ]
+}

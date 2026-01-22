@@ -1,0 +1,322 @@
+{
+  "overview": "Retired and widowed Chinese master chef Chu lives in modern day Taipei, with his three attractive daughters, all of whom are unattached. Soon, each daughter encounters a new man in their lives. When these new relationships blossom, stereotypes are broken and the living situation within the family changes.",
+  "release_date": "1994-08-03",
+  "runtime": 123,
+  "budget": 0,
+  "revenue": 24194403,
+  "tmdb_vote_average": 7.617,
+  "tmdb_vote_count": 383,
+  "tmdb_popularity": 2.7057,
+  "original_language": "zh",
+  "poster_path": "/ktdCBg2Xq2Ry0fuJYT4izktM2Hg.jpg",
+  "backdrop_path": "/tllmUjmEQKF0OaH7FgqZYnLBsYB.jpg",
+  "tmdb_genres_raw": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 10565,
+      "name": "Good Machine",
+      "origin_country": "US"
+    },
+    {
+      "id": 5528,
+      "name": "Ang Lee Productions",
+      "origin_country": "TW"
+    },
+    {
+      "id": 25345,
+      "name": "Central Motion Picture Corporation",
+      "origin_country": "TW"
+    },
+    {
+      "id": 199749,
+      "name": "Xiongfa Film Company",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "TW",
+      "name": "Taiwan"
+    },
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "zh",
+      "name": "普通话"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1623,
+      "name": "Lung Sihung",
+      "character": "老朱",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.6016,
+      "profile_path": "/i1aiG0pf73LKssRbo6tFv0kzUnz.jpg"
+    },
+    {
+      "personId": 65354,
+      "name": "Yang Kuei-mei",
+      "character": "朱家珍",
+      "order": 1,
+      "cast_id": 4,
+      "popularity": 1.7279,
+      "profile_path": "/bQuu5naLHk5ergPgQZXpGXJm3aO.jpg"
+    },
+    {
+      "personId": 65353,
+      "name": "Jacklyn Wu Chien-Lien",
+      "character": "朱家倩",
+      "order": 2,
+      "cast_id": 44,
+      "popularity": 1.4114,
+      "profile_path": "/e1Aj6GR2jV2PrINeVljfyWiOT9V.jpg"
+    },
+    {
+      "personId": 65352,
+      "name": "Wang Yu-wen",
+      "character": "朱家宁",
+      "order": 3,
+      "cast_id": 45,
+      "popularity": 1.7571,
+      "profile_path": "/bnm7tCCKlu96qVd9OyHXZ5FEDJm.jpg"
+    },
+    {
+      "personId": 26739,
+      "name": "Sylvia Chang",
+      "character": "锦荣",
+      "order": 4,
+      "cast_id": 46,
+      "popularity": 1.326,
+      "profile_path": "/sCG4y9V8PXq7nGeo5cveWA44pT7.jpg"
+    },
+    {
+      "personId": 57057,
+      "name": "Gua Ah-leh",
+      "character": "梁伯母",
+      "order": 5,
+      "cast_id": 47,
+      "popularity": 1.4893,
+      "profile_path": "/eX9aVWCGy6l9RSTqqauMinwEn0l.jpg"
+    },
+    {
+      "personId": 57054,
+      "name": "Winston Chao",
+      "character": "李凯",
+      "order": 6,
+      "cast_id": 48,
+      "popularity": 1.2211,
+      "profile_path": "/c5LTdq5lsDzIxfu2a6a4jZQe3nK.jpg"
+    },
+    {
+      "personId": 71172,
+      "name": "Chen Chao-jung",
+      "character": "国伦",
+      "order": 7,
+      "cast_id": 49,
+      "popularity": 2.0941,
+      "profile_path": "/exEFnrh8JigB5ybfUlG7CoL43RK.jpg"
+    },
+    {
+      "personId": 565145,
+      "name": "Lester Chit-Man Chan",
+      "character": "雷蒙",
+      "order": 8,
+      "cast_id": 50,
+      "popularity": 1.831,
+      "profile_path": "/5pnpmMTTKb7SLdnwB9epfm42vub.jpg"
+    },
+    {
+      "personId": 1888252,
+      "name": "Willing Lu",
+      "character": "周明道",
+      "order": 9,
+      "cast_id": 51,
+      "popularity": 0.3542,
+      "profile_path": "/jQ3xQa5zp99PjSMecRp0IZE7a75.jpg"
+    },
+    {
+      "personId": 5760518,
+      "name": "唐语谦",
+      "character": "珊珊",
+      "order": 10,
+      "cast_id": 52,
+      "popularity": 0.2238,
+      "profile_path": "/itCeJFN6ifIhrmTUKNYUtu1AYcN.jpg"
+    },
+    {
+      "personId": 1888248,
+      "name": "Chi-Der Hong",
+      "character": "家珍的学生",
+      "order": 11,
+      "cast_id": 53,
+      "popularity": 0.2236,
+      "profile_path": "/hEdCVr2N8Jhq4vfXkwj6OTxq66F.jpg"
+    },
+    {
+      "personId": 1904925,
+      "name": "Jui Wang",
+      "character": "老温",
+      "order": 12,
+      "cast_id": 54,
+      "popularity": 1.249,
+      "profile_path": "/praU1jmSXFKPUEZU51rmdTCqYrK.jpg"
+    },
+    {
+      "personId": 1072267,
+      "name": "Tu Man-Sheng",
+      "character": "餐厅经理",
+      "order": 13,
+      "cast_id": 55,
+      "popularity": 1.3012,
+      "profile_path": "/oHw8s3HirTkjs3itGYr4GCxwOY2.jpg"
+    },
+    {
+      "personId": 976293,
+      "name": "George Wang",
+      "character": "航空公司经理",
+      "order": 14,
+      "cast_id": 56,
+      "popularity": 1.2709,
+      "profile_path": "/bNP7g7Fgw0PgO4OfGOJcLF1YV8U.jpg"
+    },
+    {
+      "personId": 2950048,
+      "name": "Chen Yu",
+      "character": "小芝芝",
+      "order": 15,
+      "cast_id": 57,
+      "popularity": 0.1757,
+      "profile_path": "/q83RLr8xtQ28Fem6PkVp6UtiMgT.jpg"
+    },
+    {
+      "personId": 5760530,
+      "name": "左正芬",
+      "character": "温蒂汉堡经理",
+      "order": 16,
+      "cast_id": 58,
+      "popularity": 0.2471,
+      "profile_path": null
+    },
+    {
+      "personId": 1888249,
+      "name": "Gin-Ming Hsu",
+      "character": "蔡组长",
+      "order": 17,
+      "cast_id": 59,
+      "popularity": 0.2769,
+      "profile_path": null
+    },
+    {
+      "personId": 5760531,
+      "name": "聂卓晶",
+      "character": "航空公司秘书",
+      "order": 18,
+      "cast_id": 60,
+      "popularity": 0.1827,
+      "profile_path": null
+    },
+    {
+      "personId": 223474,
+      "name": "Ting Chung",
+      "character": "牧师",
+      "order": 19,
+      "cast_id": 61,
+      "popularity": 0.2445,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 1614,
+      "name": "Ang Lee",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.8396,
+      "profile_path": "/jrmdsPZI5WT4rmOl20Gb1Y2femb.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 5600,
+      "name": "daughter"
+    },
+    {
+      "id": 1918,
+      "name": "cooking"
+    },
+    {
+      "id": 2875,
+      "name": "sense of life"
+    },
+    {
+      "id": 4995,
+      "name": "aging"
+    },
+    {
+      "id": 9322,
+      "name": "taiwan"
+    },
+    {
+      "id": 10508,
+      "name": "teacher"
+    },
+    {
+      "id": 10637,
+      "name": "food"
+    },
+    {
+      "id": 12428,
+      "name": "taiwanese"
+    },
+    {
+      "id": 13043,
+      "name": "dating"
+    },
+    {
+      "id": 18035,
+      "name": "family"
+    },
+    {
+      "id": 18293,
+      "name": "chef"
+    },
+    {
+      "id": 33476,
+      "name": "widower"
+    },
+    {
+      "id": 188610,
+      "name": "taipei"
+    },
+    {
+      "id": 240303,
+      "name": "father daughter relationship"
+    },
+    {
+      "id": 241738,
+      "name": "sister sister relationship"
+    },
+    {
+      "id": 279490,
+      "name": "chinese cuisine"
+    },
+    {
+      "id": 280940,
+      "name": "sisters"
+    },
+    {
+      "id": 296852,
+      "name": "gastronomia"
+    }
+  ]
+}

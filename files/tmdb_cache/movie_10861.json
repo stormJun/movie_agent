@@ -1,0 +1,261 @@
+{
+  "overview": "Alain Moreau's investigation into the death of his identical twin brother leads him from the beauty of the south of France to the mean streets of New York City and into the arms of his brother's beautiful girlfriend. Pursued by ruthless Russian mobsters and renegade FBI agents, the duo race against time to solve his brother's murder and expose an international conspiracy.",
+  "release_date": "1996-09-13",
+  "runtime": 100,
+  "budget": 25000000,
+  "revenue": 51702483,
+  "tmdb_vote_average": 5.789,
+  "tmdb_vote_count": 540,
+  "tmdb_popularity": 2.1019,
+  "original_language": "en",
+  "poster_path": "/18HVWwyLihWJPzGpSVl3omRRMyL.jpg",
+  "backdrop_path": "/ksFqZgH0bt9VQxRgAJ66dzYxdD9.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Thriller",
+    "Crime"
+  ],
+  "production_companies": [
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 961,
+      "name": "Roger Birnbaum Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 119937,
+      "name": "Moshe Diamant Production",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 15111,
+      "name": "Jean-Claude Van Damme",
+      "character": "Alain Moreau / Mikhail Suverov",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 8.058,
+      "profile_path": "/v4hqSYeG17WOMp0xNjoWgi8Vbyn.jpg"
+    },
+    {
+      "personId": 57395,
+      "name": "Natasha Henstridge",
+      "character": "Alex Minetti",
+      "order": 1,
+      "cast_id": 3,
+      "popularity": 4.5113,
+      "profile_path": "/lfRFm3MLOGPtaDHWTstoQfKAyLM.jpg"
+    },
+    {
+      "personId": 7037,
+      "name": "Jean-Hugues Anglade",
+      "character": "Sebastien",
+      "order": 2,
+      "cast_id": 4,
+      "popularity": 1.3083,
+      "profile_path": "/cpSxpZLgtzuizHyEmdkh9rgKkRs.jpg"
+    },
+    {
+      "personId": 7471,
+      "name": "Zach Grenier",
+      "character": "Ivan Dzasokhov",
+      "order": 3,
+      "cast_id": 5,
+      "popularity": 2.7561,
+      "profile_path": "/fSyQKZO39sUsqY283GXiScOg3Hi.jpg"
+    },
+    {
+      "personId": 85142,
+      "name": "Paul Ben-Victor",
+      "character": "Agent Pellman",
+      "order": 4,
+      "cast_id": 12,
+      "popularity": 1.9743,
+      "profile_path": "/qhxGWVppbnwF4YuzQQtIym5z99E.jpg"
+    },
+    {
+      "personId": 138401,
+      "name": "Frank Senger",
+      "character": "Agent Loomis",
+      "order": 5,
+      "cast_id": 13,
+      "popularity": 2.0402,
+      "profile_path": "/x9BmH7tqATglaoDgxTed0Nwg4G.jpg"
+    },
+    {
+      "personId": 1363425,
+      "name": "Stefanos Miltsakakis",
+      "character": "Red Face",
+      "order": 6,
+      "cast_id": 17,
+      "popularity": 0.7025,
+      "profile_path": "/gFRyQci4c7uJrlvCYXi6Snxm1cn.jpg"
+    },
+    {
+      "personId": 58805,
+      "name": "David Hemblen",
+      "character": "Dmitri Kirov",
+      "order": 7,
+      "cast_id": 19,
+      "popularity": 0.8171,
+      "profile_path": "/oXLMIZKt2zXmIR3dbPRarEY4yq7.jpg"
+    },
+    {
+      "personId": 19092,
+      "name": "Stéphane Audran",
+      "character": "Chantal",
+      "order": 8,
+      "cast_id": 69,
+      "popularity": 1.0899,
+      "profile_path": "/4M8jwSf6eQvqmHnta1RRCPPIZho.jpg"
+    },
+    {
+      "personId": 28040,
+      "name": "Dan Moran",
+      "character": "Yuri",
+      "order": 9,
+      "cast_id": 15,
+      "popularity": 1.8079,
+      "profile_path": "/amnUVVi4cSzzcpcVAifUWeWzjPs.jpg"
+    },
+    {
+      "personId": 38567,
+      "name": "Donald Burda",
+      "character": "Nicholas",
+      "order": 10,
+      "cast_id": 16,
+      "popularity": 0.5986,
+      "profile_path": "/A36n7y6pEyRielzZ2cyDb5kNqt3.jpg"
+    },
+    {
+      "personId": 28025,
+      "name": "Herb Lovelle",
+      "character": "Martin",
+      "order": 11,
+      "cast_id": 21,
+      "popularity": 0.3812,
+      "profile_path": "/bAyIZbLmZodWburJk67qPT2KQjN.jpg"
+    },
+    {
+      "personId": 54793,
+      "name": "Carlo Rota",
+      "character": "Bohemia Bartender",
+      "order": 12,
+      "cast_id": 27,
+      "popularity": 2.471,
+      "profile_path": "/bsT3XaB8YqsZijYdOsG1pKH24JJ.jpg"
+    },
+    {
+      "personId": 86237,
+      "name": "Joe Pingue",
+      "character": "Bohemia Doorman",
+      "order": 13,
+      "cast_id": 28,
+      "popularity": 2.2458,
+      "profile_path": "/cA2OocnwkH9bO1rT6TcH3daB6r4.jpg"
+    },
+    {
+      "personId": 1815812,
+      "name": "Gloria Slade",
+      "character": "Airline Steward",
+      "order": 14,
+      "cast_id": 30,
+      "popularity": 0.2733,
+      "profile_path": "/gtSIquV1ceURWg2S2tZRM0FQQ9U.jpg"
+    },
+    {
+      "personId": 185102,
+      "name": "Jackie Richardson",
+      "character": "Large Woman",
+      "order": 15,
+      "cast_id": 31,
+      "popularity": 1.2006,
+      "profile_path": "/jIDfdGW26RixUhewLXskCQAoCl8.jpg"
+    },
+    {
+      "personId": 184488,
+      "name": "Albert Schultz",
+      "character": "Anderson",
+      "order": 16,
+      "cast_id": 22,
+      "popularity": 1.4666,
+      "profile_path": null
+    },
+    {
+      "personId": 193040,
+      "name": "Dan Duran",
+      "character": "Reporter",
+      "order": 17,
+      "cast_id": 33,
+      "popularity": 1.9302,
+      "profile_path": "/vCWv4gSo1QQfjzpymcub0lLkYgD.jpg"
+    },
+    {
+      "personId": 1815821,
+      "name": "Raymond Accolas",
+      "character": "Bank Manager",
+      "order": 18,
+      "cast_id": 34,
+      "popularity": 0.4545,
+      "profile_path": "/wxX28bCk1FdYTQgcDJYH1YZ2rXs.jpg"
+    },
+    {
+      "personId": 1239237,
+      "name": "Kedar Brown",
+      "character": "Tough Teen",
+      "order": 19,
+      "cast_id": 35,
+      "popularity": 1.4976,
+      "profile_path": "/cXqNZMy1hVPtGuJ86SoL33ejGOY.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 26767,
+      "name": "Ringo Lam Ling-Tung",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.5498,
+      "profile_path": "/qAuEWqf9HTrKx6a91cxoPMh78SV.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3737,
+      "name": "dying and death"
+    },
+    {
+      "id": 8045,
+      "name": "bratva (russian mafia)"
+    },
+    {
+      "id": 2281,
+      "name": "mistake in person"
+    },
+    {
+      "id": 7375,
+      "name": "twin brother"
+    },
+    {
+      "id": 325811,
+      "name": "excited"
+    }
+  ]
+}

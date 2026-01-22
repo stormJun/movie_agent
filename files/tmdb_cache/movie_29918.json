@@ -1,0 +1,247 @@
+{
+  "overview": "On their way to start a new life at a sheep farm in rural Virginia, the Turner family are halted by a wreck on the highway that has claimed the life of a truck driver. Spotting the trucker's now-abandoned collie on the side of the road, they take pity on the dog and adopt her. As the city family copes with the change to rural life, including a feud with a neighboring farm family who resent the city interlopers, the ever-loyal Lassie helps them adjust to their new surroundings.",
+  "release_date": "1994-07-22",
+  "runtime": 94,
+  "budget": 0,
+  "revenue": 9994609,
+  "tmdb_vote_average": 6.1,
+  "tmdb_vote_count": 212,
+  "tmdb_popularity": 3.5938,
+  "original_language": "en",
+  "poster_path": "/5Tz2rzFivQKmMBz5T8Cj7M7CdnI.jpg",
+  "backdrop_path": "/wMQhw2BAXUATb59teXQSzgqzurh.jpg",
+  "tmdb_genres_raw": [
+    "Family",
+    "Adventure"
+  ],
+  "production_companies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 27929,
+      "name": "Broadway Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4729,
+      "name": "Tom Guiry",
+      "character": "Matthew Turner",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 1.4601,
+      "profile_path": "/j8M7rA6JUqjavIRz8ZhYkniBOjj.jpg"
+    },
+    {
+      "personId": 33488,
+      "name": "Helen Slater",
+      "character": "Laura Turner",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.5687,
+      "profile_path": "/6WGhch6xLlFh0mQ9NR5BQ1UHaT9.jpg"
+    },
+    {
+      "personId": 4602,
+      "name": "Jon Tenney",
+      "character": "Steve Turner",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.591,
+      "profile_path": "/ktb1RA23pHJKMdcFenQ2cosnCkp.jpg"
+    },
+    {
+      "personId": 1002069,
+      "name": "Brittany Boyd",
+      "character": "Jennifer Turner",
+      "order": 3,
+      "cast_id": 6,
+      "popularity": 0.2158,
+      "profile_path": null
+    },
+    {
+      "personId": 8351,
+      "name": "Frederic Forrest",
+      "character": "Sam Garland",
+      "order": 4,
+      "cast_id": 7,
+      "popularity": 1.0189,
+      "profile_path": "/gxHgIe9swYgCcxSSCewQTF4J4VO.jpg"
+    },
+    {
+      "personId": 5605,
+      "name": "Richard Farnsworth",
+      "character": "Len Collins",
+      "order": 5,
+      "cast_id": 8,
+      "popularity": 2.3885,
+      "profile_path": "/zwomo8lekrM7dkJ00JmqsslwrIB.jpg"
+    },
+    {
+      "personId": 1812,
+      "name": "Michelle Williams",
+      "character": "April Porter",
+      "order": 6,
+      "cast_id": 9,
+      "popularity": 3.695,
+      "profile_path": "/jn3BVMVbIptz2gc6Fhxo1qwJVvW.jpg"
+    },
+    {
+      "personId": 20166,
+      "name": "Joe Inscoe",
+      "character": "Pete Jarman",
+      "order": 7,
+      "cast_id": 23,
+      "popularity": 0.9189,
+      "profile_path": "/kqkZzgrCb4a9nhnItinl3QL6sLA.jpg"
+    },
+    {
+      "personId": 27682,
+      "name": "Yvonne Erickson",
+      "character": "Mrs. Jarman",
+      "order": 8,
+      "cast_id": 24,
+      "popularity": 0.526,
+      "profile_path": "/4YQ80WdmPnE1Sa1O370hzg5kkEs.jpg"
+    },
+    {
+      "personId": 1733824,
+      "name": "Clayton Barclay Jones",
+      "character": "Josh Garland",
+      "order": 9,
+      "cast_id": 25,
+      "popularity": 0.1538,
+      "profile_path": null
+    },
+    {
+      "personId": 12790,
+      "name": "Charlie Hofheimer",
+      "character": "Jim Garland",
+      "order": 10,
+      "cast_id": 28,
+      "popularity": 0.8599,
+      "profile_path": "/9X9rK8v5JwYnjINXfOE0s6kHTTf.jpg"
+    },
+    {
+      "personId": 3495173,
+      "name": "Jody Smith Strickler",
+      "character": "Mildred Garland",
+      "order": 11,
+      "cast_id": 29,
+      "popularity": 0.0404,
+      "profile_path": null
+    },
+    {
+      "personId": 3495174,
+      "name": "Margaret Peery",
+      "character": "Mrs. Parker",
+      "order": 12,
+      "cast_id": 30,
+      "popularity": 0.0811,
+      "profile_path": null
+    },
+    {
+      "personId": 1534836,
+      "name": "David Bridgewater",
+      "character": "Customer",
+      "order": 13,
+      "cast_id": 31,
+      "popularity": 0.1717,
+      "profile_path": null
+    },
+    {
+      "personId": 3495175,
+      "name": "Earnest Poole Jr.",
+      "character": "Highway Patrolman #1",
+      "order": 14,
+      "cast_id": 32,
+      "popularity": 0.1323,
+      "profile_path": null
+    },
+    {
+      "personId": 3495176,
+      "name": "Jeffrey H. Gray",
+      "character": "Highway Patrolman #2",
+      "order": 15,
+      "cast_id": 33,
+      "popularity": 0.9416,
+      "profile_path": null
+    },
+    {
+      "personId": 3495177,
+      "name": "Robert B. Brittain",
+      "character": "Grommet Foreman",
+      "order": 16,
+      "cast_id": 34,
+      "popularity": 0.0286,
+      "profile_path": null
+    },
+    {
+      "personId": 163795,
+      "name": "Rick Warner",
+      "character": "Timid Neighbor",
+      "order": 17,
+      "cast_id": 35,
+      "popularity": 0.5036,
+      "profile_path": null
+    },
+    {
+      "personId": 3495178,
+      "name": "Kelly L. Edwards",
+      "character": "Smoking Girl",
+      "order": 18,
+      "cast_id": 36,
+      "popularity": 0.1733,
+      "profile_path": null
+    },
+    {
+      "personId": 1337085,
+      "name": "Jordan Young",
+      "character": "Smoking Boy",
+      "order": 19,
+      "cast_id": 37,
+      "popularity": 0.1872,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 40549,
+      "name": "Daniel Petrie",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.6468,
+      "profile_path": "/dI5hOQ7aa0qCxnr8qjsByP8R41o.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 15162,
+      "name": "dog"
+    },
+    {
+      "id": 158416,
+      "name": "boy and dog"
+    },
+    {
+      "id": 178869,
+      "name": "lassie"
+    }
+  ]
+}

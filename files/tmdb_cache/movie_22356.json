@@ -1,0 +1,289 @@
+{
+  "overview": "Notorious shootist and womanizer Quirt Evans' horse collapses as he passes a Quaker family's home. Quirt has been wounded, and the kindly family takes him in to nurse him back to health against the advice of others. The handsome Evans quickly attracts the affections of their beautiful daughter, Penelope. He develops an affection for the family and their faith, but his troubled past follows him.",
+  "release_date": "1947-02-15",
+  "runtime": 100,
+  "budget": 0,
+  "revenue": 0,
+  "tmdb_vote_average": 6.4,
+  "tmdb_vote_count": 116,
+  "tmdb_popularity": 1.006,
+  "original_language": "en",
+  "poster_path": "/tbnte13MT1mke828R0rKmNZ41G6.jpg",
+  "backdrop_path": "/z431y0waKviqvo2Je426ci8z3NY.jpg",
+  "tmdb_genres_raw": [
+    "Western",
+    "Romance",
+    "Adventure",
+    "Action"
+  ],
+  "production_companies": [
+    {
+      "id": 11527,
+      "name": "John Wayne Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 1432,
+      "name": "Republic Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4165,
+      "name": "John Wayne",
+      "character": "Quirt Evans",
+      "order": 0,
+      "cast_id": 7,
+      "popularity": 6.8188,
+      "profile_path": "/vI1DyoZxvz51Gxb8uwVLwladohk.jpg"
+    },
+    {
+      "personId": 80469,
+      "name": "Gail Russell",
+      "character": "Penelope 'Penny' Worth",
+      "order": 1,
+      "cast_id": 8,
+      "popularity": 0.6088,
+      "profile_path": "/2272UOKSn42EmJJR6iw6XxynBoN.jpg"
+    },
+    {
+      "personId": 30212,
+      "name": "Harry Carey",
+      "character": "Marshal Wistful McClintock",
+      "order": 2,
+      "cast_id": 9,
+      "popularity": 1.0472,
+      "profile_path": "/AvNDsYjkLgeFHbxGFIFyl6QRgeM.jpg"
+    },
+    {
+      "personId": 3244,
+      "name": "Bruce Cabot",
+      "character": "Laredo Stevens",
+      "order": 3,
+      "cast_id": 10,
+      "popularity": 1.3373,
+      "profile_path": "/gWG4ECOOHeQWLEI4nwFlLSFiUpd.jpg"
+    },
+    {
+      "personId": 14871,
+      "name": "Irene Rich",
+      "character": "Mrs. Worth",
+      "order": 4,
+      "cast_id": 11,
+      "popularity": 1.3381,
+      "profile_path": "/jU4F6pN7hLz0cJkgnUsFdQobgSV.jpg"
+    },
+    {
+      "personId": 88678,
+      "name": "Lee Dixon",
+      "character": "Randy McCall",
+      "order": 5,
+      "cast_id": 12,
+      "popularity": 0.5685,
+      "profile_path": "/k1aCcYz2iEfq6pSrfEPGn3SSGXd.jpg"
+    },
+    {
+      "personId": 88679,
+      "name": "Stephen Grant",
+      "character": "Johnny Worth",
+      "order": 6,
+      "cast_id": 13,
+      "popularity": 0.4701,
+      "profile_path": null
+    },
+    {
+      "personId": 14978,
+      "name": "Tom Powers",
+      "character": "Dr. Mangram",
+      "order": 7,
+      "cast_id": 14,
+      "popularity": 0.7597,
+      "profile_path": "/Dril696LhsWrZMBjGqO1YUG2Md.jpg"
+    },
+    {
+      "personId": 14664,
+      "name": "Paul Hurst",
+      "character": "Frederick Carson",
+      "order": 8,
+      "cast_id": 15,
+      "popularity": 0.8932,
+      "profile_path": "/fs73WLszYIJuwUfmWkQExPN5zqj.jpg"
+    },
+    {
+      "personId": 34209,
+      "name": "Olin Howland",
+      "character": "Bradley",
+      "order": 9,
+      "cast_id": 16,
+      "popularity": 1.7759,
+      "profile_path": "/bufCe2EXNF3ZVm3GPTY9LyIWn7y.jpg"
+    },
+    {
+      "personId": 88680,
+      "name": "John Halloran",
+      "character": "Thomas Worth",
+      "order": 10,
+      "cast_id": 17,
+      "popularity": 0.4712,
+      "profile_path": "/o3l7VldId4HKB9Jq4ZEgxCI3JcA.jpg"
+    },
+    {
+      "personId": 88681,
+      "name": "Joan Barton",
+      "character": "Lila Neal",
+      "order": 11,
+      "cast_id": 18,
+      "popularity": 0.8352,
+      "profile_path": "/2iDaXQ9rD74WlcRcxJwtb1aiy89.jpg"
+    },
+    {
+      "personId": 88682,
+      "name": "Craig Woods",
+      "character": "Ward Withers",
+      "order": 12,
+      "cast_id": 19,
+      "popularity": 0.334,
+      "profile_path": null
+    },
+    {
+      "personId": 88683,
+      "name": "Marshall Reed",
+      "character": "Nelson",
+      "order": 13,
+      "cast_id": 20,
+      "popularity": 0.6238,
+      "profile_path": "/kMniZFRQRqC1znX5sH9SdjUr2Yy.jpg"
+    },
+    {
+      "personId": 85494,
+      "name": "Rosemary Bertrand",
+      "character": "Christine Taylor (uncredited)",
+      "order": 14,
+      "cast_id": 31,
+      "popularity": 0.1284,
+      "profile_path": null
+    },
+    {
+      "personId": 1062837,
+      "name": "Symona Boniface",
+      "character": "Dance Hall Madam (uncredited)",
+      "order": 15,
+      "cast_id": 32,
+      "popularity": 0.3355,
+      "profile_path": "/bVIq7eoMtk3gacWqFneoaUPZNPp.jpg"
+    },
+    {
+      "personId": 2671494,
+      "name": "John Bose",
+      "character": "Barfly (uncredited)",
+      "order": 16,
+      "cast_id": 30,
+      "popularity": 0.8189,
+      "profile_path": null
+    },
+    {
+      "personId": 120520,
+      "name": "Kenne Duncan",
+      "character": "Gambler (uncredited)",
+      "order": 17,
+      "cast_id": 25,
+      "popularity": 0.4626,
+      "profile_path": "/cvyvn63XZtA00PTkyNdykdjZuSS.jpg"
+    },
+    {
+      "personId": 1799135,
+      "name": "Louis Faust",
+      "character": "Hondo Jeffries (uncredited)",
+      "order": 18,
+      "cast_id": 33,
+      "popularity": 0.1786,
+      "profile_path": null
+    },
+    {
+      "personId": 8496,
+      "name": "Paul Fix",
+      "character": "Mouse Marr (uncredited)",
+      "order": 19,
+      "cast_id": 26,
+      "popularity": 2.0954,
+      "profile_path": "/1CTVXkgurzEYeFaJDuuIODaZvFu.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 50302,
+      "name": "James Edward Grant",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.1133,
+      "profile_path": "/2fDEOkZZZLgCelJGljLR18M2IGb.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 699,
+      "name": "love at first sight"
+    },
+    {
+      "id": 10950,
+      "name": "shootout"
+    },
+    {
+      "id": 188901,
+      "name": "quakerism"
+    },
+    {
+      "id": 188922,
+      "name": "cattle rustling"
+    },
+    {
+      "id": 188924,
+      "name": "outlaw gang"
+    },
+    {
+      "id": 188925,
+      "name": "brunette"
+    },
+    {
+      "id": 188933,
+      "name": "bar fight"
+    },
+    {
+      "id": 188934,
+      "name": "bar brawl"
+    },
+    {
+      "id": 188938,
+      "name": "telegraph office"
+    },
+    {
+      "id": 188944,
+      "name": "revolver"
+    },
+    {
+      "id": 188947,
+      "name": "sidekick"
+    },
+    {
+      "id": 196947,
+      "name": "hospitality"
+    },
+    {
+      "id": 238424,
+      "name": "generosity"
+    }
+  ]
+}

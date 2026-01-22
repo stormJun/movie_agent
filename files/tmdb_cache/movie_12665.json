@@ -1,0 +1,270 @@
+{
+  "overview": "Harassed by classmates who won't accept his shocking appearance, a shy young man known as \"Powder\" struggles to fit in. But the cruel taunts stop when Powder displays a mysterious power that allows him to do incredible things. This phenomenon changes the lives of all those around him in ways they never could have imagined.",
+  "release_date": "1995-10-27",
+  "runtime": 112,
+  "budget": 9500000,
+  "revenue": 30900000,
+  "tmdb_vote_average": 6.989,
+  "tmdb_vote_count": 695,
+  "tmdb_popularity": 5.3883,
+  "original_language": "en",
+  "poster_path": "/aQSA63T7zyzZxBZxr2MQaxt1gtO.jpg",
+  "backdrop_path": "/gAeFtnwgF4asNVbmrudWMHOilWj.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Fantasy"
+  ],
+  "production_companies": [
+    {
+      "id": 915,
+      "name": "Hollywood Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 175,
+      "name": "Caravan Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2453,
+      "name": "Mary Steenburgen",
+      "character": "Jessie Caldwell",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.4892,
+      "profile_path": "/yJhfuqS3yXW7kLSyvRU6n3b35mq.jpg"
+    },
+    {
+      "personId": 54789,
+      "name": "Sean Patrick Flanery",
+      "character": "Jeremy 'Powder' Reed",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 2.2718,
+      "profile_path": "/aHQtxIjMEDWdXqvFJplx0Kcwdn6.jpg"
+    },
+    {
+      "personId": 2714,
+      "name": "Lance Henriksen",
+      "character": "Sheriff Doug Barnum",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 2.918,
+      "profile_path": "/1PkFmD5HdjmRa2DumtwINnnAjTH.jpg"
+    },
+    {
+      "personId": 4785,
+      "name": "Jeff Goldblum",
+      "character": "Donald Ripley",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 5.6565,
+      "profile_path": "/ceSmXnD0FUSTaq2WIrnZu9caL0t.jpg"
+    },
+    {
+      "personId": 36637,
+      "name": "Brandon Smith",
+      "character": "Deputy Harley Duncan",
+      "order": 4,
+      "cast_id": 5,
+      "popularity": 1.8855,
+      "profile_path": "/xdaB4K5D6D6caJw1kO9RFrZKXiY.jpg"
+    },
+    {
+      "personId": 91448,
+      "name": "Bradford Tatum",
+      "character": "John Box",
+      "order": 5,
+      "cast_id": 15,
+      "popularity": 0.951,
+      "profile_path": "/c1FV8XnR0ud1Vs1ONWjMGz5M65S.jpg"
+    },
+    {
+      "personId": 59369,
+      "name": "Susan Tyrrell",
+      "character": "Maxine",
+      "order": 6,
+      "cast_id": 16,
+      "popularity": 0.9729,
+      "profile_path": "/9fpVbAHId4DSvUbB7BzzBuBpDpN.jpg"
+    },
+    {
+      "personId": 53646,
+      "name": "Missy Crider",
+      "character": "Lindsey Kelloway",
+      "order": 7,
+      "cast_id": 17,
+      "popularity": 3.0323,
+      "profile_path": "/rDPVqnIvk5KPan2pFo8PCaZX7B.jpg"
+    },
+    {
+      "personId": 6719,
+      "name": "Ray Wise",
+      "character": "Dr. Aaron Stripler",
+      "order": 8,
+      "cast_id": 18,
+      "popularity": 3.7813,
+      "profile_path": "/60313U01R1j9eueDBXiIh9o55RQ.jpg"
+    },
+    {
+      "personId": 93523,
+      "name": "Esteban Powell",
+      "character": "Mitch",
+      "order": 9,
+      "cast_id": 19,
+      "popularity": 0.736,
+      "profile_path": "/nQuuT1Yj4mLNbL1ZXTHV8wQYv7F.jpg"
+    },
+    {
+      "personId": 3673406,
+      "name": "Danette McMahon",
+      "character": "Emma Barnum",
+      "order": 10,
+      "cast_id": 20,
+      "popularity": 0.228,
+      "profile_path": null
+    },
+    {
+      "personId": 3673407,
+      "name": "Paula Engel",
+      "character": "Anna Reed",
+      "order": 11,
+      "cast_id": 21,
+      "popularity": 0.1308,
+      "profile_path": null
+    },
+    {
+      "personId": 63300,
+      "name": "Bonnie Gallup",
+      "character": "Nurse",
+      "order": 12,
+      "cast_id": 22,
+      "popularity": 0.5013,
+      "profile_path": null
+    },
+    {
+      "personId": 60469,
+      "name": "Dee Macaluso",
+      "character": "Nurse #1",
+      "order": 13,
+      "cast_id": 23,
+      "popularity": 0.3284,
+      "profile_path": "/rxSrda3P0aSerSgG42bWxA5HJEX.jpg"
+    },
+    {
+      "personId": 945612,
+      "name": "Tom Tarantini",
+      "character": "Steve Barnum",
+      "order": 14,
+      "cast_id": 24,
+      "popularity": 0.445,
+      "profile_path": "/1wIUaxLPwdHsKOd6RfP8LZXzkZT.jpg"
+    },
+    {
+      "personId": 111002,
+      "name": "Brady Coleman",
+      "character": "Dr. Deggan",
+      "order": 15,
+      "cast_id": 25,
+      "popularity": 1.3797,
+      "profile_path": "/7g0eD0YqUDIacT6uv3OfHqIEWce.jpg"
+    },
+    {
+      "personId": 167691,
+      "name": "Alex Morris",
+      "character": "Dr. Duane Roth",
+      "order": 16,
+      "cast_id": 26,
+      "popularity": 0.7919,
+      "profile_path": "/8bvNGjjZrSBeun0DBf9g8qGkuAS.jpg"
+    },
+    {
+      "personId": 78722,
+      "name": "Woody Watson",
+      "character": "Deke Kelloway",
+      "order": 17,
+      "cast_id": 27,
+      "popularity": 0.5421,
+      "profile_path": "/7h2ceTrOuHcHruWp5P5U0aZTxGw.jpg"
+    },
+    {
+      "personId": 1205472,
+      "name": "Darla Rae",
+      "character": "Mrs. Kubler (uncredited)",
+      "order": 18,
+      "cast_id": 28,
+      "popularity": 0.4329,
+      "profile_path": "/rczBMauBNLrevswoc17IejBj38W.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 56349,
+      "name": "Victor Salva",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.0238,
+      "profile_path": "/8TLmBD6DwUb8JYY4psLdjjQawwu.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 18068,
+      "name": "teenage boy"
+    },
+    {
+      "id": 18320,
+      "name": "held at gunpoint"
+    },
+    {
+      "id": 41355,
+      "name": "teacher student relationship"
+    },
+    {
+      "id": 163531,
+      "name": "albino"
+    },
+    {
+      "id": 163533,
+      "name": "fainting"
+    },
+    {
+      "id": 163540,
+      "name": "christ allegory"
+    },
+    {
+      "id": 163543,
+      "name": "psionic power"
+    },
+    {
+      "id": 163545,
+      "name": "healing power"
+    },
+    {
+      "id": 163553,
+      "name": "flickering light"
+    },
+    {
+      "id": 163558,
+      "name": "extrasensory perception"
+    },
+    {
+      "id": 181037,
+      "name": "pale"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "overview": "Russia, 1936: revolutionary hero Colonel Kotov is spending an idyllic summer in his dacha with his young wife and six-year-old daughter Nadia and other assorted family and friends. Things change dramatically with the unheralded arrival of Cousin Dmitri from Moscow, who charms the women and little Nadia with his games and pianistic bravura. But Kotov isn't fooled: this is the time of Stalin's repression, with telephone calls in the middle of the night spelling doom - and he knows that Dmitri isn't paying a social call...",
+  "release_date": "1994-05-01",
+  "runtime": 135,
+  "budget": 2800000,
+  "revenue": 2616503,
+  "tmdb_vote_average": 6.987,
+  "tmdb_vote_count": 193,
+  "tmdb_popularity": 0.9135,
+  "original_language": "ru",
+  "poster_path": "/jcpvnPSuRrynrgY7menuyZe7X4r.jpg",
+  "backdrop_path": "/dR6oO0xtzUhRy9pGe5aL0yLARCu.jpg",
+  "tmdb_genres_raw": [
+    "Drama"
+  ],
+  "production_companies": [
+    {
+      "id": 3467,
+      "name": "Studio Trite",
+      "origin_country": "RU"
+    },
+    {
+      "id": 6454,
+      "name": "Caméra One",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "RU",
+      "name": "Russia"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 82796,
+      "name": "Nikita Mikhalkov",
+      "character": "Col. Sergei Petrovich Kotov",
+      "order": 0,
+      "cast_id": 3,
+      "popularity": 1.122,
+      "profile_path": "/25GLiAUDhHIIMqNtkBaz6uW7R5A.jpg"
+    },
+    {
+      "personId": 82795,
+      "name": "Oleg Menshikov",
+      "character": "Dimitri (Mitya)",
+      "order": 1,
+      "cast_id": 5,
+      "popularity": 0.697,
+      "profile_path": "/7PkJF7BU31ZSZlrhRPKaXSJcCo4.jpg"
+    },
+    {
+      "personId": 14593,
+      "name": "Ingeborga Dapkūnaitė",
+      "character": "Marusia",
+      "order": 2,
+      "cast_id": 6,
+      "popularity": 1.1183,
+      "profile_path": "/epH5vef5Tm6b2VyU71KKCxw9tyd.jpg"
+    },
+    {
+      "personId": 99311,
+      "name": "Vyacheslav Tikhonov",
+      "character": "Vsevolod",
+      "order": 3,
+      "cast_id": 8,
+      "popularity": 1.8454,
+      "profile_path": "/ik9xtFX3MwvmVAWzyyJsPKAHrC8.jpg"
+    },
+    {
+      "personId": 500625,
+      "name": "Nadezhda Mikhalkova",
+      "character": "Nadya Kotova",
+      "order": 4,
+      "cast_id": 9,
+      "popularity": 0.6264,
+      "profile_path": "/iIZZAmgw3VnhpnB76ANi4K4H4Ak.jpg"
+    },
+    {
+      "personId": 17482,
+      "name": "André Oumansky",
+      "character": "Philippe",
+      "order": 5,
+      "cast_id": 7,
+      "popularity": 0.4381,
+      "profile_path": "/ezlKFaTsAQjIePtLpFHF7uMWebh.jpg"
+    },
+    {
+      "personId": 240540,
+      "name": "Svetlana Kryuchkova",
+      "character": "",
+      "order": 6,
+      "cast_id": 32,
+      "popularity": 1.3698,
+      "profile_path": "/3n8ChqquuxoyPNYPcpsN4onzMj8.jpg"
+    },
+    {
+      "personId": 240563,
+      "name": "Vladimir Ilin",
+      "character": "",
+      "order": 7,
+      "cast_id": 33,
+      "popularity": 1.0467,
+      "profile_path": "/4DJwGRrm5VuZw5gLTJCbjCC36U7.jpg"
+    },
+    {
+      "personId": 238702,
+      "name": "Alla Kazanskaya",
+      "character": "",
+      "order": 8,
+      "cast_id": 34,
+      "popularity": 1.1625,
+      "profile_path": "/e0MKHTD9kgISnJNySAXvXY4ubHL.jpg"
+    },
+    {
+      "personId": 1375958,
+      "name": "Nina Arkhipova",
+      "character": "",
+      "order": 9,
+      "cast_id": 35,
+      "popularity": 1.2615,
+      "profile_path": "/uqpdia4p2xtKgAv5Xd63I6wAgIH.jpg"
+    },
+    {
+      "personId": 545809,
+      "name": "Avangard Leontyev",
+      "character": "",
+      "order": 10,
+      "cast_id": 36,
+      "popularity": 0.9822,
+      "profile_path": "/rgdkIvsEidYIoAUll6VZipU1h8k.jpg"
+    },
+    {
+      "personId": 271091,
+      "name": "Inna Ulyanova",
+      "character": "",
+      "order": 11,
+      "cast_id": 37,
+      "popularity": 1.0939,
+      "profile_path": "/dT1fjgFSKQmeYHPaNiEzK6WQUJs.jpg"
+    },
+    {
+      "personId": 125869,
+      "name": "Lyubov Rudneva",
+      "character": "",
+      "order": 12,
+      "cast_id": 38,
+      "popularity": 0.9278,
+      "profile_path": "/wq9BeasIRRrzHtbFYhZY1sFUDuW.jpg"
+    },
+    {
+      "personId": 99298,
+      "name": "Vladimir Belousov",
+      "character": "",
+      "order": 13,
+      "cast_id": 39,
+      "popularity": 0.9503,
+      "profile_path": "/5NoYDeAq81fwjQbUWeVfbhIV6eR.jpg"
+    },
+    {
+      "personId": 116005,
+      "name": "Evgeny Mironov",
+      "character": "",
+      "order": 14,
+      "cast_id": 40,
+      "popularity": 1.5029,
+      "profile_path": "/oqqeU0klzTydRe4JeSeSPjwCk27.jpg"
+    },
+    {
+      "personId": 29852,
+      "name": "Natela Abuladze",
+      "character": "",
+      "order": 15,
+      "cast_id": 41,
+      "popularity": 0.188,
+      "profile_path": null
+    },
+    {
+      "personId": 29841,
+      "name": "Georgiy Dronov",
+      "character": "",
+      "order": 16,
+      "cast_id": 42,
+      "popularity": 1.561,
+      "profile_path": null
+    },
+    {
+      "personId": 107153,
+      "name": "Marat Basharov",
+      "character": "",
+      "order": 17,
+      "cast_id": 44,
+      "popularity": 2.0106,
+      "profile_path": "/3BJ79Ho3DkPefLQYh5nCOAJDj3M.jpg"
+    },
+    {
+      "personId": 2738645,
+      "name": "Oleg Feoktistov",
+      "character": "",
+      "order": 18,
+      "cast_id": 45,
+      "popularity": 0.9189,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "personId": 82796,
+      "name": "Nikita Mikhalkov",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 1.122,
+      "profile_path": "/25GLiAUDhHIIMqNtkBaz6uW7R5A.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1157,
+      "name": "husband wife relationship"
+    },
+    {
+      "id": 10786,
+      "name": "colonel"
+    }
+  ]
+}

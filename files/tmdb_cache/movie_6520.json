@@ -1,0 +1,274 @@
+{
+  "overview": "The timeless tale of King Arthur and the legend of Camelot are retold in this passionate period drama. Arthur is reluctant to hand the crown to Lancelot, and Guinevere is torn between her loyalty to her husband and her growing love for his rival. But Lancelot must balance his loyalty to the throne with the rewards of true love.",
+  "release_date": "1995-07-07",
+  "runtime": 134,
+  "budget": 55000000,
+  "revenue": 127600435,
+  "tmdb_vote_average": 6.106,
+  "tmdb_vote_count": 1299,
+  "tmdb_popularity": 6.5498,
+  "original_language": "en",
+  "poster_path": "/xuXkCcrvUTkehVXuTGpnfySsx0Z.jpg",
+  "backdrop_path": "/tsgEdYjwWVhdGHv01djx7KdXDJm.jpg",
+  "tmdb_genres_raw": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    {
+      "id": 10158,
+      "name": "First Knight Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 2851,
+      "name": "Zucker Brothers Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 738,
+      "name": "Sean Connery",
+      "character": "Arthur",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 3.5113,
+      "profile_path": "/iVr9HDPGIOhfUNO7LKt9g0MSHRP.jpg"
+    },
+    {
+      "personId": 1205,
+      "name": "Richard Gere",
+      "character": "Lancelot",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 5.9547,
+      "profile_path": "/lWjnKsszeYaY7McFPyyQxK2gONV.jpg"
+    },
+    {
+      "personId": 15887,
+      "name": "Julia Ormond",
+      "character": "Guinevere",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 4.1809,
+      "profile_path": "/u7Oz6nHfMSlXuT34K7Ffp4f2qgP.jpg"
+    },
+    {
+      "personId": 29068,
+      "name": "Ben Cross",
+      "character": "Malagant",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 1.7189,
+      "profile_path": "/11gObExUG7lFCA7WeYgHabnZjDg.jpg"
+    },
+    {
+      "personId": 15498,
+      "name": "Liam Cunningham",
+      "character": "Agravaine",
+      "order": 4,
+      "cast_id": 8,
+      "popularity": 3.0368,
+      "profile_path": "/ljmFT9zYqh4k2bmEcNU6rxoE7fW.jpg"
+    },
+    {
+      "personId": 34720,
+      "name": "Christopher Villiers",
+      "character": "Sir Kay",
+      "order": 5,
+      "cast_id": 9,
+      "popularity": 1.9411,
+      "profile_path": "/t3SMJeC15jNuumw2buHZj2nzkqA.jpg"
+    },
+    {
+      "personId": 52375,
+      "name": "Valentine Pelka",
+      "character": "Sir Patrise",
+      "order": 6,
+      "cast_id": 10,
+      "popularity": 1.7214,
+      "profile_path": "/3Y74phXaon2ZLEXu9y5t8QENyvt.jpg"
+    },
+    {
+      "personId": 186032,
+      "name": "Colin McCormack",
+      "character": "Sir Mador",
+      "order": 7,
+      "cast_id": 11,
+      "popularity": 0.5701,
+      "profile_path": "/tRUfgoq8Vxi4Hqe9jXIQEcdRKlF.jpg"
+    },
+    {
+      "personId": 202032,
+      "name": "Ralph Ineson",
+      "character": "Ralf",
+      "order": 8,
+      "cast_id": 12,
+      "popularity": 3.4031,
+      "profile_path": "/sn3ONJw2pJxMHiCqPwvkaiWr5mc.jpg"
+    },
+    {
+      "personId": 11857,
+      "name": "John Gielgud",
+      "character": "Oswald",
+      "order": 9,
+      "cast_id": 13,
+      "popularity": 1.3897,
+      "profile_path": "/ztD6tFl6cq5zPSTgVqiX7j6OeHm.jpg"
+    },
+    {
+      "personId": 107398,
+      "name": "Stuart Bunce",
+      "character": "Peter",
+      "order": 10,
+      "cast_id": 14,
+      "popularity": 0.3855,
+      "profile_path": "/YEelUIelbOhxPzn3M2GOkLTlLc.jpg"
+    },
+    {
+      "personId": 193360,
+      "name": "Jane Robbins",
+      "character": "Elise",
+      "order": 11,
+      "cast_id": 15,
+      "popularity": 1.8245,
+      "profile_path": null
+    },
+    {
+      "personId": 1075038,
+      "name": "Jean Marie Coffey",
+      "character": "Petronella",
+      "order": 12,
+      "cast_id": 16,
+      "popularity": 0.2274,
+      "profile_path": null
+    },
+    {
+      "personId": 200365,
+      "name": "Paul Kynman",
+      "character": "Mark",
+      "order": 13,
+      "cast_id": 17,
+      "popularity": 0.918,
+      "profile_path": "/p9sNcnMVeCULxHzU2nGK2o2ghrh.jpg"
+    },
+    {
+      "personId": 1063141,
+      "name": "Tom Lucy",
+      "character": "Sir Sagramore",
+      "order": 14,
+      "cast_id": 18,
+      "popularity": 0.5745,
+      "profile_path": null
+    },
+    {
+      "personId": 1576853,
+      "name": "John Blakey",
+      "character": "Sir Tor",
+      "order": 15,
+      "cast_id": 77,
+      "popularity": 0.6548,
+      "profile_path": null
+    },
+    {
+      "personId": 1469649,
+      "name": "Robert Gwyn Davin",
+      "character": "Sir Gawaine",
+      "order": 16,
+      "cast_id": 78,
+      "popularity": 0.4674,
+      "profile_path": null
+    },
+    {
+      "personId": 1229244,
+      "name": "Sean Blowers",
+      "character": "Sir Carados",
+      "order": 17,
+      "cast_id": 79,
+      "popularity": 1.3997,
+      "profile_path": "/xiKNSX9fNtg4JL0c3BXtd8jNyz6.jpg"
+    },
+    {
+      "personId": 1214673,
+      "name": "Alexis Denisof",
+      "character": "Sir Gaheris",
+      "order": 18,
+      "cast_id": 80,
+      "popularity": 1.1717,
+      "profile_path": "/luTHwbaLutoKYWJSpk2WyuPasvk.jpg"
+    },
+    {
+      "personId": 1728954,
+      "name": "Daniel Naprous",
+      "character": "Sir Amant",
+      "order": 19,
+      "cast_id": 81,
+      "popularity": 1.5916,
+      "profile_path": "/tCzwPR0FBxUKfnGIynvBx4cWw4V.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 3415,
+      "name": "Jerry Zucker",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 0.8507,
+      "profile_path": "/iSzdnge16GBKLkBoTM4mqUIWIxi.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3966,
+      "name": "camelot"
+    },
+    {
+      "id": 10085,
+      "name": "betrayal"
+    },
+    {
+      "id": 10466,
+      "name": "knight"
+    },
+    {
+      "id": 10982,
+      "name": "king arthur"
+    },
+    {
+      "id": 14720,
+      "name": "love affair"
+    },
+    {
+      "id": 177128,
+      "name": "excalibur"
+    },
+    {
+      "id": 177129,
+      "name": "knights of the round table"
+    },
+    {
+      "id": 184663,
+      "name": "lancelot"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "overview": "A vampiric doctoral student tries to follow the philosophy of a nocturnal comrade and control her thirst for blood.",
+  "release_date": "1995-10-06",
+  "runtime": 82,
+  "budget": 0,
+  "revenue": 302393,
+  "tmdb_vote_average": 6.5,
+  "tmdb_vote_count": 302,
+  "tmdb_popularity": 1.1279,
+  "original_language": "en",
+  "poster_path": "/1Yy8H2tKQ16mffLFRfxcBHKBdyF.jpg",
+  "backdrop_path": "/1ndAmeEZWX3xTAZVEphdKC3uLTc.jpg",
+  "tmdb_genres_raw": [
+    "Drama",
+    "Horror"
+  ],
+  "production_companies": [
+    {
+      "id": 228910,
+      "name": "Fast Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "code": "US",
+      "name": "United States of America"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "code": "en",
+      "name": "English"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3127,
+      "name": "Lili Taylor",
+      "character": "Kathleen Conklin",
+      "order": 0,
+      "cast_id": 1,
+      "popularity": 2.5342,
+      "profile_path": "/vWcMUi3QyvCr3QuFbjtwyPx7WtU.jpg"
+    },
+    {
+      "personId": 4690,
+      "name": "Christopher Walken",
+      "character": "Peina",
+      "order": 1,
+      "cast_id": 2,
+      "popularity": 4.8405,
+      "profile_path": "/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+    },
+    {
+      "personId": 18750,
+      "name": "Annabella Sciorra",
+      "character": "Casanova",
+      "order": 2,
+      "cast_id": 3,
+      "popularity": 5.2988,
+      "profile_path": "/p2dnBSjLzKxldrHCQZYmVq0LcFw.jpg"
+    },
+    {
+      "personId": 36190,
+      "name": "Edie Falco",
+      "character": "Jean",
+      "order": 3,
+      "cast_id": 4,
+      "popularity": 3.7633,
+      "profile_path": "/jS2Hnr5OmntpX0J7EpH70zAG0mz.jpg"
+    },
+    {
+      "personId": 3137,
+      "name": "Paul Calderon",
+      "character": "Professor",
+      "order": 4,
+      "cast_id": 10,
+      "popularity": 1.7227,
+      "profile_path": "/xIORhcIDmFMlaS3ZS3em1QiTkt5.jpg"
+    },
+    {
+      "personId": 59568,
+      "name": "Fredro Starr",
+      "character": "Black",
+      "order": 5,
+      "cast_id": 26,
+      "popularity": 1.2442,
+      "profile_path": "/2N2JWF1S353JFcbpkEHkg06b1o.jpg"
+    },
+    {
+      "personId": 49824,
+      "name": "Kathryn Erbe",
+      "character": "Anthropology Student",
+      "order": 6,
+      "cast_id": 27,
+      "popularity": 1.7049,
+      "profile_path": "/gJ3hlTzTjpTVBsGadvUQGiBgjsV.jpg"
+    },
+    {
+      "personId": 11486,
+      "name": "Michael Imperioli",
+      "character": "Missionary",
+      "order": 7,
+      "cast_id": 29,
+      "popularity": 3.4147,
+      "profile_path": "/jfoEHR6BRMg8emtujXdM3G4JHIm.jpg"
+    },
+    {
+      "personId": 2490519,
+      "name": "Jamal Simmons",
+      "character": "Black's Friend",
+      "order": 8,
+      "cast_id": 30,
+      "popularity": 0.6299,
+      "profile_path": "/rFBmJ7yo2l5wS1uzNhpU0ctFRlk.jpg"
+    },
+    {
+      "personId": 552527,
+      "name": "Robert W. Castle",
+      "character": "Narrator / Priest",
+      "order": 9,
+      "cast_id": 31,
+      "popularity": 1.0736,
+      "profile_path": "/5NIaVNPRVEFCHTrp0o19JzmOJIL.jpg"
+    },
+    {
+      "personId": 2666898,
+      "name": "Michael A. Fella",
+      "character": "Cop",
+      "order": 10,
+      "cast_id": 32,
+      "popularity": 0.2382,
+      "profile_path": null
+    },
+    {
+      "personId": 2141418,
+      "name": "Louis Katz",
+      "character": "Doctor",
+      "order": 11,
+      "cast_id": 37,
+      "popularity": 0.7338,
+      "profile_path": null
+    },
+    {
+      "personId": 1183967,
+      "name": "Leroy Johnson",
+      "character": "Homeless Victim",
+      "order": 12,
+      "cast_id": 34,
+      "popularity": 0.4798,
+      "profile_path": null
+    },
+    {
+      "personId": 1857438,
+      "name": "Fred Williams",
+      "character": "Homeless Victim",
+      "order": 13,
+      "cast_id": 35,
+      "popularity": 0.1656,
+      "profile_path": null
+    },
+    {
+      "personId": 2666900,
+      "name": "Avron Coleman",
+      "character": "Cellist",
+      "order": 14,
+      "cast_id": 36,
+      "popularity": 0.0409,
+      "profile_path": null
+    },
+    {
+      "personId": 2666902,
+      "name": "Lisa Casillo",
+      "character": "Mary",
+      "order": 15,
+      "cast_id": 38,
+      "popularity": 0.0698,
+      "profile_path": null
+    },
+    {
+      "personId": 1315514,
+      "name": "Frank Aquilino",
+      "character": "Delivery Man",
+      "order": 16,
+      "cast_id": 39,
+      "popularity": 0.702,
+      "profile_path": "/zAwaElGYFiVXXnmj7h1KyjMMTd5.jpg"
+    },
+    {
+      "personId": 1001803,
+      "name": "Nicholas De Cegli",
+      "character": "Cabby",
+      "order": 17,
+      "cast_id": 40,
+      "popularity": 0.111,
+      "profile_path": null
+    },
+    {
+      "personId": 985847,
+      "name": "Jay Julien",
+      "character": "Dean",
+      "order": 18,
+      "cast_id": 41,
+      "popularity": 0.2522,
+      "profile_path": "/2LPmfQxEsmHeIoAI3RCY9PKp9gg.jpg"
+    },
+    {
+      "personId": 933507,
+      "name": "Chuck Jeffreys",
+      "character": "Bartender",
+      "order": 19,
+      "cast_id": 42,
+      "popularity": 2.9749,
+      "profile_path": "/lm7TVH7ThmcuFlroo01z82us9Cp.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "personId": 39104,
+      "name": "Abel Ferrara",
+      "job": "Director",
+      "department": "Directing",
+      "popularity": 2.8055,
+      "profile_path": "/wdOxXWyxE3HjrtdeOJvc9xB5eUv.jpg"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 3133,
+      "name": "vampire"
+    },
+    {
+      "id": 490,
+      "name": "philosophy"
+    },
+    {
+      "id": 6782,
+      "name": "addiction"
+    }
+  ]
+}
