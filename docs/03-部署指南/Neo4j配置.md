@@ -296,7 +296,7 @@ dbms.logs.debug.level=INFO
 
 ### Docker 环境变量配置
 
-**docker-compose.yaml 配置映射**：
+**docker/docker-compose.yaml 配置映射**：
 
 ```yaml
 services:

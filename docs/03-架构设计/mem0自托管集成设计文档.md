@@ -1305,7 +1305,7 @@ MEM0_SERVICE_PORT=8830
 MEM0_API_KEY=your-secret-api-key
 
 # PostgreSQL（复用现有数据库）
-# 注意：容器内端口默认 5432，宿主机映射端口根据 docker-compose.yaml 配置
+# 注意：容器内端口默认 5432，宿主机映射端口根据 docker/docker-compose.yaml 配置
 # 宿主机访问用 localhost:5433，容器间通信用 postgres:5432
 MEM0_PG_DSN=postgresql://postgres:postgres@postgres:5432/graphrag_chat
 
@@ -1380,27 +1380,27 @@ MEMORY_TOP_K=10
 
 ```bash
 # 1. 启动基础服务（PostgreSQL, Neo4j）
-docker compose up -d
+docker compose -f docker/docker-compose.yaml up -d
 
 # 2. 启动 mem0 自托管服务
-docker compose -f docker-compose.yaml -f docker-compose.mem0.yaml up -d --build
+docker compose -f docker/docker-compose.yaml -f docker/docker-compose.mem0.yaml up -d --build
 
 # 3. 检查服务状态
 docker compose ps
 curl http://localhost:8830/healthz
 ```
 
-#### 8.1.2 docker-compose.mem0.yaml
+#### 8.1.2 docker/docker-compose.mem0.yaml
 
 ```yaml
 version: "3.8"
 services:
   mem0:
     build:
-      context: .
-      dockerfile: Dockerfile.mem0
+      context: ..
+      dockerfile: docker/Dockerfile.mem0
     env_file:
-      - .env
+      - ../.env
     ports:
       - "8830:8830"
     environment:
@@ -1433,7 +1433,7 @@ services:
     restart: unless-stopped
 ```
 
-#### 8.1.3 Dockerfile.mem0
+#### 8.1.3 docker/Dockerfile.mem0
 
 ```dockerfile
 FROM python:3.11-slim
@@ -1461,7 +1461,7 @@ CMD ["python", "-m", "uvicorn", "server.mem0_service.main:app", "--host", "0.0.0
 
 **解决方案 1：使用 `extra_hosts`（推荐）**
 
-修改 `docker-compose.mem0.yaml`：
+修改 `docker/docker-compose.mem0.yaml`：
 
 ```yaml
 services:
@@ -1519,7 +1519,7 @@ cd backend
 python -m uvicorn server.mem0_service.main:app --host 0.0.0.0 --port 8830 --reload
 
 # 方式 2：Docker Compose（推荐）
-docker compose -f docker-compose.yaml -f docker-compose.mem0.yaml up -d mem0
+docker compose -f docker/docker-compose.yaml -f docker/docker-compose.mem0.yaml up -d mem0
 ```
 
 #### 8.2.2 测试服务
@@ -3910,8 +3910,8 @@ class HallucinationMonitor:
 | `backend/domain/memory/memory_item.py` | 记忆项值对象 |
 | `backend/domain/memory/policy.py` | 记忆策略和规则 |
 | `backend/application/chat/memory_service.py` | 应用层编排服务 |
-| `docker-compose.mem0.yaml` | Docker Compose 配置 |
-| `Dockerfile.mem0` | Docker 镜像构建 |
+| `docker/docker-compose.mem0.yaml` | Docker Compose 配置 |
+| `docker/Dockerfile.mem0` | Docker 镜像构建 |
 | `backend/config/settings.py` | 功能开关配置 |
 | `backend/infrastructure/config/settings.py` | 客户端连接配置 |
 

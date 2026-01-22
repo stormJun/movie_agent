@@ -49,7 +49,7 @@ bash scripts/dev.sh frontend
 ## Neo4j（可选但推荐）
 
 项目默认使用 Neo4j 作为图存储，常见配置参考：
-- `docker-compose.yaml`
+- `docker/docker-compose.yaml`
 - `docs/03-部署指南/Neo4j配置.md`
 
 ## 测试

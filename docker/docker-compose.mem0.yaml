@@ -3,7 +3,7 @@ services:
   # mem0-compatible self-hosted service for long-term memory.
   #
   # Usage:
-  #   docker compose -f docker-compose.yaml -f docker-compose.mem0.yaml up -d --build
+  #   docker compose -f docker/docker-compose.yaml -f docker/docker-compose.mem0.yaml up -d --build
   #
   # Then set in your backend .env:
   #   MEMORY_ENABLE=true
@@ -11,12 +11,13 @@ services:
   #   MEM0_BASE_URL="http://localhost:8830"
   mem0:
     build:
-      context: .
-      dockerfile: Dockerfile.mem0
+      # Compose files live under docker/, but build context is repo root.
+      context: ..
+      dockerfile: docker/Dockerfile.mem0
     # Load local .env into the container to avoid relying on host shell env var
     # substitution (which may be polluted by other local stacks).
     env_file:
-      - .env
+      - ../.env
     ports:
       - "8830:8830"
     environment:
@@ -31,7 +32,7 @@ services:
       # For internal/trusted callers (GraphRAG backend), allow user_id in request body.
       MEM0_TRUST_REQUEST_USER_ID: "${MEM0_TRUST_REQUEST_USER_ID:-true}"
       MEM0_USER_ID_HEADER: "${MEM0_USER_ID_HEADER:-x-user-id}"
-      # Store memory text/metadata in the existing postgres service (from docker-compose.yaml).
+      # Store memory text/metadata in the existing postgres service (from docker/docker-compose.yaml).
       MEM0_PG_DSN: "${MEM0_PG_DSN:-postgresql://postgres:postgres@postgres:5432/graphrag_chat}"
       # Use Milvus for vector search; point to your local Milvus.
       # If Milvus is started in another compose and exposes 19530 on host, this works on macOS/Windows.
