@@ -762,7 +762,10 @@ def get_chunks(limit: int = 10, offset: int = 0):
         from neo4j import Result
         result = driver.execute_query(
             query, 
-            parameters={"limit": int(limit), "offset": int(offset)},
+            # neo4j.Driver.execute_query uses `parameters_` (with trailing underscore).
+            # Using `parameters` silently drops params (captured by **kwargs) and causes
+            # Neo4j to report missing $limit/$offset.
+            parameters_={"limit": int(limit), "offset": int(offset)},
             result_transformer_=Result.to_df
         )
         
