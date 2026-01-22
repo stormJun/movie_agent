@@ -30,6 +30,9 @@ export function RelationsPage() {
   const [loadingSearch, setLoadingSearch] = useState(false);
   const [searchError, setSearchError] = useState<string | null>(null);
 
+  const [page, setPage] = useState<number>(1);
+  const [pageSize, setPageSize] = useState<number>(10);
+
   const [searchForm] = Form.useForm<RelationSearchFilter>();
   const [createForm] = Form.useForm<RelationData>();
   const [updateForm] = Form.useForm<RelationUpdateData>();
@@ -56,6 +59,7 @@ export function RelationsPage() {
       const values = searchForm.getFieldsValue();
       const resp = await searchRelations(values);
       setRelations(resp);
+      setPage(1);
     } catch (e) {
       setSearchError(e instanceof Error ? e.message : "查询失败");
     } finally {
@@ -158,7 +162,17 @@ export function RelationsPage() {
                     dataSource={relations}
                     loading={loadingSearch}
                     columns={columns}
-                    pagination={{ pageSize: 10 }}
+                    pagination={{
+                      current: page,
+                      pageSize,
+                      showSizeChanger: true,
+                      pageSizeOptions: [10, 20, 50, 100, 200],
+                      showTotal: (total) => `共 ${total} 条`,
+                      onChange: (nextPage, nextPageSize) => {
+                        setPageSize(nextPageSize);
+                        setPage(nextPageSize !== pageSize ? 1 : nextPage);
+                      },
+                    }}
                     onRow={(row) => ({
                       onClick: () => {
                         updateForm.setFieldsValue({
@@ -285,4 +299,3 @@ export function RelationsPage() {
     </Space>
   );
 }
-
