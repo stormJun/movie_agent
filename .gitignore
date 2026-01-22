@@ -27,6 +27,7 @@ documents/
 hotpot_dev_distractor_v1.json
 outputs/
 files/
+frontend/
 
 # Frontend (React) build artifacts and dependencies
 frontend-react/node_modules/

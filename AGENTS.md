@@ -1,13 +1,13 @@
 # Repository Guidelines
 
 ## Project Structure & Module Organization
-Hard rule: all backend code must live under `backend/` (no `server/`, `application/`, `domain/`, `infrastructure/`, `graphrag_agent/` at repo root). Core runtime sits in `backend/graphrag_agent/`: `agents/` implements GraphRAG agents (multi-agent flows under `multi_agent/`), and `graph/` owns the core ingestion primitives. Build/ingestion pipelines live under `backend/infrastructure/integrations/` and `backend/infrastructure/pipelines/`. The FastAPI backend lives in `backend/server/`; the Streamlit UI in `frontend/`. Tests and evaluation scripts reside in `test/`. Data inputs (`datasets/`, `documents/`) and generated artifacts (`files/`) stay separated—do not mix sources and outputs.
+ Hard rule: all backend code must live under `backend/` (no `server/`, `application/`, `domain/`, `infrastructure/`, `graphrag_agent/` at repo root). Core runtime sits in `backend/graphrag_agent/`: `agents/` implements GraphRAG agents (multi-agent flows under `multi_agent/`), and `graph/` owns the core ingestion primitives. Build/ingestion pipelines live under `backend/infrastructure/integrations/` and `backend/infrastructure/pipelines/`. The FastAPI backend lives in `backend/server/`; the React UI in `frontend-react/`. Tests and evaluation scripts reside in `test/`. Data inputs (`datasets/`, `documents/`) and generated artifacts (`files/`) stay separated—do not mix sources and outputs.
 
 ## Build, Test, and Development Commands
 - `python -m venv .venv && source .venv/bin/activate` creates an isolated Python 3.10+ environment.
 - `pip install -r requirements.txt` installs runtime and evaluation deps; install the OS packages noted in the file for DOC/PDF support.
 - `bash scripts/dev.sh backend` starts the FastAPI service (uvicorn + reload); it consumes `.env` variables for Neo4j and LLM access.
-- `streamlit run frontend/app.py` launches the chat UI.
+- `bash scripts/dev.sh frontend` starts the React UI (Vite).
 - `bash scripts/py.sh infrastructure.integrations.build.main --help` shows build pipeline help (docs should not hand-write `PYTHONPATH=backend ...` variants).
 - `bash scripts/test.sh` runs the default regression suite prior to any PR.
 
@@ -22,7 +22,7 @@ Prefer the wrappers to keep docs/CI stable:
 - custom unittest args: `bash scripts/ut.sh ...`
 
 ## Commit & Pull Request Guidelines
-Follow the short, imperative commit style in history (`add multi-agent config`, `unify configs`). Scope each logical change to one commit and use optional prefixes (`agents:`) when clarifying impact. PRs should include: summary, linked issue/TODO, test results, and configuration changes. Attach screenshots for `frontend/` changes and describe migration steps for datasets, caches, or graph indexes.
+Follow the short, imperative commit style in history (`add multi-agent config`, `unify configs`). Scope each logical change to one commit and use optional prefixes (`agents:`) when clarifying impact. PRs should include: summary, linked issue/TODO, test results, and configuration changes. Attach screenshots for `frontend-react/` changes and describe migration steps for datasets, caches, or graph indexes.
 
 ## Configuration & Data Handling
 Clone `.env.example` when adding settings; never commit secrets. Update both `.env.example` and `assets/start.md` when introducing new knobs or services. Keep raw corpora in `documents/` or `datasets/`; persist generated artifacts under `files/` and avoid adding them to git. Note required ports or Docker services in `docker-compose.yaml` for reviewers.

@@ -34,7 +34,6 @@ scikit-learn==1.6.1
 setuptools==75.8.0
 shutup==0.2.0
 sseclient-py==1.7.2
-streamlit==1.42.2
 tqdm==4.66.3
 uvicorn==0.29.0
 

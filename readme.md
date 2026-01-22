@@ -4,17 +4,17 @@
 - FastAPI 后端（`backend/server/`）
 - GraphRAG 核心运行时与 Agents（`backend/graphrag_agent/`）
 - 构建/摄取管道与集成（`backend/infrastructure/`）
-- Streamlit 前端（`frontend/`）
+- React 前端（`frontend-react/`）
 
 ## 目录结构
 
 ```
 backend/        # 后端全部代码（含 server、graphrag_agent、infrastructure）
-frontend/       # Streamlit UI
+frontend-react/ # React UI (Vite)
 test/           # unittest 回归测试
 datasets/       # 数据输入（示例/公开数据）
 documents/      # 文档输入（如用于摄取的语料）
-files/          # 生成物/缓存/导出（默认不入库）
+files/          # 生成物/缓存/导出（建议与源数据分离）
 scripts/        # 开发/测试脚本封装
 ```
 
@@ -40,10 +40,10 @@ cp .env.example .env
 bash scripts/dev.sh backend
 ```
 
-4) 启动前端（可选）
+4) 启动前端（可选，React）
 
 ```bash
-streamlit run frontend/app.py
+bash scripts/dev.sh frontend
 ```
 
 ## Neo4j（可选但推荐）
@@ -63,4 +63,3 @@ bash scripts/test.sh
 - 输入数据放 `datasets/`、`documents/`
 - 生成物放 `files/`（默认不提交到 git）
 - 不要提交 `.env` 等敏感信息
-
