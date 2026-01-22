@@ -96,5 +96,5 @@ class KnowledgeGraphService:
     def get_content_batch(self, chunk_ids: List[str]) -> Dict[str, Dict[str, Any]]:
         return self._port.get_content_batch(chunk_ids)
 
-    def get_chunks(self, *, limit: int = 10, offset: int = 0) -> Dict[str, Any]:
-        return self._port.get_chunks(limit=limit, offset=offset)
+    def get_chunks(self, *, limit: int = 10, offset: int = 0, kb_prefix: str | None = None) -> Dict[str, Any]:
+        return self._port.get_chunks(limit=limit, offset=offset, kb_prefix=kb_prefix)

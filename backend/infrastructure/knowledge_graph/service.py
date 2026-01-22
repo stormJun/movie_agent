@@ -739,7 +739,7 @@ def get_source_file_info(source_id: str) -> dict:
         return {"file_name": f"源文本 {source_id}"}
 
 
-def get_chunks(limit: int = 10, offset: int = 0):
+def get_chunks(limit: int = 10, offset: int = 0, kb_prefix: str | None = None):
     """
     获取数据库中的文本块
     
@@ -751,13 +751,24 @@ def get_chunks(limit: int = 10, offset: int = 0):
         Dict: 文本块数据和总数
     """
     try:
+        kb_prefix = (kb_prefix or "").strip().strip(":")
+        id_prefix = f"{kb_prefix}:" if kb_prefix else None
+
         query = """
         MATCH (c:__Chunk__)
+        {where_clause}
         RETURN c.id AS id, c.fileName AS fileName, c.text AS text
         ORDER BY c.fileName, c.id
         SKIP $offset
         LIMIT $limit
         """
+
+        where_clause = ""
+        params = {"limit": int(limit), "offset": int(offset)}
+        if id_prefix:
+            where_clause = "WHERE c.id STARTS WITH $id_prefix"
+            params["id_prefix"] = id_prefix
+        query = query.format(where_clause=where_clause)
         
         from neo4j import Result
         result = driver.execute_query(
@@ -765,7 +776,7 @@ def get_chunks(limit: int = 10, offset: int = 0):
             # neo4j.Driver.execute_query uses `parameters_` (with trailing underscore).
             # Using `parameters` silently drops params (captured by **kwargs) and causes
             # Neo4j to report missing $limit/$offset.
-            parameters_={"limit": int(limit), "offset": int(offset)},
+            parameters_=params,
             result_transformer_=Result.to_df
         )
         
@@ -2076,5 +2087,5 @@ class Neo4jKnowledgeGraphService(KnowledgeGraphPort):
     def get_content_batch(self, chunk_ids: List[str]) -> Dict[str, Dict[str, Any]]:
         return get_content_batch(chunk_ids)
 
-    def get_chunks(self, *, limit: int = 10, offset: int = 0) -> Dict[str, Any]:
-        return get_chunks(limit=limit, offset=offset)
+    def get_chunks(self, *, limit: int = 10, offset: int = 0, kb_prefix: str | None = None) -> Dict[str, Any]:
+        return get_chunks(limit=limit, offset=offset, kb_prefix=kb_prefix)

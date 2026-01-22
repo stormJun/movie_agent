@@ -8,6 +8,7 @@ import {
   Modal,
   Row,
   Col,
+  Select,
   Space,
   Table,
   Tabs,
@@ -27,6 +28,11 @@ function snippet(text?: string, maxLen = 160): string {
   return `${clean.slice(0, maxLen)}…`;
 }
 
+function kbFromId(id: string): "movie" | "edu" | "general" | "" {
+  const m = id.match(/^(movie|edu|general):/);
+  return (m?.[1] as "movie" | "edu" | "general" | undefined) || "";
+}
+
 export function SourcesPage() {
   const [chunks, setChunks] = useState<Chunk[]>([]);
   const [loading, setLoading] = useState(false);
@@ -44,14 +50,18 @@ export function SourcesPage() {
   const [batchLoading, setBatchLoading] = useState(false);
   const [sourceInfoMap, setSourceInfoMap] = useState<Record<string, string>>({});
 
-  const [form] = Form.useForm<{ limit: number; offset: number }>();
+  const [form] = Form.useForm<{ limit: number; offset: number; kb_prefix?: string }>();
 
   async function load() {
     setLoading(true);
     setError(null);
     try {
       const values = form.getFieldsValue();
-      const resp = await getChunks({ limit: values.limit, offset: values.offset });
+      const resp = await getChunks({
+        limit: values.limit,
+        offset: values.offset,
+        kb_prefix: values.kb_prefix || undefined,
+      });
       if (resp.error) setError(resp.error);
       setChunks(resp.chunks || []);
     } catch (e) {
@@ -109,13 +119,24 @@ export function SourcesPage() {
   }
 
   useEffect(() => {
-    form.setFieldsValue({ limit: 20, offset: 0 });
+    form.setFieldsValue({ limit: 20, offset: 0, kb_prefix: "" });
     void load();
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const columns: ColumnsType<Chunk> = useMemo(
     () => [
+      {
+        title: "kb",
+        key: "kb",
+        width: 90,
+        render: (_, row) => {
+          const kb = kbFromId(row.id);
+          if (!kb) return <Tag>unknown</Tag>;
+          const color = kb === "movie" ? "purple" : kb === "edu" ? "green" : "gold";
+          return <Tag color={color}>{kb}</Tag>;
+        },
+      },
       { title: "fileName", dataIndex: "fileName", width: 260, ellipsis: true },
       { title: "id", dataIndex: "id", width: 260, ellipsis: true },
       {
@@ -160,9 +181,20 @@ export function SourcesPage() {
         <Form
           form={form}
           layout="inline"
-          initialValues={{ limit: 20, offset: 0 }}
+          initialValues={{ limit: 20, offset: 0, kb_prefix: "" }}
           onFinish={load}
         >
+          <Form.Item name="kb_prefix" label="kb">
+            <Select
+              style={{ width: 140 }}
+              options={[
+                { label: "全部", value: "" },
+                { label: "movie", value: "movie" },
+                { label: "edu", value: "edu" },
+                { label: "general", value: "general" },
+              ]}
+            />
+          </Form.Item>
           <Form.Item name="limit" label="limit">
             <InputNumber min={1} max={200} />
           </Form.Item>

@@ -52,6 +52,7 @@ async def content_batch(
 async def chunks(
     limit: int = 10,
     offset: int = 0,
+    kb_prefix: str | None = None,
     service: KnowledgeGraphService = Depends(get_knowledge_graph_service),
 ) -> dict:
-    return service.get_chunks(limit=limit, offset=offset)
+    return service.get_chunks(limit=limit, offset=offset, kb_prefix=kb_prefix)

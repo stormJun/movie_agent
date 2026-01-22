@@ -4,6 +4,7 @@ import type { ChunksResponse, SourceResponse } from "../types/source";
 export async function getChunks(params: {
   limit?: number;
   offset?: number;
+  kb_prefix?: string;
 }): Promise<ChunksResponse> {
   const resp = await http.get<ChunksResponse>("/api/v1/chunks", { params });
   return resp.data;
