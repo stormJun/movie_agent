@@ -623,35 +623,39 @@ def get_source_content(source_id: str) -> str:
     try:
         if not source_id:
             return "未提供有效的源ID"
-        
-        # 检查ID是否为Chunk ID (直接使用)
-        if len(source_id) == 40:  # SHA1哈希的长度
-            query = """
-            MATCH (n:__Chunk__) 
-            WHERE n.id = $id 
-            RETURN n.fileName AS fileName, n.text AS text
-            """
-            params = {"id": source_id}
-        else:
-            # 尝试解析复合ID
-            id_parts = source_id.split(",")
-            
-            if len(id_parts) >= 2 and id_parts[0] == "2":  # 文本块查询
-                query = """
-                MATCH (n:__Chunk__) 
-                WHERE n.id = $id 
-                RETURN n.fileName AS fileName, n.text AS text
-                """
-                params = {"id": id_parts[-1]}
-            else:  # 社区查询
-                query = """
-                MATCH (n:__Community__) 
-                WHERE n.id = $id 
-                RETURN n.summary AS summary, n.full_content AS full_content
-                """
-                params = {"id": id_parts[1] if len(id_parts) > 1 else source_id}
-        
+
+        # Prefer chunk lookup first:
+        # - document ingestion uses SHA1 chunk ids (len==40)
+        # - structured graphs may use readable ids (e.g. "movie:movie:288:director")
+        # - legacy composite ids may look like "2,...,<chunk_id>"
+        id_parts = source_id.split(",")
+        chunk_id = id_parts[-1] if (len(id_parts) >= 2 and id_parts[0] == "2") else source_id
+
+        chunk_query = """
+        MATCH (n:__Chunk__)
+        WHERE n.id = $id
+        RETURN n.fileName AS fileName, n.text AS text
+        """
+
         from neo4j import Result
+        chunk_result = driver.execute_query(
+            chunk_query,
+            {"id": chunk_id},
+            result_transformer_=Result.to_df,
+        )
+
+        if chunk_result is not None and chunk_result.shape[0] > 0:
+            return f"文件名: {chunk_result.iloc[0]['fileName']}\n\n{chunk_result.iloc[0]['text']}"
+
+        # Fallback: community lookup (legacy/global search sources).
+        community_id = id_parts[1] if len(id_parts) > 1 else source_id
+        query = """
+        MATCH (n:__Community__)
+        WHERE n.id = $id
+        RETURN n.summary AS summary, n.full_content AS full_content
+        """
+        params = {"id": community_id}
+        
         result = driver.execute_query(
             query,
             params,
@@ -685,35 +689,36 @@ def get_source_file_info(source_id: str) -> dict:
     try:
         if not source_id:
             return {"file_name": "未知文件"}
-        
-        # 检查ID是否为Chunk ID (直接使用)
-        if len(source_id) == 40:  # SHA1哈希的长度
-            query = """
-            MATCH (n:__Chunk__) 
-            WHERE n.id = $id 
-            RETURN n.fileName AS fileName
-            """
-            params = {"id": source_id}
-        else:
-            # 尝试解析复合ID
-            id_parts = source_id.split(",")
-            
-            if len(id_parts) >= 2 and id_parts[0] == "2":  # 文本块查询
-                query = """
-                MATCH (n:__Chunk__) 
-                WHERE n.id = $id 
-                RETURN n.fileName AS fileName
-                """
-                params = {"id": id_parts[-1]}
-            else:  # 社区查询
-                query = """
-                MATCH (n:__Community__) 
-                WHERE n.id = $id 
-                RETURN "社区摘要" AS fileName
-                """
-                params = {"id": id_parts[1] if len(id_parts) > 1 else source_id}
-        
+
+        # Prefer chunk lookup first (see get_source_content()).
+        id_parts = source_id.split(",")
+        chunk_id = id_parts[-1] if (len(id_parts) >= 2 and id_parts[0] == "2") else source_id
+
+        chunk_query = """
+        MATCH (n:__Chunk__)
+        WHERE n.id = $id
+        RETURN n.fileName AS fileName
+        """
+
         from neo4j import Result
+        chunk_result = driver.execute_query(
+            chunk_query,
+            {"id": chunk_id},
+            result_transformer_=Result.to_df,
+        )
+
+        if chunk_result is not None and chunk_result.shape[0] > 0:
+            file_name = chunk_result.iloc[0]["fileName"]
+            return {"file_name": os.path.basename(file_name) if file_name else "未知文件"}
+
+        # Fallback: community label.
+        query = """
+        MATCH (n:__Community__)
+        WHERE n.id = $id
+        RETURN "社区摘要" AS fileName
+        """
+        params = {"id": id_parts[1] if len(id_parts) > 1 else source_id}
+        
         result = driver.execute_query(
             query,
             params,

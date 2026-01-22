@@ -4,6 +4,29 @@ from neo4j import Result
 
 class BatchProcessor:
     """批量处理Neo4j查询的类"""
+
+    @staticmethod
+    def _resolve_chunk_id(source_id: str) -> str:
+        """Resolve an incoming source_id to a __Chunk__.id when possible.
+
+        - document ingestion uses SHA1-like ids (len==40)
+        - structured graphs may use readable ids (e.g. "movie:movie:288:director")
+        - legacy composite ids may look like "2,...,<chunk_id>"
+        """
+        if not source_id:
+            return source_id
+        parts = source_id.split(",")
+        if len(parts) >= 2 and parts[0] == "2":
+            return parts[-1]
+        return source_id
+
+    @staticmethod
+    def _resolve_community_id(source_id: str) -> str:
+        """Resolve an incoming source_id to a __Community__.id (legacy/global sources)."""
+        if not source_id:
+            return source_id
+        parts = source_id.split(",")
+        return parts[1] if len(parts) > 1 else source_id
     
     @staticmethod
     def get_source_info_batch(source_ids: List[str], driver) -> Dict[str, Dict]:
@@ -24,31 +47,16 @@ class BatchProcessor:
         source_info = {}
         
         try:
-            # 分批处理不同类型的ID
-            chunk_ids = []
-            community_ids = []
-            
-            # 分类ID
+            # Always try to resolve chunk ids first (covers both SHA1 ids and structured ids).
+            resolved_chunk_ids = []
             for source_id in source_ids:
                 if not source_id:
                     source_info[source_id] = {"file_name": "未知文件"}
                     continue
-                    
-                # 检查ID类型
-                if len(source_id) == 40:  # SHA1哈希的长度，是Chunk ID
-                    chunk_ids.append(source_id)
-                else:
-                    # 尝试解析复合ID
-                    id_parts = source_id.split(",")
-                    
-                    if len(id_parts) >= 2 and id_parts[0] == "2":
-                        chunk_ids.append(id_parts[-1])
-                    else:
-                        community_id = id_parts[1] if len(id_parts) > 1 else source_id
-                        community_ids.append(community_id)
+                resolved_chunk_ids.append(BatchProcessor._resolve_chunk_id(source_id))
             
             # 如果有Chunk IDs，批量查询
-            if chunk_ids:
+            if resolved_chunk_ids:
                 chunk_query = """
                 MATCH (n:__Chunk__) 
                 WHERE n.id IN $ids 
@@ -57,7 +65,7 @@ class BatchProcessor:
                 
                 chunk_results = driver.execute_query(
                     chunk_query,
-                    {"ids": chunk_ids},
+                    {"ids": list(set(resolved_chunk_ids))},
                     result_transformer_=Result.to_df
                 )
                 
@@ -69,9 +77,16 @@ class BatchProcessor:
                         
                         # 找出原始请求中对应的IDs
                         for src_id in source_ids:
-                            if chunk_id == src_id or (len(src_id.split(",")) >= 2 and src_id.split(",")[-1] == chunk_id):
+                            if BatchProcessor._resolve_chunk_id(src_id) == chunk_id:
                                 source_info[src_id] = {"file_name": base_name}
             
+            # For ids not matched as chunks, try community lookup.
+            community_ids = []
+            for source_id in source_ids:
+                if not source_id or source_id in source_info:
+                    continue
+                community_ids.append(BatchProcessor._resolve_community_id(source_id))
+
             # 如果有Community IDs，批量查询
             if community_ids:
                 community_query = """
@@ -92,8 +107,7 @@ class BatchProcessor:
                         
                         # 找出原始请求中对应的IDs
                         for src_id in source_ids:
-                            id_parts = src_id.split(",")
-                            if (len(id_parts) > 1 and id_parts[1] == community_id) or src_id == community_id:
+                            if BatchProcessor._resolve_community_id(src_id) == community_id:
                                 source_info[src_id] = {"file_name": "社区摘要"}
             
             # 为未找到的ID添加默认信息
@@ -127,31 +141,15 @@ class BatchProcessor:
         chunk_content = {}
         
         try:
-            # 分批处理不同类型的ID
-            direct_chunk_ids = []
-            community_ids = []
-            
-            # 分类ID
+            resolved_chunk_ids = []
             for chunk_id in chunk_ids:
                 if not chunk_id:
                     chunk_content[chunk_id] = {"content": "未提供有效的源ID"}
                     continue
-                    
-                # 检查ID类型
-                if len(chunk_id) == 40:  # SHA1哈希的长度，是Chunk ID
-                    direct_chunk_ids.append(chunk_id)
-                else:
-                    # 尝试解析复合ID
-                    id_parts = chunk_id.split(",")
-                    
-                    if len(id_parts) >= 2 and id_parts[0] == "2":
-                        direct_chunk_ids.append(id_parts[-1])
-                    else:
-                        community_id = id_parts[1] if len(id_parts) > 1 else chunk_id
-                        community_ids.append(community_id)
+                resolved_chunk_ids.append(BatchProcessor._resolve_chunk_id(chunk_id))
             
             # 如果有直接Chunk IDs，批量查询
-            if direct_chunk_ids:
+            if resolved_chunk_ids:
                 chunk_query = """
                 MATCH (n:__Chunk__) 
                 WHERE n.id IN $ids 
@@ -160,7 +158,7 @@ class BatchProcessor:
                 
                 chunk_results = driver.execute_query(
                     chunk_query,
-                    {"ids": direct_chunk_ids},
+                    {"ids": list(set(resolved_chunk_ids))},
                     result_transformer_=Result.to_df
                 )
                 
@@ -173,8 +171,14 @@ class BatchProcessor:
                         
                         # 找出原始请求中对应的IDs
                         for original_id in chunk_ids:
-                            if chunk_id == original_id or (len(original_id.split(",")) >= 2 and original_id.split(",")[-1] == chunk_id):
+                            if BatchProcessor._resolve_chunk_id(original_id) == chunk_id:
                                 chunk_content[original_id] = {"content": content}
+
+            community_ids = []
+            for chunk_id in chunk_ids:
+                if not chunk_id or chunk_id in chunk_content:
+                    continue
+                community_ids.append(BatchProcessor._resolve_community_id(chunk_id))
             
             # 如果有Community IDs，批量查询
             if community_ids:
@@ -199,8 +203,7 @@ class BatchProcessor:
                         
                         # 找出原始请求中对应的IDs
                         for original_id in chunk_ids:
-                            id_parts = original_id.split(",")
-                            if (len(id_parts) > 1 and id_parts[1] == comm_id) or original_id == comm_id:
+                            if BatchProcessor._resolve_community_id(original_id) == comm_id:
                                 chunk_content[original_id] = {"content": content}
             
             # 为未找到的ID添加默认信息
