@@ -24,6 +24,16 @@ body {
   flex-direction: column;
 }
 
+/* Ant Design Layout defaults don't always create a scroll container.
+   Since we disable body scroll, make the main content area scrollable. */
+.page {
+  flex: 1;
+  min-height: 0;
+  overflow: auto;
+  padding: 16px;
+  background: #f5f5f5;
+}
+
 /* Chat Page Layout */
 .chat-container {
   display: flex;
