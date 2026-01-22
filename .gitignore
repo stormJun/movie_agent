@@ -34,3 +34,8 @@ frontend-react/dist/
 
 # Large third-party repo/vendor drop (keep out of git history)
 SparrowRecSys-master/
+/.streamlit/
+
+# Repo-local configs/assets (ignore from git history in this repo)
+/.github/
+/assets/
