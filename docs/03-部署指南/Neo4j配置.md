@@ -503,6 +503,9 @@ RETURN apoc.text.levenshteinDistance("hello", "hallo") AS distance;
 
 **GDS** 提供图算法（社区检测、PageRank、最短路径等）。
 
+> 说明：GDS/APOC 属于 Neo4j 运行时插件二进制（`.jar`）。本仓库默认不在 Git 中追踪这类插件产物；
+> 推荐使用 `NEO4J_PLUGINS` 由 Neo4j Docker 镜像在启动时自动下载，或按“手动安装”步骤下载安装到 Neo4j 的 `plugins/` 目录。
+
 **Docker 安装**：
 
 ```yaml
