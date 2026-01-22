@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "graphrag-agent-build"
+version = "0.1.0"
+description = "GraphRAG Agent build/ingestion pipelines (tools-layer)."
+requires-python = ">=3.10"
+dependencies = [
+  "graphrag-agent-runtime==0.1.0",
+  "rich==13.9.4",
+]
+
+[project.scripts]
+graphrag-agent-build = "graphrag_agent_build.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["graphrag_agent_build*"]

@@ -1,0 +1,19 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+ENV PYTHONDONTWRITEBYTECODE=1
+ENV PYTHONUNBUFFERED=1
+ENV PIP_DISABLE_PIP_VERSION_CHECK=1
+ENV PIP_DEFAULT_TIMEOUT=120
+
+# Keep the mem0 image lean: only install dependencies needed for the mem0 service
+# and embeddings/vector backends used by it.
+COPY requirements.mem0.txt /app/requirements.mem0.txt
+RUN pip install --no-cache-dir --retries 10 --timeout 120 -r /app/requirements.mem0.txt
+
+COPY backend /app/backend
+ENV PYTHONPATH=/app/backend
+
+EXPOSE 8830
+CMD ["python", "-m", "uvicorn", "server.mem0_service.main:app", "--host", "0.0.0.0", "--port", "8830"]

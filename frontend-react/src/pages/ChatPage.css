@@ -1,0 +1,126 @@
+.chatPage {
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+  background-color: #f5f5f5;
+}
+
+.sessionList {
+  flex: 0 0 260px;
+  height: 100%;
+  background-color: #ffffff;
+  border-right: 1px solid #f0f0f0;
+  display: flex;
+  flex-direction: column;
+}
+
+.chatMain {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  background-color: #ffffff;
+  position: relative;
+}
+
+.chatHeader {
+  flex: 0 0 auto;
+  padding: 16px 24px;
+  border-bottom: 1px solid #f0f0f0;
+  background-color: #ffffff;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.chatMessages {
+  flex: 1;
+  overflow-y: auto;
+  padding: 24px;
+  background-color: #fafafa;
+  scroll-behavior: smooth;
+}
+
+.chatComposer {
+  flex: 0 0 auto;
+  padding: 24px;
+  background-color: #ffffff;
+  border-top: 1px solid #f0f0f0;
+}
+
+.chatRightPanel {
+  flex: 0 0 320px;
+  height: 100%;
+  background-color: #fafafa;
+  border-left: 1px solid #f0f0f0;
+  overflow-y: auto;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Internal components styling helpers */
+.messageItem {
+  display: flex;
+  margin-bottom: 24px;
+  gap: 12px;
+}
+
+.messageItem.user {
+  flex-direction: row-reverse;
+}
+
+.messageAvatar {
+  flex: 0 0 32px;
+  width: 32px;
+  height: 32px;
+  background: #1677ff;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 16px;
+}
+
+.messageContent {
+  max-width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.messageItem.user .messageContent {
+  align-items: flex-end;
+}
+
+.messageBubble {
+  padding: 12px 16px;
+  border-radius: 12px;
+  background-color: #f5f5f5;
+  font-size: 14px;
+  line-height: 1.6;
+  position: relative;
+  word-wrap: break-word;
+}
+
+.messageItem.user .messageBubble {
+  background-color: #e6f4ff;
+  color: #000;
+  border-bottom-right-radius: 4px;
+}
+
+.messageItem.assistant .messageBubble {
+  background-color: #ffffff;
+  border: 1px solid #f0f0f0;
+  border-bottom-left-radius: 4px;
+}
+
+.messageMeta {
+  font-size: 12px;
+  color: #999;
+  margin-bottom: 4px;
+}

@@ -1,0 +1,32 @@
+{
+  "timestamp": "2026-01-05",
+  "api_tested": "TMDB v3",
+  "movie_id": 862,
+  "movie_title": "Toy Story",
+  "summaries": {
+    "movie_details": {
+      "documented_fields": 26,
+      "actual_fields": 26,
+      "matching_fields": 26,
+      "missing_fields": 0,
+      "extra_fields": 0,
+      "match_rate": "100.0%"
+    },
+    "credits_cast": {
+      "documented_fields": 12,
+      "actual_fields": 12,
+      "matching_fields": 12,
+      "missing_fields": 0,
+      "extra_fields": 0,
+      "match_rate": "100.0%"
+    },
+    "credits_crew": {
+      "documented_fields": 11,
+      "actual_fields": 11,
+      "matching_fields": 11,
+      "missing_fields": 0,
+      "extra_fields": 0,
+      "match_rate": "100.0%"
+    }
+  }
+}

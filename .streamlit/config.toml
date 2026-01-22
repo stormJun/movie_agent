@@ -1,0 +1,7 @@
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = true
+# Avoid noisy/buggy file-watcher traces with torch on some environments.
+fileWatcherType = "none"

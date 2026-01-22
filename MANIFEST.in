@@ -1,0 +1,30 @@
+# Phase2.5: core-only sdist. Keep sources small and avoid shipping the full monorepo.
+include setup.py pyproject.toml LICENSE readme.md
+include scripts/verify_core_import.py scripts/verify_core_install.sh
+include scripts/verify_core_sdist.sh
+
+recursive-include backend/graphrag_agent *.py *.md
+
+prune backend/application
+prune backend/config
+prune backend/domain
+prune backend/infrastructure
+prune backend/server
+prune backend/cache
+prune backend/_archive
+
+prune server
+prune frontend
+prune frontend-react
+prune docs
+prune tools
+prune datasets
+prune data
+prune files
+prune cache
+prune logs
+prune training
+prune SparrowRecSys-master
+prune test
+
+global-exclude __pycache__ *.py[cod] .DS_Store

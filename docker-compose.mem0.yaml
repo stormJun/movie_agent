@@ -1,0 +1,62 @@
+version: "3.8"
+services:
+  # mem0-compatible self-hosted service for long-term memory.
+  #
+  # Usage:
+  #   docker compose -f docker-compose.yaml -f docker-compose.mem0.yaml up -d --build
+  #
+  # Then set in your backend .env:
+  #   MEMORY_ENABLE=true
+  #   MEMORY_WRITE_ENABLE=true
+  #   MEM0_BASE_URL="http://localhost:8830"
+  mem0:
+    build:
+      context: .
+      dockerfile: Dockerfile.mem0
+    # Load local .env into the container to avoid relying on host shell env var
+    # substitution (which may be polluted by other local stacks).
+    env_file:
+      - .env
+    ports:
+      - "8830:8830"
+    environment:
+      # Share MEM0_API_KEY with the GraphRAG backend client (optional).
+      MEM0_API_KEY: "${MEM0_API_KEY:-}"
+      # Optional auth/user-id resolution controls for the mem0 service itself.
+      # - api_key (default): "Authorization: Bearer <MEM0_API_KEY>"
+      # - jwt: validate JWT via MEM0_JWT_SECRET (or MEM0_API_KEY fallback) and read user_id from claims
+      MEM0_AUTH_MODE: "${MEM0_AUTH_MODE:-api_key}"
+      MEM0_JWT_SECRET: "${MEM0_JWT_SECRET:-}"
+      MEM0_JWT_ALGORITHMS: "${MEM0_JWT_ALGORITHMS:-HS256}"
+      # For internal/trusted callers (GraphRAG backend), allow user_id in request body.
+      MEM0_TRUST_REQUEST_USER_ID: "${MEM0_TRUST_REQUEST_USER_ID:-true}"
+      MEM0_USER_ID_HEADER: "${MEM0_USER_ID_HEADER:-x-user-id}"
+      # Store memory text/metadata in the existing postgres service (from docker-compose.yaml).
+      MEM0_PG_DSN: "${MEM0_PG_DSN:-postgresql://postgres:postgres@postgres:5432/graphrag_chat}"
+      # Use Milvus for vector search; point to your local Milvus.
+      # If Milvus is started in another compose and exposes 19530 on host, this works on macOS/Windows.
+      MEM0_VECTOR_BACKEND: "${MEM0_VECTOR_BACKEND:-milvus}"
+      MEM0_MILVUS_HOST: "${MEM0_MILVUS_HOST:-host.docker.internal}"
+      MEM0_MILVUS_PORT: "${MEM0_MILVUS_PORT:-19530}"
+      MEM0_MILVUS_COLLECTION: "${MEM0_MILVUS_COLLECTION:-mem0_memories}"
+      MEM0_EMBEDDING_DIM: "${MEM0_EMBEDDING_DIM:-}"
+      # Optional lifecycle (TTL) controls.
+      MEM0_ENABLE_TTL: "${MEM0_ENABLE_TTL:-false}"
+      MEM0_DEFAULT_TTL_DAYS: "${MEM0_DEFAULT_TTL_DAYS:-90}"
+
+      # Embeddings config is reused from infra models (set MODEL_TYPE + keys as needed).
+      #
+      # NOTE: Prefer MEM0_OPENAI_* to avoid collisions with globally-set OPENAI_*
+      # from other local stacks (dify, etc.).
+      MEM0_OPENAI_API_KEY: "${MEM0_OPENAI_API_KEY:-}"
+      MEM0_OPENAI_BASE_URL: "${MEM0_OPENAI_BASE_URL:-}"
+      MEM0_OPENAI_EMBEDDINGS_MODEL: "${MEM0_OPENAI_EMBEDDINGS_MODEL:-}"
+
+      # Avoid inheriting host proxy settings from .env (they often point to localhost,
+      # which breaks outbound HTTPS from inside Docker containers).
+      HTTP_PROXY: ""
+      HTTPS_PROXY: ""
+      NO_PROXY: "localhost,127.0.0.1,postgres,host.docker.internal"
+    depends_on:
+      - postgres
+    restart: unless-stopped

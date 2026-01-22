@@ -1,0 +1,42 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "graphrag-agent-runtime"
+version = "0.1.0"
+description = "GraphRAG Agent runtime (server/application/domain/infrastructure/config) for the monorepo; depends on graphrag-agent core."
+requires-python = ">=3.10"
+dependencies = [
+  "graphrag-agent==0.1.0",
+  # runtime deps (aligned with requirements.txt pins where possible)
+  "fastapi==0.115.11",
+  "uvicorn==0.29.0",
+  "python-dotenv==1.0.1",
+  "pyyaml>=6.0",
+  "rich==13.9.4",
+  "psutil==5.9.7",
+  "shutup==0.2.0",
+  "asyncpg==0.29.0",
+  "PyPDF2>=3.0.0",
+  "python-docx>=0.8.11",
+  # langchain / langgraph stack (used by models/agents/search)
+  "langchain==0.3.21",
+  "langchain_core==0.3.46",
+  "langchain_community==0.3.20",
+  "langchain_openai==0.3.9",
+  "langchain_neo4j==0.4.0",
+  "langgraph==0.3.18",
+  "langsmith==0.3.18",
+  # graph + vector / analytics stack
+  "neo4j",
+  "graphdatascience==1.12",
+  "numpy==1.26.2",
+  "pandas==2.2.3",
+  "scikit-learn==1.6.1",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["server*", "application*", "domain*", "infrastructure*", "config*"]
+exclude = ["graphrag_agent*", "cache*", "_archive*"]

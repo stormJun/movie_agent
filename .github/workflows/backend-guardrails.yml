@@ -1,0 +1,47 @@
+name: backend-guardrails
+
+on:
+  push:
+    paths:
+      - "backend/**"
+      - "test/test_backend_layout.py"
+      - "test/test_layer_boundary_imports.py"
+      - "test/test_bootstrap_provider_entrypoints.py"
+      - "test/test_infrastructure_shims.py"
+      - "test/test_no_legacy_provider_imports.py"
+      - "test/test_config_entrypoints.py"
+      - "test/test_dotenv_policy.py"
+      - ".github/workflows/backend-guardrails.yml"
+  pull_request:
+    paths:
+      - "backend/**"
+      - "test/test_backend_layout.py"
+      - "test/test_layer_boundary_imports.py"
+      - "test/test_bootstrap_provider_entrypoints.py"
+      - "test/test_infrastructure_shims.py"
+      - "test/test_no_legacy_provider_imports.py"
+      - "test/test_config_entrypoints.py"
+      - "test/test_dotenv_policy.py"
+      - ".github/workflows/backend-guardrails.yml"
+
+jobs:
+  guardrails:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.10", "3.11"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Layout and boundary guardrails (no deps)
+        run: |
+          python -m unittest discover -s test -p 'test_backend_layout.py' -v
+          python -m unittest discover -s test -p 'test_layer_boundary_imports.py' -v
+          python -m unittest discover -s test -p 'test_bootstrap_provider_entrypoints.py' -v
+          python -m unittest discover -s test -p 'test_infrastructure_shims.py' -v
+          python -m unittest discover -s test -p 'test_no_legacy_provider_imports.py' -v
+          python -m unittest discover -s test -p 'test_config_entrypoints.py' -v
+          python -m unittest discover -s test -p 'test_dotenv_policy.py' -v

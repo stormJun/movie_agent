@@ -1,0 +1,367 @@
+{
+  "timestamp": "2026-01-05",
+  "summary": {
+    "total_entities": 7,
+    "total_fields": 46,
+    "available": 44,
+    "unavailable": 2,
+    "coverage_rate": "95.7%"
+  },
+  "entities": [
+    {
+      "entity": "电影",
+      "total_fields": 20,
+      "available": 20,
+      "unavailable": 0,
+      "unavailable_fields": [],
+      "field_sources": {
+        "name": {
+          "source": "MovieLens + TMDB",
+          "location": "movies.csv.title (解析) 或 TMDB.title",
+          "available": true,
+          "notes": "需要从 'Toy Story (1995)' 格式中解析年份"
+        },
+        "movieId": {
+          "source": "MovieLens",
+          "location": "movies.csv.movieId",
+          "available": true,
+          "notes": "主键，982部电影全部有"
+        },
+        "tmdbId": {
+          "source": "MovieLens + TMDB",
+          "location": "links.csv.tmdbId 或 TMDB.id",
+          "available": true,
+          "notes": "971/982 (98.9%) 有TMDB ID"
+        },
+        "imdbId": {
+          "source": "MovieLens + TMDB",
+          "location": "links.csv.imdbId 或 TMDB.imdb_id",
+          "available": true,
+          "notes": "100% 覆盖，需要添加 'tt' 前缀"
+        },
+        "year": {
+          "source": "MovieLens + TMDB",
+          "location": "movies.csv.title (解析) 或 TMDB.release_date",
+          "available": true,
+          "notes": "可以交叉验证"
+        },
+        "release_date": {
+          "source": "TMDB",
+          "location": "TMDB.release_date",
+          "available": true,
+          "notes": "971部电影有完整日期"
+        },
+        "overview": {
+          "source": "TMDB",
+          "location": "TMDB.overview",
+          "available": true,
+          "notes": "预计95%+电影有，老电影可能缺失"
+        },
+        "runtime": {
+          "source": "TMDB",
+          "location": "TMDB.runtime",
+          "available": true,
+          "notes": "大部分电影有，少数可能缺失"
+        },
+        "tmdb_vote_average": {
+          "source": "TMDB",
+          "location": "TMDB.vote_average",
+          "available": true,
+          "notes": "所有TMDB电影都有"
+        },
+        "tmdb_vote_count": {
+          "source": "TMDB",
+          "location": "TMDB.vote_count",
+          "available": true,
+          "notes": "所有TMDB电影都有"
+        },
+        "tmdb_popularity": {
+          "source": "TMDB",
+          "location": "TMDB.popularity",
+          "available": true,
+          "notes": "所有TMDB电影都有"
+        },
+        "movielens_avg_rating": {
+          "source": "MovieLens",
+          "location": "ratings.csv 聚合计算",
+          "available": true,
+          "notes": "981/982 电影有评分数据"
+        },
+        "movielens_rating_count": {
+          "source": "MovieLens",
+          "location": "ratings.csv 聚合计算",
+          "available": true,
+          "notes": "981/982 电影有评分数据"
+        },
+        "budget": {
+          "source": "TMDB",
+          "location": "TMDB.budget",
+          "available": true,
+          "notes": "⚠️ 预计60%覆盖率，老电影常缺失，需处理NULL"
+        },
+        "revenue": {
+          "source": "TMDB",
+          "location": "TMDB.revenue",
+          "available": true,
+          "notes": "⚠️ 预计60%覆盖率，老电影常缺失，需处理NULL"
+        },
+        "original_language": {
+          "source": "TMDB",
+          "location": "TMDB.original_language",
+          "available": true,
+          "notes": "所有TMDB电影都有"
+        },
+        "poster_path": {
+          "source": "TMDB",
+          "location": "TMDB.poster_path",
+          "available": true,
+          "notes": "大部分有，需拼接完整URL"
+        },
+        "description": {
+          "source": "计算生成",
+          "location": "组合 name + year + genres + overview",
+          "available": true,
+          "notes": "衍生字段，可以完全生成"
+        },
+        "data_source": {
+          "source": "元数据",
+          "location": "导入时标记",
+          "available": true,
+          "notes": "根据是否有TMDB数据标记"
+        },
+        "created_at": {
+          "source": "元数据",
+          "location": "导入时生成",
+          "available": true,
+          "notes": "使用当前时间戳"
+        }
+      }
+    },
+    {
+      "entity": "演员/导演",
+      "total_fields": 9,
+      "available": 8,
+      "unavailable": 1,
+      "unavailable_fields": [
+        "biography"
+      ],
+      "field_sources": {
+        "name": {
+          "source": "TMDB",
+          "location": "credits.cast[].name 或 credits.crew[].name",
+          "available": true,
+          "notes": "所有演职人员都有姓名"
+        },
+        "personId": {
+          "source": "TMDB",
+          "location": "credits.cast[].id 或 credits.crew[].id",
+          "available": true,
+          "notes": "所有人员都有唯一ID"
+        },
+        "person_type": {
+          "source": "计算",
+          "location": "根据在同一电影中出现在 cast 还是 crew 判断",
+          "available": true,
+          "notes": "可从credits数据推断，有些人可能既是演员又是导演"
+        },
+        "biography": {
+          "source": "TMDB (需额外API调用)",
+          "location": "GET /person/{person_id}",
+          "available": false,
+          "notes": "❌ 当前设计不调用 /person API，无法获取"
+        },
+        "popularity": {
+          "source": "TMDB",
+          "location": "credits.cast[].popularity 或 credits.crew[].popularity",
+          "available": true,
+          "notes": "credits接口已提供，无需额外调用"
+        },
+        "profile_path": {
+          "source": "TMDB",
+          "location": "credits.cast[].profile_path 或 credits.crew[].profile_path",
+          "available": true,
+          "notes": "credits接口已提供，但部分人员可能缺失"
+        },
+        "movie_count": {
+          "source": "图谱计算",
+          "location": "统计该person的出演或导演关系数量",
+          "available": true,
+          "notes": "导入图谱后可计算"
+        },
+        "data_source": {
+          "source": "元数据",
+          "location": "固定值 \"tmdb\"",
+          "available": true,
+          "notes": "标记数据来源"
+        },
+        "created_at": {
+          "source": "元数据",
+          "location": "导入时生成",
+          "available": true,
+          "notes": "使用当前时间戳"
+        }
+      }
+    },
+    {
+      "entity": "类型",
+      "total_fields": 4,
+      "available": 3,
+      "unavailable": 1,
+      "unavailable_fields": [
+        "description"
+      ],
+      "field_sources": {
+        "name": {
+          "source": "MovieLens + TMDB",
+          "location": "movies.csv.genres 或 TMDB.genres[].name",
+          "available": true,
+          "notes": "两个数据源都有"
+        },
+        "genreId": {
+          "source": "TMDB",
+          "location": "GET /genre/movie/list 返回的 genre.id",
+          "available": true,
+          "notes": "可以获取完整的类型ID映射表"
+        },
+        "movielens_count": {
+          "source": "计算",
+          "location": "统计 movies.csv 中每个类型的出现次数",
+          "available": true,
+          "notes": "可在数据预处理时计算"
+        },
+        "description": {
+          "source": "⚠️ 需要补充",
+          "location": "无现成数据源",
+          "available": false,
+          "notes": "❌ MovieLens和TMDB都不提供类型描述，需要手动编写或LLM生成"
+        }
+      }
+    },
+    {
+      "entity": "关键词",
+      "total_fields": 3,
+      "available": 3,
+      "unavailable": 0,
+      "unavailable_fields": [],
+      "field_sources": {
+        "name": {
+          "source": "TMDB",
+          "location": "GET /movie/{id}/keywords 返回 keywords[].name",
+          "available": true,
+          "notes": "所有关键词都有名称"
+        },
+        "keywordId": {
+          "source": "TMDB",
+          "location": "GET /movie/{id}/keywords 返回 keywords[].id",
+          "available": true,
+          "notes": "所有关键词都有唯一ID"
+        },
+        "movie_count": {
+          "source": "计算",
+          "location": "统计包含该关键词的电影数量",
+          "available": true,
+          "notes": "导入图谱后可计算"
+        }
+      }
+    },
+    {
+      "entity": "制作公司",
+      "total_fields": 4,
+      "available": 4,
+      "unavailable": 0,
+      "unavailable_fields": [],
+      "field_sources": {
+        "name": {
+          "source": "TMDB",
+          "location": "TMDB.production_companies[].name",
+          "available": true,
+          "notes": "所有公司都有名称"
+        },
+        "companyId": {
+          "source": "TMDB",
+          "location": "TMDB.production_companies[].id",
+          "available": true,
+          "notes": "所有公司都有唯一ID"
+        },
+        "origin_country": {
+          "source": "TMDB",
+          "location": "TMDB.production_companies[].origin_country",
+          "available": true,
+          "notes": "大部分公司有，少数可能缺失"
+        },
+        "movie_count": {
+          "source": "计算",
+          "location": "统计该公司制作的电影数量",
+          "available": true,
+          "notes": "导入图谱后可计算"
+        }
+      }
+    },
+    {
+      "entity": "国家",
+      "total_fields": 3,
+      "available": 3,
+      "unavailable": 0,
+      "unavailable_fields": [],
+      "field_sources": {
+        "name": {
+          "source": "TMDB",
+          "location": "TMDB.production_countries[].name",
+          "available": true,
+          "notes": "所有国家都有名称"
+        },
+        "code": {
+          "source": "TMDB",
+          "location": "TMDB.production_countries[].iso_3166_1",
+          "available": true,
+          "notes": "所有国家都有ISO代码"
+        },
+        "movie_count": {
+          "source": "计算",
+          "location": "统计来自该国的电影数量",
+          "available": true,
+          "notes": "导入图谱后可计算"
+        }
+      }
+    },
+    {
+      "entity": "语言",
+      "total_fields": 3,
+      "available": 3,
+      "unavailable": 0,
+      "unavailable_fields": [],
+      "field_sources": {
+        "name": {
+          "source": "TMDB",
+          "location": "TMDB.spoken_languages[].name 或 english_name",
+          "available": true,
+          "notes": "所有语言都有名称"
+        },
+        "code": {
+          "source": "TMDB",
+          "location": "TMDB.spoken_languages[].iso_639_1",
+          "available": true,
+          "notes": "所有语言都有ISO代码"
+        },
+        "movie_count": {
+          "source": "计算",
+          "location": "统计使用该语言的电影数量",
+          "available": true,
+          "notes": "导入图谱后可计算"
+        }
+      }
+    }
+  ],
+  "unavailable_fields": [
+    {
+      "entity": "演员/导演",
+      "field": "biography",
+      "reason": "❌ 当前设计不调用 /person API，无法获取"
+    },
+    {
+      "entity": "类型",
+      "field": "description",
+      "reason": "❌ MovieLens和TMDB都不提供类型描述，需要手动编写或LLM生成"
+    }
+  ]
+}
