@@ -44,6 +44,8 @@ import { getSourceContent, getSourceInfoBatch } from "../services/source";
 import { sendFeedback } from "../services/feedback";
 import { KnowledgeGraphPanel } from "../components/KnowledgeGraphPanel";
 import { SessionList } from "../components/SessionList";
+import DebugDrawer from "../components/debug/DebugDrawer";
+import "../styles/debug.css";
 
 type Role = "user" | "assistant";
 
@@ -913,48 +915,48 @@ export function ChatPage() {
         )}
 
         <Layout.Content className="chat-layout-content" style={{ display: activeFeature === "chat" ? "flex" : "none" }}>
-	          <div className="chat-header" style={{ flexShrink: 0 }}>
-	            <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
-	              <Button
-	                type="text"
-	                icon={sessionListVisible ? <MenuFoldOutlined /> : <MenuUnfoldOutlined />}
-	                onClick={() => setSessionListVisible(!sessionListVisible)}
-	              />
-	              {/* <Typography.Text strong style={{ fontSize: 18, marginLeft: 4 }}>GraphRAG Chat</Typography.Text> */}
-	            </div>
-	            <Space>
-	              <Button
-	                size="small"
-	                icon={<BugOutlined />}
-	                onClick={() => setDebugDrawerOpen(true)}
-	                disabled={!debugMode && !latestDebugData && !executionLogs.length && !rawThinking.trim()}
-	              >
-	                调试信息
-	              </Button>
-	              <Space align="center" size="small">
-	                <Switch
-	                  checked={debugMode}
-	                  onChange={(checked) => {
-	                    setDebugMode(checked);
+          <div className="chat-header" style={{ flexShrink: 0 }}>
+            <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
+              <Button
+                type="text"
+                icon={sessionListVisible ? <MenuFoldOutlined /> : <MenuUnfoldOutlined />}
+                onClick={() => setSessionListVisible(!sessionListVisible)}
+              />
+              {/* <Typography.Text strong style={{ fontSize: 18, marginLeft: 4 }}>GraphRAG Chat</Typography.Text> */}
+            </div>
+            <Space>
+              <Button
+                size="small"
+                icon={<BugOutlined />}
+                onClick={() => setDebugDrawerOpen(true)}
+                disabled={!debugMode && !latestDebugData && !executionLogs.length && !rawThinking.trim()}
+              >
+                调试信息
+              </Button>
+              <Space align="center" size="small">
+                <Switch
+                  checked={debugMode}
+                  onChange={(checked) => {
+                    setDebugMode(checked);
                     // Debug mode requires streaming so we can fetch separated debug data
                     // via GET /api/v1/debug/{request_id} after the stream ends.
                     if (checked) setUseStream(true);
                   }}
-	                  size="small"
-	                />
+                  size="small"
+                />
                 <Typography.Text style={{ fontSize: 12, color: debugMode ? "#1890ff" : "#999" }}>
                   调试
                 </Typography.Text>
               </Space>
-	              <Button
-	                icon={<SettingOutlined />}
-	                onClick={() => setActiveFeature("settings")}
-	                type="text"
-	              >
-	                设置
-	              </Button>
-	            </Space>
-	          </div>
+              <Button
+                icon={<SettingOutlined />}
+                onClick={() => setActiveFeature("settings")}
+                type="text"
+              >
+                设置
+              </Button>
+            </Space>
+          </div>
 
 
           <div className="message-list" ref={scrollRef}>
@@ -1669,132 +1671,26 @@ export function ChatPage() {
           )}
         </Drawer>
 
-        <Drawer
-          title="调试信息"
+        <DebugDrawer
           open={debugDrawerOpen}
-          width={760}
           onClose={() => setDebugDrawerOpen(false)}
-        >
-          {debugMode && !latestDebugData ? (
-            <Alert
-              type="info"
-              showIcon
-              style={{ marginBottom: 12 }}
-              message="调试模式已开启：回答结束后会自动拉取 debug 数据并展示在这里。"
-            />
-          ) : null}
-          <Tabs
-            defaultActiveKey="execution_log"
-            items={[
-              {
-                key: "execution_log",
-                label: `执行轨迹 (${(latestDebugData?.execution_log?.length ?? executionLogs.length) || 0})`,
-                children: (
-                  (() => {
-                    const logs = (latestDebugData?.execution_log?.length
-                      ? latestDebugData.execution_log
-                      : executionLogs) as unknown[];
-
-                    if (!logs.length) {
-                      return (
-                        <Typography.Text type="secondary">
-                          暂无执行轨迹（请开启调试模式并发送消息）
-                        </Typography.Text>
-                      );
-                    }
-
-                    return (
-                      <Collapse
-                        size="small"
-                        items={logs.map((entry, idx) => {
-                          const obj = isPlainRecord(entry) ? entry : null;
-                          const node = obj && typeof obj.node === "string" ? obj.node : "log";
-                          const ts =
-                            obj && typeof obj.timestamp === "string" && obj.timestamp.trim()
-                              ? obj.timestamp
-                              : "";
-                          const label = ts ? `${idx + 1}. ${node} (${ts})` : `${idx + 1}. ${node}`;
-
-                          const input = obj ? (obj.input as unknown) : undefined;
-                          const output = obj ? (obj.output as unknown) : undefined;
-
-                          return {
-                            key: String(idx),
-                            label,
-                            children: (
-                              <Space direction="vertical" style={{ width: "100%" }} size="small">
-                                {obj ? (
-                                  <>
-                                    <Typography.Text strong>input</Typography.Text>
-                                    <pre style={{ whiteSpace: "pre-wrap", margin: 0 }}>
-                                      {prettyJson(input ?? {})}
-                                    </pre>
-                                    <Typography.Text strong>output</Typography.Text>
-                                    <pre style={{ whiteSpace: "pre-wrap", margin: 0 }}>
-                                      {prettyJson(output ?? {})}
-                                    </pre>
-                                  </>
-                                ) : (
-                                  <pre style={{ whiteSpace: "pre-wrap", margin: 0 }}>
-                                    {prettyJson(entry)}
-                                  </pre>
-                                )}
-                              </Space>
-                            ),
-                          };
-                        })}
-                      />
-                    );
-                  })()
-                ),
-              },
-              {
-                key: "route_decision",
-                label: "route_decision",
-                children: (
-                  <pre style={{ whiteSpace: "pre-wrap", margin: 0 }}>
-                    {latestDebugData?.route_decision
-                      ? prettyJson(latestDebugData.route_decision)
-                      : "暂无（需要 debug=true 且后端缓存成功）"}
-                  </pre>
-                ),
-              },
-              {
-                key: "rag_runs",
-                label: `rag_runs (${latestDebugData?.rag_runs?.length ?? 0})`,
-                children: (
-                  <pre style={{ whiteSpace: "pre-wrap", margin: 0 }}>
-                    {latestDebugData?.rag_runs?.length
-                      ? prettyJson(latestDebugData.rag_runs)
-                      : "暂无（需要 debug=true 且走检索路径）"}
-                  </pre>
-                ),
-              },
-              {
-                key: "progress",
-                label: `progress (${latestDebugData?.progress_events?.length ?? 0})`,
-                children: (
-                  <pre style={{ whiteSpace: "pre-wrap", margin: 0 }}>
-                    {latestDebugData?.progress_events?.length
-                      ? prettyJson(latestDebugData.progress_events)
-                      : "暂无"}
-                  </pre>
-                ),
-              },
-              {
-                key: "errors",
-                label: `errors (${latestDebugData?.error_events?.length ?? 0})`,
-                children: (
-                  <pre style={{ whiteSpace: "pre-wrap", margin: 0 }}>
-                    {latestDebugData?.error_events?.length
-                      ? prettyJson(latestDebugData.error_events)
-                      : "暂无"}
-                  </pre>
-                ),
-              },
-            ]}
-          />
-        </Drawer>
+          debugData={latestDebugData}
+          debugMode={debugMode}
+          onOpenSource={async (sourceId) => {
+            setSourceDrawerLoading(true);
+            setSourceDrawerOpen(true);
+            setSourceDrawerTitle(sourceId);
+            try {
+              const resp = await getSourceContent(sourceId);
+              setSourceDrawerContent(resp.content || "");
+            } catch (err) {
+              console.error("Failed to fetch source:", err);
+              setSourceDrawerContent("");
+            } finally {
+              setSourceDrawerLoading(false);
+            }
+          }}
+        />
 
       </Layout>
     </Layout >

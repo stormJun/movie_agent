@@ -117,6 +117,9 @@ class ChatStreamExecutor:
     ) -> AsyncGenerator[dict[str, Any], None]:
         use_retrieval = bool(plan) and (kb_prefix or "").strip() not in {"", "general"}
         if not use_retrieval:
+            generation_start = time.monotonic()
+            generated_chars = 0
+            chunk_count = 0
             yield {
                 "status": "progress",
                 "content": {
@@ -134,10 +137,36 @@ class ChatStreamExecutor:
                     memory_context=memory_context,
                 ):
                     if chunk:
+                        generated_chars += len(chunk)
+                        chunk_count += 1
                         yield {"status": "token", "content": chunk}
             except Exception as e:
                 # Protocol: errors are not tokens; callers should distinguish them.
                 yield {"status": "error", "message": f"生成答案失败: {e}"}
+                if debug:
+                    yield {
+                        "execution_log": {
+                            "node": "answer_error",
+                            "node_type": "generation",
+                            "duration_ms": int((time.monotonic() - generation_start) * 1000),
+                            "input": {"message": message, "kb_prefix": kb_prefix},
+                            "output": {"error": str(e)},
+                        }
+                    }
+            else:
+                if debug:
+                    yield {
+                        "execution_log": {
+                            "node": "answer_done",
+                            "node_type": "generation",
+                            "duration_ms": int((time.monotonic() - generation_start) * 1000),
+                            "input": {"message": message, "kb_prefix": kb_prefix},
+                            "output": {
+                                "generated_chars": generated_chars,
+                                "chunk_count": chunk_count,
+                            },
+                        }
+                    }
             yield {"status": "done"}
             return
 
@@ -145,6 +174,7 @@ class ChatStreamExecutor:
             yield {
                 "execution_log": {
                     "node": "rag_plan",
+                    "node_type": "routing",
                     "input": {"message": message, "kb_prefix": kb_prefix},
                     "output": {"plan": [spec.agent_type for spec in plan]},
                 }
@@ -154,6 +184,9 @@ class ChatStreamExecutor:
         start_time = time.monotonic()
         runs = []
         total_runs = len(plan)
+
+        retrieval_stage_start = time.monotonic()
+        retrieval_run_elapsed_ms: dict[str, int] = {}
 
         yield {
             "status": "progress",
@@ -167,8 +200,10 @@ class ChatStreamExecutor:
             },
         }
 
-        retrieval_tasks: list[asyncio.Task] = [
-            asyncio.create_task(
+        retrieval_tasks: list[asyncio.Task] = []
+        task_started_at: dict[asyncio.Task, float] = {}
+        for spec in plan:
+            task = asyncio.create_task(
                 self._rag_manager.run_retrieval_for_spec(
                     spec=spec,
                     message=message,
@@ -177,13 +212,18 @@ class ChatStreamExecutor:
                     debug=debug,
                 )
             )
-            for spec in plan
-        ]
+            retrieval_tasks.append(task)
+            task_started_at[task] = time.monotonic()
 
         try:
             for task in asyncio.as_completed(retrieval_tasks, timeout=overall_timeout_s):
                 run = await task
                 runs.append(run)
+                started_at = task_started_at.get(task)
+                if started_at is not None:
+                    retrieval_run_elapsed_ms[run.agent_type] = int(
+                        (time.monotonic() - started_at) * 1000
+                    )
                 yield {
                     "status": "progress",
                     "content": {
@@ -200,10 +240,12 @@ class ChatStreamExecutor:
                     yield {
                         "execution_log": {
                             "node": "rag_retrieval_done",
+                            "node_type": "retrieval",
                             "input": {"agent_type": run.agent_type},
                             "output": {
                                 "error": run.error,
                                 "retrieval_count": summary.get("retrieval_count", 0),
+                                "elapsed_ms": retrieval_run_elapsed_ms.get(run.agent_type, 0),
                                 "granularity_counts": summary.get("granularity_counts", {}),
                                 "top_source_ids": summary.get("top_source_ids", []),
                                 "sample_results": summary.get("sample_results", []),
@@ -217,6 +259,8 @@ class ChatStreamExecutor:
                 yield {
                     "execution_log": {
                         "node": "rag_timeout",
+                        "node_type": "retrieval",
+                        "duration_ms": int((time.monotonic() - retrieval_stage_start) * 1000),
                         "input": {"message": message, "kb_prefix": kb_prefix},
                         "output": {"timeout_s": overall_timeout_s},
                     }
@@ -232,6 +276,22 @@ class ChatStreamExecutor:
                 t.cancel()
             if pending:
                 await asyncio.gather(*pending, return_exceptions=True)
+
+        if debug:
+            # Wall-clock retrieval stage time (not sum of per-agent times).
+            yield {
+                "execution_log": {
+                    "node": "rag_retrieval_stage_done",
+                    "node_type": "retrieval",
+                    "duration_ms": int((time.monotonic() - retrieval_stage_start) * 1000),
+                    "input": {"total_runs": total_runs},
+                    "output": {
+                        "completed_runs": len(runs),
+                        "errors": {r.agent_type: r.error for r in runs if r.error},
+                        "elapsed_ms_by_agent_type": retrieval_run_elapsed_ms,
+                    },
+                }
+            }
 
         combined_context = build_context_from_runs(
             runs=[
@@ -272,6 +332,7 @@ class ChatStreamExecutor:
             yield {
                 "execution_log": {
                     "node": "rag_fanout_done",
+                    "node_type": "retrieval",
                     "input": {"plan": [r.agent_type for r in runs]},
                     "output": {
                         "errors": {r.agent_type: r.error for r in runs if r.error},
@@ -297,6 +358,9 @@ class ChatStreamExecutor:
                     break
                 yield chunk
 
+        generation_started_at: float | None = None
+        generated_chars = 0
+        chunk_count = 0
         try:
             elapsed = time.monotonic() - start_time
             remaining = max(overall_timeout_s - elapsed, 0.0)
@@ -304,6 +368,7 @@ class ChatStreamExecutor:
                 raise asyncio.TimeoutError
 
             timeout_budget = min(RAG_ANSWER_TIMEOUT_S, remaining)
+            generation_started_at = time.monotonic()
             async for chunk in _stream_with_timeout(
                 generate_rag_answer_stream(
                     question=message,
@@ -313,12 +378,35 @@ class ChatStreamExecutor:
                 timeout_budget,
             ):
                 if chunk:
+                    generated_chars += len(chunk)
+                    chunk_count += 1
                     yield {"status": "token", "content": chunk}
+            if debug:
+                yield {
+                    "execution_log": {
+                        "node": "answer_done",
+                        "node_type": "generation",
+                        "duration_ms": int(
+                            (time.monotonic() - (generation_started_at or time.monotonic()))
+                            * 1000
+                        ),
+                        "input": {"message": message, "kb_prefix": kb_prefix},
+                        "output": {
+                            "generated_chars": generated_chars,
+                            "chunk_count": chunk_count,
+                        },
+                    }
+                }
         except asyncio.TimeoutError:
             if debug:
                 yield {
                     "execution_log": {
                         "node": "answer_timeout",
+                        "node_type": "generation",
+                        "duration_ms": int(
+                            (time.monotonic() - (generation_started_at or time.monotonic()))
+                            * 1000
+                        ),
                         "input": {"message": message, "kb_prefix": kb_prefix},
                         "output": {"timeout_s": RAG_ANSWER_TIMEOUT_S},
                     }
@@ -329,6 +417,11 @@ class ChatStreamExecutor:
                 yield {
                     "execution_log": {
                         "node": "answer_error",
+                        "node_type": "generation",
+                        "duration_ms": int(
+                            (time.monotonic() - (generation_started_at or time.monotonic()))
+                            * 1000
+                        ),
                         "input": {"message": message, "kb_prefix": kb_prefix},
                         "output": {"error": str(e)},
                     }

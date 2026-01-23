@@ -42,19 +42,19 @@ export type StreamEvent =
   | { status: "execution_log"; content: JsonValue }
   | { status: "execution_logs"; content: JsonValue }
   | {
-      status: "progress";
-      content: {
-        stage: string;
-        completed: number;
-        total: number;
-        error: string | null;
-        agent_type?: string;
-        retrieval_count?: number | null;
-      };
-    }
+    status: "progress";
+    content: {
+      stage: string;
+      completed: number;
+      total: number;
+      error: string | null;
+      agent_type?: string;
+      retrieval_count?: number | null;
+    };
+  }
   | { status: "done"; request_id?: string }
   | { status: "error"; message?: string }
-  | { status: string; [k: string]: JsonValue | undefined };
+  | { status: string;[k: string]: JsonValue | undefined };
 
 export interface DebugData {
   request_id: string;
@@ -68,4 +68,12 @@ export interface DebugData {
   rag_runs: Array<JsonValue>;
   trace: Array<JsonValue>;
   kg_data: JsonValue | null;
+  performance_metrics?: {
+    total_duration_ms: number;
+    retrieval_duration_ms: number;
+    generation_duration_ms: number;
+    routing_duration_ms: number;
+    node_count: number;
+    error_count: number;
+  };
 }

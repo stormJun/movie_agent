@@ -4,7 +4,7 @@ from __future__ import annotations
 from typing import Any, Dict, List
 from uuid import UUID
 
-from fastapi import APIRouter, Depends, Query
+from fastapi import APIRouter, Depends, HTTPException, Query
 
 from server.api.rest.dependencies import get_conversation_store
 
@@ -22,4 +22,15 @@ async def list_messages(
         conv_uuid = UUID(conversation_id)
     except ValueError:
         return []
-    return await store.list_messages(conversation_id=conv_uuid, limit=limit)
+    try:
+        return await store.list_messages(conversation_id=conv_uuid, limit=limit)
+    except ConnectionRefusedError as e:
+        raise HTTPException(
+            status_code=503,
+            detail=(
+                "Message store is unavailable (Postgres connection refused). "
+                "Start Postgres via `docker compose -f docker/docker-compose.yaml up -d` "
+                "or unset POSTGRES_HOST/POSTGRES_DSN to use the in-memory dev store. "
+                f"({e})"
+            ),
+        ) from e

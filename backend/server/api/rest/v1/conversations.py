@@ -3,7 +3,7 @@ from __future__ import annotations
 
 from typing import Any, Dict, List
 
-from fastapi import APIRouter, Depends, Query
+from fastapi import APIRouter, Depends, HTTPException, Query
 
 from server.api.rest.dependencies import get_conversation_store
 
@@ -18,4 +18,16 @@ async def list_conversations(
     store=Depends(get_conversation_store),
 ) -> List[Dict[str, Any]]:
     """列出用户的历史会话列表，按更新时间倒序。"""
-    return await store.list_conversations(user_id=user_id, limit=limit, offset=offset)
+    try:
+        return await store.list_conversations(user_id=user_id, limit=limit, offset=offset)
+    except ConnectionRefusedError as e:
+        # Common dev failure mode: POSTGRES_* env is set but docker-compose is not running.
+        raise HTTPException(
+            status_code=503,
+            detail=(
+                "Conversation store is unavailable (Postgres connection refused). "
+                "Start Postgres via `docker compose -f docker/docker-compose.yaml up -d` "
+                "or unset POSTGRES_HOST/POSTGRES_DSN to use the in-memory dev store. "
+                f"({e})"
+            ),
+        ) from e

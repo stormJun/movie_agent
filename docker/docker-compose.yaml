@@ -1,4 +1,3 @@
-version: "3.8"
 services:
   neo4j:
     image: neo4j:5.22.0
@@ -19,6 +18,9 @@ services:
     image: postgres:16
     ports:
       - "5433:5432"
+    # Note: if 5433 is already occupied by another local Postgres stack,
+    # either stop that stack or start only Neo4j:
+    #   docker compose -f docker/docker-compose.yaml up -d neo4j
     environment:
       POSTGRES_USER: "postgres"
       POSTGRES_PASSWORD: "postgres"

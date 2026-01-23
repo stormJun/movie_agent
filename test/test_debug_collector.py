@@ -24,7 +24,29 @@ class TestDebugDataCollector(unittest.TestCase):
         c.add_event("rag_runs", [{"agent_type": "a"}, {"agent_type": "b"}])
         self.assertEqual(len(c.rag_runs), 2)
 
+    def test_performance_metrics_uses_duration_ms(self) -> None:
+        from infrastructure.debug.debug_collector import DebugDataCollector
+
+        c = DebugDataCollector("req1", "u1", "s1")
+        c.add_event(
+            "execution_log",
+            {"node": "route_decision", "node_type": "routing", "duration_ms": 12},
+        )
+        c.add_event(
+            "execution_log",
+            {"node": "rag_retrieval_stage_done", "node_type": "retrieval", "duration_ms": 345},
+        )
+        c.add_event(
+            "execution_log",
+            {"node": "answer_done", "node_type": "generation", "duration_ms": 678},
+        )
+
+        metrics = c.to_dict().get("performance_metrics") or {}
+        self.assertEqual(metrics.get("routing_duration_ms"), 12)
+        self.assertEqual(metrics.get("retrieval_duration_ms"), 345)
+        self.assertEqual(metrics.get("generation_duration_ms"), 678)
+        self.assertEqual(metrics.get("node_count"), 3)
+
 
 if __name__ == "__main__":
     unittest.main()
-

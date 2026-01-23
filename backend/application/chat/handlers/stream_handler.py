@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import dataclasses
+import time
 from typing import Any, AsyncGenerator, Optional
 
 from application.handlers.factory import KnowledgeBaseHandlerFactory
@@ -87,16 +88,33 @@ class StreamHandler:
         # 1) route：得到 kb_prefix / worker_name（含置信度/降级策略）
         # 2) 可选：命中 KB 专用 handler（Phase2 开关），绕过通用 RAG 执行器
         # 3) 组装 RAG plan（或空 plan 表示 general）并委托给 stream executor 产出事件流
+        t0 = time.monotonic()
         decision = self._router.route(
             message=message,
             session_id=session_id,
             requested_kb=kb_prefix,
             agent_type=agent_type,
         )
+        routing_ms = int((time.monotonic() - t0) * 1000)
 
         # Cache-only debug event (not required for streaming UX).
         # Note: RouteDecision is a dataclass; convert to plain dict for JSON.
         if debug:
+            # Also emit a trace-friendly execution_log node so performance metrics
+            # can attribute routing time (duration_ms) without changing the RouteDecision schema.
+            yield {
+                "status": "execution_log",
+                "content": {
+                    "node": "route_decision",
+                    "node_type": "routing",
+                    "duration_ms": routing_ms,
+                    "input": {
+                        "requested_kb_prefix": kb_prefix,
+                        "agent_type": agent_type,
+                    },
+                    "output": dataclasses.asdict(decision),
+                },
+            }
             yield {"status": "route_decision", "content": dataclasses.asdict(decision)}
 
         resolved_agent_type = _resolve_agent_type(

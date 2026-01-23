@@ -1,0 +1,110 @@
+/* ========== 调试抽屉样式 ========== */
+
+.debug-drawer .ant-drawer-body {
+    padding: 16px;
+}
+
+.debug-drawer .ant-tabs-nav {
+    margin-bottom: 16px;
+}
+
+/* ========== 卡片样式 ========== */
+
+.debug-drawer .ant-card {
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+}
+
+.debug-drawer .ant-card-head {
+    background: #fafafa;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+/* ========== 时间线样式 ========== */
+
+.debug-drawer .ant-timeline-item {
+    padding-bottom: 24px;
+}
+
+.debug-drawer .ant-timeline-item-content {
+    margin-left: 28px;
+}
+
+/* ========== 统计卡片样式 ========== */
+
+.debug-drawer .ant-statistic-title {
+    font-size: 12px;
+    color: #999;
+    margin-bottom: 4px;
+}
+
+.debug-drawer .ant-statistic-content {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+/* ========== Descriptions样式 ========== */
+
+.debug-drawer .ant-descriptions-item-label {
+    font-weight: 500;
+    color: #666;
+}
+
+.debug-drawer .ant-descriptions-item-content {
+    color: #333;
+}
+
+/* ========== Collapse样式 ========== */
+
+.debug-drawer .ant-collapse {
+    background: transparent;
+}
+
+.debug-drawer .ant-collapse-header {
+    font-size: 13px;
+    padding: 8px 12px !important;
+    background: #f9f9f9;
+    border-radius: 4px;
+}
+
+.debug-drawer .ant-collapse-content-box {
+    padding: 12px;
+    background: #fafafa;
+}
+
+/* ========== 错误样式 ========== */
+
+.debug-drawer .ant-alert-error {
+    border-left: 4px solid #ff4d4f;
+}
+
+/* ========== Source卡片hover效果 ========== */
+
+.debug-drawer .source-card:hover {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+    transform: translateY(-1px);
+    transition: all 0.2s;
+}
+
+/* ========== 代码块样式 ========== */
+
+.debug-drawer pre {
+    font-family: 'SF Mono', 'Monaco', 'Menlo', monospace;
+    background: #2d2d2d;
+    color: #f8f8f2;
+    padding: 12px;
+    border-radius: 4px;
+    overflow-x: auto;
+}
+
+/* 原始数据展示使用浅色主题 */
+.debug-drawer .raw-json-display {
+    background: #f5f5f5 !important;
+    color: #333 !important;
+}
+
+/* ========== Tag样式优化 ========== */
+
+.debug-drawer .ant-tag {
+    margin: 2px;
+    border-radius: 4px;
+}
