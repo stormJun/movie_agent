@@ -70,11 +70,12 @@ class InMemoryConversationStore(ConversationStorePort):
         conversation_id: UUID,
         limit: Optional[int] = None,
         before: Optional[datetime] = None,
+        desc: bool = False,
     ) -> List[Dict[str, Any]]:
         rows = list(self._messages.get(conversation_id, []))
         if before is not None:
             rows = [r for r in rows if isinstance(r.get("created_at"), datetime) and r["created_at"] < before]
-        rows.sort(key=lambda r: r.get("created_at") or datetime.min)
+        rows.sort(key=lambda r: r.get("created_at") or datetime.min, reverse=desc)
         if limit is not None:
             rows = rows[: int(limit)]
         return rows
@@ -260,6 +261,7 @@ class PostgresConversationStore(ConversationStorePort):
         conversation_id: UUID,
         limit: Optional[int] = None,
         before: Optional[datetime] = None,
+        desc: bool = False,
     ) -> List[Dict[str, Any]]:
         pool = await self._get_pool()
         async with pool.acquire() as conn:
@@ -268,7 +270,9 @@ class PostgresConversationStore(ConversationStorePort):
             if before is not None:
                 sql += " AND created_at < $2"
                 params.append(before)
-            sql += " ORDER BY created_at ASC"
+            
+            order_dir = "DESC" if desc else "ASC"
+            sql += f" ORDER BY created_at {order_dir}"
             if limit is not None:
                 sql += f" LIMIT ${len(params) + 1}"
                 params.append(int(limit))

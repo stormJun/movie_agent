@@ -2,12 +2,15 @@ from __future__ import annotations
 
 from typing import AsyncGenerator
 
+from langchain_core.messages import BaseMessage, HumanMessage, AIMessage
 from langchain_core.output_parsers import StrOutputParser
-from langchain_core.prompts import ChatPromptTemplate
+from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
+
 
 from graphrag_agent.config.prompts import LC_SYSTEM_PROMPT, HYBRID_AGENT_GENERATE_PROMPT
 from infrastructure.models import get_llm_model, get_stream_llm_model
-from infrastructure.observability import langfuse_observe
+from infrastructure.models import get_llm_model, get_stream_llm_model
+from infrastructure.observability import langfuse_observe, get_langfuse_callback
 
 from infrastructure.config.semantics import get_response_type
 
@@ -24,37 +27,68 @@ _GENERAL_SYSTEM_PROMPT = (
 _GENERAL_HUMAN_PROMPT = "{question}"
 
 
-def _build_general_prompt(*, with_memory: bool) -> ChatPromptTemplate:
+
+def _convert_history_to_messages(history: list[dict] | None) -> list[BaseMessage]:
+    """Convert raw dict history to LangChain messages."""
+    if not history:
+        return []
+    messages = []
+    for msg in history:
+        role = msg.get("role", "user")
+        content = msg.get("content", "")
+        if role == "user":
+            messages.append(HumanMessage(content=content))
+        elif role == "assistant":
+            messages.append(AIMessage(content=content))
+    return messages
+
+
+def _build_general_prompt(*, with_memory: bool, with_history: bool) -> ChatPromptTemplate:
     human = "{question}"
     if with_memory:
         human = "{memory_context}\n\n{question}"
-    return ChatPromptTemplate.from_messages(
-        [
-            ("system", _GENERAL_SYSTEM_PROMPT),
-            ("human", human),
-        ]
-    )
+    
+    msgs = [("system", _GENERAL_SYSTEM_PROMPT)]
+    if with_history:
+        msgs.append(MessagesPlaceholder(variable_name="history"))
+    msgs.append(("human", human))
+    
+    return ChatPromptTemplate.from_messages(msgs)
 
 
-def _build_rag_prompt() -> ChatPromptTemplate:
-    return ChatPromptTemplate.from_messages(
-        [
-            ("system", LC_SYSTEM_PROMPT),
-            ("human", HYBRID_AGENT_GENERATE_PROMPT),
-        ]
-    )
+def _build_rag_prompt(with_history: bool = False) -> ChatPromptTemplate:
+    msgs = [("system", LC_SYSTEM_PROMPT)]
+    if with_history:
+        msgs.append(MessagesPlaceholder(variable_name="history"))
+    msgs.append(("human", HYBRID_AGENT_GENERATE_PROMPT))
+    
+    return ChatPromptTemplate.from_messages(msgs)
 
 
 @langfuse_observe(name="generate_general_answer")
-def generate_general_answer(*, question: str, memory_context: str | None = None) -> str:
+def generate_general_answer(
+    *,
+    question: str,
+    memory_context: str | None = None,
+    history: list[dict] | None = None,
+) -> str:
     with_memory = bool((memory_context or "").strip())
-    prompt = _build_general_prompt(with_memory=with_memory)
+    chat_history = _convert_history_to_messages(history)
+    with_history = bool(chat_history)
+    
+    prompt = _build_general_prompt(with_memory=with_memory, with_history=with_history)
     llm = get_llm_model()
     chain = prompt | llm | StrOutputParser()
     payload = {"question": question}
     if with_memory:
         payload["memory_context"] = memory_context
-    return chain.invoke(payload)
+    if with_history:
+        payload["history"] = chat_history
+        
+    langfuse_handler = get_langfuse_callback()
+    callbacks = [langfuse_handler] if langfuse_handler else []
+    
+    return chain.invoke(payload, config={"callbacks": callbacks})
 
 
 @langfuse_observe(name="generate_general_answer_stream")
@@ -62,17 +96,27 @@ async def generate_general_answer_stream(
     *,
     question: str,
     memory_context: str | None = None,
+    history: list[dict] | None = None,
 ) -> AsyncGenerator[str, None]:
     with_memory = bool((memory_context or "").strip())
-    prompt = _build_general_prompt(with_memory=with_memory)
+    chat_history = _convert_history_to_messages(history)
+    with_history = bool(chat_history)
+
+    prompt = _build_general_prompt(with_memory=with_memory, with_history=with_history)
     llm = get_stream_llm_model()
     chain = prompt | llm | StrOutputParser()
     payload = {"question": question}
     if with_memory:
         payload["memory_context"] = memory_context
+    if with_history:
+        payload["history"] = chat_history
+        
+    langfuse_handler = get_langfuse_callback()
+    callbacks = [langfuse_handler] if langfuse_handler else []
+
     # Phase 3: prefer astream_events so we can later surface structured events if needed.
     if hasattr(chain, "astream_events"):
-        async for event in chain.astream_events(payload, version="v1"):
+        async for event in chain.astream_events(payload, version="v1", config={"callbacks": callbacks}):
             if not isinstance(event, dict):
                 continue
             if event.get("event") != "on_parser_stream":
@@ -83,7 +127,7 @@ async def generate_general_answer_stream(
                 yield str(chunk)
         return
 
-    async for chunk in chain.astream(payload):
+    async for chunk in chain.astream(payload, config={"callbacks": callbacks}):
         if chunk:
             yield str(chunk)
 
@@ -95,19 +139,29 @@ def generate_rag_answer(
     context: str,
     memory_context: str | None = None,
     response_type: str | None = None,
+    history: list[dict] | None = None,
 ) -> str:
-    prompt = _build_rag_prompt()
+    chat_history = _convert_history_to_messages(history)
+    with_history = bool(chat_history)
+
+    prompt = _build_rag_prompt(with_history=with_history)
     llm = get_llm_model()
     chain = prompt | llm | StrOutputParser()
     if (memory_context or "").strip():
         context = f"{memory_context}\n\n{context}"
-    return chain.invoke(
-        {
-            "context": context,
-            "question": question,
-            "response_type": response_type or get_response_type(),
-        }
-    )
+        
+    payload = {
+        "context": context,
+        "question": question,
+        "response_type": response_type or get_response_type(),
+    }
+    if with_history:
+        payload["history"] = chat_history
+    
+    langfuse_handler = get_langfuse_callback()
+    callbacks = [langfuse_handler] if langfuse_handler else []
+
+    return chain.invoke(payload, config={"callbacks": callbacks})
 
 
 @langfuse_observe(name="generate_rag_answer_stream")
@@ -117,8 +171,12 @@ async def generate_rag_answer_stream(
     context: str,
     memory_context: str | None = None,
     response_type: str | None = None,
+    history: list[dict] | None = None,
 ) -> AsyncGenerator[str, None]:
-    prompt = _build_rag_prompt()
+    chat_history = _convert_history_to_messages(history)
+    with_history = bool(chat_history)
+
+    prompt = _build_rag_prompt(with_history=with_history)
     llm = get_stream_llm_model()
     chain = prompt | llm | StrOutputParser()
     if (memory_context or "").strip():
@@ -128,10 +186,15 @@ async def generate_rag_answer_stream(
         "question": question,
         "response_type": response_type or get_response_type(),
     }
+    if with_history:
+        payload["history"] = chat_history
+    
+    langfuse_handler = get_langfuse_callback()
+    callbacks = [langfuse_handler] if langfuse_handler else []
 
     # Phase 3: prefer astream_events so we can later surface structured events if needed.
     if hasattr(chain, "astream_events"):
-        async for event in chain.astream_events(payload, version="v1"):
+        async for event in chain.astream_events(payload, version="v1", config={"callbacks": callbacks}):
             if not isinstance(event, dict):
                 continue
             if event.get("event") != "on_parser_stream":
@@ -142,6 +205,6 @@ async def generate_rag_answer_stream(
                 yield str(chunk)
         return
 
-    async for chunk in chain.astream(payload):
+    async for chunk in chain.astream(payload, config={"callbacks": callbacks}):
         if chunk:
             yield str(chunk)

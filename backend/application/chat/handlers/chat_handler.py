@@ -91,6 +91,8 @@ class ChatHandler:
         self._kb_handler_factory = kb_handler_factory
         self._enable_kb_handlers = enable_kb_handlers
 
+
+
     async def handle(
         self,
         *,
@@ -164,6 +166,18 @@ class ChatHandler:
                 query=message,
             )
 
+        # 获取对话历史（排除当前消息）
+        raw_history = await self._get_conversation_history(conversation_id=conversation_id, limit=7)
+        history_context: list[dict[str, Any]] = []
+        if raw_history:
+             # 如果最后一条是当前消息，排除它
+             if raw_history[-1].get("content") == message:
+                 history_context = raw_history[:-1]
+             else:
+                 history_context = raw_history
+
+
+
         # 4.1 KB Handler模式：使用知识库专用处理器处理请求
         if self._enable_kb_handlers and self._kb_handler_factory is not None:
             kb_handler = self._kb_handler_factory.get(decision.kb_prefix)
@@ -174,6 +188,7 @@ class ChatHandler:
                     agent_type=resolved_agent_type,
                     debug=debug,
                     memory_context=memory_context,
+                    history=history_context,
                 )
                 # 持久化助手回复（如果有）
                 answer = str(response.get("answer") or "")
@@ -203,6 +218,7 @@ class ChatHandler:
             answer = await self._completion.generate(
                 message=message,
                 memory_context=memory_context,
+                history=history_context,
             )
             if answer:
                 await self._conversation_store.append_message(
@@ -239,6 +255,7 @@ class ChatHandler:
             kb_prefix=decision.kb_prefix,
             debug=debug,
             memory_context=memory_context,
+            history=history_context,
         )
 
         # 5. 持久化助手回复

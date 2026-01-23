@@ -15,5 +15,6 @@ class RAGExecutorPort(Protocol):
         kb_prefix: str,
         debug: bool,
         memory_context: str | None = None,
+        history: list[dict[str, Any]] | None = None,
     ) -> tuple[RagRunResult, list[RagRunResult]]:
         ...

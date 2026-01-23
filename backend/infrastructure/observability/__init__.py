@@ -7,6 +7,7 @@ from infrastructure.observability.langfuse_handler import (  # noqa: F401
     langfuse_observe,
     flush_langfuse,
     create_langfuse_session,
+    get_langfuse_callback,
 )
 
 __all__ = [
@@ -18,4 +19,5 @@ __all__ = [
     "langfuse_observe",
     "flush_langfuse",
     "create_langfuse_session",
+    "get_langfuse_callback",
 ]

@@ -114,6 +114,7 @@ class ChatStreamExecutor:
         kb_prefix: str,
         debug: bool,
         memory_context: str | None = None,
+        history: list[dict[str, Any]] | None = None,
     ) -> AsyncGenerator[dict[str, Any], None]:
         use_retrieval = bool(plan) and (kb_prefix or "").strip() not in {"", "general"}
         if not use_retrieval:
@@ -135,6 +136,7 @@ class ChatStreamExecutor:
                 async for chunk in generate_general_answer_stream(
                     question=message,
                     memory_context=memory_context,
+                    history=history,
                 ):
                     if chunk:
                         generated_chars += len(chunk)
@@ -374,6 +376,7 @@ class ChatStreamExecutor:
                     question=message,
                     context=combined_context,
                     memory_context=memory_context,
+                    history=history,
                 ),
                 timeout_budget,
             ):

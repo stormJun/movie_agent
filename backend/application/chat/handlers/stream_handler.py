@@ -50,6 +50,18 @@ class StreamHandler:
         self._kb_handler_factory = kb_handler_factory
         self._enable_kb_handlers = enable_kb_handlers
 
+    async def _get_conversation_history(self, conversation_id: Any, limit: int = 6) -> list[dict[str, Any]]:
+        """获取最近的对话历史（不包含当前消息）。"""
+        history = await self._conversation_store.list_messages(
+            conversation_id=conversation_id,
+            limit=limit,
+            desc=True,
+        )
+        # 翻转为时间正序
+        history.reverse()
+        return history
+
+
     async def handle(
         self,
         *,
@@ -131,6 +143,18 @@ class StreamHandler:
                 query=message,
             )
 
+        # 获取对话历史（排除当前消息）
+        raw_history = await self._get_conversation_history(conversation_id=conversation_id, limit=7)
+        history_context: list[dict[str, Any]] = []
+        if raw_history:
+             # 如果最后一条是当前消息，排除它
+             if raw_history[-1].get("content") == message:
+                 history_context = raw_history[:-1]
+             else:
+                 history_context = raw_history
+
+
+
         if self._enable_kb_handlers and self._kb_handler_factory is not None:
             # 某些 KB 有专用 handler（自定义 plan/fanout/格式化），可以绕过通用 RAG 执行器；
             # 这样能把“领域差异”封装在 handler 内，避免 HTTP 层和通用编排被污染。
@@ -143,6 +167,7 @@ class StreamHandler:
                         agent_type=resolved_agent_type,
                         debug=debug,
                         memory_context=memory_context,
+                        history=history_context,
                     )
                 ):
                     yield event
@@ -180,9 +205,10 @@ class StreamHandler:
                     plan=plan,
                     message=message,
                     session_id=session_id,
-                    kb_prefix=decision.kb_prefix,
+                    kb_prefix=decision.kb_prefix or "",
                     debug=debug,
                     memory_context=memory_context,
+                    history=history_context,
                 )
             ):
                 yield event

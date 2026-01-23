@@ -47,6 +47,7 @@ async def chat_stream(
                     name="chat_stream",
                     user_id=request.user_id,
                     session_id=request.session_id,
+                    input=request.message,
                     metadata={
                         "kb_prefix": request.kb_prefix,
                         "agent_type": request.agent_type,
@@ -80,6 +81,9 @@ async def chat_stream(
             agent_type=request.agent_type,
         ).__aiter__()
 
+        # Accumulate full response for Langfuse trace
+        full_response = []
+
         try:
             while True:
                 if await raw_request.is_disconnected():
@@ -102,6 +106,16 @@ async def chat_stream(
                 payload = normalize_stream_event(event)
 
                 status = payload.get("status") if isinstance(payload, dict) else None
+
+                # Accumulate content for Langfuse trace
+                if status == "answer" or status == "token":
+                    content = payload.get("content", "")
+                    if content:
+                        full_response.append(str(content))
+                # Handle progress events that might contain content chunks if schema changes
+                elif status == "progress":
+                     # Usually progress doesn't have the main answer text, but just in case
+                     pass
 
                 # Inject request_id into done events so clients can fetch debug payloads.
                 if status == "done":
@@ -142,8 +156,9 @@ async def chat_stream(
 
         # Update Langfuse trace status
         if langfuse_trace is not None:
+            final_output = "".join(full_response)
             langfuse_trace.update(
-                output={"status": "completed", "client_disconnected": client_disconnected}
+                output=final_output
             )
             # Flush to ensure data is sent to Langfuse server
             langfuse = _get_langfuse_client()

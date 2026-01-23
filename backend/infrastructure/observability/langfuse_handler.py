@@ -26,6 +26,9 @@ LANGFUSE_HOST = os.getenv("LANGFUSE_HOST", "http://localhost:3000")
 _langfuse_client: Langfuse | None = None
 
 
+from langfuse.callback import CallbackHandler
+
+
 def _get_langfuse_client() -> Langfuse | None:
     """获取 Langfuse 客户端（单例）
 
@@ -48,6 +51,29 @@ def _get_langfuse_client() -> Langfuse | None:
         )
 
     return _langfuse_client
+
+
+def get_langfuse_callback() -> CallbackHandler | None:
+    """获取 Langfuse LangChain Callback Handler
+
+    用于传递给 LangChain 的 callbacks 参数，以捕捉详细的 LLM 调用信息。
+    会自动关联到当前的 trace 上下文（如果在 @observe 函数内调用）。
+
+    Returns:
+        CallbackHandler 实例，如果未启用则返回 None
+    """
+    if not LANGFUSE_ENABLED:
+        return None
+    
+    # 确保凭证存在
+    if not LANGFUSE_PUBLIC_KEY or not LANGFUSE_SECRET_KEY:
+        return None
+
+    return CallbackHandler(
+        public_key=LANGFUSE_PUBLIC_KEY,
+        secret_key=LANGFUSE_SECRET_KEY,
+        host=LANGFUSE_HOST,
+    )
 
 
 def langfuse_observe(
@@ -84,14 +110,18 @@ def langfuse_observe(
     )
 
 
+import asyncio
+
 async def flush_langfuse():
     """刷新 Langfuse 缓冲区，确保所有数据都发送到服务器
-
+    
     建议在应用关闭时调用
     """
     client = _get_langfuse_client()
     if client:
-        await client.flush_async()
+        # Langfuse sync client flush is blocking, run in executor to avoid blocking event loop
+        loop = asyncio.get_running_loop()
+        await loop.run_in_executor(None, client.flush)
 
 
 def create_langfuse_session(

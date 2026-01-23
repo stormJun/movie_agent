@@ -33,6 +33,7 @@ class ConversationStorePort(Protocol):
         conversation_id: UUID,
         limit: Optional[int] = None,
         before: Optional[datetime] = None,
+        desc: bool = False,
     ) -> List[Dict[str, Any]]:
         ...
 

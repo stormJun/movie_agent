@@ -21,6 +21,7 @@ class GraphragStreamExecutor(RAGStreamExecutorPort):
         kb_prefix: str,
         debug: bool,
         memory_context: str | None = None,
+        history: list[dict[str, Any]] | None = None,
     ) -> AsyncGenerator[dict[str, Any], None]:
         async for event in self._executor.stream(
             plan=plan,
@@ -29,5 +30,6 @@ class GraphragStreamExecutor(RAGStreamExecutorPort):
             kb_prefix=kb_prefix,
             debug=debug,
             memory_context=memory_context,
+            history=history,
         ):
             yield event
