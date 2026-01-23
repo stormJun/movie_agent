@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from "react";
-import { MenuFoldOutlined, MenuUnfoldOutlined, ArrowUpOutlined, SettingOutlined, BugOutlined, MessageOutlined, ProjectOutlined, FileTextOutlined, UserOutlined, RobotOutlined, CopyOutlined, LikeOutlined, DislikeOutlined } from "@ant-design/icons";
+import { MenuFoldOutlined, MenuUnfoldOutlined, ArrowUpOutlined, SettingOutlined, BugOutlined, MessageOutlined, ProjectOutlined, FileTextOutlined, UserOutlined, RobotOutlined, CopyOutlined, LikeOutlined, DislikeOutlined, ReloadOutlined, DownOutlined } from "@ant-design/icons";
 import CodeBlock from "../components/CodeBlock";
 import {
   Alert,
@@ -10,6 +10,7 @@ import {
   Collapse,
   Divider,
   Drawer,
+  Dropdown,
   Flex,
   Input,
   Layout,
@@ -259,6 +260,33 @@ export function ChatPage() {
     setPromptValue("");
     setProcessingPercent(0);
     setRetrievalProgress({});
+  }
+
+  async function handleRegenerate() {
+    if (isSending) return;
+
+    // Find the last user message query
+    let lastUserQuery = "";
+    for (let i = messages.length - 1; i >= 0; i--) {
+      if (messages[i].role === "user") {
+        lastUserQuery = messages[i].content;
+        break;
+      }
+    }
+
+    if (!lastUserQuery) {
+      message.warning("No previous query found");
+      return;
+    }
+
+    // Remove the last assistant message
+    const newMessages = messages.filter((_, idx) => idx !== messages.length - 1);
+    setMessages(newMessages);
+
+    // Resend the query
+    setPromptValue(lastUserQuery);
+    // Wait a tick for the state to update, then call handleSend
+    setTimeout(() => handleSend(), 0);
   }
 
   async function handleNewSession() {
@@ -988,16 +1016,40 @@ export function ChatPage() {
                       {/* Action Bar (Assistant Only) */}
                       {m.role === "assistant" && (
                         <div className="message-actions-bar">
-                          <Button
-                            type="text"
-                            size="small"
-                            icon={<CopyOutlined />}
-                            onClick={() => {
-                              navigator.clipboard.writeText(m.content);
-                              message.success("Copied");
+                          <Dropdown
+                            menu={{
+                              items: [
+                                {
+                                  key: 'copy-text',
+                                  label: '复制',
+                                  onClick: () => {
+                                    navigator.clipboard.writeText(m.content);
+                                    message.success("已复制");
+                                  },
+                                },
+                                {
+                                  key: 'copy-markdown',
+                                  label: '复制为Markdown',
+                                  onClick: () => {
+                                    navigator.clipboard.writeText(m.content);
+                                    message.success("已复制为Markdown");
+                                  },
+                                },
+                              ],
                             }}
-                            className="action-icon-btn"
-                          />
+                            trigger={['click']}
+                          >
+                            <Button
+                              type="text"
+                              size="small"
+                              icon={<CopyOutlined />}
+                              onClick={() => {
+                                navigator.clipboard.writeText(m.content);
+                                message.success("已复制");
+                              }}
+                              className="action-icon-btn"
+                            />
+                          </Dropdown>
                           <Button
                             type="text"
                             size="small"
@@ -1021,6 +1073,17 @@ export function ChatPage() {
                           >
                             Graph
                           </Button>
+                          {/* Regenerate button - only for the last assistant message */}
+                          {messages[messages.length - 1].id === m.id && (
+                            <Button
+                              type="text"
+                              size="small"
+                              icon={<ReloadOutlined />}
+                              onClick={handleRegenerate}
+                              className="action-icon-btn"
+                              disabled={isSending}
+                            />
+                          )}
                         </div>
                       )}
                     </div>
