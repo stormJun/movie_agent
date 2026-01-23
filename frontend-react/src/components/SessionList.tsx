@@ -52,28 +52,21 @@ export function SessionList({
 
     return (
         <div
-            className={className}
-            style={{
-                width: 260,
-                borderRight: `1px solid ${token.colorBorderSecondary}`,
-                display: "flex",
-                flexDirection: "column",
-                backgroundColor: token.colorBgContainer,
-                ...style,
-            }}
+            className={`session-list-container ${className || ""}`}
+            style={style}
         >
-            <div style={{ padding: 16 }}>
+            <div className="session-list-header">
                 <Button
                     type="primary"
                     icon={<PlusOutlined />}
                     onClick={onNewSession}
                     block
-                    style={{ marginBottom: 12 }}
+                    className="new-session-button"
                 >
                     新会话
                 </Button>
             </div>
-            <div style={{ flex: 1, overflowY: "auto", padding: "0 8px" }}>
+            <div className="session-list-content">
                 <List
                     loading={loading}
                     dataSource={sessions}
@@ -82,53 +75,30 @@ export function SessionList({
                         return (
                             <List.Item
                                 onClick={() => onSelectSession(item.session_id)}
-                                style={{
-                                    cursor: "pointer",
-                                    padding: "10px 12px",
-                                    borderRadius: token.borderRadius,
-                                    backgroundColor: isSelected ? token.colorPrimaryBg : "transparent",
-                                    color: isSelected ? token.colorText : token.colorTextSecondary,
-                                    transition: "all 0.2s",
-                                    borderBlockEnd: "none",
-                                    marginBottom: 4,
-                                }}
-                                className={isSelected ? "session-item-selected" : "session-item"}
+                                className={`session-item ${isSelected ? "active" : ""}`}
                             >
-                                <div style={{ width: "100%", overflow: "hidden" }}>
-                                    <div
-                                        style={{
-                                            display: "flex",
-                                            justifyContent: "space-between",
-                                            marginBottom: 4,
-                                        }}
-                                    >
+                                <div className="session-item-content">
+                                    <div className="session-item-header">
                                         <Typography.Text
                                             strong={isSelected}
                                             ellipsis
-                                            style={{ fontSize: 13, color: isSelected ? token.colorText : token.colorText }}
+                                            className="session-date"
                                         >
                                             {new Date(item.updated_at).toLocaleDateString()}
                                         </Typography.Text>
-                                        <Typography.Text type="secondary" style={{ fontSize: 10 }}>
+                                        <Typography.Text type="secondary" className="session-time">
                                             {new Date(item.updated_at).toLocaleTimeString([], {
                                                 hour: "2-digit",
                                                 minute: "2-digit",
                                             })}
                                         </Typography.Text>
                                     </div>
-                                    <div style={{ display: "flex", alignItems: "flex-start" }}>
-                                        <MessageOutlined
-                                            style={{
-                                                marginRight: 8,
-                                                marginTop: 4,
-                                                fontSize: 12,
-                                                opacity: 0.6,
-                                            }}
-                                        />
+                                    <div className="session-item-body">
+                                        <MessageOutlined className="session-icon" />
                                         <Typography.Text
                                             ellipsis
                                             type={isSelected ? undefined : "secondary"}
-                                            style={{ fontSize: 12, flex: 1 }}
+                                            className="session-title"
                                         >
                                             {item.first_message || "新会话"}
                                         </Typography.Text>

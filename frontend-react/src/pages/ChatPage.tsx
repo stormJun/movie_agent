@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from "react";
-import { MenuFoldOutlined, MenuUnfoldOutlined } from "@ant-design/icons";
+import { MenuFoldOutlined, MenuUnfoldOutlined, ArrowUpOutlined, SettingOutlined, BugOutlined } from "@ant-design/icons";
 import {
   Alert,
   Button,
@@ -180,6 +180,7 @@ export function ChatPage() {
   const [sourceDrawerTitle, setSourceDrawerTitle] = useState<string>("");
   const [sourceDrawerContent, setSourceDrawerContent] = useState<string>("");
   const [sourceDrawerLoading, setSourceDrawerLoading] = useState(false);
+  const [settingsDrawerOpen, setSettingsDrawerOpen] = useState(false);
 
   const [sourceInfoMap, setSourceInfoMap] = useState<Record<string, string>>({});
 
@@ -734,6 +735,7 @@ export function ChatPage() {
         onCollapse={(collapsed) => setSessionListVisible(!collapsed)}
         trigger={null} // Use custom trigger in header
         collapsedWidth={0}
+        className="layout-sider"
         style={{ borderRight: "1px solid #f0f0f0" }}
       >
         <SessionList
@@ -745,211 +747,251 @@ export function ChatPage() {
         />
       </Layout.Sider>
 
-      {/* Resizer could be kept if needed, but Sider is fixed width by default. 
-          Removing resizer for now to follow standard Sider behavior request. 
-      */}
-
-      <Layout.Content
+      <div
         style={{
-          display: "flex",
-          flexDirection: "column",
-          height: "100%",
-          minHeight: 0, // allow message list to scroll without pushing composer out of view
-          // If the message list grows unexpectedly (e.g. flex/min-height quirks on some browsers),
-          // allow the whole center pane to scroll so the composer (send button) is still reachable.
-          overflowY: "auto",
-          overflowX: "hidden",
+          width: 4,
+          cursor: "col-resize",
+          background: isResizingRef.current === "left" ? "#1890ff" : "transparent", // Highlight when dragging
+          zIndex: 100,
+          transition: "background 0.2s",
         }}
-      >
+        onMouseDown={() => handleResizeStart("left")}
+      // Add hover effect via CSS or inline events if needed, but simple valid click area is enough
+      />
+
+      <Layout.Content className="chat-layout-content">
         <div className="chat-header" style={{ flexShrink: 0 }}>
-          <Button
-            type="text"
-            icon={sessionListVisible ? <MenuFoldOutlined /> : <MenuUnfoldOutlined />}
-            onClick={() => setSessionListVisible(!sessionListVisible)}
-            style={{ marginRight: 8 }}
-          />
-          <Typography.Text strong style={{ fontSize: 16 }}>Chat 工作台</Typography.Text>
-          <Space>
-            <Typography.Text type="secondary">user:</Typography.Text>
-            <Input
-              size="small"
-              style={{ width: 120 }}
-              value={userId}
-              onChange={(e) => setUserId(e.target.value)}
-              placeholder="user_id"
+          <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
+            <Button
+              type="text"
+              icon={sessionListVisible ? <MenuFoldOutlined /> : <MenuUnfoldOutlined />}
+              onClick={() => setSessionListVisible(!sessionListVisible)}
             />
-            <Typography.Text type="secondary">session:</Typography.Text>
-            <Typography.Text code title={sessionId} style={{ maxWidth: 100, overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>
-              {sessionId.slice(0, 8)}...
-            </Typography.Text>
-            <Button size="small" onClick={handleNewSession}>新会话</Button>
-            <Button size="small" danger onClick={() => handleClear(true)}>
-              清空
+            <Typography.Text strong style={{ fontSize: 18, marginLeft: 4 }}>GraphRAG Chat</Typography.Text>
+          </div>
+          <Space>
+            <Button
+              icon={<BugOutlined />}
+              onClick={() => setSettingsDrawerOpen(true)}
+              type="text"
+            >
+              Settings
             </Button>
           </Space>
         </div>
         <div className="message-list" ref={scrollRef}>
-          {messages.map((m) => (
-            <div className={`message ${m.role}`} key={m.id}>
-              <div className="meta">
-                {m.role === "user" ? "User" : "Assistant"} ·{" "}
-                {new Date(m.createdAt).toLocaleTimeString()}
-              </div>
-              <div className="bubble">
-                {m.role === "assistant" ? (
-                  <Space direction="vertical" style={{ width: "100%" }} size="small">
-                    <ReactMarkdown remarkPlugins={[remarkGfm]}>
-                      {m.content || (isSending ? "…" : "")}
-                    </ReactMarkdown>
-
-                    {agentType === "deep_research_agent" && (showThinking || debugMode) ? (
-                      m.rawThinking?.trim() ? (
-                        <Collapse
-                          size="small"
-                          items={[
-                            {
-                              key: "thinking",
-                              label: "推理过程",
-                              children: (
-                                <pre style={{ whiteSpace: "pre-wrap", margin: 0 }}>
-                                  {m.rawThinking}
-                                </pre>
-                              ),
-                            },
-                          ]}
-                        />
-                      ) : null
-                    ) : null}
-
-                    <Space wrap>
-                      <Button
-                        size="small"
-                        onClick={() => submitFeedback(m, true)}
-                        disabled={!!feedbackState[m.id] || !!feedbackPending[m.id]}
-                        loading={!!feedbackPending[m.id]}
-                      >
-                        👍
-                      </Button>
-                      <Button
-                        size="small"
-                        onClick={() => submitFeedback(m, false)}
-                        disabled={!!feedbackState[m.id] || !!feedbackPending[m.id]}
-                        loading={!!feedbackPending[m.id]}
-                      >
-                        👎
-                      </Button>
-                      <Button size="small" onClick={() => extractKgForMessage(m)}>
-                        从回答提取图谱
-                      </Button>
-                      {feedbackState[m.id] ? (
-                        <Tag color={feedbackState[m.id] === "positive" ? "green" : "red"}>
-                          已反馈：{feedbackState[m.id] === "positive" ? "👍" : "👎"}
-                        </Tag>
+          <div className="message-list-content">
+            {messages.map((m) => (
+              <div className={`message ${m.role}`} key={m.id}>
+                <div className="meta">
+                  {m.role === "user" ? "User" : "Assistant"} ·{" "}
+                  {new Date(m.createdAt).toLocaleTimeString()}
+                </div>
+                <div className="bubble">
+                  {m.role === "assistant" ? (
+                    <Space direction="vertical" style={{ width: "100%" }} size="small">
+                      {agentType === "deep_research_agent" && (showThinking || debugMode) ? (
+                        m.rawThinking?.trim() ? (
+                          <div className="thinking-wrapper">
+                            <Collapse
+                              size="small"
+                              ghost
+                              items={[
+                                {
+                                  key: "thinking",
+                                  label: (
+                                    <Space size="small">
+                                      <span role="img" aria-label="thinking" style={{ fontSize: "1.2em" }}>🧠</span>
+                                      <Typography.Text type="secondary" style={{ fontSize: 13 }}>
+                                        Thinking Process
+                                      </Typography.Text>
+                                    </Space>
+                                  ),
+                                  children: (
+                                    <div className="thinking-content">
+                                      {m.rawThinking}
+                                    </div>
+                                  ),
+                                },
+                              ]}
+                            />
+                          </div>
+                        ) : null
                       ) : null}
-                    </Space>
 
-                    {m.sourceIds?.length ? (
-                      <Space wrap>
-                        {m.sourceIds.slice(0, 10).map((id) => (
-                          <Tag
-                            key={id}
-                            color="blue"
-                            style={{ cursor: "pointer" }}
-                            onClick={() => openSource(id)}
+                      <div className="message-markdown">
+                        <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                          {m.content || (isSending ? "…" : "")}
+                        </ReactMarkdown>
+                      </div>
+
+                      <div className="message-actions">
+                        <Space wrap size="small">
+                          <Button
+                            type="text"
+                            size="small"
+                            onClick={() => submitFeedback(m, true)}
+                            disabled={!!feedbackState[m.id] || !!feedbackPending[m.id]}
+                            loading={!!feedbackPending[m.id]}
+                            className="action-icon-btn"
                           >
-                            {sourceInfoMap[id] || id}
-                          </Tag>
-                        ))}
-                        {m.sourceIds.length > 10 ? (
-                          <Typography.Text type="secondary">
-                            …({m.sourceIds.length} 条引用)
-                          </Typography.Text>
+                            👍
+                          </Button>
+                          <Button
+                            type="text"
+                            size="small"
+                            onClick={() => submitFeedback(m, false)}
+                            disabled={!!feedbackState[m.id] || !!feedbackPending[m.id]}
+                            loading={!!feedbackPending[m.id]}
+                            className="action-icon-btn"
+                          >
+                            👎
+                          </Button>
+                          <Button
+                            type="text"
+                            size="small"
+                            onClick={() => extractKgForMessage(m)}
+                            className="action-text-btn"
+                          >
+                            Extract Graph
+                          </Button>
+                          {feedbackState[m.id] ? (
+                            <Tag color={feedbackState[m.id] === "positive" ? "green" : "red"} style={{ margin: 0 }}>
+                              {feedbackState[m.id] === "positive" ? "Liked" : "Disliked"}
+                            </Tag>
+                          ) : null}
+                        </Space>
+
+                        {m.sourceIds?.length ? (
+                          <div className="message-sources">
+                            <Space wrap size={[0, 4]}>
+                              {m.sourceIds.slice(0, 10).map((id) => (
+                                <Tag
+                                  key={id}
+                                  className="source-tag"
+                                  onClick={() => openSource(id)}
+                                >
+                                  {sourceInfoMap[id] || id}
+                                </Tag>
+                              ))}
+                              {m.sourceIds.length > 10 ? (
+                                <Typography.Text type="secondary" style={{ fontSize: 12 }}>
+                                  +{m.sourceIds.length - 10} more
+                                </Typography.Text>
+                              ) : null}
+                            </Space>
+                          </div>
                         ) : null}
-                      </Space>
-                    ) : null}
-                  </Space>
-                ) : (
-                  <Typography.Paragraph style={{ marginBottom: 0 }}>
-                    {m.content}
-                  </Typography.Paragraph>
-                )}
+                      </div>
+                    </Space>
+                  ) : (
+                    <Typography.Paragraph style={{ marginBottom: 0 }}>
+                      {m.content}
+                    </Typography.Paragraph>
+                  )}
+                </div>
               </div>
-            </div>
-          ))}
+            ))}
+          </div>
         </div>
 
 
 
         {/* Composer Area */}
-        <div className="composer">
-          {isSending && processingStage && (
-            <Alert
-              message={
-                <Space>
-                  <Progress
-                    type="circle"
-                    percent={processingPercent || 5}
-                    size={20}
-                    style={{ marginRight: 8 }}
-                  />
-                  <Typography.Text type="secondary">{processingStage}</Typography.Text>
-                </Space>
-              }
-              description={
-                retrievalEntries.length ? (
-                  <Space wrap>
-                    {retrievalEntries.map(([agent, info]) => (
-                      <Tag key={agent} color={info.error ? "red" : "blue"}>
-                        {agent}
-                        {typeof info.retrievalCount === "number"
-                          ? `：命中 ${info.retrievalCount}`
-                          : ""}
-                        {info.error ? "（异常）" : ""}
-                      </Tag>
-                    ))}
+        <div className="chat-footer">
+          <div className="composer-content">
+            {isSending && processingStage && (
+              <Alert
+                message={
+                  <Space>
+                    <Progress
+                      type="circle"
+                      percent={processingPercent || 5}
+                      size={20}
+                      style={{ marginRight: 8 }}
+                    />
+                    <Typography.Text type="secondary">{processingStage}</Typography.Text>
                   </Space>
-                ) : null
-              }
-              type="info"
-              style={{ marginBottom: 12 }}
-            />
-          )}
-          <div>
-            <Typography.Text>输入</Typography.Text>
-            <Input.TextArea
-              value={promptValue}
-              onChange={(e) => setPromptValue(e.target.value)}
-              autoSize={{ minRows: 3, maxRows: 8 }}
-              placeholder="例如：推荐一些科幻电影"
-              disabled={isSending}
-              style={{ marginTop: 4 }}
-            />
-            <Flex justify="space-between" align="center" style={{ marginTop: 12 }}>
-              <Space>
-                <Button
-                  type="primary"
-                  onClick={handleSend}
-                  loading={isSending}
-                  disabled={isSending || !promptValue.trim()}
-                >
-                  发送
-                </Button>
-                <Button onClick={handleStop} disabled={!isSending}>
-                  停止
-                </Button>
-                {isSending && (
-                  <Tag color="processing">处理中...</Tag>
-                )}
-              </Space>
-              <Typography.Text type="secondary">
-                {canStream ? "流式输出" : "非流式"}
-              </Typography.Text>
-            </Flex>
+                }
+                description={
+                  retrievalEntries.length ? (
+                    <Space wrap>
+                      {retrievalEntries.map(([agent, info]) => (
+                        <Tag key={agent} color={info.error ? "red" : "blue"}>
+                          {agent}
+                          {typeof info.retrievalCount === "number"
+                            ? `：命中 ${info.retrievalCount}`
+                            : ""}
+                          {info.error ? "（异常）" : ""}
+                        </Tag>
+                      ))}
+                    </Space>
+                  ) : null
+                }
+                type="info"
+                style={{ marginBottom: 12 }}
+              />
+            )}
+            <div className="composer-wrapper">
+              <div className="composer-input-wrapper">
+                <Input.TextArea
+                  value={promptValue}
+                  onChange={(e) => setPromptValue(e.target.value)}
+                  onKeyDown={(e) => {
+                    if (e.key === "Enter" && !e.shiftKey) {
+                      e.preventDefault();
+                      handleSend();
+                    }
+                  }}
+                  autoSize={{ minRows: 3, maxRows: 8 }}
+                  placeholder="Message GraphRAG..."
+                  disabled={isSending}
+                  className="composer-textarea"
+                />
+                <div className="composer-send-btn-wrapper">
+                  {isSending ? (
+                    <Button
+                      shape="circle"
+                      icon={<div style={{ width: 8, height: 8, background: "currentColor", borderRadius: 1 }} />}
+                      onClick={handleStop}
+                      className="stop-btn"
+                    />
+                  ) : (
+                    <Button
+                      type="primary"
+                      shape="circle"
+                      icon={<ArrowUpOutlined />}
+                      onClick={handleSend}
+                      disabled={!promptValue.trim()}
+                      className="send-btn"
+                    />
+                  )}
+                </div>
+              </div>
+
+              <div className="composer-footer">
+                <Typography.Text type="secondary">
+                  Enter 发送，Shift+Enter 换行 {canStream ? "| 流式开启" : ""}
+                </Typography.Text>
+              </div>
+            </div>
           </div>
         </div>
 
 
       </Layout.Content>
+
+      <div
+        style={{
+          width: 4,
+          cursor: "col-resize",
+          background: isResizingRef.current === "right" ? "#1890ff" : "transparent",
+          zIndex: 100,
+          transition: "background 0.2s",
+        }}
+        onMouseDown={() => handleResizeStart("right")}
+      />
+
       <Layout.Sider
         width={chatSideWidth}
         theme="light"
