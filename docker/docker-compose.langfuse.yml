@@ -1,0 +1,153 @@
+name: langfuse
+
+services:
+  # ClickHouse (required for Langfuse)
+  clickhouse:
+    image: clickhouse/clickhouse-server:24
+    container_name: langfuse_clickhouse
+    ports:
+      - "8123:8123"   # HTTP
+      - "9002:9000"   # Native (Mapped to 9002 to avoid conflict)
+    environment:
+      CLICKHOUSE_DB: langfuse
+      CLICKHOUSE_USER: default
+      CLICKHOUSE_PASSWORD: "password123"
+    volumes:
+      - clickhouse_data:/var/lib/clickhouse
+    ulimits:
+      nofile:
+        soft: 262144
+        hard: 262144
+
+  # Langfuse Server
+  langfuse:
+    image: langfuse/langfuse:latest
+    container_name: langfuse_server
+    ports:
+      - "3000:3000"
+    environment:
+      # 1. Database Connection (Reuse local Postgres on host:5433)
+      # Note: 'host.docker.internal' works on Docker Desktop for Mac/Windows.
+      # For Linux, may need 'extra_hosts' or network_mode: host.
+      DATABASE_URL: "postgresql://postgres:postgres@host.docker.internal:5433/langfuse"
+
+      # 2. ClickHouse Connection (internal container network)
+      # CLICKHOUSE_URL uses HTTP protocol (port 8123)
+      # CLICKHOUSE_MIGRATION_URL uses native protocol (port 9000)
+      CLICKHOUSE_URL: "http://clickhouse:8123"
+      CLICKHOUSE_MIGRATION_URL: "clickhouse://default:password123@clickhouse:9000/langfuse"
+      CLICKHOUSE_USER: "default"
+      CLICKHOUSE_PASSWORD: "password123"
+      CLICKHOUSE_CLUSTER_ENABLED: "false"
+
+      # 3. Redis Connection (Reuse local Redis on host:6379)
+      REDIS_HOST: "host.docker.internal"
+      REDIS_PORT: "6379"
+      REDIS_AUTH: ""
+
+      # 4. Auth & Security
+      # Replace these with secure secrets in production
+      NODE_ENV: "production"
+      NEXTAUTH_URL: "http://localhost:3000"
+      NEXTAUTH_SECRET: "ddd3fb861b1628bcfe2dbb193f1699311725c842cda00123e17798c5cd6b6c54"
+      ENCRYPTION_KEY: "66badd608fac4cf03dbb95c1718252ef32c73f82aa8be91eebbe9a8c85b4de6b"
+      SALT: "aaf8882a4d1518373813ccb8d09e2898824d93efb9ec226e39d6884ec31cbbb5"
+      
+      # 5. Feature Flags
+      TELEMETRY_ENABLED: "false"
+
+      # 6. S3 / Blob Storage
+      LANGFUSE_S3_EVENT_UPLOAD_BUCKET: "langfuse"
+      LANGFUSE_S3_EVENT_UPLOAD_ENDPOINT: "http://minio:9000"
+      LANGFUSE_S3_EVENT_UPLOAD_ACCESS_KEY_ID: "minio"
+      LANGFUSE_S3_EVENT_UPLOAD_SECRET_ACCESS_KEY: "miniosecret"
+      LANGFUSE_S3_EVENT_UPLOAD_REGION: "us-east-1"
+      LANGFUSE_S3_EVENT_UPLOAD_FORCE_PATH_STYLE: "true"
+      
+      LANGFUSE_S3_MEDIA_UPLOAD_BUCKET: "langfuse"
+      LANGFUSE_S3_MEDIA_UPLOAD_ENDPOINT: "http://minio:9000"
+      LANGFUSE_S3_MEDIA_UPLOAD_ACCESS_KEY_ID: "minio"
+      LANGFUSE_S3_MEDIA_UPLOAD_SECRET_ACCESS_KEY: "miniosecret"
+      LANGFUSE_S3_MEDIA_UPLOAD_REGION: "us-east-1"
+      LANGFUSE_S3_MEDIA_UPLOAD_FORCE_PATH_STYLE: "true"
+
+    depends_on:
+      clickhouse:
+        condition: service_started
+      minio:
+        condition: service_started
+    restart: unless-stopped
+
+  # Langfuse Worker (processes ingestion queue)
+  langfuse-worker:
+    image: langfuse/langfuse-worker:latest
+    container_name: langfuse_worker
+    environment:
+      # Same environment as langfuse server
+      DATABASE_URL: "postgresql://postgres:postgres@host.docker.internal:5433/langfuse"
+      
+      CLICKHOUSE_URL: "http://clickhouse:8123"
+      CLICKHOUSE_MIGRATION_URL: "clickhouse://default:password123@clickhouse:9000/langfuse"
+      CLICKHOUSE_USER: "default"
+      CLICKHOUSE_PASSWORD: "password123"
+      CLICKHOUSE_CLUSTER_ENABLED: "false"
+      
+      REDIS_HOST: "host.docker.internal"
+      REDIS_PORT: "6379"
+      REDIS_AUTH: ""
+      
+      NODE_ENV: "production"
+      NEXTAUTH_URL: "http://localhost:3000"
+      NEXTAUTH_SECRET: "ddd3fb861b1628bcfe2dbb193f1699311725c842cda00123e17798c5cd6b6c54"
+      ENCRYPTION_KEY: "66badd608fac4cf03dbb95c1718252ef32c73f82aa8be91eebbe9a8c85b4de6b"
+      SALT: "aaf8882a4d1518373813ccb8d09e2898824d93efb9ec226e39d6884ec31cbbb5"
+      
+      TELEMETRY_ENABLED: "false"
+      
+      LANGFUSE_S3_EVENT_UPLOAD_BUCKET: "langfuse"
+      LANGFUSE_S3_EVENT_UPLOAD_ENDPOINT: "http://minio:9000"
+      LANGFUSE_S3_EVENT_UPLOAD_ACCESS_KEY_ID: "minio"
+      LANGFUSE_S3_EVENT_UPLOAD_SECRET_ACCESS_KEY: "miniosecret"
+      LANGFUSE_S3_EVENT_UPLOAD_REGION: "us-east-1"
+      LANGFUSE_S3_EVENT_UPLOAD_FORCE_PATH_STYLE: "true"
+      
+      LANGFUSE_S3_MEDIA_UPLOAD_BUCKET: "langfuse"
+      LANGFUSE_S3_MEDIA_UPLOAD_ENDPOINT: "http://minio:9000"
+      LANGFUSE_S3_MEDIA_UPLOAD_ACCESS_KEY_ID: "minio"
+      LANGFUSE_S3_MEDIA_UPLOAD_SECRET_ACCESS_KEY: "miniosecret"
+      LANGFUSE_S3_MEDIA_UPLOAD_REGION: "us-east-1"
+      LANGFUSE_S3_MEDIA_UPLOAD_FORCE_PATH_STYLE: "true"
+    
+    depends_on:
+      clickhouse:
+        condition: service_started
+      minio:
+        condition: service_started
+    restart: unless-stopped
+
+  # MinIO (S3 compatible storage)
+  minio:
+    image: minio/minio
+    container_name: langfuse_minio
+    ports:
+      - "9003:9000"   # API
+      - "9004:9001"   # Console
+    command: server /data --console-address ":9001"
+    environment:
+      MINIO_ROOT_USER: minio
+      MINIO_ROOT_PASSWORD: miniosecret
+    volumes:
+      - minio_data:/data
+
+  # Zookeeper (Optional, primarily for ClickHouse cluster coordination)
+  zookeeper:
+    image: zookeeper:3.8
+    container_name: langfuse_zookeeper
+    ports:
+      - "2181:2181"
+    restart: unless-stopped
+
+
+volumes:
+  clickhouse_data:
+  minio_data:

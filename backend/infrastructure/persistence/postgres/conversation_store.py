@@ -129,6 +129,63 @@ class PostgresConversationStore(ConversationStorePort):
         self._pool = None
         self._pool_lock = asyncio.Lock()
 
+    async def _ensure_schema(self) -> None:
+        """Best-effort schema bootstrap for dev/prototyping.
+
+        Production deployments should manage schema via migrations, but the repo
+        currently expects Postgres to "just work" when enabled via docker-compose.
+        """
+        pool = self._pool
+        if pool is None:
+            return
+        async with pool.acquire() as conn:
+            try:
+                # Needed for gen_random_uuid().
+                await conn.execute('CREATE EXTENSION IF NOT EXISTS "pgcrypto";')
+            except Exception as e:
+                logger.warning("Failed to ensure pgcrypto extension: %s", e)
+
+            try:
+                await conn.execute(
+                    """
+                    CREATE TABLE IF NOT EXISTS conversations (
+                        id uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+                        user_id text NOT NULL,
+                        session_id text NOT NULL,
+                        created_at timestamptz NOT NULL DEFAULT NOW(),
+                        updated_at timestamptz NOT NULL DEFAULT NOW(),
+                        UNIQUE (user_id, session_id)
+                    );
+                    """
+                )
+                await conn.execute(
+                    """
+                    CREATE TABLE IF NOT EXISTS messages (
+                        id uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+                        conversation_id uuid NOT NULL REFERENCES conversations(id) ON DELETE CASCADE,
+                        role text NOT NULL,
+                        content text NOT NULL,
+                        created_at timestamptz NOT NULL DEFAULT NOW(),
+                        citations jsonb,
+                        debug jsonb
+                    );
+                    """
+                )
+                await conn.execute(
+                    """
+                    CREATE INDEX IF NOT EXISTS idx_messages_conversation_created
+                    ON messages(conversation_id, created_at);
+                    """
+                )
+                await conn.execute(
+                    """
+                    CREATE INDEX IF NOT EXISTS idx_conversations_user_updated
+                    ON conversations(user_id, updated_at DESC);
+                    """
+                )
+            except Exception as e:
+                logger.warning("Failed to ensure conversation schema: %s", e)
+
     async def _get_pool(self):
         if self._pool is not None:
             return self._pool
@@ -142,7 +199,9 @@ class PostgresConversationStore(ConversationStorePort):
                 self._dsn,
                 min_size=self._min_size,
                 max_size=self._max_size,
+                ssl=False,
             )
+            await self._ensure_schema()
             logger.info("PostgreSQL conversation store pool initialized")
             return self._pool
 

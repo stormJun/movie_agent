@@ -7,6 +7,7 @@ from langchain_core.prompts import ChatPromptTemplate
 
 from graphrag_agent.config.prompts import LC_SYSTEM_PROMPT, HYBRID_AGENT_GENERATE_PROMPT
 from infrastructure.models import get_llm_model, get_stream_llm_model
+from infrastructure.observability import langfuse_observe
 
 from infrastructure.config.semantics import get_response_type
 
@@ -44,6 +45,7 @@ def _build_rag_prompt() -> ChatPromptTemplate:
     )
 
 
+@langfuse_observe(name="generate_general_answer")
 def generate_general_answer(*, question: str, memory_context: str | None = None) -> str:
     with_memory = bool((memory_context or "").strip())
     prompt = _build_general_prompt(with_memory=with_memory)
@@ -55,6 +57,7 @@ def generate_general_answer(*, question: str, memory_context: str | None = None)
     return chain.invoke(payload)
 
 
+@langfuse_observe(name="generate_general_answer_stream")
 async def generate_general_answer_stream(
     *,
     question: str,
@@ -85,6 +88,7 @@ async def generate_general_answer_stream(
             yield str(chunk)
 
 
+@langfuse_observe(name="generate_rag_answer")
 def generate_rag_answer(
     *,
     question: str,
@@ -106,6 +110,7 @@ def generate_rag_answer(
     )
 
 
+@langfuse_observe(name="generate_rag_answer_stream")
 async def generate_rag_answer_stream(
     *,
     question: str,

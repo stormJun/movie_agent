@@ -33,7 +33,31 @@ async def chat_stream(
         sent_done = False
         client_disconnected = False
 
-        request_id = str(uuid.uuid4())
+        # Create Langfuse trace if enabled, otherwise use uuid
+        from infrastructure.observability.langfuse_handler import (
+            LANGFUSE_ENABLED,
+            _get_langfuse_client,
+        )
+
+        langfuse_trace = None
+        if LANGFUSE_ENABLED:
+            langfuse = _get_langfuse_client()
+            if langfuse:
+                langfuse_trace = langfuse.trace(
+                    name="chat_stream",
+                    user_id=request.user_id,
+                    session_id=request.session_id,
+                    metadata={
+                        "kb_prefix": request.kb_prefix,
+                        "agent_type": request.agent_type,
+                        "debug": request.debug,
+                    },
+                )
+                request_id = langfuse_trace.id
+            else:
+                request_id = str(uuid.uuid4())
+        else:
+            request_id = str(uuid.uuid4())
 
         collector = None
         if request.debug:
@@ -115,6 +139,16 @@ async def chat_stream(
             from infrastructure.debug.debug_cache import debug_cache
 
             debug_cache.set(request_id, collector)
+
+        # Update Langfuse trace status
+        if langfuse_trace is not None:
+            langfuse_trace.update(
+                output={"status": "completed", "client_disconnected": client_disconnected}
+            )
+            # Flush to ensure data is sent to Langfuse server
+            langfuse = _get_langfuse_client()
+            if langfuse:
+                langfuse.flush()
 
         if not sent_done:
             yield format_sse({"status": "done", "request_id": request_id})

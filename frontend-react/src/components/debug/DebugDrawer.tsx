@@ -1,5 +1,6 @@
 import React from 'react';
-import { Drawer, Tabs, Alert } from 'antd';
+import { Drawer, Tabs, Alert, Button } from 'antd';
+import { ExportOutlined } from '@ant-design/icons';
 import type { DebugData } from '../../types/chat';
 import OverviewTab from './OverviewTab';
 import TimelineTab from './TimelineTab';
@@ -82,6 +83,22 @@ const DebugDrawer: React.FC<DebugDrawerProps> = ({
                     },
                 ]}
             />
+
+            {/* Langfuse Link Button */}
+            {debugData?.request_id && (
+                <div style={{ marginTop: 24, textAlign: 'center', borderTop: '1px solid #f0f0f0', paddingTop: 16 }}>
+                    <Button
+                        type="link"
+                        icon={<ExportOutlined />}
+                        onClick={() => {
+                            const langfuseHost = 'http://localhost:3000';
+                            window.open(`${langfuseHost}/trace/${debugData.request_id}`, '_blank');
+                        }}
+                    >
+                        在 Langfuse 中查看 LLM 调用详情
+                    </Button>
+                </div>
+            )}
         </Drawer>
     );
 };
