@@ -257,9 +257,12 @@ async def stream(...):
 ```
 
 **Backward compatibility**:
-- ✅ Existing clients ignore unknown event types (JSON spec allows this)
-- ✅ No breaking changes to existing event types
-- ✅ Debug events only emitted when `debug=true`
+- ✅ **Non-debug streaming clients**: No impact (debug events only emitted when `debug=true`)
+- ✅ **Existing event types**: No breaking changes to `progress`, `token`, `error`, `start`, `done` events
+- ⚠️ **Debug streaming clients**: **BREAKING CHANGE** - Debug events (`execution_log`, `route_decision`, `rag_runs`) are now cache-only and NOT forwarded via SSE
+  - **Migration required**: Clients that previously consumed `execution_log` from SSE must migrate to `GET /api/v1/debug/{request_id}`
+  - **Current frontend example**: `frontend-react/src/pages/ChatPage.tsx:531` consumes `execution_log` from SSE - this will need updating
+  - **Rationale**: Separation of concerns (streaming for real-time UX, debug API for complete data) and bandwidth optimization
 
 ### 5. Done Event request_id Injection (IMPLEMENTATION DETAIL)
 
@@ -410,6 +413,8 @@ else:
    > - Clients receive only essential streaming events for progress/token display
    > - Debug data is complete and available on-demand via the debug API
    > - Reduced bandwidth usage (debug data can be large, especially execution_log)
+   >
+   > **⚠️ BREAKING CHANGE**: Debug clients that previously consumed `execution_log` from SSE must now call `GET /api/v1/debug/{request_id}` after receiving `done`.
 
 3. **On-demand loading**
    - Frontend decides whether to load debug data
@@ -655,10 +660,18 @@ All REST APIs are prefixed with `/api/v1`:
 import uuid
 
 # Event types to collect for debugging
-# Events to cache (NOT forwarded to client)
-DEBUG_EVENT_TYPES = {"execution_log", "route_decision", "rag_runs"}
+# Cache-only events (NOT forwarded to client)
+CACHE_ONLY_EVENT_TYPES = {"execution_log", "route_decision", "rag_runs"}
+
+# Events to both cache AND forward (useful for debugging after done)
+CACHE_AND_FORWARD_TYPES = {"progress", "error"}
+
+# All debug event types (combined)
+DEBUG_EVENT_TYPES = CACHE_ONLY_EVENT_TYPES | CACHE_AND_FORWARD_TYPES
 
 # Events to forward to client (streaming UX)
+# Includes: start/done (control), progress/token (streaming), error (user-facing)
+# Note: execution_log/route_decision/rag_runs are CACHE_ONLY and NOT forwarded
 STREAMING_EVENT_TYPES = {"start", "done", "progress", "token", "error"}
 
 async def event_generator():
@@ -714,19 +727,32 @@ async def event_generator():
                     payload["request_id"] = request_id
                 sent_done = True
 
-            # ⚠️ NEW: Collect debug events (cache-only, NOT forwarded)
+                # ⚠️ CRITICAL: Set cache BEFORE forwarding done event
+                # This prevents race condition where client receives done and immediately
+                # calls GET /api/v1/debug/{request_id} before cache is set
+                if collector and request.debug and not client_disconnected:
+                    from infrastructure.debug.debug_cache import debug_cache
+                    debug_cache.set(request_id, collector)
+                    # Clear collector to avoid double-set in finally block
+                    collector = None
+
+            # ⚠️ NEW: Collect debug events (cache + optional forward)
             if collector and request.debug:
                 status = payload.get("status")
                 if status in DEBUG_EVENT_TYPES:
-                    # Special handling for error events (use "message" field)
+                    # Special handling for error events (use "message" field, not "content")
                     if status == "error":
                         collector.add_event(status, {"message": payload.get("message", "")})
                     else:
                         collector.add_event(status, payload.get("content", {}))
 
-            # ⚠️ CRITICAL: Only forward streaming events to client
-            # Debug events (execution_log, route_decision, rag_runs) are cache-only
-            if payload.get("status") in STREAMING_EVENT_TYPES:
+            # ⚠️ CRITICAL: Forward events based on type
+            # - CACHE_ONLY events: NOT forwarded (only available via debug API)
+            # - CACHE_AND_FORWARD events: Forwarded to client AND cached
+            # - Other events: Forwarded (token, start, done, etc.)
+            status = payload.get("status")
+            if status not in CACHE_ONLY_EVENT_TYPES:
+                # Forward everything except cache-only debug events
                 yield format_sse(payload)
     finally:
         # Propagate cancellation/close to the underlying async generator
@@ -734,8 +760,8 @@ async def event_generator():
         if callable(aclose):
             await aclose()
 
-    # ⚠️ NEW: Store debug data only if client didn't disconnect
-    # Use tracked flag, don't call is_disconnected() again
+    # ⚠️ NEW: Store debug data only if client didn't disconnect AND not already set
+    # (collector is set to None after cache set in done handler to avoid double-set)
     if collector and request.debug and not client_disconnected:
         from infrastructure.debug.debug_cache import debug_cache
         debug_cache.set(request_id, collector)

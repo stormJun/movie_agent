@@ -19,7 +19,8 @@ export function SessionList({
     onNewSession,
     className,
     style,
-}: SessionListProps) {
+    mode = "vertical", // 'vertical' | 'horizontal'
+}: SessionListProps & { mode?: "vertical" | "horizontal" }) {
     const [sessions, setSessions] = useState<ConversationItem[]>([]);
     const [loading, setLoading] = useState(false);
     const { token } = theme.useToken();
@@ -41,18 +42,15 @@ export function SessionList({
         fetchSessions();
     }, [userId]);
 
-    // Expose a way to refresh list? 
-    // For now simple polling or dependency on currentSessionId might be enough if we want to auto-refresh 
-    // when a new session is actually created/interacted with. 
-    // Let's trigger refresh when currentSessionId changes, purely to ensure list is up to date 
-    // if we just created a new one and sent a message.
     useEffect(() => {
         fetchSessions();
     }, [currentSessionId]);
 
+    const isHorizontal = mode === "horizontal";
+
     return (
         <div
-            className={`session-list-container ${className || ""}`}
+            className={`session-list-container ${isHorizontal ? "horizontal" : ""} ${className || ""}`}
             style={style}
         >
             <div className="session-list-header">
@@ -60,22 +58,25 @@ export function SessionList({
                     type="primary"
                     icon={<PlusOutlined />}
                     onClick={onNewSession}
-                    block
                     className="new-session-button"
+                    shape={isHorizontal ? "circle" : "default"}
                 >
-                    新会话
+                    {isHorizontal ? null : "新会话"}
                 </Button>
             </div>
             <div className="session-list-content">
                 <List
                     loading={loading}
                     dataSource={sessions}
+                    grid={isHorizontal ? { gutter: 16, column: sessions.length } : undefined}
+                    className={isHorizontal ? "horizontal-list" : ""}
                     renderItem={(item) => {
                         const isSelected = item.session_id === currentSessionId;
                         return (
                             <List.Item
                                 onClick={() => onSelectSession(item.session_id)}
                                 className={`session-item ${isSelected ? "active" : ""}`}
+                                style={isHorizontal ? { marginBottom: 0 } : undefined}
                             >
                                 <div className="session-item-content">
                                     <div className="session-item-header">
@@ -86,12 +87,14 @@ export function SessionList({
                                         >
                                             {new Date(item.updated_at).toLocaleDateString()}
                                         </Typography.Text>
-                                        <Typography.Text type="secondary" className="session-time">
-                                            {new Date(item.updated_at).toLocaleTimeString([], {
-                                                hour: "2-digit",
-                                                minute: "2-digit",
-                                            })}
-                                        </Typography.Text>
+                                        {!isHorizontal && (
+                                            <Typography.Text type="secondary" className="session-time">
+                                                {new Date(item.updated_at).toLocaleTimeString([], {
+                                                    hour: "2-digit",
+                                                    minute: "2-digit",
+                                                })}
+                                            </Typography.Text>
+                                        )}
                                     </div>
                                     <div className="session-item-body">
                                         <MessageOutlined className="session-icon" />
