@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from "react";
-import { MenuFoldOutlined, MenuUnfoldOutlined, ArrowUpOutlined, SettingOutlined, BugOutlined, MessageOutlined, ProjectOutlined, FileTextOutlined } from "@ant-design/icons";
+import { MenuFoldOutlined, MenuUnfoldOutlined, ArrowUpOutlined, SettingOutlined, BugOutlined, MessageOutlined, ProjectOutlined, FileTextOutlined, UserOutlined, RobotOutlined, CopyOutlined, LikeOutlined, DislikeOutlined } from "@ant-design/icons";
+import CodeBlock from "../components/CodeBlock";
 import {
   Alert,
   Button,
@@ -157,28 +158,12 @@ export function ChatPage() {
   const [processingPercent, setProcessingPercent] = useState<number>(0);
   const [exampleQuestions, setExampleQuestions] = useState<string[]>([]);
 
-  // Fallback examples in case backend is empty
-  const DEFAULT_EXAMPLES = [
-    "推荐几部90年代的高分科幻电影",
-    "Inception的导演是谁？",
-    "黑客帝国的主要类型是什么？",
-    "找几部类似星际穿越的电影"
-  ];
-
   useEffect(() => {
-    console.log("Loading examples...");
     getExampleQuestions()
-      .then((qs) => {
-        console.log("Loaded examples:", qs);
-        if (qs && qs.length > 0) {
-          setExampleQuestions(qs);
-        } else {
-          setExampleQuestions(DEFAULT_EXAMPLES);
-        }
-      })
+      .then(setExampleQuestions)
       .catch((e) => {
         console.warn("Failed to load examples", e);
-        setExampleQuestions(DEFAULT_EXAMPLES);
+        setExampleQuestions([]);
       });
   }, []);
 
@@ -803,6 +788,7 @@ export function ChatPage() {
               theme="light"
               collapsible
               collapsed={!sessionListVisible}
+              collapsedWidth={0}
               onCollapse={(collapsed) => setSessionListVisible(!collapsed)}
               trigger={null}
               className="layout-sider"
@@ -818,16 +804,18 @@ export function ChatPage() {
             </Layout.Sider>
 
             {/* Resizer for Sidebar */}
-            <div
-              style={{
-                width: 4,
-                cursor: "col-resize",
-                background: isResizingRef.current === "left" ? "#1890ff" : "transparent",
-                zIndex: 100,
-                transition: "background 0.2s",
-              }}
-              onMouseDown={() => handleResizeStart("left")}
-            />
+            {sessionListVisible && (
+              <div
+                style={{
+                  width: 4,
+                  cursor: "col-resize",
+                  background: isResizingRef.current === "left" ? "#1890ff" : "transparent",
+                  zIndex: 100,
+                  transition: "background 0.2s",
+                }}
+                onMouseDown={() => handleResizeStart("left")}
+              />
+            )}
           </>
         )}
 
@@ -902,112 +890,138 @@ export function ChatPage() {
                 </div>
               ) : (
                 messages.map((m) => (
-                  <div className={`message ${m.role}`} key={m.id}>
-                    <div className="meta">
-                      {m.role === "user" ? "User" : "Assistant"} ·{" "}
-                      {new Date(m.createdAt).toLocaleTimeString()}
+                  <div className={`message-row ${m.role}`} key={m.id}>
+                    {/* Avatar */}
+                    <div className="message-avatar">
+                      {m.role === "user" ? <UserOutlined /> : <RobotOutlined />}
                     </div>
-                    <div className="bubble">
-                      {m.role === "assistant" ? (
-                        <Space direction="vertical" style={{ width: "100%" }} size="small">
-                          {agentType === "deep_research_agent" && (showThinking || debugMode) ? (
-                            m.rawThinking?.trim() ? (
-                              <div className="thinking-wrapper">
-                                <Collapse
-                                  size="small"
-                                  ghost
-                                  items={[
-                                    {
-                                      key: "thinking",
-                                      label: (
-                                        <Space size="small">
-                                          <span role="img" aria-label="thinking" style={{ fontSize: "1.2em" }}>🧠</span>
-                                          <Typography.Text type="secondary" style={{ fontSize: 13 }}>
-                                            Thinking Process
-                                          </Typography.Text>
-                                        </Space>
-                                      ),
-                                      children: (
-                                        <div className="thinking-content">
-                                          {m.rawThinking}
-                                        </div>
-                                      ),
-                                    },
-                                  ]}
-                                />
-                              </div>
-                            ) : null
-                          ) : null}
 
-                          <div className="message-markdown">
-                            <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                    {/* Content Container */}
+                    <div className="message-content-container">
+                      {/* Name & Time (Optional) */}
+                      <div style={{ fontSize: 12, color: "#999", padding: "0 4px" }}>
+                        {m.role === "user" ? "You" : "Movie Agent"}
+                      </div>
+
+                      {/* Bubble */}
+                      <div className={`message-bubble ${m.role}`}>
+                        {m.role === "assistant" && agentType === "deep_research_agent" && (showThinking || debugMode) && m.rawThinking?.trim() ? (
+                          <div className="thinking-wrapper">
+                            <Collapse
+                              size="small"
+                              ghost
+                              items={[
+                                {
+                                  key: "thinking",
+                                  label: (
+                                    <Space size="small">
+                                      <span role="img" aria-label="thinking" style={{ fontSize: "1.2em" }}>🧠</span>
+                                      <Typography.Text type="secondary" style={{ fontSize: 13 }}>
+                                        Thinking Process
+                                      </Typography.Text>
+                                    </Space>
+                                  ),
+                                  children: (
+                                    <div className="thinking-content">
+                                      {m.rawThinking}
+                                    </div>
+                                  ),
+                                },
+                              ]}
+                            />
+                          </div>
+                        ) : null}
+
+                        {m.role === "assistant" ? (
+                          <div
+                            className={`message-markdown ${isSending && m.id === messages[messages.length - 1].id ? "streaming" : ""
+                              }`}
+                          >
+                            <ReactMarkdown
+                              remarkPlugins={[remarkGfm]}
+                              components={{
+                                code(props) {
+                                  const { children, className, node, ...rest } = props;
+                                  const match = /language-(\w+)/.exec(className || "");
+                                  return match ? (
+                                    <CodeBlock className={className} {...rest}>
+                                      {children}
+                                    </CodeBlock>
+                                  ) : (
+                                    <code className={className} {...rest}>
+                                      {children}
+                                    </code>
+                                  );
+                                },
+                              }}
+                            >
                               {m.content || (isSending ? "…" : "")}
                             </ReactMarkdown>
                           </div>
+                        ) : (
+                          m.content
+                        )}
 
-                          <div className="message-actions">
-                            <Space wrap size="small">
-                              <Button
-                                type="text"
-                                size="small"
-                                onClick={() => submitFeedback(m, true)}
-                                disabled={!!feedbackState[m.id] || !!feedbackPending[m.id]}
-                                loading={!!feedbackPending[m.id]}
-                                className="action-icon-btn"
-                              >
-                                👍
-                              </Button>
-                              <Button
-                                type="text"
-                                size="small"
-                                onClick={() => submitFeedback(m, false)}
-                                disabled={!!feedbackState[m.id] || !!feedbackPending[m.id]}
-                                loading={!!feedbackPending[m.id]}
-                                className="action-icon-btn"
-                              >
-                                👎
-                              </Button>
-                              <Button
-                                type="text"
-                                size="small"
-                                onClick={() => extractKgForMessage(m)}
-                                className="action-text-btn"
-                              >
-                                Extract Graph
-                              </Button>
-                              {feedbackState[m.id] ? (
-                                <Tag color={feedbackState[m.id] === "positive" ? "green" : "red"} style={{ margin: 0 }}>
-                                  {feedbackState[m.id] === "positive" ? "Liked" : "Disliked"}
+                        {/* Sources (Assistant only) */}
+                        {m.role === "assistant" && m.sourceIds?.length ? (
+                          <div className="message-sources" style={{ marginTop: 8 }}>
+                            <Space wrap size={[0, 4]}>
+                              {m.sourceIds.slice(0, 10).map((id) => (
+                                <Tag
+                                  key={id}
+                                  className="source-tag"
+                                  onClick={() => openSource(id)}
+                                >
+                                  {sourceInfoMap[id] || id}
                                 </Tag>
+                              ))}
+                              {m.sourceIds.length > 10 ? (
+                                <Typography.Text type="secondary" style={{ fontSize: 12 }}>
+                                  +{m.sourceIds.length - 10} more
+                                </Typography.Text>
                               ) : null}
                             </Space>
-
-                            {m.sourceIds?.length ? (
-                              <div className="message-sources">
-                                <Space wrap size={[0, 4]}>
-                                  {m.sourceIds.slice(0, 10).map((id) => (
-                                    <Tag
-                                      key={id}
-                                      className="source-tag"
-                                      onClick={() => openSource(id)}
-                                    >
-                                      {sourceInfoMap[id] || id}
-                                    </Tag>
-                                  ))}
-                                  {m.sourceIds.length > 10 ? (
-                                    <Typography.Text type="secondary" style={{ fontSize: 12 }}>
-                                      +{m.sourceIds.length - 10} more
-                                    </Typography.Text>
-                                  ) : null}
-                                </Space>
-                              </div>
-                            ) : null}
                           </div>
-                        </Space>
-                      ) : (
-                        <Typography.Paragraph style={{ marginBottom: 0 }}>
-                          {m.content}
-                        </Typography.Paragraph>
+                        ) : null}
+                      </div>
+
+                      {/* Action Bar (Assistant Only) */}
+                      {m.role === "assistant" && (
+                        <div className="message-actions-bar">
+                          <Button
+                            type="text"
+                            size="small"
+                            icon={<CopyOutlined />}
+                            onClick={() => {
+                              navigator.clipboard.writeText(m.content);
+                              message.success("Copied");
+                            }}
+                            className="action-icon-btn"
+                          />
+                          <Button
+                            type="text"
+                            size="small"
+                            icon={<LikeOutlined style={{ color: feedbackState[m.id] === "positive" ? "#52c41a" : undefined }} />}
+                            onClick={() => submitFeedback(m, true)}
+                            className="action-icon-btn"
+                          />
+                          <Button
+                            type="text"
+                            size="small"
+                            icon={<DislikeOutlined style={{ color: feedbackState[m.id] === "negative" ? "#ff4d4f" : undefined }} />}
+                            onClick={() => submitFeedback(m, false)}
+                            className="action-icon-btn"
+                          />
+                          <Button
+                            type="text"
+                            size="small"
+                            onClick={() => extractKgForMessage(m)}
+                            className="action-icon-btn"
+                            style={{ fontSize: 12 }}
+                          >
+                            Graph
+                          </Button>
+                        </div>
                       )}
                     </div>
                   </div>
@@ -1022,53 +1036,131 @@ export function ChatPage() {
           <div className="chat-footer">
             <div className="composer-content">
               {isSending && processingStage && (
-                <Alert
-                  message={
-                    <Space>
-                      <Progress
-                        type="circle"
-                        percent={processingPercent || 5}
-                        size={20}
-                        style={{ marginRight: 8 }}
-                      />
-                      <Typography.Text type="secondary">{processingStage}</Typography.Text>
+                <div className="streaming-status-bar">
+                  <Space>
+                    <Progress
+                      type="circle"
+                      percent={processingPercent || 5}
+                      size={14}
+                      strokeWidth={12}
+                      strokeColor="var(--primary-color)"
+                      trailColor="rgba(0,0,0,0.05)"
+                    />
+                    <Typography.Text style={{ fontSize: 13, fontWeight: 500, color: "var(--text-secondary)" }}>
+                      {processingStage}
+                    </Typography.Text>
+                  </Space>
+
+                  {retrievalEntries.length > 0 && (
+                    <Space size={4}>
+                      {retrievalEntries.map(([agent, info]) => (
+                        <Tag
+                          key={agent}
+                          bordered={false}
+                          style={{
+                            borderRadius: 12,
+                            fontSize: 11,
+                            margin: 0,
+                            background: info.error ? "#fff1f0" : "rgba(0,0,0,0.04)",
+                            color: info.error ? "#ff4d4f" : "var(--text-tertiary)"
+                          }}
+                        >
+                          {agent}
+                          {typeof info.retrievalCount === "number" ? ` ${info.retrievalCount}` : ""}
+                        </Tag>
+                      ))}
                     </Space>
-                  }
-                  description={
-                    retrievalEntries.length ? (
-                      <Space wrap>
-                        {retrievalEntries.map(([agent, info]) => (
-                          <Tag key={agent} color={info.error ? "red" : "blue"}>
-                            {agent}
-                            {typeof info.retrievalCount === "number"
-                              ? `：命中 ${info.retrievalCount}`
-                              : ""}
-                            {info.error ? "（异常）" : ""}
-                          </Tag>
-                        ))}
-                      </Space>
-                    ) : null
-                  }
-                  type="info"
-                  style={{ marginBottom: 12 }}
-                />
+                  )}
+                </div>
               )}
               <div className="composer-wrapper">
+                <div className="prompt-hints">
+                  {[
+                    { label: "总结摘要", value: "请总结以上内容的要点" },
+                    { label: "解释代码", value: "请解释这段代码的逻辑" },
+                    { label: "推荐电影", value: "推荐几部类似星际穿越的科幻电影" },
+                    { label: "/clear", value: "/clear", isCommand: true },
+                  ].map((hint) => (
+                    <Tag
+                      key={hint.label}
+                      className="prompt-hint-tag"
+                      onClick={() => {
+                        if (hint.isCommand && hint.value === "/clear") {
+                          handleClear(true);
+                          return;
+                        }
+                        setPromptValue(hint.value);
+                      }}
+                    >
+                      {hint.label}
+                    </Tag>
+                  ))}
+                </div>
                 <div className="composer-input-wrapper">
                   <Input.TextArea
                     value={promptValue}
-                    onChange={(e) => setPromptValue(e.target.value)}
+                    onChange={(e) => {
+                      const val = e.target.value;
+                      setPromptValue(val);
+                      // Simple Slash Command Check
+                      if (val === "/clear") {
+                        // Can show a hint or wait for enter
+                      }
+                    }}
                     onKeyDown={(e) => {
                       if (e.key === "Enter" && !e.shiftKey) {
                         e.preventDefault();
+                        if (promptValue.trim() === "/clear") {
+                          handleClear(true);
+                          setPromptValue("");
+                          return;
+                        }
                         handleSend();
                       }
                     }}
                     autoSize={{ minRows: 3, maxRows: 8 }}
-                    placeholder="Message GraphRAG..."
+                    placeholder="Message GraphRAG... (Try /clear or @agent)"
                     disabled={isSending}
                     className="composer-textarea"
                   />
+                  {promptValue.endsWith("@") && (
+                    <div className="agent-selector-popover" style={{
+                      position: "absolute",
+                      bottom: "100%",
+                      left: 20,
+                      marginBottom: 8,
+                      background: "#fff",
+                      borderRadius: 8,
+                      boxShadow: "0 4px 12px rgba(0,0,0,0.15)",
+                      padding: 8,
+                      zIndex: 1000,
+                      border: "1px solid #eee",
+                      minWidth: 150
+                    }}>
+                      <div style={{ fontSize: 12, color: "#999", marginBottom: 4, padding: "0 4px" }}>Select Agent</div>
+                      {agentOptions.map(opt => (
+                        <div
+                          key={opt.value}
+                          style={{
+                            padding: "6px 12px",
+                            cursor: "pointer",
+                            borderRadius: 4,
+                            background: agentType === opt.value ? "#e6f7ff" : "transparent",
+                            color: agentType === opt.value ? "#1890ff" : "#333",
+                            fontSize: 13
+                          }}
+                          className="agent-option-item"
+                          onClick={() => {
+                            setAgentType(opt.value);
+                            setPromptValue(prev => prev.slice(0, -1)); // Remove the '@'
+                            message.success(`Switched to ${opt.label}`);
+                          }}
+                        >
+                          {opt.label}
+                        </div>
+                      ))}
+                    </div>
+                  )}
                   <div className="composer-send-btn-wrapper">
                     {isSending ? (
                       <Button
@@ -1091,9 +1183,14 @@ export function ChatPage() {
                 </div>
 
                 <div className="composer-footer">
-                  <Typography.Text type="secondary">
-                    Enter 发送，Shift+Enter 换行 {canStream ? "| 流式开启" : ""}
-                  </Typography.Text>
+                  <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 4 }}>
+                    <Typography.Text type="secondary" style={{ fontSize: 12 }}>
+                      Enter 发送，Shift+Enter 换行 {canStream ? "| 流式开启" : ""}
+                    </Typography.Text>
+                    <Typography.Text type="secondary" style={{ fontSize: 12, opacity: 0.6 }}>
+                      AI 生成内容可能不准确，请核实重要信息。
+                    </Typography.Text>
+                  </div>
                 </div>
               </div>
             </div>
