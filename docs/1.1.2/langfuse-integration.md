@@ -329,168 +329,24 @@ open http://localhost:3000
 ## 4. 部署方式
 
 > **前置条件**：
-> 1. 本地已安装 Docker 和 Docker Compose
-> 2. 本地已运行 PostgreSQL (端口 5433) 和 Redis (端口 6379)
+> 1. 本地已安装 Docker / Docker Compose
+> 2. 本地已运行 PostgreSQL (端口 5433)（本仓库复用 `graph-rag-agent-postgres-1`）
 
 ### 4.1 标准部署（推荐）
 
-此方案复用现有的 PostgreSQL 和 Redis，仅使用 Docker 运行 ClickHouse 和 Langfuse Server，最节省资源。
+此方案复用现有的 PostgreSQL，仅使用 Docker 运行 ClickHouse / Redis / MinIO / Langfuse（Server + Worker），最节省资源。
 
 **组件分布**：
-- **宿主机**: PostgreSQL (5433), Redis (6379)
-- **Docker**: ClickHouse, Langfuse Server
+- **宿主机**: PostgreSQL (5433)
+- **Docker**: ClickHouse, Redis, MinIO, Langfuse Server, Langfuse Worker
 
 #### 4.1.1 Docker Compose 配置
 
-创建 `docker-compose.langfuse.yml`：
+本仓库已提供：`docker/docker-compose.langfuse.yml`，直接使用即可（包含 ClickHouse / Redis / MinIO / Langfuse Server / Langfuse Worker）。
 
-```yaml
-version: '3.8'
-
-```yaml
-version: '3.8'
-
-services:
-  # ClickHouse (必需组件)
-  clickhouse:
-    image: clickhouse/clickhouse-server:24
-    container_name: langfuse_clickhouse
-    ports:
-      - "8123:8123"   # HTTP
-      - "9002:9000"   # Native (Mapped to 9002 to avoid conflict with host 9000/9001)
-    environment:
-      CLICKHOUSE_DB: langfuse
-      CLICKHOUSE_USER: default
-      CLICKHOUSE_PASSWORD: "password123"
-    volumes:
-      - clickhouse_data:/var/lib/clickhouse
-    ulimits:
-      nofile:
-        soft: 262144
-        hard: 262144
-
-  # Langfuse Server (Web UI + API)
-  langfuse:
-    image: langfuse/langfuse:latest
-    container_name: langfuse_server
-    ports:
-      - "3000:3000"
-    environment:
-      # 1. Database Connection (Reuse local Postgres on host:5433)
-      DATABASE_URL: "postgresql://postgres:postgres@host.docker.internal:5433/langfuse"
-
-      # 2. ClickHouse Connection
-      # CLICKHOUSE_URL uses HTTP protocol (port 8123)
-      # CLICKHOUSE_MIGRATION_URL uses native protocol (port 9000)
-      CLICKHOUSE_URL: "http://clickhouse:8123"
-      CLICKHOUSE_MIGRATION_URL: "clickhouse://default:password123@clickhouse:9000/langfuse"
-      CLICKHOUSE_USER: "default"
-      CLICKHOUSE_PASSWORD: "password123"
-      CLICKHOUSE_CLUSTER_ENABLED: "false" # Single node mode
-
-      # 3. Redis Connection (Reuse local Redis on host:6379)
-      REDIS_HOST: "host.docker.internal"
-      REDIS_PORT: "6379"
-      REDIS_AUTH: ""
-
-      # 4. Auth & Security
-      NODE_ENV: "production"
-      NEXTAUTH_URL: "http://localhost:3000"
-      # Generate these using: openssl rand -hex 32
-      NEXTAUTH_SECRET: "ddd3fb861b1628bcfe2dbb193f1699311725c842cda00123e17798c5cd6b6c54"
-      ENCRYPTION_KEY: "66badd608fac4cf03dbb95c1718252ef32c73f82aa8be91eebbe9a8c85b4de6b"
-      SALT: "aaf8882a4d1518373813ccb8d09e2898824d93efb9ec226e39d6884ec31cbbb5"
-      
-      # 5. Feature Flags
-      TELEMETRY_ENABLED: "false"
-
-      # 6. S3 / Blob Storage (MinIO)
-      LANGFUSE_S3_EVENT_UPLOAD_BUCKET: "langfuse"
-      LANGFUSE_S3_EVENT_UPLOAD_ENDPOINT: "http://minio:9000"
-      LANGFUSE_S3_EVENT_UPLOAD_ACCESS_KEY_ID: "minio"
-      LANGFUSE_S3_EVENT_UPLOAD_SECRET_ACCESS_KEY: "miniosecret"
-      LANGFUSE_S3_EVENT_UPLOAD_REGION: "us-east-1"
-      LANGFUSE_S3_EVENT_UPLOAD_FORCE_PATH_STYLE: "true"
-      
-      LANGFUSE_S3_MEDIA_UPLOAD_BUCKET: "langfuse"
-      LANGFUSE_S3_MEDIA_UPLOAD_ENDPOINT: "http://minio:9000"
-      LANGFUSE_S3_MEDIA_UPLOAD_ACCESS_KEY_ID: "minio"
-      LANGFUSE_S3_MEDIA_UPLOAD_SECRET_ACCESS_KEY: "miniosecret"
-      LANGFUSE_S3_MEDIA_UPLOAD_REGION: "us-east-1"
-      LANGFUSE_S3_MEDIA_UPLOAD_FORCE_PATH_STYLE: "true"
-
-    depends_on:
-      clickhouse:
-        condition: service_started
-      minio:
-        condition: service_started
-    restart: unless-stopped
-
-  # Langfuse Worker (处理摄取队列)
-  langfuse-worker:
-    image: langfuse/langfuse-worker:latest
-    container_name: langfuse_worker
-    environment:
-      # 环境变量必须与 Server 保持完全一致
-      DATABASE_URL: "postgresql://postgres:postgres@host.docker.internal:5433/langfuse"
-      
-      CLICKHOUSE_URL: "http://clickhouse:8123"
-      CLICKHOUSE_MIGRATION_URL: "clickhouse://default:password123@clickhouse:9000/langfuse"
-      CLICKHOUSE_USER: "default"
-      CLICKHOUSE_PASSWORD: "password123"
-      CLICKHOUSE_CLUSTER_ENABLED: "false"
-      
-      REDIS_HOST: "host.docker.internal"
-      REDIS_PORT: "6379"
-      REDIS_AUTH: ""
-      
-      NODE_ENV: "production"
-      NEXTAUTH_URL: "http://localhost:3000"
-      NEXTAUTH_SECRET: "ddd3fb861b1628bcfe2dbb193f1699311725c842cda00123e17798c5cd6b6c54"
-      ENCRYPTION_KEY: "66badd608fac4cf03dbb95c1718252ef32c73f82aa8be91eebbe9a8c85b4de6b"
-      SALT: "aaf8882a4d1518373813ccb8d09e2898824d93efb9ec226e39d6884ec31cbbb5"
-      
-      TELEMETRY_ENABLED: "false"
-      
-      LANGFUSE_S3_EVENT_UPLOAD_BUCKET: "langfuse"
-      LANGFUSE_S3_EVENT_UPLOAD_ENDPOINT: "http://minio:9000"
-      LANGFUSE_S3_EVENT_UPLOAD_ACCESS_KEY_ID: "minio"
-      LANGFUSE_S3_EVENT_UPLOAD_SECRET_ACCESS_KEY: "miniosecret"
-      LANGFUSE_S3_EVENT_UPLOAD_REGION: "us-east-1"
-      LANGFUSE_S3_EVENT_UPLOAD_FORCE_PATH_STYLE: "true"
-      
-      LANGFUSE_S3_MEDIA_UPLOAD_BUCKET: "langfuse"
-      LANGFUSE_S3_MEDIA_UPLOAD_ENDPOINT: "http://minio:9000"
-      LANGFUSE_S3_MEDIA_UPLOAD_ACCESS_KEY_ID: "minio"
-      LANGFUSE_S3_MEDIA_UPLOAD_SECRET_ACCESS_KEY: "miniosecret"
-      LANGFUSE_S3_MEDIA_UPLOAD_REGION: "us-east-1"
-      LANGFUSE_S3_MEDIA_UPLOAD_FORCE_PATH_STYLE: "true"
-    
-    depends_on:
-      clickhouse:
-        condition: service_started
-      minio:
-        condition: service_started
-    restart: unless-stopped
-
-  # MinIO (S3 compatible storage)
-  minio:
-    image: minio/minio
-    container_name: langfuse_minio
-    ports:
-      - "9003:9000"   # API
-      - "9004:9001"   # Console
-    command: server /data --console-address ":9001"
-    environment:
-      MINIO_ROOT_USER: minio
-      MINIO_ROOT_PASSWORD: miniosecret
-    volumes:
-      - minio_data:/data
-
-volumes:
-  clickhouse_data:
-  minio_data:
-```
+关键约束/注意事项：
+- Redis 使用 **Compose 内置服务**（服务名 `redis`，容器名 `langfuse_redis`），对宿主机映射 `6380 -> 6379` 避免与本机 6379 冲突。
+- Langfuse 不识别 `REDIS_URL`，请使用 `REDIS_CONNECTION_STRING` 或 `REDIS_HOST`/`REDIS_PORT`/`REDIS_AUTH`（否则 ingestion 会报 `Redis not initialized, aborting event processing`，UI 会出现 `Trace not found`）。
 
 #### 4.1.2 部署步骤
 
@@ -500,11 +356,11 @@ volumes:
 # 1. 在现有 PostgreSQL (5433) 中创建数据库
 PGPASSWORD=postgres psql -h 127.0.0.1 -p 5433 -U postgres -c "CREATE DATABASE langfuse;"
 
-# 2. 确认本地 Redis 正在运行
-redis-cli ping  # 应该返回 "PONG"
+# 2. 启动 ClickHouse + Redis + MinIO + Langfuse
+docker compose -f docker/docker-compose.langfuse.yml up -d
 
-# 3. 启动 ClickHouse + Langfuse
-docker-compose -f docker-compose.langfuse.yml up -d
+# 3. （可选）确认 Compose 内 Redis 正在运行（宿主机端口 6380）
+redis-cli -p 6380 ping  # 应该返回 "PONG"
 
 # 4. 访问 Web UI
 open http://localhost:3000
@@ -518,8 +374,10 @@ curl 'http://localhost:8123/ping'
 # 返回: Ok
 
 # 检查 Langfuse 是否就绪
-curl -I 'http://localhost:3000'
-# 返回: HTTP/1.1 200 OK
+curl 'http://localhost:3000/api/public/health'
+
+# （推荐）创建一条测试 Trace 并验证可查询
+python backend/langfuse_diag.py
 ```
 
 ---
@@ -1148,4 +1006,3 @@ load_dotenv(override=True)
 # 过滤查看
 docker ps -f name=langfuse
 ```
-

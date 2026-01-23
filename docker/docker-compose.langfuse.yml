@@ -40,8 +40,10 @@ services:
       CLICKHOUSE_PASSWORD: "password123"
       CLICKHOUSE_CLUSTER_ENABLED: "false"
 
-      # 3. Redis Connection (Reuse local Redis on host:6379)
-      REDIS_HOST: "host.docker.internal"
+      # 3. Redis Connection (dedicated redis service in this compose)
+      # Langfuse expects REDIS_CONNECTION_STRING / REDIS_HOST / REDIS_PORT / REDIS_AUTH (not REDIS_URL).
+      REDIS_CONNECTION_STRING: "redis://redis:6379/0"
+      REDIS_HOST: "redis"
       REDIS_PORT: "6379"
       REDIS_AUTH: ""
 
@@ -76,6 +78,8 @@ services:
         condition: service_started
       minio:
         condition: service_started
+      redis:
+        condition: service_started
     restart: unless-stopped
 
   # Langfuse Worker (processes ingestion queue)
@@ -92,7 +96,9 @@ services:
       CLICKHOUSE_PASSWORD: "password123"
       CLICKHOUSE_CLUSTER_ENABLED: "false"
       
-      REDIS_HOST: "host.docker.internal"
+      
+      REDIS_CONNECTION_STRING: "redis://redis:6379/0"
+      REDIS_HOST: "redis"
       REDIS_PORT: "6379"
       REDIS_AUTH: ""
       
@@ -123,6 +129,8 @@ services:
         condition: service_started
       minio:
         condition: service_started
+      redis:
+        condition: service_started
     restart: unless-stopped
 
   # MinIO (S3 compatible storage)
@@ -145,6 +153,14 @@ services:
     container_name: langfuse_zookeeper
     ports:
       - "2181:2181"
+    restart: unless-stopped
+
+  # Redis (Dedicated for Langfuse queue/cache)
+  redis:
+    image: redis:7.2
+    container_name: langfuse_redis
+    ports:
+      - "6380:6379" # Mapped to 6380 to avoid conflict with host 6379
     restart: unless-stopped
 
 
