@@ -125,6 +125,14 @@ class _StubStreamExecutor:
     ) -> AsyncGenerator[dict[str, Any], None]:
         # Mimic Phase2 behavior: emit progress, tokens, then done.
         yield {"status": "progress", "content": {"stage": "generation", "total": len(plan)}}
+        if debug:
+            # Backward-compat variant: infrastructure sometimes yields {"execution_log": {...}}
+            # (normalize_stream_event() maps it to status=execution_log).
+            yield {"execution_log": {"node": "stub_exec", "input": {"kb_prefix": kb_prefix}}}
+            yield {
+                "status": "rag_runs",
+                "content": [{"agent_type": "stub_agent", "retrieval_count": 0, "error": None}],
+            }
         yield {"status": "token", "content": f"S:{kb_prefix}:"}
         yield {"status": "token", "content": message}
         yield {"status": "done"}
@@ -347,3 +355,58 @@ class TestPhase2ApiE2E(unittest.TestCase):
         _assert_progress_contract(self, events)
         tokens = [e.get("content") for e in events if e.get("status") == "token"]
         self.assertTrue(any(isinstance(t, str) and t.startswith("KB_STREAM:edu:") for t in tokens))
+
+    def test_chat_stream_debug_separates_debug_data(self) -> None:
+        resp = self.client.post(
+            "/api/v1/chat/stream",
+            json={
+                "user_id": "u1",
+                "message": "hello",
+                "session_id": "s1",
+                "kb_prefix": None,
+                "debug": True,
+                "agent_type": "hybrid_agent",
+            },
+        )
+        self.assertEqual(resp.status_code, 200)
+        events = _parse_sse_events(resp.text)
+        self.assertTrue(events)
+        self.assertEqual(events[0]["status"], "start")
+        request_id = events[0].get("request_id")
+        self.assertIsInstance(request_id, str)
+        self.assertTrue(request_id)
+
+        # Cache-only debug events must NOT be forwarded in the SSE stream.
+        forwarded_statuses = {e.get("status") for e in events if isinstance(e, dict)}
+        self.assertNotIn("execution_log", forwarded_statuses)
+        self.assertNotIn("route_decision", forwarded_statuses)
+        self.assertNotIn("rag_runs", forwarded_statuses)
+
+        self.assertEqual(events[-1]["status"], "done")
+        self.assertEqual(events[-1].get("request_id"), request_id)
+
+        debug_resp = self.client.get(
+            f"/api/v1/debug/{request_id}",
+            params={"user_id": "u1", "session_id": "s1"},
+        )
+        self.assertEqual(debug_resp.status_code, 200)
+        debug_body = debug_resp.json()
+        self.assertEqual(debug_body.get("request_id"), request_id)
+        self.assertEqual(debug_body.get("user_id"), "u1")
+        self.assertEqual(debug_body.get("session_id"), "s1")
+        self.assertIsInstance(debug_body.get("execution_log"), list)
+        self.assertTrue(debug_body.get("execution_log"))
+        self.assertIsInstance(debug_body.get("progress_events"), list)
+        self.assertTrue(debug_body.get("route_decision"))
+        self.assertIsInstance(debug_body.get("rag_runs"), list)
+
+        # Ownership enforcement.
+        wrong_user = self.client.get(
+            f"/api/v1/debug/{request_id}",
+            params={"user_id": "u2", "session_id": "s1"},
+        )
+        self.assertEqual(wrong_user.status_code, 403)
+
+        # Cleanup (avoid leaking cache across tests).
+        cleared = self.client.delete(f"/api/v1/debug/{request_id}", params={"user_id": "u1"})
+        self.assertEqual(cleared.status_code, 200)

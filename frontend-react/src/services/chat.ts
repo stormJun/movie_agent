@@ -1,5 +1,5 @@
 import { http } from "./http";
-import type { ChatRequest, ChatResponse, StreamEvent } from "../types/chat";
+import type { ChatRequest, ChatResponse, DebugData, StreamEvent } from "../types/chat";
 import { postSseJson } from "../utils/sse";
 
 export async function chat(request: ChatRequest): Promise<ChatResponse> {
@@ -29,6 +29,18 @@ export async function clearChat(userId: string, sessionId: string, kbPrefix?: st
 
 export async function getExampleQuestions(): Promise<string[]> {
   const resp = await http.get<string[]>("/api/v1/examples");
+  return resp.data;
+}
+
+export async function getDebugData(params: {
+  request_id: string;
+  user_id: string;
+  session_id?: string;
+}): Promise<DebugData> {
+  const { request_id, user_id, session_id } = params;
+  const resp = await http.get<DebugData>(`/api/v1/debug/${request_id}`, {
+    params: { user_id, session_id },
+  });
   return resp.data;
 }
 

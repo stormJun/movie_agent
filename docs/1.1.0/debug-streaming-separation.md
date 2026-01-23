@@ -48,19 +48,25 @@
 > [!CAUTION]
 > This design has **external dependencies** that must be addressed before or during implementation.
 
-### 1. Frontend Streaming + Debug Mutex (CURRENT LIMITATION)
+### 1. Frontend Streaming + Debug Toggle (Streaming Required)
 
-**Current status**: `frontend-react/src/pages/ChatPage.tsx:228` enforces:
+Before this change, the frontend used a mutex like:
 ```typescript
-const canStream = useMemo(() => useStream && !debugMode, [useStream, debugMode]);
+const canStream = useMemo(() => useStream && !debugMode, [useStream, debugMode]); // old
 ```
 
-**This means**: Debug mode currently **forces** non-streaming API.
+This meant: **debug mode forced non-streaming**, which is incompatible with the "debug-streaming separation" design (because the design requires a stream to carry the `request_id`, then the client fetches debug data via a separate API).
 
-**Action required for this design**:
-1. **Remove the mutex**: Allow `debugMode + streaming` simultaneously
-2. Update UI to fetch debug data via `GET /api/v1/debug/{request_id}` after stream ends
-3. Update TypeScript types (`frontend-react/src/types/chat.ts:23`) to include `rag_runs` and `route_decision`
+**Required behavior for this design**:
+1. Streaming must remain enabled even when `debugMode=true`:
+   ```typescript
+   const canStream = useMemo(() => useStream || debugMode, [useStream, debugMode]);
+   ```
+2. After receiving the SSE `done` event (which includes `request_id`), fetch debug data via:
+   - `GET /api/v1/debug/{request_id}?user_id=...&session_id=...`
+3. Update TypeScript types to include:
+   - SSE: `start/done` carry `request_id`
+   - Debug API response shape (`execution_log`, `route_decision`, `rag_runs`, ...)
 
 > [!IMPORTANT]
 > **Backend already supports debug events in streaming**:
@@ -70,15 +76,16 @@ const canStream = useMemo(() => useStream && !debugMode, [useStream, debugMode])
 > - **This design**: Route layer will **cache** these events instead of forwarding them
 > - **Conclusion**: The mutex is purely a frontend limitation; backend infrastructure already generates debug events
 
-> [!WARNING]
-> **CRITICAL DEPENDENCY: Mutex must be removed**
+> [!NOTE]
+> **Frontend UX recommendation (implementation choice)**:
+> - When a user enables debug mode, force `useStream=true` (and optionally disable turning streaming off while debug is on).
+> - Default `debugMode=true` in development builds to reduce "why is my debug panel empty?" confusion.
+>   - If you want end-user default behavior, set it back to `false`.
+> - After `done`, automatically open a Debug drawer/panel and render:
+>   - `execution_log` as a per-step timeline (not a single raw JSON blob)
+>   - `route_decision`, `rag_runs`, `progress_events`, `error_events` in dedicated tabs
 >
-> This design requires removing the `debugMode` vs `useStream` mutex at `frontend-react/src/pages/ChatPage.tsx:228`.
->
-> **Current state**: Mutex EXISTS (prevents streaming in debug mode)
-> **Required state**: Mutex REMOVED (allows streaming in debug mode)
->
-> If the mutex remains, the "unified streaming approach" cannot be implemented.
+> This makes debug data visible without requiring the user to manually navigate to a settings page.
 
 ### 2. Non-Streaming Debug Mode Contract Mismatch (CURRENT BUG)
 
@@ -108,7 +115,9 @@ return {
 2. **Unified approach**: Use streaming endpoint for both modes with optional debug panel
 3. **Contract alignment**: Decide on single debug data format and enforce it across both endpoints
 
-**This design document assumes option 2 (unified streaming approach)**, which avoids the contract mismatch entirely.
+**This design document assumes option 2 (unified streaming approach)**:
+- Debug mode uses streaming + debug API (`/api/v1/debug/{request_id}`).
+- The non-streaming debug mismatch is avoided by UI policy: debug implies streaming.
 
 ### 3. Message ID Semantics (DESIGN DECISION: request_id)
 
@@ -143,6 +152,29 @@ request_id = str(uuid.uuid4())  # Generated at request start, used for debug cac
 - API parameter: `request_id` (all APIs use this consistently)
 - Internal variable: `request_id` (matches API parameter)
 - This avoids confusion with database `message_id` (used in feedback/history features)
+
+### 3.1 LLM Model Cost Control (REQUIRED: claude-sonnet-4-5 only)
+
+To reduce cost during implementation and testing of this design, **all LLM calls MUST use the cheaper model**:
+
+- `claude-sonnet-4-5`
+
+This repository configures LLM selection via environment variables in the infrastructure layer:
+- Model selection: `backend/infrastructure/config/settings.py` (`MODEL_TYPE`, `OPENAI_LLM_MODEL`)
+- Model construction: `backend/infrastructure/models/get_models.py` (`get_llm_model()`, `get_stream_llm_model()`)
+
+**Required `.env` settings**:
+```bash
+# Use OpenAI-compatible client (LangChain ChatOpenAI).
+MODEL_TYPE=openai
+
+# Force the single LLM model used by routing + generation.
+OPENAI_LLM_MODEL=claude-sonnet-4-5
+```
+
+> [!NOTE]
+> This assumes your OpenAI-compatible gateway/provider supports `OPENAI_LLM_MODEL=claude-sonnet-4-5`.
+> If not, you must change the provider first (do NOT silently switch to a more expensive model).
 
 ### 4. Debug Data Completeness (DESIGN DECISION: Protocol Extension)
 
@@ -192,6 +224,7 @@ async def handle(...):
 
     # ⚠️ NEW: Emit route_decision event for caching (not forwarded to client)
     # Must convert dataclass to dict for JSON serialization!
+    # Output fields: requested_kb_prefix, routed_kb_prefix, kb_prefix, confidence, method, reason, worker_name
     if debug:
         yield {
             "status": "route_decision",
@@ -426,9 +459,10 @@ else:
 
 ### 2.2 Non-Goals
 
-- No change to existing non-streaming API behavior
-- No forcing users to use streaming in debug mode
-- No additional backend storage dependencies (optional Redis)
+- **No change to non-debug behavior**: Non-debug mode continues to work as before (streaming or non-streaming)
+- **No forcing debug mode to use non-streaming**: Debug mode **defaults to streaming** (unified approach), but non-streaming debug API remains available
+- **No mandatory Redis for single-worker**: Single-worker deployments can use in-memory cache; Redis is **REQUIRED only for multi-worker production**
+- **No breaking changes for non-debug clients**: Clients that don't use `debug=true` are unaffected
 
 ---
 
@@ -668,11 +702,6 @@ CACHE_AND_FORWARD_TYPES = {"progress", "error"}
 
 # All debug event types (combined)
 DEBUG_EVENT_TYPES = CACHE_ONLY_EVENT_TYPES | CACHE_AND_FORWARD_TYPES
-
-# Events to forward to client (streaming UX)
-# Includes: start/done (control), progress/token (streaming), error (user-facing)
-# Note: execution_log/route_decision/rag_runs are CACHE_ONLY and NOT forwarded
-STREAMING_EVENT_TYPES = {"start", "done", "progress", "token", "error"}
 
 async def event_generator():
     sent_done = False
@@ -939,9 +968,13 @@ GET /api/v1/debug/msg_uuid_123
   ],
   "error_events": [],
   "route_decision": {
-    "route": "rag",
+    "requested_kb_prefix": "movie",
+    "routed_kb_prefix": "movie",
     "kb_prefix": "movie",
-    "agents": ["graph_agent", "vector_search"]
+    "confidence": 0.95,
+    "method": "direct_match",
+    "reason": "User explicitly requested movie knowledge base",
+    "worker_name": "movie:graph_agent"
   },
   "rag_runs": [
     {
@@ -967,6 +1000,8 @@ GET /api/v1/debug/msg_uuid_123
 > - `request_id`: Route-layer generated UUID (ephemeral, TTL: 30 minutes)
 > - `execution_log`: From SSE events (infrastructure layer)
 > - `route_decision`: From **NEW** `route_decision` SSE event (StreamHandler)
+>   - ⚠️ **Format**: `dataclasses.asdict(decision)` output from RouteDecision dataclass
+>   - ⚠️ **Actual fields**: `requested_kb_prefix`, `routed_kb_prefix`, `kb_prefix`, `confidence`, `method`, `reason`, `worker_name`
 > - `rag_runs`: From **NEW** `rag_runs` SSE event (ChatStreamExecutor)
 > - `trace`: Empty (Phase 2 feature - not currently emitted)
 
@@ -1513,6 +1548,33 @@ async def cleanup_expired_debug_data():
 >
 > **Until the mutex is removed**, this design cannot be fully implemented.
 
+> [!CAUTION]
+> **ADDITIONAL FRONTEND CHANGES REQUIRED**
+>
+> Beyond removing the mutex, the frontend currently consumes `execution_log` events from SSE (`frontend-react/src/pages/ChatPage.tsx:531`):
+>
+> ```typescript
+> // CURRENT CODE (will break after implementation):
+> if (ev.status === "execution_log") {
+>   setExecutionLogs((prev) => [...prev, ev.content]);
+>   return;
+> }
+> ```
+>
+> **Required changes**:
+> 1. **Remove SSE execution_log consumption** - execution_log events will no longer be forwarded (cache-only)
+> 2. **Add debug API call** after receiving `done`:
+>    ```typescript
+>    if (ev.status === "done" && ev.request_id && debugMode) {
+>      const debugData = await fetchDebugData(ev.request_id);
+>      setExecutionLogs(debugData.execution_log);
+>      setDebugData(debugData); // Store all debug data
+>    }
+>    ```
+> 3. **Update TypeScript types** to match new DebugData interface (see section 8.1)
+>
+> This is a **breaking change** from the current debug mode behavior.
+
 ### 8.1 React/Vite Integration
 
 ```typescript
@@ -1549,11 +1611,15 @@ interface DebugData {
   execution_log: ExecutionLogEntry[];
   progress_events: ProgressEvent[];
   error_events: Array<{ message: string; timestamp: string }>;
-  // ✅ NEW: From route_decision event
+  // ✅ NEW: From route_decision event (RouteDecision dataclass fields)
   route_decision: {
-    route: string;
+    requested_kb_prefix: string;
+    routed_kb_prefix: string;
     kb_prefix: string;
-    agents: string[];
+    confidence: number;
+    method: string;
+    reason: string;
+    worker_name: string;
   } | null;
   // ✅ NEW: From rag_runs event
   rag_runs: RAGRun[];
@@ -2120,7 +2186,8 @@ uvicorn server.main:app --reload --host 0.0.0.0 --port 8000
 
 **Recommendation**:
 - ✅ **Development**: Use in-memory cache, accept 404s after code reloads
-- ✅ **Production**: Either (a) single worker no reload, or (b) implement Redis cache (future enhancement)
+- ✅ **Production (single worker)**: In-memory cache works fine
+- ❌ **Production (multi-worker)**: Redis cache **REQUIRED** (see section 10.4 for implementation)
 
 ### 10.2 Client Disconnect Handling (DESIGN DECISION: Discard Data)
 
@@ -2136,6 +2203,11 @@ uvicorn server.main:app --reload --host 0.0.0.0 --port 8000
 **Implementation**:
 ```python
 # server/api/rest/v1/chat_stream.py
+
+# Event type constants (same as main implementation)
+CACHE_ONLY_EVENT_TYPES = {"execution_log", "route_decision", "rag_runs"}
+CACHE_AND_FORWARD_TYPES = {"progress", "error"}
+DEBUG_EVENT_TYPES = CACHE_ONLY_EVENT_TYPES | CACHE_AND_FORWARD_TYPES
 
 async def event_generator():
     collector = None
@@ -2154,14 +2226,32 @@ async def event_generator():
             # ... get next event ...
             payload = normalize_stream_event(event)
 
-            # Collect debug events as they arrive
-            if collector and payload.get("status") in DEBUG_EVENT_TYPES:
-                collector.add_event(payload.get("status"), payload.get("content"))
+            # Inject request_id into done events
+            if isinstance(payload, dict) and payload.get("status") == "done":
+                if "request_id" not in payload:
+                    payload["request_id"] = request_id
 
-            yield format_sse(payload)
+                # ⚠️ Set cache BEFORE forwarding done (prevents race condition)
+                if collector and request.debug and not client_disconnected:
+                    debug_cache.set(request_id, collector)
+                    collector = None  # Avoid double-set in finally
+
+            # Collect debug events (with error special handling)
+            if collector and request.debug:
+                status = payload.get("status")
+                if status in DEBUG_EVENT_TYPES:
+                    # Special handling for error events (use "message" field)
+                    if status == "error":
+                        collector.add_event(status, {"message": payload.get("message", "")})
+                    else:
+                        collector.add_event(status, payload.get("content", {}))
+
+            # Forward events based on type (cache-only events NOT forwarded)
+            status = payload.get("status")
+            if status not in CACHE_ONLY_EVENT_TYPES:
+                yield format_sse(payload)
     finally:
-        # ⚠️ Only save cache if loop completed normally
-        # If client disconnected, we exit WITHOUT saving
+        # ⚠️ Only save cache if not already saved in done handler
         if collector and request.debug and not client_disconnected:
             debug_cache.set(request_id, collector)
 ```
@@ -2230,7 +2320,8 @@ async def event_generator():
 > **Solutions** (when debug cache is implemented):
 > - **Dev (single worker, no reload)**: In-memory cache works fine
 > - **Dev (with reload)**: Accept 404s during development
-> - **Prod (multiple workers)**: Consider Redis backend (future enhancement)
+> - **Prod (single worker)**: In-memory cache works fine
+> - **Prod (multiple workers)**: Redis cache **REQUIRED** (see section 10.4)
 
 **Debug Data Lifecycle** (when implemented):
 
@@ -2605,11 +2696,13 @@ from datetime import timedelta
 
 class RedisDebugDataCache:
     """
-    Redis-based debug data cache (future enhancement).
+    Redis-based debug data cache (REQUIRED for multi-worker production).
 
     Thread-safety: Thread-safe (redis-py handles connection pooling).
     Persistence: Optional (Redis RDB/AOF).
     Scalability: Supports multi-process deployments.
+
+    Use case: Production deployments with --workers N or multiple pod instances.
     """
 
     def __init__(self, redis_url: str, ttl_seconds: int = 1800):

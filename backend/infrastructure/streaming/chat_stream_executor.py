@@ -14,6 +14,93 @@ from infrastructure.rag.rag_manager import RagManager
 from infrastructure.rag.specs import RagRunSpec
 
 
+_DEBUG_RETRIEVAL_PREVIEW_N = 3
+_DEBUG_EVIDENCE_PREVIEW_CHARS = 240
+_DEBUG_TOP_SOURCE_IDS_N = 8
+
+
+def _truncate_text(value: str, limit: int) -> str:
+    if limit <= 0:
+        return ""
+    if len(value) <= limit:
+        return value
+    return value[: max(limit - 1, 0)] + "…"
+
+
+def _summarize_retrieval_results(results: Any) -> dict[str, Any]:
+    """Summarize retrieval results for debug logs without dumping full payloads."""
+    if not isinstance(results, list):
+        return {
+            "retrieval_count": 0,
+            "granularity_counts": {},
+            "top_source_ids": [],
+            "sample_results": [],
+        }
+
+    granularity_counts: dict[str, int] = {}
+    source_counts: dict[str, int] = {}
+    sample_results: list[dict[str, Any]] = []
+
+    for idx, item in enumerate(results):
+        if not isinstance(item, dict):
+            continue
+
+        granularity = str(item.get("granularity") or "").strip() or "unknown"
+        granularity_counts[granularity] = granularity_counts.get(granularity, 0) + 1
+
+        metadata = item.get("metadata")
+        source_id = None
+        if isinstance(metadata, dict):
+            raw_source_id = metadata.get("source_id")
+            if isinstance(raw_source_id, str) and raw_source_id.strip():
+                source_id = raw_source_id.strip()
+                source_counts[source_id] = source_counts.get(source_id, 0) + 1
+
+        if idx < _DEBUG_RETRIEVAL_PREVIEW_N:
+            evidence = item.get("evidence")
+            evidence_preview = (
+                _truncate_text(evidence, _DEBUG_EVIDENCE_PREVIEW_CHARS)
+                if isinstance(evidence, str) and evidence
+                else ""
+            )
+            meta_preview: dict[str, Any] = {}
+            if isinstance(metadata, dict):
+                # Only surface a small, commonly useful subset.
+                for k in (
+                    "source_id",
+                    "chunk_id",
+                    "doc_id",
+                    "file_name",
+                    "title",
+                    "url",
+                    "page",
+                    "page_number",
+                ):
+                    if k in metadata:
+                        meta_preview[k] = metadata.get(k)
+
+            sample_results.append(
+                {
+                    "score": item.get("score"),
+                    "granularity": granularity,
+                    "source_id": source_id,
+                    "metadata": meta_preview,
+                    "evidence_preview": evidence_preview,
+                }
+            )
+
+    top_source_ids = sorted(source_counts.items(), key=lambda kv: kv[1], reverse=True)[
+        :_DEBUG_TOP_SOURCE_IDS_N
+    ]
+
+    return {
+        "retrieval_count": len(results),
+        "granularity_counts": granularity_counts,
+        "top_source_ids": [{"source_id": k, "count": v} for k, v in top_source_ids],
+        "sample_results": sample_results,
+    }
+
+
 class ChatStreamExecutor:
     def __init__(self, *, rag_manager: RagManager) -> None:
         self._rag_manager = rag_manager
@@ -109,13 +196,17 @@ class ChatStreamExecutor:
                     },
                 }
                 if debug:
+                    summary = _summarize_retrieval_results(run.retrieval_results or [])
                     yield {
                         "execution_log": {
                             "node": "rag_retrieval_done",
                             "input": {"agent_type": run.agent_type},
                             "output": {
                                 "error": run.error,
-                                "retrieval_count": len(run.retrieval_results or []),
+                                "retrieval_count": summary.get("retrieval_count", 0),
+                                "granularity_counts": summary.get("granularity_counts", {}),
+                                "top_source_ids": summary.get("top_source_ids", []),
+                                "sample_results": summary.get("sample_results", []),
                             },
                         }
                     }
@@ -149,6 +240,21 @@ class ChatStreamExecutor:
                 if not r.error
             ]
         )
+
+        # Cache-only debug event (not required for streaming UX).
+        if debug:
+            yield {
+                "status": "rag_runs",
+                "content": [
+                    {
+                        "agent_type": r.agent_type,
+                        "retrieval_count": len(r.retrieval_results or []),
+                        "error": str(r.error) if r.error else None,
+                        "context_length": len(r.context or ""),
+                    }
+                    for r in runs
+                ],
+            }
 
         yield {
             "status": "progress",

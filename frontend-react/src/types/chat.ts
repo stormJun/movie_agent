@@ -32,10 +32,12 @@ export interface ChatResponse {
   iterations?: Array<Record<string, JsonValue>>;
   raw_thinking?: string;
   execution_logs?: Array<JsonValue>;
+  rag_runs?: Array<JsonValue>;
+  route_decision?: JsonValue;
 }
 
 export type StreamEvent =
-  | { status: "start" }
+  | { status: "start"; request_id?: string }
   | { status: "token"; content: string }
   | { status: "execution_log"; content: JsonValue }
   | { status: "execution_logs"; content: JsonValue }
@@ -50,6 +52,20 @@ export type StreamEvent =
         retrieval_count?: number | null;
       };
     }
-  | { status: "done" }
+  | { status: "done"; request_id?: string }
   | { status: "error"; message?: string }
   | { status: string; [k: string]: JsonValue | undefined };
+
+export interface DebugData {
+  request_id: string;
+  user_id: string;
+  session_id: string;
+  timestamp: string;
+  execution_log: Array<JsonValue>;
+  progress_events: Array<JsonValue>;
+  error_events: Array<{ message: string; timestamp: string }>;
+  route_decision: JsonValue | null;
+  rag_runs: Array<JsonValue>;
+  trace: Array<JsonValue>;
+  kg_data: JsonValue | null;
+}

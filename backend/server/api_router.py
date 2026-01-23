@@ -6,6 +6,7 @@ import server.api.rest.v1.chat as chat_v1
 import server.api.rest.v1.chat_stream as chat_stream_v1
 import server.api.rest.v1.clear as clear_v1
 import server.api.rest.v1.conversations as conversations_v1
+import server.api.rest.v1.debug as debug_v1
 import server.api.rest.v1.examples as examples_v1
 import server.api.rest.v1.feedback as feedback_v1
 import server.api.rest.v1.knowledge_graph as knowledge_graph_v1
@@ -18,6 +19,7 @@ api_router.include_router(chat_v1.router)
 api_router.include_router(chat_stream_v1.router)
 api_router.include_router(clear_v1.router)
 api_router.include_router(conversations_v1.router)
+api_router.include_router(debug_v1.router)
 api_router.include_router(feedback_v1.router)
 api_router.include_router(knowledge_graph_v1.router)
 api_router.include_router(messages_v1.router)

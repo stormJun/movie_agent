@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import dataclasses
 from typing import Any, AsyncGenerator, Optional
 
 from application.handlers.factory import KnowledgeBaseHandlerFactory
@@ -92,6 +93,12 @@ class StreamHandler:
             requested_kb=kb_prefix,
             agent_type=agent_type,
         )
+
+        # Cache-only debug event (not required for streaming UX).
+        # Note: RouteDecision is a dataclass; convert to plain dict for JSON.
+        if debug:
+            yield {"status": "route_decision", "content": dataclasses.asdict(decision)}
+
         resolved_agent_type = _resolve_agent_type(
             agent_type=agent_type,
             worker_name=decision.worker_name,

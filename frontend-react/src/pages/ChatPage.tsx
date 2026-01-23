@@ -19,6 +19,7 @@ import {
   Row,
   Select,
   Space,
+  Switch,
   Table,
   Tabs,
   Tag,
@@ -27,14 +28,20 @@ import {
 } from "antd";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
-import type { AgentType, StreamEvent } from "../types/chat";
-import { chat, chatStream, clearChat, getMessages, type MessageItem } from "../services/chat";
+import type { AgentType, DebugData, StreamEvent } from "../types/chat";
+import {
+  chat,
+  chatStream,
+  clearChat,
+  getDebugData,
+  getExampleQuestions,
+  getMessages,
+  type MessageItem,
+} from "../services/chat";
 import { getKnowledgeGraphFromMessage } from "../services/graph";
 import type { KnowledgeGraphResponse } from "../types/graph";
 import { getSourceContent, getSourceInfoBatch } from "../services/source";
 import { sendFeedback } from "../services/feedback";
-
-import { getExampleQuestions } from "../services/chat";
 import { KnowledgeGraphPanel } from "../components/KnowledgeGraphPanel";
 import { SessionList } from "../components/SessionList";
 
@@ -51,6 +58,18 @@ type ChatMessage = {
   reference?: unknown;
   rawThinking?: string;
 };
+
+function isPlainRecord(value: unknown): value is Record<string, unknown> {
+  return !!value && typeof value === "object" && !Array.isArray(value);
+}
+
+function prettyJson(value: unknown): string {
+  try {
+    return JSON.stringify(value, null, 2);
+  } catch {
+    return String(value);
+  }
+}
 
 function newSessionId(): string {
   return globalThis.crypto?.randomUUID?.() ?? String(Date.now());
@@ -145,7 +164,8 @@ export function ChatPage() {
   const [activeFeature, setActiveFeature] = useState<"chat" | "kg" | "sources" | "settings">("chat");
 
   const [agentType, setAgentType] = useState<AgentType>("hybrid_agent");
-  const [debugMode, setDebugMode] = useState<boolean>(false);
+  // Default to debug-on for easier inspection during development.
+  const [debugMode, setDebugMode] = useState<boolean>(true);
   const [useStream, setUseStream] = useState<boolean>(true);
   const [useDeeperTool, setUseDeeperTool] = useState<boolean>(true);
   const [showThinking, setShowThinking] = useState<boolean>(false);
@@ -153,6 +173,8 @@ export function ChatPage() {
 
   const [messages, setMessages] = useState<ChatMessage[]>([]);
   const [executionLogs, setExecutionLogs] = useState<unknown[]>([]);
+  const [latestDebugData, setLatestDebugData] = useState<DebugData | null>(null);
+  const [debugDrawerOpen, setDebugDrawerOpen] = useState(false);
   const [iterations, setIterations] = useState<unknown[]>([]);
   const [isSending, setIsSending] = useState<boolean>(false);
   const [processingStage, setProcessingStage] = useState<string>("");
@@ -233,7 +255,10 @@ export function ChatPage() {
   const scrollRef = useRef<HTMLDivElement | null>(null);
   const abortRef = useRef<AbortController | null>(null);
 
-  const canStream = useMemo(() => useStream && !debugMode, [useStream, debugMode]);
+  // Debug mode supports streaming; debug data is fetched separately via /api/v1/debug/{request_id}.
+  // Debug mode requires streaming so we can fetch the separated debug payload
+  // via GET /api/v1/debug/{request_id} after the stream ends.
+  const canStream = useMemo(() => useStream || debugMode, [useStream, debugMode]);
   const retrievalEntries = Object.entries(retrievalProgress);
 
   useEffect(() => {
@@ -373,6 +398,7 @@ export function ChatPage() {
     setMessages((prev) => [...prev, userMsg, assistantMsg]);
     setIsSending(true);
     setExecutionLogs([]);
+    setLatestDebugData(null);
     setIterations([]);
     setKgData(null);
     setReference(null);
@@ -422,6 +448,16 @@ export function ChatPage() {
         setProcessingPercent(80);
         updateAssistant(resp.answer || "");
         if (resp.execution_log) setExecutionLogs(resp.execution_log);
+        if (debugMode && !resp.execution_log) {
+          const merged: unknown[] = [];
+          if (resp.route_decision) {
+            merged.push({ node: "route_decision", output: resp.route_decision });
+          }
+          if (Array.isArray(resp.rag_runs) && resp.rag_runs.length) {
+            merged.push(...resp.rag_runs);
+          }
+          if (merged.length) setExecutionLogs(merged);
+        }
         if (resp.iterations) setIterations(resp.iterations);
         if (resp.kg_data) {
           const nextKg = resp.kg_data as unknown as KnowledgeGraphResponse;
@@ -488,6 +524,7 @@ export function ChatPage() {
       abortRef.current = controller;
 
       let firstTokenReceived = false;
+      let streamRequestId: string | null = null;
       const onEvent = (ev: StreamEvent) => {
         // Compatibility: some backends incorrectly wrap JSON as token content.
         if (ev.status === "token" && typeof ev.content === "string") {
@@ -550,6 +587,12 @@ export function ChatPage() {
           }
           return;
         }
+        if (ev.status === "start") {
+          if (typeof ev.request_id === "string" && ev.request_id.trim()) {
+            streamRequestId = ev.request_id;
+          }
+          return;
+        }
         if (ev.status === "token") {
           updateAssistant(String(ev.content || ""));
           return;
@@ -573,6 +616,9 @@ export function ChatPage() {
         if (ev.status === "done") {
           setProcessingStage("完成");
           setProcessingPercent(100);
+          if (!streamRequestId && typeof ev.request_id === "string" && ev.request_id.trim()) {
+            streamRequestId = ev.request_id;
+          }
           const doneThinking =
             typeof (ev as { thinking_content?: unknown }).thinking_content === "string"
               ? String((ev as { thinking_content?: string }).thinking_content)
@@ -580,6 +626,25 @@ export function ChatPage() {
           if (doneThinking.trim()) {
             setRawThinking(doneThinking);
             updateAssistantThinking(doneThinking);
+          }
+          if (debugMode && streamRequestId) {
+            void (async () => {
+              try {
+                const debugData = await getDebugData({
+                  request_id: streamRequestId!,
+                  user_id: userId,
+                  session_id: sessionId,
+                });
+                setLatestDebugData(debugData);
+                if (Array.isArray(debugData.execution_log)) {
+                  setExecutionLogs(debugData.execution_log as unknown[]);
+                }
+                // Make debug info discoverable; users often won't be on the Settings tab.
+                setDebugDrawerOpen(true);
+              } catch (e) {
+                console.warn("Failed to fetch debug data", e);
+              }
+            })();
           }
           setIsSending(false);
           setProcessingStage("");
@@ -848,25 +913,48 @@ export function ChatPage() {
         )}
 
         <Layout.Content className="chat-layout-content" style={{ display: activeFeature === "chat" ? "flex" : "none" }}>
-          <div className="chat-header" style={{ flexShrink: 0 }}>
-            <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
-              <Button
-                type="text"
-                icon={sessionListVisible ? <MenuFoldOutlined /> : <MenuUnfoldOutlined />}
-                onClick={() => setSessionListVisible(!sessionListVisible)}
-              />
-              {/* <Typography.Text strong style={{ fontSize: 18, marginLeft: 4 }}>GraphRAG Chat</Typography.Text> */}
-            </div>
-            <Space>
-              <Button
-                icon={<BugOutlined />}
-                onClick={() => setActiveFeature("settings")}
-                type="text"
-              >
-                设置
-              </Button>
-            </Space>
-          </div>
+	          <div className="chat-header" style={{ flexShrink: 0 }}>
+	            <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
+	              <Button
+	                type="text"
+	                icon={sessionListVisible ? <MenuFoldOutlined /> : <MenuUnfoldOutlined />}
+	                onClick={() => setSessionListVisible(!sessionListVisible)}
+	              />
+	              {/* <Typography.Text strong style={{ fontSize: 18, marginLeft: 4 }}>GraphRAG Chat</Typography.Text> */}
+	            </div>
+	            <Space>
+	              <Button
+	                size="small"
+	                icon={<BugOutlined />}
+	                onClick={() => setDebugDrawerOpen(true)}
+	                disabled={!debugMode && !latestDebugData && !executionLogs.length && !rawThinking.trim()}
+	              >
+	                调试信息
+	              </Button>
+	              <Space align="center" size="small">
+	                <Switch
+	                  checked={debugMode}
+	                  onChange={(checked) => {
+	                    setDebugMode(checked);
+                    // Debug mode requires streaming so we can fetch separated debug data
+                    // via GET /api/v1/debug/{request_id} after the stream ends.
+                    if (checked) setUseStream(true);
+                  }}
+	                  size="small"
+	                />
+                <Typography.Text style={{ fontSize: 12, color: debugMode ? "#1890ff" : "#999" }}>
+                  调试
+                </Typography.Text>
+              </Space>
+	              <Button
+	                icon={<SettingOutlined />}
+	                onClick={() => setActiveFeature("settings")}
+	                type="text"
+	              >
+	                设置
+	              </Button>
+	            </Space>
+	          </div>
 
 
           <div className="message-list" ref={scrollRef}>
@@ -1295,17 +1383,17 @@ export function ChatPage() {
                       checked={debugMode}
                       onChange={(e) => {
                         setDebugMode(e.target.checked);
-                        if (e.target.checked) setUseStream(false);
+                        if (e.target.checked) setUseStream(true);
                       }}
                     >
-                      调试模式（关闭流式）
+                      调试模式（流式输出 + 调试数据另取）
                     </Checkbox>
                     <Checkbox
                       checked={useStream}
                       onChange={(e) => setUseStream(e.target.checked)}
                       disabled={debugMode}
                     >
-                      使用流式输出（SSE）
+                      使用流式输出（SSE）（调试模式下强制开启）
                     </Checkbox>
                   </Space>
                 </Col>
@@ -1581,7 +1669,134 @@ export function ChatPage() {
           )}
         </Drawer>
 
+        <Drawer
+          title="调试信息"
+          open={debugDrawerOpen}
+          width={760}
+          onClose={() => setDebugDrawerOpen(false)}
+        >
+          {debugMode && !latestDebugData ? (
+            <Alert
+              type="info"
+              showIcon
+              style={{ marginBottom: 12 }}
+              message="调试模式已开启：回答结束后会自动拉取 debug 数据并展示在这里。"
+            />
+          ) : null}
+          <Tabs
+            defaultActiveKey="execution_log"
+            items={[
+              {
+                key: "execution_log",
+                label: `执行轨迹 (${(latestDebugData?.execution_log?.length ?? executionLogs.length) || 0})`,
+                children: (
+                  (() => {
+                    const logs = (latestDebugData?.execution_log?.length
+                      ? latestDebugData.execution_log
+                      : executionLogs) as unknown[];
+
+                    if (!logs.length) {
+                      return (
+                        <Typography.Text type="secondary">
+                          暂无执行轨迹（请开启调试模式并发送消息）
+                        </Typography.Text>
+                      );
+                    }
+
+                    return (
+                      <Collapse
+                        size="small"
+                        items={logs.map((entry, idx) => {
+                          const obj = isPlainRecord(entry) ? entry : null;
+                          const node = obj && typeof obj.node === "string" ? obj.node : "log";
+                          const ts =
+                            obj && typeof obj.timestamp === "string" && obj.timestamp.trim()
+                              ? obj.timestamp
+                              : "";
+                          const label = ts ? `${idx + 1}. ${node} (${ts})` : `${idx + 1}. ${node}`;
+
+                          const input = obj ? (obj.input as unknown) : undefined;
+                          const output = obj ? (obj.output as unknown) : undefined;
+
+                          return {
+                            key: String(idx),
+                            label,
+                            children: (
+                              <Space direction="vertical" style={{ width: "100%" }} size="small">
+                                {obj ? (
+                                  <>
+                                    <Typography.Text strong>input</Typography.Text>
+                                    <pre style={{ whiteSpace: "pre-wrap", margin: 0 }}>
+                                      {prettyJson(input ?? {})}
+                                    </pre>
+                                    <Typography.Text strong>output</Typography.Text>
+                                    <pre style={{ whiteSpace: "pre-wrap", margin: 0 }}>
+                                      {prettyJson(output ?? {})}
+                                    </pre>
+                                  </>
+                                ) : (
+                                  <pre style={{ whiteSpace: "pre-wrap", margin: 0 }}>
+                                    {prettyJson(entry)}
+                                  </pre>
+                                )}
+                              </Space>
+                            ),
+                          };
+                        })}
+                      />
+                    );
+                  })()
+                ),
+              },
+              {
+                key: "route_decision",
+                label: "route_decision",
+                children: (
+                  <pre style={{ whiteSpace: "pre-wrap", margin: 0 }}>
+                    {latestDebugData?.route_decision
+                      ? prettyJson(latestDebugData.route_decision)
+                      : "暂无（需要 debug=true 且后端缓存成功）"}
+                  </pre>
+                ),
+              },
+              {
+                key: "rag_runs",
+                label: `rag_runs (${latestDebugData?.rag_runs?.length ?? 0})`,
+                children: (
+                  <pre style={{ whiteSpace: "pre-wrap", margin: 0 }}>
+                    {latestDebugData?.rag_runs?.length
+                      ? prettyJson(latestDebugData.rag_runs)
+                      : "暂无（需要 debug=true 且走检索路径）"}
+                  </pre>
+                ),
+              },
+              {
+                key: "progress",
+                label: `progress (${latestDebugData?.progress_events?.length ?? 0})`,
+                children: (
+                  <pre style={{ whiteSpace: "pre-wrap", margin: 0 }}>
+                    {latestDebugData?.progress_events?.length
+                      ? prettyJson(latestDebugData.progress_events)
+                      : "暂无"}
+                  </pre>
+                ),
+              },
+              {
+                key: "errors",
+                label: `errors (${latestDebugData?.error_events?.length ?? 0})`,
+                children: (
+                  <pre style={{ whiteSpace: "pre-wrap", margin: 0 }}>
+                    {latestDebugData?.error_events?.length
+                      ? prettyJson(latestDebugData.error_events)
+                      : "暂无"}
+                  </pre>
+                ),
+              },
+            ]}
+          />
+        </Drawer>
+
       </Layout>
-    </Layout>
+    </Layout >
   );
 }
