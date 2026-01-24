@@ -5,16 +5,16 @@
 
 from __future__ import annotations
 
+import contextvars
 import os
+from contextlib import contextmanager
 from functools import wraps
-from typing import Any, AsyncGenerator, Callable
+from typing import Any, Callable, Iterator
 
-from dotenv import load_dotenv
 from langfuse import Langfuse
 from langfuse.decorators import observe
-
-# 确保加载 .env 文件
-load_dotenv(override=True)
+from langfuse.callback import CallbackHandler
+from langfuse.client import StatefulSpanClient, StatefulTraceClient
 
 # === 配置 ===
 LANGFUSE_ENABLED = os.getenv("LANGFUSE_ENABLED", "false").lower() in ("true", "1", "yes")
@@ -26,7 +26,22 @@ LANGFUSE_HOST = os.getenv("LANGFUSE_HOST", "http://localhost:3000")
 _langfuse_client: Langfuse | None = None
 
 
-from langfuse.callback import CallbackHandler
+StatefulClient = StatefulTraceClient | StatefulSpanClient
+
+# Per-request context to avoid trace splitting. This propagates across asyncio
+# tasks by default, but does NOT propagate into asyncio.to_thread.
+_stateful_client_var: contextvars.ContextVar[StatefulClient | None] = contextvars.ContextVar(
+    "langfuse_stateful_client",
+    default=None,
+)
+_user_id_var: contextvars.ContextVar[str | None] = contextvars.ContextVar(
+    "langfuse_user_id",
+    default=None,
+)
+_session_id_var: contextvars.ContextVar[str | None] = contextvars.ContextVar(
+    "langfuse_session_id",
+    default=None,
+)
 
 
 def _get_langfuse_client() -> Langfuse | None:
@@ -53,11 +68,54 @@ def _get_langfuse_client() -> Langfuse | None:
     return _langfuse_client
 
 
-def get_langfuse_callback() -> CallbackHandler | None:
+def get_current_langfuse_stateful_client() -> StatefulClient | None:
+    return _stateful_client_var.get()
+
+
+@contextmanager
+def use_langfuse_request_context(
+    *,
+    stateful_client: StatefulClient | None,
+    user_id: str | None = None,
+    session_id: str | None = None,
+) -> Iterator[None]:
+    """Bind current asyncio context to an existing Langfuse trace/span.
+
+    In this repo, the HTTP layer creates the root trace. Downstream code should
+    attach spans/generations to that trace to avoid "trace splitting".
+    """
+
+    token_client = _stateful_client_var.set(stateful_client)
+    token_user = _user_id_var.set(user_id)
+    token_session = _session_id_var.set(session_id)
+    try:
+        yield
+    finally:
+        _stateful_client_var.reset(token_client)
+        _user_id_var.reset(token_user)
+        _session_id_var.reset(token_session)
+
+
+@contextmanager
+def use_langfuse_stateful_client(stateful_client: StatefulClient | None) -> Iterator[None]:
+    """Temporarily override the active stateful client (trace/span) in this task."""
+    token_client = _stateful_client_var.set(stateful_client)
+    try:
+        yield
+    finally:
+        _stateful_client_var.reset(token_client)
+
+
+def get_langfuse_callback(
+    *,
+    stateful_client: StatefulClient | None = None,
+    user_id: str | None = None,
+    session_id: str | None = None,
+) -> CallbackHandler | None:
     """获取 Langfuse LangChain Callback Handler
 
     用于传递给 LangChain 的 callbacks 参数，以捕捉详细的 LLM 调用信息。
-    会自动关联到当前的 trace 上下文（如果在 @observe 函数内调用）。
+    默认绑定到当前请求的 trace/span（由 use_langfuse_request_context 设置）。
 
     Returns:
         CallbackHandler 实例，如果未启用则返回 None
@@ -69,10 +127,18 @@ def get_langfuse_callback() -> CallbackHandler | None:
     if not LANGFUSE_PUBLIC_KEY or not LANGFUSE_SECRET_KEY:
         return None
 
+    effective_client = stateful_client if stateful_client is not None else _stateful_client_var.get()
+    effective_user_id = user_id if user_id is not None else _user_id_var.get()
+    effective_session_id = session_id if session_id is not None else _session_id_var.get()
+
     return CallbackHandler(
         public_key=LANGFUSE_PUBLIC_KEY,
         secret_key=LANGFUSE_SECRET_KEY,
         host=LANGFUSE_HOST,
+        stateful_client=effective_client,
+        update_stateful_client=False,
+        user_id=effective_user_id,
+        session_id=effective_session_id,
     )
 
 
@@ -102,7 +168,18 @@ def langfuse_observe(
             return wrapper
         return decorator
 
-    # 使用 Langfuse 的 observe 装饰器
+    # If the request already established a root trace/span, avoid creating a
+    # disconnected trace via the decorator. Prefer manual spans + CallbackHandler
+    # bound to the existing stateful client.
+    if _stateful_client_var.get() is not None:
+        def decorator(func: Callable) -> Callable:
+            @wraps(func)
+            def wrapper(*args, **kwargs):
+                return func(*args, **kwargs)
+            return wrapper
+        return decorator
+
+    # 使用 Langfuse 的 observe 装饰器（仅用于“没有外部根 trace”的调用场景）
     return observe(
         name=name,
         capture_input=capture_input,
@@ -155,8 +232,12 @@ __all__ = [
     "LANGFUSE_SECRET_KEY",
     "LANGFUSE_HOST",
     "_get_langfuse_client",
-    "get_langfuse_async_openai",
+    "StatefulClient",
+    "get_current_langfuse_stateful_client",
+    "use_langfuse_request_context",
+    "use_langfuse_stateful_client",
     "langfuse_observe",
     "flush_langfuse",
     "create_langfuse_session",
+    "get_langfuse_callback",
 ]

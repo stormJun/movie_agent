@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import time
 from typing import AsyncGenerator
 
 from langchain_core.messages import BaseMessage, HumanMessage, AIMessage
@@ -9,8 +10,11 @@ from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 
 from graphrag_agent.config.prompts import LC_SYSTEM_PROMPT, HYBRID_AGENT_GENERATE_PROMPT
 from infrastructure.models import get_llm_model, get_stream_llm_model
-from infrastructure.models import get_llm_model, get_stream_llm_model
-from infrastructure.observability import langfuse_observe, get_langfuse_callback
+from infrastructure.observability import (
+    get_current_langfuse_stateful_client,
+    get_langfuse_callback,
+    langfuse_observe,
+)
 
 from infrastructure.config.semantics import get_response_type
 
@@ -25,6 +29,17 @@ _GENERAL_SYSTEM_PROMPT = (
     "6) 若用户意图不明确，先澄清问题。\n"
 )
 _GENERAL_HUMAN_PROMPT = "{question}"
+
+
+def _preview_text(value: str | None, limit: int = 200) -> str:
+    text = (value or "").strip()
+    if not text:
+        return ""
+    if limit <= 0:
+        return ""
+    if len(text) <= limit:
+        return text
+    return text[: max(limit - 1, 0)] + "…"
 
 
 
@@ -72,6 +87,7 @@ def generate_general_answer(
     memory_context: str | None = None,
     history: list[dict] | None = None,
 ) -> str:
+    started_at = time.monotonic()
     with_memory = bool((memory_context or "").strip())
     chat_history = _convert_history_to_messages(history)
     with_history = bool(chat_history)
@@ -84,11 +100,38 @@ def generate_general_answer(
         payload["memory_context"] = memory_context
     if with_history:
         payload["history"] = chat_history
+
+    parent = get_current_langfuse_stateful_client()
+    span = None
+    if parent is not None:
+        span = parent.span(
+            name="generate_general_answer",
+            input={
+                "question_preview": _preview_text(question),
+                "with_memory": with_memory,
+                "with_history": with_history,
+                "history_len": len(chat_history),
+            },
+        )
         
-    langfuse_handler = get_langfuse_callback()
+    # Bind LangChain callbacks to the existing trace/span to avoid trace splitting.
+    langfuse_handler = get_langfuse_callback(stateful_client=span or parent)
     callbacks = [langfuse_handler] if langfuse_handler else []
     
-    return chain.invoke(payload, config={"callbacks": callbacks})
+    error_message: str | None = None
+    try:
+        result = chain.invoke(payload, config={"callbacks": callbacks})
+    except Exception as e:
+        if span is not None:
+            span.end(level="ERROR", status_message=str(e), output={"error": str(e)})
+        raise
+    else:
+        if span is not None:
+            span.end(
+                output={"answer_chars": len(str(result or ""))},
+                metadata={"elapsed_ms": int((time.monotonic() - started_at) * 1000)},
+            )
+        return result
 
 
 @langfuse_observe(name="generate_general_answer_stream")
@@ -98,6 +141,7 @@ async def generate_general_answer_stream(
     memory_context: str | None = None,
     history: list[dict] | None = None,
 ) -> AsyncGenerator[str, None]:
+    started_at = time.monotonic()
     with_memory = bool((memory_context or "").strip())
     chat_history = _convert_history_to_messages(history)
     with_history = bool(chat_history)
@@ -110,26 +154,73 @@ async def generate_general_answer_stream(
         payload["memory_context"] = memory_context
     if with_history:
         payload["history"] = chat_history
+
+    parent = get_current_langfuse_stateful_client()
+    span = None
+    if parent is not None:
+        span = parent.span(
+            name="generate_general_answer_stream",
+            input={
+                "question_preview": _preview_text(question),
+                "with_memory": with_memory,
+                "with_history": with_history,
+                "history_len": len(chat_history),
+            },
+        )
         
-    langfuse_handler = get_langfuse_callback()
+    langfuse_handler = get_langfuse_callback(stateful_client=span or parent)
     callbacks = [langfuse_handler] if langfuse_handler else []
 
     # Phase 3: prefer astream_events so we can later surface structured events if needed.
-    if hasattr(chain, "astream_events"):
-        async for event in chain.astream_events(payload, version="v1", config={"callbacks": callbacks}):
-            if not isinstance(event, dict):
-                continue
-            if event.get("event") != "on_parser_stream":
-                continue
-            data = event.get("data") or {}
-            chunk = data.get("chunk")
-            if chunk:
-                yield str(chunk)
-        return
+    first_token_at: float | None = None
+    chunk_count = 0
+    generated_chars = 0
+    try:
+        if hasattr(chain, "astream_events"):
+            async for event in chain.astream_events(payload, version="v1", config={"callbacks": callbacks}):
+                if not isinstance(event, dict):
+                    continue
+                if event.get("event") != "on_parser_stream":
+                    continue
+                data = event.get("data") or {}
+                chunk = data.get("chunk")
+                if not chunk:
+                    continue
+                if first_token_at is None:
+                    first_token_at = time.monotonic()
+                chunk_str = str(chunk)
+                chunk_count += 1
+                generated_chars += len(chunk_str)
+                yield chunk_str
+            return
 
-    async for chunk in chain.astream(payload, config={"callbacks": callbacks}):
-        if chunk:
-            yield str(chunk)
+        async for chunk in chain.astream(payload, config={"callbacks": callbacks}):
+            if not chunk:
+                continue
+            if first_token_at is None:
+                first_token_at = time.monotonic()
+            chunk_str = str(chunk)
+            chunk_count += 1
+            generated_chars += len(chunk_str)
+            yield chunk_str
+    except Exception as e:
+        error_message = str(e)
+        raise
+    finally:
+        if span is not None:
+            ttft_ms = None
+            if first_token_at is not None:
+                ttft_ms = int((first_token_at - started_at) * 1000)
+            level = "ERROR" if error_message else None
+            span.end(
+                level=level,  # type: ignore[arg-type]
+                status_message=error_message,
+                output={"generated_chars": generated_chars, "chunk_count": chunk_count},
+                metadata={
+                    "elapsed_ms": int((time.monotonic() - started_at) * 1000),
+                    "ttft_ms": ttft_ms,
+                },
+            )
 
 
 @langfuse_observe(name="generate_rag_answer")
@@ -141,6 +232,7 @@ def generate_rag_answer(
     response_type: str | None = None,
     history: list[dict] | None = None,
 ) -> str:
+    started_at = time.monotonic()
     chat_history = _convert_history_to_messages(history)
     with_history = bool(chat_history)
 
@@ -158,10 +250,36 @@ def generate_rag_answer(
     if with_history:
         payload["history"] = chat_history
     
-    langfuse_handler = get_langfuse_callback()
+    parent = get_current_langfuse_stateful_client()
+    span = None
+    if parent is not None:
+        span = parent.span(
+            name="generate_rag_answer",
+            input={
+                "question_preview": _preview_text(question),
+                "context_chars": len(context or ""),
+                "with_history": with_history,
+                "history_len": len(chat_history),
+                "response_type": response_type or get_response_type(),
+            },
+        )
+
+    langfuse_handler = get_langfuse_callback(stateful_client=span or parent)
     callbacks = [langfuse_handler] if langfuse_handler else []
 
-    return chain.invoke(payload, config={"callbacks": callbacks})
+    try:
+        result = chain.invoke(payload, config={"callbacks": callbacks})
+    except Exception as e:
+        if span is not None:
+            span.end(level="ERROR", status_message=str(e), output={"error": str(e)})
+        raise
+    else:
+        if span is not None:
+            span.end(
+                output={"answer_chars": len(str(result or ""))},
+                metadata={"elapsed_ms": int((time.monotonic() - started_at) * 1000)},
+            )
+        return result
 
 
 @langfuse_observe(name="generate_rag_answer_stream")
@@ -173,6 +291,7 @@ async def generate_rag_answer_stream(
     response_type: str | None = None,
     history: list[dict] | None = None,
 ) -> AsyncGenerator[str, None]:
+    started_at = time.monotonic()
     chat_history = _convert_history_to_messages(history)
     with_history = bool(chat_history)
 
@@ -189,22 +308,71 @@ async def generate_rag_answer_stream(
     if with_history:
         payload["history"] = chat_history
     
-    langfuse_handler = get_langfuse_callback()
+    parent = get_current_langfuse_stateful_client()
+    span = None
+    if parent is not None:
+        span = parent.span(
+            name="generate_rag_answer_stream",
+            input={
+                "question_preview": _preview_text(question),
+                "context_chars": len(context or ""),
+                "with_history": with_history,
+                "history_len": len(chat_history),
+                "response_type": response_type or get_response_type(),
+            },
+        )
+
+    langfuse_handler = get_langfuse_callback(stateful_client=span or parent)
     callbacks = [langfuse_handler] if langfuse_handler else []
 
     # Phase 3: prefer astream_events so we can later surface structured events if needed.
-    if hasattr(chain, "astream_events"):
-        async for event in chain.astream_events(payload, version="v1", config={"callbacks": callbacks}):
-            if not isinstance(event, dict):
-                continue
-            if event.get("event") != "on_parser_stream":
-                continue
-            data = event.get("data") or {}
-            chunk = data.get("chunk")
-            if chunk:
-                yield str(chunk)
-        return
+    first_token_at: float | None = None
+    chunk_count = 0
+    generated_chars = 0
+    error_message: str | None = None
+    try:
+        if hasattr(chain, "astream_events"):
+            async for event in chain.astream_events(payload, version="v1", config={"callbacks": callbacks}):
+                if not isinstance(event, dict):
+                    continue
+                if event.get("event") != "on_parser_stream":
+                    continue
+                data = event.get("data") or {}
+                chunk = data.get("chunk")
+                if not chunk:
+                    continue
+                if first_token_at is None:
+                    first_token_at = time.monotonic()
+                chunk_str = str(chunk)
+                chunk_count += 1
+                generated_chars += len(chunk_str)
+                yield chunk_str
+            return
 
-    async for chunk in chain.astream(payload, config={"callbacks": callbacks}):
-        if chunk:
-            yield str(chunk)
+        async for chunk in chain.astream(payload, config={"callbacks": callbacks}):
+            if not chunk:
+                continue
+            if first_token_at is None:
+                first_token_at = time.monotonic()
+            chunk_str = str(chunk)
+            chunk_count += 1
+            generated_chars += len(chunk_str)
+            yield chunk_str
+    except Exception as e:
+        error_message = str(e)
+        raise
+    finally:
+        if span is not None:
+            ttft_ms = None
+            if first_token_at is not None:
+                ttft_ms = int((first_token_at - started_at) * 1000)
+            level = "ERROR" if error_message else None
+            span.end(
+                level=level,  # type: ignore[arg-type]
+                status_message=error_message,
+                output={"generated_chars": generated_chars, "chunk_count": chunk_count},
+                metadata={
+                    "elapsed_ms": int((time.monotonic() - started_at) * 1000),
+                    "ttft_ms": ttft_ms,
+                },
+            )

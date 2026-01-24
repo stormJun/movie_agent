@@ -32,7 +32,7 @@ class _StubConversationStore(ConversationStorePort):
     ):
         return "m1"
 
-    async def list_messages(self, *, conversation_id, limit=None, before=None):
+    async def list_messages(self, *, conversation_id, limit=None, before=None, desc: bool = False):
         return []
 
     async def clear_messages(self, *, conversation_id):
@@ -97,7 +97,14 @@ class _StubCompletion:
     def __init__(self) -> None:
         self.last_memory_context: str | None = None
 
-    async def generate(self, *, message: str, memory_context: str | None = None) -> str:
+    async def generate(
+        self,
+        *,
+        message: str,
+        memory_context: str | None = None,
+        history: list[dict[str, Any]] | None = None,
+    ) -> str:
+        _ = history
         self.last_memory_context = memory_context
         return "ok"
 
@@ -115,7 +122,9 @@ class _StubExecutor:
         kb_prefix: str,
         debug: bool,
         memory_context: str | None = None,
+        history: list[dict[str, Any]] | None = None,
     ) -> tuple[RagRunResult, list[RagRunResult]]:
+        _ = history
         self.last_memory_context = memory_context
         return RagRunResult(agent_type="rag_executor", answer="ok"), []
 
@@ -133,7 +142,9 @@ class _StubStreamExecutor:
         kb_prefix: str,
         debug: bool,
         memory_context: str | None = None,
+        history: list[dict[str, Any]] | None = None,
     ) -> AsyncGenerator[dict[str, Any], None]:
+        _ = history
         self.last_memory_context = memory_context
         yield {"status": "token", "content": "ok"}
         yield {"status": "done"}

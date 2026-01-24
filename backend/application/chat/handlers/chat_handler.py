@@ -13,6 +13,7 @@
 
 from __future__ import annotations
 
+import time  # 引入 time 模块用于性能计时
 from typing import Any, Optional
 
 from application.handlers.factory import KnowledgeBaseHandlerFactory
@@ -92,6 +93,18 @@ class ChatHandler:
         self._enable_kb_handlers = enable_kb_handlers
 
 
+    async def _get_conversation_history(self, conversation_id: Any, limit: int = 6) -> list[dict[str, Any]]:
+        """获取最近的对话历史（不包含当前消息）。"""
+        history = await self._conversation_store.list_messages(
+            conversation_id=conversation_id,
+            limit=limit,
+            desc=True,
+        )
+        # 翻转为时间正序
+        history.reverse()
+        return history
+
+
 
     async def handle(
         self,
@@ -107,15 +120,19 @@ class ChatHandler:
         处理用户聊天请求
 
         处理流程：
-        1. 获取或创建会话ID，并保存用户消息
-        2. 路由决策：根据消息内容和会话上下文决定使用哪个知识库和代理
-        3. 记忆召回：如果启用了记忆服务，召回相关的历史上下文
-        4. 根据路由决策选择执行模式：
-           - KB Handler模式：使用知识库专用处理器
-           - 纯对话模式：直接通过LLM生成回复
-           - RAG模式：执行检索增强生成
-        5. 保存助手回复到会话历史
-        6. 可选地将对话写入长期记忆
+        1. 获取或创建会话ID，并保存用户消息。
+        2. 路由决策：
+           - 统计路由耗时 (routing_ms)。
+           - 根据消息内容和会话上下文决定使用哪个知识库和代理。
+           - (可选) 将路由过程记录到 Langfuse Trace。
+        3. 记忆召回：如果启用了记忆服务，从长期记忆中检索相关上下文。
+        4. 获取上下文：拉取最近的短期对话历史 (history)。
+        5. 根据路由决策选择执行模式：
+           - KB Handler模式：使用知识库专用处理器 (如果有)。
+           - 纯对话模式：不使用检索，直接通过LLM生成回复。
+           - RAG模式：执行检索增强生成 (GraphRAG / VectorRAG)。
+        6. 持久化助手回复到会话历史。
+        7. (可选) 将对话写入长期记忆。
 
         Args:
             user_id: 用户ID
@@ -146,12 +163,32 @@ class ChatHandler:
         )
 
         # 2. 路由决策：决定使用哪个知识库和代理类型
+        t0 = time.monotonic()
         decision = self._router.route(
             message=message,
             session_id=session_id,
             requested_kb=kb_prefix,
             agent_type=agent_type,
         )
+        routing_ms = int((time.monotonic() - t0) * 1000)  # 计算路由耗时（毫秒）
+
+        # Langfuse: 如果已绑定根 Trace，则将路由决策作为 Span 记录，便于性能分析和调试
+        try:
+            from infrastructure.observability import get_current_langfuse_stateful_client
+
+            parent = get_current_langfuse_stateful_client()
+            if parent is not None:
+                span = parent.span(
+                    name="route_decision",
+                    input={
+                        "message_preview": (message or "")[:200],
+                        "requested_kb_prefix": kb_prefix,
+                        "agent_type": agent_type,
+                    },
+                )
+                span.end(output=decision.__dict__, metadata={"routing_ms": routing_ms})
+        except Exception:
+            pass
         resolved_agent_type = _resolve_agent_type(
             agent_type=agent_type,
             worker_name=decision.worker_name,
@@ -166,11 +203,11 @@ class ChatHandler:
                 query=message,
             )
 
-        # 获取对话历史（排除当前消息）
+        # 4. 获取对话历史（短期记忆）：用于 Prompt 上下文注入，保持多轮对话连贯性
         raw_history = await self._get_conversation_history(conversation_id=conversation_id, limit=7)
         history_context: list[dict[str, Any]] = []
         if raw_history:
-             # 如果最后一条是当前消息，排除它
+             # 如果最后一条是当前消息（防止重复），排除它
              if raw_history[-1].get("content") == message:
                  history_context = raw_history[:-1]
              else:
@@ -178,7 +215,7 @@ class ChatHandler:
 
 
 
-        # 4.1 KB Handler模式：使用知识库专用处理器处理请求
+        # 5.1 KB Handler模式：使用知识库专用处理器处理请求
         if self._enable_kb_handlers and self._kb_handler_factory is not None:
             kb_handler = self._kb_handler_factory.get(decision.kb_prefix)
             if kb_handler is not None:
@@ -213,7 +250,7 @@ class ChatHandler:
                     response["route_decision"] = decision.__dict__
                 return response
 
-        # 4.2 纯对话模式：不使用检索，直接通过LLM生成回复
+        # 5.2 纯对话模式：不使用检索，直接通过LLM生成回复
         if not use_retrieval:
             answer = await self._completion.generate(
                 message=message,
@@ -239,7 +276,7 @@ class ChatHandler:
                 response["route_decision"] = decision.__dict__
             return response
 
-        # 4.3 RAG模式：使用检索增强生成
+        # 5.3 RAG模式：使用检索增强生成
         # 构建RAG执行计划
         plan = [
             RagRunSpec(
@@ -258,7 +295,7 @@ class ChatHandler:
             history=history_context,
         )
 
-        # 5. 持久化助手回复
+        # 6. 持久化助手回复
         if aggregated.answer:
             await self._conversation_store.append_message(
                 conversation_id=conversation_id,
@@ -276,7 +313,7 @@ class ChatHandler:
                     metadata={"session_id": session_id, "kb_prefix": decision.kb_prefix},
                 )
 
-        # 6. 构建响应
+        # 7. 构建响应
         response: dict[str, Any] = {"answer": aggregated.answer}
         response["debug"] = debug
         if aggregated.reference:

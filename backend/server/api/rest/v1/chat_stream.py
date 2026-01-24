@@ -72,14 +72,29 @@ async def chat_stream(
 
         yield format_sse({"status": "start", "request_id": request_id})
 
-        iterator = handler.handle(
+        # Bind downstream LangChain callbacks/spans to this root trace, so we
+        # don't end up with "split traces" (HTTP trace vs LLM trace).
+        from infrastructure.observability import use_langfuse_request_context
+
+        iterator = None
+        scoped = use_langfuse_request_context(
+            stateful_client=langfuse_trace,
             user_id=request.user_id,
-            message=request.message,
             session_id=request.session_id,
-            kb_prefix=request.kb_prefix,
-            debug=request.debug,
-            agent_type=request.agent_type,
-        ).__aiter__()
+        )
+        scoped.__enter__()
+        try:
+            iterator = handler.handle(
+                user_id=request.user_id,
+                message=request.message,
+                session_id=request.session_id,
+                kb_prefix=request.kb_prefix,
+                debug=request.debug,
+                agent_type=request.agent_type,
+            ).__aiter__()
+        except Exception:
+            scoped.__exit__(None, None, None)
+            raise
 
         # Accumulate full response for Langfuse trace
         full_response = []
@@ -147,6 +162,7 @@ async def chat_stream(
             aclose = getattr(iterator, "aclose", None)
             if callable(aclose):
                 await aclose()
+            scoped.__exit__(None, None, None)
 
         # Store cached debug data if we didn't already store it on done.
         if collector is not None and request.debug and not client_disconnected:

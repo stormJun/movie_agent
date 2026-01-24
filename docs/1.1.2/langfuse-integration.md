@@ -326,6 +326,35 @@ open http://localhost:3000
 
 ---
 
+
+### 3.4 深入 LLM 内部 (LangChain Integration)
+
+使用了装饰器虽然能看到函数调用，但无法看到 LangChain 内部的 LLM 调用详情（Prompt, Tokens 等）。为此，我们需要传递 `CallbackHandler`。
+
+**实现方式**：
+在 `infrastructure.observability` 中提供了便捷函数 `get_langfuse_callback()`。
+
+```python
+from infrastructure.observability import langfuse_observe, get_langfuse_callback
+
+@langfuse_observe(name="generate_answer")
+def generate_answer(question: str):
+    # 获取 Callback Handler
+    langfuse_handler = get_langfuse_callback()
+    callbacks = [langfuse_handler] if langfuse_handler else []
+    
+    # 传递给 LangChain
+    return chain.invoke({"question": question}, config={"callbacks": callbacks})
+```
+
+此机制已应用于所有核心生成函数 (`completion.py`)，确保您能在 Langfuse UI 中看到：
+- ✅ 完整的 System/User Prompt
+- ✅ AI 的原始输出
+- ✅ Token 使用量 (Prompt/Completion/Total)
+- ✅ 准确的延迟统计
+
+---
+
 ## 4. 部署方式
 
 > **前置条件**：

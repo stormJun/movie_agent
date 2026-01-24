@@ -1,12 +1,12 @@
 import os
 import time
 import requests
-from dotenv import load_dotenv
 from langfuse import Langfuse
 import json
 
-# Load env
-load_dotenv(override=True)
+# Load env via centralized config entrypoint (dotenv policy).
+# Running `python backend/langfuse_diag.py` adds `backend/` to sys.path, so this works.
+import config.settings as _settings  # noqa: F401
 
 # 1. Check Env Vars
 print("=== 1. Environment Variables ===")

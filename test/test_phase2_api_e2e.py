@@ -51,7 +51,14 @@ class _StubRouter:
 
 
 class _StubCompletion:
-    async def generate(self, *, message: str, memory_context: str | None = None) -> str:
+    async def generate(
+        self,
+        *,
+        message: str,
+        memory_context: str | None = None,
+        history: List[Dict[str, Any]] | None = None,
+    ) -> str:
+        _ = history
         return f"GEN:{message}"
 
 
@@ -70,7 +77,7 @@ class _StubConversationStore(ConversationStorePort):
     ):
         return "m1"
 
-    async def list_messages(self, *, conversation_id, limit=None, before=None):
+    async def list_messages(self, *, conversation_id, limit=None, before=None, desc: bool = False):
         return []
 
     async def clear_messages(self, *, conversation_id):
@@ -122,9 +129,21 @@ class _StubStreamExecutor:
         kb_prefix: str,
         debug: bool,
         memory_context: str | None = None,
+        history: List[Dict[str, Any]] | None = None,
     ) -> AsyncGenerator[dict[str, Any], None]:
+        _ = history
         # Mimic Phase2 behavior: emit progress, tokens, then done.
-        yield {"status": "progress", "content": {"stage": "generation", "total": len(plan)}}
+        yield {
+            "status": "progress",
+            "content": {
+                "stage": "generation",
+                "completed": 0,
+                "total": len(plan),
+                "error": None,
+                "agent_type": "",
+                "retrieval_count": None,
+            },
+        }
         if debug:
             # Backward-compat variant: infrastructure sometimes yields {"execution_log": {...}}
             # (normalize_stream_event() maps it to status=execution_log).
@@ -150,8 +169,9 @@ class _StubKBHandler:
         agent_type: str,
         debug: bool,
         memory_context: str | None = None,
+        history: List[Dict[str, Any]] | None = None,
     ) -> Dict[str, Any]:
-        _ = memory_context
+        _ = (memory_context, history)
         return {
             "answer": f"KB:{self._kb_prefix}:{message}",
             "reference": {"chunks": [{"chunk_id": f"{self._kb_prefix}:c1"}]},
@@ -173,9 +193,13 @@ class _StubKBHandler:
         agent_type: str,
         debug: bool,
         memory_context: str | None = None,
+        history: List[Dict[str, Any]] | None = None,
     ) -> AsyncGenerator[dict[str, Any], None]:
-        _ = memory_context
-        yield {"status": "progress", "content": {"stage": "retrieval", "total": 1}}
+        _ = (memory_context, history)
+        yield {
+            "status": "progress",
+            "content": {"stage": "retrieval", "completed": 0, "total": 1, "error": None},
+        }
         yield {"status": "token", "content": f"KB_STREAM:{self._kb_prefix}:"}
         yield {"status": "token", "content": message}
         yield {"status": "done"}

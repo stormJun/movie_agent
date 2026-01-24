@@ -109,6 +109,29 @@ class StreamHandler:
         )
         routing_ms = int((time.monotonic() - t0) * 1000)
 
+        # Langfuse: attach routing decision as a span when a root trace is bound
+        # at the HTTP layer (see server/api/rest/v1/chat_stream.py).
+        try:
+            from infrastructure.observability import get_current_langfuse_stateful_client
+
+            parent = get_current_langfuse_stateful_client()
+            if parent is not None:
+                span = parent.span(
+                    name="route_decision",
+                    input={
+                        "message_preview": (message or "")[:200],
+                        "requested_kb_prefix": kb_prefix,
+                        "agent_type": agent_type,
+                    },
+                )
+                span.end(
+                    output=dataclasses.asdict(decision),
+                    metadata={"routing_ms": routing_ms},
+                )
+        except Exception:
+            # Observability must be best-effort and never block the main flow.
+            pass
+
         # Cache-only debug event (not required for streaming UX).
         # Note: RouteDecision is a dataclass; convert to plain dict for JSON.
         if debug:

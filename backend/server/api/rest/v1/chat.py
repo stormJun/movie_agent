@@ -15,12 +15,46 @@ async def chat(
     request: ChatRequest,
     handler: ChatHandler = Depends(get_chat_handler),
 ) -> ChatResponse:
-    result = await handler.handle(
+    # Best-effort Langfuse trace for non-streaming endpoint.
+    from infrastructure.observability.langfuse_handler import LANGFUSE_ENABLED, _get_langfuse_client
+    from infrastructure.observability import use_langfuse_request_context
+
+    langfuse_trace = None
+    if LANGFUSE_ENABLED:
+        langfuse = _get_langfuse_client()
+        if langfuse:
+            langfuse_trace = langfuse.trace(
+                name="chat",
+                user_id=request.user_id,
+                session_id=request.session_id,
+                input=request.message,
+                metadata={
+                    "kb_prefix": request.kb_prefix,
+                    "agent_type": request.agent_type,
+                    "debug": request.debug,
+                },
+            )
+
+    with use_langfuse_request_context(
+        stateful_client=langfuse_trace,
         user_id=request.user_id,
-        message=request.message,
         session_id=request.session_id,
-        kb_prefix=request.kb_prefix,
-        debug=request.debug,
-        agent_type=request.agent_type,
-    )
+    ):
+        result = await handler.handle(
+            user_id=request.user_id,
+            message=request.message,
+            session_id=request.session_id,
+            kb_prefix=request.kb_prefix,
+            debug=request.debug,
+            agent_type=request.agent_type,
+        )
+
+    if langfuse_trace is not None:
+        try:
+            langfuse_trace.update(output=result.get("answer"))
+            langfuse = _get_langfuse_client()
+            if langfuse:
+                langfuse.flush()
+        except Exception:
+            pass
     return result

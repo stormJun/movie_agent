@@ -121,6 +121,23 @@ class ChatStreamExecutor:
             generation_start = time.monotonic()
             generated_chars = 0
             chunk_count = 0
+            stage_span = None
+            use_client_cm = None
+            try:
+                from infrastructure.observability import (
+                    get_current_langfuse_stateful_client,
+                    use_langfuse_stateful_client,
+                )
+
+                parent = get_current_langfuse_stateful_client()
+                if parent is not None:
+                    stage_span = parent.span(
+                        name="generation",
+                        input={"kb_prefix": kb_prefix, "message_preview": (message or "")[:200]},
+                    )
+                    use_client_cm = use_langfuse_stateful_client
+            except Exception:
+                stage_span = None
             yield {
                 "status": "progress",
                 "content": {
@@ -133,15 +150,27 @@ class ChatStreamExecutor:
                 },
             }
             try:
-                async for chunk in generate_general_answer_stream(
-                    question=message,
-                    memory_context=memory_context,
-                    history=history,
-                ):
-                    if chunk:
-                        generated_chars += len(chunk)
-                        chunk_count += 1
-                        yield {"status": "token", "content": chunk}
+                if stage_span is not None and use_client_cm is not None:
+                    with use_client_cm(stage_span):
+                        async for chunk in generate_general_answer_stream(
+                            question=message,
+                            memory_context=memory_context,
+                            history=history,
+                        ):
+                            if chunk:
+                                generated_chars += len(chunk)
+                                chunk_count += 1
+                                yield {"status": "token", "content": chunk}
+                else:
+                    async for chunk in generate_general_answer_stream(
+                        question=message,
+                        memory_context=memory_context,
+                        history=history,
+                    ):
+                        if chunk:
+                            generated_chars += len(chunk)
+                            chunk_count += 1
+                            yield {"status": "token", "content": chunk}
             except Exception as e:
                 # Protocol: errors are not tokens; callers should distinguish them.
                 yield {"status": "error", "message": f"生成答案失败: {e}"}
@@ -155,6 +184,8 @@ class ChatStreamExecutor:
                             "output": {"error": str(e)},
                         }
                     }
+                if stage_span is not None:
+                    stage_span.end(level="ERROR", status_message=str(e), output={"error": str(e)})
             else:
                 if debug:
                     yield {
@@ -169,6 +200,11 @@ class ChatStreamExecutor:
                             },
                         }
                     }
+                if stage_span is not None:
+                    stage_span.end(
+                        output={"generated_chars": generated_chars, "chunk_count": chunk_count},
+                        metadata={"duration_ms": int((time.monotonic() - generation_start) * 1000)},
+                    )
             yield {"status": "done"}
             return
 
@@ -189,6 +225,22 @@ class ChatStreamExecutor:
 
         retrieval_stage_start = time.monotonic()
         retrieval_run_elapsed_ms: dict[str, int] = {}
+        retrieval_stage_span = None
+        try:
+            from infrastructure.observability import get_current_langfuse_stateful_client
+
+            parent = get_current_langfuse_stateful_client()
+            if parent is not None:
+                retrieval_stage_span = parent.span(
+                    name="rag_retrieval",
+                    input={
+                        "kb_prefix": kb_prefix,
+                        "message_preview": (message or "")[:200],
+                        "plan": [getattr(spec, "agent_type", "") for spec in plan],
+                    },
+                )
+        except Exception:
+            retrieval_stage_span = None
 
         yield {
             "status": "progress",
@@ -204,7 +256,21 @@ class ChatStreamExecutor:
 
         retrieval_tasks: list[asyncio.Task] = []
         task_started_at: dict[asyncio.Task, float] = {}
+        task_span: dict[asyncio.Task, Any] = {}
         for spec in plan:
+            span = None
+            if retrieval_stage_span is not None:
+                try:
+                    span = retrieval_stage_span.span(
+                        name="rag_retrieval_spec",
+                        input={
+                            "agent_type": getattr(spec, "agent_type", None),
+                            "worker_name": getattr(spec, "worker_name", None),
+                            "timeout_s": getattr(spec, "timeout_s", None),
+                        },
+                    )
+                except Exception:
+                    span = None
             task = asyncio.create_task(
                 self._rag_manager.run_retrieval_for_spec(
                     spec=spec,
@@ -216,6 +282,8 @@ class ChatStreamExecutor:
             )
             retrieval_tasks.append(task)
             task_started_at[task] = time.monotonic()
+            if span is not None:
+                task_span[task] = span
 
         try:
             for task in asyncio.as_completed(retrieval_tasks, timeout=overall_timeout_s):
@@ -226,6 +294,28 @@ class ChatStreamExecutor:
                     retrieval_run_elapsed_ms[run.agent_type] = int(
                         (time.monotonic() - started_at) * 1000
                     )
+                span = task_span.get(task)
+                if span is not None:
+                    summary = _summarize_retrieval_results(run.retrieval_results or [])
+                    if run.error:
+                        span.end(
+                            level="ERROR",
+                            status_message=str(run.error),
+                            output={"error": run.error},
+                            metadata={
+                                "elapsed_ms": retrieval_run_elapsed_ms.get(run.agent_type, 0),
+                                "retrieval_count": summary.get("retrieval_count", 0),
+                            },
+                        )
+                    else:
+                        span.end(
+                            output={
+                                "retrieval_count": summary.get("retrieval_count", 0),
+                                "granularity_counts": summary.get("granularity_counts", {}),
+                                "top_source_ids": summary.get("top_source_ids", []),
+                            },
+                            metadata={"elapsed_ms": retrieval_run_elapsed_ms.get(run.agent_type, 0)},
+                        )
                 yield {
                     "status": "progress",
                     "content": {
@@ -268,6 +358,12 @@ class ChatStreamExecutor:
                     }
                 }
             yield {"status": "error", "message": f"RAG 执行超时: {overall_timeout_s}s"}
+            if retrieval_stage_span is not None:
+                retrieval_stage_span.end(
+                    level="ERROR",
+                    status_message=f"timeout after {overall_timeout_s}s",
+                    output={"timeout_s": overall_timeout_s},
+                )
             yield {"status": "done"}
             return
         finally:
@@ -278,6 +374,10 @@ class ChatStreamExecutor:
                 t.cancel()
             if pending:
                 await asyncio.gather(*pending, return_exceptions=True)
+            for t in pending:
+                span = task_span.get(t)
+                if span is not None:
+                    span.end(level="ERROR", status_message="cancelled", output={"cancelled": True})
 
         if debug:
             # Wall-clock retrieval stage time (not sum of per-agent times).
@@ -294,6 +394,16 @@ class ChatStreamExecutor:
                     },
                 }
             }
+
+        if retrieval_stage_span is not None:
+            retrieval_stage_span.end(
+                output={
+                    "completed_runs": len(runs),
+                    "total_runs": total_runs,
+                    "errors": {r.agent_type: r.error for r in runs if r.error},
+                },
+                metadata={"duration_ms": int((time.monotonic() - retrieval_stage_start) * 1000)},
+            )
 
         combined_context = build_context_from_runs(
             runs=[
@@ -363,6 +473,27 @@ class ChatStreamExecutor:
         generation_started_at: float | None = None
         generated_chars = 0
         chunk_count = 0
+        generation_stage_span = None
+        use_client_cm = None
+        try:
+            from infrastructure.observability import (
+                get_current_langfuse_stateful_client,
+                use_langfuse_stateful_client,
+            )
+
+            parent = get_current_langfuse_stateful_client()
+            if parent is not None:
+                generation_stage_span = parent.span(
+                    name="generation",
+                    input={
+                        "kb_prefix": kb_prefix,
+                        "message_preview": (message or "")[:200],
+                        "context_chars": len(combined_context or ""),
+                    },
+                )
+                use_client_cm = use_langfuse_stateful_client
+        except Exception:
+            generation_stage_span = None
         try:
             elapsed = time.monotonic() - start_time
             remaining = max(overall_timeout_s - elapsed, 0.0)
@@ -371,19 +502,25 @@ class ChatStreamExecutor:
 
             timeout_budget = min(RAG_ANSWER_TIMEOUT_S, remaining)
             generation_started_at = time.monotonic()
-            async for chunk in _stream_with_timeout(
-                generate_rag_answer_stream(
-                    question=message,
-                    context=combined_context,
-                    memory_context=memory_context,
-                    history=history,
-                ),
-                timeout_budget,
-            ):
-                if chunk:
-                    generated_chars += len(chunk)
-                    chunk_count += 1
-                    yield {"status": "token", "content": chunk}
+            rag_stream = generate_rag_answer_stream(
+                question=message,
+                context=combined_context,
+                memory_context=memory_context,
+                history=history,
+            )
+            if generation_stage_span is not None and use_client_cm is not None:
+                with use_client_cm(generation_stage_span):
+                    async for chunk in _stream_with_timeout(rag_stream, timeout_budget):
+                        if chunk:
+                            generated_chars += len(chunk)
+                            chunk_count += 1
+                            yield {"status": "token", "content": chunk}
+            else:
+                async for chunk in _stream_with_timeout(rag_stream, timeout_budget):
+                    if chunk:
+                        generated_chars += len(chunk)
+                        chunk_count += 1
+                        yield {"status": "token", "content": chunk}
             if debug:
                 yield {
                     "execution_log": {
@@ -400,6 +537,15 @@ class ChatStreamExecutor:
                         },
                     }
                 }
+            if generation_stage_span is not None:
+                generation_stage_span.end(
+                    output={"generated_chars": generated_chars, "chunk_count": chunk_count},
+                    metadata={
+                        "duration_ms": int(
+                            (time.monotonic() - (generation_started_at or time.monotonic())) * 1000
+                        )
+                    },
+                )
         except asyncio.TimeoutError:
             if debug:
                 yield {
@@ -415,6 +561,12 @@ class ChatStreamExecutor:
                     }
                 }
             yield {"status": "error", "message": f"生成答案超时: {RAG_ANSWER_TIMEOUT_S}s"}
+            if generation_stage_span is not None:
+                generation_stage_span.end(
+                    level="ERROR",
+                    status_message=f"timeout after {RAG_ANSWER_TIMEOUT_S}s",
+                    output={"timeout_s": RAG_ANSWER_TIMEOUT_S},
+                )
         except Exception as e:
             if debug:
                 yield {
@@ -430,5 +582,7 @@ class ChatStreamExecutor:
                     }
                 }
             yield {"status": "error", "message": f"生成答案失败: {e}"}
+            if generation_stage_span is not None:
+                generation_stage_span.end(level="ERROR", status_message=str(e), output={"error": str(e)})
 
         yield {"status": "done"}
