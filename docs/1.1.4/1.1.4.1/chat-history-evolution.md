@@ -104,39 +104,11 @@ prompt = build_prompt(system + history + current_message)
 
 ##### 2️⃣ **为什么阈值设置为 10 条消息，增量为 5 条？**
 
-**参数选择依据：**
+##### 2️⃣ **为什么阈值设置为 10 条消息，增量为 5 条？**
 
-| 参数 | 值 | 理由 |
-|------|---|------|
-| `min_messages` | 10 | • 至少 5 轮对话（用户+助手 = 2条/轮）<br/>• 确保有足够的上下文生成有意义的摘要<br/>• 避免过早摘要导致信息不全 |
-| `update_delta` | 5 | • 约 2-3 轮新对话后更新摘要<br/>• 平衡摘要新鲜度和生成成本<br/>• 避免频繁调用 LLM |
-| `window_size` | 6 | • 保留最近 3 轮完整对话<br/>• 确保最近上下文不丢失<br/>• 与当前查询高度相关 |
-
-**成本效益分析：**
-
-```python
-# 假设场景：50 轮对话（100 条消息）
-
-# Baseline: 每次请求传递所有历史
-tokens_per_request = 100 * avg_tokens_per_message  # ~8000 tokens
-
-# Phase 1: 摘要 + 窗口
-summary_tokens = 200  # 一次生成，持续使用
-window_tokens = 6 * avg_tokens_per_message  # ~480 tokens
-tokens_per_request = 200 + 480  # ~680 tokens
-
-# 节省比例
-savings = (8000 - 680) / 8000  # ~91.5%
-
-# 摘要生成成本（每 5 条消息更新一次）
-summary_updates = 100 / 5  # 20 次
-summary_cost = 20 * summary_tokens  # ~4000 tokens（一次性成本）
-
-# 总成本对比
-baseline_total = 50 * 8000  # 400,000 tokens
-phase1_total = 50 * 680 + 4000  # 38,000 tokens
-reduction = (400000 - 38000) / 400000  # ~90.5%
-```
+**参数配置：**
+- **触发阈值 (min_messages)**: 10 条（5 轮对话）。确保有足够上下文生成有意义的摘要。
+- **更新增量 (update_delta)**: 5 条。平衡摘要新鲜度和生成成本，避免频繁调用 LLM。
 
 ##### 3️⃣ **为什么使用独立的 `conversation_summaries` 表？**
 
@@ -261,7 +233,7 @@ flowchart LR
     end
 
     subgraph Output["输出层"]
-        Prompt[最终 Prompt 结构<br/><br/>┌─────────────────┐<br/>│ System Prompt  │<br/>├─────────────────┤<br/>│ 【对话背景】    │<br/>│ Summary (压缩) │<br/>├─────────────────┤<br/>│ History (最近6) │<br/>│ Rec1 → Rec6    │<br/>├─────────────────┤<br/>│ Current Message │<br/>└─────────────────┘]
+        Prompt["最终 Prompt 结构<br/><br/>┌─────────────────┐<br/>│ System Prompt  │<br/>├─────────────────┤<br/>│ 【对话背景】    │<br/>│ Summary (压缩) │<br/>├─────────────────┤<br/>│ History (最近6) │<br/>│ Rec1 → Rec6    │<br/>├─────────────────┤<br/>│ Current Message │<br/>└─────────────────┘"]
     end
 
     Msg1 & Msg2 & Msg3 & MsgN -->|历史消息<br/>需要摘要| Summ
