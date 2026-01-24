@@ -339,33 +339,31 @@ sequenceDiagram
     end
 ```
 
-#### 2.1.5 实现逻辑
+#### 2.1.5 实现逻辑 (关键修正)
 
-**核心代码实现：**
+**1. 存储接口扩展 (`ConversationSummaryStorePort`)**
+建议在 `application/ports` 中新增独立的摘要存储接口，并在 infrastructure 层提供 Postgres 实现。
 
-#### 2.1.5 实现逻辑 
-
-**1. 存储接口扩展 (`ConversationStorePort`)**
 ```python
-class ConversationStorePort(ABC):
-    # ... existing methods ...
-    
+class ConversationSummaryStorePort(ABC):
     @abstractmethod
     async def get_summary(self, conversation_id: str) -> dict | None: ...
     
     @abstractmethod
     async def save_summary_upsert(self, conversation_id: str, summary: str, covered_count: int, version: int): 
-        """使用 ON CONFLICT DO UPDATE 实现原子的 UPSERT"""
+        """使用 ON CONFLICT DO UPDATE 实现原子的 UPSERT
+        必须校验 version 或 covered_count 单调递增，防止旧覆盖新。
+        """
         ...
 ```
 
 **2. 异步后台生成策略**
-为避免 +50ms 的延迟预估过于乐观，**必须**将摘要生成移出请求主链路：
+为避免阻塞主请求链路，摘要生成**必须**采用异步后台处理：
 
 ```python
 async def handle_request(self, message):
     # 1. 快速读取当前摘要（如有）
-    summary = await store.get_summary(cid)
+    summary = await summary_store.get_summary(cid)
     
     # 2. 触发后台摘要更新任务（Fire-and-forget）
     # 使用 Redis 或内存 Queue 进行去重，避免每条消息都触发 LLM
@@ -378,10 +376,10 @@ async def handle_request(self, message):
 
 **3. 对话历史一致性**
 - **严禁**依赖 `content` 字符串匹配来排除当前消息（易受重复输入干扰）。
-- **修正**：使用 `message_id` 排除，或在保存当前消息**之前**读取历史 `window`。
-
-**4. Prompt 安全注入**
-摘要可能包含幻觉，必须在 System Prompt 中显式声明其**不可信**属性：
+- **修正**：
+    - 读取历史 `window` 时，使用 `message_id` 排除当前消息。
+    - 或者：在保存当前消息**之前**读取历史 `window`。
+    - **摘要切片**：仅对 `message_id` 小于当前最新 `message_id` 的消息进行摘要，确保切片边界稳定。
 
 **4. Prompt 安全注入**
 摘要可能包含幻觉，必须在 System Prompt 中显式声明其**不可信**属性：
@@ -394,6 +392,17 @@ SYSTEM_PROMPT_TEMPLATE = """
 {summary}
 ...
 """
+```
+
+**5. 模型配置与获取**
+不要在代码中硬编码 `gpt-3.5`。应通过 infrastructure 层的统一模型工厂获取摘要专用模型：
+
+```python
+# config.py
+SUMMARY_MODEL_NAME = os.getenv("SUMMARY_MODEL_NAME", "qwen-turbo")  # 默认使用低成本模型
+
+# summarizer.py
+llm = model_factory.get_model(config.SUMMARY_MODEL_NAME)
 ```
 
 #### 2.1.6 核心代码实现
