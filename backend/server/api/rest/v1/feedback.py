@@ -20,6 +20,7 @@ async def feedback(
         query=request.query,
         is_positive=request.is_positive,
         thread_id=request.thread_id,
+        request_id=request.request_id,
         agent_type=request.agent_type or "graph_agent",
     )
     return result

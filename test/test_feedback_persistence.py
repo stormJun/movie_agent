@@ -14,6 +14,7 @@ class TestFeedbackPersistence(unittest.IsolatedAsyncioTestCase):
             query="q1",
             is_positive=True,
             thread_id="t1",
+            request_id="r1",
             agent_type="graph_agent",
         )
 
@@ -22,8 +23,8 @@ class TestFeedbackPersistence(unittest.IsolatedAsyncioTestCase):
         self.assertEqual(store._rows[0]["message_id"], "m1")
         self.assertEqual(store._rows[0]["query"], "q1")
         self.assertTrue(store._rows[0]["is_positive"])
+        self.assertEqual(store._rows[0]["metadata"], {"request_id": "r1"})
 
 
 if __name__ == "__main__":
     unittest.main()
-

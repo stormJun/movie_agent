@@ -55,6 +55,8 @@ type ChatMessage = {
   content: string;
   createdAt: number;
   query?: string;
+  // Langfuse trace id (aka request_id from /api/v1/chat/stream) for this assistant response.
+  requestId?: string;
   sourceIds?: string[];
   kgData?: KnowledgeGraphResponse;
   reference?: unknown;
@@ -621,6 +623,13 @@ export function ChatPage() {
           if (!streamRequestId && typeof ev.request_id === "string" && ev.request_id.trim()) {
             streamRequestId = ev.request_id;
           }
+          if (streamRequestId) {
+            setMessages((prev) =>
+              prev.map((m) =>
+                m.id === assistantMsgId ? { ...m, requestId: streamRequestId! } : m,
+              ),
+            );
+          }
           const doneThinking =
             typeof (ev as { thinking_content?: unknown }).thinking_content === "string"
               ? String((ev as { thinking_content?: string }).thinking_content)
@@ -752,6 +761,7 @@ export function ChatPage() {
         query: m.query,
         is_positive: isPositive,
         thread_id: sessionId,
+        request_id: m.requestId,
         agent_type: agentType,
       });
       setFeedbackState((prev) => ({ ...prev, [m.id]: isPositive ? "positive" : "negative" }));

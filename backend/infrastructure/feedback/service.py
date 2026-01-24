@@ -23,6 +23,7 @@ class PostgresFeedbackService(FeedbackPort):
         is_positive: bool,
         thread_id: str,
         agent_type: str,
+        request_id: str | None = None,
     ) -> Dict[str, str]:
         await self._store.insert_feedback(
             message_id=message_id,
@@ -30,8 +31,39 @@ class PostgresFeedbackService(FeedbackPort):
             is_positive=is_positive,
             thread_id=thread_id,
             agent_type=agent_type,
-            metadata=None,
+            metadata={"request_id": request_id} if request_id else None,
         )
+
+        # Best-effort: also attach explicit user feedback to Langfuse as a Score.
+        # This powers the "Scores" view and lets us filter traces by quality.
+        if request_id:
+            try:
+                from infrastructure.observability.langfuse_handler import (
+                    LANGFUSE_ENABLED,
+                    _get_langfuse_client,
+                    flush_langfuse,
+                )
+
+                if LANGFUSE_ENABLED:
+                    langfuse = _get_langfuse_client()
+                    if langfuse:
+                        langfuse.score(
+                            trace_id=request_id,
+                            name="user_feedback",
+                            # Langfuse boolean scores must be 1/0 (float).
+                            value=1.0 if is_positive else 0.0,
+                            data_type="BOOLEAN",
+                            comment=query,
+                            # Extra fields (ScoreBody allows extra) help debugging in the UI.
+                            message_id=message_id,
+                            thread_id=thread_id,
+                            agent_type=agent_type,
+                        )
+                        await flush_langfuse()
+            except Exception:
+                # Observability must be best-effort and never block the main flow.
+                pass
+
         action = "反馈已记录（positive）" if is_positive else "反馈已记录（negative）"
         return {"status": "success", "action": action}
 
@@ -51,6 +83,7 @@ class InMemoryFeedbackService(FeedbackPort):
         is_positive: bool,
         thread_id: str,
         agent_type: str,
+        request_id: str | None = None,
     ) -> Dict[str, str]:
         await self._store.insert_feedback(
             message_id=message_id,
@@ -58,8 +91,33 @@ class InMemoryFeedbackService(FeedbackPort):
             is_positive=is_positive,
             thread_id=thread_id,
             agent_type=agent_type,
-            metadata=None,
+            metadata={"request_id": request_id} if request_id else None,
         )
+
+        if request_id:
+            try:
+                from infrastructure.observability.langfuse_handler import (
+                    LANGFUSE_ENABLED,
+                    _get_langfuse_client,
+                    flush_langfuse,
+                )
+
+                if LANGFUSE_ENABLED:
+                    langfuse = _get_langfuse_client()
+                    if langfuse:
+                        langfuse.score(
+                            trace_id=request_id,
+                            name="user_feedback",
+                            value=1.0 if is_positive else 0.0,
+                            data_type="BOOLEAN",
+                            comment=query,
+                            message_id=message_id,
+                            thread_id=thread_id,
+                            agent_type=agent_type,
+                        )
+                        await flush_langfuse()
+            except Exception:
+                pass
         action = "反馈已记录（in_memory）"
         return {"status": "success", "action": action}
 
@@ -74,4 +132,3 @@ def build_feedback_port(*, dsn: str | None) -> FeedbackPort:
     if dsn:
         return PostgresFeedbackService(store=PostgresFeedbackStore(dsn=dsn))
     return InMemoryFeedbackService()
-

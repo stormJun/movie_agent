@@ -62,6 +62,9 @@ class FeedbackRequest(BaseModel):
     query: str
     is_positive: bool
     thread_id: str
+    # Optional Langfuse trace id (aka request_id in streaming API). When provided we
+    # can attach a Langfuse score to the right trace.
+    request_id: Optional[str] = None
     agent_type: Optional[str] = "naive_rag_agent"
 
 

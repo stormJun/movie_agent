@@ -17,6 +17,7 @@ class FeedbackService:
         is_positive: bool,
         thread_id: str,
         agent_type: str = "graph_agent",
+        request_id: str | None = None,
     ) -> Dict[str, str]:
         return await self._port.process_feedback(
             message_id=message_id,
@@ -24,5 +25,5 @@ class FeedbackService:
             is_positive=is_positive,
             thread_id=thread_id,
             agent_type=agent_type,
+            request_id=request_id,
         )
-

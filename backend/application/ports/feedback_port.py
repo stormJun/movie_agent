@@ -12,5 +12,6 @@ class FeedbackPort(Protocol):
         is_positive: bool,
         thread_id: str,
         agent_type: str,
+        request_id: str | None = None,
     ) -> Dict[str, str]:
         ...
