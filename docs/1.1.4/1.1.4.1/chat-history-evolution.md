@@ -108,7 +108,8 @@ CREATE TABLE conversation_summaries (
     conversation_id UUID NOT NULL REFERENCES conversations(id) ON DELETE CASCADE,
     summary TEXT NOT NULL,
     summary_version INT DEFAULT 1,  -- 乐观锁版本号
-    covered_message_count INT NOT NULL,
+    last_covered_message_id UUID,   -- 摘要覆盖的最后一条消息 ID (确保边界稳定)
+    covered_message_count INT NOT NULL, -- 仅用于统计/辅助
     created_at TIMESTAMP DEFAULT NOW(),
     updated_at TIMESTAMP DEFAULT NOW(),
     UNIQUE(conversation_id)
@@ -126,7 +127,8 @@ CREATE INDEX idx_summaries_conversation_id ON conversation_summaries(conversatio
 | `conversation_id` | UUID | 关联的对话 ID（外键） |
 | `summary` | TEXT | 压缩后的对话摘要 |
 | `summary_version` | INT | 乐观锁版本号，控制并发更新 |
-| `covered_message_count` | INT | 已摘要的消息数量（用于判断是否需要更新） |
+| `last_covered_message_id` | UUID | 摘要覆盖的最后一条消息 ID，用于精准切片 |
+| `covered_message_count` | INT | 已摘要的消息数量（辅助统计） |
 | `created_at` | TIMESTAMP | 创建时间 |
 | `updated_at` | TIMESTAMP | 最后更新时间 |
 
@@ -352,10 +354,10 @@ class ConversationSummaryStorePort(ABC):
     async def get_summary(self, conversation_id: str) -> dict | None: ...
     
     @abstractmethod
-    async def save_summary_upsert(self, conversation_id: str, summary: str, covered_count: int, version: int): 
+    async def save_summary_upsert(self, conversation_id: str, summary: str, last_message_id: str, version: int): 
         """使用 ON CONFLICT DO UPDATE 实现原子的 UPSERT
-        关键约束：WHERE excluded.covered_message_count > conversation_summaries.covered_message_count
-        确保摘要覆盖范围单调递增，防止旧版本覆盖新版本。
+        关键约束：WHERE excluded.last_covered_message_id IS DISTINCT FROM current.last_covered_message_id
+        或者配合 version 检查。
         """
         ...
 ```
@@ -369,8 +371,7 @@ async def handle_request(self, message):
     summary = await summary_store.get_summary(cid)
     
     # 2. 触发后台摘要更新（Fire-and-forget）
-    # 节流逻辑：仅当 (current_msg_count - summary.covered_count) >= update_delta 时才触发
-    # 并且过滤掉 partial=True 的消息
+    # 节流逻辑：比如当前 message_count - summary.covered_count >= 10
     background_tasks.add_task(self.summarizer.try_trigger_update(cid))
     
     # 3. 响应用户
@@ -378,8 +379,10 @@ async def handle_request(self, message):
 ```
 
 **3. 对话历史一致性与边界**
-- **去重逻辑**：废弃基于 `content` 的去重。摘要记录 `covered_through_message_id`。
-- **切片策略**：`window` 获取 > `covered_through_message_id` 的消息，或者直接取最新的 N 条。
+- **核心修正**：摘要生成器必须基于 `last_covered_message_id` 来获取增量消息。
+- **查询逻辑**：`SELECT * FROM messages WHERE conversation_id = ? AND id > ? ORDER BY created_at ASC`
+- **去重逻辑**：完全依赖 `message_id` 唯一性，不再进行内容匹配去重。
+- **排除当前**：读取 `window` 时，显式排除 `id == current_message_id`。
 - **Partial 过滤**：摘要生成器必须忽略 `metadata.partial == True` 的消息，防止将中断的生成内容纳入长期记忆。
 
 **4. Prompt 安全注入**
@@ -406,66 +409,55 @@ SUMMARY_MODEL_NAME = os.getenv("SUMMARY_MODEL_NAME", "qwen-turbo")  # 默认使�
 llm = model_factory.get_model(config.SUMMARY_MODEL_NAME)
 ```
 
-#### 2.1.6 核心代码实现
+#### 2.1.6 核心代码实现 (Pseudo-Code)
 
 ```python
 class ConversationSummarizer:
-    
-    def __init__(self, llm: BaseChatModel, min_messages: int = 10):
-        self.llm = llm  # 使用轻量级模型，如 GPT-3.5-Turbo
-        self.min_messages = min_messages
-        self.update_delta = 5  # 每 5 条新消息更新一次摘要
-    
-    async def should_summarize(self, conversation_id: str) -> bool:
-        """判断是否需要生成/更新摘要"""
-        message_count = await self.store.count_messages(conversation_id)
-        last_summary = await self.store.get_summary(conversation_id)
-    
-        # 消息数不足，无需摘要
-        if message_count < self.min_messages:
-            return False
-    
-        # 首次达到阈值，需要生成摘要
-        if last_summary is None:
-            return True
-    
-        # 检查是否需要更新（新增消息数 >= delta）
-        return message_count - last_summary.covered_message_count >= self.update_delta
-    
-    async def generate_summary(self, conversation_id: str) -> str:
-        """生成对话摘要"""
-        # 获取所有历史消息（除了最近 6 条，它们会保留原文）
-        all_messages = await self.store.list_messages(conversation_id)
-        to_summarize = all_messages[:-6]
-    
-        if not to_summarize:
-            return None
-    
-        # 构建摘要 Prompt
-        prompt = ChatPromptTemplate.from_messages([
-            ("system", """你是对话摘要专家。请将以下对话历史浓缩为 2-3 句话的摘要，突出：
-1. 用户的核心诉求和偏好
-2. 已讨论的关键话题
-3. 任何重要的背景信息
+    def __init__(self, summary_store: ConversationSummaryStorePort, llm_factory):
+        # 通过工厂获取配置的模型 (Qwen)
+        self.llm = llm_factory.get_model(config.SUMMARY_MODEL_NAME)
+        self.summary_store = summary_store
+        self.min_messages = 10
+        self.update_delta = 5
 
-保持简洁，避免冗余。"""),
-            ("user", "{conversation}")
-        ])
+    async def try_trigger_update(self, conversation_id: str):
+        """尝试触发后台摘要更新（Async Task）"""
+        # 1. 获取当前摘要状态
+        summary_data = await self.summary_store.get_summary(conversation_id)
+        last_covered_id = summary_data.get("last_covered_message_id") if summary_data else None
+        
+        # 2. 检查是否有足够的新增消息
+        # 注意：这里需要存储层支持查询 "Since ID" 的计数，或者直接 fetch 少量元数据
+        new_messages = await self.fetch_new_messages(conversation_id, last_covered_id, limit=self.update_delta)
+        
+        if len(new_messages) < self.update_delta:
+            return  # 尚未达到更新阈值
+            
+        # 3. 过滤 Partial 消息
+        valid_messages = [m for m in new_messages if not m.metadata.get("partial")]
+        if not valid_messages:
+            return
 
-        # 调用 LLM 生成摘要
-        summary = await self.llm.ainvoke(
-            prompt.format(conversation=format_messages(to_summarize))
+        # 4. 生成与保存
+        await self._generate_and_save(conversation_id, summary_data, valid_messages)
+
+    async def _generate_and_save(self, conversation_id, current_summary, new_messages):
+        # 拼接旧摘要 + 新增对话
+        context_text = self._build_context(current_summary, new_messages)
+        
+        # LLM 生成 (Qwen)
+        new_summary_text = await self.llm.ainvoke(self._build_prompt(context_text))
+        
+        # 乐观锁保存 (UPSERT)
+        # covered_through_id = new_messages[-1].id
+        await self.summary_store.save_summary_upsert(
+            conversation_id, 
+            new_summary_text, 
+            last_message_id=new_messages[-1].id,
+            version=(current_summary.get("version", 0) + 1)
         )
-    
-        # 保存摘要到数据库
-        await self.store.save_summary(
-            conversation_id=conversation_id,
-            summary=summary.content,
-            covered_message_count=len(to_summarize)
-        )
-    
-        return summary.content
-    
+```
+
     async def update_summary(self, conversation_id: str, old_summary: dict) -> str:
         """增量更新摘要（比全量生成更省 Token）"""
         # 获取新增的消息
