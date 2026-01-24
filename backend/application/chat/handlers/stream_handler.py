@@ -97,9 +97,14 @@ class StreamHandler:
                 yield event
 
         # SSE 的 application 层编排职责（不做 IO，只做“调用顺序/分流”）：
-        # 1) route：得到 kb_prefix / worker_name（含置信度/降级策略）
-        # 2) 可选：命中 KB 专用 handler（Phase2 开关），绕过通用 RAG 执行器
-        # 3) 组装 RAG plan（或空 plan 表示 general）并委托给 stream executor 产出事件流
+        # 1. 路由决策：得到 kb_prefix / worker_name（含置信度/降级策略）。
+        # 2. 性能监控：记录路由耗时等指标。
+        # 3. 记忆管理：如果启用了记忆服务，召回相关的长期记忆。
+        # 4. 上下文构建：拉取和去重短期对话历史。
+        # 5. 执行分发：
+        #    - 命中 KB 专用 handler（Phase2 开关），绕过通用 RAG 执行器。
+        #    - 组装 RAG plan（或空 plan 表示 general）并委托给 stream executor 产出事件流。
+        # 6. 结果持久化：流式结束后保存完整回复。
         t0 = time.monotonic()
         decision = self._router.route(
             message=message,
@@ -132,11 +137,11 @@ class StreamHandler:
             # Observability must be best-effort and never block the main flow.
             pass
 
-        # Cache-only debug event (not required for streaming UX).
-        # Note: RouteDecision is a dataclass; convert to plain dict for JSON.
+        # 缓存专用的调试事件（流式 UX 不需要）。
+        # 注意：RouteDecision 是一个 dataclass；需要转换为普通字典以进行 JSON 序列化。
         if debug:
-            # Also emit a trace-friendly execution_log node so performance metrics
-            # can attribute routing time (duration_ms) without changing the RouteDecision schema.
+            # 同时发出一个适合 trace 的 execution_log 节点，
+            # 以便性能指标可以归因于路由时间（duration_ms），而无需更改 RouteDecision 模式。
             yield {
                 "status": "execution_log",
                 "content": {
@@ -159,6 +164,7 @@ class StreamHandler:
         # "" / "general" 代表“无需检索”：走纯 LLM 生成（仍走统一 SSE 协议/事件管道）。
         use_retrieval = (decision.kb_prefix or "").strip() not in {"", "general"}
 
+        # 3. 获取长期记忆上下文（Memory Service）
         memory_context: str | None = None
         if self._memory_service is not None:
             memory_context = await self._memory_service.recall_context(
@@ -166,11 +172,11 @@ class StreamHandler:
                 query=message,
             )
 
-        # 获取对话历史（排除当前消息）
+        # 4. 获取对话历史（短期记忆）：用于 Prompt 上下文注入
         raw_history = await self._get_conversation_history(conversation_id=conversation_id, limit=7)
         history_context: list[dict[str, Any]] = []
         if raw_history:
-             # 如果最后一条是当前消息，排除它
+             # 如果最后一条是当前消息（防止重复），排除它
              if raw_history[-1].get("content") == message:
                  history_context = raw_history[:-1]
              else:
@@ -194,7 +200,7 @@ class StreamHandler:
                     )
                 ):
                     yield event
-                # Persist assistant message once streaming finishes.
+                # 流式传输完成后持久化助手消息。
                 answer = "".join(tokens).strip()
                 if answer:
                     await self._conversation_store.append_message(
@@ -236,7 +242,7 @@ class StreamHandler:
             ):
                 yield event
         finally:
-            # Persist assistant message once the stream ends (including client aborts).
+            # 如果流式传输结束（包括客户端中断），持久化助手消息。
             answer = "".join(tokens).strip()
             if answer:
                 await self._conversation_store.append_message(
