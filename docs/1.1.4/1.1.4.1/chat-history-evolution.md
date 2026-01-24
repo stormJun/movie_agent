@@ -83,8 +83,10 @@ prompt = build_prompt(system + history + current_message)
 
 2.  **参数配置**
     - **触发阈值 (min_messages)**: 10 条（5 轮对话）。确保有足够上下文生成有意义的摘要。
-    - **更新增量 (update_delta)**: 5 条。平衡摘要新鲜度和生成成本，避免频繁调用 LLM。
-    - **窗口大小 (window_size)**: 6 条。保留最近 3 轮完整对话，确保当前话题连贯。
+    - **更新增量 (update_delta)**: 5 条。平衡摘要新鲜度和生成成本。
+    - **窗口大小 (window_size)**: 6 条。
+    - **边界控制**: 使用 `message_id` 或 `created_at` 作为摘要覆盖的截止点，而非依赖不可靠的内容去重。
+    - **过滤策略**: 摘要生成时必须过滤掉 `partial=True` 的未完成消息。
 
 3.  **存储方案：独立表 (conversation_summaries)**
     - 清晰分离关注点，避免污染核心消息表，便于独立优化索引。
@@ -352,34 +354,33 @@ class ConversationSummaryStorePort(ABC):
     @abstractmethod
     async def save_summary_upsert(self, conversation_id: str, summary: str, covered_count: int, version: int): 
         """使用 ON CONFLICT DO UPDATE 实现原子的 UPSERT
-        必须校验 version 或 covered_count 单调递增，防止旧覆盖新。
+        关键约束：WHERE excluded.covered_message_count > conversation_summaries.covered_message_count
+        确保摘要覆盖范围单调递增，防止旧版本覆盖新版本。
         """
         ...
 ```
 
 **2. 异步后台生成策略**
-为避免阻塞主请求链路，摘要生成**必须**采用异步后台处理：
+为避免阻塞主请求链路，摘要生成**必须**采用异步后台处理，并实施严格的节流：
 
 ```python
 async def handle_request(self, message):
-    # 1. 快速读取当前摘要（如有）
+    # 1. 快速读取当前摘要（主路径）
     summary = await summary_store.get_summary(cid)
     
-    # 2. 触发后台摘要更新任务（Fire-and-forget）
-    # 使用 Redis 或内存 Queue 进行去重，避免每条消息都触发 LLM
-    if should_trigger_update(summary, message_count):
-        background_tasks.add_task(self.summarizer.update_async(cid))
+    # 2. 触发后台摘要更新（Fire-and-forget）
+    # 节流逻辑：仅当 (current_msg_count - summary.covered_count) >= update_delta 时才触发
+    # 并且过滤掉 partial=True 的消息
+    background_tasks.add_task(self.summarizer.try_trigger_update(cid))
     
-    # 3. 构建 Prompt 并响应用户（不等待摘要更新）
+    # 3. 响应用户
     return await generate_response(prompt(summary, recent_messages))
 ```
 
-**3. 对话历史一致性**
-- **严禁**依赖 `content` 字符串匹配来排除当前消息（易受重复输入干扰）。
-- **修正**：
-    - 读取历史 `window` 时，使用 `message_id` 排除当前消息。
-    - 或者：在保存当前消息**之前**读取历史 `window`。
-    - **摘要切片**：仅对 `message_id` 小于当前最新 `message_id` 的消息进行摘要，确保切片边界稳定。
+**3. 对话历史一致性与边界**
+- **去重逻辑**：废弃基于 `content` 的去重。摘要记录 `covered_through_message_id`。
+- **切片策略**：`window` 获取 > `covered_through_message_id` 的消息，或者直接取最新的 N 条。
+- **Partial 过滤**：摘要生成器必须忽略 `metadata.partial == True` 的消息，防止将中断的生成内容纳入长期记忆。
 
 **4. Prompt 安全注入**
 摘要可能包含幻觉，必须在 System Prompt 中显式声明其**不可信**属性：
