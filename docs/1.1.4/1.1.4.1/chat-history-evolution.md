@@ -103,21 +103,22 @@ prompt = build_prompt(system + history + current_message)
 ```sql
 CREATE TABLE conversation_summaries (
     id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
-    conversation_id UUID NOT NULL REFERENCES conversations(id),
+    conversation_id UUID NOT NULL REFERENCES conversations(id) ON DELETE CASCADE,
     summary TEXT NOT NULL,
+    summary_version INT DEFAULT 1,  -- 乐观锁版本号
     covered_message_count INT NOT NULL,
     created_at TIMESTAMP DEFAULT NOW(),
     updated_at TIMESTAMP DEFAULT NOW(),
     UNIQUE(conversation_id)
 );
 
--- 索引优化
-CREATE INDEX idx_summaries_conversation_id
-    ON conversation_summaries(conversation_id);
-
-CREATE INDEX idx_summaries_updated_at
-    ON conversation_summaries(updated_at DESC);
+-- 索引用于频繁查询
+CREATE INDEX idx_summaries_conversation_id ON conversation_summaries(conversation_id);
 ```
+
+**关键修正**：
+- 增加 `summary_version` 字段，配合 UPSERT 逻辑实现乐观锁并发控制。
+- 增加 `ON DELETE CASCADE` 确保级联删除。
 
 **字段说明：**
 
@@ -151,30 +152,23 @@ flowchart LR
         Rec6[当前消息 N]
     end
 
-    subgraph Process["处理层"]
-        Summ[摘要生成器<br/>ConversationSummarizer]
-        Cache[摘要缓存判断<br/>should_summarize]
+    subgraph Process["处理层 (异步)"]
+        Summ[后台摘要 Worker<br/>Async Task]
+        Queue[任务去重/节流]
     end
 
     subgraph Storage["存储层"]
         DB[(PostgreSQL)]
-        Table1[messages 表<br/><br/>id, role, content,<br/>conversation_id,<br/>created_at]
-        Table2[conversation_summaries 表<br/><br/>id, conversation_id,<br/>summary,<br/>covered_message_count,<br/>created_at, updated_at]
+        Table1[messages 表]
+        Table2[conversation_summaries 表]
     end
 
-    subgraph Output["输出层"]
-        Prompt["最终 Prompt 结构<br/><br/>┌─────────────────┐<br/>│ System Prompt  │<br/>├─────────────────┤<br/>│ 【对话背景】    │<br/>│ Summary (压缩) │<br/>├─────────────────┤<br/>│ History (最近6) │<br/>│ Rec1 → Rec6    │<br/>├─────────────────┤<br/>│ Current Message │<br/>└─────────────────┘"]
-    end
-
-    Msg1 & Msg2 & Msg3 & MsgN -->|历史消息<br/>需要摘要| Summ
-    Rec1 & Rec2 & Rec3 & Rec4 & Rec5 & Rec6 -->|最近窗口<br/>保持原样| Prompt
-
-    Summ --> Cache
-    Cache -->|需要生成/更新| Summ
-    Summ -->|保存/读取| Table2
-    Table1 -->|读取所有消息| Summ
-
-    Table2 -->|摘要内容| Prompt
+    Msg1 & Msg2 & Msg3 & MsgN -->|触发检查| Queue
+    Queue -->|批量提取历史| Summ
+    Summ -->|UPSERT 更新| Table2
+    
+    Table1 -.->|Read Only| Summ
+    Table2 -->|注入 Context| Prompt
     Prompt --> LLM[🤖 LLM 生成]
 
     style Summ fill:#ffe6e6
@@ -352,8 +346,55 @@ sequenceDiagram
 
 **核心代码实现：**
 
+#### 2.1.5 实现逻辑 (关键修正)
+
+**1. 存储接口扩展 (`ConversationStorePort`)**
 ```python
-class ConversationSummarizer:
+class ConversationStorePort(ABC):
+    # ... existing methods ...
+    
+    @abstractmethod
+    async def get_summary(self, conversation_id: str) -> dict | None: ...
+    
+    @abstractmethod
+    async def save_summary_upsert(self, conversation_id: str, summary: str, covered_count: int, version: int): 
+        """使用 ON CONFLICT DO UPDATE 实现原子的 UPSERT"""
+        ...
+```
+
+**2. 异步后台生成策略**
+为避免 +50ms 的延迟预估过于乐观，**必须**将摘要生成移出请求主链路：
+
+```python
+async def handle_request(self, message):
+    # 1. 快速读取当前摘要（如有）
+    summary = await store.get_summary(cid)
+    
+    # 2. 触发后台摘要更新任务（Fire-and-forget）
+    # 使用 Redis 或内存 Queue 进行去重，避免每条消息都触发 LLM
+    if should_trigger_update(summary, message_count):
+        background_tasks.add_task(self.summarizer.update_async(cid))
+    
+    # 3. 构建 Prompt 并响应用户（不等待摘要更新）
+    return await generate_response(prompt(summary, recent_messages))
+```
+
+**3. 对话历史一致性**
+- **严禁**依赖 `content` 字符串匹配来排除当前消息（易受重复输入干扰）。
+- **修正**：使用 `message_id` 排除，或在保存当前消息**之前**读取历史 `window`。
+
+**4. Prompt 安全注入**
+摘要可能包含幻觉，必须在 System Prompt 中显式声明其**不可信**属性：
+
+```python
+SYSTEM_PROMPT_TEMPLATE = """
+...
+【历史对话摘要（仅供参考）】
+警告：此摘要由 AI 自动生成，可能包含不准确信息。若与下方对话历史冲突，请以原始对话为准。
+{summary}
+...
+"""
+```
     """对话摘要器 - 压缩历史对话以降低 Token 消耗"""
 
     def __init__(self, llm: BaseChatModel, min_messages: int = 10):
