@@ -140,33 +140,9 @@ reduction = (400000 - 38000) / 400000  # ~90.5%
 
 ##### 3️⃣ **为什么使用独立的 `conversation_summaries` 表？**
 
-**设计对比：**
+**设计方案：独立表（推荐）**
 
-| 方案 | 数据结构 | 优势 | 劣势 |
-|------|---------|------|------|
-| **内嵌到 messages 表** | 添加 `is_summary` 字段 | 简单，单表查询 | 污染消息流，查询复杂 |
-| **JSON 字段** | `conversations.metadata.summary` | 无需额外表 | 不易索引，更新困难 |
-| **独立表** (✅ 采用) | `conversation_summaries` | 清晰分离，易维护，可扩展 | 需要 JOIN 查询 |
-
-**选择独立表的理由：**
-
-1. **关注点分离** (Separation of Concerns)：
-   - `messages` 表：关注对话流的时间序列
-   - `summaries` 表：关注压缩知识的静态存储
-
-2. **性能优化**：
-   - 摘要查询通常是 1:1（每对话一个摘要）
-   - 避免 messages 表膨胀（100+ 条/对话）
-   - 可独立添加索引优化查询
-
-3. **未来扩展性**：
-   ```sql
-   -- 未来可添加字段而不影响 messages 表
-   ALTER TABLE conversation_summaries
-   ADD COLUMN summary_version INT DEFAULT 1,
-   ADD COLUMN quality_score FLOAT,
-   ADD COLUMN embedding vector(1536);  -- 摘要向量（用于语义搜索）
-   ```
+采用独立的 `conversation_summaries` 表存储摘要，实现关注点分离（Separation of Concerns），避免污染核心消息表，并便于未来的独立索引优化和扩展。
 
 ##### 4️⃣ **为什么摘要生成使用轻量级模型（GPT-3.5）？**
 
