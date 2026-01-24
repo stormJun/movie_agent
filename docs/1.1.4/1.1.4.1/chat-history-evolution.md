@@ -98,7 +98,7 @@ prompt = build_prompt(system + history + current_message)
 
 #### 2.1.3 数据模型
 
-**方案：独立摘要表（推荐）**
+**方案：独立摘要表**
 
 ```sql
 CREATE TABLE conversation_summaries (
@@ -116,10 +116,6 @@ CREATE TABLE conversation_summaries (
 CREATE INDEX idx_summaries_conversation_id ON conversation_summaries(conversation_id);
 ```
 
-**关键修正**：
-- 增加 `summary_version` 字段，配合 UPSERT 逻辑实现乐观锁并发控制。
-- 增加 `ON DELETE CASCADE` 确保级联删除。
-
 **字段说明：**
 
 | 字段 | 类型 | 说明 |
@@ -127,6 +123,7 @@ CREATE INDEX idx_summaries_conversation_id ON conversation_summaries(conversatio
 | `id` | UUID | 主键 |
 | `conversation_id` | UUID | 关联的对话 ID（外键） |
 | `summary` | TEXT | 压缩后的对话摘要 |
+| `summary_version` | INT | 乐观锁版本号，控制并发更新 |
 | `covered_message_count` | INT | 已摘要的消息数量（用于判断是否需要更新） |
 | `created_at` | TIMESTAMP | 创建时间 |
 | `updated_at` | TIMESTAMP | 最后更新时间 |
@@ -346,7 +343,7 @@ sequenceDiagram
 
 **核心代码实现：**
 
-#### 2.1.5 实现逻辑 (关键修正)
+#### 2.1.5 实现逻辑 
 
 **1. 存储接口扩展 (`ConversationStorePort`)**
 ```python
@@ -386,6 +383,9 @@ async def handle_request(self, message):
 **4. Prompt 安全注入**
 摘要可能包含幻觉，必须在 System Prompt 中显式声明其**不可信**属性：
 
+**4. Prompt 安全注入**
+摘要可能包含幻觉，必须在 System Prompt 中显式声明其**不可信**属性：
+
 ```python
 SYSTEM_PROMPT_TEMPLATE = """
 ...
@@ -395,38 +395,42 @@ SYSTEM_PROMPT_TEMPLATE = """
 ...
 """
 ```
-    """对话摘要器 - 压缩历史对话以降低 Token 消耗"""
 
+#### 2.1.6 核心代码实现
+
+```python
+class ConversationSummarizer:
+    
     def __init__(self, llm: BaseChatModel, min_messages: int = 10):
         self.llm = llm  # 使用轻量级模型，如 GPT-3.5-Turbo
         self.min_messages = min_messages
         self.update_delta = 5  # 每 5 条新消息更新一次摘要
-
+    
     async def should_summarize(self, conversation_id: str) -> bool:
         """判断是否需要生成/更新摘要"""
         message_count = await self.store.count_messages(conversation_id)
         last_summary = await self.store.get_summary(conversation_id)
-
+    
         # 消息数不足，无需摘要
         if message_count < self.min_messages:
             return False
-
+    
         # 首次达到阈值，需要生成摘要
         if last_summary is None:
             return True
-
+    
         # 检查是否需要更新（新增消息数 >= delta）
         return message_count - last_summary.covered_message_count >= self.update_delta
-
+    
     async def generate_summary(self, conversation_id: str) -> str:
         """生成对话摘要"""
         # 获取所有历史消息（除了最近 6 条，它们会保留原文）
         all_messages = await self.store.list_messages(conversation_id)
         to_summarize = all_messages[:-6]
-
+    
         if not to_summarize:
             return None
-
+    
         # 构建摘要 Prompt
         prompt = ChatPromptTemplate.from_messages([
             ("system", """你是对话摘要专家。请将以下对话历史浓缩为 2-3 句话的摘要，突出：
@@ -442,25 +446,25 @@ SYSTEM_PROMPT_TEMPLATE = """
         summary = await self.llm.ainvoke(
             prompt.format(conversation=format_messages(to_summarize))
         )
-
+    
         # 保存摘要到数据库
         await self.store.save_summary(
             conversation_id=conversation_id,
             summary=summary.content,
             covered_message_count=len(to_summarize)
         )
-
+    
         return summary.content
-
+    
     async def update_summary(self, conversation_id: str, old_summary: dict) -> str:
         """增量更新摘要（比全量生成更省 Token）"""
         # 获取新增的消息
         all_messages = await self.store.list_messages(conversation_id)
         new_messages = all_messages[old_summary.covered_message_count:-6]
-
+    
         if not new_messages:
             return old_summary.summary
-
+    
         # 增量更新 Prompt
         prompt = ChatPromptTemplate.from_messages([
             ("system", """你是对话摘要专家。以下是之前的对话摘要和新增的对话内容。
@@ -481,14 +485,14 @@ SYSTEM_PROMPT_TEMPLATE = """
                 new_messages=format_messages(new_messages)
             )
         )
-
+    
         # 保存更新后的摘要
         await self.store.save_summary(
             conversation_id=conversation_id,
             summary=new_summary.content,
             covered_message_count=len(all_messages[:-6])
         )
-
+    
         return new_summary.content
 ```
 
@@ -804,7 +808,7 @@ StreamHandler
   StreamHandler
     ├─ message, session_id, memory_context, history
    savings = (72 - 1.3) / 72  # ~98% 节省
-   ```
+```
 
 3. **延迟优化**：
    - 用户对摘要生成不可见（后台任务）
