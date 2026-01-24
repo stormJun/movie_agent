@@ -403,12 +403,7 @@ sequenceDiagram
 
     Note over API,LLM: Prompt 构建与生成
     API->>API: 构建 Prompt:
-    Note over API
-        [System Prompt]
-        [Summary] (可选)
-        [Recent Window]
-        [Current Message]
-    end
+    Note over API: [System Prompt]<br/>[Summary] (可选)<br/>[Recent Window]<br/>[Current Message]
 
     API->>LLM: 发送完整 Prompt
     LLM-->>API: 返回响应
