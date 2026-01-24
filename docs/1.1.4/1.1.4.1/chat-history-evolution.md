@@ -184,34 +184,36 @@ def _build_general_prompt(
 
 ---
 
-### Phase 2: 语义检索记忆 (Episodic Memory RAG)
+### Phase 2: MemGPT 增强记忆 (Active Episodic Memory)
 
-#### 2.2.1 核心设计
+#### 2.2.1 核心设计 (Inspired by MemGPT)
 
-将对话历史视为**可检索的知识库**，根据语义相关性而非时间顺序检索。
+不仅仅是被动检索历史，而是引入 **MemGPT 的"自我编辑"理念**：
+1.  **主动式记忆管理 (Active Management)**：赋予 Agent 修改、删除、归档记忆的能力。
+2.  **核心记忆区 (Core Memory)**：维护一个始终在线的、结构化的用户画像 (Persona/Human)，允许 Agent 实时更新。
+3.  **两级存储架构**：
+    *   **RAM (Context)**: System Prompt + Core Memory (Profile) + Recent History
+    *   **Disk (Archival)**: Mem0 (Vector Store) + Checkpoints
 
 #### 2.2.2 架构图
 
 ```
-┌─────────────┐
-│ User Query  │
-└──────┬──────┘
-       │
-       ├─────────────────┐
-       ↓                 ↓
-┌──────────────┐  ┌─────────────────┐
-│ Time Window  │  │ Semantic Search │
-│ (Recent 3)   │  │ (Milvus Vector) │
-└──────┬───────┘  └────────┬────────┘
-       │                   │
-       └─────┬─────────────┘
-             ↓
-      ┌─────────────┐
-      │   Merge +   │
-      │  Deduplicate│
-      └──────┬──────┘
-             ↓
-       [LLM Prompt]
+┌─────────────┐      ┌───────────────┐
+│ User Query  │ ---> │ Memory Agent  │ (MemGPT Controller)
+└──────┬──────┘      └──────┬────────┘
+       │                    │ Thinking: "Update profile?" "Search old history?"
+       │                    │
+       │             ┌──────▼────────┐
+       ├────────────>│  Core Memory  │ (RAM - Editable Profile)
+       │             └──────┬────────┘
+       │                    │
+       │             ┌──────▼────────┐
+       └────────────>│ Archival Mem  │ (Disk - Mem0 Semantic Search)
+                     └──────┬────────┘
+                            │
+                      ┌─────▼──────┐
+                      │ LLM Prompt │
+                      └────────────┘
 ```
 
 #### 2.2.3 数据模型
@@ -243,62 +245,45 @@ conversation_episodes_collection = {
 
 #### 2.2.4 实现逻辑
 
+#### 2.2.4 实现逻辑 (MemGPT Style)
+
+**1. Core Memory (用户画像)**
+在 `ConversationStore` 中维护一个 JSON 字段 `core_memory`：
+```json
+{
+  "persona": "我是电影推荐专家，专注于科幻领域。",
+  "human": {
+    "name": "User",
+    "preferences": ["喜欢诺兰", "不喜欢恐怖片"],
+    "current_intent": "寻找90年代经典"
+  }
+}
+```
+
+**2. Active Memory Tooling (工具调用)**
+开放以下 Tools 给 Agent：
+- `core_memory_update(section, content)`: 修改画像。
+- `archival_memory_insert(content)`: 主动归档当前对话片段。
+- `archival_memory_search(query)`: 主动检索历史（不再仅仅是被动 Top-K）。
+
+**3. Modified Flow**
 ```python
-class ConversationEpisodicMemory:
-    def __init__(self, milvus_client, embedding_model):
-        self.milvus = milvus_client
-        self.embedding_model = embedding_model
+async def run_memory_loop(message, core_memory):
+    # 1. 预判阶段：决定是否需要操作记忆
+    action = await memory_agent.decide(message, core_memory)
     
-    async def index_episode(
-        self,
-        conversation_id: str,
-        user_message: str,
-        assistant_message: str
-    ):
-        """将一轮对话索引为一个 Episode"""
-        # 将 Q&A 拼接后向量化
-        text = f"User: {user_message}\nAssistant: {assistant_message}"
-        embedding = await self.embedding_model.embed_query(text)
-        
-        await self.milvus.insert({
-            "id": str(uuid.uuid4()),
-            "conversation_id": conversation_id,
-            "user_message": user_message,
-            "assistant_message": assistant_message,
-            "embedding": embedding,
-            "created_at": int(time.time())
-        })
+    if action.tool == "core_memory_update":
+        # 执行更新（自我修正）
+        core_memory = update(core_memory, action.params)
     
-    async def recall_relevant(
-        self,
-        conversation_id: str,
-        query: str,
-        top_k: int = 3
-    ) -> list[dict]:
-        """检索语义相关的历史片段"""
-        query_embedding = await self.embedding_model.embed_query(query)
+    if action.tool == "archival_memory_search":
+        # 主动检索
+        results = await mem0.search(action.params.query)
+        context += results
         
-        results = await self.milvus.search(
-            collection_name="conversation_episodes",
-            data=[query_embedding],
-            filter=f"conversation_id == '{conversation_id}'",
-            limit=top_k,
-            output_fields=["user_message", "assistant_message", "created_at"]
-        )
-        
-        return [
-            {
-                "role": "user",
-                "content": hit["user_message"],
-                "timestamp": hit["created_at"]
-            },
-            {
-                "role": "assistant",
-                "content": hit["assistant_message"],
-                "timestamp": hit["created_at"]
-            }
-            for hit in results[0]
-        ]
+    # 2. 生成回复
+    response = await generate(message, context, core_memory)
+    return response
 ```
 
 #### 2.2.5 集成到 Handler
@@ -337,11 +322,11 @@ async def _get_hybrid_history(
 
 #### 2.2.6 优势分析
 
-| 场景 | Baseline | Phase 2 |
-|------|----------|---------|
-| "刚才说的那个导演是谁"（10 轮前）| ❌ 遗忘 | ✅ 召回 |
-| "回到之前讨论的科幻电影话题"| ❌ 需用户重述 | ✅ 自动召回 |
-| Token 效率 | 固定 N 条 | 动态选择相关内容 |
+| 场景 | Baseline | Phase 2 (MemGPT) |
+|------|----------|-------------------|
+| "我不喜欢恐怖片了" (偏好变更) | ❌ 只能追加，新旧冲突 | ✅ `core_memory_update` 覆盖旧值 |
+| "刚才说的那个导演是谁" | ❌ 遗忘/已被截断 | ✅ `archival_search` 主动找回 |
+| Token 效率 | 固定 N 条 | 动态检索 + Core Memory (极小) |
 
 ---
 
