@@ -89,6 +89,9 @@ class _StubMemoryFacade:
     async def get_dashboard(self, *, conversation_id: UUID, user_id: str):
         return await self._svc.get_dashboard(conversation_id=conversation_id, user_id=user_id)
 
+    async def list_taste_profile(self, *, user_id: str, limit: int = 100, offset: int = 0):
+        return await self._svc.list_taste_profile(user_id=user_id, limit=limit, offset=offset)
+
     async def delete_memory_item(self, *, user_id: str, memory_id: str) -> bool:
         return await self._svc.delete_memory_item(user_id=user_id, memory_id=memory_id)
 
@@ -129,3 +132,11 @@ class TestMemoryCenterApiMvp(unittest.IsolatedAsyncioTestCase):
             params={"user_id": self.user_id},
         )
         self.assertEqual(resp.status_code, 204, resp.text)
+
+    async def test_list_taste_profile(self):
+        resp = self.client.get("/api/v1/memory/taste_profile", params={"user_id": self.user_id, "limit": 50, "offset": 0})
+        self.assertEqual(resp.status_code, 200, resp.text)
+        body = resp.json()
+        self.assertEqual(body["count"], 1)
+        self.assertEqual(body["items"][0]["id"], "m1")
+        self.assertEqual(body["items"][0]["tag"], "Genre: Sci-Fi")

@@ -57,6 +57,22 @@ async def delete_memory_item(
         raise HTTPException(status_code=404, detail="memory not found")
     return Response(status_code=204)
 
+@router.get("/memory/taste_profile")
+async def list_taste_profile(
+    user_id: str = Query(..., description="用户ID"),
+    limit: int = Query(100, ge=1, le=500),
+    offset: int = Query(0, ge=0),
+    service: MemoryFacadeService = Depends(get_memory_facade_service),
+) -> Dict[str, Any]:
+    """List Taste DNA (long-term memories) in a structured format.
+
+    Notes:
+    - This is a management/read API (for Memory Center).
+    - Some providers may not support true total-count; we return count of this page.
+    """
+    items = await service.list_taste_profile(user_id=user_id, limit=limit, offset=offset)
+    return {"items": items, "limit": limit, "offset": offset, "count": len(items)}
+
 
 class WatchlistAddRequest(BaseModel):
     user_id: str = Field(..., description="用户ID")
