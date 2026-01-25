@@ -228,6 +228,12 @@ body,
   opacity: 1;
 }
 
+.message-row.highlight {
+  background: rgba(24, 144, 255, 0.06);
+  border-radius: 12px;
+  box-shadow: 0 0 0 2px rgba(24, 144, 255, 0.18) inset;
+}
+
 .action-icon-btn {
   color: var(--text-tertiary);
   font-size: 14px;

@@ -212,6 +212,7 @@ export function ChatPage() {
   const [perfEvents, setPerfEvents] = useState<
     Array<{ op: string; ms: number; ts: number }>
   >([]);
+  const [highlightMessageId, setHighlightMessageId] = useState<string | null>(null);
 
   function notifyWatchlistAutoCapture(added: Array<Record<string, unknown>>) {
     if (!added?.length) return;
@@ -253,6 +254,56 @@ export function ChatPage() {
         </Space>
       ),
     });
+  }
+
+  async function jumpToMessage(messageId: string) {
+    const targetId = (messageId || "").trim();
+    if (!targetId) return;
+
+    setActiveFeature("chat");
+
+    const exists = messages.some((m) => m.id === targetId);
+    if (!exists) {
+      try {
+        const history = await getMessages(userId, sessionId);
+        const restoredMessages: ChatMessage[] = [];
+        for (let i = 0; i < history.length; i++) {
+          const item = history[i];
+          const role = item.role as Role;
+          let query = undefined;
+          if (role === "assistant") {
+            for (let j = i - 1; j >= 0; j--) {
+              if (history[j].role === "user") {
+                query = history[j].content;
+                break;
+              }
+            }
+          }
+          restoredMessages.push({
+            id: item.id,
+            role: role,
+            content: item.content,
+            createdAt: new Date(item.created_at).getTime(),
+            query,
+            sourceIds: extractSourceIds(item.content),
+          });
+        }
+        setMessages(restoredMessages);
+      } catch (e) {
+        message.warning("未能加载历史消息以定位该条目");
+      }
+    }
+
+    setTimeout(() => {
+      const el = document.getElementById(`message-${targetId}`);
+      if (!el) {
+        message.warning("未在当前会话中找到对应消息（可能已清空或未落库）");
+        return;
+      }
+      setHighlightMessageId(targetId);
+      el.scrollIntoView({ behavior: "smooth", block: "center" });
+      setTimeout(() => setHighlightMessageId((prev) => (prev === targetId ? null : prev)), 2500);
+    }, 80);
   }
 
   const [sourceDrawerOpen, setSourceDrawerOpen] = useState(false);
@@ -1096,7 +1147,12 @@ export function ChatPage() {
                 </div>
               ) : (
                 messages.map((m) => (
-                  <div className={`message-row ${m.role}`} key={m.id}>
+                  <div
+                    id={`message-${m.id}`}
+                    data-message-id={m.id}
+                    className={`message-row ${m.role} ${highlightMessageId === m.id ? "highlight" : ""}`}
+                    key={m.id}
+                  >
                     {/* Avatar */}
                     <div className="message-avatar">
                       {m.role === "user" ? <UserOutlined /> : <RobotOutlined />}
@@ -1785,6 +1841,9 @@ export function ChatPage() {
           onClose={() => setMemoryDrawerOpen(false)}
           userId={userId}
           sessionId={sessionId}
+          onJumpToMessage={(messageId) => {
+            void jumpToMessage(messageId);
+          }}
         />
 
       </Layout>

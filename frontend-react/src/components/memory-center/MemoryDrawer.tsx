@@ -10,6 +10,7 @@ interface MemoryDrawerProps {
   onClose: () => void;
   userId: string;
   sessionId: string;
+  onJumpToMessage?: (messageId: string) => void;
 }
 
 function formatTs(ts: string | null | undefined): string {
@@ -19,7 +20,7 @@ function formatTs(ts: string | null | undefined): string {
   return d.toLocaleString();
 }
 
-export const MemoryDrawer: React.FC<MemoryDrawerProps> = ({ open, onClose, userId, sessionId }) => {
+export const MemoryDrawer: React.FC<MemoryDrawerProps> = ({ open, onClose, userId, sessionId, onJumpToMessage }) => {
   const [loading, setLoading] = useState(false);
   const [data, setData] = useState<MemoryDashboardResponse | null>(null);
   const [watchlistTitle, setWatchlistTitle] = useState("");
@@ -614,6 +615,38 @@ export const MemoryDrawer: React.FC<MemoryDrawerProps> = ({ open, onClose, userI
               assistant_message_id:{" "}
               {String(explainItem.assistant_message_id || explainItem.metadata?.assistant_message_id || "-")}
             </Typography.Text>
+            {onJumpToMessage ? (
+              <Space wrap>
+                {(explainItem.user_message_id || explainItem.metadata?.user_message_id) ? (
+                  <Button
+                    size="small"
+                    onClick={() => {
+                      const id = String(explainItem.user_message_id || explainItem.metadata?.user_message_id || "");
+                      if (!id) return;
+                      setExplainOpen(false);
+                      onClose();
+                      setTimeout(() => onJumpToMessage(id), 50);
+                    }}
+                  >
+                    跳到用户消息
+                  </Button>
+                ) : null}
+                {(explainItem.assistant_message_id || explainItem.metadata?.assistant_message_id) ? (
+                  <Button
+                    size="small"
+                    onClick={() => {
+                      const id = String(explainItem.assistant_message_id || explainItem.metadata?.assistant_message_id || "");
+                      if (!id) return;
+                      setExplainOpen(false);
+                      onClose();
+                      setTimeout(() => onJumpToMessage(id), 50);
+                    }}
+                  >
+                    跳到助手消息
+                  </Button>
+                ) : null}
+              </Space>
+            ) : null}
             <Typography.Text type="secondary" style={{ fontSize: 12 }}>
               提示：你可以点击“移除”来撤销这条自动加入；未来可以进一步支持“本回合一键撤销”。
             </Typography.Text>
