@@ -229,6 +229,7 @@ async def generate_general_answer_stream(
     first_token_at: float | None = None
     chunk_count = 0
     generated_chars = 0
+    error_message: str | None = None
     try:
         if hasattr(chain, "astream_events"):
             async for event in chain.astream_events(payload, version="v1", config={"callbacks": callbacks}):
