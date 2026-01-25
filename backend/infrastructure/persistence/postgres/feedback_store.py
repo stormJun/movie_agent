@@ -1,12 +1,18 @@
 from __future__ import annotations
 
 import asyncio
+import json
 import logging
 from datetime import datetime
 from typing import Any, Dict, Optional
 from uuid import UUID, uuid4
 
 logger = logging.getLogger(__name__)
+
+
+def _jsonb_dumps(value: Any) -> str:
+    # Keep encoding consistent with other Postgres JSONB stores.
+    return json.dumps(value, ensure_ascii=False)
 
 
 class InMemoryFeedbackStore:
@@ -87,11 +93,12 @@ class PostgresFeedbackStore:
         metadata: Optional[Dict[str, Any]] = None,
     ) -> UUID:
         pool = await self._get_pool()
+        metadata_json = _jsonb_dumps(metadata) if metadata is not None else None
         async with pool.acquire() as conn:
             row = await conn.fetchrow(
                 """
                 INSERT INTO feedback (message_id, query, is_positive, thread_id, agent_type, metadata)
-                VALUES ($1, $2, $3, $4, $5, $6)
+                VALUES ($1, $2, $3, $4, $5, $6::jsonb)
                 RETURNING id
                 """,
                 message_id,
@@ -99,7 +106,7 @@ class PostgresFeedbackStore:
                 bool(is_positive),
                 thread_id,
                 agent_type,
-                metadata,
+                metadata_json,
             )
             if not row:
                 raise RuntimeError("failed to insert feedback")
@@ -110,4 +117,3 @@ class PostgresFeedbackStore:
             await self._pool.close()
             self._pool = None
             logger.info("PostgreSQL feedback store pool closed")
-
