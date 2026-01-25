@@ -5,7 +5,9 @@ import { formatNumber, truncateText } from '../../utils/debugHelpers';
 
 const EpisodicTab: React.FC<EpisodicTabProps> = ({ episodes }) => {
     if (!episodes || episodes.length === 0) {
-        return <Empty description="暂无情节记忆召回（需要 Phase 2 开启且 debug=true）" />;
+        return (
+            <Empty description="暂无情节记忆召回（需开启：情节记忆功能 EPISODIC_MEMORY_ENABLE=true，并在请求中设置 debug=true）" />
+        );
     }
 
     return (
@@ -42,4 +44,3 @@ const EpisodicTab: React.FC<EpisodicTabProps> = ({ episodes }) => {
 };
 
 export default EpisodicTab;
-
