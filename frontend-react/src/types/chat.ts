@@ -34,6 +34,9 @@ export interface ChatResponse {
   execution_logs?: Array<JsonValue>;
   rag_runs?: Array<JsonValue>;
   route_decision?: JsonValue;
+  watchlist_auto_capture?: {
+    added?: Array<Record<string, JsonValue>>;
+  };
 }
 
 export type StreamEvent =

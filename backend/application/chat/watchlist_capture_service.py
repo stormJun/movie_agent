@@ -20,7 +20,22 @@ def _normalize_title(title: str) -> str:
     return t
 
 
-def _extract_titles_from_text(text: str) -> list[tuple[str, Optional[int]]]:
+@dataclass(frozen=True)
+class _Candidate:
+    title: str
+    year: Optional[int]
+    origin: str  # "user" | "assistant"
+    evidence: str  # short snippet for explainability
+
+
+def _trim_evidence(s: str, max_chars: int = 240) -> str:
+    s = (s or "").strip()
+    if len(s) <= max_chars:
+        return s
+    return s[: max_chars - 3].rstrip() + "..."
+
+
+def _extract_titles_from_text(text: str, *, origin: str) -> list[_Candidate]:
     """Heuristic title extractor for movie-ish text.
 
     MVP-friendly:
@@ -28,7 +43,7 @@ def _extract_titles_from_text(text: str) -> list[tuple[str, Optional[int]]]:
     - Also scan list-like lines and attempt to parse "Title (2014)".
     """
     text = text or ""
-    out: list[tuple[str, Optional[int]]] = []
+    out: list[_Candidate] = []
 
     for m in _CJK_TITLE_RE.finditer(text):
         title = (m.group(1) or "").strip()
@@ -43,7 +58,8 @@ def _extract_titles_from_text(text: str) -> list[tuple[str, Optional[int]]]:
                 year = int(ym.group(1))
             except Exception:
                 year = None
-        out.append((title, year))
+        evidence = f"《{title}》" + (f"({year})" if year else "")
+        out.append(_Candidate(title=title, year=year, origin=origin, evidence=_trim_evidence(evidence)))
 
     # Scan list-like lines only (avoid parsing normal paragraphs).
     for raw_line in text.splitlines():
@@ -95,15 +111,22 @@ def _extract_titles_from_text(text: str) -> list[tuple[str, Optional[int]]]:
         if not re.search(r"[A-Za-z0-9\u4e00-\u9fff]", candidate):
             continue
 
-        out.append((candidate, year))
+        out.append(
+            _Candidate(
+                title=candidate,
+                year=year,
+                origin=origin,
+                evidence=_trim_evidence(raw_line.strip()),
+            )
+        )
 
     # Dedup by normalized title+year preference (keep first yearful item).
-    seen: dict[str, tuple[str, Optional[int]]] = {}
-    for title, year in out:
-        key = f"{_normalize_title(title)}|{year or ''}"
+    seen: dict[str, _Candidate] = {}
+    for c in out:
+        key = f"{_normalize_title(c.title)}|{c.year or ''}"
         if key in seen:
             continue
-        seen[key] = (title, year)
+        seen[key] = c
     return list(seen.values())
 
 
@@ -159,7 +182,8 @@ def _include_assistant(user_message: str) -> bool:
 @dataclass(frozen=True)
 class WatchlistCaptureResult:
     added: list[WatchlistItem]
-    candidates: list[tuple[str, Optional[int]]]
+    candidates: list[_Candidate]
+    trigger: str  # "explicit_add" | "recommendation"
 
 
 class WatchlistCaptureService:
@@ -193,16 +217,18 @@ class WatchlistCaptureService:
         assistant_message: str,
     ) -> WatchlistCaptureResult:
         if not self._enabled or self._max_items_per_turn <= 0:
-            return WatchlistCaptureResult(added=[], candidates=[])
+            return WatchlistCaptureResult(added=[], candidates=[], trigger="disabled")
         if not _should_capture(user_message):
-            return WatchlistCaptureResult(added=[], candidates=[])
+            return WatchlistCaptureResult(added=[], candidates=[], trigger="no_intent")
 
         # Candidates:
         # - always consider explicit titles in user message
-        candidates: list[tuple[str, Optional[int]]] = []
-        candidates.extend(_extract_titles_from_text(user_message))
-        if _include_assistant(user_message):
-            candidates.extend(_extract_titles_from_text(assistant_message))
+        candidates: list[_Candidate] = []
+        candidates.extend(_extract_titles_from_text(user_message, origin="user"))
+        include_assistant = _include_assistant(user_message)
+        if include_assistant:
+            candidates.extend(_extract_titles_from_text(assistant_message, origin="assistant"))
+        trigger = "recommendation" if include_assistant else "explicit_add"
 
         # Dedup vs existing watchlist (simple best-effort: scan first page).
         try:
@@ -212,15 +238,18 @@ class WatchlistCaptureService:
         existing_keys = {_normalize_title(i.title) for i in (existing or []) if i.title}
 
         added: list[WatchlistItem] = []
-        for title, year in candidates:
+        for c in candidates:
             if len(added) >= self._max_items_per_turn:
                 break
-            norm = _normalize_title(title)
+            norm = _normalize_title(c.title)
             if not norm or norm in existing_keys:
                 continue
             try:
                 metadata = {
                     "source": "auto_capture",
+                    "capture_trigger": trigger,
+                    "capture_origin": c.origin,
+                    "capture_evidence": _trim_evidence(c.evidence),
                     "conversation_id": str(conversation_id) if conversation_id else None,
                     "user_message_id": str(user_message_id) if user_message_id else None,
                     "assistant_message_id": str(assistant_message_id) if assistant_message_id else None,
@@ -229,8 +258,8 @@ class WatchlistCaptureService:
                 metadata = {k: v for k, v in metadata.items() if v is not None}
                 item = await self._store.add_item(
                     user_id=str(user_id),
-                    title=title,
-                    year=year,
+                    title=c.title,
+                    year=c.year,
                     metadata=metadata or None,
                 )
             except Exception:
@@ -238,4 +267,4 @@ class WatchlistCaptureService:
             added.append(item)
             existing_keys.add(norm)
 
-        return WatchlistCaptureResult(added=added, candidates=candidates)
+        return WatchlistCaptureResult(added=added, candidates=candidates, trigger=trigger)

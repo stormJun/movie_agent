@@ -123,6 +123,13 @@ async def list_watchlist(
             "updated_at": getattr(i, "updated_at", None),
             "deleted_at": getattr(i, "deleted_at", None),
             "source": (i.metadata or {}).get("source") if isinstance(i.metadata, dict) else None,
+            # Convenience fields for explainability/UX (backed by metadata).
+            "capture_trigger": (i.metadata or {}).get("capture_trigger") if isinstance(i.metadata, dict) else None,
+            "capture_origin": (i.metadata or {}).get("capture_origin") if isinstance(i.metadata, dict) else None,
+            "capture_evidence": (i.metadata or {}).get("capture_evidence") if isinstance(i.metadata, dict) else None,
+            "conversation_id": (i.metadata or {}).get("conversation_id") if isinstance(i.metadata, dict) else None,
+            "user_message_id": (i.metadata or {}).get("user_message_id") if isinstance(i.metadata, dict) else None,
+            "assistant_message_id": (i.metadata or {}).get("assistant_message_id") if isinstance(i.metadata, dict) else None,
             "metadata": i.metadata or {},
         }
         for i in (items or [])
@@ -154,6 +161,12 @@ async def add_watchlist_item(
         "updated_at": getattr(item, "updated_at", None),
         "deleted_at": getattr(item, "deleted_at", None),
         "source": (item.metadata or {}).get("source") if isinstance(item.metadata, dict) else None,
+        "capture_trigger": (item.metadata or {}).get("capture_trigger") if isinstance(item.metadata, dict) else None,
+        "capture_origin": (item.metadata or {}).get("capture_origin") if isinstance(item.metadata, dict) else None,
+        "capture_evidence": (item.metadata or {}).get("capture_evidence") if isinstance(item.metadata, dict) else None,
+        "conversation_id": (item.metadata or {}).get("conversation_id") if isinstance(item.metadata, dict) else None,
+        "user_message_id": (item.metadata or {}).get("user_message_id") if isinstance(item.metadata, dict) else None,
+        "assistant_message_id": (item.metadata or {}).get("assistant_message_id") if isinstance(item.metadata, dict) else None,
         "metadata": item.metadata or {},
     }
 
@@ -189,6 +202,12 @@ async def update_watchlist_item(
         "updated_at": getattr(updated, "updated_at", None),
         "deleted_at": getattr(updated, "deleted_at", None),
         "source": (updated.metadata or {}).get("source") if isinstance(updated.metadata, dict) else None,
+        "capture_trigger": (updated.metadata or {}).get("capture_trigger") if isinstance(updated.metadata, dict) else None,
+        "capture_origin": (updated.metadata or {}).get("capture_origin") if isinstance(updated.metadata, dict) else None,
+        "capture_evidence": (updated.metadata or {}).get("capture_evidence") if isinstance(updated.metadata, dict) else None,
+        "conversation_id": (updated.metadata or {}).get("conversation_id") if isinstance(updated.metadata, dict) else None,
+        "user_message_id": (updated.metadata or {}).get("user_message_id") if isinstance(updated.metadata, dict) else None,
+        "assistant_message_id": (updated.metadata or {}).get("assistant_message_id") if isinstance(updated.metadata, dict) else None,
         "metadata": updated.metadata or {},
     }
 
@@ -231,6 +250,12 @@ async def restore_watchlist_item(
         "updated_at": getattr(restored, "updated_at", None),
         "deleted_at": getattr(restored, "deleted_at", None),
         "source": (restored.metadata or {}).get("source") if isinstance(restored.metadata, dict) else None,
+        "capture_trigger": (restored.metadata or {}).get("capture_trigger") if isinstance(restored.metadata, dict) else None,
+        "capture_origin": (restored.metadata or {}).get("capture_origin") if isinstance(restored.metadata, dict) else None,
+        "capture_evidence": (restored.metadata or {}).get("capture_evidence") if isinstance(restored.metadata, dict) else None,
+        "conversation_id": (restored.metadata or {}).get("conversation_id") if isinstance(restored.metadata, dict) else None,
+        "user_message_id": (restored.metadata or {}).get("user_message_id") if isinstance(restored.metadata, dict) else None,
+        "assistant_message_id": (restored.metadata or {}).get("assistant_message_id") if isinstance(restored.metadata, dict) else None,
         "metadata": restored.metadata or {},
     }
 

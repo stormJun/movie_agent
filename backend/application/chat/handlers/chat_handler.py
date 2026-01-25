@@ -93,6 +93,8 @@ class ChatHandler:
 
         answer = str(resp.get("answer") or "")
 
+        watchlist_added: list[dict[str, Any]] = []
+
         # Persist assistant message + side effects (best-effort).
         if answer:
             assistant_message_id = await self._conversation_store.append_message(
@@ -140,7 +142,7 @@ class ChatHandler:
 
             if self._watchlist_capture is not None:
                 try:
-                    await self._watchlist_capture.maybe_capture(
+                    res = await self._watchlist_capture.maybe_capture(
                         user_id=user_id,
                         conversation_id=conversation_id,
                         user_message_id=current_user_message_id,
@@ -148,11 +150,30 @@ class ChatHandler:
                         user_message=message,
                         assistant_message=answer,
                     )
+                    for it in res.added or []:
+                        meta = it.metadata if isinstance(getattr(it, "metadata", None), dict) else {}
+                        watchlist_added.append(
+                            {
+                                "id": str(it.id),
+                                "title": it.title,
+                                "year": it.year,
+                                "status": getattr(it, "status", "to_watch"),
+                                "source": meta.get("source"),
+                                "capture_trigger": meta.get("capture_trigger"),
+                                "capture_origin": meta.get("capture_origin"),
+                                "capture_evidence": meta.get("capture_evidence"),
+                                "conversation_id": meta.get("conversation_id"),
+                                "user_message_id": meta.get("user_message_id"),
+                                "assistant_message_id": meta.get("assistant_message_id"),
+                            }
+                        )
                 except Exception:
                     pass
 
         # Shape to the existing ChatResponse contract.
         out: dict[str, Any] = {"answer": answer, "debug": bool(debug)}
+        if watchlist_added:
+            out["watchlist_auto_capture"] = {"added": watchlist_added}
         if resp.get("reference") is not None:
             out["reference"] = resp.get("reference")
         if resp.get("retrieval_results") is not None:

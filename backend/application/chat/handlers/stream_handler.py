@@ -75,6 +75,7 @@ class StreamHandler:
 
         tokens: list[str] = []
         completed_normally = False
+        pending_done_event: dict[str, Any] | None = None
 
         try:
             async for event in self._graph.astream_custom(
@@ -92,60 +93,96 @@ class StreamHandler:
             ):
                 if isinstance(event, dict) and event.get("status") == "token":
                     tokens.append(str(event.get("content") or ""))
+
                 if isinstance(event, dict) and event.get("status") == "done":
+                    # Delay the terminal "done" until we've persisted messages and
+                    # emitted any post-turn UX events (e.g., watchlist auto-capture).
                     completed_normally = True
+                    pending_done_event = event
+                    break
+
                 yield event
         finally:
-            answer = "".join(tokens).strip()
-            if not answer:
+            # Best-effort persistence on generator close / cancellation.
+            if pending_done_event is None and not tokens:
                 return
 
-            assistant_message_id = await self._conversation_store.append_message(
-                conversation_id=conversation_id,
-                role="assistant",
-                content=answer,
-                debug={"partial": not completed_normally} if debug else None,
-                completed=completed_normally,
-            )
+        answer = "".join(tokens).strip()
+        if not answer:
+            if pending_done_event is not None:
+                yield pending_done_event
+            return
 
-            if completed_normally and self._conversation_summarizer is not None:
-                try:
-                    await self._conversation_summarizer.schedule_update(conversation_id=conversation_id)
-                except Exception:
-                    pass
+        assistant_message_id = await self._conversation_store.append_message(
+            conversation_id=conversation_id,
+            role="assistant",
+            content=answer,
+            debug={"partial": not completed_normally} if debug else None,
+            completed=completed_normally,
+        )
 
-            if completed_normally and self._episodic_memory is not None:
-                try:
-                    await self._episodic_memory.schedule_index_episode(
-                        conversation_id=conversation_id,
-                        user_message_id=current_user_message_id,
-                        assistant_message_id=assistant_message_id,
-                        user_message=message,
-                        assistant_message=answer,
+        if completed_normally and self._conversation_summarizer is not None:
+            try:
+                await self._conversation_summarizer.schedule_update(conversation_id=conversation_id)
+            except Exception:
+                pass
+
+        if completed_normally and self._episodic_memory is not None:
+            try:
+                await self._episodic_memory.schedule_index_episode(
+                    conversation_id=conversation_id,
+                    user_message_id=current_user_message_id,
+                    assistant_message_id=assistant_message_id,
+                    user_message=message,
+                    assistant_message=answer,
+                )
+            except Exception:
+                pass
+
+        if completed_normally and self._memory_service is not None:
+            try:
+                await self._memory_service.maybe_write(
+                    user_id=user_id,
+                    user_message=message,
+                    assistant_message=answer,
+                    metadata={"session_id": session_id, "kb_prefix": kb_prefix or ""},
+                )
+            except Exception:
+                pass
+
+        watchlist_added: list[dict[str, Any]] = []
+        if completed_normally and self._watchlist_capture is not None:
+            try:
+                res = await self._watchlist_capture.maybe_capture(
+                    user_id=user_id,
+                    conversation_id=conversation_id,
+                    user_message_id=current_user_message_id,
+                    assistant_message_id=assistant_message_id,
+                    user_message=message,
+                    assistant_message=answer,
+                )
+                for it in res.added or []:
+                    meta = it.metadata if isinstance(getattr(it, "metadata", None), dict) else {}
+                    watchlist_added.append(
+                        {
+                            "id": str(it.id),
+                            "title": it.title,
+                            "year": it.year,
+                            "status": getattr(it, "status", "to_watch"),
+                            "source": meta.get("source"),
+                            "capture_trigger": meta.get("capture_trigger"),
+                            "capture_origin": meta.get("capture_origin"),
+                            "capture_evidence": meta.get("capture_evidence"),
+                            "conversation_id": meta.get("conversation_id"),
+                            "user_message_id": meta.get("user_message_id"),
+                            "assistant_message_id": meta.get("assistant_message_id"),
+                        }
                     )
-                except Exception:
-                    pass
+            except Exception:
+                pass
 
-            if completed_normally and self._memory_service is not None:
-                try:
-                    await self._memory_service.maybe_write(
-                        user_id=user_id,
-                        user_message=message,
-                        assistant_message=answer,
-                        metadata={"session_id": session_id, "kb_prefix": kb_prefix or ""},
-                    )
-                except Exception:
-                    pass
+        if watchlist_added:
+            yield {"status": "watchlist_auto_capture", "content": {"added": watchlist_added}}
 
-            if completed_normally and self._watchlist_capture is not None:
-                try:
-                    await self._watchlist_capture.maybe_capture(
-                        user_id=user_id,
-                        conversation_id=conversation_id,
-                        user_message_id=current_user_message_id,
-                        assistant_message_id=assistant_message_id,
-                        user_message=message,
-                        assistant_message=answer,
-                    )
-                except Exception:
-                    pass
+        if pending_done_event is not None:
+            yield pending_done_event

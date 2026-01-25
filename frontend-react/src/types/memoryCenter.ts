@@ -18,6 +18,12 @@ export interface MemoryDashboardResponse {
     updated_at?: string | null;
     deleted_at?: string | null;
     source?: string | null;
+    capture_trigger?: string | null;
+    capture_origin?: string | null;
+    capture_evidence?: string | null;
+    conversation_id?: string | null;
+    user_message_id?: string | null;
+    assistant_message_id?: string | null;
     metadata?: Record<string, any>;
   }>;
   stats: {
@@ -37,5 +43,11 @@ export interface WatchlistItemDto {
   updated_at?: string | null;
   deleted_at?: string | null;
   source?: string | null;
+  capture_trigger?: string | null;
+  capture_origin?: string | null;
+  capture_evidence?: string | null;
+  conversation_id?: string | null;
+  user_message_id?: string | null;
+  assistant_message_id?: string | null;
   metadata?: Record<string, any>;
 }

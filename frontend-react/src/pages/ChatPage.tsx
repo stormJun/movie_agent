@@ -42,6 +42,7 @@ import { getKnowledgeGraphFromMessage } from "../services/graph";
 import type { KnowledgeGraphResponse } from "../types/graph";
 import { getSourceContent, getSourceInfoBatch } from "../services/source";
 import { sendFeedback } from "../services/feedback";
+import { deleteWatchlistItem } from "../services/memoryCenter";
 import { KnowledgeGraphPanel } from "../components/KnowledgeGraphPanel";
 import { SessionList } from "../components/SessionList";
 import DebugDrawer from "../components/debug/DebugDrawer";
@@ -211,6 +212,48 @@ export function ChatPage() {
   const [perfEvents, setPerfEvents] = useState<
     Array<{ op: string; ms: number; ts: number }>
   >([]);
+
+  function notifyWatchlistAutoCapture(added: Array<Record<string, unknown>>) {
+    if (!added?.length) return;
+    const titles = added
+      .map((x) => (typeof x.title === "string" ? x.title : ""))
+      .filter(Boolean)
+      .slice(0, 5);
+    const extra = added.length > titles.length ? ` 等${added.length}部` : "";
+    const msgKey = `watchlist_auto_capture.${Date.now()}`;
+
+    message.open({
+      key: msgKey,
+      type: "info",
+      duration: 6,
+      content: (
+        <Space>
+          <span>
+            已自动加入 Watchlist：{titles.join("、")}
+            {extra}
+          </span>
+          <Button
+            size="small"
+            onClick={async () => {
+              const ids = added
+                .map((x) => (typeof x.id === "string" ? x.id : ""))
+                .filter(Boolean);
+              if (!ids.length) return;
+              try {
+                await Promise.all(ids.map((id) => deleteWatchlistItem({ user_id: userId, item_id: id })));
+                message.success("已撤销本次加入");
+                message.destroy(msgKey);
+              } catch (e) {
+                message.error(e instanceof Error ? e.message : "撤销失败");
+              }
+            }}
+          >
+            撤销
+          </Button>
+        </Space>
+      ),
+    });
+  }
 
   const [sourceDrawerOpen, setSourceDrawerOpen] = useState(false);
   const [sourceDrawerTitle, setSourceDrawerTitle] = useState<string>("");
@@ -517,6 +560,12 @@ export function ChatPage() {
           ...prev,
           { op: "chat", ms: performanceNow() - t0, ts: Date.now() },
         ]);
+
+        const added = (resp as any)?.watchlist_auto_capture?.added;
+        if (Array.isArray(added) && added.length) {
+          notifyWatchlistAutoCapture(added as Array<Record<string, unknown>>);
+        }
+
         setIsSending(false);
         setProcessingStage("");
         setProcessingPercent(0);
@@ -617,6 +666,14 @@ export function ChatPage() {
         }
         if (ev.status === "execution_logs") {
           if (Array.isArray(ev.content)) setExecutionLogs(ev.content as unknown[]);
+          return;
+        }
+        if (ev.status === "watchlist_auto_capture") {
+          const content = (ev as { content?: unknown }).content;
+          const added = isPlainRecord(content) ? (content as any).added : null;
+          if (Array.isArray(added) && added.length) {
+            notifyWatchlistAutoCapture(added as Array<Record<string, unknown>>);
+          }
           return;
         }
         if (ev.status === "done") {

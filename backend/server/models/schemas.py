@@ -26,6 +26,8 @@ class ChatResponse(BaseModel):
     iterations: Optional[List[Dict]] = None
     rag_runs: Optional[List[Dict[str, Any]]] = None
     route_decision: Optional[Dict[str, Any]] = None
+    # Best-effort post-turn side-effects for UX (e.g., watchlist auto-capture).
+    watchlist_auto_capture: Optional[Dict[str, Any]] = None
 
 
 class SourceRequest(BaseModel):

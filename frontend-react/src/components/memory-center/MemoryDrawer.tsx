@@ -35,6 +35,8 @@ export const MemoryDrawer: React.FC<MemoryDrawerProps> = ({ open, onClose, userI
   const [editItem, setEditItem] = useState<WatchlistItemDto | null>(null);
   const [editTitle, setEditTitle] = useState("");
   const [editYear, setEditYear] = useState<number | null>(null);
+  const [explainOpen, setExplainOpen] = useState(false);
+  const [explainItem, setExplainItem] = useState<WatchlistItemDto | null>(null);
 
   const tasteItems = useMemo(() => data?.taste_profile || [], [data]);
   const dashboardWatchlist = useMemo(() => data?.watchlist || [], [data]);
@@ -125,6 +127,12 @@ export const MemoryDrawer: React.FC<MemoryDrawerProps> = ({ open, onClose, userI
     if (s === "watched") return "已看";
     if (s === "dismissed") return "不想看";
     return "待看";
+  }
+
+  function originLabel(s: string | undefined) {
+    if (s === "assistant") return "助手回复";
+    if (s === "user") return "用户输入";
+    return "";
   }
 
   return (
@@ -479,6 +487,17 @@ export const MemoryDrawer: React.FC<MemoryDrawerProps> = ({ open, onClose, userI
                             >
                               <Button size="small" type="text" icon={<CloseOutlined />} aria-label="remove" />
                             </Popconfirm>
+                            {(it.source || it.metadata?.source) === "auto_capture" ? (
+                              <Button
+                                size="small"
+                                onClick={() => {
+                                  setExplainItem(it);
+                                  setExplainOpen(true);
+                                }}
+                              >
+                                来源
+                              </Button>
+                            ) : null}
                           </>
                         ) : (
                           <Button
@@ -556,6 +575,50 @@ export const MemoryDrawer: React.FC<MemoryDrawerProps> = ({ open, onClose, userI
             max={2100}
           />
         </Space>
+      </Modal>
+
+      <Modal
+        title="为什么会自动加入？"
+        open={explainOpen}
+        okText="知道了"
+        cancelText="关闭"
+        onCancel={() => setExplainOpen(false)}
+        onOk={() => setExplainOpen(false)}
+      >
+        {explainItem ? (
+          <Space direction="vertical" style={{ width: "100%" }} size={8}>
+            <Typography.Text>
+              标题：{explainItem.title}
+              {explainItem.year ? ` (${explainItem.year})` : ""}
+            </Typography.Text>
+            <Typography.Text type="secondary">
+              触发：{explainItem.capture_trigger || explainItem.metadata?.capture_trigger || "-"}
+              {originLabel(explainItem.capture_origin || explainItem.metadata?.capture_origin)
+                ? ` / 来源：${originLabel(explainItem.capture_origin || explainItem.metadata?.capture_origin)}`
+                : ""}
+            </Typography.Text>
+            {(explainItem.capture_evidence || explainItem.metadata?.capture_evidence) ? (
+              <Card size="small" title="证据片段">
+                <Typography.Paragraph style={{ whiteSpace: "pre-wrap", marginBottom: 0 }}>
+                  {String(explainItem.capture_evidence || explainItem.metadata?.capture_evidence || "")}
+                </Typography.Paragraph>
+              </Card>
+            ) : null}
+            <Typography.Text type="secondary" style={{ fontSize: 12 }}>
+              conversation_id: {String(explainItem.conversation_id || explainItem.metadata?.conversation_id || "-")}
+            </Typography.Text>
+            <Typography.Text type="secondary" style={{ fontSize: 12 }}>
+              user_message_id: {String(explainItem.user_message_id || explainItem.metadata?.user_message_id || "-")}
+            </Typography.Text>
+            <Typography.Text type="secondary" style={{ fontSize: 12 }}>
+              assistant_message_id:{" "}
+              {String(explainItem.assistant_message_id || explainItem.metadata?.assistant_message_id || "-")}
+            </Typography.Text>
+            <Typography.Text type="secondary" style={{ fontSize: 12 }}>
+              提示：你可以点击“移除”来撤销这条自动加入；未来可以进一步支持“本回合一键撤销”。
+            </Typography.Text>
+          </Space>
+        ) : null}
       </Modal>
     </Drawer>
   );
