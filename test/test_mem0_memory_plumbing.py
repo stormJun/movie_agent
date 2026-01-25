@@ -29,6 +29,7 @@ class _StubConversationStore(ConversationStorePort):
         content: str,
         citations=None,
         debug=None,
+        completed: bool = True,
     ):
         return "m1"
 
@@ -102,9 +103,11 @@ class _StubCompletion:
         *,
         message: str,
         memory_context: str | None = None,
+        summary: str | None = None,
+        episodic_context: str | None = None,
         history: list[dict[str, Any]] | None = None,
     ) -> str:
-        _ = history
+        _ = (history, summary, episodic_context)
         self.last_memory_context = memory_context
         return "ok"
 
@@ -122,9 +125,11 @@ class _StubExecutor:
         kb_prefix: str,
         debug: bool,
         memory_context: str | None = None,
+        summary: str | None = None,
+        episodic_context: str | None = None,
         history: list[dict[str, Any]] | None = None,
     ) -> tuple[RagRunResult, list[RagRunResult]]:
-        _ = history
+        _ = (history, summary, episodic_context)
         self.last_memory_context = memory_context
         return RagRunResult(agent_type="rag_executor", answer="ok"), []
 
@@ -142,9 +147,11 @@ class _StubStreamExecutor:
         kb_prefix: str,
         debug: bool,
         memory_context: str | None = None,
+        summary: str | None = None,
+        episodic_context: str | None = None,
         history: list[dict[str, Any]] | None = None,
     ) -> AsyncGenerator[dict[str, Any], None]:
-        _ = history
+        _ = (history, summary, episodic_context)
         self.last_memory_context = memory_context
         yield {"status": "token", "content": "ok"}
         yield {"status": "done"}
@@ -161,6 +168,7 @@ class TestMem0MemoryPlumbing(unittest.IsolatedAsyncioTestCase):
         h = ChatHandler(
             router=_RouterGeneral(),
             executor=_StubExecutor(),
+            stream_executor=_StubStreamExecutor(),  # type: ignore[arg-type]
             completion=completion,
             conversation_store=_StubConversationStore(),
             memory_service=memory,
@@ -186,6 +194,7 @@ class TestMem0MemoryPlumbing(unittest.IsolatedAsyncioTestCase):
         h = ChatHandler(
             router=_RouterRag(),
             executor=executor,
+            stream_executor=_StubStreamExecutor(),  # type: ignore[arg-type]
             completion=_StubCompletion(),
             conversation_store=_StubConversationStore(),
             memory_service=memory,
@@ -209,7 +218,9 @@ class TestMem0MemoryPlumbing(unittest.IsolatedAsyncioTestCase):
         )
         h = StreamHandler(
             router=_RouterRag(),
-            executor=executor,
+            executor=_StubExecutor(),  # type: ignore[arg-type]
+            stream_executor=executor,  # type: ignore[arg-type]
+            completion=_StubCompletion(),  # type: ignore[arg-type]
             conversation_store=_StubConversationStore(),
             memory_service=memory,
         )
@@ -270,6 +281,7 @@ class TestMem0MemoryPlumbing(unittest.IsolatedAsyncioTestCase):
         h = ChatHandler(
             router=_RouterMovie(),
             executor=_StubExecutor(),
+            stream_executor=_StubStreamExecutor(),  # type: ignore[arg-type]
             completion=_StubCompletion(),
             conversation_store=_StubConversationStore(),
             memory_service=memory,

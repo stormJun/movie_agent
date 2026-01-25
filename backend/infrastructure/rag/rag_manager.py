@@ -125,6 +125,8 @@ class RagManager:
         kb_prefix: str,
         debug: bool,
         memory_context: str | None = None,
+        summary: str | None = None,
+        episodic_context: str | None = None,
         history: list[dict[str, Any]] | None = None,
     ) -> tuple[RagRunResult, list[RagRunResult]]:
         runs, aggregated, combined_context = await self.run_plan_retrieval(
@@ -143,6 +145,8 @@ class RagManager:
                     question=message,
                     context=combined_context,
                     memory_context=memory_context,
+                    summary=summary,
+                    episodic_context=episodic_context,
                     history=history,
                 ),
                 timeout=RAG_ANSWER_TIMEOUT_S,

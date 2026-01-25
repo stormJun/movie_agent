@@ -66,6 +66,7 @@ export interface DebugData {
   error_events: Array<{ message: string; timestamp: string }>;
   route_decision: JsonValue | null;
   rag_runs: Array<JsonValue>;
+  episodic_memory?: Array<JsonValue>;
   trace: Array<JsonValue>;
   kg_data: JsonValue | null;
   performance_metrics?: {

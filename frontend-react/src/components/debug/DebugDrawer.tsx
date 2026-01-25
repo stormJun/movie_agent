@@ -5,8 +5,9 @@ import type { DebugData } from '../../types/chat';
 import OverviewTab from './OverviewTab';
 import TimelineTab from './TimelineTab';
 import RetrievalTab from './RetrievalTab';
+import EpisodicTab from './EpisodicTab';
 import RawTab from './RawTab';
-import { extractExecutionLog, extractRagRuns } from '../../utils/debugHelpers';
+import { extractExecutionLog, extractRagRuns, extractEpisodicEpisodes } from '../../utils/debugHelpers';
 
 interface DebugDrawerProps {
     open: boolean;
@@ -25,14 +26,16 @@ const DebugDrawer: React.FC<DebugDrawerProps> = ({
 }) => {
     const executionLog = extractExecutionLog(debugData);
     const ragRuns = extractRagRuns(debugData);
+    const episodicEpisodes = extractEpisodicEpisodes(debugData);
 
     console.log('[DebugDrawer] Props:', {
         open,
         debugMode,
         hasDebugData: !!debugData,
-        debugDataKeys: debugData ? Object.keys(debugData) : [],
+                debugDataKeys: debugData ? Object.keys(debugData) : [],
         executionLogCount: executionLog.length,
-        ragRunsCount: ragRuns.length
+        ragRunsCount: ragRuns.length,
+        episodicCount: episodicEpisodes.length,
     });
 
     return (
@@ -75,6 +78,11 @@ const DebugDrawer: React.FC<DebugDrawerProps> = ({
                                 onOpenSource={onOpenSource}
                             />
                         ),
+                    },
+                    {
+                        key: 'episodic',
+                        label: `情节记忆 (${episodicEpisodes.length})`,
+                        children: <EpisodicTab episodes={episodicEpisodes} />,
                     },
                     {
                         key: 'raw',

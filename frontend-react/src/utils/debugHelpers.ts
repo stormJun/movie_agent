@@ -8,6 +8,7 @@ import type {
     SourceAggregation,
     TimelineNode,
     ErrorSummaryItem,
+    EpisodicEpisode,
 } from '../components/debug/debug.types';
 import type { DebugData } from '../types/chat';
 import type { JsonValue } from '../types/api';
@@ -117,6 +118,23 @@ export function extractRouteDecision(debugData: DebugData | null): RouteDecision
     if (!debugData?.route_decision || !isPlainRecord(debugData.route_decision)) return null;
     const rd = debugData.route_decision;
 
+    const deriveSelectedAgent = (): string => {
+        const selected = typeof rd.selected_agent === 'string' ? rd.selected_agent.trim() : '';
+        if (selected) return selected;
+
+        const agentType = typeof rd.agent_type === 'string' ? rd.agent_type.trim() : '';
+        if (agentType) return agentType;
+
+        // worker_name v2 is typically: {kb_prefix}:{agent_type}:{agent_mode}
+        const worker = typeof rd.worker_name === 'string' ? rd.worker_name.trim() : '';
+        if (worker) {
+            const parts = worker.split(':').map((p) => p.trim()).filter(Boolean);
+            if (parts.length >= 2) return parts[1];
+            return parts[0];
+        }
+        return 'unknown';
+    };
+
     const alternatives: Array<{ agent: string; score: number }> = [];
     if (Array.isArray(rd.alternatives)) {
         for (const alt of rd.alternatives) {
@@ -127,11 +145,29 @@ export function extractRouteDecision(debugData: DebugData | null): RouteDecision
     }
 
     return {
-        selected_agent: String(rd.selected_agent || 'unknown'),
+        selected_agent: deriveSelectedAgent(),
         reasoning: rd.reasoning ? String(rd.reasoning) : undefined,
         confidence: typeof rd.confidence === 'number' ? rd.confidence : undefined,
         alternatives: alternatives.length > 0 ? alternatives : undefined,
     };
+}
+
+export function extractEpisodicEpisodes(debugData: DebugData | null): EpisodicEpisode[] {
+    const raw = debugData?.episodic_memory;
+    if (!Array.isArray(raw)) return [];
+    const episodes: EpisodicEpisode[] = [];
+    for (const item of raw) {
+        if (!isPlainRecord(item)) continue;
+        episodes.push({
+            user_message: typeof item.user_message === 'string' ? item.user_message : undefined,
+            assistant_message: typeof item.assistant_message === 'string' ? item.assistant_message : undefined,
+            similarity: typeof item.similarity === 'number' ? item.similarity : undefined,
+            created_at: item.created_at as unknown,
+            assistant_message_id: typeof item.assistant_message_id === 'string' ? item.assistant_message_id : undefined,
+            user_message_id: typeof item.user_message_id === 'string' ? item.user_message_id : undefined,
+        });
+    }
+    return episodes;
 }
 
 // ========== 性能指标计算 ==========

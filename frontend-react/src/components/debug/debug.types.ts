@@ -45,6 +45,17 @@ export interface RagRun {
     granularity?: string;
 }
 
+// ========== Phase 2: 情节记忆（Episodic Memory）==========
+
+export interface EpisodicEpisode {
+    user_message?: string;
+    assistant_message?: string;
+    similarity?: number;
+    created_at?: unknown;
+    assistant_message_id?: string;
+    user_message_id?: string;
+}
+
 // ========== 路由决策类型 ==========
 
 export interface RouteDecision {
@@ -124,4 +135,8 @@ export interface RetrievalTabProps {
     ragRuns: RagRun[];
     executionLog: ExecutionLogNode[];
     onOpenSource?: (sourceId: string) => void;
+}
+
+export interface EpisodicTabProps {
+    episodes: EpisodicEpisode[];
 }

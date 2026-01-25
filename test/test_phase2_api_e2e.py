@@ -56,9 +56,11 @@ class _StubCompletion:
         *,
         message: str,
         memory_context: str | None = None,
+        summary: str | None = None,
+        episodic_context: str | None = None,
         history: List[Dict[str, Any]] | None = None,
     ) -> str:
-        _ = history
+        _ = (history, memory_context, summary, episodic_context)
         return f"GEN:{message}"
 
 
@@ -74,6 +76,7 @@ class _StubConversationStore(ConversationStorePort):
         content: str,
         citations=None,
         debug=None,
+        completed: bool = True,
     ):
         return "m1"
 
@@ -94,7 +97,11 @@ class _StubExecutor:
         kb_prefix: str,
         debug: bool,
         memory_context: str | None = None,
+        summary: str | None = None,
+        episodic_context: str | None = None,
+        history: List[Dict[str, Any]] | None = None,
     ) -> tuple[RagRunResult, List[RagRunResult]]:
+        _ = (history, memory_context, summary, episodic_context)
         run = RagRunResult(
             agent_type=(plan[0].agent_type if plan else "none"),
             answer="",
@@ -129,9 +136,11 @@ class _StubStreamExecutor:
         kb_prefix: str,
         debug: bool,
         memory_context: str | None = None,
+        summary: str | None = None,
+        episodic_context: str | None = None,
         history: List[Dict[str, Any]] | None = None,
     ) -> AsyncGenerator[dict[str, Any], None]:
-        _ = history
+        _ = (history, memory_context, summary, episodic_context)
         # Mimic Phase2 behavior: emit progress, tokens, then done.
         yield {
             "status": "progress",
@@ -169,9 +178,11 @@ class _StubKBHandler:
         agent_type: str,
         debug: bool,
         memory_context: str | None = None,
+        summary: str | None = None,
+        episodic_context: str | None = None,
         history: List[Dict[str, Any]] | None = None,
     ) -> Dict[str, Any]:
-        _ = (memory_context, history)
+        _ = (memory_context, summary, episodic_context, history)
         return {
             "answer": f"KB:{self._kb_prefix}:{message}",
             "reference": {"chunks": [{"chunk_id": f"{self._kb_prefix}:c1"}]},
@@ -193,9 +204,11 @@ class _StubKBHandler:
         agent_type: str,
         debug: bool,
         memory_context: str | None = None,
+        summary: str | None = None,
+        episodic_context: str | None = None,
         history: List[Dict[str, Any]] | None = None,
     ) -> AsyncGenerator[dict[str, Any], None]:
-        _ = (memory_context, history)
+        _ = (memory_context, summary, episodic_context, history)
         yield {
             "status": "progress",
             "content": {"stage": "retrieval", "completed": 0, "total": 1, "error": None},
@@ -239,9 +252,11 @@ class TestPhase2ApiE2E(unittest.TestCase):
         router = _StubRouter()
         kb_factory = _StubKBHandlerFactory()
         conversation_store = _StubConversationStore()
+        stream_exec = _StubStreamExecutor()
         self._chat_handler = ChatHandler(
             router=router,
             executor=_StubExecutor(),
+            stream_executor=stream_exec,  # type: ignore[arg-type]
             completion=_StubCompletion(),
             conversation_store=conversation_store,
             kb_handler_factory=kb_factory,  # type: ignore[arg-type]
@@ -249,7 +264,9 @@ class TestPhase2ApiE2E(unittest.TestCase):
         )
         self._stream_handler = StreamHandler(
             router=router,
-            executor=_StubStreamExecutor(),  # type: ignore[arg-type]
+            executor=_StubExecutor(),  # type: ignore[arg-type]
+            stream_executor=stream_exec,  # type: ignore[arg-type]
+            completion=_StubCompletion(),  # type: ignore[arg-type]
             conversation_store=conversation_store,
             kb_handler_factory=kb_factory,  # type: ignore[arg-type]
             enable_kb_handlers=True,

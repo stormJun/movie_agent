@@ -4,7 +4,7 @@ import asyncio
 import json
 import logging
 from datetime import datetime
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Any, Dict, List, Optional, Sequence, Tuple
 from uuid import UUID, uuid4
 
 from application.ports.conversation_store_port import ConversationStorePort
@@ -49,6 +49,7 @@ class InMemoryConversationStore(ConversationStorePort):
         content: str,
         citations: Optional[Dict[str, Any]] = None,
         debug: Optional[Dict[str, Any]] = None,
+        completed: bool = True,
     ) -> UUID:
         msg_id = uuid4()
         self._messages.setdefault(conversation_id, []).append(
@@ -60,6 +61,7 @@ class InMemoryConversationStore(ConversationStorePort):
                 "created_at": datetime.utcnow(),
                 "citations": citations,
                 "debug": debug,
+                "completed": bool(completed),
             }
         )
         return msg_id
@@ -75,10 +77,25 @@ class InMemoryConversationStore(ConversationStorePort):
         rows = list(self._messages.get(conversation_id, []))
         if before is not None:
             rows = [r for r in rows if isinstance(r.get("created_at"), datetime) and r["created_at"] < before]
-        rows.sort(key=lambda r: r.get("created_at") or datetime.min, reverse=desc)
+        # Stable ordering even when created_at ties (Postgres uses ORDER BY created_at, id).
+        rows.sort(key=lambda r: (r.get("created_at") or datetime.min, r.get("id")), reverse=desc)
         if limit is not None:
             rows = rows[: int(limit)]
         return rows
+
+    async def get_messages_by_ids(
+        self,
+        *,
+        conversation_id: UUID,
+        message_ids: Sequence[UUID],
+    ) -> List[Dict[str, Any]]:
+        ids = [x for x in (message_ids or []) if isinstance(x, UUID)]
+        if not ids:
+            return []
+        wanted = set(ids)
+        rows = [m for m in self._messages.get(conversation_id, []) if m.get("id") in wanted]
+        rows.sort(key=lambda r: (r.get("created_at") or datetime.min, r.get("id")))
+        return [dict(r) for r in rows]
 
     async def clear_messages(self, *, conversation_id: UUID) -> int:
         existing = self._messages.get(conversation_id, [])
@@ -168,14 +185,29 @@ class PostgresConversationStore(ConversationStorePort):
                         content text NOT NULL,
                         created_at timestamptz NOT NULL DEFAULT NOW(),
                         citations jsonb,
-                        debug jsonb
+                        debug jsonb,
+                        completed boolean NOT NULL DEFAULT true
                     );
+                    """
+                )
+                # Backfill for older deployments (messages table may exist without completed).
+                await conn.execute(
+                    """
+                    ALTER TABLE messages
+                    ADD COLUMN IF NOT EXISTS completed boolean NOT NULL DEFAULT true;
                     """
                 )
                 await conn.execute(
                     """
                     CREATE INDEX IF NOT EXISTS idx_messages_conversation_created
                     ON messages(conversation_id, created_at);
+                    """
+                )
+                # Support Phase 1 cursor pagination: (conversation_id, created_at, id).
+                await conn.execute(
+                    """
+                    CREATE INDEX IF NOT EXISTS idx_messages_conversation_created_id
+                    ON messages(conversation_id, created_at, id);
                     """
                 )
                 await conn.execute(
@@ -232,6 +264,7 @@ class PostgresConversationStore(ConversationStorePort):
         content: str,
         citations: Optional[Dict[str, Any]] = None,
         debug: Optional[Dict[str, Any]] = None,
+        completed: bool = True,
     ) -> UUID:
         # Sanitize JSONB fields to handle numpy types and other non-serializable objects
         citations_json = _sanitize_for_jsonb(citations)
@@ -241,8 +274,8 @@ class PostgresConversationStore(ConversationStorePort):
         async with pool.acquire() as conn:
             row = await conn.fetchrow(
                 """
-                INSERT INTO messages (conversation_id, role, content, citations, debug)
-                VALUES ($1, $2, $3, $4::jsonb, $5::jsonb)
+                INSERT INTO messages (conversation_id, role, content, citations, debug, completed)
+                VALUES ($1, $2, $3, $4::jsonb, $5::jsonb, $6)
                 RETURNING id
                 """,
                 conversation_id,
@@ -250,6 +283,7 @@ class PostgresConversationStore(ConversationStorePort):
                 content,
                 citations_json,
                 debug_json,
+                bool(completed),
             )
             if not row:
                 raise RuntimeError("failed to append message")
@@ -272,11 +306,36 @@ class PostgresConversationStore(ConversationStorePort):
                 params.append(before)
             
             order_dir = "DESC" if desc else "ASC"
-            sql += f" ORDER BY created_at {order_dir}"
+            # Stable ordering: break ties by message id.
+            sql += f" ORDER BY created_at {order_dir}, id {order_dir}"
             if limit is not None:
                 sql += f" LIMIT ${len(params) + 1}"
                 params.append(int(limit))
             rows = await conn.fetch(sql, *params)
+            return [dict(r) for r in rows]
+
+    async def get_messages_by_ids(
+        self,
+        *,
+        conversation_id: UUID,
+        message_ids: Sequence[UUID],
+    ) -> List[Dict[str, Any]]:
+        ids = [x for x in (message_ids or []) if isinstance(x, UUID)]
+        if not ids:
+            return []
+        pool = await self._get_pool()
+        async with pool.acquire() as conn:
+            rows = await conn.fetch(
+                """
+                SELECT id, role, content, created_at, citations, debug, completed
+                FROM messages
+                WHERE conversation_id = $1
+                  AND id = ANY($2::uuid[])
+                ORDER BY created_at ASC, id ASC
+                """,
+                conversation_id,
+                ids,
+            )
             return [dict(r) for r in rows]
 
     async def clear_messages(self, *, conversation_id: UUID) -> int:

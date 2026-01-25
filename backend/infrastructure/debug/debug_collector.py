@@ -23,6 +23,7 @@ class DebugDataCollector:
         self.error_events: List[Dict[str, Any]] = []
         self.route_decision: Optional[Dict[str, Any]] = None
         self.rag_runs: List[Dict[str, Any]] = []
+        self.episodic_memory: List[Dict[str, Any]] = []
         self.trace: List[Dict[str, Any]] = []
         self.kg_data: Optional[Dict[str, Any]] = None
 
@@ -58,6 +59,11 @@ class DebugDataCollector:
             if isinstance(content, list):
                 # Expect List[Dict[str, Any]].
                 self.rag_runs = [x for x in content if isinstance(x, dict)]
+            return
+
+        if event_type == "episodic_memory":
+            if isinstance(content, list):
+                self.episodic_memory = [x for x in content if isinstance(x, dict)]
             return
 
     def _calculate_performance_metrics(self) -> Dict[str, Any]:
@@ -142,6 +148,7 @@ class DebugDataCollector:
             "error_events": self.error_events,
             "route_decision": self.route_decision,
             "rag_runs": self.rag_runs,
+            "episodic_memory": self.episodic_memory,
             "trace": self.trace,
             "kg_data": self.kg_data,
             "performance_metrics": self._calculate_performance_metrics(),

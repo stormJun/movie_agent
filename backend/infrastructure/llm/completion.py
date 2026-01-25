@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 import time
-from typing import AsyncGenerator
+from typing import Any, AsyncGenerator
 
 from langchain_core.messages import BaseMessage, HumanMessage, AIMessage
 from langchain_core.output_parsers import StrOutputParser
@@ -31,8 +31,35 @@ _GENERAL_SYSTEM_PROMPT = (
 _GENERAL_HUMAN_PROMPT = "{question}"
 
 
-def _preview_text(value: str | None, limit: int = 200) -> str:
-    text = (value or "").strip()
+def _coerce_text(value: Any) -> str:
+    """Best-effort coercion for optional prompt context fields.
+
+    Upstream integrations should pass strings for memory/summary/episodic context,
+    but in practice dict/list payloads can leak through (especially around debug
+    plumbing). Prefer degrading to empty text rather than crashing requests.
+    """
+    if value is None:
+        return ""
+    if isinstance(value, str):
+        return value
+    if isinstance(value, dict):
+        for k in ("summary", "content", "text"):
+            v = value.get(k)
+            if isinstance(v, str):
+                return v
+        return ""
+    if isinstance(value, list):
+        # Avoid dumping structured objects into the prompt.
+        parts: list[str] = []
+        for x in value:
+            if isinstance(x, str) and x.strip():
+                parts.append(x.strip())
+        return "\n".join(parts)
+    return str(value)
+
+
+def _preview_text(value: Any, limit: int = 200) -> str:
+    text = _coerce_text(value).strip()
     if not text:
         return ""
     if limit <= 0:
@@ -59,20 +86,27 @@ def _convert_history_to_messages(history: list[dict] | None) -> list[BaseMessage
 
 
 def _build_general_prompt(*, with_memory: bool, with_history: bool) -> ChatPromptTemplate:
-    human = "{question}"
-    if with_memory:
-        human = "{memory_context}\n\n{question}"
-    
+    # Use system blocks for memory/summary to avoid treating them as user content.
     msgs = [("system", _GENERAL_SYSTEM_PROMPT)]
+    if with_memory:
+        msgs.append(("system", "{memory_context}"))
+    # Phase 1: conversation summary (optional)
+    msgs.append(("system", "{conversation_summary}"))  # safe even when empty
+    # Phase 2: episodic memory context (optional)
+    msgs.append(("system", "{episodic_context}"))  # safe even when empty
     if with_history:
         msgs.append(MessagesPlaceholder(variable_name="history"))
-    msgs.append(("human", human))
+    msgs.append(("human", "{question}"))
     
     return ChatPromptTemplate.from_messages(msgs)
 
 
 def _build_rag_prompt(with_history: bool = False) -> ChatPromptTemplate:
     msgs = [("system", LC_SYSTEM_PROMPT)]
+    # Keep memory/summary as system blocks to avoid treating them as user content.
+    msgs.append(("system", "{memory_context}"))  # safe even when empty
+    msgs.append(("system", "{conversation_summary}"))  # safe even when empty
+    msgs.append(("system", "{episodic_context}"))  # safe even when empty
     if with_history:
         msgs.append(MessagesPlaceholder(variable_name="history"))
     msgs.append(("human", HYBRID_AGENT_GENERATE_PROMPT))
@@ -85,19 +119,27 @@ def generate_general_answer(
     *,
     question: str,
     memory_context: str | None = None,
+    summary: str | None = None,
+    episodic_context: str | None = None,
     history: list[dict] | None = None,
 ) -> str:
     started_at = time.monotonic()
-    with_memory = bool((memory_context or "").strip())
+    memory_text = _coerce_text(memory_context).strip()
+    with_memory = bool(memory_text)
+    summary_text = _coerce_text(summary).strip()
     chat_history = _convert_history_to_messages(history)
     with_history = bool(chat_history)
     
     prompt = _build_general_prompt(with_memory=with_memory, with_history=with_history)
     llm = get_llm_model()
     chain = prompt | llm | StrOutputParser()
-    payload = {"question": question}
+    payload = {
+        "question": question,
+        "conversation_summary": summary_text,
+        "episodic_context": _coerce_text(episodic_context).strip(),
+    }
     if with_memory:
-        payload["memory_context"] = memory_context
+        payload["memory_context"] = memory_text
     if with_history:
         payload["history"] = chat_history
 
@@ -111,6 +153,8 @@ def generate_general_answer(
                 "with_memory": with_memory,
                 "with_history": with_history,
                 "history_len": len(chat_history),
+                "has_summary": bool(summary_text),
+                "has_episodic": bool(_coerce_text(episodic_context).strip()),
             },
         )
         
@@ -139,19 +183,27 @@ async def generate_general_answer_stream(
     *,
     question: str,
     memory_context: str | None = None,
+    summary: str | None = None,
+    episodic_context: str | None = None,
     history: list[dict] | None = None,
 ) -> AsyncGenerator[str, None]:
     started_at = time.monotonic()
-    with_memory = bool((memory_context or "").strip())
+    memory_text = _coerce_text(memory_context).strip()
+    with_memory = bool(memory_text)
+    summary_text = _coerce_text(summary).strip()
     chat_history = _convert_history_to_messages(history)
     with_history = bool(chat_history)
 
     prompt = _build_general_prompt(with_memory=with_memory, with_history=with_history)
     llm = get_stream_llm_model()
     chain = prompt | llm | StrOutputParser()
-    payload = {"question": question}
+    payload = {
+        "question": question,
+        "conversation_summary": summary_text,
+        "episodic_context": _coerce_text(episodic_context).strip(),
+    }
     if with_memory:
-        payload["memory_context"] = memory_context
+        payload["memory_context"] = memory_text
     if with_history:
         payload["history"] = chat_history
 
@@ -165,6 +217,8 @@ async def generate_general_answer_stream(
                 "with_memory": with_memory,
                 "with_history": with_history,
                 "history_len": len(chat_history),
+                "has_summary": bool(summary_text),
+                "has_episodic": bool(_coerce_text(episodic_context).strip()),
             },
         )
         
@@ -229,23 +283,28 @@ def generate_rag_answer(
     question: str,
     context: str,
     memory_context: str | None = None,
+    summary: str | None = None,
+    episodic_context: str | None = None,
     response_type: str | None = None,
     history: list[dict] | None = None,
 ) -> str:
     started_at = time.monotonic()
     chat_history = _convert_history_to_messages(history)
     with_history = bool(chat_history)
+    summary_text = _coerce_text(summary).strip()
+    memory_text = _coerce_text(memory_context).strip()
 
     prompt = _build_rag_prompt(with_history=with_history)
     llm = get_llm_model()
     chain = prompt | llm | StrOutputParser()
-    if (memory_context or "").strip():
-        context = f"{memory_context}\n\n{context}"
         
     payload = {
         "context": context,
         "question": question,
         "response_type": response_type or get_response_type(),
+        "conversation_summary": summary_text,
+        "memory_context": memory_text,
+        "episodic_context": _coerce_text(episodic_context).strip(),
     }
     if with_history:
         payload["history"] = chat_history
@@ -261,6 +320,9 @@ def generate_rag_answer(
                 "with_history": with_history,
                 "history_len": len(chat_history),
                 "response_type": response_type or get_response_type(),
+                "has_summary": bool(summary_text),
+                "has_memory": bool(memory_text),
+                "has_episodic": bool(_coerce_text(episodic_context).strip()),
             },
         )
 
@@ -288,22 +350,27 @@ async def generate_rag_answer_stream(
     question: str,
     context: str,
     memory_context: str | None = None,
+    summary: str | None = None,
+    episodic_context: str | None = None,
     response_type: str | None = None,
     history: list[dict] | None = None,
 ) -> AsyncGenerator[str, None]:
     started_at = time.monotonic()
     chat_history = _convert_history_to_messages(history)
     with_history = bool(chat_history)
+    summary_text = _coerce_text(summary).strip()
+    memory_text = _coerce_text(memory_context).strip()
 
     prompt = _build_rag_prompt(with_history=with_history)
     llm = get_stream_llm_model()
     chain = prompt | llm | StrOutputParser()
-    if (memory_context or "").strip():
-        context = f"{memory_context}\n\n{context}"
     payload = {
         "context": context,
         "question": question,
         "response_type": response_type or get_response_type(),
+        "conversation_summary": summary_text,
+        "memory_context": memory_text,
+        "episodic_context": _coerce_text(episodic_context).strip(),
     }
     if with_history:
         payload["history"] = chat_history
@@ -319,6 +386,9 @@ async def generate_rag_answer_stream(
                 "with_history": with_history,
                 "history_len": len(chat_history),
                 "response_type": response_type or get_response_type(),
+                "has_summary": bool(summary_text),
+                "has_memory": bool(memory_text),
+                "has_episodic": bool(_coerce_text(episodic_context).strip()),
             },
         )
 

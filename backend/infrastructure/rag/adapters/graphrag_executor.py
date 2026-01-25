@@ -18,6 +18,8 @@ class GraphragExecutor(RAGExecutorPort):
         kb_prefix: str,
         debug: bool,
         memory_context: str | None = None,
+        summary: str | None = None,
+        episodic_context: str | None = None,
         history: list[dict[str, Any]] | None = None,
     ) -> tuple[RagRunResult, list[RagRunResult]]:
         infra_result, infra_runs = await self._rag_manager.run_plan_blocking(
@@ -27,6 +29,8 @@ class GraphragExecutor(RAGExecutorPort):
             kb_prefix=kb_prefix,
             debug=debug,
             memory_context=memory_context,
+            summary=summary,
+            episodic_context=episodic_context,
             history=history,
         )
         return infra_result, list(infra_runs)

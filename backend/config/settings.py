@@ -84,3 +84,34 @@ MEMORY_MAX_CHARS = _get_env_int("MEMORY_MAX_CHARS", 1200) or 1200
 
 # Only write when we can extract stable user info (preferences/facts/constraints).
 MEMORY_WRITE_MODE = os.getenv("MEMORY_WRITE_MODE", "rules").strip() or "rules"
+
+# ===== Phase 1: Chat history summarization (sliding window + summary) =====
+
+CHAT_SUMMARY_ENABLE = _get_env_bool("CHAT_SUMMARY_ENABLE", True)
+CHAT_SUMMARY_MIN_MESSAGES = _get_env_int("CHAT_SUMMARY_MIN_MESSAGES", 10) or 10
+CHAT_SUMMARY_UPDATE_DELTA = _get_env_int("CHAT_SUMMARY_UPDATE_DELTA", 5) or 5
+CHAT_SUMMARY_WINDOW_SIZE = _get_env_int("CHAT_SUMMARY_WINDOW_SIZE", 6) or 6
+CHAT_SUMMARY_MAX_CHARS = _get_env_int("CHAT_SUMMARY_MAX_CHARS", 1200) or 1200
+
+# ===== Phase 2: Active Episodic Memory (semantic recall within a conversation) =====
+#
+# Default is disabled because it adds one embeddings call per recall (and one per
+# turn to index episodes). Enable explicitly when you have an embeddings provider.
+
+EPISODIC_MEMORY_ENABLE = _get_env_bool("EPISODIC_MEMORY_ENABLE", True)
+EPISODIC_MEMORY_TOP_K = _get_env_int("EPISODIC_MEMORY_TOP_K", 3) or 3
+EPISODIC_MEMORY_SCAN_LIMIT = _get_env_int("EPISODIC_MEMORY_SCAN_LIMIT", 200) or 200
+EPISODIC_MEMORY_MIN_SCORE = _get_env_float("EPISODIC_MEMORY_MIN_SCORE", 0.25) or 0.25
+# auto | always | never
+EPISODIC_MEMORY_RECALL_MODE = os.getenv("EPISODIC_MEMORY_RECALL_MODE", "always").strip() or "always"
+EPISODIC_MEMORY_MAX_CONTEXT_CHARS = _get_env_int("EPISODIC_MEMORY_MAX_CONTEXT_CHARS", 1200) or 1200
+
+# Phase 2 vector backend (Milvus by default, per docs).
+EPISODIC_VECTOR_BACKEND = os.getenv("EPISODIC_VECTOR_BACKEND", "milvus").strip().lower() or "milvus"
+# Best default for local dev: Milvus runs in Docker but exposes 19530 on the host.
+# - backend on host -> use localhost
+# - backend in Docker -> override to host.docker.internal (macOS/Windows) or attach networks
+EPISODIC_MILVUS_HOST = os.getenv("EPISODIC_MILVUS_HOST", "localhost").strip() or "localhost"
+EPISODIC_MILVUS_PORT = _get_env_int("EPISODIC_MILVUS_PORT", 19530) or 19530
+EPISODIC_MILVUS_COLLECTION = os.getenv("EPISODIC_MILVUS_COLLECTION", "conversation_episodes").strip() or "conversation_episodes"
+EPISODIC_MILVUS_EMBEDDING_DIM = _get_env_int("EPISODIC_MILVUS_EMBEDDING_DIM", 0) or 0

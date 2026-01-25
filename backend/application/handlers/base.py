@@ -36,6 +36,8 @@ class KnowledgeBaseHandler(ABC):
         agent_type: str,
         debug: bool,
         memory_context: str | None = None,
+        summary: str | None = None,
+        episodic_context: str | None = None,
         history: list[dict[str, Any]] | None = None,
     ) -> dict[str, Any]:
         processed = self.preprocess(message)
@@ -47,6 +49,8 @@ class KnowledgeBaseHandler(ABC):
             kb_prefix=self.kb_prefix,
             debug=debug,
             memory_context=memory_context,
+            summary=summary,
+            episodic_context=episodic_context,
             history=history,
         )
         response: dict[str, Any] = {"answer": aggregated.answer}
@@ -66,6 +70,8 @@ class KnowledgeBaseHandler(ABC):
         agent_type: str,
         debug: bool,
         memory_context: str | None = None,
+        summary: str | None = None,
+        episodic_context: str | None = None,
         history: list[dict[str, Any]] | None = None,
         **kwargs: Any,
     ) -> AsyncGenerator[dict[str, Any], None]:
@@ -78,6 +84,8 @@ class KnowledgeBaseHandler(ABC):
             kb_prefix=self.kb_prefix,
             debug=debug,
             memory_context=memory_context,
+            summary=summary,
+            episodic_context=episodic_context,
             history=history,
             **kwargs,
         ):

@@ -18,6 +18,22 @@ from config.settings import (
     MEMORY_WRITE_ENABLE,
     MEMORY_WRITE_MODE,
     PHASE2_ENABLE_KB_HANDLERS,
+    CHAT_SUMMARY_ENABLE,
+    CHAT_SUMMARY_MAX_CHARS,
+    CHAT_SUMMARY_MIN_MESSAGES,
+    CHAT_SUMMARY_UPDATE_DELTA,
+    CHAT_SUMMARY_WINDOW_SIZE,
+    EPISODIC_MEMORY_ENABLE,
+    EPISODIC_MEMORY_MAX_CONTEXT_CHARS,
+    EPISODIC_MEMORY_MIN_SCORE,
+    EPISODIC_MEMORY_RECALL_MODE,
+    EPISODIC_MEMORY_SCAN_LIMIT,
+    EPISODIC_MEMORY_TOP_K,
+    EPISODIC_MILVUS_COLLECTION,
+    EPISODIC_MILVUS_EMBEDDING_DIM,
+    EPISODIC_MILVUS_HOST,
+    EPISODIC_MILVUS_PORT,
+    EPISODIC_VECTOR_BACKEND,
 )
 from domain.memory.policy import MemoryPolicy
 
@@ -37,6 +53,102 @@ def _build_conversation_store():
     if dsn:
         return PostgresConversationStore(dsn=dsn)
     return InMemoryConversationStore()
+
+
+@lru_cache(maxsize=1)
+def _build_conversation_summary_store():
+    from config.database import get_postgres_dsn
+    from infrastructure.persistence.postgres.conversation_summary_store import (
+        InMemoryConversationSummaryStore,
+        PostgresConversationSummaryStore,
+    )
+
+    dsn = get_postgres_dsn()
+    if dsn:
+        return PostgresConversationSummaryStore(dsn=dsn)
+    return InMemoryConversationSummaryStore(conversation_store=_build_conversation_store())
+
+
+@lru_cache(maxsize=1)
+def _build_conversation_episode_store():
+    from config.database import get_postgres_dsn
+    from infrastructure.persistence.postgres.conversation_episode_store import (
+        InMemoryConversationEpisodeStore,
+        PostgresConversationEpisodeStore,
+    )
+
+    # When episodic memory is disabled, avoid requiring Milvus configuration.
+    if not EPISODIC_MEMORY_ENABLE:
+        dsn = get_postgres_dsn()
+        if dsn:
+            return PostgresConversationEpisodeStore(dsn=dsn)
+        return InMemoryConversationEpisodeStore()
+
+    if EPISODIC_VECTOR_BACKEND == "milvus":
+        from infrastructure.persistence.milvus.conversation_episode_store import (
+            MilvusConversationEpisodeStore,
+        )
+
+        dim = int(EPISODIC_MILVUS_EMBEDDING_DIM) or None
+        return MilvusConversationEpisodeStore(
+            host=str(EPISODIC_MILVUS_HOST),
+            port=int(EPISODIC_MILVUS_PORT),
+            collection=str(EPISODIC_MILVUS_COLLECTION),
+            embedding_dim=dim,
+        )
+
+    dsn = get_postgres_dsn()
+    if dsn:
+        return PostgresConversationEpisodeStore(dsn=dsn)
+    return InMemoryConversationEpisodeStore()
+
+
+@lru_cache(maxsize=1)
+def _build_episodic_task_manager():
+    from infrastructure.chat_history import EpisodicTaskManager
+
+    return EpisodicTaskManager()
+
+
+@lru_cache(maxsize=1)
+def _build_conversation_episodic_memory():
+    if not EPISODIC_MEMORY_ENABLE:
+        return None
+    from infrastructure.chat_history import ConversationEpisodicMemory
+
+    return ConversationEpisodicMemory(
+        store=_build_conversation_episode_store(),
+        task_manager=_build_episodic_task_manager(),
+        conversation_store=_build_conversation_store(),
+        top_k=int(EPISODIC_MEMORY_TOP_K),
+        scan_limit=int(EPISODIC_MEMORY_SCAN_LIMIT),
+        min_score=float(EPISODIC_MEMORY_MIN_SCORE),
+        recall_mode=str(EPISODIC_MEMORY_RECALL_MODE),
+        max_context_chars=int(EPISODIC_MEMORY_MAX_CONTEXT_CHARS),
+    )
+
+
+@lru_cache(maxsize=1)
+def _build_summary_task_manager():
+    from infrastructure.chat_history import SummaryTaskManager
+
+    return SummaryTaskManager()
+
+
+@lru_cache(maxsize=1)
+def _build_conversation_summarizer():
+    if not CHAT_SUMMARY_ENABLE:
+        return None
+    from infrastructure.chat_history import ConversationSummarizer
+
+    return ConversationSummarizer(
+        store=_build_conversation_summary_store(),
+        task_manager=_build_summary_task_manager(),
+        min_messages=int(CHAT_SUMMARY_MIN_MESSAGES),
+        update_delta=int(CHAT_SUMMARY_UPDATE_DELTA),
+        window_size=int(CHAT_SUMMARY_WINDOW_SIZE),
+        max_summary_chars=int(CHAT_SUMMARY_MAX_CHARS),
+    )
 
 
 @lru_cache(maxsize=1)
@@ -101,21 +213,30 @@ def _build_handlers() -> tuple[ChatHandler, StreamHandler]:
         stream_executor=stream_executor,
     )
     memory_service = _build_memory_service()
+    conversation_summarizer = _build_conversation_summarizer()
+    episodic_memory = _build_conversation_episodic_memory()
     return (
         ChatHandler(
             router=router,
             executor=executor,
+            stream_executor=stream_executor,
             completion=completion,
             conversation_store=conversation_store,
             memory_service=memory_service,
+            conversation_summarizer=conversation_summarizer,
+            episodic_memory=episodic_memory,
             kb_handler_factory=kb_handler_factory,
             enable_kb_handlers=PHASE2_ENABLE_KB_HANDLERS,
         ),
         StreamHandler(
             router=router,
-            executor=stream_executor,
+            executor=executor,
+            stream_executor=stream_executor,
+            completion=completion,
             conversation_store=conversation_store,
             memory_service=memory_service,
+            conversation_summarizer=conversation_summarizer,
+            episodic_memory=episodic_memory,
             kb_handler_factory=kb_handler_factory,
             enable_kb_handlers=PHASE2_ENABLE_KB_HANDLERS,
         ),
@@ -197,3 +318,26 @@ async def shutdown_dependencies() -> None:
     close_port = getattr(port, "close", None)
     if callable(close_port):
         await close_port()
+
+    # Phase 1 summary resources.
+    summary_store = _build_conversation_summary_store()
+    close_sum = getattr(summary_store, "close", None)
+    if callable(close_sum):
+        await close_sum()
+
+    task_manager = _build_summary_task_manager()
+    shutdown = getattr(task_manager, "shutdown", None)
+    if callable(shutdown):
+        await shutdown()
+
+    # Phase 2 episodic memory resources.
+    if EPISODIC_MEMORY_ENABLE:
+        episode_store = _build_conversation_episode_store()
+        close_ep = getattr(episode_store, "close", None)
+        if callable(close_ep):
+            await close_ep()
+
+        epi_tasks = _build_episodic_task_manager()
+        shutdown_epi = getattr(epi_tasks, "shutdown", None)
+        if callable(shutdown_epi):
+            await shutdown_epi()

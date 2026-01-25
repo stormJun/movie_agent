@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 from datetime import datetime
-from typing import Any, Dict, List, Optional, Protocol
+from typing import Any, Dict, List, Optional, Protocol, Sequence
 from uuid import UUID
 
 
@@ -24,6 +24,8 @@ class ConversationStorePort(Protocol):
         content: str,
         citations: Optional[Dict[str, Any]] = None,
         debug: Optional[Dict[str, Any]] = None,
+        # Whether this message is fully completed (important for streaming disconnects).
+        completed: bool = True,
     ) -> UUID:
         ...
 
@@ -37,6 +39,18 @@ class ConversationStorePort(Protocol):
     ) -> List[Dict[str, Any]]:
         ...
 
+    async def get_messages_by_ids(
+        self,
+        *,
+        conversation_id: UUID,
+        message_ids: Sequence[UUID],
+    ) -> List[Dict[str, Any]]:
+        """Fetch messages by ids within a conversation (best-effort).
+
+        Used by Phase 2 episodic recall to hydrate message contents after vector search.
+        """
+        ...
+
     async def clear_messages(self, *, conversation_id: UUID) -> int:
         ...
 
@@ -45,4 +59,3 @@ class ConversationStorePort(Protocol):
     ) -> List[Dict[str, Any]]:
         """列出用户的历史会话列表，按更新时间倒序。"""
         ...
-
