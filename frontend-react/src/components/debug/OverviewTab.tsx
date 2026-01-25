@@ -11,6 +11,7 @@ import {
     extractExecutionLog,
     extractRagRuns,
     extractRouteDecision,
+    extractConversationSummaryText,
     calculatePerformanceMetrics,
     aggregateRetrievalSummary,
     extractTopSources,
@@ -24,6 +25,7 @@ const OverviewTab: React.FC<DebugTabProps> = ({ debugData, onOpenSource }) => {
     const executionLog = useMemo(() => extractExecutionLog(debugData), [debugData]);
     const ragRuns = useMemo(() => extractRagRuns(debugData), [debugData]);
     const routeDecision = useMemo(() => extractRouteDecision(debugData), [debugData]);
+    const summaryText = useMemo(() => extractConversationSummaryText(debugData), [debugData]);
 
     const performance = useMemo(() => calculatePerformanceMetrics(debugData), [debugData]);
     const retrievalSummary = useMemo(() => aggregateRetrievalSummary(ragRuns), [ragRuns]);
@@ -72,6 +74,28 @@ const OverviewTab: React.FC<DebugTabProps> = ({ debugData, onOpenSource }) => {
                     </Collapse>
                 </Card>
             )}
+
+            <Card
+                title={
+                    <span>
+                        <FileTextOutlined style={{ marginRight: 8 }} />
+                        对话摘要（Phase 1）
+                    </span>
+                }
+                size="small"
+            >
+                {summaryText ? (
+                    <Collapse size="small" bordered={false}>
+                        <Collapse.Panel header="查看摘要内容" key="summary">
+                            <div style={{ whiteSpace: 'pre-wrap', fontSize: 13 }}>{summaryText}</div>
+                        </Collapse.Panel>
+                    </Collapse>
+                ) : (
+                    <div style={{ color: '#999', fontSize: 13 }}>
+                        暂无摘要（需要对话达到一定长度后才会生成；并在 debug=true 时可在此查看）
+                    </div>
+                )}
+            </Card>
 
             <Card
                 title={

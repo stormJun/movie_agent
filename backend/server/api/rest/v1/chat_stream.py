@@ -17,7 +17,13 @@ from server.models.stream_events import normalize_stream_event
 router = APIRouter(prefix="/api/v1", tags=["chat-v1"])
 
 # Cache-only debug events (NOT forwarded to client).
-CACHE_ONLY_EVENT_TYPES = {"execution_log", "route_decision", "rag_runs", "episodic_memory"}
+CACHE_ONLY_EVENT_TYPES = {
+    "execution_log",
+    "route_decision",
+    "rag_runs",
+    "episodic_memory",
+    "conversation_summary",
+}
 # Debug events to both cache and forward (useful to inspect post-hoc).
 CACHE_AND_FORWARD_TYPES = {"progress", "error"}
 DEBUG_EVENT_TYPES = CACHE_ONLY_EVENT_TYPES | CACHE_AND_FORWARD_TYPES

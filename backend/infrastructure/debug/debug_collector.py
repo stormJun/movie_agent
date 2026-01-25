@@ -24,6 +24,7 @@ class DebugDataCollector:
         self.route_decision: Optional[Dict[str, Any]] = None
         self.rag_runs: List[Dict[str, Any]] = []
         self.episodic_memory: List[Dict[str, Any]] = []
+        self.conversation_summary: Optional[Dict[str, Any]] = None
         self.trace: List[Dict[str, Any]] = []
         self.kg_data: Optional[Dict[str, Any]] = None
 
@@ -64,6 +65,11 @@ class DebugDataCollector:
         if event_type == "episodic_memory":
             if isinstance(content, list):
                 self.episodic_memory = [x for x in content if isinstance(x, dict)]
+            return
+
+        if event_type == "conversation_summary":
+            if isinstance(content, dict):
+                self.conversation_summary = dict(content)
             return
 
     def _calculate_performance_metrics(self) -> Dict[str, Any]:
@@ -149,6 +155,7 @@ class DebugDataCollector:
             "route_decision": self.route_decision,
             "rag_runs": self.rag_runs,
             "episodic_memory": self.episodic_memory,
+            "conversation_summary": self.conversation_summary,
             "trace": self.trace,
             "kg_data": self.kg_data,
             "performance_metrics": self._calculate_performance_metrics(),

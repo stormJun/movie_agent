@@ -170,6 +170,15 @@ export function extractEpisodicEpisodes(debugData: DebugData | null): EpisodicEp
     return episodes;
 }
 
+export function extractConversationSummaryText(debugData: DebugData | null): string | null {
+    const raw = debugData?.conversation_summary;
+    if (!raw || !isPlainRecord(raw)) return null;
+    const t = raw.text;
+    if (typeof t !== 'string') return null;
+    const s = t.trim();
+    return s ? s : null;
+}
+
 // ========== 性能指标计算 ==========
 
 export function calculatePerformanceMetrics(

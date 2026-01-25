@@ -166,6 +166,57 @@ class PostgresConversationSummaryStore(ConversationSummaryStorePort):
                 );
                 """
             )
+            # Backward-compat: some earlier deployments used different column names.
+            # Ensure expected columns exist, then best-effort backfill from legacy ones.
+            try:
+                await conn.execute(
+                    "ALTER TABLE conversation_summaries ADD COLUMN IF NOT EXISTS covered_through_message_id uuid;"
+                )
+                await conn.execute(
+                    "ALTER TABLE conversation_summaries ADD COLUMN IF NOT EXISTS covered_through_created_at timestamptz;"
+                )
+                await conn.execute(
+                    "ALTER TABLE conversation_summaries ADD COLUMN IF NOT EXISTS summary_version int NOT NULL DEFAULT 1;"
+                )
+                await conn.execute(
+                    "ALTER TABLE conversation_summaries ADD COLUMN IF NOT EXISTS covered_message_count int NOT NULL DEFAULT 0;"
+                )
+            except Exception as e:
+                logger.warning("Failed to ensure conversation_summaries columns: %s", e)
+
+            # Backfill from legacy `last_covered_message_id` if present.
+            try:
+                await conn.execute(
+                    """
+                    DO $$
+                    BEGIN
+                      IF EXISTS (
+                        SELECT 1
+                        FROM information_schema.columns
+                        WHERE table_schema = 'public'
+                          AND table_name = 'conversation_summaries'
+                          AND column_name = 'last_covered_message_id'
+                      ) THEN
+                        UPDATE conversation_summaries
+                        SET covered_through_message_id = last_covered_message_id
+                        WHERE covered_through_message_id IS NULL
+                          AND last_covered_message_id IS NOT NULL;
+                      END IF;
+                    END $$;
+                    """
+                )
+                await conn.execute(
+                    """
+                    UPDATE conversation_summaries s
+                    SET covered_through_created_at = m.created_at
+                    FROM messages m
+                    WHERE s.covered_through_created_at IS NULL
+                      AND s.covered_through_message_id IS NOT NULL
+                      AND m.id = s.covered_through_message_id;
+                    """
+                )
+            except Exception as e:
+                logger.warning("Failed to backfill legacy conversation_summaries cursor: %s", e)
             await conn.execute(
                 """
                 CREATE INDEX IF NOT EXISTS idx_conversation_summaries_conversation_id

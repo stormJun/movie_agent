@@ -270,6 +270,16 @@ class ConversationGraphRunner:
 
         if debug:
             writer = _get_stream_writer(config)
+            writer(
+                {
+                    "status": "conversation_summary",
+                    "content": {
+                        "text": conversation_summary or "",
+                        "chars": len(conversation_summary or ""),
+                        "present": bool((conversation_summary or "").strip()),
+                    },
+                }
+            )
             writer({"status": "episodic_memory", "content": episodic_memory or []})
             writer(
                 {
