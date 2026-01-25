@@ -12,4 +12,6 @@ export interface FeedbackRequest {
 export interface FeedbackResponse {
   status: string;
   action: string;
+  // positive | negative | none
+  feedback?: string;
 }

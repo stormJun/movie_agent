@@ -36,14 +36,19 @@ ON messages(conversation_id, created_at, id);
 -- User feedback (thumb up/down) for analytics and future tuning.
 CREATE TABLE IF NOT EXISTS feedback (
     id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
-    message_id TEXT,
+    message_id TEXT NOT NULL,
     query TEXT NOT NULL,
     is_positive BOOLEAN NOT NULL,
     thread_id TEXT NOT NULL,
     agent_type TEXT,
     created_at TIMESTAMP NOT NULL DEFAULT NOW(),
+    updated_at TIMESTAMP NOT NULL DEFAULT NOW(),
     metadata JSONB
 );
+
+-- Ensure single feedback per message in a thread so UI can toggle/cancel.
+CREATE UNIQUE INDEX IF NOT EXISTS idx_feedback_thread_message_id
+ON feedback(thread_id, message_id);
 
 CREATE INDEX IF NOT EXISTS idx_feedback_thread_id_created_at
 ON feedback(thread_id, created_at DESC);

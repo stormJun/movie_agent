@@ -25,7 +25,7 @@ class PostgresFeedbackService(FeedbackPort):
         agent_type: str,
         request_id: str | None = None,
     ) -> Dict[str, str]:
-        await self._store.insert_feedback(
+        op, state = await self._store.insert_feedback(
             message_id=message_id,
             query=query,
             is_positive=is_positive,
@@ -36,7 +36,9 @@ class PostgresFeedbackService(FeedbackPort):
 
         # Best-effort: also attach explicit user feedback to Langfuse as a Score.
         # This powers the "Scores" view and lets us filter traces by quality.
-        if request_id:
+        # NOTE: "cancel" is represented in Postgres by deleting the row. Langfuse
+        # doesn't have a strong delete semantic here, so we only record when set.
+        if request_id and state in {"positive", "negative"}:
             try:
                 from infrastructure.observability.langfuse_handler import (
                     LANGFUSE_ENABLED,
@@ -51,7 +53,7 @@ class PostgresFeedbackService(FeedbackPort):
                             trace_id=request_id,
                             name="user_feedback",
                             # Langfuse boolean scores must be 1/0 (float).
-                            value=1.0 if is_positive else 0.0,
+                            value=1.0 if state == "positive" else 0.0,
                             data_type="BOOLEAN",
                             comment=query,
                             # Extra fields (ScoreBody allows extra) help debugging in the UI.
@@ -64,8 +66,13 @@ class PostgresFeedbackService(FeedbackPort):
                 # Observability must be best-effort and never block the main flow.
                 pass
 
-        action = "反馈已记录（positive）" if is_positive else "反馈已记录（negative）"
-        return {"status": "success", "action": action}
+        if op == "cleared":
+            action = "反馈已取消"
+        elif op == "updated":
+            action = "反馈已更新（positive）" if state == "positive" else "反馈已更新（negative）"
+        else:
+            action = "反馈已记录（positive）" if state == "positive" else "反馈已记录（negative）"
+        return {"status": "success", "action": action, "feedback": state}
 
     async def close(self) -> None:
         await self._store.close()
@@ -85,7 +92,7 @@ class InMemoryFeedbackService(FeedbackPort):
         agent_type: str,
         request_id: str | None = None,
     ) -> Dict[str, str]:
-        await self._store.insert_feedback(
+        op, state = await self._store.insert_feedback(
             message_id=message_id,
             query=query,
             is_positive=is_positive,
@@ -94,7 +101,7 @@ class InMemoryFeedbackService(FeedbackPort):
             metadata={"request_id": request_id} if request_id else None,
         )
 
-        if request_id:
+        if request_id and state in {"positive", "negative"}:
             try:
                 from infrastructure.observability.langfuse_handler import (
                     LANGFUSE_ENABLED,
@@ -108,7 +115,7 @@ class InMemoryFeedbackService(FeedbackPort):
                         langfuse.score(
                             trace_id=request_id,
                             name="user_feedback",
-                            value=1.0 if is_positive else 0.0,
+                            value=1.0 if state == "positive" else 0.0,
                             data_type="BOOLEAN",
                             comment=query,
                             message_id=message_id,
@@ -118,8 +125,13 @@ class InMemoryFeedbackService(FeedbackPort):
                         await flush_langfuse()
             except Exception:
                 pass
-        action = "反馈已记录（in_memory）"
-        return {"status": "success", "action": action}
+        if op == "cleared":
+            action = "反馈已取消（in_memory）"
+        elif op == "updated":
+            action = f"反馈已更新（{state} / in_memory）"
+        else:
+            action = f"反馈已记录（{state} / in_memory）"
+        return {"status": "success", "action": action, "feedback": state}
 
     async def close(self) -> None:
         close = getattr(self._store, "close", None)

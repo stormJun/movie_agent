@@ -15,9 +15,14 @@ class _FakeConn:
         self.last_args = None
 
     async def fetchrow(self, query: str, *args):
+        # First call is the "current state" lookup; pretend there's no row.
+        if "SELECT is_positive" in query:
+            return None
+
+        # Second call is the upsert; record args for assertions.
         self.last_query = query
         self.last_args = args
-        return {"id": uuid4()}
+        return {"is_positive": False, "id": uuid4()}
 
 
 class _Acquire:
@@ -66,4 +71,3 @@ class TestFeedbackMetadataJsonRegression(unittest.IsolatedAsyncioTestCase):
 
 if __name__ == "__main__":
     unittest.main()
-

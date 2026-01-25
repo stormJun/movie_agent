@@ -72,6 +72,8 @@ class FeedbackResponse(BaseModel):
     """反馈响应模型"""
     status: str
     action: str
+    # positive | negative | none
+    feedback: Optional[str] = None
 
 class SourceInfoBatchRequest(BaseModel):
     source_ids: List[str]

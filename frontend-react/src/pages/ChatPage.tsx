@@ -753,7 +753,6 @@ export function ChatPage() {
       return;
     }
     if (feedbackPending[m.id]) return;
-    if (feedbackState[m.id]) return;
     try {
       setFeedbackPending((prev) => ({ ...prev, [m.id]: true }));
       const resp = await sendFeedback({
@@ -764,7 +763,20 @@ export function ChatPage() {
         request_id: m.requestId,
         agent_type: agentType,
       });
-      setFeedbackState((prev) => ({ ...prev, [m.id]: isPositive ? "positive" : "negative" }));
+      const next = resp.feedback;
+      if (next === "none") {
+        setFeedbackState((prev) => {
+          // remove key for "cancel"
+          const copy = { ...prev };
+          delete copy[m.id];
+          return copy;
+        });
+      } else if (next === "positive" || next === "negative") {
+        setFeedbackState((prev) => ({ ...prev, [m.id]: next }));
+      } else {
+        // Backward-compat: older backend versions don't return `feedback`.
+        setFeedbackState((prev) => ({ ...prev, [m.id]: isPositive ? "positive" : "negative" }));
+      }
       message.success(resp.action || "反馈已提交");
     } catch (e) {
       message.error(e instanceof Error ? e.message : "提交反馈失败");
