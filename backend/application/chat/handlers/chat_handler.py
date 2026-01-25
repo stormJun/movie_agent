@@ -4,6 +4,7 @@ from typing import Any, Optional
 
 from application.chat.conversation_graph import ConversationGraphRunner
 from application.chat.memory_service import MemoryService
+from application.chat.watchlist_capture_service import WatchlistCaptureService
 from application.handlers.factory import KnowledgeBaseHandlerFactory
 from application.ports.chat_completion_port import ChatCompletionPort
 from application.ports.conversation_episodic_memory_port import ConversationEpisodicMemoryPort
@@ -28,6 +29,7 @@ class ChatHandler:
         memory_service: MemoryService | None = None,
         conversation_summarizer: ConversationSummarizerPort | None = None,
         episodic_memory: ConversationEpisodicMemoryPort | None = None,
+        watchlist_capture: WatchlistCaptureService | None = None,
         kb_handler_factory: Optional[KnowledgeBaseHandlerFactory] = None,
         enable_kb_handlers: bool = False,
     ) -> None:
@@ -35,6 +37,7 @@ class ChatHandler:
         self._memory_service = memory_service
         self._conversation_summarizer = conversation_summarizer
         self._episodic_memory = episodic_memory
+        self._watchlist_capture = watchlist_capture
 
         self._graph = ConversationGraphRunner(
             router=router,
@@ -131,6 +134,19 @@ class ChatHandler:
                         user_message=message,
                         assistant_message=answer,
                         metadata={"session_id": session_id, "kb_prefix": final.get("kb_prefix")},
+                    )
+                except Exception:
+                    pass
+
+            if self._watchlist_capture is not None:
+                try:
+                    await self._watchlist_capture.maybe_capture(
+                        user_id=user_id,
+                        conversation_id=conversation_id,
+                        user_message_id=current_user_message_id,
+                        assistant_message_id=assistant_message_id,
+                        user_message=message,
+                        assistant_message=answer,
                     )
                 except Exception:
                     pass

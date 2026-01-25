@@ -115,3 +115,8 @@ EPISODIC_MILVUS_HOST = os.getenv("EPISODIC_MILVUS_HOST", "localhost").strip() or
 EPISODIC_MILVUS_PORT = _get_env_int("EPISODIC_MILVUS_PORT", 19530) or 19530
 EPISODIC_MILVUS_COLLECTION = os.getenv("EPISODIC_MILVUS_COLLECTION", "conversation_episodes").strip() or "conversation_episodes"
 EPISODIC_MILVUS_EMBEDDING_DIM = _get_env_int("EPISODIC_MILVUS_EMBEDDING_DIM", 0) or 0
+
+# ===== Watchlist auto-capture (Memory Center MVP) =====
+
+WATCHLIST_AUTO_CAPTURE_ENABLE = _get_env_bool("WATCHLIST_AUTO_CAPTURE_ENABLE", True)
+WATCHLIST_AUTO_CAPTURE_MAX_ITEMS = _get_env_int("WATCHLIST_AUTO_CAPTURE_MAX_ITEMS", 5) or 5

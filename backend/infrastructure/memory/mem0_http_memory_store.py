@@ -14,8 +14,11 @@ from infrastructure.config.settings import (
     MEM0_ADD_PATH,
     MEM0_API_KEY,
     MEM0_BASE_URL,
+    MEM0_DELETE_PATH,
+    MEM0_LIST_PATH,
     MEM0_SEARCH_PATH,
     MEM0_TIMEOUT_S,
+    MEM0_USER_ID_HEADER,
 )
 
 logger = logging.getLogger(__name__)
@@ -42,19 +45,29 @@ class Mem0HttpMemoryStore(MemoryStorePort):
         timeout_s: float = MEM0_TIMEOUT_S,
         search_path: str = MEM0_SEARCH_PATH,
         add_path: str = MEM0_ADD_PATH,
+        list_path: str = MEM0_LIST_PATH,
+        delete_path: str = MEM0_DELETE_PATH,
+        user_id_header: str = MEM0_USER_ID_HEADER,
     ) -> None:
         self._base_url = (base_url or "").strip()
         self._api_key = (api_key or "").strip()
         self._timeout_s = float(timeout_s or 10.0)
         self._search_url = _join(self._base_url, search_path)
         self._add_url = _join(self._base_url, add_path)
+        self._list_url = _join(self._base_url, list_path)
+        self._delete_path = delete_path or "/v1/memories/{memory_id}"
+        self._user_id_header = (user_id_header or "x-user-id").strip() or "x-user-id"
         self._session: aiohttp.ClientSession | None = None
         self._lock = asyncio.Lock()  # Protect session creation from concurrent access
 
-    def _headers(self) -> dict[str, str]:
+    def _headers(self, *, user_id: str | None = None) -> dict[str, str]:
         headers = {"content-type": "application/json"}
         if self._api_key:
             headers["authorization"] = f"Bearer {self._api_key}"
+        # The bundled `server.mem0_service` requires a user id for list/delete
+        # (and can also accept it for add/search). External providers may ignore it.
+        if user_id and self._user_id_header:
+            headers[self._user_id_header] = str(user_id)
         return headers
 
     async def _get_session(self) -> aiohttp.ClientSession:
@@ -132,10 +145,24 @@ class Mem0HttpMemoryStore(MemoryStorePort):
             return []
         session = await self._get_session()
         payload = {"user_id": str(user_id), "query": str(query), "limit": int(top_k)}
-        async with session.post(self._search_url, json=payload, headers=self._headers()) as resp:
+        async with session.post(
+            self._search_url, json=payload, headers=self._headers(user_id=str(user_id))
+        ) as resp:
             if resp.status >= 400:
                 text = await resp.text()
                 raise RuntimeError(f"mem0 search failed ({resp.status}): {text[:200]}")
+            data = await resp.json(content_type=None)
+        return self._parse_items(data)
+
+    async def get_all(self, *, user_id: str, limit: int = 100, offset: int = 0) -> list[MemoryItem]:
+        if not self._base_url:
+            return []
+        session = await self._get_session()
+        params = {"user_id": str(user_id), "limit": int(limit), "offset": int(offset)}
+        async with session.get(self._list_url, params=params, headers=self._headers(user_id=str(user_id))) as resp:
+            if resp.status >= 400:
+                text = await resp.text()
+                raise RuntimeError(f"mem0 list failed ({resp.status}): {text[:200]}")
             data = await resp.json(content_type=None)
         return self._parse_items(data)
 
@@ -155,7 +182,9 @@ class Mem0HttpMemoryStore(MemoryStorePort):
             payload["tags"] = list(tags)
         if metadata:
             payload["metadata"] = dict(metadata)
-        async with session.post(self._add_url, json=payload, headers=self._headers()) as resp:
+        async with session.post(
+            self._add_url, json=payload, headers=self._headers(user_id=str(user_id))
+        ) as resp:
             if resp.status >= 400:
                 text_resp = await resp.text()
                 raise RuntimeError(f"mem0 add failed ({resp.status}): {text_resp[:200]}")
@@ -166,8 +195,20 @@ class Mem0HttpMemoryStore(MemoryStorePort):
                 return str(mid)
         return None
 
+    async def delete(self, *, user_id: str, memory_id: str) -> bool:
+        if not self._base_url:
+            return True
+        session = await self._get_session()
+        path = (self._delete_path or "/v1/memories/{memory_id}").replace("{memory_id}", str(memory_id))
+        url = _join(self._base_url, path)
+        async with session.delete(url, headers=self._headers(user_id=str(user_id))) as resp:
+            # Treat not-found as success for idempotency.
+            if resp.status in (200, 204, 404):
+                return True
+            text_resp = await resp.text()
+            raise RuntimeError(f"mem0 delete failed ({resp.status}): {text_resp[:200]}")
+
     async def close(self) -> None:
         if self._session is not None and not self._session.closed:
             await self._session.close()
         self._session = None
-

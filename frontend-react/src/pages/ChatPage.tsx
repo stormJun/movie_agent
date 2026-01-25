@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from "react";
-import { MenuFoldOutlined, MenuUnfoldOutlined, ArrowUpOutlined, SettingOutlined, BugOutlined, MessageOutlined, ProjectOutlined, FileTextOutlined, UserOutlined, RobotOutlined, CopyOutlined, LikeOutlined, DislikeOutlined, ReloadOutlined, DownOutlined } from "@ant-design/icons";
+import { MenuFoldOutlined, MenuUnfoldOutlined, ArrowUpOutlined, SettingOutlined, BugOutlined, MessageOutlined, ProjectOutlined, FileTextOutlined, UserOutlined, RobotOutlined, CopyOutlined, LikeOutlined, DislikeOutlined, ReloadOutlined, DownOutlined, VideoCameraOutlined } from "@ant-design/icons";
 import CodeBlock from "../components/CodeBlock";
 import {
   Alert,
@@ -45,6 +45,7 @@ import { sendFeedback } from "../services/feedback";
 import { KnowledgeGraphPanel } from "../components/KnowledgeGraphPanel";
 import { SessionList } from "../components/SessionList";
 import DebugDrawer from "../components/debug/DebugDrawer";
+import { MemoryDrawer } from "../components/memory-center/MemoryDrawer";
 import "../styles/debug.css";
 
 type Role = "user" | "assistant";
@@ -179,6 +180,7 @@ export function ChatPage() {
   const [executionLogs, setExecutionLogs] = useState<unknown[]>([]);
   const [latestDebugData, setLatestDebugData] = useState<DebugData | null>(null);
   const [debugDrawerOpen, setDebugDrawerOpen] = useState(false);
+  const [memoryDrawerOpen, setMemoryDrawerOpen] = useState(false);
   const [iterations, setIterations] = useState<unknown[]>([]);
   const [isSending, setIsSending] = useState<boolean>(false);
   const [processingStage, setProcessingStage] = useState<string>("");
@@ -949,6 +951,13 @@ export function ChatPage() {
             <Space>
               <Button
                 size="small"
+                icon={<VideoCameraOutlined />}
+                onClick={() => setMemoryDrawerOpen(true)}
+              >
+                记忆中心
+              </Button>
+              <Button
+                size="small"
                 icon={<BugOutlined />}
                 onClick={() => setDebugDrawerOpen(true)}
                 disabled={!debugMode && !latestDebugData && !executionLogs.length && !rawThinking.trim()}
@@ -1712,6 +1721,13 @@ export function ChatPage() {
               setSourceDrawerLoading(false);
             }
           }}
+        />
+
+        <MemoryDrawer
+          open={memoryDrawerOpen}
+          onClose={() => setMemoryDrawerOpen(false)}
+          userId={userId}
+          sessionId={sessionId}
         />
 
       </Layout>

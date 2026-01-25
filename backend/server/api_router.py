@@ -10,6 +10,7 @@ import server.api.rest.v1.debug as debug_v1
 import server.api.rest.v1.examples as examples_v1
 import server.api.rest.v1.feedback as feedback_v1
 import server.api.rest.v1.knowledge_graph as knowledge_graph_v1
+import server.api.rest.v1.memory as memory_v1
 import server.api.rest.v1.messages as messages_v1
 import server.api.rest.v1.source as source_v1
 
@@ -22,6 +23,7 @@ api_router.include_router(conversations_v1.router)
 api_router.include_router(debug_v1.router)
 api_router.include_router(feedback_v1.router)
 api_router.include_router(knowledge_graph_v1.router)
+api_router.include_router(memory_v1.router)
 api_router.include_router(messages_v1.router)
 api_router.include_router(source_v1.router)
 api_router.include_router(examples_v1.router)

@@ -182,6 +182,11 @@ MEM0_TIMEOUT_S = _get_env_float("MEM0_TIMEOUT_S", 10.0) or 10.0
 # Allow overriding API paths to match different mem0 deployments.
 MEM0_SEARCH_PATH = os.getenv("MEM0_SEARCH_PATH", "/v1/memories/search").strip() or "/v1/memories/search"
 MEM0_ADD_PATH = os.getenv("MEM0_ADD_PATH", "/v1/memories").strip() or "/v1/memories"
+MEM0_DELETE_PATH = os.getenv("MEM0_DELETE_PATH", "/v1/memories/{memory_id}").strip() or "/v1/memories/{memory_id}"
+MEM0_LIST_PATH = os.getenv("MEM0_LIST_PATH", "/v1/memories").strip() or "/v1/memories"
+# When talking to the bundled `server.mem0_service`, list/delete require a user id
+# via this header (see mem0 service settings); external providers may ignore it.
+MEM0_USER_ID_HEADER = os.getenv("MEM0_USER_ID_HEADER", "x-user-id").strip() or "x-user-id"
 
 
 # ===== Gemini 配置（支持 API Key 和 OAuth 两种认证方式）=====

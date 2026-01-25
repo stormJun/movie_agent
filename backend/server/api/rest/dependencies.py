@@ -8,6 +8,8 @@ from application.chat.handlers.chat_handler import ChatHandler
 from application.chat.handlers.stream_handler import StreamHandler
 from application.chat.memory_service import MemoryService
 from application.chat.feedback_service import FeedbackService
+from application.chat.watchlist_capture_service import WatchlistCaptureService
+from application.ports.watchlist_store_port import WatchlistStorePort
 from application.handlers.factory import KnowledgeBaseHandlerFactory
 from application.knowledge_graph.service import KnowledgeGraphService
 from config.settings import (
@@ -34,6 +36,8 @@ from config.settings import (
     EPISODIC_MILVUS_HOST,
     EPISODIC_MILVUS_PORT,
     EPISODIC_VECTOR_BACKEND,
+    WATCHLIST_AUTO_CAPTURE_ENABLE,
+    WATCHLIST_AUTO_CAPTURE_MAX_ITEMS,
 )
 from domain.memory.policy import MemoryPolicy
 
@@ -163,6 +167,24 @@ def _build_example_store():
     return PostgresExampleStore(dsn="")  # Will fail if used without DB, but compliant with type
 
 
+@lru_cache(maxsize=1)
+def _build_watchlist_store() -> WatchlistStorePort:
+    from config.database import get_postgres_dsn
+    from infrastructure.persistence.postgres.watchlist_store import (
+        InMemoryWatchlistStore,
+        PostgresWatchlistStore,
+    )
+
+    dsn = get_postgres_dsn()
+    if dsn:
+        return PostgresWatchlistStore(dsn=dsn)
+    return InMemoryWatchlistStore()
+
+
+def get_watchlist_store() -> WatchlistStorePort:
+    return _build_watchlist_store()
+
+
 
 @lru_cache(maxsize=1)
 def _build_memory_store():
@@ -215,6 +237,11 @@ def _build_handlers() -> tuple[ChatHandler, StreamHandler]:
     memory_service = _build_memory_service()
     conversation_summarizer = _build_conversation_summarizer()
     episodic_memory = _build_conversation_episodic_memory()
+    watchlist_capture = WatchlistCaptureService(
+        store=_build_watchlist_store(),
+        enabled=bool(WATCHLIST_AUTO_CAPTURE_ENABLE),
+        max_items_per_turn=int(WATCHLIST_AUTO_CAPTURE_MAX_ITEMS),
+    )
     return (
         ChatHandler(
             router=router,
@@ -225,6 +252,7 @@ def _build_handlers() -> tuple[ChatHandler, StreamHandler]:
             memory_service=memory_service,
             conversation_summarizer=conversation_summarizer,
             episodic_memory=episodic_memory,
+            watchlist_capture=watchlist_capture,
             kb_handler_factory=kb_handler_factory,
             enable_kb_handlers=PHASE2_ENABLE_KB_HANDLERS,
         ),
@@ -237,6 +265,7 @@ def _build_handlers() -> tuple[ChatHandler, StreamHandler]:
             memory_service=memory_service,
             conversation_summarizer=conversation_summarizer,
             episodic_memory=episodic_memory,
+            watchlist_capture=watchlist_capture,
             kb_handler_factory=kb_handler_factory,
             enable_kb_handlers=PHASE2_ENABLE_KB_HANDLERS,
         ),
@@ -291,6 +320,21 @@ def get_conversation_store():
     return _build_conversation_store()
 
 
+@lru_cache(maxsize=1)
+def _build_memory_facade_service():
+    from application.memory_center.memory_facade_service import MemoryFacadeService
+
+    return MemoryFacadeService(
+        summary_store=_build_conversation_summary_store(),
+        memory_store=_build_memory_store(),
+        watchlist_store=_build_watchlist_store(),
+    )
+
+
+def get_memory_facade_service():
+    return _build_memory_facade_service()
+
+
 def get_example_store():
     """获取示例问题存储实例。"""
     return _build_example_store()
@@ -324,6 +368,11 @@ async def shutdown_dependencies() -> None:
     close_sum = getattr(summary_store, "close", None)
     if callable(close_sum):
         await close_sum()
+
+    watchlist_store = _build_watchlist_store()
+    close_watch = getattr(watchlist_store, "close", None)
+    if callable(close_watch):
+        await close_watch()
 
     task_manager = _build_summary_task_manager()
     shutdown = getattr(task_manager, "shutdown", None)

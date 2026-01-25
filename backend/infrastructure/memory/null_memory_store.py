@@ -10,6 +10,10 @@ class NullMemoryStore(MemoryStorePort):
     async def search(self, *, user_id: str, query: str, top_k: int) -> list[MemoryItem]:
         return []
 
+    async def get_all(self, *, user_id: str, limit: int = 100, offset: int = 0) -> list[MemoryItem]:
+        _ = (user_id, limit, offset)
+        return []
+
     async def add(
         self,
         *,
@@ -20,6 +24,9 @@ class NullMemoryStore(MemoryStorePort):
     ) -> Optional[str]:
         return None
 
+    async def delete(self, *, user_id: str, memory_id: str) -> bool:
+        _ = (user_id, memory_id)
+        return True
+
     async def close(self) -> None:
         return None
-

@@ -14,8 +14,11 @@ from infrastructure.config.settings import (
     MEM0_ADD_PATH,
     MEM0_API_KEY,
     MEM0_BASE_URL,
+    MEM0_DELETE_PATH,
+    MEM0_LIST_PATH,
     MEM0_SEARCH_PATH,
     MEM0_TIMEOUT_S,
+    MEM0_USER_ID_HEADER,
     MEMORY_PROVIDER,
 )
 
@@ -69,6 +72,9 @@ class MemoryStoreFactory:
                     timeout_s=MEM0_TIMEOUT_S,
                     search_path=MEM0_SEARCH_PATH,
                     add_path=MEM0_ADD_PATH,
+                    list_path=MEM0_LIST_PATH,
+                    delete_path=MEM0_DELETE_PATH,
+                    user_id_header=MEM0_USER_ID_HEADER,
                 )
 
             case "postgres":
