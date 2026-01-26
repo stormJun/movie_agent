@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import dataclasses
 from typing import Any, Optional
 
 from application.chat.conversation_graph import ConversationGraphRunner
@@ -13,6 +14,7 @@ from application.ports.conversation_summarizer_port import ConversationSummarize
 from application.ports.rag_executor_port import RAGExecutorPort
 from application.ports.rag_stream_executor_port import RAGStreamExecutorPort
 from application.ports.router_port import RouterPort
+from domain.chat.entities.route_decision import RouteDecision
 
 
 class ChatHandler:
@@ -95,6 +97,13 @@ class ChatHandler:
         if not isinstance(resp, dict):
             resp = {"answer": ""}
 
+        route_decision_payload: dict[str, Any] | None = None
+        raw_route_decision = final.get("route_decision") if isinstance(final, dict) else None
+        if isinstance(raw_route_decision, RouteDecision):
+            route_decision_payload = dataclasses.asdict(raw_route_decision)
+        elif isinstance(raw_route_decision, dict):
+            route_decision_payload = raw_route_decision
+
         answer = str(resp.get("answer") or "")
 
         watchlist_added: list[dict[str, Any]] = []
@@ -107,7 +116,7 @@ class ChatHandler:
                 content=answer,
                 citations=resp.get("reference") if debug else None,
                 debug={
-                    "route_decision": final.get("route_decision"),
+                    "route_decision": route_decision_payload,
                     "rag_runs": resp.get("rag_runs"),
                 }
                 if debug
@@ -184,7 +193,7 @@ class ChatHandler:
         if resp.get("retrieval_results") is not None:
             out["retrieval_results"] = resp.get("retrieval_results")
         if debug:
-            out["route_decision"] = final.get("route_decision")
+            out["route_decision"] = route_decision_payload
             out["rag_runs"] = resp.get("rag_runs") or []
             out["episodic_memory"] = final.get("episodic_memory")
         return out

@@ -20,6 +20,7 @@ from application.ports.rag_executor_port import RAGExecutorPort
 from application.ports.rag_stream_executor_port import RAGStreamExecutorPort
 from application.ports.router_port import RouterPort
 from domain.chat.entities.rag_run import RagRunSpec
+from domain.chat.entities.route_decision import RouteDecision
 
 
 def _resolve_agent_type(*, agent_type: str, worker_name: str) -> str:
@@ -52,7 +53,7 @@ class ConversationState(TypedDict, total=False):
     # Derived routing.
     kb_prefix: str
     worker_name: str
-    route_decision: dict[str, Any]
+    route_decision: RouteDecision
     routing_ms: int
     resolved_agent_type: str
     use_retrieval: bool
@@ -149,21 +150,17 @@ class ConversationGraphRunner:
         )
         routing_ms = int((time.monotonic() - t0) * 1000)
 
-        decision_dict = (
-            dataclasses.asdict(decision)
-            if dataclasses.is_dataclass(decision)
-            else getattr(decision, "__dict__", {})
-        )
         resolved_agent_type = _resolve_agent_type(
-            agent_type=agent_type, worker_name=getattr(decision, "worker_name", "")
+            agent_type=agent_type, worker_name=decision.worker_name
         )
-        kb_prefix = (getattr(decision, "kb_prefix", "") or "").strip() or "general"
+        kb_prefix = (decision.kb_prefix or "").strip() or "general"
         use_retrieval = kb_prefix not in {"", "general"}
-        worker_name = str(getattr(decision, "worker_name", "") or "")
+        worker_name = str(decision.worker_name or "")
 
         # Frontend debug drawer expects a `selected_agent` field; keep it stable
         # even though our internal RouteDecision uses `worker_name` + `agent_type`.
-        route_payload = dict(decision_dict)
+        # We still need a dict for the debug payload / frontend compatibility.
+        route_payload = dataclasses.asdict(decision)
         # Ensure the payload always carries the requested agent type, even when the
         # router decision object doesn't expose it.
         route_payload.setdefault("agent_type", agent_type)
@@ -195,7 +192,7 @@ class ConversationGraphRunner:
         return {
             "kb_prefix": kb_prefix,
             "worker_name": worker_name,
-            "route_decision": route_payload,
+            "route_decision": decision,  # Pass the dataclass object, not the dict
             "routing_ms": routing_ms,
             "resolved_agent_type": resolved_agent_type,
             "use_retrieval": use_retrieval,
@@ -325,9 +322,14 @@ class ConversationGraphRunner:
         use_retrieval = bool(state.get("use_retrieval"))
         worker_name = str(state.get("worker_name") or "")
 
-        # Extract entities from routing decision for enrichment
-        route_decision = state.get("route_decision", {})
-        extracted_entities = route_decision.get("extracted_entities")
+        # Extract entities from routing decision for enrichment.
+        route_decision = state.get("route_decision")
+        extracted_entities = None
+        if isinstance(route_decision, RouteDecision):
+            extracted_entities = route_decision.extracted_entities
+        elif isinstance(route_decision, dict):
+            # Fallback for any legacy state structure.
+            extracted_entities = route_decision.get("extracted_entities")
 
         # Optional KB handler dispatch.
         kb_handler = None
