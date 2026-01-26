@@ -431,9 +431,15 @@ class ChatStreamExecutor:
                     graphrag_context=combined_context,
                     extracted_entities=extracted_entities,
                 ):
+                    logger.debug("Enrichment triggered for movie KB", extra={"kb_prefix": kb_prefix, "message_preview": message[:200]})
+
+                    # Use the canonical import path to avoid duplicate module instances
+                    # (e.g., `backend.infrastructure.*` vs `infrastructure.*`).
                     from infrastructure.enrichment import get_tmdb_enrichment_service
 
                     svc = get_tmdb_enrichment_service()
+                    logger.debug(f"Enrichment service retrieved: {svc is not None}")
+
                     if svc is None:
                         if debug:
                             yield {
