@@ -150,8 +150,9 @@ class _StubStreamExecutor:
         summary: str | None = None,
         episodic_context: str | None = None,
         history: list[dict[str, Any]] | None = None,
+        extracted_entities: dict[str, Any] | None = None,
     ) -> AsyncGenerator[dict[str, Any], None]:
-        _ = (history, summary, episodic_context)
+        _ = (history, summary, episodic_context, extracted_entities)
         self.last_memory_context = memory_context
         yield {"status": "token", "content": "ok"}
         yield {"status": "done"}

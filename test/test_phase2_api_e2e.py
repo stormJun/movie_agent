@@ -139,8 +139,9 @@ class _StubStreamExecutor:
         summary: str | None = None,
         episodic_context: str | None = None,
         history: List[Dict[str, Any]] | None = None,
+        extracted_entities: Dict[str, Any] | None = None,
     ) -> AsyncGenerator[dict[str, Any], None]:
-        _ = (history, memory_context, summary, episodic_context)
+        _ = (history, memory_context, summary, episodic_context, extracted_entities)
         # Mimic Phase2 behavior: emit progress, tokens, then done.
         yield {
             "status": "progress",
@@ -181,8 +182,9 @@ class _StubKBHandler:
         summary: str | None = None,
         episodic_context: str | None = None,
         history: List[Dict[str, Any]] | None = None,
+        extracted_entities: Dict[str, Any] | None = None,
     ) -> Dict[str, Any]:
-        _ = (memory_context, summary, episodic_context, history)
+        _ = (memory_context, summary, episodic_context, history, extracted_entities)
         return {
             "answer": f"KB:{self._kb_prefix}:{message}",
             "reference": {"chunks": [{"chunk_id": f"{self._kb_prefix}:c1"}]},
@@ -207,8 +209,9 @@ class _StubKBHandler:
         summary: str | None = None,
         episodic_context: str | None = None,
         history: List[Dict[str, Any]] | None = None,
+        extracted_entities: Dict[str, Any] | None = None,
     ) -> AsyncGenerator[dict[str, Any], None]:
-        _ = (memory_context, summary, episodic_context, history)
+        _ = (memory_context, summary, episodic_context, history, extracted_entities)
         yield {
             "status": "progress",
             "content": {"stage": "retrieval", "completed": 0, "total": 1, "error": None},

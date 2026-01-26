@@ -24,6 +24,7 @@ class GraphragStreamExecutor(RAGStreamExecutorPort):
         summary: str | None = None,
         episodic_context: str | None = None,
         history: list[dict[str, Any]] | None = None,
+        extracted_entities: dict[str, Any] | None = None,
     ) -> AsyncGenerator[dict[str, Any], None]:
         async for event in self._executor.stream(
             plan=plan,
@@ -35,5 +36,6 @@ class GraphragStreamExecutor(RAGStreamExecutorPort):
             summary=summary,
             episodic_context=episodic_context,
             history=history,
+            extracted_entities=extracted_entities,
         ):
             yield event

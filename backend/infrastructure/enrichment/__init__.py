@@ -12,9 +12,39 @@ from infrastructure.enrichment.models import (
     TransientNode,
 )
 
+_tmdb_service = None
+
+
+def get_tmdb_enrichment_service():
+    """Lazy singleton builder for TMDB enrichment.
+
+    Returns None when enrichment is disabled or TMDB auth is not configured.
+    """
+    global _tmdb_service
+    if _tmdb_service is not None:
+        return _tmdb_service
+
+    from infrastructure.config.settings import ENRICHMENT_ENABLE, TMDB_API_KEY, TMDB_API_TOKEN
+
+    if not ENRICHMENT_ENABLE:
+        return None
+
+    # Prefer v4 bearer token, but allow v3 API key for local dev.
+    if not (TMDB_API_TOKEN or TMDB_API_KEY):
+        return None
+
+    from infrastructure.enrichment.tmdb_client import TMDBClient
+    from infrastructure.enrichment.tmdb_enrichment_service import TMDBEnrichmentService
+
+    _tmdb_service = TMDBEnrichmentService(
+        tmdb_client=TMDBClient(api_token=TMDB_API_TOKEN or None, api_key=TMDB_API_KEY or None),
+    )
+    return _tmdb_service
+
 __all__ = [
     "TransientNode",
     "TransientEdge",
     "TransientGraph",
     "EnrichmentResult",
+    "get_tmdb_enrichment_service",
 ]

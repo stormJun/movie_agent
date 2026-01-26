@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import asyncio
+import logging
 from typing import Optional
 
 from infrastructure.agents.rag_factory import rag_agent_manager as agent_manager
@@ -13,6 +14,8 @@ from infrastructure.routing.orchestrator.worker_registry import (
     get_agent_for_worker_name,
     parse_worker_name,
 )
+
+logger = logging.getLogger(__name__)
 
 
 class RagManager:
@@ -137,6 +140,29 @@ class RagManager:
             debug=debug,
         )
 
+        # Query-time enrichment for non-streaming /chat as well.
+        # Keep this conservative: only enrich in movie KB when GraphRAG likely missed the entity.
+        if (kb_prefix or "").strip() == "movie":
+            try:
+                if _should_enrich_by_entity_matching(query=message, graphrag_context=combined_context):
+                    from infrastructure.enrichment import get_tmdb_enrichment_service
+
+                    svc = get_tmdb_enrichment_service()
+                    if svc is None:
+                        logger.debug("enrichment skipped: tmdb service not configured")
+                    else:
+                        result = await svc.enrich_query(
+                            message=message,
+                            kb_prefix="movie",
+                            extracted_entities=None,
+                        )
+                        if result.success and result.transient_graph and not result.transient_graph.is_empty():
+                            enriched_text = result.transient_graph.to_context_text().strip()
+                            if enriched_text:
+                                combined_context = f"{combined_context}\n\n{enriched_text}".strip()
+            except Exception as e:
+                logger.debug("query-time enrichment failed: %s", e, exc_info=True)
+
         answer_error: Optional[str] = None
         try:
             answer = await asyncio.wait_for(
@@ -169,3 +195,19 @@ class RagManager:
             error=aggregated_error,
         )
         return aggregated, list(runs)
+
+
+def _should_enrich_by_entity_matching(*, query: str, graphrag_context: str) -> bool:
+    """Conservative fallback: enrich only when GraphRAG likely missed key entities."""
+    from infrastructure.enrichment.entity_extractor import EntityExtractor
+
+    names = EntityExtractor.extract_movie_entities(query)
+    if not names:
+        return True
+
+    ctx = (graphrag_context or "").lower()
+    for name in names:
+        n = name.lower().strip()
+        if n and n in ctx:
+            return False
+    return True

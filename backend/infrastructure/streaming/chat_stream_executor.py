@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import asyncio
+import logging
 import time
 from typing import Any, AsyncGenerator
 
@@ -13,6 +14,7 @@ from infrastructure.rag.answer_generator import build_context_from_runs
 from infrastructure.rag.rag_manager import RagManager
 from infrastructure.rag.specs import RagRunSpec
 
+logger = logging.getLogger(__name__)
 
 _DEBUG_RETRIEVAL_PREVIEW_N = 3
 _DEBUG_EVIDENCE_PREVIEW_CHARS = 240
@@ -117,6 +119,7 @@ class ChatStreamExecutor:
         summary: str | None = None,
         episodic_context: str | None = None,
         history: list[dict[str, Any]] | None = None,
+        extracted_entities: dict[str, Any] | None = None,
     ) -> AsyncGenerator[dict[str, Any], None]:
         use_retrieval = bool(plan) and (kb_prefix or "").strip() not in {"", "general"}
         if not use_retrieval:
@@ -419,6 +422,105 @@ class ChatStreamExecutor:
             ]
         )
 
+        # Query-time enrichment (movie-only): if the KB misses an entity (e.g., 《喜宴》),
+        # use TMDB to build a transient graph and inject it into the context.
+        if (kb_prefix or "").strip() == "movie":
+            try:
+                if _should_enrich_by_entity_matching(
+                    query=message,
+                    graphrag_context=combined_context,
+                    extracted_entities=extracted_entities,
+                ):
+                    from infrastructure.enrichment import get_tmdb_enrichment_service
+
+                    svc = get_tmdb_enrichment_service()
+                    if svc is None:
+                        if debug:
+                            yield {
+                                "execution_log": {
+                                    "node": "enrichment_skip",
+                                    "node_type": "enrichment",
+                                    "input": {"kb_prefix": kb_prefix, "message_preview": (message or "")[:200]},
+                                    "output": {"reason": "tmdb enrichment service not configured"},
+                                }
+                            }
+                    else:
+                        if debug:
+                            yield {
+                                "execution_log": {
+                                    "node": "enrichment_start",
+                                    "node_type": "enrichment",
+                                    "input": {
+                                        "kb_prefix": kb_prefix,
+                                        "message_preview": (message or "")[:200],
+                                        "extracted_entities": extracted_entities,
+                                    },
+                                    "output": {"triggered": True},
+                                }
+                            }
+
+                        t0 = time.monotonic()
+                        result = await svc.enrich_query(
+                            message=message,
+                            kb_prefix=kb_prefix,
+                            extracted_entities=extracted_entities,
+                        )
+                        duration_ms = int((time.monotonic() - t0) * 1000)
+
+                        if result.success and result.transient_graph and not result.transient_graph.is_empty():
+                            enriched_context = result.transient_graph.to_context_text().strip()
+                            if enriched_context:
+                                combined_context = f"{combined_context}\n\n{enriched_context}".strip()
+                            # Forward a lightweight event so the UI can visualize what happened.
+                            yield {
+                                "status": "enrichment",
+                                "content": {
+                                    "entities": list(result.extracted_entities or []),
+                                    "node_count": len(result.transient_graph.nodes),
+                                    "edge_count": len(result.transient_graph.edges),
+                                    "cached": bool(result.cached),
+                                    "duration_ms": float(result.duration_ms or duration_ms),
+                                },
+                            }
+                            if debug:
+                                yield {
+                                    "execution_log": {
+                                        "node": "enrichment_done",
+                                        "node_type": "enrichment",
+                                        "duration_ms": duration_ms,
+                                        "input": {"entities": list(result.extracted_entities or [])},
+                                        "output": {
+                                            "node_count": len(result.transient_graph.nodes),
+                                            "edge_count": len(result.transient_graph.edges),
+                                        },
+                                    }
+                                }
+                        else:
+                            if debug:
+                                yield {
+                                    "execution_log": {
+                                        "node": "enrichment_noop",
+                                        "node_type": "enrichment",
+                                        "duration_ms": duration_ms,
+                                        "input": {"entities": list(result.extracted_entities or [])},
+                                        "output": {
+                                            "success": bool(result.success),
+                                            "api_errors": list(result.api_errors or []),
+                                        },
+                                    }
+                                }
+            except Exception as e:
+                logger.debug("query-time enrichment failed: %s", e, exc_info=True)
+                if debug:
+                    yield {
+                        "execution_log": {
+                            "node": "enrichment_error",
+                            "node_type": "enrichment",
+                            "input": {"kb_prefix": kb_prefix, "message_preview": (message or "")[:200]},
+                            "output": {"error": str(e)},
+                        }
+                    }
+
         # Cache-only debug event (not required for streaming UX).
         if debug:
             yield {
@@ -594,3 +696,32 @@ class ChatStreamExecutor:
                 generation_stage_span.end(level="ERROR", status_message=str(e), output={"error": str(e)})
 
         yield {"status": "done"}
+
+def _should_enrich_by_entity_matching(
+    *,
+    query: str,
+    graphrag_context: str,
+    extracted_entities: dict[str, Any] | None,
+) -> bool:
+    """Conservative fallback: enrich only when GraphRAG likely missed key entities."""
+    from infrastructure.enrichment.entity_extractor import EntityExtractor
+
+    names: list[str] = []
+    if isinstance(extracted_entities, dict):
+        low = extracted_entities.get("low_level")
+        if isinstance(low, list):
+            names = [str(x).strip() for x in low if str(x).strip()]
+
+    if not names:
+        names = EntityExtractor.extract_movie_entities(query)
+
+    if not names:
+        # No detectable entity => if the user is in movie KB, enrichment might still help.
+        return True
+
+    ctx = (graphrag_context or "").lower()
+    for name in names:
+        n = name.lower().strip()
+        if n and n in ctx:
+            return False
+    return True

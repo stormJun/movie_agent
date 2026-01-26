@@ -13,7 +13,12 @@ from typing import Any
 
 import aiohttp
 
-from infrastructure.config.settings import TMDB_API_TOKEN, TMDB_BASE_URL, TMDB_TIMEOUT_S
+from infrastructure.config.settings import (
+    TMDB_API_KEY,
+    TMDB_API_TOKEN,
+    TMDB_BASE_URL,
+    TMDB_TIMEOUT_S,
+)
 
 logger = logging.getLogger(__name__)
 
@@ -37,6 +42,7 @@ class TMDBClient:
         *,
         base_url: str | None = None,
         api_token: str | None = None,
+        api_key: str | None = None,
         timeout_s: float | None = None,
     ) -> None:
         """Initialize the TMDB client.
@@ -48,6 +54,7 @@ class TMDBClient:
         """
         self._base_url = (base_url or TMDB_BASE_URL or "").rstrip("/")
         self._api_token = (api_token or TMDB_API_TOKEN or "").strip()
+        self._api_key = (api_key or TMDB_API_KEY or "").strip()
         self._timeout_s = float(timeout_s or TMDB_TIMEOUT_S or 10.0)
         self._session: aiohttp.ClientSession | None = None
         self._lock = asyncio.Lock()
@@ -58,10 +65,19 @@ class TMDBClient:
         Returns:
             Dictionary of HTTP headers including Authorization bearer token.
         """
-        return {
-            "accept": "application/json",
-            "Authorization": f"Bearer {self._api_token}",
-        }
+        headers = {"accept": "application/json"}
+        # Prefer v4 bearer token auth when available.
+        if self._api_token:
+            headers["Authorization"] = f"Bearer {self._api_token}"
+        return headers
+
+    def _auth_params(self) -> dict[str, str]:
+        """v3 auth via api_key query param (used when bearer token is absent)."""
+        if self._api_token:
+            return {}
+        if self._api_key:
+            return {"api_key": self._api_key}
+        return {}
 
     async def _get_session(self) -> aiohttp.ClientSession:
         """Get or create aiohttp session in a thread-safe manner.
@@ -99,8 +115,8 @@ class TMDBClient:
             - Movie not found
             - API error occurs
         """
-        if not self._base_url or not self._api_token:
-            logger.warning("TMDB client not configured (missing base_url or api_token)")
+        if not self._base_url or not (self._api_token or self._api_key):
+            logger.warning("TMDB client not configured (missing base_url or auth)")
             return None
 
         try:
@@ -112,6 +128,7 @@ class TMDBClient:
                 "language": "zh-CN",  # Prefer Chinese results
                 "page": 1,
             }
+            params.update(self._auth_params())
 
             logger.debug(f"TMDB request URL: {url}")
             logger.debug(f"TMDB params: {params}")
@@ -172,7 +189,7 @@ class TMDBClient:
             }
             Or None if an error occurs.
         """
-        if not self._base_url or not self._api_token:
+        if not self._base_url or not (self._api_token or self._api_key):
             return None
 
         try:
@@ -182,6 +199,7 @@ class TMDBClient:
                 "language": "zh-CN",
                 "append_to_response": "credits",  # Fetch credits in same call
             }
+            params.update(self._auth_params())
 
             async with session.get(url, params=params, headers=self._headers()) as resp:
                 if resp.status >= 400:

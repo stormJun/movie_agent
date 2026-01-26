@@ -12,12 +12,10 @@ from __future__ import annotations
 
 import asyncio
 import logging
-import sys
 import time
 from typing import Any
 
 from infrastructure.config.settings import (
-    ENRICHMENT_CACHE_TTL_S,
     ENRICHMENT_ENABLE,
     ENRICHMENT_MAX_RETRIES,
 )
@@ -59,7 +57,13 @@ class TMDBEnrichmentService:
         self._graph_builder = graph_builder or TransientGraphBuilder()
         self._enable_cache = enable_cache
 
-    async def enrich_query(self, query: str, kb_prefix: str) -> EnrichmentResult:
+    async def enrich_query(
+        self,
+        *,
+        message: str,
+        kb_prefix: str,
+        extracted_entities: dict[str, Any] | None = None,
+    ) -> EnrichmentResult:
         """Enrich a query with TMDB data.
 
         This method:
@@ -70,8 +74,9 @@ class TMDBEnrichmentService:
         5. Returns the enrichment result
 
         Args:
-            query: User's query text
+            message: User's query text
             kb_prefix: Knowledge base prefix (should be "movie" to trigger enrichment)
+            extracted_entities: Optional router-extracted entities
 
         Returns:
             EnrichmentResult containing the TransientGraph and metadata.
@@ -80,7 +85,7 @@ class TMDBEnrichmentService:
 
         # 1. Check if enrichment is enabled
         if not ENRICHMENT_ENABLE:
-            print(f"🔍 [ENRICH] ENRICHMENT_ENABLE={ENRICHMENT_ENABLE}, returning False", file=sys.stderr, flush=True)
+            logger.debug("enrichment disabled: ENRICHMENT_ENABLE=%s", ENRICHMENT_ENABLE)
             return EnrichmentResult(
                 success=False,
                 transient_graph=TransientGraph(),
@@ -89,18 +94,23 @@ class TMDBEnrichmentService:
 
         # 2. Only trigger for movie knowledge base
         if kb_prefix != "movie":
-            print(f"🔍 [ENRICH] kb_prefix={kb_prefix} != 'movie', returning False", file=sys.stderr, flush=True)
+            logger.debug("enrichment skipped: kb_prefix=%s", kb_prefix)
             return EnrichmentResult(
                 success=False,
                 transient_graph=TransientGraph(),
                 extracted_entities=[],
             )
 
-        # 3. Extract movie entities
-        entities = EntityExtractor.extract_movie_entities(query)
-        print(f"🔍 [ENRICH] Extracted entities: {entities}", file=sys.stderr, flush=True)
+        # 3. Extract movie entities (prefer router output when available)
+        entities: list[str] = []
+        if isinstance(extracted_entities, dict):
+            low = extracted_entities.get("low_level")
+            if isinstance(low, list):
+                entities = [str(x).strip() for x in low if str(x).strip()]
         if not entities:
-            print(f"🔍 [ENRICH] No entities extracted, returning False", file=sys.stderr, flush=True)
+            entities = EntityExtractor.extract_movie_entities(message)
+        logger.debug("enrichment extracted entities=%s", entities)
+        if not entities:
             return EnrichmentResult(
                 success=False,
                 transient_graph=TransientGraph(),
@@ -108,12 +118,9 @@ class TMDBEnrichmentService:
             )
 
         # 4. Fetch movies with retry logic
-        print(f"🔍 [ENRICH] Fetching movies from TMDB...", file=sys.stderr, flush=True)
         movie_data_list = await self._fetch_movies_with_retry(entities)
-        print(f"🔍 [ENRICH] Fetched {len(movie_data_list)} movies", file=sys.stderr, flush=True)
 
         if not movie_data_list:
-            print(f"🔍 [ENRICH] No movies fetched, returning False", file=sys.stderr, flush=True)
             return EnrichmentResult(
                 success=False,
                 transient_graph=TransientGraph(),
@@ -183,10 +190,3 @@ class TMDBEnrichmentService:
 
         logger.error(f"TMDB fetch failed after {max_retries} retries")
         return []
-
-    async def close(self) -> None:
-        """Clean up resources.
-
-        This should be called when the service is no longer needed.
-        """
-        await self._tmdb_client.close()

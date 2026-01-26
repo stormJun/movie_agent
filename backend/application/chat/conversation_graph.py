@@ -347,6 +347,7 @@ class ConversationGraphRunner:
                     summary=conversation_summary,
                     episodic_context=episodic_context,
                     history=history,
+                    extracted_entities=extracted_entities,
                 ):
                     writer(ev)
                 return {}

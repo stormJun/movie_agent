@@ -18,5 +18,6 @@ class RAGStreamExecutorPort(Protocol):
         summary: str | None = None,
         episodic_context: str | None = None,
         history: list[dict[str, Any]] | None = None,
+        extracted_entities: dict[str, Any] | None = None,
     ) -> AsyncGenerator[dict[str, Any], None]:
         ...
