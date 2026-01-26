@@ -34,6 +34,8 @@ def _intent_detect_node(state: ChatRouteState) -> ChatRouteState:
         "confidence": getattr(routing_info, "confidence", 0.0) or 0.0,
         "method": getattr(routing_info, "method", "") or "",
         "reason": getattr(routing_info, "reason", "") or "",
+        # Preserve router-extracted entities for downstream enrichment.
+        "extracted_entities": getattr(routing_info, "extracted_entities", None),
     }
 
 
@@ -118,4 +120,5 @@ def invoke_router_graph(
         method=str(final_state.get("method") or ""),
         reason=str(final_state.get("reason") or ""),
         worker_name=str(final_state.get("worker_name") or ""),
+        extracted_entities=final_state.get("extracted_entities"),
     )

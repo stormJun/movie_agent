@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
-from typing import Literal, Optional, TypedDict
+from typing import Any, Literal, Optional, TypedDict
 
 
 KBPrefix = Literal["movie", "edu", "general"]
@@ -16,6 +16,8 @@ class RouteDecision:
     method: str
     reason: str
     worker_name: str
+    # Optional entity extraction from the router LLM (e.g. {"low_level": [...], "high_level": [...]}).
+    extracted_entities: Optional[dict[str, Any]] = None
 
 
 class ChatRouteState(TypedDict, total=False):
@@ -29,3 +31,4 @@ class ChatRouteState(TypedDict, total=False):
     method: str
     reason: str
     worker_name: str
+    extracted_entities: Optional[dict[str, Any]]
