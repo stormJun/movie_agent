@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import asyncio
 import logging
-from datetime import datetime
+from datetime import datetime, timezone
 from typing import Any, Dict, List, Optional
 from uuid import UUID
 
@@ -10,6 +10,24 @@ from application.ports.conversation_store_port import ConversationStorePort
 from application.ports.conversation_summary_store_port import ConversationSummaryStorePort
 
 logger = logging.getLogger(__name__)
+
+
+def _coerce_datetime_for_pg(dt: datetime, *, tz_aware: bool) -> datetime:
+    """Coerce datetimes to match the DB column type (timestamp vs timestamptz).
+
+    Some older deployments created `messages.created_at` as `timestamp` (naive),
+    while newer ones use `timestamptz` (aware). asyncpg requires the bind
+    parameter to match the inferred SQL type, otherwise it raises:
+    "can't subtract offset-naive and offset-aware datetimes".
+    """
+    if tz_aware:
+        if dt.tzinfo is None:
+            return dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(timezone.utc)
+
+    if dt.tzinfo is None:
+        return dt
+    return dt.astimezone(timezone.utc).replace(tzinfo=None)
 
 
 class InMemoryConversationSummaryStore(ConversationSummaryStorePort):
@@ -120,6 +138,9 @@ class PostgresConversationSummaryStore(ConversationSummaryStorePort):
         self._max_size = max_size
         self._pool = None
         self._pool_lock = asyncio.Lock()
+        # Column type compatibility (timestamp vs timestamptz) for older DBs.
+        self._messages_created_at_tz_aware: bool | None = None
+        self._summaries_covered_at_tz_aware: bool | None = None
 
     async def _get_pool(self):
         if self._pool is not None:
@@ -138,6 +159,38 @@ class PostgresConversationSummaryStore(ConversationSummaryStorePort):
             await self._ensure_schema()
             logger.info("PostgreSQL conversation summary store pool initialized")
             return self._pool
+
+    async def _refresh_time_column_semantics(self, conn) -> None:
+        """Detect whether time columns are `timestamptz` or `timestamp`."""
+        try:
+            row = await conn.fetchrow(
+                """
+                SELECT data_type
+                FROM information_schema.columns
+                WHERE table_schema = 'public'
+                  AND table_name = 'messages'
+                  AND column_name = 'created_at'
+                """
+            )
+            data_type = str(row["data_type"] or "") if row else ""
+            self._messages_created_at_tz_aware = "with time zone" in data_type.lower()
+        except Exception as e:
+            logger.debug("Failed to detect messages.created_at type: %s", e)
+
+        try:
+            row = await conn.fetchrow(
+                """
+                SELECT data_type
+                FROM information_schema.columns
+                WHERE table_schema = 'public'
+                  AND table_name = 'conversation_summaries'
+                  AND column_name = 'covered_through_created_at'
+                """
+            )
+            data_type = str(row["data_type"] or "") if row else ""
+            self._summaries_covered_at_tz_aware = "with time zone" in data_type.lower()
+        except Exception as e:
+            logger.debug("Failed to detect conversation_summaries.covered_through_created_at type: %s", e)
 
     async def _ensure_schema(self) -> None:
         pool = self._pool
@@ -246,6 +299,9 @@ class PostgresConversationSummaryStore(ConversationSummaryStorePort):
             except Exception as e:
                 logger.warning("Failed to ensure messages cursor index: %s", e)
 
+            # Cache timestamp semantics for compatibility with older schemas.
+            await self._refresh_time_column_semantics(conn)
+
     async def get_summary(self, *, conversation_id: UUID) -> Optional[Dict[str, Any]]:
         pool = await self._get_pool()
         async with pool.acquire() as conn:
@@ -273,6 +329,14 @@ class PostgresConversationSummaryStore(ConversationSummaryStorePort):
     ) -> bool:
         pool = await self._get_pool()
         async with pool.acquire() as conn:
+            if self._summaries_covered_at_tz_aware is None:
+                await self._refresh_time_column_semantics(conn)
+            tz_aware = (
+                True
+                if self._summaries_covered_at_tz_aware is None
+                else bool(self._summaries_covered_at_tz_aware)
+            )
+            covered_through_created_at = _coerce_datetime_for_pg(covered_through_created_at, tz_aware=tz_aware)
             row = await conn.fetchrow(
                 """
                 INSERT INTO conversation_summaries (
@@ -333,6 +397,16 @@ class PostgresConversationSummaryStore(ConversationSummaryStorePort):
     ) -> List[Dict[str, Any]]:
         pool = await self._get_pool()
         async with pool.acquire() as conn:
+            if since_created_at is not None:
+                if self._messages_created_at_tz_aware is None:
+                    await self._refresh_time_column_semantics(conn)
+                tz_aware = (
+                    False
+                    if self._messages_created_at_tz_aware is None
+                    else bool(self._messages_created_at_tz_aware)
+                )
+                since_created_at = _coerce_datetime_for_pg(since_created_at, tz_aware=tz_aware)
+
             if since_created_at is None:
                 rows = await conn.fetch(
                     """
