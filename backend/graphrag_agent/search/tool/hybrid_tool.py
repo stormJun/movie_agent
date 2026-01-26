@@ -1,5 +1,6 @@
 import time
 import json
+import logging
 from typing import List, Dict, Any, Tuple
 
 from langchain_core.tools import BaseTool
@@ -22,6 +23,8 @@ from graphrag_agent.search.retrieval_adapter import (
     results_from_relationships,
     results_to_payload,
 )
+
+logger = logging.getLogger(__name__)
 
 
 class HybridSearchTool(BaseSearchTool):
@@ -96,8 +99,12 @@ class HybridSearchTool(BaseSearchTool):
             
             # 调用LLM提取关键词
             result = self.keyword_chain.invoke({"query": query})
-            
-            print(f"DEBUG - LLM关键词结果: {result[:100]}...") if len(str(result)) > 100 else print(f"DEBUG - LLM关键词结果: {result}")
+
+            if logger.isEnabledFor(logging.DEBUG):
+                preview = str(result)
+                if len(preview) > 100:
+                    preview = f"{preview[:100]}..."
+                logger.debug("LLM keywords raw result: %s", preview)
             
             # 解析JSON结果
             try:
@@ -126,7 +133,7 @@ class HybridSearchTool(BaseSearchTool):
                     raise TypeError(f"Unexpected result type: {type(result)}")
                     
             except (json.JSONDecodeError, ValueError, TypeError) as json_err:
-                print(f"JSON解析失败: {json_err}，尝试备用方法提取关键词")
+                logger.debug("keyword JSON parse failed: %s; fallback extraction", json_err)
                 
                 # 备用方法：手动提取关键词
                 if isinstance(result, str):
@@ -168,7 +175,7 @@ class HybridSearchTool(BaseSearchTool):
             return keywords
             
         except Exception as e:
-            print(f"关键词提取失败: {e}")
+            logger.debug("keyword extraction failed: %s", e, exc_info=True)
             # 返回基于原始查询的默认值
             return {"low_level": [query], "high_level": [query.split()[0] if query.split() else query]}
     
@@ -295,7 +302,7 @@ class HybridSearchTool(BaseSearchTool):
                 return []
                 
         except Exception as e:
-            print(f"文本搜索也失败: {e}")
+            logger.debug("fallback text search failed: %s", e, exc_info=True)
             return []
     
     def _retrieve_low_level_content(self, query: str, keywords: List[str]) -> Tuple[str, List[RetrievalResult]]:
@@ -396,7 +403,7 @@ class HybridSearchTool(BaseSearchTool):
                 if not keyword_results.empty:
                     entity_ids = keyword_results["id"].tolist()
             except Exception as e:
-                print(f"关键词查询失败: {e}")
+                logger.debug("keyword query failed: %s", e, exc_info=True)
         
         # 如果关键词搜索没有结果或没有提供关键词，尝试使用向量搜索
         if not entity_ids:
@@ -406,14 +413,14 @@ class HybridSearchTool(BaseSearchTool):
                 if vector_entity_ids:
                     entity_ids = vector_entity_ids
             except Exception as e:
-                print(f"向量搜索失败: {e}")
+                logger.debug("vector search failed: %s", e, exc_info=True)
         
         # 如果仍然没有实体，使用基本文本匹配
         if not entity_ids:
             try:
                 entity_ids = self._fallback_text_search(query, limit=self.entity_limit)
             except Exception as e:
-                print(f"文本搜索失败: {e}")
+                logger.debug("text search failed: %s", e, exc_info=True)
         
         # 如果仍然没有实体，返回空内容
         if not entity_ids:
@@ -615,7 +622,7 @@ class HybridSearchTool(BaseSearchTool):
             return "\n".join(low_level), retrieval_results
         except Exception as e:
             self.performance_metrics["query_time"] += time.time() - query_start
-            print(f"实体查询失败: {e}")
+            logger.debug("entity query failed: %s", e, exc_info=True)
             return "查询实体信息时出错。", retrieval_results
     
     def _retrieve_high_level_content(self, query: str, keywords: List[str]) -> Tuple[str, List[RetrievalResult]]:
@@ -697,7 +704,7 @@ class HybridSearchTool(BaseSearchTool):
             return "\n".join(high_level), retrieval_results
         except Exception as e:
             self.performance_metrics["query_time"] += time.time() - query_start
-            print(f"社区查询失败: {e}")
+            logger.debug("community query failed: %s", e, exc_info=True)
             return "查询社区信息时出错。", retrieval_results
 
     def _build_reference_from_retrieval_payload(
@@ -919,7 +926,7 @@ class HybridSearchTool(BaseSearchTool):
             
         except Exception as e:
             error_msg = f"搜索过程中出现错误: {str(e)}"
-            print(error_msg)
+            logger.exception(error_msg)
             return {
                 "query": query,
                 "low_level_content": "",
