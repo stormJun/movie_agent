@@ -10,6 +10,11 @@ class ChatRequest(BaseModel):
     session_id: str
     kb_prefix: Optional[str] = None
     debug: bool = False
+    # User-controlled privacy mode: do not read/write memory-related contexts,
+    # and skip all post-turn memory side effects (summary/episodic/mem0/watchlist).
+    incognito: Optional[bool] = False
+    # Per-request override for watchlist auto-capture. Global server config still applies.
+    watchlist_auto_capture: Optional[bool] = None
     agent_type: str = "naive_rag_agent"
     use_deeper_tool: Optional[bool] = True
     show_thinking: Optional[bool] = False

@@ -23,17 +23,19 @@ async def chat(
     if LANGFUSE_ENABLED:
         langfuse = _get_langfuse_client()
         if langfuse:
-            langfuse_trace = langfuse.trace(
-                name="chat",
-                user_id=request.user_id,
-                session_id=request.session_id,
-                input=request.message,
-                metadata={
-                    "kb_prefix": request.kb_prefix,
-                    "agent_type": request.agent_type,
-                    "debug": request.debug,
-                },
-            )
+                langfuse_trace = langfuse.trace(
+                    name="chat",
+                    user_id=request.user_id,
+                    session_id=request.session_id,
+                    input=request.message,
+                    metadata={
+                        "kb_prefix": request.kb_prefix,
+                        "agent_type": request.agent_type,
+                        "debug": request.debug,
+                        "incognito": bool(request.incognito),
+                        "watchlist_auto_capture": request.watchlist_auto_capture,
+                    },
+                )
 
     with use_langfuse_request_context(
         stateful_client=langfuse_trace,
@@ -46,6 +48,8 @@ async def chat(
             session_id=request.session_id,
             kb_prefix=request.kb_prefix,
             debug=request.debug,
+            incognito=bool(request.incognito),
+            watchlist_auto_capture=request.watchlist_auto_capture,
             agent_type=request.agent_type,
         )
 

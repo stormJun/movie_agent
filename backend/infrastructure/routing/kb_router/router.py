@@ -17,7 +17,7 @@ def route_kb_prefix(
     message: str, requested_kb_prefix: Optional[str] = None
 ) -> Tuple[KBPrefix, KBRoutingResult]:
     """
-    Decide which KB to use (movie vs edu vs general).
+    Decide which KB to use (movie vs edu vs general) and extract entities.
 
     Returns:
         (kb_prefix, routing_result)
@@ -30,13 +30,19 @@ def route_kb_prefix(
 
     llm = get_llm_model()
     prompt = (
-        "你是一个知识库路由器，只在 movie / edu / general 三个选项中选择一个。\n"
-        "规则：\n"
+        "你是一个知识库路由器和实体提取器。请完成两个任务：\n"
+        "1. 路由判断：在 movie / edu / general 三个选项中选择一个\n"
+        "2. 实体提取：提取用户问题中的关键实体\n\n"
+        "路由规则：\n"
         "- 电影/演员/导演/剧情/片单推荐 => movie\n"
         "- 学生管理/课程/考勤/学籍/退学/处分/成绩 => edu\n"
-        "- 其他无法匹配以上领域的问题 => general\n"
+        "- 其他无法匹配以上领域的问题 => general\n\n"
+        "实体提取规则：\n"
+        "- low_level: 具体实体（如电影名、人名）\n"
+        "- high_level: 抽象概念（如类型、关系）\n\n"
         "只输出 JSON，不要输出其他文字：\n"
-        "{\"kb_prefix\": \"movie|edu|general\", \"confidence\": 0~1, \"reason\": \"...\"}\n"
+        "{\"kb_prefix\": \"movie|edu|general\", \"confidence\": 0~1, \"reason\": \"...\", "
+        "\"extracted_entities\": {\"low_level\": [...], \"high_level\": [...]}}\n"
         f"用户问题：{message}"
     )
 
@@ -51,6 +57,7 @@ def route_kb_prefix(
             confidence=0.0,
             method="timeout",
             reason=f"route timeout after {_ROUTER_LLM_TIMEOUT_S}s",
+            extracted_entities=None,
         )
         return fallback, result
     except Exception as exc:
@@ -60,6 +67,7 @@ def route_kb_prefix(
             confidence=0.0,
             method="fallback",
             reason=str(exc),
+            extracted_entities=None,
         )
         return fallback, result
 
@@ -78,10 +86,27 @@ def route_kb_prefix(
     reason = str(parsed.get("reason", "")).strip() if parsed else ""
     reason = re.sub(r"\s+", " ", reason)[:200]
 
+    # 提取实体信息
+    extracted_entities = None
+    if parsed and "extracted_entities" in parsed:
+        try:
+            entities = parsed["extracted_entities"]
+            if isinstance(entities, dict):
+                low_level = entities.get("low_level", [])
+                high_level = entities.get("high_level", [])
+                if isinstance(low_level, list) and isinstance(high_level, list):
+                    extracted_entities = {
+                        "low_level": low_level,
+                        "high_level": high_level,
+                    }
+        except Exception:
+            extracted_entities = None
+
     result = KBRoutingResult(
         kb_prefix=kb,
         confidence=conf,
         method="llm",
         reason=reason,
+        extracted_entities=extracted_entities,
     )
     return kb, result

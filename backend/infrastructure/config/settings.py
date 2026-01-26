@@ -206,3 +206,25 @@ GEMINI_LLM_MODEL = os.getenv("GEMINI_LLM_MODEL", "gemini-2.0-flash-exp").strip()
 GEMINI_EMBEDDINGS_MODEL = os.getenv("GEMINI_EMBEDDINGS_MODEL", "text-embedding-004").strip()
 GEMINI_TEMPERATURE = _get_env_float("GEMINI_TEMPERATURE", None)
 GEMINI_MAX_TOKENS = _get_env_int("GEMINI_MAX_TOKENS", None)
+
+
+# ===== Query-Time Enrichment 配置 =====
+
+# Enrichment 功能总开关
+ENRICHMENT_ENABLE = _get_env_bool("ENRICHMENT_ENABLE", True)
+
+# TMDB API 配置
+TMDB_BASE_URL = os.getenv("TMDB_BASE_URL", "https://api.themoviedb.org/3").strip()
+TMDB_API_TOKEN = os.getenv("TMDB_API_TOKEN", "").strip()
+TMDB_API_KEY = os.getenv("TMDB_API_KEY", "").strip()
+TMDB_TIMEOUT_S = _get_env_float("TMDB_TIMEOUT_S", 5.0) or 5.0
+
+# Enrichment 缓存配置（Phase 2 实现）
+ENRICHMENT_CACHE_TTL_S = _get_env_int("ENRICHMENT_CACHE_TTL_S", 3600) or 3600  # 1小时
+
+# Enrichment 重试配置
+ENRICHMENT_MAX_RETRIES = _get_env_int("ENRICHMENT_MAX_RETRIES", 2) or 2
+
+# 异步持久化配置（Phase 3 实现）
+ENRICHMENT_ASYNC_WRITE_ENABLE = _get_env_bool("ENRICHMENT_ASYNC_WRITE_ENABLE", True)
+ENRICHMENT_WRITE_QUEUE_SIZE = _get_env_int("ENRICHMENT_WRITE_QUEUE_SIZE", 100) or 100

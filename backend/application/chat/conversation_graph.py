@@ -44,6 +44,7 @@ class ConversationState(TypedDict, total=False):
     session_id: str
     requested_kb_prefix: str | None
     debug: bool
+    incognito: bool
     agent_type: str
     conversation_id: Any
     current_user_message_id: Any
@@ -203,6 +204,7 @@ class ConversationGraphRunner:
     async def _recall_node(self, state: ConversationState, config: RunnableConfig) -> dict[str, Any]:
         message = str(state.get("message") or "")
         debug = bool(state.get("debug"))
+        incognito = bool(state.get("incognito"))
 
         conversation_id = state.get("conversation_id")
         current_user_message_id = state.get("current_user_message_id")
@@ -210,7 +212,7 @@ class ConversationGraphRunner:
         t0 = time.monotonic()
 
         memory_context: str | None = None
-        if self._memory_service is not None:
+        if not incognito and self._memory_service is not None:
             try:
                 memory_context = await self._memory_service.recall_context(
                     user_id=str(state.get("user_id") or ""),
@@ -220,7 +222,7 @@ class ConversationGraphRunner:
                 memory_context = None
 
         conversation_summary: str | None = None
-        if self._conversation_summarizer is not None and isinstance(conversation_id, UUID):
+        if not incognito and self._conversation_summarizer is not None and isinstance(conversation_id, UUID):
             try:
                 conversation_summary = await self._conversation_summarizer.get_summary_text(
                     conversation_id=conversation_id
@@ -251,7 +253,7 @@ class ConversationGraphRunner:
 
         episodic_memory: list[dict[str, Any]] | None = None
         episodic_context: str | None = None
-        if self._episodic_memory is not None and isinstance(conversation_id, UUID):
+        if not incognito and self._episodic_memory is not None and isinstance(conversation_id, UUID):
             try:
                 exclude_ids: list[UUID] = []
                 for m in history_context:
@@ -323,6 +325,10 @@ class ConversationGraphRunner:
         use_retrieval = bool(state.get("use_retrieval"))
         worker_name = str(state.get("worker_name") or "")
 
+        # Extract entities from routing decision for enrichment
+        route_decision = state.get("route_decision", {})
+        extracted_entities = route_decision.get("extracted_entities")
+
         # Optional KB handler dispatch.
         kb_handler = None
         if self._enable_kb_handlers and self._kb_handler_factory is not None:
@@ -359,6 +365,7 @@ class ConversationGraphRunner:
                 summary=conversation_summary,
                 episodic_context=episodic_context,
                 history=history,
+                extracted_entities=extracted_entities,
             ):
                 writer(ev)
             return {}

@@ -58,6 +58,8 @@ async def chat_stream(
                         "kb_prefix": request.kb_prefix,
                         "agent_type": request.agent_type,
                         "debug": request.debug,
+                        "incognito": bool(request.incognito),
+                        "watchlist_auto_capture": request.watchlist_auto_capture,
                     },
                 )
                 request_id = langfuse_trace.id
@@ -96,6 +98,8 @@ async def chat_stream(
                 session_id=request.session_id,
                 kb_prefix=request.kb_prefix,
                 debug=request.debug,
+                incognito=bool(request.incognito),
+                watchlist_auto_capture=request.watchlist_auto_capture,
                 agent_type=request.agent_type,
             ).__aiter__()
         except Exception:

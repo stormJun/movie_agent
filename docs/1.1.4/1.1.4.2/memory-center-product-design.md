@@ -318,8 +318,21 @@ POST /api/v1/memory/forget
 - [ ] **API**: `POST /api/v1/memory/forget` (支持 `scope=movie` 语义删除)。
 - [ ] **Consistency**: 确保删除电影记录时，同步清除相关的情节摘要。
 
-### 10.3 暂不包含 (Post-MVP)
+### 10.3 用户控制 (User Control) - MVP Essential
+- [ ] **Incognito Toggle (隐私模式)**：
+    - Chat Header 增加 "Incognito Mode" (无痕模式) 开关。
+    - 开启时：
+        - 不触发 Summarization。
+        - 不触发 Episodic Memory Indexing。
+        - 不触发 Watchlist Auto-Capture。
+        - 不写入 mem0。
+    - 关闭会话后无痕迹。
+- [ ] **Auto-Capture Toggle (自动捕获开关)**：
+    - 允许用户全局关闭 "Watchlist 自动捕获"，避免被打扰。
+- [ ] **Notification & Undo**:
+    - 自动捕获时提供 Toast 通知，并支持 "Undo" (撤销) 操作。
+
+### 10.4 暂不包含 (Post-MVP)
 - [ ] 逐条编辑/锁定记忆。
 - [ ] 记忆图谱/可视化。
 - [ ] "假如遗忘"模拟器。
-- [ ] 隐私模式 (Incognito)。

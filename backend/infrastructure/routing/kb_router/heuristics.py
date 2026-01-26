@@ -41,6 +41,7 @@ def route_by_heuristic(message: str) -> Optional[KBRoutingResult]:
             confidence=0.95,
             method="heuristic",
             reason=f"edu_keywords={edu_score} > movie_keywords={movie_score}",
+            extracted_entities=None,  # Heuristic path doesn't extract entities
         )
     if movie_score >= min_score and movie_score > edu_score:
         return KBRoutingResult(
@@ -48,6 +49,7 @@ def route_by_heuristic(message: str) -> Optional[KBRoutingResult]:
             confidence=0.95,
             method="heuristic",
             reason=f"movie_keywords={movie_score} > edu_keywords={edu_score}",
+            extracted_entities=None,  # Heuristic path doesn't extract entities
         )
 
     return None

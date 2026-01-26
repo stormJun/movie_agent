@@ -60,8 +60,11 @@ class StreamHandler:
         session_id: str,
         kb_prefix: Optional[str] = None,
         debug: bool = False,
+        incognito: bool = False,
+        watchlist_auto_capture: bool | None = None,
         agent_type: str = "hybrid_agent",
     ) -> AsyncGenerator[dict[str, Any], None]:
+        incognito = bool(incognito)
         conversation_id = await self._conversation_store.get_or_create_conversation_id(
             user_id=user_id,
             session_id=session_id,
@@ -86,6 +89,7 @@ class StreamHandler:
                     "session_id": session_id,
                     "requested_kb_prefix": kb_prefix,
                     "debug": bool(debug),
+                    "incognito": incognito,
                     "agent_type": agent_type,
                     "conversation_id": conversation_id,
                     "current_user_message_id": current_user_message_id,
@@ -121,13 +125,13 @@ class StreamHandler:
             completed=completed_normally,
         )
 
-        if completed_normally and self._conversation_summarizer is not None:
+        if completed_normally and (not incognito) and self._conversation_summarizer is not None:
             try:
                 await self._conversation_summarizer.schedule_update(conversation_id=conversation_id)
             except Exception:
                 pass
 
-        if completed_normally and self._episodic_memory is not None:
+        if completed_normally and (not incognito) and self._episodic_memory is not None:
             try:
                 await self._episodic_memory.schedule_index_episode(
                     conversation_id=conversation_id,
@@ -139,7 +143,7 @@ class StreamHandler:
             except Exception:
                 pass
 
-        if completed_normally and self._memory_service is not None:
+        if completed_normally and (not incognito) and self._memory_service is not None:
             try:
                 await self._memory_service.maybe_write(
                     user_id=user_id,
@@ -151,7 +155,8 @@ class StreamHandler:
                 pass
 
         watchlist_added: list[dict[str, Any]] = []
-        if completed_normally and self._watchlist_capture is not None:
+        allow_watchlist = (watchlist_auto_capture is not False) and (not incognito)
+        if completed_normally and allow_watchlist and self._watchlist_capture is not None:
             try:
                 res = await self._watchlist_capture.maybe_capture(
                     user_id=user_id,

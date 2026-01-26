@@ -13,6 +13,8 @@ export interface ChatRequest {
   session_id: string;
   kb_prefix?: string;
   debug?: boolean;
+  incognito?: boolean;
+  watchlist_auto_capture?: boolean | null;
   agent_type: AgentType;
   use_deeper_tool?: boolean;
   show_thinking?: boolean;

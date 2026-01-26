@@ -177,6 +177,15 @@ export function ChatPage() {
   const [showThinking, setShowThinking] = useState<boolean>(false);
   const [useChainExploration, setUseChainExploration] = useState<boolean>(true);
 
+  // Privacy & Memory Settings
+  const [isIncognito, setIsIncognito] = useState<boolean>(() => {
+    return localStorage.getItem("graphrag.privacy.incognito") === "true";
+  });
+  const [autoCaptureEnabled, setAutoCaptureEnabled] = useState<boolean>(() => {
+    const val = localStorage.getItem("graphrag.privacy.autoCapture");
+    return val !== "false"; // Default true
+  });
+
   const [messages, setMessages] = useState<ChatMessage[]>([]);
   const [executionLogs, setExecutionLogs] = useState<unknown[]>([]);
   const [latestDebugData, setLatestDebugData] = useState<DebugData | null>(null);
@@ -513,11 +522,14 @@ export function ChatPage() {
       message: prompt,
       user_id: userId,
       session_id: sessionId,
+      kb_prefix: "movie", // Set knowledge base prefix for movie queries
       debug: debugMode,
       agent_type: agentType,
       use_deeper_tool: agentType === "deep_research_agent" ? useDeeperTool : undefined,
       show_thinking: agentType === "deep_research_agent" ? showThinking : undefined,
       use_chain_exploration: agentType === "fusion_agent" ? useChainExploration : undefined,
+      incognito: isIncognito,
+      watchlist_auto_capture: autoCaptureEnabled,
     };
 
     const updateAssistant = (delta: string) => {
@@ -1055,6 +1067,12 @@ export function ChatPage() {
                 onClick={() => setSessionListVisible(!sessionListVisible)}
               />
               {/* <Typography.Text strong style={{ fontSize: 18, marginLeft: 4 }}>GraphRAG Chat</Typography.Text> */}
+              {isIncognito && (
+                <Tag color="#1f1f1f" style={{ display: "flex", alignItems: "center", gap: 4, borderRadius: 12, padding: "2px 10px", margin: 0 }}>
+                  <span role="img" aria-label="incognito">🕶️</span>
+                  无痕模式
+                </Tag>
+              )}
             </div>
             <Space>
               <Button
@@ -1523,7 +1541,42 @@ export function ChatPage() {
                 </Col>
 
                 <Col span={24}>
-                  <Divider style={{ margin: "12px 0" }} />
+                  <Divider style={{ margin: "12px 0" }} orientation="left" plain>隐私与记忆</Divider>
+                  <Space direction="vertical" style={{ width: "100%" }}>
+                    <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
+                      <span>无痕模式 (Incognito)</span>
+                      <Switch
+                        checked={isIncognito}
+                        onChange={(checked) => {
+                          setIsIncognito(checked);
+                          localStorage.setItem("graphrag.privacy.incognito", String(checked));
+                          message.info(checked ? "已开启无痕模式，新的对话将不会被记忆" : "已关闭无痕模式");
+                        }}
+                      />
+                    </div>
+                    <Typography.Text type="secondary" style={{ fontSize: 12, display: "block", marginTop: -8 }}>
+                      开启后，AI 不会生成摘要、不会通过情节记忆学习您的偏好，也不会自动捕获待看清单。
+                    </Typography.Text>
+
+                    <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginTop: 12 }}>
+                      <span>自动捕获待看清单 (Auto-Capture)</span>
+                      <Switch
+                        checked={autoCaptureEnabled}
+                        onChange={(checked) => {
+                          setAutoCaptureEnabled(checked);
+                          localStorage.setItem("graphrag.privacy.autoCapture", String(checked));
+                        }}
+                        disabled={isIncognito} // Incognito implicitly disables memory write
+                      />
+                    </div>
+                    <Typography.Text type="secondary" style={{ fontSize: 12, display: "block", marginTop: -8 }}>
+                      允许 AI 从对话中自动识别并添加电影到您的 Watchlist。
+                    </Typography.Text>
+                  </Space>
+                </Col>
+
+                <Col span={24}>
+                  <Divider style={{ margin: "12px 0" }} orientation="left" plain>调试选项</Divider>
                   <Space direction="vertical">
                     <Checkbox
                       checked={debugMode}
