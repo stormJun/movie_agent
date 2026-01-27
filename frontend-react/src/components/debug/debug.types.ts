@@ -132,6 +132,7 @@ export interface DebugTabProps {
 
 export interface TimelineTabProps {
     executionLog: ExecutionLogNode[];
+    progressNodes?: ExecutionLogNode[];
     onOpenSource?: (sourceId: string) => void;
 }
 

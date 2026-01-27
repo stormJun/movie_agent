@@ -8,7 +8,7 @@ import RetrievalTab from './RetrievalTab';
 import EpisodicTab from './EpisodicTab';
 import ContextTab from './ContextTab';
 import RawTab from './RawTab';
-import { extractExecutionLog, extractRagRuns, extractEpisodicEpisodes } from '../../utils/debugHelpers';
+import { extractExecutionLog, extractRagRuns, extractEpisodicEpisodes, extractProgressTimelineNodes } from '../../utils/debugHelpers';
 
 interface DebugDrawerProps {
     open: boolean;
@@ -26,6 +26,7 @@ const DebugDrawer: React.FC<DebugDrawerProps> = ({
     onOpenSource,
 }) => {
     const executionLog = extractExecutionLog(debugData);
+    const progressNodes = extractProgressTimelineNodes(debugData);
     const ragRuns = extractRagRuns(debugData);
     const episodicEpisodes = extractEpisodicEpisodes(debugData);
 
@@ -66,8 +67,14 @@ const DebugDrawer: React.FC<DebugDrawerProps> = ({
                     },
                     {
                         key: 'timeline',
-                        label: `时间线 (${executionLog.length})`,
-                        children: <TimelineTab executionLog={executionLog} onOpenSource={onOpenSource} />,
+                        label: `时间线 (${executionLog.length + progressNodes.length})`,
+                        children: (
+                            <TimelineTab
+                                executionLog={executionLog}
+                                progressNodes={progressNodes}
+                                onOpenSource={onOpenSource}
+                            />
+                        ),
                     },
                     {
                         key: 'retrieval',

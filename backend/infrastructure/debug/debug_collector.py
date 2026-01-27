@@ -40,7 +40,9 @@ class DebugDataCollector:
 
         if event_type == "progress":
             if isinstance(content, dict):
-                self.progress_events.append(dict(content))
+                entry = dict(content)
+                entry.setdefault("timestamp", datetime.now().isoformat())
+                self.progress_events.append(entry)
             return
 
         if event_type == "error":

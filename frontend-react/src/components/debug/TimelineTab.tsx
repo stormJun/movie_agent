@@ -1,14 +1,18 @@
 import React, { useMemo } from 'react';
 import { Timeline, Card, Descriptions, Collapse, Empty, Tag } from 'antd';
 import type { TimelineTabProps } from './debug.types';
-import { convertToTimelineNodes, prettyJson, summarizeErrors } from '../../utils/debugHelpers';
+import { convertToTimelineNodes, mergeTimelineNodes, prettyJson, summarizeErrors } from '../../utils/debugHelpers';
 import ErrorSummary from './ErrorSummary';
 
-const TimelineTab: React.FC<TimelineTabProps> = ({ executionLog }) => {
-    const timelineNodes = useMemo(() => convertToTimelineNodes(executionLog), [executionLog]);
-    const errors = useMemo(() => summarizeErrors(executionLog), [executionLog]);
+const TimelineTab: React.FC<TimelineTabProps> = ({ executionLog, progressNodes }) => {
+    const mergedNodes = useMemo(
+        () => mergeTimelineNodes(executionLog, progressNodes ?? []),
+        [executionLog, progressNodes]
+    );
+    const timelineNodes = useMemo(() => convertToTimelineNodes(mergedNodes), [mergedNodes]);
+    const errors = useMemo(() => summarizeErrors(mergedNodes), [mergedNodes]);
 
-    if (executionLog.length === 0) {
+    if (mergedNodes.length === 0) {
         return (
             <Empty description="暂无执行轨迹（请开启调试模式并发送消息）" style={{ marginTop: 48 }} />
         );

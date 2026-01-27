@@ -119,6 +119,62 @@ export function extractExecutionLog(debugData: DebugData | null): ExecutionLogNo
     return logs;
 }
 
+export function extractProgressTimelineNodes(debugData: DebugData | null): ExecutionLogNode[] {
+    const raw = debugData?.progress_events;
+    if (!Array.isArray(raw)) return [];
+    const nodes: ExecutionLogNode[] = [];
+    for (const item of raw) {
+        if (!isPlainRecord(item)) continue;
+        const stage = typeof item.stage === 'string' ? item.stage : 'progress';
+        const timestamp = typeof item.timestamp === 'string' ? item.timestamp : debugData?.timestamp || '';
+        const completed = typeof item.completed === 'number' ? item.completed : undefined;
+        const total = typeof item.total === 'number' ? item.total : undefined;
+        const agentType = typeof item.agent_type === 'string' ? item.agent_type : undefined;
+        const retrievalCount = typeof item.retrieval_count === 'number' ? item.retrieval_count : undefined;
+        const err = typeof item.error === 'string' ? item.error : null;
+
+        nodes.push({
+            node: `progress:${stage}`,
+            node_type: 'progress',
+            timestamp: timestamp,
+            input: { stage },
+            output: {
+                stage,
+                completed,
+                total,
+                agent_type: agentType,
+                retrieval_count: retrievalCount,
+                error: err,
+            },
+            error: err ? { type: 'ProgressError', message: err } : undefined,
+        });
+    }
+    return nodes;
+}
+
+function tryParseTime(ts: string): number {
+    try {
+        const d = dayjs(ts);
+        const v = d.valueOf();
+        return Number.isFinite(v) ? v : 0;
+    } catch {
+        return 0;
+    }
+}
+
+export function mergeTimelineNodes(executionLog: ExecutionLogNode[], progressNodes: ExecutionLogNode[]): ExecutionLogNode[] {
+    const merged: Array<{ idx: number; node: ExecutionLogNode; t: number }> = [];
+    let i = 0;
+    for (const n of executionLog) {
+        merged.push({ idx: i++, node: n, t: tryParseTime(n.timestamp) });
+    }
+    for (const n of progressNodes) {
+        merged.push({ idx: i++, node: n, t: tryParseTime(n.timestamp) });
+    }
+    merged.sort((a, b) => (a.t - b.t) || (a.idx - b.idx));
+    return merged.map((x) => x.node);
+}
+
 export function extractRagRuns(debugData: DebugData | null): RagRun[] {
     if (!debugData?.rag_runs) return [];
     const runs: RagRun[] = [];
@@ -350,6 +406,26 @@ export function extractNodeSummary(node: ExecutionLogNode): Record<string, any> 
     const nodeName = node.node.toLowerCase();
     const nodeType = (node.node_type || '').toLowerCase();
     const summary: Record<string, any> = {};
+
+    if (nodeType === 'progress' || nodeName.startsWith('progress:')) {
+        const out = isPlainRecord(node.output) ? node.output : null;
+        if (out) {
+            if (typeof (out as any).stage === 'string') summary['阶段'] = (out as any).stage;
+            if (typeof (out as any).completed === 'number' && typeof (out as any).total === 'number') {
+                summary['进度'] = `${(out as any).completed}/${(out as any).total}`;
+            }
+            if (typeof (out as any).agent_type === 'string' && (out as any).agent_type.trim()) {
+                summary['Agent'] = (out as any).agent_type;
+            }
+            if (typeof (out as any).retrieval_count === 'number') {
+                summary['检索数'] = (out as any).retrieval_count;
+            }
+            if (typeof (out as any).error === 'string' && (out as any).error.trim()) {
+                summary['错误'] = truncateText((out as any).error, 120);
+            }
+        }
+        return summary;
+    }
 
     const isRetrieval =
         nodeType.includes('retrieval') || nodeType.includes('search') || nodeName.includes('retrieval') || nodeName.includes('search');

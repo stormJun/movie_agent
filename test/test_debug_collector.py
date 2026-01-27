@@ -13,6 +13,7 @@ class TestDebugDataCollector(unittest.TestCase):
 
         c.add_event("progress", {"stage": "retrieval", "completed": 1, "total": 2, "error": None})
         self.assertEqual(len(c.progress_events), 1)
+        self.assertIn("timestamp", c.progress_events[0])
 
         c.add_event("error", {"message": "boom"})
         self.assertEqual(len(c.error_events), 1)
