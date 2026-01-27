@@ -1320,6 +1320,227 @@ TMDB_TIMEOUT_S = _get_env_float("TMDB_TIMEOUT_S", 5.0) or 5.0
 
 ---
 
+
+## 官方 Reference 左侧栏目索引（全量）
+
+本节按 TMDB 官方 Reference 左侧栏目（`/reference/getting-started` 页面导航）整理，用于保证‘有哪些 API’在本文档中都有落点。
+- 链接为官方 reference 页面；端点的用途/参数/响应要点在本文其它章节会逐步补充与维护。
+- 若官方页面新增/重命名端点：以官方为准，并回填本文档。
+
+### Authentication
+
+- https://developer.themoviedb.org/reference/authentication
+- https://developer.themoviedb.org/reference/authentication-create-guest-session
+- https://developer.themoviedb.org/reference/authentication-create-request-token
+- https://developer.themoviedb.org/reference/authentication-create-session
+- https://developer.themoviedb.org/reference/authentication-create-session-from-login
+- https://developer.themoviedb.org/reference/authentication-create-session-from-v4-token
+- https://developer.themoviedb.org/reference/authentication-delete-session
+- https://developer.themoviedb.org/reference/authentication-how-do-i-generate-a-session-id
+- https://developer.themoviedb.org/reference/authentication-validate-key
+
+### Account
+
+- https://developer.themoviedb.org/reference/account-add-favorite
+- https://developer.themoviedb.org/reference/account-add-to-watchlist
+- https://developer.themoviedb.org/reference/account-details
+- https://developer.themoviedb.org/reference/account-favorite-tv
+- https://developer.themoviedb.org/reference/account-get-favorites
+- https://developer.themoviedb.org/reference/account-lists
+- https://developer.themoviedb.org/reference/account-rated-movies
+- https://developer.themoviedb.org/reference/account-rated-tv
+- https://developer.themoviedb.org/reference/account-rated-tv-episodes
+- https://developer.themoviedb.org/reference/account-watchlist-movies
+- https://developer.themoviedb.org/reference/account-watchlist-tv
+
+### Certifications
+
+- https://developer.themoviedb.org/reference/certification-movie-list
+- https://developer.themoviedb.org/reference/certifications-tv-list
+
+### Changes
+
+- https://developer.themoviedb.org/reference/changes-movie-list
+- https://developer.themoviedb.org/reference/changes-people-list
+- https://developer.themoviedb.org/reference/changes-tv-list
+
+### Collections
+
+- https://developer.themoviedb.org/reference/collection-details
+- https://developer.themoviedb.org/reference/collection-images
+- https://developer.themoviedb.org/reference/collection-translations
+
+### Companies
+
+- https://developer.themoviedb.org/reference/company-alternative-names
+- https://developer.themoviedb.org/reference/company-details
+- https://developer.themoviedb.org/reference/company-images
+
+### Configuration
+
+- https://developer.themoviedb.org/reference/configuration-countries
+- https://developer.themoviedb.org/reference/configuration-details
+- https://developer.themoviedb.org/reference/configuration-jobs
+- https://developer.themoviedb.org/reference/configuration-languages
+- https://developer.themoviedb.org/reference/configuration-primary-translations
+- https://developer.themoviedb.org/reference/configuration-timezones
+
+### Credits
+
+- https://developer.themoviedb.org/reference/credit-details
+
+### Discover
+
+- https://developer.themoviedb.org/reference/discover-movie
+- https://developer.themoviedb.org/reference/discover-tv
+
+### Find
+
+- https://developer.themoviedb.org/reference/find-by-id
+
+### Genres
+
+- https://developer.themoviedb.org/reference/genre-movie-list
+- https://developer.themoviedb.org/reference/genre-tv-list
+
+### Guest Sessions
+
+- https://developer.themoviedb.org/reference/guest-session-rated-movies
+- https://developer.themoviedb.org/reference/guest-session-rated-tv
+- https://developer.themoviedb.org/reference/guest-session-rated-tv-episodes
+
+### Keywords
+
+- https://developer.themoviedb.org/reference/keyword-details
+- https://developer.themoviedb.org/reference/keyword-movies
+
+### Lists
+
+- https://developer.themoviedb.org/reference/list-add-movie
+- https://developer.themoviedb.org/reference/list-check-item-status
+- https://developer.themoviedb.org/reference/list-clear
+- https://developer.themoviedb.org/reference/list-create
+- https://developer.themoviedb.org/reference/list-delete
+- https://developer.themoviedb.org/reference/list-details
+- https://developer.themoviedb.org/reference/list-remove-movie
+
+### Movies
+
+- https://developer.themoviedb.org/reference/movie-account-states
+- https://developer.themoviedb.org/reference/movie-add-rating
+- https://developer.themoviedb.org/reference/movie-alternative-titles
+- https://developer.themoviedb.org/reference/movie-changes
+- https://developer.themoviedb.org/reference/movie-credits
+- https://developer.themoviedb.org/reference/movie-delete-rating
+- https://developer.themoviedb.org/reference/movie-details
+- https://developer.themoviedb.org/reference/movie-external-ids
+- https://developer.themoviedb.org/reference/movie-images
+- https://developer.themoviedb.org/reference/movie-keywords
+- https://developer.themoviedb.org/reference/movie-latest-id
+- https://developer.themoviedb.org/reference/movie-lists
+- https://developer.themoviedb.org/reference/movie-now-playing-list
+- https://developer.themoviedb.org/reference/movie-popular-list
+- https://developer.themoviedb.org/reference/movie-recommendations
+- https://developer.themoviedb.org/reference/movie-release-dates
+- https://developer.themoviedb.org/reference/movie-reviews
+- https://developer.themoviedb.org/reference/movie-similar
+- https://developer.themoviedb.org/reference/movie-top-rated-list
+- https://developer.themoviedb.org/reference/movie-translations
+- https://developer.themoviedb.org/reference/movie-upcoming-list
+- https://developer.themoviedb.org/reference/movie-videos
+- https://developer.themoviedb.org/reference/movie-watch-providers
+
+### People
+
+- https://developer.themoviedb.org/reference/person-changes
+- https://developer.themoviedb.org/reference/person-combined-credits
+- https://developer.themoviedb.org/reference/person-details
+- https://developer.themoviedb.org/reference/person-external-ids
+- https://developer.themoviedb.org/reference/person-images
+- https://developer.themoviedb.org/reference/person-latest-id
+- https://developer.themoviedb.org/reference/person-movie-credits
+- https://developer.themoviedb.org/reference/person-popular-list
+- https://developer.themoviedb.org/reference/person-tagged-images
+- https://developer.themoviedb.org/reference/person-tv-credits
+
+### Search
+
+- https://developer.themoviedb.org/reference/search-collection
+- https://developer.themoviedb.org/reference/search-company
+- https://developer.themoviedb.org/reference/search-keyword
+- https://developer.themoviedb.org/reference/search-movie
+- https://developer.themoviedb.org/reference/search-multi
+- https://developer.themoviedb.org/reference/search-person
+- https://developer.themoviedb.org/reference/search-tv
+
+### Trending
+
+- https://developer.themoviedb.org/reference/trending-all
+- https://developer.themoviedb.org/reference/trending-movies
+- https://developer.themoviedb.org/reference/trending-people
+- https://developer.themoviedb.org/reference/trending-tv
+
+### TV Series
+
+- https://developer.themoviedb.org/reference/tv-series-account-states
+- https://developer.themoviedb.org/reference/tv-series-add-rating
+- https://developer.themoviedb.org/reference/tv-series-aggregate-credits
+- https://developer.themoviedb.org/reference/tv-series-airing-today-list
+- https://developer.themoviedb.org/reference/tv-series-alternative-titles
+- https://developer.themoviedb.org/reference/tv-series-changes
+- https://developer.themoviedb.org/reference/tv-series-content-ratings
+- https://developer.themoviedb.org/reference/tv-series-credits
+- https://developer.themoviedb.org/reference/tv-series-delete-rating
+- https://developer.themoviedb.org/reference/tv-series-details
+- https://developer.themoviedb.org/reference/tv-series-episode-groups
+- https://developer.themoviedb.org/reference/tv-series-external-ids
+- https://developer.themoviedb.org/reference/tv-series-images
+- https://developer.themoviedb.org/reference/tv-series-keywords
+- https://developer.themoviedb.org/reference/tv-series-latest-id
+- https://developer.themoviedb.org/reference/tv-series-on-the-air-list
+- https://developer.themoviedb.org/reference/tv-series-popular-list
+- https://developer.themoviedb.org/reference/tv-series-recommendations
+- https://developer.themoviedb.org/reference/tv-series-reviews
+- https://developer.themoviedb.org/reference/tv-series-screened-theatrically
+- https://developer.themoviedb.org/reference/tv-series-similar
+- https://developer.themoviedb.org/reference/tv-series-top-rated-list
+- https://developer.themoviedb.org/reference/tv-series-translations
+- https://developer.themoviedb.org/reference/tv-series-videos
+- https://developer.themoviedb.org/reference/tv-series-watch-providers
+
+### TV Seasons
+
+- https://developer.themoviedb.org/reference/tv-season-account-states
+- https://developer.themoviedb.org/reference/tv-season-aggregate-credits
+- https://developer.themoviedb.org/reference/tv-season-changes-by-id
+- https://developer.themoviedb.org/reference/tv-season-credits
+- https://developer.themoviedb.org/reference/tv-season-details
+- https://developer.themoviedb.org/reference/tv-season-external-ids
+- https://developer.themoviedb.org/reference/tv-season-images
+- https://developer.themoviedb.org/reference/tv-season-translations
+- https://developer.themoviedb.org/reference/tv-season-videos
+- https://developer.themoviedb.org/reference/tv-season-watch-providers
+
+### TV Episodes
+
+- https://developer.themoviedb.org/reference/tv-episode-account-states
+- https://developer.themoviedb.org/reference/tv-episode-add-rating
+- https://developer.themoviedb.org/reference/tv-episode-changes-by-id
+- https://developer.themoviedb.org/reference/tv-episode-credits
+- https://developer.themoviedb.org/reference/tv-episode-delete-rating
+- https://developer.themoviedb.org/reference/tv-episode-details
+- https://developer.themoviedb.org/reference/tv-episode-external-ids
+- https://developer.themoviedb.org/reference/tv-episode-group-details
+- https://developer.themoviedb.org/reference/tv-episode-images
+- https://developer.themoviedb.org/reference/tv-episode-translations
+- https://developer.themoviedb.org/reference/tv-episode-videos
+
+### Watch Providers
+
+- https://developer.themoviedb.org/reference/watch-provider-tv-list
+- https://developer.themoviedb.org/reference/watch-providers-available-regions
+- https://developer.themoviedb.org/reference/watch-providers-movie-list
+
 ## 参考资料
 
 - TMDB API v3 文档: https://developer.themoviedb.org/reference/getting-started
