@@ -6,6 +6,7 @@
 - 主编排：`backend/application/chat/conversation_graph.py`（route → recall → retrieval_subgraph → generate）
 - 检索子图：`backend/infrastructure/rag/retrieval_subgraph.py`（Plan → Execute → Reflect → Merge）
 - Query-time Enrichment（TMDB）：`backend/infrastructure/enrichment/tmdb_enrichment_service.py`（由 merge 阶段触发）
+- TMDB API 端点参考：`docs/1.1.5/1.1.5.2/tmdb-api-reference.md`
 
 ---
 
@@ -120,6 +121,72 @@
 - 不负责：最终自然语言答案（答案由 generate 阶段统一生成）
 - Debug 可见性：应该在 debug cache 里可见（enrichment_start/enrichment_done/combined_context）
 
+### 4.3 TMDB API 如何与业务意图结合（推荐调用链）
+
+核心原则：让 TMDB 做“对象解析 + 结构化证据补全”，GraphRAG 做“图谱扩展 + 本地知识检索”，避免把“人名当片名搜”。
+
+当前项目中 TMDB Enrichment 的典型调用链（按 router 输出）：
+
+1) 事实/指代类（`fact`，且抽到候选实体名）
+- 先解析实体（同名/译名/年份消歧）：
+  - `GET /search/multi?query=...&language=zh-CN`
+  - 若简介/传记为空，回退：`language=en-US` 补 overview/biography（最佳努力）
+- 再拉细节（一次拿到 credits/combined_credits，便于回答导演/演员）：
+  - 若选中 `movie`：`GET /movie/{id}?append_to_response=credits&language=zh-CN`
+  - 若选中 `tv`：`GET /tv/{id}?append_to_response=credits&language=zh-CN`
+  - 若选中 `person`：`GET /person/{id}?append_to_response=combined_credits&language=zh-CN`
+
+2) 人物作品清单（`list` + `media_type_hint=person`）
+- `GET /search/multi` 优先找 `person`
+- `GET /person/{id}?append_to_response=combined_credits`
+- 从 `combined_credits.crew` 里筛导演（job/department），从 `cast` 里筛演员，按年份/热度/评分裁剪成“代表作/列表”
+
+3) 推荐（`recommend`）
+- 若 `media_type_hint=tv` 且用户没有给具体片名（通常为“推荐电视剧/国产剧”）：
+  - `GET /discover/tv`（使用 router filters 映射到 discover 参数）
+- 若 `media_type_hint=movie` 且用户给了明确筛选（年份/地区/语言等）：
+  - `GET /discover/movie`
+- 备注：discover 只用于“候选集合”，必要时再对 top N 候选补 detail（`/movie/{id}` 或 `/tv/{id}`）增强解释性。
+
+4) 对比（`compare`）
+- 若 A/B 任一对象不确定：先走 `/search/multi` 消歧
+- 对每个对象拉 detail（`/movie/{id}` 或 `/tv/{id}`）
+- 最终输出对比字段（title/year/genres/runtime/crew top 等）+ 证据片段
+
+以上端点字段与更完整的 TMDB API 列表参见：`docs/1.1.5/1.1.5.2/tmdb-api-reference.md`。
+
+### 4.4 filters → TMDB 参数映射（discover）
+
+推荐把 router 的 filters 作为唯一来源（避免本地“关键词猜测”误触发 discover）。
+
+- Movie：`GET /discover/movie`
+  - `filters.year` → `primary_release_year`
+  - `filters.region` → `region`
+  - `filters.origin_country` → `with_origin_country`（best-effort）
+  - `filters.original_language` → `with_original_language`
+  - `filters.date_range.gte/lte` → `primary_release_date.gte/lte`
+- TV：`GET /discover/tv`
+  - `filters.year` → `first_air_date_year`
+  - `filters.origin_country` → `with_origin_country`
+  - `filters.original_language` → `with_original_language`
+  - `filters.date_range.gte/lte` → `first_air_date.gte/lte`
+
+注：参数命名以 TMDB 官方为准；若有不确定字段，优先落地为“best-effort + debug 可见”，不要静默失败。
+
+### 4.5 TMDB 返回如何转成“图证据”（供 GraphRAG/LLM 使用）
+
+Enrichment 不直接“回答”，而是把 TMDB 的结构化 payload 转成一组可引用的图证据（transient graph）：
+- `movie/tv` payload：
+  - 节点：Movie/TV（含 tmdb_id、title/name、overview、release_date/first_air_date、genres、rating 等）
+  - 关系：从 `credits.crew` 抽取 Director（DIRECTED），从 `credits.cast` 抽 top cast（ACTED_IN），从 genres 建 BELONGS_TO_GENRE
+- `person` payload：
+  - 节点：Person（tmdb_id、name、biography、known_for_department 等）
+  - 关系：从 `combined_credits.crew/cast` 抽代表性作品建 Movie/TV，并连 DIRECTED/ACTED_IN
+
+然后在 merge 阶段把 transient graph 序列化为一段“可读证据文本”（combined_context 的一部分），使生成阶段“有证据可答”，避免靠常识猜。
+
+（可选）如果需要把 TMDB 数据作为长期基础数据持久化，可参考 `docs/1.1.5/1.1.5.2/tmdb-postgres-persistence.md` 的表设计与落库策略。
+
 ---
 
 ## 5. 电影业务的“输出契约”（比选 agent 更重要）
@@ -189,4 +256,3 @@ P1（产品化关键）：
 P2（覆盖扩展）：
 - TV 支持（/search/tv + /discover/tv），以及 tv 的图谱建模与检索
 - 把 TMDB 入库（Postgres source of truth）→ 再 ETL 到 Neo4j（离线）
-
