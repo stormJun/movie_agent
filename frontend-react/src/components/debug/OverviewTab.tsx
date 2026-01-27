@@ -59,19 +59,35 @@ const OverviewTab: React.FC<DebugTabProps> = ({ debugData, onOpenSource }) => {
                         )}
                     </Descriptions>
                     {routeDecision.reasoning && (
-                        <Collapse size="small" bordered={false} style={{ marginTop: 8 }}>
-                            <Collapse.Panel header="决策理由" key="reasoning">
-                                <div style={{ whiteSpace: 'pre-wrap', fontSize: 13 }}>
-                                    {routeDecision.reasoning}
-                                </div>
-                            </Collapse.Panel>
-                        </Collapse>
+                        <Collapse
+                            size="small"
+                            bordered={false}
+                            style={{ marginTop: 8 }}
+                            items={[
+                                {
+                                    key: 'reasoning',
+                                    label: '决策理由',
+                                    children: (
+                                        <div style={{ whiteSpace: 'pre-wrap', fontSize: 13 }}>
+                                            {routeDecision.reasoning}
+                                        </div>
+                                    ),
+                                },
+                            ]}
+                        />
                     )}
-                    <Collapse size="small" bordered={false} style={{ marginTop: 4 }}>
-                        <Collapse.Panel header="完整数据" key="full">
-                            <pre style={{ fontSize: 12 }}>{prettyJson(debugData.route_decision)}</pre>
-                        </Collapse.Panel>
-                    </Collapse>
+                    <Collapse
+                        size="small"
+                        bordered={false}
+                        style={{ marginTop: 4 }}
+                        items={[
+                            {
+                                key: 'full',
+                                label: '完整数据',
+                                children: <pre style={{ fontSize: 12 }}>{prettyJson(debugData.route_decision)}</pre>,
+                            },
+                        ]}
+                    />
                 </Card>
             )}
 
@@ -85,11 +101,17 @@ const OverviewTab: React.FC<DebugTabProps> = ({ debugData, onOpenSource }) => {
                 size="small"
             >
                 {summaryText ? (
-                    <Collapse size="small" bordered={false}>
-                        <Collapse.Panel header="查看摘要内容" key="summary">
-                            <div style={{ whiteSpace: 'pre-wrap', fontSize: 13 }}>{summaryText}</div>
-                        </Collapse.Panel>
-                    </Collapse>
+                    <Collapse
+                        size="small"
+                        bordered={false}
+                        items={[
+                            {
+                                key: 'summary',
+                                label: '查看摘要内容',
+                                children: <div style={{ whiteSpace: 'pre-wrap', fontSize: 13 }}>{summaryText}</div>,
+                            },
+                        ]}
+                    />
                 ) : (
                     <div style={{ color: '#999', fontSize: 13 }}>
                         暂无摘要（需要对话达到一定长度后才会生成；并在 debug=true 时可在此查看）

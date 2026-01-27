@@ -112,13 +112,21 @@ const TimelineTab: React.FC<TimelineTabProps> = ({ executionLog, progressNodes }
                                                                 ))}
                                                             </Descriptions>
                                                         )}
-                                                        <Collapse size="small" ghost>
-                                                            <Collapse.Panel header="查看详情" key="detail">
-                                                                <pre style={{ fontSize: 10, maxHeight: 200, overflow: 'auto' }}>
-                                                                    {prettyJson({ input: subStep.input, output: subStep.output })}
-                                                                </pre>
-                                                            </Collapse.Panel>
-                                                        </Collapse>
+                                                        <Collapse
+                                                            size="small"
+                                                            ghost
+                                                            items={[
+                                                                {
+                                                                    key: 'detail',
+                                                                    label: '查看详情',
+                                                                    children: (
+                                                                        <pre style={{ fontSize: 10, maxHeight: 200, overflow: 'auto' }}>
+                                                                            {prettyJson({ input: subStep.input, output: subStep.output })}
+                                                                        </pre>
+                                                                    ),
+                                                                },
+                                                            ]}
+                                                        />
                                                     </Card>
                                                 </Timeline.Item>
                                             );
@@ -127,18 +135,30 @@ const TimelineTab: React.FC<TimelineTabProps> = ({ executionLog, progressNodes }
                                 </div>
                             )}
 
-                            <Collapse size="small" bordered={false}>
-                                <Collapse.Panel header="输入 (Input)" key="input">
-                                    <pre style={{ fontSize: 11, maxHeight: 300, overflow: 'auto' }}>
-                                        {prettyJson(item.node.input ?? {})}
-                                    </pre>
-                                </Collapse.Panel>
-                                <Collapse.Panel header="输出 (Output)" key="output">
-                                    <pre style={{ fontSize: 11, maxHeight: 300, overflow: 'auto' }}>
-                                        {prettyJson(item.node.output ?? {})}
-                                    </pre>
-                                </Collapse.Panel>
-                            </Collapse>
+                            <Collapse
+                                size="small"
+                                bordered={false}
+                                items={[
+                                    {
+                                        key: 'input',
+                                        label: '输入 (Input)',
+                                        children: (
+                                            <pre style={{ fontSize: 11, maxHeight: 300, overflow: 'auto' }}>
+                                                {prettyJson(item.node.input ?? {})}
+                                            </pre>
+                                        ),
+                                    },
+                                    {
+                                        key: 'output',
+                                        label: '输出 (Output)',
+                                        children: (
+                                            <pre style={{ fontSize: 11, maxHeight: 300, overflow: 'auto' }}>
+                                                {prettyJson(item.node.output ?? {})}
+                                            </pre>
+                                        ),
+                                    },
+                                ]}
+                            />
                         </Card>
                     </Timeline.Item>
                 ))}
