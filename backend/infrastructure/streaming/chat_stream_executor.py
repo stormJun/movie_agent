@@ -1,3 +1,19 @@
+"""
+ChatStreamExecutor：流式 RAG 执行器
+
+核心功能：
+1. 并发执行多个检索策略（RagRunSpec[]），超时控制，取消传播
+2. 可选的 Query-time Enrichment（movie KB 专用 TMDB 补全）
+3. 基于 combined_context 流式生成 RAG 答案
+4. 完整的 observability 集成（Langfuse span + execution_log）
+
+关键特性：
+- Fanout 并行：多个 agent_type 同时检索，as_completed 完成一个推送一个
+- 超时保护：overall_timeout_s = max(spec.timeout_s) + RAG_ANSWER_TIMEOUT_S
+- 取消传播：客户端断连时取消所有检索任务
+- Debug 事件：execution_log / combined_context / rag_runs 用于 DebugDrawer
+"""
+
 from __future__ import annotations
 
 import asyncio
@@ -17,12 +33,14 @@ from infrastructure.rag.specs import RagRunSpec
 
 logger = logging.getLogger(__name__)
 
-_DEBUG_RETRIEVAL_PREVIEW_N = 3
-_DEBUG_EVIDENCE_PREVIEW_CHARS = 240
-_DEBUG_TOP_SOURCE_IDS_N = 8
+# Debug 预览配置（避免 dumping 完整检索结果）
+_DEBUG_RETRIEVAL_PREVIEW_N = 3  # 只预览前 3 条结果
+_DEBUG_EVIDENCE_PREVIEW_CHARS = 240  # 每条证据预览 240 字符
+_DEBUG_TOP_SOURCE_IDS_N = 8  # 展示前 8 个 source_id 统计
 
 
 def _truncate_text(value: str, limit: int) -> str:
+    """截断文本到指定长度（避免 debug payload 过大）"""
     if limit <= 0:
         return ""
     if len(value) <= limit:
@@ -31,7 +49,15 @@ def _truncate_text(value: str, limit: int) -> str:
 
 
 def _summarize_retrieval_results(results: Any) -> dict[str, Any]:
-    """Summarize retrieval results for debug logs without dumping full payloads."""
+    """
+    汇总检索结果用于 debug 日志（避免 dumping 完整 payload）
+
+    返回：
+    - retrieval_count: 总检索结果数
+    - granularity_counts: 粒度分布（entity/community/chunk）
+    - top_source_ids: 出现最多的前 N 个 source_id
+    - sample_results: 前 N 条结果的预览（score/evidence/metadata）
+    """
     if not isinstance(results, list):
         return {
             "retrieval_count": 0,
@@ -105,13 +131,24 @@ def _summarize_retrieval_results(results: Any) -> dict[str, Any]:
 
 
 class ChatStreamExecutor:
+    """
+    流式 RAG 执行器：支持并发检索、超时控制、取消传播
+
+    核心流程：
+    1. 非 RAG 模式（plan 为空）→ 直接生成通用答案
+    2. RAG 模式：
+       a. Fanout 并行检索（多个 agent_type 同时执行）
+       b. Query-time Enrichment（movie KB 专用 TMDB 补全）
+       c. 基于 combined_context 流式生成答案
+    """
+
     def __init__(self, *, rag_manager: RagManager) -> None:
         self._rag_manager = rag_manager
 
     async def stream(
         self,
         *,
-        plan: list[RagRunSpec],
+        plan: list[RagRunSpec],  # 检索计划（可包含多个 agent_type）
         message: str,
         session_id: str,
         kb_prefix: str,
@@ -125,12 +162,15 @@ class ChatStreamExecutor:
         summary: str | None = None,
         episodic_context: str | None = None,
         history: list[dict[str, Any]] | None = None,
-        extracted_entities: dict[str, Any] | None = None,
+        extracted_entities: dict[str, Any] | None = None,  # 用于 enrichment 触发判断
         query_intent: str | None = None,
         media_type_hint: str | None = None,
         filters: dict[str, Any] | None = None,
     ) -> AsyncGenerator[dict[str, Any], None]:
+        # ===== 模式判断：是否需要检索 =====
         use_retrieval = bool(plan) and (kb_prefix or "").strip() not in {"", "general"}
+
+        # ===== 模式 1：非 RAG 模式（通用闲聊）=====
         if not use_retrieval:
             generation_start = time.monotonic()
             generated_chars = 0
@@ -226,6 +266,9 @@ class ChatStreamExecutor:
             yield {"status": "done"}
             return
 
+        # ===== 模式 2：RAG 模式（检索 + 生成）=====
+
+        # ---- 阶段 2.1：Debug 日志（plan 概览）----
         if debug:
             yield {
                 "execution_log": {
@@ -236,11 +279,14 @@ class ChatStreamExecutor:
                 }
             }
 
+        # ---- 阶段 2.2：Fanout 并行检索（多个 agent_type 同时执行）----
+        # 超时配置：所有 spec 的最大超时 + 答案生成超时
         overall_timeout_s = max(spec.timeout_s for spec in plan) + RAG_ANSWER_TIMEOUT_S
         start_time = time.monotonic()
         runs = []
         total_runs = len(plan)
 
+        # 创建 Langfuse span 用于 observability
         retrieval_stage_start = time.monotonic()
         retrieval_run_elapsed_ms: dict[str, int] = {}
         retrieval_stage_span = None
@@ -272,9 +318,10 @@ class ChatStreamExecutor:
             },
         }
 
+        # 创建并发检索任务（每个 agent_type 一个 task）
         retrieval_tasks: list[asyncio.Task] = []
-        task_started_at: dict[asyncio.Task, float] = {}
-        task_span: dict[asyncio.Task, Any] = {}
+        task_started_at: dict[asyncio.Task, float] = {}  # 记录每个任务的启动时间
+        task_span: dict[asyncio.Task, Any] = {}  # 记录每个任务的 Langfuse span
         for spec in plan:
             span = None
             if retrieval_stage_span is not None:
@@ -303,6 +350,7 @@ class ChatStreamExecutor:
             if span is not None:
                 task_span[task] = span
 
+        # 使用 as_completed 并发执行（完成一个推送一个）
         try:
             for task in asyncio.as_completed(retrieval_tasks, timeout=overall_timeout_s):
                 run = await task
@@ -390,6 +438,7 @@ class ChatStreamExecutor:
             yield {"status": "done"}
             return
         finally:
+            # ===== 取消传播：客户端断连时取消所有检索任务 =====
             # If the client disconnects, the outer SSE generator cancels us; make sure
             # fanout retrieval tasks are cancelled so they don't keep running.
             pending = [t for t in retrieval_tasks if not t.done()]
@@ -428,6 +477,7 @@ class ChatStreamExecutor:
                 metadata={"duration_ms": int((time.monotonic() - retrieval_stage_start) * 1000)},
             )
 
+        # ---- 阶段 2.3：合并检索结果（build combined_context）----
         combined_context = build_context_from_runs(
             runs=[
                 {"agent_type": r.agent_type, "context": r.context or ""}
@@ -439,10 +489,11 @@ class ChatStreamExecutor:
         generation_question = message
         generation_history = history
 
+        # ---- 阶段 2.4：Query-time Enrichment（movie KB 专用 TMDB 补全）----
         # 查询时增强（Query-time Enrichment，movie KB 专用）：
         # 当 GraphRAG 检索上下文疑似缺少关键实体（例如 KB 未收录《喜宴》/实体抽取失败），
         # 尝试用 TMDB 构建临时图（transient graph），再把结构化证据拼到 combined_context，
-        # 让生成阶段“有证据可答”，而不是依赖常识猜。
+        # 让生成阶段"有证据可答"，而不是依赖常识猜。
         if (kb_prefix or "").strip() == "movie":
             try:
                 if _should_enrich_by_entity_matching(
