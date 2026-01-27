@@ -23,6 +23,12 @@ export function isExecutionLogNode(value: unknown): value is ExecutionLogNode {
     return isPlainRecord(value) && typeof value.node === 'string';
 }
 
+function normalizeNodeType(raw: unknown): string | undefined {
+    if (typeof raw !== 'string') return undefined;
+    const t = raw.trim();
+    return t ? t : undefined;
+}
+
 export function isRagRun(value: unknown): value is RagRun {
     return (
         isPlainRecord(value) &&
@@ -81,6 +87,7 @@ export function extractExecutionLog(debugData: DebugData | null): ExecutionLogNo
         }
         return {
             node: item.node,
+            node_type: normalizeNodeType((raw as any).node_type),
             timestamp: item.timestamp as any,
             duration_ms: item.duration_ms,
             status: item.error ? ('error' as const) : ('ok' as const),
@@ -341,9 +348,20 @@ export function aggregateSources(
 
 export function extractNodeSummary(node: ExecutionLogNode): Record<string, any> {
     const nodeName = node.node.toLowerCase();
+    const nodeType = (node.node_type || '').toLowerCase();
     const summary: Record<string, any> = {};
 
-    if (nodeName.includes('retrieval') || nodeName.includes('search')) {
+    const isRetrieval =
+        nodeType.includes('retrieval') || nodeType.includes('search') || nodeName.includes('retrieval') || nodeName.includes('search');
+    const isGeneration =
+        nodeType.includes('generation') || nodeType.includes('llm') || nodeName.includes('generation') || nodeName.includes('llm') || nodeName.includes('answer');
+    const isRouting =
+        nodeType.includes('routing') || nodeType.includes('route') || nodeType.includes('decision') || nodeName.includes('route') || nodeName.includes('decision') || nodeName.includes('recall');
+    const isEnrichment = nodeType.includes('enrich') || nodeName.includes('enrich');
+    const isPersistence = nodeType.includes('persist') || nodeType.includes('persistence') || nodeName.includes('persist');
+    const isPostprocess = nodeType.includes('postprocess') || nodeName.includes('postprocess');
+
+    if (isRetrieval) {
         const out = isPlainRecord(node.output) ? node.output : null;
 
         const retrievalCount =
@@ -353,6 +371,14 @@ export function extractNodeSummary(node: ExecutionLogNode): Record<string, any> 
                     ? out.retrieval_count
                     : undefined;
         if (retrievalCount !== undefined) summary['检索数'] = retrievalCount;
+
+        // retrieval_subgraph specific nodes
+        if (nodeName === 'plan' && out && Array.isArray((out as any).plan_steps)) {
+            summary['计划步数'] = (out as any).plan_steps.length;
+        }
+        if (nodeName === 'merge' && out && typeof (out as any).combined_context_chars === 'number') {
+            summary['上下文长度'] = formatNumber((out as any).combined_context_chars);
+        }
 
         if (out) {
             const mapping: Array<[string, string]> = [
@@ -383,7 +409,7 @@ export function extractNodeSummary(node: ExecutionLogNode): Record<string, any> 
         if (node.sample_evidence) {
             summary['样例证据'] = truncateText(node.sample_evidence, 100);
         }
-    } else if (nodeName.includes('generation') || nodeName.includes('llm')) {
+    } else if (isGeneration) {
         if (node.model) {
             summary['模型'] = node.model;
         }
@@ -396,7 +422,12 @@ export function extractNodeSummary(node: ExecutionLogNode): Record<string, any> 
         if (node.finish_reason) {
             summary['结束原因'] = node.finish_reason;
         }
-    } else if (nodeName.includes('route') || nodeName.includes('decision')) {
+        const out = isPlainRecord(node.output) ? node.output : null;
+        if (out) {
+            if (typeof (out as any).generated_chars === 'number') summary['生成字符'] = formatNumber((out as any).generated_chars);
+            if (typeof (out as any).chunk_count === 'number') summary['分片数'] = (out as any).chunk_count;
+        }
+    } else if (isRouting) {
         if (node.selected_agent) {
             summary['选择Agent'] = node.selected_agent;
         }
@@ -405,6 +436,28 @@ export function extractNodeSummary(node: ExecutionLogNode): Record<string, any> 
         }
         if (node.confidence !== undefined) {
             summary['置信度'] = `${(node.confidence * 100).toFixed(1)}%`;
+        }
+        const out = isPlainRecord(node.output) ? node.output : null;
+        if (out) {
+            if (typeof (out as any).history_count === 'number') summary['历史消息数'] = (out as any).history_count;
+            if (typeof (out as any).episodic_count === 'number') summary['情节召回数'] = (out as any).episodic_count;
+        }
+    } else if (isEnrichment) {
+        const out = isPlainRecord(node.output) ? node.output : null;
+        if (out) {
+            if (typeof (out as any).node_count === 'number') summary['节点数'] = (out as any).node_count;
+            if (typeof (out as any).edge_count === 'number') summary['边数'] = (out as any).edge_count;
+            if (Array.isArray((out as any).api_errors) && (out as any).api_errors.length > 0) {
+                summary['API错误'] = (out as any).api_errors.length;
+            }
+        }
+    } else if (isPersistence || isPostprocess) {
+        const out = isPlainRecord(node.output) ? node.output : null;
+        if (out) {
+            if (typeof (out as any).conversation_id === 'string') summary['conversation_id'] = truncateText((out as any).conversation_id, 12);
+            if (typeof (out as any).message_id === 'string') summary['message_id'] = truncateText((out as any).message_id, 12);
+            if (typeof (out as any).scheduled === 'boolean') summary['已调度'] = (out as any).scheduled;
+            if (typeof (out as any).added_count === 'number') summary['新增条目'] = (out as any).added_count;
         }
     }
 
@@ -424,9 +477,11 @@ export function getNodeStatusAndColor(node: ExecutionLogNode): {
         return { status: 'error', color: 'red', icon: '✗' };
     }
 
+    const nodeType = (node.node_type || '').toLowerCase();
     if (
-        (node.node.includes('retrieval') || node.node.includes('search')) &&
+        ((nodeType.includes('retrieval') || nodeType.includes('search') || node.node.includes('retrieval') || node.node.includes('search')) &&
         node.retrieval_count === 0
+        )
     ) {
         return { status: 'warning', color: 'gold', icon: '⚠' };
     }

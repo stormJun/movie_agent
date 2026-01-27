@@ -4,7 +4,9 @@ import type { DebugData } from '../../types/chat';
 
 export interface ExecutionLogNode {
     node: string;
-    node_type?: 'retrieval' | 'generation' | 'routing' | 'other';
+    // Backend is free to emit richer node_type values (e.g. retrieval_subgraph/enrichment/persistence).
+    // Keep this as string so the debug timeline can display everything without dropping data.
+    node_type?: string;
     timestamp: string;
     duration_ms?: number;
     status?: 'ok' | 'error' | 'timeout' | 'warning';

@@ -31,6 +31,11 @@ const TimelineTab: React.FC<TimelineTabProps> = ({ executionLog }) => {
                                 <span>
                                     <Tag color={item.color}>{item.index}</Tag>
                                     <span style={{ fontWeight: 600 }}>{item.node.node}</span>
+                                    {item.node.node_type && (
+                                        <Tag style={{ marginLeft: 8 }} color="default">
+                                            {item.node.node_type}
+                                        </Tag>
+                                    )}
                                 </span>
                             }
                             extra={

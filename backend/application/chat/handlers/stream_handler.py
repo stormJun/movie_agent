@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import time
 from typing import Any, AsyncGenerator, Optional
 
 from application.chat.conversation_graph import ConversationGraphRunner
@@ -78,18 +79,40 @@ class StreamHandler:
         incognito = bool(incognito)
 
         # ===== 阶段 1：获取/创建会话 =====
+        t0 = time.monotonic()
         conversation_id = await self._conversation_store.get_or_create_conversation_id(
             user_id=user_id,
             session_id=session_id,
         )
+        if debug:
+            yield {
+                "execution_log": {
+                    "node": "conversation_get_or_create",
+                    "node_type": "persistence",
+                    "duration_ms": int((time.monotonic() - t0) * 1000),
+                    "input": {"user_id": user_id, "session_id": session_id},
+                    "output": {"conversation_id": str(conversation_id)},
+                }
+            }
 
         # ===== 阶段 2：持久化用户消息 =====
+        t0 = time.monotonic()
         current_user_message_id = await self._conversation_store.append_message(
             conversation_id=conversation_id,
             role="user",
             content=message,
             completed=True,
         )
+        if debug:
+            yield {
+                "execution_log": {
+                    "node": "persist_user_message",
+                    "node_type": "persistence",
+                    "duration_ms": int((time.monotonic() - t0) * 1000),
+                    "input": {"conversation_id": str(conversation_id), "role": "user"},
+                    "output": {"message_id": str(current_user_message_id)},
+                }
+            }
 
         # ===== 阶段 3：调用对话图（route → recall → retrieval_subgraph → generate）=====
         tokens: list[str] = []
@@ -138,6 +161,7 @@ class StreamHandler:
                 yield pending_done_event
             return
 
+        t0 = time.monotonic()
         assistant_message_id = await self._conversation_store.append_message(
             conversation_id=conversation_id,
             role="assistant",
@@ -145,17 +169,45 @@ class StreamHandler:
             debug={"partial": not completed_normally} if debug else None,
             completed=completed_normally,
         )
+        if debug:
+            yield {
+                "execution_log": {
+                    "node": "persist_assistant_message",
+                    "node_type": "persistence",
+                    "duration_ms": int((time.monotonic() - t0) * 1000),
+                    "input": {"conversation_id": str(conversation_id), "role": "assistant"},
+                    "output": {
+                        "message_id": str(assistant_message_id),
+                        "completed": bool(completed_normally),
+                        "chars": len(answer),
+                    },
+                }
+            }
 
         # ===== 阶段 5：后处理（仅在正常完成且非隐身模式时执行）=====
         # 5.1 更新对话摘要
         if completed_normally and (not incognito) and self._conversation_summarizer is not None:
+            t0 = time.monotonic()
+            err: str | None = None
             try:
                 await self._conversation_summarizer.schedule_update(conversation_id=conversation_id)
-            except Exception:
-                pass
+            except Exception as e:
+                err = str(e)
+            if debug:
+                yield {
+                    "execution_log": {
+                        "node": "summary_schedule_update",
+                        "node_type": "postprocess",
+                        "duration_ms": int((time.monotonic() - t0) * 1000),
+                        "input": {"conversation_id": str(conversation_id)},
+                        "output": {"scheduled": err is None, "error": err},
+                    }
+                }
 
         # 5.2 索引情景记忆
         if completed_normally and (not incognito) and self._episodic_memory is not None:
+            t0 = time.monotonic()
+            err: str | None = None
             try:
                 await self._episodic_memory.schedule_index_episode(
                     conversation_id=conversation_id,
@@ -164,11 +216,23 @@ class StreamHandler:
                     user_message=message,
                     assistant_message=answer,
                 )
-            except Exception:
-                pass
+            except Exception as e:
+                err = str(e)
+            if debug:
+                yield {
+                    "execution_log": {
+                        "node": "episodic_schedule_index",
+                        "node_type": "postprocess",
+                        "duration_ms": int((time.monotonic() - t0) * 1000),
+                        "input": {"conversation_id": str(conversation_id)},
+                        "output": {"scheduled": err is None, "error": err},
+                    }
+                }
 
         # 5.3 写入向量记忆（mem0）
         if completed_normally and (not incognito) and self._memory_service is not None:
+            t0 = time.monotonic()
+            err: str | None = None
             try:
                 await self._memory_service.maybe_write(
                     user_id=user_id,
@@ -176,13 +240,25 @@ class StreamHandler:
                     assistant_message=answer,
                     metadata={"session_id": session_id, "kb_prefix": kb_prefix or ""},
                 )
-            except Exception:
-                pass
+            except Exception as e:
+                err = str(e)
+            if debug:
+                yield {
+                    "execution_log": {
+                        "node": "mem0_maybe_write",
+                        "node_type": "postprocess",
+                        "duration_ms": int((time.monotonic() - t0) * 1000),
+                        "input": {"user_id": user_id},
+                        "output": {"attempted": True, "error": err},
+                    }
+                }
 
         # ===== 阶段 6：Watchlist 自动捕获 =====
         watchlist_added: list[dict[str, Any]] = []
         allow_watchlist = (watchlist_auto_capture is not False) and (not incognito)
         if completed_normally and allow_watchlist and self._watchlist_capture is not None:
+            t0 = time.monotonic()
+            err: str | None = None
             try:
                 res = await self._watchlist_capture.maybe_capture(
                     user_id=user_id,
@@ -209,8 +285,19 @@ class StreamHandler:
                             "assistant_message_id": meta.get("assistant_message_id"),
                         }
                     )
-            except Exception:
-                pass
+            except Exception as e:
+                err = str(e)
+
+            if debug:
+                yield {
+                    "execution_log": {
+                        "node": "watchlist_auto_capture",
+                        "node_type": "postprocess",
+                        "duration_ms": int((time.monotonic() - t0) * 1000),
+                        "input": {"user_id": user_id, "conversation_id": str(conversation_id)},
+                        "output": {"added_count": len(watchlist_added), "error": err},
+                    }
+                }
 
         if watchlist_added:
             yield {"status": "watchlist_auto_capture", "content": {"added": watchlist_added}}
