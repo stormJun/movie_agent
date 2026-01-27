@@ -932,6 +932,297 @@ search_movie(title, year)               # 搜索电影
 
 ---
 
+## People 端点对齐（官方 Reference）
+
+本节对齐官方 Reference（人物详情相关端点）：
+- https://developer.themoviedb.org/reference/person-details
+- https://developer.themoviedb.org/reference/person-combined-credits
+- https://developer.themoviedb.org/reference/person-external-ids
+- https://developer.themoviedb.org/reference/person-images
+- https://developer.themoviedb.org/reference/person-latest-id
+- https://developer.themoviedb.org/reference/person-movie-credits
+- https://developer.themoviedb.org/reference/person-tv-credits
+- https://developer.themoviedb.org/reference/person-translations
+
+用途（典型产品/数据场景）：
+- 回答 “导演/演员是谁、演过什么、导过什么”
+- 人物消歧后的作品清单（combined_credits）
+- 外部 ID 对齐（IMDb/Wikidata/social）
+- 图片资源（profile 头像）
+- 多语言信息回退（translations）
+
+### 1) GET `/person/{person_id}`（person-details）
+
+用途：
+- 获取人物基础信息（姓名、简介、部门、生日等）
+
+请求：
+- Path：`person_id`（必需）
+- Query（常用）：
+  - `language`
+  - `append_to_response=combined_credits`（可选；项目中常用，一次拿到 filmography）
+
+响应要点（常用字段，非穷举）：
+- `id`
+- `name` / `also_known_as[]`
+- `biography`
+- `known_for_department`（Directing/Acting 等）
+- `birthday` / `deathday`
+- `place_of_birth`
+- `profile_path`
+
+官方参考：
+- https://developer.themoviedb.org/reference/person-details
+
+### 2) GET `/person/{person_id}/combined_credits`（person-combined-credits）
+
+用途：
+- 获取人物的综合作品清单（电影 + 电视剧），用于 “他导演了哪些/他演了哪些”
+
+请求：
+- Path：`person_id`（必需）
+- Query：`language`（可选）
+
+响应要点：
+- `id`
+- `cast[]`：表演作品（常见字段：`id/title/name/release_date/first_air_date/character` 等）
+- `crew[]`：幕后作品（常见字段：`id/title/name/release_date/first_air_date/job/department` 等）
+
+官方参考：
+- https://developer.themoviedb.org/reference/person-combined-credits
+
+### 3) GET `/person/{person_id}/external_ids`（person-external-ids）
+
+用途：
+- 外部 ID 对齐与去重（IMDb/Wikidata/社交媒体）
+
+请求：
+- Path：`person_id`（必需）
+
+响应要点（常用字段，非穷举）：
+- `id`
+- `imdb_id`
+- `wikidata_id`
+- `facebook_id` / `instagram_id` / `twitter_id` 等（具体字段以 TMDB 返回为准）
+
+官方参考：
+- https://developer.themoviedb.org/reference/person-external-ids
+
+### 4) GET `/person/{person_id}/images`（person-images）
+
+用途：
+- 头像/剧照等图片资源（前端展示）
+
+请求（常用 Query）：
+- `language`（可选）
+- `include_image_language`（可选，例如 `zh,null`）
+
+响应要点：
+- `id`
+- `profiles[]`（元素含 `file_path/width/height/vote_average` 等）
+
+官方参考：
+- https://developer.themoviedb.org/reference/person-images
+
+### 5) GET `/person/latest`（person-latest-id）
+
+用途：
+- 获取“最新人物”条目（通常是最新创建/更新的 person 记录，不等同于热门）
+
+请求：
+- `language`（可选）
+
+响应要点：
+- 返回一条 person 详情（字段类似 person-details）
+
+官方参考：
+- https://developer.themoviedb.org/reference/person-latest-id
+
+### 6) GET `/person/{person_id}/movie_credits`（person-movie-credits）
+
+用途：
+- 仅电影维度的作品清单（cast/crew）
+
+请求：
+- Path：`person_id`（必需）
+- Query：`language`（可选）
+
+响应要点：
+- `cast[]` / `crew[]`（电影作品）
+
+官方参考：
+- https://developer.themoviedb.org/reference/person-movie-credits
+
+### 7) GET `/person/{person_id}/tv_credits`（person-tv-credits）
+
+用途：
+- 仅电视剧维度的作品清单（cast/crew）
+
+请求：
+- Path：`person_id`（必需）
+- Query：`language`（可选）
+
+响应要点：
+- `cast[]` / `crew[]`（电视剧作品）
+
+官方参考：
+- https://developer.themoviedb.org/reference/person-tv-credits
+
+### 8) GET `/person/{person_id}/translations`（person-translations）
+
+用途：
+- 多语言名称/简介翻译（用于语言回退）
+
+请求：
+- Path：`person_id`（必需）
+
+响应要点：
+- `id`
+- `translations[]`（包含语言码与对应的 name/biography 等）
+
+官方参考：
+- https://developer.themoviedb.org/reference/person-translations
+
+说明（与本项目实现对齐）：
+- 运行时 enrichment 当前更偏向：优先 `language=zh-CN`，若 biography 为空再回退 `en-US`（best-effort），而不是调用 translations。
+
+---
+
+## Search 端点对齐（官方 Reference）
+
+本节对齐官方 Reference（搜索相关端点）：
+- https://developer.themoviedb.org/reference/search-company
+- https://developer.themoviedb.org/reference/search-collection
+- https://developer.themoviedb.org/reference/search-keyword
+- https://developer.themoviedb.org/reference/search-movie
+- https://developer.themoviedb.org/reference/search-multi
+- https://developer.themoviedb.org/reference/search-person
+- https://developer.themoviedb.org/reference/search-tv
+
+通用说明：
+- Search 端点普遍返回分页结构：`page/results/total_pages/total_results`
+- `query` 为必需字段；`language`/`page` 常用；`include_adult` 在部分端点可用
+
+### 1) GET `/search/multi`（search-multi）
+
+用途：
+- 多类型搜索（movie/tv/person），用于“对象解析/消歧”的第一步（本项目运行时主入口）
+
+请求（常用 Query）：
+- `query`（必需）
+- `language`
+- `page`
+- `include_adult`（可选）
+
+响应要点：
+- `results[]`：每个元素通常包含 `media_type`（movie/tv/person）与对应的基础字段（id/title/name/date 等）
+
+官方参考：
+- https://developer.themoviedb.org/reference/search-multi
+
+### 2) GET `/search/movie`（search-movie）
+
+用途：
+- 仅电影搜索（可作为 multi 的补充/替代）
+
+请求（常用 Query）：
+- `query`（必需）
+- `language`
+- `page`
+- `include_adult`（可选）
+- `region`（可选）
+- `year` / `primary_release_year`（可选；用于年份消歧）
+
+响应要点：
+- `results[]`：电影候选列表（含 `id/title/release_date/overview/vote_average` 等）
+
+官方参考：
+- https://developer.themoviedb.org/reference/search-movie
+
+### 3) GET `/search/tv`（search-tv）
+
+用途：
+- 仅电视剧搜索（当 router 明确 `media_type_hint=tv` 时可使用）
+
+请求（常用 Query）：
+- `query`（必需）
+- `language`
+- `page`
+- `first_air_date_year`（可选；用于年份消歧）
+
+响应要点：
+- `results[]`：电视剧候选（含 `id/name/first_air_date/overview/vote_average` 等）
+
+官方参考：
+- https://developer.themoviedb.org/reference/search-tv
+
+### 4) GET `/search/person`（search-person）
+
+用途：
+- 仅人物搜索（导演/演员）
+
+请求（常用 Query）：
+- `query`（必需）
+- `language`
+- `page`
+
+响应要点：
+- `results[]`：人物候选（含 `id/name/known_for_department/known_for[]` 等）
+
+官方参考：
+- https://developer.themoviedb.org/reference/search-person
+
+### 5) GET `/search/collection`（search-collection）
+
+用途：
+- 搜索电影合集（系列电影）
+
+请求（常用 Query）：
+- `query`（必需）
+- `language`
+- `page`
+
+响应要点：
+- `results[]`：合集候选（含 `id/name/overview/poster_path/backdrop_path` 等）
+
+官方参考：
+- https://developer.themoviedb.org/reference/search-collection
+
+### 6) GET `/search/keyword`（search-keyword）
+
+用途：
+- 搜索关键词实体（keyword）
+
+请求（常用 Query）：
+- `query`（必需）
+- `page`
+
+响应要点：
+- `results[]`：keyword 候选（含 `id/name`）
+
+官方参考：
+- https://developer.themoviedb.org/reference/search-keyword
+
+### 7) GET `/search/company`（search-company）
+
+用途：
+- 搜索制作公司（出品方/制作方）
+
+请求（常用 Query）：
+- `query`（必需）
+- `page`
+
+响应要点：
+- `results[]`：公司候选（含 `id/name/logo_path/origin_country` 等）
+
+官方参考：
+- https://developer.themoviedb.org/reference/search-company
+
+说明（与本项目实现对齐）：
+- 运行时 enrichment 当前优先使用 `/search/multi` 统一消歧；单类型 search 端点主要用于离线脚本或后续扩展。
+
+---
+
 ## Collections 端点对齐（官方 Reference）
 
 本节对齐官方 Reference（示例页面：`/reference/collection-details`），补全 COLLECTIONS 相关端点的“参数/响应要点”，便于后续实现：
