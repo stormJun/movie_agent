@@ -724,6 +724,214 @@ search_movie(title, year)               # 搜索电影
 
 ---
 
+## Movies（扩展端点）对齐（官方 Reference）
+
+本节对齐官方 Reference（movie 相关补充端点）：
+- https://developer.themoviedb.org/reference/movie-external-ids
+- https://developer.themoviedb.org/reference/movie-images
+- https://developer.themoviedb.org/reference/movie-keywords
+- https://developer.themoviedb.org/reference/movie-latest-id
+- https://developer.themoviedb.org/reference/movie-lists
+- https://developer.themoviedb.org/reference/movie-recommendations
+- https://developer.themoviedb.org/reference/movie-release-dates
+- https://developer.themoviedb.org/reference/movie-reviews
+- https://developer.themoviedb.org/reference/movie-similar
+- https://developer.themoviedb.org/reference/movie-translations
+- https://developer.themoviedb.org/reference/movie-videos
+
+用途（典型产品/数据场景）：
+- 实体归一（IMDb 等外部 ID）
+- 资源展示（海报/剧照/视频预告）
+- 推荐增强（similar/recommendations）
+- 上映信息（release_dates）
+- 多语言回退（translations）
+- 主题标签（keywords）
+- 内容运营（latest/列表聚合）
+
+### 1) GET `/movie/{movie_id}/external_ids`（movie-external-ids）
+
+用途：
+- 对齐外部平台 ID（如 IMDb 等），用于去重/融合第三方数据源。
+
+请求：
+- Path：`movie_id`（必需）
+
+响应要点：
+- `id`
+- `imdb_id`（常用）
+- 以及其它外部 ID 字段（随 TMDB 返回而定）
+
+官方参考：
+- https://developer.themoviedb.org/reference/movie-external-ids
+
+### 2) GET `/movie/{movie_id}/images`（movie-images）
+
+用途：
+- 获取 posters/backdrops/logos 等图片资源（前端展示）。
+
+请求（常用 Query）：
+- `language`（可选）
+- `include_image_language`（可选，例如 `zh,null`）
+
+响应要点：
+- `id`
+- `backdrops[]` / `posters[]` / `logos[]`（元素含 `file_path/width/height/vote_average` 等）
+
+官方参考：
+- https://developer.themoviedb.org/reference/movie-images
+
+### 3) GET `/movie/{movie_id}/keywords`（movie-keywords）
+
+用途：
+- 获取关键词标签（可用于主题推荐、相似度特征、标签展示）。
+
+请求：
+- Path：`movie_id`（必需）
+
+响应要点：
+- `id`
+- `keywords[]`（元素含 `id`/`name`）
+
+官方参考：
+- https://developer.themoviedb.org/reference/movie-keywords
+
+### 4) GET `/movie/latest`（movie-latest-id）
+
+用途：
+- 获取“最新电影”的条目（注意：通常不是“最新上映”，而是最新创建/更新的 movie 记录）。
+
+请求：
+- `language`（可选）
+
+响应要点：
+- 返回一条 movie 详情（字段类似 movie-details）
+
+官方参考：
+- https://developer.themoviedb.org/reference/movie-latest-id
+
+### 5) GET `/movie/{movie_id}/lists`（movie-lists）
+
+用途：
+- 获取包含该电影的 TMDB 公共 list（运营/用户列表场景）。
+
+请求（常用 Query）：
+- `language`
+- `page`
+
+响应要点：
+- `results[]`：列表信息
+
+官方参考：
+- https://developer.themoviedb.org/reference/movie-lists
+
+### 6) GET `/movie/{movie_id}/recommendations`（movie-recommendations）
+
+用途：
+- 获取“看完该片还可看什么”的候选集合（可用于推荐增强/冷启动）。
+
+请求（常用 Query）：
+- `language`
+- `page`
+
+响应要点：
+- `results[]`：推荐电影列表（含 `id/title/release_date/vote_average` 等）
+
+官方参考：
+- https://developer.themoviedb.org/reference/movie-recommendations
+
+### 7) GET `/movie/{movie_id}/similar`（movie-similar）
+
+用途：
+- 获取“类似该片”的候选集合（相似推荐）。
+
+请求（常用 Query）：
+- `language`
+- `page`
+
+响应要点：
+- `results[]`：相似电影列表
+
+官方参考：
+- https://developer.themoviedb.org/reference/movie-similar
+
+### 8) GET `/movie/{movie_id}/release_dates`（movie-release-dates）
+
+用途：
+- 获取各地区上映日期/分级等信息（地区化上映信息、影院/流媒体窗口）。
+
+请求：
+- Path：`movie_id`（必需）
+
+响应要点：
+- `results[]`：按 `iso_3166_1` 分组的 release dates 列表（结构较深）
+
+官方参考：
+- https://developer.themoviedb.org/reference/movie-release-dates
+
+### 9) GET `/movie/{movie_id}/reviews`（movie-reviews）
+
+用途：
+- 获取影评（可用于展示或作为“观点证据”，注意版权/长度）。
+
+请求（常用 Query）：
+- `language`
+- `page`
+
+响应要点：
+- `results[]`：评论列表（author/content/url 等）
+
+官方参考：
+- https://developer.themoviedb.org/reference/movie-reviews
+
+### 10) GET `/movie/{movie_id}/translations`（movie-translations）
+
+用途：
+- 多语言标题/简介，用于语言回退与展示。
+
+响应要点：
+- `translations[]`：包含语言码、title、overview 等
+
+官方参考：
+- https://developer.themoviedb.org/reference/movie-translations
+
+### 11) GET `/movie/{movie_id}/videos`（movie-videos）
+
+用途：
+- 预告片/片段等视频资源（YouTube 等），用于前端展示。
+
+请求（常用 Query）：
+- `language`
+
+响应要点：
+- `results[]`：包含 `site/key/type/name/official` 等
+
+官方参考：
+- https://developer.themoviedb.org/reference/movie-videos
+
+---
+
+## People Lists 端点对齐（官方 Reference）
+
+本节对齐官方 Reference：
+- https://developer.themoviedb.org/reference/person-popular-list
+
+### GET `/person/popular`（person-popular-list）
+
+用途：
+- 热门人物榜单（导演/演员等），可用于冷启动推荐/探索入口。
+
+请求（常用 Query）：
+- `language`
+- `page`
+
+响应要点：
+- `results[]`：人物列表（含 `id/name/known_for_department/known_for[]` 等）
+
+官方参考：
+- https://developer.themoviedb.org/reference/person-popular-list
+
+---
+
 ## Collections 端点对齐（官方 Reference）
 
 本节对齐官方 Reference（示例页面：`/reference/collection-details`），补全 COLLECTIONS 相关端点的“参数/响应要点”，便于后续实现：
