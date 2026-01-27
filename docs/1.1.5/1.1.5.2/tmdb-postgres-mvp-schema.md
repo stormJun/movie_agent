@@ -447,3 +447,64 @@ ON tmdb.neo4j_etl_outbox(entity_type, tmdb_id, content_hash, action);
 - 仅用 changes：可能漏掉“新增但未被正确纳入变更窗口”的边缘情况（取决于 TMDB 的变更语义与窗口限制）
 - 仅用 export：每天全量对比/刷新成本更高
 - 组合方案：export 用于发现新增，changes 用于更新存量
+
+---
+
+## 8. 最小 MVP 的“数据获取/回填”策略（热门 + 近期）
+
+MVP 目标不是“全站全量”，而是尽快拿到一批 **可展示的电影列表数据**（可分页/可排序/可点进详情页），并能用这些数据回答最常见的电影问答（导演/主演/类型/上映时间）。
+
+因此建议采用“候选池 -> 去重 -> 补齐详情 -> 入库”的策略：
+
+### 8.1 候选池来源（优先官方榜单/近期）
+
+1) 热门榜单（Hot）
+- `GET /movie/popular?language=zh-CN&region=CN&page=1..N`
+
+2) 正在上映（Now Playing）
+- `GET /movie/now_playing?language=zh-CN&region=CN&page=1..N`
+
+3) 即将上映（Upcoming）
+- `GET /movie/upcoming?language=zh-CN&region=CN&page=1..N`
+
+4) 近年兜底（避免榜单太窄；可选）
+- `GET /discover/movie?language=zh-CN&region=CN&include_adult=false`
+  - `sort_by=primary_release_date.desc`
+  - `primary_release_date.gte/lte`：按年/季度切片（例如近 2 年）
+
+5) 本地 export（已有文件，可作为离线热度候选池；可选）
+- `data/movie/movie_ids_01_26_2026.json`（JSONL：`id/original_title/popularity/adult/video`）
+- 用法：按 `popularity` 排序取 top K 的 `id` 作为候选池，再补详情入库
+
+### 8.2 “补齐详情”是必须的（列表接口字段不够）
+
+列表类接口（popular/now_playing/upcoming/discover）通常缺少：
+- `runtime`（片长）
+- 完整 `credits`（导演/主演）
+
+因此建议统一用详情接口补齐并落库：
+- `GET /movie/{movie_id}?append_to_response=credits&language=zh-CN`
+
+落库目标（对应本 MVP 表模型）：
+- `tmdb.movies`：用于列表/详情页（title/release_date/poster_path/vote_average/popularity/runtime/overview 等）
+- `tmdb.movie_cast`：用于主演展示
+- `tmdb.movie_crew`：用于导演/编剧等（导演通常 `job=Director`）
+- `tmdb.genres` + `tmdb.movie_genres`：用于类型展示与过滤
+- （可选）`tmdb.raw_payloads`：存 raw 便于回放与 ETL 兜底
+
+### 8.3 建议的 MVP 规模（够用且成本可控）
+
+推荐初始规模（可按资源与配额调整）：
+- `popular`：N=10 页（约 200 部）
+- `now_playing`：N=5 页（约 100 部）
+- `upcoming`：N=5 页（约 100 部）
+- 合并去重后通常 300~500 部，足够做“首页列表 + 详情页 + 基础问答”。
+
+如果你们希望推荐更丰富，可额外加入：
+- `discover`：近 2 年按年切片，每年取前 10~20 页（按需）
+
+### 8.4 刷新频率（MVP 版）
+
+- 每天/每小时刷新候选池的前 N 页（popular/now_playing/upcoming）
+- 对新增 `movie_id` 或 `content_hash` 变化的条目再拉详情更新
+- 失败容错：详情接口可能 404/不可用，记录并跳过，不阻塞整体任务
