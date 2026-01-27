@@ -1,11 +1,11 @@
-# TMDB -> Postgres 最小 MVP 表模型（电影域）
+# TMDB -> Postgres 最小 MVP 表模型（电影域，面向列表展示）
 
 目标：用最小的表与字段集合，把 TMDB 查询时增强（Query-time Enrichment）过程中获取到的“基础事实数据”沉淀到 PostgreSQL，作为后续：
 - 离线清洗 / 纠错 / 质量评估
 - Postgres -> Neo4j 增量 ETL（Source of Truth）
 - 复用 TMDB 数据减少重复请求（可选）
 
-本文是“最小 MVP”版本：优先覆盖项目目前运行时真正会用到的 movie/person/tv + 请求日志 + ETL outbox。
+本文是“最小 MVP”版本：优先覆盖“电影列表展示/详情页”所需的结构化数据（movies + people + credits + genres），并保留最小的请求日志与 ETL outbox。
 
 相关文档：
 - TMDB 端点参考：`docs/1.1.5/1.1.5.2/tmdb-api-reference.md`
@@ -16,22 +16,23 @@
 
 ## 1. MVP 设计原则（约束）
 
-1) Postgres 不维护“关系表”
-- 关系查询与图算法是 Neo4j 的职责；Postgres 只存“事实快照（raw JSONB）+ 少量索引字段 + 增量 outbox”。
+1) 面向 UI：Postgres 需要可查询的“结构化表”
+- 仅存 JSON 快照不利于做“电影列表/筛选/排序/分页”；MVP 必须有可索引的列（title/year/rating/popularity/poster_path 等）。
+- 关系表不是为了“做图算法”，而是为了 UI 的常见查询：导演是谁、主演有哪些、类型是什么。
 
-2) raw 必须可重建图（Graph Builder / Neo4j ETL）
-- `tmdb.movies.raw`：来自 `GET /movie/{id}?append_to_response=credits`
-- `tmdb.people.raw`：来自 `GET /person/{id}?append_to_response=combined_credits`
-- `tmdb.tv_shows.raw`：来自 `GET /tv/{id}?append_to_response=credits`
+2) 保留原始 raw，但不要把 raw 当主查询模型
+- raw 更适合作为“可回放/可追溯”的原始证据（debug/ETL 兜底），不应成为页面展示的唯一数据源。
+- 建议单独表 `tmdb.raw_payloads` 存 TMDB 原始返回（按 entity_type/id/language/hash），结构化表只存常用字段与可索引字段。
 
 3) 幂等主键：TMDB ID
-- 每次命中同一实体时，更新 `raw/raw_hash/fetched_at/last_seen_at`，避免重复插入。
+- `tmdb.movies.tmdb_id` / `tmdb.people.tmdb_id` 作为主键。
+- 关系表使用复合主键（movie_id + person_id + role/job/order 等），并支持“整片刷新”（先删后插）以简化写入逻辑。
 
-4) 增量：raw_hash 作为“内容变更检测”
-- 仅当 raw_hash 变化时，写入 `neo4j_etl_outbox`（让 Postgres -> Neo4j 的 ETL 成本可控）。
+4) 增量：content_hash 作为“内容变更检测”
+- 建议在结构化实体表上保留 `content_hash`（来自 raw 的稳定 hash），仅当 hash 变化时写入 `neo4j_etl_outbox`。
 
 5) 允许 stub（占位）
-- 有时只拿到了标题/名字，暂时没有 raw（或不想同步请求 TMDB）。MVP 允许先写 `data_state=stub`，后续再补全为 `full`。
+- 允许只写 movie_id/title 的占位行，后续再补全 overview/credits/genres 等。
 
 ---
 
@@ -43,10 +44,16 @@
 - `GET /search/multi`
 - 落库：`tmdb.enrichment_requests.multi_results_raw`（可选但推荐，便于回放/评估）
 
-2) 详情快照（用于事实问答与图构建）
-- `GET /movie/{id}?append_to_response=credits` -> `tmdb.movies.raw`
-- `GET /person/{id}?append_to_response=combined_credits` -> `tmdb.people.raw`
-- `GET /tv/{id}?append_to_response=credits` -> `tmdb.tv_shows.raw`
+2) 详情（结构化入库）
+- `GET /movie/{id}?append_to_response=credits`
+  - `tmdb.movies`（title/overview/release_date/runtime/poster_path/vote_average/...）
+  - `tmdb.movie_cast` / `tmdb.movie_crew`（导演/演员等）
+  - `tmdb.genres` / `tmdb.movie_genres`（类型）
+  - 同时可写 `tmdb.raw_payloads`（movie 快照，用于回放/ETL 兜底）
+- （可选）`GET /person/{id}?append_to_response=combined_credits`
+  - `tmdb.people`（name/biography/profile_path/...）
+  - person 的作品清单在 MVP 中不做“关系落库”（避免表爆炸），只存 raw_payloads + 需要时由 ETL/Neo4j 处理
+  - 如果你们需要“人物详情页/作品列表”，下一阶段再加 `tmdb.person_credits_*` 之类表
 
 3) 推荐/筛选候选集合（可选）
 - `GET /discover/movie` / `GET /discover/tv`
@@ -58,8 +65,8 @@
 
 - 统一 schema：`tmdb`
 - 时间：`timestamptz`
-- 原始快照：`jsonb`（整包存）
-- Hash：`raw_hash`（建议 SHA-256，对 json 做稳定序列化后计算）
+- 原始快照：`jsonb`（放到 `tmdb.raw_payloads` 与 `tmdb.enrichment_requests`）
+- Hash：`content_hash`（建议 SHA-256，对 raw 做稳定序列化后计算）
 
 ---
 
@@ -67,7 +74,7 @@
 
 说明：
 - 以下 DDL 是“推荐的最小集合”；生产环境建议用 migration 管理。
-- 如果你们已采用 `backend/infrastructure/persistence/postgres/tmdb_store.py` 的运行时自举 schema，可把它视为该文档的“实现参考”。
+- 目前代码 `backend/infrastructure/persistence/postgres/tmdb_store.py` 仍偏“快照落库”，与本文的“结构化模型”存在差异；若采用本文模型，需要同步调整持久化实现（后续再做）。
 
 ### 4.1 Schema 与扩展
 
@@ -78,46 +85,72 @@ CREATE SCHEMA IF NOT EXISTS tmdb;
 CREATE EXTENSION IF NOT EXISTS pgcrypto;
 ```
 
-### 4.2 tmdb.movies（电影快照）
+### 4.2 tmdb.raw_payloads（原始快照存档，可回放）
+
+```sql
+CREATE TABLE IF NOT EXISTS tmdb.raw_payloads (
+  entity_type    text NOT NULL CHECK (entity_type IN ('movie','person','tv')),
+  tmdb_id        int  NOT NULL,
+  language       text NOT NULL DEFAULT 'zh-CN',
+  payload        jsonb NOT NULL,
+  payload_hash   text NOT NULL,
+  fetched_at     timestamptz NOT NULL DEFAULT now(),
+  PRIMARY KEY (entity_type, tmdb_id, language, payload_hash)
+);
+
+COMMENT ON TABLE tmdb.raw_payloads IS 'TMDB 原始返回存档（用于回放/ETL 兜底）；主查询请走结构化表';
+COMMENT ON COLUMN tmdb.raw_payloads.entity_type IS '实体类型：movie/person/tv';
+COMMENT ON COLUMN tmdb.raw_payloads.tmdb_id IS 'TMDB 实体 ID';
+COMMENT ON COLUMN tmdb.raw_payloads.language IS '返回语言（zh-CN/en-US 等）';
+COMMENT ON COLUMN tmdb.raw_payloads.payload IS '原始 JSONB（整包存）';
+COMMENT ON COLUMN tmdb.raw_payloads.payload_hash IS 'payload 稳定 hash（SHA-256），用于去重与变更检测';
+COMMENT ON COLUMN tmdb.raw_payloads.fetched_at IS '拉取时间';
+```
+
+### 4.3 tmdb.movies（电影信息，面向列表/详情查询）
 
 ```sql
 CREATE TABLE IF NOT EXISTS tmdb.movies (
   tmdb_id            int PRIMARY KEY,
   title              text,
   original_title     text,
+  overview           text,
   original_language  text,
   release_date       date,
+  runtime            int,
+  poster_path        text,
+  backdrop_path      text,
   popularity         double precision,
   vote_average       double precision,
   vote_count         int,
-  raw_language       text NOT NULL DEFAULT 'zh-CN',
   data_state         text NOT NULL DEFAULT 'full' CHECK (data_state IN ('stub','full')),
-  raw                jsonb,
-  raw_hash           text,
+  content_hash       text,
   fetched_at         timestamptz NOT NULL DEFAULT now(),
   first_seen_at      timestamptz NOT NULL DEFAULT now(),
   last_seen_at       timestamptz NOT NULL DEFAULT now(),
   CONSTRAINT ck_tmdb_movies_state
     CHECK (
-      (data_state = 'stub' AND raw IS NULL AND raw_hash IS NULL)
+      (data_state = 'stub')
       OR
-      (data_state = 'full' AND raw IS NOT NULL AND raw_hash IS NOT NULL)
+      (data_state = 'full' AND content_hash IS NOT NULL)
     )
 );
 
-COMMENT ON TABLE tmdb.movies IS 'TMDB 电影实体快照（raw 为 /movie/{id}?append_to_response=credits 返回）；Postgres 不维护关系，关系由 Neo4j/ETL 生成';
+COMMENT ON TABLE tmdb.movies IS 'TMDB 电影信息（结构化列用于列表/筛选/排序；导演/演员/类型在关系表中）';
 COMMENT ON COLUMN tmdb.movies.tmdb_id IS 'TMDB movie_id（主键，幂等）';
 COMMENT ON COLUMN tmdb.movies.title IS '中文标题（来自 TMDB title，可能为空）';
 COMMENT ON COLUMN tmdb.movies.original_title IS '原始标题（original_title）';
+COMMENT ON COLUMN tmdb.movies.overview IS '简介（overview，可能较长）';
 COMMENT ON COLUMN tmdb.movies.original_language IS '原始语言（original_language）';
 COMMENT ON COLUMN tmdb.movies.release_date IS '上映日期（release_date）';
+COMMENT ON COLUMN tmdb.movies.runtime IS '片长（分钟，runtime）';
+COMMENT ON COLUMN tmdb.movies.poster_path IS '海报路径（poster_path，需配合 TMDB configuration 拼 URL）';
+COMMENT ON COLUMN tmdb.movies.backdrop_path IS '背景图路径（backdrop_path）';
 COMMENT ON COLUMN tmdb.movies.popularity IS 'TMDB popularity（用于排序/消歧参考）';
 COMMENT ON COLUMN tmdb.movies.vote_average IS 'TMDB vote_average（评分均值）';
 COMMENT ON COLUMN tmdb.movies.vote_count IS 'TMDB vote_count（评分数）';
-COMMENT ON COLUMN tmdb.movies.raw_language IS 'raw 快照语言（默认 zh-CN；必要时可回退 en-US 并合并到 raw）';
 COMMENT ON COLUMN tmdb.movies.data_state IS '数据状态：stub=占位无 raw；full=有 raw 快照';
-COMMENT ON COLUMN tmdb.movies.raw IS '原始 JSONB 快照（建议包含 credits 以支持导演/演员与图构建）';
-COMMENT ON COLUMN tmdb.movies.raw_hash IS 'raw 内容哈希（稳定序列化后 SHA-256）；用于增量 ETL 变更检测';
+COMMENT ON COLUMN tmdb.movies.content_hash IS '内容 hash（来自 raw_payload 的稳定 hash）；用于增量 ETL 变更检测';
 COMMENT ON COLUMN tmdb.movies.fetched_at IS '本次 raw 拉取时间（最后一次 fetch）';
 COMMENT ON COLUMN tmdb.movies.first_seen_at IS '首次入库时间';
 COMMENT ON COLUMN tmdb.movies.last_seen_at IS '最近一次被查询/命中时间（用于冷热/清理策略）';
@@ -127,9 +160,15 @@ ON tmdb.movies(release_date DESC);
 
 CREATE INDEX IF NOT EXISTS idx_tmdb_movies_last_seen
 ON tmdb.movies(last_seen_at DESC);
+
+CREATE INDEX IF NOT EXISTS idx_tmdb_movies_popularity
+ON tmdb.movies(popularity DESC);
+
+CREATE INDEX IF NOT EXISTS idx_tmdb_movies_vote_average
+ON tmdb.movies(vote_average DESC);
 ```
 
-### 4.3 tmdb.people（人物快照）
+### 4.4 tmdb.people（人物信息）
 
 ```sql
 CREATE TABLE IF NOT EXISTS tmdb.people (
@@ -137,32 +176,32 @@ CREATE TABLE IF NOT EXISTS tmdb.people (
   name                  text,
   original_name         text,
   known_for_department  text,
+  biography             text,
+  profile_path          text,
   popularity            double precision,
-  raw_language          text NOT NULL DEFAULT 'zh-CN',
   data_state            text NOT NULL DEFAULT 'full' CHECK (data_state IN ('stub','full')),
-  raw                   jsonb,
-  raw_hash              text,
+  content_hash          text,
   fetched_at            timestamptz NOT NULL DEFAULT now(),
   first_seen_at         timestamptz NOT NULL DEFAULT now(),
   last_seen_at          timestamptz NOT NULL DEFAULT now(),
   CONSTRAINT ck_tmdb_people_state
     CHECK (
-      (data_state = 'stub' AND raw IS NULL AND raw_hash IS NULL)
+      (data_state = 'stub')
       OR
-      (data_state = 'full' AND raw IS NOT NULL AND raw_hash IS NOT NULL)
+      (data_state = 'full' AND content_hash IS NOT NULL)
     )
 );
 
-COMMENT ON TABLE tmdb.people IS 'TMDB 人物实体快照（raw 为 /person/{id}?append_to_response=combined_credits 返回）；用于导演/演员问答与作品列表';
+COMMENT ON TABLE tmdb.people IS 'TMDB 人物信息（结构化列用于人物详情与消歧；作品列表关系可由 Neo4j/ETL 承担）';
 COMMENT ON COLUMN tmdb.people.tmdb_id IS 'TMDB person_id（主键，幂等）';
 COMMENT ON COLUMN tmdb.people.name IS '中文姓名（name）';
 COMMENT ON COLUMN tmdb.people.original_name IS '原始姓名（original_name）';
 COMMENT ON COLUMN tmdb.people.known_for_department IS '部门（Acting/Directing 等）';
+COMMENT ON COLUMN tmdb.people.biography IS '人物简介（biography，可能较长）';
+COMMENT ON COLUMN tmdb.people.profile_path IS '头像路径（profile_path）';
 COMMENT ON COLUMN tmdb.people.popularity IS 'TMDB popularity（用于排序/消歧参考）';
-COMMENT ON COLUMN tmdb.people.raw_language IS 'raw 快照语言（默认 zh-CN）';
 COMMENT ON COLUMN tmdb.people.data_state IS '数据状态：stub/full';
-COMMENT ON COLUMN tmdb.people.raw IS '原始 JSONB 快照（建议包含 combined_credits）';
-COMMENT ON COLUMN tmdb.people.raw_hash IS 'raw 内容哈希（用于增量 ETL）';
+COMMENT ON COLUMN tmdb.people.content_hash IS '内容 hash（来自 raw_payload 的稳定 hash）';
 COMMENT ON COLUMN tmdb.people.fetched_at IS '本次 raw 拉取时间';
 COMMENT ON COLUMN tmdb.people.first_seen_at IS '首次入库时间';
 COMMENT ON COLUMN tmdb.people.last_seen_at IS '最近一次命中时间';
@@ -171,55 +210,80 @@ CREATE INDEX IF NOT EXISTS idx_tmdb_people_last_seen
 ON tmdb.people(last_seen_at DESC);
 ```
 
-### 4.4 tmdb.tv_shows（电视剧快照）
+### 4.5 tmdb.genres 与 tmdb.movie_genres（类型）
 
 ```sql
-CREATE TABLE IF NOT EXISTS tmdb.tv_shows (
-  tmdb_id            int PRIMARY KEY,
-  name               text,
-  original_name      text,
-  original_language  text,
-  first_air_date     date,
-  popularity         double precision,
-  vote_average       double precision,
-  vote_count         int,
-  raw_language       text NOT NULL DEFAULT 'zh-CN',
-  data_state         text NOT NULL DEFAULT 'full' CHECK (data_state IN ('stub','full')),
-  raw                jsonb,
-  raw_hash           text,
-  fetched_at         timestamptz NOT NULL DEFAULT now(),
-  first_seen_at      timestamptz NOT NULL DEFAULT now(),
-  last_seen_at       timestamptz NOT NULL DEFAULT now(),
-  CONSTRAINT ck_tmdb_tv_shows_state
-    CHECK (
-      (data_state = 'stub' AND raw IS NULL AND raw_hash IS NULL)
-      OR
-      (data_state = 'full' AND raw IS NOT NULL AND raw_hash IS NOT NULL)
-    )
+CREATE TABLE IF NOT EXISTS tmdb.genres (
+  tmdb_genre_id  int PRIMARY KEY,
+  name           text NOT NULL,
+  media_type     text NOT NULL DEFAULT 'movie' CHECK (media_type IN ('movie','tv')),
+  created_at     timestamptz NOT NULL DEFAULT now()
 );
 
-COMMENT ON TABLE tmdb.tv_shows IS 'TMDB 电视剧实体快照（raw 为 /tv/{id}?append_to_response=credits 返回）；用于电视剧推荐/人物作品列表补证';
-COMMENT ON COLUMN tmdb.tv_shows.tmdb_id IS 'TMDB tv_id（主键，幂等）';
-COMMENT ON COLUMN tmdb.tv_shows.name IS '中文剧名（name）';
-COMMENT ON COLUMN tmdb.tv_shows.original_name IS '原始剧名（original_name）';
-COMMENT ON COLUMN tmdb.tv_shows.original_language IS '原始语言（original_language）';
-COMMENT ON COLUMN tmdb.tv_shows.first_air_date IS '首播日期（first_air_date）';
-COMMENT ON COLUMN tmdb.tv_shows.popularity IS 'TMDB popularity';
-COMMENT ON COLUMN tmdb.tv_shows.vote_average IS 'TMDB vote_average';
-COMMENT ON COLUMN tmdb.tv_shows.vote_count IS 'TMDB vote_count';
-COMMENT ON COLUMN tmdb.tv_shows.raw_language IS 'raw 快照语言（默认 zh-CN）';
-COMMENT ON COLUMN tmdb.tv_shows.data_state IS '数据状态：stub/full';
-COMMENT ON COLUMN tmdb.tv_shows.raw IS '原始 JSONB 快照（建议包含 credits）';
-COMMENT ON COLUMN tmdb.tv_shows.raw_hash IS 'raw 内容哈希（用于增量 ETL）';
-COMMENT ON COLUMN tmdb.tv_shows.fetched_at IS '本次 raw 拉取时间';
-COMMENT ON COLUMN tmdb.tv_shows.first_seen_at IS '首次入库时间';
-COMMENT ON COLUMN tmdb.tv_shows.last_seen_at IS '最近一次命中时间';
+COMMENT ON TABLE tmdb.genres IS 'TMDB 类型字典（movie/tv）';
+COMMENT ON COLUMN tmdb.genres.tmdb_genre_id IS 'TMDB genre_id（主键）';
+COMMENT ON COLUMN tmdb.genres.name IS '类型名称（通常为中文，视 language 而定）';
+COMMENT ON COLUMN tmdb.genres.media_type IS '类型归属：movie 或 tv';
+COMMENT ON COLUMN tmdb.genres.created_at IS '创建时间';
 
-CREATE INDEX IF NOT EXISTS idx_tmdb_tv_last_seen
-ON tmdb.tv_shows(last_seen_at DESC);
+CREATE TABLE IF NOT EXISTS tmdb.movie_genres (
+  tmdb_movie_id  int NOT NULL REFERENCES tmdb.movies(tmdb_id) ON DELETE CASCADE,
+  tmdb_genre_id  int NOT NULL REFERENCES tmdb.genres(tmdb_genre_id) ON DELETE RESTRICT,
+  PRIMARY KEY (tmdb_movie_id, tmdb_genre_id)
+);
+
+COMMENT ON TABLE tmdb.movie_genres IS '电影与类型的关联表（用于列表过滤/展示类型）';
+COMMENT ON COLUMN tmdb.movie_genres.tmdb_movie_id IS 'TMDB movie_id';
+COMMENT ON COLUMN tmdb.movie_genres.tmdb_genre_id IS 'TMDB genre_id';
 ```
 
-### 4.5 tmdb.enrichment_requests（请求日志：可观测/回放）
+### 4.6 tmdb.movie_cast 与 tmdb.movie_crew（演职员）
+
+```sql
+CREATE TABLE IF NOT EXISTS tmdb.movie_cast (
+  tmdb_movie_id  int NOT NULL REFERENCES tmdb.movies(tmdb_id) ON DELETE CASCADE,
+  tmdb_person_id int NOT NULL REFERENCES tmdb.people(tmdb_id) ON DELETE RESTRICT,
+  credit_id      text,
+  cast_order     int,
+  character      text,
+  PRIMARY KEY (tmdb_movie_id, tmdb_person_id, COALESCE(credit_id,''))
+);
+
+COMMENT ON TABLE tmdb.movie_cast IS '电影演员表（来自 movie credits.cast）；用于主演列表展示';
+COMMENT ON COLUMN tmdb.movie_cast.tmdb_movie_id IS 'TMDB movie_id';
+COMMENT ON COLUMN tmdb.movie_cast.tmdb_person_id IS 'TMDB person_id';
+COMMENT ON COLUMN tmdb.movie_cast.credit_id IS 'TMDB credit_id（可选，用于与 /credit/{credit_id} 对齐）';
+COMMENT ON COLUMN tmdb.movie_cast.cast_order IS '出演排序（order）';
+COMMENT ON COLUMN tmdb.movie_cast.character IS '角色名';
+
+CREATE INDEX IF NOT EXISTS idx_tmdb_movie_cast_movie
+ON tmdb.movie_cast(tmdb_movie_id, cast_order);
+
+CREATE TABLE IF NOT EXISTS tmdb.movie_crew (
+  tmdb_movie_id  int NOT NULL REFERENCES tmdb.movies(tmdb_id) ON DELETE CASCADE,
+  tmdb_person_id int NOT NULL REFERENCES tmdb.people(tmdb_id) ON DELETE RESTRICT,
+  credit_id      text,
+  department     text,
+  job            text,
+  PRIMARY KEY (tmdb_movie_id, tmdb_person_id, COALESCE(credit_id,''), COALESCE(job,''))
+);
+
+COMMENT ON TABLE tmdb.movie_crew IS '电影剧组表（来自 movie credits.crew）；导演通常 job=Director';
+COMMENT ON COLUMN tmdb.movie_crew.tmdb_movie_id IS 'TMDB movie_id';
+COMMENT ON COLUMN tmdb.movie_crew.tmdb_person_id IS 'TMDB person_id';
+COMMENT ON COLUMN tmdb.movie_crew.credit_id IS 'TMDB credit_id（可选）';
+COMMENT ON COLUMN tmdb.movie_crew.department IS '部门（Directing/Writing 等）';
+COMMENT ON COLUMN tmdb.movie_crew.job IS '职位（Director/Writer/Producer 等）';
+
+CREATE INDEX IF NOT EXISTS idx_tmdb_movie_crew_movie
+ON tmdb.movie_crew(tmdb_movie_id);
+
+CREATE INDEX IF NOT EXISTS idx_tmdb_movie_directors
+ON tmdb.movie_crew(tmdb_movie_id)
+WHERE job = 'Director';
+```
+
+### 4.7 tmdb.enrichment_requests（请求日志：可观测/回放）
 
 ```sql
 CREATE TABLE IF NOT EXISTS tmdb.enrichment_requests (
@@ -284,7 +348,7 @@ CREATE TABLE IF NOT EXISTS tmdb.neo4j_etl_outbox (
   id              uuid PRIMARY KEY DEFAULT gen_random_uuid(),
   entity_type     text NOT NULL CHECK (entity_type IN ('movie','person','tv')),
   tmdb_id         int  NOT NULL,
-  raw_hash        text NOT NULL,
+  content_hash    text NOT NULL,
   action          text NOT NULL DEFAULT 'upsert' CHECK (action IN ('upsert','delete')),
   request_id      text,
   enqueued_at     timestamptz NOT NULL DEFAULT now(),
@@ -295,11 +359,11 @@ CREATE TABLE IF NOT EXISTS tmdb.neo4j_etl_outbox (
   processed_at    timestamptz
 );
 
-COMMENT ON TABLE tmdb.neo4j_etl_outbox IS 'Postgres -> Neo4j 增量 ETL Outbox（仅当 raw_hash 变化时入队）';
+COMMENT ON TABLE tmdb.neo4j_etl_outbox IS 'Postgres -> Neo4j 增量 ETL Outbox（仅当 content_hash 变化时入队）';
 COMMENT ON COLUMN tmdb.neo4j_etl_outbox.id IS '主键 UUID';
 COMMENT ON COLUMN tmdb.neo4j_etl_outbox.entity_type IS '实体类型：movie/person/tv';
 COMMENT ON COLUMN tmdb.neo4j_etl_outbox.tmdb_id IS '实体 TMDB ID';
-COMMENT ON COLUMN tmdb.neo4j_etl_outbox.raw_hash IS '对应实体 raw_hash（用于去重与幂等）';
+COMMENT ON COLUMN tmdb.neo4j_etl_outbox.content_hash IS '对应实体 content_hash（用于去重与幂等）';
 COMMENT ON COLUMN tmdb.neo4j_etl_outbox.action IS '动作：upsert/delete';
 COMMENT ON COLUMN tmdb.neo4j_etl_outbox.request_id IS '触发该 outbox 的 request_id（可为空）';
 COMMENT ON COLUMN tmdb.neo4j_etl_outbox.enqueued_at IS '入队时间';
@@ -316,25 +380,26 @@ CREATE INDEX IF NOT EXISTS idx_tmdb_etl_outbox_entity
 ON tmdb.neo4j_etl_outbox(entity_type, tmdb_id);
 
 CREATE UNIQUE INDEX IF NOT EXISTS ux_tmdb_etl_outbox_dedupe
-ON tmdb.neo4j_etl_outbox(entity_type, tmdb_id, raw_hash, action);
+ON tmdb.neo4j_etl_outbox(entity_type, tmdb_id, content_hash, action);
 ```
 
 ---
 
 ## 5. 可选表（非 MVP 必需，但强烈建议保留入口）
 
-如果你们要做多语言/更强的离线分析，建议在“下一阶段”启用：
-- `tmdb.movie_translations` / `tmdb.person_translations` / `tmdb.tv_translations`
-  - 用于保存 `en-US` 或其它语言的翻译快照（而不是把 fallback 合并进 zh-CN raw）
-- `tmdb.enrichment_request_entities`
-  - 用于把一次请求关联到多个实体（候选/选中/分数），便于统计与评估
+如果你们要做更完整的页面展示或离线分析，建议在“下一阶段”启用：
+- `tmdb.movie_images` / `tmdb.person_images`：海报/头像缓存（或仅存 file_path）
+- `tmdb.movie_external_ids` / `tmdb.person_external_ids`：IMDb/Wikidata 对齐
+- `tmdb.movie_keywords` / `tmdb.keywords`：主题标签
+- `tmdb.movie_translations`：多语言标题/简介（用于语言回退）
+- `tmdb.person_tagged_images`：人物 tagged images（如果做图库）
 
 ---
 
 ## 6. 最小 MVP 的落地顺序（建议）
 
-1) 先确保 enrichment 写入：movies/people/tv_shows + enrichment_requests + neo4j_etl_outbox
-2) 评估数据量与增长：按 `last_seen_at`/`created_at` 设置清理策略（尤其是 enrichment_requests）
-3) 再做 ETL worker：消费 neo4j_etl_outbox，把 raw 转成 Neo4j node/edge
-4) 最后再补 translations / images / external_ids 等（按业务需求）
-
+1) 先确保 enrichment 写入结构化表：movies + people + movie_cast/movie_crew + genres/movie_genres
+2) 请求日志：enrichment_requests（便于回放/评估；按 created_at 设置清理）
+3) 原始快照：raw_payloads（可选但推荐，便于 ETL 兜底与数据纠错）
+4) 再做 ETL worker：消费 neo4j_etl_outbox，把结构化表/或 raw_payloads 转成 Neo4j node/edge
+5) 最后再补 images/external_ids/keywords 等（按产品需求）
