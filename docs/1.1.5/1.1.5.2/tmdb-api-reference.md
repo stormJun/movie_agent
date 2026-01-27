@@ -487,6 +487,243 @@ search_movie(title, year)               # 搜索电影
 
 ---
 
+## Credits 端点对齐（官方 Reference）
+
+本节对齐官方 Reference：
+- https://developer.themoviedb.org/reference/credit-details
+
+用途：
+- 根据 `credit_id` 获取一条演职员信用记录的详情（可用于“某条 credit 的精确信息/补全”）。
+
+### GET `/credit/{credit_id}`（credit-details）
+
+请求：
+- Path：
+  - `credit_id`（必需）
+- Query：
+  - `language`（可选）
+
+响应要点（常用字段，非穷举）：
+- `id`（credit_id）
+- `media`（movie/tv 的基础信息，字段随类型变化）
+- `person`（人物信息）
+- `media_type`
+
+官方参考：
+- https://developer.themoviedb.org/reference/credit-details
+
+说明：
+- 当前项目更常用 `/movie/{id}?append_to_response=credits` 或 `/tv/{id}?append_to_response=credits`，很少需要以 credit_id 单独查询。
+
+---
+
+## Discover 端点对齐（官方 Reference）
+
+本节对齐官方 Reference：
+- https://developer.themoviedb.org/reference/discover-movie
+- https://developer.themoviedb.org/reference/discover-tv
+
+用途：
+- 推荐/筛选：按结构化条件发现 movie/tv 候选集合（通常作为“候选池”，再补细节与解释）。
+
+### 1) GET `/discover/movie`（discover-movie）
+
+请求（Query，常用）：
+- `language`（如 `zh-CN`）
+- `page`
+- `sort_by`（例如 `popularity.desc` / `vote_average.desc`）
+- `include_adult`（false）
+- `primary_release_year`
+- `primary_release_date.gte` / `primary_release_date.lte`
+- `region`
+- `with_origin_country`（best-effort）
+- `with_original_language`
+
+响应要点：
+- `results[]`：候选电影数组（通常包含 `id/title/release_date/overview/vote_average` 等）
+- `page/total_pages/total_results`
+
+官方参考：
+- https://developer.themoviedb.org/reference/discover-movie
+
+### 2) GET `/discover/tv`（discover-tv）
+
+请求（Query，常用）：
+- `language`
+- `page`
+- `sort_by`
+- `include_adult`
+- `first_air_date_year`
+- `first_air_date.gte` / `first_air_date.lte`
+- `with_origin_country`
+- `with_original_language`
+
+响应要点：
+- `results[]`：候选电视剧数组（通常包含 `id/name/first_air_date/overview/vote_average` 等）
+
+官方参考：
+- https://developer.themoviedb.org/reference/discover-tv
+
+说明（与本项目实现对齐）：
+- 项目在 `backend/infrastructure/enrichment/tmdb_client.py` 中封装了 `discover_movie_raw(...)` 与 `discover_tv_raw(...)`，并由 `tmdb_enrichment_service.py` 在 `query_intent=recommend` 且 `media_type_hint=movie|tv` 时触发。
+
+---
+
+## Keywords 端点对齐（官方 Reference）
+
+本节对齐官方 Reference：
+- https://developer.themoviedb.org/reference/keyword-details
+- https://developer.themoviedb.org/reference/keyword-movies
+
+用途：
+- 关键词实体（keyword）可用于“主题/话题”维度的聚合检索与推荐，例如根据关键字拉相关电影集合。
+
+### 1) GET `/keyword/{keyword_id}`（keyword-details）
+
+请求：
+- Path：
+  - `keyword_id`（必需）
+
+响应要点：
+- `id`
+- `name`
+
+官方参考：
+- https://developer.themoviedb.org/reference/keyword-details
+
+### 2) GET `/keyword/{keyword_id}/movies`（keyword-movies）
+
+请求（Query，常用）：
+- `language`
+- `page`
+- `include_adult`
+
+响应要点：
+- `results[]`：电影列表（含 `id/title/release_date/overview/vote_average` 等）
+- `page/total_pages/total_results`
+
+官方参考：
+- https://developer.themoviedb.org/reference/keyword-movies
+
+---
+
+## Movie Lists 端点对齐（官方 Reference）
+
+本节对齐官方 Reference：
+- https://developer.themoviedb.org/reference/movie-now-playing-list
+- https://developer.themoviedb.org/reference/movie-popular-list
+- https://developer.themoviedb.org/reference/movie-top-rated-list
+- https://developer.themoviedb.org/reference/movie-upcoming-list
+
+用途：
+- 产品侧常用的“榜单/热门/近期上映”入口；可作为冷启动推荐或首页内容流。
+
+通用请求参数（Query，常用）：
+- `language`
+- `page`
+- `region`（可选）
+
+通用响应要点：
+- `results[]`：电影列表（含 `id/title/release_date/poster_path/vote_average` 等）
+- `page/total_pages/total_results`
+
+### 1) GET `/movie/now_playing`（now-playing-list）
+- 官方参考：https://developer.themoviedb.org/reference/movie-now-playing-list
+
+### 2) GET `/movie/popular`（popular-list）
+- 官方参考：https://developer.themoviedb.org/reference/movie-popular-list
+
+### 3) GET `/movie/top_rated`（top-rated-list）
+- 官方参考：https://developer.themoviedb.org/reference/movie-top-rated-list
+
+### 4) GET `/movie/upcoming`（upcoming-list）
+- 官方参考：https://developer.themoviedb.org/reference/movie-upcoming-list
+
+---
+
+## Movies（详情与相关端点）对齐（官方 Reference）
+
+本节对齐官方 Reference：
+- https://developer.themoviedb.org/reference/movie-details
+- https://developer.themoviedb.org/reference/movie-account-states
+- https://developer.themoviedb.org/reference/movie-alternative-titles
+- https://developer.themoviedb.org/reference/movie-credits
+
+用途：
+- 获取单部电影的结构化字段（用于事实问答、对比、入库、图谱建模）
+- 获取演职员（导演/演员）用于人物关系与回答“谁执导/谁主演”
+- 获取别名用于实体归一（译名/别名/地区标题）
+
+### 1) GET `/movie/{movie_id}`（movie-details）
+
+请求：
+- Path：
+  - `movie_id`（必需）
+- Query（常用）：
+  - `language`
+  - `append_to_response=credits`（本项目常用：一次拿到演职员）
+
+响应要点（常用字段，非穷举）：
+- `id`
+- `title` / `original_title`
+- `overview`
+- `release_date`
+- `runtime`
+- `genres[]`
+- `vote_average` / `vote_count`
+- `credits.cast[]` / `credits.crew[]`（当 append_to_response=credits 时）
+
+官方参考：
+- https://developer.themoviedb.org/reference/movie-details
+
+### 2) GET `/movie/{movie_id}/credits`（movie-credits）
+
+请求：
+- Path：`movie_id`（必需）
+- Query：`language`（可选）
+
+响应要点：
+- `id`
+- `cast[]`（演员；含 character/order 等）
+- `crew[]`（剧组；含 job/department；导演通常是 `job=Director`）
+
+官方参考：
+- https://developer.themoviedb.org/reference/movie-credits
+
+说明（与本项目实现对齐）：
+- 项目优先使用 `GET /movie/{id}?append_to_response=credits`，避免再单独调用 `/movie/{id}/credits`。
+
+### 3) GET `/movie/{movie_id}/alternative_titles`（movie-alternative-titles）
+
+用途：
+- 获取不同地区的标题/别名，用于实体归一与消歧（同名片/译名）
+
+请求（Query，常用）：
+- `country`（可选）：例如 `US` / `CN`
+
+响应要点：
+- `id`
+- `titles[]`（含 `iso_3166_1`、`title`、`type` 等）
+
+官方参考：
+- https://developer.themoviedb.org/reference/movie-alternative-titles
+
+### 4) GET `/movie/{movie_id}/account_states`（movie-account-states）
+
+用途：
+- 与账户体系相关（是否收藏/是否加入 TMDB watchlist/评分等）；需要用户级授权，不适合匿名 enrichment。
+
+请求（常用）：
+- `session_id` 或其它授权信息（具体以官方为准）
+
+响应要点：
+- `favorite` / `rated` / `watchlist` 等状态字段
+
+官方参考：
+- https://developer.themoviedb.org/reference/movie-account-states
+
+---
+
 ## Collections 端点对齐（官方 Reference）
 
 本节对齐官方 Reference（示例页面：`/reference/collection-details`），补全 COLLECTIONS 相关端点的“参数/响应要点”，便于后续实现：
