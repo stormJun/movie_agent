@@ -403,3 +403,47 @@ ON tmdb.neo4j_etl_outbox(entity_type, tmdb_id, content_hash, action);
 3) 原始快照：raw_payloads（可选但推荐，便于 ETL 兜底与数据纠错）
 4) 再做 ETL worker：消费 neo4j_etl_outbox，把结构化表/或 raw_payloads 转成 Neo4j node/edge
 5) 最后再补 images/external_ids/keywords 等（按产品需求）
+
+---
+
+## 7. 全站“全量 + 持续同步”怎么做（MVP 之外，但必须提前知道）
+
+重要结论：TMDB API v3 **没有**“一次返回全站所有电影 ID”的 JSON API。
+如果目标是“全站所有电影”，推荐走 TMDB 官方的 **Daily ID Exports**（文件下载）作为全量 ID 来源，再用详情接口补全入库。
+
+### 7.1 全量初始化（一次性 backfill）
+
+1) 下载当日全量 movie id 列表（gzip 文件）
+- 官方文档：`https://developer.themoviedb.org/docs/daily-id-exports`
+- 文件名形如：`movie_ids_YYYY_MM_DD.json.gz`
+
+2) 解压后逐行读取（通常是 JSON Lines）
+- 取每行的 `id` 作为 `tmdb_id`
+
+3) 对每个 `tmdb_id` 拉取详情并入库（含 credits 以落 movie_cast/movie_crew）
+- `GET /movie/{movie_id}?append_to_response=credits&language=zh-CN`
+- 失败容错：部分条目可能 404/不可用；记录错误并跳过（不要让任务中断）
+
+4) 写入 `tmdb.raw_payloads`（可选但推荐）
+- 便于后续重建/纠错，以及 ETL 兜底
+
+### 7.2 持续同步（每天增量）
+
+建议组合两类信号：
+
+1) 每日 Export（全量 id 快照）
+- 作用：确保不会漏掉新增的 movie id（尤其是 API discover 难以覆盖的边角数据）
+- 用法：每天下载当天 export，做一次“ID 集合对比”
+  - 新增 id：补拉详情并 upsert
+  - 已存在 id：可选择不动（避免全量刷新成本）
+
+2) `/movie/changes`（变更列表）
+- 作用：只更新“发生过变更”的 id，显著降低刷新成本
+- 用法：每天以 `start_date/end_date` 拉取变更 id 列表 → 对这些 id 补拉详情并更新
+- 注意：changes 返回的是“id 列表 + 变更时间”等概要信息，仍需调用 `/movie/{id}` 拿到最新字段
+
+### 7.3 为什么要两者结合
+
+- 仅用 changes：可能漏掉“新增但未被正确纳入变更窗口”的边缘情况（取决于 TMDB 的变更语义与窗口限制）
+- 仅用 export：每天全量对比/刷新成本更高
+- 组合方案：export 用于发现新增，changes 用于更新存量
