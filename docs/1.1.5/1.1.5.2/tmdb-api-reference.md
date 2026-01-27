@@ -447,6 +447,7 @@ search_movie(title, year)               # 搜索电影
 本节对齐官方 Reference：
 - https://developer.themoviedb.org/reference/company-details
 - https://developer.themoviedb.org/reference/company-alternative-names
+- https://developer.themoviedb.org/reference/company-images
 
 用途：
 - 制作公司信息展示（出品方/制作方），以及公司别名（用于实体归一）
@@ -482,8 +483,21 @@ search_movie(title, year)               # 搜索电影
 官方参考：
 - https://developer.themoviedb.org/reference/company-alternative-names
 
-（可选）3) GET `/company/{company_id}/images`（公司图片）
-- 官方参考：https://developer.themoviedb.org/reference/company-images
+### 3) GET `/company/{company_id}/images`（公司图片）
+
+用途：
+- 获取制作公司的 logo 等图片资源（前端展示、出品方列表 UI）。
+
+请求：
+- Path：
+  - `company_id`（必需）
+
+响应要点：
+- `id`
+- `logos[]`：logo 图片数组（元素通常包含 `file_path/width/height/aspect_ratio/vote_average` 等）
+
+官方参考：
+- https://developer.themoviedb.org/reference/company-images
 
 ---
 
