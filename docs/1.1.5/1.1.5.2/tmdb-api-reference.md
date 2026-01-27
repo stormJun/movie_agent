@@ -357,6 +357,71 @@ search_movie(title, year)               # 搜索电影
 
 ---
 
+## Collections 端点对齐（官方 Reference）
+
+本节对齐官方 Reference（示例页面：`/reference/collection-details`），补全 COLLECTIONS 相关端点的“参数/响应要点”，便于后续实现：
+- 电影合集详情展示（系列电影，如 “The Lord of the Rings Collection”）
+- 电影合集封面/背景图拉取（前端展示）
+- 合集翻译（多语言）
+
+注意：截至本文档更新，Collections 端点**在运行时 enrichment 中未使用**，因此这里属于“预备对齐”，用于后续产品能力扩展。
+
+### 1) GET `/collection/{collection_id}`（合集详情）
+
+用途：
+- 根据 TMDB collection_id 获取合集基本信息与包含的影片列表（parts）
+
+请求：
+- Path：
+  - `collection_id`（必需）：合集 ID
+- Query：
+  - `language`（可选）：如 `zh-CN` / `en-US`
+
+响应要点（常用字段，非穷举）：
+- `id`：collection_id
+- `name`：合集名
+- `overview`：简介
+- `poster_path` / `backdrop_path`
+- `parts[]`：合集内影片列表（通常包含 `id/title/release_date/poster_path/vote_average/overview` 等）
+
+官方参考：
+- https://developer.themoviedb.org/reference/collection-details
+
+### 2) GET `/collection/{collection_id}/images`（合集图片）
+
+用途：
+- 获取合集的 posters/backdrops，供前端展示
+
+请求：
+- Path：
+  - `collection_id`（必需）
+- Query（常用）：
+  - `language`（可选）
+  - `include_image_language`（可选）：例如 `zh,null`（包含无语言标注图片）
+
+响应要点：
+- `id`
+- `backdrops[]` / `posters[]`（数组元素通常包含 `file_path/width/height/vote_average` 等）
+
+官方参考：
+- https://developer.themoviedb.org/reference/collection-images
+
+### 3) GET `/collection/{collection_id}/translations`（合集翻译）
+
+用途：
+- 获取合集多语言翻译（标题/简介），用于多语言 UI 或翻译回退策略
+
+请求：
+- Path：
+  - `collection_id`（必需）
+
+响应要点：
+- `id`
+- `translations[]`（包含语言码、名称、overview 等）
+
+官方参考：
+- https://developer.themoviedb.org/reference/collection-translations
+
 ## API 密钥配置
 
 **环境变量**（二选一）:
