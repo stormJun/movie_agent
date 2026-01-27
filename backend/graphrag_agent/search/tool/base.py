@@ -1,5 +1,6 @@
 from abc import ABC, abstractmethod
 from typing import List, Dict, Any
+from datetime import datetime
 import time
 
 from langchain_core.tools import BaseTool
@@ -29,7 +30,7 @@ class BaseSearchTool(ABC):
     ):
         """
         初始化搜索工具
-        
+
         参数:
             kb_prefix: 知识库前缀（用于同库多 KB 隔离）
         """
@@ -47,14 +48,17 @@ class BaseSearchTool(ABC):
         self.default_text_limit = BASE_SEARCH_CONFIG["text_limit"]
         self.default_semantic_top_k = BASE_SEARCH_CONFIG["semantic_top_k"]
         self.default_relevance_top_k = BASE_SEARCH_CONFIG["relevance_top_k"]
-        
+
         # 性能监控指标
         self.performance_metrics = {
             "query_time": 0,  # 数据库查询时间
             "llm_time": 0,    # 大语言模型处理时间
             "total_time": 0   # 总处理时间
         }
-        
+
+        # 子步骤执行日志（用于调试）
+        self.execution_log: List[Dict[str, Any]] = []
+
         # 初始化Neo4j连接
         self._setup_neo4j()
 
@@ -86,7 +90,28 @@ class BaseSearchTool(ABC):
         # 获取数据库连接管理器
         self.graph = get_graph()
         self.graph_query = get_graph_query()
-    
+
+    def _log_step(self, node: str, node_type: str, duration_ms: int, input: Dict[str, Any], output: Dict[str, Any]):
+        """记录子步骤到 execution_log
+
+        Args:
+            node: 节点名称，如 "vector_retrieval"
+            node_type: 节点类型，如 "retrieval", "generation", "routing"
+            duration_ms: 耗时（毫秒）
+            input: 输入数据
+            output: 输出数据
+        """
+        self.execution_log.append({
+            "node": node,
+            "node_type": node_type,
+            "duration_ms": duration_ms,
+            # Keep consistent with service-side execution_log timestamps (ISO string),
+            # so the debug UI can format it reliably.
+            "timestamp": datetime.now().isoformat(),
+            "input": input,
+            "output": output,
+        })
+
     def db_query(self, cypher: str, params: Dict[str, Any] = {}):
         """
         执行Cypher查询

@@ -11,6 +11,7 @@ from infrastructure.llm.completion import (
     generate_rag_answer_stream,
 )
 from infrastructure.rag.answer_generator import build_context_from_runs
+from infrastructure.config.settings import DEBUG_COMBINED_CONTEXT_MAX_CHARS
 from infrastructure.rag.rag_manager import RagManager
 from infrastructure.rag.specs import RagRunSpec
 
@@ -115,11 +116,19 @@ class ChatStreamExecutor:
         session_id: str,
         kb_prefix: str,
         debug: bool,
+        user_id: str | None = None,
+        request_id: str | None = None,
+        conversation_id: Any | None = None,
+        user_message_id: Any | None = None,
+        incognito: bool = False,
         memory_context: str | None = None,
         summary: str | None = None,
         episodic_context: str | None = None,
         history: list[dict[str, Any]] | None = None,
         extracted_entities: dict[str, Any] | None = None,
+        query_intent: str | None = None,
+        media_type_hint: str | None = None,
+        filters: dict[str, Any] | None = None,
     ) -> AsyncGenerator[dict[str, Any], None]:
         use_retrieval = bool(plan) and (kb_prefix or "").strip() not in {"", "general"}
         if not use_retrieval:
@@ -338,6 +347,10 @@ class ChatStreamExecutor:
                 }
                 if debug:
                     summary = _summarize_retrieval_results(run.retrieval_results or [])
+
+                    # Include sub-step execution_log from the agent
+                    agent_execution_log = run.execution_log if run.execution_log else []
+
                     yield {
                         "execution_log": {
                             "node": "rag_retrieval_done",
@@ -351,6 +364,7 @@ class ChatStreamExecutor:
                                 "top_source_ids": summary.get("top_source_ids", []),
                                 "sample_results": summary.get("sample_results", []),
                             },
+                            "sub_steps": agent_execution_log,
                         }
                     }
         except asyncio.CancelledError:
@@ -421,15 +435,23 @@ class ChatStreamExecutor:
                 if not r.error
             ]
         )
+        enrichment_appended = False
+        generation_question = message
+        generation_history = history
 
-        # Query-time enrichment (movie-only): if the KB misses an entity (e.g., 《喜宴》),
-        # use TMDB to build a transient graph and inject it into the context.
+        # 查询时增强（Query-time Enrichment，movie KB 专用）：
+        # 当 GraphRAG 检索上下文疑似缺少关键实体（例如 KB 未收录《喜宴》/实体抽取失败），
+        # 尝试用 TMDB 构建临时图（transient graph），再把结构化证据拼到 combined_context，
+        # 让生成阶段“有证据可答”，而不是依赖常识猜。
         if (kb_prefix or "").strip() == "movie":
             try:
                 if _should_enrich_by_entity_matching(
                     query=message,
                     graphrag_context=combined_context,
                     extracted_entities=extracted_entities,
+                    query_intent=query_intent,
+                    media_type_hint=media_type_hint,
+                    filters=filters,
                 ):
                     logger.debug("Enrichment triggered for movie KB", extra={"kb_prefix": kb_prefix, "message_preview": message[:200]})
 
@@ -452,6 +474,7 @@ class ChatStreamExecutor:
                             }
                     else:
                         if debug:
+                            # 记录“开始触发 enrichment”的调试节点（不会直接在 SSE 输出，前端用 /debug 拉取）。
                             yield {
                                 "execution_log": {
                                     "node": "enrichment_start",
@@ -470,6 +493,15 @@ class ChatStreamExecutor:
                             message=message,
                             kb_prefix=kb_prefix,
                             extracted_entities=extracted_entities,
+                            query_intent=query_intent,
+                            media_type_hint=media_type_hint,
+                            filters=filters,
+                            user_id=user_id,
+                            session_id=session_id,
+                            request_id=request_id,
+                            conversation_id=conversation_id,
+                            user_message_id=user_message_id,
+                            incognito=incognito,
                         )
                         duration_ms = int((time.monotonic() - t0) * 1000)
 
@@ -477,11 +509,14 @@ class ChatStreamExecutor:
                             enriched_context = result.transient_graph.to_context_text().strip()
                             if enriched_context:
                                 combined_context = f"{combined_context}\n\n{enriched_context}".strip()
-                            # Forward a lightweight event so the UI can visualize what happened.
+                                enrichment_appended = True
+                            # 向前端推一个轻量事件（实体候选/选中项/耗时等），便于在调试时间线可视化；
+                            # 具体 combined_context 文本仍通过 debug cache 拉取，避免污染 token 流。
                             yield {
                                 "status": "enrichment",
                                 "content": {
                                     "entities": list(result.extracted_entities or []),
+                                    "selected": (result.transient_graph.metadata.get("tmdb_disambiguation") or [])[:1],
                                     "node_count": len(result.transient_graph.nodes),
                                     "edge_count": len(result.transient_graph.edges),
                                     "cached": bool(result.cached),
@@ -526,6 +561,25 @@ class ChatStreamExecutor:
                             "output": {"error": str(e)},
                         }
                     }
+
+        if debug:
+            # Cache-only: show the exact retrieval context that will be fed into the
+            # generation step (GraphRAG runs + optional enrichment). Truncate to keep
+            # debug payloads bounded and UI responsive.
+            max_chars = int(DEBUG_COMBINED_CONTEXT_MAX_CHARS or 0) or 20000
+            full = str(combined_context or "")
+            preview = full if max_chars <= 0 else full[:max_chars]
+            yield {
+                "status": "combined_context",
+                "content": {
+                    # 最终喂给 LLM 的上下文（GraphRAG + enrichment 拼接结果）
+                    "text": preview,
+                    "total_chars": len(full),
+                    "max_chars": max_chars,
+                    "truncated": len(full) > len(preview),
+                    "has_enrichment": bool(enrichment_appended),
+                },
+            }
 
         # Cache-only debug event (not required for streaming UX).
         if debug:
@@ -617,12 +671,12 @@ class ChatStreamExecutor:
             timeout_budget = min(RAG_ANSWER_TIMEOUT_S, remaining)
             generation_started_at = time.monotonic()
             rag_stream = generate_rag_answer_stream(
-                question=message,
+                question=generation_question,
                 context=combined_context,
                 memory_context=memory_context,
                 summary=summary,
                 episodic_context=episodic_context,
-                history=history,
+                history=generation_history,
             )
             if generation_stage_span is not None and use_client_cm is not None:
                 with use_client_cm(generation_stage_span):
@@ -630,12 +684,14 @@ class ChatStreamExecutor:
                         if chunk:
                             generated_chars += len(chunk)
                             chunk_count += 1
+                            # SSE token：前端实时拼接 assistant_message.content
                             yield {"status": "token", "content": chunk}
             else:
                 async for chunk in _stream_with_timeout(rag_stream, timeout_budget):
                     if chunk:
                         generated_chars += len(chunk)
                         chunk_count += 1
+                        # SSE token：前端实时拼接 assistant_message.content
                         yield {"status": "token", "content": chunk}
             if debug:
                 yield {
@@ -708,9 +764,20 @@ def _should_enrich_by_entity_matching(
     query: str,
     graphrag_context: str,
     extracted_entities: dict[str, Any] | None,
+    query_intent: str | None,
+    media_type_hint: str | None,
+    filters: dict[str, Any] | None,
 ) -> bool:
     """Conservative fallback: enrich only when GraphRAG likely missed key entities."""
     from infrastructure.enrichment.entity_extractor import EntityExtractor
+
+    if (query_intent or "").strip().lower() == "recommend" and (media_type_hint or "").strip().lower() == "tv":
+        # Router-directed path: TV recommendations should use TMDB /discover/tv.
+        return True
+    if (query_intent or "").strip().lower() == "recommend" and (media_type_hint or "").strip().lower() == "movie":
+        # For movies, only do discover when the user gave explicit filter constraints.
+        if isinstance(filters, dict) and any(k in filters for k in ("year", "origin_country", "original_language", "region", "date_range")):
+            return True
 
     names: list[str] = []
     if isinstance(extracted_entities, dict):

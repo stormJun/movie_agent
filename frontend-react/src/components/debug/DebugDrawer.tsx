@@ -6,6 +6,7 @@ import OverviewTab from './OverviewTab';
 import TimelineTab from './TimelineTab';
 import RetrievalTab from './RetrievalTab';
 import EpisodicTab from './EpisodicTab';
+import ContextTab from './ContextTab';
 import RawTab from './RawTab';
 import { extractExecutionLog, extractRagRuns, extractEpisodicEpisodes } from '../../utils/debugHelpers';
 
@@ -78,6 +79,11 @@ const DebugDrawer: React.FC<DebugDrawerProps> = ({
                                 onOpenSource={onOpenSource}
                             />
                         ),
+                    },
+                    {
+                        key: 'context',
+                        label: 'RAG上下文',
+                        children: <ContextTab debugData={debugData} />,
                     },
                     {
                         key: 'episodic',

@@ -39,6 +39,7 @@ class KnowledgeBaseHandler(ABC):
         summary: str | None = None,
         episodic_context: str | None = None,
         history: list[dict[str, Any]] | None = None,
+        **kwargs: Any,
     ) -> dict[str, Any]:
         processed = self.preprocess(message)
         plan = self.build_plan(message=processed, agent_type=agent_type)
@@ -48,6 +49,7 @@ class KnowledgeBaseHandler(ABC):
             session_id=session_id,
             kb_prefix=self.kb_prefix,
             debug=debug,
+            **kwargs,
             memory_context=memory_context,
             summary=summary,
             episodic_context=episodic_context,

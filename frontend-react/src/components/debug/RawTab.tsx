@@ -5,7 +5,9 @@ import type { DebugTabProps } from './debug.types';
 import { prettyJson } from '../../utils/debugHelpers';
 
 const RawTab: React.FC<DebugTabProps> = ({ debugData }) => {
-    const [filter, setFilter] = useState<'all' | 'execution_log' | 'rag_runs' | 'route_decision'>(
+    const [filter, setFilter] = useState<
+        'all' | 'execution_log' | 'rag_runs' | 'route_decision' | 'combined_context'
+    >(
         'all'
     );
 
@@ -24,6 +26,8 @@ const RawTab: React.FC<DebugTabProps> = ({ debugData }) => {
                 return { rag_runs: debugData.rag_runs };
             case 'route_decision':
                 return { route_decision: debugData.route_decision };
+            case 'combined_context':
+                return { combined_context: debugData.combined_context };
             default:
                 return debugData;
         }
@@ -58,6 +62,7 @@ const RawTab: React.FC<DebugTabProps> = ({ debugData }) => {
                     <Radio.Button value="execution_log">execution_log</Radio.Button>
                     <Radio.Button value="rag_runs">rag_runs</Radio.Button>
                     <Radio.Button value="route_decision">route_decision</Radio.Button>
+                    <Radio.Button value="combined_context">combined_context</Radio.Button>
                 </Radio.Group>
 
                 <Space>

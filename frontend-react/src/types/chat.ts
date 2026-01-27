@@ -15,10 +15,8 @@ export interface ChatRequest {
   debug?: boolean;
   incognito?: boolean;
   watchlist_auto_capture?: boolean | null;
-  agent_type: AgentType;
   use_deeper_tool?: boolean;
   show_thinking?: boolean;
-  use_chain_exploration?: boolean;
 }
 
 export interface KnowledgeGraphData {
@@ -73,6 +71,13 @@ export interface DebugData {
   rag_runs: Array<JsonValue>;
   episodic_memory?: Array<JsonValue>;
   conversation_summary?: JsonValue | null;
+  combined_context?: {
+    text?: string;
+    total_chars?: number;
+    max_chars?: number;
+    truncated?: boolean;
+    has_enrichment?: boolean;
+  } | null;
   trace: Array<JsonValue>;
   kg_data: JsonValue | null;
   performance_metrics?: {

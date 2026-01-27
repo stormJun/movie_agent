@@ -64,6 +64,18 @@ class _StubCompletion:
         return f"GEN:{message}"
 
 
+async def _stub_general_answer_stream(
+    *,
+    question: str,
+    memory_context: str | None = None,
+    summary: str | None = None,
+    episodic_context: str | None = None,
+    history: List[Dict[str, Any]] | None = None,
+) -> AsyncGenerator[str, None]:
+    _ = (memory_context, summary, episodic_context, history)
+    yield f"GEN_STREAM:{question}"
+
+
 class _StubConversationStore(ConversationStorePort):
     async def get_or_create_conversation_id(self, *, user_id: str, session_id: str):
         return f"{user_id}:{session_id}"
@@ -96,12 +108,35 @@ class _StubExecutor:
         session_id: str,
         kb_prefix: str,
         debug: bool,
+        user_id: str | None = None,
+        request_id: str | None = None,
+        conversation_id: Any | None = None,
+        user_message_id: Any | None = None,
+        incognito: bool = False,
         memory_context: str | None = None,
         summary: str | None = None,
         episodic_context: str | None = None,
         history: List[Dict[str, Any]] | None = None,
+        extracted_entities: Dict[str, Any] | None = None,
+        query_intent: str | None = None,
+        media_type_hint: str | None = None,
+        filters: Dict[str, Any] | None = None,
     ) -> tuple[RagRunResult, List[RagRunResult]]:
-        _ = (history, memory_context, summary, episodic_context)
+        _ = (
+            history,
+            memory_context,
+            summary,
+            episodic_context,
+            extracted_entities,
+            query_intent,
+            media_type_hint,
+            filters,
+            user_id,
+            request_id,
+            conversation_id,
+            user_message_id,
+            incognito,
+        )
         run = RagRunResult(
             agent_type=(plan[0].agent_type if plan else "none"),
             answer="",
@@ -135,13 +170,35 @@ class _StubStreamExecutor:
         session_id: str,
         kb_prefix: str,
         debug: bool,
+        user_id: str | None = None,
+        request_id: str | None = None,
+        conversation_id: Any | None = None,
+        user_message_id: Any | None = None,
+        incognito: bool = False,
         memory_context: str | None = None,
         summary: str | None = None,
         episodic_context: str | None = None,
         history: List[Dict[str, Any]] | None = None,
         extracted_entities: Dict[str, Any] | None = None,
+        query_intent: str | None = None,
+        media_type_hint: str | None = None,
+        filters: Dict[str, Any] | None = None,
     ) -> AsyncGenerator[dict[str, Any], None]:
-        _ = (history, memory_context, summary, episodic_context, extracted_entities)
+        _ = (
+            history,
+            memory_context,
+            summary,
+            episodic_context,
+            extracted_entities,
+            query_intent,
+            media_type_hint,
+            filters,
+            user_id,
+            request_id,
+            conversation_id,
+            user_message_id,
+            incognito,
+        )
         # Mimic Phase2 behavior: emit progress, tokens, then done.
         yield {
             "status": "progress",
@@ -183,8 +240,9 @@ class _StubKBHandler:
         episodic_context: str | None = None,
         history: List[Dict[str, Any]] | None = None,
         extracted_entities: Dict[str, Any] | None = None,
+        **kwargs: Any,
     ) -> Dict[str, Any]:
-        _ = (memory_context, summary, episodic_context, history, extracted_entities)
+        _ = (memory_context, summary, episodic_context, history, extracted_entities, kwargs)
         return {
             "answer": f"KB:{self._kb_prefix}:{message}",
             "reference": {"chunks": [{"chunk_id": f"{self._kb_prefix}:c1"}]},
@@ -210,8 +268,9 @@ class _StubKBHandler:
         episodic_context: str | None = None,
         history: List[Dict[str, Any]] | None = None,
         extracted_entities: Dict[str, Any] | None = None,
+        **kwargs: Any,
     ) -> AsyncGenerator[dict[str, Any], None]:
-        _ = (memory_context, summary, episodic_context, history, extracted_entities)
+        _ = (memory_context, summary, episodic_context, history, extracted_entities, kwargs)
         yield {
             "status": "progress",
             "content": {"stage": "retrieval", "completed": 0, "total": 1, "error": None},
@@ -223,9 +282,64 @@ class _StubKBHandler:
 
 class _StubKBHandlerFactory:
     def get(self, kb_prefix: str):
-        if kb_prefix in {"movie", "edu"}:
+        # Phase 3: only edu still uses the legacy KB handler path.
+        # movie is routed to the new retrieval_subgraph (Plan->Execute->Reflect->Merge).
+        if kb_prefix in {"edu"}:
             return _StubKBHandler(kb_prefix)
         return None
+
+
+async def _stub_retrieval_runner(
+    *,
+    spec: RagRunSpec,
+    message: str,
+    session_id: str,
+    kb_prefix: str,
+    debug: bool,
+) -> RagRunResult:
+    _ = (session_id, debug)
+    # Minimal fake retrieval result to drive retrieval_subgraph + generation.
+    return RagRunResult(
+        agent_type=spec.agent_type,
+        answer="",
+        context=f"ctx:{kb_prefix}:{spec.agent_type}",
+        retrieval_results=[
+            {
+                "score": 1.0,
+                "granularity": "Chunk",
+                "metadata": {"source_id": f"{kb_prefix}:s1"},
+                "evidence": f"ev:{kb_prefix}",
+            }
+        ],
+        reference={"chunks": [{"chunk_id": f"{kb_prefix}:c1"}]},
+        execution_log=[],
+    )
+
+
+def _stub_rag_answer(
+    *,
+    question: str,
+    context: str,
+    memory_context: str | None = None,
+    summary: str | None = None,
+    episodic_context: str | None = None,
+    history: List[Dict[str, Any]] | None = None,
+) -> str:
+    _ = (memory_context, summary, episodic_context, history)
+    return f"RAG_ANS:{question}::{context}"
+
+
+async def _stub_rag_answer_stream(
+    *,
+    question: str,
+    context: str,
+    memory_context: str | None = None,
+    summary: str | None = None,
+    episodic_context: str | None = None,
+    history: List[Dict[str, Any]] | None = None,
+) -> AsyncGenerator[str, None]:
+    _ = (memory_context, summary, episodic_context, history)
+    yield f"RAG_STREAM:{question}::{context}"
 
 
 def _parse_sse_events(raw_text: str) -> List[dict]:
@@ -264,6 +378,9 @@ class TestPhase2ApiE2E(unittest.TestCase):
             conversation_store=conversation_store,
             kb_handler_factory=kb_factory,  # type: ignore[arg-type]
             enable_kb_handlers=True,
+            retrieval_runner=_stub_retrieval_runner,
+            rag_answer_fn=_stub_rag_answer,
+            rag_answer_stream_fn=_stub_rag_answer_stream,
         )
         self._stream_handler = StreamHandler(
             router=router,
@@ -273,6 +390,10 @@ class TestPhase2ApiE2E(unittest.TestCase):
             conversation_store=conversation_store,
             kb_handler_factory=kb_factory,  # type: ignore[arg-type]
             enable_kb_handlers=True,
+            general_answer_stream_fn=_stub_general_answer_stream,
+            retrieval_runner=_stub_retrieval_runner,
+            rag_answer_fn=_stub_rag_answer,
+            rag_answer_stream_fn=_stub_rag_answer_stream,
         )
 
         app.dependency_overrides[get_chat_handler] = lambda: self._chat_handler
@@ -314,7 +435,8 @@ class TestPhase2ApiE2E(unittest.TestCase):
         )
         self.assertEqual(resp.status_code, 200)
         body = resp.json()
-        self.assertEqual(body["answer"], "KB:movie:recommend")
+        # movie should go through retrieval_subgraph (not the legacy KB handler).
+        self.assertTrue(isinstance(body.get("answer"), str) and body["answer"].startswith("RAG_ANS:recommend::"))
         self.assertEqual(body["route_decision"]["kb_prefix"], "movie")
         self.assertIn("retrieval_results", body)
 
@@ -359,7 +481,7 @@ class TestPhase2ApiE2E(unittest.TestCase):
         _assert_progress_contract(self, events)
         self.assertEqual(events[-1]["status"], "done")
 
-    def test_chat_stream_movie_sse_uses_kb_handler(self) -> None:
+    def test_chat_stream_movie_sse_uses_retrieval_subgraph(self) -> None:
         resp = self.client.post(
             "/api/v1/chat/stream",
             json={
@@ -376,9 +498,8 @@ class TestPhase2ApiE2E(unittest.TestCase):
         self.assertEqual(events[0]["status"], "start")
         self.assertTrue(any(e.get("status") == "progress" for e in events))
         _assert_progress_contract(self, events)
-        # Ensure KB stream marker exists
         tokens = [e.get("content") for e in events if e.get("status") == "token"]
-        self.assertTrue(any(isinstance(t, str) and t.startswith("KB_STREAM:movie:") for t in tokens))
+        self.assertTrue(any(isinstance(t, str) and t.startswith("RAG_STREAM:") for t in tokens))
         self.assertEqual(events[-1]["status"], "done")
 
     def test_chat_stream_edu_sse_uses_kb_handler(self) -> None:

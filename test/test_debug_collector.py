@@ -24,6 +24,9 @@ class TestDebugDataCollector(unittest.TestCase):
         c.add_event("rag_runs", [{"agent_type": "a"}, {"agent_type": "b"}])
         self.assertEqual(len(c.rag_runs), 2)
 
+        c.add_event("combined_context", {"text": "ctx", "total_chars": 3, "truncated": False})
+        self.assertEqual(c.combined_context, {"text": "ctx", "total_chars": 3, "truncated": False})
+
     def test_performance_metrics_uses_duration_ms(self) -> None:
         from infrastructure.debug.debug_collector import DebugDataCollector
 

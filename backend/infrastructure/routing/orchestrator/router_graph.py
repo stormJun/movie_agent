@@ -34,8 +34,13 @@ def _intent_detect_node(state: ChatRouteState) -> ChatRouteState:
         "confidence": getattr(routing_info, "confidence", 0.0) or 0.0,
         "method": getattr(routing_info, "method", "") or "",
         "reason": getattr(routing_info, "reason", "") or "",
-        # Preserve router-extracted entities for downstream enrichment.
+        "query_intent": getattr(routing_info, "query_intent", "unknown") or "unknown",
+        "media_type_hint": getattr(routing_info, "media_type_hint", "unknown") or "unknown",
+        "filters": getattr(routing_info, "filters", None),
+        # 保留路由阶段抽取的实体（extracted_entities），供后续 enrichment 直接使用（减少二次抽取误差）。
         "extracted_entities": getattr(routing_info, "extracted_entities", None),
+        # LLM 推荐的 agent：主链路优先使用该值（避免前端/调用方传错或默认值不合适）。
+        "resolved_agent_type": getattr(routing_info, "recommended_agent_type", None),
     }
 
 
@@ -71,7 +76,16 @@ def _worker_select_node(state: ChatRouteState) -> ChatRouteState:
         # components don't accidentally treat it as a retrieval worker.
         return {"worker_name": ""}
 
-    agent_type = (state.get("agent_type") or "").strip() or "hybrid_agent"
+    # agent 选择优先级：
+    # 1) resolved_agent_type：路由 LLM 推荐（主路径默认以此为准）
+    # 2) agent_type：调用方显式指定（保留兼容，但前端已不再传）
+    # 3) 默认 hybrid_agent
+    resolved_agent = state.get("resolved_agent_type")
+    if resolved_agent and isinstance(resolved_agent, str) and resolved_agent.strip():
+        agent_type = resolved_agent.strip()
+    else:
+        agent_type = (state.get("agent_type") or "").strip() or "hybrid_agent"
+
     # worker_name v2: {kb_prefix}:{agent_type}:{agent_mode}
     return {"worker_name": f"{kb_raw}:{agent_type}:retrieve_only"}
 
@@ -112,6 +126,15 @@ def invoke_router_graph(
     routed = _normalize_kb_prefix(final_state.get("routed_kb_prefix") or "")
     effective = _normalize_kb_prefix(final_state.get("kb_prefix") or "")
 
+    # Extract the agent_type that was actually used
+    worker_name = str(final_state.get("worker_name") or "")
+    actual_agent_type = None
+    if worker_name and ":" in worker_name:
+        # worker_name format: {kb_prefix}:{agent_type}:{agent_mode}
+        parts = worker_name.split(":")
+        if len(parts) >= 2:
+            actual_agent_type = parts[1]
+
     return RouteDecision(
         requested_kb_prefix=requested,
         routed_kb_prefix=routed,
@@ -119,6 +142,11 @@ def invoke_router_graph(
         confidence=float(final_state.get("confidence") or 0.0),
         method=str(final_state.get("method") or ""),
         reason=str(final_state.get("reason") or ""),
-        worker_name=str(final_state.get("worker_name") or ""),
+        worker_name=worker_name,
+        query_intent=str(final_state.get("query_intent") or "unknown"),  # type: ignore[arg-type]
+        media_type_hint=str(final_state.get("media_type_hint") or "unknown"),  # type: ignore[arg-type]
+        filters=final_state.get("filters"),
         extracted_entities=final_state.get("extracted_entities"),
+        recommended_agent_type=final_state.get("resolved_agent_type"),
+        resolved_agent_type=actual_agent_type,
     )

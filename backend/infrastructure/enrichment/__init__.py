@@ -36,8 +36,21 @@ def get_tmdb_enrichment_service():
     from infrastructure.enrichment.tmdb_client import TMDBClient
     from infrastructure.enrichment.tmdb_enrichment_service import TMDBEnrichmentService
 
+    store = None
+    try:
+        from infrastructure.config.database import get_postgres_dsn
+
+        dsn = get_postgres_dsn()
+        if dsn:
+            from infrastructure.persistence.postgres.tmdb_store import PostgresTmdbStore
+
+            store = PostgresTmdbStore(dsn=dsn)
+    except Exception:
+        store = None
+
     _tmdb_service = TMDBEnrichmentService(
         tmdb_client=TMDBClient(api_token=TMDB_API_TOKEN or None, api_key=TMDB_API_KEY or None),
+        store=store,
     )
     return _tmdb_service
 

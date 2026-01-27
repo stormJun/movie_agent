@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import asyncio
 import logging
-from typing import Optional
+from typing import Any, Optional
 
 from infrastructure.agents.rag_factory import rag_agent_manager as agent_manager
 from infrastructure.config.settings import RAG_ANSWER_TIMEOUT_S
@@ -127,10 +127,19 @@ class RagManager:
         session_id: str,
         kb_prefix: str,
         debug: bool,
+        user_id: str | None = None,
+        request_id: str | None = None,
+        conversation_id: Any | None = None,
+        user_message_id: Any | None = None,
+        incognito: bool = False,
         memory_context: str | None = None,
         summary: str | None = None,
         episodic_context: str | None = None,
         history: list[dict[str, Any]] | None = None,
+        extracted_entities: dict[str, Any] | None = None,
+        query_intent: str | None = None,
+        media_type_hint: str | None = None,
+        filters: dict[str, Any] | None = None,
     ) -> tuple[RagRunResult, list[RagRunResult]]:
         runs, aggregated, combined_context = await self.run_plan_retrieval(
             plan=plan,
@@ -139,12 +148,21 @@ class RagManager:
             kb_prefix=kb_prefix,
             debug=debug,
         )
+        generation_question = message
+        generation_history = history
 
         # Query-time enrichment for non-streaming /chat as well.
         # Keep this conservative: only enrich in movie KB when GraphRAG likely missed the entity.
         if (kb_prefix or "").strip() == "movie":
             try:
-                if _should_enrich_by_entity_matching(query=message, graphrag_context=combined_context):
+                if _should_enrich_by_entity_matching(
+                    query=message,
+                    graphrag_context=combined_context,
+                    extracted_entities=extracted_entities,
+                    query_intent=query_intent,
+                    media_type_hint=media_type_hint,
+                    filters=filters,
+                ):
                     from infrastructure.enrichment import get_tmdb_enrichment_service
 
                     svc = get_tmdb_enrichment_service()
@@ -154,7 +172,16 @@ class RagManager:
                         result = await svc.enrich_query(
                             message=message,
                             kb_prefix="movie",
-                            extracted_entities=None,
+                            extracted_entities=extracted_entities,
+                            query_intent=query_intent,
+                            media_type_hint=media_type_hint,
+                            filters=filters,
+                            user_id=user_id,
+                            session_id=session_id,
+                            request_id=request_id,
+                            conversation_id=conversation_id,
+                            user_message_id=user_message_id,
+                            incognito=incognito,
                         )
                         if result.success and result.transient_graph and not result.transient_graph.is_empty():
                             enriched_text = result.transient_graph.to_context_text().strip()
@@ -168,12 +195,12 @@ class RagManager:
             answer = await asyncio.wait_for(
                 asyncio.to_thread(
                     generate_rag_answer,
-                    question=message,
+                    question=generation_question,
                     context=combined_context,
                     memory_context=memory_context,
                     summary=summary,
                     episodic_context=episodic_context,
-                    history=history,
+                    history=generation_history,
                 ),
                 timeout=RAG_ANSWER_TIMEOUT_S,
             )
@@ -197,11 +224,36 @@ class RagManager:
         return aggregated, list(runs)
 
 
-def _should_enrich_by_entity_matching(*, query: str, graphrag_context: str) -> bool:
+def _should_enrich_by_entity_matching(
+    *,
+    query: str,
+    graphrag_context: str,
+    extracted_entities: dict[str, Any] | None,
+    query_intent: str | None,
+    media_type_hint: str | None,
+    filters: dict[str, Any] | None,
+) -> bool:
     """Conservative fallback: enrich only when GraphRAG likely missed key entities."""
     from infrastructure.enrichment.entity_extractor import EntityExtractor
 
-    names = EntityExtractor.extract_movie_entities(query)
+    if (query_intent or "").strip().lower() == "recommend" and (media_type_hint or "").strip().lower() == "tv":
+        # Router-directed path: TV recommendations should use TMDB /discover/tv.
+        return True
+    if (query_intent or "").strip().lower() == "recommend" and (media_type_hint or "").strip().lower() == "movie":
+        # For movies, only do discover when the user gave explicit filter constraints.
+        if isinstance(filters, dict) and any(
+            k in filters for k in ("year", "origin_country", "original_language", "region", "date_range")
+        ):
+            return True
+
+    names: list[str] = []
+    if isinstance(extracted_entities, dict):
+        low = extracted_entities.get("low_level")
+        if isinstance(low, list):
+            names = [str(x).strip() for x in low if str(x).strip()]
+
+    if not names:
+        names = EntityExtractor.extract_movie_entities(query)
     if not names:
         return True
 

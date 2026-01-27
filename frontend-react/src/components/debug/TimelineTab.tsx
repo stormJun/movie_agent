@@ -66,6 +66,58 @@ const TimelineTab: React.FC<TimelineTabProps> = ({ executionLog }) => {
                                 </div>
                             )}
 
+                            {/* 子步骤展示 */}
+                            {item.node.sub_steps && item.node.sub_steps.length > 0 && (
+                                <div style={{ marginBottom: 12 }}>
+                                    <div style={{ fontWeight: 600, marginBottom: 8, color: '#1890ff' }}>
+                                        子步骤 ({item.node.sub_steps.length}):
+                                    </div>
+                                    <Timeline
+                                        mode="left"
+                                        style={{ marginLeft: 20 }}
+                                    >
+                                        {item.node.sub_steps.map((subStep, subIndex) => {
+                                            const subItem = convertToTimelineNodes([subStep])[0];
+                                            return (
+                                                <Timeline.Item
+                                                    key={subIndex}
+                                                    color={subItem.color}
+                                                    dot={<span style={{ fontSize: 10 }}>{subItem.icon}</span>}
+                                                >
+                                                    <Card size="small" style={{ marginBottom: 8 }}>
+                                                        <div style={{ fontWeight: 500, marginBottom: 4 }}>
+                                                            <Tag color={subItem.color} style={{ fontSize: 10, marginRight: 4 }}>
+                                                                {subItem.index}
+                                                            </Tag>
+                                                            {subStep.node}
+                                                            <span style={{ float: 'right', fontSize: 11, color: '#999' }}>
+                                                                {subStep.duration_ms ? `${subStep.duration_ms}ms` : ''}
+                                                            </span>
+                                                        </div>
+                                                        {Object.keys(subItem.summary).length > 0 && (
+                                                            <Descriptions size="small" column={1}>
+                                                                {Object.entries(subItem.summary).map(([key, value]) => (
+                                                                    <Descriptions.Item key={key} label={key} style={{ paddingBottom: 4 }}>
+                                                                        <span style={{ fontSize: 11 }}>{String(value)}</span>
+                                                                    </Descriptions.Item>
+                                                                ))}
+                                                            </Descriptions>
+                                                        )}
+                                                        <Collapse size="small" ghost>
+                                                            <Collapse.Panel header="查看详情" key="detail">
+                                                                <pre style={{ fontSize: 10, maxHeight: 200, overflow: 'auto' }}>
+                                                                    {prettyJson({ input: subStep.input, output: subStep.output })}
+                                                                </pre>
+                                                            </Collapse.Panel>
+                                                        </Collapse>
+                                                    </Card>
+                                                </Timeline.Item>
+                                            );
+                                        })}
+                                    </Timeline>
+                                </div>
+                            )}
+
                             <Collapse size="small" bordered={false}>
                                 <Collapse.Panel header="输入 (Input)" key="input">
                                     <pre style={{ fontSize: 11, maxHeight: 300, overflow: 'auto' }}>

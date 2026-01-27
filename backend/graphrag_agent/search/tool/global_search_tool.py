@@ -325,6 +325,8 @@ class GlobalSearchTool(BaseSearchTool):
           }
         """
         overall_start = time.time()
+        # Reset per-call sub-step logs to avoid leaking previous requests.
+        self.execution_log = []
         parsed = self._normalize_input(query_input)
         query = parsed["query"]
         keywords = parsed["keywords"]
@@ -333,7 +335,17 @@ class GlobalSearchTool(BaseSearchTool):
             raise ValueError("query不能为空")
 
         try:
+            # Step 1: Community Retrieval
+            t0 = time.time()
             community_data = self._get_community_data(keywords)
+            self._log_step(
+                node="global_search_community_retrieval",
+                node_type="retrieval",
+                duration_ms=int((time.time() - t0) * 1000),
+                input={"query_preview": query[:200], "keywords_count": len(keywords or [])},
+                output={"community_count": len(community_data) if community_data else 0}
+            )
+
             retrieval_payload = self._community_results_to_retrieval(community_data) if community_data else []
 
             parts: list[str] = []

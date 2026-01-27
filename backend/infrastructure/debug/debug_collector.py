@@ -25,6 +25,8 @@ class DebugDataCollector:
         self.rag_runs: List[Dict[str, Any]] = []
         self.episodic_memory: List[Dict[str, Any]] = []
         self.conversation_summary: Optional[Dict[str, Any]] = None
+        # Final retrieval context string (GraphRAG + enrichment). Typically truncated.
+        self.combined_context: Optional[Dict[str, Any]] = None
         self.trace: List[Dict[str, Any]] = []
         self.kg_data: Optional[Dict[str, Any]] = None
 
@@ -70,6 +72,11 @@ class DebugDataCollector:
         if event_type == "conversation_summary":
             if isinstance(content, dict):
                 self.conversation_summary = dict(content)
+            return
+
+        if event_type == "combined_context":
+            if isinstance(content, dict):
+                self.combined_context = dict(content)
             return
 
     def _calculate_performance_metrics(self) -> Dict[str, Any]:
@@ -156,6 +163,7 @@ class DebugDataCollector:
             "rag_runs": self.rag_runs,
             "episodic_memory": self.episodic_memory,
             "conversation_summary": self.conversation_summary,
+            "combined_context": self.combined_context,
             "trace": self.trace,
             "kg_data": self.kg_data,
             "performance_metrics": self._calculate_performance_metrics(),

@@ -4,7 +4,7 @@ import { postSseJson } from "../utils/sse";
 
 export async function chat(request: ChatRequest): Promise<ChatResponse> {
   // 普通（非流式）聊天请求，直接走 Axios 封装
-  console.debug("[chat] POST /api/v1/chat", { agent_type: request.agent_type, debug: request.debug });
+  console.debug("[chat] POST /api/v1/chat", { debug: request.debug });
   const response = await http.post<ChatResponse>("/api/v1/chat", request);
   return response.data;
 }
@@ -16,7 +16,6 @@ export async function chatStream(
 ): Promise<void> {
   // 流式聊天：通过 SSE 把事件推给前端状态机
   console.debug("[chatStream] start SSE /api/v1/chat/stream", {
-    agent_type: request.agent_type,
     debug: request.debug,
     session_id: request.session_id,
   });

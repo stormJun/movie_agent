@@ -15,6 +15,9 @@ class HybridAgent(BaseAgent):
 
     def retrieve_with_trace(self, query: str, thread_id: str = "default") -> Dict[str, Any]:
         _ = thread_id
+        import time
+
+        execution_log = []
 
         keywords = self.search_tool.extract_keywords(query)
         if not isinstance(keywords, dict):
@@ -35,6 +38,11 @@ class HybridAgent(BaseAgent):
                 "error": "unexpected retrieve_only payload",
             }
 
+        # Collect hybrid tool's execution_log
+        if hasattr(self.search_tool, "execution_log"):
+            tool_log = list(self.search_tool.execution_log) if self.search_tool.execution_log else []
+            execution_log.extend(tool_log)
+
         low = str(payload.get("low_level_content") or "").strip()
         high = str(payload.get("high_level_content") or "").strip()
         context = "\n\n".join([p for p in (low, high) if p]).strip()
@@ -42,4 +50,5 @@ class HybridAgent(BaseAgent):
             "context": context,
             "retrieval_results": payload.get("retrieval_results", []) or [],
             "reference": payload.get("reference", {}) or {},
+            "execution_log": execution_log,
         }

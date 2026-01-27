@@ -32,7 +32,20 @@ class TransientNode:
         Returns:
             A human-readable text representation of the node.
         """
-        label = list(self.labels)[0] if self.labels else "Entity"
+        # Use a stable, meaningful label instead of arbitrary set ordering.
+        if self.labels:
+            priority = [
+                "Movie",
+                "TV",
+                "Person",
+                "Director",
+                "Actor",
+                "Genre",
+                "Entity",
+            ]
+            label = next((p for p in priority if p in self.labels), sorted(self.labels)[0])
+        else:
+            label = "Entity"
         name = self.properties.get("name", self.id)
         desc = self.properties.get("description", "")
 
@@ -99,6 +112,10 @@ class TransientGraph:
             A formatted text representation of the graph with entities and relationships.
         """
         lines = [f"# Enriched from {self.source}"]
+
+        hint = self.metadata.get("context_hint")
+        if isinstance(hint, str) and hint.strip():
+            lines.append(hint.strip())
 
         # Add entities section
         if self.nodes:

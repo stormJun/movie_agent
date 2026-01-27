@@ -68,30 +68,27 @@ class GraphAgent(BaseAgent):
 
     def retrieve_with_trace(self, query: str, thread_id: str = "default") -> Dict[str, Any]:
         _ = thread_id
+        execution_log: list[dict[str, Any]] = []
 
-        docs = []
-        retriever = getattr(self.local_tool, "retriever", None)
-        if retriever is not None:
-            if hasattr(retriever, "get_relevant_documents"):
-                docs = retriever.get_relevant_documents(query)
-            elif hasattr(retriever, "invoke"):
-                docs = retriever.invoke(query)
+        # Local Search (retrieve-only path) so we can capture sub-step execution_log.
+        local_out = self.local_tool.retrieve_only({"query": query})
+        if not isinstance(local_out, dict):
+            local_out = {}
+        local_context = str(local_out.get("context") or "").strip()
+        local_retrieval = local_out.get("retrieval_results", [])
+        if hasattr(self.local_tool, "execution_log"):
+            execution_log.extend(list(self.local_tool.execution_log or []))
 
-        local_payload = results_to_payload(results_from_documents(docs, source="local_search"))
-        local_context_parts: List[str] = []
-        for doc in docs or []:
-            text = getattr(doc, "page_content", "") or ""
-            if text:
-                local_context_parts.append(text)
-        local_context = "\n\n---\n\n".join(local_context_parts).strip()
-
+        # Global Search (retrieve-only, community-level).
         global_payload = self.global_tool.retrieve_only({"query": query})
         global_context = str(global_payload.get("context") or "").strip()
         global_retrieval = global_payload.get("retrieval_results", [])
+        if hasattr(self.global_tool, "execution_log"):
+            execution_log.extend(list(self.global_tool.execution_log or []))
 
         # Merge & dedupe by (source_id, granularity) and keep max score
         merged: Dict[tuple[str, str], Dict[str, Any]] = {}
-        for group in (local_payload, global_retrieval):
+        for group in (local_retrieval, global_retrieval):
             if not isinstance(group, list):
                 continue
             for item in group:
@@ -120,8 +117,11 @@ class GraphAgent(BaseAgent):
         reference = self._build_reference_from_retrieval_payload(retrieval_results)
 
         context = "\n\n".join([p for p in (local_context, global_context) if p]).strip()
-        return {
+
+        result = {
             "context": context,
             "retrieval_results": retrieval_results,
             "reference": reference,
+            "execution_log": execution_log,
         }
+        return result

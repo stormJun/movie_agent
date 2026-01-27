@@ -749,6 +749,8 @@ class HybridSearchTool(BaseSearchTool):
         - RAG 执行层聚合去重（retrieval_results/reference）
         """
         overall_start = time.time()
+        # Reset per-call sub-step logs to avoid leaking previous requests.
+        self.execution_log = []
 
         # 解析输入（沿用 structured_search 的入参格式）
         if isinstance(query_input, dict) and "query" in query_input:
@@ -762,11 +764,36 @@ class HybridSearchTool(BaseSearchTool):
             high_keywords = keywords.get("high_level", [])
 
         try:
+            # Step 1: Low-level retrieval (entities, relationships, chunks)
+            t0 = time.time()
             low_level_content, low_evidence = self._retrieve_low_level_content(
                 query, low_keywords
             )
+            self._log_step(
+                node="hybrid_low_level_retrieval",
+                node_type="retrieval",
+                duration_ms=int((time.time() - t0) * 1000),
+                input={"query_preview": query[:200], "keywords_count": len(low_keywords)},
+                output={
+                    "evidence_count": len(low_evidence),
+                    "content_length": len(low_level_content)
+                }
+            )
+
+            # Step 2: High-level retrieval (communities)
+            t1 = time.time()
             high_level_content, high_evidence = self._retrieve_high_level_content(
                 query, high_keywords
+            )
+            self._log_step(
+                node="hybrid_high_level_retrieval",
+                node_type="retrieval",
+                duration_ms=int((time.time() - t1) * 1000),
+                input={"query_preview": query[:200], "keywords_count": len(high_keywords)},
+                output={
+                    "evidence_count": len(high_evidence),
+                    "content_length": len(high_level_content)
+                }
             )
 
             all_evidence = merge_retrieval_results(low_evidence, high_evidence)

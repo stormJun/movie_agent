@@ -219,6 +219,8 @@ class LocalSearchTool(BaseSearchTool):
           }
         """
         overall_start = time.time()
+        # Reset per-call sub-step logs to avoid leaking previous requests.
+        self.execution_log = []
         parsed = self._normalize_input(query_input)
         query = parsed["query"]
         keywords = parsed["keywords"]
@@ -227,6 +229,8 @@ class LocalSearchTool(BaseSearchTool):
             raise ValueError("query不能为空")
 
         try:
+            # Step 1: Vector Retrieval (includes entity/relationship/community expansion internally)
+            t0 = time.time()
             docs = []
             if hasattr(self.retriever, "invoke"):
                 docs = self.retriever.invoke(query) or []
@@ -234,7 +238,24 @@ class LocalSearchTool(BaseSearchTool):
                 docs = self.retriever.get_relevant_documents(query) or []
 
             docs = list(docs) if docs else []
+            raw_doc_count = len(docs)
+
+            # Step 2: Relevance Filtering
+            t1 = time.time()
             docs = self._filter_documents_by_relevance(docs, query)
+            filtered_doc_count = len(docs)
+
+            self._log_step(
+                node="local_search_vector_retrieval",
+                node_type="retrieval",
+                duration_ms=int((time.time() - t0) * 1000),
+                input={"query_preview": query[:200]},
+                output={
+                    "raw_doc_count": raw_doc_count,
+                    "filtered_doc_count": filtered_doc_count,
+                    "retrieval_method": "vector_with_entity_expansion"
+                }
+            )
 
             retrieval_results = results_to_payload(
                 results_from_documents(docs, source="local_search")

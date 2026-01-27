@@ -228,3 +228,9 @@ ENRICHMENT_MAX_RETRIES = _get_env_int("ENRICHMENT_MAX_RETRIES", 2) or 2
 # 异步持久化配置（Phase 3 实现）
 ENRICHMENT_ASYNC_WRITE_ENABLE = _get_env_bool("ENRICHMENT_ASYNC_WRITE_ENABLE", True)
 ENRICHMENT_WRITE_QUEUE_SIZE = _get_env_int("ENRICHMENT_WRITE_QUEUE_SIZE", 100) or 100
+
+
+# ===== Debug / Observability (infrastructure) =====
+#
+# Large debug payloads can overwhelm memory and the frontend. Store previews.
+DEBUG_COMBINED_CONTEXT_MAX_CHARS = _get_env_int("DEBUG_COMBINED_CONTEXT_MAX_CHARS", 20000) or 20000

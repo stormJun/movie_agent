@@ -15,7 +15,11 @@ logger = logging.getLogger(__name__)
 
 
 class EntityExtractor:
-    """Extract movie entities from user queries using regex patterns."""
+    """Extract simple movie/person entities from user queries using regex patterns.
+
+    This is a lightweight fallback for enrichment when router LLM entity extraction
+    is unavailable (e.g., heuristic routing path).
+    """
 
     # Match book title marks 《》 (Chinese) - complete format
     BOOKTITLE_PATTERN = re.compile(r"《(.+?)》")
@@ -31,6 +35,27 @@ class EntityExtractor:
     # Note: Using explicit character class to avoid syntax errors with Chinese punctuation
     MOVIE_KEYWORD_PATTERN = re.compile(
         r'(?:电影|影片|film|movie)(?:[:\s]+)([^《《""",.!?;]+)', re.IGNORECASE
+    )
+
+    # Very lightweight person-name patterns (best-effort).
+    # Examples:
+    #   "李安导演了哪些电影" => 李安
+    #   "导演：李安" / "导演 李安" => 李安
+    PERSON_BEFORE_ROLE_PATTERN = re.compile(
+        r"([\u4e00-\u9fff]{2,6})\s*(?:导演|执导|主演|演员|编剧|监制)"
+    )
+    # Require a delimiter after the role keyword; avoid matching phrases like "导演了哪些电影".
+    PERSON_AFTER_ROLE_PATTERN = re.compile(
+        r"(?:导演|执导|主演|演员|编剧|监制)(?:\s*[:：]\s*|\s+)([\u4e00-\u9fff]{2,6})"
+    )
+
+    PERSON_BEFORE_ROLE_PATTERN_EN = re.compile(
+        r"([A-Za-z][A-Za-z .'-]{1,40})\s+(?:director|actor|actress|writer|screenwriter)",
+        re.IGNORECASE,
+    )
+    PERSON_AFTER_ROLE_PATTERN_EN = re.compile(
+        r"(?:director|actor|actress|writer|screenwriter)(?:\s*[:：]\s*|\s+)([A-Za-z][A-Za-z .'-]{1,40})",
+        re.IGNORECASE,
     )
 
 
@@ -87,3 +112,33 @@ class EntityExtractor:
             logger.info(f"Extracted movie entities: {result}")
 
         return result
+
+    @classmethod
+    def extract_person_entities(cls, query: str, max_entities: int = 3) -> List[str]:
+        """Extract likely person names from a user query (best-effort)."""
+        if not query:
+            return []
+
+        entities: list[str] = []
+
+        for pat in (
+            cls.PERSON_BEFORE_ROLE_PATTERN,
+            cls.PERSON_AFTER_ROLE_PATTERN,
+            cls.PERSON_BEFORE_ROLE_PATTERN_EN,
+            cls.PERSON_AFTER_ROLE_PATTERN_EN,
+        ):
+            for match in pat.finditer(query):
+                name = (match.group(1) or "").strip()
+                if not name:
+                    continue
+                if name not in entities:
+                    entities.append(name)
+                if len(entities) >= max_entities:
+                    break
+            if len(entities) >= max_entities:
+                break
+
+        if entities:
+            logger.info(f"Extracted person entities: {entities}")
+
+        return entities

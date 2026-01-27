@@ -31,6 +31,8 @@ export interface ExecutionLogNode {
     selected_agent?: string;
     reasoning?: string;
     confidence?: number;
+    // 子步骤（Agent 内部的详细执行日志）
+    sub_steps?: ExecutionLogNode[];
 }
 
 // ========== RAG运行记录类型 ==========

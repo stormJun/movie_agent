@@ -34,6 +34,11 @@ class ChatHandler:
         watchlist_capture: WatchlistCaptureService | None = None,
         kb_handler_factory: Optional[KnowledgeBaseHandlerFactory] = None,
         enable_kb_handlers: bool = False,
+        # Test hooks (avoid real LLM/network calls in unit tests).
+        retrieval_runner: Any | None = None,
+        rag_answer_fn: Any | None = None,
+        rag_answer_stream_fn: Any | None = None,
+        general_answer_stream_fn: Any | None = None,
     ) -> None:
         self._conversation_store = conversation_store
         self._memory_service = memory_service
@@ -52,6 +57,10 @@ class ChatHandler:
             episodic_memory=episodic_memory,
             kb_handler_factory=kb_handler_factory,
             enable_kb_handlers=enable_kb_handlers,
+            retrieval_runner=retrieval_runner,
+            rag_answer_fn=rag_answer_fn,
+            rag_answer_stream_fn=rag_answer_stream_fn,
+            general_answer_stream_fn=general_answer_stream_fn,
         )
 
     async def handle(
@@ -65,6 +74,7 @@ class ChatHandler:
         incognito: bool = False,
         watchlist_auto_capture: bool | None = None,
         agent_type: str = "hybrid_agent",
+        request_id: str | None = None,
     ) -> dict[str, Any]:
         incognito = bool(incognito)
         conversation_id = await self._conversation_store.get_or_create_conversation_id(
@@ -84,6 +94,7 @@ class ChatHandler:
                 "user_id": user_id,
                 "message": message,
                 "session_id": session_id,
+                "request_id": request_id,
                 "requested_kb_prefix": kb_prefix,
                 "debug": bool(debug),
                 "incognito": incognito,

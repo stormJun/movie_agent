@@ -69,35 +69,46 @@ export function prettyJson(value: unknown): string {
 
 export function extractExecutionLog(debugData: DebugData | null): ExecutionLogNode[] {
     if (!debugData?.execution_log) return [];
-    const logs: ExecutionLogNode[] = [];
-
-    for (const item of debugData.execution_log) {
-        if (isExecutionLogNode(item)) {
-            logs.push({
-                node: item.node,
-                timestamp: item.timestamp,
-                duration_ms: item.duration_ms,
-                status: item.error ? ('error' as const) : ('ok' as const),
-                input: item.input,
-                output: item.output,
-                error: item.error,
-                retrieval_count: item.retrieval_count,
-                granularity: item.granularity,
-                top_sources: item.top_sources,
-                sample_evidence: item.sample_evidence,
-                context_length: item.context_length,
-                model: item.model,
-                tokens: item.tokens,
-                prompt_tokens: item.prompt_tokens,
-                completion_tokens: item.completion_tokens,
-                finish_reason: item.finish_reason,
-                selected_agent: item.selected_agent,
-                reasoning: item.reasoning,
-                confidence: item.confidence,
-            });
+    const normalize = (raw: unknown): ExecutionLogNode | null => {
+        if (!isExecutionLogNode(raw)) return null;
+        const item = raw as ExecutionLogNode;
+        const subSteps: ExecutionLogNode[] = [];
+        if (Array.isArray((raw as any).sub_steps)) {
+            for (const s of (raw as any).sub_steps) {
+                const n = normalize(s);
+                if (n) subSteps.push(n);
+            }
         }
-    }
+        return {
+            node: item.node,
+            timestamp: item.timestamp as any,
+            duration_ms: item.duration_ms,
+            status: item.error ? ('error' as const) : ('ok' as const),
+            input: item.input,
+            output: item.output,
+            error: item.error,
+            retrieval_count: item.retrieval_count,
+            granularity: item.granularity,
+            top_sources: item.top_sources,
+            sample_evidence: item.sample_evidence,
+            context_length: item.context_length,
+            model: item.model,
+            tokens: item.tokens,
+            prompt_tokens: item.prompt_tokens,
+            completion_tokens: item.completion_tokens,
+            finish_reason: item.finish_reason,
+            selected_agent: item.selected_agent,
+            reasoning: item.reasoning,
+            confidence: item.confidence,
+            sub_steps: subSteps.length > 0 ? subSteps : undefined,
+        };
+    };
 
+    const logs: ExecutionLogNode[] = [];
+    for (const raw of debugData.execution_log) {
+        const n = normalize(raw);
+        if (n) logs.push(n);
+    }
     return logs;
 }
 
@@ -333,8 +344,32 @@ export function extractNodeSummary(node: ExecutionLogNode): Record<string, any> 
     const summary: Record<string, any> = {};
 
     if (nodeName.includes('retrieval') || nodeName.includes('search')) {
-        if (node.retrieval_count !== undefined) {
-            summary['检索数'] = node.retrieval_count;
+        const out = isPlainRecord(node.output) ? node.output : null;
+
+        const retrievalCount =
+            node.retrieval_count !== undefined
+                ? node.retrieval_count
+                : out && typeof out.retrieval_count === 'number'
+                    ? out.retrieval_count
+                    : undefined;
+        if (retrievalCount !== undefined) summary['检索数'] = retrievalCount;
+
+        if (out) {
+            const mapping: Array<[string, string]> = [
+                ['raw_doc_count', 'raw_doc_count'],
+                ['filtered_doc_count', 'filtered_doc_count'],
+                ['community_count', 'community_count'],
+                ['evidence_count', 'evidence_count'],
+                ['content_length', 'content_length'],
+                ['node_count', 'node_count'],
+                ['edge_count', 'edge_count'],
+                ['elapsed_ms', 'elapsed_ms'],
+            ];
+            for (const [k, label] of mapping) {
+                const v = (out as any)[k];
+                if (typeof v === 'number') summary[label] = v;
+                else if (typeof v === 'string' && v.trim()) summary[label] = v.trim();
+            }
         }
         if (node.granularity) {
             summary['粒度'] = node.granularity;

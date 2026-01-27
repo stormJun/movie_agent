@@ -4,7 +4,6 @@ from typing import Optional
 
 from application.handlers.base import KnowledgeBaseHandler
 from application.handlers.edu.handler import EduKnowledgeBaseHandler
-from application.handlers.movie.handler import MovieKnowledgeBaseHandler
 from application.ports.rag_executor_port import RAGExecutorPort
 from application.ports.rag_stream_executor_port import RAGStreamExecutorPort
 
@@ -26,11 +25,6 @@ class KnowledgeBaseHandlerFactory:
             return self._handlers[key]
         if key == "edu":
             handler = EduKnowledgeBaseHandler(
-                executor=self._executor,
-                stream_executor=self._stream_executor,
-            )
-        elif key == "movie":
-            handler = MovieKnowledgeBaseHandler(
                 executor=self._executor,
                 stream_executor=self._stream_executor,
             )

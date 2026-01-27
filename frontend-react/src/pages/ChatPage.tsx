@@ -15,9 +15,7 @@ import {
   Input,
   Layout,
   Progress,
-  Radio,
   Row,
-  Select,
   Space,
   Switch,
   Table,
@@ -28,7 +26,7 @@ import {
 } from "antd";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
-import type { AgentType, DebugData, StreamEvent } from "../types/chat";
+import type { DebugData, StreamEvent } from "../types/chat";
 import {
   chat,
   chatStream,
@@ -137,14 +135,6 @@ function usePersistentUserId(scopeKey: string) {
   return { userId, setUserId: update };
 }
 
-const agentOptions: Array<{ label: string; value: AgentType }> = [
-  { label: "Graph Agent", value: "graph_agent" },
-  { label: "Hybrid Agent", value: "hybrid_agent" },
-  { label: "Naive RAG", value: "naive_rag_agent" },
-  { label: "Deep Research", value: "deep_research_agent" },
-  { label: "Fusion Agent", value: "fusion_agent" },
-];
-
 function extractSourceIds(answer: string): string[] {
   const ids: string[] = [];
   const chunksPattern = /Chunks':\s*\[([^\]]*)\]/g;
@@ -169,13 +159,11 @@ export function ChatPage() {
   // Feature Navigation State
   const [activeFeature, setActiveFeature] = useState<"chat" | "kg" | "sources" | "settings">("chat");
 
-  const [agentType, setAgentType] = useState<AgentType>("hybrid_agent");
   // Default to debug-on for easier inspection during development.
   const [debugMode, setDebugMode] = useState<boolean>(true);
   const [useStream, setUseStream] = useState<boolean>(true);
   const [useDeeperTool, setUseDeeperTool] = useState<boolean>(true);
   const [showThinking, setShowThinking] = useState<boolean>(false);
-  const [useChainExploration, setUseChainExploration] = useState<boolean>(true);
 
   // Privacy & Memory Settings
   const [isIncognito, setIsIncognito] = useState<boolean>(() => {
@@ -239,7 +227,7 @@ export function ChatPage() {
       content: (
         <Space>
           <span>
-            已自动加入 Watchlist：{titles.join("、")}
+            已自动加入待看片单/想看清单：{titles.join("、")}
             {extra}
           </span>
           <Button
@@ -524,10 +512,10 @@ export function ChatPage() {
       session_id: sessionId,
       kb_prefix: "movie", // Set knowledge base prefix for movie queries
       debug: debugMode,
-      agent_type: agentType,
-      use_deeper_tool: agentType === "deep_research_agent" ? useDeeperTool : undefined,
-      show_thinking: agentType === "deep_research_agent" ? showThinking : undefined,
-      use_chain_exploration: agentType === "fusion_agent" ? useChainExploration : undefined,
+      // Agent selection is router-owned; frontend should not override agent_type.
+      // These options take effect only if the router selects the matching agent.
+      use_deeper_tool: useDeeperTool,
+      show_thinking: showThinking || debugMode,
       incognito: isIncognito,
       watchlist_auto_capture: autoCaptureEnabled,
     };
@@ -599,7 +587,13 @@ export function ChatPage() {
         }
 
         // Streamlit parity: in debug mode, try to auto-extract KG for non-deep agents.
-        if (debugMode && agentType !== "deep_research_agent") {
+        // Agent selection is router-owned; infer selected agent from route_decision when available.
+        const selectedAgent =
+          isPlainRecord((resp as any)?.route_decision) &&
+          typeof (resp as any).route_decision.selected_agent === "string"
+            ? String((resp as any).route_decision.selected_agent)
+            : "";
+        if (debugMode && selectedAgent !== "deep_research_agent") {
           try {
             const existing = resp.kg_data as unknown as KnowledgeGraphResponse | undefined;
             if (existing?.nodes?.length) {
@@ -883,7 +877,6 @@ export function ChatPage() {
         is_positive: isPositive,
         thread_id: sessionId,
         request_id: m.requestId,
-        agent_type: agentType,
       });
       const next = resp.feedback;
       if (next === "none") {
@@ -1185,7 +1178,7 @@ export function ChatPage() {
 
                       {/* Bubble */}
                       <div className={`message-bubble ${m.role}`}>
-                        {m.role === "assistant" && agentType === "deep_research_agent" && (showThinking || debugMode) && m.rawThinking?.trim() ? (
+                        {m.role === "assistant" && (showThinking || debugMode) && m.rawThinking?.trim() ? (
                           <div className="thinking-wrapper">
                             <Collapse
                               size="small"
@@ -1434,48 +1427,10 @@ export function ChatPage() {
                       }
                     }}
                     autoSize={{ minRows: 3, maxRows: 8 }}
-                    placeholder="Message GraphRAG... (Try /clear or @agent)"
+                    placeholder="Message GraphRAG... (Try /clear)"
                     disabled={isSending}
                     className="composer-textarea"
                   />
-                  {promptValue.endsWith("@") && (
-                    <div className="agent-selector-popover" style={{
-                      position: "absolute",
-                      bottom: "100%",
-                      left: 20,
-                      marginBottom: 8,
-                      background: "#fff",
-                      borderRadius: 8,
-                      boxShadow: "0 4px 12px rgba(0,0,0,0.15)",
-                      padding: 8,
-                      zIndex: 1000,
-                      border: "1px solid #eee",
-                      minWidth: 150
-                    }}>
-                      <div style={{ fontSize: 12, color: "#999", marginBottom: 4, padding: "0 4px" }}>Select Agent</div>
-                      {agentOptions.map(opt => (
-                        <div
-                          key={opt.value}
-                          style={{
-                            padding: "6px 12px",
-                            cursor: "pointer",
-                            borderRadius: 4,
-                            background: agentType === opt.value ? "#e6f7ff" : "transparent",
-                            color: agentType === opt.value ? "#1890ff" : "#333",
-                            fontSize: 13
-                          }}
-                          className="agent-option-item"
-                          onClick={() => {
-                            setAgentType(opt.value);
-                            setPromptValue(prev => prev.slice(0, -1)); // Remove the '@'
-                            message.success(`Switched to ${opt.label}`);
-                          }}
-                        >
-                          {opt.label}
-                        </div>
-                      ))}
-                    </div>
-                  )}
                   <div className="composer-send-btn-wrapper">
                     {isSending ? (
                       <Button
@@ -1530,14 +1485,9 @@ export function ChatPage() {
               <Row gutter={[12, 12]}>
                 <Col span={24}>
                   <Typography.Text strong>Agent</Typography.Text>
-                  <Radio.Group
-                    style={{ display: "block", marginTop: 8 }}
-                    optionType="button"
-                    buttonStyle="solid"
-                    options={agentOptions}
-                    value={agentType}
-                    onChange={(e) => setAgentType(e.target.value)}
-                  />
+                  <Typography.Text type="secondary" style={{ display: "block", marginTop: 8 }}>
+                    由路由自动选择最合适的 Agent（前端不再手动指定）。
+                  </Typography.Text>
                 </Col>
 
                 <Col span={24}>
@@ -1570,7 +1520,7 @@ export function ChatPage() {
                       />
                     </div>
                     <Typography.Text type="secondary" style={{ fontSize: 12, display: "block", marginTop: -8 }}>
-                      允许 AI 从对话中自动识别并添加电影到您的 Watchlist。
+                      允许 AI 从对话中自动识别并添加电影到您的待看片单/想看清单。
                     </Typography.Text>
                   </Space>
                 </Col>
@@ -1597,37 +1547,20 @@ export function ChatPage() {
                   </Space>
                 </Col>
 
-                {agentType === "deep_research_agent" && (
-                  <Col span={24}>
-                    <Divider style={{ margin: "12px 0" }} />
-                    <Space direction="vertical">
-                      <Checkbox
-                        checked={useDeeperTool}
-                        onChange={(e) => setUseDeeperTool(e.target.checked)}
-                      >
-                        使用增强版研究工具
-                      </Checkbox>
-                      <Checkbox
-                        checked={showThinking}
-                        onChange={(e) => setShowThinking(e.target.checked)}
-                      >
-                        显示推理过程
-                      </Checkbox>
-                    </Space>
-                  </Col>
-                )}
-
-                {agentType === "fusion_agent" && (
-                  <Col span={24}>
-                    <Divider style={{ margin: "12px 0" }} />
-                    <Checkbox
-                      checked={useChainExploration}
-                      onChange={(e) => setUseChainExploration(e.target.checked)}
-                    >
-                      使用链式探索（fusion）
+                <Col span={24}>
+                  <Divider style={{ margin: "12px 0" }} orientation="left" plain>深度研究选项</Divider>
+                  <Typography.Text type="secondary" style={{ fontSize: 12, display: "block", marginBottom: 8 }}>
+                    仅当路由选择 deep_research_agent 时生效。
+                  </Typography.Text>
+                  <Space direction="vertical">
+                    <Checkbox checked={useDeeperTool} onChange={(e) => setUseDeeperTool(e.target.checked)}>
+                      使用增强版研究工具
                     </Checkbox>
-                  </Col>
-                )}
+                    <Checkbox checked={showThinking} onChange={(e) => setShowThinking(e.target.checked)}>
+                      显示推理过程
+                    </Checkbox>
+                  </Space>
+                </Col>
               </Row>
             </Card>
 
@@ -1645,7 +1578,7 @@ export function ChatPage() {
                       if (!rawThinking.trim()) {
                         return (
                           <Typography.Text type="secondary">
-                            暂无推理过程（仅 deep_research_agent 且开启“显示推理过程”/调试模式时有）
+                            暂无推理过程（仅在路由选择 deep_research_agent 且开启“显示推理过程”/调试模式时有）
                           </Typography.Text>
                         );
                       }

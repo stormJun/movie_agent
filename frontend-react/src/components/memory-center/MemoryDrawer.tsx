@@ -66,7 +66,7 @@ export const MemoryDrawer: React.FC<MemoryDrawerProps> = ({ open, onClose, userI
       setWatchlistHasMore(items.length >= limit);
     } catch (e) {
       console.error("Failed to load watchlist", e);
-      message.error(e instanceof Error ? e.message : "加载 Watchlist 失败");
+      message.error(e instanceof Error ? e.message : "加载待看片单/想看清单失败");
       if (reset) {
         setWatchlistItems([]);
         setWatchlistOffset(0);
@@ -232,7 +232,7 @@ export const MemoryDrawer: React.FC<MemoryDrawerProps> = ({ open, onClose, userI
             size="small"
             title={
               <span>
-                Watchlist（想看清单）{" "}
+                待看片单/想看清单{" "}
                 <Typography.Text type="secondary" style={{ fontSize: 12 }}>
                   {data.stats?.watchlist_count ?? dashboardWatchlist.length} 条
                 </Typography.Text>
@@ -306,7 +306,7 @@ export const MemoryDrawer: React.FC<MemoryDrawerProps> = ({ open, onClose, userI
                       };
                     });
                     setWatchlistTitle("");
-                    message.success("已加入 Watchlist");
+                    message.success("已加入待看片单/想看清单");
                     await reloadWatchlist(true);
                   } catch (e) {
                     message.error(e instanceof Error ? e.message : "加入失败");
@@ -337,7 +337,7 @@ export const MemoryDrawer: React.FC<MemoryDrawerProps> = ({ open, onClose, userI
                       };
                     });
                     setWatchlistTitle("");
-                    message.success("已加入 Watchlist");
+                    message.success("已加入待看片单/想看清单");
                     await reloadWatchlist(true);
                   } catch (e) {
                     message.error(e instanceof Error ? e.message : "加入失败");
@@ -462,7 +462,7 @@ export const MemoryDrawer: React.FC<MemoryDrawerProps> = ({ open, onClose, userI
                               </Button>
                             )}
                             <Popconfirm
-                              title="从 Watchlist 移除？"
+                              title="从待看片单/想看清单移除？"
                               okText="移除"
                               cancelText="取消"
                               onConfirm={async () => {
@@ -538,7 +538,7 @@ export const MemoryDrawer: React.FC<MemoryDrawerProps> = ({ open, onClose, userI
       )}
 
       <Modal
-        title="编辑 Watchlist"
+        title="编辑待看片单/想看清单"
         open={editOpen}
         okText="保存"
         cancelText="取消"
