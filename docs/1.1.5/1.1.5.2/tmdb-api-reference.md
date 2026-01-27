@@ -357,6 +357,136 @@ search_movie(title, year)               # 搜索电影
 
 ---
 
+## Certifications 端点对齐（官方 Reference）
+
+本节对齐官方 Reference：
+- https://developer.themoviedb.org/reference/certification-movie-list
+- https://developer.themoviedb.org/reference/certifications-tv-list
+
+用途：
+- 获取不同国家/地区的内容分级字典（用于展示或过滤，例如 US/GB/CN 等）
+
+### 1) GET `/certification/movie/list`（电影分级列表）
+
+请求：
+- 无必需参数（使用认证信息即可）
+
+响应要点：
+- `certifications`：按国家/地区分组的分级数组（每个条目通常包含 `certification`/`meaning`/`order`）
+
+官方参考：
+- https://developer.themoviedb.org/reference/certification-movie-list
+
+### 2) GET `/certification/tv/list`（电视剧分级列表）
+
+请求：
+- 无必需参数
+
+响应要点：
+- `certifications`：按国家/地区分组的分级数组
+
+官方参考：
+- https://developer.themoviedb.org/reference/certifications-tv-list
+
+---
+
+## Changes 端点对齐（官方 Reference）
+
+本节对齐官方 Reference：
+- https://developer.themoviedb.org/reference/changes-movie-list
+- https://developer.themoviedb.org/reference/changes-people-list
+- https://developer.themoviedb.org/reference/changes-tv-list
+
+用途：
+- 拉取“发生过变更的资源 ID 列表”（movie/tv/person），用于离线同步、增量更新、ETL 触发等。
+
+说明：
+- 这些端点返回的是“ID + changed_at”等概要信息；真正的详情仍需再调用 `/movie/{id}`、`/tv/{id}`、`/person/{id}` 获取。
+
+### 1) GET `/movie/changes`（电影变更列表）
+
+常用请求参数（Query，按需）：
+- `page`
+- `start_date` / `end_date`：时间窗（官方要求范围有限制，超范围会报错）
+
+响应要点：
+- `results[]`：通常包含 `id`、`adult`（可能出现）、`changed_at`（或同等语义字段）
+- `page` / `total_pages` / `total_results`
+
+官方参考：
+- https://developer.themoviedb.org/reference/changes-movie-list
+
+### 2) GET `/tv/changes`（电视剧变更列表）
+
+常用请求参数：
+- `page`
+- `start_date` / `end_date`
+
+响应要点：
+- `results[]`（id 列表 + 变更时间）
+
+官方参考：
+- https://developer.themoviedb.org/reference/changes-tv-list
+
+### 3) GET `/person/changes`（人物变更列表）
+
+常用请求参数：
+- `page`
+- `start_date` / `end_date`
+
+响应要点：
+- `results[]`（id 列表 + 变更时间）
+
+官方参考：
+- https://developer.themoviedb.org/reference/changes-people-list
+
+---
+
+## Companies 端点对齐（官方 Reference）
+
+本节对齐官方 Reference：
+- https://developer.themoviedb.org/reference/company-details
+- https://developer.themoviedb.org/reference/company-alternative-names
+
+用途：
+- 制作公司信息展示（出品方/制作方），以及公司别名（用于实体归一）
+
+### 1) GET `/company/{company_id}`（公司详情）
+
+请求：
+- Path：
+  - `company_id`（必需）
+
+响应要点（常用字段，非穷举）：
+- `id`
+- `name`
+- `description`
+- `headquarters`
+- `homepage`
+- `logo_path`
+- `origin_country`
+
+官方参考：
+- https://developer.themoviedb.org/reference/company-details
+
+### 2) GET `/company/{company_id}/alternative_names`（公司别名）
+
+请求：
+- Path：
+  - `company_id`（必需）
+
+响应要点：
+- `id`
+- `results[]`：别名数组（通常包含 `name` / `type` 等）
+
+官方参考：
+- https://developer.themoviedb.org/reference/company-alternative-names
+
+（可选）3) GET `/company/{company_id}/images`（公司图片）
+- 官方参考：https://developer.themoviedb.org/reference/company-images
+
+---
+
 ## Collections 端点对齐（官方 Reference）
 
 本节对齐官方 Reference（示例页面：`/reference/collection-details`），补全 COLLECTIONS 相关端点的“参数/响应要点”，便于后续实现：
