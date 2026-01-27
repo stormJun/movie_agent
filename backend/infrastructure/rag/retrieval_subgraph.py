@@ -1,3 +1,26 @@
+"""
+Retrieval Subgraph：检索子图（Plan → Execute → Reflect → Merge）
+
+核心功能：
+1. Plan（计划）：根据查询意图生成检索计划（PlanStep[]）
+2. Execute（执行）：并发/串行混合执行检索步骤
+3. Reflect（反思）：基于检索质量决定是否迭代
+4. Merge（合并）：聚合检索结果 + 可选 enrichment
+
+架构特点：
+- First-Class Subgraph：作为 LangGraph 节点，Studio 可展开查看
+- 支持迭代：Reflect 可以追加步骤继续检索
+- 预算约束：每个步骤有超时/top_k/max_evidence 限制
+- 依赖管理：depends_on 控制串行 vs 并行执行
+
+子图结构：
+START → planner → executor → reflect → [循环回 executor] → merger → END
+                                     ↓
+                               (质量满足)
+                                     ↓
+                                  merger → END
+"""
+
 from __future__ import annotations
 
 import asyncio
@@ -22,8 +45,14 @@ from infrastructure.rag.rag_manager import RagManager, _should_enrich_by_entity_
 logger = logging.getLogger(__name__)
 
 
+# ==================== 工具函数 ====================
+
 def _get_stream_writer(config: RunnableConfig) -> Callable[[Any], None]:
-    """Access LangGraph StreamWriter from config (Python 3.10 safe)."""
+    """
+    从 config 中提取 writer 函数（Python 3.10 兼容）
+
+    用于发送自定义事件（stream_mode="custom"）
+    """
     try:
         writer = config.get(CONF, {}).get(CONFIG_KEY_STREAM_WRITER)
     except Exception:
@@ -32,10 +61,12 @@ def _get_stream_writer(config: RunnableConfig) -> Callable[[Any], None]:
 
 
 def _iso_now() -> str:
+    """获取当前 ISO 时间戳"""
     return datetime.now().isoformat()
 
 
 def _truncate_text(value: str, limit: int) -> str:
+    """截断文本到指定长度（避免 debug payload 过大）"""
     if limit <= 0:
         return ""
     if len(value) <= limit:
@@ -44,10 +75,20 @@ def _truncate_text(value: str, limit: int) -> str:
 
 
 # ==================== Plan / Execution Models ====================
+# 数据模型：PlanStep、ExecutionRecord、Reflection、MergedOutput
 
 
 @dataclass(frozen=True)
 class PlanBudget:
+    """
+    检索步骤的预算约束
+
+    字段：
+    - timeout_s: 超时时间（秒）
+    - top_k: 返回 top-k 结果
+    - max_evidence_count: 最大证据数量
+    - max_retries: 最大重试次数
+    """
     timeout_s: float = 15.0
     top_k: int = 50
     max_evidence_count: int = 100
@@ -56,17 +97,45 @@ class PlanBudget:
 
 @dataclass(frozen=True)
 class PlanStep:
+    """
+    检索计划步骤
+
+    字段：
+    - step_id: 步骤唯一标识（例如 "step_0_primary"）
+    - objective: 步骤目标（例如 "检索相关信息（主路）"）
+    - tool: 使用的工具/agent（例如 "hybrid_agent"）
+    - tool_input: 工具输入参数
+    - depends_on: 依赖的前置步骤（空列表=可并行执行）
+    - budget: 预算约束
+    - priority: 优先级（数字越小越优先）
+    """
     step_id: str
     objective: str
     tool: str
     tool_input: Dict[str, Any]
-    depends_on: Optional[List[str]]
+    depends_on: Optional[List[str]]  # 依赖的步骤 ID 列表
     budget: PlanBudget
     priority: int = 1
 
 
 @dataclass(frozen=True)
 class ExecutionRecord:
+    """
+    执行记录：记录每个步骤的执行结果
+
+    字段：
+    - step_id: 步骤 ID
+    - tool: 使用的工具
+    - started_at: 开始时间（ISO 格式）
+    - duration_ms: 执行耗时（毫秒）
+    - input_summary: 输入摘要（用于 debug 展示）
+    - output_summary: 输出摘要
+    - raw_input: 原始输入（完整）
+    - raw_output: 原始输出（完整）
+    - status: 执行状态
+    - error: 错误信息（如果有）
+    - sub_steps: 子步骤（agent 内部执行的步骤）
+    """
     step_id: str
     tool: str
     started_at: str
@@ -82,6 +151,19 @@ class ExecutionRecord:
 
 @dataclass(frozen=True)
 class Reflection:
+    """
+    反思结果：决定是否继续检索
+
+    字段：
+    - should_continue: 是否继续迭代
+    - next_steps: 如果继续，追加的步骤列表
+    - rewrite_query: 可选的查询改写
+    - stop_reason: 停止原因
+    - reasoning: 推理过程
+    - current_iteration: 当前迭代次数
+    - max_iterations: 最大迭代次数
+    - remaining_budget: 剩余预算
+    """
     should_continue: bool
     next_steps: List[PlanStep]
     rewrite_query: Optional[str] = None
@@ -94,6 +176,15 @@ class Reflection:
 
 @dataclass(frozen=True)
 class MergedOutput:
+    """
+    合并输出：检索子图的最终产物
+
+    字段：
+    - context: 合并后的上下文文本（用于生成答案）
+    - retrieval_results: 所有检索结果列表（去重后）
+    - reference: 引用信息（来源、标题等）
+    - statistics: 统计信息（可选）
+    """
     context: str
     retrieval_results: List[Dict[str, Any]]
     reference: Dict[str, Any]
@@ -101,52 +192,74 @@ class MergedOutput:
 
 
 class RetrievalState(TypedDict, total=False):
-    # Inputs.
-    query: str
-    kb_prefix: str
-    route_decision: RouteDecision
-    debug: bool
-    session_id: str
+    """
+    检索子图 State（Phase 4）
+
+    State 流转：
+    1. 输入：query, kb_prefix, route_decision, ...
+    2. plan: planner 填充
+    3. records + runs: executor 填充
+    4. reflection: reflector 填充
+    5. merged: merger 填充
+    """
+
+    # ===== 输入字段（由 prepare_retrieval_node 填充）=====
+    query: str  # 用户查询
+    kb_prefix: str  # 知识库前缀（例如 "movie"）
+    route_decision: RouteDecision  # 路由决策（包含抽取实体、意图等）
+    debug: bool  # 是否启用 debug 模式
+    session_id: str  # 会话 ID
     # Request context for enrichment persistence.
-    user_id: str | None
-    request_id: str | None
-    conversation_id: Any | None
-    user_message_id: Any | None
-    incognito: bool
+    user_id: str | None  # 用户 ID（用于 enrichment 持久化）
+    request_id: str | None  # 请求 ID
+    conversation_id: Any | None  # 对话 ID
+    user_message_id: Any | None  # 用户消息 ID
+    incognito: bool  # 隐身模式（不写入记忆）
 
     # Planner hints.
-    resolved_agent_type: str | None
+    resolved_agent_type: str | None  # Router 推荐的 agent_type
 
-    # Plan/execute/reflect outputs.
-    plan: List[PlanStep]
-    records: List[ExecutionRecord]
-    runs: List[RagRunResult]
-    reflection: Optional[Reflection]
-    iterations: int
-    max_iterations: int
+    # ===== Plan/Execute/Reflect 输出（子图内部流转）=====
+    plan: List[PlanStep]  # 检索计划
+    records: List[ExecutionRecord]  # 执行记录
+    runs: List[RagRunResult]  # 检索运行结果
+    reflection: Optional[Reflection]  # 反思结果
+    iterations: int  # 当前迭代次数
+    max_iterations: int  # 最大迭代次数
 
-    # Final merged output.
-    merged: Optional[MergedOutput]
-    stop_reason: Optional[str]
+    # ===== 最终输出（由 merger 填充）=====
+    merged: Optional[MergedOutput]  # 合并后的检索结果
+    stop_reason: Optional[str]  # 停止原因
 
 
-# ==================== Planner ====================
+# ==================== Planner（计划节点）====================
 
 
 def _normalize_query_intent(route_decision: RouteDecision | None) -> str:
+    """规范化查询意图（小写）"""
     if not route_decision:
         return "unknown"
     return str(getattr(route_decision, "query_intent", "unknown") or "unknown").strip().lower()
 
 
 def _normalize_media_type(route_decision: RouteDecision | None) -> str:
+    """规范化媒体类型（小写）"""
     if not route_decision:
         return "unknown"
     return str(getattr(route_decision, "media_type_hint", "unknown") or "unknown").strip().lower()
 
 
 def _tool_to_agent_type(tool: str) -> str | None:
-    """Map PlanStep.tool to a concrete agent_type for RagManager execution."""
+    """
+    将 PlanStep.tool 映射到具体的 agent_type（供 RagManager 执行）
+
+    支持的工具映射：
+    - hybrid/hybrid_agent → hybrid_agent
+    - graph/graph_agent → graph_agent
+    - naive/naive_rag_agent → naive_rag_agent
+    - deep/deep_research_agent → deep_research_agent
+    - fusion_agent → None（fusion_agent 由子图本身实现，不应作为工具）
+    """
     t = (tool or "").strip().lower()
     if not t:
         return None
@@ -168,12 +281,23 @@ def _tool_to_agent_type(tool: str) -> str | None:
 
 
 async def _plan_node(state: RetrievalState, config: RunnableConfig) -> dict[str, Any]:
+    """
+    计划节点：生成检索计划（PlanStep[]）
+
+    MVP 策略（确定性规则，不使用 LLM）：
+    1. QA 查询：主路（router 推荐 agent） + 兜底（naive）
+    2. Recommend/List/Compare：hybrid 候选 → graph 证据 + 兜底
+    3. Person 查询：先解析人物（graph）→ 再获取作品（hybrid）
+
+    返回：State 更新（plan 字段）
+    """
     t0 = time.monotonic()
     query = str(state.get("query") or "")
     kb_prefix = str(state.get("kb_prefix") or "general")
     route_decision = state.get("route_decision")
     debug = bool(state.get("debug"))
 
+    # 提取路由决策信息
     query_intent = _normalize_query_intent(route_decision)
     media_type_hint = _normalize_media_type(route_decision)
     filters = getattr(route_decision, "filters", None) if isinstance(route_decision, RouteDecision) else None
@@ -183,11 +307,12 @@ async def _plan_node(state: RetrievalState, config: RunnableConfig) -> dict[str,
 
     resolved_agent_type = (state.get("resolved_agent_type") or "").strip() or None
 
-    # Minimal deterministic planner (MVP):
-    # - QA: 1-step using resolved_agent_type (router recommendation) with a naive fallback.
-    # - Recommend/List/Compare: 2-step (hybrid candidates -> graph evidence) plus naive fallback.
+    # ===== MVP 确定性规划器 =====
+    # QA: 主路（router 推荐） + 兜底
+    # Recommend/List/Compare: hybrid 候选 → graph 证据 + 兜底
     plan: list[PlanStep] = []
 
+    # ---- 场景 1：QA 查询（简单事实查询）----
     if query_intent == "qa":
         primary = resolved_agent_type if resolved_agent_type and resolved_agent_type != "fusion_agent" else "hybrid_agent"
         plan.append(
@@ -212,7 +337,9 @@ async def _plan_node(state: RetrievalState, config: RunnableConfig) -> dict[str,
                 priority=2,
             )
         )
+    # ---- 场景 2：Recommend/Compare/List（复杂查询）----
     elif query_intent in {"recommend", "compare", "list"}:
+        # 如果是人物查询，先用 graph 解析人物，再用 hybrid 获取作品
         # If router indicates person, bias first step to graph_agent for disambiguation.
         if media_type_hint == "person":
             person_name = ""
@@ -244,6 +371,7 @@ async def _plan_node(state: RetrievalState, config: RunnableConfig) -> dict[str,
                 )
             )
         else:
+            # 非人物查询：候选优先策略
             # Candidate-first approach.
             plan.append(
                 PlanStep(
@@ -327,8 +455,7 @@ async def _plan_node(state: RetrievalState, config: RunnableConfig) -> dict[str,
         "stop_reason": None,
     }
 
-
-# ==================== Execute ====================
+# ==================== Executor（执行节点）====================
 
 
 async def _execute_single_step(
@@ -338,12 +465,23 @@ async def _execute_single_step(
     config: RunnableConfig,
     retrieval_runner: Any,
 ) -> tuple[ExecutionRecord, Optional[RagRunResult]]:
+    """
+    执行单个检索步骤
+
+    流程：
+    1. 检查是否为 agent 工具（enrichment 等非 agent 工具跳过）
+    2. 调用 RagManager 执行检索
+    3. 记录执行结果（ExecutionRecord）
+
+    返回：(ExecutionRecord, RagRunResult | None)
+    """
     started_at = _iso_now()
     t0 = time.monotonic()
     debug = bool(state.get("debug"))
     query = str((step.tool_input or {}).get("query") or state.get("query") or "")
     kb_prefix = str((step.tool_input or {}).get("kb_prefix") or state.get("kb_prefix") or "general")
 
+    # 非步骤仅用于可观测性，不实际执行检索
     # Non-agent steps are represented for observability only.
     agent_type = _tool_to_agent_type(step.tool)
     if step.tool == "enrichment" or agent_type is None:
@@ -411,6 +549,7 @@ async def _execute_single_step(
 
 
 def _deps_satisfied(step: PlanStep, done: set[str]) -> bool:
+    """检查步骤的依赖是否都已满足"""
     deps = step.depends_on or []
     if not deps:
         return True
@@ -418,6 +557,21 @@ def _deps_satisfied(step: PlanStep, done: set[str]) -> bool:
 
 
 async def _execute_plan_node(state: RetrievalState, config: RunnableConfig) -> dict[str, Any]:
+    """
+    执行计划节点：并发/串行混合执行检索步骤
+
+    核心逻辑：
+    1. 找出所有依赖已满足的步骤（ready_steps）
+    2. 并发执行这些步骤（asyncio.gather）
+    3. 记录执行结果（records + runs）
+    4. 发送 progress 事件
+
+    依赖管理：
+    - depends_on=[] → 可并行执行（与其他无依赖步骤）
+    - depends_on=[step_0] → 必须 step_0 完成后才执行
+
+    返回：State 更新（records + runs）
+    """
     t0 = time.monotonic()
     debug = bool(state.get("debug"))
     writer = _get_stream_writer(config)
@@ -429,6 +583,7 @@ async def _execute_plan_node(state: RetrievalState, config: RunnableConfig) -> d
     executed = {r.step_id for r in records if isinstance(r, ExecutionRecord)}
     done_step_ids = set(executed)
 
+    # 找出所有依赖已满足的未执行步骤
     # Prevent infinite loops when planner emits only "enrichment" steps.
     ready_steps = [s for s in plan if s.step_id not in done_step_ids and _deps_satisfied(s, done_step_ids)]
     if not ready_steps:
@@ -446,6 +601,7 @@ async def _execute_plan_node(state: RetrievalState, config: RunnableConfig) -> d
             )
         return {}
 
+    # 获取 retrieval_runner（优先使用注入的，避免真实网络/LLM 调用）
     # Allow tests to inject a retrieval runner so we can avoid network/LLM calls.
     retrieval_runner = None
     try:
@@ -456,6 +612,7 @@ async def _execute_plan_node(state: RetrievalState, config: RunnableConfig) -> d
         rag_manager = RagManager()
         retrieval_runner = rag_manager.run_retrieval_for_spec
 
+    # 发送 progress 事件（兼容现有 SSE 消费者）
     # Fire a progress event compatible with existing SSE consumers.
     if plan:
         writer(
@@ -472,6 +629,7 @@ async def _execute_plan_node(state: RetrievalState, config: RunnableConfig) -> d
             }
         )
 
+    # 并发执行所有就绪的步骤（无依赖关系的步骤可以并行）
     # Execute all ready steps concurrently (bounded by plan size; usually small).
     async def _run_step(s: PlanStep) -> tuple[ExecutionRecord, Optional[RagRunResult]]:
         record, run = await _execute_single_step(
@@ -525,20 +683,36 @@ async def _execute_plan_node(state: RetrievalState, config: RunnableConfig) -> d
     return {"records": records, "runs": runs}
 
 
-# ==================== Reflect ====================
+# ==================== Reflect（反思节点）====================
 
 
 def _get_min_evidence_count(query_intent: str) -> int:
+    """根据查询意图获取最小证据数量阈值"""
     thresholds = {"qa": 5, "recommend": 10, "compare": 8, "list": 15, "unknown": 5}
     return int(thresholds.get(query_intent, 5))
 
 
 def _get_min_top_score(query_intent: str) -> float:
+    """根据查询意图获取最小分数阈值"""
     thresholds = {"qa": 0.4, "recommend": 0.6, "compare": 0.5, "list": 0.7, "unknown": 0.5}
     return float(thresholds.get(query_intent, 0.5))
 
 
 async def _reflect_node(state: RetrievalState, config: RunnableConfig) -> dict[str, Any]:
+    """
+    反思节点：评估检索质量，决定是否继续迭代
+
+    质量指标：
+    1. evidence_count: 检索结果数量（去重后）
+    2. top_score: 最高分数（相关性）
+
+    决策逻辑：
+    - 如果 evidence_count >= min_evidence AND top_score >= min_score → 停止（质量满足）
+    - 否则且 iterations < max_iterations → 继续（追加步骤）
+    - 否则 → 停止（达到最大迭代次数）
+
+    返回：State 更新（reflection）
+    """
     t0 = time.monotonic()
     debug = bool(state.get("debug"))
     writer = _get_stream_writer(config)
@@ -551,11 +725,13 @@ async def _reflect_node(state: RetrievalState, config: RunnableConfig) -> dict[s
     route_decision = state.get("route_decision")
     query_intent = _normalize_query_intent(route_decision)
 
+    # 聚合检索结果（去重）
     # Quality signals from merged retrieval results (deduped).
     aggregated = aggregate_run_results(results=list(runs)) if runs else RagRunResult(agent_type="unknown", answer="", error="no results")
     retrieval_results = aggregated.retrieval_results or []
     evidence_count = len(retrieval_results) if isinstance(retrieval_results, list) else 0
 
+    # 计算最高分数
     top_score = 0.0
     if isinstance(retrieval_results, list):
         for item in retrieval_results:
@@ -567,6 +743,7 @@ async def _reflect_node(state: RetrievalState, config: RunnableConfig) -> dict[s
                 s = 0.0
             top_score = max(top_score, s)
 
+    # 获取质量阈值
     min_evidence = _get_min_evidence_count(query_intent)
     min_score = _get_min_top_score(query_intent)
 
@@ -659,10 +836,21 @@ def _should_continue_from_reflect(state: RetrievalState) -> str:
     return "merge"
 
 
-# ==================== Merge ====================
+# ==================== Merge（合并节点）====================
 
 
 async def _merge_node(state: RetrievalState, config: RunnableConfig) -> dict[str, Any]:
+    """
+    合并节点：聚合检索结果 + 可选 enrichment
+
+    核心功能：
+    1. 聚合所有检索运行结果（去重）
+    2. 构建 combined_context（用于 generation）
+    3. 可选的 enrichment（movie KB 专用 TMDB 补全）
+    4. 发送 debug 事件（combined_context, rag_runs）
+
+    返回：State 更新（merged, stop_reason）
+    """
     t0 = time.monotonic()
     debug = bool(state.get("debug"))
     writer = _get_stream_writer(config)
@@ -837,11 +1025,24 @@ async def _merge_node(state: RetrievalState, config: RunnableConfig) -> dict[str
 
 
 def build_retrieval_subgraph():
-    # Retrieval 子图（Plan -> Execute -> Reflect -> Merge）：
-    # - planner：产出检索计划（按意图/预算选择策略）
-    # - executor：执行计划并收集 runs/records
-    # - reflector：基于证据质量决定是否迭代
-    # - merger：合并 runs 为 combined_context，并可选拼接 enrichment
+    """
+    构建检索子图（Plan → Execute → Reflect → Merge）
+
+    子图结构：
+    START → planner → executor → reflect → [循环回 executor] → merger → END
+                                     ↓
+                               (质量满足)
+                                     ↓
+                                  merger → END
+
+    节点功能：
+    - planner（计划节点）：产出检索计划（按意图/预算选择策略）
+    - executor（执行节点）：执行计划并收集 runs/records
+    - reflector（反思节点）：基于证据质量决定是否迭代
+    - merger（合并节点）：合并 runs 为 combined_context，并可选拼接 enrichment
+
+    返回：compiled graph（可供主图 add_node 使用）
+    """
     g = StateGraph(RetrievalState)
     # NOTE: node names must not collide with state keys (LangGraph channel names).
     g.add_node("planner", _plan_node)
@@ -852,6 +1053,7 @@ def build_retrieval_subgraph():
     g.set_entry_point("planner")
     g.add_edge("planner", "executor")
     g.add_edge("executor", "reflector")
+    # 条件边：reflect 决定是继续迭代还是合并
     g.add_conditional_edges(
         "reflector", _should_continue_from_reflect, {"continue": "executor", "merge": "merger"}
     )
@@ -859,4 +1061,5 @@ def build_retrieval_subgraph():
     return g.compile()
 
 
+# 编译后的检索子图实例（导出给主图使用）
 retrieval_subgraph_compiled = build_retrieval_subgraph()

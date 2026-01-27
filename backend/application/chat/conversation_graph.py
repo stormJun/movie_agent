@@ -1,3 +1,19 @@
+"""
+ConversationGraphRunner：对话图编排器（Phase 3 Unified LangGraph）
+
+核心功能：
+1. 路由（route）：LLM 路由判定知识库、抽取实体、推荐 agent_type
+2. 召回（recall）：组装上下文（memory、summary、history、episodic）
+3. 检索（retrieval_subgraph）：First-Class Subgraph 执行 Plan → Execute → Reflect → Merge
+4. 生成（generate）：基于检索上下文流式生成答案
+
+架构特点：
+- State 是不可变的（TypedDict），节点返回更新部分
+- 支持流式输出（stream_mode="custom" + writer）
+- 子图事件自动冒泡（subgraphs=True）
+- 支持 KB Handler 插件机制
+"""
+
 from __future__ import annotations
 
 import asyncio
@@ -30,6 +46,14 @@ from infrastructure.llm.completion import (
 
 
 def _resolve_agent_type(*, agent_type: str, worker_name: str) -> str:
+    """
+    从 worker_name 中解析 agent_type（Router 推荐的 agent）
+
+    worker_name 格式（v2）: {kb_prefix}:{agent_type}:{agent_mode}
+    例如：movie:hybrid_agent:default
+
+    返回：解析后的 agent_type（例如 hybrid_agent）
+    """
     raw = (worker_name or "").strip()
     if not raw:
         return agent_type
@@ -42,9 +66,13 @@ def _resolve_agent_type(*, agent_type: str, worker_name: str) -> str:
 
 
 class ConversationState(TypedDict, total=False):
-    """Phase 3: LangGraph state for /chat and /chat/stream."""
+    """
+    对话图 State（Phase 3：/chat 和 /chat/stream 共享）
 
-    # Request inputs.
+    State 是不可变的，每个节点返回需要更新的字段（部分更新）
+    """
+
+    # ===== 1. 请求输入（Request inputs）=====
     stream: bool
     user_id: str
     message: str
@@ -57,7 +85,8 @@ class ConversationState(TypedDict, total=False):
     conversation_id: Any
     current_user_message_id: Any
 
-    # Derived routing.
+    # ===== 2. 路由决策（Derived routing）=====
+    # 由 route 节点填充
     kb_prefix: str
     worker_name: str
     route_decision: RouteDecision
@@ -65,15 +94,17 @@ class ConversationState(TypedDict, total=False):
     resolved_agent_type: str
     use_retrieval: bool
 
-    # Recall / context.
+    # ===== 3. 上下文召回（Recall / context）=====
+    # 由 recall 节点填充
     memory_context: str | None
     conversation_summary: str | None
     history: list[dict[str, Any]]
     episodic_memory: list[dict[str, Any]] | None
     episodic_context: str | None
 
-    # Retrieval subgraph I/O (Phase 4). Kept as first-class state keys so a
-    # retrieval subgraph can run as a LangGraph node (expandable in Studio).
+    # ===== 4. 检索子图 I/O（Retrieval subgraph I/O）=====
+    # First-Class State Keys：子图作为 LangGraph 节点直接运行（Studio 可展开）
+    # 由 prepare_retrieval 节点填充输入，retrieval_subgraph 填充输出
     query: str
     user_message_id: Any
     # Subgraph outputs.
@@ -84,18 +115,22 @@ class ConversationState(TypedDict, total=False):
     reflection: dict[str, Any] | None
     stop_reason: str | None
 
-    # Optional KB handler override.
+    # ===== 5. KB Handler 插件（Optional KB handler override）=====
+    # 如果启用 KB Handler，跳过 retrieval_subgraph
     use_kb_handler: bool
 
-    # Non-streaming answer payload.
+    # ===== 6. 非流式响应（Non-streaming answer payload）=====
+    # 仅用于 /chat（非流式）端点
     response: dict[str, Any]
 
 
 def _get_stream_writer(config: RunnableConfig) -> Callable[[Any], None]:
-    """Access LangGraph StreamWriter from config (Python 3.10 safe).
+    """
+    从 config 中提取 writer 函数（Python 3.10 兼容）
 
-    `langgraph.config.get_stream_writer()` relies on async contextvar propagation
-    (Python >= 3.11). We instead read the writer function from `config`.
+    LangGraph 的 writer 用于发送自定义事件（stream_mode="custom"）
+    官方 get_stream_writer() 依赖 Python 3.11+ 的 async contextvar
+    我们直接从 config 读取，兼容 Python 3.10
     """
     try:
         writer = config.get(CONF, {}).get(CONFIG_KEY_STREAM_WRITER)
@@ -105,6 +140,24 @@ def _get_stream_writer(config: RunnableConfig) -> Callable[[Any], None]:
 
 
 class ConversationGraphRunner:
+    """
+    对话图运行器：Phase 3 Unified LangGraph 的核心编排器
+
+    图结构：
+    START → route → recall → prepare_retrieval → [retrieval_subgraph] → generate → END
+                                         ↓
+                                   (跳过子图)
+                                         ↓
+                                     generate → END
+
+    关键方法：
+    - _build_graph(): 构建对话图
+    - astream_custom(): 流式执行（支持子图事件冒泡）
+    - _route_node(): LLM 路由
+    - _recall_node(): 上下文召回
+    - _prepare_retrieval_node(): State 映射
+    - _generate_node(): 答案生成
+    """
     def __init__(
         self,
         *,
@@ -142,6 +195,20 @@ class ConversationGraphRunner:
         self._graph = self._build_graph()
 
     def _build_graph(self):
+        """
+        构建对话图（LangGraph StateGraph）
+
+        图结构：
+        - route: LLM 路由（判定 kb_prefix、抽取实体、推荐 agent）
+        - recall: 召回上下文（memory、summary、history、episodic）
+        - prepare_retrieval: State 映射（ConversationState → RetrievalState）
+        - retrieval_subgraph: 检索子图（First-Class Subgraph）
+        - generate: 答案生成（RAG / general）
+
+        条件边：
+        - prepare_retrieval → retrieval_subgraph：需要检索
+        - prepare_retrieval → generate：跳过检索（KB Handler / general KB）
+        """
         g = StateGraph(ConversationState)
         g.add_node("route", self._route_node)
         g.add_node("recall", self._recall_node)
@@ -157,6 +224,13 @@ class ConversationGraphRunner:
         g.add_edge("recall", "prepare_retrieval")
 
         def _after_prepare(state: ConversationState) -> str:
+            """
+            条件边逻辑：决定是否进入检索子图
+
+            跳过检索的情况：
+            - 启用了 KB Handler（Handler 自带编排逻辑）
+            - kb_prefix 是 general（通用闲聊，无需检索）
+            """
             # Skip retrieval when:
             # - KB handlers are enabled and a handler exists for this kb_prefix
             # - or kb_prefix is general (no KB retrieval)
@@ -177,6 +251,11 @@ class ConversationGraphRunner:
         return g.compile()
 
     async def ainvoke(self, state: dict[str, Any]) -> dict[str, Any]:
+        """
+        非流式执行：用于 /chat 端点
+
+        返回完整的 State（包含 response 字段）
+        """
         # Cast for LangGraph (it accepts dict-like inputs).
         config: RunnableConfig | None = None
         if callable(getattr(self, "_retrieval_runner", None)):
@@ -184,7 +263,20 @@ class ConversationGraphRunner:
         return await self._graph.ainvoke(dict(state), config=config)
 
     async def astream_custom(self, state: dict[str, Any]) -> AsyncGenerator[dict[str, Any], None]:
-        """流式输出：支持子图事件冒泡（subgraphs=True）"""
+        """
+        流式执行：用于 /chat/stream 端点
+
+        特性：
+        - 支持子图事件冒泡（subgraphs=True）
+        - 自定义事件模式（stream_mode="custom"）
+        - 实时推送 token/progress/debug 事件
+
+        事件格式：
+        - token: {"status": "token", "content": "..."}
+        - progress: {"status": "progress", "content": {"stage": "...", ...}}
+        - debug: {"execution_log": {...}, "status": "...", "content": {...}}
+        - done: {"status": "done"}
+        """
         config: RunnableConfig | None = None
         if callable(getattr(self, "_retrieval_runner", None)):
             config = {CONF: {"retrieval_runner": self._retrieval_runner, "enrichment_enabled": False}}
@@ -195,13 +287,16 @@ class ConversationGraphRunner:
             subgraphs=True,            # 支持子图事件冒泡（返回 (ns, payload) 元组）
         ):
             # 当 subgraphs=True 时，LangGraph 返回 `(ns, payload)` 元组
+            # ns: namespace（子图节点名称，例如 "retrieval_subgraph"）
+            # payload: 事件内容（例如 {"status": "token", "content": "李"}）
             if isinstance(chunk, tuple) and len(chunk) == 2:
                 _ns, payload = chunk
                 if isinstance(payload, dict):
-                    yield payload
+                    yield payload  # 子图事件自动冒泡
                 else:
                     yield {"status": "token", "content": str(payload)}
                 continue
+            # 某些 LangGraph 版本返回三元组：(ns, mode, payload)
             if isinstance(chunk, tuple) and len(chunk) == 3:
                 _ns, _mode, payload = chunk
                 if isinstance(payload, dict):

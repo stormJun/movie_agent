@@ -613,6 +613,7 @@ class ChatStreamExecutor:
                         }
                     }
 
+        # ---- 阶段 2.5：Debug 事件（combined_context + rag_runs）----
         if debug:
             # Cache-only: show the exact retrieval context that will be fed into the
             # generation step (GraphRAG runs + optional enrichment). Truncate to keep
@@ -647,6 +648,7 @@ class ChatStreamExecutor:
                 ],
             }
 
+        # ---- 阶段 2.6：生成阶段（基于 combined_context 流式生成答案）----
         yield {
             "status": "progress",
             "content": {
@@ -659,6 +661,7 @@ class ChatStreamExecutor:
             },
         }
 
+        # Debug 日志：fanout 完成总结
         if debug:
             yield {
                 "execution_log": {
@@ -674,6 +677,7 @@ class ChatStreamExecutor:
                 }
             }
 
+        # ---- 内部函数：带超时的流式生成器 ----
         async def _stream_with_timeout(
             stream: AsyncGenerator[str, None], timeout_s: float
         ) -> AsyncGenerator[str, None]:
@@ -819,7 +823,16 @@ def _should_enrich_by_entity_matching(
     media_type_hint: str | None,
     filters: dict[str, Any] | None,
 ) -> bool:
-    """Conservative fallback: enrich only when GraphRAG likely missed key entities."""
+    """
+    判断是否需要进行 Query-time Enrichment（保守策略）
+
+    触发条件：
+    1. TV 推荐（Router 直接路由到 TMDB /discover/tv）
+    2. Movie 推荐 + 有明确筛选条件（year/origin_country等）
+    3. GraphRAG context 中没有包含抽取到的实体（疑似缺失）
+
+    返回：True = 需要 enrichment，False = 不需要
+    """
     from infrastructure.enrichment.entity_extractor import EntityExtractor
 
     if (query_intent or "").strip().lower() == "recommend" and (media_type_hint or "").strip().lower() == "tv":
