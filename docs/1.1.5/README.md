@@ -46,6 +46,7 @@
 | 文档 | 说明 |
 |------|------|
 | [1.1.5.1 Query-Time Enrichment 详细设计](./1.1.5.1/query-time-enrichment.md) | 完整设计方案，包含架构、组件、集成方式 |
+| [1.1.5.4 电影业务下的 RAG Agent 组合策略](./1.1.5.4/movie-rag-business-integration.md) | 将检索能力与电影业务问题分型/输出契约对齐（从技术实现走向产品能力） |
 
 ---
 
