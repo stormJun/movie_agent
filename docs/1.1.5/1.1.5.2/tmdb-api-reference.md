@@ -2,7 +2,11 @@
 
 ## 概述
 
-The Movie Database (TMDB) API v3 是一个 REST API，提供关于电影、电视剧和影视行业人物的综合数据。本文档总结了所有可用的端点，并标识了 Movie Agent 项目中当前使用的端点。
+The Movie Database (TMDB) API v3 是一个 REST API，提供关于电影、电视剧和影视行业人物的综合数据。
+
+说明：
+- TMDB 官方文档是权威来源（TMDB 会持续新增/调整端点）；本文档是一个“项目对齐的快照”，优先保证**项目实际用到的端点**标注准确。
+- 端点非常多，本文以“端点总览 + 项目使用标记”的方式维护；如发现缺失/变更，建议以官方站点为准并回填这里。
 
 **API 基础 URL**: `https://api.themoviedb.org/3`
 
@@ -11,6 +15,11 @@ The Movie Database (TMDB) API v3 是一个 REST API，提供关于电影、电�
 ---
 
 ## 端点总览
+
+图例（是否使用）：
+- ✅：后端运行时（`backend/infrastructure/enrichment/tmdb_client.py` / `tmdb_enrichment_service.py`）已使用
+- ⚙️：离线/数据导入脚本（`data/movie/tmdb_client.py` 等）已使用
+- ❌：当前项目未使用
 
 ### ACCOUNT（账户管理 - 11 个端点）
 | 端点 | 方法 | 描述 | 是否使用 |
@@ -81,8 +90,8 @@ The Movie Database (TMDB) API v3 是一个 REST API，提供关于电影、电�
 ### DISCOVER（发现内容 - 2 个端点）
 | 端点 | 方法 | 描述 | 是否使用 |
 |----------|--------|-------------|------|
-| `/discover/movie` | GET | 按条件发现电影 | ❌ |
-| `/discover/tv` | GET | 按条件发现电视剧 | ❌ |
+| `/discover/movie` | GET | 按条件发现电影 | ✅ |
+| `/discover/tv` | GET | 按条件发现电视剧 | ✅ |
 
 ### FIND（查找数据 - 1 个端点）
 | 端点 | 方法 | 描述 | 是否使用 |
@@ -163,9 +172,9 @@ The Movie Database (TMDB) API v3 是一个 REST API，提供关于电影、电�
 ### PEOPLE（人物详情 - 10 个端点）
 | 端点 | 方法 | 描述 | 是否使用 |
 |----------|--------|-------------|------|
-| `/person/{person_id}` | GET | 获取人物详情 | ❌ |
+| `/person/{person_id}` | GET | 获取人物详情 | ✅（append_to_response=combined_credits） |
 | `/person/{person_id}/changes` | GET | 获取人物变更 | ❌ |
-| `/person/{person_id}/combined_credits` | GET | 获取人物综合演职员作品 | ❌ |
+| `/person/{person_id}/combined_credits` | GET | 获取人物综合演职员作品 | ✅（通过 append_to_response） |
 | `/person/{person_id}/external_ids` | GET | 获取人物外部 ID | ❌ |
 | `/person/{person_id}/images` | GET | 获取人物图片 | ❌ |
 | `/person/{person_id}/latest` | GET | 获取最新人物 | ❌ |
@@ -184,10 +193,10 @@ The Movie Database (TMDB) API v3 是一个 REST API，提供关于电影、电�
 | `/search/company` | GET | 搜索制作公司 | ❌ |
 | `/search/collection` | GET | 搜索电影合集 | ❌ |
 | `/search/keyword` | GET | 搜索关键词 | ❌ |
-| `/search/movie` | GET | 搜索电影 | ✅ |
-| `/search/multi` | GET | 多实体搜索 | ❌ |
-| `/search/person` | GET | 搜索人物 | ❌ |
-| `/search/tv` | GET | 搜索电视剧 | ❌ |
+| `/search/movie` | GET | 搜索电影 | ⚙️（离线脚本 / 兼容备用） |
+| `/search/multi` | GET | 多实体搜索 | ✅（movie/person/tv 消歧主入口） |
+| `/search/person` | GET | 搜索人物 | ⚙️（离线脚本 / 兼容备用） |
+| `/search/tv` | GET | 搜索电视剧 | ⚙️（离线脚本 / 兼容备用） |
 
 ### TRENDING（趋势内容 - 4 个端点）
 | 端点 | 方法 | 描述 | 是否使用 |
@@ -205,12 +214,12 @@ The Movie Database (TMDB) API v3 是一个 REST API，提供关于电影、电�
 ### TV SERIES（电视剧详情 - 18 个端点）
 | 端点 | 方法 | 描述 | 是否使用 |
 |----------|--------|-------------|------|
-| `/tv/{tv_id}` | GET | 获取电视剧详情 | ❌ |
+| `/tv/{tv_id}` | GET | 获取电视剧详情 | ✅（append_to_response=credits） |
 | `/tv/{tv_id}/account_states` | GET | 获取电视剧账户状态 | ❌ |
 | `/tv/{tv_id}/alternative_titles` | GET | 获取电视剧别名 | ❌ |
 | `/tv/{tv_id}/changes` | GET | 获取电视剧变更 | ❌ |
 | `/tv/{tv_id}/content_ratings` | GET | 获取电视剧内容分级 | ❌ |
-| `/tv/{tv_id}/credits` | GET | 获取电视剧演职员 | ❌ |
+| `/tv/{tv_id}/credits` | GET | 获取电视剧演职员 | ✅（通过 append_to_response） |
 | `/tv/{tv_id}/episode_groups` | GET | 获取电视剧剧集组 | ❌ |
 | `/tv/{tv_id}/external_ids` | GET | 获取电视剧外部 ID | ❌ |
 | `/tv/{tv_id}/images` | GET | 获取电视剧图片 | ❌ |
@@ -265,111 +274,65 @@ The Movie Database (TMDB) API v3 是一个 REST API，提供关于电影、电�
 
 ### 已使用的端点
 
-Movie Agent 项目当前仅使用 TMDB API v3 的 **2 个端点**：
+Movie Agent 当前在“查询时增强（Query-time Enrichment）”链路中，使用的 TMDB 端点主要集中在：
+- “对象解析/消歧”（movie/person/tv）：`/search/multi` → `/{type}/{id}`（append_to_response）
+- “推荐候选集合”：`/discover/movie`、`/discover/tv`
 
-| 端点 | 方法 | 用途 | 实现位置 |
+运行时（backend/enrichment）已使用端点：
+
+| 端点 | 方法 | 用途 | 代码位置（示例） |
 |----------|--------|---------|----------------|
-| `/search/movie` | GET | 根据标题搜索电影 | `backend/infrastructure/enrichment/tmdb_client.py` |
-| `/movie/{movie_id}` | GET | 获取电影详情及演职员 | `backend/infrastructure/enrichment/tmdb_client.py` |
+| `/search/multi` | GET | 多类型搜索 + 消歧（movie/person/tv） | `backend/infrastructure/enrichment/tmdb_client.py`（`search_multi_raw` / `resolve_entity_via_multi`） |
+| `/movie/{movie_id}` | GET | 电影详情 + 演职员（append_to_response=credits） | `backend/infrastructure/enrichment/tmdb_client.py`（`get_movie_details`） |
+| `/tv/{tv_id}` | GET | 电视剧详情 + 演职员（append_to_response=credits） | `backend/infrastructure/enrichment/tmdb_client.py`（`get_tv_details`） |
+| `/person/{person_id}` | GET | 人物详情 + 作品（append_to_response=combined_credits） | `backend/infrastructure/enrichment/tmdb_client.py`（`get_person_details`） |
+| `/discover/movie` | GET | 按 filters 发现电影（推荐/筛选） | `backend/infrastructure/enrichment/tmdb_client.py`（`discover_movie_raw`） + `tmdb_enrichment_service.py` |
+| `/discover/tv` | GET | 按 filters 发现电视剧（推荐/筛选） | `backend/infrastructure/enrichment/tmdb_client.py`（`discover_tv_raw`） + `tmdb_enrichment_service.py` |
+
+离线/数据导入脚本（data/movie）还可能使用 `/search/movie`、`/search/person`、`/search/tv` 等单类型搜索端点（见后文）。
 
 ### 实现详情
 
-#### 1. 搜索端点 (`/search/movie`)
+#### 1. 对象解析/消歧：`/search/multi` → `/{type}/{id}`
 
-**位置**: `backend/infrastructure/enrichment/tmdb_client.py:86-126`
+**位置**:
+- `backend/infrastructure/enrichment/tmdb_client.py`：`resolve_entity_via_multi(...)`
+- `backend/infrastructure/enrichment/tmdb_enrichment_service.py`：调用 `resolve_entity_via_multi(...)` 并将结果构建为 transient graph
 
 **用法**:
 ```python
-async def search_movie(self, title: str) -> dict[str, Any] | None:
-    """根据标题搜索电影并获取完整详情。"""
+async def resolve_entity_via_multi(self, *, text: str, query: str) -> tuple[dict[str, Any] | None, dict[str, Any]]:
+    """用 /search/multi 将 text 解析为 movie/tv/person，并拉取对应详情（append_to_response）。"""
 ```
 
 **请求参数**:
-- `query`（必需）：要搜索的电影标题
-- `language`: 默认为 "zh-CN" 以获取中文结果
-- `page`: 默认为 1
-
-**响应**:
-```json
-{
-  "page": 1,
-  "results": [
-    {
-      "id": 12345,
-      "title": "电影标题",
-      "original_title": "原始标题",
-      "release_date": "1993-01-01",
-      "poster_path": "/path.jpg",
-      "backdrop_path": "/path.jpg",
-      "vote_average": 7.5,
-      "overview": "电影描述..."
-    }
-  ],
-  "total_pages": 1,
-  "total_results": 1
-}
-```
+- `query`（必需）：候选实体名（可能是片名/人名/别名）
+- `language`: 先尝试 `zh-CN`，再回退 `en-US`（用于 overview/biography 补全）
 
 **流程**:
-1. 调用 `/search/movie` 传入电影标题
-2. 提取第一个结果的 `id`
-3. 调用 `get_movie_details()` 传入该 ID
-4. 返回完整电影详情
+1. 调用 `/search/multi` 获取多类型候选（movie/tv/person）
+2. 对候选进行打分（考虑精确匹配、年份一致性、人物角色提示等），若分数过低则拒绝（避免误认）
+3. 选中最佳候选后：
+   - movie：调用 `/movie/{id}?append_to_response=credits`
+   - tv：调用 `/tv/{id}?append_to_response=credits`
+   - person：调用 `/person/{id}?append_to_response=combined_credits`
+4. 将返回 payload 交给 `TransientGraphBuilder` 转为“可引用证据”（transient graph），并拼入 combined_context
 
-#### 2. 电影详情端点 (`/movie/{movie_id}`)
+#### 2. 推荐候选集合：`/discover/movie` 与 `/discover/tv`
 
-**位置**: `backend/infrastructure/enrichment/tmdb_client.py:128-196`
+**位置**:
+- `backend/infrastructure/enrichment/tmdb_enrichment_service.py`：当 router 给出 `query_intent=recommend` 且 `media_type_hint=movie|tv` 时触发
+- `backend/infrastructure/enrichment/tmdb_client.py`：`discover_movie_raw(...)` / `discover_tv_raw(...)`
 
-**用法**:
-```python
-async def get_movie_details(self, movie_id: int) -> dict[str, Any] | None:
-    """获取电影详细信息，包括演职员。"""
-```
+**请求参数（示例映射）**:
+- movie：`filters.year` → `primary_release_year`，`filters.region` → `region`，`filters.original_language` → `with_original_language`，`filters.date_range.gte/lte` → `primary_release_date.gte/lte`
+- tv：`filters.year` → `first_air_date_year`，`filters.origin_country` → `with_origin_country`，`filters.original_language` → `with_original_language`，`filters.date_range.gte/lte` → `first_air_date.gte/lte`
 
-**请求参数**:
-- `movie_id`（必需）：TMDB 电影 ID
-- `language`: 默认为 "zh-CN"
-- `append_to_response`: 设置为 "credits" 以在一次调用中包含演员和剧组信息
-
-**响应**:
-```json
-{
-  "id": 12345,
-  "title": "电影标题",
-  "original_title": "原始标题",
-  "release_date": "1993-01-01",
-  "runtime": 120,
-  "genres": [{"id": 18, "name": "剧情"}],
-  "overview": "电影描述...",
-  "poster_path": "/path.jpg",
-  "backdrop_path": "/path.jpg",
-  "vote_average": 7.5,
-  "credits": {
-    "cast": [
-      {
-        "id": 67890,
-        "name": "演员姓名",
-        "character": "角色名称",
-        "order": 1,
-        "profile_path": "/path.jpg"
-      }
-    ],
-    "crew": [
-      {
-        "id": 11111,
-        "name": "导演姓名",
-        "job": "Director",
-        "department": "Directing",
-        "profile_path": "/path.jpg"
-      }
-    ]
-  }
-}
-```
-
-**优化策略**:
-- 使用 `append_to_response=credits` 在 **一次 API 调用**中同时获取电影详情和演职员信息
-- 避免单独调用 `/movie/{movie_id}/credits`
+**流程**:
+1. router 决定推荐意图与媒体类型，并输出结构化 filters（避免本地关键字猜测误触发）
+2. 调用 `/discover/movie` 或 `/discover/tv` 得到候选集合（用于“推荐/筛选”场景）
+3. （可选）对 top N 候选再拉详情（`/movie/{id}` 或 `/tv/{id}`）增强解释性与字段完整性
+4. 同样构建为 transient graph 证据后进入 combined_context
 
 ---
 
@@ -396,14 +359,19 @@ search_movie(title, year)               # 搜索电影
 
 ## API 密钥配置
 
-**环境变量**: `TMDB_API_KEY`
+**环境变量**（二选一）:
+- `TMDB_API_TOKEN`（推荐）：v4 Read Access Token（HTTP Header Bearer）
+- `TMDB_API_KEY`（兼容）：v3 API Key（Query 参数 api_key）
 
 **配置位置**: `backend/infrastructure/config/settings.py`
 ```python
-TMDB_API_KEY: str = Field(default="", env="TMDB_API_KEY")
+TMDB_BASE_URL = os.getenv("TMDB_BASE_URL", "https://api.themoviedb.org/3").strip()
+TMDB_API_TOKEN = os.getenv("TMDB_API_TOKEN", "").strip()
+TMDB_API_KEY = os.getenv("TMDB_API_KEY", "").strip()
+TMDB_TIMEOUT_S = _get_env_float("TMDB_TIMEOUT_S", 5.0) or 5.0
 ```
 
-**基础 URL**: `https://api.themoviedb.org/3`
+**基础 URL**: `TMDB_BASE_URL`（默认 `https://api.themoviedb.org/3`）
 
 **默认语言**: `zh-CN`（中文）
 
@@ -411,13 +379,13 @@ TMDB_API_KEY: str = Field(default="", env="TMDB_API_KEY")
 
 ## 未来扩展机会
 
-当前项目仅使用电影相关端点。潜在的扩展领域：
+当前项目已覆盖 movie/person/tv 的“查询时增强（enrichment）”核心链路。潜在的扩展领域：
 
-1. **电视剧支持**: 使用电视剧端点扩展知识库
-2. **人物详情**: 使用 `/person/{person_id}` 丰富演员/导演信息
-3. **发现功能**: 使用 `/discover/movie` 处理推荐查询
-4. **趋势内容**: 使用 `/trending/movie/day` 处理热门电影查询
-5. **相似电影**: 使用 `/movie/{movie_id}/similar` 处理"类似 X 的电影"查询
+1. **趋势内容**: `GET /trending/{media_type}/{time_window}` 支持“近期热门/口碑”
+2. **相似/推荐**: `GET /movie/{id}/similar`、`GET /movie/{id}/recommendations` 做“类似 X / 看完 X 还能看什么”
+3. **观看平台**: `GET /movie/{id}/watch/providers`、`GET /tv/{id}/watch/providers` 做“哪里能看”
+4. **外部 ID**: `GET /movie/{id}/external_ids`、`GET /person/{id}/external_ids` 做 IMDb/Douban（如有）对齐与去重
+5. **图片/海报**: `/images` + `/configuration` 做封面/演员头像展示（前端体验）
 
 ---
 
@@ -430,5 +398,5 @@ TMDB_API_KEY: str = Field(default="", env="TMDB_API_KEY")
 ---
 
 **文档版本**: 1.0
-**最后更新**: 2026-01-26
+**最后更新**: 2026-01-27
 **API 版本**: TMDB API v3
