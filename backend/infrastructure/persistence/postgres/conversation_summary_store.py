@@ -277,45 +277,6 @@ class PostgresConversationSummaryStore(ConversationSummaryStorePort):
                 """
             )
 
-            # Ensure messages.completed exists (Phase 1 needs it to filter partial answers).
-            try:
-                await conn.execute(
-                    """
-                    ALTER TABLE messages
-                    ADD COLUMN IF NOT EXISTS completed boolean NOT NULL DEFAULT true;
-                    """
-                )
-            except Exception as e:
-                logger.warning("Failed to ensure messages.completed column: %s", e)
-
-            # Ensure messages.request_id exists (turn_id / Langfuse trace alignment).
-            try:
-                await conn.execute(
-                    """
-                    ALTER TABLE messages
-                    ADD COLUMN IF NOT EXISTS request_id text;
-                    """
-                )
-                await conn.execute(
-                    """
-                    CREATE INDEX IF NOT EXISTS idx_messages_conversation_request_id
-                    ON messages(conversation_id, request_id);
-                    """
-                )
-            except Exception as e:
-                logger.warning("Failed to ensure messages.request_id column/index: %s", e)
-
-            # Cursor pagination index.
-            try:
-                await conn.execute(
-                    """
-                    CREATE INDEX IF NOT EXISTS idx_messages_conversation_created_id
-                    ON messages(conversation_id, created_at, id);
-                    """
-                )
-            except Exception as e:
-                logger.warning("Failed to ensure messages cursor index: %s", e)
-
             # Cache timestamp semantics for compatibility with older schemas.
             await self._refresh_time_column_semantics(conn)
 

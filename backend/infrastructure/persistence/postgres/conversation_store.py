@@ -241,13 +241,11 @@ class PostgresConversationStore(ConversationStorePort):
                         content text NOT NULL,
                         created_at timestamptz NOT NULL DEFAULT NOW(),
                         citations jsonb,
-                        debug jsonb,
-                        completed boolean NOT NULL DEFAULT true,
-                        request_id text
+                        debug jsonb
                     );
                     """
                 )
-                # Backfill for older deployments (messages table may exist without completed).
+                # Backfill for older deployments (messages table may exist without these columns).
                 await conn.execute(
                     """
                     ALTER TABLE messages
@@ -259,12 +257,6 @@ class PostgresConversationStore(ConversationStorePort):
                     """
                     ALTER TABLE messages
                     ADD COLUMN IF NOT EXISTS request_id text;
-                    """
-                )
-                await conn.execute(
-                    """
-                    CREATE INDEX IF NOT EXISTS idx_messages_conversation_created
-                    ON messages(conversation_id, created_at);
                     """
                 )
                 # Support Phase 1 cursor pagination: (conversation_id, created_at, id).
