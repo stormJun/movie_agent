@@ -28,6 +28,35 @@ def _sanitize_for_jsonb(data: Optional[Dict[str, Any]]) -> Optional[str]:
         return None
 
 
+def _maybe_json_loads(value: Any) -> Any:
+    """Best-effort decode for json/jsonb fields returned from asyncpg.
+
+    asyncpg may return json/jsonb columns as str in some environments.
+    Our API layer expects dict/list so it can serialize them as structured JSON.
+    """
+    if value is None:
+        return None
+    if isinstance(value, (dict, list)):
+        return value
+    if isinstance(value, str):
+        s = value.strip()
+        if not s:
+            return None
+        try:
+            return json.loads(s)
+        except Exception:
+            return value
+    return value
+
+
+def _normalize_message_row(row: dict[str, Any]) -> dict[str, Any]:
+    """Normalize message row types for API consumption."""
+    out = dict(row)
+    out["citations"] = _maybe_json_loads(out.get("citations"))
+    out["debug"] = _maybe_json_loads(out.get("debug"))
+    return out
+
+
 class InMemoryConversationStore(ConversationStorePort):
     """In-memory conversation store for dev/tests when Postgres is not configured."""
 
@@ -50,6 +79,7 @@ class InMemoryConversationStore(ConversationStorePort):
         citations: Optional[Dict[str, Any]] = None,
         debug: Optional[Dict[str, Any]] = None,
         completed: bool = True,
+        request_id: str | None = None,
     ) -> UUID:
         msg_id = uuid4()
         self._messages.setdefault(conversation_id, []).append(
@@ -62,9 +92,35 @@ class InMemoryConversationStore(ConversationStorePort):
                 "citations": citations,
                 "debug": debug,
                 "completed": bool(completed),
+                "request_id": request_id,
             }
         )
         return msg_id
+
+    async def update_message(
+        self,
+        *,
+        conversation_id: UUID,
+        message_id: UUID,
+        content: Optional[str] = None,
+        citations: Optional[Dict[str, Any]] = None,
+        debug: Optional[Dict[str, Any]] = None,
+        completed: Optional[bool] = None,
+    ) -> bool:
+        rows = self._messages.get(conversation_id, [])
+        for r in rows:
+            if r.get("id") != message_id:
+                continue
+            if content is not None:
+                r["content"] = content
+            if citations is not None:
+                r["citations"] = citations
+            if debug is not None:
+                r["debug"] = debug
+            if completed is not None:
+                r["completed"] = bool(completed)
+            return True
+        return False
 
     async def list_messages(
         self,
@@ -186,7 +242,8 @@ class PostgresConversationStore(ConversationStorePort):
                         created_at timestamptz NOT NULL DEFAULT NOW(),
                         citations jsonb,
                         debug jsonb,
-                        completed boolean NOT NULL DEFAULT true
+                        completed boolean NOT NULL DEFAULT true,
+                        request_id text
                     );
                     """
                 )
@@ -195,6 +252,13 @@ class PostgresConversationStore(ConversationStorePort):
                     """
                     ALTER TABLE messages
                     ADD COLUMN IF NOT EXISTS completed boolean NOT NULL DEFAULT true;
+                    """
+                )
+                # Request/turn id (Langfuse trace id aligned).
+                await conn.execute(
+                    """
+                    ALTER TABLE messages
+                    ADD COLUMN IF NOT EXISTS request_id text;
                     """
                 )
                 await conn.execute(
@@ -208,6 +272,12 @@ class PostgresConversationStore(ConversationStorePort):
                     """
                     CREATE INDEX IF NOT EXISTS idx_messages_conversation_created_id
                     ON messages(conversation_id, created_at, id);
+                    """
+                )
+                await conn.execute(
+                    """
+                    CREATE INDEX IF NOT EXISTS idx_messages_conversation_request_id
+                    ON messages(conversation_id, request_id);
                     """
                 )
                 await conn.execute(
@@ -265,6 +335,7 @@ class PostgresConversationStore(ConversationStorePort):
         citations: Optional[Dict[str, Any]] = None,
         debug: Optional[Dict[str, Any]] = None,
         completed: bool = True,
+        request_id: str | None = None,
     ) -> UUID:
         # Sanitize JSONB fields to handle numpy types and other non-serializable objects
         citations_json = _sanitize_for_jsonb(citations)
@@ -274,8 +345,8 @@ class PostgresConversationStore(ConversationStorePort):
         async with pool.acquire() as conn:
             row = await conn.fetchrow(
                 """
-                INSERT INTO messages (conversation_id, role, content, citations, debug, completed)
-                VALUES ($1, $2, $3, $4::jsonb, $5::jsonb, $6)
+                INSERT INTO messages (conversation_id, role, content, citations, debug, completed, request_id)
+                VALUES ($1, $2, $3, $4::jsonb, $5::jsonb, $6, $7)
                 RETURNING id
                 """,
                 conversation_id,
@@ -284,10 +355,47 @@ class PostgresConversationStore(ConversationStorePort):
                 citations_json,
                 debug_json,
                 bool(completed),
+                request_id,
             )
             if not row:
                 raise RuntimeError("failed to append message")
             return row["id"]
+
+    async def update_message(
+        self,
+        *,
+        conversation_id: UUID,
+        message_id: UUID,
+        content: Optional[str] = None,
+        citations: Optional[Dict[str, Any]] = None,
+        debug: Optional[Dict[str, Any]] = None,
+        completed: Optional[bool] = None,
+    ) -> bool:
+        citations_json = _sanitize_for_jsonb(citations) if citations is not None else None
+        debug_json = _sanitize_for_jsonb(debug) if debug is not None else None
+
+        pool = await self._get_pool()
+        async with pool.acquire() as conn:
+            row = await conn.fetchrow(
+                """
+                UPDATE messages
+                SET
+                    content = COALESCE($3, content),
+                    citations = COALESCE($4::jsonb, citations),
+                    debug = COALESCE($5::jsonb, debug),
+                    completed = COALESCE($6, completed)
+                WHERE conversation_id = $1
+                  AND id = $2
+                RETURNING id
+                """,
+                conversation_id,
+                message_id,
+                content,
+                citations_json,
+                debug_json,
+                completed,
+            )
+            return bool(row and row.get("id"))
 
     async def list_messages(
         self,
@@ -312,7 +420,7 @@ class PostgresConversationStore(ConversationStorePort):
                 sql += f" LIMIT ${len(params) + 1}"
                 params.append(int(limit))
             rows = await conn.fetch(sql, *params)
-            return [dict(r) for r in rows]
+            return [_normalize_message_row(dict(r)) for r in rows]
 
     async def get_messages_by_ids(
         self,
@@ -327,7 +435,7 @@ class PostgresConversationStore(ConversationStorePort):
         async with pool.acquire() as conn:
             rows = await conn.fetch(
                 """
-                SELECT id, role, content, created_at, citations, debug, completed
+                SELECT id, role, content, created_at, citations, debug, completed, request_id
                 FROM messages
                 WHERE conversation_id = $1
                   AND id = ANY($2::uuid[])
@@ -336,7 +444,7 @@ class PostgresConversationStore(ConversationStorePort):
                 conversation_id,
                 ids,
             )
-            return [dict(r) for r in rows]
+            return [_normalize_message_row(dict(r)) for r in rows]
 
     async def clear_messages(self, *, conversation_id: UUID) -> int:
         pool = await self._get_pool()

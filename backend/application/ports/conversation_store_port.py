@@ -26,7 +26,31 @@ class ConversationStorePort(Protocol):
         debug: Optional[Dict[str, Any]] = None,
         # Whether this message is fully completed (important for streaming disconnects).
         completed: bool = True,
+        # Per-request turn id (also used as Langfuse trace id when enabled).
+        request_id: str | None = None,
     ) -> UUID:
+        ...
+
+    async def update_message(
+        self,
+        *,
+        conversation_id: UUID,
+        message_id: UUID,
+        content: Optional[str] = None,
+        citations: Optional[Dict[str, Any]] = None,
+        debug: Optional[Dict[str, Any]] = None,
+        completed: Optional[bool] = None,
+    ) -> bool:
+        """Update a message in-place (best-effort).
+
+        Used by streaming "assistant placeholder + final backfill":
+        - stream start: create an incomplete assistant message row (placeholder)
+        - stream end/disconnect: update the same row with partial/full content
+
+        Note:
+        - `None` means "leave the field unchanged" (we don't currently need to clear fields).
+        - Returns True when a row is updated, False otherwise.
+        """
         ...
 
     async def list_messages(

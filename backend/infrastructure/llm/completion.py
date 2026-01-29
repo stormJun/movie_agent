@@ -30,6 +30,15 @@ _GENERAL_SYSTEM_PROMPT = (
 )
 _GENERAL_HUMAN_PROMPT = "{question}"
 
+_REWRITE_QUERY_SYSTEM_PROMPT = (
+    "你是一个查询改写器（Query Rewriter）。\n"
+    "任务：根据【对话历史】与【当前用户问题】，把当前问题改写成一个“自包含”的检索查询。\n"
+    "要求：\n"
+    "1) 消解指代（它/那个/这部/这位/前者/后者/你刚才说的等），补齐必要上下文。\n"
+    "2) 保持原意，不要编造事实；如果历史不足以消解指代，则尽量保留原问题并补充最小上下文提示。\n"
+    "3) 只输出改写后的查询文本，不要解释，不要加引号，不要 Markdown。\n"
+)
+
 
 def _coerce_text(value: Any) -> str:
     """Best-effort coercion for optional prompt context fields.
@@ -67,6 +76,96 @@ def _preview_text(value: Any, limit: int = 200) -> str:
     if len(text) <= limit:
         return text
     return text[: max(limit - 1, 0)] + "…"
+
+def rewrite_multiturn_query(
+    *,
+    question: str,
+    history: list[dict] | None = None,
+    max_history_messages: int = 10,
+) -> str:
+    """Rewrite a multi-turn question into a standalone retrieval query.
+
+    Notes:
+    - This is intentionally retrieval-only (we do NOT replace the user-visible question).
+    - Best-effort: on any error/empty output, fall back to the original question.
+    """
+    started_at = time.monotonic()
+    q = str(question or "").strip()
+    if not q:
+        return ""
+
+    # Keep only the last N messages to avoid prompt bloat.
+    raw_history = list(history or [])
+    if max_history_messages > 0 and len(raw_history) > max_history_messages:
+        raw_history = raw_history[-int(max_history_messages) :]
+
+    # Convert dict history to compact "role: content" text. Rewriter needs both
+    # user+assistant to resolve pronouns ("它/那个" usually refers to assistant output).
+    lines: list[str] = []
+    for m in raw_history:
+        if not isinstance(m, dict):
+            continue
+        role = str(m.get("role") or "").strip()
+        if role not in {"user", "assistant"}:
+            continue
+        content = str(m.get("content") or "").strip()
+        if not content:
+            continue
+        lines.append(f"{role}: {content}")
+    history_text = "\n".join(lines).strip()
+
+    # If we have no usable history, rewriting is pointless.
+    if not history_text:
+        return q
+
+    prompt = ChatPromptTemplate.from_messages(
+        [
+            ("system", _REWRITE_QUERY_SYSTEM_PROMPT),
+            (
+                "human",
+                "【对话历史】\n{history}\n\n【当前用户问题】\n{question}\n\n输出改写后的检索查询：",
+            ),
+        ]
+    )
+    llm = get_llm_model()
+    chain = prompt | llm | StrOutputParser()
+
+    parent = get_current_langfuse_stateful_client()
+    span = None
+    if parent is not None:
+        span = parent.span(
+            name="rewrite_multiturn_query",
+            input={
+                "question_preview": _preview_text(q),
+                "history_lines": len(lines),
+            },
+        )
+
+    langfuse_handler = get_langfuse_callback(stateful_client=span or parent)
+    callbacks = [langfuse_handler] if langfuse_handler else []
+
+    try:
+        rewritten = chain.invoke(
+            {"history": history_text, "question": q},
+            config={"callbacks": callbacks},
+        )
+    except Exception as e:
+        if span is not None:
+            span.end(level="ERROR", status_message=str(e), output={"error": str(e)})
+        return q
+
+    out = str(rewritten or "").strip()
+    # Defensive cleanup: avoid LLM returning quotes or code fences.
+    out = out.strip().strip('"').strip("'").strip("`").strip()
+    if not out:
+        return q
+
+    if span is not None:
+        span.end(
+            output={"rewritten_preview": _preview_text(out), "rewritten_chars": len(out)},
+            metadata={"elapsed_ms": int((time.monotonic() - started_at) * 1000)},
+        )
+    return out
 
 
 

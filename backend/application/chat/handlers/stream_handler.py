@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import asyncio
 import time
 from typing import Any, AsyncGenerator, Optional
 
@@ -101,6 +102,7 @@ class StreamHandler:
             role="user",
             content=message,
             completed=True,
+            request_id=request_id,
         )
         if debug:
             yield {
@@ -113,8 +115,34 @@ class StreamHandler:
                 }
             }
 
+        # ===== 阶段 2.5：写入 assistant 占位消息（placeholder）=====
+        #
+        # 目的：
+        # - 流式一开始就确定 assistant_message_id（便于 feedback / 引用 / Langfuse 对齐）
+        # - 客户端断连时，仍能在历史消息里看到一个 incomplete assistant message（completed=false）
+        t0 = time.monotonic()
+        assistant_message_id = await self._conversation_store.append_message(
+            conversation_id=conversation_id,
+            role="assistant",
+            content="",
+            debug={"placeholder": True, "request_id": request_id} if debug else None,
+            completed=False,
+            request_id=request_id,
+        )
+        if debug:
+            yield {
+                "execution_log": {
+                    "node": "persist_assistant_placeholder",
+                    "node_type": "persistence",
+                    "duration_ms": int((time.monotonic() - t0) * 1000),
+                    "input": {"conversation_id": str(conversation_id), "role": "assistant"},
+                    "output": {"message_id": str(assistant_message_id), "completed": False},
+                }
+            }
+
         # ===== 阶段 3：调用对话图（route → recall → retrieval_subgraph → generate）=====
         tokens: list[str] = []
+        reference: dict[str, Any] | None = None
         completed_normally = False
         pending_done_event: dict[str, Any] | None = None
 
@@ -137,6 +165,13 @@ class StreamHandler:
                 if isinstance(event, dict) and event.get("status") == "token":
                     tokens.append(str(event.get("content") or ""))
 
+                # 引用信息（用于落库绑定 assistant_message_id；不透传给 SSE）
+                if isinstance(event, dict) and event.get("status") == "reference":
+                    content = event.get("content")
+                    if isinstance(content, dict):
+                        reference = content
+                    continue
+
                 # 延迟发 送 done 事件（需要先完成后处理：持久化、watchlist 捕获等）
                 if isinstance(event, dict) and event.get("status") == "done":
                     # Delay the terminal "done" until we've persisted messages and
@@ -155,16 +190,29 @@ class StreamHandler:
         # ===== 阶段 4：持久化助手消息 =====
         answer = "".join(tokens).strip()
         if not answer:
+            # 正常完成但答案为空：把 placeholder 标记为 completed，避免历史窗口一直出现 incomplete 记录。
+            if completed_normally:
+                try:
+                    await asyncio.shield(
+                        self._conversation_store.update_message(
+                            conversation_id=conversation_id,
+                            message_id=assistant_message_id,
+                            completed=True,
+                        )
+                    )
+                except Exception:
+                    pass
             if pending_done_event is not None:
                 yield pending_done_event
             return
 
         t0 = time.monotonic()
-        assistant_message_id = await self._conversation_store.append_message(
+        updated = await self._conversation_store.update_message(
             conversation_id=conversation_id,
-            role="assistant",
+            message_id=assistant_message_id,
             content=answer,
-            debug={"partial": not completed_normally} if debug else None,
+            citations=reference,
+            debug={"partial": not completed_normally, "request_id": request_id} if debug else None,
             completed=completed_normally,
         )
         if debug:
@@ -178,6 +226,7 @@ class StreamHandler:
                         "message_id": str(assistant_message_id),
                         "completed": bool(completed_normally),
                         "chars": len(answer),
+                        "updated": bool(updated),
                     },
                 }
             }

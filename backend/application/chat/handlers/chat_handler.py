@@ -100,6 +100,7 @@ class ChatHandler:
             user_id=user_id,
             session_id=session_id,
             user_message=message,
+            request_id=request_id,
         )
 
         # 2) 执行 LangGraph 主图，得到最终 state（其中包含 response / route_decision 等）
@@ -131,6 +132,7 @@ class ChatHandler:
                 reference=graph_response.get("reference"),
                 route_decision_payload=route_decision_payload,
                 rag_runs=graph_response.get("rag_runs"),
+                request_id=request_id,
             )
 
             await self._run_side_effects(
@@ -164,6 +166,7 @@ class ChatHandler:
         user_id: str,
         session_id: str,
         user_message: str,
+        request_id: str | None,
     ) -> tuple[Any, Any]:
         """准备会话并写入 user 消息，返回 (conversation_id, user_message_id)。"""
         conversation_id = await self._conversation_store.get_or_create_conversation_id(
@@ -175,6 +178,7 @@ class ChatHandler:
             role="user",
             content=user_message,
             completed=True,
+            request_id=request_id,
         )
         return conversation_id, user_message_id
 
@@ -233,15 +237,22 @@ class ChatHandler:
         reference: Any,
         route_decision_payload: dict[str, Any] | None,
         rag_runs: Any,
+        request_id: str | None = None,
     ) -> Any:
-        """持久化 assistant message（debug=true 时写入 citations/debug 字段）。"""
+        """持久化 assistant message。
+
+        约定：
+        - citations（reference）应当与本轮消息强绑定（用于回放/归因/评测），不依赖 debug 开关。
+        - debug 字段仍仅在 debug=true 时写入（避免噪音/体积膨胀）。
+        """
         return await self._conversation_store.append_message(
             conversation_id=conversation_id,
             role="assistant",
             content=answer,
-            citations=reference if debug else None,
+            citations=reference if isinstance(reference, dict) else None,
             debug={"route_decision": route_decision_payload, "rag_runs": rag_runs} if debug else None,
             completed=True,
+            request_id=request_id,
         )
 
     async def _run_side_effects(

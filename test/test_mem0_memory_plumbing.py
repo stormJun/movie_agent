@@ -30,8 +30,22 @@ class _StubConversationStore(ConversationStorePort):
         citations=None,
         debug=None,
         completed: bool = True,
+        request_id: str | None = None,
     ):
         return "m1"
+
+    async def update_message(
+        self,
+        *,
+        conversation_id,
+        message_id,
+        content=None,
+        citations=None,
+        debug=None,
+        completed=None,
+    ):
+        _ = (conversation_id, message_id, content, citations, debug, completed)
+        return True
 
     async def list_messages(self, *, conversation_id, limit=None, before=None, desc: bool = False):
         return []

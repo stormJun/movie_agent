@@ -288,6 +288,23 @@ class PostgresConversationSummaryStore(ConversationSummaryStorePort):
             except Exception as e:
                 logger.warning("Failed to ensure messages.completed column: %s", e)
 
+            # Ensure messages.request_id exists (turn_id / Langfuse trace alignment).
+            try:
+                await conn.execute(
+                    """
+                    ALTER TABLE messages
+                    ADD COLUMN IF NOT EXISTS request_id text;
+                    """
+                )
+                await conn.execute(
+                    """
+                    CREATE INDEX IF NOT EXISTS idx_messages_conversation_request_id
+                    ON messages(conversation_id, request_id);
+                    """
+                )
+            except Exception as e:
+                logger.warning("Failed to ensure messages.request_id column/index: %s", e)
+
             # Cursor pagination index.
             try:
                 await conn.execute(

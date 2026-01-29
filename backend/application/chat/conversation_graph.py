@@ -98,6 +98,8 @@ class ConversationState(TypedDict, total=False):
     history: list[dict[str, Any]]
     episodic_memory: list[dict[str, Any]] | None
     episodic_context: str | None
+    # Optional: rewrite query for retrieval only (multi-turn pronoun resolution).
+    retrieval_query: str | None
 
     # ===== 4. 检索子图 I/O（Retrieval subgraph I/O）=====
     # First-Class State Keys：子图作为 LangGraph 节点直接运行（Studio 可展开）
@@ -310,6 +312,7 @@ class ConversationGraphRunner:
         g = StateGraph(ConversationState)
         g.add_node("route", self._route_node)
         g.add_node("build_context", self._build_context_node)
+        g.add_node("rewrite_query", self._rewrite_query_node)
         g.add_node("prepare_retrieval", self._prepare_retrieval_node)
         from infrastructure.rag.retrieval_subgraph import retrieval_subgraph_compiled
 
@@ -319,7 +322,8 @@ class ConversationGraphRunner:
 
         g.add_edge(START, "route")
         g.add_edge("route", "build_context")
-        g.add_edge("build_context", "prepare_retrieval")
+        g.add_edge("build_context", "rewrite_query")
+        g.add_edge("rewrite_query", "prepare_retrieval")
 
         def _after_prepare(state: ConversationState) -> str:
             """
@@ -575,10 +579,136 @@ class ConversationGraphRunner:
 
         return {
             "use_kb_handler": False,
-            "query": str(state.get("message") or ""),
+            # IMPORTANT: retrieval_query is used for retrieval/enrichment only; the
+            # user-visible question (`message`) remains unchanged for generation.
+            "query": str(state.get("retrieval_query") or state.get("message") or ""),
             "user_message_id": state.get("current_user_message_id"),
             "route_decision": route_decision,
         }
+
+    @staticmethod
+    def _should_rewrite_retrieval_query(
+        *,
+        message: str,
+        history: list[dict[str, Any]] | None,
+        extracted_entities: dict[str, Any] | None,
+    ) -> bool:
+        """Heuristic gate for multi-turn retrieval-only query rewriting.
+
+        We keep this conservative to avoid unnecessary LLM calls:
+        - only when there is prior user context
+        - only when the current message likely contains a pronoun/ellipsis reference
+        - skip when router already extracted stable entities
+        """
+        msg = (message or "").strip()
+        if not msg:
+            return False
+        hist = list(history or [])
+        if not any(isinstance(m, dict) and m.get("role") == "user" for m in hist):
+            return False
+        if isinstance(extracted_entities, dict):
+            low = extracted_entities.get("low_level")
+            high = extracted_entities.get("high_level")
+            if (isinstance(low, list) and any(str(x).strip() for x in low)) or (
+                isinstance(high, list) and any(str(x).strip() for x in high)
+            ):
+                return False
+
+        # Typical Chinese pronoun/ellipsis patterns in movie Q&A / recommendations.
+        hints = (
+            "它",
+            "他们",
+            "她",
+            "他",
+            "它们",
+            "那个",
+            "这个",
+            "这部",
+            "这部片",
+            "这部电影",
+            "这部剧",
+            "这部电视剧",
+            "这位",
+            "那位",
+            "前者",
+            "后者",
+            "刚才",
+            "之前",
+            "你说的",
+            "上面",
+            "其中",
+        )
+        if any(h in msg for h in hints):
+            return True
+        return False
+
+    async def _rewrite_query_node(self, state: ConversationState, config: RunnableConfig) -> dict[str, Any]:
+        """检索问句改写：只影响检索 query，不改变用户原 message 展示/生成输入。"""
+        debug = bool(state.get("debug"))
+        if not bool(state.get("use_retrieval")):
+            return {"retrieval_query": None}
+
+        message = str(state.get("message") or "").strip()
+        history = state.get("history")
+        history_list = history if isinstance(history, list) else []
+
+        # Router hints: if entity extraction already succeeded, prefer not to rewrite.
+        route_decision = state.get("route_decision")
+        extracted_entities, _qi, _mt, _filters = self._extract_router_hints(
+            route_decision if isinstance(route_decision, (RouteDecision, dict)) else None
+        )
+
+        if not self._should_rewrite_retrieval_query(
+            message=message,
+            history=history_list,
+            extracted_entities=extracted_entities,
+        ):
+            return {"retrieval_query": None}
+
+        t0 = time.monotonic()
+        rewritten: str | None = None
+        err: str | None = None
+        try:
+            from infrastructure.llm.completion import rewrite_multiturn_query
+
+            # `rewrite_multiturn_query` is synchronous (LangChain invoke); run it in
+            # a thread to avoid blocking the event loop.
+            rewritten = await asyncio.to_thread(
+                rewrite_multiturn_query,
+                question=message,
+                history=history_list,
+                max_history_messages=10,
+            )
+        except Exception as e:
+            err = str(e)
+            rewritten = None
+
+        rewritten = str(rewritten or "").strip()
+        # If the model returns nonsense, fall back to the original question.
+        if not rewritten:
+            rewritten = None
+        elif rewritten == message:
+            rewritten = None
+
+        if debug:
+            writer = _get_stream_writer(config)
+            self._emit_execution_log(
+                writer,
+                node="rewrite_query",
+                node_type="routing",
+                duration_ms=int((time.monotonic() - t0) * 1000),
+                input={
+                    "message_preview": message[:200],
+                    "history_count": len(history_list),
+                },
+                output={
+                    "rewritten": rewritten or "",
+                    "applied": bool(rewritten),
+                    "error": err,
+                },
+            )
+
+        return {"retrieval_query": rewritten}
 
     @staticmethod
     def _emit_progress(
@@ -809,6 +939,8 @@ class ConversationGraphRunner:
         *,
         message: str,
         context: str,
+        reference: dict[str, Any],
+        retrieval_results: list[dict[str, Any]] | None,
         debug: bool,
         memory_context: str | None,
         conversation_summary: str | None,
@@ -856,6 +988,12 @@ class ConversationGraphRunner:
                 agent_type="",
                 retrieval_count=None,
             )
+            # Retrieval-only metadata: allow the service layer to persist citations
+            # and bind them to the same turn (request_id / assistant_message_id).
+            if reference:
+                writer({"status": "reference", "content": reference})
+            if retrieval_results is not None:
+                writer({"status": "retrieval_results", "content": retrieval_results})
             if debug:
                 self._emit_execution_log(
                     writer,
@@ -1011,6 +1149,8 @@ class ConversationGraphRunner:
             return await self._generate_rag_stream(
                 message=message,
                 context=context,
+                reference=reference,
+                retrieval_results=retrieval_results,
                 debug=debug,
                 memory_context=memory_context,
                 conversation_summary=conversation_summary,
