@@ -956,6 +956,10 @@ async def _merge_node(state: RetrievalState, config: RunnableConfig) -> dict[str
         }
 
     def _build_tmdb_only_answer(selected: list[dict[str, Any]]) -> str:
+        # NOTE: Some MiniProgram markdown renderers split ordered lists into multiple
+        # <ol> blocks when there are blank lines between items, which makes every
+        # item show as "1". To keep numbering stable across renderers, we output
+        # each recommendation as a single-line list item without blank separators.
         lines: list[str] = ["为你推荐以下电影："]
         for i, it in enumerate(selected, start=1):
             title = str(it.get("title") or "").strip()
@@ -963,10 +967,10 @@ async def _merge_node(state: RetrievalState, config: RunnableConfig) -> dict[str
             y = f"{int(year)}" if isinstance(year, int) else ""
             blurb = str(it.get("blurb") or "").strip()
             head = f"{i}. 《{title}》" + (f"（{y}）" if y else "")
-            lines.append(head)
             if blurb:
-                lines.append(blurb)
-            lines.append("")  # blank line between items
+                lines.append(f"{head}：{blurb}")
+            else:
+                lines.append(head)
         return "\n".join(lines).strip()
 
     # ---------------- TMDB-only recommendation path ----------------
