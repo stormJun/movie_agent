@@ -158,22 +158,31 @@ async def mp_chat_stream(
         pending_reco_ids: list[int] = []
         pending_reco_title: str | None = None
 
+        next_event_task: asyncio.Task | None = None
         try:
+            # See `chat_stream.py`: avoid cancelling the generator on heartbeat timeouts.
+            next_event_task = asyncio.create_task(iterator.__anext__())
             while True:
                 if await raw_request.is_disconnected():
                     client_disconnected = True
                     break
 
-                try:
-                    event = await asyncio.wait_for(
-                        iterator.__anext__(),
-                        timeout=max(float(SSE_HEARTBEAT_S), 1.0),
-                    )
-                except asyncio.TimeoutError:
+                timeout_s = max(float(SSE_HEARTBEAT_S), 1.0)
+                done, _pending = await asyncio.wait(
+                    {next_event_task},
+                    timeout=timeout_s,
+                    return_when=asyncio.FIRST_COMPLETED,
+                )
+                if not done:
                     yield ": ping\n\n"
                     continue
+
+                try:
+                    event = next_event_task.result()
                 except StopAsyncIteration:
                     break
+
+                next_event_task = asyncio.create_task(iterator.__anext__())
 
                 web_payload = normalize_stream_event(event)
                 status = str(web_payload.get("status") or "")
@@ -262,6 +271,8 @@ async def mp_chat_stream(
                 if mp_payload is not None:
                     yield format_sse(mp_payload)
         finally:
+            if next_event_task is not None and not next_event_task.done():
+                next_event_task.cancel()
             aclose = getattr(iterator, "aclose", None)
             if callable(aclose):
                 await aclose()

@@ -117,24 +117,37 @@ async def chat_stream(
         full_response = []
 
         # ===== 阶段 5：主循环（遍历 StreamHandler 事件 + SSE/Debug 分离）=====
+        next_event_task: asyncio.Task | None = None
         try:
+            # IMPORTANT: don't use `asyncio.wait_for(iterator.__anext__())` directly.
+            # On timeout it cancels the awaitable, which can cancel/close the underlying
+            # async generator (and make long retrieval steps look like "silence + done").
+            next_event_task = asyncio.create_task(iterator.__anext__())
             while True:
                 # 客户端断连：停止向外写 SSE，并让下游生成器尽快取消/释放资源。
                 if await raw_request.is_disconnected():
                     client_disconnected = True
                     break
 
-                try:
-                    event = await asyncio.wait_for(
-                        iterator.__anext__(),
-                        timeout=max(float(SSE_HEARTBEAT_S), 1.0),
-                    )
-                except asyncio.TimeoutError:
+                timeout_s = max(float(SSE_HEARTBEAT_S), 1.0)
+                done, _pending = await asyncio.wait(
+                    {next_event_task},
+                    timeout=timeout_s,
+                    return_when=asyncio.FIRST_COMPLETED,
+                )
+                if not done:
                     # SSE keep-alive：EventSource 会忽略 comment 帧，但能避免中间代理超时断开。
                     yield ": ping\n\n"
                     continue
+
+                try:
+                    event = next_event_task.result()
                 except StopAsyncIteration:
                     break
+
+                # Schedule the next event before processing the current one so we keep
+                # the pipeline hot (and reduce gaps between events).
+                next_event_task = asyncio.create_task(iterator.__anext__())
 
                 payload = normalize_stream_event(event)
                 status = payload.get("status") if isinstance(payload, dict) else None
@@ -179,6 +192,8 @@ async def chat_stream(
                 if status not in CACHE_ONLY_EVENT_TYPES:
                     yield format_sse(payload)
         finally:
+            if next_event_task is not None and not next_event_task.done():
+                next_event_task.cancel()
             # Propagate cancellation/close to the underlying async generator so
             # it can cancel fanout tasks (retrieval) and release resources.
             aclose = getattr(iterator, "aclose", None)
