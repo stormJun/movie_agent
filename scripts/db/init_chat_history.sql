@@ -23,7 +23,9 @@ CREATE TABLE IF NOT EXISTS messages (
     created_at TIMESTAMP NOT NULL DEFAULT NOW(),
     citations JSONB,
     debug JSONB,
-    completed BOOLEAN NOT NULL DEFAULT true
+    completed BOOLEAN NOT NULL DEFAULT true,
+    -- Stable per-turn identifier (aligns feedback/trace/references to the same turn).
+    request_id TEXT
 );
 
 CREATE INDEX IF NOT EXISTS idx_messages_conversation_id_created_at
@@ -32,6 +34,10 @@ ON messages(conversation_id, created_at);
 -- Cursor pagination support for chat summary: (conversation_id, created_at, id)
 CREATE INDEX IF NOT EXISTS idx_messages_conversation_created_id
 ON messages(conversation_id, created_at, id);
+
+-- Turn-level lookup (conversation_id + request_id).
+CREATE INDEX IF NOT EXISTS idx_messages_conversation_request_id
+ON messages(conversation_id, request_id);
 
 -- User feedback (thumb up/down) for analytics and future tuning.
 CREATE TABLE IF NOT EXISTS feedback (

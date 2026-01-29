@@ -203,83 +203,45 @@ class PostgresConversationStore(ConversationStorePort):
         self._pool = None
         self._pool_lock = asyncio.Lock()
 
-    async def _ensure_schema(self) -> None:
-        """Best-effort schema bootstrap for dev/prototyping.
+    async def _assert_schema(self) -> None:
+        """Fail fast with an actionable hint when schema bootstrap wasn't executed.
 
-        Production deployments should manage schema via migrations, but the repo
-        currently expects Postgres to "just work" when enabled via docker-compose.
+        We keep schema definition in `scripts/db/init_chat_history.sql` as the source of truth.
         """
         pool = self._pool
         if pool is None:
             return
-        async with pool.acquire() as conn:
-            try:
-                # Needed for gen_random_uuid().
-                await conn.execute('CREATE EXTENSION IF NOT EXISTS "pgcrypto";')
-            except Exception as e:
-                logger.warning("Failed to ensure pgcrypto extension: %s", e)
 
-            try:
-                await conn.execute(
-                    """
-                    CREATE TABLE IF NOT EXISTS conversations (
-                        id uuid PRIMARY KEY DEFAULT gen_random_uuid(),
-                        user_id text NOT NULL,
-                        session_id text NOT NULL,
-                        created_at timestamptz NOT NULL DEFAULT NOW(),
-                        updated_at timestamptz NOT NULL DEFAULT NOW(),
-                        UNIQUE (user_id, session_id)
-                    );
-                    """
+        async with pool.acquire() as conn:
+            # Check required tables exist.
+            conversations = await conn.fetchval("SELECT to_regclass('public.conversations')")
+            messages = await conn.fetchval("SELECT to_regclass('public.messages')")
+            if not conversations or not messages:
+                raise RuntimeError(
+                    "Postgres schema is missing. Run:\n"
+                    "  docker compose -f docker/docker-compose.yaml exec -T postgres "
+                    "psql -U postgres -d <db> < scripts/db/init_chat_history.sql\n"
+                    "or apply scripts/db/init_chat_history.sql to your configured database."
                 )
-                await conn.execute(
-                    """
-                    CREATE TABLE IF NOT EXISTS messages (
-                        id uuid PRIMARY KEY DEFAULT gen_random_uuid(),
-                        conversation_id uuid NOT NULL REFERENCES conversations(id) ON DELETE CASCADE,
-                        role text NOT NULL,
-                        content text NOT NULL,
-                        created_at timestamptz NOT NULL DEFAULT NOW(),
-                        citations jsonb,
-                        debug jsonb
-                    );
-                    """
+
+            # Check required columns exist (migration safety for older DBs).
+            cols = await conn.fetch(
+                """
+                SELECT column_name
+                FROM information_schema.columns
+                WHERE table_schema = 'public'
+                  AND table_name = 'messages'
+                """
+            )
+            colset = {str(r["column_name"]) for r in cols}
+            required = {"completed", "request_id", "citations", "debug"}
+            missing = sorted([c for c in required if c not in colset])
+            if missing:
+                raise RuntimeError(
+                    "Postgres schema is outdated (messages missing columns: "
+                    + ", ".join(missing)
+                    + "). Apply scripts/db/init_chat_history.sql (or equivalent migration) to your database."
                 )
-                # Backfill for older deployments (messages table may exist without these columns).
-                await conn.execute(
-                    """
-                    ALTER TABLE messages
-                    ADD COLUMN IF NOT EXISTS completed boolean NOT NULL DEFAULT true;
-                    """
-                )
-                # Request/turn id (Langfuse trace id aligned).
-                await conn.execute(
-                    """
-                    ALTER TABLE messages
-                    ADD COLUMN IF NOT EXISTS request_id text;
-                    """
-                )
-                # Support Phase 1 cursor pagination: (conversation_id, created_at, id).
-                await conn.execute(
-                    """
-                    CREATE INDEX IF NOT EXISTS idx_messages_conversation_created_id
-                    ON messages(conversation_id, created_at, id);
-                    """
-                )
-                await conn.execute(
-                    """
-                    CREATE INDEX IF NOT EXISTS idx_messages_conversation_request_id
-                    ON messages(conversation_id, request_id);
-                    """
-                )
-                await conn.execute(
-                    """
-                    CREATE INDEX IF NOT EXISTS idx_conversations_user_updated
-                    ON conversations(user_id, updated_at DESC);
-                    """
-                )
-            except Exception as e:
-                logger.warning("Failed to ensure conversation schema: %s", e)
 
     async def _get_pool(self):
         if self._pool is not None:
@@ -296,7 +258,7 @@ class PostgresConversationStore(ConversationStorePort):
                 max_size=self._max_size,
                 ssl=False,
             )
-            await self._ensure_schema()
+            await self._assert_schema()
             logger.info("PostgreSQL conversation store pool initialized")
             return self._pool
 

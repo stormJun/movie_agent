@@ -156,9 +156,54 @@ class PostgresConversationSummaryStore(ConversationSummaryStorePort):
                 max_size=self._max_size,
                 ssl=False,
             )
-            await self._ensure_schema()
+            await self._assert_schema()
             logger.info("PostgreSQL conversation summary store pool initialized")
             return self._pool
+
+    async def _assert_schema(self) -> None:
+        """Fail fast with an actionable hint when schema bootstrap wasn't executed.
+
+        Schema definition lives in `scripts/db/init_chat_history.sql`.
+        """
+        pool = self._pool
+        if pool is None:
+            return
+
+        async with pool.acquire() as conn:
+            summaries = await conn.fetchval("SELECT to_regclass('public.conversation_summaries')")
+            if not summaries:
+                raise RuntimeError(
+                    "Postgres schema is missing (conversation_summaries). Apply scripts/db/init_chat_history.sql "
+                    "to your configured database."
+                )
+
+            cols = await conn.fetch(
+                """
+                SELECT column_name
+                FROM information_schema.columns
+                WHERE table_schema = 'public'
+                  AND table_name = 'conversation_summaries'
+                """
+            )
+            colset = {str(r["column_name"]) for r in cols}
+            required = {
+                "conversation_id",
+                "summary",
+                "summary_version",
+                "covered_through_message_id",
+                "covered_through_created_at",
+                "covered_message_count",
+            }
+            missing = sorted([c for c in required if c not in colset])
+            if missing:
+                raise RuntimeError(
+                    "Postgres schema is outdated (conversation_summaries missing columns: "
+                    + ", ".join(missing)
+                    + "). Apply scripts/db/init_chat_history.sql (or equivalent migration) to your database."
+                )
+
+            # Cache timestamp semantics for compatibility with older schemas.
+            await self._refresh_time_column_semantics(conn)
 
     async def _refresh_time_column_semantics(self, conn) -> None:
         """Detect whether time columns are `timestamptz` or `timestamp`."""
@@ -192,93 +237,7 @@ class PostgresConversationSummaryStore(ConversationSummaryStorePort):
         except Exception as e:
             logger.debug("Failed to detect conversation_summaries.covered_through_created_at type: %s", e)
 
-    async def _ensure_schema(self) -> None:
-        pool = self._pool
-        if pool is None:
-            return
-        async with pool.acquire() as conn:
-            try:
-                await conn.execute('CREATE EXTENSION IF NOT EXISTS "pgcrypto";')
-            except Exception as e:
-                logger.warning("Failed to ensure pgcrypto extension: %s", e)
-
-            # Summary table
-            await conn.execute(
-                """
-                CREATE TABLE IF NOT EXISTS conversation_summaries (
-                    id uuid PRIMARY KEY DEFAULT gen_random_uuid(),
-                    conversation_id uuid NOT NULL REFERENCES conversations(id) ON DELETE CASCADE,
-                    summary text NOT NULL,
-                    summary_version int NOT NULL DEFAULT 1,
-                    covered_through_message_id uuid,
-                    covered_through_created_at timestamptz,
-                    covered_message_count int NOT NULL DEFAULT 0,
-                    created_at timestamptz NOT NULL DEFAULT NOW(),
-                    updated_at timestamptz NOT NULL DEFAULT NOW(),
-                    UNIQUE(conversation_id)
-                );
-                """
-            )
-            # Backward-compat: some earlier deployments used different column names.
-            # Ensure expected columns exist, then best-effort backfill from legacy ones.
-            try:
-                await conn.execute(
-                    "ALTER TABLE conversation_summaries ADD COLUMN IF NOT EXISTS covered_through_message_id uuid;"
-                )
-                await conn.execute(
-                    "ALTER TABLE conversation_summaries ADD COLUMN IF NOT EXISTS covered_through_created_at timestamptz;"
-                )
-                await conn.execute(
-                    "ALTER TABLE conversation_summaries ADD COLUMN IF NOT EXISTS summary_version int NOT NULL DEFAULT 1;"
-                )
-                await conn.execute(
-                    "ALTER TABLE conversation_summaries ADD COLUMN IF NOT EXISTS covered_message_count int NOT NULL DEFAULT 0;"
-                )
-            except Exception as e:
-                logger.warning("Failed to ensure conversation_summaries columns: %s", e)
-
-            # Backfill from legacy `last_covered_message_id` if present.
-            try:
-                await conn.execute(
-                    """
-                    DO $$
-                    BEGIN
-                      IF EXISTS (
-                        SELECT 1
-                        FROM information_schema.columns
-                        WHERE table_schema = 'public'
-                          AND table_name = 'conversation_summaries'
-                          AND column_name = 'last_covered_message_id'
-                      ) THEN
-                        UPDATE conversation_summaries
-                        SET covered_through_message_id = last_covered_message_id
-                        WHERE covered_through_message_id IS NULL
-                          AND last_covered_message_id IS NOT NULL;
-                      END IF;
-                    END $$;
-                    """
-                )
-                await conn.execute(
-                    """
-                    UPDATE conversation_summaries s
-                    SET covered_through_created_at = m.created_at
-                    FROM messages m
-                    WHERE s.covered_through_created_at IS NULL
-                      AND s.covered_through_message_id IS NOT NULL
-                      AND m.id = s.covered_through_message_id;
-                    """
-                )
-            except Exception as e:
-                logger.warning("Failed to backfill legacy conversation_summaries cursor: %s", e)
-            await conn.execute(
-                """
-                CREATE INDEX IF NOT EXISTS idx_conversation_summaries_conversation_id
-                ON conversation_summaries(conversation_id);
-                """
-            )
-
-            # Cache timestamp semantics for compatibility with older schemas.
-            await self._refresh_time_column_semantics(conn)
+    # Note: schema bootstrap intentionally lives outside Python (see scripts/db/init_chat_history.sql).
 
     async def get_summary(self, *, conversation_id: UUID) -> Optional[Dict[str, Any]]:
         pool = await self._get_pool()
