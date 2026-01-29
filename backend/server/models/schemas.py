@@ -1,10 +1,15 @@
-from pydantic import BaseModel
+from pydantic import BaseModel, ConfigDict
 from typing import Optional, List, Dict, Any
 from config.rag import community_algorithm
 
 
 class ChatRequest(BaseModel):
     """聊天请求模型"""
+
+    # Reject unknown fields (e.g. legacy `agent_type`) to avoid silently accepting
+    # user-selected routing knobs. Router owns agent selection.
+    model_config = ConfigDict(extra="forbid")
+
     user_id: str
     message: str
     session_id: str
@@ -15,7 +20,6 @@ class ChatRequest(BaseModel):
     incognito: Optional[bool] = False
     # Per-request override for watchlist auto-capture. Global server config still applies.
     watchlist_auto_capture: Optional[bool] = None
-    agent_type: str = "naive_rag_agent"
     use_deeper_tool: Optional[bool] = True
     show_thinking: Optional[bool] = False
 

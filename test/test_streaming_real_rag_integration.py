@@ -55,7 +55,6 @@ class TestStreamingRealRagIntegration(unittest.TestCase):
                 "session_id": "real-rag-stream-1",
                 "kb_prefix": None,
                 "debug": False,
-                "agent_type": "hybrid_agent",
             },
         )
         self.assertEqual(resp.status_code, 200)

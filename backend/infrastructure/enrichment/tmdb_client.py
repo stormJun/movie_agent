@@ -716,6 +716,58 @@ class TMDBClient:
             logger.warning("TMDB client not configured (missing base_url or auth)")
             return None
 
+    async def movie_list_raw(
+        self,
+        *,
+        list_type: str,
+        language: str = "zh-CN",
+        page: int = 1,
+        region: str | None = None,
+    ) -> dict[str, Any] | None:
+        """Fetch a movie list page.
+
+        TMDB movie lists:
+        - /movie/popular
+        - /movie/top_rated
+        - /movie/now_playing
+        - /movie/upcoming
+
+        Notes:
+        - TMDB enforces max page=500 for list endpoints.
+        - Some list endpoints accept a `region` hint; we pass it when provided.
+        """
+        if not self._base_url or not (self._api_token or self._api_key):
+            logger.warning("TMDB client not configured (missing base_url or auth)")
+            return None
+
+        lt = (list_type or "").strip().lower()
+        if lt not in {"popular", "top_rated", "now_playing", "upcoming"}:
+            raise ValueError(f"unsupported list_type={list_type!r}")
+
+        try:
+            session = await self._get_session()
+            url = f"{self._base_url}/movie/{lt}"
+            params: dict[str, Any] = {"language": language, "page": int(page)}
+            if isinstance(region, str) and region.strip():
+                params["region"] = region.strip()
+            params.update(self._auth_params())
+
+            logger.debug("TMDB movie list url=%s params=%s", url, params)
+
+            async with session.get(url, params=params, headers=self._headers()) as resp:
+                if resp.status >= 400:
+                    error_text = await resp.text()
+                    logger.error(f"TMDB movie list failed ({resp.status}): {error_text[:200]}")
+                    return None
+                data = await resp.json(content_type=None)
+            return data if isinstance(data, dict) else None
+        except asyncio.TimeoutError:
+            logger.error(f"TMDB movie list timeout after {self._timeout_s}s list={lt} page={page}")
+            return None
+        except Exception as e:
+            logger.exception(f"TMDB movie list failed list={lt} page={page}: {e}")
+            return None
+
         try:
             session = await self._get_session()
             url = f"{self._base_url}/discover/movie"
@@ -763,6 +815,37 @@ class TMDBClient:
             return None
         except Exception as e:
             logger.exception(f"TMDB discover movie failed: {e}")
+            return None
+
+    async def movie_recommendations_raw(
+        self,
+        *,
+        movie_id: int,
+        language: str = "zh-CN",
+        page: int = 1,
+    ) -> dict[str, Any] | None:
+        """Fetch TMDB /movie/{movie_id}/recommendations (raw payload)."""
+        if not self._base_url or not (self._api_token or self._api_key):
+            logger.warning("TMDB client not configured (missing base_url or auth)")
+            return None
+        try:
+            session = await self._get_session()
+            url = f"{self._base_url}/movie/{int(movie_id)}/recommendations"
+            params: dict[str, Any] = {"language": language, "page": page}
+            params.update(self._auth_params())
+            logger.debug("TMDB movie recommendations url=%s params=%s", url, params)
+            async with session.get(url, params=params, headers=self._headers()) as resp:
+                if resp.status >= 400:
+                    error_text = await resp.text()
+                    logger.error(f"TMDB movie recommendations failed ({resp.status}): {error_text[:200]}")
+                    return None
+                data = await resp.json(content_type=None)
+            return data if isinstance(data, dict) else None
+        except asyncio.TimeoutError:
+            logger.error(f"TMDB movie recommendations timeout after {self._timeout_s}s")
+            return None
+        except Exception as e:
+            logger.exception(f"TMDB movie recommendations failed for id={movie_id}: {e}")
             return None
 
     async def resolve_entity_via_multi(

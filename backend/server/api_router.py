@@ -12,6 +12,8 @@ import server.api.rest.v1.feedback as feedback_v1
 import server.api.rest.v1.knowledge_graph as knowledge_graph_v1
 import server.api.rest.v1.memory as memory_v1
 import server.api.rest.v1.messages as messages_v1
+import server.api.rest.v1.mp_chat_stream as mp_chat_stream_v1
+import server.api.rest.v1.mp_movies as mp_movies_v1
 import server.api.rest.v1.source as source_v1
 
 # Canonical API router aggregator (v1 only; legacy routers were removed).
@@ -27,5 +29,7 @@ api_router.include_router(memory_v1.router)
 api_router.include_router(messages_v1.router)
 api_router.include_router(source_v1.router)
 api_router.include_router(examples_v1.router)
+api_router.include_router(mp_chat_stream_v1.router)
+api_router.include_router(mp_movies_v1.router)
 
 __all__ = ["api_router"]

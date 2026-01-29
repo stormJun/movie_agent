@@ -618,3 +618,92 @@ class PostgresTmdbStore:
                         score,
                     )
 
+    # ----------------------------
+    # Query helpers (read paths)
+    # ----------------------------
+
+    async def get_movie(self, *, tmdb_id: int) -> dict[str, Any] | None:
+        """Fetch one movie row for UI consumers (best-effort)."""
+        pool = await self._get_pool()
+        async with pool.acquire() as conn:
+            row = await conn.fetchrow(
+                """
+                SELECT tmdb_id, title, original_title, original_language, release_date,
+                       popularity, vote_average, vote_count, raw_language, data_state,
+                       raw, raw_hash, fetched_at, first_seen_at, last_seen_at
+                FROM tmdb.movies
+                WHERE tmdb_id = $1
+                """,
+                int(tmdb_id),
+            )
+            return dict(row) if row else None
+
+    async def get_movies(self, *, tmdb_ids: list[int]) -> list[dict[str, Any]]:
+        """Fetch movie rows for a list of ids (order not guaranteed)."""
+        ids = [int(x) for x in tmdb_ids if isinstance(x, int) or (isinstance(x, str) and str(x).isdigit())]
+        if not ids:
+            return []
+        pool = await self._get_pool()
+        async with pool.acquire() as conn:
+            rows = await conn.fetch(
+                """
+                SELECT tmdb_id, title, original_title, original_language, release_date,
+                       popularity, vote_average, vote_count, raw_language, data_state,
+                       raw, raw_hash, fetched_at, first_seen_at, last_seen_at
+                FROM tmdb.movies
+                WHERE tmdb_id = ANY($1::int[])
+                """,
+                ids,
+            )
+            return [dict(r) for r in rows] if rows else []
+
+    async def list_movies_feed(
+        self,
+        *,
+        feed_type: str,
+        limit: int = 20,
+        offset: int = 0,
+    ) -> list[dict[str, Any]]:
+        """List movies for simple browse feeds (popular/now_playing/upcoming)."""
+        feed = (feed_type or "popular").strip().lower()
+        lim = max(1, min(int(limit), 200))
+        off = max(0, int(offset))
+
+        where_sql = "WHERE data_state='full' AND raw IS NOT NULL"
+        order_sql = "ORDER BY popularity DESC NULLS LAST, tmdb_id ASC"
+
+        if feed == "upcoming":
+            where_sql += " AND release_date IS NOT NULL AND release_date >= CURRENT_DATE"
+            order_sql = "ORDER BY release_date ASC NULLS LAST, popularity DESC NULLS LAST, tmdb_id ASC"
+        elif feed == "now_playing":
+            # Best-effort heuristic: recent releases in the last 90 days.
+            where_sql += (
+                " AND release_date IS NOT NULL"
+                " AND release_date <= CURRENT_DATE"
+                " AND release_date >= (CURRENT_DATE - INTERVAL '90 days')"
+            )
+            order_sql = "ORDER BY release_date DESC NULLS LAST, popularity DESC NULLS LAST, tmdb_id ASC"
+
+        pool = await self._get_pool()
+        async with pool.acquire() as conn:
+            rows = await conn.fetch(
+                f"""
+                SELECT tmdb_id, title, original_title, original_language, release_date,
+                       popularity, vote_average, vote_count, raw_language, data_state,
+                       raw, raw_hash, fetched_at, first_seen_at, last_seen_at
+                FROM tmdb.movies
+                {where_sql}
+                {order_sql}
+                LIMIT $1 OFFSET $2
+                """,
+                lim,
+                off,
+            )
+            return [dict(r) for r in rows] if rows else []
+
+    async def has_movie(self, *, tmdb_id: int) -> bool:
+        """Fast existence check for tmdb.movies."""
+        pool = await self._get_pool()
+        async with pool.acquire() as conn:
+            val = await conn.fetchval("SELECT 1 FROM tmdb.movies WHERE tmdb_id=$1", int(tmdb_id))
+            return val is not None

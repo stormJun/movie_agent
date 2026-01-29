@@ -1,10 +1,10 @@
 import re
 from concurrent.futures import ThreadPoolExecutor, TimeoutError
-from typing import Optional, Tuple
+from typing import Any, Optional, Tuple
 
 from infrastructure.models import get_llm_model
 
-from .types import KBPrefix, KBRoutingResult
+from infrastructure.routing.types import AgentType, KBPrefix, KBRoutingResult
 from .utils import normalize_kb_prefix, parse_loose_json_dict
 
 
@@ -100,6 +100,7 @@ def route_kb_prefix(
             method="timeout",
             reason=f"route timeout after {_ROUTER_LLM_TIMEOUT_S}s",
             extracted_entities=None,
+            recommended_agent_type=None,
         )
         return fallback, result
     except Exception as exc:
@@ -110,6 +111,7 @@ def route_kb_prefix(
             method="fallback",
             reason=str(exc),
             extracted_entities=None,
+            recommended_agent_type=None,
         )
         return fallback, result
 
@@ -167,24 +169,32 @@ def route_kb_prefix(
             if cleaned:
                 filters = cleaned
 
-    # 提取实体信息
+    # 提取实体信息（放宽解析：只要 low/high 任一有效就保留，避免 LLM 少字段导致整段丢失）
     extracted_entities = None
     if parsed and "extracted_entities" in parsed:
         try:
             entities = parsed["extracted_entities"]
             if isinstance(entities, dict):
-                low_level = entities.get("low_level", [])
-                high_level = entities.get("high_level", [])
-                if isinstance(low_level, list) and isinstance(high_level, list):
-                    extracted_entities = {
-                        "low_level": low_level,
-                        "high_level": high_level,
-                    }
+                low_raw = entities.get("low_level", [])
+                high_raw = entities.get("high_level", [])
+
+                def _to_list(v):
+                    if isinstance(v, list):
+                        return v
+                    if isinstance(v, str) and v.strip():
+                        return [v.strip()]
+                    return []
+
+                low_level = _to_list(low_raw)
+                high_level = _to_list(high_raw)
+                if low_level or high_level:
+                    extracted_entities = {"low_level": low_level, "high_level": high_level}
         except Exception:
             extracted_entities = None
 
     # 提取推荐的 agent_type
-    recommended_agent_type = "hybrid_agent"  # 默认值
+    # None means: LLM did not provide a valid recommendation (caller should fallback).
+    recommended_agent_type: AgentType | None = None
     if parsed and "recommended_agent_type" in parsed:
         try:
             raw_agent = str(parsed["recommended_agent_type"]).strip().lower()

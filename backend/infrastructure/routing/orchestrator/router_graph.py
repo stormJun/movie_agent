@@ -40,7 +40,7 @@ def _intent_detect_node(state: ChatRouteState) -> ChatRouteState:
         # 保留路由阶段抽取的实体（extracted_entities），供后续 enrichment 直接使用（减少二次抽取误差）。
         "extracted_entities": getattr(routing_info, "extracted_entities", None),
         # LLM 推荐的 agent：主链路优先使用该值（避免前端/调用方传错或默认值不合适）。
-        "resolved_agent_type": getattr(routing_info, "recommended_agent_type", None),
+        "recommended_agent_type": getattr(routing_info, "recommended_agent_type", None),
     }
 
 
@@ -76,15 +76,14 @@ def _worker_select_node(state: ChatRouteState) -> ChatRouteState:
         # components don't accidentally treat it as a retrieval worker.
         return {"worker_name": ""}
 
-    # agent 选择优先级：
-    # 1) resolved_agent_type：路由 LLM 推荐（主路径默认以此为准）
-    # 2) agent_type：调用方显式指定（保留兼容，但前端已不再传）
-    # 3) 默认 hybrid_agent
-    resolved_agent = state.get("resolved_agent_type")
-    if resolved_agent and isinstance(resolved_agent, str) and resolved_agent.strip():
-        agent_type = resolved_agent.strip()
+    # agent 选择规则（不再接受调用方显式指定）：
+    # 1) recommended_agent_type：路由 LLM 推荐（主路径默认以此为准）
+    # 2) 默认 hybrid_agent
+    recommended_agent = state.get("recommended_agent_type")
+    if recommended_agent and isinstance(recommended_agent, str) and recommended_agent.strip():
+        agent_type = recommended_agent.strip()
     else:
-        agent_type = (state.get("agent_type") or "").strip() or "hybrid_agent"
+        agent_type = "hybrid_agent"
 
     # worker_name v2: {kb_prefix}:{agent_type}:{agent_mode}
     return {"worker_name": f"{kb_raw}:{agent_type}:retrieve_only"}
@@ -110,7 +109,6 @@ def invoke_router_graph(
     *,
     message: str,
     session_id: str,
-    agent_type: str,
     requested_kb_prefix: Optional[str] = None,
 ) -> RouteDecision:
     requested = _normalize_kb_prefix(requested_kb_prefix)
@@ -118,7 +116,6 @@ def invoke_router_graph(
     initial: ChatRouteState = {
         "message": message,
         "session_id": session_id,
-        "agent_type": agent_type,
         "requested_kb_prefix": requested,
     }
     final_state: ChatRouteState = _ROUTER_GRAPH.invoke(initial)
@@ -147,6 +144,6 @@ def invoke_router_graph(
         media_type_hint=str(final_state.get("media_type_hint") or "unknown"),  # type: ignore[arg-type]
         filters=final_state.get("filters"),
         extracted_entities=final_state.get("extracted_entities"),
-        recommended_agent_type=final_state.get("resolved_agent_type"),
+        recommended_agent_type=final_state.get("recommended_agent_type"),
         resolved_agent_type=actual_agent_type,
     )

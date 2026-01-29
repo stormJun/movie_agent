@@ -24,7 +24,6 @@ class TestRouterExtractedEntitiesPlumbing(unittest.TestCase):
             decision = router_graph.invoke_router_graph(
                 message="喜宴 导演是谁？",
                 session_id="s1",
-                agent_type="hybrid_agent",
                 requested_kb_prefix=None,
             )
             self.assertEqual(
@@ -33,4 +32,3 @@ class TestRouterExtractedEntitiesPlumbing(unittest.TestCase):
             )
         finally:
             router_graph.route_kb_prefix = old
-

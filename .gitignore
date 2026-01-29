@@ -40,3 +40,6 @@ SparrowRecSys-master/
 # Repo-local configs/assets (ignore from git history in this repo)
 /.github/
 /assets/
+
+# Local backup files (keep out of git history)
+docs/1.1.5/1.1.5.2/tmdb-postgres-persistence.md.bak

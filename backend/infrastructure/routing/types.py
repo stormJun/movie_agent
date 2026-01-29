@@ -11,7 +11,7 @@ AgentType = Literal["graph_agent", "hybrid_agent", "naive_rag_agent", "fusion_ag
 class KBRoutingResult:
     kb_prefix: KBPrefix
     confidence: float
-    method: Literal["heuristic", "llm", "fallback"]
+    method: Literal["heuristic", "llm", "fallback", "timeout"]
     reason: str = ""
     # Query-level hints (used by enrichment and response shaping).
     query_intent: QueryIntent = "unknown"
@@ -26,4 +26,6 @@ class KBRoutingResult:
     extracted_entities: Optional[dict[str, Any]] = None
     # 新增：LLM 推荐的 agent_type
     # 依据：query_intent 和查询复杂度
-    recommended_agent_type: AgentType = "hybrid_agent"
+    # NOTE: Use None to indicate "LLM did not provide a valid recommendation".
+    # Downstream should apply its own fallback (typically hybrid_agent).
+    recommended_agent_type: Optional[AgentType] = None

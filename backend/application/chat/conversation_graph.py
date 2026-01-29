@@ -3,7 +3,7 @@ ConversationGraphRunner：对话图编排器（Phase 3 Unified LangGraph）
 
 核心功能：
 1. 路由（route）：LLM 路由判定知识库、抽取实体、推荐 agent_type
-2. 召回（recall）：组装上下文（memory、summary、history、episodic）
+2. 构建上下文（build_context）：组装上下文（memory、summary、history、episodic）
 3. 检索（retrieval_subgraph）：First-Class Subgraph 执行 Plan → Execute → Reflect → Merge
 4. 生成（generate）：基于检索上下文流式生成答案
 
@@ -81,21 +81,18 @@ class ConversationState(TypedDict, total=False):
     requested_kb_prefix: str | None
     debug: bool
     incognito: bool
-    agent_type: str
     conversation_id: Any
     current_user_message_id: Any
 
     # ===== 2. 路由决策（Derived routing）=====
     # 由 route 节点填充
     kb_prefix: str
-    worker_name: str
     route_decision: RouteDecision
-    routing_ms: int
     resolved_agent_type: str
     use_retrieval: bool
 
-    # ===== 3. 上下文召回（Recall / context）=====
-    # 由 recall 节点填充
+    # ===== 3. 上下文构建（Build context）=====
+    # 由 build_context 节点填充
     memory_context: str | None
     conversation_summary: str | None
     history: list[dict[str, Any]]
@@ -144,7 +141,7 @@ class ConversationGraphRunner:
     对话图运行器：Phase 3 Unified LangGraph 的核心编排器
 
     图结构：
-    START → route → recall → prepare_retrieval → [retrieval_subgraph] → generate → END
+    START → route → build_context → prepare_retrieval → [retrieval_subgraph] → generate → END
                                          ↓
                                    (跳过子图)
                                          ↓
@@ -154,7 +151,7 @@ class ConversationGraphRunner:
     - _build_graph(): 构建对话图
     - astream_custom(): 流式执行（支持子图事件冒泡）
     - _route_node(): LLM 路由
-    - _recall_node(): 上下文召回
+    - _build_context_node(): 上下文构建（召回 + 组装）
     - _prepare_retrieval_node(): State 映射
     - _generate_node(): 答案生成
     """
@@ -194,13 +191,114 @@ class ConversationGraphRunner:
 
         self._graph = self._build_graph()
 
+    def _build_langgraph_config(self) -> RunnableConfig | None:
+        """构建 LangGraph 的运行时 config（主要用于注入测试 hook）。"""
+        if callable(getattr(self, "_retrieval_runner", None)):
+            # `enrichment_enabled` 由 retrieval_subgraph 内部开关决定；这里仅用于测试避免外部依赖。
+            return {CONF: {"retrieval_runner": self._retrieval_runner, "enrichment_enabled": False}}
+        return None
+
+    @staticmethod
+    def _normalize_stream_chunk(chunk: Any) -> dict[str, Any]:
+        """
+        统一处理 LangGraph astream(subgraphs=True) 的返回格式差异。
+
+        - 可能是 dict（我们 writer 发送的自定义事件）
+        - 可能是二元组 (ns, payload)
+        - 可能是三元组 (ns, mode, payload)
+        - 其他情况：兜底当作 token 输出
+        """
+        if isinstance(chunk, tuple) and len(chunk) == 2:
+            _ns, payload = chunk
+            if isinstance(payload, dict):
+                return payload
+            return {"status": "token", "content": str(payload)}
+        if isinstance(chunk, tuple) and len(chunk) == 3:
+            _ns, _mode, payload = chunk
+            if isinstance(payload, dict):
+                return payload
+            return {"status": "token", "content": str(payload)}
+        if isinstance(chunk, dict):
+            return chunk
+        return {"status": "token", "content": str(chunk)}
+
+    @staticmethod
+    def _extract_router_hints(
+        route_decision: RouteDecision | dict[str, Any] | None,
+    ) -> tuple[dict[str, Any] | None, str | None, str | None, dict[str, Any] | None]:
+        """
+        从 route_decision 中提取 enrichment/检索所需的提示字段（兼容 dataclass/dict）。
+
+        返回：(extracted_entities, query_intent, media_type_hint, filters)
+        """
+        extracted_entities: dict[str, Any] | None = None
+        query_intent: str | None = None
+        media_type_hint: str | None = None
+        filters: dict[str, Any] | None = None
+
+        if isinstance(route_decision, RouteDecision):
+            extracted_entities = (
+                route_decision.extracted_entities
+                if isinstance(route_decision.extracted_entities, dict)
+                else None
+            )
+            query_intent = str(route_decision.query_intent or "").strip() or None
+            media_type_hint = str(route_decision.media_type_hint or "").strip() or None
+            filters = route_decision.filters if isinstance(route_decision.filters, dict) else None
+            return extracted_entities, query_intent, media_type_hint, filters
+
+        if isinstance(route_decision, dict):
+            ee = route_decision.get("extracted_entities")
+            if isinstance(ee, dict):
+                extracted_entities = ee
+            qi = route_decision.get("query_intent")
+            if isinstance(qi, str) and qi.strip():
+                query_intent = qi.strip()
+            mt = route_decision.get("media_type_hint")
+            if isinstance(mt, str) and mt.strip():
+                media_type_hint = mt.strip()
+            rf = route_decision.get("filters")
+            if isinstance(rf, dict):
+                filters = rf
+
+        return extracted_entities, query_intent, media_type_hint, filters
+
+    @staticmethod
+    def _extract_merged_payload(
+        merged: Any,
+    ) -> tuple[str, dict[str, Any], list[dict[str, Any]] | None]:
+        """从 merger 输出中提取 (context, reference, retrieval_results)，兼容对象/字典两种形态。"""
+        context = ""
+        reference: dict[str, Any] = {}
+        retrieval_results: list[dict[str, Any]] | None = None
+
+        if merged is None:
+            return context, reference, retrieval_results
+
+        if hasattr(merged, "context"):
+            context = str(getattr(merged, "context") or "")
+            reference = dict(getattr(merged, "reference") or {})
+            rr = getattr(merged, "retrieval_results", None)
+            if isinstance(rr, list):
+                retrieval_results = rr
+            return context, reference, retrieval_results
+
+        if isinstance(merged, dict):
+            context = str(merged.get("context") or "")
+            reference = dict(merged.get("reference") or {})
+            rr = merged.get("retrieval_results")
+            if isinstance(rr, list):
+                retrieval_results = rr
+
+        return context, reference, retrieval_results
+
     def _build_graph(self):
         """
         构建对话图（LangGraph StateGraph）
 
         图结构：
         - route: LLM 路由（判定 kb_prefix、抽取实体、推荐 agent）
-        - recall: 召回上下文（memory、summary、history、episodic）
+        - build_context: 构建上下文（memory、summary、history、episodic）
         - prepare_retrieval: State 映射（ConversationState → RetrievalState）
         - retrieval_subgraph: 检索子图（First-Class Subgraph）
         - generate: 答案生成（RAG / general）
@@ -211,7 +309,7 @@ class ConversationGraphRunner:
         """
         g = StateGraph(ConversationState)
         g.add_node("route", self._route_node)
-        g.add_node("recall", self._recall_node)
+        g.add_node("build_context", self._build_context_node)
         g.add_node("prepare_retrieval", self._prepare_retrieval_node)
         from infrastructure.rag.retrieval_subgraph import retrieval_subgraph_compiled
 
@@ -220,8 +318,8 @@ class ConversationGraphRunner:
         g.add_node("generate", self._generate_node)
 
         g.add_edge(START, "route")
-        g.add_edge("route", "recall")
-        g.add_edge("recall", "prepare_retrieval")
+        g.add_edge("route", "build_context")
+        g.add_edge("build_context", "prepare_retrieval")
 
         def _after_prepare(state: ConversationState) -> str:
             """
@@ -257,9 +355,7 @@ class ConversationGraphRunner:
         返回完整的 State（包含 response 字段）
         """
         # Cast for LangGraph (it accepts dict-like inputs).
-        config: RunnableConfig | None = None
-        if callable(getattr(self, "_retrieval_runner", None)):
-            config = {CONF: {"retrieval_runner": self._retrieval_runner, "enrichment_enabled": False}}
+        config = self._build_langgraph_config()
         return await self._graph.ainvoke(dict(state), config=config)
 
     async def astream_custom(self, state: dict[str, Any]) -> AsyncGenerator[dict[str, Any], None]:
@@ -277,45 +373,20 @@ class ConversationGraphRunner:
         - debug: {"execution_log": {...}, "status": "...", "content": {...}}
         - done: {"status": "done"}
         """
-        config: RunnableConfig | None = None
-        if callable(getattr(self, "_retrieval_runner", None)):
-            config = {CONF: {"retrieval_runner": self._retrieval_runner, "enrichment_enabled": False}}
+        config = self._build_langgraph_config()
         async for chunk in self._graph.astream(
             dict(state),
             config=config,
             stream_mode="custom",      # 自定义事件模式（支持 writer 发送的事件）
             subgraphs=True,            # 支持子图事件冒泡（返回 (ns, payload) 元组）
         ):
-            # 当 subgraphs=True 时，LangGraph 返回 `(ns, payload)` 元组
-            # ns: namespace（子图节点名称，例如 "retrieval_subgraph"）
-            # payload: 事件内容（例如 {"status": "token", "content": "李"}）
-            if isinstance(chunk, tuple) and len(chunk) == 2:
-                _ns, payload = chunk
-                if isinstance(payload, dict):
-                    yield payload  # 子图事件自动冒泡
-                else:
-                    yield {"status": "token", "content": str(payload)}
-                continue
-            # 某些 LangGraph 版本返回三元组：(ns, mode, payload)
-            if isinstance(chunk, tuple) and len(chunk) == 3:
-                _ns, _mode, payload = chunk
-                if isinstance(payload, dict):
-                    yield payload
-                else:
-                    yield {"status": "token", "content": str(payload)}
-                continue
-            if isinstance(chunk, dict):
-                yield chunk
-                continue
-            # Defensive fallback: surface as token-ish content.
-            yield {"status": "token", "content": str(chunk)}
+            yield self._normalize_stream_chunk(chunk)
 
     async def _route_node(self, state: ConversationState, config: RunnableConfig) -> dict[str, Any]:
         """路由节点：LLM 路由判定知识库、抽取实体、推荐 agent"""
         message = str(state.get("message") or "")
         session_id = str(state.get("session_id") or "")
         requested_kb = state.get("requested_kb_prefix")
-        agent_type = str(state.get("agent_type") or "hybrid_agent")
         debug = bool(state.get("debug"))
 
         # ===== 1. 调用 Router 进行路由决策 =====
@@ -324,26 +395,17 @@ class ConversationGraphRunner:
             message=message,
             session_id=session_id,
             requested_kb=str(requested_kb) if requested_kb is not None else None,
-            agent_type=agent_type,
         )
         routing_ms = int((time.monotonic() - t0) * 1000)
 
         # ===== 2. 解析 agent_type（从 worker_name）=====
-        resolved_agent_type = _resolve_agent_type(
-            agent_type=agent_type, worker_name=decision.worker_name
-        )
+        resolved_agent_type = _resolve_agent_type(agent_type="hybrid_agent", worker_name=decision.worker_name)
         kb_prefix = (decision.kb_prefix or "").strip() or "general"
         use_retrieval = kb_prefix not in {"", "general"}
-        worker_name = str(decision.worker_name or "")
 
         # ===== 3. 准备 route_payload（用于 debug 前端展示）=====
-        # Frontend debug drawer expects a `selected_agent` field; keep it stable
-        # even though our internal RouteDecision uses `worker_name` + `agent_type`.
-        # We still need a dict for the debug payload / frontend compatibility.
+        # Frontend debug drawer expects a `selected_agent` field.
         route_payload = dataclasses.asdict(decision)
-        # Ensure the payload always carries the requested agent type, even when the
-        # router decision object doesn't expose it.
-        route_payload.setdefault("agent_type", agent_type)
         route_payload.setdefault("selected_agent", resolved_agent_type)
         # Some UIs expect `reasoning`; map from `reason` when available.
         if "reasoning" not in route_payload and "reason" in route_payload:
@@ -361,7 +423,6 @@ class ConversationGraphRunner:
                         "duration_ms": routing_ms,
                         "input": {
                             "requested_kb_prefix": requested_kb,
-                            "agent_type": agent_type,
                             "message_preview": message[:200],
                         },
                         "output": route_payload,
@@ -372,15 +433,13 @@ class ConversationGraphRunner:
 
         return {
             "kb_prefix": kb_prefix,
-            "worker_name": worker_name,
             "route_decision": decision,  # Pass the dataclass object, not the dict
-            "routing_ms": routing_ms,
             "resolved_agent_type": resolved_agent_type,
             "use_retrieval": use_retrieval,
         }
 
-    async def _recall_node(self, state: ConversationState, config: RunnableConfig) -> dict[str, Any]:
-        """召回节点：组装上下文（memory、summary、history、episodic）"""
+    async def _build_context_node(self, state: ConversationState, config: RunnableConfig) -> dict[str, Any]:
+        """构建上下文节点：召回并组装上下文（memory、summary、history、episodic（情节记忆））"""
         message = str(state.get("message") or "")
         debug = bool(state.get("debug"))
         incognito = bool(state.get("incognito"))
@@ -470,7 +529,7 @@ class ConversationGraphRunner:
             writer(
                 {
                     "execution_log": {
-                        "node": "recall",
+                        "node": "build_context",
                         "node_type": "routing",
                         "duration_ms": int((time.monotonic() - t0) * 1000),
                         "input": {"message_preview": message[:200]},
@@ -505,324 +564,325 @@ class ConversationGraphRunner:
             if handler is not None:
                 return {"use_kb_handler": True}
 
-        # ===== 2. 获取 route_decision（用于 enrichment/debug）=====
+        # ===== 2. 最小化子图输入：只补齐子图需要但父图 state 没有的字段 =====
+        # 说明：retrieval_subgraph 是 first-class subgraph，会直接读取父图 state 中已有的
+        # user_id/session_id/request_id/route_decision/resolved_agent_type 等字段。
+        # 因此这里只设置：use_kb_handler/query/user_message_id（以及必要的类型兜底）。
         route_decision = state.get("route_decision")
         if not isinstance(route_decision, RouteDecision):
             # Defensive: allow dict-like legacy objects.
             route_decision = cast(Any, route_decision)
 
-        # ===== 3. 填充 RetrievalState 字段（子图直接运行在 ConversationState 上）=====
-        # First-Class Subgraph 设计：子图作为独立节点，共享父图的 State
         return {
             "use_kb_handler": False,
             "query": str(state.get("message") or ""),
             "user_message_id": state.get("current_user_message_id"),
-            "kb_prefix": kb_prefix,
             "route_decision": route_decision,
-            "debug": bool(state.get("debug")),
-            "session_id": str(state.get("session_id") or ""),
-            "user_id": str(state.get("user_id") or "") if state.get("user_id") is not None else None,
-            "request_id": str(state.get("request_id") or "") if state.get("request_id") is not None else None,
-            "conversation_id": state.get("conversation_id"),
-            "incognito": bool(state.get("incognito")),
-            "resolved_agent_type": str(state.get("resolved_agent_type") or ""),
         }
 
-    async def _generate_node(self, state: ConversationState, config: RunnableConfig) -> dict[str, Any]:
-        """生成节点：负责答案生成（支持 KB Handler / 通用闲聊 / RAG 检索三种模式）"""
-        stream = bool(state.get("stream"))
-        debug = bool(state.get("debug"))
-        incognito = bool(state.get("incognito"))
+    @staticmethod
+    def _emit_progress(
+        writer: Callable[[Any], None],
+        *,
+        stage: str,
+        completed: int,
+        total: int,
+        error: str | None,
+        agent_type: str = "",
+        retrieval_count: int | None = None,
+    ) -> None:
+        """统一 progress 事件的输出格式，避免各分支重复拼 payload。"""
+        writer(
+            {
+                "status": "progress",
+                "content": {
+                    "stage": stage,
+                    "completed": completed,
+                    "total": total,
+                    "error": error,
+                    "agent_type": agent_type,
+                    "retrieval_count": retrieval_count,
+                },
+            }
+        )
 
-        kb_prefix = str(state.get("kb_prefix") or "general")
-        message = str(state.get("message") or "")
-        session_id = str(state.get("session_id") or "")
-        request_id = state.get("request_id")
-        user_id = state.get("user_id")
-        conversation_id = state.get("conversation_id")
-        user_message_id = state.get("current_user_message_id")
+    @staticmethod
+    def _emit_execution_log(
+        writer: Callable[[Any], None],
+        *,
+        node: str,
+        node_type: str,
+        duration_ms: int,
+        input: dict[str, Any],
+        output: dict[str, Any],
+    ) -> None:
+        """统一 execution_log 的输出格式，便于 DebugCollector/UI 做时间线聚合。"""
+        writer(
+            {
+                "execution_log": {
+                    "node": node,
+                    "node_type": node_type,
+                    "duration_ms": duration_ms,
+                    "input": input,
+                    "output": output,
+                }
+            }
+        )
 
-        memory_context = state.get("memory_context")
-        conversation_summary = state.get("conversation_summary")
-        episodic_context = state.get("episodic_context")
-        history = state.get("history")
+    async def _generate_with_kb_handler(
+        self,
+        *,
+        state: ConversationState,
+        config: RunnableConfig,
+        kb_prefix: str,
+        message: str,
+        session_id: str,
+        resolved_agent_type: str,
+        debug: bool,
+        incognito: bool,
+        user_id: Any,
+        request_id: Any,
+        conversation_id: Any,
+        user_message_id: Any,
+        memory_context: str | None,
+        conversation_summary: str | None,
+        episodic_context: str | None,
+        history: list[dict[str, Any]] | None,
+    ) -> dict[str, Any] | None:
+        """
+        KB Handler 分支：由 handler 自己完成检索/生成（主图只负责透传上下文与路由提示）。
 
-        # ===== 分支 1：KB Handler 模式（Handler 自带完整编排逻辑）=====
-        if bool(state.get("use_kb_handler")) and self._kb_handler_factory is not None:
-            kb_handler = self._kb_handler_factory.get(kb_prefix)
-            if kb_handler is not None:
-                # Preserve router hints for enrichment/debug inside KB handlers.
-                route_decision = state.get("route_decision")
-                extracted_entities = None
-                query_intent: str | None = None
-                media_type_hint: str | None = None
-                filters: dict[str, Any] | None = None
-                if isinstance(route_decision, RouteDecision):
-                    extracted_entities = route_decision.extracted_entities
-                    query_intent = route_decision.query_intent
-                    media_type_hint = route_decision.media_type_hint
-                    filters = route_decision.filters
-                elif isinstance(route_decision, dict):
-                    extracted_entities = route_decision.get("extracted_entities")
-                    query_intent = route_decision.get("query_intent")
-                    media_type_hint = route_decision.get("media_type_hint")
-                    raw_filters = route_decision.get("filters")
-                    if isinstance(raw_filters, dict):
-                        filters = raw_filters
+        返回：
+        - 命中 handler 且非流式：{"response": ...}
+        - 命中 handler 且流式：{}（事件通过 writer 输出）
+        - 未命中 handler：None（继续走后续分支）
+        """
+        if not bool(state.get("use_kb_handler")) or self._kb_handler_factory is None:
+            return None
+        kb_handler = self._kb_handler_factory.get(kb_prefix)
+        if kb_handler is None:
+            return None
 
-                if stream:
-                    writer = _get_stream_writer(config)
-                    async for ev in kb_handler.process_stream(
-                        message=message,
-                        session_id=session_id,
-                        agent_type=str(state.get("resolved_agent_type") or state.get("agent_type") or "hybrid_agent"),
-                        debug=debug,
-                        user_id=str(user_id) if user_id is not None else None,
-                        request_id=str(request_id) if request_id is not None else None,
-                        conversation_id=conversation_id,
-                        user_message_id=user_message_id,
-                        incognito=incognito,
-                        memory_context=memory_context,
-                        summary=conversation_summary,
-                        episodic_context=episodic_context,
-                        history=history,
-                        extracted_entities=extracted_entities,
-                        query_intent=query_intent,
-                        media_type_hint=media_type_hint,
-                        filters=filters,
-                    ):
-                        writer(ev)
-                    return {}
+        # Preserve router hints for enrichment/debug inside KB handlers.
+        route_decision = state.get("route_decision")
+        extracted_entities, query_intent, media_type_hint, filters = self._extract_router_hints(
+            route_decision if isinstance(route_decision, (RouteDecision, dict)) else None
+        )
 
-                resp = await kb_handler.process(
-                    message=message,
-                    session_id=session_id,
-                    agent_type=str(state.get("resolved_agent_type") or state.get("agent_type") or "hybrid_agent"),
-                    debug=debug,
-                    user_id=str(user_id) if user_id is not None else None,
-                    request_id=str(request_id) if request_id is not None else None,
-                    conversation_id=conversation_id,
-                    user_message_id=user_message_id,
-                    incognito=incognito,
-                    memory_context=memory_context,
-                    summary=conversation_summary,
-                    episodic_context=episodic_context,
-                    history=history,
-                    extracted_entities=extracted_entities,
-                    query_intent=query_intent,
-                    media_type_hint=media_type_hint,
-                    filters=filters,
-                )
-                return {"response": resp}
-
-        # ===== 分支 2：通用闲聊模式（无检索，直接生成答案）=====
-        if not bool(state.get("use_retrieval")):
-            if stream:
-                writer = _get_stream_writer(config)
-                gen_stream = (
-                    self._general_answer_stream_fn
-                    if callable(getattr(self, "_general_answer_stream_fn", None))
-                    else generate_general_answer_stream
-                )
-                generation_start = time.monotonic()
-                generated_chars = 0
-                chunk_count = 0
-                if debug:
-                    # Keep debug payload shape stable for the DebugCollector/UI:
-                    # always include a rag_runs list, even when no retrieval is performed.
-                    writer(
-                        {
-                            "status": "rag_runs",
-                            "content": [
-                                {"agent_type": "none", "retrieval_count": 0, "error": None}
-                            ],
-                        }
-                    )
-                writer(
-                    {
-                        "status": "progress",
-                        "content": {
-                            "stage": "generation",
-                            "completed": 0,
-                            "total": 1,
-                            "error": None,
-                            "agent_type": "",
-                            "retrieval_count": None,
-                        },
-                    }
-                )
-                try:
-                    async for chunk in gen_stream(
-                        question=message,
-                        memory_context=memory_context,
-                        summary=conversation_summary,
-                        episodic_context=episodic_context,
-                        history=history,
-                    ):
-                        if not chunk:
-                            continue
-                        generated_chars += len(chunk)
-                        chunk_count += 1
-                        writer({"status": "token", "content": chunk})
-                except Exception as e:
-                    writer({"status": "error", "message": f"生成答案失败: {e}"})
-                    writer(
-                        {
-                            "status": "progress",
-                            "content": {
-                                "stage": "generation",
-                                "completed": 1,
-                                "total": 1,
-                                "error": str(e),
-                                "agent_type": "",
-                                "retrieval_count": None,
-                            },
-                        }
-                    )
-                    if debug:
-                        writer(
-                            {
-                                "execution_log": {
-                                    "node": "answer_error",
-                                    "node_type": "generation",
-                                    "duration_ms": int((time.monotonic() - generation_start) * 1000),
-                                    "input": {"message": message, "kb_prefix": kb_prefix},
-                                    "output": {"error": str(e)},
-                                }
-                            }
-                        )
-                else:
-                    writer(
-                        {
-                            "status": "progress",
-                            "content": {
-                                "stage": "generation",
-                                "completed": 1,
-                                "total": 1,
-                                "error": None,
-                                "agent_type": "",
-                                "retrieval_count": None,
-                            },
-                        }
-                    )
-                    if debug:
-                        writer(
-                            {
-                                "execution_log": {
-                                    "node": "answer_done",
-                                    "node_type": "generation",
-                                    "duration_ms": int((time.monotonic() - generation_start) * 1000),
-                                    "input": {"message": message, "kb_prefix": kb_prefix},
-                                    "output": {"generated_chars": generated_chars, "chunk_count": chunk_count},
-                                }
-                            }
-                        )
-                writer({"status": "done"})
-                return {}
-
-            answer = await self._completion.generate(
+        if bool(state.get("stream")):
+            writer = _get_stream_writer(config)
+            async for ev in kb_handler.process_stream(
                 message=message,
+                session_id=session_id,
+                agent_type=resolved_agent_type,
+                debug=debug,
+                user_id=str(user_id) if user_id is not None else None,
+                request_id=str(request_id) if request_id is not None else None,
+                conversation_id=conversation_id,
+                user_message_id=user_message_id,
+                incognito=incognito,
                 memory_context=memory_context,
                 summary=conversation_summary,
                 episodic_context=episodic_context,
                 history=history,
-            )
-            return {"response": {"answer": answer}}
-
-        # ===== 分支 3：RAG 检索模式（基于 retrieval_subgraph 的 merged 结果生成答案）=====
-        merged = state.get("merged")
-
-        context = ""
-        reference: dict[str, Any] = {}
-        retrieval_results: list[dict[str, Any]] | None = None
-        if merged is not None:
-            if hasattr(merged, "context"):
-                context = str(getattr(merged, "context") or "")
-                reference = dict(getattr(merged, "reference") or {})
-                rr = getattr(merged, "retrieval_results", None)
-                if isinstance(rr, list):
-                    retrieval_results = rr
-            elif isinstance(merged, dict):
-                context = str(merged.get("context") or "")
-                reference = dict(merged.get("reference") or {})
-                rr = merged.get("retrieval_results")
-                if isinstance(rr, list):
-                    retrieval_results = rr
-
-        if stream:
-            writer = _get_stream_writer(config)
-            rag_stream = (
-                self._rag_answer_stream_fn
-                if callable(getattr(self, "_rag_answer_stream_fn", None))
-                else generate_rag_answer_stream
-            )
-            generation_start = time.monotonic()
-            generated_chars = 0
-            chunk_count = 0
-            error_message: str | None = None
-            writer(
-                {
-                    "status": "progress",
-                    "content": {
-                        "stage": "generation",
-                        "completed": 0,
-                        "total": 1,
-                        "error": None,
-                        "agent_type": "",
-                        "retrieval_count": None,
-                    },
-                }
-            )
-            try:
-                async for chunk in rag_stream(
-                    question=message,
-                    context=context,
-                    memory_context=memory_context,
-                    summary=conversation_summary,
-                    episodic_context=episodic_context,
-                    history=history,
-                ):
-                    if not chunk:
-                        continue
-                    generated_chars += len(chunk)
-                    chunk_count += 1
-                    writer({"status": "token", "content": chunk})
-            except Exception as e:
-                error_message = str(e)
-                writer({"status": "error", "message": f"生成答案失败: {e}"})
-            finally:
-                writer(
-                    {
-                        "status": "progress",
-                        "content": {
-                            "stage": "generation",
-                            "completed": 1,
-                            "total": 1,
-                            "error": error_message,
-                            "agent_type": "",
-                            "retrieval_count": None,
-                        },
-                    }
-                )
-                if debug:
-                    writer(
-                        {
-                            "execution_log": {
-                                "node": "answer_done" if error_message is None else "answer_error",
-                                "node_type": "generation",
-                                "duration_ms": int((time.monotonic() - generation_start) * 1000),
-                                "input": {"message_preview": message[:200], "context_chars": len(context)},
-                                "output": {
-                                    "generated_chars": generated_chars,
-                                    "chunk_count": chunk_count,
-                                    "error": error_message,
-                                },
-                            }
-                        }
-                    )
-                writer({"status": "done"})
+                extracted_entities=extracted_entities,
+                query_intent=query_intent,
+                media_type_hint=media_type_hint,
+                filters=filters,
+            ):
+                writer(ev)
             return {}
 
+        resp = await kb_handler.process(
+            message=message,
+            session_id=session_id,
+            agent_type=resolved_agent_type,
+            debug=debug,
+            user_id=str(user_id) if user_id is not None else None,
+            request_id=str(request_id) if request_id is not None else None,
+            conversation_id=conversation_id,
+            user_message_id=user_message_id,
+            incognito=incognito,
+            memory_context=memory_context,
+            summary=conversation_summary,
+            episodic_context=episodic_context,
+            history=history,
+            extracted_entities=extracted_entities,
+            query_intent=query_intent,
+            media_type_hint=media_type_hint,
+            filters=filters,
+        )
+        return {"response": resp}
+
+    async def _generate_general_answer(
+        self,
+        *,
+        message: str,
+        memory_context: str | None,
+        conversation_summary: str | None,
+        episodic_context: str | None,
+        history: list[dict[str, Any]] | None,
+    ) -> dict[str, Any]:
+        """通用闲聊（非流式）：无检索，直接生成答案。"""
+        answer = await self._completion.generate(
+            message=message,
+            memory_context=memory_context,
+            summary=conversation_summary,
+            episodic_context=episodic_context,
+            history=history,
+        )
+        return {"response": {"answer": answer}}
+
+    async def _generate_general_stream(
+        self,
+        *,
+        message: str,
+        kb_prefix: str,
+        debug: bool,
+        memory_context: str | None,
+        conversation_summary: str | None,
+        episodic_context: str | None,
+        history: list[dict[str, Any]] | None,
+        config: RunnableConfig,
+    ) -> dict[str, Any]:
+        """通用闲聊（流式）：输出 token/progress/（debug 时）execution_log。"""
+        writer = _get_stream_writer(config)
+        gen_stream = (
+            self._general_answer_stream_fn
+            if callable(getattr(self, "_general_answer_stream_fn", None))
+            else generate_general_answer_stream
+        )
+        generation_start = time.monotonic()
+        generated_chars = 0
+        chunk_count = 0
+
+        if debug:
+            # Keep debug payload shape stable for the DebugCollector/UI:
+            # always include a rag_runs list, even when no retrieval is performed.
+            writer({"status": "rag_runs", "content": [{"agent_type": "none", "retrieval_count": 0, "error": None}]})
+
+        self._emit_progress(writer, stage="generation", completed=0, total=1, error=None, agent_type="", retrieval_count=None)
+
+        try:
+            async for chunk in gen_stream(
+                question=message,
+                memory_context=memory_context,
+                summary=conversation_summary,
+                episodic_context=episodic_context,
+                history=history,
+            ):
+                if not chunk:
+                    continue
+                generated_chars += len(chunk)
+                chunk_count += 1
+                writer({"status": "token", "content": chunk})
+        except Exception as e:
+            err = str(e)
+            writer({"status": "error", "message": f"生成答案失败: {e}"})
+            self._emit_progress(writer, stage="generation", completed=1, total=1, error=err, agent_type="", retrieval_count=None)
+            if debug:
+                self._emit_execution_log(
+                    writer,
+                    node="answer_error",
+                    node_type="generation",
+                    duration_ms=int((time.monotonic() - generation_start) * 1000),
+                    input={"message": message, "kb_prefix": kb_prefix},
+                    output={"error": err},
+                )
+        else:
+            self._emit_progress(writer, stage="generation", completed=1, total=1, error=None, agent_type="", retrieval_count=None)
+            if debug:
+                self._emit_execution_log(
+                    writer,
+                    node="answer_done",
+                    node_type="generation",
+                    duration_ms=int((time.monotonic() - generation_start) * 1000),
+                    input={"message": message, "kb_prefix": kb_prefix},
+                    output={"generated_chars": generated_chars, "chunk_count": chunk_count},
+                )
+
+        writer({"status": "done"})
+        return {}
+
+    async def _generate_rag_stream(
+        self,
+        *,
+        message: str,
+        context: str,
+        debug: bool,
+        memory_context: str | None,
+        conversation_summary: str | None,
+        episodic_context: str | None,
+        history: list[dict[str, Any]] | None,
+        config: RunnableConfig,
+    ) -> dict[str, Any]:
+        """RAG（流式）：基于 merged.context 生成答案并输出 token/progress/（debug 时）execution_log。"""
+        writer = _get_stream_writer(config)
+        rag_stream = (
+            self._rag_answer_stream_fn
+            if callable(getattr(self, "_rag_answer_stream_fn", None))
+            else generate_rag_answer_stream
+        )
+        generation_start = time.monotonic()
+        generated_chars = 0
+        chunk_count = 0
+        error_message: str | None = None
+
+        self._emit_progress(writer, stage="generation", completed=0, total=1, error=None, agent_type="", retrieval_count=None)
+        try:
+            async for chunk in rag_stream(
+                question=message,
+                context=context,
+                memory_context=memory_context,
+                summary=conversation_summary,
+                episodic_context=episodic_context,
+                history=history,
+            ):
+                if not chunk:
+                    continue
+                generated_chars += len(chunk)
+                chunk_count += 1
+                writer({"status": "token", "content": chunk})
+        except Exception as e:
+            error_message = str(e)
+            writer({"status": "error", "message": f"生成答案失败: {e}"})
+        finally:
+            self._emit_progress(
+                writer,
+                stage="generation",
+                completed=1,
+                total=1,
+                error=error_message,
+                agent_type="",
+                retrieval_count=None,
+            )
+            if debug:
+                self._emit_execution_log(
+                    writer,
+                    node="answer_done" if error_message is None else "answer_error",
+                    node_type="generation",
+                    duration_ms=int((time.monotonic() - generation_start) * 1000),
+                    input={"message_preview": message[:200], "context_chars": len(context)},
+                    output={"generated_chars": generated_chars, "chunk_count": chunk_count, "error": error_message},
+                )
+            writer({"status": "done"})
+        return {}
+
+    async def _generate_rag_answer(
+        self,
+        *,
+        state: ConversationState,
+        message: str,
+        context: str,
+        reference: dict[str, Any],
+        retrieval_results: list[dict[str, Any]] | None,
+        memory_context: str | None,
+        conversation_summary: str | None,
+        episodic_context: str | None,
+        history: list[dict[str, Any]] | None,
+        debug: bool,
+    ) -> dict[str, Any]:
+        """RAG（非流式）：基于 merged.context 生成答案，并在 debug 时附带 plan/runs/records/reflection。"""
         answer_error: str | None = None
         rag_fn = self._rag_answer_fn if callable(getattr(self, "_rag_answer_fn", None)) else generate_rag_answer
         try:
@@ -878,3 +938,95 @@ class ConversationGraphRunner:
             )
 
         return {"response": resp}
+
+    async def _generate_node(self, state: ConversationState, config: RunnableConfig) -> dict[str, Any]:
+        """生成节点：负责答案生成（支持 KB Handler / 通用闲聊 / RAG 检索三种模式）"""
+        stream = bool(state.get("stream"))
+        debug = bool(state.get("debug"))
+        incognito = bool(state.get("incognito"))
+
+        kb_prefix = str(state.get("kb_prefix") or "general")
+        message = str(state.get("message") or "")
+        session_id = str(state.get("session_id") or "")
+        request_id = state.get("request_id")
+        user_id = state.get("user_id")
+        conversation_id = state.get("conversation_id")
+        user_message_id = state.get("current_user_message_id")
+
+        memory_context = state.get("memory_context")
+        conversation_summary = state.get("conversation_summary")
+        episodic_context = state.get("episodic_context")
+        history = state.get("history")
+
+        resolved_agent_type = str(state.get("resolved_agent_type") or "hybrid_agent")
+
+        # ===== 分支 1：KB Handler 模式（Handler 自带完整编排逻辑）=====
+        handler_out = await self._generate_with_kb_handler(
+            state=state,
+            config=config,
+            kb_prefix=kb_prefix,
+            message=message,
+            session_id=session_id,
+            resolved_agent_type=resolved_agent_type,
+            debug=debug,
+            incognito=incognito,
+            user_id=user_id,
+            request_id=request_id,
+            conversation_id=conversation_id,
+            user_message_id=user_message_id,
+            memory_context=memory_context,
+            conversation_summary=conversation_summary,
+            episodic_context=episodic_context,
+            history=history,
+        )
+        if handler_out is not None:
+            return handler_out
+
+        # ===== 分支 2：通用闲聊模式（无检索，直接生成答案）=====
+        if not bool(state.get("use_retrieval")):
+            if stream:
+                return await self._generate_general_stream(
+                    message=message,
+                    kb_prefix=kb_prefix,
+                    debug=debug,
+                    memory_context=memory_context,
+                    conversation_summary=conversation_summary,
+                    episodic_context=episodic_context,
+                    history=history,
+                    config=config,
+                )
+            return await self._generate_general_answer(
+                message=message,
+                memory_context=memory_context,
+                conversation_summary=conversation_summary,
+                episodic_context=episodic_context,
+                history=history,
+            )
+
+        # ===== 分支 3：RAG 检索模式（基于 retrieval_subgraph 的 merged 结果生成答案）=====
+        merged = state.get("merged")
+        context, reference, retrieval_results = self._extract_merged_payload(merged)
+
+        if stream:
+            return await self._generate_rag_stream(
+                message=message,
+                context=context,
+                debug=debug,
+                memory_context=memory_context,
+                conversation_summary=conversation_summary,
+                episodic_context=episodic_context,
+                history=history,
+                config=config,
+            )
+        return await self._generate_rag_answer(
+            state=state,
+            message=message,
+            context=context,
+            reference=reference,
+            retrieval_results=retrieval_results,
+            memory_context=memory_context,
+            conversation_summary=conversation_summary,
+            episodic_context=episodic_context,
+            history=history,
+            debug=debug,
+        )

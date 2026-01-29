@@ -240,11 +240,10 @@ def _should_enrich_by_entity_matching(
         # Router-directed path: TV recommendations should use TMDB /discover/tv.
         return True
     if (query_intent or "").strip().lower() == "recommend" and (media_type_hint or "").strip().lower() == "movie":
-        # For movies, only do discover when the user gave explicit filter constraints.
-        if isinstance(filters, dict) and any(
-            k in filters for k in ("year", "origin_country", "original_language", "region", "date_range")
-        ):
-            return True
+        # Router-directed path: movie recommendations should always allow TMDB enrichment.
+        # Otherwise the client sees only the seed movie (from GraphRAG) instead of a
+        # list of recommended candidates to browse.
+        return True
 
     names: list[str] = []
     if isinstance(extracted_entities, dict):

@@ -27,8 +27,8 @@ class _StubRouter:
         message: str,
         session_id: str,
         requested_kb: Optional[str],
-        agent_type: str,
     ) -> RouteDecision:
+        _ = session_id
         kb = (requested_kb or "").strip()
         if not kb:
             if "movie" in message.lower():
@@ -38,7 +38,8 @@ class _StubRouter:
             else:
                 kb = "general"
 
-        worker_name = f"{kb}:{agent_type}" if kb not in {"", "general"} else ""
+        # Router owns agent selection; in tests we keep it deterministic.
+        worker_name = f"{kb}:hybrid_agent:retrieve_only" if kb not in {"", "general"} else ""
         return RouteDecision(
             requested_kb_prefix=(requested_kb or ""),
             routed_kb_prefix=kb,
@@ -412,7 +413,6 @@ class TestPhase2ApiE2E(unittest.TestCase):
                 "session_id": "s1",
                 "kb_prefix": None,
                 "debug": True,
-                "agent_type": "hybrid_agent",
             },
         )
         self.assertEqual(resp.status_code, 200)
@@ -430,7 +430,6 @@ class TestPhase2ApiE2E(unittest.TestCase):
                 "session_id": "s1",
                 "kb_prefix": "movie",
                 "debug": True,
-                "agent_type": "hybrid_agent",
             },
         )
         self.assertEqual(resp.status_code, 200)
@@ -449,7 +448,6 @@ class TestPhase2ApiE2E(unittest.TestCase):
                 "session_id": "s1",
                 "kb_prefix": "edu",
                 "debug": True,
-                "agent_type": "hybrid_agent",
             },
         )
         self.assertEqual(resp.status_code, 200)
@@ -466,7 +464,6 @@ class TestPhase2ApiE2E(unittest.TestCase):
                 "session_id": "s1",
                 "kb_prefix": None,
                 "debug": False,
-                "agent_type": "hybrid_agent",
             },
         )
         self.assertEqual(resp.status_code, 200)
@@ -490,7 +487,6 @@ class TestPhase2ApiE2E(unittest.TestCase):
                 "session_id": "s1",
                 "kb_prefix": "movie",
                 "debug": False,
-                "agent_type": "hybrid_agent",
             },
         )
         self.assertEqual(resp.status_code, 200)
@@ -511,7 +507,6 @@ class TestPhase2ApiE2E(unittest.TestCase):
                 "session_id": "s1",
                 "kb_prefix": "edu",
                 "debug": False,
-                "agent_type": "hybrid_agent",
             },
         )
         self.assertEqual(resp.status_code, 200)
@@ -530,7 +525,6 @@ class TestPhase2ApiE2E(unittest.TestCase):
                 "session_id": "s1",
                 "kb_prefix": None,
                 "debug": True,
-                "agent_type": "hybrid_agent",
             },
         )
         self.assertEqual(resp.status_code, 200)

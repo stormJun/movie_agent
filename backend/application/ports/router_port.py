@@ -12,6 +12,5 @@ class RouterPort(Protocol):
         message: str,
         session_id: str,
         requested_kb: Optional[str],
-        agent_type: str,
     ) -> RouteDecision:
         ...

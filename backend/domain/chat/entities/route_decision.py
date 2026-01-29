@@ -34,7 +34,6 @@ class RouteDecision:
 class ChatRouteState(TypedDict, total=False):
     message: str
     session_id: str
-    agent_type: str
     requested_kb_prefix: str
     routed_kb_prefix: Optional[str]
     kb_prefix: Optional[str]
@@ -46,5 +45,5 @@ class ChatRouteState(TypedDict, total=False):
     media_type_hint: MediaTypeHint
     filters: Optional[dict[str, Any]]
     extracted_entities: Optional[dict[str, Any]]
-    # NEW: LLM-recommended agent_type (has priority over agent_type)
-    resolved_agent_type: Optional[str]
+    # LLM-recommended agent_type (has priority over agent_type)
+    recommended_agent_type: Optional[str]

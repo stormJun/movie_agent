@@ -916,6 +916,29 @@ async def _merge_node(state: RetrievalState, config: RunnableConfig) -> dict[str
                         incognito=bool(state.get("incognito")),
                     )
                     if result.success and result.transient_graph and not result.transient_graph.is_empty():
+                        # Best-effort: collect TMDB ids from enrichment so clients can render
+                        # movie cards linked to citations/references (even for QA, not only recommend).
+                        try:
+                            mt = str(media_type_hint or "").strip().lower()
+                            ids: list[int] = []
+                            for n in result.transient_graph.nodes or []:
+                                if not isinstance(getattr(n, "labels", None), set):
+                                    continue
+                                if mt == "tv" and "TV" not in n.labels:
+                                    continue
+                                if mt != "tv" and "Movie" not in n.labels:
+                                    continue
+                                props = getattr(n, "properties", None)
+                                tid = props.get("tmdb_id") if isinstance(props, dict) else None
+                                if isinstance(tid, int):
+                                    ids.append(tid)
+                            state.setdefault("_tmdb_reco_ids", [])
+                            if isinstance(state.get("_tmdb_reco_ids"), list):
+                                state["_tmdb_reco_ids"].extend(ids)
+                        except Exception:
+                            # Best-effort only.
+                            pass
+
                         enriched_text = result.transient_graph.to_context_text().strip()
         except Exception as e:
             logger.debug("query-time enrichment failed: %s", e, exc_info=True)
@@ -1020,6 +1043,48 @@ async def _merge_node(state: RetrievalState, config: RunnableConfig) -> dict[str
             "merged_context_chars": len(combined_context),
         },
     )
+
+    # Emit TMDB recommendation list for recommendation intents.
+    # We intentionally do NOT derive ids from GraphRAG `reference` here, because for
+    # queries like "推荐类似《喜宴》的电影" the reference often only includes the seed movie.
+    try:
+        mt = str(media_type_hint or "").strip().lower()
+        qi = str(query_intent or "").strip().lower()
+        if qi != "recommend":
+            ids = []
+        else:
+            ids: list[int] = []
+            extra = state.get("_tmdb_reco_ids")
+            if isinstance(extra, list):
+                for x in extra:
+                    if isinstance(x, int):
+                        ids.append(x)
+
+        # Dedup while preserving order.
+        dedup: list[int] = []
+        seen = set()
+        for tid in ids:
+            if tid in seen:
+                continue
+            seen.add(tid)
+            dedup.append(tid)
+
+        if dedup:
+            title = "为你推荐（TMDB）"
+            writer(
+                {
+                    "status": "recommendations",
+                    "content": {
+                        "tmdb_ids": dedup,
+                        "title": title,
+                        "mode": "tmdb_recommendations",
+                        "media_type": mt or "movie",
+                    },
+                }
+            )
+    except Exception:
+        # Never fail retrieval on UI hints.
+        pass
 
     return {"merged": merged, "stop_reason": state.get("stop_reason") or "success"}
 

@@ -31,7 +31,6 @@ async def chat(
                     input=request.message,
                     metadata={
                         "kb_prefix": request.kb_prefix,
-                        "agent_type": request.agent_type,
                         "debug": request.debug,
                         "incognito": bool(request.incognito),
                         "watchlist_auto_capture": request.watchlist_auto_capture,
@@ -59,7 +58,6 @@ async def chat(
             debug=request.debug,
             incognito=bool(request.incognito),
             watchlist_auto_capture=request.watchlist_auto_capture,
-            agent_type=request.agent_type,
             request_id=request_id,
         )
 

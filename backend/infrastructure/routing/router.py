@@ -14,11 +14,9 @@ class RouterGraphAdapter(RouterPort):
         message: str,
         session_id: str,
         requested_kb: Optional[str],
-        agent_type: str,
     ) -> RouteDecision:
         return invoke_router_graph(
             message=message,
             session_id=session_id,
-            agent_type=agent_type,
             requested_kb_prefix=requested_kb,
         )

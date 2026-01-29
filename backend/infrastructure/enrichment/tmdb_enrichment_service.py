@@ -163,15 +163,103 @@ class TMDBEnrichmentService:
                     duration_ms=duration_ms,
                 )
 
-        # Movie recommendations with explicit filters should use /discover/movie.
-        if router_intent == "recommend" and router_media == "movie" and not router_low_level and isinstance(filters, dict) and filters:
-            payloads = await self._fetch_movie_recommendations_with_retry(query_text=message, filters=filters)
+        # Movie recommendations "similar to <seed movie>".
+        # When the router extracted a concrete movie title, try to resolve it and call
+        # TMDB /movie/{id}/recommendations to get a list of candidates.
+        if router_intent == "recommend" and router_media == "movie" and router_low_level:
+            seed_title = router_low_level[0]
+            seed_payload, seed_meta = await self._tmdb_client.resolve_entity_via_multi(
+                text=seed_title, query=message
+            )
+            self._last_disambiguation = [seed_meta] if isinstance(seed_meta, dict) else []
+            seed_id = None
+            if isinstance(seed_payload, dict) and seed_payload.get("type") == "movie":
+                data = seed_payload.get("data")
+                if isinstance(data, dict) and isinstance(data.get("id"), int):
+                    seed_id = int(data["id"])
+
+            if seed_id is not None:
+                raw = await self._tmdb_client.movie_recommendations_raw(
+                    movie_id=seed_id, language="zh-CN", page=1
+                )
+                results: list[dict[str, Any]] = []
+                if isinstance(raw, dict):
+                    res = raw.get("results") or []
+                    if isinstance(res, list):
+                        results = [r for r in res if isinstance(r, dict)]
+
+                top = [r for r in results if r.get("id") and int(r.get("id")) != seed_id][:5]
+
+                async def _fetch(it: dict[str, Any]) -> dict[str, Any] | None:
+                    mid = it.get("id")
+                    if not mid:
+                        return None
+                    details = await self._tmdb_client.get_movie_details(int(mid), language="zh-CN")
+                    if not isinstance(details, dict) or not details:
+                        return None
+                    overview = str(details.get("overview") or "").strip()
+                    if not overview:
+                        details_en = await self._tmdb_client.get_movie_details(int(mid), language="en-US")
+                        if details_en and str(details_en.get("overview") or "").strip():
+                            details["overview"] = str(details_en.get("overview") or "")
+                    return {"type": "movie", "data": details}
+
+                payloads: list[dict[str, Any]] = []
+                fetched = await asyncio.gather(*[_fetch(it) for it in top], return_exceptions=True)
+                for r in fetched:
+                    if isinstance(r, dict) and r:
+                        payloads.append(r)
+
+                if payloads:
+                    transient_graph = self._graph_builder.build_from_tmdb_payloads(payloads)
+                    transient_graph.metadata["context_hint"] = (
+                        "NOTE: The user is asking for movie recommendations similar to a seed movie. "
+                        "The following movie items are candidates returned by TMDB /movie/{id}/recommendations."
+                    )
+                    disamb = getattr(self, "_last_disambiguation", None)
+                    if isinstance(disamb, list) and disamb:
+                        transient_graph.metadata["tmdb_disambiguation"] = disamb
+                    duration_ms = (time.monotonic() - start_time) * 1000
+                    await self._maybe_persist(
+                        user_id=user_id,
+                        session_id=session_id,
+                        request_id=request_id,
+                        conversation_id=conversation_id,
+                        user_message_id=user_message_id,
+                        incognito=incognito,
+                        query_text=message,
+                        tmdb_endpoint=f"/movie/{seed_id}/recommendations",
+                        extracted_entities=[seed_title],
+                        payloads=payloads,
+                        duration_ms=duration_ms,
+                    )
+                    return EnrichmentResult(
+                        success=True,
+                        transient_graph=transient_graph,
+                        extracted_entities=[seed_title],
+                        cached=False,
+                        duration_ms=duration_ms,
+                    )
+
+        # Movie recommendations without an explicit seed movie should use /discover/movie.
+        # This branch must also work when router filters are empty/null (e.g., "给我推荐几个电影"),
+        # otherwise the MiniProgram will have no recommendation_ids to render.
+        if router_intent == "recommend" and router_media == "movie" and not router_low_level:
+            payloads = await self._fetch_movie_recommendations_with_retry(
+                query_text=message,
+                filters=filters if isinstance(filters, dict) else None,
+            )
             if payloads:
                 transient_graph = self._graph_builder.build_from_tmdb_payloads(payloads)
+                has_filters = isinstance(filters, dict) and bool(filters)
                 transient_graph.metadata["context_hint"] = (
-                    "NOTE: The user is asking for movie recommendations with explicit filters "
-                    "(e.g., year/region/language). The following movie items are candidates returned "
-                    "by TMDB /discover/movie."
+                    "NOTE: The user is asking for movie recommendations. "
+                    + (
+                        "The following movie items are candidates returned by TMDB /discover/movie "
+                        "using router-provided filters."
+                        if has_filters
+                        else "The following movie items are popular candidates returned by TMDB /discover/movie."
+                    )
                 )
                 disamb = getattr(self, "_last_disambiguation", None)
                 if isinstance(disamb, list) and disamb:

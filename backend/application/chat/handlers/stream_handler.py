@@ -72,7 +72,6 @@ class StreamHandler:
         debug: bool = False,
         incognito: bool = False,
         watchlist_auto_capture: bool | None = None,
-        agent_type: str = "hybrid_agent",
         request_id: str | None = None,
     ) -> AsyncGenerator[dict[str, Any], None]:
         """流式处理主入口：负责持久化、编排对话图、后处理"""
@@ -130,7 +129,6 @@ class StreamHandler:
                     "requested_kb_prefix": kb_prefix,
                     "debug": bool(debug),
                     "incognito": incognito,
-                    "agent_type": agent_type,
                     "conversation_id": conversation_id,
                     "current_user_message_id": current_user_message_id,
                 }
@@ -139,7 +137,7 @@ class StreamHandler:
                 if isinstance(event, dict) and event.get("status") == "token":
                     tokens.append(str(event.get("content") or ""))
 
-                # 延迟发送 done 事件（需要先完成后处理：持久化、watchlist 捕获等）
+                # 延迟发 送 done 事件（需要先完成后处理：持久化、watchlist 捕获等）
                 if isinstance(event, dict) and event.get("status") == "done":
                     # Delay the terminal "done" until we've persisted messages and
                     # emitted any post-turn UX events (e.g., watchlist auto-capture).

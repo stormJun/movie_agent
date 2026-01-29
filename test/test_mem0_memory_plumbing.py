@@ -47,7 +47,6 @@ class _RouterGeneral:
         message: str,
         session_id: str,
         requested_kb: Optional[str],
-        agent_type: str,
     ) -> RouteDecision:
         return RouteDecision(
             requested_kb_prefix=(requested_kb or ""),
@@ -67,7 +66,6 @@ class _RouterRag:
         message: str,
         session_id: str,
         requested_kb: Optional[str],
-        agent_type: str,
     ) -> RouteDecision:
         return RouteDecision(
             requested_kb_prefix=(requested_kb or ""),
@@ -374,7 +372,7 @@ class TestMem0MemoryPlumbing(unittest.IsolatedAsyncioTestCase):
                 return self._h if kb_prefix == "movie" else None
 
         class _RouterMovie:
-            def route(self, *, message: str, session_id: str, requested_kb: Optional[str], agent_type: str) -> RouteDecision:
+            def route(self, *, message: str, session_id: str, requested_kb: Optional[str]) -> RouteDecision:
                 return RouteDecision(
                     requested_kb_prefix=(requested_kb or ""),
                     routed_kb_prefix="movie",
