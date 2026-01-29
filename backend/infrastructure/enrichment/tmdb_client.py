@@ -716,6 +716,55 @@ class TMDBClient:
             logger.warning("TMDB client not configured (missing base_url or auth)")
             return None
 
+        try:
+            session = await self._get_session()
+            url = f"{self._base_url}/discover/movie"
+            params: dict[str, Any] = {
+                "language": language,
+                "page": page,
+                "sort_by": sort_by,
+                "include_adult": "false",
+            }
+            f = filters if isinstance(filters, dict) else {}
+            region = f.get("region")
+            if isinstance(region, str) and region.strip():
+                params["region"] = region.strip()
+            origin_country = f.get("origin_country")
+            if isinstance(origin_country, str) and origin_country.strip():
+                # Best-effort: TMDB supports with_origin_country for discover.
+                params["with_origin_country"] = origin_country.strip()
+            original_language = f.get("original_language")
+            if isinstance(original_language, str) and original_language.strip():
+                params["with_original_language"] = original_language.strip()
+            year = f.get("year")
+            if isinstance(year, int) and 1900 <= year <= 2100:
+                params["primary_release_year"] = year
+            dr = f.get("date_range")
+            if isinstance(dr, dict):
+                gte = dr.get("gte")
+                lte = dr.get("lte")
+                if isinstance(gte, str) and gte.strip():
+                    params["primary_release_date.gte"] = gte.strip()
+                if isinstance(lte, str) and lte.strip():
+                    params["primary_release_date.lte"] = lte.strip()
+            params.update(self._auth_params())
+
+            logger.debug("TMDB discover movie url=%s params=%s", url, params)
+
+            async with session.get(url, params=params, headers=self._headers()) as resp:
+                if resp.status >= 400:
+                    error_text = await resp.text()
+                    logger.error(f"TMDB discover movie failed ({resp.status}): {error_text[:200]}")
+                    return None
+                data = await resp.json(content_type=None)
+            return data if isinstance(data, dict) else None
+        except asyncio.TimeoutError:
+            logger.error(f"TMDB discover movie timeout after {self._timeout_s}s")
+            return None
+        except Exception as e:
+            logger.exception(f"TMDB discover movie failed: {e}")
+            return None
+
     async def movie_list_raw(
         self,
         *,
@@ -766,55 +815,6 @@ class TMDBClient:
             return None
         except Exception as e:
             logger.exception(f"TMDB movie list failed list={lt} page={page}: {e}")
-            return None
-
-        try:
-            session = await self._get_session()
-            url = f"{self._base_url}/discover/movie"
-            params: dict[str, Any] = {
-                "language": language,
-                "page": page,
-                "sort_by": sort_by,
-                "include_adult": "false",
-            }
-            f = filters if isinstance(filters, dict) else {}
-            region = f.get("region")
-            if isinstance(region, str) and region.strip():
-                params["region"] = region.strip()
-            origin_country = f.get("origin_country")
-            if isinstance(origin_country, str) and origin_country.strip():
-                # Best-effort: TMDB supports with_origin_country for discover.
-                params["with_origin_country"] = origin_country.strip()
-            original_language = f.get("original_language")
-            if isinstance(original_language, str) and original_language.strip():
-                params["with_original_language"] = original_language.strip()
-            year = f.get("year")
-            if isinstance(year, int) and 1900 <= year <= 2100:
-                params["primary_release_year"] = year
-            dr = f.get("date_range")
-            if isinstance(dr, dict):
-                gte = dr.get("gte")
-                lte = dr.get("lte")
-                if isinstance(gte, str) and gte.strip():
-                    params["primary_release_date.gte"] = gte.strip()
-                if isinstance(lte, str) and lte.strip():
-                    params["primary_release_date.lte"] = lte.strip()
-            params.update(self._auth_params())
-
-            logger.debug("TMDB discover movie url=%s params=%s", url, params)
-
-            async with session.get(url, params=params, headers=self._headers()) as resp:
-                if resp.status >= 400:
-                    error_text = await resp.text()
-                    logger.error(f"TMDB discover movie failed ({resp.status}): {error_text[:200]}")
-                    return None
-                data = await resp.json(content_type=None)
-            return data if isinstance(data, dict) else None
-        except asyncio.TimeoutError:
-            logger.error(f"TMDB discover movie timeout after {self._timeout_s}s")
-            return None
-        except Exception as e:
-            logger.exception(f"TMDB discover movie failed: {e}")
             return None
 
     async def movie_recommendations_raw(
