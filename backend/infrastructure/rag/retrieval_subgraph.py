@@ -41,6 +41,7 @@ from infrastructure.config.settings import DEBUG_COMBINED_CONTEXT_MAX_CHARS
 from infrastructure.rag.aggregator import aggregate_run_results
 from infrastructure.rag.answer_generator import build_context_from_runs
 from infrastructure.rag.rag_manager import RagManager, _should_enrich_by_entity_matching
+from infrastructure.llm.completion import select_tmdb_recommendation_movies
 
 logger = logging.getLogger(__name__)
 
@@ -231,6 +232,11 @@ class RetrievalState(TypedDict, total=False):
     merged: Optional[MergedOutput]  # 合并后的检索结果
     stop_reason: Optional[str]  # 停止原因
 
+    # ===== TMDB-only 推荐（不走 Neo4j/GraphRAG）=====
+    tmdb_only_recommendation: bool
+    tmdb_selected_movies: list[dict[str, Any]]
+    tmdb_only_answer: str
+
 
 # ==================== Planner（计划节点）====================
 
@@ -306,6 +312,30 @@ async def _plan_node(state: RetrievalState, config: RunnableConfig) -> dict[str,
     )
 
     resolved_agent_type = (state.get("resolved_agent_type") or "").strip() or None
+
+    # ===== TMDB-only 推荐（不走 Neo4j/GraphRAG）=====
+    # 当用户明确是“推荐电影”时，我们直接用 TMDB 作为候选与事实来源，
+    # 不再执行 GraphRAG（Neo4j）检索。具体 TMDB 拉取与 LLM 结构化选片在 merge 阶段执行。
+    if kb_prefix == "movie" and query_intent == "recommend" and media_type_hint == "movie":
+        if debug:
+            writer = _get_stream_writer(config)
+            writer(
+                {
+                    "execution_log": {
+                        "node": "planner",
+                        "node_type": "retrieval_subgraph",
+                        "duration_ms": int((time.monotonic() - t0) * 1000),
+                        "input": {"query_intent": query_intent, "media_type_hint": media_type_hint},
+                        "output": {"mode": "tmdb_only_recommendation", "plan_steps": 0},
+                    }
+                }
+            )
+        return {
+            "plan": [],
+            "iterations": 0,
+            "max_iterations": 1,
+            "tmdb_only_recommendation": True,
+        }
 
     # ===== MVP 确定性规划器 =====
     # QA: 主路（router 推荐） + 兜底
@@ -863,6 +893,273 @@ async def _merge_node(state: RetrievalState, config: RunnableConfig) -> dict[str
     query_intent = getattr(route_decision, "query_intent", None) if isinstance(route_decision, RouteDecision) else None
     media_type_hint = getattr(route_decision, "media_type_hint", None) if isinstance(route_decision, RouteDecision) else None
     filters = getattr(route_decision, "filters", None) if isinstance(route_decision, RouteDecision) else None
+
+    def _extract_seed_title(extracted: Any) -> str | None:
+        if not isinstance(extracted, dict):
+            return None
+        low = extracted.get("low_level")
+        if not isinstance(low, list) or not low:
+            return None
+        for x in low:
+            s = str(x or "").strip()
+            if not s:
+                continue
+            # Skip generic category tokens.
+            if s in {"电影", "电视剧", "__discover_movie__", "__discover_tv__"}:
+                continue
+            return s
+        return None
+
+    def _movie_year(details: dict[str, Any]) -> int | None:
+        rd = details.get("release_date")
+        if isinstance(rd, str) and len(rd) >= 4 and rd[:4].isdigit():
+            try:
+                return int(rd[:4])
+            except Exception:
+                return None
+        return None
+
+    def _movie_directors(details: dict[str, Any]) -> list[str]:
+        credits = details.get("credits") if isinstance(details.get("credits"), dict) else {}
+        crew = credits.get("crew") if isinstance(credits, dict) else None
+        out: list[str] = []
+        if isinstance(crew, list):
+            for m in crew:
+                if not isinstance(m, dict):
+                    continue
+                if str(m.get("job") or "") != "Director":
+                    continue
+                name = str(m.get("name") or "").strip()
+                if name:
+                    out.append(name)
+                if len(out) >= 3:
+                    break
+        return out
+
+    def _movie_candidate(details: dict[str, Any]) -> dict[str, Any] | None:
+        mid = details.get("id")
+        try:
+            tmdb_id = int(mid)
+        except Exception:
+            return None
+        title = str(details.get("title") or details.get("original_title") or "").strip()
+        if not title:
+            return None
+        return {
+            "tmdb_id": tmdb_id,
+            "title": title,
+            "year": _movie_year(details),
+            "overview": str(details.get("overview") or "").strip(),
+            "vote_average": details.get("vote_average"),
+            "genres": details.get("genres") if isinstance(details.get("genres"), list) else [],
+            "directors": _movie_directors(details),
+        }
+
+    def _build_tmdb_only_answer(selected: list[dict[str, Any]]) -> str:
+        lines: list[str] = ["为你推荐以下电影："]
+        for i, it in enumerate(selected, start=1):
+            title = str(it.get("title") or "").strip()
+            year = it.get("year")
+            y = f"{int(year)}" if isinstance(year, int) else ""
+            blurb = str(it.get("blurb") or "").strip()
+            head = f"{i}. 《{title}》" + (f"（{y}）" if y else "")
+            lines.append(head)
+            if blurb:
+                lines.append(blurb)
+            lines.append("")  # blank line between items
+        return "\n".join(lines).strip()
+
+    # ---------------- TMDB-only recommendation path ----------------
+    tmdb_only = bool(state.get("tmdb_only_recommendation"))
+    if tmdb_only and (kb_prefix or "").strip() == "movie":
+        from infrastructure.enrichment import get_tmdb_enrichment_service
+
+        svc = get_tmdb_enrichment_service()
+        if svc is None:
+            writer({"status": "error", "message": "TMDB 未配置，无法执行推荐（TMDB-only）"})
+            return {"stop_reason": "tmdb_only_recommendation_failed"}
+
+        store = getattr(svc, "get_store", lambda: None)()
+        client = getattr(svc, "get_client", lambda: None)()
+        if store is None:
+            writer({"status": "error", "message": "Postgres 未配置，无法落库 TMDB 推荐数据"})
+            return {"stop_reason": "tmdb_only_recommendation_failed"}
+        if client is None:
+            writer({"status": "error", "message": "TMDB client 未初始化"})
+            return {"stop_reason": "tmdb_only_recommendation_failed"}
+
+        seed_title = _extract_seed_title(extracted_entities)
+        tmdb_endpoint = "/discover/movie"
+        disambiguation: list[dict[str, Any]] = []
+        multi_raw: Any | None = None
+        discover_raw: Any | None = None
+
+        candidate_ids: list[int] = []
+        try:
+            if seed_title:
+                payload, meta = await client.resolve_entity_via_multi(text=seed_title, query=query)
+                if isinstance(meta, dict):
+                    disambiguation = [meta]
+                    multi_raw = meta.get("multi_results_raw")
+                if isinstance(payload, dict) and payload.get("type") == "movie":
+                    data = payload.get("data")
+                    if isinstance(data, dict) and data.get("id") is not None:
+                        seed_id = int(data.get("id"))
+                        tmdb_endpoint = f"/movie/{seed_id}/recommendations"
+                        rec_raw = await client.movie_recommendations_raw(movie_id=seed_id, language="zh-CN", page=1)
+                        discover_raw = rec_raw
+                        results = rec_raw.get("results") if isinstance(rec_raw, dict) else None
+                        if isinstance(results, list):
+                            for r in results:
+                                if not isinstance(r, dict):
+                                    continue
+                                rid = r.get("id")
+                                if rid is None:
+                                    continue
+                                try:
+                                    candidate_ids.append(int(rid))
+                                except Exception:
+                                    continue
+            if not candidate_ids:
+                raw = await client.discover_movie_raw(
+                    language="zh-CN",
+                    page=1,
+                    sort_by=str((filters or {}).get("sort_by") or "popularity.desc"),
+                    filters=filters if isinstance(filters, dict) else None,
+                )
+                discover_raw = raw
+                results = raw.get("results") if isinstance(raw, dict) else None
+                if isinstance(results, list):
+                    for r in results:
+                        if not isinstance(r, dict):
+                            continue
+                        rid = r.get("id")
+                        if rid is None:
+                            continue
+                        try:
+                            candidate_ids.append(int(rid))
+                        except Exception:
+                            continue
+        except Exception as e:
+            writer({"status": "error", "message": f"TMDB 获取候选失败: {e}"})
+            return {"stop_reason": "tmdb_only_recommendation_failed"}
+
+        # Dedup & trim.
+        dedup_ids: list[int] = []
+        seen = set()
+        for mid in candidate_ids:
+            if mid in seen:
+                continue
+            seen.add(mid)
+            dedup_ids.append(int(mid))
+        candidate_ids = dedup_ids[:20]
+
+        if not candidate_ids:
+            writer({"status": "error", "message": "TMDB 未返回可用候选电影"})
+            return {"stop_reason": "tmdb_only_recommendation_failed"}
+
+        sem = asyncio.Semaphore(6)
+
+        async def _fetch_one(mid: int) -> dict[str, Any] | None:
+            async with sem:
+                d = await client.get_movie_details(int(mid), language="zh-CN")
+                if not isinstance(d, dict) or not d:
+                    return None
+                overview = str(d.get("overview") or "").strip()
+                if not overview:
+                    d_en = await client.get_movie_details(int(mid), language="en-US")
+                    if isinstance(d_en, dict) and str(d_en.get("overview") or "").strip():
+                        d["overview"] = str(d_en.get("overview") or "")
+                return d
+
+        fetched = await asyncio.gather(*[_fetch_one(mid) for mid in candidate_ids[:10]], return_exceptions=True)
+        details_list: list[dict[str, Any]] = []
+        for r in fetched:
+            if isinstance(r, dict) and r:
+                details_list.append(r)
+
+        if not details_list:
+            writer({"status": "error", "message": "TMDB 详情拉取失败（无可用详情）"})
+            return {"stop_reason": "tmdb_only_recommendation_failed"}
+
+        candidates: list[dict[str, Any]] = []
+        payloads: list[dict[str, Any]] = []
+        for d in details_list:
+            payloads.append({"type": "movie", "data": d})
+            c = _movie_candidate(d)
+            if c is not None:
+                candidates.append(c)
+
+        if not candidates:
+            writer({"status": "error", "message": "TMDB 详情解析失败（无可用候选）"})
+            return {"stop_reason": "tmdb_only_recommendation_failed"}
+
+        # User/session are required to log enrichment requests in Postgres.
+        if not str(state.get("user_id") or "").strip() or not str(state.get("session_id") or "").strip():
+            writer({"status": "error", "message": "缺少 user_id/session_id，无法落库 TMDB 推荐请求"})
+            return {"stop_reason": "tmdb_only_recommendation_failed"}
+
+        # Mandatory persistence (request log + entity snapshots).
+        try:
+            persist = getattr(store, "persist_enrichment", None)
+            if not callable(persist):
+                raise RuntimeError("tmdb store missing persist_enrichment")
+            await persist(
+                user_id=str(state.get("user_id") or ""),
+                session_id=str(state.get("session_id") or ""),
+                request_id=str(state.get("request_id") or "") if state.get("request_id") is not None else None,
+                conversation_id=state.get("conversation_id"),
+                user_message_id=state.get("user_message_id"),
+                query_text=query,
+                tmdb_endpoint=tmdb_endpoint,
+                extracted_entities=[seed_title] if seed_title else ["__discover_movie__"],
+                disambiguation=disambiguation or [{"type": "movie_recommendations"}],
+                payloads=payloads,
+                candidates_top3=None,
+                multi_results_raw=multi_raw,
+                discover_results_raw=discover_raw,
+                tmdb_language="zh-CN",
+                duration_ms=float((time.monotonic() - t0) * 1000),
+            )
+        except Exception as e:
+            writer({"status": "error", "message": f"TMDB 数据落库失败: {e}"})
+            return {"stop_reason": "tmdb_only_recommendation_failed"}
+
+        selected_movies = await select_tmdb_recommendation_movies(question=query, candidates=candidates, k=5)
+        answer_text = _build_tmdb_only_answer(selected_movies)
+        reco_ids = [int(x.get("tmdb_id")) for x in selected_movies if isinstance(x.get("tmdb_id"), int)]
+
+        if reco_ids:
+            writer(
+                {
+                    "status": "recommendations",
+                    "content": {
+                        "tmdb_ids": reco_ids,
+                        "title": "为你推荐（TMDB）",
+                        "mode": "tmdb_recommendations",
+                        "media_type": "movie",
+                    },
+                }
+            )
+
+        merged = MergedOutput(
+            context="",
+            retrieval_results=[],
+            reference={},
+            statistics={
+                "tmdb_only_recommendation": True,
+                "selected_movies": selected_movies,
+                "answer": answer_text,
+                "tmdb_endpoint": tmdb_endpoint,
+            },
+        )
+
+        return {
+            "merged": merged,
+            "stop_reason": "tmdb_only_recommendation",
+            "tmdb_selected_movies": selected_movies,
+            "tmdb_only_answer": answer_text,
+        }
 
     runs = list(state.get("runs") or [])
     aggregated = aggregate_run_results(results=list(runs)) if runs else RagRunResult(agent_type="unknown", answer="", error="no results")

@@ -934,6 +934,62 @@ class ConversationGraphRunner:
         writer({"status": "done"})
         return {}
 
+    @staticmethod
+    def _extract_tmdb_only_answer(merged: Any) -> tuple[str | None, list[dict[str, Any]] | None]:
+        """Extract TMDB-only recommendation answer (prebuilt) from merged output."""
+        stats = None
+        if merged is None:
+            return None, None
+        if hasattr(merged, "__dataclass_fields__"):
+            stats = getattr(merged, "statistics", None)
+        elif isinstance(merged, dict):
+            stats = merged.get("statistics")
+        if not isinstance(stats, dict):
+            return None, None
+        if not bool(stats.get("tmdb_only_recommendation")):
+            return None, None
+        ans = stats.get("answer")
+        answer_text = str(ans).strip() if isinstance(ans, str) and ans.strip() else None
+        selected = stats.get("selected_movies")
+        selected_movies = selected if isinstance(selected, list) else None
+        return answer_text, selected_movies
+
+    async def _generate_prebuilt_stream(
+        self,
+        *,
+        answer: str,
+        debug: bool,
+        config: RunnableConfig,
+    ) -> dict[str, Any]:
+        """Stream a prebuilt answer without calling the LLM (used by TMDB-only recommend)."""
+        writer = _get_stream_writer(config)
+        started_at = time.monotonic()
+
+        # Keep progress semantics stable for UI.
+        self._emit_progress(writer, stage="generation", completed=0, total=1, error=None, agent_type="", retrieval_count=None)
+
+        # Chunk by lines to keep SSE frames readable (MiniProgram renders line breaks nicely).
+        chunk_count = 0
+        for line in str(answer).splitlines(True):
+            if not line:
+                continue
+            chunk_count += 1
+            writer({"status": "token", "content": line})
+
+        self._emit_progress(writer, stage="generation", completed=1, total=1, error=None, agent_type="", retrieval_count=None)
+        if debug:
+            self._emit_execution_log(
+                writer,
+                node="answer_done",
+                node_type="generation",
+                duration_ms=int((time.monotonic() - started_at) * 1000),
+                input={"mode": "tmdb_only_recommendation"},
+                output={"chunk_count": chunk_count, "chars": len(answer)},
+            )
+
+        writer({"status": "done"})
+        return {}
+
     async def _generate_rag_stream(
         self,
         *,
@@ -1144,6 +1200,32 @@ class ConversationGraphRunner:
         # ===== 分支 3：RAG 检索模式（基于 retrieval_subgraph 的 merged 结果生成答案）=====
         merged = state.get("merged")
         context, reference, retrieval_results = self._extract_merged_payload(merged)
+        tmdb_only_answer, tmdb_selected_movies = self._extract_tmdb_only_answer(merged)
+
+        # TMDB-only recommendation: answer is already prebuilt & strictly aligned with recommendation ids.
+        if tmdb_only_answer:
+            if stream:
+                return await self._generate_prebuilt_stream(
+                    answer=tmdb_only_answer,
+                    debug=debug,
+                    config=config,
+                )
+
+            # Non-stream path: put recommendation ids into reference for UI consumers.
+            ids: list[int] = []
+            if isinstance(tmdb_selected_movies, list):
+                for it in tmdb_selected_movies:
+                    if not isinstance(it, dict):
+                        continue
+                    tid = it.get("tmdb_id")
+                    if isinstance(tid, int):
+                        ids.append(tid)
+                    elif isinstance(tid, str) and tid.isdigit():
+                        ids.append(int(tid))
+            if ids:
+                reference = dict(reference or {})
+                reference["tmdb_recommendation_ids"] = ids
+            return {"response": {"answer": tmdb_only_answer, "reference": reference or {}}}
 
         if stream:
             return await self._generate_rag_stream(

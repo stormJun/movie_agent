@@ -64,6 +64,14 @@ class TMDBEnrichmentService:
         self._writer_task: asyncio.Task[None] | None = None
         self._writer_lock = asyncio.Lock()
 
+    def get_store(self) -> Any | None:
+        """Expose the persistence store (used by TMDB-only recommendation flows)."""
+        return self._store
+
+    def get_client(self) -> TMDBClient:
+        """Expose the TMDB client (used by TMDB-only recommendation flows)."""
+        return self._tmdb_client
+
     async def enrich_query(
         self,
         *,

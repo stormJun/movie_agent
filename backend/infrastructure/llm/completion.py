@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import json
 import time
 from typing import Any, AsyncGenerator
 
@@ -37,6 +38,17 @@ _REWRITE_QUERY_SYSTEM_PROMPT = (
     "1) 消解指代（它/那个/这部/这位/前者/后者/你刚才说的等），补齐必要上下文。\n"
     "2) 保持原意，不要编造事实；如果历史不足以消解指代，则尽量保留原问题并补充最小上下文提示。\n"
     "3) 只输出改写后的查询文本，不要解释，不要加引号，不要 Markdown。\n"
+)
+
+_TMDB_RECO_SELECTOR_SYSTEM_PROMPT = (
+    "你是一个“电影推荐选择器”。\n"
+    "你将收到用户的推荐需求，以及一组候选电影列表（每个候选都带 tmdb_id）。\n"
+    "任务：从候选列表中选出最适合用户需求的 5 部电影，并为每部写 2-3 句简介/推荐理由。\n"
+    "严格约束：\n"
+    "1) 只能从候选列表里选择；不允许输出候选列表之外的电影。\n"
+    "2) 必须输出严格 JSON（不要 Markdown，不要代码块），字段必须为 selected_movies。\n"
+    "3) selected_movies 长度固定为 5（不足则尽量补齐到 5）。\n"
+    "4) 每个 item 必须包含：tmdb_id（整数）、title、year（整数或 null）、blurb（字符串）。\n"
 )
 
 
@@ -165,6 +177,220 @@ def rewrite_multiturn_query(
             output={"rewritten_preview": _preview_text(out), "rewritten_chars": len(out)},
             metadata={"elapsed_ms": int((time.monotonic() - started_at) * 1000)},
         )
+    return out
+
+
+def _safe_json_extract(text: str) -> dict[str, Any] | None:
+    """Best-effort parse a JSON object from LLM output."""
+    if not isinstance(text, str):
+        return None
+    s = text.strip()
+    if not s:
+        return None
+    # Remove common wrappers (code fences / quotes).
+    s = s.strip().strip("`").strip()
+    if s.startswith("```"):
+        # Keep the inside of the fence if present.
+        parts = s.split("```")
+        if len(parts) >= 3:
+            s = parts[1].strip()
+    s = s.strip().strip('"').strip("'").strip()
+
+    # Try direct JSON first.
+    try:
+        obj = json.loads(s)
+        return obj if isinstance(obj, dict) else None
+    except Exception:
+        pass
+
+    # Fallback: attempt to extract the first {...} block.
+    start = s.find("{")
+    end = s.rfind("}")
+    if start >= 0 and end > start:
+        try:
+            obj = json.loads(s[start : end + 1])
+            return obj if isinstance(obj, dict) else None
+        except Exception:
+            return None
+    return None
+
+
+def _normalize_tmdb_candidate(candidate: dict[str, Any]) -> dict[str, Any] | None:
+    """Normalize a TMDB candidate movie into a compact dict used by the selector."""
+    if not isinstance(candidate, dict):
+        return None
+    tid = candidate.get("tmdb_id")
+    try:
+        tmdb_id = int(tid)
+    except Exception:
+        return None
+    title = candidate.get("title") or candidate.get("name") or ""
+    title = str(title).strip()
+    if not title:
+        return None
+    year = candidate.get("year")
+    if year is None:
+        rd = candidate.get("release_date") or ""
+        if isinstance(rd, str) and len(rd) >= 4 and rd[:4].isdigit():
+            year = int(rd[:4])
+    if isinstance(year, str) and year.isdigit():
+        year = int(year)
+    if not isinstance(year, int):
+        year = None
+
+    overview = str(candidate.get("overview") or "").strip()
+    vote_average = candidate.get("vote_average")
+    if not isinstance(vote_average, (int, float)):
+        vote_average = None
+    genres = candidate.get("genres")
+    genre_names: list[str] = []
+    if isinstance(genres, list):
+        for g in genres:
+            if isinstance(g, dict) and isinstance(g.get("name"), str) and g["name"].strip():
+                genre_names.append(g["name"].strip())
+            elif isinstance(g, str) and g.strip():
+                genre_names.append(g.strip())
+
+    directors = candidate.get("directors")
+    director_names: list[str] = []
+    if isinstance(directors, list):
+        for d in directors:
+            if isinstance(d, str) and d.strip():
+                director_names.append(d.strip())
+
+    return {
+        "tmdb_id": tmdb_id,
+        "title": title,
+        "year": year,
+        "overview": overview,
+        "vote_average": float(vote_average) if isinstance(vote_average, (int, float)) else None,
+        "genres": genre_names,
+        "directors": director_names,
+    }
+
+
+async def select_tmdb_recommendation_movies(
+    *,
+    question: str,
+    candidates: list[dict[str, Any]],
+    k: int = 5,
+) -> list[dict[str, Any]]:
+    """Select k movies from TMDB candidates and generate blurbs (strict ids only).
+
+    Returns a list of normalized dicts:
+      {"tmdb_id": int, "title": str, "year": int|None, "blurb": str}
+
+    Best-effort:
+    - On any failure, fall back to first k candidates with template blurbs.
+    """
+    q = str(question or "").strip()
+    if not q:
+        return []
+
+    normalized: list[dict[str, Any]] = []
+    for c in candidates or []:
+        nc = _normalize_tmdb_candidate(c)
+        if nc is not None:
+            normalized.append(nc)
+
+    if not normalized:
+        return []
+
+    k = int(k) if isinstance(k, int) and k > 0 else 5
+    # Keep the prompt small and deterministic.
+    pool = normalized[: max(10, min(len(normalized), 20))]
+    allowed_ids = {int(x["tmdb_id"]) for x in pool if isinstance(x.get("tmdb_id"), int)}
+    by_id = {int(x["tmdb_id"]): x for x in pool if isinstance(x.get("tmdb_id"), int)}
+
+    prompt = ChatPromptTemplate.from_messages(
+        [
+            ("system", _TMDB_RECO_SELECTOR_SYSTEM_PROMPT),
+            (
+                "human",
+                "【用户需求】\n{question}\n\n"
+                "【候选电影（只能从这里选）】\n{candidates}\n\n"
+                "输出 JSON：",
+            ),
+        ]
+    )
+    llm = get_llm_model()
+    chain = prompt | llm | StrOutputParser()
+
+    candidates_text = json.dumps(pool, ensure_ascii=False)
+
+    parent = get_current_langfuse_stateful_client()
+    span = None
+    if parent is not None:
+        span = parent.span(
+            name="select_tmdb_recommendation_movies",
+            input={"question_preview": _preview_text(q), "candidates_count": len(pool)},
+        )
+    langfuse_handler = get_langfuse_callback(stateful_client=span or parent)
+    callbacks = [langfuse_handler] if langfuse_handler else []
+
+    raw_text: str | None = None
+    try:
+        raw_text = await chain.ainvoke(
+            {"question": q, "candidates": candidates_text},
+            config={"callbacks": callbacks},
+        )
+    except Exception as e:
+        if span is not None:
+            span.end(level="ERROR", status_message=str(e), output={"error": str(e)})
+        raw_text = None
+
+    obj = _safe_json_extract(str(raw_text or ""))
+    selected: list[dict[str, Any]] = []
+    if isinstance(obj, dict):
+        sm = obj.get("selected_movies")
+        if isinstance(sm, list):
+            selected = [x for x in sm if isinstance(x, dict)]
+
+    out: list[dict[str, Any]] = []
+    seen: set[int] = set()
+    for item in selected:
+        tid = item.get("tmdb_id")
+        try:
+            tmdb_id = int(tid)
+        except Exception:
+            continue
+        if tmdb_id not in allowed_ids or tmdb_id in seen:
+            continue
+        seen.add(tmdb_id)
+        base = by_id.get(tmdb_id, {})
+        title = item.get("title") if isinstance(item.get("title"), str) and item["title"].strip() else base.get("title")
+        title = str(title or "").strip()
+        year = item.get("year")
+        if isinstance(year, str) and year.isdigit():
+            year = int(year)
+        if not isinstance(year, int):
+            year = base.get("year")
+        if not isinstance(year, int):
+            year = None
+        blurb = item.get("blurb") if isinstance(item.get("blurb"), str) else ""
+        blurb = blurb.strip()
+        if not blurb:
+            ov = str(base.get("overview") or "").strip()
+            blurb = ov[:160] + ("…" if len(ov) > 160 else "")
+        out.append({"tmdb_id": tmdb_id, "title": title, "year": year, "blurb": blurb})
+        if len(out) >= k:
+            break
+
+    # Fallback: top-k from pool.
+    if len(out) < k:
+        for c in pool:
+            tmdb_id = int(c["tmdb_id"])
+            if tmdb_id in seen:
+                continue
+            seen.add(tmdb_id)
+            ov = str(c.get("overview") or "").strip()
+            blurb = ov[:160] + ("…" if len(ov) > 160 else "")
+            out.append({"tmdb_id": tmdb_id, "title": c["title"], "year": c.get("year"), "blurb": blurb})
+            if len(out) >= k:
+                break
+
+    if span is not None:
+        span.end(output={"selected_count": len(out), "ids": [x["tmdb_id"] for x in out]})
     return out
 
 
