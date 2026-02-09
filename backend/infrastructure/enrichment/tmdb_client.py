@@ -25,6 +25,86 @@ from infrastructure.config.settings import (
 
 logger = logging.getLogger(__name__)
 
+# TMDB genre id mapping (movie + tv).
+_MOVIE_GENRE_NAME_TO_ID = {
+    "action": 28,
+    "动作": 28,
+    "adventure": 12,
+    "冒险": 12,
+    "animation": 16,
+    "动画": 16,
+    "comedy": 35,
+    "喜剧": 35,
+    "crime": 80,
+    "犯罪": 80,
+    "documentary": 99,
+    "纪录片": 99,
+    "drama": 18,
+    "剧情": 18,
+    "family": 10751,
+    "家庭": 10751,
+    "fantasy": 14,
+    "奇幻": 14,
+    "history": 36,
+    "历史": 36,
+    "horror": 27,
+    "恐怖": 27,
+    "music": 10402,
+    "音乐": 10402,
+    "mystery": 9648,
+    "悬疑": 9648,
+    "romance": 10749,
+    "爱情": 10749,
+    "science fiction": 878,
+    "sci-fi": 878,
+    "科幻": 878,
+    "tv movie": 10770,
+    "电视电影": 10770,
+    "thriller": 53,
+    "惊悚": 53,
+    "war": 10752,
+    "战争": 10752,
+    "western": 37,
+    "西部": 37,
+}
+
+_TV_GENRE_NAME_TO_ID = {
+    "action & adventure": 10759,
+    "动作冒险": 10759,
+    "action adventure": 10759,
+    "animation": 16,
+    "动画": 16,
+    "comedy": 35,
+    "喜剧": 35,
+    "crime": 80,
+    "犯罪": 80,
+    "documentary": 99,
+    "纪录片": 99,
+    "drama": 18,
+    "剧情": 18,
+    "family": 10751,
+    "家庭": 10751,
+    "kids": 10762,
+    "儿童": 10762,
+    "mystery": 9648,
+    "悬疑": 9648,
+    "news": 10763,
+    "新闻": 10763,
+    "reality": 10764,
+    "真人秀": 10764,
+    "sci-fi & fantasy": 10765,
+    "sci-fi fantasy": 10765,
+    "科幻奇幻": 10765,
+    "soap": 10766,
+    "肥皂剧": 10766,
+    "talk": 10767,
+    "脱口秀": 10767,
+    "war & politics": 10768,
+    "战争政治": 10768,
+    "western": 37,
+    "西部": 37,
+}
+
 
 def _extract_year(text: str) -> int | None:
     """Extract a plausible release year from user text."""
@@ -62,6 +142,48 @@ def _extract_person_role_hint(text: str) -> str | None:
     if ("编剧" in q) or ("writer" in q) or ("screenplay" in q):
         return "Writing"
     return None
+
+
+def _normalize_genre_ids(genres: Any, *, media_type: str) -> list[int]:
+    if genres is None:
+        return []
+    raw_items: list[str] = []
+    if isinstance(genres, list):
+        for g in genres:
+            if isinstance(g, str) and g.strip():
+                raw_items.append(g.strip())
+            elif isinstance(g, int):
+                raw_items.append(str(g))
+    elif isinstance(genres, str):
+        raw_items = [s.strip() for s in re.split(r"[，,、/|]+", genres) if s.strip()]
+    elif isinstance(genres, int):
+        raw_items = [str(genres)]
+
+    mapping = _MOVIE_GENRE_NAME_TO_ID if media_type == "movie" else _TV_GENRE_NAME_TO_ID
+    ids: list[int] = []
+    for item in raw_items:
+        if not item:
+            continue
+        if item.isdigit():
+            ids.append(int(item))
+            continue
+        key = item.strip().lower()
+        if key in mapping:
+            ids.append(mapping[key])
+            continue
+        # Try to remove spaces for English labels like "science fiction"
+        key_compact = re.sub(r"\\s+", " ", key)
+        if key_compact in mapping:
+            ids.append(mapping[key_compact])
+    # Dedup while preserving order.
+    dedup: list[int] = []
+    seen = set()
+    for gid in ids:
+        if gid in seen:
+            continue
+        seen.add(gid)
+        dedup.append(gid)
+    return dedup
 
 
 def _score_movie_candidate(*, query_title: str, candidate: dict[str, Any], target_year: int | None) -> float:
@@ -682,6 +804,9 @@ class TMDBClient:
             original_language = f.get("original_language")
             if isinstance(original_language, str) and original_language.strip():
                 params["with_original_language"] = original_language.strip()
+            genre_ids = _normalize_genre_ids(f.get("genres"), media_type="tv")
+            if genre_ids:
+                params["with_genres"] = ",".join(str(x) for x in genre_ids)
             year = f.get("year")
             if isinstance(year, int) and 1900 <= year <= 2100:
                 params["first_air_date_year"] = year
@@ -744,6 +869,9 @@ class TMDBClient:
             original_language = f.get("original_language")
             if isinstance(original_language, str) and original_language.strip():
                 params["with_original_language"] = original_language.strip()
+            genre_ids = _normalize_genre_ids(f.get("genres"), media_type="movie")
+            if genre_ids:
+                params["with_genres"] = ",".join(str(x) for x in genre_ids)
             year = f.get("year")
             if isinstance(year, int) and 1900 <= year <= 2100:
                 params["primary_release_year"] = year

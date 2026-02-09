@@ -73,6 +73,7 @@ def route_kb_prefix(
         "- origin_country: 国家/地区两位代码（如 中国=CN、美国=US、日本=JP、韩国=KR）\n"
         "- original_language: 语言两位代码（如 中文=zh、英文=en、日文=ja、韩文=ko）\n"
         "- region: 发行/地区两位代码（如 CN/US）\n"
+        "- genres: 类型数组（如 [\"comedy\",\"action\"] 或 [\"喜剧\",\"动作\"]）\n"
         "- date_range: {\"gte\": \"YYYY-MM-DD\", \"lte\": \"YYYY-MM-DD\"}（可选）\n\n"
         "实体提取规则：\n"
         "- low_level: 具体实体（如电影名、人名）\n"
@@ -82,6 +83,7 @@ def route_kb_prefix(
         "\"query_intent\": \"qa|recommend|list|compare|unknown\", "
         "\"media_type_hint\": \"movie|tv|person|mixed|unknown\", "
         "\"filters\": {\"year\": 2024, \"origin_country\": \"CN\", \"original_language\": \"zh\", \"region\": \"CN\", "
+        "\"genres\": [\"comedy\"], "
         "\"date_range\": {\"gte\": \"2024-01-01\", \"lte\": \"2024-12-31\"}}, "
         "\"extracted_entities\": {\"low_level\": [...], \"high_level\": [...]}, "
         "\"recommended_agent_type\": \"graph_agent|hybrid_agent|naive_rag_agent|fusion_agent\"}\n"
@@ -155,6 +157,19 @@ def route_kb_prefix(
                 v = raw_filters.get(k)
                 if isinstance(v, str) and v.strip():
                     cleaned[k] = v.strip()
+            # genres: accept list or single string (e.g. "喜剧", "comedy").
+            raw_genres = raw_filters.get("genres", raw_filters.get("genre"))
+            if isinstance(raw_genres, list):
+                genres: list[str | int] = []
+                for x in raw_genres:
+                    if isinstance(x, int):
+                        genres.append(x)
+                    elif isinstance(x, str) and x.strip():
+                        genres.append(x.strip())
+                if genres:
+                    cleaned["genres"] = genres
+            elif isinstance(raw_genres, str) and raw_genres.strip():
+                cleaned["genres"] = [raw_genres.strip()]
             dr = raw_filters.get("date_range")
             if isinstance(dr, dict):
                 gte = dr.get("gte")
