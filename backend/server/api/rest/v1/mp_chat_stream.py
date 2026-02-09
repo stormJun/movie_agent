@@ -273,9 +273,17 @@ async def mp_chat_stream(
         finally:
             if next_event_task is not None and not next_event_task.done():
                 next_event_task.cancel()
+                try:
+                    await next_event_task
+                except Exception:
+                    pass
             aclose = getattr(iterator, "aclose", None)
             if callable(aclose):
-                await aclose()
+                try:
+                    await aclose()
+                except RuntimeError:
+                    # Avoid "aclose(): asynchronous generator is already running" on client disconnects.
+                    pass
             scoped.__exit__(None, None, None)
 
         if langfuse_trace is not None and not client_disconnected:

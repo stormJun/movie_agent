@@ -10,6 +10,7 @@ from __future__ import annotations
 import asyncio
 import difflib
 import logging
+import os
 import re
 from typing import Any
 
@@ -335,6 +336,12 @@ class TMDBClient:
         self._api_token = (api_token or TMDB_API_TOKEN or "").strip()
         self._api_key = (api_key or TMDB_API_KEY or "").strip()
         self._timeout_s = float(timeout_s or TMDB_TIMEOUT_S or 10.0)
+        self._proxy = (
+            os.getenv("HTTPS_PROXY")
+            or os.getenv("https_proxy")
+            or os.getenv("HTTP_PROXY")
+            or os.getenv("http_proxy")
+        )
         self._session: aiohttp.ClientSession | None = None
         self._lock = asyncio.Lock()
 
@@ -375,7 +382,8 @@ class TMDBClient:
                 return self._session
 
             timeout = aiohttp.ClientTimeout(total=self._timeout_s)
-            self._session = aiohttp.ClientSession(timeout=timeout)
+            # Allow standard HTTP(S)_PROXY env vars (e.g. local 127.0.0.1:10808) to route TMDB traffic.
+            self._session = aiohttp.ClientSession(timeout=timeout, trust_env=True)
             return self._session
 
     async def search_movie(self, title: str) -> dict[str, Any] | None:
@@ -415,7 +423,7 @@ class TMDBClient:
 
             logger.debug("TMDB search url=%s params=%s", url, params)
 
-            async with session.get(url, params=params, headers=self._headers()) as resp:
+            async with session.get(url, params=params, headers=self._headers(), proxy=self._proxy) as resp:
                 if resp.status >= 400:
                     error_text = await resp.text()
                     logger.error(f"TMDB search failed ({resp.status}): {error_text[:200]}")
@@ -515,7 +523,7 @@ class TMDBClient:
 
             logger.debug("TMDB person search url=%s params=%s", url, params)
 
-            async with session.get(url, params=params, headers=self._headers()) as resp:
+            async with session.get(url, params=params, headers=self._headers(), proxy=self._proxy) as resp:
                 if resp.status >= 400:
                     error_text = await resp.text()
                     logger.error(f"TMDB person search failed ({resp.status}): {error_text[:200]}")
@@ -563,7 +571,7 @@ class TMDBClient:
 
             logger.debug("TMDB multi search url=%s params=%s", url, params)
 
-            async with session.get(url, params=params, headers=self._headers()) as resp:
+            async with session.get(url, params=params, headers=self._headers(), proxy=self._proxy) as resp:
                 if resp.status >= 400:
                     error_text = await resp.text()
                     logger.error(f"TMDB multi search failed ({resp.status}): {error_text[:200]}")
@@ -591,7 +599,7 @@ class TMDBClient:
             params = {"language": language, "append_to_response": "combined_credits"}
             params.update(self._auth_params())
 
-            async with session.get(url, params=params, headers=self._headers()) as resp:
+            async with session.get(url, params=params, headers=self._headers(), proxy=self._proxy) as resp:
                 if resp.status >= 400:
                     error_text = await resp.text()
                     logger.error(f"TMDB person details failed ({resp.status}): {error_text[:200]}")
@@ -612,7 +620,7 @@ class TMDBClient:
             params = {"language": language, "append_to_response": "credits"}
             params.update(self._auth_params())
 
-            async with session.get(url, params=params, headers=self._headers()) as resp:
+            async with session.get(url, params=params, headers=self._headers(), proxy=self._proxy) as resp:
                 if resp.status >= 400:
                     error_text = await resp.text()
                     logger.error(f"TMDB tv details failed ({resp.status}): {error_text[:200]}")
@@ -689,7 +697,7 @@ class TMDBClient:
 
             logger.debug("TMDB discover tv url=%s params=%s", url, params)
 
-            async with session.get(url, params=params, headers=self._headers()) as resp:
+            async with session.get(url, params=params, headers=self._headers(), proxy=self._proxy) as resp:
                 if resp.status >= 400:
                     error_text = await resp.text()
                     logger.error(f"TMDB discover tv failed ({resp.status}): {error_text[:200]}")
@@ -751,7 +759,7 @@ class TMDBClient:
 
             logger.debug("TMDB discover movie url=%s params=%s", url, params)
 
-            async with session.get(url, params=params, headers=self._headers()) as resp:
+            async with session.get(url, params=params, headers=self._headers(), proxy=self._proxy) as resp:
                 if resp.status >= 400:
                     error_text = await resp.text()
                     logger.error(f"TMDB discover movie failed ({resp.status}): {error_text[:200]}")
@@ -803,7 +811,7 @@ class TMDBClient:
 
             logger.debug("TMDB movie list url=%s params=%s", url, params)
 
-            async with session.get(url, params=params, headers=self._headers()) as resp:
+            async with session.get(url, params=params, headers=self._headers(), proxy=self._proxy) as resp:
                 if resp.status >= 400:
                     error_text = await resp.text()
                     logger.error(f"TMDB movie list failed ({resp.status}): {error_text[:200]}")
@@ -834,7 +842,7 @@ class TMDBClient:
             params: dict[str, Any] = {"language": language, "page": page}
             params.update(self._auth_params())
             logger.debug("TMDB movie recommendations url=%s params=%s", url, params)
-            async with session.get(url, params=params, headers=self._headers()) as resp:
+            async with session.get(url, params=params, headers=self._headers(), proxy=self._proxy) as resp:
                 if resp.status >= 400:
                     error_text = await resp.text()
                     logger.error(f"TMDB movie recommendations failed ({resp.status}): {error_text[:200]}")
@@ -1086,7 +1094,7 @@ class TMDBClient:
             }
             params.update(self._auth_params())
 
-            async with session.get(url, params=params, headers=self._headers()) as resp:
+            async with session.get(url, params=params, headers=self._headers(), proxy=self._proxy) as resp:
                 if resp.status >= 400:
                     error_text = await resp.text()
                     logger.error(f"TMDB details failed ({resp.status}): {error_text[:200]}")
