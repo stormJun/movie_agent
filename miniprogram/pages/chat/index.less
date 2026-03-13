@@ -1,0 +1,208 @@
+@import '../../assets/styles/common-var.less';
+
+.page {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  position: relative;
+  // Allow native selection handles/menu to render without being clipped.
+  overflow: visible;
+}
+
+// ... top/bottom masks remain as fixed overlays ...
+
+.chat {
+  position: relative;
+  z-index: 1;
+  box-sizing: border-box;
+  background: transparent;
+  // Ensure content scrolls above the fixed input bar (adjust 180rpx as needed)
+  padding-bottom: calc(180rpx + constant(safe-area-inset-bottom));
+  padding-bottom: calc(180rpx + env(safe-area-inset-bottom));
+}
+
+// ... time divider / cards styles ...
+
+// === Input Composer Styles ===
+
+.composer {
+  display: flex;
+  align-items: center;
+  padding: 16rpx @base-padding-width;
+  background: transparent;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 10;
+  gap: 16rpx;
+}
+
+.input-wrapper {
+  flex: 1;
+  background: #f5f5f5; // Restore background
+  border-radius: 46rpx; // Restore border radius
+  min-height: 72rpx; // Slimmer reduced height
+  padding: 8rpx 24rpx;
+  display: flex;
+  align-items: center; // Vertically center everything
+  justify-content: space-between;
+  box-shadow: 0 4rpx 16rpx rgba(0, 0, 0, 0.08); // Slight stronger shadow for depth
+  gap: 20rpx;
+}
+
+.input {
+  flex: 1;
+  // Prevent textarea native layer from stretching and covering the icon row
+  // (otherwise taps on the right icons can be swallowed by the textarea).
+  width: 0;
+  max-height: 200rpx;
+  font-size: 32rpx;
+  color: @text-primary;
+  line-height: 40rpx;
+  border: none;
+  background: transparent;
+  // Reset native padding
+  padding: 0;
+  min-height: 40rpx; // Match line-height
+  align-self: center; // Ensure it stays centered
+  margin: 0; // Reset any margins
+
+  &::placeholder {
+    color: @text-tertiary;
+  }
+}
+
+// Right icon row inside the input bubble (reference-style)
+.right-section {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 12rpx;
+  flex-shrink: 0;
+}
+
+@keyframes ib-fade-in {
+  0% {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.icon-new-session-left,
+.btn-clear,
+.btn-send {
+  width: 56rpx;
+  height: 56rpx; // Keep 56rpx for good touch target
+  flex-shrink: 0;
+  display: block;
+  // Keep icons always visible. Some MiniProgram runtimes are flaky with
+  // opacity+animation on mount; prefer a stable baseline.
+  opacity: 1;
+  transform: none;
+  animation: none;
+}
+
+.icon-new-session-left:active,
+.btn-clear:active,
+.btn-send:active {
+  transform: scale(0.92);
+}
+
+.icon-new-session-left.disabled,
+.btn-clear.disabled {
+  opacity: 0.35;
+  animation: none;
+  transform: none;
+}
+
+.icon-new-session-left.disabled:active,
+.btn-clear.disabled:active,
+.btn-send.disabled:active {
+  transform: none;
+}
+
+// Disabled send should still be clearly visible (icon already indicates state).
+.btn-send.disabled {
+  opacity: 0.85;
+  animation: none;
+  transform: none;
+}
+
+// New session icon (left side): use a subtle pill background to keep it readable
+.icon-new-session-left {
+  border-radius: 50%; // Make it perfectly round
+  background: #FFFFFF;
+  border: 1rpx solid rgba(0, 0, 0, 0.06);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+// Plus glyph for "new session" button (no external image dependency).
+.icon-plus {
+  width: 28rpx;
+  height: 28rpx;
+  background:
+    linear-gradient(@brand-color-deep, @brand-color-deep) center / 4rpx 28rpx no-repeat,
+    linear-gradient(@brand-color-deep, @brand-color-deep) center / 28rpx 4rpx no-repeat;
+}
+
+.btn-clear {
+  width: 44rpx; // Slightly smaller than container but clear
+  height: 44rpx;
+  opacity: 0.6; // Subtle by default
+}
+
+.btn-send {
+  width: 56rpx; // Prominent send button
+  height: 56rpx;
+}
+
+.btn-send.disabled {
+  opacity: 0.3; // Disabled state opacity
+}
+
+// === Scroll to Bottom Button ===
+
+.scroll-to-bottom-btn {
+  position: fixed;
+  left: 50%;
+  width: 64rpx; // Slightly larger for better touch target
+  height: 64rpx;
+  z-index: 2;
+  opacity: 0;
+  transform: translate(-50%, 0) scale(0.8);
+  transition: opacity 180ms ease, transform 180ms ease;
+  pointer-events: none;
+
+  // Container styling
+  background: #ffffff;
+  border-radius: 50%;
+  box-shadow: 0 4rpx 16rpx rgba(0, 0, 0, 0.15);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  .icon {
+    width: 32rpx;
+    height: 32rpx;
+  }
+}
+
+.scroll-to-bottom-btn.show {
+  opacity: 1;
+  transform: translate(-50%, 0) scale(1);
+  pointer-events: auto;
+}
+
+.scroll-to-bottom-btn.hide {
+  opacity: 0;
+  transform: translate(-50%, 0) scale(0.8);
+  pointer-events: none;
+}

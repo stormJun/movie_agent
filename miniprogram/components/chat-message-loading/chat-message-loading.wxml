@@ -1,0 +1,13 @@
+<view class="chat-message-loading">
+  <view class="chat-message-loading__avatar">
+    <image src="/assets/ai-avatar.png" mode="aspectFill"></image>
+  </view>
+  <view class="chat-message-loading__content">
+    <view wx:if="{{tip}}" class="chat-message-loading__tip">{{tip}}</view>
+    <view class="chat-message-loading__dots">
+      <view class="dot"></view>
+      <view class="dot"></view>
+      <view class="dot"></view>
+    </view>
+  </view>
+</view>

@@ -5,6 +5,7 @@ import time
 from typing import Any, AsyncGenerator, Optional
 
 from application.chat.conversation_graph import ConversationGraphRunner
+from application.chat.handlers.answer_utils import CitationStreamStripper, strip_citation_block
 from application.chat.memory_service import MemoryService
 from application.chat.watchlist_capture_service import WatchlistCaptureService
 from application.handlers.factory import KnowledgeBaseHandlerFactory
@@ -142,6 +143,7 @@ class StreamHandler:
 
         # ===== 阶段 3：调用对话图（route → recall → retrieval_subgraph → generate）=====
         tokens: list[str] = []
+        citation_stripper = CitationStreamStripper()
         reference: dict[str, Any] | None = None
         completed_normally = False
         pending_done_event: dict[str, Any] | None = None
@@ -160,9 +162,17 @@ class StreamHandler:
                 "current_user_message_id": current_user_message_id,
             }
         ):
-            # 累积 token（用于后续持久化）
+            # 累积 token（用于后续持久化），并剥离“引用数据”尾段
             if isinstance(event, dict) and event.get("status") == "token":
-                tokens.append(str(event.get("content") or ""))
+                chunk = str(event.get("content") or "")
+                filtered = citation_stripper.feed(chunk)
+                if filtered:
+                    tokens.append(filtered)
+                    if filtered != chunk:
+                        event = dict(event)
+                        event["content"] = filtered
+                    yield event
+                continue
 
             # 引用信息（用于落库绑定 assistant_message_id；不透传给 SSE）
             if isinstance(event, dict) and event.get("status") == "reference":
@@ -175,6 +185,10 @@ class StreamHandler:
             if isinstance(event, dict) and event.get("status") == "done":
                 # Delay the terminal "done" until we've persisted messages and
                 # emitted any post-turn UX events (e.g., watchlist auto-capture).
+                tail = citation_stripper.flush()
+                if tail:
+                    tokens.append(tail)
+                    yield {"status": "token", "content": tail}
                 completed_normally = True
                 pending_done_event = event
                 break
@@ -189,7 +203,7 @@ class StreamHandler:
             raise RuntimeError("stream ended without tokens or done event")
 
         # ===== 阶段 4：持久化助手消息 =====
-        answer = "".join(tokens).strip()
+        answer = strip_citation_block("".join(tokens).strip())
         if not answer:
             # 正常完成但答案为空：把 placeholder 标记为 completed，避免历史窗口一直出现 incomplete 记录。
             if completed_normally:

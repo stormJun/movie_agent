@@ -1,0 +1,94 @@
+<view class="chat-message {{role}} {{theme}}">
+  <!-- Assistant Avatar (only for assistant messages) -->
+  <view wx:if="{{role === 'assistant'}}" class="chat-message__avatar">
+    <image class="chat-message__avatar-img" src="/assets/ai-avatar.png" mode="aspectFill"></image>
+  </view>
+
+  <!-- Message Content -->
+  <view class="chat-message__content">
+    <!-- Message Bubble -->
+    <view class="chat-message__bubble">
+      <!-- Assistant: Use Markdown rendering -->
+      <block wx:if="{{role === 'assistant'}}">
+        <wemark md="{{text}}" selectable="{{true}}" highlight="{{true}}" type="wemark" />
+      </block>
+      <!-- User: Use plain text -->
+      <block wx:else>
+        <text selectable="{{true}}" user-select="{{true}}">{{text}}</text>
+      </block>
+    </view>
+
+    <!-- Feedback actions (assistant only; needs messageId to post to backend) -->
+    <view wx:if="{{role === 'assistant' && messageId}}" class="chat-message__actions">
+      <view
+        class="chat-message__action {{feedback === 'positive' ? 'active' : ''}}"
+        data-action="up"
+        bindtap="onTapFeedback">
+        赞
+      </view>
+      <view
+        class="chat-message__action {{feedback === 'negative' ? 'active' : ''}}"
+        data-action="down"
+        bindtap="onTapFeedback">
+        踩
+      </view>
+    </view>
+
+    <!-- Movie cards (linked to citations/references) -->
+    <view wx:if="{{movieCards && movieCards.length}}" class="chat-message__cards">
+      <view wx:if="{{movieCardsTitle}}" class="chat-message__cards-title">{{movieCardsTitle}}</view>
+      <!-- Horizontal scroll with "click vs swipe" handled via touch threshold. -->
+      <scroll-view
+        class="chat-message__cards-scroll"
+        scroll-x="true"
+        show-scrollbar="{{false}}"
+        enhanced="{{true}}"
+        bounces="{{true}}"
+        scroll-with-animation="{{true}}"
+        enable-flex="{{true}}">
+        <view class="chat-message__cards-row">
+          <view
+            wx:for="{{movieCards}}"
+            wx:key="tmdb_id"
+            class="chat-message__card"
+            catchtouchstart="onMovieTouchStart"
+            catchtouchend="onMovieTouchEnd"
+            data-id="{{item.tmdb_id}}">
+            <image class="chat-message__poster" mode="aspectFill" src="{{item.poster_url}}"></image>
+            <view class="chat-message__meta">
+              <view class="chat-message__title">{{item.title}}</view>
+              <view class="chat-message__sub">{{item.year || ''}} {{item.directors && item.directors.length ? ('· ' + item.directors[0]) : ''}}</view>
+            </view>
+          </view>
+        </view>
+      </scroll-view>
+    </view>
+
+    <!-- Suggestion Questions -->
+    <view wx:if="{{suggestions && suggestions.length}}" class="chat-message__suggestions">
+      <view
+        wx:for="{{suggestions}}"
+        wx:key="index"
+        wx:for-item="suggestion"
+        class="chat-message__suggestion-item"
+        bindtap="onTapSuggestion"
+        data-text="{{suggestion}}">
+        {{suggestion}}
+      </view>
+    </view>
+  </view>
+
+  <!-- Status (for user messages) -->
+  <view
+    wx:if="{{role === 'user' && showStatus}}"
+    class="chat-message__status"
+    bindtap="onTapStatus">
+    <image
+      wx:if="{{statusIcon}}"
+      class="chat-message__status-icon {{statusSpinning ? 'is-spinning' : ''}}"
+      src="{{statusIcon}}"
+      mode="aspectFit">
+    </image>
+    <text wx:if="{{statusText}}" class="chat-message__status-text {{statusType}}">{{statusText}}</text>
+  </view>
+</view>

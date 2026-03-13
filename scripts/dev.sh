@@ -15,6 +15,7 @@ BACKEND_PID_FILE="${BACKEND_PID_FILE:-"$ROOT_DIR/logs/backend-${BACKEND_PORT}.pi
 FRONTEND_PORT="${FRONTEND_PORT:-5174}"
 FRONTEND_LOG="${FRONTEND_LOG:-"$ROOT_DIR/logs/frontend-react-vite.log"}"
 FRONTEND_PID_FILE="${FRONTEND_PID_FILE:-"$ROOT_DIR/logs/frontend-react-${FRONTEND_PORT}.pid"}"
+LANGFUSE_PREFLIGHT_SCRIPT="${LANGFUSE_PREFLIGHT_SCRIPT:-"$ROOT_DIR/scripts/langfuse_preflight.sh"}"
 
 PYTHON_BIN="${PYTHON_BIN:-"$ROOT_DIR/.venv/bin/python3"}"
 if [ ! -x "$PYTHON_BIN" ]; then
@@ -187,12 +188,13 @@ status() {
 
 usage() {
   cat <<EOF
-Usage: $(basename "$0") [start|backend|frontend|stop|restart|status]
+Usage: $(basename "$0") [start|backend|frontend|langfuse|stop|restart|status]
 
 Targets:
   start      launch backend + frontend (default)
   backend    launch uvicorn only
   frontend   launch Vite dev server only
+  langfuse   run langfuse dependency preflight + health check
   stop       stop backend + frontend
   restart    restart backend + frontend
   status     show backend/frontend status
@@ -207,6 +209,10 @@ Environment knobs:
   FRONTEND_PID_FILE (default logs/frontend-react-<port>.pid)
   PYTHON_BIN (default .venv/bin/python3 if present, else python3)
   NPM_BIN (default npm on PATH)
+  LANGFUSE_PREFLIGHT_SCRIPT (default scripts/langfuse_preflight.sh)
+  LANGFUSE_COMPOSE_FILE (default docker/docker-compose.langfuse.yml)
+  LANGFUSE_HEALTH_URL (default http://127.0.0.1:3000/api/public/health)
+  LANGFUSE_WAIT_SECONDS (default 60)
 EOF
 }
 
@@ -221,6 +227,13 @@ case "$cmd" in
     ;;
   frontend)
     start_frontend
+    ;;
+  langfuse)
+    if [ ! -x "$LANGFUSE_PREFLIGHT_SCRIPT" ]; then
+      echo "langfuse preflight script is missing or not executable: $LANGFUSE_PREFLIGHT_SCRIPT" >&2
+      exit 1
+    fi
+    "$LANGFUSE_PREFLIGHT_SCRIPT"
     ;;
   stop)
     stop_frontend

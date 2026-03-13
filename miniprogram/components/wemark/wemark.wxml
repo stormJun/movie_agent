@@ -1,0 +1,43 @@
+<view class="wemark_wrapper" class="external-class">
+<block wx:for="{{parsedData}}" wx:key="blockIndex" wx:for-index="blockIndex" wx:for-item="renderBlock">
+	<!-- 表格标记，使用rich-text渲染 -->
+	<view class="wemark_block_table_container" wx:if="{{renderBlock.type === 'table_marker'}}">
+		<!-- <scroll-view class="wemark_table_scroll" scroll-x="{{true}}" enhanced="{{true}}" show-scrollbar="{{true}}"> -->
+			<rich-text class="wemark_wrapper_richtext" nodes="{{[tableRichTextNodes[renderBlock.tableIndex]]}}" />
+		<!-- </scroll-view> -->
+	</view>
+
+	<!-- 其他元素使用原来的渲染方式 -->
+    <text wx:else class="wemark_block_{{renderBlock.type}}" style="display: block;" user-select="{{selectable}}">
+		<block wx:if="{{renderBlock.isArray}}" wx:for="{{renderBlock.content}}" wx:key="inlineIndex" wx:for-index="inlineIndex" wx:for-item="renderInline">
+			<block wx:if="{{renderInline.type === 'text'}}">{{renderInline.content}}</block>
+			<text class="wemark_inline_{{renderInline.type}}" user-select="{{selectable}}" wx:if="{{renderInline.type !== 'text' || renderInline.type === 'code' || renderInline.type === 'strong' || renderInline.type === 'strong_em' || renderInline.type === 'deleted' || renderInline.type === 'em' || renderInline.type === 'table_th' || renderInline.type === 'table_td'}}">{{renderInline.content}}</text>
+			<!-- 代码高亮 -->
+			<text class="wemark_inline_code_{{renderInline.type}}" user-select="{{selectable}}" wx:if="{{renderInline.type&&renderBlock.highlight}}">{{renderInline.content}}</text>
+
+            <text class="wemark_inline_code_text" user-select="{{selectable}}" wx:if="{{!renderInline.type}}">{{renderInline}}</text>
+
+			<!-- 显示链接 -->
+			<text class="wemark_inline_link" wx:if="{{renderInline.type === 'link'}}">{{renderInline.data.href}}</text>
+
+			<!-- 显示图片 -->
+			<!-- <image class="wemark_inline_image" src="{{renderInline.src}}" wx:if="{{renderInline.type === 'image'}}"></image> -->
+		</block>
+		<block wx:if="{{!renderBlock.isArray}}">
+			<text class="wemark_block_code_content" user-select="{{selectable}}" wx:if="{{renderBlock.type === 'code'}}">{{renderBlock.content}}</text>
+			<!-- <video wx:if="{{renderBlock.type == 'video'}}" class="wemark_block_video" src="{{renderBlock.src}}" poster="{{renderBlock.poster}}" controls></video> -->
+			<text class="wemark_inline_link" wx:if="{{renderBlock.type == 'video'}}">{{renderBlock.src}}</text>
+		</block>
+	</text>
+
+	<!-- 图片特殊处理 -->
+	<view class="wemark_block_image_container">
+		<block wx:if="{{renderBlock.isArray}}" wx:for="{{renderBlock.content}}" wx:key="inlineIndex" wx:for-index="inlineIndex" wx:for-item="renderInline">
+			<image wx:if="{{renderInline.type === 'image'}}" class="wemark_inline_image" src="{{renderInline.src}}" />
+		</block>
+	</view>
+</block>
+
+<!-- 保留原有的rich-text模式，但默认不使用 -->
+<rich-text class="wemark_wrapper_richtext" wx:if="{{type === 'rich-text'}}" nodes="{{richTextNodes}}"></rich-text>
+</view>

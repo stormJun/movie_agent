@@ -1,0 +1,55 @@
+<view class="page">
+  <!-- Always render the custom nav bar; when the detail fetch fails, users still need a visible back button. -->
+  <navigation-bar
+    title="电影详情"
+    back="{{true}}"
+    background="{{movie ? 'rgba(0,0,0,0.35)' : '#ffffff'}}"
+    color="{{movie ? '#FFFFFF' : '#1D2433'}}">
+  </navigation-bar>
+
+  <scroll-view
+    wx:if="{{movie}}"
+    class="movie-detail-scroll"
+    scroll-y="{{true}}"
+    enhanced="{{true}}"
+    show-scrollbar="{{false}}"
+    bounces="{{true}}"
+    scroll-with-animation="{{true}}"
+    style="height: 100vh; padding-bottom: calc(32rpx + constant(safe-area-inset-bottom)); padding-bottom: calc(32rpx + env(safe-area-inset-bottom));">
+    <image class="backdrop" mode="aspectFill" src="{{movie.backdrop_url || movie.poster_url}}"></image>
+    <view class="backdrop-overlay"></view>
+    <view class="sheet">
+      <view class="row">
+        <image class="poster" mode="aspectFill" src="{{movie.poster_url}}"></image>
+        <view class="info">
+        <view class="title">{{movie.title}}</view>
+        <view class="sub">
+            <text wx:if="{{movie.meta_text}}">{{movie.meta_text}}</text>
+          </view>
+          <view class="sub" wx:if="{{movie.directors_text}}">
+            导演：{{movie.directors_text}}
+          </view>
+          <view class="sub" wx:if="{{movie.genres_text}}">
+            类型：{{movie.genres_text}}
+          </view>
+        </view>
+      </view>
+
+      <view class="section" wx:if="{{movie.overview}}">
+        <view class="h">剧情简介</view>
+        <view class="p">{{movie.overview}}</view>
+      </view>
+
+      <view class="section" wx:if="{{movie.top_cast && movie.top_cast.length}}">
+        <view class="h">主演</view>
+        <view class="chips">
+          <view wx:for="{{movie.top_cast}}" wx:key="*this" class="chip">{{item}}</view>
+        </view>
+      </view>
+    </view>
+  </scroll-view>
+
+  <view wx:else class="empty">
+    <text>{{errorText || '加载中...'}}</text>
+  </view>
+</view>

@@ -1,0 +1,41 @@
+<view class="page">
+  <!-- Fixed background layer -->
+  <view class="page-bg"></view>
+
+  <!-- Floating nav bar for immersive scrolling -->
+  <navigation-bar
+    title="发现"
+    back="{{false}}"
+    background="transparent"
+    color="#111111"
+    disablePlaceholderHeight="{{true}}">
+  </navigation-bar>
+
+  <scroll-view
+    class="list"
+    scroll-y="{{true}}"
+    enhanced="{{true}}"
+    show-scrollbar="{{false}}"
+    bounces="{{false}}"
+    scroll-with-animation="{{true}}"
+    bindscrolltolower="onLoadMore"
+    style="height: 100vh; padding-bottom:calc(24rpx + constant(safe-area-inset-bottom)); padding-bottom:calc(24rpx + env(safe-area-inset-bottom));">
+    <!-- Sticky header inside scroll-view; padding-top ensures tabs sit below the floating nav bar. -->
+    <view class="header header-sticky" style="padding-top: {{navBarHeight}}px;">
+      <view class="tabs">
+        <view class="tab {{feedType==='popular'?'active':''}}" bindtap="onSwitch" data-type="popular">热门</view>
+        <view class="tab {{feedType==='now_playing'?'active':''}}" bindtap="onSwitch" data-type="now_playing">近期</view>
+        <view class="tab {{feedType==='upcoming'?'active':''}}" bindtap="onSwitch" data-type="upcoming">即将</view>
+      </view>
+    </view>
+    <view class="grid">
+      <view wx:for="{{items}}" wx:key="tmdb_id" class="item" bindtap="onTapMovie" data-id="{{item.tmdb_id}}">
+        <image class="poster" mode="aspectFill" src="{{item.poster_url}}"></image>
+        <view class="title">{{item.title}}</view>
+        <view class="sub" wx:if="{{item.meta_text}}">{{item.meta_text}}</view>
+      </view>
+    </view>
+    <view class="footer" wx:if="{{!loading && !items.length && errorText}}">{{errorText}}</view>
+    <view class="footer" wx:if="{{loading}}">加载中...</view>
+  </scroll-view>
+</view>

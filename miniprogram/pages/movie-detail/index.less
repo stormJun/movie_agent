@@ -1,0 +1,152 @@
+@import '../../assets/styles/common.less';
+
+.page {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background: @bg-page;
+  position: relative;
+}
+
+.movie-detail-scroll {
+  position: relative;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+// === Hero Section ===
+
+.backdrop {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 480rpx;
+  z-index: 0;
+  filter: blur(0);
+}
+
+.backdrop-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 480rpx;
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.3) 0%,
+    rgba(0, 0, 0, 0.6) 100%
+  );
+  z-index: 1;
+}
+
+.sheet {
+  position: relative;
+  z-index: 2;
+  padding: 360rpx @base-padding-width @spacing-xl;
+  margin-top: -120rpx; // Pull up to overlap backdrop
+  background: @bg-page;
+}
+
+.row {
+  display: flex;
+  margin-bottom: @spacing-lg;
+}
+
+.poster {
+  width: 240rpx;
+  height: 320rpx;
+  border-radius: @movie-card-radius;
+  background: @bg-card;
+  box-shadow: @shadow-lg;
+  flex-shrink: 0;
+}
+
+.info {
+  flex: 1;
+  margin-left: @spacing-lg;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding-bottom: @spacing-xs;
+}
+
+.title {
+  font-size: @font-size-xl;
+  font-weight: 600;
+  color: @text-primary;
+  line-height: @line-height-relaxed;
+  .ellipsis-multi(2);
+  margin-bottom: @spacing-sm;
+}
+
+.sub {
+  font-size: @font-size-sm;
+  color: @text-secondary;
+  line-height: @line-height-tight;
+  margin-top: @spacing-xs;
+
+  text {
+    margin-right: @spacing-xs;
+  }
+}
+
+// === Info Section Cards ===
+
+.section {
+  background: @bg-card;
+  border-radius: @card-border-radius;
+  padding: @spacing-lg @base-padding-width;
+  margin-bottom: @spacing-md;
+  box-shadow: @shadow-sm;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.h {
+  font-size: @font-size-md;
+  font-weight: 600;
+  color: @text-primary;
+  margin-bottom: @spacing-md;
+  line-height: @line-height-base;
+}
+
+.p {
+  font-size: @font-size-base;
+  color: @text-secondary;
+  line-height: @line-height-relaxed;
+  .ellipsis-multi(6);
+}
+
+// === Chips for Cast/Genres ===
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: @spacing-sm;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  padding: @spacing-xs @spacing-md;
+  background: @bg-page;
+  border-radius: @base-border-radius;
+  font-size: @font-size-sm;
+  color: @text-primary;
+  line-height: @line-height-tight;
+}
+
+// === Empty State ===
+
+.empty {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: @bg-page;
+  color: @text-secondary;
+  font-size: @font-size-base;
+}

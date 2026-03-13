@@ -1,0 +1,89 @@
+/**
+ * Global Design Tokens for Movie Agent Miniprogram
+ * Reference: /Users/songxijun/workspace/miniprogram/miniprogram/miniprogram/assets/styels/common-var.less
+ */
+
+// === Brand Colors ===
+@brand-color: #5D45FA; // Primary brand color (purple)
+@brand-color-hover: #7D65FF; // Hover state
+@brand-color-light: rgba(93, 69, 250, 0.1); // Light variant for backgrounds
+@brand-color-deep: #402EBF; // Deeper blue for icons
+
+// === Semantic Colors ===
+@text-primary: rgba(0, 0, 0, 0.87); // Primary text (#1D2433 for dark mode)
+@text-secondary: rgba(0, 0, 0, 0.6); // Secondary text (#646F88)
+@text-tertiary: rgba(0, 0, 0, 0.4); // Tertiary text
+@text-inverse: #FFFFFF; // White text on colored backgrounds
+
+@bg-page: #F7F8FA; // Page background
+@bg-card: #FFFFFF; // Card background
+@bg-placeholder: #f2f2f2; // Placeholder/image loading background
+
+@border-color: rgba(0, 0, 0, 0.08); // Light border
+@border-color-light: #eee; // Very light border (for dividers)
+@border-color-medium: rgba(0, 0, 0, 0.15); // Medium border
+
+@danger-color: #D92D20; // Error/danger state
+@success-color: #12B76A; // Success state
+@warning-color: #F59E0B; // Warning state
+
+// === Chat Message Colors ===
+@chat-bubble-user: @brand-color; // User message background
+@chat-bubble-user-text: @text-inverse; // User message text
+@chat-bubble-assistant: @bg-card; // Assistant message background
+@chat-bubble-assistant-text: @text-primary; // Assistant message text
+
+// === Spacing ===
+@base-padding-width: 32rpx; // Page left/right padding
+@base-margin-width: 32rpx; // Page left/right margin
+@spacing-xs: 8rpx;
+@spacing-sm: 12rpx;
+@spacing-md: 16rpx;
+@spacing-lg: 24rpx;
+@spacing-xl: 32rpx;
+
+// === Border Radius ===
+@base-border-radius: 12rpx; // Base radius
+@card-border-radius: 24rpx; // Card radius
+@button-border-radius: 16rpx; // Button radius
+@bubble-border-radius: 16rpx; // Message bubble radius
+
+// === Typography ===
+@font-size-xs: 22rpx; // Small text
+@font-size-sm: 24rpx; // Secondary text
+@font-size-base: 28rpx; // Body text
+@font-size-md: 30rpx; // Medium text
+@font-size-lg: 32rpx; // Large text
+@font-size-xl: 34rpx; // Extra large text
+@font-size-xxl: 36rpx; // Title
+
+@line-height-tight: 36rpx;
+@line-height-base: 40rpx;
+@line-height-relaxed: 44rpx;
+
+// === Component Dimensions ===
+@button-height: 72rpx;
+@button-height-sm: 56rpx;
+@input-height: 72rpx;
+@nav-bar-height: 88rpx;
+@tab-bar-height: 100rpx;
+
+// Movie Card Dimensions
+@movie-card-width: 240rpx;
+@movie-card-height: 320rpx; // 3:4 aspect ratio
+@movie-card-radius: 24rpx;
+
+// === Shadows ===
+@shadow-sm: 0 2rpx 8rpx rgba(0, 0, 0, 0.04);
+@shadow-md: 0 4rpx 16rpx rgba(0, 0, 0, 0.08);
+@shadow-lg: 0 8rpx 24rpx rgba(0, 0, 0, 0.12);
+
+// === Z-index ===
+@z-base: 1;
+@z-dropdown: 10;
+@z-sticky: 50;
+@z-fixed: 100;
+@z-modal-backdrop: 500;
+@z-modal: 600;
+@z-popover: 700;
+@z-tooltip: 800;

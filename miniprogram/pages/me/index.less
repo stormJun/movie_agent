@@ -1,0 +1,139 @@
+@import '../../assets/styles/common-var.less';
+
+page {
+  height: 100%;
+  background: @bg-page;
+}
+
+.page {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background: transparent;
+  padding-bottom: @spacing-xl;
+  box-sizing: border-box;
+}
+
+// === Card Styles ===
+
+.card {
+  background: @bg-card;
+  border-radius: @card-border-radius;
+  padding: @spacing-lg @base-padding-width;
+  margin: @spacing-md @base-padding-width;
+  box-shadow: @shadow-sm;
+}
+
+.card-title {
+  font-size: @font-size-lg;
+  font-weight: 600;
+  color: @text-primary;
+  margin-bottom: @spacing-lg;
+}
+
+// === Info Row Styles ===
+
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 88rpx;
+  position: relative;
+
+  // Bottom border
+  &::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 1rpx;
+    background-color: @border-color;
+    transform: scaleY(0.5);
+  }
+
+  &:last-child::after {
+    display: none;
+  }
+}
+
+.row-label {
+  flex: 1;
+  font-size: @font-size-base;
+  color: @text-primary;
+  line-height: @line-height-base;
+}
+
+.row-value {
+  flex: 2;
+  text-align: right;
+  font-size: @font-size-sm;
+  color: @text-secondary;
+  line-height: @line-height-base;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.row-arrow {
+  margin-left: @spacing-sm;
+  color: @text-tertiary;
+  font-size: @font-size-sm;
+}
+
+// === Button Styles ===
+
+.btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: @button-height;
+  border-radius: @button-border-radius;
+  font-size: @font-size-base;
+  font-weight: 500;
+  margin-top: @spacing-md;
+  transition: all 0.2s ease;
+
+  &.btn-primary {
+    background: @brand-color;
+    color: @text-inverse;
+
+    &:active {
+      background: @brand-color-hover;
+    }
+  }
+
+  &.btn-plain {
+    background: transparent;
+    color: @brand-color;
+    border: 2rpx solid @brand-color;
+
+    &:active {
+      background: @brand-color-light;
+    }
+  }
+
+  &.btn-danger {
+    background: transparent;
+    color: @danger-color;
+    border: 2rpx solid @danger-color;
+
+    &:active {
+      background: rgba(217, 45, 32, 0.06);
+    }
+  }
+}
+
+// === Section Header ===
+
+.section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: @spacing-lg @base-padding-width @spacing-sm;
+  font-size: @font-size-sm;
+  color: @text-secondary;
+  text-transform: uppercase;
+  letter-spacing: 0.5rpx;
+}

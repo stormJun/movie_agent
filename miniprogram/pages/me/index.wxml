@@ -1,0 +1,38 @@
+<view class="page">
+  <navigation-bar title="我的" back="{{false}}" background="#F7F8FA" color="#1D2433"></navigation-bar>
+
+  <!-- About Card -->
+  <view class="card">
+    <view class="card-title">关于</view>
+    <view class="row">
+      <view class="row-label">小程序版本</view>
+      <view class="row-value">1.0.0 (MVP)</view>
+    </view>
+  </view>
+
+  <!-- Environment Card -->
+  <view class="card">
+    <view class="card-title">环境与接口</view>
+    <view class="row" bindtap="onCopyUserId">
+      <view class="row-label">用户ID</view>
+      <view class="row-value">{{shortUserId}}</view>
+      <view class="row-arrow">›</view>
+    </view>
+    <view class="row" bindtap="onCopySessionId">
+      <view class="row-label">会话ID</view>
+      <view class="row-value">{{shortSessionId}}</view>
+      <view class="row-arrow">›</view>
+    </view>
+    <view class="row" bindtap="onCopyBaseUrl">
+      <view class="row-label">API地址</view>
+      <view class="row-value">{{baseUrl}}</view>
+      <view class="row-arrow">›</view>
+    </view>
+  </view>
+
+  <!-- Session Management Card -->
+  <view class="card">
+    <view class="card-title">会话管理</view>
+    <view class="btn btn-danger" bindtap="onResetSession">清空当前会话</view>
+  </view>
+</view>

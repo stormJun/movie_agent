@@ -1,0 +1,129 @@
+@import './common-var.less';
+
+/**
+ * Common Button Mixins for Movie Agent Miniprogram
+ * Reference: /Users/songxijun/workspace/miniprogram/miniprogram/miniprogram/assets/styels/common-btn.less
+ */
+
+// Clear default button styles
+.zh-btn-reset() {
+  border: none;
+  background: none;
+  padding: 0;
+  margin: 0;
+}
+
+/**
+ * Common button style
+ * @param @height: Button height
+ */
+.zh-common-btn(@height: 100rpx) {
+  padding: 0 52rpx;
+  height: @height;
+  line-height: @height;
+  border-radius: @height;
+  color: #FFFFFF;
+  background: @brand-color;
+  font-size: @font-size-base;
+  font-weight: 500;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.1s ease;
+
+  &:active {
+    background: @brand-color-hover;
+    transform: scale(0.95);
+    transition: transform 0.2s ease;
+  }
+
+  &.disabled {
+    background: rgba(255, 255, 255, 0.1);
+    color: rgba(255, 255, 255, 0.3);
+  }
+
+  &[disabled] {
+    background: #CCCCCC;
+    color: #FFFFFF;
+  }
+
+  &[disabled]:not([type]) {
+    color: white;
+    background: #CCCCCC;
+  }
+
+  // Plain button style
+  &.plain {
+    background: #FFFFFF;
+    color: @brand-color;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2rpx solid @brand-color;
+
+    &:active {
+      background: rgba(231, 231, 231, 1);
+    }
+  }
+
+  &.transparent {
+    .zh-common-btn-transparent(@height);
+  }
+
+  &.dark {
+    .zh-common-btn-dark();
+  }
+}
+
+.zh-common-btn-transparent(@height: 88rpx) {
+  border: 2rpx solid white;
+  color: white;
+  background: transparent;
+
+  &:active {
+    background: rgba(255, 255, 255, 0.1);
+    transform: scale(0.95);
+    transition: transform 0.2s ease;
+  }
+}
+
+/**
+ * Common button style - Dark mode
+ */
+.zh-common-btn-dark() {
+  --disabled-bg-color: rgba(255, 255, 255, 0.7);
+  --disabled-txt-color: rgba(0, 0, 0, 0.3);
+
+  background: #FFFFFF;
+  color: rgba(21, 0, 80, 1);
+
+  &:active {
+    background: rgba(231, 231, 231, 1);
+  }
+
+  &.disabled {
+    background: var(--disabled-bg-color);
+    color: var(--disabled-txt-color);
+  }
+
+  &[disabled] {
+    background: var(--disabled-bg-color);
+    color: var(--disabled-txt-color);
+  }
+
+  &[disabled]:not([type]) {
+    background: var(--disabled-bg-color);
+    color: var(--disabled-txt-color);
+  }
+
+  &.plain {
+    background: transparent;
+    color: #FFFFFF;
+    border: 2rpx solid rgba(255, 255, 255, 0.3);
+
+    &:active {
+      background: rgba(255, 255, 255, 0.1);
+    }
+  }
+}

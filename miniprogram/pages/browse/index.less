@@ -1,0 +1,102 @@
+@import '../../assets/styles/common.less';
+
+.page {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+.page-bg {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  // Keep background aligned with sticky header to avoid "white gap" during scroll bounce.
+  background: #FFFFFF;
+  z-index: 0;
+}
+
+.header {
+  position: relative;
+  z-index: 1;
+  padding: 12rpx @base-padding-width 0;
+  border-bottom: 1rpx solid @border-color-light;
+  background: #FFFFFF;
+}
+
+.header-sticky {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.tabs {
+  display: flex;
+}
+
+.tab {
+  .tab-base();
+  padding: 16rpx 12rpx;
+  margin-right: 16rpx;
+  font-size: @font-size-sm;
+  color: @text-secondary;
+
+  &.active {
+    color: @brand-color;
+    font-weight: 600;
+
+    &::after {
+      background: @brand-color;
+    }
+  }
+}
+
+.list {
+  position: relative;
+  z-index: 1;
+  background: @bg-page;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  // Reduce the "blank strip" at the top when scrolling: keep side/bottom gutter only.
+  padding: 0 @spacing-sm @spacing-sm;
+}
+
+.item {
+  width: 50%;
+  padding: 8rpx;
+  box-sizing: border-box;
+}
+
+.poster {
+  width: 100%;
+  height: 420rpx;
+  border-radius: @movie-card-radius;
+  background: @bg-placeholder;
+}
+
+.title {
+  margin-top: 10rpx;
+  font-size: @font-size-xs;
+  color: @text-primary;
+  .ellipsis();
+}
+
+.sub {
+  margin-top: 4rpx;
+  font-size: 22rpx;
+  color: @text-secondary;
+  .ellipsis();
+}
+
+.footer {
+  padding: 18rpx 0 28rpx;
+  text-align: center;
+  font-size: @font-size-xs;
+  color: @text-secondary;
+}

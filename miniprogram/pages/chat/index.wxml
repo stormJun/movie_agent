@@ -1,0 +1,108 @@
+<view class="page">
+  <!-- Global background gradient -->
+  <view class="page-bg-gradient"></view>
+
+  <!-- Top gradient mask -->
+  <view class="chat-top-mask"></view>
+  <!-- Bottom gradient mask -->
+  <view class="chat-bottom-mask"></view>
+
+  <navigation-bar title="聊天" back="{{false}}" background="transparent" color="#1D2433" disablePlaceholderHeight="{{true}}"></navigation-bar>
+
+  <scroll-view
+    class="chat"
+    scroll-y="{{true}}"
+    scroll-with-animation="{{true}}"
+    scroll-top="{{scrollTop}}"
+    scroll-into-view="{{scrollIntoView}}"
+    bindscroll="onScroll"
+    enhanced="{{true}}"
+    bounces="{{true}}"
+    style="height: calc(100vh - {{navBarHeight}}px); padding-top: {{navBarHeight}}px;">
+    <!-- AI Assistant Messages -->
+    <block wx:for="{{messages}}" wx:key="idx">
+      <!-- Time divider -->
+      <view wx:if="{{idx > 0 && item.showTime}}" class="time-divider">
+        <view class="time-divider-line"></view>
+        <view class="time-divider-text">{{item.timeStr}}</view>
+        <view class="time-divider-line"></view>
+      </view>
+
+      <!-- Message Block -->
+      <chat-message
+        id="msg-{{idx}}"
+        role="{{item.role}}"
+        text="{{item.text}}"
+        suggestions="{{item.suggestions}}"
+        movie-cards="{{item.movie_cards}}"
+        movie-cards-title="{{item.movie_cards_title}}"
+        message-id="{{item.message_id}}"
+        thread-id="{{item.thread_id}}"
+        request-id="{{item.request_id}}"
+        agent-type="{{item.agent_type}}"
+        query="{{item.query}}"
+        feedback="{{item.feedback || 'none'}}"
+        theme="light"
+        bindsuggestion="onTapSuggestion"
+        bindfeedback="onFeedback"
+        bindmovie="onTapMovie">
+      </chat-message>
+    </block>
+
+    <!-- Loading Indicator -->
+    <chat-message-loading wx:if="{{showTyping}}" tip="{{loadingTip}}"></chat-message-loading>
+
+  </scroll-view>
+
+  <!-- Input Composer -->
+  <view class="composer" style="padding-bottom: calc(16rpx + constant(safe-area-inset-bottom)); padding-bottom: calc(16rpx + env(safe-area-inset-bottom));">
+    <view class="input-wrapper">
+      <!-- New session: placed on the left like "mode/action" icons in the reference project -->
+      <view
+        wx:if="{{messages.length}}"
+        class="icon-new-session-left {{loading ? 'disabled' : ''}}"
+        catchtap="onNewSession">
+        <view class="icon-plus"></view>
+      </view>
+      <textarea
+        class="input"
+        value="{{inputText}}"
+        placeholder="{{loading ? '正在回复中，请稍候…' : '问我电影/电视剧...'}}"
+        disabled="{{sending || loading}}"
+        bindinput="onInput"
+        bindfocus="onInputFocus"
+        bindblur="onInputBlur"
+        bindlinechange="onLineChange"
+        bindconfirm="onSend"
+        auto-height="{{inputText.length > 0 && inputLineCount < maxInputLineCount}}"
+        maxlength="500"
+        adjust-position="{{false}}"
+        cursor-spacing="10"
+        show-confirm-bar="{{false}}"
+        disable-default-padding="{{true}}"
+        confirm-type="send"
+        style="height: {{inputHeight}}rpx;"
+      />
+
+      <!-- Right actions (reference-style): compact icon row inside the input bubble -->
+      <view class="right-section">
+        <!-- Clear input text -->
+        <image wx:if="{{inputText.length && loading === false}}" class="btn-clear {{loading ? 'disabled' : ''}}" src="/assets/clear-icon.png" catchtap="onClear"></image>
+
+        <!-- Send -->
+        <!-- Send -->
+        <image class="btn-send {{loading || !inputText.trim() ? 'disabled' : ''}}" src="/assets/send-icon-blue.svg" catchtap="onSend"></image>
+      </view>
+    </view>
+  </view>
+
+  <!-- Scroll to bottom button -->
+  <!-- Scroll to bottom button -->
+  <view
+    class="scroll-to-bottom-btn {{showScrollToBottom ? 'show' : 'hide'}}"
+    style="bottom: calc(140rpx + constant(safe-area-inset-bottom)); bottom: calc(140rpx + env(safe-area-inset-bottom));"
+    bindtap="onScrollToBottom"
+    catchtouchmove="noop">
+    <image class="icon" src="/assets/arrow-down-double.svg" />
+  </view>
+</view>

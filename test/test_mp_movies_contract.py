@@ -59,7 +59,7 @@ class TestMpMoviesContract(unittest.TestCase):
 
     def test_movies_bulk_returns_tmdb_id_for_clickthrough(self) -> None:
         fake = _FakeTmdbStore()
-        with patch("server.api.rest.v1.mp_movies._get_tmdb_store", return_value=fake):
+        with patch("miniprogram.api.rest.v1.mp_movies._get_tmdb_store", return_value=fake):
             r = self.client.post("/api/v1/mp/movies/bulk", json={"ids": [1084242]})
         self.assertEqual(r.status_code, 200, r.text)
         payload = r.json()
@@ -71,7 +71,7 @@ class TestMpMoviesContract(unittest.TestCase):
 
     def test_movie_detail_has_required_fields(self) -> None:
         fake = _FakeTmdbStore()
-        with patch("server.api.rest.v1.mp_movies._get_tmdb_store", return_value=fake):
+        with patch("miniprogram.api.rest.v1.mp_movies._get_tmdb_store", return_value=fake):
             r = self.client.get("/api/v1/mp/movies/1084242")
         self.assertEqual(r.status_code, 200, r.text)
         payload = r.json()
@@ -84,4 +84,3 @@ class TestMpMoviesContract(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-

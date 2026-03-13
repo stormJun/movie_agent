@@ -1,11 +1,11 @@
 import uvicorn
 from fastapi import FastAPI
 from server.api_router import api_router
+from api_common.dependencies import shutdown_dependencies
 from config.database import get_db_manager, has_db_manager
 from config.settings import UVICORN_CONFIG
 from infrastructure.agents.rag_factory import rag_agent_manager as agent_manager
 from infrastructure.bootstrap import bootstrap_core_ports
-from server.api.rest.dependencies import shutdown_dependencies
 
 bootstrap_core_ports()
 

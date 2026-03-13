@@ -1,0 +1,32 @@
+<view class="page-layout">
+  <!-- Header slot (for nav bar, tabs, etc.) -->
+  <view class="page-layout__header">
+    <slot name="header"></slot>
+  </view>
+
+  <!-- Main scrollable content area -->
+  <scroll-view
+    id="pageLayoutScrollView"
+    class="page-layout__scroll-view"
+    scroll-y="{{true}}"
+    scroll-with-animation="{{true}}"
+    enhanced="{{true}}"
+    bounces="{{false}}"
+    style="{{customScrollStyle}}"
+    bind:scroll="onScroll"
+    bind:scrolltoupper="onScrollToUpper"
+    bind:scrolltolower="onScrollToLower"
+    upper-threshold="{{upperThreshold}}"
+    lower-threshold="{{lowerThreshold}}">
+    <view class="page-layout__content">
+      <slot name="content-header"></slot>
+      <slot></slot>
+      <slot name="content-footer"></slot>
+    </view>
+  </scroll-view>
+
+  <!-- Footer slot (for bottom bars, input areas, etc.) -->
+  <view class="page-layout__footer">
+    <slot name="footer"></slot>
+  </view>
+</view>

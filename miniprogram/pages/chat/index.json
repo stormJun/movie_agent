@@ -1,0 +1,9 @@
+{
+  "navigationStyle": "custom",
+  "disableScroll": true,
+  "usingComponents": {
+    "navigation-bar": "/components/navigation-bar/navigation-bar",
+    "chat-message": "/components/chat-message/chat-message",
+    "chat-message-loading": "/components/chat-message-loading/chat-message-loading"
+  }
+}

@@ -4,6 +4,7 @@ import dataclasses
 from typing import Any, Optional
 
 from application.chat.conversation_graph import ConversationGraphRunner
+from application.chat.handlers.answer_utils import strip_citation_block
 from application.chat.memory_service import MemoryService
 from application.chat.watchlist_capture_service import WatchlistCaptureService
 from application.handlers.factory import KnowledgeBaseHandlerFactory
@@ -118,7 +119,7 @@ class ChatHandler:
 
         # 3) 取出图的最终 response（防御：缺失时给空 answer），并序列化 route_decision 供 debug/存储使用
         graph_response = self._extract_graph_response(final_state)
-        answer = str(graph_response.get("answer") or "")
+        answer = strip_citation_block(str(graph_response.get("answer") or ""))
         route_decision_payload = self._serialize_route_decision(final_state)
 
         watchlist_added: list[dict[str, Any]] = []

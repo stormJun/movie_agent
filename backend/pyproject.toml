@@ -38,5 +38,6 @@ dependencies = [
 
 [tool.setuptools.packages.find]
 where = ["."]
-include = ["server*", "application*", "domain*", "infrastructure*", "config*"]
+namespaces = true
+include = ["server*", "admin*", "miniprogram*", "api_common*", "application*", "domain*", "infrastructure*", "config*"]
 exclude = ["graphrag_agent*", "cache*", "_archive*"]

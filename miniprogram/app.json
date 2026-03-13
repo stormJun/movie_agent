@@ -1,0 +1,57 @@
+{
+  "pages": [
+    "pages/chat/index",
+    "pages/browse/index",
+    "pages/me/index",
+    "pages/movie-detail/index"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "Movie Agent",
+    "navigationStyle": "custom"
+  },
+  "tabBar": {
+    "color": "#0A023E",
+    "selectedColor": "#5D45FA",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/chat/index",
+        "text": "聊天",
+        "iconPath": "assets/tab/chat.png",
+        "selectedIconPath": "assets/tab/chat_selected.png"
+      },
+      {
+        "pagePath": "pages/browse/index",
+        "text": "发现",
+        "iconPath": "assets/tab/browse.png",
+        "selectedIconPath": "assets/tab/browse_selected.png"
+      },
+      {
+        "pagePath": "pages/me/index",
+        "text": "我的",
+        "iconPath": "assets/tab/me.png",
+        "selectedIconPath": "assets/tab/me_selected.png"
+      }
+    ]
+  },
+  "preloadRule": {
+    "pages/browse/index": {
+      "network": "all",
+      "packages": []
+    }
+  },
+  "style": "v2",
+  "rendererOptions": {
+    "skyline": {
+      "defaultDisplayBlock": true,
+      "disableABTest": true,
+      "sdkVersionBegin": "3.0.0",
+      "sdkVersionEnd": "15.255.255"
+    }
+  },
+  "componentFramework": "glass-easel",
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents"
+}
